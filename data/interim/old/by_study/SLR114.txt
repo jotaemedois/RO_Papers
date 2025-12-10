@@ -1,0 +1,1749 @@
+Education, Socialization, and Political Trust
+
+Citation Mayne, Quinton and Armen Hakhverdian. "Education, Socialization, and Political Trust" in Handbook on Political Trust. Ed. Sonja Zmerli and Tom van der Meer. Edward Elgar Publishing, Forthcoming in 2016.
+
+Permanent link http://nrs.harvard.edu/urn-3:HUL.InstRepos:25290369
+
+Terms of Use This article was downloaded from Harvard University’s DASH repository, and is made available under the terms and conditions applicable to Other Posted Material, as set forth at http:// nrs.harvard.edu/urn-3:HUL.InstRepos:dash.current.terms-of-use#LAA
+
+Share Your Story
+
+The Harvard community has made this article openly available. Please share how this access benefits you. Submit a story .
+
+Accessibility
+
+1
+
+Chapter 11: Education, Socialization, and Political Trust1
+
+Quinton Mayne2 & Armen Hakhverdian3
+
+Forthcoming in Handbook on Political Trust, ed. Sonja Zmerli and Tom van der Meer
+
+Introduction
+
+It is almost a century since the publication of Democracy and Education, in which John Dewey
+
+extolled the potential of education to produce better citizens and better democracy. Since then
+
+and with the emergence of the field of political behavior, a great deal of empirical research has
+
+been undertaken aimed at uncovering education’s impact on the functioning of democracy. As a
+
+result, a large body of scholarship now exists on the effects of education on all manner of
+
+electoral and non-electoral behavior (Parry et al. 1992; Verba et al. 1995; Nie et al. 1996;
+
+Schlozman et al. 2012). In contrast, individual-level research on political trust has generally paid
+
+scant attention to education as an explanatory variable. This is not to say that education is absent
+
+from individual-level studies of political trust. Included as a standard demographic control,
+
+education is in fact a perennial variable in models of political trust, but until fairly recently its
+
+inclusion has been justified with little reflection. Moreover, as is often the case with standard
+
+control variables, results relating to the effects of education are generally noted only in passing.
+
+As a consequence, surveying the large body of existing individual-level research on political
+
+trust reveals little evidence of cumulative learning or any sense of collective understanding
+
+among scholars regarding the effects of education.4 To begin to understand the effects of
+
+2
+
+education on political trust therefore involves a certain amount of excavation, bringing to light a
+
+whole series of findings that have been more or less hidden from sight.
+
+This chapter is founded on the proposition that citizens grant or withhold political trust
+
+based on their evaluation of the performance of political actors and institutions. Within this
+
+broader so-called ‘rationalist’ framework of political trust, we focus on the norms and skills that
+
+citizens draw on to make informed judgments about institutional performance. These norms and
+
+skills do not emerge out of thin air; rather they are formed and cultivated over time. From early
+
+on, children, adolescents and young adults are exposed to a variety of environmental influences –
+
+schools, home life, and so on – that shape their personality, predispositions, abilities, and
+
+attitudes. In short, citizens are socialized into thinking and behaving in ways that may or may not
+
+lead to the generation of political trust. We understand political socialization as ‘society’s
+
+molding of the child’ (Sears 1975), and in the pages that follow we focus on the educational
+
+system as a site where a considerable part of this ‘molding’ takes place. More specifically,
+
+education has what we have previously labeled ‘accuracy-inducing’ and ‘norm-inducing’
+
+functions (Hakhverdian and Mayne 2012): the former enables citizens to obtain and make sense
+
+of information when evaluating political actors; with the latter citizens are more likely to be
+
+normatively troubled by evidence of institutional dysfunction.
+
+It is important to note though that schools and universities are but one agent of
+
+socialization. The family is critical too. Transmission of norms and values from parents to
+
+children has long been an important area of research within electoral studies, in part because
+
+partisan predispositions were early on shown to be passed from one generation to the next
+
+(Jennings and Niemi 1974). Whether or not a transmission model of parental socialization is
+
+applicable to other attitudes besides partisan attachments is less well understood. If norms and
+
+3
+
+skills are acquired more at home than at school, then there is good reason to doubt any account
+
+that suggests education as having a causal effect on political trust. We address this very issue in
+
+the latter part of this chapter.
+
+We begin with an overview of existing research that reports findings related to the
+
+individual-level effects of education on political trust. Mapping the results of this research
+
+suggests that the relationship between education and trust is context specific. We then turn to a
+
+review of earlier research in which we argue that the relationship between education and political
+
+trust is conditional on the performance of a country’s democratic institutions. This is followed by
+
+an overview of research that examines the role that schools and colleges play in generating
+
+political trust among adolescents and young adults. We conclude the chapter by drawing
+
+attention to a recent body of scholarship that calls into question the causal import of education,
+
+arguing instead that education should be viewed as a proxy for preadult socialization processes
+
+that occur largely outside of the educational environment.
+
+Unearthing patterns
+
+Systemically cataloguing the findings of research that relies on mass survey data, it appears that
+
+there is no consistent individual-level relationship between education and political trust. A large
+
+number of empirical studies suggest that education exerts a positive and statistically significant
+
+effect on political trust; an equally large body of work suggests the opposite. In a third set of
+
+studies, authors find that education and political trust are unrelated at conventional levels of
+
+statistical significance. These contradictory findings emerge without regard to the object of
+
+political trust – whether the analysis in question uses data for trust in a single political institution
+
+or a summative measure of trust in several political institutions. What does appear to coincide
+
+4
+
+with the nature of education’s effect is the type of country or countries in which survey data are
+
+collected.
+
+Table 11.1 contains bibliographic references to around forty separate publications on
+
+political trust. We have organized these based on whether they contain empirical analyses of data
+
+drawn from established democracies, new democracies, or a mix of the two.5 In classifying
+
+existing research in this way, a striking pattern becomes clear. In studies that find a statistically
+
+significant positive relationship between education and political trust, the data on political trust
+
+have overwhelmingly been gathered in high-income, consolidated democracies. Analyses that
+
+reveal a statistically significant negative relationship between education and political trust rely
+
+on survey data that come almost exclusively from new or consolidating democracies. Finally,
+
+studies that fail to establish a statistically significant relationship between education and political
+
+trust are more or less as likely to use data from old as new democracies.
+
+[Table 11.1. Relationship between education and political trust]
+
+These findings clearly suggest that the effect of education on political trust is context
+
+specific. But why, compared to their less educated counterparts, are more educated citizens
+
+generally more trusting of political institutions in long-standing democracies, while in new and
+
+consolidating democracies the opposite is largely true? This was the very question that we sought
+
+to shed light on in an earlier study (Hakhverdian and Mayne 2012). Using individual-level data
+
+on political trust from 13 Western European and eight Eastern and Central European
+
+democracies, collected in 2008-09 as part of Round 4 of the European Social Survey, we found
+
+clear evidence that the direction and magnitude of the effect of education on political trust was
+
+5
+
+conditional on the pervasiveness of public-sector corruption. In countries with low levels of
+
+corruption education boosts political trust, whereas in countries with comparatively high levels
+
+of corruption education dampens political trust. In addition, our analyses also showed evidence
+
+that education moderates the effect of corruption on political trust. Specifically, we found that
+
+the corrosive effect of corruption on political trust increases with individual-level education,
+
+except however for the least educated whose trust in political institutions appeared to be
+
+unaffected by corruption. A somewhat worrying finding from a democratic point of view, this
+
+suggests that some citizens (and arguably those with the fewest socio-economic advantages) are
+
+inured to corruption and other forms of systemic dysfunctionality.
+
+When we replicate our previous analyses with the most recent round of the European
+
+Social Survey, we reach similar conclusions. Figure 11.1 displays mean levels of political trust
+
+for higher and lower educated citizens alongside a country’s level of public sector corruption.6 In
+
+most countries the higher educated exhibit more trust in political institutions than the lower
+
+educated, but the strength and direction of this ‘trust gap’ clearly varies across countries. As
+
+countries become more corrupt, the trust gap becomes smaller, disappears altogether or even
+
+reverses in sign. Figure 11.2 shows that the relationship between this trust gap and a country’s
+
+level of public-sector corruption is quite strong. Institutional dysfunction is usually accompanied
+
+by strong feelings of distrust, especially among higher educated citizens. Similar patterns are
+
+found by Van der Meer and Hakhverdian (2015) using data from the European Values Study
+
+with another, larger sample of countries and different measures of political trust.
+
+[Figure 11.1 Education and political trust in Europe]
+
+[Figure 11.2 The education gap, corruption and political trust in Europe]
+
+6
+
+Our earlier study made the argument that we observe these interactive effects of
+
+education and corruption on political trust for two reasons. First, citizens grant or withhold
+
+political trust based on their evaluation of the performance of political actors and institutions.
+
+Second, citizens with more education are not only more likely to be better able to identify
+
+practices that undermine the smooth functioning of democratic institutions, they are also more
+
+likely to be normatively troubled by such practices.
+
+Rationalist evaluation
+
+Our first proposition regarding the interactive effects of education and corruption relies on a
+
+fundamentally rationalist account of political trust. In contrast to ‘culturalist’ understandings of
+
+political trust as something with deep socio-cultural roots, we view political trust through a
+
+‘rationalist’ lens as a primarily evaluative orientation (Hetherington 1998; Mishler and Rose
+
+2001). As such, our theoretical prior is that political trust is largely a product of popular
+
+judgment regarding the performance of political institutions. Put simply, ordinary citizens extend
+
+trust to political institutions that are working well and withhold trust from those that are not.
+
+From a rationalist point of view, political trust will therefore be driven in important ways by the
+
+extent to which a citizen believes political institutions are meeting the standards she sets for
+
+procedural and policy performance. This idea that political trust is fundamentally the product of
+
+a performance-based evaluation finds a great deal of support in the sizeable body of work that
+
+has examined the effects of public-sector corruption on attitudes related to political support.
+
+Time and again we see the corrosive effects of corruption on people’s trust in the actors and
+
+institutions of government (Mishler and Rose 2001; Seligson 2002; Anderson and Tverdova
+
+2003; Chang and Chu 2006; Hakhverdian and Mayne 2012; see also Chapter 19, by Uslaner).
+
+7
+
+What this literature highlights is that corruption undermines political trust in a number of
+
+different ways. On the one hand, it affects the procedural performance of political institutions; on
+
+the other hand, corruption makes it extremely difficult for governments to produce policies and
+
+services that are responsive to the general public (Warren 2004; Rothstein and Uslaner 2005).
+
+Accuracy and norms
+
+If the granting and withholding of political trust is fundamentally driven by a rationalist
+
+evaluation of institutional performance, why should education matter? Based on existing
+
+research there are sound theoretical and empirical reasons to believe that education not only
+
+helps citizens accurately identify practices that undermine the smooth functioning of democratic
+
+institutions, but also that it leads citizens to be more normatively troubled by such practices. For
+
+simplicity’s sake, we refer to these as the accuracy-inducing and norm-inducing functions of
+
+education. To be clear, in arguing that education serves these two functions we are explicitly
+
+acknowledging that children, adolescents, and young adults acquire skills and norms as a result
+
+of their schooling. Or, borrowing the terminology of Sears (1975), our basic claim is that
+
+students are in an important sense ‘molded’ by schools, colleges, and universities.
+
+Any act of evaluation requires a capacity to obtain and make sense of information related
+
+to the object being evaluated. In the case of political trust, the object of evaluation is the
+
+performance of political institutions and actors. In view of the findings of a wealth of single country and comparative research, there is every reason to believe that education enhances the
+
+ability of citizens to acquire and process the very information required to accurately evaluate the
+
+performance of political institutions and actors. Even after controlling for a host of other
+
+variables, formal education produces a number of different and oftentimes related changes in
+
+8
+
+individuals that facilitate the acquisition and processing of information necessary for arriving at
+
+an accurate assessment of the functioning of political institutions.
+
+Education has, for example, repeatedly been shown to have a positive effect on the
+
+amount and type of attention citizens pay to politics and public affairs. The more educated
+
+consistently express more interest in politics than the less educated (Verba et al. 1995; Delli
+
+Carpini and Keeter 1996). Education has also been shown to be positively related to time spent
+
+reading newspapers, itself an important means of obtaining political information (Dee 2004;
+
+Elvestad and Blekesaune 2008; Shehata and Strömbäck 2011). Moreover, citizens with higher
+
+levels of education have a greater tendency to undertake a range of political activities that
+
+provide opportunities for learning about the quality of political institutions. This includes, for
+
+instance, attending public meetings, making contact with public officials, and following electoral
+
+campaigns (Milligan et al. 2004; Pattie et al. 2004; Aars and Strømsnes 2007).
+
+A large body of research also underscores the important direct and indirect role played by
+
+formal education in enhancing political knowledge. The more educated are more likely to
+
+respond correctly to questions of fact related to the key players and workings of their political
+
+system (Hyman et al. 1975; Delli Carpini and Keeter 1996; Milner 2002). The more educated
+
+have also been shown to be better able to place parties on issues and ideology and more likely to
+
+form attitudes consistent with their own ideological leanings (Jacoby 1991; Gordon and Segura
+
+1997; Aarts and Semetko 2003). Interestingly, there is also evidence to suggest that, compared to
+
+the less educated, the higher educated are more likely to accurately assess their particular
+
+country’s overall respect for human rights (Anderson et al. 2005).
+
+While education makes it easier for citizens to acquire and process information related to
+
+the performance of democratic institutions and actors, there is nothing intrinsic about the
+
+9
+
+possession of such information that should lead citizens to view underperformance or
+
+mismanagement negatively. In order to hypothesize about this link between knowledge and
+
+evaluation we need to establish how citizens react to information about democratic dysfunction.
+
+Education has long been shown to leave an indelible mark both on people’s broad normative
+
+proclivities and on the store they set by democratic rule. For example, over the years research has
+
+repeatedly shown that support for a range of liberal moral values, including equality and
+
+tolerance, grows with years of schooling (Hyman and Wright 1979; Bobo and Licari 1989; Nie et
+
+al. 1996; Vogt 1997). Scholars have also argued that in established democracies the more
+
+educated are more likely to support and defend core democratic values and principles (McClosky
+
+and Zaller 1984, 239-240; Dalton 1994, 483; Hibbing and Theiss-Morse 2002, 771). In the past
+
+decade, drawing in part on earlier waves of modernization research, a body of work has emerged
+
+that also highlights the positive links between years of schooling and support for democracy in
+
+new democracies and non-democracies (Jamal 2006; Evans and Rose 2007; Kotzian 2011).
+
+To recap, it was based on these two bodies of work, supporting the accuracy- and norm inducing functions of education, that we provided a theoretical account of our empirical
+
+observation that the magnitude and direction of the effect of education on political trust was
+
+conditional on levels of corruption. Given the cross-national survey data available we were
+
+unable however to test for the existence of the accuracy- and norm-related mechanisms linking
+
+education and political trust. Moreover, in retrospect an implicit assumption of our earlier
+
+research was that formal education provides adolescents and young adults with particular skills
+
+and commitments that they draw on only later in life to evaluate the performance of political
+
+institutions. In other words, skills and commitments are primarily acquired through pre- or early
+
+adult socialization in formal education, and political trust is generated later. There are grounds
+
+10
+
+however to believe that the granting and withholding of political trust is more immediate and
+
+actually results from cumulative experience bridging adolescence and adulthood.
+
+Schools of trust
+
+In the past decade or so, and especially in the last five years, scholars (mainly from political
+
+science but also from education and psychology) have made efforts to open up the black box of
+
+education and scrutinize the mechanisms by which and the conditions under which schooling
+
+might affect political trust.7 Most of this new research relies on data drawn from surveys of
+
+adolescents. Some of this uses cross-sectional data, mainly from a single country where young
+
+people enrolled in different schools or different educational programs are the object of study.
+
+Most of these studies however rely on single-nation panel data, tracking individuals in the same
+
+country through their adolescence, and in some instances even into their 20s. In addition a small
+
+number of published pieces use single-country post-adolescent panel data, focusing on the
+
+effects of higher education, while an even smaller set of publications uses cross-sectional data
+
+with a mixed sample of adolescents and adults. It is also worth noting that most research
+
+published to date that explicitly seeks to uncover the mechanisms by which education per se
+
+affects political trust relies on survey data from a small sample of advanced industrial
+
+democracies.
+
+Two key findings emerge from this literature. The first is that, despite being formally
+
+excluded from the political sphere in important ways such as not being permitted to vote and not
+
+paying taxes, adolescents hold observable and even stable political opinions, not least in the area
+
+of political trust. Second, several scholars note what they view as a striking similarity between
+
+aggregate levels of political trust among school-age children and adults in the same country (e.g.,
+
+11
+
+Torney-Purta 2004, 472). Taken together, these findings cast some doubt on arguments that
+
+suggest a temporal lag between the ‘treatment’ of receiving education when one is young and
+
+observation of its effects on political trust in adulthood. The assumption underpinning such
+
+arguments is that during formal education young people acquire skills and norms, some of which
+
+are explicitly political and democratic in nature, that in adulthood form the basis for the
+
+generation of political trust. By demonstrating, however, that individuals have already developed
+
+a sense of political trust in their youth, recent research underscores the importance of examining
+
+the role played by schools and educational programs in generating this trust.
+
+What is it then about formal education that facilitates or stymies the production of
+
+political trust among adolescents and young adults? By focusing on different aspects of the
+
+school or educational environment, existing research suggests two broad sets of answers to this
+
+question. The first relates to how schools provide students with particular experiences of
+
+authority and social relations. The second concerns the curriculum and programs that students
+
+pursue. What both these bodies of research share is a common (though not always explicitly
+
+stated) understanding of institutions of formal education as sites of political socialization. During
+
+their time in school or university, students are exposed to a range of stimuli inside and outside
+
+the classroom and lecture hall, which have the potential to boost or dampen political trust.
+
+Importantly, some of these stimuli (such as curricular choices, pedagogical technique, leadership
+
+style, and institutional organization) have deliberately been put in place in part because of their
+
+purported political effects, including their ability to produce and transmit certain types of
+
+political norms and values. In some instances, the trust-generating agent of political socialization
+
+is an individual or group of individuals – for example, the teacher or principal; in other instances
+
+12
+
+however agency might be better thought to inhere in different types of structures and processes
+
+that characterize the context or environment of the school itself.
+
+A number of published articles test the argument that schools affect political trust by
+
+functioning as moral communities and institutions of authority. While at school students obtain
+
+first-hand experience of bureaucratic rules and procedures aimed at rewarding good behavior and
+
+punishing bad. The types of rules that schools seek to uphold and the processes and values that
+
+guide their application will, it is thought, provide students with valuable ‘street-level’
+
+information about the functioning of higher-level political institutions beyond the schoolyard. As
+
+a result, students who perceive their school to be performing well will extrapolate from this
+
+experience and be more likely to express trust in their country’s political institutions. Scholars
+
+have looked at this question of performance mainly from the point of view of procedural fairness
+
+and freedom of expression, hypothesizing that both will positively affect students’ level of
+
+political trust.8 The small amount of research published in this area, drawing on data from
+
+Belgium, Israel, Sweden, and the United States, broadly supports this hypothesis. The more
+
+fairly students believe their teachers treat them and the fairer they believe school rules are, the
+
+more likely they are to express political trust (Duke et al. 2009; Abdelzahel et al. 2014; Resh and
+
+Sabbagh 2014). Moreover, students with experiences of ‘open classrooms’, in which teachers
+
+welcome debate and disagreement, have also been found more likely to express political trust
+
+(Claes et al. 2012; Dassonneville et al. 2012). Drawing on cross-sectional data from Sweden,
+
+some research (Kokkonen et al. 2010) has also extended this idea that schools provide trust enhancing social experiences to look at the effects of ethnic diversity, finding that students in
+
+schools that allow for greater interethnic personal contacts report higher levels of political trust.
+
+13
+
+The second approach taken to identifying the mechanisms by which education could
+
+affect political trust is a curricular one. Specifically, it focuses on different types of formal
+
+instruction that purposefully expose students to political information and provide space for
+
+debate and reflection on politics. Scholars have followed two tacks in this area: the first and
+
+larger body of research examines the individual-level effects of enrolment in civics education;
+
+the second considers how students’ course of study at university affects their level of political
+
+trust.9 Work in both of these areas is generally animated by a discussion of the supposed positive
+
+effects of formal instruction in civics and politics on political trust. The evidence in support of
+
+the return of civics education for political trust is rather weak however.10 Some research reports
+
+finding fairly small effects (Denver and Hands 1990; Claes et al. 2012) or no effects (Finkel and
+
+Ernst 2005); other research finds that the effect of civics education on political trust loses
+
+statistical significance at conventional levels after controlling for levels of political trust prior to
+
+exposure to civics education (Dassonneville et al. 2012). Exposure to civics education has also
+
+been found to have a negative effect on political trust (Finkel et al. 2000).11 As for research on
+
+how university students’ course of study bears on their sense of political trust, a panel study of
+
+Swedish college students finds that studying political science boosts political trust while studying
+
+law or communication does not (Esaiasson and Persson 2014). Other research (Jacobsen 2001),
+
+using data from Norway, finds that political trust declines over time among students of
+
+economics, a feeder for private-sector employment, but not among students enrolled in courses
+
+that traditionally lead to jobs in the public sector such as nursing, social work, and teaching.
+
+14
+
+Education as cause or education as proxy?
+
+Thus far we have presented the case for a causal relationship between education and political
+
+trust, identifying schools and colleges as key sites of socialization. Our argument was based on a
+
+summary of empirical studies that show education and political trust to be related. These studies
+
+highlighted a range of possible causal mechanisms that link an individual’s educational
+
+attainment and her evaluation of political institutions. More recently, however, this conventional
+
+view of ‘education as cause’ has been called into question by scholars who argue that both
+
+education and its suggested political outcomes are in fact the by-product of preadult
+
+socialization, which largely occurs outside of the school environment (e.g., Kam and Palmer
+
+2008; see Persson 2014 for an excellent overview). In this final section we address this recent
+
+line of work on ‘education as proxy’ by considering how other possible agents of socialization
+
+besides schools and universities can help generate political trust.
+
+Causal inference
+
+To say that education and political trust are causally linked is to say that education has added
+
+value with respect to political trust. Specifically, those who obtain higher levels of education act
+
+and think differently from those who do not because of their formal schooling. For instance, had
+
+higher educated individuals dropped out of school early or entered, say, a vocational track rather
+
+than tertiary education, a causal argument would imply that, in this counterfactual situation, the
+
+same individual would develop other skills and norms. This argument generalizes to other
+
+aspects of ‘education as cause’ beyond the decision to go to college. A student who has been
+
+exposed to a civics curriculum would hold different attitudes from those in a counterfactual
+
+situation where the same student did not undertake a civics education. Identifying a causal effect
+
+15
+
+is easy enough (Rubin 1974). Consider two particular outcome variables, YT and Y~T. These can
+
+be political trust levels or any other outcome of interest. YT refers to the situation where the
+
+treatment is present, that is, the political trust score of an individual who has received more
+
+education. Y~T refers to the case where the treatment is absent, that is, the political trust score of
+
+an individual who has received less education. The effect of education on political trust could be
+
+calculated by subtracting the latter from the former: (YT – Y~T). However, for any one individual,
+
+we never observe both outcomes. One of the two outcomes assumes a counterfactual situation.
+
+Methodologists refer to this predicament as the Fundamental Problem of Causal Inference.
+
+In order to estimate causal effects researchers therefore rely on so-called ‘average
+
+treatment effects’ by shifting the focus of the analysis from specific units to a population of
+
+units. In doing so, the average treatment effect amounts to the difference in the outcome between
+
+two equivalent groups of units. Random assignment to treatment conditions, say by way of an
+
+experimental and control group, ensures this equivalence, so that a difference in outcomes can be
+
+solely attributed to the presence of a treatment. However, when treatments are not randomly
+
+administered across groups researchers run the risk of wrongly attributing a difference in
+
+outcomes to that treatment. Kam and Palmer argue that the ‘education-as-cause’ approach
+
+ignores the fact that assignment to levels of education is anything but random: ‘higher education
+
+should be seen as a proxy for a series of preadult experiences and predispositions’ (2008, 614).
+
+The decision to pursue further education or different types of education cannot be represented by
+
+a statistical coin flip; it is itself the result of a host of individual-level characteristics, such as
+
+cognitive ability, family background, values, and personality. To the extent that these factors also
+
+cause the outcome variable of interest, regressing that outcome on levels of education will yield
+
+biased estimates. However, surveys rarely contain appropriate measures for many of these
+
+16
+
+variables, making it difficult for researchers to convincingly demonstrate causal effects using
+
+observational data.
+
+Preadult experiences and political trust
+
+To be sure, Kam and Palmer (2008) mainly criticize the education-as-cause approach as it has
+
+been applied to understanding political participation (also see Berinsky and Lenz 2011; Persson
+
+2012). Still, their framework remains highly relevant to students of political trust, if only because
+
+many of the suggested ‘preadult’ factors might themselves predict or at the very least correlate
+
+with an individual’s willingness to grant or withhold trust. What is particularly important for our
+
+direct purposes here is to be able to pinpoint where, when, and how individuals directly acquire
+
+political trust or acquire the norms and abilities with which they can subsequently adequately
+
+evaluate political actors. Part of that process of learning might go on in schools and colleges, but
+
+the transmission of accuracy- and norms-related values and practices takes place in other venues
+
+as well, prime among them the family. We should also stress that processes of political
+
+socialization are not inconsistent with an evaluative (or rationalist) account of political trust. As
+
+already discussed, schools and universities are in fact key agents of socialization. However, if it
+
+turns out that the acquisition of norms and abilities occurs outside of formal education, say at
+
+home or elsewhere, a revision of the conventional account might be in order.
+
+Political socialization has long occupied a central role in the study of electoral behavior,
+
+in part because early classics in the field strongly emphasized partisan attachments as
+
+explanations for vote choice (Campbell et al. 1960). These partisan predispositions, in turn, were
+
+thought to develop during childhood as a result of socialization processes within the family, as
+
+partisan loyalties were transmitted from parents to their children. Almost half a century after the
+
+17
+
+publication of The American Voter, Lewis-Beck et al. still maintain that ‘a young person’s party
+
+identification is an inheritance from one’s parents’ (2008, 138). Compared to other agents of
+
+socialization parental influences were particularly powerful in the development of adolescent
+
+political predispositions (Jennings and Niemi 1974, 1981).
+
+However, the transmission model of socialization does not apply equally well to other
+
+political orientations. For instance, Beck and Jennings (1991) find that the inheritance of political
+
+characteristics was rather limited. That is to say, parental interest in politics, media use, and
+
+political participation are correlated to these very same variables among youths, but the strength
+
+of association remains modest in size. If political sophistication and interest are important
+
+individual-level attributes for our understanding of political trust, then this line of research would
+
+leave room for other societal actors such as schools to transmit these orientations.
+
+Moving to studies that focus directly on socialization with regard to political trust,
+
+Mishler and Rose (1997, 2001) have actually all but dismissed the role that early socialization
+
+plays in fostering an individual’s propensity to trust political actors. They hypothesize that
+
+interpersonal trust is likely to develop early in childhood through interactions with parents,
+
+family members, and peers and is subsequently projected on to political institutions. However,
+
+Mishler and Rose in the end find no evidence in support of these so-called ‘cultural’ theories of
+
+trust, where early socialization is argued to play a major role in developing political trust. They
+
+conclude instead that political trust is best explained by institutional theories that focus on
+
+political and economic performance.
+
+A more direct test of the education-as-proxy-model was carried out by Hooghe et al.
+
+(2014) based on a panel of Belgian late adolescents and young adults. Their findings indicate that
+
+differences in political trust are largely in place before adulthood. Schoon and Cheng (2011)
+
+18
+
+employ structural equation modeling using British data to find that family background exerts a
+
+direct impact on political trust, although, echoing arguments made by Mishler and Rose (2001),
+
+they also find support that preadult experiences are supplemented by later experiences that
+
+further shape political trust. Finally, Jennings et al. (2009) present correlations between the
+
+political attitudes of parents and children for numerous political attitudes and, echoing earlier
+
+findings of Beck and Jennings (1991), find that the inheritance of partisan attitudes is far stronger
+
+than attitudes related to political engagement and political trust. Only among politicized
+
+households, do Jennings et al. (2009) find a moderate relationship between the political trust of
+
+parents and their offspring. In sum, the conventional view of ‘education as cause’ with regard to
+
+political trust might overstate the added value of education if both political trust and its
+
+normative and cognitive predictors are developed outside of traditional venues of education.
+
+Value change and political trust
+
+Though socialization involves the transmission of values and practices by particular agents – be
+
+they schools, universities, parents and other family members, political parties, places of worship,
+
+and so on – to individuals, the context within which socialization occurs matters greatly for the
+
+rate of inheritance and durability of these values and practices. Kam and Palmer (2008), the main
+
+proponents of the ‘education-as-proxy’ approach, find for example that college education had an
+
+observable effect on protest behavior because of the fact that college campuses in the late 1960s
+
+and early 1970s served as focal points for spurring students into action. They find that, all else
+
+equal, college attendees in that period were 18.1 percent more likely to participate in
+
+demonstrations than individuals who did not attend college. For this particular cohort, college
+
+provided a social context where interaction with peers proved consequential for subsequent
+
+19
+
+political behavior. Familial socialization may not always be pivotal. As Beck and Jennings
+
+(1991, 757) note, ‘the traditional influence of parental socialization can be modified in the face
+
+of a powerful competing Zeitgeist at a critical point in the life cycle.’
+
+The economic, social, and political conditions during adolescence and early adulthood
+
+have attracted a great deal of attention from political scientists who seek to explain value change
+
+in advanced democracies. The work of Ronald Inglehart has been particularly influential in this
+
+regard (Inglehart 1977, 1990; Inglehart and Welzel 2005). Inglehart famously argued that
+
+younger generations develop a different set of values from those of older generations as these
+
+younger generations come of age during periods of unprecedented economic recovery and
+
+growth. In contrast to older generations who were first-hand witnesses of the atrocities of the
+
+Second World War, younger generations take economic well-being and personal safety for
+
+granted and in turn are more concerned with quality of life, self-expression, and democratic
+
+empowerment. A process of generational replacement then results in a value shift in society as a
+
+whole from materialist to postmaterialist values.
+
+Inglehart’s thesis on value change has important implications for attitudes related to
+
+system support: as materialists tend to gravitate towards social order, hierarchy, and authority,
+
+they are more likely to express support for the dominant political institutions of their country.
+
+Postmaterialists on the other hand reject political and social authority, in part because they are
+
+more demanding of political institutions and more critical of the way these institutions actually
+
+function. Due to their antipathy toward the conventional actors and institutions of representative
+
+democracy, including political parties, parliaments, and governments, postmaterialists should
+
+exhibit lower levels of political trust. In addition, as postmaterialists tend to have more
+
+demanding expectations regarding democratic inclusion and empowerment, they are likely to
+
+20
+
+express lower levels of political trust when faced with the traditional institutions of
+
+representative democracy. As a result, as the scales of society tip from materialist to
+
+postmaterialist, it is thought that aggregate levels of political distrust will increase. Observing a
+
+decline in citizen support for political institutions across advanced democracies, Russell Dalton
+
+(2004) has tested for this hypothesized relationship between postmaterialism and political
+
+distrust. Specifically, he shows that the steepest decline in aggregate political trust levels is
+
+among the upper socio-economic strata in society, the wealthier, higher educated and more
+
+skilled citizens, and not among lower-educated, marginalized groups. The Dalton-Inglehart
+
+argument centers on the proposition that value change among younger cohorts spills over into
+
+their judgments of political processes. Transmission of values from one generation to the next is
+
+not strong enough to counter period-specific formative experiences, and as a result younger
+
+cohorts develop levels of political cynicism and opposition to authority that are much higher than
+
+those of previous generations.
+
+Conclusion
+
+Until fairly recently few individual-level studies of political trust paid much attention to
+
+education as an explanatory variable. That being said, when viewed as a single whole existing
+
+research on political trust paints a rather suggestive picture of the effects of education.
+
+Specifically, it points to the possibility that the relationship between education and political trust
+
+is context specific. In earlier research (Hakhverdian and Mayne 2012) we proposed that the
+
+macro-contextual variable conditioning the effect of education on political trust was the quality
+
+of a country’s democratic political system. Capturing this notion of democratic performance
+
+using a measure of public-sector corruption, we found strong evidence that education and
+
+21
+
+corruption interact to affect political trust. In contexts of low levels of corruption more educated
+
+citizens are more trusting of political institutions than less educated citizens. However, in
+
+contexts of high levels of corruption, the more educated are actually more distrusting of political
+
+institutions than fellow citizens with less education. We argued that this interaction occurred
+
+because higher-educated citizens are not only more likely to be better able to identify practices
+
+that undermine the smooth functioning of democratic institutions but also more likely to be
+
+normatively troubled by such practices.
+
+An implication of this interactive account of education and corruption is that the effects
+
+of rising educational standards on political trust should to be contingent on change in a country’s
+
+democratic performance over the same period. Therefore, where democratic performance
+
+remains high and stable, educational expansion should translate into higher aggregate levels of
+
+political trust. Where democratic performance falters and declines or where low levels of
+
+democratic performance persist (due to the difficulty of rooting out corruption for example), we
+
+would expect to see political distrust increase in the aggregate as populations become on average
+
+more educated.
+
+What the above account does not recognize however is the possibility that the standards
+
+used by ordinary citizens to evaluate democratic performance may change over time, and may
+
+actually change more or even only among a subset of the population, including the more
+
+educated. Scholars such as Ronald Inglehart and Russell Dalton suggest that this is indeed the
+
+case. As we discussed earlier, they argue that citizens – and especially higher-educated citizens –
+
+have become increasingly critical of the hierarchical and mediated nature of representative
+
+democracy and more inclined to judge democratic institutions according to the ways in which
+
+they allow for meaningful voice and participation. Based on this argument, it is thought that
+
+22
+
+political trust should decline in the face of changing societal values that result from rising
+
+aggregate levels of education. But just as values change in society as a whole and among
+
+subgroups such as the higher educated, so can and do democratic institutions. Moreover, if the
+
+institutions of representative democracy are altered over time to better meet the changing
+
+demands of citizens for voice and inclusion, then rising levels of education should not
+
+necessarily translate into rising levels of political distrust. In other words, there is nothing about
+
+education per se that should encourage institutional distrust. To date, however, comparative
+
+cross-national research has not considered the ways in which rising levels of education and
+
+concomitant shifts in values interact with changes in democratic institutions to affect political
+
+trust. Though doing so poses certain challenges from the point of view of data collection, taking
+
+into account simultaneously change over time in democratic institutions on the one hand and
+
+change in education levels and political values on the other represents a promising avenue of
+
+inquiry for future research on political trust.
+
+Looking back on our earlier research, an implicit and unsubstantiated assumption was
+
+that formal education furnishes adolescents and young adults with capacities and commitments
+
+that they draw on later in life to evaluate the performance of political institutions. Put simply,
+
+schools provide skills and values but play little role in generating political trust. However, as our
+
+review of a small but growing body of research to emerge in recent years indicates, there is good
+
+reason to believe that political trust is generated in part, perhaps even in large part, through
+
+processes of socialization during adolescence and early adulthood. That being said, what role
+
+young people’s formative experiences in formal education play in generating political trust
+
+continues to be debated. On the one hand, some studies suggest that schools and colleges
+
+facilitate or stymie the generation of political trust. This research highlights a number of
+
+23
+
+mechanisms connecting formal education and political trust; this includes how schools provide
+
+students with direct, front-line experiences of institutional authority, the types of social
+
+interactions that schools enable, and the success or failure of schools to expose students to
+
+political information and debate. On the other hand, recent research casts doubt on these
+
+arguments, suggesting instead that school and college serve as proxies for predispositions, skills,
+
+and norms formed elsewhere, and especially in the family.
+
+In both of the above accounts preadult socialization plays an important role in generating
+
+political trust. A potential key difference between the two accounts is worth noting however. The
+
+former account, which emphasizes the importance of schools and formal education as agents and
+
+sites of socialization, is very much in consonance with an evaluative understanding of political
+
+trust. According to existing research in this area, young people become trusting not because they
+
+are surrounded by other trusting peers and teachers; rather young people become trusting
+
+because their personal experiences inside and outside the classroom provide them with a range of
+
+evidence that allow them to arrive at judgments about the broader political system. In contrast,
+
+the latter account, which sets great store by family life, seems potentially more congruent with a
+
+culturalist understanding of political trust. This is because this second line of argument seems to
+
+suggest that trust is more likely to be generated among young people who grow up with parents
+
+and in families who are trusting of political institutions.
+
+Given the relatively small number of extant studies that explicitly focus on the effects of
+
+education on political trust, much remains to be learned in this area of research. As this field of
+
+inquiry expands in the coming years, more research will surely emerge on the question of how
+
+the generation of political trust is a dynamic process. As a result we look forward to learning
+
+more about the ways in which and the degree to which young people are socialized into granting
+
+24
+
+and withholding political trust. In addition, however, it is important that future research examine
+
+the individual-level and contextual factors that influence whether and how young people ‘update’
+
+their level of political trust during adulthood. Our hope is that as scholars grapple with this
+
+cumulative learning approach to political trust they will increasingly turn to methods and data
+
+that allow them to isolate the effects of different aspects of formal education from those that
+
+result from familial and other forms of preadult non-educational socialization. Finally, given the
+
+importance of better understanding the potential context-specific relationship between education
+
+and political trust, we hope that future studies will use data from a much broader sample of
+
+countries than the small number of high-income consolidated democracies that currently
+
+dominates research in this area.
+
+25
+
+Notes
+
+1 The authors would like to thank Tom van der Meer, Sonja Zmerli, and Jan van Deth as well as
+
+participants of the handbook workshop, held in Frankfurt, May 2014, for their feedback and
+
+comments on this chapter.
+
+2 Kennedy School of Government, Harvard University, quinton_mayne@harvard.edu.
+
+3 Department of Political Science, University of Amsterdam, a.hakhverdian@uva.nl.
+
+4 Even a passing comment, such as that by Mishler and Rose (2001, 50) about how the effects of
+
+education might differ in new democracies compared to old, is a rarity. See also Grabb et al.,
+
+2009, 382.
+
+5 Several studies estimate separate models of political trust using data from one or more old
+
+democracies and one or more new democracies. If this is the case, the same publication appears
+
+in more than one column.
+
+6 Political trust was measured using ESS-items TRSTPRL, TRSTLGL, TRSTPLC, TRSTPLT and
+
+TRSTPRT. The question reads: “Using this card, please tell me on a score of 0-10 how much you
+
+personally trust each of the institutions I read out. 0 means you do not trust an institution at all,
+
+and 10 means you have complete trust. Firstly...[country]’s parliament?” The question is
+
+repeated for the national parliament, police, political parties, legal system, and politicians. The
+
+mean score for these five items forms the dependent variable.
+
+Education was captured by the ESS-item EISCED which contains the following categories: (1)
+
+ES-ISCED I , less than lower secondary, and (2) ES-ISCED II, lower secondary, merged into
+
+‘lower education’. (3) ES-ISCED IIIb, lower tier upper secondary, (4) ES-ISCED IIIa, upper tier
+
+upper secondary, and (5) ES-ISCED IV, advanced vocational, sub-degree, merged into
+
+26
+
+‘moderate education’. (6) ES-ISCED V1, lower tertiary education, BA level, and (7) ES-ISCED
+
+V2, higher tertiary education, >= MA level, merged into ‘higher education’.
+
+Corruption was measured using the Corruption Perception Index (CPI) 2012. Source:
+
+http://www.transparency.org/policy_research/surveys_indices/cpi/2012
+
+7 An early antecedent of this recent research is the body of U.S. work to emerge in the 1960s that
+
+focused mainly on the effects of exposure to civics instruction on political trust (or political
+
+cynicism as it was referred to at that time). The most cited study from this period is that of
+
+Langton and Jennings 1968.
+
+8 See the chapter by Marcia Grimes in this volume for a discussion of the effects of procedural
+
+fairness on political trust among adults.
+
+9 A third but underdeveloped line of inquiry examines the association between political trust and
+
+the type of school in which a student is enrolled. This includes, for example, whether political
+
+trust is related to whether a student is enrolled in a school with a more vocational or academic
+
+curriculum, a division that is common in several European countries. Hooghe et al. 2014 find
+
+that respondents in a technical track have significantly less political trust compared to those in a
+
+general track, and those in a vocational track have even lower levels of political trust.
+
+10 This re-affirms the early findings of Langton and Jennings 1968 (p. 858) who report a weak
+
+(and curvilinear) effect between exposure to civics education and political trust.
+
+11 This last result may not be that surprising. The analysis in question uses data from survey
+
+respondents in the Dominican Republic. If civics education produces better knowledge of the
+
+actual functioning of political institutions, then (following Hakhverdian and Mayne 2012) we
+
+might indeed expect civics education to dampen political trust in contexts where democratic
+
+institutions are performing poorly.
+
+27
+
+References
+
+Aars, J. and K. Strømsnes (2007), ‘Contacting as a Channel of Political Involvement:
+
+Collectively Motivated Individually Enacted’, West European Politics, 30 (1), 93-120.
+
+Aarts, K. and H.A. Semetko (2003), ‘The Divided Electorate: Media Use and Political
+
+Involvement’, Journal of Politics, 65 (3), 759-84.
+
+Abdelzadeh, A., P. Zetterberg and J. Ekman (2014), ‘Procedural Fairness and Political Trust
+
+among Young People: Evidence from a Panel Study on Swedish High School Students’, Acta
+
+Politica, n.d.
+
+Anderson, C.J. and A.J. LoTempio (2002), ‘Winning, Losing and Political Trust in America’,
+
+British Journal of Political Science, 32 (2): 335-51.
+
+Anderson, C.J. and M.M. Singer (2008), ‘The Sensitive Left and the Impervious Right:
+
+Multilevel Models and the Politics of Inequality, Ideology, and Legitimacy in Europe’,
+
+Comparative Political Studies, 41 (4/5), 564-99.
+
+Anderson, C.J. and Y.V. Tverdova (2003), ‘Corruption, Political Allegiances, and Attitudes
+
+Toward Government in Contemporary Democracies’, American Journal of Political Science,
+
+47 (1), 91-109.
+
+Anderson, Christopher J., André Blais, et al. (2005), Losers’ Consent: Elections and Democratic
+
+Legitimacy, Oxford; New York: Oxford University Press.
+
+Askvik, S., I. Jamil, and T.N. Dhakal (2010), ‘Citizens’ trust in public and political institutions in
+
+Nepal’, International Political Science Review, 32 (4), 417-437.
+
+Bäck, M. and E. Kestilä (2008), ‘Social Capital and Political Trust in Finland: An Individual Level Assessment’, Scandinavian Political Studies 32 (2), 171–94.
+
+28
+
+Beck, P.A. and M.K. Jennings (1991), ‘Family Tradition, Political Periods, and the Development
+
+of Partisan Orientations,’ Journal of Politics 53 (3), 742-63.
+
+Berinsky, A.J. and G.S. Lenz (2011), ‘Education and Political Participation: Exploring the
+
+Causal Link’, Political Behavior 33 (3), 357–73.
+
+Bobo, L. and F.C. Licari (1989), ‘Education and Political Tolerance: Testing the Effects of
+
+Cognitive Sophistication and Target Group Affect’, Public Opinion Quarterly 53 (3), 285 308.
+
+Canache, D. and M.E. Allison (2005), ‘Perceptions of political corruption in Latin American
+
+democracies,’ Latin American Politics and Society. 47 (3). 91-111.
+
+Catterberg, G. and A. Moreno (2006), ‘The Individual Bases of Political Trust: Trends in New
+
+and Established Democracies’, International Journal of Public Opinion Research, 18 (1), 31 48.
+
+Chang, E.C.C. and Y. Chu (2006), ‘Corruption and Trust: Exceptionalism in Asian
+
+Democracies?’, Journal of Politics, 68 (2), 259–71.
+
+Chanvril, Flora, Guy Michelat, and Henri Rey (2011) ‘Homogénéité ou hétérogenénéité des
+
+manifestations de la confiance’, in B. Le Roux et al. (ed.), La confiance dans tous ses états :
+
+les dimensions politique, écoomique, institutionnelle, sociétales et individualle de la
+
+confidence, Science Po, Paris: Les Cahiers du CEVIPOF.
+
+Chiru, M. and S. Gherghina (2012), ‘Does the Confidence in the EU Spill Over to the National
+
+Level? A Longitudinal Analysis of Political Trust in Central Europe,’ Perspectives on
+
+European Politics and Society, 13 (2), 226-45.
+
+29
+
+Christensen, T. and P. Lægreid (2005), ‘Trust in Government: The Relative Importance of
+
+Service Satisfaction, Political Factors, and Demography’, Public Performance and
+
+Management Review, 28 (4), 487-511.
+
+Claes, E., M. Hooghe, and S. Marien (2012) ‘A Two-Year Panel Study among Belgian Late
+
+Adolescents on the Impact of School Environment Characteristics on Political Trust’,
+
+International Journal of Public Opinion Research 24 (2), 208–24.
+
+Cleary, Matthew R., and Susan C. Stokes (2006), Democracy and the Culture of Skepticism:
+
+Political Trust in Argentina and Mexico, Russell Sage Foundation Series on Trust, New
+
+York: Russell Sage Foundation.
+
+Cook, T.E. and P. Gronke (2005), ‘The Skeptical American: Revisiting the Meanings of Trust in
+
+Government and Confidence in Institutions’, Journal of Politics, 67 (3), 784-803.
+
+Criado, H. and F. Herreros (2007), ‘Political Support Taking into Account the Institutional
+
+Context’, Comparative Political Studies 40 (12), 1511–32.
+
+Čuvalo, A. (2013), ‘Institutional Trust in the Croatian Post-Socialist Context’, CM:
+
+Communication Management Quarterly 26 (8), 145–63.
+
+Dalton, R.J. (1994), ‘Communists and Democrats: Democratic Attitudes in the Two Germanies’,
+
+British Journal of Political Science, 24 (4), 469-93.
+
+Dalton, R.J. (2004), Democratic Challenges, Democratic Choices: The Erosion of Political
+
+Support in Advanced Industrial Democracies, Oxford: Oxford University Press.
+
+Dassonneville, R., E. Quintelier, M. Hooghe, and E. Claes (2012), ‘The Relation between Civic
+
+Education and Political Attitudes and Behavior: A Two-Year Panel Study among Belgian
+
+Late Adolescents’, Applied Developmental Science, 16 (3): 140–50.
+
+30
+
+Dee, T.S. (2004), ‘Are there civic returns to education?’, Journal of Public Economics, 88 (9 10), 1697-1720.
+
+Delli Carpini, M.X., and S. Keeter (1996), What Americans Know about Politics and Why It
+
+Matters, New Haven, CT.: Yale University Press.
+
+Denters, B., O. Gabriel, and M. Torcal (2007), ‘Norms of Good Citizenship’, in J.W. van Deth,
+
+J.R. Montero, and A. Westholm (eds.), Citizenship and Involvement in European
+
+Democracies: A Comparative Analysis, London; New York: Routledge, 88–108.
+
+Denver, D., and G. Hands (1990), ‘Does Studying Politics Make a Difference? The Political
+
+Knowledge, Attitudes and Perceptions of School Students’, British Journal of Political
+
+Science, 20 (2), 263–79.
+
+Duke, N.N., C.L. Skay, S.L. Pettingell, and I.W. Borowsky (2009), ‘From Adolescent
+
+Connections to Social Capital: Predictors of Civic Engagement in Young Adulthood’,
+
+Journal of Adolescent Health, 44 (2), 161–68.
+
+Earl Bennett, S., S.L. Rhine, R.S. Flickinger, and L.L.M. Bennett (1999), ‘‘Video Malaise’
+
+Revisited: Public Trust in the Media and Government’, The Harvard International Journal of
+
+Press/Politics, 4 (4), 8–23.
+
+Elvestad, E. and A. Blekesaune (2008), ‘Newspaper Readers in Europe’, European Journal of
+
+Communication, 23 (4), 425-47.
+
+ESS Round 6: European Social Survey Round 4 Data (2012), Data file edition 1.2. Norwegian
+
+Social Science Data Services, Norway – Data Archive and distributor of ESS data.
+
+Esaiasson, P. and M. Persson (2014), ‘Does Studying Political Science Affect Civic Attitudes?:
+
+A Panel Comparison of Students of Politics, Law, and Mass Communication’, Journal of
+
+Political Science Education, 10 (4), 375–85.
+
+31
+
+Evans, G. and P. Rose (2007), ‘Support for Democracy in Malawi: Does Schooling Matter?’,
+
+World Development, 35 (5), 904-19.
+
+Finkel, S.E. and H.R. Ernst (2005), ‘Civic Education in Post-Apartheid South Africa: Alternative
+
+Paths to the Development of Political Knowledge and Democratic Values’, Political
+
+Psychology, 26 (3), 333–64.
+
+Finkel, S.E., C.A. Sabatini, and G.G. Bevis (2000), ‘Civic Education, Civil Society, and Political
+
+Mistrust in a Developing Democracy: The Case of the Dominican Republic’, World
+
+Development, 28 (11), 1851-74.
+
+Gordon, S.B. and G.M. Segura (1997), ‘Cross-national variation in the political sophistication of
+
+individuals: Capability or choice?’, Journal of Politics, 59 (1), 126-147.
+
+Goul Andersen, J. (2004) Et Ganske Levende Demokrati [A Rather Healthy Democracy], Århus:
+
+Aarhus Universitetsforlag.
+
+Grabb, E., R. Andersen, M. Hwang, and S. Milligan (2009), ‘Confidence in Political Institutions
+
+in Canada and the United States: Assessing the Interactive Role of Region and Race’,
+
+American Review of Canadian Studies, 39 (4), 379–97.
+
+Hakhverdian, A. and Q. Mayne (2012), ‘Institutional Trust, Education, and Corruption: A Micro Macro Interactive Approach’, Journal of Politics, 74 (3), 739-50.
+
+Hetherington, M.J (1998), ‘The Political Relevance of Political Trust’, American Political
+
+Science Review, 92 (4), 791-808.
+
+Hetherington, M.J (2005), Why Trust Matters: Declining Political Trust and the Demise of
+
+American Liberalism, Princeton, NJ: Princeton University Press.
+
+Hibbing, J.R., and E. Theiss-Morse (1995), Congress as Public Enemy: Public Attitudes toward
+
+American Political Institutions, Cambridge; New York: Cambridge University Press.
+
+32
+
+Hooghe, M., R. Dassonneville, and S. Marien (2014), ‘The Impact of Education on the
+
+Development of Political Trust: Results from a Five-Year Panel Study among Late
+
+Adolescents and Young Adults in Belgium’, Political Studies, 63 (1), 123-41.
+
+Hutchison, M.L. (2011), ‘Territorial Threat and the Decline of Political Trust in Africa: A
+
+Multilevel Analysis’, Polity, 43 (4), 432–61.
+
+Hutchison, M.L. and K. Johnson (2011), ‘Capacity to Trust? Institutional Capacity, Conflict, and
+
+Political Trust in Africa, 2000–2005’, Journal of Peace Research, 48 (6), 737–52.
+
+Hyman, H.H. and Ch.R. Wright (1979), Education’s Lasting Influence on Values, Chicago:
+
+Chicago University Press.
+
+Hyman, H.H, Ch.R. Wright, and J.S. Reed (1975), The Enduring Effects of Education, Chicago:
+
+Chicago University Press.
+
+Inglehart, R. (1977), The Silent Revolution, Princeton: Princeton University Press.
+
+Inglehart, R. (1990), Culture Shift, Princeton: Princeton University Press.
+
+Inglehart, R. and Chr. Welzel (2005), Modernization, cultural change, and democracy,
+
+Cambridge: Cambridge University Press.
+
+Jacobsen, D.I. (2001), ‘Higher Education as an Arena for Political Socialisation: Myth or
+
+Reality?’, Scandinavian Political Studies, 24 (4), 351–68.
+
+Jacoby, W.G. (1991), ‘Ideological identification and issue attitudes’, American Journal of
+
+Political Science, 35 (1), 178-205.
+
+Jamal, A.A. (2006), ‘Reassessing Support for Islam and Democracy in the Arab World?’, World
+
+Affairs, 169 (2), 51-63.
+
+Jennings, M. Kent and R.G. Niemi (1974), The Political Character of Adolescence, Princeton:
+
+Princeton University Press.
+
+33
+
+Jennings, M. Kent and R.G. Niemi (1981), Generations and Politics, Princeton: Princeton
+
+University Press.
+
+Jennings, M.K., L. Stoker, and J. Bowers (2009), ‘Politics across Generations: Family
+
+Transmission Reexamined’, Journal of Politics 71 (3), 782-99.
+
+Johnson, I. (2005), ‘Political trust in societies under transformation’, International Journal of
+
+Sociology, 35 (2), 63-84.
+
+Kam, C.D. and C.L. Palmer (2008), ‘Reconsidering the Effects of Education on Political
+
+Participation’, Journal of Politics, 70 (3), 612-31.
+
+Kim, J.Y. (2005), ‘‘Bowling Together’ Isn’t a Cure-All: The Relationship between Social
+
+Capital and Political Trust in South Korea’, International Political Science Review, 26 (2),
+
+193–213.
+
+King, D.C. (1997), ‘The Polarization of American Politics and Mistrust of Government’, in Nye,
+
+Joseph S., Jr. Philip D. Zelikow, and David C. King (eds.), Why People Don't Trust
+
+Government, Cambridge, MA: Harvard University Press, 155-78.
+
+Kluegel, J.R., and D.S. Mason (2004), ‘Fairness Matters: Social Justice and Political Legitimacy
+
+in Post-Communist Europe’, Europe-Asia Studies, 56 (6), 813-34.
+
+Kokkonen, A., P. Esaiasson, and M. Gilljam (2010), ‘Ethnic Diversity and Democratic
+
+Citizenship: Evidence from a Social Laboratory’, Scandinavian Political Studies, 33 (4),
+
+331–55.
+
+Kotzian, P. (2011), ‘Public support for liberal democracy’, International Political Science
+
+Review, 32 (1), 23 -41.
+
+Kuenzi, M.T. (2008), ‘Social Capital and Political Trust in West Africa’, Afrobarometer, no.
+
+Working Paper No. 96.
+
+34
+
+Kumlin, S. (2004), The Personal and the Political: How Personal Welfare State Experiences
+
+Affect Political Trust and Ideology, New York; Houndmills, England: Palgrave Macmillan.
+
+Langton, K.P., and M. Kent Jennings (1968), ‘Political Socialization and the High School Civics
+
+Curriculum in the United States’, American Political Science Review, 62 (3), 852–67.
+
+Lavallée, E. (2006), ‘Corruption et confiance dans les institutions politiques: test des théories
+
+fonctionnalistes dans les démocraties africaines’, Afrique contemporaine 2006/4 (220), 163 90.
+
+Lewis-Beck, M.S., W.G. Jacoby, H. Norpoth, and H.F. Weisberg (2008), The American Voter
+
+Revisited, Ann Arbor: The University of Michigan Press.
+
+Listhaug, O. (2006), ‘Political disaffection and political performance: Norway, 1957-2001’, in
+
+M. Torcal and J.R. Montero (eds.), Political Disaffection in Contemporary Democracies:
+
+Social Capital, Institutions and Politics, London: Routledge, 215-43.
+
+Lühiste, K. (2006), ‘Explaining trust in political institutions: Some illustrations from the Baltic
+
+states’, Communist and Post-Communist Studies, 39 (4), 475-96.
+
+Magalhães, P.C. (2006), ‘Confidence in parliaments: Performance, representation, and
+
+accountability’, in Mariano Torcal and José Ramón Montero (eds.), .Political Disaffection in
+
+Contemporary Democracies: Social Capital, Institutions and Politics, London: Routledge,
+
+pp. 191-214.
+
+Mangum, M. (2011), ‘Explaining Political Trust Among African Americans: Examining
+
+Demographic, Media, and Social Capital and Social Networks Effects’, The Social Science
+
+Journal, 48 (4), 589–96.
+
+Manzetti, L. and C.J. Wilson (2006), ‘Corruption, Economic Satisfaction, and Confidence in
+
+Government: Evidence from Argentina’, The Latin Americanist, 49 (2), 131–39.
+
+35
+
+McAllister, I. (1999), ‘The Economic Performance of Governments’, in Pippa Norris (ed.),
+
+Critical Citizens: Global Support for Democratic Government, Oxford; New York: Oxford
+
+University Press, pp. 188–204.
+
+McClosky, H., and J.R. Zaller (1984), The American Ethos: Public Attitudes Toward Capitalism
+
+and Democracy, Cambridge, MA: Harvard University Press.
+
+Miller, A.H. and S.A. Borrelli (1991), ‘Confidence in Government During the 1980s’, American
+
+Politics Research, 19 (2), 147–73.
+
+Milligan, K., E. Moretti, and P. Oreopoulos (2004), ‘Does education improve citizenship?
+
+Evidence from the United States and the United Kingdom’, Journal of Public Economics, 88
+
+(9-10), 1667-95.
+
+Milner, H. (2002), Civic Literacy: How Informed Citizens Make Democracy Work, Hanover:
+
+University Press of New England.
+
+Mishler, W. and R. Rose (1997), ‘Trust, distrust and skepticism: Popular evaluations of civil and
+
+political institutions in post-communist societies’, Journal of Politics, 59 (2), 418-51.
+
+Mishler, W. and R. Rose (2001), ‘What Are the Origins of Political Trust? Testing Institutional
+
+and Cultural Theories in Post-communist Societies’, Comparative Political Studies, 34 (1),
+
+30-62.
+
+Morris, S.D. and J.L. Klesner (2010), ‘Corruption and Trust: Theoretical Considerations and
+
+Evidence From Mexico’, Comparative Political Studies, 43 (10), 1258-85.
+
+Moy, P. and D.A. Scheufele (2000), ‘Media effects on political and social trust’, Journalism and
+
+Mass Communication Quarterly, 77 (4), 744-59.
+
+36
+
+Newton, K. (1999), ‘Social and Political Trust in Established Democracies’, in P. Norris (ed.),
+
+Critical Citizens: Global Support for Democratic Government, Oxford; New York: Oxford
+
+University Press, 169-87.
+
+Nie, N.H., J. Junn, and K. Stehlik-Barry (1996), Education and Democratic Citizenship in
+
+America, Chicago: University of Chicago Press.
+
+Norris, P. (1999), ‘Institutional Explanations of Political Support’, in Pippa Norris (ed.), Critical
+
+Citizens: Global Support for Democratic Government, Oxford; New York: Oxford
+
+University Press, 217-35.
+
+Norris, P. (2000), ‘The Impact of Television on Civic Malaise’, in Pharr, Susan J. and Robert D.
+
+Putnam (eds.), Disaffected Democracies: What's Troubling the Trilateral Countries?,
+
+Princeton, NJ: Princeton University Press, 231-51.
+
+OECD (2010), Education at a Glance 2010: OECD Indicators. Paris: OECD.
+
+Parry, G., G. Moyser, and N. Day. (1992), Political Participation and Democracy in Britain,
+
+Cambridge, UK; New York: Cambridge University Press.
+
+Pattie, Ch.J., P. Seyd, and P. Whiteley (2004), Citizenship in Britain: Values, Participation, and
+
+Democracy, Cambridge; New York: Cambridge University Press.
+
+Persson, M. (2012), ‘Education Does Not Cause Political Participation: Evidence From the 1970
+
+British Cohort Study’, Working Paper.
+
+Persson, M. (2014), ‘Testing the Relationship Between Education and Political Participation
+
+Using the 1970 British Cohort Study,’ Political Behavior, n.d.
+
+Resh, N. and C. Sabbagh (2014), ‘Sense of Justice in School and Civic Attitudes’, Social
+
+Psychology of Education, 17 (1), 51–72.
+
+37
+
+Rohrschneider, R. and R. Schmitt-Beck (2002), ‘Trust in Democratic Institutions in Germany:
+
+Theory and Evidence Ten Years After Unification’, German Politics, 11 (3), 35-58.
+
+Rothstein, B. and E.M. Uslaner (2005), ‘All for One: Equality, Corruption, and Social Trust’,
+
+World Politics, 58 (1), 41-72.
+
+Schlozman, K.L., S. Verba, and H.E. Brady (2012), The Unheavenly Chorus: Unequal Political
+
+Voice and the Broken Promise of American Democracy, Princeton, NJ: Princeton University
+
+Press.
+
+Schnaudt, C. (2013), ‘In Search of Reliable Results: Socialist Values and Political Trust in
+
+Unified Germany – A Comment on Campbell’s Analyses and Conclusions’, European
+
+Journal of Political Research, 52 (3), 419–30.
+
+Schoon, I. and H. Cheng (2011), ‘Determinants of Political Trust: A Lifetime Learning Model’,
+
+Developmental Psychology 47 (3), 619.
+
+Schyns, P. and C. Koop (2010), ‘Political Distrust and Social Capital in Europe and the USA’,
+
+Social Indicators Research, 96 (1), 145–67.
+
+Seligson, M.A. (2002), ‘The Impact of Corruption on Regime Legitimacy: A Comparative Study
+
+of Four Latin American Countries’, Journal of Politics, 64 (2), 408-33.
+
+Shehata, A. and J. Strömbäck (2011), ‘A Matter of Context: A Comparative Study of Media
+
+Environments and News Consumption Gaps in Europe’, Political Communication, 28 (1),
+
+110–34.
+
+Strømsnes, K. (2003), Folkets Makt. Medborgerskap, Demokrati, Deltagelse (People’s Power.
+
+Citizenship, Democracy, Participation), Oslo: Gyldendal Akademisk.
+
+Štulhofer, A. (2004), ‘Perception of Corruption and the Erosion of Social Capital in Croatia,
+
+1995-2003’, Politička misao, 41 (5), 74-86.
+
+38
+
+Torney-Purta, J. (2004), ‘Adolescents’ Political Socialization in Changing Contexts: An
+
+International Study in the Spirit of Nevitt Sanford’, Political Psychology 25 (3), 465–78.
+
+van de Walle, S., J.K. Kampen, and G. Bouckaert (2005), ‘Deep Impact for High-Impact
+
+Agencies? Assessing the Role of Bureaucratic Encounters in Evaluations of Government’
+
+Public Performance and Management Review, 28 (4), 532-49.
+
+van der Meer, T.W.G. (2010), ‘In what we trust? A multi-level study into trust in parliament as
+
+an evaluation of state characteristics’, International Review of Administration Sciences, 76
+
+(3), 517-36.
+
+van der Meer, T.W.G. & A. Hakhverdian (2015), ‘Political trust as the evaluation of process and
+
+performance: A cross-national study of forty-two European democracies’, Political Studies
+
+(in press).
+
+Verba, S., K.L. Schlozman, and H.E. Brady (1995), Voice and Equality: Civic Voluntarism in
+
+American Politics, Cambridge, Mass.: Harvard University Press.
+
+Vogt, W.P. (1997), Tolerance and Education: Learning to Live with Diversity and Difference,
+
+London; New Delhi; Thousand Oaks, CA: Sage Publications.
+
+Warren, M.E. (2004), ‘What Does Corruption Mean in a Democracy?’, American Journal of
+
+Political Science, 48 (2), 328-43.
+
+Weakliem, D.L. (2002), ‘The Effects of Education on Political Opinions: An International
+
+Study’, International Journal of Public Opinion Research, 14 (2), 141–57.
+
+Wong, T. K., H. M. Hsiao, and P. Wan (2009), ‘Comparing Political Trust in Hong Kong and
+
+Taiwan: Levels, Determinants, and Implications’, Japanese Journal of Political Science, 10
+
+(2), 147–74.
+
+39
+
+Zmerli, S., K. Newton, and J.R. Montero (2007), ‘Trust in People, Confidence in Political
+
+Institutions, and Satisfaction with Democracy’, in J.W. van Deth, J.R. Montero, and A.
+
+Westholm (eds.), Citizenship and Involvement in European Democracies: A Comparative
+
+Analysis, London; New York: Routledge, 35–65.
+
+Table 11.1
+
+Table 11.2

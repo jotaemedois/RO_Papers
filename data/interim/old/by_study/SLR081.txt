@@ -1,0 +1,2913 @@
+Departamento de Sociologia
+
+Desafeição Política na Europa:
+
+dimensões, padrões e fatores explicativos
+
+Diana Dias de Carvalho
+
+Dissertação submetida como requisito parcial para obtenção do grau de
+
+Mestre em Sociologia
+
+Orientador:
+
+Doutor João de Freitas Ferreira de Almeida, Professor Catedrático (Jubilado)
+
+ISCTE – Instituto Universitário de Lisboa
+
+Co-orientador:
+
+Doutor André Renato Leonardo Neves dos Santos Freire, Professor Auxiliar com Agregação
+
+ISCTE – Instituto Universitário de Lisboa
+
+Maio de 2013
+
+i
+
+Departamento de Sociologia
+
+Desafeição Política na Europa:
+
+dimensões, padrões e fatores explicativos
+
+Diana Dias de Carvalho
+
+Dissertação submetida como requisito parcial para obtenção do grau de
+
+Mestre em Sociologia
+
+Orientador:
+
+Doutor João de Freitas Ferreira de Almeida, Professor Catedrático (Jubilado)
+
+ISCTE – Instituto Universitário de Lisboa
+
+Co-orientador:
+
+Doutor André Renato Leonardo Neves dos Santos Freire, Professor Auxiliar com Agregação
+
+ISCTE – Instituto Universitário de Lisboa
+
+Maio de 2013
+
+ii
+
+iii
+
+AGRADECIMENTOS
+
+Este trabalho é em boa parte reflexo de todos os que contribuíram para a minha formação e
+
+crescimento, profissional e pessoal, nos últimos tempos. Assim importa agradecer;
+
+Em primeiro lugar aos meus orientadores. Ao Prof. João Ferreira de Almeida, e ao
+
+Prof. André Freire, por toda a simpatia, disponibilidade, e reflexões críticas, que foram
+
+cruciais.
+
+Uma palavra especial à Prof. Anália Torres, a minha “madrinha” na Sociologia, pela
+
+confiança depositada em mim desde o início, e por todo o apoio e amizade.
+
+À Prof. Ana Nunes de Almeida, e a toda a equipa do projeto Crianças e Internet, pelas
+
+oportunidades concedidas. Também aos outros investigadores do European Social Survey. Ao
+
+Prof. Rui Brites pelo incentivo inicial para esta dissertação.
+
+Aos meus colegas e amigos no CIES e no ICS, pelas boas referências a nível de
+
+investigação e pessoal. Felizmente são demasiados para serem todos mencionados aqui.
+
+Aos meus colegas de mestrado, pelas partilhas.
+
+Aos meus amigos, por todos os momentos. Em especial à Bárbara, à Filipa, ao João e à
+
+Maria.
+
+À minha família e aos amigos da família. Agradeço à minha mãe e ao meu irmão pelo
+
+apoio e compreensão constantes, e por serem exemplares.
+
+Por fim, agradeço ao meu pai, e à sua coragem, que se tornou para mim uma força em
+
+muitas alturas. Dedico-te a ti este trabalho, porque sei que serias o mais orgulhoso pela
+
+conclusão desta etapa.
+
+iv
+
+v
+
+RESUMO
+
+Esta dissertação centra e aprofunda a análise da desafeição política na Europa. Inserida num
+
+quadro de referência ligado à cultura e atitudes políticas, emerge a centralidade do conceito e
+
+o seu impacto para o funcionamento das democracias. Distinguem-se duas dimensões de
+
+desafeição política; uma mais virada para o interior, que indica a distância dos cidadãos tendo
+
+por referência os seus sentimentos em relação às próprias competências e à política em geral;
+
+e outra mais orientada para o exterior, aludindo às suas perceções de confiança e avaliação da
+
+capacidade de resposta das instituições políticas. Em termos gerais estas duas dimensões
+
+tendem a estar associadas, mas são estruturadas de forma distinta. Por um lado, a dimensão
+
+interna da desafeição política é mais explicada pelas variáveis sociodemográficas e pela
+
+exposição mediática a conteúdos políticos, enquanto na dimensão externa têm maior impacto
+
+as atitudes políticas e a confiança social dos cidadãos. Por outro lado, a desafeição política
+
+externa é mais volátil em relação às conjunturas, contrastando com uma maior estabilidade
+
+temporal dos níveis de desafeição política interna. Os níveis de desafeição política são
+
+relativamente elevados por toda a Europa, mas consideravelmente mais nos países de sul e de
+
+leste do que nos escandinavos. Somente as desigualdades económicas se mostraram
+
+determinantes para explicar as diferenças encontradas entre eles.
+
+Palavras-chave: atitudes políticas, desafeição política, perspetiva comparativa, European
+
+Social Survey ABSTRACT
+
+This dissertation focuses on and deepens the analysis of political disaffection in Europe.
+
+Encompassed in a frame of reference connected to political culture and attitudes, the
+
+centrality of the concept emerges, and its impact on the functioning of democracies. Two
+
+dimensions of political disaffection are distinguished; one more interior-looking, indicating
+
+the distance of citizens with reference to their feelings regarding their own skills and politics
+
+in general, and another more outward-orientated, alluding to their perceptions of the
+
+confidence and responsiveness of political institutions. Overall, these two dimensions tend to
+
+be associated, but are structured in different ways. On one hand, the internal dimension of
+
+political disaffection is explained to a further extent by socio-demographic variables and by
+
+media exposure of political content, while in the external dimension, citizens’ political
+
+vi
+
+attitudes and social trust have a greater impact. On the other hand, external political
+
+disaffection is also more volatile to juncture, as opposed to a greater temporal stability of
+
+internal political disaffection levels. The levels of political disaffection are relatively high
+
+throughout Europe, but considerably higher in the southern and eastern counties than in the
+
+Scandinavian. Only economics inequalities proved decisive in explaining the differences
+
+between them.
+
+Keywords: political attitudes, political disaffection, comparative perspective, European
+
+Social Survey
+
+vii
+
+ÍNDICE
+
+1. Introdução…………………………………………………………………………...………1
+
+2. Culturas e atitudes políticas: a importância da desafeição política………………...…….….3
+
+3. Abordagem metodológica…………………………………………………………………...9
+
+4. A conceptualização da desafeição política………………………………………….……...11
+
+5. A desafeição política na Europa…………………………………………………...……….17
+
+6. Os fatores explicativos da desafeição política……………………………………………..23
+
+7. Conclusões e reflexões finais………………………………………………………………41
+
+8. Bibliografia………………………………………………………………………….……..45
+
+Anexos………………………………………………………………………………………….I
+
+viii
+
+ÍNDICE DE QUADROS E FIGURAS
+
+Quadro 4.1: Conjunto de indicadores de desafeição…………………….……………………14
+
+Quadro 4.2: As dimensões de desafeição política………….………………………….….......15
+
+Quadro 5.1: Desafeição política por cluster de países…………….……………………….....17
+
+Quadro 5.2: Desinteresse político…………………………………….………………...…….20
+
+Quadro 5.3: Desconfiança política……………………………………………………...…….21
+
+Quadros 6.1 – 6.6: Os determinantes individuais da desafeição política interna e externa, por
+
+país……………………………………………………………………………………………30
+
+Quadro 6.7: Os determinantes transnacionais para as variações dos impactos de variáveis
+
+individuais na desafeição política interna e externa……...…………………………………...38
+
+Figura 1: Desafeição política por cluster de países…………………………………………...18
+
+1
+
+1. INTRODUÇÃO
+
+Em 2012 a Comissão Europeia alertou para a importância de combater a apatia política, social
+
+e cívica ao referir a alienação como um perigo à própria democracia, salientando que
+
+“promover um maior envolvimento na sociedade é um grande desafio para as democracias
+
+europeias”1 Esta distância entre os cidadãos e a política tem surgido nas últimas duas décadas
+
+como um dos desafios que as democracias representativas contemporâneas enfrentam. Apesar
+
+da consistência e superioridade do regime democrático tem-se documentado que os cidadãos
+
+estão cada vez mais afastados e alienados do Estado, das suas instituições, dos representantes
+
+políticos, e da política em geral, e também mais desconfiados e críticos em relação ao
+
+funcionamento e desempenho dos mesmos, fazendo com que o fosso entre cidadãos e os seus
+
+representantes se tenha tornando um fenómeno mais amplo.
+
+Estes sintomas persistentes têm-se tornado uma característica familiar e constante da
+
+paisagem política em muitos países, em que cidadãos ou democratas desafetos e críticos
+
+aparecem como novas figuras na arena política (Torcal e Montero, 2006: 4; Norris, 1999). A
+
+esta tendência são também associados avaliações negativas do desempenho governamental e
+
+níveis altos de abstenção política. Torna-se por isso relevante avaliar os desenvolvimentos
+
+desta relação entre os cidadãos e a política, e os seus impactos no funcionamento do sistema
+
+político e da democracia.
+
+Esta dissertação pretende abordar e dar sentido a esta problemática, tomando como
+
+ponto de partida o conceito multidimensional conceptualizado por Torcal e Montero (2006)
+
+de desafeição política. Pretende-se perceber as configurações da desafeição política na
+
+Europa. Desdobrando-se portanto nos seguintes objetivos de pesquisa; (1) analisar o conceito
+
+de desafeição política, conceptual e empiricamente; (2) mapear e caracterizar as tendências de
+
+desafeição política na Europa, numa perspetiva comparativa, na última década; e, (3) explorar
+
+os fatores explicativos, a nível individual, e a nível transacional, destes padrões.
+
+Este trabalho pretende contribuir para o aprofundamento do conhecimento científico
+
+da área, aspirando reforçar e atualizar o saber já adquirido, ao mesmo tempo que procurará
+
+colmatar algumas das insuficiências ou interrogações que foram surgindo. Pretende-se levar
+
+mais além a diferenciação multidimensional do conceito, procurando aprofundar as dimensões
+
+como tal, e perceber se são também estruturadas de forma distinta.
+
+1 Jornal Público, 23 de Outubro de 2012
+
+2
+
+3
+
+2. CULTURAS E ATITUDES POLITICAS: A IMPORTÂNCIA DA DESAFEIÇÃO
+
+POLÍTICA Aqui pretende-se dar conta, à luz da conceção de cultura política, das discussões atuais acerca
+
+das crenças, percepções e avaliações dos cidadãos em relação ao sistema político. A cultura
+
+política pode ser definida como o pensamento social referente à esfera política, por outras
+
+palavras, é a dimensão subjetiva da mesma esfera, incorporando dimensões cognitivas,
+
+avaliativas e conativas (Heimar, Vala e Viegas, 1990: 32).
+
+Um conjunto de conceitos como o cinismo, a apatia, a desconfiança, e a alienação, tem
+
+surgido para caracterizar esta relação, e são muitas vezes medidos de forma semelhante. Este
+
+campo teórico surge no âmbito da designada terceira etapa dos estudos de cultura política
+
+(Frassinetti, 2008: 108), que ganharam dinamismo a partir dos anos 80. Este renascimento
+
+resulta essencialmente da combinação de duas razões centrais. Por um lado, a erosão da
+
+confiança nos representantes políticos e nas instituições e a crescente insatisfação com o seu
+
+funcionamento (Dalton, 2006), e por outro, uma onda de enfraquecimento e queda de governo
+
+autoritários, acompanhado de um surgimento de novas formas de governação democrática: a
+
+designada terceira vaga de democratização (Huntington, 1991). Consequentemente a ideia de
+
+que os sistemas democráticos dependem dos sentimentos enraizados dos cidadãos, e que
+
+portanto a cultura política é importante para a consolidação das democracias, gerou esta fase
+
+de estudos baseada neste conjunto de atitudes, valores e avaliações face ao sistema, ao
+
+governo e às instituições políticas, e também face aos próprios como cidadãos (Frassinetti,
+
+2008: 109).
+
+Estas atitudes políticas são frequentemente agrupadas e reagrupadas, por vezes de
+
+forma imprecisa, sob o conceito geral de apoio político (Offe, 2006). Este conceito, tendo
+
+tradição na obra de referência de David Easton (1965), remete a um conjunto de orientações
+
+de natureza afetiva e avaliativa em relação aos objetos políticos. Pretende-se aqui portanto
+
+clarificar este quadro conceptual.
+
+A necessidade de fazer uma distinção de níveis de atitudes políticas não é nova. A
+
+diferenciação de David Easton (1965) entre apoio específico e apoio difuso (mais geral e a
+
+longo termo) foi sendo refinada por outros autores. Klingemann distingue entre comunidade
+
+política, regime e desempenho de regime. Norris (1999) classifica o apoio político em cinco
+
+tipos; à comunidade, aos princípios do regime, ao desempenho do regime, às instituições do
+
+regime, e aos atores políticos.
+
+Semelhantemente, a literatura na área tem vindo consistentemente a distinguir três
+
+4
+
+conceitos: (i)legitimidade, (in)satisfação e (des)afeição, política e democrática (Montero et al,
+
+1997; Magalhães, 2005). A autonomia relativa destes conceitos tem vindo a ser reforçada,
+
+salientando, teoricamente e também empiricamente, a sua independência e relações entre si.
+
+Assim, estas diferentes atitudes podem ser distinguidas tanto pelo próprio objeto sob
+
+avaliação, como também pelas suas correlações dissemelhantes. Essencialmente defende-se
+
+que são conceitos de natureza diferente.
+
+O conceito de legitimidade democrática, ou apoio democrático, refere-se à crença que
+
+o sistema político democrático representativo, e suas instituições, são a estrutura mais
+
+apropriada para o governo. Este conceito tem por base um tipo-ideal, e assenta num exercício
+
+de comparabilidade com outro tipo de regimes, isto é: a avaliação da democracia ser um
+
+melhor regime que as suas alternativas. É portanto um dos indicadores de consolidação
+
+democrática.
+
+O descontentamento é essencialmente uma avaliação negativa do desempenho das
+
+instituições políticas e seus representantes. Tem por base uma avaliação de resultados. Mede se através de variáveis como a satisfação com o funcionamento da democracia, com estado
+
+atual da economia ou com a forma como o governo está a atuar.
+
+Estes dois conceitos devem ser compreendidos como autónomos, pois o apoio
+
+democrático avalia o regime independentemente das lacunas e fracassos das instituições
+
+políticas, enquanto a insatisfação política avalia o desempenho não pondo em causa os
+
+fundamentos do regime como um todo. Empiricamente também se verifica esta distinção,
+
+com países a demonstrarem uma coexistência entre um apoio forte às instituições
+
+democráticas, mas depois uma insatisfação também elevada com o desempenho dessas
+
+instituições. Portugal é exemplo disto. O nível de apoio à democracia tem-se mantido elevado
+
+e estável desde os anos 80, ao mesmo tempo que surgem níveis elevados de insatisfação com
+
+o seu funcionamento (Freire, 2003), caracterizando o público português como composto por
+
+democratas descontentes (Magalhães, 2005). De facto uma fraca avaliação das suas políticas,
+
+dos seus atores e das suas instituições não impede o apoio aos valores do regime democrático,
+
+e portanto esta distinção reflete a diferenciação entre apoio difuso e apoio específico
+
+referenciado anteriormente.
+
+Uma terceira dimensão emerge, muitas vezes não claramente definida, e caracteriza-se
+
+por um conjunto de indícios; que incluem sentimentos de ineficácia, desinteresse, alienação,
+
+apatia, cinismo, falta de confiança nos representantes políticos, crença que as instituições não
+
+se responsabilizam e uma sensação geral de afastamento da política. Estes sintomas são
+
+5
+
+agrupados e classificados de diversas formas, com nomes diferentes, sendo essencial uma
+
+clara delimitação entre eles.
+
+Um destes é o termo alienação. Este conceito é muito importante no campo da
+
+sociologia, vastamente empregado e abarcando múltiplos sentidos. Os fundadores da
+
+Sociologia, de tradição Marxista, definiam alienação em termos objetivos. Contribuições
+
+contemporâneas salientam a natureza sentimental do conceito (Citrin et al, 1975). Uma das
+
+possibilidades enramadas deste conceito é a que se refere mais especificamente à alienação
+
+política. Alude a sentimentos de distância, mas inclui uma dimensão de desintegração,
+
+irreconheimento ou rejeição do sistema.
+
+O objeto genérico da desafeição política é também a relação entre o cidadão e a
+
+política. Ou seja, refere-se ao envolvimento político, mas exclusivamente à componente
+
+afetiva e sentimental, ao invés de uma componente mais comportamental, como a
+
+participação política, ou mais racional, como a insatisfação ou legitimidade democrática.
+
+Acaba por ser também forma de salientar a componente emocional da ação humana, por vezes
+
+depreciada na Sociologia.
+
+Muitos estudos também demonstram que a desafeição política não tem relação com a
+
+insatisfação ou com o apoio democrático (Montero, 1997). Por um lado, as avaliações dos
+
+cidadãos do desempenho do governo parecem não ter grande impacto na desafeição política.
+
+Por outro, os dados apontam para um número significativo de cidadãos que se caracterizam
+
+por uma combinação de um forte apoio aos ideais democráticos ao mesmo tempo que têm
+
+avaliações críticas em relação ao seu desempenho e funcionamento, e sentimentos de
+
+afastamento aos seus actores e instituições: os designados “democratas desafectos” ou
+
+“democratas críticos” (Norris, 1999; Torcal e Montero, 2006; Magalhães, 2005: 981).
+
+Algumas democracias, em particular as que se referem à terceira vaga de democratização,
+
+embora nem todas, evidenciam níveis altos de apoio ao regime democrático e sua
+
+legitimidade em conjunto com elevados graus de desafeição política. (Torcal, 2006). Também
+
+no contexto português se tem verificado essa prevalência de um sentimento difuso de
+
+distância ao poder (Cabral in Freire et al, 2004: 301). Também Pharr e Putnam (2000)
+
+utilizam a caracterização democracias desafetas.
+
+Não há portanto evidências que comprovem que as democracias contemporâneas
+
+estarão numa crise de legitimidade ou de consolidação, na medida em que o apoio ao regime
+
+democrático aparece como um fenómeno generalizado. A consolidação e estabilidade
+
+duradoura das democracias actuais são também, objetivamente, um reflexo deste fenómeno.
+
+6
+
+Assim, a distinção destes conceitos serve também para reforçar que os potenciais aumentos
+
+dos níveis de insatisfação ou desafeição política não implicam uma situação de crise em
+
+relação ao regime político, não sendo por isso incongruentes com este apoio generalizado ou
+
+com a qualidade da democracia. Estes fracionamentos representam uma rutura com os estudos
+
+anteriores.
+
+Magalhães (2005: 977) acrescenta ainda como estes conceitos se podem distinguir
+
+tendo em conta as suas interdependências com diferentes comportamentos políticos; a
+
+ilegitimidade pode provocar acções de apoio à restituição de um regime alternativo, como o
+
+voto em partidos anti-sistema; a insatisfação origina acção contra o governo em poder, mas
+
+sem implicar necessariamente a substituição das instituições, como o voto em partidos de
+
+oposição; já a desafeição pode implicar uma relutância para o envolvimento na acção política
+
+como um todo. O autor também realça a importância do conceito de desafeição política como
+
+o síndrome atitudinal que parece ser mais consequencial político-comportamentalmente,
+
+provocando passividade política.
+
+De facto o estudo das atitudes e valores dos indivíduos, e seus impactos nos
+
+comportamentos e condições de vida, são cruciais para perceber a relação que os mesmos
+
+constituem com as instituições. O conceito de instituição é também fulcral na abordagem
+
+sociológica. Em termos gerais, uma instituição é um sistema de normas que rege a vida social
+
+quotidiana, nos mais diversos níveis. Inerente às instituições é a reprodução de actos
+
+rotinizados, envolvendo uma habituação e repetição, fazendo com que as mesmas sejam
+
+previsíveis. Falar de instituições é também referir constrangimento e controlo social, no
+
+entanto elas não existem somente como realidades objectivas e exteriores aos indivíduos, mas
+
+são também incorporadas e interiorizadas por eles, possibilitando ao menos tempo um
+
+conhecimento prático e reflexivo, e permitindo tanto a reprodução como também a mudança
+
+das mesmas (Berger e Luckman, 1996)
+
+As consequências do fenómeno da desafeição política para a participação e para a
+
+cidadania, e em última instância para o funcionamento ou qualidade das democracias não são
+
+claras nem óbvias. Apesar de normativamente o conceito de desafeição política comportar
+
+uma conotação negativa, na medida em que pode pôr em causa o funcionamento dos sistemas
+
+democráticos representativos, os estudos têm demonstrado um quadro bem mais complexo e
+
+contraditório. Ao mesmo tempo que se destacam as consequências prejudiciais e pessimistas
+
+para a democracia e para uma presença de uma cidadania menos mobilizada e não informada,
+
+também surgem os impactos positivos que estes cidadãos poderão ter nas instituições
+
+7
+
+democráticas, ao incentivar novas formas de participação política (Torcal e Montero, 2006:
+
+6).
+
+Por um lado, a desafeição política pode desenvolver apatia e desmobilização em todas
+
+as formas de participação e envolvimento dos cidadãos, estando associada a níveis mais
+
+baixos de informação política. A desafeição política já demonstrou estar fortemente associada
+
+a um crescente cinismo em relação à política (Bryner e Ashfird, 1994). Para Montero, a
+
+desafeição política, causa uma cidadania não-informada e não participante. Os desafectos
+
+podem-se caracterizar por uma passividade política, na medida em que já se demonstrou
+
+haver relação entre desafeição política e menos procura de informação e menor frequência de
+
+discussão política, e ainda uma menor participação política, quer eleitoral ou não eleitoral
+
+(Magalhães, 2005). Isto tem também impacto em níveis mais baixos de responsabilização
+
+democrática. Por outras palavras, já se verificou que os desafetos votam menos e utilizam
+
+menos canais de participação política alternativa ao voto, apresentando também níveis de
+
+mobilização cognitiva mais baixos. Neste sentido, esta distância mais generalizada e reforçada
+
+dos cidadãos à política não resulta num benefício para um melhor funcionamento e qualidade
+
+do sistema democrático. Por um lado pode tornar as mudanças políticas e institucionais mais
+
+difíceis, e por outro, esta negligência política pode pôr em causa a qualidade representativa da
+
+democracia.
+
+No entanto também surge recorrentemente o impacto da desafeição como um aumento
+
+significativo da participação não convencional. Norris (1992) sugere que a falta de confiança
+
+institucional pode fazer com que os indivíduos procurem transformar e ultrapassar falhas
+
+institucionais de forma a melhorar os mecanismos existentes, tornando-se assim mais activos
+
+através de vias alternativas de participação política, o que pode ser positivo ao sistema
+
+democrático. Aqui o sentido crítico provoca maior envolvimento, na medida em que exerce
+
+um efeito positivo, nomeadamente na mudança para colmatar as insuficiências das
+
+instituições. Nesta linha de pensamento a desafeição política, num certo grau, pode potenciar
+
+o fortalecimento da governação democrática.
+
+Parte-se portanto do pressuposto que a desafeição política poderá não ter as mesmas
+
+consequências em todos os contextos, ou então que estes dois síndromes atitudinais comportamentais coexistam simultaneamente, podendo tanto desencorajar como promover a
+
+participação política e poder de transformação dos cidadãos face ao Estado. Não se pode
+
+presumir então que exista um conjunto de atitudes políticas ideais para otimizar o
+
+funcionamento de um regime político.
+
+8
+
+9
+
+3. ABORDAGEM METODOLÓGICA
+
+Metodologicamente esta dissertação tem por base uma perspetiva comparada, de âmbito
+
+transnacional, utilizando dados secundários e técnicas estatísticas multivariadas.
+
+Os recentes estudos de cultura política incorporam também uma nova geração de
+
+investigadores provenientes de muitos países, agrupando novos recursos e instrumentos
+
+empíricos, incluindo a criação de bases de dados que permitem a comparabilidade entre os
+
+mesmos (Frassinnetti, 2008: 109). Um destes exemplos é o European Social Survey2, que
+
+serviu como fonte para este trabalho. Provém de um projeto financiado pela Comissão
+
+Europeia e pela Fundação Europeia da Ciência, em conjunto com instituições nacionais de
+
+cada país participante. A recolha de dados ocorre de dois em dois anos, desde 2002, estando
+
+agora na sua sexta aplicação. O objetivo é estudar as atitudes, crenças, valores e
+
+comportamentos das populações europeias numa perspetiva comparativa e longitudinal.
+
+Os dados são recolhidos através de um inquérito por questionário, administrado por
+
+um entrevistador, com um conjunto padronizado de perguntas. O inquérito comporta módulos
+
+permanentes que são aplicados em todas as séries, e que abrangem, de forma geral, varáveis
+
+socioeconómicas, sociopolíticas e sociodemográficas, e inclui também baterias de perguntas
+
+em modo rotativo, que fornecem informação mais específica e profunda sobre temas
+
+socialmente e academicamente relevantes.
+
+Para a componente empírica desta dissertação, serão privilegiados os indicadores
+
+sociopolíticos. Para a grande maioria da análise desta dissertação utilizaram-se os dados
+
+provenientes da primeira edição (referente ao ano de 2002), na medida em que era a que
+
+abarcava o maior número de variáveis e dimensões relevantes para o objeto em estudo3. De
+
+facto, a indisponibilidade, desadequação, ou desatualização dos dados ao próprio estudo
+
+inserem-se no conjunto de limitações da utilização de dados secundários (Freire, 2006: 95).
+
+Foi no entanto efetuada uma análise temporal utilizando todas as séries até 2010 com os
+
+indicadores disponíveis de forma a incorporar também dados mais recentes para o trabalho.
+
+Mais ainda pode-se constatar a natureza relativamente estável e duradoura de algumas
+
+atitudes, como se irá verificar posteriormente, por não modificarem substancialmente dentro
+
+de espaços temporais relativamente curtos, não pondo por isso em causa a relevância dos
+
+dados aqui apresentados.
+
+2 http://www.europeansocialsurvey.org/ 3 Ver anexos, pág. I
+
+10
+
+11
+
+4. A CONCEPTUALIZAÇÃO DE DESAFEIÇÃO POLÍTICA
+
+Neste capítulo pretende-se abordar conceptual e aprofundadamente o objeto principal desta
+
+dissertação: a desafeição política. Como já se abordou anteriormente, este conceito resultou
+
+de um desenvolvimento de um novo campo analítico no final do século XX e viragem do
+
+novo. A desafeição política é concebida como uma das problemáticas centrais do novo campo
+
+de cultura política; uma das grandes questões analíticas, teóricas e empíricas mais influentes
+
+nos estudos recentes (Frassinetti, 2008: 110).
+
+Apesar de o conceito de desafeição política ser multidimensional e abarcar
+
+componentes de natureza distintas, em termos gerais pode-se classificar a desafeição política
+
+como uma atitude, ou mais rigorosamente, um conjunto de atitudes. Uma atitude refere-se a
+
+experiências subjetivas interrelacionadas, desenvolvendo-se enquanto processo, relativamente
+
+estável, simultaneamente afetivo e cognitivo. Predispõe o individuo a reagir
+
+preferencialmente em relação a um objeto ou uma situação, tendo sempre por base uma
+
+dimensão avaliativa (Lima, 2006).
+
+Torcal e Montero (2006: 5-6) clarificam o conceito que definem como um certo
+
+distanciamento da política, bem como uma avaliação crítica das suas instituições,
+
+representantes e processos políticos. Com referência a Di Palma, definem a desafeição
+
+política como “um sentimento subjectivo de impotência, cinismo e falta de confiança no
+
+processo político, nos políticos e nas instituições democráticas, mas sem questionar o regime
+
+político”. Esta definição salienta portanto a distinção deste conjunto de atitudes em relação a
+
+outros, na medida em que não induzem necessariamente a um questionamento da legitimidade
+
+política, reforçando a conceção de democratas desafetos já apresentada anteriormente. Pode se portanto resumir este conceito a um conjunto de atitudes políticas que alude ao
+
+distanciamento das pessoas em relação à política, e às suas instituições e representantes,
+
+abarcando simultaneamente componentes e dimensões diferentes.
+
+Em primeiro lugar, este conceito abarca elementos de natureza distinta em relação à
+
+política, uns de índole mais cognitiva, e a outros mais afetiva. A primeira prende-se com a
+
+crença acerca da capacidade de influenciar as decisões políticas e da complexidade de um
+
+sistema político incompreensível e de difícil acesso, ou com a disposição dos representantes
+
+políticos em permitir serem influenciados. Isto refere-se à sensação subjetiva de ineficácia
+
+política. A eficácia política interna refere-se aos sentimentos em relação à sua capacidade de
+
+compreender e participar na política. A eficácia política externa é a perceção que o mesmo
+
+12
+
+tem da capacidade de resposta dos políticos em relação aos seus interesses, opiniões e
+
+aspirações (Morrell, 2003: 590). A segunda relaciona-se a sentimentos gerais de falta de
+
+envolvimento individual com a política, como por exemplo o desinteresse.
+
+A desafeição comporta também a confiança, que é um dos indicadores centrais do
+
+sentimento latente dos cidadãos sobre a política (Newton e Norris, 1999), e também das
+
+atitudes a ações humanas em geral, incorporando também uma natureza afetiva e avaliativa.
+
+Existe um crescente reconhecimento da importância da confiança nas relações e na sociedade.
+
+Stompka (1999) defende que este surge com uma mudança paradigmática na sociologia de
+
+uma visão mais organicista, sistémica ou estrutural da sociedade, para um mais fluída, onde
+
+dominam os intangíveis e as dimensões culturais da realidade social, como os significados, os
+
+valores, ou as normas. Muito genericamente, a confiança pode ser definida como “uma aposta
+
+sobre as ações futuras dos outros” (25). De facto a confiança está intimamente ligada à
+
+incerteza e incontrolabilidade do futuro humano. Assim sendo, a importância da confiança nas
+
+sociedades surge também com as mudanças e características sociais particulares que surgiram
+
+com o processo de modernização das sociedades. Assim, autores têm vindo a sugerir que com
+
+o desenvolvimento das sociedades para a modernidade, a confiança tem-se tornado num
+
+recurso indispensável (Sztompka, 1994: 15). A crescente complexidade, o enfoque no
+
+individualismo, os maiores graus de incerteza e risco, e a globalidade que caracterizam as
+
+sociedades contemporâneas exigem graus de confiança mais elevados. Fukuyama (1996),
+
+focando-se na relação entre confiança e desenvolvimento, demonstra que o bem-estar e
+
+qualidade de vida de uma nação são fortemente condicionados pelo nível de confiança
+
+inerente. Assim sendo a confiança é fundamental para o funcionamento das sociedades, e dos
+
+sistemas políticos.
+
+Os estudos mais recentes apontam para a existência de dois tipos de desafeição
+
+política. Torcal e Montero (2006: 6-7) defendem que a desafeição política comporta duas
+
+subdimensões parcialmente autónomas. Uma que se designa political disengagement, ou
+
+“desapego político” (Martín, 2005) que se refere a um distanciamento pessoal em relação à
+
+política: “um conjunto de atitudes que se relaciona com uma desconfiança generalizada da
+
+política e com a falta de envolvimento dos cidadãos com o processo político” É medida
+
+através de indicadores de interesse político subjetivo, de relevância/saliência política, ou seja,
+
+a importância da política na vida, e também através da ineficácia política interna, ou seja da
+
+perceção do cidadão de si próprio como parte do processo político. Inclui também uma
+
+predisposição, ou crença, na capacidade para a sua participação política (Martín, 2005).
+
+13
+
+E depois uma segunda dimensão, institucional disaffection, que se centra mais na
+
+posição crítica e nos sentimentos de desconfiança perante as instituições e representantes
+
+políticos, isto é; às “crenças acerca da falta de capacidade de resposta de autoridades e
+
+instituições políticas, e à falta de confiança dos cidadãos nas instituições políticas”. Comporta
+
+portanto variáveis de confiança nas instituições políticas, como a desconfiança em relação ao
+
+parlamento, aos partidos políticos ou aos políticos, e de eficácia política externa, que se refere
+
+à percepção da recetividade dos políticos face aos interesses, opiniões, aspirações e exigências
+
+dos próprios.
+
+Apesar do reconhecimento teórico da natureza distinta destas duas dimensões, a
+
+mesma não se reflete empiricamente. Por um lado os estudos sobre o conceito de desafeição
+
+política não confirmam empiricamente estas duas dimensões, e por outro, também não as
+
+tratam e trabalham como tal, utilizando os indicadores individualmente Este trabalho pretende
+
+portanto aprofundar estas duas dimensões, explorando adicionalmente a sua diferenciação,
+
+nomeadamente em termos dos seus padrões e do que as estruturam.
+
+De forma a verificar empiricamente a plausibilidade de considerar esta
+
+multidimensionalidade do conceito de desafeição política, realizou-se uma análise fatorial.
+
+Optou-se pelo método Análise em Componentes Principais4 para perceber a estrutura latente
+
+subjacente ao conjunto de variáveis associado ao conceito de desafeição política. Na tabela
+
+seguinte apresenta-se os indicadores que entraram nesta análise5.
+
+4 Ver anexos, pág. IV 5 Ver nos anexos a informação relativa à transformação das variáveis, pág. II
+
+14
+
+Quadro 4.1: Conjunto de indicadores de desafeição política
+
+Indicador Pergunta no questionário
+
+Desinteresse
+
+na política
+
+De um modo geral, qual o seu interesse pela política? (1= Muito interesse; 2= Algum interesse; 3= Pouco interesse; 4= Nenhum interesse)
+
+A política é complicada
+
+Com que frequência a política lhe parece tão complicada que não percebe verdadeiramente o que se está a passar? (1= Nunca; 2= Raramente; 3= Algumas vezes; 4= Bastantes vezes; 5= Frequentemente)
+
+Predisposição
+
+para a não participação
+
+na política
+
+Acha que podia participar num grupo dedicado a questões política? (1= De certeza que sim; 2= Provavelmente sim; 3= Não tenho a certeza; 4= Provavelmente não; 5 = De certeza que não)
+
+Dificuldade
+
+em tomar
+
+posições políticas
+
+De uma forma geral, qual o grau de dificuldade que sente em tomar uma posição acerca de questões políticas? (1= É muito fácil; 2= É fácil; 3= Nem é difícil nem é fácil; 4= É difícil; 5= É muito difícil)
+
+Desinteresse dos políticos por aquilo que
+
+as pessoas
+
+pensam
+
+Acha que os políticos, em geral, se interessam por aquilo que as pessoas como o sr/ a sra pensam? (1= Quase todos se interessam; 2= Muitos interessam-se; 3= Alguns interessam-se; 4= Muito poucos se interessam; 5= Quase nenhuns se interessam)
+
+Desinteresse dos políticos nos votos, em
+
+vez de na opinião das
+
+pessoas
+
+Em geral, os políticos estão mais interessados em ganhar os votos das pessoas e não se interessam tanto pelas suas opiniões? (1= Quase todos estão interessados na opinião das pessoas; 2= A maior parte está interessada na opinião das pessoas; 3= Alguns estão interessados apenas nos votos, outro não; 4= A maior parte está interessada apenas nos votos; 5= Quase todos estão interessados apenas nos votos)
+
+Desconfiança no Parlamento
+
+Diga-me, por favor, qual a confiança pessoal que tem em cada uma das instituições: no Parlamento (0= Toda a confiança; 10= Nenhuma confiança)
+
+Desconfiança
+
+nos políticos
+
+Diga-me, por favor, qual a confiança pessoal que tem em cada uma das instituições: nos políticos (0= Toda a confiança; 10= Nenhuma confiança)
+
+Nãoimportância da política na
+
+vida
+
+Qual a importância da política na sua vida? (0= Extremamente importante; 10= Nada importante)
+
+15
+
+O objetivo é portanto identificar dimensões analíticas, ou subgrupos temáticos
+
+distintos, ao distinguir subconjuntos de variáveis muito correlacionados entre si e pouco
+
+associados de outros subconjuntos.
+
+Quadro 4.2: As dimensões de desafeição política (Análise de Componentes Principais com rotação Varimax)
+
+Componentes:
+
+Itens:
+
+Desafeição política
+
+externa
+
+Desafeição política
+
+interna
+
+Desconfiança nos políticos ,848 ,098
+
+Desconfiança no Parlamento ,781 ,068
+
+Interesse dos políticos nos votos, em vez de na opinião das pessoas ,747 ,136
+
+Desinteresse dos políticos por aquilo que as pessoas pensam ,743 ,197
+
+Desinteresse na política ,189 ,784
+
+Dificuldade em tomar posições políticas -,022 ,744
+
+Capacidade de participar em questões políticas ,116 ,674
+
+A política é complicada ,284 ,658
+
+Irrelevância da política na vida ,078 ,654
+
+Variância Explicada (%) 37,7 19,3 Variância Explicada Cumulativa (%) 57,0
+
+Fonte: ESS 2002
+
+Verifica-se então a extração de duas dimensões latentes, que no seu conjunto explicam
+
+57 % da variância total.
+
+Na primeira, as variáveis mais representativas são as da confiança nas instituições
+
+políticas: nos políticos e no parlamento, e os indicadores de ineficácia política externa: o
+
+interesse que os políticos têm nas pessoas.
+
+Da segunda dimensão fazem parte com maior importância, o interesse subjetivo na
+
+política, as variáveis referentes à eficácia política interna, avaliando a competência que as
+
+16
+
+pessoas acham que têm na política, e a saliência política.
+
+Assim sendo confirma-se as dimensões identificadas no quadro teórico. Ambas se
+
+referem à distância entre os cidadãos e a política, mas distinguem-se essencialmente pela
+
+direção da relação avaliada. A primeira alivia-a tendo em conta as instituições políticas
+
+perante as pessoas, já a segunda, parte dos sentimentos dos próprios indivíduos em relação à
+
+política. Por outras palavras, uma está orientada para o exterior, por ter por referência a
+
+capacidade de resposta dos políticos, enquanto a outra para o interior, por aludir à própria
+
+capacidade de influência. Assim, e fazendo um paralelismo com os conceitos de eficácia
+
+externa e interna, renomeou-se as seguintes dimensões de, desafeição política externa, e
+
+desafeição política interna, respetivamente.
+
+Esta análise é também útil para resumir informação, na medida em que permite reduzir
+
+o número de variáveis com que se trabalha ao mesmo tempo que se contempla os múltiplos
+
+indicadores, ao invés de trabalhar com as variáveis isoladamente. Assim sendo, e utilizando
+
+os resultados do conjunto de variáveis mais associado a cada dimensão, passa-se a ter duas
+
+novas variáveis compósitas, independentes, latentes e quantitativas. Procedeu-se então à
+
+normalização de todas a variáveis para uma escala de 0 a 1006 e de seguida ao cálculo de cada
+
+índice através das médias das variáveis de cada dimensão, respetivamente: o de desafeição
+
+política externa7, e o de desafeição política interna8.
+
+6 Método Min-Max (OECD, 2008: 28), ver anexos, pg. VI 7 α= 0,80 8 α= 0,75
+
+17
+
+5. A DESAFEIÇÃO POLÍTICA NA EUROPA
+
+Neste capítulo pretende-se dar conta dos níveis de desafeição política na Europa, e também da
+
+sua evolução na última década, numa perspectiva comparativa tentando traçar semelhanças e
+
+dissociações entre países de forma a poder identificar padrões distintos.
+
+Retomando o capítulo anterior, parte-se então do pressuposto que a desafeição política
+
+é um síndrome, em que os sintomas são situados num continuum, de um pólo em que os
+
+cidadãos estão fortemente interessados e próximos com todo o sistema político, passando por
+
+uma série de configurações intermédias, até chegar a um extremo caracterizado por bastante
+
+hostilidade e afastamento perante o sistema político.
+
+Em primeiro lugar importa perceber até que ponto a desafeição política é um
+
+fenómeno geral da Europa, e que diferenças existem entre países Europeus relativamente a
+
+estes indicadores de desafeição política. Para este efeito procedeu-se a uma análise de
+
+clusters9 com o objetivo de agrupar um conjunto de 21 países em tipologias distintas
+
+relativamente aos índices de desafeição política criados10. Da mesma resultou a definição dos
+
+seguintes cinco grupos semelhantes.
+
+Quadro 5.1: Desafeição política por cluster de países (médias)
+
+Índice de desafeição política interna
+
+Índice de desafeição política externa
+
+Noruega, Suécia, Finlândia, Holanda, Luxemburgo, Suíça 54,7 52,8
+
+Dinamarca 45,4 46,7
+
+Reino Unido, França, Bélgica,
+
+Irlanda, Hungria, Itália 60,3 62,8
+
+Alemanha, Áustria 49,8 65,0
+
+Rep. Checa, Polónia, Eslovénia,
+
+Espanha, Portugal, Grécia 62,0 70,5
+
+Total 58,0 64,4
+
+Fonte: ESS 2002
+
+9 Através do método K-Means Cluster Analysis, ver anexos, pág.VIII 10 Ver tabela com as médias dos índices por país, anexos pág. VII
+
+18
+
+Verifica-se que, em geral, e para a maioria dos países, o índice referente à dimensão
+
+mais externa da desafeição política é mais elevado do que o alusivo à natureza mais interna,
+
+sugerindo que há uma tendência genérica para os cidadãos se sentirem mais afastados e
+
+críticos em relação à política quando se referem às instituições, do que quando se referem a si
+
+próprios. Isto liga-se à resistência do privado e íntimo em relação às avaliações do contexto,
+
+na medida em que existe a tendência de avaliar sempre pior o contexto.
+
+Na figura seguinte estão representadas as médias correspondentes a cada país, a e
+
+identificação do clusters.
+
+Figura 5.1: Desafeição política por país (médias), e clusters
+
+Através do gráfico de dispersão verifica-se instantaneamente que parece existir uma
+
+correlação relevante entre os níveis de desafeição política interna e externa. Ou seja, estas
+
+duas componentes estão bastante associadas. Também se constata que os Europeus em geral
+
+sentem-se desafetos pois a grande maioria dos países apresenta níveis acima do centro da
+
+escala.
+
+Centro da escala
+
+Fonte: ESS 2002
+
+19
+
+Verifica-se então que a Dinamarca se destaca dos restantes países europeus por
+
+isoladamente demonstrar níveis de desafeição política interna e externa abaixo do meio da
+
+escala.
+
+Há depois um segundo grupo composto pelos restantes países escandinavos, e
+
+incluindo a Holanda e a Suíça, que se caracteriza por ser o único que apresenta uma tendência
+
+distinta dos outros países por apresentar médias inferiores de desafeição política externa, em
+
+relação à interna, sugerindo que os indivíduos ponderam com maior proporção a dimensão
+
+interna da distância política. Mas relativamente ao resto da Europa apresentam também níveis
+
+mais baixos.
+
+Temos depois outro agregado que se destaca exatamente pelo inverso; a Alemanha e a
+
+Áustria são os países que apresentam menor associação entre estas duas dimensões,
+
+apresentando uma desafeição política externa bastante superior à interna. São portanto países
+
+em que os cidadãos são muito mais críticos em relação às instituições.
+
+Há depois um grupo que se evidência por se compor pelos cidadãos que mais
+
+afastados e desconfiados se sentem da política, a todos os níveis. Estes provêm dos países da
+
+Europa do Sul e do Leste. Portugal e Espanha sobressaem por apresentar os níveis de
+
+desafeição política externos e internos, respetivamente, mais altos da Europa.
+
+Por fim, há um conjunto de países que demonstra, em termos comparativos, níveis
+
+médios de desafeição, envolvendo uma diversidade de países, que inclui os do centro da
+
+Europa, mais o Reino Unido, Irlanda, Hungria e Itália.
+
+É também importante passar de uma perspetiva estática para uma dinâmica da
+
+desafeição política (Montero et al, 1997), em que se pretende perceber até que ponto as
+
+tendências de atitudes de distância à política são semelhantes na Europa ao longo do tempo.
+
+Apesar de teoricamente a literatura partir de uma presença de níveis crescentes de
+
+desafeição política, empiricamente os seus padrões não se têm provado claros. Os estudos que
+
+abordam a desafeição política numa perspectiva longitudinal têm sido insuficientes e têm
+
+apresentado orientações divergentes. De facto as análises longitudinais sugerem mais a
+
+existência de processos cíclicos ao invés de tendências positivas e irreversíveis (Torcal, 2006:
+
+336). As democracias mais recentes são uma excepção; têm mostrado níveis de desafeição
+
+política elevados e constantes.
+
+Pretendeu-se então também verificar o comportamento dos indicadores de desafeição
+
+política ao longo dos últimos 10 anos, apesar de se reconhecer que este período temporal é
+
+insuficiente para apreender tendências de longo-prazo referentes a este conjunto de atitudes.
+
+20
+
+Quis-se também perceber se o surgimento da crise económica teve algum impacto nestas
+
+dimensões, apesar de se acreditar que o seu efeito poderá ser retardado e cumulativo, na
+
+medida em só se evidenciará mais tarde, surgindo com os dados mais recentes de 2012.
+
+Quadro 5.2: Desinteresse político (médias)
+
+2002 2004 2006 2008 2010
+
+Dinamarca 2,3 2,3 2,2 2,1 2,2 Noruega 2,5 2,5 2,5 2,5 2,5 Suécia 2,4 2,4 2,3 2,4 2,3 Finlândia 2,6 2,6 2,6 2,5 2,6 Suíça 2,3 2,4 2,4 2,4 2,4 Holanda 2,3 2,4 2,4 2,3 2,3 Alemanha 2,2 2,4 2,4 2,3 2,3 Reino Unido 2,5 2,6 2,6 2,5 2,6 França 2,7 2,8 2,6 2,5 2,6 Bélgica 2,7 2,7 2,7 2,6 2,7 Hungria 2,6 2,7 2,7 2,8 2,8 Polónia 2,7 2,8 2,7 2,7 2,7 Eslovénia 2,7 2,7 2,7 2,6 2,7 Espanha 3,1 2,9 3,0 3,0 2,9 Portugal 2,9 3,1 3,0 3,1 3,1
+
+Fonte: ESS
+
+Verifica-se então uma estabilidade muito consistente dos níveis de interesse político
+
+nos últimos anos, cujas mudanças nos níveis de desinteresse político se restringem a casas
+
+decimais.
+
+21
+
+Quadro 5.3: Desconfiança política (médias)
+
+Parlamento Políticos 2002 2004 2006 2008 2010 2002 2004 2006 2008 2010 Dinamarca 3,8 3,7 3,6 3,5 4,2 4,5 4,4 4,4 4,4 5,0 Noruega 4,3 4,6 4,3 4,2 4,0 5,4 5,8 5,6 5,4 5,1 Suécia 4,1 4,6 4,4 4,3 3,7 5,3 5,8 5,5 5,4 5,0 Finlândia 4,2 4,0 4,0 4,0 4,6 5,2 5,1 5,1 5,1 5,6 Suíça 4,2 4,5 4,2 4,2 4,2 5,1 5,2 5,1 5,1 5,0 Holanda 4,8 5,3 4,7 4,4 4,6 5,1 5,3 5,0 4,8 4,8 Alemanha 5,5 5,8 5,8 5,3 5,7 6,5 6,8 6,7 6,5 6,6 Reino Unido 5,3 5,7 5,8 5,7 5,9 6,2 6,4 6,6 6,4 6,6 França 5,5 5,7 5,7 5,5 5,8 6,4 6,5 6,7 6,5 6,8 Bélgica 5,0 5,3 5,0 5,4 5,5 5,7 5,8 5,6 6,0 6,1 Hungria 5,0 6,4 6,6 7,4 5,8 6,1 7,3 7,5 8,1 6,9 Polónia 6,5 7,6 7,3 7,0 6,6 7,3 8,1 7,9 7,7 7,3 Eslovénia 6,0 5,9 5,8 5,6 7,0 6,9 6,9 6,8 6,6 7,7 Espanha 5,2 4,9 5,0 5,0 5,7 6,6 6,3 6,5 6,7 7,3 Portugal 5,6 6,3 6,2 6,5 7,1 7,2 7,9 7,5 7,7 8,0
+
+Fonte:ESS
+
+Já em relação aos níveis de confiança sentidos quanto às instituições políticas, as
+
+diferenças, em termos gerais, revelam-se um pouco mais significativas, embora como a escala
+
+de resposta é mais ampla, potencia as mesmas.
+
+Verifica-se então que na Dinamarca a confiança em relação ao parlamento e aos
+
+políticos tem estado a aumentar ligeiramente desde 2002, depois uma descida acentuada em
+
+2010. O mesmo acontece entre os cidadãos finlandeses. Ao contrário, na Suécia, os níveis de
+
+desconfiança descem consistentemente desde 2004.
+
+A Holanda destaca-se por apresentar níveis de confiança relativamente baixos em
+
+relação ao Parlamento, mas que têm vindo a aumentar.
+
+O Reino Unido e a França mostram níveis de confiança política bastante constantes, já
+
+a Bélgica evidencia-se por demonstrar um aumento de desconfiança nas instituições políticas
+
+desde 2006.
+
+A Hungria destaca-se por ser o país com maior discrepância nos seus níveis de
+
+confiança política. No início da década apresentava níveis de desconfiança médios
+
+relativamente aos restantes países europeus, no entanto, até 2008 sofreu um aumento bastante
+
+abruto de desconfiança, quer no parlamento, quer nos políticos, tornando-se parte dos
+
+22
+
+cidadãos europeus que mais desconfiavam das instituições políticas. Em 2010 esses níveis
+
+descem expressivamente, para níveis semelhantes aos países do centro da Europa, de novo.
+
+Portugal revela uma consistente desconfiança em relação ao parlamento na última
+
+década. Já a Espanha e a Eslovénia demonstram níveis de confiança política relativamente
+
+estáveis, mas com uma descida significativa em 2010. A Polónia, neste contexto, mostra ser
+
+uma contra-tendência com os seus níveis de confiança em relação às instituições políticas a
+
+aumentar consistentemente desde 2004.
+
+Assiste-se a aumento da desconfiança institucional política de 2008 para 2010 em
+
+muitos países, embora mais evidente na Dinamarca, Finlândia, Espanha, Portugal e Eslovénia,
+
+como já verificado, podendo portanto ser já um reflexo do início da crise económica e social
+
+sentida.
+
+Comparando os dois indicadores, há então evidências que a confiança política,
+
+variável de desafeição política externa, não se mostra tão persistente e sedimentada como o
+
+indicador que representa a dimensão interna da desafeição (o interesse político), sugerindo
+
+que esta última é mais estável, e a externa mais permeável a efeitos de conjuntura.
+
+23
+
+6. OS FACTORES EXPLICATIVOS DA DESAFEIÇÃO POLÍTICA
+
+Os estudos que se centram na construção de quadros explicativos para o fenómeno da
+
+desafeição política inserem-se na discussão teórica acerca do confronto do carácter mais
+
+cultural ou mais racional da formação das atitudes políticas (Torcal e Montero, 2006: 10).
+
+Este debate apresenta-se em Mishler e Rose (2001) quando opõem o modelo cultural e o
+
+modelo institucional na explicação da confiança das instituições políticas.
+
+A explicação mais cultural reforça os fatores exógenos ao sistema político, e defende
+
+que as atitudes, como características enraizadas nos cidadãos, são traços culturais que derivam
+
+e se transmitem através de processos de socialização a longo prazo, e que tendem a ser
+
+estáveis e reproduzidos pelos mesmos meios, mudando a um compasso lento.
+
+Por outro lado, há o modelo mais racional que defende que as atitudes são reflexo dos
+
+resultados dos acontecimentos e ocorrências políticos, mais específicos, e portanto das
+
+experiências, expectativas e avaliações do desempenho institucional e político, reforçando os
+
+fatores endógenos à política. Neste argumento as atitudes formam-se através do processo
+
+racional, e podem alterar-se a um ritmo mais rápido.
+
+Apesar destes dois argumentos pareceram competitivos, Torcal e Montero (2006: 12)
+
+defendem que é possível admitir que as atitudes políticas são mais ou menos estáveis, e são
+
+resultado da interação tanto de fatores de longo como de curto prazo, admitindo estes
+
+paradigmas como conceptualmente complementares. Já inúmeros estudos comprovam os
+
+efeitos culturais simultaneamente aos racionais nas atitudes políticas, na medida em que estes
+
+fenómenos não dependem unicamente da cultura local nem do funcionamento e desempenho
+
+político (Luhiste, 2006).
+
+Esta pluralidade teórica não impede as articulações de várias abordagens, selecionado
+
+e recombinando contributos distintos, e permitindo assim transformar as oposições em
+
+complementaridades, possibilitando uma maior cumulatividade (Pires, 2007:11). Esta pode
+
+portanto ser uma forma de lidar com a natureza pluriparadigmática das ciências sociais
+
+(Almeida, 2007: 22), em que coexistem várias teorias e múltiplos quadros teóricos referentes
+
+ao mesmo objeto. Assim sendo, polarizar deste modo a dicotomia racional vs. cultural pode
+
+ser útil para localizar problemas, mas reforça-se que esta dualidade e importância relativa
+
+dada aos fatores é no seu essencial apenas uma questão empírica.
+
+Parte-se então do pressuposto de que as atitudes podem ser formadas exteriormente,
+
+como interiormente à política; e podem ser tanto um resultado cumulativo de padrões de
+
+24
+
+socialização mais longos, como a partir de avaliações e cálculos racionais de eventos mais
+
+recentes, importando também em simultâneo a política do presente bem como as memórias do
+
+passado.
+
+Uma das explicações mais importantes e recorrentes neste âmbito é a que se relaciona
+
+com as teorias do capital social. O modelo culturalista, no seu modo mais puro, tem por base a
+
+ideia que os padrões crescentes de desafeição política são o reflexo da tendência da queda da
+
+confiança social (Torcal e Montero, 2006: 11).
+
+O conceito de capital emergiu na Sociologia como central nas teorias marxistas, mas o
+
+seu uso tem vindo a ser continuado e mutável. Bourdieu é uma das referência-chave na
+
+ampliação da respetiva conceptualização e insere o conceito de capital num espaço social
+
+(Bourdieu, 1997: 7), pluridimensional, em que os agentes se distribuem em função das suas
+
+posições sociais relacionalmente definidas. A estas correspondem diferentes volumes e tipos
+
+de capitais principais, relacionados e conversíveis: o económico, o social, o cultural, e o
+
+simbólico. Assim o capital pode ser concebido como um conjunto de posses relacionalmente
+
+definido. Nesta perspetiva, o capital social refere-se ao agregado dos recursos actuais ou
+
+potenciais que estão ligados à posse de uma rede durável de relações mais ou menos
+
+institucionalizadas, de conhecimento ou reconhecimento mútuo (Bourdieu, 1986: 51),
+
+abarcando simultaneamente componentes estruturais e culturais. Assim sendo, as relações
+
+sociais podem ser vistas simultaneamente como um modo para aceder a recursos, mas
+
+também elas próprias como um recurso.
+
+Este conceito também pode ser utilizado referindo-se a características de organização
+
+social, como a confiança, as normas e as redes (Putnam, 2000). Esta conceção de capital
+
+social é diferente da apresentada por Bourdieu, remetendo mais para os laços fracos das
+
+relações, do que para os laços fortes. O que une as duas abordagens acaba por ser a
+
+importância da confiança. Putnam (1995) é então um dos autores mais importantes neste
+
+contexto (1995), argumentando que o aumento da desconfiança política será consequência da
+
+tendência decrescente dos níveis de capital social, em particular da confiança interpessoal, nas
+
+sociedades avançadas. Ou seja, à luz desta abordagem, a confiança social predispõe à
+
+confiança política, numa direcção positiva. A confiança torna-se também depois crucial para a
+
+participação e funcionamento políticos.
+
+Apesar da correlação entre confiança social e confiança política ser muita estudada,
+
+nem sempre tem resultados consistentes e óbvios. Evans e Letki (citados em Torcal e
+
+Montero, 2006) desafiam a tendência positiva desta causalidade ao mostrarem que esta
+
+25
+
+relação pode ser negativa nas novas democracias da Europa Central e de Leste: indivíduos
+
+com níveis mais elevados de confiança social eram também aqueles com menos confiança nas
+
+instituições políticas. Uma das explicações dadas pode ter a ver com particularidade do
+
+passado não democrático destes regimes, na medida em que se desenvolveu uma confiança
+
+social mais elevada para compensar áreas em que o governo falhava. A direcção causal entre
+
+confiança social e política é também posta em causa, admitindo-se que a política também
+
+pode influenciar a confiança interpessoal. Já Newton (2006), mostra que a relação entre
+
+confiança social e confiança política é mais significativa a nível agregado do individualmente,
+
+salientado a importância da propriedade social e coletiva do conceito.
+
+Para além do impacto da confiança que as pessoas têm umas nas outras, esta
+
+abordagem também abarca a inserção e participação nas organizações sociais. Putnam (1995)
+
+defende a inserção e o associativismo em organizações como uma fonte de civismo na medida
+
+em que pode desenvolver atitudes democráticas. A relação entre afiliações a associações e/ou
+
+organizações a atitudes de afeição política tende a ser positiva, mas não é uniforme, pois
+
+depende do tipo de organização na qual o indivíduos se insere (Van Deth, citado em Torcal e
+
+Montero, 2006).
+
+Assim sendo, a confiança política pode ser vista, até um certo ponto, como um
+
+subproduto da confiança social (Mishler e Rose, 2001), e muitos autores têm vindo a
+
+sublinhar a importância do capital social para a política. No entanto, a relação entre capital
+
+social e desafeição política pode-se revelar-se indeterminada, podendo variar tendo em conta
+
+o contexto e ser condicionada por outros determinantes, incluindo factores políticos.
+
+Também nas explicações culturais se pode inserir a desafeição política como
+
+subproduto de outras mudanças culturais do seculo XX; uma das mais centrais é a
+
+modernização. De acordo com Inglehart (1997: 4-5) desde os anos 60 que os países ocidentais
+
+têm sofrido uma mudança cultural para se adaptar às transformações estruturais, como o
+
+desenvolvimento económico e tecnológico, o aumento dos níveis de escolaridade, e a
+
+expansão dos meios de comunicação. Isto implicou uma polarização entre valores
+
+materialistas e valores pós-materialistas, estes últimos caracterizando-se por uma preferência
+
+relativamente a questões de autoexpressão, estética, pertença à comunidade, participação e
+
+qualidade de vida. A emergência destes valores tem impacto nas atitudes nas mais diversas
+
+esferas da vida, incluindo a politico-ideológica, contribuindo para que os indivíduos sejam
+
+mais exigentes na avaliação do mundo político. Isto por sua vez tem efeito nos
+
+comportamentos, enfraquecendo as formas tradicionais de participação e aumentando a
+
+26
+
+propensão para uma participação política não-convencional, potenciando a emergência de
+
+novos movimentos sociais. Esta perspetiva salienta portanto o papel da cultura política na
+
+democracia.
+
+O facto de a desafeição se ter mostrado um fenómeno com tendência relativamente
+
+estável não implica que esteja desligado de determinadas situações de conjuntura, como o
+
+desempenho económico, os escândalos políticos, ou outros eventos. No modelo mais racional,
+
+avaliam-se as condições macroeconómicas, configurações institucionais, as avaliações do
+
+desempenho governamental e económico, as preferências partidárias, os escândalos políticos,
+
+a percepção de corrupção, a implementação de políticas especificas, etc., como explicação
+
+para as atitudes políticas. Assim, salienta-se o impacto de factores institucionais e políticos,
+
+mais precisamente do desempenho percebido da política, nas atitudes políticas. A fraca
+
+perceção em relação ao governo e às instituições é um das razões apontadas para explicar os
+
+baixos níveis de desafeição política. O argumento centra-se no facto de as pessoas terem
+
+crescentes expectativas em relação às instituições, devido às extensivas função do Estado, que
+
+depois as instituições não conseguem cumprir, fazendo aumentar o sentido crítico. Assim,
+
+quanto mais desfavoráveis as avaliações políticas, mais elevado o nível de desafeição política.
+
+O desempenho económico subjectivamente apreciado tem-se mostrado também
+
+determinante. McAllister (in Norris, 1999) concluiu que há uma relação entre satisfação
+
+económica e confiança nas instituições, mas que a mesmo não se verificava quando se
+
+analisava o impacto dos indicadores objetivos de desempenho económico, por exemplo o PIB,
+
+ou o nível de desemprego. Assim sendo, a relação pode não ser tão forte quando se avalia o
+
+impacto de indicadores objetivos de desempenho das instituições.
+
+Esta perspetiva tende portanto a encarar a desafeição política como um exercício
+
+reflexivo em que os indivíduos confrontam as avaliações que fazem dos actores e sistema
+
+políticos com as espectativas que tinham dos mesmos.
+
+Apesar de este modelo ser associado a efeitos a curto-prazo, o mesmo também abarca
+
+o impacto das instituições e das políticas a mais longo prazo. Assim sendo, as instituições
+
+políticas são concebidas como um fenómeno relativamente estável, e os seus efeitos podem
+
+ser tratados como experiências de socialização, o que sugere que as atitudes nesta perspectiva
+
+não são totalmente racionais e estratégicas, dependendo também da interpretação dos sujeitos.
+
+Assim, esta é também influenciada por outros fatores. Está-se aqui próximo da abordagem do
+
+institucionalismo histórico (Torcal e Montero, 2006: 13), afirmando que “…as instituições
+
+ajudam a definir estratégias entre os diferentes actores na presente arena política, e
+
+27
+
+desempenham também um papel importante na formação das suas preferências para o
+
+presente e para o futuro”. Salientando-se a importância do papel das memórias do passado.
+
+Seguindo esta linha de pensamento, existem teorias que ligam as atitudes políticas às
+
+vagas de democratização, isto é, à história e tempo de democracia. Nas democracias com
+
+meio século ou mais, os cidadãos têm uma experiência democrática considerável e
+
+acumulada, visto que muitos já nasceram em democracia. Já aqueles que vivem em
+
+democracias mais recentes têm uma experiência mais delicada e limitada. Uma parte
+
+significativa dos indivíduos tem ainda presente um passado não democrático, ou referências a
+
+essas memórias, o que faz com que tenham patamares de avaliação distintos e diferentes
+
+visões em relação às instituições e aos seus representantes, muitas vezes negativas. De facto
+
+tem-se verificado que existe uma tendência para as novas democracias terem níveis de
+
+desafeição política mais elevadas (Torcal, 2006), apesar de não ser assim em todos os casos e
+
+não ser uma característica exclusiva dessas democracias. De facto, e como se verificou no
+
+gráfico apresentado no capítulo anterior, as democracias mais recentes demonstram níveis
+
+claramente superiores de desafeição política. Mas esta tendência pode não estar unicamente
+
+associada à longevidade democrática dos países, mas também à rapidez e profundidade das
+
+suas transformações. Almeida (2013) aponta uma explicação para a proximidade e sintonia de
+
+Portugal com os países de Leste em termos de atitudes e valores, pelas “transformações
+
+bruscas” experienciadas nestes países (em 1974 e 1989), argumentando que o reduzido tempo
+
+para os cidadãos e instituições assimilarem mudanças sociais profundas tem efeitos
+
+específicos nos modo como interpretam o seu contexto, criando um grande fosso entre as
+
+expectativas e as avaliações, entre o que se espera e o que se passa, podendo edificar visões
+
+pessimistas e desencantadas. Esta abordagem acaba por ter um paralelismo com a designada
+
+“fase pós-lua-de-mel” referida por Inglehart e Catterberg (2002), defendendo que após a
+
+transição para a democracia, a maioria das novas democracias sofreram um período de
+
+desilusão e desencanto com o sistema, e prevendo que vá diminuindo com a sua consolidação.
+
+Assim sendo, pretende-se verificar em simultâneo o impacto dos fatores, quer de
+
+natureza mais cultural, ou estrutural, quer de componente mais racional, ou conjuntural, nos
+
+níveis de desafeição política. Ambiciona-se adicionalmente perceber até que ponto a
+
+dimensão interna e externa da desafeição política são formadas de forma diferente.
+
+Num primeiro momento queremos verificar os efeitos a nível individual. Num
+
+segundo, pretende-se observar os efeitos a nível agregado, transnacional, de forma a ter em
+
+conta os contextos políticos distintos e também para explicar as diferenças encontradas entre
+
+28
+
+os países europeus. Para este efeito realizou-se um método de regressão hierárquica a dois
+
+passos, uma técnica que se aproxima da estimação multinível (Achen, 2005; Jusko and
+
+Shively, 2005).
+
+Com base nesta revisão da literatura foi então construído um modelo para explicar os
+
+níveis de desafeição política interna e externa. Os fatores integrados11 estão agrupados em
+
+conjuntos.
+
+Em primeiro lugar, são incluídas as variáveis sociodemográficas, de forma a medir o
+
+impacto do género, da idade, do nível educacional, ou do rendimento. Não há muita
+
+informação sobre o perfil social dos indivíduos com mais propensão para a desafeição,
+
+faltando portanto saber quais as características dos mesmos. Quem são estes desafectos
+
+políticos? E até que ponto é que as atitudes de desafeição política são um fenómeno
+
+generalizado que atravessa as sociedades de forma indiferenciada? Os estudos têm
+
+demonstrado que o poder explicativo deste tipo de variáveis é relativamente baixo. Prevê-se
+
+no entanto que a desafeição seja mais elevada entre o eleitorado mais politicamente e
+
+socialmente periférico; as mulheres, os rurais, e os que não têm tantos recursos educacionais
+
+(Magalhães, 2005: 981). Também a religiosidade pode estar correlacionada com a desafeição
+
+política, associada à hipótese de o catolicismo estar ligado a um sentimento de hostilidade em
+
+relação às instituições políticas democráticas. Avança-se também a hipótese de a idade ter
+
+impacto nas atitudes de desafeição política, o que poderá dever-se ao impacto da teorização
+
+dos valores pós-materialistas, em conjunto com o processo de socialização institucional, já
+
+referidos. Incluem-se também variáveis relativas ao agregado familiar, à sua dimensão e
+
+situação económica, na medida em que há teorias que atestam que o facto de haver crianças
+
+em casa ou de a pessoa viver só afeta a forma como se olha para o futuro, e por isso como
+
+avalia se o presente.
+
+Num segundo bloco pretende-se testar o efeito de variáveis atitudinais políticas na
+
+desafeição política. A partir do autoposicionamento ideológico na escala esquerda-direita
+
+admite-se que quanto mais os indivíduos se situam nos extremos do espectro ideológico,
+
+maior o grau de desafeição. As variáveis de avaliação da performance institucional incluem-se
+
+para testar se a desafeição política pode depender do próprio processo democrático.
+
+Também se irá verificar a tão importante relação entre indicadores de capital social, a
+
+confiança interpessoal e convivência, com a desafeição política. Para o indicador de confiança
+
+social foi criado um índice que inclui os itens: confiança pessoal nos outros, na honestidade
+
+11 Ver anexos, pág. IX
+
+29
+
+dos outros e no seu altruísmo12.
+
+Por fim, testa-se o impacto da exposição mediática de conteúdo político referente à
+
+rádio, TV e jornais. A relação entre a exposição e conteúdos mediáticos e os sentimentos de
+
+desafeição política é uma temática recorrente, mas o seu quadro teórico apresenta explicações
+
+e evidências contrastantes. Por um lado, defende-se que uma maior exposição mediática a
+
+assuntos políticos acentua os sentimentos de distanciamento das pessoas em relação aos
+
+políticos e à política, na medida em que há um aumento de notícias que reforça os pontos
+
+negativos dos mesmos. Por outro lado já muitos estudos provaram que a exposição a notícias
+
+sobre política, independentemente do seu tom, leva a um público mais informado, interessado
+
+e envolvido (Luengo e Maurer, 2009: 40). Paralela a esta explicação é a perspetiva do círculo
+
+virtuoso de Norris (idem: 41) que defende que os que se expõem mais a notícias sobre política
+
+revelam-se mais informados, confiantes e participativos na política, e por sua vez esses são
+
+também os que se expõem mais a esse conteúdo. Desta forma, a longo termo este círculo
+
+reforça o ativismo do ativistas. Assim sendo, e tentando integrar as duas visões, admite-se que
+
+pessoas com maior exposição a conteúdos políticos, por um lado vão desenvolvendo maior
+
+capacidade de apreender abstracções políticas, podendo ter um impacto negativo na dimensão
+
+interna da desafeição política, mas por outro, um efeito inverso para a componente externa, na
+
+medida em que há uma maior exposição a aspectos da política tidos como negativos, como
+
+por exemplo escândalos políticos mediáticos. Também se acredita que os efeitos podem ser
+
+distintos dependendo do meio em causa: televisão, jornal ou rádio.
+
+Testou-se então, numa primeira fase, este modelo explicativo em todos os 21 países,
+
+tanto para a desafeição interna como para a desafeição externa. Nos quadros 6.1 a 6.6
+
+apresenta-se os resultados das regressões múltiplas realizada para cada país e para cada
+
+dimensão de desafeição política.
+
+12 α= 0,77
+
+30
+
+Quadro 6.1: Os determinantes individuais da desafeição política interna e externa, por país (regressões múltiplas)
+
+B B B B B Beta B Beta B Beta B Beta Sexo (feminino) 5,871 ,140 *** -1,606 -,040 3,468 ,097 *** -1,502 -,041 * 4,728 ,120 *** -,966 -,024 4,761 ,130 *** ,116 ,003 Idade ,009 ,008 ,118 ,104 *** ,008 ,008 ,072 ,069 ** ,099 ,093 *** ,125 ,118 *** ,123 ,124 *** ,163 ,163 *** Anos de escolaridade -1,419 -,247 *** -,950 -,173 *** -1,131 -,227 *** -,749 -,146 *** -1,367 -,244 *** -,496 -,088 *** -,856 -,183 *** -,486 -,102 *** Empregado (sim) -,938 -,022 ,003 ,000 -,673 -,018 -1,673 -,043 * ,852 ,021 -,864 -,021 ,980 ,027 -,388 -,010 Rendimento do agregado familiar -,880 -,079 ** -,232 -,022 -,705 -,087 *** ,165 ,020 -,804 -,074 ** -,407 -,037 -,890 -,091 *** ,048 ,005 Dimensão do agregado familiar ,364 ,022 -,780 -,049 -,074 -,006 -,089 -,006 -,111 -,008 -,299 -,021 ,545 ,042 ,286 ,022 Dimensão do habitat -,177 -,010 -,733 -,043 -1,265 -,093 *** ,279 ,020 -,741 -,043 * -,540 -,031 -,424 -,030 ,274 ,019 Grau de religiosidade -,299 -,036 -,609 -,076 ** -,501 -,071 *** -,284 -,039 * -,294 -,042 * -,470 -,067 *** -,515 -,072 ** -,534 -,074 *** Satisfação com a vida -,028 -,002 ,435 ,034 -,084 -,008 ,108 ,010 -,248 -,022 ,565 ,049 ** ,378 ,034 ,532 ,047 * Dificuldades económicas ,057 ,002 1,377 ,045 -,415 -,016 ,056 ,002 ,473 ,017 ,988 ,034 -,419 -,015 1,881 ,068 ** Nível de insegurança sentido 1,649 ,061 * -,301 -,012 1,449 ,060 ** ,664 ,026 1,068 ,043 * ,627 ,025 1,711 ,063 ** -,121 -,004 Autoposicionamento político (esquerda) -3,707 -,063 * -6,111 -,108 *** -4,106 -,088 *** -6,845 -,142 *** -3,195 -,060 * -2,871 -,054 * -3,395 -,066 ** -,778 -,015 Autoposicionamento político (direita) -1,608 -,032 3,110 ,064 * -1,614 -,036 4,274 ,092 *** -1,567 -,029 ,699 ,013 -,768 -,018 -1,024 -,023 Simpata partidária (sim) -9,826 -,219 *** -5,170 -,120 *** -6,551 -,181 *** -3,746 -,100 *** -7,573 -,178 *** -4,140 -,097 *** -9,322 -,252 *** -2,823 -,075 *** Satisfação com a democracia -1,233 -,109 *** -2,892 -,266 *** -,536 -,059 ** -2,002 -,213 *** -,633 -,068 ** -2,139 -,227 *** -1,012 -,104 *** -1,860 -,188 *** Satisfação com o desempenho do governo ,111 ,012 -1,613 -,179 *** ,279 ,030 -2,883 -,300 *** ,093 ,009 -3,020 -,299 *** -,110 -,012 -3,096 -,321 *** Satisfação com o desempenho económico ,033 ,003 -,240 -,023 ,321 ,040 -,084 -,010 ,517 ,052 * -,165 -,016 ,028 ,003 -,118 -,012 Confiança social -,273 -,020 -2,216 -,171 *** ,024 ,002 -1,969 -,163 *** -,692 -,058 ** -2,357 -,197 *** ,690 ,059 ** -2,380 -,201 *** Convivência social -,646 -,038 -,148 -,009 -,573 -,042 * -,264 -,019 -,163 -,011 -,193 -,013 -,340 -,026 -,227 -,017 TV -2,140 -,126 *** -,170 -,010 -,960 -,068 ** ,089 ,006 -2,087 -,118 *** -,330 -,019 -2,285 -,142 *** -,288 -,018 Rádio -,644 -,042 -,159 -,011 -,560 -,046 * -,023 -,002 -,985 -,067 ** -,515 -,035 * -,666 -,048 * -,145 -,010 Jornais -5,342 -,194 *** -2,119 -,080 *** -5,468 -,252 *** -,879 -,039 -6,346 -,225 *** -2,671 -,094 *** -5,213 -,202 *** -2,364 -,090 *** Ajusted R2 *** *** *** *** *** *** *** *** N
+
+Fonte: ESS 2002 2036
+
+interna externa interna externa interna externa interna externa Desafeição política
+
+,281 ,431 1999 2000 ,437
+
+Beta Beta
+
+,311 ,360 ,292
+
+Noruega Suécia Finlândia Dinamarca
+
+,316 ,319 1506
+
+Capital
+
+social Exposição
+
+mediática
+
+política
+
+Sociodemogr
+
+afia
+
+Atitudes
+
+políticas
+
+Beta Beta
+
+31
+
+Quadro 6.2: Os determinantes individuais da desafeição política interna e externa, por país (regressões múltiplas)
+
+B Beta B Beta B Beta B Beta B Beta B Beta B Beta B Beta Sexo (feminino) 6,033 ,158 *** ,206 ,006 8,578 ,193 *** 2,304 ,058 * 5,347 ,133 *** 1,155 ,034 6,548 ,169 *** -,969 -,026 Idade ,037 ,032 ,166 ,161 *** -,132 -,103 *** ,028 ,025 ,043 ,037 ,060 ,063 ** ,056 ,052 * ,149 ,146 *** Anos de escolaridade -1,250 -,255 *** -,421 -,095 *** -1,500 -,264 *** -,444 -,088 *** -,756 -,125 *** -,167 -,033 -1,344 -,247 *** -,546 -,105 *** Empregado (sim) -2,697 -,070 *** ,092 ,003 ,282 ,006 ,707 ,018 -1,816 -,044 * -,764 -,022 -1,482 -,038 ,240 ,007 Rendimento do agregado familiar -,705 -,071 *** -,506 -,056 ** -1,102 -,073 ** -,630 -,047 -,238 -,020 -,081 -,008 -1,031 -,093 *** ,249 ,024 Dimensão do agregado familiar -,081 -,006 -,291 -,024 ,330 ,021 ,647 ,046 -,019 -,001 ,092 ,008 ,302 ,022 ,356 ,027 Dimensão do habitat -1,327 -,080 *** -,477 -,032 -1,844 -,088 *** -,688 -,037 ,557 ,027 ,424 ,025 -1,070 -,060 ** -,446 -,026 Grau de religiosidade -,295 -,045 * -,261 -,044 ** -,303 -,042 -,733 -,115 *** -,308 -,042 * -,251 -,041 * -,302 -,046 * -,447 -,072 *** Satisfação com a vida -,031 -,003 ,120 ,011 -,229 -,021 -,348 -,035 -,358 -,030 -,074 -,007 ,463 ,046 * ,535 ,056 ** Dificuldades económicas ,920 ,033 1,127 ,045 * 2,403 ,076 ** ,497 ,018 2,910 ,097 *** 1,236 ,049 * 2,366 ,094 *** 3,180 ,133 *** Nível de insegurança sentido ,927 ,033 ,108 ,004 ,673 ,024 1,366 ,055 * ,125 ,005 -,179 -,008 1,326 ,051 * ,318 ,013 Autoposicionamento político (esquerda) -2,462 -,048 * -3,099 -,066 ** -,967 -,016 ,882 ,016 -,691 -,014 -,481 -,011 -2,175 -,044 * -,979 -,021 Autoposicionamento político (direita) -1,910 -,040 2,295 ,053 ** -3,438 -,056 * -2,361 -,043 -4,034 -,078 *** -1,745 -,040 -,911 -,018 -,015 ,000 Simpata partidária (sim) -6,717 -,173 *** -3,116 -,088 *** -10,578 -,227 *** -5,498 -,133 *** -11,120 -,275 *** -2,796 -,082 *** -6,336 -,163 *** -4,686 -,126 *** Satisfação com a democracia -,620 -,059 ** -2,252 -,237 *** -,069 -,006 -1,023 -,107 *** -,837 -,081 *** -1,593 -,184 *** -,875 -,092 *** -2,065 -,229 *** Satisfação com o desempenho do governo -,104 -,011 -2,037 -,240 *** ,433 ,039 -2,323 -,234 *** -,186 -,017 -2,936 -,327 *** -,203 -,021 -2,071 -,224 *** Satisfação com o desempenho económico ,130 ,013 -,773 -,084 *** -,071 -,006 ,544 ,054 * ,651 ,064 ** ,241 ,028 ,729 ,077 ** -,390 -,043 Confiança social -,618 -,052 ** -2,537 -,233 *** -,837 -,069 ** -2,673 -,248 *** -,948 -,075 *** -2,427 -,230 *** -,266 -,025 -2,097 -,206 *** Convivência social -,685 -,049 ** -,269 -,021 -,295 -,021 ,275 ,023 -,381 -,024 -,195 -,015 -,452 -,035 ,298 ,025 TV -2,697 -,175 *** -,929 -,066 *** -1,144 -,077 ** -,427 -,033 -2,388 -,113 *** -,603 -,034 -2,897 -,180 *** -,357 -,023 Rádio -,372 -,027 ,011 ,001 -,125 -,009 ,386 ,030 -1,249 -,062 ** ,145 ,009 -,604 -,042 ,095 ,007 Jornais -4,046 -,155 *** -1,251 -,053 ** -2,291 -,110 *** -,084 -,005 -5,684 -,212 *** -,534 -,024 -4,047 -,141 *** -1,996 -,073 *** Ajusted R2 *** *** *** *** *** *** *** *** N
+
+Fonte: ESS 2002
+
+interna externa Desafeição política
+
+2364 1552 2039
+
+Bélgica
+
+,332 ,411 1899 ,346 ,420 ,319 ,256 ,339 ,365
+
+Suíça
+
+Capital
+
+social Exposição
+
+mediática
+
+política
+
+interna externa interna
+
+Holanda Luxemburgo
+
+Sociodemogr
+
+afia
+
+Atitudes
+
+políticas
+
+externa interna externa
+
+32
+
+Quadro 6.3: Os determinantes individuais da desafeição política interna e externa, por país (regressões múltiplas)
+
+B B B Beta B Beta Sexo (feminino) 4,587 ,121 *** ,228 ,006 5,057 ,122 *** ,911 ,025 Idade -,023 -,022 ,005 ,005 -,039 -,031 ,033 ,030 Anos de escolaridade -1,471 -,264 *** -,492 -,090 *** -1,651 -,241 *** -,480 -,078 *** Empregado (sim) -1,150 -,030 -,830 -,022 -,927 -,022 -,534 -,014 Rendimento do agregado familiar -,562 -,054 ** -,456 -,045 * -,640 -,048 * -,551 -,046 * Dimensão do agregado familiar -,074 -,005 -,557 -,039 * ,335 ,026 ,067 ,006 Dimensão do habitat ,180 ,011 ,057 ,003 -1,037 -,064 ** ,225 ,016 Grau de religiosidade ,042 ,007 -,443 -,070 *** -,163 -,022 -,093 -,014 Satisfação com a vida -,303 -,036 * ,032 ,004 -,319 -,032 ,198 ,022 Dificuldades económicas 1,630 ,061 ** 1,207 ,046 ** 1,592 ,060 ** 1,240 ,052 ** Nível de insegurança sentido 1,406 ,058 ** ,280 ,012 1,456 ,048 ** -,586 -,021 Autoposicionamento político (esquerda) -2,505 -,056 ** -,440 -,010 -,128 -,003 -2,568 -,056 ** Autoposicionamento político (direita) ,226 ,004 -,565 -,011 -1,196 -,021 ,794 ,015 Simpata partidária (sim) -7,054 -,185 *** -3,586 -,096 *** -11,124 -,262 *** -4,660 -,123 *** Satisfação com a democracia -,374 -,047 ** -1,923 -,248 *** ,164 ,019 -1,417 -,186 *** Satisfação com o desempenho do governo ,417 ,045 * -2,007 -,222 *** -,469 -,056 -2,060 -,275 *** Satisfação com o desempenho económico ,445 ,048 ** -1,171 -,130 *** -,080 -,009 -1,013 -,122 *** Confiança social -,575 -,052 ** -2,040 -,188 *** -,167 -,016 -1,270 -,138 *** Convivência social -,657 -,049 ** ,071 ,005 -1,568 -,113 *** -,912 -,073 *** TV -3,433 -,196 *** -,537 -,031 * -3,014 -,149 *** -,575 -,032 Rádio -1,173 -,072 *** -,595 -,037 * -1,031 -,059 ** -,370 -,024 Jornais -3,780 -,127 *** -1,391 -,048 ** -3,427 -,131 *** -,749 -,032 Ajusted R2 *** *** *** *** N
+
+Fonte: ESS 2002
+
+Desafeição política
+
+,349 ,411 ,333 ,330 2919 2257
+
+Exposição
+
+mediática
+
+política
+
+Alemanha Áustria
+
+Beta Beta
+
+Sociodemogr
+
+afia
+
+Atitudes
+
+políticas
+
+Capital
+
+social
+
+interna externa interna externa
+
+33
+
+Quadro 6.4: Os determinantes individuais da desafeição política interna e externa, por país (regressões múltiplas)
+
+B B B Beta B Beta B Beta B Beta Sexo (feminino) 5,778 ,144 *** -,545 -,014 6,394 ,154 *** 1,846 ,049 * 6,372 ,152 *** 1,357 ,034 Idade ,077 ,069 ** ,111 ,105 *** ,013 ,011 ,029 ,027 -,015 -,013 ,031 ,027 Anos de escolaridade -1,076 -,178 *** -,257 -,044 * -1,150 -,220 *** -,440 -,094 *** -,998 -,158 *** -,366 -,061 ** Empregado (sim) -,947 -,023 -,224 -,006 ,296 ,007 -,704 -,019 -1,082 -,026 -,295 -,007 Rendimento do agregado familiar -1,323 -,151 *** -,240 -,028 -1,522 -,118 *** -,814 -,071 ** -1,286 -,146 *** -,390 -,046 * Dimensão do agregado familiar 1,090 ,072 ** ,306 ,021 ,548 ,039 ,887 ,071 ** ,077 ,006 ,404 ,035 Dimensão do habitat -,550 -,025 -,079 -,004 -1,280 -,076 ** ,341 ,023 -,056 -,004 -,321 -,021 Grau de religiosidade -,584 -,081 *** -,598 -,086 *** ,010 ,001 -,339 -,055 * -,189 -,022 -,254 -,031 Satisfação com a vida ,548 ,057 ** ,347 ,037 ,232 ,029 ,022 ,003 ,685 ,067 ** ,317 ,033 Dificuldades económicas -,617 -,022 ,722 ,026 ,879 ,033 ,888 ,037 1,244 ,047 * 1,556 ,061 ** Nível de insegurança sentido 1,920 ,084 *** -,002 ,000 1,347 ,063 ** -,150 -,008 1,362 ,056 ** ,647 ,028 Autoposicionamento político (esquerda) -2,410 -,045 * -1,355 -,026 -5,206 -,098 *** ,399 ,008 -2,127 -,035 2,123 ,037 Autoposicionamento político (direita) -2,318 -,047 * -1,428 -,030 -,110 -,002 -,788 -,016 ,034 ,001 -2,377 -,048 * Simpata partidária (sim) -7,852 -,195 ** -3,396 -,087 *** -7,534 -,179 *** -4,313 -,114 *** -9,880 -,233 *** -4,477 -,111 *** Satisfação com a democracia -,156 -,017 -1,279 -,145 *** -,662 -,078 ** -1,710 -,223 *** -,322 -,037 -1,004 -,120 *** Satisfação com o desempenho do governo ,181 ,020 -3,427 -,399 *** -,794 -,086 ** -1,509 -,182 *** -,795 -,086 ** -3,751 -,425 *** Satisfação com o desempenho económico -,626 -,064 ** -,038 -,004 ,676 ,069 * -1,280 -,146 *** -,096 -,010 -,119 -,013 Confiança social -,253 -,021 -2,361 -,206 *** -,475 -,040 -1,726 -,161 *** -,314 -,029 -1,319 -,126 *** Convivência social -,171 -,012 -,218 -,016 -,137 -,010 -,238 -,019 -,190 -,013 -,400 -,029 TV -2,065 -,146 *** ,007 ,001 -1,411 -,089 *** -,387 -,027 -1,543 -,123 *** -,440 -,037 Rádio -1,254 -,096 *** -,436 -,034 -1,529 -,106 *** -,206 -,016 -1,170 -,106 *** -,265 -,025 Jornais -3,110 -,133 *** -,267 -,012 -3,069 -,109 *** -1,228 -,049 * -1,739 -,110 *** -,296 -,020 Ajusted R2 *** *** *** *** *** ***
+
+Fonte: ESS 2002
+
+Sociodem
+
+ografia
+
+Atitudes
+
+políticas
+
+Capital
+
+social Exposiçã
+
+o mediática
+
+interna externa interna externa interna
+
+Irlanda
+
+,319 ,406
+
+externa Desafeição política
+
+2046 2052 1503
+
+Beta Beta
+
+,311 ,402 ,306 ,384
+
+Reino Unido França
+
+34
+
+Quadro 6.5: Os determinantes individuais da desafeição política interna e externa, por país (regressões múltiplas)
+
+B Beta B Beta B Beta B Beta B Beta B Beta B Beta B Beta Sexo (feminino) 5,363 ,132 *** 1,265 ,034 5,341 ,123 *** -,940 -,029 6,177 ,136 *** -,377 -,010 6,384 ,151 *** ,260 ,007 Idade ,017 ,016 ,016 ,016 -,042 -,036 ,001 ,001 -,067 -,055 * -,028 -,028 -,032 -,027 ,044 ,044 Anos de escolaridade -1,059 -,272 *** -,205 -,057 * -1,617 -,343 *** -,371 -,106 ** -1,509 -,301 *** -,383 -,091 *** -1,124 -,258 *** -,468 -,126 ** Empregado (sim) -3,008 -,074 ** -1,233 -,033 -,443 -,010 -,821 -,025 -,281 -,006 -,381 -,010 -1,191 -,028 -,638 -,018 Rendimento do agregado familiar -,212 -,014 -1,017 -,074 ** -1,461 -,110 *** -,341 -,035 -,187 -,014 -,483 -,043 * -,797 -,058 * -,549 -,047 Dimensão do agregado familiar -,001 ,000 ,395 ,032 -,543 -,032 -,278 -,022 ,052 ,003 -,183 -,014 -,492 -,030 -,353 -,025 Dimensão do habitat -,442 -,026 ,010 ,001 ,578 ,030 -1,225 -,085 *** ,301 ,017 ,459 ,031 -,861 -,036 ,782 ,038 Grau de religiosidade ,423 ,055 * -,179 -,025 ,136 ,016 -,095 -,015 ,258 ,025 ,014 ,002 ,217 ,026 ,313 ,044 Satisfação com a vida ,625 ,058 * 1,002 ,100 *** -,042 -,004 ,051 ,007 -,156 -,016 -,041 -,005 ,107 ,011 ,629 ,074 ** Dificuldades económicas 2,432 ,094 *** ,404 ,017 3,259 ,113 *** 1,067 ,050 1,423 ,055 ** -,044 -,002 2,337 ,083 ** 1,075 ,044 Nível de insegurança sentido -1,446 -,059 ** -,788 -,035 ,146 ,005 ,494 ,022 -,068 -,003 ,321 ,015 -,250 -,010 ,276 ,012 Autoposicionamento político (esquerda) 1,373 ,026 3,668 ,076 ** -5,261 -,087 ** -,175 -,004 -5,423 -,080 *** 2,043 ,036 -,202 -,003 -3,132 -,061 Autoposicionamento político (direita) -1,116 -,018 -4,157 -,072 ** 7,231 ,119 *** 1,315 ,029 3,019 ,052 ** -2,077 -,043 * -2,355 -,038 1,291 ,024 Simpata partidária (sim) -10,747 -,261 *** -5,226 -,137 *** -12,136 -,261 *** -3,095 -,090 *** -8,409 -,183 *** -2,108 -,055 ** -7,967 -,183 *** -4,090 -,110 *** Satisfação com a democracia -,478 -,048 * -1,487 -,162 *** -,050 -,005 -,869 -,109 *** -,349 -,040 -1,320 -,182 *** ,150 ,015 -1,629 -,194 *** Satisfação com o desempenho do governo ,086 ,010 -1,665 -,201 *** -1,122 -,120 *** -1,990 -,286 *** ,194 ,021 -1,951 -,256 *** -,648 -,068 * -1,977 -,244 *** Satisfação com o desempenho económico -,190 -,019 -,920 -,101 *** -,073 -,006 -1,032 -,114 *** -,481 -,052 * -,674 -,087 *** ,099 ,009 -1,028 -,110 *** Confiança social -,778 -,070 ** -2,297 -,224 *** ,069 ,006 -,905 -,100 *** -,486 -,043 * -1,323 -,141 *** -,415 -,038 -1,536 -,163 *** Convivência social -,608 -,047 * ,164 ,014 -,387 -,031 -,759 -,081 *** -,884 -,069 *** -,086 -,008 -,640 -,051 * -,242 -,023 TV -1,183 -,079 *** -,328 -,024 -1,298 -,080 *** -,783 -,065 ** -2,949 -,205 *** -,468 -,039 * -2,303 -,136 *** -,367 -,025 Rádio -,820 -,063 ** ,123 ,010 -,743 -,041 -,856 -,064 ** -1,973 -,085 *** ,102 ,005 -1,172 -,061 * -1,001 -,061 * Jornais -2,928 -,098 *** -,449 -,016 -3,405 -,099 *** -,896 -,035 -1,971 -,056 ** -1,198 -,041 * -5,644 -,203 *** -1,984 -,083 ** Ajusted R2 *** *** *** *** *** *** *** *** N
+
+Fonte: ESS 2002
+
+externa interna externa Desafeição política interna externa interna externa interna
+
+Itália
+
+,365 ,370 1207 1729 1511 2566
+
+Sociodemogr
+
+afia
+
+Atitudes
+
+políticas
+
+Capital
+
+social Exposição
+
+mediática
+
+política
+
+,290 ,298 ,369 ,290 ,305 ,291
+
+Espanha Portugal Grécia
+
+35
+
+Quadro 6.6: Os determinantes individuais da desafeição política interna e externa, por país (regressões múltiplas)
+
+B B B Beta B Beta B Beta B Beta B Beta B Beta Sexo (feminino) 6,955 ,180 *** ,822 ,024 6,770 ,172 *** -,661 -,020 5,192 ,136 *** -,499 -,015 2,544 ,064 ** -,384 -,010 Idade -,039 -,035 ,011 ,011 ,030 ,029 ,057 ,063 ** ,127 ,122 *** ,011 ,011 ,057 ,053 * -,025 -,023 Anos de escolaridade -1,444 -,224 *** -,387 -,068 ** -1,774 -,307 *** -,454 -,093 *** -1,093 -,193 *** -,149 -,029 -1,456 -,275 *** -,315 -,060 * Empregado (sim) -1,752 -,045 1,330 ,039 -1,026 -,026 ,097 ,003 -,731 -,019 -,718 -,021 -1,527 -,039 -,184 -,005 Rendimento do agregado familiar -,194 -,013 -,357 -,027 -,166 -,012 -,221 -,019 -,618 -,044 ,582 ,046 -,935 -,075 ** -,383 -,031 Dimensão do agregado familiar -,720 -,050 -,001 ,000 -,551 -,047 * ,111 ,011 ,180 ,014 -,805 -,072 ** -,211 -,016 ,608 ,047 * Dimensão do habitat -,993 -,058 * -,461 -,030 -,450 -,026 ,130 ,009 -,826 -,046 ,127 ,008 ,146 ,009 -,407 -,024 Grau de religiosidade -,080 -,012 -,314 -,053 * -,032 -,004 -,176 -,025 -,205 -,030 -,231 -,038 -,247 -,038 -,314 -,049 * Satisfação com a vida -,620 -,069 ** ,247 ,031 ,090 ,012 ,150 ,023 -,309 -,038 -,015 -,002 ,102 ,013 -,523 -,066 ** Dificuldades económicas ,124 ,005 ,536 ,023 1,711 ,059 ** ,235 ,010 ,819 ,033 -,092 -,004 ,921 ,036 ,026 ,001 Nível de insegurança sentido ,182 ,006 -,215 -,008 -,246 -,009 ,388 ,017 ,145 ,005 ,126 ,005 -1,075 -,036 -,343 -,012 Autoposicionamento político (esquerda) 4,440 ,083 ** 1,002 ,021 -,234 -,004 ,001 ,000 -,870 -,018 1,350 ,030 -,840 -,016 -,433 -,008 Autoposicionamento político (direita) -8,056 -,163 *** -1,201 -,028 -,952 -,018 ,009 ,000 -1,838 -,033 ,505 ,010 -3,852 -,071 ** -,236 -,004 Simpata partidária (sim) -8,857 -,225 *** -2,101 -,061 ** -9,244 -,210 *** -2,591 -,069 *** -9,976 -,245 *** -3,193 -,088 *** -8,579 -,212 *** -2,158 -,054 * Satisfação com a democracia ,322 ,039 -1,351 -,184 *** -,151 -,017 -,905 -,119 *** -,369 -,044 -1,285 -,169 *** -,184 -,021 -1,093 -,125 *** Satisfação com o desempenho do governo -,984 -,107 *** -1,881 -,232 *** -,775 -,080 ** -2,730 -,333 *** -,453 -,055 -2,037 -,278 *** -,727 -,087 ** -2,319 -,282 *** Satisfação com o desempenho económico ,535 ,058 -1,279 -,157 *** ,122 ,012 -,789 -,089 *** ,505 ,061 * -,565 -,076 * ,148 ,015 -1,135 -,113 *** Confiança social -,717 -,072 ** -1,862 -,212 *** -,888 -,082 *** -1,603 -,176 *** ,260 ,028 -1,332 -,158 *** -,539 -,054 * -1,951 -,198 *** Convivência social -,251 -,020 ,090 ,008 -,131 -,011 ,048 ,005 ,161 ,014 -,409 -,039 -,540 -,050 * ,121 ,011 TV -1,935 -,116 *** ,038 ,003 -3,054 -,185 *** -,705 -,051 * -2,122 -,125 *** -,786 -,052 * -2,562 -,143 *** -,640 -,036 Rádio -,483 -,032 -,502 -,038 -,698 -,046 * -,066 -,005 -,665 -,046 * -,481 -,037 -,514 -,036 -,267 -,019 Jornais -4,992 -,175 *** -2,060 -,082 *** -4,411 -,136 *** -1,146 -,042 * -4,830 -,191 *** -2,194 -,097 *** -4,492 -,179 *** -,901 -,036 Ajusted R2 *** *** *** *** *** *** *** *** N
+
+Fonte: ESS 2002
+
+externa interna externa Desafeição política interna externa interna externa interna
+
+1360 2110 1519
+
+Hungria
+
+,357 ,353 1685 ,346 ,387 ,374 ,322 ,316 ,329
+
+Beta Beta
+
+Sociodemogr
+
+afia
+
+Atitudes
+
+políticas
+
+Capital
+
+social Exposição
+
+mediática
+
+política
+
+Rep. Checa Polónia Eslovénia
+
+36
+
+Em primeiro lugar, no que se refere ao bloco de variáveis sociodemográficas, verifica se que no geral as mesmas têm maior impacto na dimensão da política interna da desafeição
+
+política. O género provou-se uma das variáveis mais importantes; demonstrando que as
+
+mulheres tendem a ter níveis de desafeição política interna mais elevadas em todos os países
+
+europeus. No entanto esta variável não tem qualquer impacto na dimensão externa da
+
+desafeição, na grande generalidade dos países. Os anos de escolaridade destaca-se pelo o seu
+
+forte valor preditivo em ambas as dimensões de desafeição política, sendo que os cidadãos
+
+com mais anos de escolaridade são os que se sentem menos distantes da política e das
+
+instituições. Esta relação é verdadeira para todos os países no que toca à dimensão mais
+
+interna da desafeição, mas não é tão forte, nem acontece, em todos os países quando está em
+
+causa a desafeição institucional. Neste âmbito os anos de escolaridade acabam por ter mais
+
+impacto nos países com os níveis médios mais baixos e os que têm os níveis mais altos de
+
+desafeição política, mas nenhum ou menor impacto nos países que apresentam níveis médios.
+
+A idade não se apresentou um fator muito preditivo da desafeição política na maioria
+
+dos países, tendo mais impacto nos países que apresentavam níveis inferiores de desafeição
+
+política em comparação com os outros países europeus, particularmente na dimensão mais
+
+externa; nestes casos quanto mais velhos os cidadãos, mais descrentes dos representantes
+
+políticos.
+
+O rendimento do agregado familiar revelou-se um preditor importante dos níveis de
+
+desafeição política em muitos países do centro da Europa e alguns escandinavos e da Europa
+
+do Sul. Os indivíduos com maior rendimento familiar sentem-se menos afastados da política.
+
+Já na dimensão externa, o efeito foi muito mais modesto. Contrariando a tendência geral dos
+
+outros fatores sociodemográficos, o grau de religiosidade apresentou maior impacto na
+
+dimensão mais externa da desafeição política, tem um impacto muito minimizado na
+
+dimensão interna. Este impacto revelou-se nos países nórdicos e do centro da Europa: quanto
+
+mais religiosas as pessoas se reconhecem, mais confiança revelam perante as instituições e
+
+representantes políticos. A dificuldade económica sentida teve também algum impacto em
+
+alguns países, curiosamente mais na dimensão interna da desafeição; este efeito foi saliente
+
+nos países do sul, e do centro da Europa, em que maior dificuldade económica sentida
+
+corresponde a maior distância pessoal à política, foi nulo nos países do norte.
+
+As restantes variáveis deste conjunto tiveram um efeito mínimo nos níveis de
+
+desafeição política na Europa. A dimensão do sítio onde se vive teve algum impacto, positivo,
+
+nos países do centro da Europa, na dimensão interna da desafeição, e em Portugal, na
+
+dimensão externa, em termos negativos. A satisfação com a vida tem um impacto muito baixo
+
+37
+
+nas dimensões de desafeição política e em poucos países. O nível de insegurança sentido teve
+
+somente efeito na dimensão interna da desafeição de alguns países europeus, associando os
+
+sentimentos de insegurança a afastamento político. A dimensão do agregado familiar, e o
+
+estatuto de empregabilidade, foram as variáveis sociodemográficas que menor impacto
+
+demonstram nos níveis de desafeição política na Europa.
+
+Olhando o conjunto de variáveis independentes relativas às atitudes políticas, em
+
+termos gerais consegue-se apurar que, no seu conjunto o seu impacto é mais elevado no índice
+
+de desafeição política externa. A variável independente mais evidente e consensual é a que se
+
+refere ao sentimento de simpatia por algum partido político. Este efeito tende a ser muito
+
+significativo, nas duas dimensões de desafeição política, em praticamente todos os países; os
+
+europeus que afirmam sentirem simpatia por algum partido são consistentemente aqueles que
+
+revelam menor grau de desafeição política, o que não só faz sentido, como é quase
+
+tautológico.
+
+Avaliou-se também o impacto de as pessoas assumirem uma posição de esquerda ou
+
+de direita, ou de se colocarem no centro, nos níveis de desafeição política. Os resultados
+
+mostram-se inconsistentes e muito diversos, variando bastante de país para país, mas na
+
+globalidade esta variável não pareceu introduzir muita explicação.
+
+Testou-se igualmente uma série de atitudes que se referem à avaliação do
+
+desempenho político: à democracia, ao governo e à economia. A avaliação positiva da forma
+
+como funciona a democracia, como o governo, tem um impacto muito significativo e negativo
+
+na desafeição política na grande maioria dos países Europeus, esse impacto é menor, e em
+
+menos países, com referência à dimensão interna da desafeição; permanecendo
+
+maioritariamente nos países escandinavos e do centro. A satisfação com o desempenho
+
+económico tem um forte impacto na mesma direção essencialmente nos países do centro e do
+
+sul da Europa, sendo insignificante para os países do norte ou do leste.
+
+O bloco seguinte pretendia verificar as teorias do capital social. Incluiu-se uma
+
+variável de confiança pessoal em relação aos outros, e uma referente à convivência social.
+
+Está última não teve efeito para a grande maioria dos países europeus, nos dois índices. Já a
+
+confiança interpessoal revelou ser muito significativa em todos os países europeus na
+
+dimensão externa da desafeição; ou seja, quanto menos os cidadãos europeus confiam uns nos
+
+outros, menos confiam nos políticos e no sistema. O seu efeito foi menor na dimensão interna
+
+da desafeição política.
+
+Por último foram incluídas variáveis de exposição mediática política. Verificou-se
+
+que, genericamente, o efeito é muito mais significativo na dimensão interna da desafeição
+
+38
+
+B B B B Anos de democracia ,000 -,014 -,005 -,307 ,014 ,630 ,009 ,298 Índice de Desenvolvimento Humano -1,546 -,042 2,999 ,229 -9,338 -,539 -13,578 -,544 Coeficiente de Gini ,161 ,521 * -,004 -,032 ,006 ,042 ,137 ,654 * Corrupção subjectiva -,064 -,108 -,117 -,554 ,180 ,642 ,149 ,370 Ajusted R2 ** N
+
+Fonte: ESS 2002
+
+Desafeição política externa
+
+,142 ,207
+
+Desafeição política interna Dificuldades económicas sentidas
+
+Satisfação com a
+
+democracia Beta Beta
+
+,413 ,185 21
+
+Satisfação com o desempenho econ.
+
+Exposição política nos
+
+jornais Beta Beta
+
+política, e através da tv e jornais. A exposição mediática a conteúdo político nos jornais é a
+
+variável independente mais abrangente por também mostrar algum efeito em alguns países
+
+europeus, nomeadamente os escandinavos, os da europa do sul e de leste. A tendência vai no
+
+sentido de quanto maior a exposição mediática referente a conteúdos de natureza política,
+
+mais próximos os indivíduos se sentem da política, na sua vertente pessoal cognitiva e
+
+sentimental.
+
+Num segundo passo quis-se explicar as variações a nível agregado13. Inclui-se a
+
+variável longevidade de democracia e o Índice de Desenvolvimento Humano para atestar
+
+respetivamente o efeito da socialização das instituições e da modernização já anteriormente
+
+descritos. Também foi incorporada uma variável relativamente à situação macroeconómica
+
+dos países: as desigualdades económicas (coeficiente de gini). Por fim pretendeu-se também
+
+associar um indicador mais subjetivo a nível agregado, testando se em países em que as
+
+pessoas têm uma perceção de corrupção mais elevada, se se associa a maiores níveis de
+
+desafeição política.
+
+Quis-se explicar as principais variações encontradas das regressões a nível individual
+
+entre os países através das condições contextuais elegidas. Assim pretendeu-se perceber se as
+
+diferenças encontradas entre países a nível do efeito das dificuldades económicas sentidas e
+
+da satisfação com a democracia na desafeição política interna, e a nível do efeito da satisfação
+
+com o desempenho económico e da exposição a conteúdo político nos jornais na desafeição
+
+política externa, se devem às variáveis independentes introduzidas. Os resultados apresentam se no Quadro 11.
+
+Quadro 6.7: Os determinantes transnacionais para as variações dos impactos de
+
+variáveis individuais na desafeição política interna e externa
+
+Verifica então que as desigualdades económicas parecem ter um efeito saliente nas
+
+13 Para a explicação e fontes das variáveis, ver anexos pág. XII
+
+39
+
+explicações destas variações entre países, reforçando tanto a relação entre as dificuldades
+
+económicas sentidas e a desafeição política interna, como a relação entre a exposição de
+
+conteúdo político nos jornais e a desafeição política externa. Ou seja, quanto maior as
+
+desigualdades económicas de um país, maior é o impacto positivo das dificuldades
+
+económicas sentidas individualmente nos níveis de desafeição política.
+
+Os anos de democracia, o Índice de Desenvolvimento Humano, e a corrupção
+
+percebida não explicam significativamente as diferenças entre países.
+
+Não se confirmou portanto a importância do tempo de existência das instituições
+
+democráticas nos níveis de desafeição política. Assim provou-se que a associação entre a
+
+maturidade democrática do país e os seus níveis de desafeição política não é clara. O que não
+
+significa porém que o passado democrático é irrelevante. Estas atitudes podem não ser
+
+formadas em relação ao tempo sob democracia por si só, mas podem depender em grande
+
+medida da natureza desse passado democrático, como por exemplo a qualidade das
+
+democracias e da forma como inclui os seus cidadãos no processo democrático (Torcal, 2006)
+
+40
+
+41
+
+7. CONCLUSÕES E REFLEXÕES FINAIS
+
+Neste trabalho aprofundou-se o conceito de desafeição política. Confirmou-se a estrutura
+
+bidimensional da desafeição política; uma mais orientada para o interno e outra mais externa.
+
+As mesmas mostram estar associadas, embora sejam formadas por diferentes fatores sociais e
+
+atitudinais. Concluindo-se assim que elas são de facto relativamente autónomas.
+
+Em relação à desafeição política interna salienta-se o impacto das variáveis respeitante
+
+ao perfil social dos cidadãos, com destaque para os europeus do sexo feminino e os menos
+
+escolarizados, que apresentaram uma maior distância pessoal à política. A exposição
+
+mediática, principalmente em relação aos jornais, tem também um impacto significativo para
+
+os indivíduos se sentiram mais próximos da política.
+
+Quanto à dimensão externa sobressai o papel determinante das atitudes políticas e do
+
+capital social. A avaliação positiva do funcionamento das instituições, por um lado, e da
+
+confiança em relação aos outros, por outro, diminuem significativamente os níveis de
+
+distanciamento em relação aos representantes políticos na maioria dos países europeus.
+
+Os fatores económicos, como o rendimento ou as dificuldades económicas sentidas
+
+para a desafeição interna, e a avaliação negativa do desempenho económico para a dimensão
+
+externa, potenciaram significativamente a distância à política nos países do sul e do centro da
+
+Europa.
+
+Embora sejam elevados pela generalidade dos países Europeu, comprovou-se também
+
+que a desafeição política não é um fenómeno generalizado que afete a Europa de igual forma.
+
+Identificaram-se cinco combinações destes níveis, com os países escandinavos e os países do
+
+sul e do leste europeu a destacarem-se por se revelarem em pólos opostos. Também não se
+
+confirma o pressuposto geral apontado por alguns autores de um claro, crescente e consistente
+
+distanciamento e desconfiança dos cidadãos em relação à política. A dimensão mais interna
+
+da desafeição política, verificada através das tendências dos níveis de interesse político,
+
+parece ser imune a conjunturas de mais curto-prazo. Já a dimensão mais externa, verificada
+
+através da confiança em relação aos representantes políticos, parece ser mais volátil e
+
+denuncia tendências diversas, por vezes inconsistentes, por toda a Europa. Os países
+
+escandinavos demonstraram tendência para uma diminuição da desconfiança política, tal
+
+como na Holanda e na Polónia. Já na Bélgica e em Portugal assiste-se a um aumento da
+
+desconfiança das instituições políticas. E enquanto em muitos países os seus níveis têm sidos
+
+estáveis na última década, temos depois o exemplo da Hungria que demonstra oscilações
+
+expressivas em ambos os sentidos. A crise económica e social europeia parece ainda não ter
+
+42
+
+revelado grande impacto, apesar de já existir em alguns indícios do agravamento dos níveis de
+
+desconfiança política de 2008 para 2010 em muitos dos países, sendo mais saliente na
+
+Dinamarca e na Finlândia e nos países com maior dificuldade, Espanha, Portugal e Eslovénia.
+
+De forma a explicar as variações entre países o indicador mais relevante foi o da
+
+desigualdade económica, mas mais nenhuma variável contextual introduziu diferenças
+
+significativas. Isto é reflexo, por um lado, e mais uma vez, da importância do
+
+macroeconómico, e por outro, da menor relevância de indicadores objetivos para explicar os
+
+níveis de desafeição política.
+
+Além da sintetização dos principais resultados obtidos, importa também apresentar
+
+pistas e desenvolvimentos futuros que advêm de questões que foram surgindo com o
+
+desenvolvimento desta dissertação. Em primeiro lugar, seria interessante continuar a
+
+aprofundar esta diferenciação entre desafeição política interna e externa, nomeadamente em
+
+termos dos impactos nos comportamentos dos cidadãos.
+
+Seria também importante investir mais nos efeitos de contexto nos níveis de
+
+desafeição política. Como se verificou, a maturidade das democracias por si só não explica as
+
+diferenças encontradas entre os países, assim seria interessante explorar de forma mais
+
+profunda o impacto da natureza do passado democrático nestas atitudes, incluindo mais
+
+fatores políticos, com indicadores que reflitam o tipo, qualidade e eficácia das democracias e
+
+suas instituições, tal como os efeitos de eventos mais pequenos específicos, mas também de
+
+conjunturas mais determinantes e prolongadas. Será portanto também interessante perceber
+
+até que ponto a crise económica e social na Europa, e as políticas de austeridade, mais
+
+profundamente em alguns países, terá impacto nas atitudes dos cidadãos. Será que as
+
+dificuldades que os europeus sentem irão fazer com que se afastem mais da política e das
+
+instituições, pondo em causa a capacidade e credibilidade do governo e do sistema em
+
+prevenir e lidar com os desafios da crise? Ou pelo contrário, podem as posições vulneráveis
+
+fazer com que os indivíduos tenham uma maior perceção do efeito da política nas próprias
+
+vidas, fazendo então com que se aproximem mais, mesmo através de formas não
+
+convencionais, como por exemplo manifestações, causando também uma modificação nas
+
+suas atitudes?
+
+Por outro lado seria também interessante investir em abordagens mais qualitativas e
+
+intensivas em relação às atitudes políticas. Os estudos na área têm se centrados nos métodos
+
+quantitativos, ignorando uma dimensão mais profunda e cognitiva acerca dos cidadãos como
+
+intérpretes, de compreensão própria, que atribui significado às suas relações com a política.
+
+Um dos estudos que abordou o fenómeno nesta perspetiva concluiu que um dos problemas
+
+43
+
+centrais é o facto de as pessoas não compreenderem, ou compreenderem mal, a natureza do
+
+processo político (Van Wessek, 2010). Seria portanto importante apostar em estudos de caso
+
+aprofundados, centrados no discurso dos cidadãos, de forma a captar esta dimensão que não
+
+surge com tanta relevância em análises mais abrangentes, de forma a poder vir a contribuir
+
+para uma melhor e mais completa compreensão desta problemática.
+
+44
+
+45
+
+BIBLIOGRAFIA
+
+Almeida, João Ferreira de (2007), “Novos e velhos aspetos da epistemologia das ciências sociais”, in
+
+Sociologia, Problemas e Práticas, nº55, pp: 11-24; Almeida, João Ferreira de (2013), Desigualdades e Perspetivas dos cidadãos: Portugal e a Europa; Achen, Christopher (2005), “Two-step Hirerachical Estimation: Beyond regression analysis”, Political
+
+Analysis, nº 13, 4, pp: 447-456; Berger, Peter e Thomas Luckmann (1996), A Construção Social da realidade, Petropolis, Vozes; Bourdieu, Pierre (1986), “The forms of capital”, in Richardson (ed.), Handbook of Theory and
+
+Research for the Sociology of Education”, New York: Greenwood, pp. 241-258; Bourdieu, Pierre (1997), “Espaço social e espaço simbólico”, in Razões práticas sobre a Teoria da
+
+Acão, Oeiras, Celta, pp 3-4; Bynner, J., & Ashford, S. (1994). Politics and participation: Some antecedents of young people’s
+
+attitudes to the political system and political activity. European Journal of Social Psychology, 24, 223–236; Citrin, Jack, McClosky, H, shanks, JM and Sneiderman, PM (1975), “Personal and Political Sources
+
+of Political Alienation, British Journal of Political Science, nº5 (1), pp 1-31; Dalton, Russell (1998), “Political Support in Advanced Industrial Democracies”, in Pippa Norris,
+
+Critical Citizens: Global Support for Democratic Governance, Oxford: Oxford University Press, pp. 57-77; Dalton, Russell (2004), Democratic Challenges, democratic choices: the erosion of political support
+
+in advanced industrial democracies, New York: Oxford University Press; Freire, André (2003), “Desempenho da democracia e reformas políticas: ocaso português em
+
+perspectiva comparada”, Sociologia, Problemas e Práticas, nº 43, pp:113-60; Freire, André, Marina Costa Lobo e Pedro Magalhães (orgs.) (2004), Portugal a Votos: as eleições
+
+legislativas de 2002, Lisboa, Imprensa de Ciências Sociais; Freire, André (2006), Esquerda e Direita na Política Europeia. Portugal, Espanha e Grécia em
+
+Perspetiva Comparada, Lisboa: Imprensa de Ciências Sociais; Fukuyama, Francis (1996), Confiança: valores sociais e criação de prosperidade, Lisboa, Gradiva; Frassinetti, António Murga (2008), “Cultura Política: un inventario bibliográfico”, Ver, Ciencias
+
+Sociales Universidad de Costa Rica, 121 (III), pp: 107-131; Heimer, Franz-Wihelm, Jorge Vala e José Manuel Viegas (1990), “Padrões de cultura política em
+
+Portugal: atitudes em relação à democracia”, Análise Social, XXV, pp 31.56; Huntington, Samuel (1991), The Third Wave: Democratization in the Late Twentieth Century,
+
+Norman: University of Oklahoma Press; Ingelhart, Ronald (1997), The Silent Revolution: Changing Values and Political Styles among Western
+
+Publics, Princeton: Princeton University Press; Inglehart, Ronald and Gabriela Catterberg (2002), “Trends in political action: the developmental trend
+
+and the post-honeymoon decline”, International Journal of Conparative Sociology, 43, pp: 300316; Jowell, Roger et al (2007), “The European Social Survey as a measurement model”, in Measuring
+
+Attitudes Cross-Nationally: lessons from the European Social Survey, pp: 1-31; Jusko, Karen, and Shively, Philips (2005), “Applying a Two-step Startegy to the Analysis of a Cross Nation Public Opinion Data”, Political Analysis, nº 13, 4, pp: 327-344;
+
+46
+
+Lima, Luísa (2006), “Atitudes: estrutura e mudança”, in Jorge Vala e Maria Monteiro, Psicologia
+
+Social, Lisboa, Edição Fundação Calouste Gulbenkian; Luengo, O. G., & Maurer, M. (2009). A Virtuous Circle for All ? Media Exposure and
+
+Political Trust in Europe. CONfines, 39–48; Lühiste, K. (2006). Explaining trust in political institutions: Some illustrations from the Baltic
+
+states. Communist and Post-Communist Studies, 39(4), 475–496. doi:10.1016/j.postcomstud.2006.09.001 Martín, Irene (2005), “Interés por la política y desapego político”, in Torcal, Morales e Pérez-Nievas,
+
+Política y Sociedade n perspectiva comparada. Un análisis de la primera ola de la Encuesta Social Europea, España: Tirant lo Blanch, pp: 63-82; Magalhães, Pedro (2005), “Disaffected democrats: Political attitudes and political action in Portugal”,
+
+West European Politics, nº 28, vol.5, pp: 973-991; Magalhães, Pedro (2006), “Confidence in parliaments: performance, representation and
+
+accountability” in Mariano Torcal e José Ramón Montero Political Disaffection in Contemporary Democracies – Social capital, institutions and politics, New York: Routledge, 190-214; Mishler, William and Richard Rose (2001), “What are the origins of political trust? Testing
+
+Institutional and Cultural Theories in Post-Communist Societies”, Comparative Politics Studies, nº 34, vol 1, pp: 30.62; Montero, José Ramón, Richard Gunter and Mariano Torcal (1997), “Democracy in Spain: Legitimacy,
+
+Discontent and Disaffection”, Studies in Comparative International Development, no 32, vol 3, pp: 124-160; Morrell, Michael E. (2003), “Survey and Experimental Evidence for a Reliable and Valid Measure of
+
+Internal Political Efficacy”, The Public Opinion Quarterly, nº 67 (4), pp: 589-608; Newton, Kenneth (2006), “Institutional confidence and social trust: aggregate and individual
+
+relations” in Mariano Torcal e José Ramón Montero Political Disaffection in Contemporary Democracies – Social capital, institutions and politics, New York: Routledge, 81-100; Newton, Kenneth, and Norris, Pippa (1999), “Confidence in Public Institutions: faith, culture or
+
+performance?”, Annual Meeting of the American Political Science Association, pp: 1-33 Norris, Pippa (1999), “The growth of critical citizens?, in Pippa Norris Critical citizens: Global
+
+Support for Democratic Governance, Oxford: Oxford University Press: 1-27; OECD (2008), “Handbook on constructing composite indicators: methodology and user guide”;
+
+http://www.oecd.org/redirect/dataoecd/37/42/42495745.pdf; Pires, Rui Pena (2007), “Árvores conceptuais: uma reconstrução multidimensional dos conceitos de
+
+ação e de estrutura”, in Sociologia, Problemas e Práticas, nº 53 pp: 11-50; Putnam, Robert (2000), Bowling alone: the collapse and revival of American community, New York,
+
+Touchstone; Putnam, Robert (1995), “Bowling Alone: America’s Declining Social Capital”, Journal of Democracy,
+
+n 6, vol 1: 65-78; Sztompka, Piotr (1999), Trust: a Sociological Theory, Cambridge, University Press; Torcal, Mariano e José Ramón Montero (2006), “Political disaffection in comparative perspective” in
+
+Mariano Torcal e José Ramón Montero Political Disaffection in Contemporary Democracies – Social capital, institutions and politics, New York: Routledge, 3-19; Torcal, Mariano (2006), “Political disaffection and democratization history in new democracies” in
+
+Mariano Torcal e José Ramón Montero Political Disaffection in Contemporary Democracies –
+
+47
+
+Social capital, institutions and politics, New York: Routledge; Torcal, Mariano and Ignacio Lago (2006), “Political participation, information, and accountability:
+
+some consequences of political disaffection in new democracies” in Mariano Torcal e José Ramón Montero Political Disaffection in Contemporary Democracies – Social capital, institutions and politics, New York: Routledge, 308-332; Van Wessel, Margit (2010), “Political Disaffection: What can we learn from asking the people” in
+
+Parliamentary Affairs, no 30, vol 63, pp: 504-523; Wright, James (1981), “Political disaffection”, in Long, Samuel, The Handbook of Political
+
+Behaviour, New York, Plenum Press, pp: 1-79.
+
+I
+
+ANEXOS A. Indicadores de desafeição política Quadro A.1: Indicadores de desafeição política em cada round do European Social Survey:
+
+ESS 1 (2002) ESS 2 (2004) ESS 3 (2006) ESS 4 (2008) ESS 4 (2010) De um modo geral, qual o seu interesse pela política?
+
+Com que frequência a política lhe parece tão complicada que não percebe
+
+verdadeiramente o que se está a passar?
+
+Acha que podia
+
+participar num grupo dedicado a questões políticas? De uma forma geral, qual o grau de dificuldade que sente em tomar uma posição
+
+acerca de questões políticas? Acha que os políticos, em geral,
+
+se interessam por
+
+aquilo que as pessoas como o sr/a sra pensam? Em geral, os políticos estão mais interessados
+
+em ganhar os votos das pessoas
+
+e não se interessam tanto
+
+pelas suas
+
+opiniões?
+
+Diga-me, por favor, qual a confiança pessoal que tem em cada uma das instituições: …na Assembleia
+
+da República/ …no sistema jurídico/ …na polícia/ …nos políticos/… nos partidos políticos (ausente
+
+no ESS1)/ …no Parlamento Europeu/ …nas Nações Unidas
+
+Qual a importância
+
+da política na sua
+
+vida?
+
+II
+
+Quadro A.2: Indicadores de desafeição política e as transformações nas variáveis
+
+Indicador Pergunta no questionário Categorias Transformação - inversão de escalas
+
+Desinteresse na
+
+política
+
+De um modo geral, qual o seu interesse pela política
+
+1= Muito interesse 2= Algum interesse 3= Pouco interesse 4= Nenhum interesse
+
+A política é complicada
+
+Com que frequência a política lhe parece tão complicada que não percebe verdadeiramente, o que se está a passar?
+
+1= Nunca 2= Raramente 3= Algumas vezes 4= Bastantes vezes 5= Frequentemente
+
+Capacidade de
+
+participar em
+
+questões políticas
+
+Acha que podia participar num grupo dedicado a questões política?
+
+1= De certeza que não 1= De certeza que sim 2= Provavelmente não 2= Provavelmente sim 3= Não tenho a certeza 3= Não tenho a certeza 4= Provavelmente sim 4= Provavelmente não 5= De certeza que sim 5= De certeza que não
+
+Dificuldade em
+
+tomar posições
+
+políticas
+
+De uma forma geral, qual o grau de dificuldade que sente em tomar uma posição acerca de questões políticas?
+
+1= É muito difícil 1= É muito fácil 2= É difícil 2= É fácil 3= Nem é difícil nem é fácil 3= Nem é difícil nem é fácil 4= É fácil 4= É difícil 5= É muito fácil 5= É muito difícil Desinteresse dos políticos por aquilo que
+
+as pessoas
+
+pensam
+
+Acha que os políticos, em geral, se interessam por aquilo que as pessoas como o sr/ a sra pensam?
+
+1= Quase nenhuns se interessam 1= Quase todos se interessam 2= Muito poucos se interessam 2= Muitos interessam-se 3= Alguns interessam-se 3= Alguns interessam-se 4= Muitos interessam-se 4= Muito poucos se interessam 5= Quase todos se interessam 5= Quase nenhuns se interessam Desinteresse dos políticos nos votos, em
+
+vez de na opinião das
+
+pessoas
+
+Em geral, os políticos estão mais interessados em ganhar os votos das pessoas e não se interessam tanto pelas suas opiniões?
+
+1= Quase todos estão interessados apenas nos votos 1= Quase todos estão interessados na opinião das
+
+pessoas
+
+2 = A maior parte está interessada apenas nos votos 2 = A maior parte está interessada na opinião das pessoas 3= Alguns estão interessados apenas nos votos, outros não
+
+3= Alguns estão interessados apenas nos votos, outros não
+
+III
+
+4 = A maior parte está interessada na opinião das pessoas 4 = A maior parte está interessada apenas nos votos
+
+5= Quase todos estão interessados na opinião das pessoas 5= Quase todos estão interessados apenas nos votos
+
+Desconfiança no Parlamento
+
+Diga-me, por favor, qual a confiança pessoal que tem em cada uma das instituições: no Parlamento
+
+Escala de 0 a 10: 0= Nenhuma confiança 0= Toda a confiança
+
+10= Toda a confiança 10= Nenhuma confiança
+
+Desconfiança
+
+nos políticos
+
+Diga-me, por favor, qual a confiança pessoal que tem em cada uma das instituições: nos políticos
+
+Escala de 0 a 10: 0= Nenhuma confiança 0= Toda a confiança
+
+10= Toda a confiança 10= Nenhuma confiança
+
+Irrelevância da política na vida
+
+Qual a importância da política na sua vida?
+
+Escala de 0 a 10: 0= Nada importante 0= Extremamente importante 10= Extremamente importante 10= Nada importante
+
+IV
+
+B. Análise em Componentes Principais
+
+Quadro B.1: Estatísticas descritivas dos indicadores de desafeição política
+
+Mean Std. Deviation Analysis N
+
+Desinteresse na política 2,52 ,879 38548
+
+A política é complicada 3,11 1,139 38548
+
+Capacidade de participar em
+
+questões políticas
+
+3,68 1,342 38548
+
+Dificuldade em tomar
+
+posições políticas
+
+2,94 1,057 38548
+
+Irrelevância da política na
+
+vida
+
+5,5957 2,57245 38548
+
+Desinteresse dos políticos
+
+por aquilo que as pessoas
+
+pensam
+
+3,6055 1,04568 38548
+
+Interesse dos políticos nos
+
+votos, em vez de na opinião
+
+das pessoas
+
+3,75 1,032 38548
+
+Desconfiança no Parlamento 5,0629 2,41207 38548
+
+Desconfiança nos políticos 6,0595 2,28665 38548
+
+Quadro B.2: Medida de KMO e Teste de Esfericidade de Bartlett
+
+KMO and Bartlett's Test
+
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy. ,785
+
+Bartlett's Test of Sphericity Approx. Chi-Square 102880,338
+
+Df 36
+
+Sig. ,000
+
+O valor de KMO=0,785 indica-nos que a matriz de input tem uma adequabilidade boa para a
+
+realização da Análise em Componentes Principais.
+
+Rejeita-se a hipótese nula do teste de Bartlett, que também permite concluir existe correlações
+
+entre as variáveis iniciais.
+
+V
+
+Quadro B.3: Variância explicada pelas componentes
+
+Para a extração das variáveis, utilizou-se o critério de Kaiser, que selecionou as componentes
+
+com valores próprios acima de 1.
+
+Figura B.1: Scree-plot
+
+O gráfico de scree-plot confirmou a extração de duas componentes.
+
+VI
+
+C. Criação dos índices de desafeição política interna e externa
+
+Normalização das variáveis com o método Min-Max (OECD, 2008: 28):
+
+A normalização dos dados é necessária antes da agregação de indicadores com unidades de
+
+medida ou escalas diferentes. Existem muitos métodos de normalização. Um deles é o método
+
+Min-max, que transforma a escala dos indicadores num mesmo intervalo de variação (de 0 a
+
+100) ao subtrair para cada valor o respetivo valor mínimo e dividindo pelo intervalo de
+
+valores do indicador, e multiplicando por 100:
+
+(X- valor mínimo do indicador/ valor máximo do indicador- valor mínimo do indicador)*100
+
+Quadro C.1: Estatísticas descritivas dos índices
+
+Índice de
+
+desafeição
+
+interna
+
+Índice de
+
+desafeição
+
+externa
+
+N
+
+Valid 37467 37363
+
+Missing 31 134
+
+Mean 57,9418 64,4304
+
+Median 58,3333 65,0000
+
+Std. Deviation 21,04764 19,17607
+
+Minimum ,00 ,00
+
+Maximum 100,00 100,00
+
+VII
+
+Quadro C.2: Média dos índices por país
+
+Índice de desafeição interna Índice de desafeição externa
+
+N Média N Média
+
+País
+
+Noruega 2036 52,4 2036 49,8
+
+Suécia 1999 52,6 1999 50,1
+
+Finlândia 2000 58,9 2000 53,2
+
+Dinamarca 1506 45,4 1506 46,7
+
+Reino Unido 2052 56,9 2052 61,6
+
+França 1503 63,5 1503 64,5
+
+Alemanha 2919 47,9 2919 65,3
+
+Áustria 2257 51,7 2257 64,7
+
+Holanda 2364 53,1 2364 54,4
+
+Bélgica 1899 60,5 1899 60,1
+
+Luxemburgo 1552 59,0 1552 56,5
+
+Suíça 2039 52,1 2039 53,0
+
+Irlanda 2046 58,3 2046 63,2
+
+Hungria 1685 58,9 1685 62,0
+
+Rep.Checa 1360 62,4 1360 69,7
+
+Polónia 2110 60,8 2110 72,8
+
+Eslovénia 1519 61,0 1519 70,0
+
+Italia 1207 63,7 1207 65,6
+
+Espanha 1729 66,2 1729 67,7
+
+Portugal 1511 64,5 1511 73,1
+
+Grécia 2566 56,9 2566 69,9
+
+Israel 2499 52,0 2499 66,8
+
+Total 42358 56,5 42358 61,8
+
+VIII
+
+D. Análise de clusters
+
+Em primeiro lugar realizou-se uma análise através do método Hierarchical Cluster Anlysis
+
+(medida de semelhança utilizado= distância euclidiana ao quadrado; método de agrupamento=
+
+Ward, e vizinho mais afastado), de forma a conseguir determinar o número de clusters mais
+
+adequado, e posteriormente através do Método K-Means Cluster Analysis, de forma a
+
+otimizar a pertença dos casos.
+
+IX
+
+D. Regressões múltiplas
+
+Quadro D.1 Variáveis independentes de nível individual:
+
+Indicador Pergunta no questionário Transformação
+
+Sexo (feminino) (codifique o sexo) Recodificação dos códigos das categorias para: masculino = 0 e feminino = 1
+
+Idade Em que ano é que o sr/a) nasceu Cálculo da idade: 2002 - Ano nascimento
+
+Anos de escolaridade Quantos anos completos de escolaridade terminou?
+
+Empregado (sim) Qual das seguintes descrições melhor define a sua situação? Recodificação dos códigos das categorias para: a fazer trabalho pago = 1, todas as outras = 0
+
+Rendimento do agregado familiar
+
+Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido do seu agregado familiar? Se não souber o número exato, por favor dê um valor aproximado. Refira-se ao perído que conhece melhor: por semana, por mês ou por ano
+
+?
+
+Dimensão do agregado
+
+familiar
+
+Contando consigo, quantas pessoas - incluindo crianças - fazem habitualmente parte do seu agregado familiar?
+
+Dimensão do habitat Qual a frase que melhor descreve o sítio onde vive?
+
+Inversão da escala para: 1= Uma casa ou uma quinta isolada no campo; 2= Uma aldeia; 3= Uma vila ou uma pequena cidade; 4= Os subúrbios ou arredores de uma grande cidade; 5= Uma grande cidade
+
+Grau de religiosidade Independentemente de pertencer a uma religião em particular, numa escala de 0 a 10, diria que é uma pessoa… (0= Nada religiosa a 10= Muito religiosa)
+
+Satisfação com a vida Tudo somado, qual é o seu grau de satisfação com a vida em geral? (0= Extremamente insatisfeito a 10= Extremamente satisfeito)
+
+X
+
+Dificuldades
+
+económicas
+
+Qual das seguintes descrições se aproxima mais do que sente relativamente ao rendimento atual do seu agregado familiar? (1= O rendimento actual permite viver confortavelmente; 2= O rendimento actual dá para viver; 3= É difícil viver com o rendimento actual; 4= É muito difícil viver com o rendimento actual)
+
+Nível de insegurança
+
+sentido
+
+Qual o nível de segurança que sene uando anda sozinho/a no seu bairro depois de escurecer? (1= Muito seguro/a; 2= Seguro/a; 3= Inseguro/a; 4= Muito inseguro/a)
+
+Autoposicionamento
+
+político (esquerda)
+
+Em política é costume falar-se de esquerda e direita. Como é que se posicionaria nesta escala, em que 0 representa a posição mais à esquerda e 10 a posição mais à direita?
+
+Recodificação dos códigos das categorias para: 0-4 = 1; 5 = 0
+
+Autoposicionamento
+
+político (direita)
+
+Em política é costume falar-se de esquerda e direita. Como é que se posicionaria nesta escala, em que 0 representa a posição mais à esquerda e 10 a posição mais à direita?
+
+Recodificação dos códigos das categorias para: 6-10 = 1; 5 = 0
+
+Simpatia partidária
+
+(sim) Há algum partido pelo qual sinta mais simpatia do que pelos outros? Recodificação dos códigos das categorias para: sim = 1; não = 0
+
+Satisfação com a
+
+democracia
+
+No geral, qual o seu grau de satisfação com o funcionamento da democracia no seu país? (0= Extremamente insatisfeito a 10= Extremamente satisfeito)
+
+Satisfação com o desempenho do governo
+
+Pense agora no Governo do seu país. Qual é o seu grau de satisfação com a forma como o Governo está a atuar? (0= Extremamente insatisfeito a 10= Extremamente satisfeito)
+
+Satisfação com o desempenho económico
+
+De um modo geral qual o seu grau de satisfação com o estado atual da economia do seu país? (0= Extremamente insatisfeito a 10= Extremamente satisfeito)
+
+Confiança social
+
+De uma forma geral, acha que todo o cuidado é pouco quando se lida com as pessoas ou acha que se pode confiar na maioria das pessoas? (0= Todo o cuidado é pouco a 10= A maioria das pessoas é de confiança)/ Acha que a maior parte das pessoas tentam aproveitar-se de si sempre que podem, ou pensa que a maior parte das pessoas são honestas? (0= tentam aproveitar-se de mim a 10= São honestas)/ Acha que, na maior parte das vezes, as pessoas estão preocupadas com elas próprias ou acha que tentam ajudar os outros? (0= As pessoas estão preocupadas com elas próprias a 10= As pessoas tentam ajudar os outros)
+
+Construção de um índice sintético agregando estas 3 variáveis (α= 0,77)
+
+XI
+
+Convivência social Com que frequência convive com amigos, familiares ou colegas de trabalho? (1= Nunca a 7= Todos os dias)
+
+TV
+
+Num dia de semana normal, do tempo que passa a ver televisão, quanto é dedicado a notícias ou programas acerca de política e assuntos de actualidade? (0 =Nenhum a 7=Mais de três horas)
+
+Rádio
+
+Num dia de semana normal, do tempo que passa a ouvir rádio, quanto é dedicado a notícias ou programas acerca de política e assuntos de actualidade? (0 =Nenhum a 7 =Mais de três horas)
+
+Jornais
+
+Num dia de semana normal, do tempo que passa a ler jornais, quanto desse tempo é passado a ler sobre política e assuntos de atualidade? (0 =Nenhum a 7 =Mais de três horas)
+
+XII
+
+Quadro D.2 Variáveis independentes de nível agregado:
+
+Fonte Descrição
+
+Anos de democracia
+
+DPI - Database of Political Institutions, Development Research Group of the World Bank
+
+Tempo de democracia
+
+Índice de Desenvolvimento
+
+Humano
+
+UNDP - United Nations Development Programme
+
+Índice de Desenvolvimento Humano (IDH): compósito de variáveis de expectativa de vida, nível de educação e PIB per capita (0-1)
+
+Coeficiente de
+
+Gini World Bank Medida da igualdade da distribuição do rendimento (0-1)
+
+Corrupção
+
+subjectiva Transparency International Medida dos níveis percebidos de corrupção do setor público (100-0)

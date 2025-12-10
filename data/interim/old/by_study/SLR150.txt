@@ -1,0 +1,313 @@
+120
+
+9. From online participation to policy making: Exploring the success behind Latvian legislative crowdsourcing platform MyVoice
+
+Visvaldis Valtenbergs
+
+1 INTRODUCTION
+
+Most early e-participation platforms in Latvia were built on the assumption ‘we will build and people will come’. Without strong organizational backing or a sustainable financing model, they largely failed to create a wider impact in society. The MyVoice platform is a notable exception in terms of public visibility and policy impact. Since its establishment in 2011 when citizens’ rights to directly petition parliament were introduced, the citizen initiatives coming through MyVoice (www​.manabalss​.lv) have changed several laws and even led to one constitutional amendment. From 2011 to 2019, 50 citizen initiatives have been submitted to parliament and 27 of them have been supported by parliament’s vote. Among the approved initiatives has been one constitutional amendment about using open voting for the president in parliament. Other notable policy successes include the introduction of a drinking bottle deposit system, the right to use the public transportation lane by motorcycles, the provision of state support for the treatment of lung cancer, hepatitis C and melanoma, automatic reimbursement of overpaid income tax, a reduced value added tax rate for certain fruits and vegetables and many others. Besides the impressive policy record with more than half of collectively signed citizen initiatives leading to some kind of policy change, two features of MyVoice elevate its significance beyond the national context. First, the platform has significantly expanded the scope of political participation in Latvia. MyVoice allows the collection of signatures of Latvian citizens who are at least 16 years old, thus extending the rights of political participation to young people for whom the age limit to vote is 18. The necessary threshold of participation on MyVoice (10,000 signatures for national legislative initiatives and 2000 signatures for local government initiatives) is much lower than the required number of signatures for citizen-initiated draft laws (one tenth of the electorate). MyVoice has made it easy to participate in national politics from abroad, which is important for the sizable Latvian diaspora of more than 300,000. Second, unlike most e-petition platforms MyVoice has imposed certain content requirements for the incoming citizen initiatives, such as constitutionality and the concreteness of legislative proposals. In addition, the platform staff also consults volunteer experts on some of the initiatives. These measures are aimed at achieving better prepared citizen initiatives, bringing a higher impact on policy making.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 121
+
+To understand how the MyVoice e-participation initiative organized outside the institutional realm led to significant political impact without compromising the important values of political neutrality and trust, the chapter begins by identifying the key drivers for e-participation and then positioning the case of MyVoice within a broader political cultural context. This is followed by a description of the MyVoice platform and its organizational characteristics. An evaluation of the platform is then carried out and the key lessons are drawn.
+
+2 ANALYTICAL FRAMEWORK AND METHODOLOGY
+
+e-Participation has been defined as public participation via information and communication technology (ICT) in policy-making processes. More broadly, it refers to various ICT measures and platforms supporting the engagement of the stakeholder in the policy-making process (OECD, 2003; Sæbø et al., 2008). Many e-participation studies examine the benefits for the citizens and how strong participation enhances democracy and helps regain trust in institutions (e.g. Zheng and Schachter, 2017). The studies demonstrate how ICT can lower substantial barriers to creating broader, better and more qualitative e-participation, particularly in law-making, such as citizens’ ignorance of the legislative process, information overload and the complexity of legal material (Manosevitch, 2014; Farina et al., 2011, 2013). There is less research addressing the various political and administrative challenges related to the institutional and organizational context of e-participation practices. Some studies focus on management challenges relating to the costs of e-participation (Andersen et al., 2007; Wang and Bryer, 2013). Some have addressed organizational cultures and attitudes relating to the success or failure of e-government adoption in general and e-participation projects in particular (Carrizales, 2008; Aikins and Krane, 2010; Baldwin et al., 2012; Welch and Feeney, 2014). Others have touched upon stakeholders in e-participation (Feeney and Welch, 2012), while a number concentrate on the various drivers and barriers to e-participation (Chadwick, 2011; Reddick and Norris, 2013; Manosevitch et al., 2014; Panopoulou et al., 2014; Jho and Song, 2015; Zheng and Schachter, 2017). By analysing various technological and institutional determinants of civil participation, Jho and Song (2015) emphasized that e-participation has a higher probability of increasing when institutions and technology act in conjunction. In other words, efforts to realize e-democracy through ICT will fail if only technological infrastructure is considered (Jho and Song, 2015). In a similar fashion, while attempting to explain the failure of citizen engagement initiative ‘TechCounty’, Chadwick (2011) concluded that the success and failure of e-participation initiatives can be explained more by complex institutional variables and less by the choice of technological tools. Therefore, the analytical model for analysing this case encompasses not only technical but also strategic, managerial, operational and societal aspects. More specifically, based on the work of Randma-Liiv and Vooglaid (2019), context, organizational factors and individual factors are examined to provide a thorough understanding of the e-participation initiative. The initiative is evaluated based on performance indicators, democratic legitimacy, the transparency of the process, influence on policy design and external collaboration. In order to assess the role of MyVoice in policy making, a case study was carried out from October 2018 to February 2020. To gather first-hand empirical data, altogether nine semi-structured interviews were carried out. Three interviews with the platform’s staff were aimed at examining the organizational aspects of the platform, the role of internal quality
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 122
+
+checks of submitted initiatives and the interaction of the platform staff with stakeholder groups, such as civil society organizations (CSOs), state institutions and parliament. Two interviews were carried out with politicians from different political parties to examine the uptake of the proposed citizen initiatives in the political process. To understand the user perspective, four interviews were conducted with individuals who had used the platform to submit their initiatives for collective signing. In addition, content analysis of the platform’s initiatives was conducted. The case description was supplemented by unpublished material emerging from earlier studies (Alkšere, 2016; Svence, 2016; Antonova, 2019).
+
+3 OVERVIEW OF THE NATIONAL CONTEXT
+
+Latvia is a country with a population of 1.9 million and a low average population density (31 people per square kilometre). More than 1 million people are concentrated in the capital city Riga and its agglomeration. Its main strengths related to e-government and e-participation are its advanced coverage of ultrafast broadband. 4G in Latvia covers nearly 100 per cent of households (European Commission, 2019). According to the annual Digital Economy and Society Index, broadband was available to 90 per cent of households compared with 60 per cent in the European Union (EU) as a whole, coupled with the relatively good uptake of such connections (32 per cent of households compared with 20 per cent in the EU as a whole). The Latvian government has made impressive progress in the development of e-government and e-services and opening up public data. According to the annual EU(27+) e-government benchmark report, Latvia ranked among the frontrunner countries in Europe, scoring 87 per cent of the highest possible score (European Commission, 2020a). According to the Open Data Maturity Report, Latvia scored just above the average EU27 level (78 per cent of the highest possible score) (European Commission, 2020b). However, there has been less emphasis on the development of participative solutions beyond developing user-friendly, one-way e-information portals. Without active state policies promoting e-participation, most projects have been launched by CSOs or active individuals. The first examples of e-participation in Latvia date back to 2007 when the CSO Tautvaldība (Popular Government) was founded. Its mission was to enable modern, informed and effective participation in government. The activists associated from Popular Government stressed the importance of low-cost and efficient Internet communication in bridging the gap between the government and the people. The organization promoted the idea of e-democracy and popular engagement opportunities and discussions about policy development. Activists criticized the formal one-way information provision model of the government and were inspired by the experience of Estonia’s e-democracy platform TID+ (Today I decide) implemented by the Estonian Government Office. Other projects were aimed not so much at influencing policy, but at facilitating transparent representative politics and conscious electoral choice (see Table 9.1). These were enabled by financial assistance from the Open Society Foundation and implemented by two CSOs – Providus and Delna. Among the most successful past e-participation initiatives is crowd involvement initiative Karstie rēķini (‘Hot Bills’) created in 2012 by the Baltic Center for Investigative Journalism Re:​Baltica (see https://​rebaltica​.lv/​petijumi/​karstie​-rekini/​). The residents were asked to send their heating bills by e-mail, post or telephone. The collected bills were broken down into specific price categories and an interactive map was created that allowed citizens to
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 123
+
+compare heating prices. More than 2200 bills were received during the campaign, which provided a large amount of data for the implementation and analysis of the study. Among the most visible government e-participation platforms is ‘Let’s reduce the burden’ (Mazināsim slogu), which is aimed at evaluating public services and collecting public feedback on state and local government institutions (see https://​mazaksslogs​.gov​.lv/​). The input is collected by the State Chancellery and forwarded to the relevant institutions to be sorted. A response is provided to the author of the proposal. However, due to the lack of adequate financing and human resources, there has not been significant activity on the platform since 2018. Another government-provided direct e-participation opportunity is offered by the national e-government portal Latvija.lv, where it is possible to sign popularly initiated draft laws or amendments to the constitution (see www​.latvija​.lv/​en/​Epakalpojumi/​EP177/​Apraksts). According to the law ‘On the Peoples’ Referendum, the Proposal of Laws and the European Citizens’ Initiative’, signature collection for the amendments can last for 12 months after they have been submitted to the Central Electoral Commission (LR Saeima, 1994a). As of January 2019, not a single draft law has been passed by popular electoral initiative (including electronically collected signatures), since the required minimum number of signatures (ca. 155,000) is high relative to the size of the national population. Among the six initiatives submitted on Latvija.lv, the most signatures (29,481) were collected for the draft law to abolish the real estate tax on one immovable property owned by a natural person of Latvia, in which the place of residence was declared. The campaign was backed by the political party From Heart to Latvia. Online collection of signatures is also allowed for initiating the popular referendum on the dismissal of parliament (Article 25, section 4). Importantly, the law also stipulates that besides the central national e-government platform Latvija.lv, other online platforms can be
+
+Table 9.1 Examples of most visible government and civil society e-participation initiatives in Latvia
+
+No longer active Active
+
+Initiated by civil society Initiated by government Initiated by civil society
+
+Electoral information Service evaluation, citizen feedback and
+
+suggestions
+
+Legislative crowdsourcing/e-petition
+
+‘Try on a Party’, ‘Sorting Yard for
+
+Political Parties’, ‘ForAndAgainst’ and
+
+others
+
+‘Let’s reduce the burden!’ –
+
+Mazaksslogs.lv
+
+‘MyVoice’– Manabalss.lv
+
+Dialogue with politicians Collection of online signatures Electoral information
+
+‘Wise heads’ Latvija.lv – electronic signature
+
+collection for popular electoral
+
+initiatives, popular referendum on the
+
+dismissal of parliament
+
+‘Integrity Watch, Latvia’ –
+
+Deputatiuzdelnas.lv
+
+e-Petitions
+
+Balsojums.lv (Vote)
+
+Peticijas.com (Petitions)
+
+Crowdsourcing
+
+‘Hot bills’, Karstie rēķ ini
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 124
+
+used for the collection of signatures, thus extending the range of possible technological solutions for e-participation projects (LR Saeima, 1994a).
+
+4 DESCRIPTION OF MYVOICE
+
+4.1 Background, Aims and Scope
+
+MyVoice emerged in the aftermath of the Great Recession when legislature and government adopted a drastic financial austerity package. Several public protest activities ultimately led to the president’s decree to dismiss parliament, which was approved in the popular referendum in 2011. The wave of social mobilization provided a significant push for the development of the MyVoice platform, as it created fertile ground for alternative citizen participation in civil society. The initial idea came from two social activists, Kristofs Blaus and Jānis Erts. In the beginning, several ideas circulated, including making the platform for electronic citizen referendums, but after consulting several legal professionals and citizen activists, it was decided to focus on the submission of citizen ideas aimed at changing the existing policy. It was deemed a more realistic alternative than referendums, considering that the level of citizen participation would not have reached the level that is constitutionally required for referendums (Interview with a platform manager, 19 January 2019). In order to change policy, citizens’ initiatives go through the following steps:
+
+4.1.1 Citizen initiatives Unlike simple ideas, calls or proposals that are addressed as regular or electronic petitions to executive or legislative bodies, MyVoice works with so-called citizen initiatives that are in legal terms considered collective addresses. Unlike regular petitions, collective addresses typically have stronger content requirements (aimed at proposing concrete legislative change), a narrower scope of initiators (typically only citizens) and a certain minimum threshold of signatories. In addition, collective addresses usually require a decision or response (Tiburcio, 2015). Since 2011, MyVoice has published over 500 citizen initiatives (see Figure 9.1 and Table 9.2), while the number of incoming initiatives is much greater. In the content analysis of the citizen initiatives dating to 2016, Svence (2016) found that most initiatives could be described as moderate, not strictly conservative or liberal, followed by moderately left-leaning initiatives. Most MyVoice citizen initiatives fall into the categories of economy, state governance, transportation, environment, culture or taxes. A significant number of initiatives are also dedicated to social order, health and urban planning. In 2020, the platform published 109 citizen initiatives (of the incoming 273). Forty-two of those published gathered the required number of signatures and were submitted to parliament.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 125
+
+Six initiatives were approved by parliament. Overall, the platform received 366,436 unique signatures and 60,672 new unique IP addresses (see Figure 9.1 and Table 9.2).
+
+4.1.2 Legal framework The submission of collective addresses is regulated by the Rules of Procedure of the Saeima. Article 131 sets a threshold of 10,000 signatures of Latvian citizens who have reached the age of 16 on the day of submission of the collective address. The rules do not specify in what form (digital or paper) the initiatives can be submitted (LR Saeima, 1994b). There is currently no formal procedure for local-level initiatives. In order to present an initiative in the municipality, no specific number of signatures must be reached, but it is generally recommended by
+
+Figure 9.1 The number of citizen initiatives published on the MyVoice platform, 2011–2018
+
+Table 9.2 Key performance indicators of MyVoice, 2019–2020
+
+2019 2020
+
+Citizen initiatives received 190 273
+
+Number of citizen initiatives published on
+
+MyVoice
+
+56 (67 in 2018) 109
+
+Number of initiatives submitted to parliament 13 42
+
+Number of citizen signatures 257,064 (235,264 in 2018) 366,436
+
+Number of new platform users 43,825 (28,327 in 2018) 60,672
+
+Initiatives approved by parliament + changes
+
+made at governmental level
+
+3 6
+
+Source: Data obtained from the MyVoice platform content editor (14 January 2021).
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 126
+
+MyVoice that the initiative gathers 2000–5000 signatures depending on the size of the municipality and the subject of the initiative. It is important to emphasize that MyVoice distinguishes between the ideas submitted by citizens and by political parties. Political parties and companies willing to use the platform for gathering signatures and mobilizing public support are allowed to do so for a nominal fee of 1000 euros. This policy was adopted in 2017 to counter the risk of the hijacking of the platform by political parties even though regular party members can still post their private initiatives for no fee as long as they agree in writing not to associate the initiative with their political party. Several initiatives have been introduced by various political parties. In one instance, the portal removed the initiative because the politician did not want to comply with the requirement and pay for the initiative. This rule has been criticized by some politicians as non-transparent (Alkšere, 2016).
+
+4.1.3 Quality test for the initiatives submitted MyVoice can be considered an e-participation platform that combines the ease of the few-click signing of published ideas with the elements of legislative crowdsourcing because of the significant effort that citizens invest in improving the initiatives before they are made public (Interview with a platform manager, 19 January 2019). Unlike in unmoderated petition platforms, the citizen initiatives on the MyVoice platform are filtered according to eight criteria (Box 9.1). The filtering is performed by the MyVoice team. In the case of doubt, voluntary experts are consulted.
+
+BOX 9.1 THE QUALITY CRITERIA OF CITIZEN INITIATIVES
+
+1. The idea should be legally introduced by a vote of the Saeima or a local government of Latvia. 2. The idea must not conflict with the foundations of the State of Latvia. 3. The idea should offer a specific solution to a problem. 4. The initiative must be in line with the values of a democratic society. 5. The initiative must be formulated against certain people, events or ideas. 6. The statements made in the initiative must be true and verifiable. 7. The idea must be submitted in Latvian without grammatical errors. 8. In order to better reflect the idea, the initiative should contain an illustrative image.
+
+Source: MyVoice website: https://​manabalss​.lv/​pages/​par​-manabalss​-lv.
+
+In the beginning of the platform’s operation, the portal published only around 20 per cent of all submitted initiatives. According to the platform’s content manager, the quality of citizen initiatives has improved over time. For example, in 2019, the platform received 190 initiatives but published only 56 (see Table 9.2). This can be attributed to the clearer explanation of publishing criteria on the website, communication activities with the public and the overall positive learning curve of the platform audience. According to the platform’s director, it is critical to respect the foundations of the State of Latvia or the constitutionality of the initiative. Meanwhile, some incoming initiatives have been plainly unrealistic and, according to the platform’s staff, the filter was needed to avoid public shaming and to maintain the credibility and
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 127
+
+legitimacy of the platform (Interview with a platform staff member, 10 May 2019). One such example was the proposal for the Latvian army to introduce nuclear weapons. According to the platform’s staff, it is not always easy to sort through incoming initiatives, therefore external experts are consulted (Interview with a platform staff member, 10 May 2019). Though it is not considered a general rule, according to the platform’s director, there have been a few instances where the initiative was published on the platform even when the experts had voiced their doubts. For example, the initiative for raising the minimum wage to 1000 euros in two to three years was published alongside the commentary from the experts. The content administrator of MyVoice provides written feedback to the authors of the initiatives.
+
+4.1.4 Collection of citizen signatures After the citizen initiative has received positive feedback from the content administrator, it is published on the MyVoice platform. It remains there for as long as the author of the initiative desires. Sometimes the initiative remains on the platform even though it has been submitted to parliament in order to demonstrate that it continues to gather public support (Interview with a platform staff member, 10 May 2019). Most published initiatives do not contain any additional informative materials (such as evidence-based research, visual presentations), although it is possible to add them on the portal (Antonova, 2019). The authors of successful initiatives frequently engage in additional promotional activities for their cause, such as cooperating with media, popularizing the initiative via social networking platforms, organizing public events, etc. (Svence, 2016; Antonova, 2019). In the process of the collection of citizen signatures, MyVoice staff does not promote any initiatives.
+
+4.1.5 Submission to parliament After the initiative has gathered at least 10,000 signatures, it is submitted to the Mandate, Ethics and Submissions Commission (MESC) of parliament, which is obliged to review it within one month. Consequently, the MESC invites the authors as selected experts to a public hearing. Though the MyVoice staff is also present at the hearing, it abstains from taking any position regarding the initiative. In this phase, the authors of the initiative can bring their own selected experts to the MESC meeting. As a general rule, the MESC transfers an initiative to the relevant commission of parliament or to the relevant ministry of the government with a request for provision of an opinion. The initiative is never rejected by the MESC. The MESC maintains a public website on the parliament portal with a list of citizen initiatives (http://​ mandati​.saeima​.lv/​kolekt​%C4​%ABvie​-iesniegumi). The website lists the name of the initiative, the date on which the initiative was received by parliament, a short summary of the initiative and the key milestones in the advancement of the initiative. The key milestones include the date on which the initiative was sent to the relevant parliamentary commission or to the relevant ministry, the date on which the opinion was received from the relevant intuitions of the government, the dates on which the relevant decisions were taken by vote in parliament or in the commission and other relevant information. On several occasions, the initiatives got stuck in parliament. At the end of 2020 there were 29 initiatives (dating back from 2015) awaiting action by parliament. Among these initiatives was the most popular initiative in the platform’s history, ‘On the abolition of real estate tax on sole property’, which had gathered over 40,000 signatures (Table 9.3). The main reason for initiatives getting stuck is the lack of political support of the parliamentary majority, as
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 128
+
+illustrated by the initiative to ban gambling, which lacked the political force to get it through parliament. Parliament’s Rules of Procedure do not require that a response to the initiative be provided. To resolve this, the MyVoice team meets with the representatives of the administration of parliament and the MESC to update the information on stuck initiatives. The team is also pressing for change in the Rules of Procedure so that stuck initiatives do not go unresolved for several months.
+
+5 ORGANIZATIONAL CHARACTERISTICS
+
+The MyVoice platform is maintained by the CSO Civic Participation Foundation founded by private individuals. Day-to-day technological support is provided by in-house specialists; larger projects are implemented by freelancers and partner private companies.
+
+5.1 Leadership and Individual Characteristics
+
+The staff is led by the director who is responsible for the strategic management of the platform. In addition, there is a content editor, a community editor and a part-time programmer. Additional staff can be recruited for specific projects. According to the platform’s director, training a new staff member takes considerable time and effort. The employees require a level of competence that surpasses the need of an ordinary non-profit organization volunteer and matches the level required for work in a specialized public relations agency. The platform’s director values trust and staff autonomy over supervision, micro management and performance review (Interview with platform director, 19 January 2019).
+
+5.2 Organizational Processes and Collaboration
+
+The key organizational process is to perform quality checks on incoming initiatives and to interact with different stakeholder groups that include the authors of citizen initiatives – individuals, informal groups, CSOs, interest groups and political parties as well as the members of parliament with the power to make decisions. Initially, the portal attracted mostly individuals, but lately there has been an increase in initiatives submitted by CSOs and informal activist
+
+Table 9.3 Overview of the status of submitted MyVoice initiatives from 2011 to May 2019
+
+Status of initiative Quantity
+
+Submitted and approved by the Saeima 13
+
+Approved by the Saeima before obtaining the required 10,000 signatures on MyVoice 14
+
+Submitted to the Saeimaand not approved 11
+
+Currently submitted to the Saeima and under review 21
+
+Submitted to the Saeima but not recognized as a proper collective address 1
+
+Submitted to municipalities and approved 2
+
+Submitted to municipalities and not approved 4
+
+Submitted to municipalities and under review 6
+
+Submitted to the ministry and not approved 1
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 129
+
+groups (Svence, 2016). CSOs have been behind the majority of successful initiatives bringing legislative decisions (Antonova, 2019). In the process of checking the quality of incoming citizen initiatives, the leading role is performed by the MyVoice content editor, who scans the initiative along with at least one other MyVoice staff member (the four-eyes principle). If the initiative meets the platform requirements, it is usually grammatically and stylistically improved. If the legitimacy, purposefulness or expected effectiveness of the initiative is questioned by platform staff members, one or several external experts are invited to provide their opinion on the initiative. Experts are generally asked whether and how to reformulate or refocus the initiative to make it more feasible and better argued. This is followed by a round of correspondence with the authors about the necessary improvements or the rejection of the initiative. There is a network of around 30 volunteer experts who provide their opinions on the initiatives pro bono. The experts are selected based on their area of expertise and public visibility. During the academic year, most expert consultations are provided by law students from the Legal Practice and Assistance Center of the University of Latvia.
+
+5.3 Financial Independence
+
+Unlike many e-participation platforms, MyVoice does not receive state financing for covering operational expenses and therefore has adopted a self-financing model maintained through micro donations. Platform users who would like to sign an initiative are invited to click on the pop-up invitation and donate. Donations can be made by credit card or bank link. Since 2011 44,500 unique individuals have made donations. The most frequently donated amounts are 0.50, 2 and 5 euros. On average, the platform raises ca. 30,000 euros a year from 13,000 to 15,000 micro donations. The money is used to pay for the platform’s basic operations (basic staff costs, server and maintenance costs). According to the platform’s director, these donations are the cornerstone of the platform’s independence and financial sustainability. The platform attracts additional financing from credible donors, such as the European Commission, the Ministry of Culture, the Embassy of the United States and a few corporate donors. According to the director, each new project that the Civic Participation Foundation implements must be financially self-sustainable. Due to the growing costs of software development and programming, financial resources is currently the main operating restriction for MyVoice. Several platform modernization projects, such as the mobile app version, the global authentication module, instant verification of signatures and others, cannot be implemented due to lack of financing. The platform actively seeks funding opportunities in civic- and scientific-oriented projects that are mostly funded by EU programmes. The platform’s management maintains that it keeps a firm distance from aligning with political parties and business groups and is generally cautious when collaborating with other CSOs in order to avoid being associated with certain interest groups (Interview with platform director, 19 January 2019).
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 130
+
+6 EVALUATION OF THE E-PARTICIPATION INITIATIVE
+
+6.1 Performance Indicators
+
+In public presentations, MyVoice frequently emphasizes performance in policy making as the key to the success of the portal, implying that e-participation should be meaningful and lead to concrete results in policy change (Interview with platform staff, 24 January 2020). As indicated above, until the end of 2019, 50 initiatives were submitted to parliament and 27 of them have been supported by parliament’s vote, whereas in 2020, only six initiatives out of the 42 submitted were approved by parliament. There is, however, contrasting evidence behind the success of citizen initiatives in changing law or policy. The content of citizen initiatives and the role of other factors influencing the political agenda explain the performance of the platform. In the most popular initiatives, the text contained a clear and specific idea for which applicants would like to advocate. An important criterion for an initiative’s success is its concreteness. According to the platform’s content manager, the initiative should be realistic and financially possible to implement (Interview with platform content manager, 10 May 2019). Many popular and successful initiatives also mentioned the experience of other countries and posited Latvia as a ‘lagging’ country. It seems that the shaming rhetoric is working in favour of the popularity of the initiative (Antonova, 2019). Among the initiatives generating a lot of emotion were those addressing injustice, unfairness or dishonesty and strengthening the belief that the processes in state and public administration are not sufficiently open and transparent, that there is potential for corruption or that officials are getting too much out of their position in office. This was true for the initiative ‘Against refunds for members of parliament who have lost their parliamentary mandate’. The initiative on the unfairness of the reimbursement system of the members of parliament quickly collected the required number of signatures. Overall, more emotionally saturated initiatives with a negative connotation attracted larger numbers of signees, though the publishing criteria of MyVoice imply that the wording of the initiative should be phrased in support of an idea (Antonova, 2019). In a number of cases, the initiatives essentially took a position against a decision, an activity or an existing law. Nearly all of the most popular initiatives have been a public response to an event that has been widely spoken about in the media and in the public space at the time of the submission. Few popular initiatives (those with many signatures on MyVoice) actually lead to policy changes. Six of the initiatives submitted to the Saeima were so popular that they collected 10,000 signatures in less than a month. Yet, these initiatives have not materialized in policy change. As indicated above, the most signed initiative ‘On the abolishment of real estate tax for the sole property’ received over 50,000 signatures but did not lead to changes in tax law, which proves the importance of fiscal considerations in policy making as well as the political position of the ruling coalition. Other factors such party orientation and coalition agreements are important in determining the policy outcome of citizen initiatives. Among the initiatives that have failed to collect the required number of signatures for a longer period of time are initiatives on topics that may not be of great interest to a Latvian audience, such as the initiatives ‘Inclusion of the Game of Cards in General Education Training Programme’ and ‘Recognition of the Palestinian State within the 1967 borders’ or initiatives that are quite specific or aimed at narrow audiences, such as ‘On the expiration date and prices of fishing permits’.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 131
+
+6.2 Democratic Legitimacy
+
+MyVoice has broadened the channels of participation and mobilization by lowering the financial and time barriers to participation. The interviews with activists revealed that the prime reason for submitting an initiative was the perceived difficulty to bring the idea into the political agenda through the traditional political process. For most respondents, placing an initiative on the MyVoice platform provided an easy way to attract the attention of the general public and the media to the cause and helped save financial resources (Svence, 2016). Yet, despite these benefits, there was a shared concern about the responsiveness of state institutions after submission of their initiative to parliament. Respondents felt the gap between them and the political agenda and felt that the prospect of gaining public support was not going to lead to a straightforward change in policy (Svence, 2016). For some, the entire process took too much effort, crushing the myth that push-button democracy was an easy game changer. A respondent expressed the feeling of being intimidated when facing government officials on the other end of the table but felt relieved to receive support from the members of the Parliamentary Committee. An activist of the initiative ‘Life without the Hepatitis C’ acknowledged:
+
+Three of us went to the Commission [hearing] – me, another girl who had studied public relations but did not have any understanding about the health policy – I also had no knowledge of it – and an old lady, a retiree, a head of an association who was a retired nurse. The three of us made calculations of the economic efficiency [of our proposal] and placed it before the Ministry of Health, the National Health Service, the State Agency of Medicines – a team of ten people who all play on one side. The Commission sent us home as they had not prepared; they just didn’t consider that we were better prepared than they were. (Svence, 2016)
+
+There is some evidence that MyVoice has extended the range of issues that have been articulated and addressed to decision-makers. Commenting on the general features of MyVoice initiatives, the platform director highlights the fact that certain topics, such as animal rights, are indeed becoming more popular on MyVoice even though they may not yet be that relevant in the public domain (Interview with platform director, 19 January 2019). More than a quarter of initiatives analysed contained elements of post-material or so-called ‘new politics’ (Svence, 2016). Antonova (2019) has found that, according to Inglehart’s post-material and material value scale, 62 per cent of initiatives were identified as traditional-material and 38 per cent as post-material.
+
+6.3 Transparency of the Process
+
+The public can easily monitor the course of the initiatives from the date of submission to entry into political agenda on the MyVoice website, yet there is a transparency deficit at the beginning and at the end of the participation process. MyVoice staff performs a crucial gate-keeping function to sort out well-prepared initiatives. The platform’s own editorial processes and expert-driven evaluation in more controversial instances might seem less transparent and egalitarian, but according to the platform’s director, they encourage better-prepared citizen initiatives. Sometimes, the authors of rejected initiatives are grateful that they have been heard and have admitted to receiving a deeper understanding of the issues involved in this communication process (Interview with content editor, 14 January 2021). It is important to note that the names of neither the experts nor the authors of the initiative are disclosed in the process.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 132
+
+Some transparency deficit is also observed once the citizen initiative enters parliament. The parliamentary website shows the advancement of initiatives, but due to its poor design, it does not make it easy for the public and journalists to keep track. In addition, the information about the advancement of initiatives is updated on the MyVoice website, providing additional references to any related media coverage. The platform’s staff plays an active role in strengthening transparency. Once the opinion is received from the parliamentary committee or from the government, the MyVoice staff contacts the author of the initiative and they consult on the course of further action. In the event of a negative opinion, the MyVoice staff might advise the author to contact one of the political parties in parliament to seek additional support for repeated examination of the initiative.
+
+6.4 Influence on Policy Design and External Collaboration
+
+The influence on policy design is facilitated by the platform’s neutrality and the level of trust and acceptance among major stakeholders – political parties and CSOs. Several citizen initiatives have been taken up by parliament and approved before reaching the required 10,000 signatures, such as providing transport registration licences in the size of a credit card. This shows that politicians are willing to take up some initiatives into the political agenda or use the platform to spot solutions to specific issues that might be technical and easy to implement (Interview with platform director, 19 January 2019). The interviewed members of parliament generally viewed the submission of citizen initiatives in electronic format as a positive and democratic practice because the process provided an opportunity for people to express their views and communicate with state institutions as well as their supporters (Alkšere, 2016). An opportunity to articulate and defend their interests in instances where non-governmental organizations (e.g. trade unions) and political parties fail was also acknowledged. The interviewed members of parliament agreed that citizen initiatives should be of better quality, which could be achieved through the establishment of quality standards, codes or consultative boards. Political neutrality was seen as the key principle in maintaining the necessary level of trust in the platform so that collaboration can continue (Alkšere, 2016). These expectations are also confirmed by the platform’s director, who stressed that the role of the MyVoice staff is limited to informational assistance:
+
+We’re not really a good-spirited office. We are neither supporters nor critics of a specific initiative. But we are, of course, in favour of all activities. That doesn’t mean we support everything that has been published. But we support the enthusiasm, courage and daring of the authors to express themselves, but we do not provide assistance, for example, in organizing demonstrations. We are providing information assistance. (Interview with platform director, 19 January 2019)
+
+There have not been major attempts to delegitimize the platform, although it has occasionally been drawn into political battles regarding controversial citizen initiatives, such as the initiative that called for the legalization of cohabitation between partners. However, in most cases, political parties on all sides of the political spectrum have come to accept the neutrality and legitimacy of the platform.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 133
+
+7 DISCUSSION AND LESSONS LEARNED
+
+The MyVoice platform clearly represents a sociotechnical approach to e-democracy as a technologically simple participatory gateway for citizens with relatively sophisticated internal processes aimed at increasing the quality of incoming citizen initiatives. This echoes the conclusions of those who emphasized that e-participation has a higher probability of increasing when institutions and technology act in conjunction (Jho and Song 2015; Chadwick, 2011). MyVoice has successfully taken advantage of a hybrid media and political system. The mobilization of society in the process of collecting signatures is affected by traditional media and the digital environment, social networks and platforms, political events and offline activities (Chadwick 2007, 2013). Several lessons can be drawn from the factors influencing the performance and impact of MyVoice in Latvian policy making. First, contextual factors such as high ICT use and the relative openness and transparency of the Latvian parliamentary system are relevant in explaining the success of MyVoice. The introduction of collective addresses in the form of electronically submitted citizen initiatives has created a low-barrier opportunity for the direct involvement of citizens in politics. During times of social, economic and political turbulence, demand for low-cost citizen mobilization and participation platforms increased in Latvia, and the public sphere became a lively place for a multiplicity of loud, sometimes unorganized, voices. MyVoice provided a time-saving participatory alternative with a concrete policy impact. Its scope and goals were defined clearly and realistically and have not changed since its establishment. The platform’s relationship with parliament is based on an informal relationship. It is difficult to see this kind of informal relationship in larger democracies with complex institutional hierarchies and stakeholder relations. Second, organizational factors and processes are appropriate for handling the ever growing number of incoming initiatives. MyVoice ensures important behind-the-scenes processes, such as performing quality checks on incoming citizen initiatives and providing informational assistance to activists whose initiatives have reached parliament. The platform’s content manager and the network of external experts play an active role in verifying incoming initiatives, ensuring that the statements expressed in citizen initiatives are verifiable. While the filtering and editorial processes are currently not fully transparent, the platform’s concern with the quality of content seems relevant in times when disinformation and fake news pose challenges for the quality of public discourse. The financial independence of the platform from major public and private donors also ensures its credibility, though the lack of stable financing poses significant challenges in developing the platform. Finally, several individual factors contribute to the platform’s greater value for citizens. Among these factors is clear and understandable online content. Feedback is provided to participants, showing how their initiatives influence decision-making at the political level. There is evidence that MyVoice has strengthened the decision-making process by allowing politicians to monitor and borrow citizen ideas; however, it has not always been easy to deal with politicized initiatives and vested interests.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Engaging citizens in policy making 134
+
+ACKNOWLEDGEMENTS
+
+This research is funded by the Latvian Council of Science Project ‘Politicization of History: Post-Factual Approaches vis-a-vis Latvia–Russia relations in XX Century, Instrumentalization, Challenges for Democracy, Lessons and Counter-Measures’, Project No. lzp-2018/1-0322.
+
+REFERENCES
+
+Aikins, S. K. and Krane, D. (2010). Are public officials obstacles to citizen-centered e-government? An examination of municipal administrators’ motivations and actions. State and Local Government Review, 42(2), 87–103. Alkšere, I. (2016). The Attitude of the Representatives of the Political Parties Represented in Saeima towards the Individualized Style of Political Participation via Electronic Petitions. Bachelor’s paper, Vidzeme University of Applied Sciences. (In Latvian.) Andersen, K., Zinner Henriksen, H., Secher, C. and Medaglia, R. (2007). Costs of e-participation: The management challenges. Transforming Government: People, Process and Policy, 1(1), 29–43. Antonova, K. (2019). The Analysis of the Messages and the Collective Action of the Public Initiatives Submitted on Platform Manabalss.lv. Master’s thesis, University of Latvia. (In Latvian.) Baldwin, J. N., Gauld, R. and Goldfinch, S. (2012). What public servants really think of e-government. Public Management Review, 14(1), 105–127. Carrizales, T. (2008). Critical factors in an electronic democracy: A study of municipal managers. Electronic Journal of e-Government, 6(1), 23–30. Chadwick, A. (2007). Digital network repertoires and organizational hybridity. Political Communication, 24, 283–301. Chadwick, A. (2011). Explaining the failure of an online citizen engagement initiative: The role of internal institutional variables. Journal of Information Technology and Politics, 8(1), 21–40. Chadwick, A. (2013). The Hybrid Media System: Politics and Power. New York: Oxford. European Commission (2019). Digital Economy and Society Index (DESI). 2019 Country Report. Latvia. Available at: https://​ec​.europa​.eu/​newsroom/​dae/​document​.cfm​?doc​_id​=​59899 European Commission (2020a). eGovernment Benchmark Report 2020. Available at: https://​ec​.europa​
+
+.eu/​digital​-single​-market/​en/​news/​egovernment​-benchmark​-2020​-egovernment​-works​-people European Commission (2020b). Open Data Maturity Report 2020. Available at: www​.europeandataportal​
+
+.eu/​sites/​default/​files/​edp​_landscaping​_insight​_report​_n6​_2020​.pdf Farina, C. R., Miller, P., Newhart, M. J. and Cardie, C. (2011). Rulemaking in 140 characters or less: Social networking and public participation in rulemaking. Pace Law Review, 31, 382–462. Farina, C. R., Epstein, D., Heidt, J. B. and Newhart, M. J. (2013). Regulation room: Getting ‘more, better’ civic participation in complex government policymaking. Transforming Government: People, Process and Policy, 7(4), 501–516. Feeney, M. K. and Welch, E. W. (2012). Electronic participation technologies and perceived outcomes for local government managers. Public Management Review, 14(6), 815–833. Jho, W. and Song, K. J. (2015). Institutional and technological determinants of civil e-participation: Solo or duet? Government Information Quarterly, 32(4), 488–495. LR Saeima (1994a). Likums ‘Par tautas nobalsošanu un likumu ierosināšanu un Eiropas pilsoņu iniciatīvu’, pieņemts 31.03.1994. Latvijas Vēstnesis, 47(178), 20. LR Saeima (1994b). Saeimas kārtības rullis, pieņemts 28.07.1994. Latvijas Vēstnesis, 96(227). Manosevitch, E., Steinfeld, N. and Lev-On, A. (2014). Promoting online deliberation quality: Cognitive cues matter. Information, Communication and Society, 17(10), 1177–1195. Manosevitch, I. (2014). The design of online deliberation: Implications for practice, theory and democratic citizenship. Journal of Public Deliberation, 10(1). OECD (2003). Promises and Problems on e-Democracy: Challenges of Online Citizen Engagement. Paris: OECD. Available at: www​.oecd​.org/​governance/​digital​-government/​35176328​.pdf Panopoulou, E., Tambouris, E. and Tarabanis, K. (2014). Success factors in designing eParticipation initiatives. Information and Organization, 24(4), 195–213.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+From online participation to policy making 135
+
+Randma-Liiv, T. and Vooglaid, K. M. (2019). Organizing for e-Participation: Comparing European Experiences. Available at: www​.tropico​-project​.eu Reddick, C. and Norris, D. (2013). e-Participation in local governments: An examination of political-managerial support and impacts. Transforming Government: People, Process and Policy, 7(4), 453–476. Sæbø, Ø., Rose, J. and Flak, L. S. (2008). The shape of eParticipation: Characterizing an emerging research area. Government Information Quarterly, 25(3), 400–428. Svence, A. (2016). Citizen Initiatives and Their Promotion on the Portal Manbalss.lv. Bachelor’s paper, Vidzeme University of Applied Sciences. (In Latvian.) Tiburcio, T. (2015). The right to petition. Study for the Peti Committee, DG for Internal Policies of the Union. Available at: https://​op​.europa​.eu/​en/​publication​-detail/​-/​publication/​1daa3359​-de89​-4d8b​ -b7c5​-fafe75656dab/​language​-en Wang, X. and Bryer, T. A. (2013). Assessing the costs of public participation: A case study of two online participation mechanisms. American Review of Public Administration, 43(2), 179–199. Welch, E. W. and Feeney, M. K. (2014). Technology in government: How organizational culture mediates information and communication technology outcomes. Government Information Quarterly, 31(4), 506–512. Zheng, Y. and Schachter, H. L. (2017). Explaining citizens’ e-participation use: The role of perceived advantages. Public Organization Review, 17(3), 409–428.
+
+Visvaldis Valtenbergs - 9781800374362 Downloaded from https://www.elgaronline.com/ at 06/26/2025 10:18:48PM
+
+via Open Access. Open https://creativecommons.org/licenses/by-nc-nd/4.0/

@@ -1,0 +1,433 @@
+Asia Paciﬁc Journal of Public Administration
+
+ISSN: 2327-6665 (Print) 2327-6673 (Online) Journal homepage: www.tandfonline.com/journals/rapa20
+
+Economic performance, income inequality and political trust: new evidence from a cross-national study of 14 Asian countries
+
+Daewoo Lee, Chae Young Chang & Hyunkang Hur
+
+To cite this article: Daewoo Lee, Chae Young Chang & Hyunkang Hur (2020) Economic performance, income inequality and political trust: new evidence from a cross-national study of 14 Asian countries, Asia Paciﬁc Journal of Public Administration, 42:2, 66-88, DOI: 10.1080/23276665.2020.1755873
+
+To link to this article: https://doi.org/10.1080/23276665.2020.1755873
+
+Published online: 16 Jun 2020.
+
+Submit your article to this journal
+
+Article views: 1833
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 8 View citing articles
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rapa20
+
+Economic performance, income inequality and political trust: new
+
+evidence from a cross-national study of 14 Asian countries
+
+Daewoo Lee a*, Chae Young Chang b and Hyunkang Hur c
+
+aDepartment of Politics, Philosophy, and Public Administration, Columbus State University; bSchool of Public and Environmental Affairs, Indiana University Northwest; cDepartment of Public
+
+Administration and Health Management, Indiana University Kokomo
+
+(Received 10 April 2020; accepted 11 April 2020)
+
+Political trust is a fundamental bedrock for a political system to work. The “trust-asevaluation” approach has identified an individual’s perceived evaluation of economic performance and income inequality as critical determinants of political trust. Another stream of research has argued that macro-level factors, measured by macroeconomic indicators or GINI index, are correlated with political trust. To date, only a few empirical studies have questioned how macro-level performance interacts with those at the micro-level, namely, individuals’ subjective evaluations. Existing empirical studies mainly focus on Europe with little attention to Asia. To fill a gap in the literature, we extend the “trust-as-evaluation approach” to the Asian context, employing a multilevel analysis using the Asian Barometer Survey’s fourth wave. This study identifies that: (i) an individual’s perception of their economic well-being or inequality is the critical determinant of political trust; (ii) macro-level economic performance has an unclear and mixed effect on political trust; and (iii) instead, macro-level income inequality functions as a moderator between the relationship between perceived income inequality and political trust.
+
+Keywords: political trust; economic performance; income inequality
+
+Introduction People’s trust in politics is one of the key indicators of how well a country’s political system functions. A well-functioning political system requires trust in politics. If a large number of people distrust its politics, it indicates a deteriorating relationship between citizens and their political system. What influences people’s trust in politics? One of the core arguments posits performance as a central determinant of political trust (Easton, 1975). Political trust represents an evaluation of how the political system responds to people’s needs. Therefore, good performance in terms of substantive policy outcomes generally induces high levels of political trust. Given this relationship, previous research on political trust focused on “trust-as-evaluation” approaches (see Dalton, 2004; Mishler & Rose, 1997; Norris, 1999, 2011; Pharr & Putnam, 2000; Zmerli & Hooghe, 2011; Zmerli & Van der Meer, 2017).
+
+According to the “trust-as-evaluation” argument, political trust is a result of a citizen’s basic evaluative or affective orientation towards government performance (Easton, 1975; Miller & Listhaug, 1999). Perceptions of government performance have been most frequently identified as potential precursors to trust in government (Keele,
+
+*Corresponding author. Email: lee_daewoo@columbusstate.edu
+
+Asia Pacific Journal of Public Administration, 2020 Vol. 42, No. 2, 66–88, https://doi.org/10.1080/23276665.2020.1755873
+
+© 2020 The University of Hong Kong
+
+2007; Van der Meer, 2010). Specifically, studies have identified economic performance as the leading cause of citizens’ evaluations of their government and, in turn, how they rate their political system (Anderson, 2009; Chanley et al., 2000; Citrin & Green, 1986; Clarke et al., 1993; Hetherington & Rudolph, 2008; McAllister, 1999; Miller & Listhaug, 1999; Mishler & Rose, 2001). Given that economic performance is critical to political trust, some scholars expect that individuals’ evaluation of the economy in terms of their personal economic well-being is related to their confidence in government (Loveless & Binelli, 2018; Miller & Borrelli, 1991; Miller & Listhaug, 1999; Weatherford, 1987).
+
+Along with the “trust-as-evaluation” argument, other scholars focus on people’s evaluation of income inequality as another factor determining social trust, among its many consequences (Uslaner, 2008, 2011). Uslaner (2008) argues for the existence of an “inequality trap”: inequality leads to lower social trust, which results in more corruption, and thus, to even greater inequality. Rothstein (2005, 2011) echoes a similar argument. He suggests that economically unequal societies are caught in a “social trap,” resulting in a vicious circle of higher inequality and lower trust. Several previous studies have sought to show a negative correlation between country-level income inequality and social trust (Rothstein & Uslaner, 2005; Uslaner, 2008, 2011; Uslaner & Brown, 2005). However, other scholars argue that an individual’s subjective evaluation of income inequality may be a more robust and direct indicator of political trust than country-level income inequality (Loveless, 2013, 2016; Zmerli & Castillo, 2015).
+
+In both approaches, the fundamental premise is simple: people’s evaluation of the performance of a political system is a crucial determinant of political trust. The challenge comes from the nature of the evaluation. For example, economic performance is a key determinant of political trust, but a country’s performance and individual assessment may not always sync. What if a country performs well economically, but individuals in a country are worse off in terms of their well-being (or vice versa)? Similarly, scholars seek to explain how different levels of income inequality across countries as measured by inequality indicators (e.g., GINI index) correlate with political trust. However, the way individuals perceive the fairness of income distribution may not necessarily correlate with measures of national-level inequality indicators. Mixed empirical evidence of “trust-as-evaluation” proves this evaluative nature. The cross-national literature generally suggests that people’s political trust is an evaluation of their country’s economic performance. However, individual-level perceptions of the economy and its consequence for political trust has remained relatively understudied. Also, while the link between income inequality and political trust has drawn attention from scholars, the individual’s perception of income inequality has been relatively neglected compared to national-level inequality measures.
+
+The purpose of this article is to push forward the investigation of the evaluative natures of political trust. We will test to what extent micro- and macro-level evaluations show different relations to political trust. In the micro-level approach, we will test how an individual’s perception of economic performance and income inequality, respectively, is related to political trust. Then, we move to a macro-level approach by presenting the relationship between country-level macroeconomic performance/income inequality and political trust. While a large amount of literature exists on both micro- and macro-level evaluations of political trust, none systematically studies the Asian context. To address this neglect, we use the Asian Barometer Survey (ABS), the 4th wave (2014–2016) data to test a range of hypotheses on economic performance/income inequality and political trust. We employ multilevel models to assess how individual- and country-level economic performance and income inequality are associated with political trust both independently as well as simultaneously.
+
+Asia Pacific Journal of Public Administration 67
+
+Subjective evaluation of economic performance and political trust Research that takes a micro-level approach on determinants of political trust accounts for the association between citizens’ perceived evaluation of economic performance and political trust. In this category, scholars suggest that trust in government is influenced by citizens’ subjective evaluations of the economy (Miller & Borrelli, 1991; Miller & Listhaug, 1999). In this vein, studies seek to explain how citizens’ assessment of economic performance or what individuals expect the economy to do in the future are related to their confidence in government (Loveless & Binelli, 2018; Miller & Borrelli, 1991; Miller & Listhaug, 1999; Weatherford, 1987). Given that good economic performance is critical to the overall support of the government, some individuals expect more from the government in managing the level of economic well-being than is realistic (Miller & Listhaug, 1999). Indeed, empirically, trust in government is influenced by citizens’ evaluation of the economy, as negative perceptions of the economy promote greater distrust (Citrin & Green, 1986; Hetherington, 1998). Fluctuations in political trust also show a strong correlation to fluctuations in consumer confidence (Bovens & Wille, 2008; Dalton, 2004; Keele, 2007; Van der Meer & Hakhverdian, 2017; Van de Walle et al., 2008). In this research, we expect that an individual’s subjective evaluation or expectations for the economy play a crucial role in translating the evaluation of government performance into political trust. We hypothesise that individuals’ subjective perception of economic performance is positively related to their political trust.
+
+Hypothesis 1: Individuals are more likely to show trust in politics when their subjective evaluation of economic performance is positive.
+
+Perception of income inequality and political trust Another stream of research takes into account the association between an individual’s perception of income inequality and political trust (Kumlin, 2004; Loveless, 2013, 2016; Loveless & Whitefield, 2011; Zmerli & Castillo, 2015). Loveless (2013, 2016) was one of the first scholars who argued that rather than national-level inequality, an individual’s perception of income inequality is a better indicator to measure political outcomes. According to him, how people perceive income inequality, rather than reality itself, has a strong and independent impact on political attitudes (Loveless, 2013, p. 476). Based on this argument, he shows that individuals who perceive an excessive amount of inequality exhibit significantly lower levels of trust and political efficacy (Loveless, 2013). Furthermore, people who perceive a high level of inequality have more robust demands on political participation than those people who do not (Loveless, 2016).
+
+A few comparative studies have tried to confirm Loveless, 2016) argument empirically. Zmerli and Castillo (2015) suggest that subjective perceptions and evaluations of the inequality of income distribution are strongly associated with political trust in Latin American countries. Guinjoan and Rico (2018) have also shown that people’s perception of inequality between various European Union (EU) countries is strongly linked with a lower level of trust in political institutions in the EU. Goubin and Hooghe (2020) similarly have shown that higher socioeconomic status is associated with a higher political trust in European countries, using individual’s feelings about their household income as a subjective indicator of socioeconomic status.
+
+68 D. Lee et al.
+
+In sum, an individual’s perception of income inequality consistently depicts a negative association with political trust. Accordingly, we hypothesise that Asian countries are likely to show a similar pattern:
+
+Hypothesis 2: Individuals’ subjective perceptions of income inequality are associated with political trust. Those who evaluate income distribution as unfair will exhibit less political trust.
+
+Macroeconomic performance and political trust
+
+Next, we consider macro-level approaches. The link between macroeconomic performance and political trust has been a topic of scholarly debate for decades (e.g., see Van der Meer, 2018; Van der Meer & Hakhverdian, 2017 for an extensive review). In general, macroeconomic performance is widely used as the benchmark for citizens to evaluate political trust (Van Erkel & Van der Meer, 2016). Supposedly, trust in government is higher when a country’s economic performance is better, regardless of individual citizens’ economic circumstances (Van der Meer, 2010). In this vein, scholars have looked at the relationship between a range of macro-economic factors and trust in politics. Citrin and Green (1986) suggested that short-run changes in economic circumstances could influence confidence in government (Citrin & Green, 1986). For instance, good times in the economy boost citizens’ confidence in government while economic downturns erode it (Bovens & Wille, 2008; Chanley et al., 2000; Dalton, 2004; Keele, 2007).
+
+While there has been general agreement that macroeconomic performance affects political trust, there is no consensus on which macroeconomic indicators are reliable measures. Fluctuations in macroeconomic outcomes, such as real income, the unemployment rate, and the inflation rate appear to co-vary with movements in political trust over time (Hetherington & Rudolph, 2008). Some researchers suggest that unemployment and inflation could be critical factors in undermining support for the government as a whole (Hetherington & Rudolph, 2008; McAllister, 1999; Monroe, 1984). Additionally, crossnational studies have emphasised different aspects of economic performance, such as levels of economic development, economic growth or unemployment rates (McAllister, 1999; Miller & Listhaug, 1999). In this research, we use unemployment and inflation as macroeconomic performance indicators. We hypothesise that macroeconomic performance positively correlates with political trust.
+
+Hypothesis 3: Macroeconomic performance will affect political trust. Individuals are more likely to trust the government when macroeconomic outcomes are positive.
+
+Country’s income inequality and political trust In this category, studies have sought to explain how variations in income inequality across countries correlate with political trust (Anderson & Singer, 2008; Goubin, 2020; Kumlin, 2011; Kumlin & Haugsgjerd, 2017; Uslaner, 2011, 2017; Van der Meer & Hakhverdian, 2017; Zmerli & Castillo, 2015). Macro-level inequality is often measured by objective, national-level inequality indicators, such as the GINI coefficient (e.g., Solt, 2009, 2016). In this approach, researchers try to maximise cross-national variations of inequality and its impact on aggregated individual responses to political trust (Anderson & Singer, 2008; Uslaner, 2008, 2011, 2017, 2019; Van der Meer & Hakhverdian, 2017; Zmerli & Castillo, 2015). Anderson and Singer (2008) foundational work show that
+
+Asia Pacific Journal of Public Administration 69
+
+individuals in countries with high-income inequality are less likely to trust political institutions than those who live in countries with less disparity. Furthermore, they show that the corroding influence of income inequality on political trust is particularly strong among individuals on the political left.
+
+In a series of Uslaner (2008, 2011, 2017, 2019) has examined key determinants of political trust: income inequality and corruption. According to Uslaner (2008), income inequality leads to a lower level of social trust among people, inducing more corruption in society. His argument is that more corruption in society is likely to distort fair market competition, leading to even more corrupt behaviour, and thus to a higher level of income inequality among people (Uslaner, 2008, Ch. 2). The vicious cycle of income inequality, social trust, and corruption among people – what he calls the “inequality trap” – is likely to discourage political participation, as well as trust in politics (Uslaner, 2008).
+
+Other researches also have taken a cross-national approach, showing consistent evidence across different regions. Among studies focusing on European countries, Dotti Sani and Magistro (2016) show that increasing inequality in economic conditions has a trust-eroding effect on the European Parliament in 20 European countries. A similar cross-European study finds that macro-level income inequality correlates with political trust (Van der Meer & Hakhverdian, 2017). Drawing samples from 18 Latin American countries, Zmerli and Castillo (2015) also find that a high level of income inequality is associated with lower levels of political trust. In this research, we expect a similar pattern, hypothesising that citizens living in countries with unequal economic conditions will report lower levels of political trust.
+
+Hypothesis 4: Individuals living in countries with high levels of income inequality will have lower levels of political trust than those who live at lower levels of income inequality.
+
+Hypotheses 1–4 are aligned with two significant “trust-as-evaluation” approaches: the effects of economic performance and income inequality on political trust. In each approach, we are interested in how micro- and macro-levels of economic performance are related to political trust. At the micro-level, we look for evidence that an individual’s negative perceptions of economic performance and income inequality erode political trust. At the macro-level, we expect a country’s macroeconomic conditions to be critical determinants for political trust. We also expect a negative correlation between income inequality and political trust. Along with Hypotheses 1–4, we are also interested in exploratory analyses: how macro-level performance interacts with the micro-level, namely, individuals’ subjective evaluations. Our specific questions are: (i) does macroeconomic performance play a moderating role in the relation between an individual’s subjective perception of economic performance and political trust? and (ii) does countrylevel income inequality moderate the relation between individuals’ subjective perceptions of income inequality and political trust?
+
+Hypothesis 5: Macroeconomic performance will moderate the effect of an individual’s perception of economic performance on political trust. In countries that perform well in macroeconomic terms, an individual’s perception of economic performance will exhibit a stronger association with political trust than countries that perform less well macroeconomically.
+
+70 D. Lee et al.
+
+Hypothesis 6: A country’s income inequality will moderate the effect of an individual’s perception of income inequality on political trust. In countries with low levels of income inequality, the individual’s evaluation of income inequality will exhibit a stronger association with political trust than in countries with high levels of income inequality.
+
+Economic performance, income inequality and political trust in Asia
+
+The previous sections have reviewed literature on the relationship between economic performance/income inequality and political trust in both the micro- and macro-level. Until recently, most of the empirical research on the links between economic performance, income inequality and political trust has focused on advanced democracies in the Western World (Anderson & Singer, 2008; Chanley et al., 2000; Clarke et al., 1993; Goubin, 2020; Kumlin, 2011; Kumlin & Haugsgjerd, 2017; Loveless, 2013, 2016; Uslaner, 2011, 2017; Van der Meer & Hakhverdian, 2017; Zmerli & Castillo, 2015). Existing scholarship has not considered Asia, home to a majority of the World’s population. The lack of attention to Asian countries represents a major gap for understanding the theoretical and empirical links of economic performance, income inequality and political trust. Only focusing on samples of Western countries may skew these relationships. Most of these countries have advanced industries and established democracies, which may produce limited variations of economic performance and income inequality, and also will not adequately capture their impacts on political trust. Besides, most studies presume that individuals in the Western world will react to cross-national changes in countrylevel measures on economic performance and income inequality. This assumption may not apply in emerging economies or the nature of regimes, either democratic or authoritarian. Attention to Asian countries allows for more variation across regime types and economic context in addressing questions of political trust in different countries. Also, it will allow us to examine how individuals respond to economic conditions and inequality in countries that have different levels of economic and democratic development.
+
+Data, variables and method
+
+Data To address our hypotheses, we use the ABS, the 4th wave (2014–2016). The ABS was developed to gauge public opinion on issues such as political values, democracy and governance in 14 East Asian countries. Using multistage stratified sampling, the ABS selected at least 1,000 adults of voting age (allowing a minimum confidence interval of ±3% at 95%) in each country. Then, the ABS conducted face-to-face interviews using a standardised survey, collecting respondents’ attitudes and values towards politics, power, reform, democracy and citizens’ political actions. The total size of our analytical sample is 20,667 and the interview year and sample size for each country is as follows: Japan (2016, N = 1081), Hong Kong (2016, N = 1217), Korea (2015, N = 1200), China (2015, N = 4068), Mongolia (2014, N = 1228), Philippines (2014, N = 1200), Taiwan (2014, N = 1657), Thailand (2014, N = 1200), Indonesia (2016, N = 1550), Singapore (2014, N = 1039), Vietnam (2015, N = 1200), Cambodia (2015, N = 1200), Malaysia (2014, N = 1207) and Myanmar (2015, N = 1620).
+
+This study merged two country-level indicators with the ABS: the World Development Indicators (WDI) and the World Governance Indicators (WGI), both created by the World Bank. The World Bank has collected the most current and accurate global economic development data from international sources to produce the WDI. The World Bank also has collected data on quality of governance, such as government
+
+Asia Pacific Journal of Public Administration 71
+
+effectiveness and control of corruption, from a variety of survey institutes, think tanks, non-governmental organisations, international organisations and private sector firms. Compiling the views of a large number of enterprises, citizens, and expert survey respondents, the World Bank produced the WGI.
+
+Variables
+
+Table 1 shows the variables in our analyses and descriptive statistics. Our dependent variable is political trust, which is the average score of the degree of trust in five political institutions: president or prime minister, parliament, courts, national government and political parties. Political trust ranges from 1 (=no trust at all) to 4 (=a great deal of trust), and Cronbach’s alpha is 0.872. Taking the average of a diverse set of indicators to capture a collective profile of the respondents’ trust has been a commonly used approach in previous studies (Hooghe et al., 2012; Marien, 2011; Zmerli & Castillo, 2015).
+
+Our key variables of interest are economic performance and income inequality. In order to test our hypotheses, we use variables measured both at the individual level and at the country level. From the ABS data, this study employs the question of “How would you rate (1 = very bad, 5 = very good) the overall economic condition of our country today? Is it … ?” as perceived evaluation of economic performance. To measure individuals’ perceptions of income inequality, we employ the question on income distribution, “How fair do you think (1 = very unfair, 4 = very fair) income distribution is in (country)?” as perceived evaluation of income fairness. Within this variable, the higher value means a better (or positive) perception of income distribution. We employ inflation (GDP deflator) and unemployment rate as the proxy measures of macroeconomic performance, and the GINI index as a proxy measure of income inequality. We use the WDI of the World Bank for macroeconomic variables. For the GINI index, we use The Standardised World Income Inequality Database from Solt (2009, 2016). We note that this study uses these variables with a one-year lag to reflect that people may not be aware of changes taking place in the economy currently.
+
+In order to control for confounding factors, this study includes several covariates both at the individual and the country level. Individual-level covariates encompass residency (rural vs. urban), gender, age, education (years of schooling completed), marital status (married vs. others) and income (quintile). Country-level covariates include GDP per capita (adjusted by purchasing power parity), control of corruption (ranges from −2.5 (=weak) to 2.5 (=strong)) and quality of public service (ranges from −2.5 (=weak) to 2.5 (=strong)).
+
+Methodology The nested structure of the data led us to assume that the independent residuals in the Ordinary Least Square regression may not be valid. Instead, a multilevel analysis taking the country context and individual perception into account should be a more suitable approach (Raudenbush & Bryk, 2002). The Intraclass Correlation Coefficient of 32.56% in a random intercept multilevel model without any predictors indicates that 32.56% of the variance in political trust is at the country level, and 67.44% is at the individual level. Also, chi-square (χ2)(13, N = 15,588) of 7918.6 (p < 0.001) from the unconstrained model justified running a multilevel analysis.
+
+72 D. Lee et al.
+
+Table 1. Descriptive statistics.
+
+Variable Description Values Mean SD
+
+Dependent variable Political trust index Average of the following indicators. “I’m going to name a number of institutions. For each one, please tell me how much trust do you have in them?” ●President or Prime Minister ●Courts ●National government ●Political parties ●Parliament
+
+1. None at all 2. Not very much 3. Quite a lot 4. A great deal of (Recoding reversed for analysis) Cronbach Alpha = 0.872
+
+2.66 0.71
+
+Independent variable Level 1 Perceived economic performance How would you rate the overall economic condition of our country today? Is it … ? 1. Very bad 2. Bad 3. So so (not good nor bad) 4. Good 5. Very good (Recoding reversed for analysis)
+
+3.08 .98
+
+Perceived income fairness How fair do you think income distribution is in (country)? 1. Very unfair 2. Unfair 3. Fair 4. Very fair (Recoding reversed for analysis)
+
+2.32 0.74
+
+Residence Which of the following levels within the country does the respondent live? 0. Rural 1. Urban 45.11% 54.89% Gender Gender 0. Female 1. Male 51.21% 48.79% Age Actual age Actual age 45.10 15.67 Education How many years of formal education you have received? (excluding Kindergarten) Year of education 9.54 4.60
+
+(continued)
+
+Asia Pacific Journal of Public Administration 73
+
+Table 1. (Continued).
+
+Variable Description Values Mean SD
+
+Married What is your marital status? 0. Single/widowed/ divorced 1. Married
+
+25.82% 74.18%
+
+Income In what group is your household on average, counting all wages, salaries, pensions, dividends and other incomes that come in before taxes and other deduction?
+
+1. 1st quintile (lowest) 2. 2nd quintile 3. 3rd quintile 4. 4th quintile 5. 5th quintile (highest)
+
+23.42% 25.81% 26.06% 14.02% 10.70% Level 2 Control of corruption Perceptions of the extent to which public power is exercised for private gain (Worldwide Governance Indicator) Ranges from −2.5 (weak) to 2.5 (strong) 0.06 0.88
+
+Quality of public service Perceptions of the quality of public services and the degree of its independence from political pressures (Worldwide Governance Indicator) Ranges from −2.5 (weak) to 2.5 (strong) 0.29 0.99
+
+GDP per capita GDP per Capita, adjusted by Purchasing Power Parity Current international in $1,000 21.751 19.722 Inflation Inflation, GDP deflator (annual growth rate of the GDP implicit deflator) Annual % 2.12 1.47 Unemployment rate Share of the labour force that is without work but available for and seeking employment % of total labour force 3.76 2.10
+
+GINI index Extent to which the distribution of income among individuals or households within an economy deviates from a perfectly equal distribution
+
+Ranges from 0 (perfect equality) to 100 (perfect inequality) 37.14 4.98
+
+74 D. Lee et al.
+
+Our ultimate model for analysis is the following:
+
+Level 1 (individual-level) model
+
+Pol Trust ¼ β0 þ β1Perform þ β2Inc fair þ Xβ þ r
+
+where covariates (X) include residency, gender, age, education, marital status and income at the individual level.
+
+Level 2 (country-level) model
+
+β0 ¼ γ00 þ γ01Unemp þ γ02GINI þ Xγ þ u0 where covariates (X) include GDP per capita, control of corruption and quality of public service at the country level.
+
+β1 ¼ γ10 þ γ11GINI þ u1
+
+β2 ¼ γ20 þ γ21Unemp þ u2
+
+Mixed model
+
+Pol Trust ¼ γ00 þ γ01Unemp þ γ02GINI þ γ10Perform þ γ11Perfrom  Unemp
+
+þγ20Inc Fair þ γ21Inc Fair  GINI þ XΓ þ u0 þ r
+
+where covariates (X) includes predictors both at the individual level and at the country level.
+
+As mentioned earlier, our proxy measure of economic performance at the country level is either Inflation or Unemployment, considering that economic activities take place both in the labour market and in the goods market. Thus, we conduct two separate analyses using either Inflation or Unemployment. It is noteworthy that we cannot include both variables in a single model due to the positive correlation between the two variables. For the multilevel analysis, we have used HLM 8.0.
+
+Empirical results
+
+Descriptive and correlational evidence We first begin by checking the variabilities of political trust, perceived economic performance and income fairness among Asian countries. As seen in Table 1, the average level of political trust was 2.66, with a standard deviation of 0.71, on a scale of 1 (none at all) – 4 (a great deal of). The average level of political trust in each country demonstrates a considerable variation. Panel A in Figure 1 shows that Vietnam and China marked the highest level of political trust, whereas Taiwan and Korea marked the lowest level of political trust. The average level of respondents’ evaluation of economic performance was 3.08, with a standard deviation of 0.98, on a scale of 1 (very bad) – 5 (very good). Panel B in Figure 1 shows that respondents in China, Singapore, and Vietnam evaluated their current economic performance as “good,” while respondents in Korea
+
+Asia Pacific Journal of Public Administration 75
+
+and Taiwan evaluated it as “bad.” For perceived income fairness, respondents showed on average 2.32, with a standard deviation of 0.74, on a scale of 1 (very unfair) – 4 (very fair). The percentage of people who responded that their income was fairly distributed is higher in Thailand, Singapore, Vietnam and Malaysia, as seen in Panel C in Figure 1. Panels D, E and F demonstrate the variability in the objective measures of economic performance and income inequality at the country level. Panels D and E show wide variations of both inflation, one proxy
+
+Panel A. Political Trust by Country Panel B. Perceived Economic Performance
+
+Panel C. Perceived Income Fairness Panel D. Inflation (%) – GDP Deflator
+
+Panel E. Unemployment Rate (%) Panel F. GINI Index
+
+Figure 1. Political trust, perceived economic performance, and income inequality. (Panel A) Political trust by country. (Panel B) Perceived economic performance. (Panel C) Perceived income fairness. (Panel D) Inflation (%) – GDP deflator. (Panel E) Unemployment rate (%). (Panel F) GINI index.
+
+76 D. Lee et al.
+
+measure of economic performance, and unemployment, the other proxy measure, among Asian countries. Panel F displays that the GINI index, the measure of the income inequality at the country level, also varies across our sample.
+
+Next, Panels A and B in Figure 2 depict the correlation between perceived evaluation of economic performance and political trust, and the correlation between perceived evaluation of income fairness and political trust, respectively. Both line charts and the pairwise correlation tests confirm statistically significant positive correlations. As respondents evaluated economic performance “better,” their political trust increased (r = 0.470, p < 0.001). As respondents evaluated income distribution as “fairer,” their political trust also increased (r = 0.356, p < 0.001). These charts also confirm that the average degree of political trust, perceived evaluation of economic performance, and perceived evaluation of income fairness were different in each country. Panels C, D and E in Figure 2 show the correlations between the objective measures of economic performance/income inequality and political trust at the country level. As expected, Panel C demonstrates a negative correlation (r = −0.124, p < 0.001) between inflation and political trust because high inflation and subsequent loss of purchasing power are likely less desirable among the people. Panel D also demonstrates a negative correlation (r = −0.183, p < 0.001) between the unemployment rate and political trust. This is because the unemployment rate is closely related to income, and the unemployed tend to attribute their job losses to failures in economic policy (Van Erkel & Van der Meer, 2016). Panel E shows a positive correlation between the GINI index and political trust (r = 0.339, p < 0.001). It means, counter-intuitively, that as income inequality at the country-level increases, an individual’s political trust increases. Panel F also shows a counter-intuitive relationship: living in countries with high GINI index (i.e., higher-income inequality) shows a positive relationship with an individual’s perception that income is fairly distributed (i.e., less individual perception of income inequality). Relations shown in Panels E and F might be spurious correlations because plausible confounders, such as national wealth or average education level, are not controlled.
+
+Figure 3 provides the correlation between the perceived evaluation of economic performance/income fairness and political trust in each country, controlling for individual-level characteristics. Panel A in Figure 3 shows a positive association between the perceived evaluation of economic performance and political trust in each country. As can be seen, however, the slope and y-intercept vary. For example, the political trust associated with perceived economic performance in Vietnam is higher than that of any other country, while political trust associated with perceived economic performance in Taiwan is lowest. Similarly, Panel B in Figure 3 shows that political trust associated with perceived income fairness is highest in Vietnam and lowest in Korea among our sample of countries.
+
+Evidence from multilevel models To test our hypotheses, we ran a series of multilevel regression models. We present the results of multilevel regression models in Table 2. Model 1 estimates the effect of perceived evaluation of economic performance and income fairness on political trust, without controlling for any individual or country-level characteristics. In this random intercept model, we include two critical indicators, perceived economic performance and
+
+Asia Pacific Journal of Public Administration 77
+
+income fairness, centring around the grand mean to yield more accurate estimates of the intercepts. The coefficients of both indicators are positive and statistically significant (p < 0.01). We add individual characteristics in Model 2. Education and urban residency have a negative effect on political trust, while age has a small but positive effect. This tells us that as people are more educated, they show less trust in political institutions. Also, people tend to trust more in political institutions as they get older. At the same time, people living in urban areas display more political trust, compared to people living in rural areas. Marital status and income have no statistically significant effect on political trust. Our main variables of interest – perceived economic performance and
+
+Panel A. Perceived Economic Performance and Political Trust Panel B. Perceived Income Fairness and Political Trust
+
+Panel C. Inflation and Political Trust Panel D. Unemployment and Political Trust
+
+Panel E. GINI Index and Political Trust Panel F. GINI Index and Perceived Income Fairness
+
+Figure 2. Overall correlation. (Panel A) Perceived economic performance and political trust. (Panel B) Perceived income fairness and political trust. (Panel C) Inflation and political trust. (Panel D) Unemployment and political trust. (Panel E) GINI index and political trust. (Panel F) GINI index and perceived income fairness.
+
+78 D. Lee et al.
+
+income fairness – are still positive and statistically significant. This means, along with outcomes from Model 1, that: (i) people who evaluate the current economic condition as good or better tend to exhibit higher levels of political trust and (ii) people who perceive income distribution to be fair tend to exhibit more political trust than those who do not. These findings provide confirmation for Hypotheses 1 and 2. Models 3 and 4 present how macroeconomic performance and a country’s income inequality affect political trust, controlling only for country-level characteristics. In both models, the GINI indexes, our proxy measure of income inequality, are statistically significant (p < 0.05). However, counter-intuitively, it shows a reverse correlation with
+
+Panel A. Perceived Economic Performance and Political Trust by Country
+
+Panel B. Perceived Income Fairness and Political Trust by Country
+
+Figure 3. Correlation by country. (Panel A) Perceived economic performance and political trust by country. (Panel B) Perceived income fairness and political trust by country.
+
+Asia Pacific Journal of Public Administration 79
+
+Table 2. Multilevel analysis of the effect of economic performance and income inequality on political trust.
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7 Model 8
+
+Level 1 Perceived economic performance 0.175** (0.014) 0.167** (0.005) 0.167** (0.005) 0.167** (0.005) 0.167** (0.005) 0.166** (0.005) Perceived income fairness 0.180** (0.016) 0.175** (0.006) 0.175** (0.006) 0.174** (0.006) 0.176** (0.006) 0.176** (0.006) Residence (urban) −0.086** (0.0011) −0.086** (0.011) −0.086** (0.011) −0.088* (0.011) −0.087* (0.011) Gender (male) −0.004 (0.008) −0.004 (0.008) −0.004 (0.008) −0.005 (0.008) −0.005 (0.008) Age 0.001** (0.000) 0.001** (0.000) 0.001** (0.000) 0.001** (0.000) 0.001** (0.000) Education −0.010** (0.001) −0.010** (0.001) −0.010** (0.001) −0.010** (0.001) −0.010** (0.001) Married 0.006 (0.010) 0.007 (0.010) 0.007 (0.010) 0.007 (0.010) 0.007 (0.010) Income 1st quintile −0.015 (0.012) −0.015 (0.013) −0.015 (0.013) −0.014 (0.012) −0.015 (0.013) 2nd quintile −0.006 (0.012) −0.006 (0.019) −0.006 (0.019) −0.007 (0.012) −0.007 (0.012) 3rd quintile (ref) 4th quintile −0.004 (0.014) −0.004 (0.014) −0.004 (0.014) −0.004 (0.014) −0.004 (0.014) 5th quintile 0.016 (0.015) 0.016 (0.015) 0.016 (0.015) 0.017 (0.015) 0.016 (0.015) Level 2 Control of corruption index (WGI) 0.218 (0.289) 0.722 (0.523) 0.225 (0.509) 0.581 (0.407) 0.237 (0.505) 0.585 (0.408) Quality of public service index (WGI) −0.313 (−0.211) −0498 (0.290) −0.227 (0.302) −0.361 (0.226) −0.237 (0.299) −0.364 (0.226)
+
+(continued)
+
+80 D. Lee et al.
+
+Table 2. (Continued).
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7 Model 8
+
+GDP per capita −0.061 (0.012) −0.018 (0.019) −0.003 (0.018) −0.016 (0.014) −0.003 (0.018) −0.016 (0.015) Inflation −0.096 (0.060) −0.006 (0.067) −0.063 (0.066) Unemployment rate −0.135* (0.043) −0.094* (0.033) −0.093* (0.033) GINI index 0.043* (0.013) 0.044* (0.016) 0.028 (0.017) 0.030* (0.012) 0.029 (0.016) 0.029 (0.015) Perceived economic performance × Inflation 0.005 (0.003) Perceived economic performance × Unemployment 0.002 (0.003) Perceived income fairness × GINI index −0.005** (0.001) −0.005** (0.001) Constant 2.589** (0.081) 2.593** (0.074) 2.590** (0.079) 2.590** (0.056) 2.593** (0.077) 2.593** (0.076) 2.597** (0.077) 2.597** (0.058) Between-level variance (standard deviation) 0.092** (0.304) 0.084** (0.290) 0.152** (0.389) 0.078** (0.278) 0.083** (0.289) 0.050** (0.217) 0.082** (0.286) 0.047** (0.217) Individual-level variance (standard deviation) 0.273** (0.523) 0.269** (0.519) 0.323** (0.569) 0.323** (0.569) 0.273** (0.522) 0.273** (0.522) 0.273** (0.522) 0.273** (0.522) Deviance 24,156.27 23,989.94 26,733.31 26,728.79 24,162.96 24,162.96 24,168.61 24,166.67 Df 13 13 8 8 8 8 8 8
+
+*: p < 0.05 **: p < 0.01
+
+Asia Pacific Journal of Public Administration 81
+
+political trust. Comparing coefficients of our two proxies in macroeconomic performance, inflation (in Model 3) and unemployment (in Model 4), also tells us an interesting story. In Asian countries, inflation, our proxy measure of macroeconomic growth in the goods market, shows a negative sign with no statistical significance. Meanwhile, the unemployment rate, our proxy measure of macroeconomic performance in the labour market, is statistically significant (p < 0.05) and has a substantially negative impact on political trust. These results partially confirm Hypothesis 3, only when we adopt the unemployment rate as a proxy for the country’s macroeconomic performance. Hypothesis 4, the negative relationship between a country’s high-level income inequality and an individual’s political trust, is not supported.
+
+Models 5 and 6 test how economic performance and income inequality affect political trust, controlling for both levels of characteristics. Since Models 5 and 6 utilise the means-as-outcome model (i.e., country-level variables are added to the model for the intercept), the coefficients of economic performance and income fairness at the individual-level are the same as those in Model 2. However, we expect the coefficients of the country-level variables to be different. We find that none of the country-level variables are statistically significant in Models 5 and 6, except the unemployment rate in Model 6 is statistically significant (p = 0.024). This finding partially supports Hypothesis 3. Model 6 also shows that the GINI index is inversely associated with political trust (p = 0.048). As mentioned, this finding is counter-intuitive and does not support Hypothesis 4.
+
+Finally, we exhibit moderating effects in Models 7 and 8, which reflect how individuals’ subjective evaluations on political trust varies depending on a country’s macroeconomic performance and level of income fairness. First, these random intercept and slope models confirm that an individual’s perceived evaluation of economic performance and income fairness are statistically significant and substantial determinants of political trust. People’s age, education and urban residency are also significant factors for political trust. Second, none of the country-level characteristics is associated with political trust, except for the unemployment rate. Consistent with previous findings in Models 4 and 6, the unemployment rate in each country shows a negative and statistically significant association with political trust. Third, macroeconomic performance does not show a meaningful moderating effect: none of the interaction terms between the perception of economic performance and inflation/unemployment display significant signs. Fourth, the GINI index, the country-level income inequality indicator, loses its statistical power in Models 7 and 8. However, statistically significant coefficients of the interaction terms in Models 7 and 8 indicate that country-level income inequality has a strong moderating role in the relationship between income inequality and political trust. Figure 4 illustrates this moderating effect. In countries with a lower level of income inequality (i.e., the GINI index is less than 40), political trust responds to the perceived income fairness more elastically (i.e., a steep slope in Figure 4). In countries with a higher level of income inequality, political trust is more inelastic to the perceived income fairness. In the end, findings in Models 7 and 8 fail to support Hypothesis 5 but confirm Hypothesis 6.
+
+In sum, our multilevel analysis confirms that the perceived evaluation of economic performance and income inequality at the individual level are the critical predictors for political trust (Hypothesis 1 and Hypothesis 2). Among our macroeconomic performance indicators, only the unemployment rate is significantly associated with political trust, partially supporting Hypothesis 3. Also, evidence shows that none of our macroeconomic indicators have a moderating effect on the relationship between an individual’s
+
+82 D. Lee et al.
+
+perception of economic performance and political trust, failing to support Hypothesis 5. Lastly, our analyses confirm Hypothesis 6, a strong moderating role of country-level income inequality on the relationship between an individual’s perception of income inequality and political trust.
+
+Discussion
+
+This article sets out to test a range of “trust-as-evaluation” hypotheses on political trust. Our goal is to test how micro- (or individual-) and macro- (or country-) level economic performance and income are associated with political trust. A multilevel model allows us to do simultaneous analyses of individuals and countries. We begin with testing microlevel evaluations: how an individual’s perception of economic performance and income inequality is related to political trust, respectively. Our findings show that micro-level evaluations are significant indicators of political trust. Next, we test macro-level evaluations. We find that neither macroeconomic performance nor country-level income inequality has a meaningful relationship with political trust. Finally, we test the interactive relationship between micro- and macro-level economic performance/income inequality and political trust. Empirical evidence shows that the effect of an individual’s perception of income inequality on political trust varies among countries with a different level of income inequality.
+
+All in all, our findings in this article suggest a few lessons. First, an individual’s perceptions on economic well-being or inequality may be better predictor than macrolevel indicators in explaining different levels of political trust. This is consistent with outcomes from previous studies (see Loveless, 2013, 2016; Miller & Listhaug, 1999), suggesting that it is more reliable to rely on individual perceptions to assess or evaluate how well a political system is functioning. That is, the perceptions that individuals have on personal and country’s well-being are in line with the trend of the real economy and appear to orient them to support the political system. Also, perceiving high inequality may bear on individuals beyond mere measurement of a country’s income. In the end,
+
+Figure 4. Moderating effect of macroeconomic income inequality.
+
+Asia Pacific Journal of Public Administration 83
+
+one’s gauge of economic well-being or what inequality really means to individuals is likely to help us to understand the functioning of the political system.
+
+Second, among our sample countries in Asia, the individual’s perception of economic performance is robustly and positively related to political trust. This finding fits with the existing literature based on other regions, such as European countries or the United States (Loveless & Binelli, 2018; Miller & Borrelli, 1991; Miller & Listhaug, 1999; Weatherford, 1987). However, it is less clear if macro-level economic performance in Asia also increases political trust. Among our two macroeconomic performance indicators, unemployment rate and inflation, only the former is statistically significant for political trust. One explanation for this finding may be that people in Asia are more sensitive to labour market conditions than losing their purchasing power. Another explanation may be related to how widely known the two indicators are. The unemployment rate is more frequently discussed in national media than is inflation; thus, people tend to respond more quickly to changes in the rate of unemployment rate than inflation (Conover et al., 1986, p. 585).
+
+Third, we want to highlight our finding of the moderating role of country-level income inequality in the relationship between individual-level income inequality and political trust. Initially, our descriptive evidence from Panel E in Figure 2 shows a counter-intuitive relationship: as income inequality at the country level increases, political trust increases. Also, empirical outcomes from multilevel models (e.g., Model 3–8 in Table 2) suggest that country-level income inequality, captured through the GINI index, is not consistently correlated to political trust. However, our multilevel analyses reveal that the GINI index intensifies the negative effect of individual-level perceptions of income inequality on political trust. Specifically, the association between the perception of income inequality and political trust is inelastic in countries, which have a high level of GINI index. Figure 4 visually illustrates this contingent relationship: it shows that when the perceived evaluation of income fairness is at the lowest level (i.e., an individual thinks income distribution is very unfair), the level of political trust is higher among high-income inequality countries (captured by high GINI index, equal or greater than 40) than low-income inequality countries. However, as an individual’s evaluation improves, the link between perceived income inequality and political trust is attenuated in high-income inequality countries. On the other hand, among low-income inequality countries (captured by a GINI index less than 40), perception of income inequality and political trust link shows a stronger association (i.e., a steeper slope) as an individual’s evaluation improves. This means that individuals in low-income inequality countries are more willing to show political trust when perceived income inequality condition improves, compared to those in high-income inequality countries. In short, what we want to emphasise is not the direct relation (or non-relation) between individual-/ country-level income inequality and political trust. Instead, we want to point out that country-level income inequality plays an intervening role in how individual-level perceptions of income inequality affects political trust.
+
+Fourth, we observe how overall political trust varies depending on the regime type. In our analyses, we did not treat the regime type as a contextual factor. Instead, our descriptive and correlational evidence finds that authoritarian regimes show better political trust among citizens than democratic ones. In Panel C of Figure 1, countries like Singapore, China and Vietnam enjoy a high level of individuals’ political trust than Taiwan and South Korea, two of much-consolidated democracies in Asia. Accordingly, Panel A of Figure 2 shows that the correlation between an individual’s perceived
+
+84 D. Lee et al.
+
+economic performance and political trust marked high in China and Vietnam and low in Taiwan and South Korea. Our descriptive evidence supports arguments from previous research that the impact of economic evaluation on the political system is not uniform across different regimes (Duch & Stevenson, 2008). In democracies, the incumbent government is accountable for economic performance, not the overall political system (Duch & Stevenson, 2008). Economic performance is likely a more important factor for political trust among people in authoritarian regimes because they readily attribute their well-being to the regime, where the incumbents and political system are indistinguishable (Huhe & Tang, 2016). We believe our study contributes to the understanding of political trust by regime nature, and hope to build a line of research on Asian regimes in a future study.
+
+Conclusion To conclude, we believe that the results of this study can contribute to the understanding of the central question about the complex sources of political trust. Our findings solidify the relevance of an individual’s subjective evaluation of economic performance and income inequality on political trust, introducing new empirical evidence from Asia. We also contribute the role of macro-level factors in determining political trust, which has been an on-going subject of debate (Van der Meer & Hakhverdian, 2017; Van Erkel & Van der Meer, 2016). Our findings show that the link between macroeconomic performances/country-level income inequality and political trust does not show a consistent relationship. This is not surprising. Previous empirical examinations report positive link in some cases and negative or null relationship in other cases (e.g., Clarke et al., 1993; Dalton, 2004; Dotti Sani & Magistro, 2016; Hakhverdian & Mayne, 2012; Miller & Listhaug, 1999; Van der Meer, 2010; Van der Meer & Hakhverdian, 2017; Zmerli & Castillo, 2015). We believe inconsistent findings generate additional avenue that needs to be explored in future studies. Most of the cross-sectional studies, including ours, analyse the macro-level contexts on trust between countries at a single time point (i.e., a specific year or a survey wave). However, cross-sectional differences among countries on a snapshot in time may not fully consider over-time factors within countries. For example, assuming that individuals only evaluate economic performance in comparison to other countries (i.e., cross-national comparisons) is to omit variations that arise from comparisons of performance within their own country (i.e., longitudinal comparisons). Future research should ask: if economic performance stimulates political trust in a cross-national comparison, does comparing performances over time within a country produce a similar pattern?
+
+While a few studies did address this question (Ruelens et al., 2018; Van der Meer, 2010; Van Erkel & Van der Meer, 2016), to date, none of them have been based on Asian countries. Future research could consider this longitudinal dimension, along with cross-sectional differences, in the Asian context. Economic performance, both at the individual- and country-level, are likely to differ over time among Asian countries, given many of them have experienced massive changes in their level of economic growth over the past few decades. Future research may also apply a dynamic approach to the study on the effect of income inequality on trust. Do differences in inequality across countries or changes in inequality within a country over time (or both) explain citizen’s political trust? For those scholars who work on this question, we hope our study leads them to explore underlying sources in Asia. Focusing on a dynamic perspective on both cross-sectional and longitudinal settings should have the potential to contribute to developing a comprehensive account of the “trust-as-evaluation.”
+
+Asia Pacific Journal of Public Administration 85
+
+Disclosure statement No potential conflict of interest was reported by the authors.
+
+ORCID Daewoo Lee http://orcid.org/0000-0001-6281-0904 Chae Young Chang http://orcid.org/0000-0003-3913-3188 Hyunkang Hur http://orcid.org/0000-0001-8805-1731
+
+References Anderson, C. D. (2009). Institutional change, economic conditions and confidence in government:
+
+Evidence from Belgium. Acta Politica, 44(1), 28–49. doi:10.1057/ap.2008.21 Anderson, C. J., & Singer, M. M. (2008). The sensitive left and the impervious right: Multilevel
+
+models and the politics of inequality, ideology, and legitimacy in Europe. Comparative Political Studies, 41(4–5), 564–599. doi:10.1177/0010414007313113 Bovens, M., & Wille, A. (2008). Deciphering the dutch drop: Ten explanations for decreasing
+
+political trust in The Netherlands. International Review of Administrative Sciences, 74(2), 283–305. 10.1177/0020852308091135 Chanley, V. A., Rudolph, T. J., & Rahn, W. M. (2000). The origins and consequences of public
+
+trust in government: A time series analysis. Public Opinion Quarterly, 64(3), 239–256. 10.1086/317987 Citrin, J., & Green, D. P. (1986). Presidential leadership and the resurgence of trust in government.
+
+British Journal of Political Science, 16(4), 431–453. 10.1017/S0007123400004518 Clarke, H. D., Dutt, N., & Kornberg, A. (1993). The political economy of attitudes toward polity
+
+and society in western European democracies. The Journal of Politics, 55(4), 998–1021. https://doi.org/10.2307/2131945 Conover, P. J., Feldman, S., & Knight, K. (1986). Judging inflation and unemployment: The origins
+
+of retrospective evaluations. The Journal of Politics, 48(3), 565–588. 10.2307/2131168 Dalton, R. J. (2004). Democratic challenges, democratic choices: The erosion of political support
+
+in advanced industrial democracies. Comparative politics. Oxford University Press. Dotti Sani, G. M., & Magistro, B. (2016). Increasingly unequal? The economic crisis, social
+
+inequalities and trust in the European Parliament in 20 European countries. European Journal of Political Research, 55(2), 246–264. 10.1111/1475-6765.12126 Duch, R. M., & Stevenson, R. T. (2008). The economic vote: How political and economic
+
+institutions condition election results. Cambridge University Press. Easton, D. (1975). A Re-assessment of the concept of political support. British Journal of Political
+
+Science, 5(4), 435–457. 10.1017/S0007123400008309 Goubin, S. (2020). Economic inequality, perceived responsiveness and political trust. Acta Politica,
+
+55(2), 267–304.https://doi.org/10.1057/s41269-018-0115-z Goubin, S., & Hooghe, M. (2020). The effect of inequality on the relation between socioeconomic
+
+stratification and political trust in Europe. Social Justice Research. 10.1007/s11211-02000350-z Guinjoan, M., & Rico, G. (2018). How perceptions of inequality between countries diminish trust
+
+in the European union: Experimental and observational evidence. Political Psychology, 39(6), 1289–1303. 10.1111/pops.12541 Hakhverdian, A., & Mayne, Q. (2012). Institutional trust, education, and corruption: A
+
+Micro-macro interactive approach. The Journal of Politics, 74(3), 739–750. 10.1017/ S0022381612000412 Hetherington, K. (1998). Expressions of identity: Space, performance, politics. Sage. Hetherington, M. J., & Rudolph, T. J. (2008). Priming, performance, and the dynamics of political
+
+trust. The Journal of Politics, 70(2), 498–512. 10.1017/S0022381608080468 Hooghe, M., Marien, S., & de Vroome, T. (2012). The cognitive basis of trust. The relation
+
+between education, cognitive ability, and generalized and political trust. Intelligence, 40(6), 604–613. 10.1016/j.intell.2012.08.006 Huhe, N., & Tang, M. (2016). Contingent instrumental and intrinsic support: Exploring regime
+
+support in Asia. Political Studies, 65(1), 161–178.https://doi.org/10.1177/0032321715622791
+
+86 D. Lee et al.
+
+Keele, L. (2007). Social capital and the dynamics of trust in government. American Journal of
+
+Political Science, 51(2), 241–254. 10.1111/j.1540-5907.2007.00248.x Kumlin, S. (2004). The personal and the political: How personal welfare state experiences affect
+
+political trust and ideology. Palgrave-Macmillan. Kumlin, S. (2011). Dissatisfied democrats, policy feedback and European welfare states,
+
+1976–2001. In S. Zmerli & M. Hooghe (Eds.), Political trust: Why context matters (pp. 163–186). ECPR Press. Kumlin, S., & Haugsgjerd, A. (2017). The welfare state and political trust: Bringing performance
+
+back in. In S. Zmerli & T. van der Meer (Eds.), Handbook on Political Trust (pp. 285–301). Edward Elgar Publishing. Loveless, M. (2013). The deterioration of democratic political culture: Consequences of the
+
+perception of inequality. Social Justice Research, 26(4), 471–491. 10.1007/s11211-0130198-7 Loveless, M. (2016). Inequality and support for political engagement in new democracies. Europe Asia Studies, 68(6), 1003–1019. 10.1080/09668136.2016.1203865 Loveless, M., & Binelli, C. (2018). Economic expectations and satisfaction with democracy:
+
+Evidence from Italy. Government and Opposition, 1–17. 10.1017/gov.2018.31 Loveless, M., & Whitefield, S. (2011). Being unequal and seeing inequality: Explaining the
+
+political significance of social inequality in new market democracies. European Journal of Political Research, 50(2), 239–266. 10.1111/j.1475-6765.2010.01929.x Marien, S. (2011). Measuring political trust across time and space. In S. Zmerli & M. Hooghe
+
+(Eds.), Political trust: Why context matters (pp. 13–46). ECPR Press. McAllister, I. (1999). The economic performance of governments. In P. Norris (Ed.), Critical
+
+citizens: Global support for democratic governance (pp. 188–203). Oxford University Press. Miller, A. H., & Listhaug, O. (1999). Political performance and institutional trust. In P. Norris
+
+(Ed.), Critical citizens. Global support for democratic governance (pp. 204–216). Oxford University Press. Miller, A. H., & Borrelli, S. A. (1991). Confidence in government during the 1980s. American
+
+Politics Quarterly, 19(2), 147–173. 10.1177/1532673X9101900201 Mishler, W., & Rose, R. (1997). Trust, distrust and skepticism: Popular evaluations of civil and
+
+political institutions in post-communist societies. The Journal of Politics, 59(2), 418–451. 10.1017/S0022381600053512 Mishler, W., & Rose, R. (2001). What are the origins of political trust?: Testing institutional and
+
+cultural theories in post-communist societies. Comparative Political Studies, 34(1), 30–62. 10.1177/0010414001034001002 Monroe, K. R. (1984). Presidential popularity and the economy. Praeger Publishers. Norris, P. (1999). Institutional explanations for political support. In P. Norris (Ed.), Critical
+
+citizens: Global support for democratic governance (pp. 217–235). Oxford University Press. Norris, P. (2011). Democratic deficit: Critical citizens revisited. Cambridge University Press. Pharr, S. J., & Putnam, R. D. (2000). Disaffected democracies: What’s troubling the trilateral
+
+countries? Princeton University Press. Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: Applications and data
+
+analysis methods (Vol. 1). Sage Publications, Inc. Rothstein, B. (2005). Social traps and the problem of trust. Cambridge University Press. Rothstein, B. (2011). The quality of government: Corruption, social trust, and inequality in
+
+international perspective. University of Chicago Press. Rothstein, B., & Uslaner, E. M. (2005). All for all: Equality, corruption, and social trust. World
+
+Politics, 58(1), 41–72. 10.1353/wp.2006.0022 Ruelens, A., Meuleman, B., & Nicaise, I. (2018). Examining macroeconomic determinants of trust
+
+in parliament: A dynamic multilevel framework. Social Science Research, 75, 142–153. 10.1016/j.ssresearch.2018.05.004 Solt, F. (2009). Standardizing the world income inequality database. Social Science Quarterly, 90
+
+(2), 231–242. 10.1111/j.1540-6237.2009.00614.x Solt, F. (2016). The Standardized World Income Inequality Database. Social Science Quarterly, 97
+
+(5), 1267–1281. 10.1111/ssqu.12295 Uslaner, E. M. (2008). Corruption, inequality, and the rule of law: The bulging pocket makes the
+
+easy life. Cambridge University Press.
+
+Asia Pacific Journal of Public Administration 87
+
+Uslaner, E. M. (2011). Corruption, the inequality trap and trust in government. In S. Zmerli &
+
+M. Hooghe (Eds.), Political trust: Why context matters (pp. 141–162). ECPR Press. Uslaner, E. M. (2017). Political trust, corruption, and inequality. In S. Zmerli & T. van der Meer
+
+(Eds.), Handbook on Political Trust (pp. 302–315). Edward Elgar Publishing. Uslaner, E. M. (2019). Trust, corruption and inequality. In C. M. Park & E. M. Uslaner (Eds.),
+
+Inequality and Democratic Politics in East Asia (pp. 34–54). Routledge. Uslaner, E. M., & Brown, M. (2005). Inequality, trust, and civic engagement. American Politics
+
+Research, 33(6), 868–894. 10.1177/1532673X04271903 Van de Walle, S., Van Roosbroek, S., & Bouckaert, G. (2008). Trust in the public sector: Is there
+
+any evidence for a long-term decline? International Review of Administrative Sciences, 74(1), 47–64. 10.1177/0020852307085733 Van der Meer, T. (2010). In what we trust? A multi-level study into trust in parliament as an
+
+evaluation of state characteristics. International Review of Administrative Sciences, 76(3), 517–536. 10.1177/0020852310372450 Van der Meer, T., & Hakhverdian, A. (2017). Political trust as the evaluation of process and
+
+performance: A cross-national study of 42 European countries. Political Studies, 65(1), 81–102. 10.1177/0032321715607514 Van der Meer, T. W. (2018). Economic performance and political trust. In E. M. Uslaner (Ed.), The
+
+Oxford Handbook of Social and Political Trust (pp. 599–616). Oxford University Press. Van Erkel, P. F. A., & Van der Meer, T. W. G. (2016). Macroeconomic performance, political trust
+
+and the great recession: A multilevel analysis of the effects of within-country fluctuations in macroeconomic performance on political trust in 15 EU countries, 1999-2011. European Journal of Political Research, 55(1), 177–197. 10.1111/1475-6765.12115 Weatherford, M. S. (1987). How does government performance influence political support?
+
+Political Behavior, 9(1), 5–28. 10.1007/BF00987276 Zmerli, S., & Castillo, J. C. (2015). Income inequality, distributive fairness and political trust in
+
+Latin America. Social Science Research, 52, 179–192. 10.1016/j.ssresearch.2015.02.003 Zmerli, S., & Hooghe, M. (2011). Political trust. Why context matters. Causes and consequences of
+
+a relational concept. ECPR Press. Zmerli, S., & Van der Meer, T. W. (2017). Handbook on political trust. Edward Elgar Publishing.
+
+88 D. Lee et al.

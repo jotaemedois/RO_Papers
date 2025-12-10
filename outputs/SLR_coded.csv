@@ -1,0 +1,251 @@
+Study_ID,Variable,Code,Label,Evidence
+SLR001,Study_ID,99,Unique alphanumeric identifier assigned to each study,Not provided in article
+SLR001,Author_LastNames,1,Last names of the authors as listed,"Knight, L."
+SLR001,Year_Publication,2021,Year when the publication was published,"Western Kentucky University, Bowling Green, KY August 2021"
+SLR001,Type_Publication,3,Thesis,"Honors Capstone: A Comparative Analysis of Institutional Trust, Traditional Social Values, and Partisanship in East and Southeast Asia"
+SLR001,Language,1,English,Full text written in English
+SLR001,Type_Publication_Study,1,Empirical,This study utilizes data from the 4th Wave of the Asian Barometer Survey with clearly established data collection via surveys and regression analysis procedures
+SLR001,Type_Parliament,1,National,"Focus on trust in national government, parliament, and other national institutions in 13 countries"
+SLR001,Attitudes_MainFocus,2,Partially,The study focuses primarily on attitudes toward parliament and other institutions but tests multiple determinants beyond attitudes themselves
+SLR001,Research_Questions_1,1,Stated research question,"For countries in East and Southeast Asia, what influences individual-level trust in government?"
+SLR001,Research_Questions_2,1,Stated research question,Are there certain approaches that more effectively explain levels of individual-level institutional trust?
+SLR001,Research_Questions_3,1,Stated research question,"Are there any broad generalizations that can be made about institutional trust in East and Southeast Asia, or do the explanations about institutional trust vary from country to country?"
+SLR001,Behavioral_Engagement_1,0,None,"The study does not examine specific behavioral engagement forms such as petitioning, contacting MPs, or voting linked to parliamentary representation"
+SLR001,Attitudinal_Engagement_1,1,Trust/confidence in parliament,"What factors drive an individual to trust, or not trust, their government? The study measures trust in parliament, courts, national government, civil service, military, and police"
+SLR001,Attitudinal_Engagement_2,3,Perceived legitimacy of parliament,The study examines institutional trust as a measure of legitimacy and includes analysis of partisanship effects on trust
+SLR001,Conceptual_Definition_1,1,Institutional trust definition,Individual-level institutional trust in government refers to citizens' confidence and evaluations of governmental institutions and their performance
+SLR001,Conceptual_Definition_2,1,Traditional Social Values definition,"This measure reflects 'social values' in daily social settings and positive attitudes toward paternalism, harmony orientation, and collectivism"
+SLR001,Research_Design_1,2,Comparative (two or more cases),"This study compares 13 countries in East and Southeast Asia: Japan, Hong Kong, South Korea, China, Mongolia, Philippines, Taiwan, Thailand, Indonesia, Singapore, Vietnam, Cambodia, Malaysia, and Myanmar"
+SLR001,Time_Frame,1,2014-2016,The surveys constituting the 4th Wave of the ABS were conducted between 2014 and 2016
+SLR001,Country_1,1,Japan; Hong Kong; South Korea; China; Mongolia; Philippines; Taiwan; Thailand; Indonesia; Singapore; Vietnam; Cambodia; Malaysia; Myanmar,"The regional sample size of 19,467 from 14 different countries and territories in East and Southeast Asia"
+SLR001,Data_Collection_Techniques_1,1,Surveys,"This project utilizes data from the 4th Wave of the Asian Barometer Survey (ABS), which contains survey data"
+SLR001,Data_Collection_Techniques_2,7,Secondary data extraction,The Asian Barometer Project Office is solely responsible for the data distribution. Analysis conducted using secondary Asian Barometer data
+SLR001,Data_Source,2,Secondary,Data analyzed in this paper were collected by the Asian Barometer Project. The Asian Barometer Project Office is solely responsible for the data distribution
+SLR001,Data_Analysis_1,2,"Quantitative (statistical modelling, regression analysis)","This analysis will first be conducted on the full thirteen-country data set utilizing Trust Index 1 as the dependent variable, creating three models using OLS regression analysis"
+SLR001,Key_Findings_1,1,Main finding on traditional social values,"Traditional social values are meaningful determinants of political trust. In every single model included in this paper, evaluations of the national economic situation and governmental anti-corruption efforts have a significant, positive impact on institutional trust"
+SLR001,Key_Findings_2,1,Main finding on partisanship,"At the regional level, for each model the winner and loser dummy variables have significant impacts on institutional trust, positive for the case of the winner variable and negative for the loser variable"
+SLR001,Key_Findings_3,1,Main finding on social capital,"For both social trust and organizational membership, there is a much greater level of variation in significance from model to model and from country to country, suggesting the institutional approach is more consistent than the cultural approach"
+SLR001,Notes_Comments,1,Coding notes,This is an honors thesis examining institutional trust determinants across 13 East and Southeast Asian countries using secondary Asian Barometer Survey data with regression analysis methodology
+SLR005,Study_ID,99,Unique alphanumeric identifier assigned to each study,Not provided in article
+SLR005,Coder_Initials,99,Initials of the coder responsible for data extraction,Not applicable to provided article
+SLR005,Author_LastNames,1,Last names of the authors as listed in the publication,Pedro C. Magalhães
+SLR005,Full_Citation,1,Complete bibliographic citation,"Pedro C. Magalhães, Análise Social, vol. XXXVIII (167), 2003, 443-465"
+SLR005,Year_Publication,2003,Year when the publication was published,"Análise Social, vol. XXXVIII (167), 2003"
+SLR005,Type_Publication,1,Article,Journal article published in Análise Social
+SLR005,Language,2,Portuguese,"A confiança nos parlamentos nacionais: regras institucionais, representação e responsabilização política"
+SLR005,Type_Publication_Study,1,Empirical,"utilizo dados do Eurobarómetro 51.0, um conjunto de inquéritos de opinião conduzidos em catorze nações democráticas da União Europeia entre Março e Maio de 1999"
+SLR005,Type_Parliament,1,National,a percentagem de inquiridos de cada país que afirmaram tender a confiar no seu parlamento nacional
+SLR005,Attitudes_MainFocus,1,Yes,O que poderá explicar o nível de confiança que os cidadãos depositam no seu parlamento?
+SLR005,Research_Questions_1,1,Research question reported,O que poderá explicar o nível de confiança que os cidadãos depositam no seu parlamento? A bibliografia existente avança três conjuntos principais de hipóteses: valores e atitudes culturais; desempenho do governo e apoio específico; e o papel das regras institucionais.
+SLR005,Behavioral_Engagement_1,0,None,Article focuses on attitudinal measures of trust; no behavioral outcomes examined
+SLR005,Attitudinal_Engagement_1,1,Trust/confidence in parliament,A VARIÁVEL DEPENDENTE: CONFIANÇA NO PARLAMENTO EM CATORZE DEMOCRACIAS EUROPEIAS... Nesses inquéritos pediu-se aos inquiridos de cada país que declarassem o seu grau de confiança em dezassete instituições políticas
+SLR005,Attitudinal_Engagement_2,3,Perceived legitimacy of parliament,uma das funções dos parlamentos era a de produzirem 'entre o povo e as elites relevantes um sentido mais amplo e profundo do direito moral do governo para governar'
+SLR005,Attitudinal_Engagement_3,4,Perceptions of responsiveness,as democracias que encorajam a dispersão e a partilha de poder parecem funcionar melhor em termos da criação de governos ou de coligações políticas cujas preferências se encontram consistentemente próximas do eleitor médio
+SLR005,Conceptual_Definition_1,1,Definition of main concept provided,A confiança que os cidadãos depositam nas instituições políticas tem vindo a tornar-se um tópico de crescente interesse para a ciência política
+SLR005,Conceptual_Definition_2,1,Definition of representation and accountability,"A democracia representativa é, em grande medida, um acto de delegação condicional do poder por parte dos cidadãos em agentes políticos"
+SLR005,Research_Design_1,2,Comparative (two or more cases),As sondagens do Eurobarómetro... conduzidos em catorze nações democráticas da União Europeia
+SLR005,Time_Frame,1999,Time period analyzed,entre Março e Maio de 1999
+SLR005,Country_1,1,Bélgica; Dinamarca; Alemanha Ocidental; Alemanha Oriental; Grécia; Itália; Espanha; França; Irlanda; Holanda; Portugal; Grã-Bretanha; Finlândia; Suécia; Áustria,catorze nações democráticas da União Europeia
+SLR005,Data_Collection_Techniques_1,1,Surveys,"utilizo dados do Eurobarómetro 51.0, um conjunto de inquéritos de opinião"
+SLR005,Data_Source,1,Primary,inquéritos de opinião conduzidos em catorze nações democráticas da União Europeia entre Março e Maio de 1999
+SLR005,Data_Analysis_1,2,"Quantitative (statistical modelling, regression analysis)","Por meio de regressão logística, regredimos a variável dicotómica 'confiança no parlamento'"
+SLR005,Key_Findings_1,1,Main findings summarized,"o apoio ao governo que revela o mais forte impacto de entre este conjunto de variáveis, como, de facto, de entre as variáveis de todo o modelo"
+SLR005,Key_Findings_2,1,Institutional rules impact on trust,"as regras institucionais também têm um forte efeito sobre os níveis de confiança depositada pelos cidadãos no seu parlamento, independentemente da performance do governo e do apoio específico"
+SLR005,Key_Findings_3,1,Cultural explanations weak,"a confiança ou desconfiança em relação às instituições parlamentares são atitudes políticas culturalmente difusas, em grande medida sem relação com as posições sociais e as experiências de socialização de longo prazo dos indivíduos"
+SLR005,Notes_Comments,1,Coding notes,"Study uses Eurobarometer cross-national survey data; focuses on citizen trust in national parliaments as dependent variable; tests cultural, specific support, and institutional rules hypotheses; employs logistic regression; coded as empirical comparative study"
+SLR007,Study_ID,1,Unique alphanumeric identifier,Tibúrcio_EficáciaPetiçõesEuropa_2017
+SLR007,Author_LastNames,1,Last names of authors,Tibúrcio
+SLR007,Year_Publication,2017,Year when publication was published,Appears to be doctoral dissertation with 2017 context based on latest references cited through 2016
+SLR007,Type_Publication,3,Thesis,Tese de Doutoramento em Ciência Política de Tiago Tibúrcio
+SLR007,Language,2,Portuguese,Written entirely in Portuguese language
+SLR007,Type_Publication_Study,1,Empirical,inquérito aos peticionários portugueses (inédito na sua abrangência)
+SLR007,Type_Parliament,3,Both national and sub-national,análise dos sistemas de petição de vários parlamentos da União Europeia (mais Escócia e Parlamento Europeu)
+SLR007,Attitudes_MainFocus,1,Yes,avaliação dos peticionários sobre o sistema de petições
+SLR007,Behavioral_Engagement,1,Petitioning,"Petições (e-petições), direito de petição perante o Parlamento"
+SLR007,Attitudinal_Engagement,1,Trust/confidence in parliament,"confiança nas instituições políticas, avaliação da experiência de apresentar uma petição"
+SLR007,Research_Design,2,Comparative,análise do caso português contextualizando-o com o sistema de petições-E da Escócia e Alemanha
+SLR007,Data_Collection_Techniques,1,Surveys,"inquérito aos peticionários portugueses (inédito na sua abrangência), realizado entre 1999 e 2012"
+SLR007,Data_Source,1,Primary,"inquérito realizado aos peticionários, recolha de dados de todas as petições"
+SLR007,Data_Analysis,4,Quantitative and qualitative,análise quantitativa baseada no inquérito; análise qualitativa do enquadramento normativo
+SLR011,Study_ID,99,Unique alphanumeric identifier assigned to each study,Not reported in article
+SLR011,Coder_Initials,99,Initials of the coder responsible for data extraction,Not applicable - user to assign
+SLR011,Author_LastNames,1,Christensen; Himmelroos; Setälä,"Henrik Serup Christensen, Staffan Himmelroos, Maija Setälä"
+SLR011,Full_Citation,1,Complete bibliographic citation,"Christensen, H.S., Himmelroos, S., Setälä, M. A Matter of Life or Death: A Survey Experiment on the Perceived Legitimacy of Political Decision-Making on Euthanasia. Parliamentary Affairs, 2019"
+SLR011,Year_Publication,2019,Year when the publication was published,Parliamentary Affairs (2019)
+SLR011,Type_Publication,1,Article,Published in Parliamentary Affairs journal
+SLR011,Language,1,English,Article written in English
+SLR011,Type_Publication_Study,1,Empirical,"survey experiment (n = 1243), where respondents were exposed to a vignette where the treatments varied randomly"
+SLR011,Type_Parliament,1,National,delivered to the Finnish parliament (Eduskunta)
+SLR011,Attitudes_MainFocus,1,Yes,"In this study, we test the impact of outcome favourability, actor involvement and justifications on the perceived legitimacy of a parliamentary decision-making process"
+SLR011,Research_Questions_1,1,What factors affect perceived legitimacy of parliamentary decision-making?,"In this article, we will contribute to resolving this puzzle by exploring what factors affect how people evaluate the legitimacy of parliamentary decision-making on a specific policy issue."
+SLR011,Research_Questions_2,1,What democratic decision-making processes do citizens want?,"Nevertheless, it remains unclear what democratic decision-making processes citizens want."
+SLR011,Behavioral_Engagement_1,0,None,Study measures attitudes through survey experiment vignette; no direct behavioral engagement measured
+SLR011,Attitudinal_Engagement_1,1,Trust/confidence in parliament,Confidence in political decision-making: A single measure indicating whether respondents felt that their confidence in political decision-making increased
+SLR011,Attitudinal_Engagement_2,3,Perceived legitimacy of parliament,"Legitimacy index: Sum index based on six items measuring attitudes to aspects of input, throughput and output process legitimacy"
+SLR011,Conceptual_Definition_1,1,Legitimacy definition,Legitimacy may be defined broadly as the capacity of a political system to engender and maintain the belief that existing institutions are the most appropriate or proper ones for the society
+SLR011,Conceptual_Definition_2,1,Empirical legitimacy,"When understood in empirical terms, legitimacy is expected to hinge on citizens' beliefs and perceptions of political systems, processes or decisions rather than on independent criteria for legitimate procedures."
+SLR011,Research_Design_1,3,Experimental or quasi-experimental,We examine these hypotheses with the help of a population-based survey experiment linked to a citizen initiative on the issue of euthanasia
+SLR011,Time_Frame,1,December 2017,Our data come from a survey experiment conducted during December 2017 in Finland
+SLR011,Country,1,Finland,Our experiment was conducted in a survey distributed via Qualtrics and responses collected 7–15 December 2017 during the hearings in the committee
+SLR011,Data_Collection_Techniques_1,1,Surveys,Our data come from a survey experiment conducted during December 2017 in Finland
+SLR011,Data_Collection_Techniques_2,6,Experimental surveys,A population-based survey experiment is an experiment that is administered to a representative population sample
+SLR011,Data_Source,1,Primary,The survey comprised an online sample including 1243 respondents stratified to reflect the general population structure
+SLR011,Data_Analysis_1,1,"Quantitative (descriptive, bivariate, statistical aggregation)",Table 1 shows descriptive statistics for all variables
+SLR011,Data_Analysis_2,2,"Quantitative (statistical modelling, regression analysis)",The main method of analysis is three way ANOVA where we examine the impact of our three factors including their interactions for each outcome measure
+SLR011,Key_Findings_1,1,Outcome favorability is primary determinant of legitimacy,The clearest result was that people perceive decisions as more legitimate when they get their preferred outcome (H1) since the results show that the most important determinant of process legitimacy is that people get the outcome that they prefer.
+SLR011,Key_Findings_2,1,Experts and citizens boost legitimacy over politicians,people favour decision-making processes that involve ordinary citizens and experts over elected representatives deciding on their own
+SLR011,Key_Findings_3,1,Justifications amplify outcome effects rather than cushion disappointment,justiﬁcations here serve to intensify the differences. These findings are in line with research suggesting that arguments and information contradicting prior opinions can produce a backfire effect
+SLR011,Notes_Comments,1,Coding notes,"Study measures perceived legitimacy through four outcome measures: process satisfaction, legitimacy index, confidence in political decision-making, and support for introduction. Survey experiment design with vignette manipulation of actors (politicians/experts/citizens), outcome favorability (favorable/neutral/unfavorable), and justification (present/absent)."
+SLR013,Study_ID,1,Unique alphanumeric identifier,SLR_BRIDGE_BQD_2013
+SLR013,Coder_Initials,99,Not Reported,Coder initials not specified in provided material
+SLR013,Author_LastNames,1,Pinto; Sousa; Magalhães; Lisi; Marchi; Evans; Zúquete; Camerlo; Sanches; Gorbunova; Raimundo; Silva; Ferreira da Silva; Vieira; Wiesehomeier,"António Costa Pinto, Luís de Sousa, Pedro Magalhães (organizadores)"
+SLR013,Full_Citation,1,Complete bibliographic citation,"A Qualidade da Democracia em Portugal: A Visão dos Cidadãos / (organizadores) António Costa Pinto, Luís de Sousa, Pedro Magalhães. Lisboa: ICS. Imprensa de Ciências Sociais, 2013. ISBN 978-972-671-322-7"
+SLR013,Year_Publication,2013,Year of publication,1.ª edição: Setembro de 2013
+SLR013,Type_Publication,4,Book Chapter,Work organized in chapters (Capítulo 1 through Capítulo 9) with distinct authors contributing to different sections
+SLR013,Language,2,Portuguese,A Qualidade da Democracia em Portugal: A Visão dos Cidadãos
+SLR013,Type_Publication_Study,1,Empirical,"um inquérito realizado em Julho de 2011 a uma amostra representativa da população residente em Portugal com 18 ou mais anos. Os inquiridos foram selecciona dos através do método de quotas, com base numa matriz que cruza as variáveis e um total de 1207 inquiridos"
+SLR013,Type_Parliament,1,National,"população portuguesa em Julho de 2011, inquérito junto de uma amostra representativa da população com 18 ou mais anos residente em Portugal continental"
+SLR013,Attitudes_MainFocus,1,Yes,A base de trabalho fundamental dos vários capítulos que compõem este livro é um inquérito realizado em Julho de 2011 a uma amostra representativa da população residente em Portugal com 18 ou mais anos
+SLR013,Behavioral_Engagement_Petitioning,1,Petitioning,E-petitioning Parliament: Understanding the connections between citizens and Parliament
+SLR013,Behavioral_Engagement_Contacting_MPs,2,Contacting MPs,Pôr-se em contacto com um político; contactar um político; o contacto com um político
+SLR013,Behavioral_Engagement_Voting,3,Voting in parliamentary elections,o direito de cada um a votar em quem quiser sem ser pressionado
+SLR013,Behavioral_Engagement_Formal_Consultations,4,Participation in formal consultations/hearings,Participação em formal consultations; comissões de inquérito parlamentar
+SLR013,Behavioral_Engagement_Parliamentary_Visits,5,Parliamentary visits/events,parliamentary e-petitions systems; open days and educational activities not explicitly mentioned but implicit in public engagement framework
+SLR013,Behavioral_Engagement_Social_Media,6,Social media engagement with parliament,petitioners employ sophisticated social media strategies to firstly bolster petition support and drive signatures
+SLR013,Behavioral_Engagement_Information_Consumption,7,Consumption of parliamentary information,o direito de cada um a praticar a sua religião; liberdade de expressão; sharing of information; media engagement
+SLR013,Attitudinal_Engagement_Trust,1,Trust/confidence in parliament,confiança nas instituições do Estado; confiança na Assembleia da República; Closeness to citizens as a source for political trust
+SLR013,Attitudinal_Engagement_Satisfaction,2,Satisfaction with parliament,em que medida se sente satisfeito com o funcionamento da democracia em Portugal; satisfação com a democracia; satisfaction with democracy
+SLR013,Attitudinal_Engagement_Legitimacy,3,Perceived legitimacy of parliament,a democracia é preferível a qualquer outra forma de governo; crença de que as instituições políticas existentes são as mais apropriadas
+SLR013,Attitudinal_Engagement_Responsiveness,4,Perceptions of responsiveness,os políticos não se interessam pelo que pessoas como eu pensam; os políticos preocupam-se apenas com os seus próprios interesses; perception of expertise and responsiveness of MPs
+SLR013,Attitudinal_Engagement_Accessibility,5,Perceptions of accessibility/usability,"accessibility, and permeability with practical indicators (parliament as public space, sharing of information, contact with MPs, media and digital engagement)"
+SLR013,Attitudinal_Engagement_Identification,6,Identification/attachment to parliament,sense of belonging and representativeness; feeling represented by political parties; connection between citizens and Parliament
+SLR013,Attitudinal_Engagement_Transparency,7,Perceived transparency/openness of parliament,"transparency of legislative process; visibility, accessibility, and permeability; actual participation in legislative decision-making"
+SLR013,Research_Design_Case_Study,1,Case-study (single case),"case study e-petitions about two core, related, components of e-petition campaigns"
+SLR013,Research_Design_Comparative,2,Comparative (two or more cases),comparative analysis across different countries; comparing English and Portuguese attitudes; comparative perspective
+SLR013,Research_Design_Evidence_Synthesis,4,Evidence synthesis,scoping literature review; comprehensive analytical framework combining normative principles
+SLR013,Time_Frame,1,2002-2011; 1976-2011; 1994-2009,inquérito realizado em Julho de 2011; Julho de 2008; dados recolhidos entre 1994 e 2009; perspectiva longitudinal; evolução de alguns indicadores
+SLR013,Country,1,Portugal; Multiple European countries in comparative sections,população residente em Portugal continental; países da Europa ocidental; democracias europeias; comparação com Reino Unido
+SLR013,Data_Collection_Techniques_Surveys,1,Surveys,"inquérito realizado em Julho de 2011 a uma amostra representativa da população residente em Portugal com 18 ou mais anos. Os inquiridos foram selecciona dos através do método de quotas, com um total de 1207 inquiridos"
+SLR013,Data_Collection_Techniques_Secondary_Data,7,Secondary data extraction,World Bank governance indicators; European Values Study; World Values Survey; dados do Eurostat; dados do World Values Survey (1999-2004)
+SLR013,Data_Source,3,Mixed,inquérito face-to-face da GfKMetris; World Bank governance indicators; European Values Study; World Values Survey; dados secundários
+SLR013,Data_Analysis_Quantitative_Descriptive,1,"Quantitative (descriptive, bivariate, statistical aggregation)",percentagens; estatísticas descritivas; gráficos; figuras com valores médios
+SLR013,Data_Analysis_Quantitative_Modeling,2,"Quantitative (statistical modelling, regression analysis)",análise de regressão linear; regressão logística multinominal; análise multivariada (OLS); variáveis instrumentais (LIML); correlação de Pearson
+SLR013,Data_Analysis_Qualitative,3,"Qualitative (content analysis, discourse analysis)",participant-observation account; case study analysis of e-petitions; thematic analysis of political engagement mechanisms
+SLR013,Key_Findings_Summary,1,Citizens' attitudes toward parliament quality,apenas 56% dos inquiridos acreditam que 'a democracia é preferível a qualquer outra forma de governo'; 67% dos portugueses estavam insatisfeitos com o funcionamento da democracia; deterioração progressiva da avaliação da responsividade política entre 2002-2011
+SLR013,Notes_Comments,1,"Primary data collection with 1,207 respondents; multiple chapters with different focus areas; longitudinal analysis across decade","Os inquiridos foram selecciona dos através do método de quotas, com base numa matriz que cruza as variáveis 'sexo', 'idade', 'instrução', Ocupação, 'região' e 'habitat/dimensão dos agregados populacionais'; perspectiva longitudinal"
+SLR015,Study_ID,1,SLR001,"Master's thesis submitted to Instituto de Estudos Políticos, Universidade Católica Portuguesa, 2014"
+SLR015,Coder_Initials,99,Not Reported,No coder information provided in source document
+SLR015,Author_LastNames,1,Rodrigues,"Joana Isabel de Oliveira Rodrigues, Aluna nº 100511003"
+SLR015,Full_Citation,1,Full citation available,"Rodrigues, J.I.O. (2014). A Relação entre os Cidadãos e a Assembleia da República em Portugal: Análise comparativa num contexto pós-materialista. Master's thesis, Universidade Católica Portuguesa, Instituto de Estudos Políticos"
+SLR015,Year_Publication,2014,2014,"Mestrado em Ciência Política e Relações Internacionais: Segurança e Defesa, especialização em Ciência Política 2014"
+SLR015,Type_Publication,3,Thesis,Mestrado em Ciência Política
+SLR015,Language,2,Portuguese,Entire document written in Portuguese
+SLR015,Type_Publication_Study,2,Theoretical,"Document is primarily a theoretical and conceptual analysis: 'O primeiro capítulo será dedicado à revisão da literatura' and extensive theoretical framing of post-materialism, parliament-citizen relationships"
+SLR015,Type_Parliament,3,Both,"Análise da Assembleia da República portuguesa (national) and comparative analysis with 'contextos britânico, alemão e espanhol' across different governance levels"
+SLR015,Attitudes_MainFocus,1,Yes,A análise procura avaliar a relação que a Assembleia da República Portuguesa estabelece com os seus cidadãos
+SLR015,Research_Questions_1,1,Primary research question identified,"Qual o nível de abertura e preparação das instituições políticas portuguesas, nomeadamente da Assembleia da República, à participação activa da sociedade civil"
+SLR015,Research_Questions_2,1,Secondary research question identified,Estarão os deputados portugueses próximos do seu eleitorado? Poderá a Assembleia da República abrir-se mais à sociedade civil e incentivar mais participação?
+SLR015,Behavioral_Engagement_1,2,Contacting MPs,análise do contacto entre cidadãos e deputados; 'o contacto que tém com o seu círculo
+SLR015,Behavioral_Engagement_2,3,Voting in parliamentary elections,Gráfico nº 22 – Participação dos cidadãos nas eleições legislativas; analysis of turnout rates
+SLR015,Behavioral_Engagement_3,7,Consumption of parliamentary information,Consumo de informação parlamentar; media consumption patterns discussed throughout
+SLR015,Attitudinal_Engagement_1,1,Trust/confidence in parliament,Confiança no Parlamento é um tema central; 'Gráfico nº 25.1 – Grau de confiança dos cidadãos no Parlamento 1990-2008'
+SLR015,Attitudinal_Engagement_2,3,Perceived legitimacy of parliament,A função de legitimação da AR; 'o plenário tende a preencher uma função de legitimação'
+SLR015,Attitudinal_Engagement_3,4,Perceptions of responsiveness,Relação cidadão-Parlamento; 'Os cidadãos têm amplas oportunidades para participar em decisões políticas'
+SLR015,Attitudinal_Engagement_4,6,Identification/attachment to parliament,Representação simbólica; identidade com a instituição parlamentar; 'representação simbólica tem sido descurada'
+SLR015,Attitudinal_Engagement_5,7,Perceived transparency/openness of parliament,"Abertura da Assembleia; 'mais acessibilidade, mais visibilidade e transparência são elementos-chave'"
+SLR015,Conceptual_Definition_1,1,Post-materialism defined,os valores que adoptam para a sua vida... pós-materialismo. Uma evolução da sociedade introduziu novos comportamentos
+SLR015,Conceptual_Definition_2,1,Parliament-citizen relationship defined,A relação Parlamento-Cidadão é central; relação que a Assembleia da República estabelece com os seus cidadãos
+SLR015,Conceptual_Definition_3,1,Democratic consolidation defined,Consolidação democrática é descrita como um processo pelo qual a democracia se torna tão ampla e profundamente aceite
+SLR015,Research_Design_1,2,Comparative,"Análise comparativa com três outros países: Reino Unido, Alemanha e Espanha"
+SLR015,Research_Design_2,4,Evidence synthesis,Revisão extensiva de literatura sobre pós-materialismo e relação cidadão-parlamento; síntese de múltiplas fontes teóricas
+SLR015,Time_Frame,1,1974-2013,A análise compreende o período desde a democratização portuguesa em 1974; Eurostat data from 1999-2009; EVS data 1990-2008; Eurobarómetro 2004-2013
+SLR015,Country,1,Portugal,A Relação entre os Cidadãos e a Assembleia da República em Portugal
+SLR015,Data_Collection_Techniques_1,1,Surveys,European Values Study; Eurobarómetro; CESOP surveys; World Values Survey
+SLR015,Data_Collection_Techniques_2,7,Secondary data extraction,"Recolha de dados do European Values Study, Eurobarómetro, Banco Mundial, Eurostat, Transparency International"
+SLR015,Data_Source,2,Secondary,Grande parte dos dados será proveniente do European Values Study; outras bases de dados
+SLR015,Data_Analysis_1,1,"Quantitative (descriptive, bivariate, statistical aggregation)",Gráficos com dados percentuais; Gráfico nº 1: Taxa de Mortalidade Infantil; análise descritiva de tendências
+SLR015,Data_Analysis_2,3,"Qualitative (content analysis, discourse analysis)",Análise qualitativa de literatura; revisão de conceptos e teorias; análise de entrevistas e questionários
+SLR015,Data_Analysis_3,4,Quantitative and qualitative,"Combinação de análise quantitativa (gráficos, estatísticas) com análise qualitativa (revisão teórica, entrevistas)"
+SLR015,Key_Findings_1,1,Post-materialism emerging in Portugal,"Portugal, pelos anos 90, ainda estava consideravelmente mais atrasado que os seus companheiros europeus, mas que, em 20 anos, conseguiu desenvolver-se"
+SLR015,Key_Findings_2,1,Low trust in parliament,"Portugal é, frequentemente, colocado no mesmo patamar que a maioria dos países europeus; contudo ainda regista níveis comparativamente baixos; níveis de confiança no parlamento são relativamente baixos"
+SLR015,Key_Findings_3,1,Gap between citizens and deputies,O distanciamento entre deputados e cidadãos é uma das maiores queixas dirigidas a esta instituição; cidadãos e deputados têm percepções diferentes da participação política
+SLR015,Key_Findings_4,1,Economic crisis impact,"A crise financeira recente pode introduzir mais receios e precariedade na população, comprometendo o desenvolvimento desta mentalidade"
+SLR015,Notes_Comments,1,Study characteristics,Theoretical scoping review combining literature analysis with secondary data analysis; primarily empirical in data analysis approach but theoretical in framing; extensive comparative analysis across four European countries; focuses on post-materialism theory and parliament-citizen relationships
+SLR016,Study_ID,99,Unique alphanumeric identifier assigned to each study,Not provided in article
+SLR016,Coder_Initials,99,Initials of the coder responsible for data extraction,Not applicable - coding assignment not specified
+SLR016,Author_LastNames,1,Last names of the authors as listed in the publication,Hooghe; Dassonneville
+SLR016,Full_Citation,1,Complete bibliographic citation,"Hooghe, M., & Dassonneville, R. (2016). A Spiral of Distrust: A Panel Study on the Relation between Political Distrust and Protest Voting in Belgium. Government & Opposition, accepted for publication."
+SLR016,Year_Publication,2016,Year when the publication was published,2016
+SLR016,Type_Publication,1,Article,"Government & Opposition, accepted for publication"
+SLR016,Language,1,English,Entire article written in English
+SLR016,Type_Publication_Study,1,Empirical,"We make use of the data from the Belgian Election Panel (2009-2014), in which a representative sample of voters has been surveyed in the context of both the 2009 and the 2014 Belgian elections."
+SLR016,Type_Parliament,3,Both,The Belgian context consists of two separate party systems; one of Dutch-language parties and one of French-language parties. The analysis covers both regional and federal levels of parliament.
+SLR016,Attitudes_MainFocus,1,Yes,"The relation between distrust and protest voting reinforces one another, leading to a potential spiral of distrust. Low levels of political trust are associated with a preference for protest parties."
+SLR016,Research_Question_1,1,Main research question stated,we investigate the dynamic relation between political trust and voting behaviour by means of a panel design. This allows studying how the trust level of protest voters evolves following their vote decision.
+SLR016,Behavioral_Engagement_3,3,Voting in parliamentary elections (when explicitly linked to parliamentary representation),"Additionally, we point out that decreasing levels of trust significantly increase the probability of voting for a protest party"
+SLR016,Attitudinal_Engagement_1,1,Trust/confidence in parliament,"Low levels of political trust are associated with a preference for a protest party. As a measure for political trust, we use respondents' indicated level of trust in the following institutions; political parties, the regional government, the regional parliament, the federal government, the federal parliament and politicians."
+SLR016,Conceptual_Definition_Political_Trust,98,Unclear,"The authors operationalize political trust through six survey items (trust in political parties, regional government, regional parliament, federal government, federal parliament, politicians) on a 0-10 scale but do not provide an explicit conceptual definition of what political trust means theoretically."
+SLR016,Research_Design_1,2,Comparative (two or more cases),We examine voting in the two party systems separately. For the Flemish region... For the French language parties...
+SLR016,Research_Design_2,1,Case-study (single case),"In this paper, we investigate the dynamic relation between political trust and voting behaviour by means of a panel design. This allows studying how the trust level of protest voters evolves following their vote decision. We make use of the data from the Belgian Election Panel (2009-2014)"
+SLR016,Time_Frame,1,2009-2014,"We rely on data from the Belgian Election Panel (2009-2014), in which a representative sample of voters has been surveyed in the context of both the 2009 and the 2014 Belgian elections."
+SLR016,Country,1,Belgium,"We investigate this relation in Belgium, as this country offers an ideal setting, both for the study of political trust as for the study on protest voting."
+SLR016,Data_Collection_Techniques_1,1,Surveys,"The 2009 part of the panel survey consisted of three survey waves... 1,698 respondents took part in this post-electoral survey wave and were interviewed by phone... these respondents were contacted again to participate in the 2014 part of the panel study. A total of 792 respondents... sent back a paper questionnaire"
+SLR016,Data_Source,1,Primary,"We rely on data from the Belgian Election Panel (2009-2014), a representative survey of voters in the two main regions of Belgium (Flanders and Wallonia), based on a sample from the National Register of the citizens of Belgium."
+SLR016,Data_Analysis_1,1,"Quantitative (descriptive, bivariate, statistical aggregation)",The mean values for political trust in Table 1 additionally point out a decline in political trust between 2009 and 2014. We first descriptively assess changes in levels of political trust between 2009 and 2014 for the electorates of different parties.
+SLR016,Data_Analysis_2,2,"Quantitative (statistical modelling, regression analysis)","we present the results of a series of multinomial logistic regression models... We perform a multivariate analysis explaining the impact of the vote choice in 2009 on levels of political trust in 2014, while controlling for the 2009 level of political trust. For doing so, we run an OLS regression"
+SLR016,Key_Findings,1,Summary of main findings,"Our findings hint at a 'spiral of distrust'. Low levels of trust as well as decreasing levels of political trust increase the probability of voting for a protest party. Having chosen such a party subsequently acts to decrease one's level of trust in politics even further. The result is a spiral of distrust, where distrust and protest voting enforce each other."
+SLR017,Study_ID,99,Unique alphanumeric identifier assigned to each study,Not reported in article
+SLR017,Coder_Initials,99,Initials of the coder responsible for data extraction,Not applicable to this coding task
+SLR017,Author_LastNames,0,Moulds,DR SARAH MOULDS
+SLR017,Full_Citation,0,Complete bibliographic citation,"Sarah Moulds, 'A Toolkit for Evaluating the Effectiveness of Parliamentary Public Engagement', University of South Australia Law Review, Vol 5"
+SLR017,Year_Publication,99,Year when the publication was published,Not explicitly stated in article text
+SLR017,Type_Publication,1,Article,"Published in University of South Australia Law Review, Vol 5"
+SLR017,Language,1,English,Article is written in English
+SLR017,Type_Publication_Study,2,Theoretical,Article aims to 'describe the key ingredients for effective evaluation of public engagement by parliaments and share the toolkit developed by the IPEN workshops' - it develops frameworks and tools without conducting original empirical data collection and analysis
+SLR017,Type_Parliament,3,Both National and Sub-national,"Article discusses 'Over the past decade, Westminster-inspired parliaments in Australia, New Zealand ('NZ'), Ireland, and the United Kingdom ('UK') have been experimenting with new ways of connecting' and references 'European Parliament', 'Scottish Parliament', and 'local councils and governments'"
+SLR017,Attitudes_MainFocus,2,Partially,"Article focuses primarily on evaluation methodologies and public engagement strategies rather than attitudes themselves, though it references attitudes like trust: 'enhancing the quality and diversity of engagement between the public and Australian parliaments is essential to preserving trust in democratic institutions'"
+SLR017,Research_Questions1,99,As stated by the authors,Article states aims rather than formal research questions: 'this article aims to describe the key ingredients for effective evaluation of public engagement by parliaments and share the toolkit developed by the IPEN workshops'
+SLR017,Behavioral_Engagement1,1,Petitioning,"E-petitions section: 'Petitioning the Parliament is a long-established, direct, and lineal form of public engagement initiated by a citizen or group who asks the a parliament to take specific policy or legislative action' and 'since 2016, the Australian Parliament has accepted 'e-petitions''"
+SLR017,Behavioral_Engagement2,4,Participation in formal consultations/hearings,"'Parliamentary committees have long been the site of engagement between citizens and members of parliament, particularly committees with broad powers of inquiry' and discussion of 'citizens' juries' and 'mini publics' as formal consultation mechanisms"
+SLR017,Behavioral_Engagement3,5,Parliamentary visits/events,"Discussion of 'open days, tours, educational activities' and references to 'Parliament Unpacked Program'"
+SLR017,Behavioral_Engagement4,6,Social media engagement with parliament,"References to 'digital communication tools (including websites, social media, and video conference technology)' and 'a young person decides to respond to a social media post shared by a parliamentary committee'"
+SLR017,Behavioral_Engagement5,7,Consumption of parliamentary information,"References to 'watching debates, reading official sites/reports' and 'legislation tracking apps'"
+SLR017,Attitudinal_Engagement1,1,Trust/confidence in parliament,'enhancing the quality and diversity of engagement between the public and Australian parliaments is essential to preserving trust in democratic institutions' and discussion of 'decline in public trust for parliaments'
+SLR017,Attitudinal_Engagement2,3,Perceived legitimacy of parliament,"'Since parliaments derive their legitimacy from the people, public disenchantment threatens their authority' and discussion of 'legitimacy' as a factor in engagement evaluation"
+SLR017,Attitudinal_Engagement3,4,Perceptions of responsiveness,Discussion of 'Responsive: Focus on meeting public expectations by listening to community feedback and continually improving' and references to parliament 'listening to the community'
+SLR017,Attitudinal_Engagement4,5,Perceptions of accessibility/usability,Multiple references to accessibility including 'Inclusive: Make inclusion a priority so that parliament is accessible to all community members' and 'test accessibility having regard to profile of publics/groups'
+SLR017,Conceptual_Definition1,0,Public Engagement,Public engagement is about 'empowering people in relation to their surroundings to make a difference to the decisions and actions that affect their lives' and encompasses 'public communication; public consultation; and public participation'
+SLR017,Conceptual_Definition2,0,Deliberation,"Deliberation is 'a process in which citizens not only participate, but also engage with parliamentarians to lead or significantly shape an activity that contributes to a parliamentary decision' requiring that 'decision-makers have access to accurate and relevant information, consider a diversity of voices and positions, reflect on information received, and reach conclusions based on evidence'"
+SLR017,Conceptual_Definition3,0,Representative Democracy,Article states 'Fostering a strong and meaningful connection between people and their elected representatives is the central work of any functioning democracy'
+SLR017,Research_Design1,97,Not Applicable,"Article is theoretical/framework paper, not empirical study"
+SLR017,Time_Frame,99,Time period analyzed,No specific time period is analyzed; article references historical context dating back decades and discusses current practices without analyzing a defined timeframe
+SLR017,Country,0,Australia; United Kingdom; New Zealand; Scotland; Spain; Brazil; Germany; European Parliament,"Article discusses 'Australian parliaments', 'Westminster-inspired parliaments in Australia, New Zealand ('NZ'), Ireland, and the United Kingdom ('UK')', 'Scottish Parliament', 'European Parliament', and provides examples from 'Brazil', 'Spain', and 'Germany'"
+SLR017,Data_Collection_Techniques1,7,Secondary data extraction,Article synthesizes existing literature and frameworks: 'Drawing upon insights shared during a series of international workshops on public engagement by the International Parliamentary Engagement Network ('IPEN')' and integrates findings from IPU Report and case studies
+SLR017,Data_Source,2,Secondary,"Article draws on 'international workshops', existing case studies, and published reports such as 'the Global Parliamentary Report 2022' rather than conducting primary data collection"
+SLR017,Data_Analysis1,3,"Qualitative (content analysis, discourse analysis, ethnographic methods, interviews, qualitative synthesis)","Article synthesizes qualitative case studies and frameworks: 'While there are some promising case studies of individual experiences with innovative parliamentary public engagement strategies, there is currently a lack of systematic analysis'"
+SLR017,Key_Findings,0,Summary of main findings,"Key findings include: (1) public engagement requires inclusivity, diversity, empowerment, flexibility, meaningfulness, and transparency; (2) deliberative approaches improve policy outcomes and legitimacy; (3) New Zealand's engagement strategy improved parliament reputation (53.9 to 61.2 points) and voting commitment (18% to 32%); (4) evaluation frameworks must assess legislative impact, public impact, and hidden impact; (5) Australian parliaments must reach beyond 'usual suspects' to engage marginalized communities including First Nations peoples"
+SLR017,Notes_Comments,0,Additional comments,"This is a toolkit and framework paper that synthesizes international best practices for evaluating parliamentary public engagement. While theoretical in nature, it incorporates findings from empirical studies conducted by other organizations (NZ Parliament survey, Climate Assembly UK evaluation). The article provides practical guidance rather than reporting original research."
+SLR020,Study_ID,99,Unique alphanumeric identifier assigned to each study,Not reported in article
+SLR020,Author_LastNames,1,Last names of the authors as listed in the publication,Cho
+SLR020,Full_Citation,1,Complete bibliographic citation,"Wonbin Cho. 2012. Accountability or Representation? How Electoral Systems Promote Public Trust in African Legislatures. Governance, Vol. 25, No. 4, pp. 617–637"
+SLR020,Year_Publication,2012,Year when the publication was published (numeric),"Governance: An International Journal of Policy, Administration, and Institutions, Vol. 25, No. 4, October 2012"
+SLR020,Type_Publication,1,Article,"Published in Governance journal, Vol. 25, No. 4, October 2012 (pp. 617–637)"
+SLR020,Language,1,English,Entire article written in English
+SLR020,Type_Publication_Study,1,Empirical,This article mainly draws upon individual-level survey data collected by the Afrobarometer in 16 sub-Saharan Africa countries between March 2005 and March 2006
+SLR020,Type_Parliament,1,National,The dependent variable in this article is the level of confidence that people place in the legislature
+SLR020,Attitudes_MainFocus,1,Yes,It traces confidence in legislative institutions to whether a citizen perceives competitive elections to produce accountability and/or representation
+SLR020,Research_Questions1,1,Research question explicitly stated,"How do ordinary citizens build their confidence in the legislature, particularly in Africa's emerging democracies?"
+SLR020,Research_Questions2,1,Research question explicitly stated,Whether and how multiparty elections work as instruments of democracy in emerging African democracies
+SLR020,Behavioral_Engagement1,0,None,"The study examines perceptions and attitudes toward elections and parliament, not actual citizen behavioral engagement such as petitioning, contacting MPs, or voting participation"
+SLR020,Attitudinal_Engagement1,1,Trust/confidence in parliament,The dependent variable in this article is the level of confidence that people place in the legislature. Respondents were asked: How much do you trust the parliament?
+SLR020,Conceptual_Definition1,1,Definition of institutional trust provided,"At a basic level, public trust in a given institution is an evaluative orientation focused on how well the institution is operating according to some normative expectation"
+SLR020,Conceptual_Definition2,1,Definition of trust elaborated,Citizens put their trust in political institutions based on their evaluations of the performance of those institutions
+SLR020,Research_Design1,2,Comparative (two or more cases),This article mainly draws upon individual-level survey data collected by the Afrobarometer in 16 sub-Saharan Africa countries between March 2005 and March 2006
+SLR020,Time_Frame,1,Time period analyzed: 2005-2006,The data are derived from national probability samples collected between March 2005 and March 2006
+SLR020,Country1,1,Benin; Botswana; Cape Verde; Ghana; Kenya; Lesotho; Madagascar; Malawi; Mali; Mozambique; Namibia; Nigeria; Senegal; South Africa; Uganda; Zambia,"Benin, Botswana, Cape Verde, Ghana, Kenya, Lesotho, Madagascar, Malawi, Mali, Mozambique, Namibia, Nigeria, Senegal, South Africa, Uganda, and Zambia"
+SLR020,Data_Collection_Techniques1,1,Surveys,This article mainly draws upon individual-level survey data collected by the Afrobarometer in 16 sub-Saharan Africa countries
+SLR020,Data_Source,2,Secondary,"The data are derived from national probability samples collected by the Afrobarometer, which the author analyzed"
+SLR020,Data_Analysis1,2,"Quantitative (statistical modelling, regression analysis)","Due to the multilevel structure of data set, I estimate my model using multilevel analysis"
+SLR020,Key_Findings1,1,Main finding on representation priority,"When ordinary Africans build their confidence in the legislature, I found, they focus more on whether elections facilitate the scope of representation of all the factions of society than on whether they can directly reward or punish their representative through regular elections"
+SLR020,Key_Findings2,1,Main finding on electoral systems,PR systems work better for boosting the positive effects of MPs' political representation on public trust in the legislature than majoritarian systems do
+SLR020,Key_Findings3,1,Finding on accountability mechanism,I found no evidence indicating that the effect of popular perceptions about their ability to replace electoral officials on their confidence in the legislature is greater in countries with majoritarian electoral systems than in countries with PR systems

@@ -1,0 +1,228 @@
+[
+   {
+      "study_id":"SLR005",
+      "codes":[
+         {
+            "variable":"Study_ID",
+            "code":99,
+            "label":"Unique alphanumeric identifier assigned to each study",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Coder_Initials",
+            "code":99,
+            "label":"Initials of the coder responsible for data extraction",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Author_LastNames",
+            "code":99,
+            "label":"Last names of the authors as listed in the publication",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Full_Citation",
+            "code":99,
+            "label":"Complete bibliographic citation",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Year_Publication",
+            "code":99,
+            "label":"Year when the publication was published (numeric)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Type_Publication",
+            "code":99,
+            "label":"Type of publication (1=Article; 2=Report; 3=Thesis; 4=Book Chapter; 5=Other)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Language",
+            "code":99,
+            "label":"Language in which the publication is written (1=English; 2=Portuguese; 3=Spanish)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Type_Publication_Study",
+            "code":99,
+            "label":"Type of Study (1=Empirical; 2=Theoretical)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Type_Parliament",
+            "code":99,
+            "label":"Type of parliaments covered in the study (1=National; 2=Sub-national; 3=Both; 98=Unclear)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Attitudes_MainFocus",
+            "code":99,
+            "label":"Does the study focus primarily on attitudes/perceptions/opinions towards parliament? (1=Yes; 2=Partially; 3=No; 98=Unclear)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Research_Questions",
+            "code":99,
+            "label":"Research questions as stated by the authors",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Behavioral_Engagement",
+            "code":99,
+            "label":"Forms of citizen behavior toward parliaments examined in the study (Multiple selection)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Attitudinal_Engagement",
+            "code":99,
+            "label":"Attitudes and evaluations of citizens toward parliaments examined in the study (Multiple selection)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Conceptual_Definition",
+            "code":99,
+            "label":"Definitions of main concepts as framed by authors",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Research_Design",
+            "code":99,
+            "label":"Research design (1=Case-study; 2=Comparative; 3=Experimental/quasi-experimental; 4=Evidence synthesis)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Time_Frame",
+            "code":99,
+            "label":"Time period analyzed",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Country",
+            "code":99,
+            "label":"Country or countries where study was conducted",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Data_Collection_Techniques",
+            "code":99,
+            "label":"Research techniques used to collect data (Multiple selection)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Data_Source",
+            "code":99,
+            "label":"Data Sources (1=Primary; 2=Secondary; 3=Mixed; 99=Not Reported)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Data_Analysis",
+            "code":99,
+            "label":"Data Analysis approach (Multiple selection)",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Key_Findings",
+            "code":99,
+            "label":"Brief summary of main findings relevant to citizens' attitudes or views of parliaments",
+            "evidence":"Not Reported"
+         },
+         {
+            "variable":"Notes_Comments",
+            "code":99,
+            "label":"Additional comments, coding difficulties, or points of clarification",
+            "evidence":"Article text not provided in query; only references section visible"
+         }
+      ]
+   },
+   {
+      "study_id":"SLR007",
+      "codes":[
+         {
+            "variable":"Study_ID",
+            "code":1,
+            "label":"Unique alphanumeric identifier",
+            "evidence":"Tibúrcio_EficáciaPetiçõesEuropa_2017"
+         },
+         {
+            "variable":"Author_LastNames",
+            "code":1,
+            "label":"Last names of authors",
+            "evidence":"Tibúrcio"
+         },
+         {
+            "variable":"Year_Publication",
+            "code":2017,
+            "label":"Year when publication was published",
+            "evidence":"Appears to be doctoral dissertation with 2017 context based on latest references cited through 2016"
+         },
+         {
+            "variable":"Type_Publication",
+            "code":3,
+            "label":"Thesis",
+            "evidence":"Tese de Doutoramento em Ciência Política de Tiago Tibúrcio"
+         },
+         {
+            "variable":"Language",
+            "code":2,
+            "label":"Portuguese",
+            "evidence":"Written entirely in Portuguese language"
+         },
+         {
+            "variable":"Type_Publication_Study",
+            "code":1,
+            "label":"Empirical",
+            "evidence":"inquérito aos peticionários portugueses (inédito na sua abrangência)"
+         },
+         {
+            "variable":"Type_Parliament",
+            "code":3,
+            "label":"Both national and sub-national",
+            "evidence":"análise dos sistemas de petição de vários parlamentos da União Europeia (mais Escócia e Parlamento Europeu)"
+         },
+         {
+            "variable":"Attitudes_MainFocus",
+            "code":1,
+            "label":"Yes",
+            "evidence":"avaliação dos peticionários sobre o sistema de petições"
+         },
+         {
+            "variable":"Behavioral_Engagement",
+            "code":1,
+            "label":"Petitioning",
+            "evidence":"Petições (e-petições), direito de petição perante o Parlamento"
+         },
+         {
+            "variable":"Attitudinal_Engagement",
+            "code":1,
+            "label":"Trust/confidence in parliament",
+            "evidence":"confiança nas instituições políticas, avaliação da experiência de apresentar uma petição"
+         },
+         {
+            "variable":"Research_Design",
+            "code":2,
+            "label":"Comparative",
+            "evidence":"análise do caso português contextualizando-o com o sistema de petições-E da Escócia e Alemanha"
+         },
+         {
+            "variable":"Data_Collection_Techniques",
+            "code":1,
+            "label":"Surveys",
+            "evidence":"inquérito aos peticionários portugueses (inédito na sua abrangência), realizado entre 1999 e 2012"
+         },
+         {
+            "variable":"Data_Source",
+            "code":1,
+            "label":"Primary",
+            "evidence":"inquérito realizado aos peticionários, recolha de dados de todas as petições"
+         },
+         {
+            "variable":"Data_Analysis",
+            "code":4,
+            "label":"Quantitative and qualitative",
+            "evidence":"análise quantitativa baseada no inquérito; análise qualitativa do enquadramento normativo"
+         }
+      ]
+   }
+]

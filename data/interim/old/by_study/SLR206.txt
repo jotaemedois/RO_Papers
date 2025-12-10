@@ -1,0 +1,1785 @@
+Electronic copy available at: http://ssrn.com/abstract=2539667
+
+1
+
+Measuring Political Trust Across Time and Space Sofie Marien
+
+Marien, S. (2011). Measuring Political Trust Across Time and Space. In:
+
+Hooghe M., Zmerli S. (Eds.), Political Trust. Why Context Matters. (pp. 13-46).
+
+Colchester: ECPR Press.
+
+The level of trust citizens have in their political system has been the object of extensive
+
+academic and public debate. The dominant view is that contemporary democracies are
+
+experiencing a large-scale crisis of confidence. In 2008, only 30 per cent of the Americans
+
+trusted their government, while this was more than 60 per cent in the sixties (American
+
+National Election Studies 1958-2008)i. However, a number of studies have provided evidence
+
+that does not support, and which even contradicts this pessimistic proposition (Klingemann
+
+and Fuchs 1995; Van de Walle et al. 2008; Hooghe and Wilkenfeld 2008). In effect, while
+
+there is evidence of a structural trend towards lower political trust since the 1960s in the
+
+United States, there exists no conclusive evidence of a general decline in political trust in
+
+Europe (Lipset and Scheinder 1983; Catterberg and Moreno 2003; Van de Walle et al. 2008).
+
+Besides the distinct cross-national trends, the inconsistent findings are also often due to the
+
+operationalisation of political trust. A range of measurements have been used, including
+
+support for particular policies, evaluations of the politicians in office, trust in political
+
+institutions and trust in the political system.
+
+Citizens’ trust can relate to distinct objects of the political system: its current authorities, the
+
+political institutions, the values and principles or the political community (Easton 1965b;
+
+Dalton 2004). In empirical research, this issue is often not taken into account: trust in one
+
+object is measured and labelled ‘political trust’ or one measure includes trust in several
+
+objects. Nonetheless, distrust in the political system has different implications than distrust in
+
+the politicians in office (Anderson et al. 2005). A critical attitude towards the politicians in
+
+office is generally considered to be a normal and healthy part of a democracy. Citizens can
+
+easily ‘throw the rascals out’ and replace them with politicians they perceive trustworthy by
+
+means of elections (Klingemann and Fuchs 1995, 2-5; Anderson et al. 2005). However,
+
+citizens should be able to put (some) trust in the democratic procedures and institutions. This
+
+kind of trust, which relates to Easton’s concept of diffuse support, acts as a reservoir of
+
+support on which a system can fall back when specific support for a particular policy measure
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+Electronic copy available at: http://ssrn.com/abstract=2539667
+
+2
+
+or prime minister is lacking (Easton 1965b). Moreover, it has been argued that trust in the
+
+democratic procedures and institutions also influences the willingness of citizens to commit
+
+public resources to public policy ends, to accept and comply with political decisions and to
+
+engage in politics (Hetherington 2005; Dalton 2004; Marien and Hooghe 2011).
+
+The nature of trust in political institutions has also been the topic of debate. Institutional trust
+
+has been conceptualised and studied as both a one-dimensional and a multidimensional
+
+attitude. On the one hand it has been argued that citizens use different criteria to evaluate the
+
+trustworthiness of different institutions (Fisher et al. 2010; Hibbing and Theiss-Morse 1995).
+
+As citizens develop distinct trust judgements, one should not simply add these different trust
+
+judgments into one measurement scale. On the other hand institutions do not operate in a
+
+vacuum but they are all part of a political system with a particular prevailing political culture
+
+(Almond and Verba 1963). As a result, we could expect that citizens develop one
+
+comprehensive attitude ‘trust in political institutions’ which is shaped by the political culture
+
+of their country.
+
+Our understanding of political trust is shaped to a large extent by research conducted on the
+
+United States. Comparative research has confirmed, but also modified these research results
+
+(Bélanger and Nadeau 2005). Cross-national research has enabled researchers to investigate
+
+the generalisability of trends and theories. However, this kind of research entails
+
+methodological problems we do not encounter in single country studies. In particular, cultural
+
+differences in the interpretations of questions or words can emerge. Trust in the political
+
+system in an authoritarian country is likely to have a different meaning than trust in a
+
+democratic political system. But even among democracies, every country has its own
+
+language, culture and political system. While this can invalidate research results - apples are
+
+compared to oranges - most scholars ignore these problems.
+
+In this chapter, I will address several problems related to the measurement of political trust.
+
+The chapter begins with a description of frequently used measurements of political trust and
+
+the problems with these. In the second section, the nature of institutional trust is investigated.
+
+Do citizens have one comprehensive attitude towards all political institutions or is
+
+institutional trust multidimensional? Subsequently, the issue of cross-cultural equivalence is
+
+addressed, i.e. I test whether trust in political institutions can be measured in a similar way
+
+across different countries. Subsequently, an overview of levels of trust in different political
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+3
+
+institutions is provided. Finally, recent trends in trust in political institutions and trust in the
+
+current government are presented.
+
+Measuring political trust
+
+A frequently used data source to analyse political trust is the American National Elections
+
+Studies. This study has questioned respondents’ political trust from the 1960s to the present
+
+day. The questions are paraphrased here: do you think you can trust the government in
+
+Washington to do what is right; does the government waste a lot of money; is the government
+
+run by a few big interests looking out for themselves; are most politicians crooked; do
+
+politicians know what they are doing? However, the validity of these questions was already
+
+being criticised in 1974. Particularly noteworthy is the discussion between Arthur Miller and
+
+Jack Citrin in the American Political Sciences Review of 1974. Using ANES data, Arthur
+
+Miller argued that trust in the political system decreased sharply during the past years, Citrin
+
+refuted this conclusion arguing that Miller was measuring trust in the current incumbents
+
+rather than trust in the political system (Citrin 1974; Miller 1974). At present, there is still
+
+substantial debate on the trends in political trust, its causes and consequences due to
+
+disagreement about the measurement of political trust. Pippa Norris (1999), for example,
+
+states that the extensive literature on decreasing political trust is based on an erroneous
+
+interpretation of the data at hand.
+
+Besides these five ANES questions, scholars have also attempted to measure citizens’
+
+political trust by asking respondents how satisfied they are ‘with the way democracy is
+
+working in [their country]’. Political trust is often measured using this wording of the
+
+question, especially in European empirical studies (e.g. in the Eurobarometer surveys, the
+
+European Value Studies and the European Social Survey). However, this measurement also
+
+conflates trust in the current authorities and trust in the principles of a political system. It is
+
+not clear whether this survey question taps a more generalised political trust judgment, a more
+
+specific judgment of the trustworthiness of the politicians in office or a respondent’s state of
+
+mind at the moment. Still other empirical work studies political trust by focusing on citizens’
+
+trust in different political institutions. Citizens are asked how much they trust their country’s
+
+parliament, government, political parties, the legal system, the police and so forth. Although
+
+this question is designed to tap into a more generalised form of political trust, this
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+4
+
+measurement also cannot rule out what respondents think about the people running these
+
+institutions when answering this question.
+
+However, we can question whether it is possible at all to fully disentangle trust in the current
+
+authorities and trust in the political system and its institutions using survey questions. Some
+
+scholars state that a ‘referent’ is needed to obtain a valid measurement (Aberbach 1969). It is
+
+argued that citizens cannot assess the trustworthiness of political institutions without thinking
+
+about its current incumbents. Moreover, both forms of trust are clearly related. Citizens that
+
+have no trust at all in the political system will also distrust the current incumbents, and strong
+
+distrust in the politicians in office can spill over to trust evaluations of the institutions and the
+
+political system. This last measurement focuses on one part of the broader concept of political
+
+trust, i.e. trust in the political institutions. It does not assess trust in the political system as a
+
+whole. Nor does it assess trust in the democratic principles or values, nor in particular
+
+political leaders. The advantage of studying trust in one specific part of the political system is
+
+that it is clear what is being measured. The drawback is that only one part of the broader
+
+concept of political trust is measured. However, as political institutions play an important role
+
+in shaping a democratic society, we can assume that citizens’ trust in these institutions is
+
+strongly related to citizens’ evaluation of how they perceive a political system is performing.
+
+Therefore, trust in political institutions is the focus of this chapter. Apart from these
+
+theoretical reasons, data on trust in political institutions in more than 30 European countries is
+
+available in the ESS datasets. In this chapter, I will not study citizens’ trust in the principles or
+
+values of a democracy. The latter is (and remains) at a very high level within democracies.
+
+Democracy is considered among the overall majority of its citizens as the best system to
+
+govern a society (Klingemann 1999, 45). Whether these democratic principles and values are
+
+upheld in a democracy is an interesting question, but beyond the scope of this study. Trust in
+
+individual politicians, such as the current ministers or party leaders, is also interesting to
+
+investigate, but will not be my main focus, as distrust in the current authorities is generally
+
+considered to be a normal practice in a democracy. Nevertheless, some figures on satisfaction
+
+with the current government in several European countries will be presented at the end of the
+
+chapter.
+
+The results of the European Social Survey datasets 2002-2009 will be presented (Jowell et al.
+
+2003, 2005, 2007, 2009). These datasets provide extensive and up-to-date information on trust
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+5
+
+in political institutions and, to date, four waves of high-quality survey data are already
+
+available. The data were collected biannually between 2002 and 2009 by means of uniform
+
+face-to-face interviews among representative samples of the population of more than 30
+
+European countries. Particular attention has been paid to the operationalisation of political
+
+trust, and a measurement report by the ESS researchers on the quality of the ‘trust in political
+
+institutions’ already reveals that the question has a high level of validity and reliabilityii. The
+
+question on trust in political institutions used in ESS is phrased as follows:
+
+‘Using this card, please tell me on a score of 0-10 how much you personally trust each of the
+
+institutions I read out. 0 means you do not trust an institution at all, and 10 means you have
+
+complete trust’
+
+- Country’s Parliament
+
+- The legal system
+
+- The police
+
+- Political parties (from second ESS wave onwards)
+
+- Politicians
+
+Trust in political institutions: one theoretical concept?
+
+Institutional trust can be defined as the expectation that political institutions operate according
+
+to fair rules even in the absence of constant scrutiny. Trust in political institutions has been
+
+studied as a one-dimensional as well as a multidimensional concept. On the one hand, it has
+
+been argued that citizens use different criteria to evaluate the trustworthiness of different
+
+institutions (Fisher et al. 2010). As citizens develop distinct trust judgements, one should not
+
+simply add these different trust judgments into one scale of measurement. On the other hand,
+
+institutions do not operate in a vacuum; they are all part of a political system with a particular
+
+political culture (Almond & Verba 1963). As a result, we can expect that citizens’ judgements
+
+of the performance of various political institutions are strongly related to each other (Hooghe
+
+forthcoming). Consequently, citizens are likely to develop one comprehensive attitude of
+
+‘trust in political institutions’, which is shaped by the political culture of their country. This
+
+general attitude influences their judgment of the trustworthiness of various institutions. By
+
+means of factor analysis, it is tested whether one underlying construct of ‘institutional trust’
+
+exists which explains a set of trust judgments. This underlying construct cannot be observed
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+6
+
+directly - as with all latent variables - but its existence is inferred from the way it influences
+
+variables that can be observed (Brown 2006).
+
+Confirmatory factor analysis (CFA) explores the variation and co-variation among the trust
+
+judgements of the different political institutions and identifies the number and nature of latent
+
+variable(s) that account for this variation (Brown 2006). I hypothesise that citizens’ trust in
+
+political institutions is shaped by their general orientation towards the political system.
+
+Consequently, a one-factor measurement model is tested, whereby the observed measures of
+
+trust in the country’s parliament, trust in the political parties, trust in the legal system, trust in
+
+the police and trust in politicians are conjectured to load on one latent factor, i.e. ‘trust in
+
+political institutions’. The measurement model was estimated using the maximum likelihood
+
+method. Not all institutions were questioned in the first wave of ESS (2002-2003), therefore,
+
+the analyses were only performed on wave 2 (2004-2005), wave 3 (2006-2007) and wave 4
+
+(2008-2009)iii. Given that the results are very similar, only the results of the last wave are
+
+discussed in this section. The results of the other waves can be found in the appendix to this
+
+chapter.
+
+After specifying the measurement model, the model is estimated and evaluated. To evaluate
+
+the fitted CFA solution, one has to study the overall goodness of fit, analyse specific points of
+
+ill-fit and look into the direction, magnitude and significance of the parameters. Several tests
+
+have been developed to evaluate whether the model provides a good description of the data.
+
+The indices of fit that I will use are the χ2, RMSEA and CFI. I will report the χ2 of the model
+
+as this is a classic goodness-of-fit measure. However, given the large sample that is used in
+
+the analyses, χ2 is a poor measure as it generally rejects solutions based on a large n (Brown
+
+2006; Reeskens & Hooghe 2008, 523). A better measure, and which is widely used, is the
+
+Root Square Mean approximation (RMSEA) as ‘it assesses the extent to which a model fits
+
+reasonably well in the population (as opposed to testing whether the model holds exactly in
+
+the population; cf. χ2)’ (Brown 2006, 83). A reasonably good fit is operationalised as a
+
+RMSEA close to 0.06 or below (Hu & Bentler 1999). Finally, the Comparative Fit Index
+
+(CFI) will be used to evaluate the fitted CFA solution. The CFI ranges between 0 and 1. A
+
+reasonably good fit is operationalised by values that are close to 0.95 or greater. These cut-off
+
+criteria are reported by Brown (2006) based on several simulation studies of Hu and Bentler
+
+(1999).
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+7
+
+The results of the Confirmatory Factor Analysis are visualised in Figure 1. The goodness-of fit measures indicate that the estimated model provides a good approximation to reality.
+
+Institutional trust can be conceptualised as a one-dimensional attitude. The factor loadings
+
+reproduce the relation between institutional trust and the different trust judgments. A factor
+
+loading of ‘1’ indicates a perfect relationship, while a value of ‘0’ depicts that there is no
+
+relationship between the observed measure and the latent concept. Besides the variance
+
+accounted for by the latent concept, every measure also has its unique variance, which is
+
+labelled as the error variance. In table 1 additional estimates of the parameters of the
+
+confirmatory factor analysis are reported. The test statistic tests whether there is a relationship
+
+between latent concept and observed measure, i.e. whether the factor loading is significantly
+
+different from ‘0’. The last column of table 1 includes estimates of the explained variance of
+
+the observed measure, which can be considered as an indicator for its reliability. For instance,
+
+80 per cent of the variance in trust in parliament can be accounted for by respondents’
+
+institutional trust. The remaining 20 per cent cannot be explained by institutional trust, but is
+
+‘unique variance’.
+
+We can conclude that all items contribute significantly to the measurement of this latent
+
+concept. In effect, every factor loading is clearly above 0.30, i.e. the value that is commonly
+
+used to define a ‘salient’ factor loading (Brown 2006, 130). The contribution of trust in the
+
+police to the measurement of institutional trust is slightly smaller. In general, the factor
+
+loadings of the observed measures of trust in implementing institutions are lower than the
+
+factor loadings of trust in the institutions on the representational side of the political system.
+
+In summary, the measurement model indicates that all observed measures are intercorrelated
+
+because they are influenced by the same underlying construct, i.e. ‘trust in political
+
+institutions’. For instance, trust in police is related to trust in parliament because they are both
+
+influenced by respondents’ general attitude of ‘trust in political institutions’.
+
+However, there is some covariance between the two implementing institutions, the police and
+
+the legal system, due to sources other than this general attitude of ‘trust in political
+
+institutions’. Therefore, the errors of these two measures are allowed to correlate. The police
+
+and the legal system are primarily responsible for the maintenance of order, and we can
+
+assume, in line with Inglehart’s postmodernisation theory (1999), that citizens have a different
+
+opinion towards these order institutions than towards representational institutions. Likewise,
+
+citizens hold different expectations towards implementing and representational institutions.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+8
+
+While political parties, the parliament and politicians are expected to be partisan,
+
+implementing institutions are expected to be impartial (Rothstein & Stolle 2008). However,
+
+we should note that this is not always the case; for instance, the legal system is more
+
+politicised in the United States - e.g. judges are politically appointed and their party
+
+preference is often well known. Given these theoretical arguments and the covariance
+
+between these two measures, it can be useful, depending on the research question, to make a
+
+distinction between implementing institutions and institutions on the representational side of
+
+the political system.
+
+Furthermore, a preliminary analysis showed that trust in politicians and trust in political
+
+parties also share variance that cannot be explained by the latent concept. Allowing an error
+
+correlation between these two items increases the fit of the model. At first sight, this
+
+correlation is less clear than the error correlation between trust in the legal system and trust in
+
+the police. We can speculate that this shared variance could be because respondents perceive
+
+political parties, and especially politicians, as less of an ‘institution’ than parliament, the legal
+
+system or the police. The assessment of trust in politicians and political parties might be
+
+influenced more strongly by the performance of the current incumbents than respondents’
+
+trust in parliament, the legal system or the police. In addition, politicians are routinely
+
+members of a political party. The mean value of, and the variance in, trust in political parties
+
+and trust in politicians are indeed very similar, which could indicate that citizens do not make
+
+a distinction between political parties and politicians.
+
+A one-factor measurement model was also fitted to the survey data from ESS (2006-2007)
+
+and ESS (2004-2005). Similar results emerged from these analyses (see appendix). We can
+
+conclude that institutional trust can be conceptualised as a one-dimensional attitude. Citizens
+
+have one generalised attitude which influences their trust evaluations of specific political
+
+institutions.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+9
+
+Figure 1. Solution Confirmatory Factor Analysis
+
+Source: ESS 2008. 22 countries. Notes: standardised factor loadings resulting from a confirmatory factor analysis on the full sample. Fit indices: χ2 = 137.747; df = 3; p value = 0.000; RMSEA = 0.034; CFI = 0.999. n = 39,764. Table 1. Solution confirmatory factor analysis
+
+Observed measures Factor loading SE z test Standardised factor loading
+
+Standardised Error variance R2
+
+Trust in parliament 1.000 0.000 - 0.895 0.198 0.801 Trust in politicians 0.865 0.005 186.05 *** 0.842 0.292 0.709 Trust in political parties 0.815 0.005 174.26 *** 0.803 0.355 0.645 Trust in the legal system 0.850 0.005 163.71 *** 0.735 0.459 0.540 Trust in police 0.689 0.005 127.65 *** 0.615 0.622 0.378 Error variances Legal system - police
+
+1.568
+
+0.024
+
+66.48 ***
+
+0.428
+
+Politicians - parties 1.128 0.018 63.34 *** 0.634 Source: ESS 2008. 22 countries. n = 39,764. Note: variance latent variable ‘institutional trust’ = 5.301 (SE = 0.050). The marker observed variable is ‘trust in parliament’, which was fixed at 1.000. The last column includes estimates of the reliability of the observed measures (R2). Composite reliability index of scale = 0.89. Variance in observed measures explained by latent concept = 0.61. Trust in political institutions in a cross-national setting
+
+So far the country-level context was not taken into account in the analysis. However, cross national comparisons entail methodological challenges which should be addressed. In
+
+particular, cultural differences in the interpretations of questions or words can emerge. The
+
+European Social Survey pays particular attention to ensure an optimal comparability with
+
+regard to the operationalisation and cross-cultural validity of concepts in the participating
+
+countries. Nonetheless, even if all questions are translated adequately and the same method of
+
+data gathering is used, it is still possible that respondents with a different cultural background
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+10
+
+will react differently to the same measures. Using Multigroup Confirmatory Factor Analysis
+
+(MGCFA), it is investigated whether the general model that was developed holds true in all
+
+countries under study. In more technical terms, I test for the ‘cross-cultural equivalence’ of
+
+the ‘institutional trust’ scale. In particular, I test whether the same factor structure emerges in
+
+all countries iv.
+
+A Multigroup Confirmatory Factor Analysis on ESS (2008-2009) reveals a similar factor
+
+structure across the 22 countries. The fit indices indicate that the CFA solution has a
+
+reasonably good fit. In all countries, the five measures contribute significantly to the
+
+measurement of trust in political institutions. Trust in the police has the weakest contribution
+
+to the measurement of institutional trust in all countries, but the factor loading is still largely
+
+above the minimum requirement of 0.30v. In summary, the same pattern of factor loadings is
+
+found across the different countries. It is thereby possible to discuss institutional trust
+
+meaningfully in all countries. This kind of equivalence is labelled ‘configural equivalence’.
+
+Nevertheless, the magnitude of the factor loadings can differ across the different countries,
+
+which can make cross-country comparisons problematic. In a next step, it is tested whether
+
+the factor loadings are the same across the countries. Put another way, is the relationship
+
+between the five measures and the latent concept the same in all countries? Only if this is the
+
+case, can one unit increase in the ‘trust in political institutions’ scale in country X be
+
+compared to one unit increase in the ‘trust in political institutions’ scale in country Y. In order
+
+to test this, the factor loadings are constrained to be equal across the different countries. This
+
+test is called ‘metric equivalence’ and is a stricter test of cross-cultural equivalence (Brown
+
+2006).
+
+The factor loading of some observed measures deviates from the general pattern in a number
+
+of countries. For instance, in Bulgaria, trust in the police has a stronger connection to
+
+institutional trust than in other countries. Put another way, the factor loadings do not
+
+reproduce the relationship between observed measure and latent concept well in all countries.
+
+The imposed constraints on the measurement model worsen the fit of the model to the data
+
+(Table 2). In practice, full metric equivalence is often considered to be unrealistic (Byrne et
+
+al. 1989). Therefore, partial metric equality has been proposed as an alternative, which entails
+
+that at least two items of the construct possess measurement equivalence characteristics
+
+(Byrne et al. 1989). Some imposed constraints can be removed in order to improve the
+
+measurement model. One has to look at the nature of the constraint, the Modification Index
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+11
+
+(MI) and the Expected Parameter Change (EPC) in order to decide whether to relax a
+
+constraint. This is an iterative process. The constraint with the highest Modification Index and
+
+a substantial Expected Parameter Change is removed. Subsequently, the model fit is re evaluated. This procedure is repeated until an additional modification does not make a
+
+substantial difference.
+
+Table 2 shows the modifications that have been implemented in order to arrive at a better
+
+model. First, we removed the constraint on the factor loading of trust in the police in Bulgaria.
+
+This factor loading was constrained to equal 0.619; however, the connection between
+
+institutional trust and trust in the police is stronger in Bulgaria (Factor loading POLICEBG =
+
+0.851). A one-unit increase in institutional trust in Bulgaria is associated with an increase in
+
+trust in the police of 0.851 units. By removing the equality constraint for trust in the police in
+
+Bulgaria, i.e. the factor loading can now be freely estimated, the model fit improves
+
+substantially: the χ2 drops with more than 100 points, the RMSEA decreases from 0.068 to
+
+0.065 and the CFI increases from 0.98 to 0.99. The equality constraints on the factor loadings
+
+of trust in the police and trust in the legal system in Finland are also removed. The connection
+
+between institutional trust and trust in the police and the legal system is weaker in Finland
+
+than in other countries (see the negative signs of the EPC estimates). In effect, a one-unit
+
+increase in institutional trust in Finland is associated with an increase in trust in the police of
+
+0.462 units. Most of the modifications concern trust in the implementing institutions. In
+
+general, we observe that the connection between institutional trust and trust in the police and
+
+the legal system is stronger in the newer democracies than it is in established democracies.
+
+Overall, the connection between institutional trust and trust in parliament is rather strong. In
+
+Spain and Slovakia, however, the connection between institutional trust and trust in
+
+parliament is weaker than in other countries. Removing some of the equality constraints, the
+
+model demonstrates a good fit of the data (CFI = 0.993; RMSEA = 0.058). The final model is
+
+shown in Figure 2.
+
+Table 2. Testing for cross-cultural equivalence in trust in political institutions
+
+Model specifications χ2 df RMSEA CFI EPC MI Configural equivalence 397.742 66 0.053 0.997 Metric equivalence 1412.841 150 0.068 0.989 Free BG police 1292.412 149 0.065 0.990 0.185 113.535 Free FI police 1217.963 148 0.063 0.991 -0.150 76.453 Free FI legal system 1154.527 147 0.062 0.992 -0.153 65.558 Free SK police 1113.000 146 0.061 0.992 0.123 39.723 Free SK parliament 1080.068 145 0.060 0.992 -0.131 34.414
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+12
+
+Free ES parliament 1044.826 144 0.059 0.992 -0.149 36.493 Free HU police 1019.571 143 0.058 0.993 0.108 24.152 Source: ESS 2008. 22 countries. n = 39,764. Notes: entries are the results of confirmatory factor analyses. Three goodness-of-fit indices are presented (χ2 with degrees of freedom, RMSEA and CFI). The last two columns include the modification indices: the standardised Expected Parameter Change and the Modification Index. Figure 2. Solution Confirmatory Factor Analysis with Imposed Constraints
+
+Source: ESS 2008. 22 countries Notes: Unstandardised factor loadings resulting from a confirmatory factor analysis in which the factor loadings are constrained to be equal across the countries (testing metric equivalence). Some constraints were removed (see table 2). Fit indices: χ2 = 1019.571; df = 143. RMSEA = 0.058; CFI = 0.993; n = 39,764. The same analyses were performed on ESS 2006-2007 and ESS 2004-2005 (see Appendix).
+
+These analyses show that there is indeed a similar configuration of factor loadings across the
+
+different countries. In all countries, trust in the police has the lowest factor loading and thus
+
+the weakest relationship to institutional trust. As regards the tests for metric equivalence,
+
+some of the equality constraints also needed to be removed from ESS 2006-2007 and ESS
+
+2004-2005 to obtain a better measurement model. We can observe a pattern in the applied
+
+modifications; the factor loadings of trust in implementing institutions are lower in the Nordic
+
+countries than in the other countries. In the newer democracies (Bulgaria, Hungary, Slovakia),
+
+the factor loadings of trust in implementing institutions are higher than in the other countries.
+
+The measurement models based on ESS 2006-2007 and ESS 2004-2005 have a slightly better
+
+fit than the model based on ESS 2008-2009 presented here.
+
+From the analyses we can conclude that the ‘institutional trust’ scale is configural equivalent:
+
+a similar pattern of factor loadings emerged. Therefore, institutional trust can be meaningfully
+
+discussed in the different countries. The factor loadings are not entirely the same in all
+
+countries. In general, institutional trust has a stronger connection to trust in implementing
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+13
+
+institutions in new democracies than in more established democracies. It seems that citizens’
+
+expectations towards representing and implementing institutions differ more in established
+
+democracies. As stated already, implementing institutions are expected to be impartial, while
+
+representing institutions are expected to be partisan. It might be that citizens in newer
+
+democracies do not perceive implementing institutions as impartial but rather as political, and
+
+even as corrupt, as their representing institutions. This could offer an explanation for the
+
+stronger connection between the different trust judgements in new democracies. Therefore,
+
+some of the equality constraints had to be removed. After these modifications, the constrained
+
+model provides a good fit of the datavi.
+
+Trends in political trust From the previous analyses, we can conclude that trust in political institutions can be analysed
+
+as a one-dimensional latent concept across different countries. A second part provides an
+
+overview of recent (trends in) political trust figures in Europe. First, citizens’ trust in a
+
+number of political institutions is described. Subsequently, recent trends in institutional trust
+
+and government support in Europe are outlined.
+
+Table 3 includes citizens’ trust evaluations of a number of institutions between 2002 and
+
+2009vii. The same patterns emerge in all waves of the European Social Survey: respondents’
+
+trust in implementing institutions is significantly higher than in representational institutions.
+
+Moreover, the difference proves to be significant in all countries under study viii. Political
+
+parties and politicians in particular receive low trust scores. Between 2002 and 2009, 10 to 15
+
+per cent of the respondents indicated that they do not trust politicians and political parties at
+
+all (a value of ‘0’ on an 11-point scale). Conversely, less than 8 per cent answered that they
+
+had no trust at all in the legal system, and less than 5 per cent indicated that they had no trust
+
+at all in the police. Table 3 also includes information on citizens’ trust in two international
+
+institutions - the European Parliament and the United Nations. Trust in international
+
+institutions was not taken into account in the previous analysis, given that not all countries are
+
+a member of the European Union, which makes it difficult to compare the countries on this
+
+trust measure. Moreover, scholars are generally interested in determinants and consequences
+
+of trust in national political institutions.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+14
+
+International institutions enjoy more trust than most national institutions. Citizens have more
+
+trust in the European Parliament than in their national political parties or politicians.
+
+Moreover, respondents in half of the countries have more trust in the European Parliament
+
+than in their national parliament. Trust in the United Nations is also remarkably high.
+
+Particularly in new democracies, international institutions receive higher trust values than the
+
+national institutions. We can assume that most citizens do not have any direct contact with
+
+these international institutions and do not know much about them. In effect, fewer
+
+respondents are able to evaluate the trustworthiness of international than national institutions.
+
+In every wave of the European Social Survey, between 10 and 15 per cent of the respondents
+
+indicated that they do not know whether to trust or distrust the European Parliament or the
+
+United Nations. On the other hand, less than 4 per cent of the respondents do not know
+
+whether to trust or distrust their national institutions. Almost all respondents - 98 per cent have an opinion on the trustworthiness of the police, which is the institution with which
+
+respondents were most likely to have come into contact. The number of missing values is
+
+even larger in new democracies.
+
+Self-evidently, it is important to distinguish countries that are not a member of the European
+
+Union. In effect, a larger number of respondents in Switzerland and Norway are not able to
+
+form an opinion on the trustworthiness of the European Parliament. Thirteen per cent of the
+
+Norwegian respondents do not have an opinion on the trustworthiness of the European
+
+Parliament, while this is less than one per cent for the Norwegian Parliament. However, also
+
+in EU-member countries the number of respondents that is unable to judge the trustworthiness
+
+of the European Parliament is substantial (especially compared to their own national
+
+parliament). In 2008, almost a fifth of the Spanish and Portuguese respondents indicated that
+
+they do not know whether to trust the European Parliament or not.
+
+Table 3. Trust in political institutions in Europe
+
+2002 2004 2006 2008 Mean N Mean n Mean n Mean n Police 6.21 (2.46) 39,438 5.99 (2.51) 43,028 6.05 (2.49) 37,062 5.81 (2.58) 40,488 Legal system 5.42 (2.56) 38,793 5.15 (2.57) 42,401 5.24 (2.56) 36,495 4.98 (2.66) 39,868 Parliament (nat) 4.94 (2.41) 38,380 4.54 (2.45) 42,300 4.63 (2.48) 36,335 4.29 (2.58) 39,804 Politicians 3.95 (2.29) 39,045 3.66 (2.33) 42,614 3.67 (2.34) 36,734 3.44 (2.37) 40,205 Political parties - - 3.67 (2.30) 42,284 3.70 (2.31) 36,526 3.46 (2.35) 39,975 European Parl. 4.76 (2.36) 34,689 4.60 (2.39) 37,974 4.66 (2.37) 33,253 4.60 (2.39) 36,868 United Nations 5.46 (2.49) 35,855 5.33 (2.50) 39,091 5.43 (2.43) 33,814 5.31 (2.46) 36,808 Representing 4.45 p < 0.000 3.97 p < 0.000 4.02 p < 0.000 3.75 p < 0.000 Implementing 5.81 5.56 5.64 5.38
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+15
+
+Significance test
+
+t test: 134.424 df: 37,562
+
+t test: 170.899 df: 40,811
+
+t test: 157.723 df: 35,262
+
+t test: 171.403 df: 38,682 Source: ESS 2002, 2004, 2006, 2008. Notes: The means on the ‘institutional trust’ scale are presented. The scale ranges from 0 to 10. Standard deviations are between parentheses.
+
+These figures conceal substantial differences in trust levels between the different countries. In
+
+the subsequent paragraphs, recent trends in political trust in Europe will be described per
+
+country. While political trust has strongly declined in the United States since the 1980s
+
+(Lipset & Schneinder 1983; Hetherington 2005), such a declining trend was not found in
+
+Europe (Klingeman & Fuchs 1995). Recent trends in institutional trust and satisfaction with
+
+the current government in Europe are described using the four available waves of the
+
+European Social Survey. Only the 23 countries which participated more than twice in the
+
+survey will be analysed ix. Unfortunately, trust in political parties was not questioned in the
+
+first wave of the survey, therefore this measure was not included in the ‘trust in political
+
+institutions’ scale. The latter includes trust in the country’s national parliament, the legal
+
+system, the police and politicians. The four items were added into one scale, and for reasons
+
+of clarity, this scale was recoded to range between 0 and 10.
+
+Trust levels are represented by region in order to gain a clear overview of the trends. Looking
+
+at the established democracies, the most striking observation is the stability in levels of
+
+institutional trust (Figures 3-5). The general pattern is quite common in research on political
+
+culture, with the highest values documented in Northern Europe, while the countries in
+
+Southern and Eastern Europe tend to have lower levels of trust. In Figure 3, institutional trust
+
+in the Nordic countries is shown. In general, the changes in institutional trust are small in
+
+these countries: on average, a change of 0.13 on an 11-point scale. The most substantial
+
+changes in institutional trust are documented in Norway and Sweden. In Sweden, institutional
+
+trust decreased from 5.88 to 5.45 between 2002 and 2004. In the following years, however,
+
+trust increased again to its 2002 levels. While institutional trust was found to be in decline in
+
+Sweden during the 1980s and 1990s (Holmberg 1999), no such general declining trend can be
+
+observed in the 2000s. Institutional trust in Norway decreased between 2002 and 2004, to
+
+increase again to its 2002 level in 2006. In Finland, there is a small significant increase in
+
+institutional trust from 6.3 to 6.4 between 2002 and 2004. In Denmark, none of the changes in
+
+institutional trust between 2002 and 2009 are significant. In summary, the changes in
+
+institutional trust are modest in the Nordic countries and might even be due to sample
+
+differences.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+16
+
+Figure 3. Trends in trust in political institutions in the Nordic countries
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means on the ‘institutional trust’-scale are presented. The scale ranges from 0 to 10.
+
+Levels of institutional trust are less stable in Southern Europe (Figure 4). On average, the
+
+changes in institutional trust amount to 0.4 on an 11-point scale. In Greece, in particular,
+
+institutional trust decreased significantly from 5.2 in 2002 to 3.9 in 2008. In Portugal too,
+
+trust in institutions decreased from 4.2 in 2002 to 3.8 in 2008. Spain, the third Southern
+
+European country that was questioned multiple times, can be also found at the bottom of the
+
+graph. In Spain, trust in political institutions amounted to 4.5 in 2002 and increased slightly in
+
+recent years to 4.9 in 2004 and 4.7 in 2008.
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+Denmark Finland Norway Sweden
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+17
+
+Figure 4. Trends in trust in political institutions in Southern Europe
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means on the ‘institutional trust’ scale are presented. The scale ranges from 0 to 10.
+
+Next to Sweden, political trust levels were also found to be in decline in the Netherlands.
+
+Several scholars reported a strong decline in institutional trust in the Netherlands at the
+
+beginning of the 21st century (Bovens & Wille 2008; Hendriks 2009). Figure 5 also reveals
+
+that this decline did not persist as institutional trust increased significantly in the Netherlands
+
+during the 2000s (from 5.3 in 2002 to 5.8 in 2009). In several countries, after an increase or
+
+decrease in trust, trust levels are restored to the original level in the following years. In effect,
+
+it is argued that public opinion has become more volatile as a result of different trends such as
+
+party dealignment, better informed citizens and a more sensation-seeking media (Bovens &
+
+Wille 2009). However, the variations in levels of institutional trust in established democracies
+
+are small (e.g. an average change of 0.1 on an 11-point scale for the countries in Figure 5).
+
+Trust levels remain relatively high in the Nordic countries, while trust levels in Southern
+
+Europe remain at a lower level. In general, the levels of trust in political institutions are also
+
+more volatile in the newer democracies in Southern Europe than in the longer established
+
+Northern European democracies.
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+Spain Greece Portugal
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+18
+
+Figure 5. Trends in trust in political institutions in other established democracies
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means on the ‘institutional trust’ scale are presented. The scale ranges from 0 to 10.
+
+A clearly different pattern emerges in the newer democracies in Eastern Europe (Figure 6).
+
+Firstly, trust levels are still substantially lower than in the established democracies. Estonia is
+
+characterised by the highest trust levels among the newer democracies, with an average score
+
+of 4.5/10 - which is still substantially below the average trust values in Western Europe. The
+
+lowest trust level is found in Ukraine, with an average value of 1.8 in 2008. Put another way,
+
+26.5 per cent of the Ukrainian respondents indicated that they had no trust at all in any of the
+
+four institutions (parliament, legal system, the police or politicians) x. Secondly, trust levels in
+
+new democracies are clearly more volatile than in more established democracies. We can
+
+observe significant decreases in trust levels in Hungary and Ukraine. In only six years, trust in
+
+political institutions declined almost two points on the 11-point trust scale in both countries
+
+(i.e. from 4.7 to 3.1 in Hungary and from 3.9 to 1.8 in Ukraine). On the other hand, trust
+
+levels increased in Slovenia and Slovakia (especially between 2004 and 2006). In Poland and
+
+the Czech Republic, we see that trust levels restored to the original levels after a significant
+
+drop in trust between 2002 and 2004.
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+France United Kingdom Ireland
+
+Luxembourg Netherlands Austria
+
+Belgium Switzerland Germany
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+19
+
+Figure 6. Trends in trust in political institutions in new democracies
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means of the institutional trust scale are presented. The scale ranges from 0 to 10.
+
+We can conclude that citizens’ trust in political institutions in Europe has been stable over the
+
+past years. Institutional trust even increased in countries in which a general downward trend
+
+was documented during the 1990s or early 2000s. The analysis of trends in institutional trust
+
+in 23 European countries reveals that after a decrease or increase in trust, trust levels restore
+
+to their original levels in the following years. In newer democracies, institutional trust proved
+
+to be more volatile than in more established democracies. In Hungary and Ukraine in
+
+particular, substantial drops in institutional trust were documented during the 2000s.
+
+Institutional trust also decreased sharply in Greece during the period. However, in line with
+
+the trends in institutional trust that were reported in Sweden and the Netherlands, we can
+
+expect that institutional trust will increase again in these countries in the following years.
+
+These findings confirm Klingemann and Fuchs’s (1995) conclusion that there is no general
+
+declining trend in political trust in Europe. However, it also implies that levels of political
+
+trust in newer democracies remain rather low, and there are very few indications that levels of
+
+trust in these countries will rise substantially in the years ahead.
+
+Satisfaction with the current government
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+Czech Republic Estonia Hungary Poland
+
+Ukraine Slovenia Slovakia
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+20
+
+In the next paragraphs, we will look into the trends in a more specific kind of political trust:
+
+satisfaction with the current government. Respondents were asked ‘Now thinking about the
+
+[country] government, how satisfied are you with the way it is doing its job?’ A value of 0
+
+indicated that they were extremely dissatisfied, while a value of 10 indicated that they were
+
+extremely satisfied. In 2008-2009, the average level of satisfaction with government
+
+amounted to 4.42/10 in established democracies and 3.19/10 in newer democracies (F =
+
+2,316.922; p < 0.000). The cross-national patterns in this specific trust judgement are similar
+
+to the ones we observed in the more generalised institutional trust. But as we could expect
+
+from Easton’s theory (1965), satisfaction with the current government is more volatile than
+
+trust in political institutions. In terms of government satisfaction, the Nordic countries are also
+
+at the top of the list, together with Switzerland and Luxembourg (Figures 7-9). While
+
+satisfaction with government fluctuates more than institutional trust in Scandinavia, the
+
+fluctuations are rather modest, especially in comparison to the evolution of satisfaction with
+
+government in Southern and Eastern European countries (Figure 8 and Figure 10).
+
+Figure 7. Trends in satisfaction with government in the Nordic countries
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means of citizens’ ‘satisfaction with government’ are presented. The scale ranges from 0 to 10. In Southern Europe, citizens are in general less satisfied with how their government is
+
+performing than in the Nordic countries. However, in 2005, satisfaction with government was
+
+remarkably high in Spain and Greece, surpassing the satisfaction levels of their counterparts
+
+in Norway and the Netherlands. Government satisfaction significantly increased in both
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+Denmark Finland Norway Sweden
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+21
+
+countries between 2002 and 2005. The increase in government satisfaction seems to follow
+
+the economic growth that Spain experienced during the 2000s. In effect, previous research has
+
+revealed that the economic situation is an important predictor for government support
+
+(Lockerbie 1993). Government support can also suddenly increase due to a dramatic event,
+
+which is called ‘rally around the flag’ in the literature (Hetherington & Nelson 2003; Gross et
+
+al. 2009). The terrorist attacks in Madrid on 11 March 2004 could have led to such a rally
+
+around the flag effect. The graphs indeed show a strong increase in satisfaction with
+
+government in Spain between 2002 and 2005 (from 4.3 in 2002 to 5.1 in 2005). In Greece, the
+
+alternation of the parties in office in 2004 and the organisation of the Olympic Games might
+
+offer an explanation for these high levels of government satisfaction in 2005.
+
+However, in the second half of the 2000s, satisfaction with Greek government dramatically
+
+declined from 4.1 in 2002 to 2.7 in 2008. A quarter of the respondents indicated that they
+
+were extremely dissatisfied with their current government. Greece was confronted with an
+
+avalanche of political scandals in these years. Moreover, the government’s plans to reform
+
+university regulation evoked several strikes and protests. The way in which the government
+
+handled severe forest fires also created the public perception of an incompetent, ineffective
+
+government. The general elections of 2007 revealed a widespread dissatisfaction with an
+
+increase in abstention of 2.6 per cent and a substantial increase in protest votes for three minor
+
+political parties (Mavrogordatos 2008). At the end of 2008, the Greek government was
+
+confronted with the worst riots and unrest since the military dictatorship in 1974. The
+
+government failed to restore order promptly and the riots persisted for several weeks
+
+(Mavrogordatos 2009). Given the 2010 debt crisis and unrest, this declining trend in
+
+government satisfaction is likely to persist. Satisfaction with government also proves to be
+
+volatile in Portugal. In the beginning of the 2000s, satisfaction with government decreased.
+
+Portuguese politics was characterised by a series of scandals which led to numerous
+
+government reshuffles. In addition, the country was confronted with an economic recession
+
+and the government introduced severe austerity policies in public spending. However, by the
+
+mid-2000s, satisfaction with government increased gradually to its 2002 levels. At that time,
+
+the economic situation also slightly improved and the centre-right government was voted out
+
+of office and replaced by a new (socialist) government (Magone 2005).
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+22
+
+Figure 8. Trends in satisfaction with government in Southern European countries
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means of citizens’ ‘satisfaction with government’ are presented. The scale ranges from 0 to 10.
+
+Satisfaction with government has also declined significantly in the United Kingdom and
+
+Belgium during the past decade. In the United Kingdom, satisfaction with the Labour
+
+government gradually declined during the 2000s (Figure 9). Satisfaction with government
+
+amounted to 4.38 in 2002 and dropped to 4.05 in 2006. In 2008, the average level of
+
+satisfaction with government only amounted to 3.60. Even the Labour voters were not
+
+satisfied with government in 2008, with an average level of satisfaction of 4.44. This might
+
+offer an explanation as to why the government could not secure re-election in the 2010
+
+general elections. The next wave of ESS will show whether the alternation of power was able
+
+to reverse this declining trend in government satisfaction. In Belgium, satisfaction with the
+
+government reached its lowest level in the past decade (Figure 9). The political and economic
+
+crisis seems to have exerted a strong effect on specific political support in Belgium.
+
+Satisfaction with government decreased from 5.18 in 2002 to 3.92 in 2008. However, these
+
+events do not seem to affect the more generalised kind of political trust, given the remarkable
+
+stability of trust in political institutions in Belgium we observed in Figure 5.
+
+On the other hand, satisfaction with the current government has increased in the Netherlands.
+
+Previous research has documented a steep decline in satisfaction with government in the
+
+Netherlands at the start of the century. While approximately two-thirds of the respondents in
+
+1998 thought the Dutch government was doing a good job, less than a third of the respondents
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+Spain Greece Portugal
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+23
+
+were satisfied with government at the beginning of the century (Bovens & Wille 2008). The
+
+ESS data show that this drop was only temporary; satisfaction with government was gradually
+
+restored from 4.24 in 2002 to 4.45 in 2004 to 5.44 in 2006, and eventually to 5.53 in 2008.
+
+Governments in Switzerland and Germany also received more support in 2008 than they did
+
+in 2002, but these increases are rather modest.
+
+Figure 9. Trends in satisfaction with government in the other established countries
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means of citizens’ ‘satisfaction with government’ are presented. The scale ranges from 0 to 10.
+
+Finally, the new democracies in Eastern Europe are characterised by substantial volatility in
+
+government satisfaction. In effect, only few governments in Central and Eastern European
+
+countries are able to secure re-election (Tavits 2005). Figure 10 shows a steep decline in
+
+government satisfaction in Hungary in the past decade. Satisfaction with the current
+
+government declined by three points on an 11- point scale (i.e. from 4.88 (2002) to 3.23
+
+(2004) to 2.68 (2006) to 1.88 (2008)). In 2008, 37.4 per cent of the respondents in Hungary
+
+indicated that they were extremely dissatisfied with their government (i.e. value 0/10).
+
+Category 0 and 1 together include more than half of the Hungarian respondents. Figure 6
+
+already showed that institutional trust also declined in recent years in Hungary. Ukrainian
+
+governments are also confronted with declining levels of government satisfaction. At the
+
+beginning of 2005, in the aftermath of the Orange Revolution, satisfaction with government
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008 Austria Belgium Switzerland
+
+Germany France United Kingdom
+
+Ireland Luxembourg Netherlands
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+24
+
+amounted to 4.25 only to drop to 2.17 at the end of 2006 and to drop even further to 1.53 in
+
+2009. Put another way, in 2009, 42.4 per cent of the Ukrainian respondents answered that they
+
+were extremely dissatisfied with their government. Three-fourths of the Ukrainian
+
+respondents can be found in the lowest four categories. Decreasing levels of satisfaction with
+
+government are also prevalent in the Czech Republic and Estonia, but to a more modest
+
+extent. In Poland, satisfaction with government decreased between 2002 and 2004, but was
+
+restored to its original level in 2008. On the other hand, in Slovenia and Slovakia, satisfaction
+
+with the current government increased. In Slovakia, we see quite a substantial increase in
+
+satisfaction with the current government from 3.0 in 2002 to 5.0 in 2004 to 4.8 in 2008.
+
+We see that similar trends emerge in institutional trust and satisfaction with the current
+
+government in some countries. While diffuse and specific trust have different determinants,
+
+there is certainly a spill-over between these two political trust measures. For instance, a
+
+corruption scandal can erode satisfaction with the current government as well as trust in the
+
+political institutions. In Hungary and Ukraine, strong declines in institutional trust and
+
+satisfaction with the current government were documented. On the other hand, the political
+
+and economic crisis does not seem to affect trust in political institutions in Belgium, while it
+
+strongly decreased satisfaction with the current government. Given that trust in the political
+
+institutions is less stable in new democracies, it is possible that the evaluations of the current
+
+government are more important for trust in political institutions in newer democracies than in
+
+established democracies. However, the calculation of correlations between measures of
+
+institutional trust and satisfaction with the current government show that the relation between
+
+these two is similar in established and new democracies (resp. 0.602 p < 0.000 and 0.572 p <
+
+0.000). This correlation differs between the countries under study with the weakest
+
+association in Denmark (Pearson correlation = 0.333; p < 0.000) and Slovenia (Pearson
+
+correlation = 0.388; p < 0.000) and the strongest correlation in the Netherlands (Pearson
+
+correlation = 0.681; p < 0.000) and Bulgaria (Pearson correlation = 0.644; p < 0.000). But no
+
+clear cross-national pattern emerges.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+25
+
+Figure 10. Trends in satisfaction with government in new European democracies
+
+Source: ESS 2002, 2004, 2006, 2008. Notes: The means of citizens’ ‘satisfaction with government’ are presented. The scale ranges from 0 to 10. Conclusion Since the seventies, it has been claimed repeatedly that democracy is losing legitimacy among
+
+its citizens resulting in an unprecedented confidence crisis (Crozier et al. 1975; Nye 1997;
+
+Dalton 2004; Macedo et al. 2005). In the mid–seventies, Crozier, Huntington and Watanuki
+
+(1975, 159) for instance stated ‘Dissatisfaction with and lack of confidence in the functioning
+
+of the institutions of democratic government have thus now become widespread in the
+
+Trilateral countries.’ Thirdly, years later, Dalton (2004, 1) repeats a similar message:
+
+‘Contemporary democracies are facing a challenge today. This challenge does not come from
+
+enemies within or outside the nation; instead, the challenge comes from democracy’s own
+
+citizens, who have grown distrustful of politicians, sceptical about democratic institutions,
+
+and disillusioned about how the democratic process functions’.
+
+However, the evidence presented in this chapter clearly contradicts the claim that
+
+contemporary democracies are losing citizens’ support. In effect, no general declining trend
+
+could be found in institutional trust among a wide variety of European countries in the past
+
+decade. Only in Greece, Hungary and Ukraine institutional trust declined substantially in the
+
+past decade. More recent data is needed to ascertain whether this declining trend will persist.
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2002 2004 2006 2008
+
+Czech Republic Estonia Hungary Poland
+
+Slovenia Slovakia Ukraine
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+26
+
+While institutional trust has decreased in some European countries during the nineties and
+
+early 2000s (Klingemann 1999; Bovens & Wille 2008), this study also shows that institutional
+
+trust was restored to its original levels in the 2000s in these countries. Therefore, to date the
+
+only conclusion that can be drawn is that institutional trust is stable (especially in the more
+
+established democracies). These findings underline the importance of a good
+
+operationalisation of political trust and of the study of political trust beyond the United States.
+
+Throughout this chapter, the most outspoken difference in institutional trust is between
+
+established and new democracies. Not only is political trust lower in newer democracies, it is
+
+also more volatile. Nevertheless, the analyses revealed that institutional trust in new
+
+democracies could also be measured in a valid manner. A one-dimensional attitude,
+
+institutional trust, exists in all countries under study providing strong support for the claim
+
+that institutional trust reflects an assessment of the prevailing political culture in a country.
+
+Institutional trust influences citizens’ trust judgments of a broad range of institutions. While
+
+institutional trust influences trust in representative as well as implementing institutions, its
+
+influence on implementing institutions is smaller in established democracies. In new
+
+democracies, on the other hand, institutional trust influences representative and implementing
+
+institutions to the same extent. Put another way, citizens are distrustful of all institutions and
+
+hardly differentiate between (impartial) implementing and (partisan) representative
+
+institutions. Most likely, all institutions are perceived as political or even as corrupt.
+
+While this study makes the necessary differentiations to the pessimistic claims that have
+
+repeatedly put forward, the results also show that citizens are rather critical towards political
+
+institutions and their government. Especially in new democracies, political institutions and
+
+leaders lack popular support. In Hungary, for example, 37.4 per cent of the respondents
+
+indicated to be extremely dissatisfied with their government (i.e. value 0/10). More than half
+
+of the Hungarian respondents gave their government a value of 0 or 1 on a scale from 0 to 10.
+
+Given the high levels of corruption in several of these newer democracies, it could be argued
+
+that low levels of trust in political institutions reflect an accurate assessment of the
+
+trustworthiness of these institutions. In established democracies, citizens might be dissatisfied
+
+with how their political system is performing, but they can have at least a reasonable
+
+expectation not to meet corrupt officials on a day to day basis.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+27
+
+References Aberbach, J. D. (1969) ‘Alienation and Political Behavior’, American Political Science
+
+Review, 63(1): 86-99. Almond, G. and Verba, S. (1963) The Civic Culture. Political attitudes and democracy in five
+
+nations, Princeton: Princeton University Press. Anderson, C., Blais, A., Bowler, S. Donovan, T., and Listhaug, O. (2005) Losers' Consent.
+
+Elections and democratic legitimacy, Oxford: Oxford University Press. Bélanger, R. and Nadeau, R. (2005) ‘Political Trust and the Vote in Multiparty Elections. The
+
+Canadian case’, European Journal of Political Research, 44: 121-46. Bovens, M. and Wille, A. (2008) ‘Deciphering the Dutch Drop: Ten Explanations for
+
+Decreasing Political Trust in the Netherlands’, International Review of Administrative Sciences, 74(2): 283-305. Bovens, M. and Wille, A. ‘Political Trust in the Netherlands: Wavering but not Withering’,
+
+Paper presented at the ECPR General Conference, Potsdam, September 2009. Brown, T.A. (2006) Confirmatory Factor Analysis for Applied Research, New York: The
+
+Guilford Press. Byrne, B.M. Shavelson, R.J. and Muthen, B. (1989) ‘Testing for the Equivalence of Factor
+
+Covariance and Mean Structures. The issue of partial measurement invariance’, Psychological Bulletin, 105(3): 456-66. Catterberg, G. and Moreno, A. (2006) ‘The Individual Bases of Political Trust. Trends in new
+
+and established democracies’, International Journal of Public Opinion Research, 18(1):3148. Citrin, J. (1974) ‘Comment: The Political Relevance of Trust in Government’, American
+
+Political Science Review, 68(3): 973-88. Crozier, M.J., Huntington S. and Watanuki J. (1975) The Crisis of Democracy. Report on the
+
+governability of democracies to the trilateral Commission, New York: New York University Press. Dalton, R. (2004) Democratic Challenges, Democratic Choices . The erosion of political
+
+support in advanced industrial democracies, Oxford: Oxford University Press. Easton, D. (1965) A Framework for Political Analysis, Englewood Cliffs (N.J.): Prentice Hall. European Social Survey Round 1 Data (2002) Data file edition 6.0, Norway: Norwegian
+
+Social Science Data Services. Data Archive and distributor of ESS data. Online available http://ess.nsd.uib.no/ (accessed on December 2010). European Social Survey Round 1 Data (2004) Data file edition 2.0, Norway: Norwegian
+
+Social Science Data Services. Data Archive and distributor of ESS data. Online available http://ess.nsd.uib.no/ (accessed on December 2010). European Social Survey Round 3 Data (2006) Data file edition 3.0. Norway: Norwegian
+
+Social Science Data Services. Data Archive and distributor of ESS data. Online available http://ess.nsd.uib.no/ (accessed on December 2010). European Social Survey Round 4 Data (2008) Data file edition 3.0. Norway: Norwegian
+
+Social Science Data Services. Data Archive and distributor of ESS data. Online available http://ess.nsd.uib.no/ (accessed on December 2010). Fisher, J., van Heerde, J. and Tucker, A. (2010) ‘Does One Trust Judgement Fit All? Linking
+
+theory and empirics’, British Journal of Politics and International Relations, 12(2): 161-88.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+28
+
+Gross, K., Brewer, P. R., and Aday, S. (2009) ‘Confidence in Government and Emotional
+
+Responses to Terrorism after September 11, 2001’, American Politics Research, 37(1): 10728. Hendriks, F. (2009) ‘Contextualizing the Dutch Drop in Political Trust. Connecting
+
+underlying factors’, International Review of Administrative Sciences, 75(3): 473-91. Hetherington, M. (2005) Why Trust Matters, Princeton: Princeton University Press. Hetherington, M. J. and Nelson, M. (2003) ‘Anatomy of a Rally Effect. George W. Bush and
+
+the War on Terrorism’, PS: Political Science and Politics, 36(1): 37-42. Hibbing, J.R. and Theiss-Morse E. (1995) Stealth Democracy. Americans’ beliefs about how
+
+government should work, Cambridge: Cambridge University Press. Holmberg, S. (1999) ‘Down and Down we Go: Political Trust in Sweden’, in: P. Norris (ed.)
+
+Critical Citizens. Global support for democratic government, Oxford: Oxford University Press. Hooghe, M. and Wilkenfeld, B. (2008) ‘The Stability of Political Attitudes and Behaviors
+
+Across Adolescence and Early Adulthood. A comparison of survey data on adolescents and young adults in eight countries’, Journal of Youth and Adolescence, 37(2), 155-67. Hooghe, M. (Forthcoming). ‘Why There is Basically Only One Form of Political Trust’,
+
+British Journal of Politics and International Relations. Hu, L. and Bentler P.M. (1999) ‘Cutoff Criteria for Fit Indixes in Covariance Structure
+
+Analysis: Conventional criteria versus new alternatives’, Structural Equation Modeling, 6155. Inglehart, R. (1999) ‘Postmodernization Erodes Respect for Authority, but Increases Support
+
+for Democracy’, in P. Norris (ed.). Critical Citizens. Global support for democratic government, Oxford: Oxford University Press. Jowell, R. and the Central Co-ordinating Team (2003) European Social Survey 2002/2003:
+
+Technical Report, London: Centre for Comparative Social Surveys, City University. Jowell, R and the Central Co-ordinating Team (2005) European Social Survey 2004/2005:
+
+Technical Report, London: Centre for Comparative Social Surveys, City University. Jowell, R. and the Central Co-ordinating Team (2007) European Social Survey 2006/2007:
+
+Technical Report, London: Centre for Comparative Social Surveys, City University. Jowell, R. and the Central Co-ordinating Team (2009) European Social Survey 2008/2009:
+
+Technical Report, London: Centre for Comparative Social Surveys, City University. Klingemann, H.-D. and Fuchs, D. (1995) Citizens and the State, Oxford: Oxford University
+
+Press. Klingemann, H.-D. (1999) ‘Mapping Political Support in the 1990s: A Global Analysis’, in P
+
+Norris (ed.). Critical Citizens. Global support for democratic government, Oxford: Oxford University Press. Lipset, A. M. and Scheinder, W. (1983) ‘The Decline of Confidence in American
+
+Institutions’, Political Science Quarterly, 98(3): 379-402. Lockerbie, B. (1993) ‘Economic Dissatisfaction and Political Alienation in Western Europe’,
+
+European Journal of Political Research, 23(3): 281-93. Macedo S. et al. (2005) Democracy at Risk. How political choices undermine citizen
+
+participation, and what we can do about it, Washington D.C.: Brooking Institution Press. Magone, J. M. (2005) ‘Portugal’, European Journal of Political Research, 44(7-8), 1158 Electronic copy available at: https://ssrn.com/abstract=2539667
+
+29
+
+1166. Marien, S. and Hooghe, M. (2011) ‘Does Political Trust Matter? An Empirical Investigation
+
+into the Relation between Political Trust and Support for Law Compliance’, European Journal of Political Research,50(2), 267-91. Mavrogordatos, G.T. (2008) ‘Greece’, European Journal of Political Research, 47(7-8), 990 7. Mavrogordatos, G. T. (2009) ‘Greece’, European Journal of Political Research, 48(7-8), 968 72. Miller, A. H. (1974) ‘Rejoinder to ‘Comment’ by Jack Citrin: Political Discontent or
+
+Ritualism?’, American Political Science Review, 68(3): 989-1001 Norris, P. (ed) (1999) Critical Citizens. Global support for democratic government, Oxford:
+
+Oxford University Press. Nye, J., Zelikow, P. and King D. (1997) Why Americans Mistrust Government, Cambridge:
+
+Harvard University Press. Reeskens, T. and Hooghe, M. (2008) ‘Cross-Cultural Measurement Equivalence of
+
+Generalized Trust. Evidence from the European Social Survey (2002 and 2004)’, Social Indicators Research, 85(3): 515-32. Rothstein, B. and Stolle, D. (2008) ‘The State and Social Capital: An Institutional Theory of
+
+Generalized Trust’, Comparative Politics, 40 (4): 441-67. Tavits, M. (2005) ‘The Development of Stable Party Support. Electoral dynamics in post-­‐
+
+communist Europe’, American Journal of Political Science, 49(2): 283-­‐98. Van de Walle, S., Van Roosbroeck, S. and Bouckaert, G. (2008) ‘Trust in the Public Sector. Is
+
+there any evidence for a long-term decline?’, International Review of Administrative Sciences, 74(1): 47-64. Zmerli, S. and Newton, K. (2008) ‘Social Trust and Attitudes Toward Democracy’, Public
+
+Opinion Quarterly 72(4): 706–24.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+30
+
+Appendix European Social Survey: completed questionnaires
+
+2002 2004 2006 2008 Austria 2257 2256 2405 - Belgium 1899 1778 1798 1760 Bulgaria - - 1400 2230 Switzerland 2040 2141 1804 1819 Cyprus - - 995 1215 Czech Republic 1360 3026 - 2018 Germany 2919 2870 2916 2751 Denmark 1506 1487 1505 1610 Estonia - 1989 1517 1661 Spain 1729 1663 1876 2576 Finland 2000 2022 1896 2195 France 1503 1806 1986 2073 United Kingdom 2052 1897 2394 2352 Greece 2566 2406 - 2072 Hungary 1685 1498 1518 1544 Ireland 2046 2286 1800 - Iceland - 579 - - Latvia - - - 1980 Luxembourg 1552 1635 - - Netherlands 2364 1881 1889 1778 Norway 2036 1760 1750 1549 Poland 2110 1716 1721 1619 Portugal 1511 2052 2222 2367 Sweden 1999 1948 1927 1830 Slovenia 1519 1442 1476 1286 Slovakia - 1512 1766 1810 Ukraine - 2031 2002 1845 Testing for cross-cultural equivalence in trust in political institutions (2006)
+
+Model specifications χ2 df RMSEA CFI EPC MI Configural equivalence 298.196 63 0.047 0.998 Metric equivalence 1104.354 143 0.062 0.990 Free FI police 1025.595 142 0.060 0.991 -0.157 79.819 Free BG police 973.750 141 0.059 0.992 0.161 48.540 Free AT parliament 928.411 140 0.057 0.992 0.178 42.952 Free DK legal system 891.598 139 0.056 0.993 -0.133 37.950 Free DK police 846.406 138 0.055 0.993 -0.172 45.932 Free FI legal 812.343 137 0.053 0.993 -0.117 34.975 Free HU police 778.245 136 0.052 0.994 0.128 32.118 Free CY police 739.314 135 0.051 0.994 0.156 35.580 Free SK police 708.907 134 0.050 0.994 0.112 29.543 Source: ESS 2006. 21 countries. n=36,172. Notes: entries are the results of confirmatory factor analyses.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+31
+
+Solution Confirmatory Factor Analysis with Imposed Constraints (2006)
+
+Source: ESS 2006. 21 countries. Notes: Factor loadings resulting from a confirmatory factor analysis. Fit indices: χ2=178.842; df=3; RMSEA=0.040; CFI= 0.999; n=36,172.
+
+Testing for cross-cultural equivalence in trust in political institutions (2004)
+
+Model specifications χ2 df RMSEA CFI EPC MI Configural equivalence 367.704 69 0.049 [0.045-0.054] 0.997 Metric equivalence 1162.237 157 0.060 [0.057-0.063] 0.991 Free FI police 1096.463 156 0.058 [0.055-0.062] 0.992 -0.155 66.786 Free CZ police 1045.063 155 0.057 [0.054-0.060] 0.992 0.103 48.788 Free CZ parliament 1000.479 154 0.056 [0.052-0.059] 0.993 -0.116 46.930 Free PT legal 960.598 153 0.055 [0.051-0.058] 0.993 0.134 37.660 Free PT parliament 897.165 152 0.053 [0.049-0.056] 0.994 0.232 57.678 Free BE parliament 870.674 151 0.052 [0.049-0.055] 0.994 -0.142 27.529 Free HU police 845.578 150 0.051 [0.048-0.055] 0.994 0.100 23.852 Free AT parliament 823.814 149 0.051 [0.047- 0.054] 0.994 0.115 20.858 Free DK police 802.367 148 0.050 [0.047-0.053] 0.994 -0.106 21.934 Source: ESS 2004. 23 countries. n=40,773. Notes: entries are the results of confirmatory factor analyses.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+32
+
+Solution Confirmatory Factor Analysis with Imposed Constraints (2004)
+
+Source: ESS 2004. 23 countries. Notes: Factor loadings resulting from a confirmatory factor Fit indices: χ2= 172.497; df=3. RMSEA= 0.037; CFI= 0.999. n=40,773
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+33
+
+Endnotes
+
+i See http://www.electionstudies.org/nesguide/toptable/tab5a_1.htm.
+
+ii The report can be downloaded from the ESS website:
+
+http://ess.nsd.uib.no/streamer/?module=main&year=2003&country=null&download=%5CSurvey+documentatio
+
+n%5C2003%5C10%23ESS1+ +Reliability+and+validity+of+questions%2C+ed.+1%5CLanguages%5CEnglish%5CESS1MTMManalysis.pdf.
+
+iii The analyses are limited to free democratic countries. The Freedom House Index (FHI) is a widely used
+
+indicator to assess whether a country is democratic by looking at the amount of political and civil liberties in the
+
+country. Several political and civil rights are lacking in some of the countries included in the European Social
+
+Survey. The Freedom House indices range between 1 and 7, where 7 is the lowest level of freedom. Based on
+
+this index in 2008, Russia, Turkey, Ukraine, Romania and Croatia were not included in the analyses - with
+
+combined Freedom House indices (political plus civil rights) of respectively: 11, 6, 5, 4 and 4. Given that the
+
+focus of this study is on European countries, Israel was also not included.
+
+iv These countries include Belgium, Bulgaria, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France,
+
+Germany, Greece, Hungary, Latvia, the Netherlands, Norway, Poland, Portugal, Slovenia, Slovakia, Spain,
+
+Sweden, Switzerland and the United Kingdom in ESS (2008-2009). Austria, Iceland, Ireland and Luxembourg
+
+were included in previous waves of the European Social Survey (see Appendix). The distinction between Eastern
+
+and Western Germany is still considered to be relevant in public opinion research (Zmerli and Newton, 2008).
+
+Therefore, the analyses were also performed considering Eastern Germany and Western Germany as two distinct
+
+countries. These analyses led to similar results.
+
+v The measurement model was also performed on every country separately. This additional analysis showed that
+
+the measurement model in Cyprus gives a poor description of the data. The different results for the trust
+
+measurement may be caused by the conflict between the Greek and Turkish community in Cyprus. However, the
+
+case of Cyprus falls beyond the scope of this study as it calls for an in-depth investigation. The subsequent
+
+analyses were conducted twice: including and excluding Cyprus. The model fit was each time slightly better
+
+when Cyprus was excluded from the analyses, but the same pattern emerged in both cases. Therefore, I decided
+
+to keep Cyprus in the analyses.
+
+vi Several additional tests for cross-cultural equivalence can be performed which constrain the factor intercept,
+
+factor variances and error variances (see, e.g. Brown, 2006; Reeskens and Hooghe, 2008).
+
+vii Note that a comparison of the evolution of trust levels is not possible using table 3, as different countries are
+
+included in each wave.
+
+viii A t test was conducted per country showing a significantly higher level of trust in implementing institutions
+
+than in representational institutions in every country.
+
+ix These countries include Austria, Belgium, the Czech Republic, Denmark, Estonia, Finland, France, Germany,
+
+Greece, Hungary, Ireland, Luxembourg, the Netherlands, Norway, Poland, Portugal, Slovenia, Slovakia, Spain,
+
+Sweden, Switzerland, Ukraine and the United Kingdom. A trend line can be presented for Ukraine as it was
+
+included in the last three waves of ESS (2004-2008). Note, however, that Ukraine is not a free democracy
+
+according to Freedom House and the results should be read with caution.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667
+
+34
+
+x These results should be read with caution as cross-cultural equivalence tests show that institutional trust in
+
+Ukraine is not comparable to the other countries. Several political and civil rights are lacking in Ukraine, and
+
+therefore, it cannot be considered a free democracy, which makes comparisons with democracies difficult.
+
+Electronic copy available at: https://ssrn.com/abstract=2539667

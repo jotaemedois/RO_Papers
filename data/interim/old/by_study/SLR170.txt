@@ -1,0 +1,501 @@
+Article
+
+Immigration and Public Support for Political Systems in Europe
+
+Christopher Claassen
+
+Immigration and growing diversity have been linked with pathologies such as lower social capital, the rise of authoritarian populists, intergroup conﬂict, and perhaps the breakdown of democracy itself. At the heart of this complex is a question relating to migration and political culture: whether immigration erodes the attitudes that sustain and legitimize democratic political systems. This paper takes a time-series, cross-sectional approach to this question by analyzing the eﬀects of a comprehensive set of measures of immigration on dynamic estimates of trust in democratic institutions, satisfaction with democracy, and democratic support from 30 European countries. The results show that immigration does not undermine any of these forms of public support for political systems. Indeed, under some circumstances, immigration may increase public trust in democratic institutions.
+
+Introduction T
+
+wo broad trends are apparent in Western democracies today. First, their societies have become significantly more diverse over the past few decades, primarily due to immigration (de Haas, Castles, and Miller 2019). Second, their democratic systems are facing challenges, with the zeitgeist being decreasing satisfaction with democratic systems (Foa et al. 2020) and reduced trust in democratic institutions (Valgarðsson et al. 2022; cf. Wuttke, Gavras, and Schoen 2022). A number of scholars and commentators have suggested a link between these trends—that is, that sustained immigration and growing diversity have undermined public support for political systems. For example, in a public lecture and accompanying essay, William Galston claims that “as public concerns about population ﬂows across national borders have intensiﬁed throughout the West, this issue has done more than any
+
+other to weaken support for liberal-democratic norms and institutions” (Galston 2018, 15). Steven Levitsky and Daniel Ziblatt, in discussing the future of American democracy, make the point even more starkly: “It is diﬃcult to ﬁnd examples of societies in which shrinking ethnic majorities gave up without a ﬁght” (Levitsky and Ziblatt 2018, 208–9). A wider reading of the social science literature provides considerable support for such arguments. Three lines of evidence stand out. First, a diverse society has long been thought infertile ground to sustain democratic institutions (Horowitz 1985; Levitsky and Ziblatt 2018), whether because of conﬂict (Montalvo and Reynal-Querol 2005) or poor governance (Alesina, Baqir, and Easterly 1999). Second, diversity has been linked with lower social trust (Alesina and La Ferrara 2000, 2002; Putnam 2007) and immigration concerns with lower political trust (Macdonald 2021; McLaren 2011, 2015). Third, some argue that immigration produces a conservative or authoritarian backlash (Abrajano and Hajnal 2015; Ignazi 1992; Norris and Inglehart 2019), featuring not only xenophobic reactions, but also support for undemocratic actors and policies. Despite these apparently converging arguments, no research has directly analyzed the link between immigration ﬂows and public support for political systems. I focus in this paper on this link—that is, the question of whether immigration erodes system support. My regional focus is Europe, where mass immigration has created signiﬁcantly more diverse societies over the past few decades. My approach is time-series, cross-sectional (TSCS), with the
+
+Data replication sets are available in Harvard Dataverse at: https://doi.org/10.7910/DVN/929EQ1
+
+Christopher Claassen is a political scientist who researches public attitudes to democracy and majority group attitudes to immigrant and ethnic out-groups, with a particular focus on how these opinions shape political institutions and political behavior. He is a senior lecturer in politics in the School of Social and Political Sciences, University of Glasgow. He completed his PhD in the Department of Political Science at Washington University in St. Louis, Missouri.
+
+doi:10.1017/S1537592722004194 © The Author(s), 2023. Published by Cambridge University Press on behalf of the American Political Science Association. This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.
+
+March 2024 | Vol. 22/No. 1 153
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+longitudinal dimension being especially important to tease apart the deeply intertwined links between immigration ﬂows and political cultures. As explanatory variables, I include several measures of immigration, using both objective measures of immigrant inﬂows and stocks of foreign-born residents as well as attitudinal measures of immigration perceptions. As outcome variables, I include all three varieties of support for political systems that exist in the scholarly literature: trust in the national political institutions, satisfaction with one’s democracy, and support for democracy in principle. These TSCS measures of opinion are produced using all available cross-national survey data and Claassen’s (2019) Bayesian latent variable model. Despite this comprehensive approach, I ﬁnd little to no evidence that immigration harms system support. If anything, larger foreign-born shares of national populations tend to be positively, not negatively, associated with democratic satisfaction, support, and trust. While immigration ﬂows show negative (although insigniﬁcant) shortrun eﬀects in certain speciﬁcations, the long-run eﬀects are neutral to positive given the strong role played by immigration in increasing the foreign-born population share. Moreover, immigration ﬂows from Muslim-majority countries—arguably the most threatening form of immigration for nativist Europeans—in fact exhibit positive short-run eﬀects on institutional trust. It appears that democratic polities can reap the considerable economic beneﬁts of immigration without eroding the public attitudes that sustain their political systems.
+
+Existing Research on Immigration and Democratic Attitudes Theory and evidence from three literatures suggest that immigration might present challenges to democratic attitudes. The ﬁrst of these literatures considers whether diversity increases the risks of democratic breakdown. A second literature examines the consequences that immigration and diversity have on social capital and trust. The third investigates whether immigration triggers a conservative and authoritarian backlash. I consider each of these lines of argument in turn.
+
+Diversity and Democratic Breakdown Scholars have long been concerned that democracy struggles to take root and thrive in diverse societies, with such views evident in early works such as Almond (1956), Dahl (1971), and Rabushka and Shepsle (1972). The mechanism by which diversity is thought to threaten democracy is conﬂict. Speciﬁcally, diversity is believed to hinder compromise, erode tolerance, lead to a politics of ethnicity, and ultimately to increase the likelihood of intergroup conﬂict (Fish and Brooks 2004). All of these factors undermine democracy or prevent democratization.
+
+Countervailing evidence has emerged, however (e.g., Fearon and Laitin 2003). Some have argued that religious diversity threatens democracy while linguistic diversity does not (Gerring, Hoﬀman, and Zarecki 2018). Others have claimed that it is polarization—that is, the division of society into two large groups—rather than diversity per se that poses a problem for democracy (Montalvo and Reynal-Querol 2005). Indeed, cases where a dominant group is faced by a large and possibly growing minority also tend to be cases where democracy breaks down or fails to emerge (Horowitz 1985). As Levitsky and Ziblatt (2018, 208–9) note, in discussing the future of American democracy, “[i]t is diﬃcult to ﬁnd examples of societies in which shrinking ethnic majorities gave up without a ﬁght.” And what might the symptoms of such a “ﬁght” be? Before democracy itself is eroded, it seems plausible that publics would lose faith in democracy: become dissatisﬁed with their democratic systems, mistrust the institutions that have permitted this demographic shift, and perhaps lose support for democracy itself. In other words, the pernicious eﬀects of diversity on democracy might extend to public evaluations of democracy as well (Haseth, Holum, and Jakobsen 2022). Conﬂict is moreover not the only way in which diversity might harm democracy and public support. Other mechanisms exist that may account for such a link. These include the quality of governance, economic performance, and social capital. Looking at the quality of governance and economic performance (I will consider social capital in the next section), there is evidence that both are harmed by diversity (Alesina, Baqir, and Easterly 1999; Alesina and La Ferrara 2005; Easterly and Levine 1997). And there is also evidence that both, in turn, aﬀect democratic attitudes such as political trust and democratic support. Trust, for example, is thought to be bolstered by economic growth and high-quality governance (Rothstein and Teorell 2008; Torcal 2017). Support for democracy, while relatively impervious to economic indicators (Claassen and Magalhães 2022), is believed to be shaped by the quality of the political process (Mattes and Bratton 2007), including perhaps the eﬀectiveness of governance (Magalhães 2014). Both economic performance and the quality of governance may then act as mechanisms whereby increasing diversity erodes democratic attitudes.
+
+Immigration, Diversity, and Social Capital As mentioned above, another possible mediator between increasing diversity and weakening democratic attitudes is social capital. This is the focus of our second literature of interest. In the ﬁrst rigorous analyses of the diversity– social-capital connection, Alesina and La Ferrara ﬁnd that individuals living in more diverse communities tend to participate less frequently in social groups (2000) and
+
+154 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+show lower levels of trust in other people (2002). Yet it was Putnam’s essay (2007) that became the touchstone of this literature. He argued that diversity caused (American) citizens to “hunker down,” harming social solidarity, trust in others, and associational life. A number of contradictory studies have emerged in the large literature that followed Putnam (see van der Meer and Tolsma 2014), but there remains substantial evidence that immigration and diversity can present challenges to the social capital of communities. In addition, there is a connection between social capital and democratic attitudes, notably in the shared focus on trust, whether social or political (Newton, Stolle, and Zmerli 2017; cf. Uslaner 2017). Indeed, although not his primary focus, Putnam (2007) presented evidence that diversity is correlated not only with lower social trust, but also with lower trust in (local) government. This possible link between immigration and political trust has been further investigated in several studies by McLaren (2011, 2012, 2015). She shows that public concern about the negative eﬀects of immigration is associated with lower levels of trust in political institutions. Immigration concern is thought to undermine trust because it weakens the “connections” between citizens on the one hand and “elites and institutions” on the other (McLaren 2015, 1). Although the analysis is largely cross-sectional— involving pooled European Social Survey (ESS) data— McLaren (2011) reaches similar ﬁndings in tests using British Election Study panel data. Citrin, Levy, and Wright (2014) make an analogous argument, showing that opposition to immigration is associated with less satisfaction with democracy as well as lower trust, again using pooled ESS data. One of the issues with analyzing the eﬀects of perceptions of immigration, rather than actual administrative data on ﬂows and stocks, is that perceptions might become distorted when citizens are dissatisﬁed or distrustful. In other words, the causal eﬀect may run in the reverse direction (or indeed, both directions). Macdonald (2021) ﬁnds evidence consistent with this point. Using longitudinal and experimental data, he argues that it is political trust that causes an increase in support for immigration. Low political trust, it is claimed, renders citizens “less willing to support a larger role for government in formulating immigration policy, as they are less likely to trust its ability to manage this policy eﬀectively” (2021, 1403). Macdonald and Cornacchione (2021) extend these conclusions to a European setting using cross-sectional and panel survey data. Yet other interpretations of the negative correlations between immigration opinion and political support are possible. Kokkonen and Linde (2022) argue that “nativists” show lower support for democracy. In their view, the link between hostility to immigration and (lower) system support exists because of features of the
+
+nativist ideology, rather than ﬂows of immigrants or numbers of foreign-born residents. Nativists, like authoritarians, are both predisposed to xenophobia and hostile to certain liberal democratic institutions such as minority and civil rights. In sum, diversity has been argued to have deleterious eﬀects on social trust and cohesion, although many other scholars dispute this claim. A more recent set of studies extends this line of thinking to argue that perceptions of immigration—if not actual immigration ﬂows—additionally lower institutional trust and democratic satisfaction. Once again, however, there is some dispute as to how to interpret this association, including in which direction causation occurs.
+
+Immigration and Conservative Backlash The third way in which immigration might undermine political support is via a conservative backlash. Several authors have noted this phenomenon, describing it as a “cultural backlash” (Norris and Inglehart 2019), “white backlash” (Abrajano and Hajnal 2015) or “silent counterrevolution” (Ignazi 1992). These backlashes in essence comprise conservative or authoritarian reactions to the overall liberalizing trajectory of popular values and public policies. Immigration, and the demographic changes that follow, are a particular source of threat and anxiety to conservative or traditionally minded native-born citizens. Backlashes may be triggered by the perception (or reality) of a liberal policy overreach, which, in turn, arises because of a “spiral of silence” dynamic whereby policies drift too far from what the “silent” majority perceive to be majority values (Norris and Inglehart 2019). These backlashes manifest most obviously in increased support for anti-immigrant and far-right parties and candidates. Indeed, a large number of studies have investigated the links between immigration and support for far-right and populist parties. This link is, for the most part, robustly supported, with both stocks and ﬂows of immigrants being correlated with greater support for the far right (Arzheimer 2009, 2018; Golder 2003; cf. Hill, Hopkins, and Huber 2019). This link between immigration and authoritarian populist parties may also have consequences for support for political systems, my focus in the present paper. Populist parties have been implicated in many of the cases of democratic backsliding we have observed over the past decade (e.g., Houle and Kenny 2018; Levitsky and Loxton 2013). Support for such parties is furthermore associated with lower political trust (Hooghe, Marien, and Pauwels 2011; Hooghe and Dassonneville 2018). It may well be the case that immigration harms system support at the same time that it engenders support for far-right or authoritarian populist parties.
+
+March 2024 | Vol. 22/No. 1 155
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+Yet there is also evidence that runs against these arguments—that is, that immigration causes a populist backlash, and that this dynamic harms support for the political system. Regarding the former, recent work shows that immigration creates public tolerance and acceptance in the medium to long term, even as it may prompt threat and backlash in the short term (Claassen and McLaren 2021; Kaufmann 2014). And regarding the latter, Harteveld et al. (2021) show that satisfaction with democracy may in fact increase when right-wing populist parties come to power, because satisfaction increases more among the supporters of such parties than it decreases among their opponents. In sum, there is some reason to expect a backlash eﬀect whereby immigration prompts an authoritarian reaction that erodes popular support for the system. However, there is also evidence that any such eﬀect may be mixed, perhaps playing out diﬀerently over time. My review of these literatures suggests grounds for suspecting that immigration may indeed undermine public support for political systems. Several theoretical mechanisms exist: immigration increases diversity, which could increase intergroup conﬂict and reduce economic performance; immigration may undermine trust in other people and perhaps also trust in the political system; and immigration is argued to lead to an authoritarian backlash against democratic institutions. At the same time, counterarguments and countervailing evidence against all these mechanisms exist. Direct tests of the eﬀects of immigration ﬂows on political support are also rare, with researchers tending to examine the links between immigration opinion and political support. There is therefore considerable need to analyze whether immigration actually has negative eﬀects on support. In the next section I describe the methods used in the present paper to test for such eﬀects.
+
+Methods
+
+Research Design My analysis of the immigration–political-support connection is shaped by two design choices: a national level of analysis; and a time-series, cross-sectional design. I discuss each of these in turn. A national level of analysis is certainly not the only perspective that could be taken when considering the eﬀects of immigration on political support. Political support is primarily measured at an individual level. Although immigration ﬂows and stocks are macro measures, they need not be counted at the national level; their eﬀects may play out at smaller, subnational levels of aggregation. There is nevertheless considerable merit in the national level of analysis that is adopted here. The attention of many citizens is focused on the national political arena: even if they have a distorted picture of
+
+true levels of immigration (e.g., McLaren 2015), the national situation likely shapes their opinion regarding the political system. Moreover, the survey questions used to gauge political support tend to focus on national-level institutions such as the national legislature or the national democratic system itself (see the next subsection for details). In addition, when policymakers act to restrict (or liberalize) immigration, their laws generally hold at the national level, rather than at regional or local levels. In sum, the nation is both a valid and compelling level of analysis for examining the eﬀects of immigration on political support. I also take a time-series, cross-national approach to the research question. In other words, my observations of immigration and support vary both across time (annual measures are available) as well as country. Cross-national variation is widespread in the comparative literature. It is the time-series or longitudinal variation that is scarcer but also more valuable. Such variation permits a focus on within-country ﬂuctuations in immigration and system support rather than the between-country patterns that are likely confounded by historical processes of state formation and migration. Longitudinal variation also allows me to model longer-run public opinion dynamics. This is likely to be important when analyzing the eﬀects of immigration since, as recent research has argued, immigration has diﬀering eﬀects on public opinion in the short versus the medium run (Claassen and McLaren 2021; Kaufmann 2014).
+
+Sample of Cases I focus on 30 European states for which measures of both immigration and system support are available. There are a number of advantages to this sample. First, in the period of analysis (which runs from the 1990s to 2020 for most cases), European states experienced high rates of immigration, leading to rapidly increasing diversity. In some countries, this rate of migration occurred against the backdrop of an already diverse population; in others, it commenced when the national population was initially rather homogeneous. At the same time, the “Great Recession” of 2008–12 disrupted and changed migration ﬂows, allowing within-country variation that is crucial for the design used in the present paper. The so-called refugee crisis of 2015, prompted by the Syrian civil war, again increased migration. These variations in diversity and rates of immigration grant me the variation needed to identify their eﬀects on system support. Second, there is also considerable variation in my dependent variables of democratic support, satisfaction, and institutional trust across the region, as well as variation across time within the region. Eastern Europe has also been particularly vulnerable to democratic backsliding. This suggests that there should be suﬃcient variation in
+
+156 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+democratic evaluations to identify any eﬀect of diversity, should there be any. Third, as McLaren (2015) argues, European citizens have not traditionally viewed their nations as nations of immigrants, unlike settler-colony states such as Australia, Canada, and the United States. If immigration does exert any eﬀects on support for political systems, then it seems likely that this eﬀect will be evident in Europe.
+
+Measuring Support for Political Systems I use three measures of support for political systems as dependent variables. These correspond with the three main measures of system support used in the literature: principled support for democracy (and rejection of authoritarian rule); satisfaction with the functioning of democracy; and trust in the institutions of the regime (e.g., Norris 1999). These three measures can also be mapped onto Easton’s intermediate “object” of political support, the regime. A lack of support for and trust in the regime (or the “system,” as many citizens might understand it) is generally regarded by scholars to be a hazardous situation for a democracy (e.g., van der Meer and Zmerli 2017). My national-level measures of political trust, support for, and satisfaction with democracy are obtained by aggregating individual-level public opinion data originally gathered by the World Values Survey (WVS), Global Barometer surveys, and other cross-national survey projects. These survey data are fragmented across multiple diﬀerent questions. They are also sparsely distributed across time, with large gaps in most national time series. To address these diﬃculties, I use Claassen’s TSCS estimates of support for and satisfaction with democracy (Claassen 2022; Claassen and Magalhães 2022). I supplement these with new dynamic national estimates of institutional trust that I obtain using Claassen’s (2019) Bayesian latent variable model. Since the trust estimates are novel, I pause to provide a description of how these were created.1 Speciﬁcally, I used a raw dataset of 6,852 nationally aggregated responses to 33 survey questions on institutional trust, ﬁelded in 2,181 national surveys in 55 countries from 1981 until 2020.2 I included survey measures of trust in the institutions of the national political system: parliaments, legal systems (or courts), political parties, the civil service, and police. These items were strongly intercorrelated when examining the raw, aggregated survey data. Each item also shows a positive and signiﬁcant relationship with the latent variable, as seen in the item classiﬁcation curves included in the supplementary materials. Survey measures of trust in these institutions were collected from cross-national survey projects that ﬁelded surveys more than once in more than one country. There were nine such survey projects: (1) the Consolidation of Democracy in Central and
+
+Eastern Europe project; (2) Central and Eastern Eurobarometer; (3) European Quality of Life Surveys; (4) European Social Surveys; (5) Eurobarometer; (6) European Values Study; (7) the International Social Survey Programme; (8) the New Europe Barometer; and (9) the WVS.3
+
+Measuring Immigration I include several measures of immigration. The primary measures are based on administrative data of migration ﬂows and stocks. The main measure of annual immigration ﬂows is the immigration rate, which is the number of immigrants arriving each year as a percentage of the population. I also use the immigration rates from Muslim-majority countries and from non-EU countries (including the UK) as alternative measures of immigration ﬂows. This helps to establish whether the source of immigrants matters as much as their numbers. Data on these are available from three sources: the OECD, Eurostat, and the DEMIG database. I use the Eurostat data as a starting point; where values were missing, I include the OECD and then the DEMIG data using multilevel linear models with intercepts and slopes varying by country. This allows the three datasets to be combined in a ﬂexible way without overﬁtting. The measure of immigrant stocks is the proportion of a country’s population in any given year that was born in a foreign country. Measures of the proportion foreign-born are available from the OECD and Eurostat. I again use the Eurostat data as a starting point; where values were missing, I include the OECD estimate by means of a multilevel linear model with intercepts and slopes varying by country. Missing values are interpolated in a number of countries (Germany, Greece, Ireland, Italy, Latvia, Lithuania, Norway, Poland, Slovakia, and Switzerland). One value (Romania in 2019) was extrapolated based on the foreign-born stocks of previous years. Finally, I also include TSCS measures of immigration opinion; speciﬁcally, public concern about immigration as an issue. This allows me to evaluate whether immigration concern aﬀects democratic attitudes over and above the brute facts of demographic ﬂows. I extend the “immigration concern” estimates employed by Claassen and McLaren (2021) up until 2020. These measures are created by using Claassen’s Bayesian latent variable model to integrate various survey measures of immigration as the “most important political issue.”
+
+Trends in Immigration and Political Support I pause to present some descriptive results: time-series plots of the immigration rate and institutional trust for the 30 European cases (see ﬁgure 1).4 There are three ﬁndings of note. First, institutional trust is relatively volatile for a measure of system support. In this way, it
+
+March 2024 | Vol. 22/No. 1 157
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+is closer to satisfaction with democracy than support for democracy (see the supplementary materials). This malleability suggests that macro-trust can in principle react to exogenous shocks, such as increased immigration.
+
+Second, there is evidence that trust reacts strongly to one such exogenous shock: the economic crisis of the “Great Recession” of the late 2000s. In countries that experienced this recession most severely—Portugal,
+
+Figure 1 Immigration Rates and Institutional Trust across Europe
+
+1980 2000 2020
+
+−2 0 2 4
+
+Austria
+
+1980 2000 2020
+
+−2 0 2 4
+
+Belgium
+
+1980 2000 2020
+
+−2 0 2 4
+
+Croatia
+
+1980 2000 2020
+
+−2 0 2 4
+
+Cyprus
+
+1980 2000 2020
+
+−2 0 2 4
+
+Czechia
+
+1980 2000 2020
+
+−2 0 2 4
+
+Denmark
+
+1980 2000 2020
+
+−2 0 2 4
+
+Estonia
+
+1980 2000 2020
+
+−2 0 2 4
+
+Finland
+
+1980 2000 2020
+
+−2 0 2 4
+
+France
+
+1980 2000 2020
+
+−2 0 2 4
+
+Germany
+
+1980 2000 2020
+
+−2 0 2 4
+
+Greece
+
+1980 2000 2020
+
+−2 0 2 4
+
+Hungary
+
+1980 2000 2020
+
+−2 0 2 4
+
+Iceland
+
+1980 2000 2020
+
+−2 0 2 4
+
+Ireland
+
+1980 2000 2020
+
+−2 0 2 4
+
+Italy
+
+1980 2000 2020
+
+−2 0 2 4
+
+Latvia
+
+1980 2000 2020
+
+−2 0 2 4
+
+Lithuania
+
+1980 2000 2020
+
+−2 0 2 4
+
+Luxembourg
+
+1980 2000 2020
+
+−2 0 2 4
+
+Malta
+
+1980 2000 2020
+
+−2 0 2 4
+
+Netherlands
+
+1980 2000 2020
+
+−2 0 2 4
+
+Norway
+
+1980 2000 2020
+
+−2 0 2 4
+
+Poland
+
+1980 2000 2020
+
+−2 0 2 4
+
+Portugal
+
+1980 2000 2020
+
+−2 0 2 4
+
+Romania
+
+1980 2000 2020
+
+−2 0 2 4
+
+Slovakia
+
+1980 2000 2020
+
+−2 0 2 4
+
+Slovenia
+
+1980 2000 2020
+
+−2 0 2 4
+
+Spain
+
+1980 2000 2020
+
+−2 0 2 4
+
+Sweden
+
+1980 2000 2020
+
+−2 0 2 4
+
+Switzerland
+
+1980 2000 2020
+
+−2 0 2 4
+
+United Kingdom
+
+Immigration rate (% of pop)
+
+Institutional trust
+
+Note: the annual rate of immigration as a percent of the national population is shown in green. Annual levels of institutional trust are shown in blue—this variable is standardized to have a mean of zero and a standard deviation of one.
+
+158 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+Ireland, Italy, Spain, and Greece—commensurate collapses in institutional trust can be seen. In some cases, these recessions also reduced immigration ﬂows, as we would expect, suggesting that the economic climate is an important confound to be considered when unpacking the relationship between immigration and institutional trust. Finally, this ﬁgure allows us to examine the trust and immigration time series for any prima facie relationship between the two series. There is little bivariate evidence that such a relationship exists. Focusing on moments when immigration increased dramatically reveals, at best, a mixed impact. While the inﬂux of refugees into Germany in 2015 signiﬁcantly increased the rate of immigration, it did not harm institutional trust. The concurrent inﬂow of refugees to Austria did, however, appear to dampen trust slightly. Earlier, in the years leading up to the recession of 2008–10, immigration spikes occurred in several countries, including Iceland, Ireland, Spain, Portugal, and Slovenia. In Portugal and Slovenia, trust remained unharmed by these increases in immigration; In Iceland and Ireland, decreases in trust are not easy to untangle from the direct eﬀects of the recession itself; only in Spain does it appear that trust decreased during this immigration spike. In sum, trust ﬂuctuates over time, particularly in response to economic crises. There is little bivariate evidence, however, that rates of immigration play a role. In only two cases (Austria in the mid-2010s and Spain in the early 2000s) is increasing immigration apparently associated with decreasing trust. To more clearly unpick these eﬀects I turn to dynamic ﬁxed eﬀects models, which I describe in the next subsection.
+
+Empirical Strategy With key independent and dependent variables that vary across time as well as across country—that is, TSCS data —I employ methods of data analysis for TSCS designs. In particular, I rely on dynamic ﬁxed eﬀects models. These models focus on within-country variation and jettison any between-country variation in measures of political support and diversity; this is desirable as such variation may be confounded by country-speciﬁc historical events that jointly shaped national identities, nation-states, and democratic cultures. I lag each covariate one year, except for opinion covariates, which are speciﬁed as exerting contemporaneous eﬀects on the opinion dependent variables. Two lags of each dependent variable are also included. These absorb much of the serial correlation in the political-support opinion series. They also control for the possible “reverse” eﬀects of political support on immigration ﬂows. Dependent variables are speciﬁed as ﬁrst diﬀerences rather than levels; in other words, I use the error-correction form of
+
+the dynamic TSCS model (this only aﬀects the coeﬃcients for the ﬁrst lag of dependent variables). To tackle time-varying confounds, I include several control variables (the country ﬁxed eﬀects control for all time-invariant, country-varying factors). Most notably, I control for the confounding eﬀect of economic growth and recession by including two lags of economic growth (data from the World Bank), in the form of the lagged level of economic growth and its immediate change between year t −1 and the present year. I also include the lagged unemployment rate (data also from the World Bank). Given that my dependent variables focus on the political system, I include two control variables that capture aspects of the institutional quality of this system: corruption and (liberal) democracy indices (both from the Varieties of Democracy [V-Dem] dataset). Since rates of immigration are possibly aﬀected by the immigration regime and the political tenor of government, I include two additional controls in certain models: the share of lower-house seats occupied by far-right parties (data from the PopuList project) and an index measuring the extent to which immigration policy attempts to integrate immigrants.5
+
+I later employ a smaller TSCS dataset created using European Social Survey (ESS) data. This allows me to examine the eﬀects of diversity on the democratic attitudes of the native-born, among other robustness tests. Since there are only seven to eight waves of ESS trust and democratic satisfaction data available, I use a more limited model speciﬁcation. Retaining country ﬁxed eﬀects, I drop the lagged dependent variables. I now proceed to discuss the results of these analyses.6
+
+Results The main analyses are laid out in three tables, tables 1 through 3, focusing respectively on the three dependent variables of institutional trust, democratic satisfaction, and support for democracy. I include six models for each dependent variable; a basic model including only the primary measures of migration ﬂows and immigrant stocks (and country ﬁxed eﬀects); a second model to which controls are added; a third model to which additional controls are included; and three further models that show the eﬀects of alternative measures of migration: the migration rates from Muslim-majority and non-EU countries, as well estimates of national immigration concern. The primary speciﬁcation is model 2, which uses the main measure of migration and does not include controls such as far-right seats that are potentially endogenous to dependent variables such as trust and satisfaction. The proportion of the population that is foreign-born tends to be positively associated with subsequent withincountry change in support for political systems. This can be seen for all dependent variables, especially in model 2, which includes basic controls. The magnitude of this
+
+March 2024 | Vol. 22/No. 1 159
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+eﬀect varies considerably, however, dropping noticeably in model 3 when far-rights seats and immigrant integration policy are factored in. It is occasionally signiﬁcant but certainly not always. Nevertheless, it seems clear that increases in the size of the population who have an immigrant background pose no threat to the public’s attachment to democratic institutions. The next measure of immigration to be considered is the annual immigration rate. This tends to have a negative but insigniﬁcant relationship with subsequent democratic satisfaction and support, and a positive but insigniﬁcant relationship with trust. The eﬀect varies, in other words, but is weak and usually insigniﬁcant. In sum, there is no evidence that increases in migration undermine subsequent trust, democratic satisfaction, or democratic support. Both of these associations represent short-run eﬀects however. In the longer run, an increase in the immigration rate may continue to exert an eﬀect many years after the
+
+fact. Indeed, the serial correlation of the three dependent variables tends to be very high, around 0.9,7 which indicates that the short-run eﬀects reported in tables 1 to 3 will accumulate over many years. A related point is that an increase in the rate of immigration will also exert eﬀects via the increasing population size of immigrants that will result. In other words, immigration ﬂows create immigrant stocks in the medium to long run. The eﬀects of immigration ﬂows and immigrant stocks are ultimately intertwined (e.g., Claassen and McLaren 2021). And both may play out over time. To evaluate both these considerations, I turn to the simulated dynamic eﬀects shown in ﬁgure 2. These simulations reveal that any small negative eﬀect of an increase in immigration on, for example, democratic satisfaction (ﬁgure 2b) is counterbalanced and reversed by the positive eﬀect of a diverse population on satisfaction. Indeed, after around 20 years, a within-country standard-deviation
+
+Table 1 Immigration and Institutional Trust
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+% foreign-bornt−1 .430 .427 −.375 .262 .608 −.125 (.313) (.293) (.316) (.332) (.310) (.399) Immigration ratet−1 .013 .033 .036∗ .024 (.020) (.019) (.017) (.023) Muslim immigration ratet−1 .389∗
+
+(.076) Non-EU immigration ratet−1 .041 (.042) Concern about immigrationt0 .074∗
+
+(.015) Δ GDP growth per capitat0 .007∗ .008∗ .006∗ .006∗ .005 (.003) (.003) (.003) (.003) (.003) GDP growth per capitat−1 .012∗ .013∗ .009∗ .011∗ .010∗
+
+(.002) (.002) (.002) (.002) (.002) Unemployment ratet−1 .001 −.001 .002 .002 .002 (.003) (.004) (.004) (.003) (.004) Corruptiont−1 −.599∗ −.561∗ −.610∗ −.882∗ −.064 (.249) (.240) (.247) (.291) (.297) Liberal democracyt−1 −.392∗ −.236 −.428∗ −.487∗ −.067 (.100) (.213) (.110) (.126) (.153) Far-right seat sharet−1 .147 (.120) Immigrant integration policyt−1 .074∗
+
+(.021) Institutional trustt−1 .237∗ .159∗ .106∗ .144∗ .165∗ .046 (.032) (.032) (.027) (.042) (.037) (.039) Institutional trustt−2 −.373∗ −.290∗ −.280∗ −.290∗ −.306∗ −.254∗
+
+(.034) (.026) (.032) (.035) (.023) (.037) Country ﬁxed effects ✓ ✓ ✓ ✓ ✓ ✓ N observations 623 616 585 550 583 467 N countries 30 30 30 28 30 28 Adjusted R2 .155 .189 .211 .149 .202 .252 Regression standard error .143 .141 .141 .139 .140 .145 Wooldridge AR(1) test p-value .777 .480 .500 .514 .313 .437
+
+Note: ∗p < 0.05. Dynamic ﬁxed effects error-correction models of institutional trust, with Driscoll-Kraay standard errors in parentheses. T ranges from 5–31 years (model 4) to 7–36 years (model 1).
+
+160 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+increase in the immigration rate has, if anything, a positive eﬀect on democratic satisfaction (ﬁgure 2b). The positive long-run eﬀect on institutional trust is even stronger, albeit still within the margin of error. Democratic support shows little evidence of being aﬀected by immigration over the long run, beﬁtting its status as a more deeply rooted democratic orientation.8 It is clear from these simulations that immigration does not erode system support, even over the long run. Thus far, my analyses have revealed no negative consequences of immigration and diversity on support for political systems in Europe.9 However, this ﬁnding may be aﬀected by my measures of immigration, which include migrants from all source countries. Some researchers have argued that the eﬀects of immigration might vary depending on the source. In particular, there is considerable evidence that immigrants from Muslim-majority countries are the most threatening to native-born citizens of
+
+many European countries (e.g., Adida, Laitin, and Valfort 2016; Strabac and Listhaug 2008). Following this logic, model 4 in tables 1 to 3 focuses speciﬁcally on the eﬀects of immigration from Muslimmajority countries. In fact, the results show that this measure of immigration tends to be positively associated with changes in system support. Greater within-country inﬂows of migrants from Muslim-majority countries are therefore associated with higher, not lower, levels of institutional trust and democratic satisfaction (there is no signiﬁcant association with democratic support). I also include a second alternative measure of immigration in model 5, the immigration rate from outside the EU (including from the UK). These results are weak, insigniﬁcant, and similar to those obtained from the general immigration-rate measure. Finally, I consider the relationship between public concern about immigration and system support (model
+
+Table 2 Immigration and Satisfaction with Democracy
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+% foreign-bornt−1 .388 .429 −.156 .243 .443 .082 (.265) (.228) (.227) (.217) (.229) (.353) Immigration ratet−1 −.014 −.003 −.005 −.017∗
+
+(.015) (.011) (.010) (.007) Muslim immigration ratet−1 .154∗
+
+(.055) Non-EU immigration ratet−1 −.013 (.024) Concern about immigrationt0 .047∗
+
+(.009) Δ GDP growth per capitat0 .006∗ .006∗ .005∗ .005∗ .005∗
+
+(.001) (.001) (.001) (.001) (.001) GDP growth per capitat−1 .004 .005∗ .001 .003 .005 (.002) (.002) (.002) (.002) (.003) Unemployment ratet−1 −.001 −.001 .001 .001 .001 (.003) (.003) (.003) (.002) (.002) Corruptiont−1 −.398∗ −.347 −.485∗ −.571∗ −.047 (.193) (.202) (.168) (.164) (.209) Liberal democracyt−1 −.331∗ −.281∗ −.421∗ −.416∗ −.115 (.108) (.118) (.115) (.101) (.076) Far-right seat sharet−1 .068 (.059) Immigrant integration policyt−1 .075∗
+
+(.019) Satisfaction with democracyt−1 .529∗ .493∗ .448∗ .473∗ .481∗ .406∗
+
+(.034) (.035) (.037) (.044) (.038) (.043) Satisfaction with democracyt−2 −.620∗ −.584∗ −.562∗ −.568∗ −.577∗ −.519∗
+
+(.035) (.031) (.031) (.040) (.035) (.035) Country ﬁxed effects ✓ ✓ ✓ ✓ ✓ ✓ N observations 607 607 585 541 574 467 N countries 30 30 30 28 30 28 Adjusted R2 .379 .394 .409 .342 .415 .417 Regression standard error .108 .106 .105 .105 .104 .105 Wooldridge AR(1) test p-value .767 .796 .953 .651 .316 .621
+
+Note: ∗p < 0.05. Dynamic ﬁxed effects error-correction models of satisfaction with democracy, with Driscoll-Kraay standard errors in parentheses. T ranges from 5–30 years (model 4) to 7–30 years (model 1).
+
+March 2024 | Vol. 22/No. 1 161
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+Table 3 Immigration and Democratic Support
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+% foreign-bornt−1 .128∗ .126 .105 .065 .125∗ .192∗
+
+(.063) (.081) (.115) (.077) (.053) (.085) Immigration ratet−1 −.002 −.002 −.003 −.004 (.007) (.006) (.006) (.006) Muslim immigration ratet−1 .063∗
+
+(.023) Non-EU immigration ratet−1 −.013 (.011) Concern about immigrationt0 .012∗
+
+(.003) Δ GDP growth per capitat0 .001 .001 .002 .001 .001 (.001) (.001) (.001) (.001) (.001) GDP growth per capitat−1 −.002∗ −.002∗ −.002∗ −.002∗ −.002∗
+
+(.000) (.000) (.001) (.000) (.000) Unemployment ratet−1 −.001 −.001 .000 −.000 −.000 (.001) (.001) (.001) (.001) (.001) Corruptiont−1 .002 −.006 −.031 −.067 .049 (.061) (.059) (.110) (.079) (.045) Liberal democracyt−1 −.096 −.058 −.126 −.114 −.003 (.055) (.045) (.066) (.059) (.052) Far-right seat sharet−1 .033 (.024) Immigrant integration policy t−1 .005 (.008) Democratic supportt−1 .555∗ .552∗ .531∗ .531∗ .560∗ .535∗
+
+(.065) (.060) (.061) (.071) (.064) (.067) Democratic supportt−2 −.622∗ −.624∗ −.609∗ −.606∗ −.627∗ −.622∗
+
+(.055) (.052) (.053) (.060) (.054) (.058) Country ﬁxed effects ✓ ✓ ✓ ✓ ✓ ✓ N observations 603 603 583 537 570 467 N countries 30 30 30 28 30 28 Adjusted R2 .404 .423 .422 .424 .439 .458 Regression standard error .044 .043 .043 .043 .043 .041 Wooldridge AR(1) test p-value .826 .733 .778 .692 .499 .816
+
+Note: ∗p < 0.05. Dynamic ﬁxed effects error-correction models of support for democracy, with Driscoll-Kraay standard errors in parentheses. T ranges from 5–30 years (model 5) to 7–30 years (model 1).
+
+Figure 2 Long-Run Effects of Changes in Immigration Rates
+
+10 20
+
+−0.50 −0.25 0.00 0.25 0.50
+
+Years
+
+Institutional trust
+
+Immigration increases by 1 SD in year 0
+
+10 20
+
+−0.50 −0.25 0.00 0.25 0.50
+
+Years
+
+Satisfaction with democracy
+
+Immigration increases by 1 SD in year 0
+
+10 20
+
+−0.50 −0.25 0.00 0.25 0.50
+
+Years
+
+Support for democracy
+
+Immigration increases by 1 SD in year 0
+
+Note: Simulated long-run effects of a one standard-deviation increase in within-country rates of immigration. Based on model 2 from tables 1 to 3. The effects of immigration on the subsequent stock of foreign-born residents are included via a separate demographic model. Being a within-sample analysis of a counterfactual, rather than a forecast, uncertainty in regression coefﬁcients and lags, but not error variances, is included.
+
+162 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+6). Net the eﬀects of actual immigration ﬂows, withincountry increases in concern about immigration are associated with greater institutional trust, democratic satisfaction, and democratic support. When the public is more concerned about immigration as an issue, they also tend to exhibit more trust in democratic institutions and satisfaction with democracy. I have measured trust, satisfaction, and democratic support using national survey samples. These samples include both native-born citizens as well as immigrants and other foreign-born residents. Yet if immigration has diﬀerential eﬀects on the political attitudes of these groups—which seems quite possible—my conclusions regarding the lack of any impact of immigration on system support could be misplaced. For example, if immigration reduces native-born citizens’ trust in national institutions but increases foreign-born residents’ trust, then the net eﬀect might be close to zero and insigniﬁcant—that is, the results generally observed. My solution is to examine the eﬀects of immigration on the democratic attitudes of native-born citizens only.
+
+Since few cross-national survey projects ask respondents if they were born in their current country of residence, I use data only from the ESS for this analysis, aggregating these data to the national level. The ESS includes most of the countries that feature in my larger dataset. But there are only seven to eight waves of data (for institutional trust and democratic satisfaction respectively). This reduction in the T dimension of the dataset has implications for the modeling strategy. The inclusion of both lagged dependent variables and country ﬁxed eﬀects is inadvisable when the T dimension is limited in this way, because Nickell bias increases as T decreases. I therefore do not include lagged dependent variables, but I retain country ﬁxed eﬀects. To address the increased serial correlation that results from the former, I used Beck-Katz panel-corrected standard errors clustered by country. The results for institutional trust are reported in table 4 and for democratic satisfaction in table 5 (The ESS does not regularly ﬁeld questions pertaining to democratic support). To allow us to more readily compare the eﬀects when using the entire sample versus only native-born
+
+Table 4 Immigration and Institutional Trust, ESS Only
+
+All respondents Native-born respondents
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+% foreign-bornt−1 1.905 2.305∗ 1.830 1.641 2.091∗ 1.601 (1.120) (1.029) (1.039) (1.142) (1.053) (1.072) Immigration ratet−1 .068 .021 .064 .017 (.046) (.040) (.047) (.041) Muslim immigration ratet−1 .322∗ .320∗
+
+(.149) (.151) Evaluations of immigrationt0 .094 .096 (.077) (.077) Δ GDP growth per capitat0 .028∗ .028∗ .022∗ .028∗ .027∗ .021∗
+
+(.004) (.005) (.004) (.005) (.005) (.004) GDP growth per capitat−1 .035∗ .035∗ .026∗ .034∗ .034∗ .025∗
+
+(.006) (.006) (.006) (.006) (.006) (.006) Unemployment ratet−1 −.028∗ −.028∗ −.020∗ −.028∗ −.028∗ −.020∗
+
+(.006) (.006) (.006) (.007) (.006) (.006) Corruptiont−1 .492 .638 .397 .580 .702 .460 (.675) (.632) (.634) (.692) (.641) (.660) Liberal democracyt−1 −.858∗ −.768∗ −.692 −.865∗ −.785∗ −.694 (.392) (.357) (.361) (.403) (.363) (.377) Life satisfactiont0 .616∗ .621∗
+
+(.144) (.150) Country ﬁxed effects ✓ ✓ ✓ ✓ ✓ ✓ N observations 175 164 175 175 164 175 N countries 28 27 28 28 27 28 Adjusted R2 .334 .349 .481 .315 .332 .461 Regression standard error .123 .117 .108 .125 .118 .111 Wooldridge AR(1) test p-value .001 .008 .000 .001 .010 .000
+
+Note: ∗p < 0.05. Fixed effects regressions of institutional trust, using aggregate opinion data only from the ESS (2002–18). First three columns include ESS opinion variables calculated using all respondents; last three columns include ESS opinion variables calculated using only respondents who were born in their country of residence. Beck-Katz panel-corrected standard errors, clustered by country to account for serial correlation, are reported in parentheses. T ranges from 1–8 years (all models).
+
+March 2024 | Vol. 22/No. 1 163
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+respondents, I include results for both in each table. As the tables reveal, results are very similar regardless of whether foreign-born residents are included or excluded. The eﬀects of foreign-born population size tend to be slightly weaker when foreign-born residents are excluded, although the association remains positive (albeit insignificant). The eﬀects of immigration are virtually unchanged. Although these models do not include lags of my opinion variables, the results shown in tables 4 and 5 strongly suggest that including foreign-born residents in my measures of democratic attitudes does not dramatically alter the inferences I have drawn thus far. The ESS panels permit other useful analyses. These are the data that McLaren (2012, 2015) uses to argue that public concern about immigration undermines trust. I can test the claim using the same data, although now at the national level of analysis. Speciﬁcally, I include the measure of evaluations of immigration that was used by McLaren (along with a measure of life satisfaction that McLaren argues may work as a confound). I ﬁnd no negative eﬀect of public evaluations of
+
+immigration on either institutional trust or democratic satisfaction.
+
+Conclusion Decades of mass immigration have created diverse societies in most Western democracies. This paper has examined whether immigration, and the resulting demographic changes, have eroded the attitudes that sustain and legitimize European democracies. I ﬁnd little evidence that European publics have turned against their political systems, even though these are the systems that facilitated mass immigration. This is despite a comprehensive analysis that includes a variety of measures of immigration and support for political systems as well as a focus on the opinions of native-born residents, who would seem most likely to blame the system for immigration. Immigration is presented by some authors as a doubleedged sword, a force that may bring economic beneﬁts but which can sever the gossamer strands binding societies and supporting political systems (e.g., Collier 2013; Galston 2018). A number of existing studies have already cast
+
+Table 5 Immigration and Satisfaction with Democracy, ESS Only
+
+All respondents Native-born respondents
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+% foreign-bornt−1 .887 1.516 .256 .589 1.214 .065 (1.120) (1.010) (1.113) (1.152) (1.041) (1.148) Immigration ratet−1 .078 .032 .073 .026 (.051) (.046) (.052) (.047) Muslim immigration ratet−1 .174 .188 (.168) (.172) Evaluations of immigrationt0 .194∗ .181 (.095) (.096) Δ GDP growth per capitat0 .023∗ .019∗ .013∗ .024∗ .019∗ .014∗
+
+(.006) (.006) (.005) (.006) (.006) (.005) GDP growth per capitat−1 .032∗ .029∗ .019∗ .032∗ .029∗ .020∗
+
+(.007) (.007) (.007) (.007) (.007) (.007) Unemployment ratet−1 −.021∗ −.025∗ −.011 −.022∗ −.025∗ −.012 (.008) (.007) (.008) (.008) (.007) (.008) Corruptiont−1 .339 .542 −.095 .507 .689 .065 (.787) (.719) (.748) (.806) (.726) (.775) Liberal democracyt−1 −.329 −.198 −.358 −.294 −.173 −.294 (.472) (.426) (.444) (.485) (.431) (.463) Life satisfactiont0 .659∗ .667∗
+
+(.169) (.177) Country ﬁxed effects ✓ ✓ ✓ ✓ ✓ ✓ N observations 195 182 195 195 182 195 N countries 28 27 28 28 27 28 Adjusted R2 .115 .116 .299 .104 .107 .278 Regression standard error .151 .139 .135 .155 .141 .139 Wooldridge AR(1) test p-value .000 .004 .001 .001 .005 .002
+
+Note: *p < 0.05. Fixed effects regressions of satisfaction with democracy, using aggregate opinion data only from the ESS (2002–18). First three columns include ESS opinion variables calculated using all respondents; Last three columns include ESS opinion variables calculated using only respondents who were born in their country of residence. Beck-Katz panel-corrected standard errors, clustered by country to account for serial correlation, are reported in parentheses. T ranges from 1–9 years (all models).
+
+164 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+doubt on the claim that immigration and diversity undermine social cohesion (see van der Meer and Tolsma 2014). This study also suggests that immigration does not pose a threat to national political cultures. Democratic societies can reap the economic beneﬁts of immigration without eroding the public attitudes that sustain their political systems. Immigration can of course still exert political eﬀects via the election of far-right and anti-immigrant parties and candidates. However, there is evidence that the election of such parties does not in fact dampen support for the political system (Harteveld et al. 2021; cf. Hooghe and Dassonneville 2018). Regardless, this paper has shown that any deleterious eﬀects of far-right parties on the political culture cannot be attributed back to immigration itself.
+
+Acknowledgments
+
+I appreciate the helpful feedback provided by Alexander Kustov, Jonas Linde, Rahsaan Maxwell, Lauren McLaren, and Viktor Valgarðsson. This project received funding from the ESRC via the NORFACE Joint Research Programme “Democratic Governance in a Turbulent Age,” which is cofunded by the European Commission through Horizon 2020 under Grant Agreement No. 822166.
+
+Supplementary Material To view supplementary material for this article, please visit http://doi.org/10.1017/S1537592722004194.
+
+Notes 1 See the supplementary materials for more information, and Claassen and Magalhães (2022) for a description of how democratic support and democratic satisfaction were measured. 2 Note that the inclusion of the WVS means that many non-European countries were included in the estimation. This is desirable because it allows for more accurate estimation of the item parameters pertaining to the WVS. With sparse trust estimates (and typically no reliable diversity and immigration data) these non-European estimates were dropped from the analysis. 3 See the supplementary materials for the list of items that are included. 4 See the supplementary materials for the corresponding ﬁgures for immigration, on the one hand, and satisfaction with and support for democracy, on the other. 5 I use the Bayesian migration policy index from Rayp, Ruyssen, and Standaert (2017). Since this only extends to 2014, I extrapolate to 2019 by using multilevel linear models and the 2020 Migrant Integration Policy Index provided by MIPEX (their earlier index is one of the measuresincludedintheBayesianmigrationpolicyindex).
+
+6 Replication data and code are available in the Harvard Dataverse (Claassen 2023). 7 This can be gleaned from the results tables by adding 1 to the ﬁrst lag coeﬃcient (given that the DVs here are diﬀerences) and then adding the second lag coeﬃcient. 8 See the supplementary materials for a description of the method. An important caveat is that these long-run simulations are based on time-series data that span only seven to 31 years. 9 In the supplementary materials, I provide additional analyses that further support this point. First, I restrict the sample to the Western European countries that have longer histories of mass immigration; second, I include measurement uncertainty in the three dependent variables using the Bayesian “uniﬁed models” proposed by Claassen (2022).
+
+References Abrajano, Marisa, and Zoltan L. Hajnal. 2015. White Backlash: Immigration, Race, and American Politics. Princeton: Princeton University Press. Adida, Claire L., David D. Laitin, and Marie-Anne Valfort. 2016. Why Muslim Integration Fails in Christian-Heritage Societies. Cambridge, MA: Harvard University Press. Alesina, Alberto, and Eliana La Ferrara. 2000. “Participation in Heterogeneous Communities.” Quarterly Journal of Economics 115(3): 847–904. DOI: 10.1162/003355300554935. ——. 2002. “Who Trusts Others?” Journal of Public Economics 85(2): 207–34. DOI: 10.1016/S0047-2727 (01)00084-6. ——. 2005. “Ethnic Diversity and Economic Performance.” Journal of Economic Literature 43(3): 762–800. DOI: 10.1257/002205105774431243. Alesina, Alberto, Reza Baqir, and William Easterly. 1999. “Public Goods and Ethnic Divisions.” Quarterly Journal of Economics 114(4): 1243–84. DOI: 10.1162/ 003355399556269. Almond, Gabriel A. 1956. “Comparative Political Systems.” Journal of Politics 18(3): 391–409. DOI: 10.2307/2127255. Arzheimer, Kai. 2009. “Contextual Factors and the Extreme Right Vote in Western Europe, 1980–2002.” American Journal of Political Science 53(2): 259–75. DOI: 10.1111/j.1540-5907.2009.00369.x. ——. 2018. “Explaining Electoral Support for the Radical Right.” In The Oxford Handbook of the Radical Right, ed. Jens Rydgren, 143–65. Oxford: Oxford University Press. DOI: 10.1093/oxfordhb/ 9780190274559.013.8. Citrin, Jack, Morris Levy, and Matthew Wright. 2014. “Multicultural Policy and Political Support in European
+
+March 2024 | Vol. 22/No. 1 165
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+Democracies.” Comparative Political Studies 47(11): 1531–57. DOI: 10.1177/0010414013512604. Claassen, Christopher. 2019. “Estimating Smooth Country–Year Panels of Public Opinion.” Political Analysis 27(1): 1–20. DOI: 10.1017/pan.2018.32. ——. 2022. “Including Measurement Uncertainty in Time-Series, Cross-Sectional Analyses: The Case of Mood and Democracy.” Available at SSRN: https:// ssrn.com/abstract=3924934. DOI: 10.2139/ ssrn.3924934. ——. 2023. “Replication Data for: Immigration and Public Support for Political Systems in Europe.” Harvard Dataverse. DOI: 10.7910/DVN/929EQ1. Claassen, Christopher, and Lauren M. McLaren. 2021. “Does Immigration Produce a Public Backlash or Public Acceptance? Time-Series, Cross-Sectional Evidence from Thirty European Democracies.” British Journal of Political Science 52(3): 1013–31. DOI: 10.1017/S0007123421000260. Claassen, Christopher, and Pedro C. Magalhães. 2022. “Eﬀective Government and Evaluations of Democracy.” Comparative Political Studies 55(5): 869–94. DOI: 10.1177/00104140211036042. Collier, Paul. 2013. Exodus: How Migration Is Changing Our World. Oxford: Oxford University Press. Dahl, Robert A. 1971. Polyarchy: Participation and Opposition. New Haven: Yale University Press. de Haas, Hein, Stephen Castles, and Mark J. Miller. 2019. The Age of Migration: International Population Movements in the Modern World, 6th edition. London: Bloomsbury Academic. Easterly, William, and Ross Levine. 1997. “Africa’s Growth Tragedy: Policies and Ethnic Divisions.” Quarterly Journal of Economics 112(4): 1203–50. DOI: 10.1162/003355300555466. Fearon, James D., and David D. Laitin. 2003. “Ethnicity, Insurgency, and Civil War.” American Political Science Review 97(1): 75–90. DOI: 10.1017/S000305540300 0534. Fish, M. Steven, and Robin S. Brooks. 2004. “Does Diversity Hurt Democracy?” Journal of Democracy 15(1): 154–66. DOI: 10.1353/jod.2004.0009. Foa, Roberto S., Andrew Klassen, Micheal Slade, Alex Rand, and Rosie Collins. 2020. “The Global Satisfaction with Democracy Report 2020.” Centre for the Future of Democracy, University of Cambridge. https://www.bennettinstitute.cam.ac.uk /wp-content/uploads/2020/12/Democracy Report2020_nYqqWi0.pdf. Galston, William A. 2018. “The Populist Challenge to Liberal Democracy.” Journal of Democracy 29(2): 5–19. DOI: 10.1353/jod.2018.0020. Gerring, John, Michael Hoﬀman, and Dominic Zarecki. 2018. “The Diverse Eﬀects of Diversity on
+
+Democracy.” British Journal of Political Science 48(2): 283–314. DOI: 10.1017/S000712341600003X. Golder, Matt. 2003. “Explaining Variation in the Success of Extreme Right Parties in Western Europe.” Comparative Political Studies 36(4): 432–66. DOI: 10.1177/0010414003251176. Harteveld, Eelco, Andrej Kokkonen, Jonas Linde, and Stefan Dahlberg. 2021. “A Tough Trade-Oﬀ? The Asymmetrical Impact of Populist Radical Right Inclusion on Satisfaction with Democracy and Government.” European Political Science Review 13(1): 113–33. DOI: 10.1017/S1755773920000387. Haseth, Jostein, Marthe L. Holum, and Tor G. Jakobsen. 2022. “Ethnic Composition and Democratic Values: A Global Investigation of Citizens’ Desire for Democracy, 1995–2014.” Nationalism and Ethnic Politics. DOI: 10.1080/13537113.2022.2126107. Hill, Seth J., Daniel J. Hopkins, and Gregory A. Huber. 2019. “Local Demographic Changes and US Presidential Voting, 2012 to 2016.” Proceedings of the National Academy of Sciences 116(50): 25023–28. DOI: 10.1073/pnas.1909202116. Hooghe, Marc, and Ruth Dassonneville. 2018. “A Spiral of Distrust: A Panel Study on the Relation between Political Distrust and Protest Voting in Belgium.” Government and Opposition 53(1): 104–30. DOI: 10.1017/gov.2016.18. Hooghe, Marc, Soﬁe Marien, and Teun Pauwels. 2011. “Where Do Distrusting Voters Turn if There Is No Viable Exit or Voice Option? The Impact of Political Trust on Electoral Behaviour in the Belgian Regional Elections of June 2009.” Government and Opposition 46(2): 245–73. DOI: 10.1111/j.14777053.2010.01338.x. Horowitz, Donald L. 1985. Ethnic Groups in Conﬂict. Berkeley: University of California Press. Houle, Christian, and Paul D. Kenny. 2018. “The Political and Economic Consequences of Populist Rule in Latin America.” Government and Opposition 53(2): 256–87. DOI: https://doi.org/10.1017/gov.2016.25. Ignazi, Piero. 1992. “The Silent Counter-Revolution: Hypotheses on the Emergence of Extreme Right-Wing Parties in Europe.” European Journal of Political Research 22(1): 3–34. DOI: 10.1111/j.14756765.1992.tb00303.x. Kaufmann, Eric. 2014. “‘It’s the Demography, Stupid’: Ethnic Change and Opposition to Immigration.” The Political Quarterly 85(3): 267–76. DOI: 10.1111/ 1467-923X.12090. Kokkonen, Andrej, and Jonas Linde. 2022. “A Nativist Divide? Anti-Immigration Attitudes and Diﬀuse Support for Democracy in Western Europe.” European Journal of Political Research. DOI: 10.1111/14756765.12551.
+
+166 Perspectives on Politics
+
+Article | Immigration and Public Support for Political Systems in Europe
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press
+
+Levitsky, Steven, and Daniel Ziblatt. 2018. How Democracies Die: What History Reveals about Our Future. London: Penguin. Levitsky, Steven, and James Loxton. 2013. “Populism and Competitive Authoritarianism in the Andes.” Democratization 20(1): 107–36. DOI: 10.1080/ 13510347.2013.738864. Macdonald, David. 2021. “Political Trust and Support for Immigration in the American Mass Public.” British Journal of Political Science 51(4): 1402–20. DOI: 10.1017/S0007123419000668. Macdonald, David, and Teresa Cornacchione. 2021. “Political Trust and Support for Immigration in the European Mass Public.” Political Behavior. DOI: 10.1007/s11109-021-09714-w. Magalhães, Pedro C. 2014. “Government Eﬀectiveness and Support for Democracy.” European Journal of Political Research 53(1): 77–97. DOI: 10.1111/14756765.12024. Mattes, Robert, and Michael Bratton. 2007. “Learning about Democracy in Africa: Awareness, Performance, and Experience.” American Journal of Political Science 51(1): 192–217. DOI: 10.1111/j.15405907.2007.00245.x. McLaren, Lauren M. 2011. “Immigration and Trust in Politics in Britain.” British Journal of Political Science 42(1): 163–85. DOI: 10.1017/S0007123411000251. ——. 2012. “The Cultural Divide in Europe: Migration, Multiculturalism, and Political Trust.” World Politics 64(2): 199–241. DOI: 10.1017/ S0043887112000032. ——. 2015. ImmigrationandPerceptionsof National Political Systems in Europe. Oxford: Oxford University Press. DOI: 10.1093/acprof:oso/9780198739463.001.0001. Montalvo, Jose G., and Marta Reynal-Querol. 2005. “Ethnic Diversity and Economic Development.” Journal of Development Economics 76(2): 293–323. DOI: 10.1016/j.jdeveco.2004.01.002. Newton, Kenneth, Dietlind Stolle, and Sonja Zmerli. 2017. “Social and Political Trust.” In The Oxford Handbook of Social and Political Trust, ed. Eric. M Uslaner, 37–56. Oxford: Oxford University Press. DOI: 10.1093/oxfordhb/9780190274801.013.20. Norris, Pippa. 1999. “Institutional Explanations for Political Support.” In Critical Citizens: Global Support for Democratic Governance, ed. Pippa Norris, 217–35. Oxford: Oxford University Press. DOI: 10.1093/ 0198295685.003.0011. Norris, Pippa, and Ronald Inglehart. 2019. Cultural Backlash: Trump, Brexit, and Authoritarian Populism. Cambridge: Cambridge University Press. DOI: 10.1017/9781108595841.
+
+Putnam, Robert D. 2007. “E Pluribus Unum: Diversity and Community in the Twenty-First Century. The 2006 Johan Skytte Prize Lecture.” Scandinavian Political Studies 30(2): 137–74. DOI: 10.1111/j.14679477.2007.00176.x. Rabushka, Alvin, and Kenneth A. Shepsle. 1972. Politics in Plural Societies: A Theory of Democratic Instability. Columbus, OH: Charles Merrill. Rayp, Glenn, Ilse Ruyssen, and Samuel Standaert. 2017. “Measuring and Explaining Cross-Country Immigration Policies.” World Development 95: 141–63. DOI: 10.1016/j.worlddev.2017.02.026. Rothstein, Bo, and Jan Teorell. 2008. “What Is Quality of Government? A Theory of Impartial Government Institutions.” Governance 21(2): 165–90. DOI: 10.1111/j.1468-0491.2008.00391.x. Strabac, Zan, and Ola Listhaug. 2008. “Anti-Muslim Prejudice in Europe: A Multilevel Analysis of Survey Data from 30 Countries.” Social Science Research 37(1): 268–86. DOI: 10.1016/j. ssresearch.2007.02.004. Torcal, Mariano. 2017. “Political Trust in Western and Southern Europe.” In Handbook on Political Trust, eds. Sonja Zmerli, and Tom W. G. van der Meer, 418–39. Cheltenham: Edward Elgar Publishing. DOI: 10.4337/ 9781782545118.00037. Uslaner, Eric M. 2017. “The Study of Trust.” In The Oxford Handbook of Social and Political Trust, ed. Eric M. Uslaner, 3–14. Oxford: Oxford University Press. DOI: 10.1093/oxfordhb/ 9780190274801.013.39. Valgarðsson, Viktor, Will Jennings, Gerry Stoker, Hannah Bunting, Daniel Devine, Lawrence McKay, and Andrew Klassen. 2022. “Politics in Crisis? A Global Analysis of Trends in Political Support.” University of Southampton Technical Report. van der Meer, Tom W. G., and Jochem Tolsma. 2014. “Ethnic Diversity and Its Eﬀects on Social Cohesion.” Annual Review of Sociology 40: 459–78. DOI: 10.1146/ annurev-soc-071913-043309. van der Meer, Tom W. G., and Sonja Zmerli. 2017. “The Deeply Rooted Concern with Political Trust.” In Handbook on Political Trust, eds. Sonja Zmerli and Tom W. G. van der Meer, 1–16. Cheltenham: Edward Elgar Publishing. DOI: 10.4337/ 9781782545118.00010. Wuttke, Alexander, Konstantin Gavras, and Harald Schoen. 2022. “Have Europeans Grown Tired of Democracy? New Evidence from Eighteen Consolidated Democracies, 1981–2018.” British Journal of Political Science 52(1): 416–28. DOI: 10.1017/S0007123420000149.
+
+March 2024 | Vol. 22/No. 1 167
+
+https://doi.org/10.1017/S1537592722004194 Published online by Cambridge University Press

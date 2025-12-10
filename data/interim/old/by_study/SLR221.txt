@@ -1,0 +1,441 @@
+71
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Resumo: O Parlamento Jovem (PJ) é um projeto de educação cívica realizado em Minas Gerais, elaborado e implementado por meio de parceria entre a Assembleia Legislativa de Minas Gerais (ALMG) e a Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Ele foi criado com o intuito de fornecer aos alunos participantes uma oportunidade de participação direta no Parlamento mineiro. O Parlamento Jovem busca estimular a formação política dos jovens, conduzi-los a um exercício de participação democrática nas questões relevantes para a comunidade e propiciar um espaço para vivência em um ambiente político. Este artigo propõe uma avaliação do impacto do projeto sobre a confiança de seus participantes em três instituições – Congresso Nacional (CN), ALMG e Câmara Municipal de Belo Horizonte (CMBH). Foi utilizado um banco de dados elaborado em 2008, sob a coordenação do Prof. Dr. Mario Fuks, do Departamento de Ciência Política da Universidade Federal de Minas Gerais (DCP/UFMG). A avaliação será feita sob a ótica de um estudo quase experimental, com informações coletadas antes e depois da participação dos jovens no PJ e com grupos de controle e tratamento. Por meio de análise multivariada, constatou-se que, após a realização do projeto, os alunos do grupo de tratamento passaram a confiar mais nas instituições, principalmente na ALMG, em relação aos alunos do grupo de controle.
+
+Palavras-chave: Assembleia Legislativa de Minas Gerais. Parlamento Jovem. Educação cívica. Confiança nas instituições.
+
+O impacto do Parlamento Jovem sobre a confiança dos jovens mineiros
+
+Guilherme Quaresma Gonçalves
+
+Mestrando em Ciência Política pela Universidade Federal de Minas Gerais (UFMG)
+
+Gabriel Ávila Casalecchi
+
+Doutorando e mestre em Ciência Política pela Universidade Federal de Minas Gerais (UFMG) / Graduado em Ciências Sociais pela Universidade Estadual Paulista (Unesp)
+
+72 73
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Abstract: The “Parlamento Jovem” (PJ), or Youth Parliament, is a project of civic education conducted in Minas Gerais. It was created with the aim of providing to the participating students the opportunity to participate directly in the Parliament of Minas Gerais. Parlamento Jovem seeks to stimulate the political education of young people, leading them to an exercise of democratic participation in issues relevant to the community, providing a space for experience in a political atmosphere. This paper provides an assessment of the project’s impact on the confidence that participants have in three institutions – the National Congress (CN), ALMG and the Municipality Chamber of Belo Horizonte (CMBH). We used a database developed in 2008, under the direction of Professor / Dr. Mario Fuks (Department of Political Science at the Federal University of Minas Gerais (DCP / UFMG)). The evaluation was made ​on the perspective of a quasi-experimental study with information collected before and after the participation of young people in the PJ and in the control group Through multivariate analysis, it was found that after the completion of the project, students in the treatment group became more confident in institutions, mainly in ALMG, compared to students in the control group.
+
+Keywords: Legislative Assembly of Minas Gerais. Youth Parliament. Parlamento Jovem. Civic education. Trust in institutions.
+
+1. Introdução
+
+Este artigo tem como objetivo avaliar o impacto do Parlamento Jovem (PJ) de Minas Gerais nas atitudes políticas dos seus participantes, particularmente na confiança que eles têm na ALMG, assim como em outras instituições legislativas. O Parlamento Jovem é um projeto elaborado no contexto de inovação da Assembleia Legislativa de Minas Gerais. Realizado anualmente, ele reúne alunos do ensino médio do Estado para que, durante seis meses, sejam desenvolvidas atividades de caráter político-pedagógico. No final do semestre, um documento oficial é elaborado e enviado à Comissão de Participação Popular da ALMG. O Parlamento Jovem busca, dessa forma, estimular a formação política dos jovens na direção de uma cidadania participativa e democrática.
+
+Apesar de todo o esforço dispendido pela ALMG, quais são os resultados efetivos do Parlamento Jovem, em termos de mudanças de atitudes dos seus participantes? Durante muito tempo, a
+
+literatura sobre socialização política foi cética em relação a mudanças. Segundos os primeiros estudos, a socialização primária, com base na família e na educação, são determinantes nas atitudes políticas dos indivíduos, restando pouco espaço para a interferência de eventos externos (HYMAN, 1959; ALMOND & VERBA, 1964; EASTON & DENNIS, 1969). Todavia, estudos mais recentes têm relativizado esse argumento, demonstrando como certos tipos de evento político podem exercer grande influência sobre os indivíduos (JENNINGS & NIEMI, 1974; JENNINGS & MARKUS,1984; SIGEL et al, 1989). Os programas de educação cívica são um exemplo marcante desses eventos. Ao mobilizarem um grande fluxo de informações em um curto período de tempo, os programas de educação cívica são capazes de disseminar uma enorme quantidade de informação, estimulando a participação e a reavaliação das atitudes.
+
+Diante dessas considerações, nossa hipótese é que o Parlamento Jovem seja capaz de proporcionar essa mudança em seus participantes. Para testá-la, utilizamos aqui um banco de dados desenvolvido pela pesquisa O Parlamento Jovem como um espaço de socialização política, realizada na edição de 2008 do PJ. O desenho de pesquisa segue a lógica da pesquisa quase experimental, com informações coletadas antes e depois do programa, além de grupos de controle e tratamento. Os resultados da pesquisa demonstram que, de fato, o Parlamento Jovem é eficiente em promover uma mudança de atitude em seus participantes. No final do programa, os participantes do PJ passaram a confiar mais nas instituições, quando comparados aos não participantes. Isso mostra que, confirmando os estudos mais recentes de socialização política e educação cívica, eventos políticos que conseguem gerar um intenso fluxo informacional e que proporcionam uma experiência direta de envolvimento com o mundo político são capazes de romper com as atitudes políticas adquiridas na socialização política primária. Mesmo sendo controlados por uma série de outras variáveis, que envolvem o ambiente familiar e o escolar, além de outras experiências de socialização, os participantes foram expressivamente influenciados pelo que viram e viveram no PJ.
+
+74 75
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+tos políticos no processo de socialização. Em períodos de grande mudança social, como guerras ou depressões econômicas, os indivíduos estão mais sujeitos a pressões externas impostas por mudanças da própria sociedade. Por meio de uma pesquisa com dados de painel, Sears e Valentino (1997) apontaram o papel das eleições no processo de aquisição de conhecimento e de mudança de atitudes políticas. Segundo eles, eventos políticos, como as eleições, são importantes na medida em que conseguem, ao contrário dos períodos convencionais, gerar um intenso fluxo informacional. A exposição quase diária à política exerce um efeito “catalisador” na obtenção de informações que, por sua vez, alteram o quadro de atitudes políticas. Para Sears e Valentino (1997), aqueles que têm mais a ganhar no final do evento, em termos de aquisição de conhecimento e cristalização de atitudes, são os que têm menos no ponto de partida. Ao comparar jovens em sua primeira eleição com adultos que já passaram por várias eleições, eles demonstraram que os primeiros começam com menos conhecimento e com opiniões menos cristalizadas, porém, no decorrer da campanha, essas diferenças são niveladas. Em outras palavras, sem um estoque de eventos prévios, os jovens adquiriram novos conhecimentos e também formaram novas opiniões. Alinhados a essas últimas pesquisas que enfatizam a força dos eventos políticos, os programas de educação cívica dão uma importante contribuição ao estudo dos processos de aquisição de conhecimento e de mudança de atitudes. A educação cívica é concebida aqui como um evento político no qual determinadas pessoas são reunidas por um curto período de tempo e expostas a uma grande quantidade de informações, atividades ou debates, com o objetivo de promover maior competência cívica (FINKEL, 2003). Tais informações podem ser de natureza periódica, como uma matéria lecionada em sala de aula (CAMPBELL, 2008), ou de natureza episódica, como programas realizados por governos e entidades apoiadoras em uma determinada população (LUSKIN & FISHKIN, 2002; FINKEL & ERNST, 2005; FINKEL & SMITH, 2011). De forma geral, os es 2. Contextualização
+
+2.1. Socialização, educação cívica e mudança de atitudes
+
+Do ponto de vista teórico, o Parlamento Jovem pode ser observado à luz dos estudos de socialização política e educação cívica. Na definição do Handbook Socialization, o termo “socialização” refere-se ao processo em que os indivíduos assimilam e internalizam os valores e os padrões de comportamento da cultura na qual eles estão inseridos (MACCOBY, 2007). A socialização política, especificamente, diz respeito aos processos de aprendizado pelos quais as pessoas adquirem as orientações e os padrões de comportamento político de uma determinada sociedade ou grupo (GREENSTAIN, 1968; EASTON & DENNIS, 1969).
+
+As pesquisas clássicas de socialização política (HYMAN, 1959; EASTON & DENNIS, 1969) descreveram esse processo por meio de três características básicas: 1) a socialização política começa nas primeiras fases da vida, ainda na infância; 2) as atitudes adquiridas nessa fase são cristalizadas e resistem às mudanças ao longo de tempo; 3) a família, em primeiro lugar, e a escola, em segundo, são as principais agências de socialização da sociedade. Não demorou, no entanto, para que essa primeira visão fosse contestada, já na década de 1970. Em um clássico estudo de painel, no qual os mesmos indivíduos foram observados em três ou mais momentos no tempo, Jennings e Niemi (1974) demonstraram que, embora algumas atitudes realmente fossem muito resistentes a mudanças, como, por exemplo, a identificação ideológica e partidária, essa não era a regra. Em geral, as demais atitudes eram mais maleáveis ao longo do tempo, mudando na adolescência ou na juventude. Em um trabalho posterior, Jennings e Markus (1984) demonstraram a importância de outros agentes de socialização nesse processo, como a universidade e o trabalho, relativizando os papéis até então quase exclusivos da família e da escola. Em outro estudo, Sigel (1989) e colaboradores defenderam a importância dos even 76 77
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+tudos de educação cívica demonstram que as atitudes políticas são muito mais maleáveis do que supunham os primeiros estudos de cultura e socialização política (ALMOND & VERBA, 1964; HYMAN, 1959; EASTON & DENNIS, 1969), desde que imersas em um ambiente de alto fluxo informacional e de experiências reiteradas. Em outras palavras, as atitudes podem ser reavaliadas a partir de um processo de aquisição de novas informações e de uma dinâmica de participação ativa e contínua (FINKEL, 2003).
+
+Em um estudo comparativo entre Polônia, África do Sul e República Dominicana, Finkel (2003) apontou que os programas de educação cívica realizados nesses países são capazes de promover não só maior participação política, como também maiores níveis de conhecimento e de tolerância política. Em outro trabalho, Finkel e Smith (2011) reforçaram esse argumento, ao estudarem, por meio de um desenho de pesquisa quase-experimental, os efeitos de um programa nacional de educação cívica no Quênia. Segundo os autores, os participantes do programa adquirem não só maior participação política, como também maior conhecimento, quando comparados àqueles que não participaram do programa. Mais do que isso, além desses efeitos diretos, os autores demonstraram a existência de efeitos indiretos, conforme os participantes do programa compartilhavam suas experiências e informações com a família e amigos. Diante dessas considerações teóricas, podemos enquadrar o Parlamento Jovem (PJ), objeto de estudo neste artigo, como sendo, em termos teóricos, ao mesmo tempo um evento de socialização política, no sentido apresentado por Sears e Valentino (1997), e um programa de educação cívica, conforme o enquadramento de Finkel (2003) e de Finkel e Smith (2011). Em termos práticos, isso significa reconhecer, por um lado, que o Parlamento Jovem, além de ser capaz de gerar um intenso fluxo de informações, fora dos padrões cotidianos, é um evento de socialização política, na medida em que representa uma atividade externa às agências de socialização primária. Por outro lado, também é um programa de educação cívica, já que seu objetivo é a promoção de maior competência cívica democrática. Em
+
+suma, ao enfatizar essas duas abordagens, o Parlamento Jovem é considerado um evento de curta duração, com intenso fluxo de informações e repleto de atividades políticas voltadas para um objetivo final – a aquisição de maior competência política. São essas características que distinguem o Parlamento Jovem de outros eventos políticos.
+
+2.2. A inovação institucional e o Parlamento Jovem Mineiro
+
+O Parlamento Jovem não é uma exclusividade de Minas Gerais. Na realidade, diversos outros eventos da mesma natureza são realizados não só no Brasil, mas também no resto mundo (COSSON, 2008). Eles são variados e podem apresentar diferenças quanto ao formato, regras, público e entidade promotora. Alguns eventos, por exemplo, são promovidos por organizações da sociedade civil sem laços com o poder público, como é o caso do Oxfam International Youth Parliament1, que reúne jovens líderes e ativistas de vários países para discutir e propor ações de mudanças sustentáveis em suas comunidades.
+
+Mais comuns, no entanto, são os eventos vinculados às práticas legislativas. Nesses casos, conjuntamente às discussões realizadas sobre um determinado tema, existe uma prática de simulação parlamentar em que os participantes exercem atividades similares àquelas realizadas pelos parlamentares, tais como debates, discussões e votações de projetos. Um exemplo consolidado é o European Youth Parliament (EYP)2, desenvolvido desde 1987 e que, todo ano, reúne mais de 300 jovens de 16 a 22 anos de mais de 32 países, para participarem, em um período de mais ou menos duas semanas, de uma série de atividades similares às exercidas pelo Parlamento Europeu, como reuniões em comissões, análise e deliberação de propostas, e votação final. No Brasil, existem iniciativas semelhantes ao European Youth Parliament. Eventos pioneiros nesse sentido são o Deputado por um dia, no Rio Grande do Sul, e o Parlamento Jovem Paulista, em São Paulo, ambos com início em 1999. Vinculados às casas legislativas de cada estado, eles seguem a lógica da simula 78 79
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+ção parlamentar, reunindo jovens adolescentes para participar de atividades semelhantes àquelas exercidas pelos deputados estaduais. O sucesso desses eventos estimulou a criação de outros, como o Parlamento Jovem Cearense, o Parlamento Juvenil do Rio de Janeiro e o Parlamento Mirim do Mato Grosso. Vale mencionar, também, o Parlamento Jovem Brasileiro, versão nacional dos parlamentos jovens estaduais, e eventos municipais que imitaram o funcionamento de câmaras de vereadores. Diante dessa pluralidade de eventos, como entender o processo específico de criação do Parlamento Jovem Mineiro, objeto de estudo deste artigo? Para responder tal questão, é importante ressaltar que a versão mineira faz parte de um processo mais amplo de inovação institucional da Assembleia Legislativa de Minas Gerais. Segundo Anastasia (2001), é possível observar, no interior da ALMG, um forte processo de mudança institucional desde o final da década de 1980 e, mais fortemente, no início da década de 1990. Esse processo envolve um movimento, por um lado, de reestruturação organizacional e, por outro, de maior interlocução com a sociedade civil. Um importante marco em relação à estrutura organizacional do PJ pode ser observado por meio do processo de separação entre o corpo técnico e o político. Em 1987, a Deliberação da Mesa nº 342/87 limitou a lotação de servidor efetivo em gabinete e, em 1990, por meio da Resolução nº 5086/90, a ALMG estabeleceu que, além de concursados, o seu corpo técnico serviria, exclusivamente, à estrutura administrativa da Casa. Nos anos subsequentes, foram realizados concursos públicos para a contratação de pessoal especializado nas diversas áreas temáticas da produção legislativa (ASSIS, 1997; ANASTASIA 2001). Na esteira dessas mudanças, a ALMG desenvolveu a primeira Escola do Legislativo do País, oferecendo formação e qualificação profissional ao seu corpo técnico, além de uma série de atividades pedagógicas para fomentar a “educação para a cidadania” (ASSIS, 1997). Outro esforço pioneiro foi o processo de informatização, com a disponibilização de todos os atos legislativos – desde os projetos de leis aos anais da Casa – no site da ALMG (DULCI & FARIA, 2005). Somam-se a essas inovações outras me didas, como a reestruturação de departamentos, secretarias e gerências, e a criação de novos órgãos, como a Gerência de Projetos Institucionais, a Secretaria de Comunicação Institucional, o Centro de Atendimento ao Cidadão, a Secretaria de Projetos Especiais e o Comitê Deliberativo de Comunicação Institucional.
+
+Além de modernizar e qualificar seu quadro técnico, a ALMG investiu também em mudanças na sua estrutura organizacional, visando a promover maior interlocução com a sociedade mineira (ASSIS, 1997; ANASTASIA, 2001). Com esse objetivo, foram concebidos novos canais de participação, como os ciclos de debates, as audiências públicas regionais, a Comissão de Participação Popular, as conferências estaduais, os fóruns técnicos e os seminários legislativos.
+
+O Parlamento Jovem foi criado no ano de 2004, em meio a esse processo de reforma institucional, por iniciativa da Escola do Legislativo e em parceria com o curso de Ciências Sociais da Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Formalmente, ele é considerado pela Escola do Legislativo uma forma de seminário legislativo, uma vez que, após todas as suas etapas, um documento final é elaborado e levado à Comissão de Participação Popular. Mas, além disso, o Parlamento Jovem é um evento de aprendizagem política que expressa a filosofia da Escola do Legislativo, centrada na educação para a cidadania, e que tem como objetivos a qualificação dos participantes para que se tornem cidadãos mais bem-informados, participativos, ativos na vida pública e atentos aos problemas do Estado (COSSON, 1998; CARVALHO, 2009). Entre os anos de 2004 e 2009, o Parlamento Jovem era realizado com o envolvimento dos alunos do curso de Ciências Sociais da PUC Minas e de escolas de ensino médio da Região Metropolitana de Belo Horizonte. O PJ começava com um curso de formação para alunos da PUC Minas, que atuavam como monitores. Um convite era encaminhado pela universidade às escolas, para que indicassem alunos e um tema para debate. Os temas mais citados eram então selecionados, discutidos em palestras conduzidas por técnicos da Assembleia e debatidos com todos os
+
+80 81
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+participantes, para que fossem votados. O tema vencedor era, posteriormente, subdividido em três subtemas, em comum acordo entre as escolas e a equipe técnica do PJ, para favorecer o processo de discussão e elaboração do documento final. Uma vez selecionados o tema e as escolas, os alunos participavam das oficinas de entrosamento, da mesa de debates sobre os subtemas do ano, da oficina de redação (para ensinar o formato do documento final), da oficina de teatro (para desenvolver a expressão em público) e de cursos sobre política e o Parlamento, preparando-se a sessão plenária. Além dessas atividades, os alunos elaboravam, com a ajuda dos monitores, propostas preliminares de ações para o poder público, as quais eram posteriormente consolidadas por técnicos da Assembleia Legislativa e redistribuídas às escolas, para constituir o documento final. Esse documento era discutido em duas etapas. Na primeira, era debatido em grupos temáticos de trabalho, para se obter uma prévia da redação final. Na segunda etapa, coordenada por monitor da PUC Minas e alunos relatores de cada escola, ocorria a apreciação e a votação do documento final, no Plenário da Assembleia Legislativa . Esse documento, depois de aprovado pela maioria simples dos participantes, era encaminhado à Comissão de Participação Popular da Assembleia Legislativa, que o analisava e fazia a sua tramitação no âmbito do Poder Legislativo.
+
+Na edição de 2008, foco deste artigo, o tema proposto foi “Violência Juvenil”. Participaram os seguintes estabelecimentos de ensino: Colégio Frei Orlando – unidade Carlos Prates; Colégio Frei Orlando – unidade Alípio de Melo; Colégio Loyola; Escola Santo Tomás de Aquino; Escola Municipal Walt Disney; Colégio Tiradentes – unidade Gameleira; Colégio Tiradentes – unidade Santa Teresa. É importante ressaltar que, em 2010, o projeto recebeu o nome de Parlamento Jovem de Minas e sofreu forte expansão, passando a envolver alunos do interior do Estado e monitores do Instituto de Ciências Sociais. Além disso, houve alterações significativas na escolha dos temas e subtemas. Essa escolha passou a ocorrer de forma indireta, pois havia dificuldade de replicar a dinâmica empregada na escala de Belo Horizonte em todos
+
+os municípios que ingressaram no PJ após a expansão. Hoje, o PJ Minas está em sua quinta edição após a estadualização. Ele é realizado em duas etapas: uma municipal, coordenada pelas câmaras, e uma etapa estadual, a cargo da Assembleia Legislativa. Nos municípios, as câmaras mobilizam escolas do ensino médio e superior, órgãos públicos, empresas e organizações da sociedade civil para viabilizar o projeto, formando assim uma extensa rede de educação legislativa em todo o Estado.
+
+Entre os objetivos oficiais3 do PJ, estão: 1) estimular a formação política e cidadã de estudantes dos ensinos médio e superior, por meio de atividades que os levem a compreender melhor a organização dos Poderes, especialmente do Legislativo, e a importância da participação popular no Parlamento; 2) levar os jovens a se interessarem pela agenda sociopolítica de seu município e pelo exercício da participação democrática na discussão e decisão de questões relevantes para a comunidade; 3) propiciar espaço para vivência em situações de estudos e pesquisas, debates, negociações e escolhas, respeitando-se as diferentes opiniões; 4) incentivar o envolvimento das câmaras municipais em atividades de educação para a cidadania.
+
+Embora escassos, existem estudos importantes a respeito dos efeitos do Parlamento Jovem Mineiro. Entre eles, destaca-se a pesquisa realizada pelo Prof. Dr. Mario Fuks, O Parlamento Jovem como espaço de socialização política, que investiga os efeitos do PJ da edição de 2008. O trabalho realizado por Fuks e Casalecchi (2012) demonstra que o projeto é um evento capaz de mudar atitudes e de proporcionar maior conhecimento político para seus participantes. Os autores referem-se a essas mudanças como um “ganho”, na medida em que, mediante a obtenção de maior conhecimento político, os participantes do projeto passam a valorizar os esforços institucionais da ALMG, a ter uma imagem mais positiva da instituição e a demonstrar maior confiança nela. Em outro artigo, Fuks (2010) traz outros padrões de mudança proporcionados pelo PJ, distinguindo os seus diferentes períodos de efeitos, que podem ser diretos, indiretos ou tardios. Os efeitos diretos correspondem a mudanças que ocorrem diretamente sobre o participante, enquanto os
+
+82 83
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+efeitos indiretos seriam sobre outras pessoas de seu ambiente social (pais, irmãos, amigos, etc.), ou seja, do seu ambiente de socialização. O trabalho de Casalecchi (2012) mostra que, além de confiança na ALMG, os participantes do PJ também adquirem uma imagem mais positiva da instituição, considerando-a mais inovadora, independente, aberta à população e transparente. Gonçalves (2013), por sua vez, apresenta resultados sobre os ganhos no conhecimento político dos jovens participantes. O que o autor define como ganho é o maior número de acertos em questões que envolvem a citação de deputados e de órgãos dos legislativos. Foi observado que, após a participação no PJ, há um aumento nas respostas corretas relacionadas a esse assunto.
+
+Conforme observado na literatura, o PJ tem obtido resultados positivos, especialmente em relação ao aumento da confiança nas instituições. A partir desse pressuposto, este trabalho busca identificar o impacto do projeto sobre a confiança dos alunos em três instituições: Congresso Nacional, Assembleia Legislativa de Minas Gerais e Câmara Municipal de Belo Horizonte. A hipótese a ser testada é a de que, uma vez inseridos na dinâmica legislativa e em sua complexidade, os alunos participantes saiam do programa mais confiantes nas instituições; não apenas na ALMG, mas também nas outras casas legislativas, uma vez que passam a compreender melhor sua complexa estrutura e dinâmica interna.
+
+3. Estratégia de pesquisa O componente central da metodologia da pesquisa se baseia em modelos experimentais e quase experimentais de investigação (CAMPBELL & STANLEY, 1979; COHEN & FRANCO, 2009). Os modelos experimentais são aqueles em que há grupo de tratamento e controle, coleta de informações antes e depois do tratamento, e em que os indivíduos são escolhidos aleatoriamente pelo pesquisador; ou seja, todos os indivíduos do universo estabelecido apresentam a mesma chance de comporem a amostra final. O modelo quase experimental se difere do anterior por não possuir o caráter aleatório. Por fim, temos o modelo não ex perimental. Ele pode ter três formatos. O primeiro seria aquele em que há dados no tempo antes e depois do tratamento, mas não há grupo de controle. No segundo, não há informação antes do tratamento, mas há grupos de tratamento e de controle. Por fim, o último formato decorre da existência de informação em dois momentos após o tratamento, mas não há grupo de controle. Em todas essas possibilidades, prevalece a não aleatoriedade (COHEN & FRANCO , 2009). Os modelos experimentais e quase experimentais são muito mais comuns nas ciências naturais – em particular nas ciências biológicas e da saúde –, pois dificilmente podem ser desenvolvidos nas ciências humanas ou sociais aplicadas, principalmente por questões éticas.
+
+As dificuldades muitas vezes observadas não devem representar um impedimento para que cientistas sociais desenvolvam pesquisas baseadas em modelos experimentais ou quase experimentais; devem, sim, ser um estímulo pela busca de resultados substantivos. Os estudos aplicados de avaliação de políticas públicas, em particular, têm servido de exemplo. Eles visam frequentemente a aplicar modelos experimentais ou quase experimentais em suas pesquisas (NEVES et. al., 2007).
+
+As principais vantagens dos modelos citados acima dizem respeito ao grau de controle alcançado. Há dois mecanismos principais que podem ser aplicados: aleatoriedade e emparelhamento. Apenas o segundo pode estar presente em uma pesquisa baseada em delineamentos quase experimentais. O desenho de pesquisa do Parlamento Jovem é um desenho quase experimental com grupo de controle, sem aleatoriedade, mas com emparelhamento. Devido à natureza do projeto, a aleatoriedade não pode ser feita, já que a escolha dos indivíduos para o Parlamento Jovem está fora da alçada dos pesquisadores. O emparelhamento foi feito por meio da seleção de estudantes de escolas que não foram escolhidas para participar do PJ, mas que são semelhantes às participantes em uma série de características, como sexo, idade e série, porém sem a realização de testes por meio do escore de propensão. Houve dois momentos de mensuração dos dados: o primeiro se deu no início do projeto – tempo 0 – e o segundo – tempo 1 – se deu no final (quadro 1).
+
+84 85
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Quadro 1 – Modelo da pesquisa desenvolvida pelo Parlamento Jovem de Minas Gerais – Brasil, 2008.
+
+O banco utilizado foi coletado em 2008, ano da quinta edição do PJ. Participaram sete escolas, sendo três públicas e quatro particulares, totalizando 160 alunos. Incluindo os alunos das escolas não participantes do Parlamento Jovem, foram aplicados 335 questionários no início do projeto e mais 335 no final do projeto. Desses questionários, 168 eram relativos a alunos do grupo de tratamento e 167 a alunos do grupo de controle. O método escolhido foi a regressão logística ordinal (LONG & FREESE, 2001), devido à natureza das variáveis dependentes. Elas podem assumir quatro valores em uma perspectiva de ordem, como será descrito na explicação tanto dos fatores explicativos quanto dos fatores a serem estudados.
+
+Os resultados aqui apresentados são relativos a 294 alunos, pois foram excluídos aqueles que se inscreveram, mas não participaram efetivamente do Parlamento Jovem. O banco foi elaborado em formato de painel e, por isso, foi utilizado, de forma complementar à análise multivariada, um controle por variável defasada (a condição da variável dependente antes da implementação da política), no caso, a confiança inicial dos jovens em cada umas das três instituições citadas. Em alguns casos, suspeitamos que uma ou mais variáveis independentes sejam correlacionadas a uma variável omitida, mas não temos ideia de como obter uma proxy. Nesses casos, incluímos a variável dependente de um período anterior como variável independente.
+
+Como variáveis independentes, foram selecionadas a variável de participação do Parlamento Jovem, sendo 1 para os participan tes e 0 para não participantes; um fator com a escolaridade dos pais; três variáveis dicotômicas para as escolas classificadas pelo tipo (escola pública, militar, particular de classe média ou particular de elite); duas variáveis dicotômicas, que mostram a série em que se encontram os alunos; uma variável de exposição aos meios de comunicação; duas variáveis de outras experiências de socialização, sendo 1 para aqueles que participaram e 0 caso contrário; e as variáveis defasadas, ou seja, a condição prévia – variável no tempo 0 – de cada uma das dependentes. Foram incluídas inicialmente três variáveis de avaliação de cada instituição, que foram utilizadas de acordo com a variável dependente. Entretanto, pela dificuldade empírica de o aluno distinguir o conceito “avaliação de confiança”, optou-se pela exclusão da variável.
+
+Outras variáveis independentes relacionadas à cultura política e às características individuais dos alunos também foram testadas no modelo. Mas, como o tamanho da amostra já é reduzido – 294 alunos –, optou-se por um modelo final mais parcimonioso. A construção detalhada dos termos independentes e dependentes está apresentada abaixo.
+
+Variáveis dependentes
+
+Confiança na ALMG – Foi feita a pergunta “Em relação à Assembleia Legislativa de Minas Gerais (ALMG), você: (1) nunca confia, (2) confia às vezes, (3) confia na maior parte do tempo e (4) confia sempre?”.
+
+Confiança no Congresso Nacional – Foi feita a pergunta “Em relação ao Congresso Nacional, você: (1) nunca confia, (2) confia às vezes, (3) confia na maior parte do tempo e (4) confia sempre?”.
+
+Confiança na câmara dos vereadores – Foi feita a pergunta “Em relação à câmara dos vereadores, você: (1) nunca confia, (2) confia às vezes, (3) confia na maior parte do tempo e (4) confia sempre?”.
+
+Variáveis independentes
+
+Participou do Parlamento Jovem – Foi criada uma variável binária em que 1 = aluno do grupo de tratamento (participante do PJ) e 0 = aluno do grupo de controle (não participante do PJ). Série – Foi criada uma variável categórica em que 1 = aluno do
+
+Grupo Antes Política Depois
+
+Tratamento T0 Parlamento Jovem T1
+
+Controle C0 – C1
+
+*O tempo antes da política corresponde a abril de 2008 e o tempo depois corresponde a julho de 2008.
+
+86 87
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+1º ano, 2 = aluno do 2º ano e 3 = aluno do 3º ano do ensino médio. Em seguida, essa variável foi decomposta em três variáveis binárias que indicaram se o aluno participava do primeiro, segundo ou terceiro ano, na qual o valor 0 = não participa e 1 = participa do PJ.
+
+Outras socializações – Foi perguntado “Você participa ou já participou de mini-ONU?”, “Você participa ou já participou de conferência diplomática?”, “Você participa ou já participou de grupo de estudo sobre política?” e “Você participa ou já participou de algum outro projeto voltado para a formação política?”. Foi criada a variável binária com valor 1 para quem participou e 0 para quem não participou. A partir das respostas, foram criadas duas novas variáveis. A primeira delas computou quais alunos participaram de mini-ONU, de conferência diplomática ou de outro projeto voltado para formação política, na qual o valor 0 = não participou de nenhum desses e 1 = participou de algum desses. A segunda variável computou os alunos que participaram de grupo de estudo sobre política, na qual 0 = não participou e 1 = participou.
+
+Escolaridade dos pais – A partir da análise fatorial por eixos principais, foi criado um construto que aglutinou os anos de escolaridade completos do pai e da mãe do respondente, de modo a se obter apenas uma variável geral de escolaridade dos pais. As duas variáveis isoladas foram medidas em termos dos graus escolares completos ou incompletos do pai e da mãe. Para transformá-las em variáveis contínuas, atribuíram-se os seguintes valores aos anos de escolaridade: 0 (nunca frequentou a escola), 2 (1ª a 4ª série do fundamental incompleto), 4 (1ª a 4ª série do fundamental completo), 6 (5ª a 8ª série do fundamental incompleto), 8 (5ª a 8ª série do fundamental completo), 9,5 (1º ao 3º do ensino médio incompleto), 11 (1º ao 3º ano do ensino médio completo), 13 (curso superior incompleto), 15 (curso superior completo), 16 (pós-graduação incompleta) e 17 (pós-graduação completa).
+
+Variáveis binárias das escolas – Uma das variáveis em nosso banco de dados buscava captar, em um só indicador, o tipo de ambiente escolar frequentado pelo respondente. As categorias definidas foram as seguintes: escola pública, escola pública militar, escola particular de classe média e escola particular de elite. Foram criadas variáveis indicadoras (binárias) a partir das
+
+quatro categorias. Os critérios utilizados na classificação das escolas como de elite e classe média foram a mensalidade e a localização geográfica. Assim, nenhuma escola de classe média tinha, na primeira e segunda série do ensino médio, mensalidade superior a R$ 520,00, enquanto as mensalidades das escolas de elite variavam entre R$ 642,00 e R$ 738,00. Da mesma forma, além de serem reconhecidas publicamente como “tradicionais”, todas as escolas de elite se situavam na região mais valorizada de Belo Horizonte (zona sul). As escolas de classe média ficavam em regiões menos “nobres” da cidade. No caso das escolas públicas e militares, a classificação apenas reproduziu a identidade jurídica dessas escolas. Há, entre as variáveis independentes, condições prévias (variáveis defasadas) para a confiança final em cada uma das instituições. Tal discussão é trazida por Luskin e Fishkin (2002). A condição prévia é utilizada para garantir que todos, de certa forma, comecem no mesmo patamar relativo à sua própria condição inicial. Caso contrário, o resultado ficaria subestimado ou superestimado de acordo com o valor com o qual se começou. Por exemplo, aquele que já tem um grau de confiança máximo na instituição não terá ganho, manterá sua confiança ou passará a confiar menos. A condição prévia é utilizada, então, para que se evite esse problema.
+
+Esses atributos individuais foram utilizados para, em maior ou menor medida, explicar a participação dos jovens. Tais características formam um “estoque de estímulo ao ativismo, que estará à disposição do indivíduo quando, na vida adulta, novas oportunidades de participação surgirem” (FUKS, 2010).
+
+4. Resultados A primeira parte da análise de dados buscou explorar a mudança de atitude no tempo, desagregando a informação por participante (grupo de tratamento) e não participante (grupo de controle). Foram contempladas as variáveis dependentes “confiança na ALMG”, “confiança no Congresso Nacional” e “confiança na Câmara Municipal de Belo Horizonte”. Após o programa,
+
+88 89
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+notou-se que os participantes passaram a confiar mais na ALMG, em comparação com os não participantes. No grupo de controle, a concentração no tempo 1, na categoria “nunca confia”, foi 9,5%4 menor do que no tempo 0 e 150% menor no grupo de tratamento. Em relação à categoria “confia às vezes”, no grupo de controle, vimos que a variação foi praticamente nula do tempo 0 para o tempo 1, enquanto, no grupo de tratamento, houve uma redução de 51,6% após a participação no PJ. Quanto à categoria “confia na maior parte do tempo”, percebeu-se um aumento de entrevistados participantes e não participantes que escolheram essa resposta. No grupo de participantes, o aumento foi de 24,2%, enquanto, no grupo de não participantes, o aumento foi de 71,2%. Por fim, na categoria “confia sempre”, a diferença entre os grupos de participantes e de não participantes no PJ foi tão forte quanto no item anterior. No grupo de não participantes, houve uma redução de 68,8% no percentual de pessoas que disseram confiar sempre na ALMG, enquanto, entre os participantes, houve um aumento de 183,8% no número de adolescentes que demonstraram muita confiança na instituição organizadora do Parlamento Jovem.
+
+A segunda variável dependente, “confiança no Congresso”, foi a que apresentou as menores mudanças de atitude em termos percentuais no tempo. Na categoria “nunca confia”, houve uma redução percentual de 88,6% dentro do grupo de controle. No grupo de tratamento, por sua vez, observou-se uma redução ligeiramente menor, de 84,6%. O percentual de não participantes que disseram confiar às vezes na instituição aumentou ligeiramente, 6,5%, enquanto a variação percentual entre os participantes foi negativa e igual a 7,6%. Ou seja, houve uma redução do percentual no grupo de tratamento. Na categoria seguinte, “confia na maior parte do tempo”, vimos uma mudança muito pequena em relação aos não participantes, de 11,3% para 13,0%. Já entre os participantes, a variação percentual relativa a essa categoria foi de 84,2% e positiva. Finalmente, podemos dizer que o percentual de alunos tanto no grupo de controle quanto no grupo de tratamento foi muito pequeno, assim como a variação: entre os não participantes, o percentual era de 1,3% e foi para 1,6%, enquanto, entre os participantes, o percentual foi de 2,5% para 0,9%.
+
+Outra variável dependente que analisamos foi a confiança na CMBH. Para essa variável, o percentual de não participantes no tempo 1 que “nunca confia na CMBH” foi 15,5% menor do que no tempo 0. Entre os participantes, a concentração foi 275,8% menor, no mesmo sentido do grupo anterior. Já na categoria “confia às vezes” vimos que houve um aumento de 8,1% no tempo 1 no grupo de controle, enquanto, no grupo de tratamento, a lógica foi inversa: o percentual de respondentes diminuiu no tempo 1 (redução de 5,9%). O percentual de não participantes que “confiam na maior parte do tempo na CMBH” diminuiu 32,8% no tempo, enquanto houve um aumento de 60,3% entre os participantes. Finalmente, o percentual de alunos que “sempre confiam na CMBH” foi maior no tempo 1 no grupo de controle do que no grupo de tratamento. Enquanto o aumento foi de 109,7% no primeiro grupo, o aumento no segundo foi de 96%. Ressalta-se que, em ambos os grupos, a concentração de pessoas que demonstraram tamanha confiança foi pequena. Após o PJ, o percentual de participantes com essa opinião foi de 4,9%, enquanto o percentual de não participantes foi de 6,5%.
+
+A partir desses dados preliminares, pode-se afirmar que existe uma mudança de atitude entre os participantes do Parlamento Jovem no que diz respeito à confiança na ALMG. Enquanto a maior parte dos não participantes permanecem céticos ao longo do tempo, os participantes passam a depositar maior confiança na Assembleia. O mesmo não ocorre, ao menos na mesma intensidade, em relação às demais casas legislativas. Isso indica que, corroborando a nossa hipótese inicial, o Parlamento Jovem é capaz de promover uma mudança na atitude de confiança política. Essa mudança, no entanto, é mais significativa em relação à ALMG do que às demais casas legislativas.
+
+Apesar de apontar para a direção esperada, esses resultados não levam em consideração a presença de outros mecanismos de socialização que, paralelamente ao Parlamento Jovem, também podem exercer influência na mudança de atitude dos jovens. Resta, portanto, uma análise mais aprofundada dos dados, de forma a observar o efeito do Parlamento Jovem mediante o controle de outras variáveis, como ambiente familiar/escolar e presença de outras experiências de socialização. Dada a nature 90 91
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+za ordinal dos dados, optou-se, nesta análise, pela construção de um modelo de regressão logística ordinal5. A tabela 2 mostra os resultados obtidos a partir desse modelo.
+
+Tabela 1 – Frequência e distribuição percentual do número de participantes e não participantes do Parlamento Jovem de 2008, por possibilidade de resposta das variáveis dependentes categóricas.
+
+Variáveis Dependentes Categorias
+
+Tempo 0 Tempo 1
+
+Controle Tratamento Controle Tratamento
+
+N* % N* % N* % N*
+
+Confiança no Congresso
+
+Nunca confia 24 15,0 10 8,1 19 12,0 8
+
+Confia às vezes 116 72,5 95 77,2 112 70,9 81
+
+Confia na maior parte do tempo 18 11,3 16 13,0 23 14,6 33
+
+Sempre confia 2 1,3 2 1,6 4 2,5 1
+
+Total** 160 100 123 100 158 100 123
+
+Confiança na ALMG
+
+Nunca confia 13 8,1 5 4,0 12 7,4 2
+
+Confia às vezes 81 50,6 62 50,0 99 61,1 50
+
+Confia na maior parte do tempo 53 33,1 51 41,1 45 27,8 59
+
+Sempre confia 13 8,1 6 4,8 6 3,7 13
+
+Total** 160 100 124 100 162 100 124
+
+Confiança na Câmara Municipal de BH
+
+Nunca confia 24 14,9 16 12,9 20 12,4 4
+
+Confia às vezes 93 57,4 77 62,1 109 67,7 78
+
+Confia na maior parte do tempo 40 24,7 23 18,6 28 17,4 34
+
+Sempre confia 5 3,1 8 6,5 4 2,5 6
+
+Total** 162 100 124 100 161 100 122
+
+*N=Tamanho da amostra por possibilidade de resposta. **A variação de resposta é por causa de indivíduos que deixaram de responder as perguntas no tempo 0 ou no tempo 1.
+
+Fonte: Os dados da pesquisa foram produzidos pela pesquisa O Parlamento Jovem como espaço de socialização política, organizada pelo Prof. Dr. Mário Fuks e financiada pelo CNPq e pela Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig).
+
+Tabela 2 – Regressão Logística Ordinal para as variáveis dependentes “confiança na ALMG”, “confiança no Congresso” e “confiança na CMBH”, Parlamento Jovem de Minas Gerais, 2008.
+
+continua ...
+
+Variáveis Independentes Confiança na ALMG Confiança no CN Confiança na CMBH
+
+Participante do PJ 3,035*** (0,613) 1,647*** (0,278) 2,601*** (0,520)
+
+Fator com a escolaridade dos pais 1,638** (0,334) 1,364* (0,249) 1,731* (0,496)
+
+Escola pública Referência Referência Referência
+
+Escola pública militar 0,497 (0,213) 0,646 (0,271) 0,395** (0,151)
+
+Escola particular de classe média 0,599 (0,226) 0,659 (0,243)
+
+0,393* (0,213)
+
+Escola particular de elite 0,394 (0,200) 0,974 (0,353) 0,508 (0,305)
+
+Participou de grupo de estudo antes e/ou durante o PJ 0,975 (0,355) 0,490** (0,165) 0,586 (0,350)
+
+Outra experiência de socialização e/ou durante o PJ 1,336 (0,575) 1,588 (0,757) 1,160 (0,350)
+
+Exposição à informação nos meios de comunicação 1,037 (0,0459) 1,003 (0,0560) 0,994 (0,0641)
+
+Aluno do primeiro ano Referência Referência Referência
+
+Aluno do segundo ano 1,073 (0,357) 1,084 (0,223) 0,949 (0,369)
+
+Aluno do terceiro ano 1,284 (0,629) 1,138 (0,522) 1,554 (0,493)
+
+Var. defasada – Confiança na ALMG 3,059*** (0,680) – –
+
+92 93
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Em princípio, nota-se que poucas variáveis aforam estatisticamente importantes, mesmo quando o nível de confiança foi de 90%. No teste monocaudal6, a significância estatística foi maior, mas, como não há certeza quanto à direção que cada variável deve assumir, optou-se pelo teste bilateral. Além da variável de participação, apenas os fatores “escolaridade dos pais” e “condição prévia” foram estatisticamente significativos para as três variáveis dependentes. Ser estudante de escola de elite foi significativo para o modelo da variável dependente “confiança na ALMG”. “Participou de
+
+grupos de estudos e/ou durante o PJ” foi significativo para “confiança no Congresso Nacional”, enquanto “ser estudante de Escola Pública Militar” e “ser estudante de escola particular de classe média” foram igualmente significativos. Mas qual foi o tamanho do impacto de cada variável sobre a confiança nas instituições? Como o objetivo foi avaliar o impacto do PJ, foi fundamental que se analisasse a magnitude das principais variáveis. Para essa análise dos coeficientes, foi considerado o efeito ceteris paribus (mantendo-se as demais variáveis constantes).
+
+Na análise da principal variável de controle – “participou ou não do PJ” –, constatou-se que os alunos participantes têm probabilidade 203,5% maior de expressarem confiança na ALMG do que os do grupo de controle (Tabela 2). O aumento de uma unidade no fator de escolaridade dos pais aumentou a probabilidade de confiança em 63,8%. Apurou-se, também, que um aluno que estuda numa escola de elite está mais suscetível a desconfiar da ALMG do que um aluno de escola pública. Segundo a pesquisa, a probabilidade de o aluno de elite confiar na instituição é 60,6% menor. Por fim, um aluno que participou de grupos de estudo antes e/ou durante o PJ tem probabilidade positiva de 33,6%, enquanto um aluno do terceiro ano tem probabilidade igualmente positiva de 28,4%. Em ambos impactos, não há significância estatística. Para observar-se a grande diferença entre o grupo de tratamento e o grupo de controle, ainda foi elaborado um gráfico da probabilidade predita para cada uma das categorias (figura 1). Mantiveram-se constantes as variáveis independentes dos modelos de regressão, com exceção de “participação ou não no PJ”. Nas variáveis binárias, optou-se pela categoria com maior número de respostas. Na variável contínua, centralizou-se a variável em seu valor médio. Observa-se que a concentração na categoria “confia às vezes”, no grupo de controle, foi substancialmente maior do que na mesma categoria, no grupo de tratamento. Entretanto, a concentração na opção “confia na maior parte do tempo” e “confia sempre” foi maior entre os participantes do que entre os não participantes.
+
+Erros-padrão robustos entre parênteses.
+
+*** significante ao nível de confiança de 99%; ** significante ao nível de confiança de 95%; * significante ao nível de confiança de 90% – (testes bicaudais)
+
+A variação entre o número de observações de cada modelo deve-se à ausência de resposta de alguns indivíduos.
+
+Fonte: Os dados da pesquisa foram produzidos pela pesquisa O Parlamento Jovem como espaço de socialização política, organizada pelo Prof. Dr. Mário Fuks e financiada pelo CNPq e pela Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig).
+
+...continuação
+
+Variáveis Independentes Confiança na ALMG Confiança no CN Confiança na CMBH
+
+Var. defasada – Confiança no CN – 2,757*** (0,751) –
+
+Var. defasada – Confiança na CMBH – – 3,499*** (0,858)
+
+Corte 1 – Constante 0,196*** (0,0918) 0,263*** (0,0971) 0,186*** (0,110)
+
+Corte 2 – Constante 8,902*** (4.191) 12,70*** (4.430) 11,91*** (6,971)
+
+Corte 3 – Constante 133,2*** (83,43) 275,2*** (134,3) 144,3*** (104,3)
+
+Observações 278 273 277
+
+94 95
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Figura 1 – Probabilidade predita de confiança na ALMG dos “participantes” e “não participantes” do Parlamento Jovem de 2008, por possibilidade de resposta, mantendo-se as demais variáveis independentes constantes.
+
+Fonte: Os dados da pesquisa foram produzidos pela pesquisa O Parlamento Jovem como espaço de socialização política, organizada pelo Prof. Dr. Mário Fuks e financiada pelo CNPq e pela Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig).
+
+Em relação à variável dependente “confiança no Congresso Nacional (CN)” observa-se um impacto menor da participação no PJ (tabela 2). Os alunos do grupo de tratamento registraram um índice de probabilidade 64,7% superior de confiança no Congresso Nacional em relação aos alunos do grupo de controle, mantendo-se as demais variáveis constantes. Pela figura 2, constata-se que a variação entre os grupos, nas duas categorias mais positivas – “confia na maior parte do tempo” e “confia sempre” –, é menor quando comparada às respostas relativas à última instituição analisada: a Assembleia Legislativa de Minas Gerais (figura 1). Em relação às demais variáveis, o aumento de uma unidade no fator de escolaridade dos pais aumenta em 1,364% a chance de o aluno confiar mais no CN, enquanto ter participado de grupos de estudo antes e/ou durante o PJ reduz
+
+em 51% a probabilidade de confiança, em relação a quem não participou. Ter participado de outras experiências de socialização (mini-Onu, conferência diplomática e/ou algum outro projeto voltado para a formação política) aumenta a probabilidade de confiança em 58,8%, mas sem significância estatística. Figura 2 – Probabilidade predita de confiança no CN dos “participantes” e “não participantes” do Parlamento Jovem de 2008, por possibilidade de resposta, mantendo-se as demais variáveis independentes constantes.
+
+Fonte: Os dados da pesquisa foram produzidos pela pesquisa O Parlamento Jovem como espaço de socialização política, organizada pelo Prof. Dr. Mário Fuks e financiada pelo CNPq e pela Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig).
+
+A última variável dependente é a “confiança na Câmara Municipal de Belo Horizonte”. Mais uma vez, a magnitude do impacto apresentada pela variável “participou do PJ” foi importante. Foi apurado que os participantes no PJ demonstraram 160,1% a mais de confiança do que os integrantes do grupo de controle (tabela 2). Percebe-se, na figura 3, que a diferença entre participantes e não participantes nas categorias “confia na maior parte do tempo” e “confia sempre” foi maior em relação à CMBH do
+
+96 97
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+que ao CN (figura 2) e menor do que a relativa à ALMG (figura1). Em relação às demais variáveis de controle (tabela 2), constatou-se que o aumento de uma unidade no fator de escolaridade dos pais aumentou em 73,1% o índice positivo de confiança. Estudar em escola pública militar, escola particular de classe média ou escola particular de elite apresentou um efeito negativo respectivamente igual a 60,5%, 60,7% e 49,2% (percentuais sem significância estatística), em relação a ter estudado em escola pública (mantendo-se as demais variáveis constantes). Ter participado de outras formas de socialização política – mini-Onu, conferência diplomática e/ou algum outro projeto voltado para a formação política – aumentou a confiança em 16,0% (sem significância estatística). Por último, ser aluno do terceiro ano do ensino médio, em relação a ser do primeiro ano, aumentou o índice de confiança em 55,4% (sem significância estatística).
+
+Figura 3 – Probabilidade predita de confiança na CMBH dos “participantes” e “não participantes” do Parlamento Jovem de 2008, por possibilidade de resposta, mantendo as demais variáveis independentes constantes.
+
+Fonte: Os dados da pesquisa foram produzidos pela pesquisa O Parlamento Jovem como espaço de socialização política, organizada pelo Prof. Dr. Mário Fuks e financiada pelo CNPq e pela Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig).
+
+Portanto, percebe-se, pelos modelos de regressão logística, que no final PJ foram registrados maiores índices de confiança dos participantes. A descrição deixou bem claro que, apesar de em alguns momentos a confiança ser similar no tempo 0, no tempo 1 o panorama mudou, e a pesquisa registrou índices mais expressivos, mesmo em termos relativos, sem a realização de testes estatísticos mais robustos. O Parlamento Jovem mostrou-se eficiente nesse sentido, uma vez que a confiança dos indivíduos aumentou ao longo do tempo.
+
+Em suma, os resultados da análise multivariada confirmaram o que já havia sido levantado na análise descritiva preliminar dos dados: ao contrário do grupo de controle, o grupo de tratamento, que participou do PJ, passou a confiar mais na ALMG. Os resultados mostraram ainda que seus participantes também passaram a confiar mais na CMBH, porém não nas mesmas proporções. Esse resultado está de acordo com as teorias mais recentes sobre socialização política e educação. Submetidos a um intenso fluxo de informações e a experiências diretas e reiteradas, os jovens participantes do PJ reavaliaram sua atitude em relação às instituições, especialmente à ALMG, passando a confiar mais na Casa.
+
+5. Considerações finais
+
+O presente artigo demonstrou que, após a realização do PJ, os participantes no programa passaram a confiar mais na ALMG e, em menor intensidade, na CMBH. Nesse sentido, pode-se dizer que, como uma experiência de socialização política, o PJ foi um programa bem-sucedido. De fato, ao contrário do grupo de tratamento, aqueles que participaram do programa foram capazes de reavaliar sua atitude, optando, no final dele, por mudá-la, expressando mais confiança na instituição.
+
+Evidentemente, existem muitas limitações relacionadas a essas mudanças. Esta última seção aborda algumas dessas limitações, considerando algumas explicações plausíveis. Em primeiro lugar, pode-se dizer que os efeitos da mudança talvez não perdu 98 99
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+rem. Ou seja, embora exista uma mudança, ela se deve mais à proximidade da realização do evento do que a uma atitude sólida e duradoura. De fato, somente uma terceira onda de pesquisa seria capaz de sanar essa questão. É preciso ressaltar, no entanto, que pesquisas semelhantes na área têm confirmado que os efeitos das mudanças não são passageiros. Finkel e Smith (2011), por exemplo, mostram, em uma terceira onda de sua pesquisa, que as atitudes adquiridas ao longo do programa de educação cívica estudado por eles permanecem. Dada a magnitude dos efeitos encontrados no PJ, pode-se sugerir que ele, igualmente, tenha provocado efeitos duradouros. As análises dos dados demonstraram que houve, entre os participantes do Parlamento Jovem, uma importante mudança de atitude em relação à confiança na ALMG. Entretanto, não podemos afirmar que essa mudança foi baseada em racionalidade pura. Isso porque não analisamos aqui a relação entre as mudanças de imagem/conhecimento e as mudanças de atitude/confiança na ALMG. Ou seja, não necessariamente os alunos passaram a compreender a ALMG como uma instituição digna de credibilidade, após serem expostos a informações e adquirirem conhecimento. Isso não pode ser afirmado com o trabalho desenvolvido até aqui. Precisar-se-ia analisar uma terceira dimensão, que seria “imagem e conhecimento da ALMG” , algo que, por limitações diversas, não pôde ser feito. Entretanto, essa informação pode ser adquirida por outros estudos. Casalecchi (2011) apresentou dados robustos indicando que a imagem melhorou com significância estatística e magnitude. Atitudes positivas em relação à ALMG poderiam ser explicadas também pela afeição desenvolvida durante o projeto; afinal, o jovem é inserido em um ambiente até então desconhecido, onde é bem recebido por todos e tem acesso a técnicos e parlamentares. Todavia, Fuks e Casalecchi (2012) mostram, em outro estudo, que realmente existem ganhos importantes de conhecimento político, e que esses ganhos estão correlacionados a mudanças de atitudes; ou seja: aqueles que aprenderam mais sobre a ALMG são justamente os que passam a ter uma imagem mais positiva da instituição. A confiança na CMBH, por sua vez, pode ser explicada pela proximidade da instituição. Embora as atividades desenvolvidas no
+
+PJ tivessem como foco a ALMG, é possível que temas ligados à política da cidade de Belo Horizonte tenham assumido a pauta das discussões durante reuniões e experiências pelas quais passaram os participantes. Nesse caso, mesmo que indiretamente, eles acabaram discutindo mais esses temas e, consequentemente, as instituições ligadas a eles, como é o caso da CMBH.
+
+Por fim, a menor confiança no CN pode ser explicada por constantes denúncias de corrupção em Brasília. Talvez pela maior visibilidade do Congresso na mídia, a desconfiança no Legislativo nacional esteja mais enraizada na cultura política dos jovens, o que dificulta a mudança de atitude. Além disso, diferentemente da ALMG e da CMBH, o CN permanece uma instituição mais distante dos jovens, com a qual eles não têm oportunidade de conviver. Apesar de todas essas hipóteses complementares, não se nega a capacidade do PJ como ambiente socializador. Embora a duração do projeto seja curta, ele mostra-se efetivo ao mudar a realidade dos jovens.
+
+Por fim, cabe ressaltar a importância dos resultados aqui encontrados, em termos de comparação para futuros estudos relacionados ao PJ, tendo em vista as mudanças pelas quais o programa passou desde 2010. Será que esses resultados ocorrem também nas edições mais recentes do programa? Caso a resposta seja positiva, os efeitos são maiores ou menores do que o que foi observado? Existem diferenças regionais, sobretudo relativas aos efeitos da confiança nas câmaras municipais? E em que medida os participantes do interior têm, ou não, mais confiança na ALMG? Essas são apenas algumas perguntas que, em nossa opinião, merecem atenção em futuras investigações, e para as quais nossa pesquisa pretende contribuir como fonte de diálogo e comparação.
+
+100 101
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Notas 1 http://oiyp.oxfam.org.au/, acesso em 11/12/2011.
+
+2 http://www.eypej.org/, acesso em 12/11/2011.
+
+3 http://www.almg.gov.br/educacao/parlamento_jovem, acess em15/01/2014.
+
+4 Estes percentuais foram calculados pela fórmula [(confiançaT1/confiançaT0) – 1]x100%. Ressalta-se que o cálculo foi puramente para analisar a mudança relativa entre dois tempos, sem utilizar qualquer teste estatístico.
+
+5 De forma complementar, foi utilizado o método de conglomerado (cluster) para estimação dos modelos. Ele permite controlar a dependência entre as observações do banco de dados, pois as crianças interagiam em suas respectivas escolas. Isso nos fornece resultados mais confiáveis.
+
+6 O teste monocaudal se refere a apenas metade da curva de Gauss, ou seja, temos resultados apenas positivos ou negativos, partindo da origem (zero).
+
+Referências
+
+ALMOND, Gabriel A. & VERBA, Sidney. (1989). The Civic Culture: Political Attitudes and Democracy in Five Nations. Princeton, Princeton University Press.
+
+ANASTASIA, Fátima. (2001). Transformando o Legislativo: a experiência da Assembleia Legislativa de Minas Gerais. In: SANTOS, Fabiano (Org). O Poder Legislativo nos estados: diversidade e convergência, Rio de Janeiro, Fundação Getúlio Vargas.
+
+ASSIS, Luiz Fernandes de. (1997). “Educando para a Cidadania: A Experiência da Escola do Legislativo”. Educação &Sociedade, 59: 367-385.
+
+CAMPBELL, D; STANLEY, J. (1979). Delineamentos Experimentais e Quase-Experimentais de Pesquisa. São Paulo, EDUSP.
+
+CAMPBELL, David E. (2008). Voice in the Classroom: How an Open Classroom Climate Fosters Political Engagement Among Adolescents, Political Behavior, 30: 437–454.
+
+CARVALHO, A. V. C. (2009). O Parlamento Jovem e a experiência das Escolas do Legislativo Mineiro e da Câmara dos Deputados: O Desenvolvimento da Cultura Cívica, propícia à Democracia. Monografia. Programa de Pós-Graduação do Centro de Formação Treinamento e Aperfeiçoamento da Câmara dos Deputados/Cefor, datilo.
+
+CASALECCHI, Gabriel Ávila. (2011). Socialização Política e Mudanças de Atitudes: a experiência do Parlamento Jovem Mineiro 2008. Tese de mestrado. Programa de Pós-Graduação em Ciência Política da Universidade Federal de Minas Gerais, datilo.
+
+COHEN, Ernesto & FRANCO, Rolando. (1993). Avaliação de projetos sociais. Petrópolis, Vozes.
+
+COSSON. Rildo. (2008). Escolas do Legislativo, Escolas da Democracia. Brasília, Edições Câmara.
+
+DULCI, O. & FARIA, M. A. (2005). Diálogo com o Tempo – 170 anos do Legislativo Mineiro. Belo Horizonte, Assembleia Legislativa do Estado de Minas Gerais.
+
+EASTON, David & DENNIS, Jack. (1969). Children in the Political System: Origins of Political Legitimacy. New York, McGraw-Hill.
+
+FINKEL, Steven. E. (2003). Can democracy be taught?. Journal of Democracy, 14: 137-151.
+
+FINKEL, Steven. E. & ERNST, H. R. (2005).Civic Education in PostApartheid South Africa: Alternative Paths to the Development of Political Knowledge and Democratic Values. Political Psychology, 26, 3.
+
+FINKEL, Steven E. & SMITH, Amy Erica. (2011). Civic Education, Political Discussion and the Social Transmission of Democratic Knowledge and Values in a New Democracy: The 2002 Kenya, American Journal of Political Science, 55, 2: 417–435.
+
+FUKS, Mario. (2010). Efeitos Diretos, Indiretos e Tardios: Trajetórias da Transmissão Intergeracional da Participação Política. Lua Nova, 83: 145-178.
+
+102 103
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+Cadernos da Escola do Legislativo – Volume 15 | Número 24 | jul/dez 2013
+
+FUKS, Mario. & CASALECCHI, Gabriel Ávila. (2011). Confiança e informação politica: as bases cognitivas da mudança atitudinal dos participantes do Parlamento Jovem mineiro. Trabalho apresentado à Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais (Anpocs).
+
+GONÇALVES, Guilherme Quaresma. (2012). O parlamento Jovem como política pública: o impacto do projeto na confiança em instituições políticas e conhecimento político. Trabalho de Conclusão de Curso. Curso de Bacharelado em Gestão Pública da Universidade Federal de Minas Gerais.
+
+GREENSTEIN, F. I. (1968). Political socialization. In: SILLS, D. (Org.). International Encyclopedia of the Social Sciences, New York, Macmillan.
+
+HYMAN, Hebert Hiran. (1959). Political socialization: a study in the psychology of political behavior. Glencoe, The Free Press.
+
+LONG, J. S. & FREESE, J. (2001). Regression Models For Categorical Dependent Variables Using STATA. College Station, Texas.
+
+LUSKIN, Robert C. & FISHKIN, James S. (2002). Considered Opinions: Deliberative Polling in Britain. British Journal of Political Science, 32, 3: 455-487.
+
+JENNINGS, M. Kent & MARKUS, Gregory B. (1984). Partisan Orientations over the Long Haul: Results from the Three-Wave Political Socialization Panel Study. The American Political Science Review, 78, 4: 1000-1018.
+
+JENNINGS, M. Kent & NIEMI, Richard G. (1974). The political character of adolescence: the influence of families and schools. Princeton, Princeton University Press.
+
+MACCOBY, E. E. (2007). Historical overview of socialization research and theory. In: GRUSEC, J. E & HASTINGS, P. D (Orgs.). Handbook of socialization: Theory and research, New York, Guilford Press.
+
+NEVES, Jorge Alexandre Barbosa, FERNANDES, Danielle Cireno, XAVIER, Flávia Pereira & TOMÁS, Maria Carolina. (2007). Políticas de Transferência Direta de Renda, Capital Social e Alcance Educacional no
+
+Brasil. In: FAHEL, Murilo & NEVES, Jorge Alexandre Barbosa (Orgs.). Gestão e Avaliação de Políticas Sociais no Brasil. Belo Horizonte, PUC Minas.
+
+SEARS, David O. & VALENTINO, Nicholas A. (1997).Politics Matters: Political Events as Catalysts for Preadult Socialization. The American Political Science Review, 91, 1: 45-65.
+
+SIGEL, Robert S. (Org.). (1989). Political learning in adulthood: a sourcebook of theory and research. Chicago, The University Chicago Press.

@@ -1,0 +1,3379 @@
+Unequal Seats, Unsteady Trust: Inequality of Representation and Confidence
+
+in Parliament in Bicameral Systems
+
+Steven Hemingway
+
+Supervisor: Moa Mårtensson
+
+Master’s Thesis in Political Science
+
+Department of Government
+
+Uppsala University
+
+Autumn 2023
+
+2
+
+Abstract
+
+The number of countries with bicameral systems declined enormously throughout the 20th century, as countries like Sweden and Denmark abolished their upper houses, and numerous other countries weakened the formal powers of their upper chambers. Existing research suggests that legitimacy is a critical factor in the survival of bicameralism, but scholarship on legitimacy in bicameral systems is limited. Inequality of representation has been identified as a reason why bicameral systems may lack legitimacy. This thesis aims to capture how inequality of representation affects the social legitimacy of bicameral systems. Through the analysis of how seats are apportioned in upper houses and data on individual confidence in legislative institutions from the European/World Values Survey joint dataset, an OLS-regressions model shows that while an overall increase in inequality of representation decreases an individual’s confidence in parliament, individual factors such as residency in a rural area, political identity, and sex may not have any impact on confidence in parliament given an increase in inequality of representation. This research contributes to prior attempts to understand how legitimacy contributes to bicameralism.
+
+Keywords: Bicameralism, Inequality of Representation, Confidence in Parliament, Legitimacy, Malapportionment.
+
+3
+
+Table of Contents 1. Introduction ................................................................................................................................. 4 2. Literature Review........................................................................................................................ 6
+
+2.1 Bicameralism and Its Impacts. .............................................................................................. 6 2.2 Legitimacy and Bicameralism ............................................................................................... 9 2.3 Inequality of Representation ............................................................................................... 12 2.4 Inequality of Representation and Confidence in Parliament – A Possible Link? ................ 15
+
+3. Theory and Hypotheses ............................................................................................................. 16
+
+3.1 Hypotheses .......................................................................................................................... 16
+
+4. Data and Methods ..................................................................................................................... 18
+
+4.1 Case Selection ..................................................................................................................... 18 4.2 Independent Variable: Upper House Inequality of Representation ..................................... 20 4.3 Dependent Variable: Confidence in Parliament .................................................................. 21 4.4 Interaction Variables ............................................................................................................ 22 4.5 Control Variables ................................................................................................................. 24
+
+5. Analysis and Results ................................................................................................................. 26
+
+5.1 Hypothesis 1 and 2: Inequality of Representation, Rural Residency, and Confidence in Parliament .................................................................................................................................. 27 5.2 Hypothesis 3: Political Ideology, Inequality of Representation and Confidence in Parliament .................................................................................................................................. 30 5.3 Hypothesis 4: Sex, Inequality of Representation and Confidence in Parliament ................ 32
+
+6. Conclusion ................................................................................................................................ 34 Appendix ....................................................................................................................................... 40
+
+A. Calculation of the Inequality of Representation Index ......................................................... 41 B. Robustness Checks ............................................................................................................... 55
+
+Tables and Figures Table 1. Case Selection ................................................................................................................. 19 Table 2. Inequality of Representation Calculation Example ........................................................ 21 Table 3. Independent and Dependent Variable .............................................................................. 22 Table 4. Variables to be Interacted with Inequality of Representation ......................................... 24 Table 5. Control Variables ............................................................................................................. 26 Table 6. Hypothesis 1 and 2 Results ............................................................................................. 27 Table 7. Hypothesis 3 Results ....................................................................................................... 31 Table 8. Hypothesis 4 Results ....................................................................................................... 33
+
+4
+
+1. Introduction
+
+Various political theorists have claimed that bicameralism, the separation of legislative bodies
+
+into two chambers, has many benefits. The American Founding Fathers Alexander Hamilton and
+
+James Madison argued that the presence of a second chamber provided a check on executive
+
+power and protection against the tyranny of the majority, as it “doubles the security to the people,
+
+by requiring the concurrence of two distinct bodies in schemes of usurpation or perfidy”
+
+(Madison, Jay, and Hamilton 2008, 306). Another Founding Father, Benjamin Franklin, argued
+
+that:
+
+“A plural Legislature is as necessary to good Government as a single Executive. It is not enough that your
+
+Legislature should be numerous; it should also be divided. Numbers alone are not a sufficient Barrier
+
+against the Impulses of Passion, the Combinations of Interest, the Intrigues of Faction, the Haste of Folly,
+
+or the Spirit of Encroachment“ (Franklin 2004, 365).
+
+However, not all political theorists have held positive views of bicameralism. The French
+
+constitutional scholar, the Abbè Sieyès felt that bicameralism would always lead to gridlock and
+
+democratic breakdown, comparing legislatures with two chambers to two horses pulling against
+
+each other in a tug of war:
+
+“Two horses harnessed to the same carriage, which we would like to go in opposite directions, and so
+
+remain where they are, regardless of promptings to the yoke and the stamping of hooves, unless a royal
+
+coach is mounted at the front to give them direction” (Rubinelli 2019, 27).
+
+In the modern political debate around bicameralism, the United States Senate has long been seen
+
+as a fundamental pillar of American democracy. However, the Senate’s reputation as a
+
+democratic institution is increasingly being questioned, with political scholars charging that the
+
+Senate’s institutional malapportionment gives one political party an institutional advantage
+
+(Johnson and Miller 2023). The deterioration of the Senate’s democratic reputation mirrors a
+
+trend in many bicameral democracies, where reform efforts and abolition attempts have
+
+disempowered or decreased the number of bicameral systems drastically over the course of the
+
+last century. Countries that have abolished their second chambers include New Zealand,
+
+Denmark, Sweden, Iceland, Peru, and Turkey (Uhr 2008). Scholars note that a key factor in the
+
+abolition of bicameral chambers is whether the chamber is seen as legitimate (Tsebelis and
+
+Money 1997; Uhr 2008).
+
+One delegitimizing aspect of the U.S. Senate’s constitutional design is its inequality of
+
+representation. Inequality of representation, when a territory or some other group is
+
+5
+
+overrepresented in legislative institutions, has been long seen as an important aspect of
+
+bicameralism, especially in federal countries like the United States or Australia. The current
+
+system of constitutional malapportionment in bicameral countries like the United States,
+
+Australia, and Canada is the result of historical compromises that were required to get many
+
+small colonies to agree to merge into a single, larger state. During the drafting of the United
+
+States Constitution, a great debate raged between smaller states that wanted to ensure that they
+
+were not overruled by larger states and larger states that favored a constitutional design that
+
+ensured that they were treated proportionally to their population size. Two competing
+
+constitutional proposals emerged: smaller states proposed that Congress consist of a single
+
+chamber, with each state having an equal number of representatives. Larger states proposed that
+
+Congress represent each state purely proportionally to each state’s population. After much
+
+debate, a compromise emerged where both systems would be combined with a lower chamber
+
+called the House of Representatives, where seats would be allocated proportionally to state
+
+population size, and an upper chamber called the Senate, in which membership would be equally
+
+distributed. The United States Constitution has served as a model for many other countries, most
+
+notably Argentina and Australia (Tsebelis and Money 1997).
+
+Existing comparative research on bicameral systems has focused on categorizing
+
+bicameral institutions in terms of strength (Lijphart 2012) and attempts to incorporate legitimacy
+
+into calculations of strength (Mueller, Vatter, and Dick 2023; Russell 2013; Vercesi 2017), the
+
+relationship between public opinion and policy responsiveness in bicameral systems (Ezrow,
+
+Fenzl, and Hellwig 2023; Rasmussen, Reher, and Toshkov 2019), and the effects of bicameralism
+
+on policy output (Mueller, Vatter, and Dick 2023; Vatter 2005).
+
+Despite how important legitimacy is to the survival of bicameral institutions, surprisingly
+
+little scholarship has been dedicated to investigating what affects the legitimacy of second
+
+chambers (Mueller, Vatter, and Dick 2023). While scholars have studied malapportionment and
+
+inequality of representation, scholarship on bicameralism and malapportionment has not
+
+examined the effects of inequality of representation on how individuals view legislative bodies.
+
+This thesis will attempt to capture how inequality of representation affects the social legitimacy
+
+of bicameral systems. In this light, this thesis seeks to answer the question:
+
+How does inequality of representation in bicameral systems impact citizen confidence in
+
+parliament?
+
+6
+
+The importance of this research is myriad. From a social perspective, we want democracy to
+
+survive, and democracies are more sustainable if they don’t draw upon institutions that are seen
+
+as illegitimate. From a scientific perspective, this research is important because it seeks to fill a
+
+hole in the existing literature on legitimacy and bicameralism, and it provides a model for other
+
+scholars to follow to better measure legitimacy in this context.
+
+The first section of this paper is a literature review that will focus on
+
+defining/categorizing bicameralism and the impact of bicameralism, legitimacy, and
+
+malapportionment. The second section contains hypotheses and proposed mechanisms for each
+
+hypothesis. The third section focuses on research methods and variables with a discussion on
+
+how cases were selected and information on how each variable was coded and recoded for
+
+analysis. The fourth section contains the results of my models with descriptions of the regression
+
+results and analysis of my hypotheses. Lastly, some concluding remarks and suggestions for how
+
+future studies can expand on the research presented here. An appendix is attached with tables that
+
+show how the measure for inequality of representation was calculated and some robustness
+
+checks.
+
+2. Literature Review
+
+2.1 Bicameralism and Its Impacts.
+
+Around 40% of the world's countries have bicameral legislatures, and about two-thirds of the
+
+world's democracies are bicameral (Uhr 2008). However, bicameralism differs significantly in
+
+implementation from country to country. Therefore, an important subsection of research on
+
+bicameral systems is on how to classify them. Additionally, other research strands focus on how
+
+bicameralism impacts the representation, the responsiveness, and the policy output of political
+
+systems.
+
+Arend Lijphart (2012) categorized bicameral systems through two dimensions: the
+
+relative strength of the two chambers (symmetry) and the difference in the selection or election
+
+method used to choose representatives for each chamber (congruence). Using these two
+
+dimensions, he was able to create an index for the relative strength of bicameralism. To Lijphart,
+
+strong bicameralism represents countries where the formal powers of the two chambers are
+
+relatively equal, and the mode of selection is the same in both chambers (directly elected and
+
+7
+
+democratic). Weak bicameralism represents systems where the second chamber is not given an
+
+equal share of formal powers when legislating and where the mode of selection differs. The
+
+United States Senate is considered to be an example of a strong second chamber because it
+
+shares equal powers over legislation with the first chamber and is directly elected, while the
+
+British House of Lords is considered to be a weak second chamber because it has few formal
+
+powers over legislation and is fully appointed. (Lijphart 2012).
+
+A key question when analyzing bicameral systems is who each chamber is representing.
+
+This question is central to what Lijphart describes as incongruency. Lijphart describes
+
+incongruency as the difference in selection method between each chamber. In every bicameral
+
+democracy, the first chamber is designed to represent the people. Second chambers vary widely
+
+in who they are supposed to represent. In many federal bicameral systems, the second chamber is
+
+designed to represent the interests of territorial units. For example, while the House of
+
+Representatives is representative of the entire American population, the United States Senate was
+
+designed as “a constitutional recognition of the portion of sovereignty remaining in the
+
+individual States, and an instrument for preserving that residuary sovereignty.” (Madison, Jay,
+
+and Hamilton 2008, 305). To achieve this aim, the United States Constitution grants each state
+
+equal representation in the Senate without regard to population size. This has resulted in a
+
+significant degree of overrepresentation of individuals from smaller states in the Senate. Not all
+
+federal systems overrepresent smaller territorial units, however. For example, the Austrian
+
+Bundesrat provides each federal state (Bundesländer) with representation proportional to their
+
+overall share of the population of the nation. In contrast to the indirectly elected Bundesrat, the
+
+Senate is directly elected.1
+
+Tsebelis and Money (1997) use game theory and mathematical models to analyze the
+
+impact of intra-chamber dispute resolution between bicameral chambers. Their key argument is
+
+that even the weakest of second chambers are still able to affect legislative outcomes. Thus, the
+
+presence of bicameralism will always have some effect on policy output. They identified some
+
+circumstances, such as at the end of a government’s term in office, where the mere threat of
+
+delay from a weak second chamber can be enough to kill legislation.
+
+Another research thread on bicameralism concerns its effect on the public policy
+
+congruence and responsiveness of legislative institutions. Rasmussen, Reher, and Toshkov
+
+1 Senators were indirectly elected by state legislators until the passage of the Seventeenth amendment in 1912.
+
+8
+
+(2019) studied the impact of various political institutions in Europe, including bicameralism, on
+
+the opinion-policy nexus, or the congruence between public opinion and policy output. They find
+
+that countries with bicameral systems have a lower likelihood of opinion-policy congruence than
+
+their unicameral counterparts. Ezrow, Fenzl, and Hellwig (2023) studied how responsive
+
+bicameral legislatures are to changes in public opinion compared to their unicameral
+
+counterparts. They use an index of welfare state generosity and data on voter opinions collected
+
+by the Eurobarometer series of surveys on individual policy preferences to gauge how responsive
+
+each political system has been. They also use Lijphart’s index of bicameral symmetry to measure
+
+if symmetry in bicameral systems has an effect on responsiveness. They find that as expected,
+
+the presence of bicameralism reduces the policy responsiveness of legislative institutions, but
+
+that the more symmetrical the division of powers between the two chambers, the less responsive
+
+the overall political system.
+
+The impact of bicameralism on policy output has been studied in various ways. Vatter
+
+(2005) found that bicameral systems favored the parties of the liberal center and conservative
+
+right against parties of the left and extreme right when it comes to the makeup of the second
+
+chamber. This is due to the over-representation that bicameral systems focus on smaller, rural
+
+areas that are not very diverse in economic or ethnic makeup. In systems where the second
+
+chamber is appointed, like in the United Kingdom, second chambers will over-represent liberal
+
+and conservative parties because these chambers represent once-dominant social classes that
+
+favor these parties. Vatter tests how the over-representation of liberals and conservatives would
+
+impact policy changes. He hypothesizes that in countries with strong bicameral chambers, policy
+
+outcomes will reduce state intervention in the economy, weaken reform forces, and further
+
+decentralization. Vatter finds that these main hypotheses are correct, with strong correlations
+
+between bicameral strength and lessened state intervention, fewer reforms, and more
+
+decentralization. However, the previously theorized effects of bicameral chambers on executive
+
+power, political stability, and the protection of minorities were unsubstantiated. In particular,
+
+Vatter found that bicameralism had a significantly negative effect on the representation of
+
+women in national parliaments. Regarding the economic performance of both systems, Vatter
+
+finds no differences in economic growth rates or unemployment. One interesting effect that
+
+Vatter found was that countries with bicameral systems are more successful in combating
+
+inflation than their unicameral counterparts. However, he theorizes that this is a result of
+
+9
+
+bicameral systems’ higher likelihood of having an independent central bank. Mueller et al.
+
+(2023) use their updated index of bicameral strength to measure the same hypotheses that Vatter
+
+proposed. Their results substantiate Vatter’s findings that greater bicameral strength is correlated
+
+with less state intervention and greater decentralization. Strong bicameral chambers are
+
+associated with smaller state size, lower taxation, and a lower number of public employees.
+
+However, Vatter’s finding that greater bicameral strength would have a dampening effect on
+
+reform forces disappeared when measures of legitimacy were included. The latter focus on
+
+legitimacy is very important: scholarship has established that bicameralism has meaningful
+
+impacts on policy outcomes but that measures of bicameral strength fail to capture the whole
+
+picture without including measures of legitimacy.
+
+Taken together, previous research on the topic of bicameralism has found that
+
+bicameralism has substantial impacts on a political system’s legislative output, political
+
+responsiveness, and political makeup. Therefore, it would not be outlandish to expect that the
+
+presence of bicameralism would have an impact on the legitimacy of a political system. The
+
+following section will go over attempts to operationalize and conceptualize legitimacy as it
+
+relates to bicameral systems.
+
+2.2 Legitimacy and Bicameralism
+
+It has been established that legitimacy is an important element when studying bicameralism and
+
+bicameral strength. However, scholars have debated to what extent legitimacy factors into
+
+bicameral strength and how best to measure it. Scholars have divided legitimacy into two
+
+different types: formal legitimacy and social legitimacy. Weiler (1990) defines formal legitimacy
+
+as a sort of legal status, where legitimacy depends on the existence of legal democratic
+
+institutions. On the other hand, Weiler defines social legitimacy as the social acceptance or
+
+support of institutions. For Lijphart (2012), the presence of legitimacy within a bicameral system
+
+was treated as an aspect of congruence. For a second chamber to have legitimacy, it had to be
+
+congruent with the first chamber, that is, directly elected. Thus, Lijphart connected legitimacy
+
+directly to the existence of democratic representation, closely resembling Weiler’s definition of
+
+formal legitimacy. Lijphart also noted that the lack of legitimacy could make second chambers
+
+weaker than their formal powers would denote.
+
+10
+
+Later contributions have refined this distinction and found new ways to define legitimacy.
+
+Russell (2013) and Mueller et al. (2023) identified three major types of perceived legitimacy in
+
+bicameral systems. First, input legitimacy deals with institutional or constitutional design, which
+
+can include aspects of democracy, as Lijphart identified. Mueller et al. describe input legitimacy
+
+as how closely citizens are involved in political decision-making, with direct democracy being
+
+perfect input legitimacy. For Russell, throughput legitimacy mainly describes how courts are able
+
+to be seen as legitimate, despite their lack of election. This may come as a result of them being
+
+viewed as less political and more fair than other political institutions. Mueller and his co-authors
+
+describe throughput legitimacy as capturing the accountability, transparency, and openness of
+
+political institutions to interests. To them, the idealized form of input legitimacy is a system of
+
+deliberative democracy where reasoned opinions are exchanged equally. In contrast, Output
+
+legitimacy is based on policy decisions and the performance of the political system. Russell
+
+relates output legitimacy to the popularity of the actions of political institutions; thus, this can be
+
+a mechanism by which international organizations can become legitimate in the eyes of the
+
+masses. For Mueller et al., output legitimacy is also about popularity to an extent but deals
+
+mostly with the perceived performance of political institutions.
+
+Russell studies Lijpharts’ idea that second chambers can be stronger or weaker depending
+
+on their legitimacy, even if their formal powers are great. She uses two case studies to
+
+demonstrate how legitimacy can affect the de facto strength of a second chamber. The appointed
+
+House of Lords in the United Kingdom had many of its formal powers stripped after intense
+
+political conflicts with the first chamber, the House of Commons, in 1911 and 1949. After these
+
+battles, the House of Lords only retained a suspensive veto for around a year on most legislation,
+
+which was rarely used. Additionally, an informal convention held that the Lords would not
+
+exercise this veto power on government legislation contained within the party’s election
+
+manifesto. In 1999, reforms to the membership of the House removed most of the “hereditary
+
+peers” who had inherited their seats through the family line. Using Lijphart’s theory, the effect of
+
+this reform should have made the Lords weaker, as the chamber had been made more congruent,
+
+without changing its lack of democratic accountability. However, after the reform, the House of
+
+Lords began to show renewed confidence, challenging legislation at a much higher rate. Between
+
+1999 and 2010, the House of Lords inflicted over 450 defeats on the government (Russell 2013).
+
+11
+
+While the 1999 reform did not confer onto the House of Lords any electoral
+
+accountability, the change in membership structure made the body made the House of Lords
+
+seem more legitimate, especially in the eyes of the public. An element of meritocracy was added
+
+now that most of the members of the House of Lords were “life peers” appointed due to their
+
+achievements. Another factor that gave the Lords more legitimacy in the eyes of the public was
+
+that it was now more proportional in how it represented political parties than the elected House
+
+of Commons. In the 2005 election, Labour was reelected with 55% of the seats in the Commons
+
+with only 35% of the popular vote. The Liberal Democrats gained 22% of the vote, but only
+
+9.6% of the seats (Russell and Sciara 2006). In the House of Lords, the Liberal Democrats held
+
+the balance of power and were able to cast themselves as a check on the power of the
+
+government. Russell asserts this case shows that legitimacy is an important third factor that
+
+works in tandem with the institutional symmetry and congruence factors that Lijphart identified.
+
+Following up on Russell’s conclusions, multiple scholars have attempted to directly
+
+measure legitimacy, organized into two main methodological techniques. (Mueller, Vatter, and
+
+Dick 2023; Vercesi 2017). Firstly, Vercesi (2017) seeks to compare Italian bicameralism to other
+
+European bicameral systems. In this effort, he compiles an index of bicameral strength that
+
+includes legitimacy. Vercesi measures legitimacy as an index where 0 represents a wholly
+
+hereditary second chamber as the least legitimate chamber, and 10 represents a wholly elected
+
+second chamber as the most legitimate chamber. In between are wholly appointed and indirectly
+
+elected second chambers. Vercesi also accounts for whether the chamber represents interest
+
+groups or territories as a factor that can increase legitimacy. Mueller et al. (2023) criticize
+
+Vercesi’s method, arguing that the presence of direct elections is, at best, an aspect of legitimacy
+
+and cannot fully capture all of the aspects of legitimacy. As an alternative, Mueller et al. (2023)
+
+seeks to create a new index of bicameral strength that includes new ways to measure legitimacy
+
+using the different aspects of legitimacy identified by Russell (2013). To measure input
+
+legitimacy, they use the mode of selection of second chambers; to measure throughput
+
+legitimacy, they measure the deliberative quality of second chambers using expert coding, and
+
+the presence of attempts to abolish or majorly reform second chambers to measure output
+
+legitimacy. Combining these aspects of legitimacy into an index, they add it to Lijphart’s original
+
+index of bicameral strength. This way, they have incorporated all of the various factors that have
+
+12
+
+been identified as factors in determining bicameral strength, symmetry, congruence, and
+
+legitimacy.
+
+Russell’s case study on the United Kingdom and Vercesi and Mueller et al.’s attempts to
+
+measure legitimacy demonstrate that legitimacy is an important aspect of measuring the strength
+
+of bicameral systems. However, scholars have yet to find a concrete way to fully measure
+
+legitimacy itself. The presence of democratic institutions can be considered an aspect of
+
+legitimacy, but there is great disagreement on how much it factors into the legitimacy of any
+
+institution. The next section will go over an important factor that may reduce legitimacy in
+
+territorial bicameral systems: malapportionment in the form of inequality of representation.
+
+2.3 Inequality of Representation
+
+Inequality of representation describes the disparity in how certain territorial populations are
+
+represented in government institutions. Some inequality of representation is natural; population
+
+shifts between periods of re-apportionment will create some level of inequality. However,
+
+inequality of representation may also be intentional in the form of malapportionment. Research
+
+into these phenomena has been carried out along several strands, focusing on two different sub categories of malapportionment: constitutionally designed malapportionment and purposeful
+
+malapportionment.
+
+Malapportionment describes a situation where districts have large disparities in
+
+population, creating inequality of representation. Malapportionment can be a consequence of
+
+constitutional design where seats in a legislative body are distributed non-proportionally to the
+
+size of a territory’s population (United States Senate or Australian Senate), or as a purposeful
+
+attempt to benefit incumbents or decrease the influence of certain groups. An example of
+
+purposeful malapportionment existed in the Australian state of Queensland between 1957 and the
+
+mid-1980s. Through this scheme of electoral malapportionment, the ruling Country and Liberal
+
+Party coalition were able to keep themselves in power despite losing the popular vote to the rival
+
+Labor Party in multiple elections. They took advantage of the fact that Labor Party voters tended
+
+to be more urban and Coalition voters tended to be more rural to draw smaller rural districts that
+
+would almost always vote for the Coalition (Orr and Levy 2009).
+
+13
+
+Much of the scholarship on malapportionment has focused on this purposeful
+
+malapportionment that is actively created when redistricting, the redrawing of legislative
+
+districts. Hayes and McKee (2009) studied the effects of redistricting between the 2002 and 2006
+
+House of Representative elections in the United States. Using voter roll off, when voters vote in
+
+a Presidential or Senate race but not in the concurrent House race, they can calculate the effect of
+
+redistricting on voter turnout. They find that redistricting increases the information costs of
+
+voting, and it becomes harder for voters to get to know the politician that represents them. In
+
+Texas, which underwent re-districting three times between 2002 and 2006, Hayes and McKee
+
+find that voter roll-off is significantly higher in areas that were redrawn. This purposeful type of
+
+malapportionment is a very common tool of exclusionary regimes to affect election outcomes in
+
+their favor. Ursula Daxecker (2020) analyzes the role of malapportionment in the distribution of
+
+electoral districts in India in violence during election campaigns. Previous research on violence
+
+as a campaign strategy shows that greater party competition increases the use of violence. In
+
+districts that are malapportioned to be over-represented, incumbents will avoid using violence
+
+because incumbents avoid negative coercion where they are strong, preferring to offer
+
+clientelism instead. In more populus districts that are under-represented, violence is usually less
+
+effective, due to the larger numbers of voters that need to be deterred. Districts that are well apportioned, or represented in proportion to their population size, are the most likely to see
+
+violence because the incumbents are not strong enough that they can rely on clientelism, and the
+
+opposition can best use their usually limited strength here. Daxecker uses India to test
+
+empirically her hypothesis that overrepresented districts are less likely to experience election
+
+violence than well-apportioned or underrepresented districts. She finds that the amount of
+
+electoral violence increases the more well-apportioned the district is and that over-represented
+
+districts are much less likely to experience electoral violence.
+
+Richard Johnson and Lisa Miller (2023) analyze the impact of the incidental
+
+malapportionment inherent in the constitutional design of the United States Senate. Because each
+
+state is allocated an equal amount of representation in the Senate, larger states are
+
+underrepresented compared to smaller states. Johnson and Miller create a hypothetical senate
+
+that redistributes 50 seats by population while keeping the Senate at its current size (100
+
+members). The change in inequality of representation is enormous; the smallest 26 states that
+
+currently have more than half of the seats in the Senate (52) lose 26 seats, while middle-sized
+
+14
+
+states remain largely unaffected. Minority representation is greatly affected as well. Because
+
+many of the smaller states have large white majorities, African Americans and Latino Americans
+
+are vastly underrepresented. Under the alternative senate that Johnson and Miller constructed,
+
+winning senate coalitions must include minority representation. Other than demographic
+
+representation, Johnson and Miller study the policy consequences of their alternative senate
+
+design. By comparing how key votes perform in the U.S. Senate to their alternative senate, they
+
+can isolate the bias of the Senate’s current constitutional design. Johnson and Miller conclude
+
+that equal representation in the United States Senate contributes to the over-representation of
+
+Republican policy preferences and under-representation of Democratic policy preferences.
+
+Scholars have also analyzed the economic impact of malapportionment and found that
+
+malapportionment can lead to more government spending for over-represented districts
+
+(Ansolabehere, Snyder, and Ting 2003; Imai 2022). There are two causal mechanisms for this:
+
+first, that an equal disbursement of government funding per district will result in a more
+
+favorable per-capita distribution to underpopulated districts. In bicameral systems, the second
+
+chamber usually represents territories unproportionally to their share of the population. This
+
+means that given an equal distribution of funds per territory, there will be an unequal distribution
+
+per capita. The second causal mechanism is that it will be cheaper to sway the votes of legislators
+
+from districts that are less populated (Ansolabehere, Snyder, and Ting 2003). Pork-barrel
+
+spending is a common tactic in the United States when building a winning coalition in the
+
+Senate. This is where federal funding in the form of legislative earmarks is offered for projects in
+
+a senator’s state in order to entice them into supporting a bill. Analysis of the per-capita
+
+distribution of federal earmarks shows that small states receive a disproportionately large share
+
+of federal earmarks (Boyle and Matheson 2009). The resulting economic stimulus and good
+
+press for the senator can also help them secure re-election (Klingensmith 2019).
+
+In summary, malapportionment is a key creator of inequality of representation. Scholars
+
+who study malapportionment have found that malapportionment can also lead to increases in
+
+electoral violence, a reduction in voter turnout, and increases in economic inequality via
+
+disproportionate spending. Given the enormous consequences of malapportionment, the next
+
+section will examine whether there is a possible link between inequality of representation and
+
+social legitimacy in the form of confidence in parliament.
+
+15
+
+2.4 Inequality of Representation and Confidence in Parliament – A Possible Link?
+
+This thesis will attempt to investigate the link between inequality of representation and the social
+
+legitimacy of parliament. As noted, Muller et al. (2023) used attempts at reform to measure
+
+legitimacy, a proxy for citizen satisfaction with second chambers. This thesis will attempt to
+
+capture social legitimacy in the form of confidence in parliament using survey data. Muller and
+
+his co-authors suggest that an ideal measure of output legitimacy would be to directly capture
+
+public opinion on the presence of a second chamber, but such data does not exist. Instead, I will
+
+use confidence in parliament in general as a proxy.
+
+Prior research on factors that influence confidence in parliament has shown that
+
+institutional factors can have a big effect. Kim (2007), for example, studied how well political
+
+institutions were able to fulfil the policy preferences of citizens by measuring the confidence that
+
+citizens had in parliament and political parties. Because political parties want to win elections
+
+and maintain power, they will naturally try to strategically position themselves to attract the
+
+median voter. In single-party governments that mostly exist in countries with majoritarian
+
+electoral systems, policy agendas will lean towards the largest party’s ideological standpoint. In
+
+multiparty governments, usually found in countries with proportional electoral systems, a system
+
+of bargaining between parties will generate policy. Kim finds that the inclusion of the median
+
+party in government, either as the single-party governing party or as a part of a coalition, will
+
+have a large impact on the confidence of citizens in parliament. If the median party is excluded,
+
+then citizens’ confidence in parliament will be negatively affected. Additionally, Kim argues that
+
+countries that employ a proportional electoral system will have greater citizen confidence in
+
+parliament. This is because proportional systems allocate votes into seats more fairly and are
+
+much more likely to cover a larger part of the political spectrum than majoritarian systems.
+
+In addition to electoral systems, inequality of representation shapes the way that votes are
+
+translated into seats in democracies; Johnston and Miller (2023) found that the high level of
+
+inequality of representation in the American bicameral system gives an advantage to the policy
+
+preferences of conservatives over liberals. Thus, it is reasonable to assume that just as changing
+
+an electoral system would affect confidence in parliament, so would changes in inequality of
+
+representation. Scholars have widely established that legitimacy is an important factor in
+
+determining the strength of second chambers (Russell 2013) but have arguably been unable to
+
+find a good method to fully measure social legitimacy. This thesis seeks to add to the existing
+
+16
+
+work by Mueller et al. (2023) and Vercesi (2017) by analyzing the potential link between
+
+inequality of representation and citizen confidence in parliament. The next section will lay out
+
+some hypotheses about the link between inequality of representation in bicameral systems and
+
+citizen confidence in parliament.
+
+3. Theory and Hypotheses
+
+3.1 Hypotheses
+
+One of Kim’s (2007) findings is that different electoral systems will variously increase or
+
+decrease an individual’s confidence in parliament. Kim finds that individuals have higher
+
+confidence in parliament when that parliament is elected via a more proportional electoral
+
+system. This is because proportional representation seems fairer and includes a wider section of
+
+the political spectrum. High levels of inequality of representation will distort how votes are
+
+translated into seats in a second chamber, which will make the results seem less fair and include
+
+less of the political spectrum. Thus, the hypothesized effect of this is, formulated here, is that
+
+individuals will have lower confidence of parliament when inequality of representation increases.
+
+Hypothesis 1: With increasing inequality of representation, individuals will have lower
+
+confidence in parliament.
+
+Due to the overrepresentation that most bicameral systems afford to rural areas, I argue that
+
+people who live in rural areas are more likely to have confidence in the parliament than their
+
+comparatively underrepresented urban counterparts. Bicameral malapportionment also increases
+
+the per-capita investment in over-represented rural regions compared to under-represented urban
+
+regions. In the United States, an analysis of federal legislative earmarks, often referred to as
+
+pork-barrel spending, shows that smaller, more rural states receive a disproportionate amount of
+
+federal funds (Boyle and Matheson 2009). Thus, the hypothesized effect of this, formulated here,
+
+is that individuals who live in rural areas will have greater confidence in their legislature than
+
+individuals who live in urban areas, when inequality of representation increases. Thus, my
+
+second hypothesis is:
+
+Hypothesis 2: With increasing inequality of representation, individuals that live in less densely
+
+populated areas will have greater confidence in parliament.
+
+17
+
+One of Vatter’s (2005) key findings in his study on the impact of bicameral strength is that
+
+conservative and liberal parties are comparatively overrepresented in the second chambers of
+
+bicameral systems. Parties of the left and extreme right, especially green parties, are
+
+underrepresented in second chambers. Johnson and Miller’s (2023) study on the policy bias of
+
+the United States Senate found that the equal representation given to states in the Senate's
+
+constitutional design leads to an over-representation of conservative senators. Based on this
+
+finding, my expectation is that individuals with a right-wing political orientation will have a
+
+more positive view of legislative institutions with higher inequality of representation. Thus, my
+
+third hypothesis is:
+
+Hypothesis 3: With increasing inequality of representation, individuals with a right-wing
+
+political orientation will have greater confidence in parliament.
+
+Another one of Vatter’s (2005) key findings is that bicameral systems under-represent women.
+
+Vatter attributes this underrepresentation to the systemic overrepresentation of conservative
+
+parties that are traditionally male-dominated. However, in a study on women’s representation in
+
+the Canadian Senate, Erica Rayment and Elizabeth McCallion (2023) found that women may
+
+actually be better represented in second chambers, especially those that are appointed or non partisan. When bills that substantially affected women's issues were proposed to the Canadian
+
+Parliament, women in the House of Commons adhered to the party line and voted for the bills,
+
+while women in the Senate felt freer to defect and either vote against or amend the bills.
+
+However, the majority of bicameral legislatures are indirectly or directly elected rather than
+
+appointed, so I predict that women will be underrepresented and, as such, have less confidence in
+
+parliament. My expectation is that women will have a less positive view of bicameralism with
+
+higher inequality of representation. Thus, my fourth hypothesis:
+
+Hypothesis 4: With increasing inequality of representation, individuals who are female will have
+
+less confidence in parliament.
+
+The next section will present an overview of my data and methods, starting with an outline of my
+
+planned regression analysis and how I will use weights in my thesis.
+
+18
+
+4. Data and Methods
+
+To explore the relationship between confidence in parliament and inequality of representation, I
+
+have constructed OLS regression models with Inequality of Representation as the main
+
+independent variable and Confidence in Parliament as the main dependent variable. The output
+
+of these models can be found in the next section. In this section, I will present how cases were
+
+selected, and how each variable is measured. Additionally, the discussion will describe what
+
+control variables were added and how they are measured.
+
+Weights have been added to account for overrepresented and underrepresented
+
+populations in the survey data. The WVS/EVS survey includes two different weighing
+
+techniques. The first assigns weights to each respondent to adjust the sample population to the
+
+distribution of the target population for key socio-demographic characteristics. The second
+
+method equalizes the output of the prior method so that each country can be treated as equal
+
+units. For my analysis, I have employed the former method because I think that when making
+
+this comparative analysis larger countries that contain more individuals should weigh more. The
+
+state of democracy in the United States (the largest country in my selection) is arguably more
+
+important to the global health of democracy than that of Bosnia (the smallest country in my
+
+selection). Models for each hypothesis with the alternative equilibrated weights provided by the
+
+joint dataset are included in the appendix (Tables B4-B6).
+
+4.1 Case Selection
+
+Cases were selected based on multiple criteria and then narrowed based on the availability of
+
+data. Countries were selected among the global population of democracies with bicameral
+
+legislatures where the second chamber represents territorial interests. Identifying this population
+
+was a challenging task, because many second chambers that are elected by territorial units are
+
+not designed to necessarily represent those units. By checking the constitutions of all the
+
+countries where members of the second chamber are apportioned or elected by territorial units a
+
+list of relevant countries was compiled. The Economist’s Democracy Index was used to exclude
+
+non-democracies. Non democracies were excluded because they do not base their legitimacy on
+
+the support of the people in the same manner as democracies. Additionally, since news media
+
+and other sources of information are controlled by the state, any data on the popularity of
+
+governing institutions would suffer validity issues.
+
+19
+
+The Democracy Index is an index that seeks to measure democracy using expert surveys
+
+to assess a country's level of democracy. The responses are compiled, and the final score is coded
+
+as being from 0 to 10, with 0 to 4 representing authoritarian countries, 4.01 to 6 representing
+
+hybrid regimes, 6.01 to 8 representing flawed democracies, and 8.01 to 10 representing full
+
+democracies (Democracy Index 2023). For the purposes of this paper, countries with Democracy
+
+Index values lower than four were excluded. One country that fit all the criteria listed above was
+
+excluded due to lack of available data on the apportionment of their second chamber, Morocco.
+
+Additionally, four countries were excluded because they were not included in the World Values
+
+Survey (WVS)/European Values Survey (EVS): India, Namibia, Nepal, and Belgium. This leaves
+
+us with the following 17 countries:
+
+Table 1. Case Selection
+
+Country Territorial Representation?
+
+Directly Elected?
+
+% Appointed % Directly Elected
+
+% Indirectly Elected
+
+Upper House Inequality of Representation Argentina Yes Yes 0,0% 100,0% 0,0% 39,82 Australia Yes Yes 0,0% 100,0% 0,0% 33,94 Austria Yes No 0,0% 0,0% 100,0% 12,19 Bosnia and Herzegovina
+
+Yes No 0,0% 0,0% 100,0% 8,70
+
+Brazil Yes Yes 0,0% 100,0% 0,0% 37,78 Canada Semi No 100,0% 0,0% 0,0% 37,36 Germany Yes No 0,0% 0,0% 100,0% 26,11 Indonesia Yes Yes 0,0% 100,0% 0,0% 40,75 Italy Yes Yes 2,9% 97,1% 2,9% 13,96 Kenya Yes Semi 30,9% 69,1% 0,0% 25,26 Malaysia Semi No 62,8% 0,0% 37,2% 30,47 Mexico Semi Yes 0,0% 100,0% 0,0% 29,43 Nigeria Yes Yes 0,0% 100,0% 0,0% 18,25 Pakistan Yes No 0,0% 0,0% 100,0% 34,86 Spain Yes Semi 0,0% 78,5% 21,5% 25,39 Switzerland Yes Yes 0,0% 100,0% 0,0% 39,18 United States
+
+Yes Yes 0,0% 100,0% 0,0% 39,48
+
+Note: Calculations of Upper House Inequality of Representation were done by the author. Data on the percentage of seats directly elected, indirectly elected, and appointed come from the IPU’s PARLINE database (IPU, 2016).
+
+20
+
+4.2 Independent Variable: Upper House Inequality of Representation
+
+To measure the independent variable, inequality of representation, I calculated the vote weight
+
+(seat share) of the most favorably represented individuals in each countries second chamber, as
+
+shown in Table 2. For countries where the second chamber represents territorial interests, these
+
+individuals will usually be the members of the smallest territorial unit. By listing and adding up
+
+the population of the smallest territorial units until they add up to ten percent of the population
+
+and seeing how many seats in the upper house represent that population, an index of upper house
+
+inequality of representation can be created. The index reflects the share of seats in the second
+
+chamber that is held by the best represented 10% of the population. This is a very similar
+
+approach to the one used by Lijphart, which he describes as:
+
+“Assume that the smallest and best represented state in a federation has 6 percent of the population and ten
+
+of the one hundred seats in the federal chamber, and that the second smallest and second-best represented
+
+state has 8 percent of the population and also ten of the one hundred federal chamber seats. Then the best
+
+represented 10 percent of the population are the 6 percent in the smallest state plus half of the people in the
+
+second smallest state. Together, these 10 percent of the people have 15 percent of the seats in the federal
+
+chamber” (Lijphart 2012, 195–96).
+
+However, there are a few countries where the most favorably represented territorial units are not
+
+the smallest units by population. This happens when second chamber seats are not evenly
+
+distributed between territorial units. To identify the most favorably represented territorial units in
+
+this case, the population of a territorial unit is divided by the number of seats apportioned to that
+
+unit. Then the territorial units in the table are ordered by this ratio rather than by total population.
+
+An example of how the Inequality of Representation index is calculated when all territorial units
+
+have an equal number of seats can be found in Table 2 below. All the calculations of the
+
+Inequality of Representation index can be found in the appendix with separate tables for each
+
+country (Tables A1-A17).
+
+Vatter (2005), uses this inequality of representation measure to measure minority
+
+protection under bicameral systems. He hypothesizes that bicameral systems will naturally
+
+protect territorial minority interests by focusing on the balance between large and small
+
+constituent federal units.
+
+21
+
+Table 2. Inequality of Representation Calculation Example
+
+South Africa Population (2017) Seats in the National Council
+
+Northern Cape 1 355 946 10
+
+Free State 2 964 412 10
+
+North West 3 804 548 10
+
+Mpumalanga 5 143 324 10
+
+Limpopo 6 572 720 10
+
+Eastern Cape 7 230 204 10
+
+Western Cape 7 433 019 10
+
+KwaZulu-Natal 12 423 907 10
+
+Gauteng 15 099 422 10
+
+Total 62 027 502 90
+
+10% of Pop. 6 202 750
+
+North. Cape + Free State Pop. 4 320 358 20
+
+1 882 392
+
+% of North West added 49%
+
+Number of seats held by 10% best represented population.
+
+24,95
+
+% of total seats held by 10% best represented population. (Inequality of Representation)
+
+27,72%
+
+Note: States in italics add up to less than 10%; All calculations done by author. Data on regional populations comes from the Statistics South Africa (2022), Data on National Council apportionment comes from PARLINE (IPU, 2016).
+
+4.3 Dependent Variable: Confidence in Parliament
+
+To measure the dependent variable, Confidence in Parliament, survey data from the World Values
+
+Survey and European Values Survey will be used. The latest round of each survey, conducted
+
+between 2017 and 2022 asked 153,716 respondents in 90 countries about political attitudes and
+
+relevant for my thesis, their confidence in multiple institutions, including parliament (EVS/WVS
+
+2022). The two datasets were merged under a co-operation agreement between the conducting
+
+organizations. For the World Values Survey, interviewers listed several institutions/organizations,
+
+including parliament, and asked respondents to answer how much confidence they had in each.
+
+Responses were coded as 1-4, with 1 meaning “A great deal”, 2 meaning "Quite a lot”, 3
+
+22
+
+meaning "Not very much”, and 4 meaning "None at all.” In the European Values Survey,
+
+respondents were asked to look at a card and respond, “how much confidence you have in them,
+
+is it a great deal, quite a lot, not very much or none at all?” Answers were also coded 1-4, with “a
+
+great deal” being coded as 1, and “none at all” being coded as 4. In both surveys, if the
+
+respondent did not answer, did not know their answer, or if an answer is missing, then that was
+
+coded as -2, -1, or -5 respectively. To prevent these numeric categorizations from influencing my
+
+results, these responses were dropped (828 responses dropped). For reasons of legibility,
+
+confidence was recoded so that 4 is the value for the highest level of confidence and 1 is the
+
+value for the lowest level of confidence.
+
+Table 3. Independent and Dependent Variable
+
+Variable Number of Observations
+
+Missing Values
+
+Mean Standard Deviation
+
+Min Max
+
+Inequality of Representation
+
+17 0 30.41 9.95 8.70 40.75
+
+Confidence in Parliament
+
+34,842 828 2.785 0.856 1 (None at All)
+
+4 (A Great Deal)
+
+4.4 Interaction Variables
+
+Settlement Size
+
+To test my second hypothesis, that individuals who live in rural areas will have higher
+
+confidence in parliament when the inequality of representation increases, I will also use data
+
+contained in the WVS/EVS dataset. To make the joint dataset, most variables related to the
+
+population size of where respondents lived were dropped by the WVS/EVS team, because the
+
+questions related to settlement size were not asked in the EVS. Therefore, the best measure
+
+included in the joint dataset is a five-category variable called “size of town where interview was
+
+conducted (5 categories)”. The five categories are “5,000 or fewer; 5,000–20,000, 20,000 100,000, 100,000-500,000, 500,000 or more”. Like the variable on confidence in parliament, if
+
+the respondent did not answer, did not know their answer, or if an answer is missing, then that
+
+was coded as -2, -1, or -5 respectively. These responses were similarly recoded as missing (1,127
+
+responses dropped). In order to conduct the analysis, the variable was recoded into two
+
+23
+
+dichotomous variables indicating whether the respondent was interviewed in a rural area or an
+
+urban area. In the first variable, settlements with a population under 5,000 were coded as rural
+
+(0) and populations over 5,000 as urban (1). In the second variable, settlements with a population
+
+of under 5,000 and a population between 5,000 and 20,000 were categorized as rural. The main
+
+caveat of this variable is that while the town where the interview was conducted is probably
+
+close to where the respondent lives, it may not be the exact place where respondents live.
+
+Regardless, this measure is very likely to be a good proxy for urban and rural residency. The
+
+narrow coding of rural as being settlements with less than 5,000 people reduces the likelihood of
+
+any validity problems, as there is usually a gradient of population size between settlements. An
+
+analysis that uses the looser definition of rural (less than 20,000) can be found in Table B10 in
+
+the appendix.
+
+Political Orientation
+
+To test my third hypothesis, that individuals with a right-wing political orientation will have
+
+greater confidence in parliament when the inequality of representation increases, I will use a
+
+variable in the WVS/EVS dataset that asks respondents to place themselves on the political
+
+spectrum. In both the WVS and EVS surveys, respondents were asked “In political matters,
+
+people talk of ‘the left’ and ‘the right’. How would you place your views on this scale, generally
+
+speaking?” The scale was coded 1 as being the most left-wing option and 10 as the most right wing option. Respondents were also given the option to not answer or to answer that they didn’t
+
+know. As with other variables from the WVS/EVS joint dataset, these missing or unclear answers
+
+are recoded as missing so that they don’t interfere with later analysis (5,701 responses dropped).
+
+The comparatively large number of missing values is because the question was not asked in
+
+Pakistan, so all responses recorded from Pakistan are dropped. Responses were recoded into a
+
+dichotomous variable where 0 represents left wing political opinions (values 1 to 5 in the original
+
+variable) and 1 represents right wing political opinions (values 6 to 10 in the original variable).
+
+Sex
+
+To test my fourth hypothesis, that with increasing inequality of representation, individuals who
+
+are female will have less confidence in parliament, the WVS/EVS joint dataset includes a
+
+variable describing the sex of the respondent. In the EVS, respondents were asked what their sex
+
+was, 1 being coded as male and 2 being coded as female. However, in the WVS, the interviewer
+
+24
+
+would code the respondents’ sex by observation and was explicitly told not to ask. As with the
+
+other variables, responses other than male or female were coded as a numeric value and were
+
+recoded here as missing to not interfere with later analysis (25 responses dropped). For better
+
+interpretability, Sex was recoded so that 0 is coded as male and 1 is coded as female.
+
+Table 4. Variables to be Interacted with Inequality of Representation
+
+Variable Number of Observations
+
+Missing Values
+
+Mean
+
+Standard Deviation
+
+Min Max
+
+Settlement Size
+
+35,670
+
+1,127 0.750 0.432 0 (Rural, Fewer than 5,000)
+
+1 (Urban, Greater than 5,000)
+
+Political Orientation
+
+29,969 5,701 0.419 0.493 0 (LeftWing)
+
+1 (RightWing)
+
+Sex 35,645 25 1.516 0.499 0 (Male) 1 (Female)
+
+4.5 Control Variables
+
+In addition to the control variables listed below, in Models 3, 4, and 5 of the regression tables
+
+that follow, the variables used in the interaction analysis are also used as controls. In Model 3,
+
+these controls are introduced on the individual-level only, in Models 4 and 5 they are also
+
+introduced on the interaction level.
+
+Government Ideology
+
+To test my third hypothesis, a new control variable must be introduced, measuring whether the
+
+incumbent government’s ideological orientation aligns with the ideological orientation of the
+
+respondent. This control is important because the direction of the government is an important
+
+factor behind approval of a government institution. For example, in the United States, when the
+
+Republican party captured the Presidency in 2016, approval of presidential job performance
+
+amongst Democratic-identifying voters dropped 75 percentage points from 80% to just 6%. At
+
+the same time, Republican-identifying voters gained 70 percentage points of approval (Dunn
+
+n.d.). Additionally, when governments create malapportionment, they will often create districts
+
+with higher or lower proportions of people who support them, so aligning with the government's
+
+politics may influence Upper House Inequality of Representation as well.
+
+25
+
+To measure this phenomenon, I will manually code each country for the ideological
+
+direction of the government at the time that the EVS/WVS survey was taken in that country. To
+
+measure the ideological direction of the government, I used CIA World Factbook data for the
+
+year in question to identify who the head of government during the period was when the survey
+
+was taken (CIA 2018). If an election was held during the year in question, then I used the
+
+ideological direction of the head of government for the most time (more than half of the year). I
+
+coded the government’s ideological direction as a dichotomous variable where 0 meant that the
+
+country had a left-wing government and 1 a right-wing government. This variable was compared
+
+to the self-identified political ideology of the respondents to create a dichotomous variable where
+
+1 means that the respondent has the same ideological direction as the government and 0 means
+
+that the respondent has the opposite ideological direction as the government.
+
+Age
+
+Age is a factor that can affect the political ideology and confidence of individuals in political
+
+institutions. Political scientists have long established the role of age in determining the political
+
+ideology and behavior of people (Smets 2021). An analysis of rural aging in the United States
+
+shows that there is a substantial level of internal migration in rural areas that is caused by aging
+
+(Nelson 2013). This internal migration can cause some territorial units to become
+
+malapportioned over time, increasing inequality of representation. In the WVS/EVS joint dataset,
+
+respondents were asked for their birth-year and age. Respondent’s ages are coded in the dataset
+
+in three ways, first as a continuous variable that just records the respondent’s age, second as a
+
+categorical variable that divides age into six groups: “15-24”, “25-34”, “35-44”, “45-54”, “55 64”, and “65 and more years”, and as another categorical variable with three groups, “15-29”,
+
+“30-49”, and “50 and more years.” For clarity and legibility of results, the continuous variable
+
+for age was chosen to represent the age of the respondents (Readers interested in an analysis that
+
+breaks down age into the six groups identified above can find the results in the appendix in
+
+Figures B1-B3).
+
+26
+
+Table 5. Control Variables
+
+Variable Number of
+
+Observations
+
+Missing
+
+Values
+
+Mean Standard
+
+Deviation
+
+Min Max
+
+Government
+
+Ideology
+
+29,969 5,701 0.468 0.499 0 (Different
+
+Ideological
+
+Direction)
+
+1 (Same
+
+Ideological
+
+Direction)
+
+Age 35,589 81 3.490 1.6421 1 (15-24) 6 (65 and
+
+older)
+
+Next, I will present the results of my regressions with tables of the outcomes and explanations of
+
+what each table represents. Then I will interpret the results in light of the expectations and
+
+hypotheses that I presented in Section 3.
+
+5. Analysis and Results
+
+In this section I will present the results of my regressions analysis. The first section analyzes my
+
+first two hypotheses. Recall that hypothesis 1 proposes that with increasing inequality of
+
+representation, individuals will have lower confidence in parliament and Hypothesis 2 suggests
+
+that with increasing inequality of representation, individuals that live in less densely populated
+
+areas will have greater confidence in parliament.
+
+These results were subjected to several robustness checks. First, the same OLS-regression
+
+method but using equilibrated weights instead of the standard population weights that were used
+
+in the models presented in the main section of the paper. Second, a random effects regression
+
+analysis was implemented to ascertain if stress on the model is causing a lack of statistical
+
+significance. Third, a regression analysis with the Age variable split into six different categories
+
+to analyze the link between different age groups and confidence in parliament given increases in
+
+inequality of representation. Finally, a regression analysis with a looser definition of what is
+
+considered rural to analyze whether my narrow definition of what is considered rural was
+
+constraining the results. The results were robust to these alternative model specifications (see
+
+Tables B1-B3 for the robustness check using age as a categorical variable, Tables B4-B7 for the
+
+27
+
+robustness check using equilibrated weights, Tables B8-B9 for the robustness check using a
+
+random regressions analysis, and Table B10 for the results using the looser definition of rural).
+
+5.1 Hypothesis 1 and 2: Inequality of Representation, Rural Residency, and Confidence in Parliament
+
+In Table 6, Model 1 presents the results of a simple bivariate regression between my two key
+
+variables, Confidence in Parliament, and Upper House Inequality of Representation. The
+
+regression co-efficient of 0.01 indicates a very weak, but statistically significant positive link (p
+
+< 0.01) between Inequality of Representation and Confidence in Parliament. This means that if
+
+there were to be a one-percent increase in the share of seats allocated to the 10% most favorably
+
+represented territories (Inequality of Representation), then we would see a very slight increase in
+
+the expected confidence in parliament in the average respondent.
+
+In Model 2, when a dichotomous variable is introduced reflecting whether the respondent
+
+lives in a rural area, the regression coefficient of Upper House Inequality of Representation
+
+increases to 0.02 and remains statistically significant (p < 0.01). The relationship between the
+
+interaction variable Rural Residency * Inequality of Representation on one hand and Confidence
+
+in Parliament on the other is negative, suggesting that the link between Inequality of
+
+Representation and Confidence in Parliament might be conditioned on whether an individual
+
+lives in a rural or urban area, an effect that continues through Models 3 and 4 (p < 0.05). On
+
+average, respondents living in rural areas have greater confidence in parliament than those living
+
+in urban areas, as shown by the regression coefficient, 0.27 on a scale running from 1 to 4. This
+
+association is about 31% of a standard deviation and it is statistically significant (p < 0.01).
+
+Table 6. Hypothesis 1 and 2 Results
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Upper House Inequality of Representation
+
+0.01***
+
+(0.00)
+
+0.02***
+
+(0.00)
+
+0.02**
+
+(0.01)
+
+0.01
+
+(0.01)
+
+-0.18***
+
+(0.03) Rural Residency (Yes) 0.27***
+
+(0.03)
+
+0.33**
+
+(0.15)
+
+0.31*
+
+(0.15)
+
+0.01 (0.07) Rural Residency * Upper House Inequality of Representation
+
+-0.01***
+
+(0.00)
+
+-0.01**
+
+(0.01)
+
+-0.01**
+
+(0.01)
+
+-0.00 (0.00) Sex (Female) 0.02 0.02 0.02 (0.02) (0.04) (0.04)
+
+28
+
+Age 0.02* 0.03* 0.03 (0.01) (0.02) (0.02) Political Ideology (Right) 0.08**
+
+(0.04)
+
+0.07 (0.10)
+
+0.13 (0.10) Government Ideological Alignment (Yes)
+
+0.02 (0.05)
+
+-0.29**
+
+(0.10)
+
+-0.10 (0.10) Constant 2.00*** 1.82*** 1.72*** 1.83*** 9.01*** (0.02) (0.03) (0.20) (0.20) (1.17) Interaction-Level Controls No No No Yes Yes Country FEs No No No No Yes R2 0.0064 0.014 0.016 0.018 0.13 Observations 34842 34842 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+In Model 3, when controls at the individual level (sex, political ideology, etc.) are
+
+introduced, the coefficients of the two key variables of interest – Upper House Inequality of
+
+Representation and Rural Residency * Upper House Inequality of Representation – remain
+
+unchanged, but the significance level has decreased. As for the control variables, the regression
+
+co-efficient of Rural Residency is 0.33 on a scale running from 1 to 4 (p < 0.05). This means that
+
+going from living in an urban area to living in a rural area would increase the average
+
+respondent’s confidence in parliament. Two other control variables show results that are
+
+statistically significant: a weak link between Political Ideology and Confidence in Parliament of
+
+0.08 (p < 0.05), and a weak link between Age and Confidence in Parliament with a regression
+
+coefficient of 0.02, but this is not statistically significant to conventional levels (p < 0.10).
+
+With the introduction of interaction-level controls in Model 4, the regression coefficient
+
+of Upper House Inequality of Representation is reduced to 0.01 and loses its statistical
+
+significance. The interaction between Rural Residency and Inequality of Representation
+
+continues to show a statistically significant and negative (-0.01) result, indicating that living in a
+
+rural area would decrease a respondent’s confidence in parliament given an increase in inequality
+
+of representation (p < 0.05). The Rural Residency variable continues to show the same pattern as
+
+Models 2 and 3, that going from living in an urban area to living in a rural area would increase
+
+an individual’s expected confidence in parliament by 0.31 on the scale of confidence that runs
+
+from 1 to 4. But it is important to note that this effect is not statistically significant at
+
+conventional levels (p < 0.05).
+
+29
+
+Finally, in Model 5, with the introduction of country fixed effects and interaction-level
+
+controls, the regression coefficient of Upper House Inequality of Representation is -0.18, on the
+
+1 to 4 scale of confidence in parliament (21% of a standard deviation), reflecting that a one percent increase in Inequality of Representation is associated with a small decrease in
+
+Confidence in Parliament (p < 0.01). This is in line with my expectation that an increase in
+
+Inequality of Representation would decrease the average individual’s Confidence in Parliament.
+
+However, introducing country fixed effects, and thereby accounting for any unobserved country
+
+characteristics that could explain the previously observed effects, also negates any links between
+
+the interaction variable, Rural Residency * Inequality of Representation and Confidence in
+
+Parliament.
+
+Results
+
+In sum, these results support Hypothesis 1, but suggest that Hypothesis 2 should be rejected. In
+
+Hypothesis 1, I proposed that an increase in Upper House Inequality of Representation would
+
+lead to a decrease in an individual’s Confidence in Parliament. The outcome of the final model,
+
+Model 5, grants support to this hypothesis. The change in direction and size from previous
+
+models (1-4) reflects that country-specific factors were suppressing the negative link between
+
+Upper House Inequality of Representation and Confidence in Parliament.
+
+In Hypothesis 2, I predicted that individuals who lived in rural areas would have a higher
+
+level of Confidence in Parliament given an increase in Inequality of Representation. While the
+
+outcomes of Models 2-4 seem to support this, the introduction of country-level fixed effects in
+
+Model 5 negates any link between the interaction variable Rural Residency * Inequality of
+
+Representation and Confidence in Parliament, indicating that the outcomes of previous models
+
+might just be an effect of variation between countries. One possible explanation for the lack of
+
+statistical significance between the interaction variable Rural Residency * Inequality of
+
+Representation and Confidence in Parliament when country-level fixed effects were added could
+
+be the limited number of countries analyzed here. Future research using similar variables can
+
+hopefully be based on a larger sample, by extending the analysis over time.
+
+In Hypothesis 1, my initial expectation that individuals would have a lower level of
+
+confidence in parliament was based on Kim’s (2007) finding that institutions that do not
+
+proportionally represent the political spectrum have lower levels of confidence from citizens.
+
+Given Vatter’s (2005) and Johnson and Miller’s (2023) finding that second chambers with high
+
+30
+
+levels of inequality of representation overrepresent the right-wing of the political spectrum, it is
+
+reasonable to expect that individuals might have lower confidence in legislative institutions that
+
+distort their policy preferences. My result goes along with these expectations, that this hypothesis
+
+can be supported.
+
+In Hypothesis 2, my initial expectation that individuals who lived in rural areas would
+
+have a higher level of confidence in parliament was based on Vatter’s (2005) finding that rural
+
+areas are overrepresented in the membership of second chambers. In addition to this, Boyle and
+
+Matheson (2009) found that the overrepresentation of smaller, rural states in the United States
+
+meant that these states received a disproportionately large share of federal funding. Thus, it was
+
+reasonable to expect that individuals who live in rural areas might have greater confidence in
+
+parliament. This makes my result, that this hypothesis cannot be substantiated somewhat
+
+surprising.
+
+5.2 Hypothesis 3: Political Ideology, Inequality of Representation and Confidence in
+
+Parliament
+
+Recall that Hypothesis 3 proposes that with increasing inequality of representation, individuals
+
+with a right-wing political orientation will have greater confidence in parliament. In Table 7,
+
+Model 1 again shows the results of the simple bivariate regression between my two key
+
+variables, Confidence in Parliament, and Upper House Inequality of Representation. In Model 2,
+
+The relationship between the interaction variable of Political Ideology * Inequality of
+
+Representation and Confidence in Parliament is negligible, suggesting that the link between
+
+Confidence in Parliament and Inequality of Representation is not conditioned on an individual’s
+
+political ideology, a pattern that continues through Models 3 and 4 (p > 0.10). Controlling for
+
+whether if the respondent identifies as being on the Right-Wing of the Political Spectrum, the
+
+regression coefficient of Upper House Inequality of Representation is 0.01, which is statistically
+
+significant (p < 0.01). On average, of the control variables, respondents who identify as right
+
+wing have greater Confidence in Parliament than those who identify as left wing, as
+
+demonstrated by the regression coefficient of 0.06 on a scale running from 1 to 4. This is a rather
+
+weak association, and it is not statistically significant to conventional levels (p < 0.10).
+
+31
+
+Table 7. Hypothesis 3 Results
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Upper House Inequality of Representation 0.01***
+
+(0.00)
+
+0.01***
+
+(0.00)
+
+0.01 (0.01)
+
+0.01
+
+(0.01)
+
+-0.18***
+
+(0.03) Political Ideology (Right) 0.06*
+
+(0.04)
+
+0.05 (0.15)
+
+0.07 (0.10)
+
+0.13 (0.08) Political Ideology (Right) * Upper House Inequality of Representation
+
+0.00 (0.00)
+
+0.00 (0.00)
+
+0.00 (0.00)
+
+-0.00 (0.00) Government Ideological Alignment (Yes) 0.02 -0.29** -0.10 (0.05) (0.12) (0.08) Sex (Female) 0.02 0.01 0.02 (0.02) (0.04) (0.04) Age 0.02 0.03* 0.02 (0.01) (0.02) (0.02) Rural Residency (Yes) -0.07 0.31* 0.01 (0.07) (0.15) (0.07) Constant 2.00*** 2.02*** 1.99*** 1.83*** 9.01*** (0.02) (0.02) (0.27) (0.20) (1.13) Interaction-Level Controls No No No Yes Yes Country FEs No No No No Yes R2 0.0066 0.0076 0.010 0.020 0.13 Observations 34842 29602 29560 29560 29560 Note: Standard errors in parentheses; Standard errors are clustered by country. Models 1, 4, and 5 have the same outcome as in the previous hypothesis. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+In Model 3, when controls at the individual level (sex, rural residency, government
+
+ideological alignment, etc.) are introduced, neither the coefficient of Upper House Inequality of
+
+Representation and the coefficient of the interaction variable Political Ideology * Upper House
+
+Inequality of Representation are statistically significant. Of the control variables, the regression
+
+co-efficient of Political Ideology is 0.05 on the confidence scale 1 to 4, but this result is not
+
+statistically significant (p > 0.10). None of the other variables show results that are statistically
+
+significant. The measure for Government Ideological Alignment shows a slightly positive link
+
+between alignment and Confidence in Parliament of 0.02 (p > 0.10).
+
+With the introduction of interaction-level controls in Model 4, the analysis continues to
+
+show the same pattern, a very weak association between Upper House Inequality of
+
+Representation and Confidence in Parliament which is not statistically significant (p > 0.10).
+
+Finally, in Model 5, with country fixed effects and interaction-level controls, the regression
+
+coefficient of Political Ideology is 0.13, reflecting that a one-percent increase in Inequality of
+
+32
+
+Representation is linked to an increase in Confidence in Parliament if the respondent identifies as
+
+right wing. However, this result is not statistically significant (p > 0.10).
+
+Results
+
+In summary, these results suggest that Hypothesis 3 should be rejected: Hypothesis 3 suggested
+
+that individuals who identify as being on the right wing of the political spectrum would have a
+
+higher level of Confidence in Parliament given an increase in Inequality of Representation. None
+
+of the models presented here indicate that there is an association between the interaction variable
+
+Political Ideology (Right) * Upper House Inequality of Representation and Confidence in
+
+Parliament. Therefore, it cannot be substantiated that a relationship exists between an
+
+individual’s ideological opinion and their confidence in parliament, given changes in inequality
+
+of representation, but data limitations may hide the true nature of this relationship.
+
+My initial expectation that individuals with right-wing political opinions would have a
+
+higher level of confidence in parliament was based on Vatter’s (2005) and Johnson and Miller’s
+
+(2023) finding that parties of the right are overrepresented in the membership of second
+
+chambers. Thus, it was reasonable to expect that individuals with right-wing political opinions
+
+might have greater confidence in parliaments that represent them better. This makes my result,
+
+that this hypothesis cannot be substantiated somewhat surprising.
+
+5.3 Hypothesis 4: Sex, Inequality of Representation and Confidence in Parliament
+
+Recall that Hypothesis 4 suggests that with increasing inequality of representation, individuals
+
+who are female will have less confidence in parliament. In Table 8, Model 1 again shows the
+
+results of the simple bivariate regression between my two key variables, Confidence in
+
+Parliament, and Upper House Inequality of Representation.
+
+In Model 2, the relationship between the interaction variable Sex * Inequality of
+
+Representation and Confidence in Parliament is negligible, indicating that the link between
+
+confidence in parliament and inequality of representation is not conditioned on an individual’s
+
+sex. This pattern continues through Models 3 and 4 (p > 0.10). On average, turning to my control
+
+variables, for respondents who identify as female, the regression coefficient of Upper House
+
+Inequality of Representation is 0.01, which is statistically significant (p < 0.01). On average,
+
+respondents who are Female have greater Confidence in Parliament than their Male counterparts,
+
+33
+
+as shown by the regression coefficient, 0.02 on a scale running from 1 to 4. This is a very weak
+
+association, and it is not statistically significant (p < 0.10).
+
+Table 8. Hypothesis 4 Results
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Upper House Inequality of Representation 0.01*** 0.01*** 0.01 0.01 -0.18*** (0.00) (0.00) (0.01) (0.01) (0.03) Sex (Female) 0.02 0.02 0.01 0.02 (0.03) (0.04) (0.04) (0.04) Sex (Female) * Upper House Inequality of Representation
+
+-0.00 (0.00)
+
+0.00 (0.00)
+
+0.00 (0.00)
+
+0.00 (0.00) Age 0.00* 0.03* 0.02 (0.00) (0.02) (0.02) Rural Residency (Yes) -0.08 0.31* 0.01 (0.07) (0.15) (0.07) Political Ideology (Right) 0.09* 0.07 0.13 (0.04) (0.10) (0.08) Government Ideological Alignment (Yes) 0.02 -0.29** -0.10 (0.05) (0.10) (0.08) Constant 2.00*** 1.99*** 1.95*** 1.83*** 9.01*** (0.02) (0.02) (0.24) (0.20) (1.13) Interaction-Level Controls No No No Yes Yes Country FEs No No No No Yes R2 0.0066 0.0066 0.011 0.020 0.13 Observations 34842 34822 29560 29560 29560 Note: Standard errors in parentheses; Standard errors are clustered by country. Models 1, 4, and 5 have the same outcome as in the previous hypothesis. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+In Model 3, when controls at the individual level (sex, rural residency, government
+
+ideological alignment, etc.) are introduced, the coefficient of Upper House Inequality of
+
+Representation and is not statistically significant and neither is the coefficient of the interaction
+
+variable Political Ideology * Upper House Inequality of Representation. Turning to the controls,
+
+the regression co-efficient of being Female is 0.02 on the confidence scale running from 1 to 4,
+
+this result is not statistically significant (p > 0.10). The only control variables that show
+
+statistical significance, although not at conventional levels (p < 0.10) are age, with a coefficient
+
+of less than 0.00, and political ideology with a coefficient of 0.09.
+
+With the introduction of interaction-level controls in Model 4, the analysis continues to
+
+show a very weak association between Upper House Inequality of Representation and
+
+Confidence in Parliament but like in Model 3, this is not statistically significant (p > 0.10). For
+
+34
+
+respondents that are Female, a one-percent increase in Inequality of Representation would
+
+increase their Confidence in Parliament by 0.01, however this is not statistically significant (p >
+
+0.10). Finally, in Model 5, with country fixed effects and interaction-level controls, the
+
+regression coefficient of Self-Identified Political Ideology is 0.02 (on the 1-4 scale), reflecting
+
+that a one-percent increase in Inequality of Representation is linked to a very small increase in
+
+Confidence in Parliament if the respondent is Female. However, this result is not statistically
+
+significant (p > 0.10).
+
+Results
+
+Overall, these results suggest that Hypothesis 4 should be rejected: Hypothesis 4 proposed that
+
+individuals who are Female would have a lower level of Confidence in Parliament given an
+
+increase in Inequality of Representation. None of the models presented here indicate that there is
+
+an association between the interaction variable Sex (Female) * Upper House Inequality of
+
+Representation and Confidence in Parliament. Therefore, it cannot be substantiated that a
+
+relationship exists between an individual’s sex and their confidence in parliament, given changes
+
+in inequality of representation, but data limitations may hide the true nature of this relationship.
+
+My initial expectation that women would have a lower level of confidence in parliament
+
+was based on Vatter’s (2005) finding that women are underrepresented in the membership of
+
+second chambers. This makes my result, that this hypothesis cannot be substantiated somewhat
+
+surprising. While Rayment and McCallion’s (2023) research suggested that women who are
+
+members of second chambers may feel freer to express their opinions on women’s issues, their
+
+study applied only to appointed second chambers, when most of the world’s second chambers are
+
+indirectly or directly elected.
+
+6. Conclusion
+
+With about 40% of the world’s countries and nearly two-thirds of the world’s democracies being
+
+bicameral, we must study what dynamics affect the behavior and impact of bicameral systems.
+
+This thesis strove to measure how the social legitimacy of second chambers in bicameral systems
+
+is affected by the institutional malapportionment that is often a constitutional fixture of those
+
+systems. It aimed to do that using various individual factors that might influence how an
+
+individual reacts to increases in inequality of representation.
+
+35
+
+While increases in inequality of representation are shown to be linked to a decrease in an
+
+individual's confidence in parliament, an analysis of the various individual-level factors
+
+presented in this thesis gives unclear results. While rural residency seems to have some kind of
+
+relationship with confidence in parliament given increases in inequality of representation, the
+
+lack of statistical significance when introducing country- level fixed effects makes it difficult to
+
+judge the nature of this relationship. Similarly with hypotheses about interaction effects between
+
+inequality of representation and sex and political orientation, a lack of statistical significance
+
+makes definitively understanding the nature of this relationship difficult and suggests that we
+
+should reject the hypothesis for now.
+
+Given this lack of statistical significance for my hypotheses that deal with individual
+
+factors, the inclusion of more countries and more data could shed light on the true nature of these
+
+possible relationships. The WVS/EVS dataset was a valuable asset in collecting data for this
+
+analysis, but many bicameral countries are not included in the dataset. This lack of data forced
+
+multiple countries to be dropped from the analysis. Future WVS/EVS waves may include new
+
+countries that can be used to extend the scope of this study. Using similar data, a time series
+
+analysis could be used to increase the number of observations.
+
+This thesis contributes new insight on how to better capture the legitimacy of second
+
+chambers in bicameral systems. It also shows that increases in inequality of representation are
+
+linked to a decrease in an individual’s confidence in parliament. This result may have important
+
+policy implications, if bicameral institutions are to survive, then they need to appear as being as
+
+legitimate as possible. Policymakers and constitution writers alike can take the results of this
+
+thesis and design bicameral chambers such that they limit the level of inequality of
+
+representation. Perhaps a more proportional allocation of seats such as in Germany or Austria
+
+would go a long way to ensuring bicameral survival. These results may also have implications on
+
+democracy in general, as democracy is more sustainable when it does not have to rely on
+
+illegitimate institutions. Many questions and aspects of legitimacy remain unanswered. Future
+
+works can narrow this gap and add to the conclusions of this study by measuring the other
+
+aspects of legitimacy, or finding new data to widen the number of countries that can be studied.
+
+36
+
+References
+
+Ansolabehere, Stephen, James M. Snyder, and Michael M. Ting. 2003. “Bargaining in Bicameral
+
+Legislatures: When and Why Does Malapportionment Matter?” American Political Science Review 97(3): 471–81.
+
+Agency for Statistics of Bosnia and Herzegovina. 2020. Demografija u Brčko distriktu BiH
+
+2015-2019. https://bhas.gov.ba/data/Publikacije/Bilteni/2020/BRC_07_2015_Y4_0_BS.pdf. (October 3, 2023).
+
+Australian Bureau of Statistics. 2023. National, state and territory population. ABS.
+
+https://www.abs.gov.au/statistics/people/population/national-state-and-territorypopulation/mar-2023/310104.xlsx (October 3, 2023).
+
+Badan Pusat Statistik. 2021. Population by Region, Generation Classification, and Gender,
+
+Indonesia, 2020. https://sensus.bps.go.id/main/index/sp2020 (October 3, 2023).
+
+Boyle, Melissa A., and Victor A. Matheson. 2009. “Determinants of the Distribution of
+
+Congressional Earmarks across States.” Economics Letters 104(2): 63–65.
+
+Brazilian Institute of Geography and Statistics. 2018. Estimativas da População Residente no
+
+Brasil E Unidades da Federação com Data de Referência em 1º de Julho de 2018. https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2018/estimativa_dou_201 8_20181019.pdf (October 3, 2023).
+
+Central Intelligence Agency. 2018. About The World Factbook - The World Factbook Archives.
+
+https://www.cia.gov/the-world-factbook/about/archives (September 20, 2023).
+
+Daxecker, Ursula. 2020. “Unequal Votes, Unequal Violence: Malapportionment and Election
+
+Violence in India.” Journal of Peace Research 57(1): 156–70.
+
+“Democracy Index 2022.” 2023. Economist Intelligence Unit.
+
+https://www.eiu.com/n/campaigns/democracy-index-2022/ (October 1, 2023).
+
+Dunn, Amina. “Trump’s Approval Ratings so Far Are Unusually Stable – and Deeply Partisan.”
+
+Pew Research Center. https://www.pewresearch.org/short-reads/2020/08/24/trumpsapproval-ratings-so-far-are-unusually-stable-and-deeply-partisan/ (November 1, 2023).
+
+European Commission. Eurostat. 2023. Population on 1 January by age, sex and NUTS 2 region.
+
+https://ec.europa.eu/eurostat/databrowser/view/demo_r_d2jan/default/table?lang=en. (September 25, 2023).
+
+EVS/WVS. 2022. “Joint EVS/WVS 2017-2021 Dataset (Joint EVS/WVS).”
+
+http://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp (October 2, 2023).
+
+Ezrow, Lawrence, Michele Fenzl, and Timothy Hellwig. 2023. “Bicameralism and Policy
+
+Responsiveness to Public Opinion.” American Journal of Political Science 0(0). https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12773
+
+37
+
+Federalni Zavod za Staistiku. 2019. Procjena ukupnog broja stanovnika u Federaciji BiH, 2019,
+
+stanje sredina godine. https://fzs.ba/index.php/procjena-broja-stanovnika/ (October 3, 2023).
+
+Franklin, Benjamin. 2004. Franklin: The Autobiography and Other Writings on Politics,
+
+Economics, and Virtue. Cambridge University Press.
+
+Hamilton, Alexander, and James Madison. 1818. “Federalist No. 62: The Senate.” In The
+
+Federalist Papers, Washington, DC: Library of Congress. https://guides.loc.gov/federalist-papers/text-61-70.
+
+Harijanti, Susi Dwi, and Tim Lindsey. 2006. “Indonesia: General Elections Test the Amended
+
+Constitution and the New Constitutional Court.” International Journal of Constitutional Law 4(1): 138–50.
+
+Hayes, Danny, and Seth C. McKee. 2009. “The Participatory Effects of Redistricting.” American
+
+Journal of Political Science 53(4): 1006–23.
+
+Inter Parliamentary Union. 2016. “IPU PARLINE Database” http://archive.ipu.org/parline-e/
+
+(November 1, 2023).
+
+Imai, Masami. 2022. “Local Economic Impacts of Legislative Malapportionment.” Journal of
+
+Urban Economics 131: 103475.
+
+Johnson, Richard, and Lisa L. Miller. 2023. “The Conservative Policy Bias of US Senate
+
+Malapportionment.” PS: Political Science & Politics 56(1): 10–17.
+
+Kenya National Bureau of Statistics. 2019. Volume I: Population by County and Sub-County.
+
+https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volumei-population-by-county-and-sub-county (October 3, 2023).
+
+Kim, Myunghee. 2007. “Citizens’ Confidence in Government, Parliament and Political Parties.”
+
+Politics & Policy 35(3): 496–521.
+
+Klingensmith, J. Zachary. 2019. “Using Tax Dollars for Re-Election: The Impact of Pork-Barrel
+
+Spending on Electoral Success.” Constitutional Political Economy 30(1): 31–49.
+
+Lijphart, Arend. 2012. Patterns of Democracy. Yale University Press.
+
+https://www.jstor.org/stable/j.ctt32bg23 (September 13, 2023).
+
+Madison, James, John Jay, and Alexander Hamilton. 2008. “The Federalist, 62: Concerning the
+
+Constitution of the Senate with Regard to the Qualifications of the Members, the Manner of Appointing Them, the Equality of Representation, the Number of the Senators and the Duration of Their Appointments.” In The Federalist Papers, OXFORD WORLD’S CLASSICS, New York, United States: Oxford University Press.
+
+Mueller, Sean, Adrian Vatter, and Sereina Dick. 2023. “A New Index of Bicameralism: Taking
+
+Legitimacy Seriously.” The Journal of Legislative Studies 29(2): 312–36.
+
+38
+
+National Institute of Statistics and Census of Argentina. 2023. Census Results.
+
+https://www.argentina.gob.ar/sites/default/files/2020/09/cnphv2022_resultados_provision ales.pdf (October 3, 2023).
+
+Nelson, Peter B. 2013. “The Geography of Rural Aging in a Regional Context, 1990–2008.” In
+
+Rural Aging in 21st Century America, Understanding Population Trends and Processes, eds. Nina Glasgow and E. Helen Berry. Dordrecht: Springer Netherlands, 37–54. https://doi.org/10.1007/978-94-007-5567-3_3 (December 15, 2023).
+
+Nigerian National Bureau of Statistics. n.d. Demographic Statistics Bulletin 2020.
+
+https://nigerianstat.gov.ng/elibrary/read/1241121 (October 3, 2023).
+
+Malaysian Prime Minister's Department. Department of Statistics, Malaysia. 2023. Population
+
+Table: States. https://data.gov.my/data-catalogue/population_population_state (October 3, 2023).
+
+Mexican National Institute of Statistics and Geography. 2021. Censo de Población y Vivienda
+
+2020. https://www.inegi.org.mx/programas/ccpv/2020/ (October 3, 2023).
+
+Orr, Graeme, and Ron Levy. 2009. “Electoral Malapportionment: Partisanship, Rhetoric and
+
+Reform in the Shadow of the Agrarian Strong-Man Symposium: The Fitzgerald Report 20 Years On.” Griffith Law Review 18(3): 638–65.
+
+Pakistan Ministry of Planning, Development & Special Initiatives. Pakistan Bureau of Statistics
+
+n.d. Salient Features - 6th Population & Housing Census 2017. National Results Pakistan. https://www.pbs.gov.pk/sites/default/files/population/2017/national.pdf (October 3, 2023).
+
+Rasmussen, Anne, Stefanie Reher, and Dimiter Toshkov. 2019. “The Opinion-Policy Nexus in
+
+Europe and the Role of Political Institutions.” European Journal of Political Research 58(2): 412–34.
+
+Rayment, Erica, and Elizabeth McCallion. 2023. “Contexts and Constraints: The Substantive
+
+Representation of Women in the Canadian House of Commons and Senate.” Representation 0(0): 1–17.
+
+Republic of Srpska Institute of Statistics. 2023. Population Estimates.
+
+https://www.rzs.rs.ba/static/uploads/saopstenja/stanovnistvo/procene_stanovnistva/20132022/Procjene_Stanovnistva_2013_2022.pdf (October 5, 2023).
+
+Rubinelli, Lucia. 2019. “Sieyès versus Bicameralism | The Review of Politics | Cambridge
+
+Core.” The Review of Politics 81(2): 255–79.
+
+Russell, Meg. 2013. “Rethinking Bicameral Strength: A Three-Dimensional Approach.” The
+
+Journal of Legislative Studies 19(3): 370–91.
+
+Smets, Kaat. 2021. “Chapter 18 - Aging and Politics: Age Differences in Political Behavior in
+
+Comparative Perspective.” In Handbook of Aging and the Social Sciences (Ninth Edition), Handbooks of Aging, eds. Kenneth F. Ferraro and Deborah Carr. Academic
+
+39
+
+Press, 287–300. https://www.sciencedirect.com/science/article/pii/B9780128159705000188 (November 27, 2023).
+
+Statistics Austria. 2023. Population at the beginning of the year since 1982: Time section by
+
+Bundesland. http://statcube.at/statcube/opendatabase?id=debevstandjb. (October 3, 2023).
+
+Statistics Canada. 2022. Population and dwelling counts: Canada, provinces and territories.
+
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101. (October 3, 2023).
+
+Statistics South Africa 2022. Statistical Release: Census 2022.
+
+https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Re lease.pdf (October 3, 2023).
+
+Swiss Federal Department of Home Affairs. Federal Statistical Office. 2023. Average permanent
+
+resident population by canton, 2011-2022. https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.26565163.html (October 3, 2023).
+
+Swiss Federal Assembly. 2023. “Members of The Council of States by Canton”.
+
+https://www.parlament.ch/en/organe/council-of-states/members-by-canton (accessed October 17, 2023).
+
+Tsebelis, George, and Jeannette Money. 1997. Bicameralism. Cambridge: Cambridge University
+
+Press. https://www.cambridge.org/core/books/bicameralism/DA2C43248D9A36D8BE00AD15 A4B4AAE6 (September 13, 2023).
+
+Uhr, John. 2008. “Bicameralism.” In The Oxford Handbook of Political Institutions, eds. Sarah
+
+A. Binder, R. A. W. Rhodes, and Bert A. Rockman. Oxford University Press, 0. https://doi.org/10.1093/oxfordhb/9780199548460.003.0024 (November 15, 2023).
+
+U.S. Department of Commerce. United States Census Bureau. 2021. 2020 Census Apportionment
+
+Results. https://www2.census.gov/programs surveys/decennial/2020/data/apportionment/apportionment-2020-table01.pdf (October 3, 2023).
+
+Vatter, Adrian. 2005. “Bicameralism and Policy Performance: The Effects of Cameral Structure
+
+in Comparative Perspective.” The Journal of Legislative Studies 11(2): 194–215.
+
+Vercesi, Michelangelo. 2017. “What Kind of Veto Player Is the Italian Senate? A Comparative
+
+Analysis of European Second Chambers.” Journal of Modern Italian Studies 22(5): 604– 23.
+
+Weiler, J. H. H. 1990. “The Transformation of Europe.” Yale Law Journal 100(8): 2403–84.
+
+40
+
+Appendix
+
+Table of Contents
+
+Table A1. Argentina .................................................................................................................................... 41 Table A2. Australia ...................................................................................................................................... 42 Table A3. Austria ........................................................................................................................................ 42 Table A4. Bosnia and Herzegovina ............................................................................................................. 43 Table A5. Brazil .......................................................................................................................................... 43 Table A6. Canada ........................................................................................................................................ 44 Table A7. Germany ..................................................................................................................................... 45 Table A8. Indonesia..................................................................................................................................... 45 Table A9. Italy ............................................................................................................................................. 46 Table A10. Kenya ........................................................................................................................................ 47 Table A11. Malaysia .................................................................................................................................... 48 Table A12. Mexico ...................................................................................................................................... 49 Table A13. Nigeria ...................................................................................................................................... 50 Table A14. Pakistan .................................................................................................................................... 51 Table A15. Spain ......................................................................................................................................... 52 Table A16. Switzerland ............................................................................................................................... 52 Table A17. United States ............................................................................................................................. 53 Table B1. Hypothesis 1 and 2 Results with Age as a Categorical Variable ................................................ 55 Table B2. Hypothesis 3 Results with Age as a Categorical Variable .......................................................... 56 Table B3. Hypothesis 4 Results with Age as a Categorical Variable .......................................................... 57 Table B4. Hypothesis 1 and 2 Results with Equilibrated Weight ............................................................... 58 Table B5. Hypothesis 3 Results with Equilibrated Weight ......................................................................... 59 Table B6. Hypothesis 4 Results with Equilibrated Weight ......................................................................... 60 Table B7. Hypothesis 1 and 2 Results with Random Effect Linear Models ............................................... 61 Table B8. Hypothesis 3 Results with Random Effect Linear Models ......................................................... 62 Table B9. Hypothesis 4 Results with Random Effect Linear Models ......................................................... 63 Table B10. Hypothesis 1 and 2 Results with Alternative Definition of Rural. ........................................... 64
+
+41
+
+A. Calculation of the Inequality of Representation Index
+
+The following tables represent the calculation of upper house inequality of index for all the countries included in the analysis. For a detailed description of how this was calculated please see Section 4.2 on page 20 in the main text of the thesis.
+
+Table A1. Argentina
+
+Argentina 2023 Senate
+
+Tierra del Fuego 190,641 3 Santa Cruz 333,473 3 La Pampa 366,022 3 La Rioja 384,607 3 Catamarca 429,556 3 San Luis 540,905 3 Chubut 603,120 3 Formosa 606,041 3 Neuquén 726,590 3 Río Negro 762,067 3 Jujuy 797,955 3 San Juan 818,234 3 Santiago del Estero 1,054,028 3 Chaco 1,142,963 3 Corrientes 1,197,553 3 Misiones 1,280,960 3 Entre Ríos 1,426,426 3 Salta 1,440,672 3 Tucumán 1,703,186 3 Mendoza 2,014,533 3 Buenos Aires City 3,120,612 3 Santa Fe 3,556,522 3 Córdoba 3,978,984 3 Buenos Aires 17,569,053 3
+
+Total Population 46,044,703 72 10% of Total 4,604,470
+
+States Adding up to closest 10% 4,180,955 27 Population that needs to be added 423,515 % of next state to be added 55.5%
+
+Total Seats held by most favorably represented 10% 28.67 % of Total Seats (UHIOR) 39.82% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the National
+
+Institute of Statistics and Census (2023), Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+42
+
+Table A2. Australia
+
+Australia Population (2018) Pop / Seats Senate
+
+Tasmania 542 927 45 244 12
+
+Northern Territory 245 920 122 960 2
+
+South Australia 1 755 715 146 310 12
+
+ACT 430 758 215 379 2
+
+Western Australia 2 636 404 219 700 12
+
+Queensland 5 046 434 420 536 12
+
+Victoria 6 479 695 539 975 12
+
+New South Wales 8 003 564 666 964 12
+
+Total Population 25 141 417 76
+
+10% of Total 2 514 142
+
+States Adding up to closest 10% 788 847 14
+
+Population that needs to be added 1 725 295
+
+% of next state to be added 0,982673555 Total Seats held by most favorably represented 10% 25,79
+
+% of Total Seats (UHIOR) 33,94% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Australian Bureau of
+
+Statistics (2023), Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A3. Austria
+
+Austria Population (2018)
+
+Pop / Seats
+
+Federal Council
+
+Burgenland 292,675 97,558 3
+
+Vorarlberg 391,741 130,580 3
+
+Styria 1,240,214 140,578 9
+
+Salzburg 552,579 142,087 4
+
+Lower Austria 1,670,668 143,198 12
+
+Carinthia 560,898 142,246 4
+
+Upper Austria 1,473,576 152,283 10
+
+Tyrol 751,140 154,261 5
+
+Vienna 1,888,776 180,191 11
+
+Total Population
+
+8,822,267 61
+
+10% of Total 882,227
+
+States Adding up to closest 10% 684,416 6
+
+Population that needs to be added
+
+% of next state to be added 15.9% 7.44
+
+% of Total Seats (UHIOR) 12.19%
+
+Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Statistics Austria
+
+(2023), Data on Federal Council apportionment comes from PARLINE (IPU, 2016).
+
+43
+
+Table A4. Bosnia and Herzegovina
+
+Bosnia Population (2019) Pop / Seats Seats in the House of Peoples
+
+Republika Srpska 1,142,495 228,499 5
+
+Fed. of Bosnia 2,190,098 219,010 10
+
+Total 3,332,593 15
+
+10% of Pop. 333,259
+
+States Adding up to closest 10%
+
+1 142 495 5
+
+Population that needs to be added
+
+-809 236
+
+% of next state to be added
+
+-36% 1.31
+
+% of Total Seats (UHIOR)
+
+8.70%
+
+Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the Federalni Zavod
+
+za Staistiku (2019) and Republic of Srpska Institute of Statistics (2023), Data on House of Peoples apportionment comes from PARLINE (IPU,
+
+2016).
+
+Table A5. Brazil
+
+Brazil Population (2018) Senate
+
+Roraima 576,568 3
+
+Amapá 829,494 3
+
+Acre 869,265 3
+
+Tocantins 1,555,229 3
+
+Rondônia 1,757,589 3
+
+Sergipe 2,278,308 3
+
+Mato Grosso do Sul 2,748,023 3
+
+Distrito Federal 2,974,703 3
+
+Piauí 3,264,531 3
+
+Alagoas 3,322,820 3
+
+Mato Grosso 3,441,998 3
+
+Rio Grande do Norte 3,479,010 3
+
+Paraíba 3,996,496 3
+
+Amazonas 4,080,611 3
+
+Espírito Santo 4,108,508 3
+
+Goiás 6,921,161 3
+
+Maranhão 7,036,055 3
+
+Santa Catarina 7,075,494 3
+
+Pará 8,513,497 3
+
+Ceará 9,075,649 3
+
+Pernambuco 9,496,294 3
+
+Rio Grande do Sul 11,329,605 3
+
+Paraná 11,348,937 3
+
+Bahia 14,812,617 3
+
+44
+
+Rio de Janeiro 17,159,960 3
+
+Minas Gerais 21,040,662 3
+
+São Paulo 45,538,936 3 Total 208,632,020 81 10% of Pop. 20,863,202
+
+20,176,530 30
+
+686,672
+
+0.199498082
+
+30.60
+
+% of Total Seats (UHIOR) 37.78% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the Brazilian
+
+Institute of Geography and Statistics (2018), Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A6. Canada
+
+Canada
+
+Population (2020) Pop/Seat Senate
+
+Nunavut 39,581 39,581 1
+
+Prince Edward Island 159,179 39,795 4
+
+Yukon 42,109 42,109 1
+
+Northwest Territories 44,395 44,395 1
+
+New Brunswick 783,814 78,381 10
+
+Newfoundland and Labrador 526,046 87,674 6
+
+Nova Scotia 989,154 98,915 10
+
+Saskatchewan 1,165,963 194,327 6
+
+Manitoba 1,381,809 230,302 6
+
+Quebec 8,551,865 356,328 24
+
+Ontario 14,757,582 614,899 24
+
+Alberta 4,412,013 735,336 6
+
+British Columbia 5,173,896 862,316 6 Total 38,027,406 105 10% of Pop. 3,802,741
+
+3,750,241 39
+
+52,500
+
+0.037993384
+
+39.23
+
+% of Total Seats (UHIOR) 37.36% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Statistics Canada (2022). Data on Senate Apportionment comes from PARLINE (IPU, 2016).
+
+45
+
+Table A7. Germany
+
+Germany
+
+Population (2018) Pop/Seat Bundesrat
+
+Bremen 681,032 227,011 3
+
+Saarland 994,187 331,396 3
+
+Mecklenburg 1,611,119 537,040 3
+
+Thuringia 2,151,205 537,801 4
+
+Saxony-Anhalt 2,223,081 555,770 4
+
+Hamburg 1,830,584 610,195 3
+
+Brandenburg 2,504,040 626,010 4
+
+Schleswig-Holstein 2,889,821 722,455 4
+
+Berlin 3,613,495 903,374 4
+
+Rhineland-Palatinate 4,073,679 1,018,420 4
+
+Saxony 4,081,308 1,020,327 4
+
+Hesse 6,243,262 1,248,652 5
+
+Lower Saxony 7,962,775 1,327,129 6
+
+Baden-Württemberg 11,023,425 1,837,238 6
+
+Bavaria 12,997,204 2,166,201 6
+
+North Rhine Westphalia 17,912,134 2,985,356 6 Total 82,792,351 69 10% of Pop. 8,279,235
+
+7,660,624 17
+
+618,611
+
+0.3379
+
+18.01
+
+% of Total Seats (UHIOR) 26.11% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Eurostat (2023). Data on Bundesrat Apportionment comes from PARLINE (IPU, 2016).
+
+Table A8. Indonesia
+
+Indonesia Population (2020)
+
+Regional Representative
+
+Council
+
+North Kalimantan 701,814 4
+
+West Papua 1,134,068 4
+
+Gorontalo 1,171,681 4
+
+North Maluku 1,282,937 4
+
+West Sulawesi 1,419,229 4
+
+Bangka Belitung 1,455,678 4
+
+Maluku 1,848,923 4
+
+Bengkulu 2,010,670 4
+
+Riau Islands 2,064,564 4
+
+North Sulawesi 2,621,923 4
+
+Southeast Sulawesi 2,624,875 4
+
+Central Kalimantan 2,669,969 4
+
+Central Sulawesi 2,985,734 4
+
+Jambi 3,548,228 4
+
+46
+
+Special Region of Yogyakarta 3,668,719 4
+
+East Kalimantan 3,766,039 4
+
+South Kalimantan 4,073,584 4
+
+Papua 4,303,707 4
+
+Bali 4,317,404 4
+
+Aceh 5,274,871 4
+
+West Nusa Tenggara 5,320,092 4
+
+East Nusa Tenggara 5,325,566 4
+
+West Kalimantan 5,414,390 4
+
+West Sumatra 5,534,472 4
+
+Riau 6,394,087 4
+
+South Sumatra 8,467,432 4
+
+Lampung 9,007,848 4
+
+South Sulawesi 9,073,509 4
+
+Jakarta 10,562,088 4
+
+Banten 11,904,562 4
+
+North Sumatra 14,799,361 4
+
+Central Java 36,516,035 4
+
+East Java 40,665,696 4
+
+West Java 48,274,162 4 Total 270,203,917 136 10% of Pop. 27,020,392
+
+23,992,065 52
+
+3,028,327
+
+0.853475791
+
+55.41
+
+% of Total Seats (UHIOR) 40.75% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Badan Pusat Statistik. (2021). Data on Regional Representative Council Apportionment comes from (Harijanti and Lindsey 2006).
+
+Table A9. Italy
+
+Italy
+
+Population (2018) Pop / seats Senate
+
+Basilicata 567 118 81 017 7
+
+Aosta Valley 126 202 126 202 1
+
+Umbria 884 640 126 377 7
+
+Trentino-Alto Adige 1 067 648 152 521 7
+
+Molise 308 493 154 247 2
+
+Friuli-Venezia Giulia 1 215 538 173 648 7
+
+Abruzzo 1 315 196 187 885 7
+
+Marche 1 531 753 191 469 8
+
+Liguria 1 556 981 194 623 8
+
+Calabria 1 956 687 195 669 10
+
+Piedmont 4 375 865 198 903 22
+
+Campania 5 826 860 200 926 29
+
+Sicily 5 026 989 201 080 25
+
+47
+
+Emilia-Romagna 4 452 629 202 392 22
+
+Apulia 4 048 242 202 412 20
+
+Veneto 4 905 037 204 377 24
+
+Lombardy 10 036 258 204 822 49
+
+Sardinia 1 648 176 206 022 8
+
+Tuscany 3 736 968 207 609 18
+
+Lazio 5 896 693 210 596 28
+
+Italians Abroad 5 800 000 966 667 6 Total 66 283 973 315 10% of Pop. 6 628 397
+
+5 484 835 38
+
+1 143 562
+
+0,746570955
+
+43,97
+
+% of Total Seats (UHIOR) 13.96% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Eurostat (2023). Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A10. Kenya
+
+Kenya
+
+Population
+
+(2019) Senate
+
+Lamu 14,392 1
+
+Isiolo 268,002 1
+
+Samburu 310,327 1
+
+Tana River 315,943 1
+
+Taita–Taveta 340,671 1
+
+Tharaka-Nithi 393,177 1
+
+Elgeyo-Marakwet 454,480 1
+
+Marsabit 459,785 1
+
+Laikipia 518,560 1
+
+Vihiga 590,013 1
+
+Nyamira 605,576 1
+
+Embu 608,599 1
+
+Kirinyaga 610,411 1
+
+West Pokot 621,241 1
+
+Nyandarua 638,289 1
+
+Baringo 666,763 1
+
+Nyeri 759,164 1
+
+Wajir 781,263 1
+
+Garissa 841,353 1
+
+Kwale 866,820 1
+
+Mandera 867,457 1
+
+Bomet 875,689 1
+
+Nandi 885,711 1
+
+Busia 893,681 1
+
+48
+
+Kericho 901,777 1
+
+Makueni 987,653 1
+
+Trans-Nzoia 990,341 1
+
+Siaya 993,183 1
+
+Murang'a 1,056,640 1
+
+Migori 1,116,436 1
+
+Kajiado 1,117,840 1
+
+Homa Bay 1,131,950 1
+
+Kitui 1,136,187 1
+
+Kisumu 1,155,574 1
+
+Narok 1,157,873 1
+
+Uasin Gishu 1,163,186 1
+
+Mombasa 1,208,333 1
+
+Kisii 1,266,860 1
+
+Machakos 1,421,932 1
+
+Kilifi 1,453,787 1
+
+Turkana 1,504,976 1
+
+Meru 1,545,714 1
+
+Bungoma 1,670,570 1
+
+Kakamega 1,867,579 1
+
+Nakuru 2,162,202 1
+
+Kiambu 2,417,735 1
+
+Nairobi 4,397,073 1 Total 48,012,768 47 10% of Pop. 4,801,277
+
+4,270,926 11
+
+530,351
+
+0.87142897
+
+11.87
+
+% of Total Seats (UHIOR) 25.26% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Kenya National Bureau of Statistics (2019). Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A11. Malaysia
+
+Malaysia
+
+Population (2020) House
+
+Labuan and Victoria 100,100 1
+
+Putrajaya 116,100 1
+
+Perlis 255,400 2
+
+Malacca 937,500 2
+
+Negeri Sembilan 1,129,100 2
+
+Terengganu 1,275,100 2
+
+Pahang 1,684,600 2
+
+Kuala Lumpur 1,746,600 2
+
+49
+
+Penang 1,774,400 2
+
+Kelantan 1,928,800 2
+
+Kedah 2,194,100 2
+
+Perak 2,508,900 2
+
+Sarawak 2,822,200 2
+
+Johor 3,794,000 2
+
+Sabah 3,833,000 2
+
+Selangor 6,555,400 2 Total 32,655,300 30 10% of Pop. 3,265,530
+
+2,538,200 8
+
+727,330
+
+0.570410164
+
+9.14
+
+% of Total Seats (UHIOR) 30.47% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the Malaysian Department of Statistics (2023). Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A12. Mexico
+
+Mexico Population (2020) Senate
+
+Aguascalientes 731,391 3
+
+Baja California 798,447 3
+
+Baja California Sur 928,363 3
+
+Campeche 1,235,456 3
+
+Coahuila de Zaragoza 1,342,977 3
+
+Colima 1,425,607 3
+
+Chiapas 1,622,138 3
+
+Chihuahua 1,832,650 3
+
+Ciudad de México 1,857,985 3
+
+Durango 1,971,520 3
+
+Guanajuato 2,320,898 3
+
+Guerrero 2,368,467 3
+
+Hidalgo 2,402,598 3
+
+Jalisco 2,822,255 3
+
+México 2,944,840 3
+
+Michoacán de Ocampo 3,026,943 3
+
+Morelos 3,082,841 3
+
+Nayarit 3,146,771 3
+
+Nuevo León 3,527,735 3
+
+Oaxaca 3,540,685 3
+
+Puebla 3,741,869 3
+
+Querétaro 3,769,020 3
+
+Quintana Roo 4,132,148 3
+
+50
+
+San Luis Potosí 4,748,846 3
+
+Sinaloa 5,543,828 3
+
+Sonora 5,784,442 3
+
+Tabasco 6,166,934 3
+
+Tamaulipas 6,583,278 3
+
+Tlaxcala 8,062,579 3
+
+Veracruz de Ignacio de la Llave 8,348,151 3
+
+Yucatán 9,209,944 3
+
+Zacatecas 16,992,418 3 Total 126,014,024 96 10% of Pop. 12,601,402
+
+11,775,014 27
+
+826,388
+
+0.419163082
+
+28.26
+
+% of Total Seats (UHIOR) 29.43% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the Instituto Nacional de Estadística y Censos (2023). Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A13. Nigeria
+
+Nigeria Population (2017) Senate
+
+Bayelsa 2,290,985 3
+
+Nasarawa 2,484,482 3
+
+Ebonyi 2,857,120 3
+
+Kwara 3,089,231 3
+
+Taraba 3,160,982 3
+
+Ekiti 3,185,220 3
+
+Yobe 3,232,244 3
+
+Gombe 3,411,323 3
+
+Abia 3,646,214 3
+
+Kogi 3,967,919 3
+
+Cross river 4,013,047 3
+
+Osun 4,106,177 3
+
+Enugu 4,188,334 3
+
+Plateau 4,201,252 3
+
+Edo 4,244,511 3
+
+Adamawa 4,299,284 3
+
+Akwa ibom 4,644,867 3
+
+Kebbi 4,677,379 3
+
+Ondo 4,743,667 3
+
+Imo 4,972,386 3
+
+Zamfara 5,008,075 3
+
+Delta 5,090,103 3
+
+51
+
+Anambra 5,352,877 3
+
+Borno 5,491,442 3
+
+Sokoto 5,508,650 3
+
+Benue 5,551,238 3
+
+Ogun 5,651,466 3
+
+Niger 5,847,657 3
+
+Jigawa 6,354,507 3
+
+Rivers 6,734,279 3
+
+Bauchi 7,067,129 3
+
+Oyo 7,202,908 3
+
+Capital Terr. 2,477,433 1
+
+Kaduna 7,891,256 3
+
+Katsina 8,668,899 3
+
+Lagos 12,288,839 3
+
+Kano 13,450,530 3 Total 191,053,912 109 10% of Pop. 19,105,391
+
+17,068,020 18
+
+2,037,371
+
+0.63
+
+19.89
+
+% of Total Seats (UHIOR) 18.25% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the National Institute of Statistics and Geography (2021). Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+Table A14. Pakistan
+
+Pakistan Population (2017)
+
+Pop / Seats Senate
+
+Islamabad Capital Territory 2,003,368 500,842 4
+
+Balochistan 12,335,129 536,310 23
+
+FATA 5,001,676 625,210 8
+
+Khyber Pakhtunkhwa 35,501,964 1,543,564 23
+
+Sindh 47,854,510 2,080,631 23
+
+Punjab 109,989,655 4,782,159 23 Total 212,686,302 104 10% of Pop. 21,268,630
+
+19,340,173 35
+
+1,928,457
+
+0.05
+
+36.25
+
+% of Total Seats (UHIOR) 34.86% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the Pakistan Bureau of Statistics (n.d.). Data on Senate apportionment comes from PARLINE (IPU, 2016).
+
+52
+
+Table A15. Spain
+
+Spain
+
+Population (2017) Pop/Seats Senate
+
+Melilla 84,946 42,473 2
+
+Ceuta 85,034 42,517 2
+
+Castile and León 2,435,951 62,460 39
+
+La Rioja 312,624 62,525 5
+
+Castilla-La Mancha 2,040,977 88,738 23
+
+Aragon 1,316,072 94,005 14
+
+Extremadura 1,077,525 107,753 10
+
+Cantabria 581,490 116,298 5
+
+Navarre 640,353 128,071 5
+
+Galicia 2,710,216 142,643 19
+
+Basque Country 2,167,323 144,488 15
+
+Canary Islands 2,154,978 153,927 14
+
+Balearic Islands 1,150,962 164,423 7
+
+Asturias 1,034,302 172,384 6
+
+Andalusia 8,408,976 205,097 41
+
+Region of Murcia 1,472,991 245,499 6
+
+Valencian Community 4,935,182 274,177 18
+
+Catalonia 7,441,284 310,054 24
+
+Community of Madrid 6,476,838 588,803 11 Total 46,528,024 266 10% of Pop. 4,652,802
+
+2,918,555 48
+
+1,734,247
+
+0.84971433
+
+67.54
+
+% of Total Seats (UHIOR) 25.39% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from Eurostat (2023). Data on Senate apportionment comes from the Spanish Constitution (Spanish Constitution, art. 69).
+
+Table A16. Switzerland
+
+Switzerland Population (2017) Pop/Seats Federal Council
+
+Appenzell I. Rh. 16,105 16,105 1
+
+Uri 36,299 18,150 2
+
+Obwalden 37,575 37,575 1
+
+Glarus 40,349 20,175 2
+
+Nidwalden 42,969 42,969 1
+
+Appenzell A. Rh. 55,178 55,178 1
+
+Jura 73,290 36,645 2
+
+Schaffhausen 81,351 40,676 2
+
+Zug 125,421 62,711 2
+
+Schwyz 157,301 78,651 2
+
+53
+
+Neuchâtel 177,964 88,982 2
+
+Basel-Stadt 193,908 193,908 1
+
+Graubünden 197,888 98,944 2
+
+Solothurn 271,432 135,716 2
+
+Thurgau 273,801 136,901 2
+
+Basel-Landschaft 287,023 287,023 1
+
+Fribourg 315,074 157,537 2
+
+Valais 341,463 170,732 2
+
+Ticino 353,709 176,855 2
+
+Lucerne 406,506 203,253 2
+
+Geneva 495,249 247,625 2
+
+St. Gallen 504,686 252,343 2
+
+Aargau 670,988 335,494 2
+
+Vaud 793,129 396,565 2
+
+Bern 1,031,126 515,563 2
+
+Zurich 1,504,346 752,173 2 Total 8,484,130 46 10% of Pop. 848,413
+
+843,802 18
+
+4,611
+
+0.023779318
+
+18.02
+
+% of Total Seats (UHIOR) 39.18% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the Federal Statistical Office (2023). Data on Federal Council apportionment comes from the Swiss Federal Assembly (2023).
+
+Table A17. United States
+
+United States Population (2020) Senate
+
+Wyoming 576,851 2
+
+Vermont 643,077 2
+
+Alaska 733,391 2
+
+North Dakota 779,094 2
+
+South Dakota 886,667 2
+
+Delaware 989,948 2
+
+Montana 1,084,225 2
+
+Rhode Island 1,097,379 2
+
+Maine 1,362,359 2
+
+New Hampshire 1,377,529 2
+
+Hawaii 1,455,271 2
+
+West Virginia 1,793,716 2
+
+Idaho 1,839,106 2
+
+Nebraska 1,961,504 2
+
+New Mexico 2,117,522 2
+
+54
+
+Kansas 2,937,880 2
+
+Mississippi 2,961,279 2
+
+Arkansas 3,011,524 2
+
+Nevada 3,104,614 2
+
+Iowa 3,190,369 2
+
+Utah 3,271,616 2
+
+Connecticut 3,608,298 2
+
+Oklahoma 3,959,353 2
+
+Oregon 4,237,256 2
+
+Kentucky 4,505,836 2
+
+Louisiana 4,657,757 2
+
+Alabama 5,024,279 2
+
+South Carolina 5,118,425 2
+
+Minnesota 5,706,494 2
+
+Colorado 5,773,714 2
+
+Wisconsin 5,893,718 2
+
+Missouri 6,154,913 2
+
+Maryland 6,177,224 2
+
+Indiana 6,785,528 2
+
+Tennessee 6,910,840 2
+
+Massachusetts 7,029,917 2
+
+Arizona 7,151,502 2
+
+Washington 7,705,281 2
+
+Virginia 8,631,393 2
+
+New Jersey 9,288,994 2
+
+Michigan 10,077,331 2
+
+North Carolina 10,439,388 2
+
+Georgia 10,711,908 2
+
+Ohio 11,799,448 2
+
+Illinois 12,812,508 2
+
+Pennsylvania 13,002,700 2
+
+New York 20,201,249 2
+
+Florida 21,538,187 2
+
+Texas 29,145,505 2
+
+California 39,538,223 2 Total 330,762,090 100 10% of Pop. 33,076,209
+
+30,712,936 38
+
+2,363,273
+
+0.740752245
+
+39.48
+
+% of Total Seats (UHIOR) 39.48% Note: States in italics add up to less than 10%; All calculations done by the author. Data on regional populations comes from the United States Census Bureau (2021). Data on Senate apportionment comes from the United States Constitution (U.S. Constitution, art. 1, sec. 3).
+
+55
+
+B. Robustness Checks
+
+Table B1. Hypothesis 1 and 2 Results with Age as a Categorical Variable
+
+(1) (2) (3) (4) (5) UHIOR 0.01*** 0.02*** 0.02** 0.01 -0.18*** (0.00) (0.00) (0.01) (0.01) (0.03) Rural Residency (Yes) 0.27*** 0.33** 0.31** 0.01 (0.03) (0.15) (0.14) (0.07) Rural Residency * Upper House Inequality of Representation
+
+-0.01*** -0.01** -0.01** -0.00
+
+(0.00) (0.01) (0.01) (0.00) Sex (Female) 0.02 0.02 0.02 (0.02) (0.04) (0.04) Age 0.02* (0.01) Political Ideology (Right) 0.08** 0.07 0.13 (0.04) (0.10) (0.08) Government Ideological Alignment (Yes) 0.02 -0.29** -0.11 (0.05) (0.10) (0.08) Age (25-34) -0.04 0.00 (0.08) (0.07) Age (35-44) -0.07 -0.02 (0.05) (0.04) Age (45-54) -0.05 -0.03 (0.08) (0.07) Age (55-64) -0.00 0.00 (0.06) (0.05) Age (65 and Older) 0.17* 0.14** (0.10) (0.06) Constant 2.00*** 1.82*** 1.72*** 1.95*** 8.92*** (0.02) (0.03) (0.20) (0.19) (1.07) R2 0.0066 0.014 0.016 0.023 0.13 Observations 34842 34842 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+56
+
+Table B2. Hypothesis 3 Results with Age as a Categorical Variable
+
+(1) (2) (3) (4) (5) UHIOR 0.01*** 0.01*** 0.01 0.01 -0.18*** (0.00) (0.00) (0.01) (0.01) (0.03) Political Ideology (Right) 0.06* 0.05 0.07 0.13 (0.04) (0.15) (0.10) (0.08) Political Ideology (Right) * Upper House Inequality of Representation
+
+0.00 0.00 0.00 -0.00
+
+(0.00) (0.00) (0.00) (0.00) Government Ideological Alignment (Yes) 0.02 -0.29** -0.11 (0.05) (0.10) (0.08) Sex (Female) 0.02 0.02 0.02 (0.02) (0.04) (0.04) Age 0.02 (0.01) Rural Residency (Yes) -0.07 0.31** 0.01 (0.07) (0.14) (0.07) Age (25-34) -0.04 0.00 (0.08) (0.07) Age (35-44) -0.07 -0.02 (0.05) (0.04) Age (45-54) -0.05 -0.03 (0.08) (0.07) Age (55-64) -0.00 0.00 (0.06) (0.05) Age (65 and Older) 0.17* 0.14** (0.10) (0.06) Constant 2.00*** 2.02*** 1.99*** 1.95*** 8.92*** (0.02) (0.02) (0.27) (0.19) (1.07) R2 0.0066 0.0076 0.010 0.023 0.13 Observations 34842 29602 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+57
+
+Table B3. Hypothesis 4 Results with Age as a Categorical Variable
+
+(1) (2) (3) (4) (5) UHIOR 0.01*** 0.01*** 0.01 0.01 -0.18*** (0.00) (0.00) (0.01) (0.01) (0.03) Sex (Female) 0.02 0.02 0.02 0.02 (0.03) (0.04) (0.04) (0.04) Sex (Female) * Upper House Inequality of Representation
+
+-0.00 0.00 0.00 0.00
+
+(0.00) (0.00) (0.00) (0.00) Age 0.00* (0.00) Rural Residency (Yes) -0.08 0.31** 0.01 (0.07) (0.14) (0.07) Political Ideology (Right) 0.09* 0.07 0.13 (0.04) (0.10) (0.08) Government Ideological Alignment (Yes) 0.02 -0.29** -0.11 (0.05) (0.10) (0.08) Age (25-34) -0.04 0.00 (0.08) (0.07) Age (35-44) -0.07 -0.02 (0.05) (0.04) Age (45-54) -0.05 -0.03 (0.08) (0.07) Age (55-64) -0.00 0.00 (0.06) (0.05) Age (65 and Older) 0.17* 0.14** (0.10) (0.06) Constant 2.00*** 1.99*** 1.95*** 1.95*** 8.92*** (0.02) (0.02) (0.24) (0.19) (1.07) R2 0.0066 0.0066 0.011 0.023 0.13 Observations 34842 34822 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+58
+
+Table B4. Hypothesis 1 and 2 Results with Equilibrated Weight
+
+(1) (2) (3) (4) (5) UHIOR 0.00*** 0.01*** 0.01* 0.01 0.05* (0.00) (0.00) (0.01) (0.01) (0.03) Rural Residency (Yes) 0.29*** 0.34** 0.33** -0.04 (0.03) (0.16) (0.15) (0.07) Rural Residency * Upper House Inequality of Representation
+
+-0.02*** -0.02** -0.02** -0.00
+
+(0.00) (0.01) (0.01) (0.00) Sex (Female) 0.02 -0.00 0.02 (0.02) (0.04) (0.04) Age 0.02** 0.03 0.02* (0.01) (0.02) (0.01) Political Ideology (Right) 0.09* 0.08 0.10 (0.04) (0.11) (0.10) Government Ideological Alignment (Yes) -0.00 -0.27** -0.10 (0.05) (0.12) (0.10) Constant 2.08*** 1.88*** 1.80*** 1.91*** -0.04 (0.01) (0.02) (0.21) (0.18) (1.11) R2 0.0014 0.012 0.014 0.017 0.12 Observations 34842 34842 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+59
+
+Table B5. Hypothesis 3 Results with Equilibrated Weight
+
+(1) (2) (3) (4) (5) UHIOR 0.00*** 0.00* 0.00 0.01 0.05* (0.00) (0.00) (0.01) (0.01) (0.03) Political Ideology (Right) 0.05 0.06 0.08 0.10 (0.03) (0.15) (0.11) (0.10) Political Ideology (Right) * Upper House Inequality of Representation
+
+0.00 0.00 0.00 -0.00
+
+(0.00) (0.00) (0.00) (0.00) Government Ideological Alignment (Yes) -0.00 -0.27** -0.10 (0.05) (0.12) (0.10) Sex (Female) 0.02 -0.00 0.02 (0.02) (0.04) (0.04) Age 0.02* 0.03 0.02* (0.01) (0.02) (0.01) Rural Residency (Yes) -0.08 0.33** -0.04 (0.07) (0.15) (0.07) Constant 2.08*** 2.11*** 2.09*** 1.91*** -0.04 (0.01) (0.02) (0.27) (0.18) (1.11) R2 0.0014 0.0039 0.0068 0.017 0.12 Observations 34842 29602 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+60
+
+Table B6. Hypothesis 4 Results with Equilibrated Weight
+
+(1) (2) (3) (4) (5) UHIOR 0.00*** 0.00*** 0.00 0.01 0.05* (0.00) (0.00) (0.01) (0.01) (0.03) Sex (Female) 0.00 -0.00 -0.00 0.02 (0.03) (0.04) (0.04) (0.04) Sex (Female) * Upper House Inequality of Representation
+
+-0.00 0.00 0.00 -0.00
+
+(0.00) (0.00) (0.00) (0.00) Age 0.00** 0.03 0.02* (0.00) (0.02) (0.01) Rural Residency (Yes) -0.09 0.33** -0.04 (0.07) (0.15) (0.07) Political Ideology (Right) 0.09* 0.08 0.10 (0.04) (0.11) (0.10) Government Ideological Alignment (Yes) -0.01 -0.27** -0.10 (0.05) (0.12) (0.10) Constant 2.08*** 2.08*** 2.06*** 1.91*** -0.04 (0.01) (0.02) (0.22) (0.18) (1.11) R2 0.0014 0.0014 0.0071 0.017 0.12 Observations 34842 34822 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+61
+
+Table B7. Hypothesis 1 and 2 Results with Random Effect Linear Models
+
+(1) (2) (3) (4) (5) UHIOR 0.00 0.00 0.00 0.00 0.05** (0.01) (0.01) (0.01) (0.01) (0.02) Rural Residency (Yes) -0.05 -0.01 -0.01 -0.01 (0.03) (0.07) (0.07) (0.07) Rural Residency * Upper House Inequality of Representation
+
+0.00 -0.00 -0.00 -0.00
+
+(0.00) (0.00) (0.00) (0.00) Sex (Female) 0.02 0.01 0.01 (0.02) (0.04) (0.04) Age 0.01 0.02* 0.02* (0.01) (0.01) (0.01) Political Ideology (Right) 0.08*** 0.10 0.10 (0.03) (0.09) (0.09) Government Ideological Alignment (Yes) 0.01 -0.12 -0.12 (0.03) (0.09) (0.09) Constant 2.06*** 2.09*** 2.04*** 2.04*** -0.28 (0.24) (0.19) (0.22) (0.22) (0.98) R2 Observations 34842 34842 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+62
+
+Table B8. Hypothesis 3 Results with Random Effect Linear Models
+
+(1) (2) (3) (4) (5) UHIOR 0.00 0.00 0.00 0.00 0.05** (0.01) (0.01) (0.01) (0.01) (0.02) Political Ideology (Right) 0.10*** 0.10 0.10 0.10 (0.03) (0.12) (0.09) (0.09) Political Ideology (Right) * Upper House Inequality of Representation
+
+-0.00 -0.00 -0.00 -0.00
+
+(0.00) (0.00) (0.00) (0.00) Government Ideological Alignment (Yes) 0.01 -0.12 -0.12 (0.03) (0.09) (0.09) Sex (Female) 0.02 0.01 0.01 (0.02) (0.04) (0.04) Age 0.01 0.02* 0.02* (0.01) (0.01) (0.01) Rural Residency (Yes) -0.03 -0.01 -0.01 (0.04) (0.07) (0.07) Constant 2.06*** 2.06*** 2.04*** 2.04*** -0.28 (0.24) (0.24) (0.25) (0.22) (0.98) R2 Observations 34842 29602 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+63
+
+Table B9. Hypothesis 4 Results with Random Effect Linear Models
+
+(1) (2) (3) (4) (5) UHIOR 0.00 0.00 0.00 0.00 0.05** (0.01) (0.01) (0.01) (0.01) (0.02) Sex (Female) 0.01 0.01 0.01 0.01 (0.03) (0.04) (0.04) (0.04) Sex (Female) * Upper House Inequality of Representation
+
+-0.00 0.00 0.00 0.00
+
+(0.00) (0.00) (0.00) (0.00) Age 0.00* 0.02* 0.02* (0.00) (0.01) (0.01) Rural Residency (Yes) -0.03 -0.01 -0.01 (0.04) (0.07) (0.07) Political Ideology (Right) 0.08*** 0.10 0.10 (0.03) (0.09) (0.09) Government Ideological Alignment (Yes) 0.01 -0.12 -0.12 (0.03) (0.09) (0.09) Constant 2.06*** 2.05*** 2.03*** 2.04*** -0.28 (0.24) (0.25) (0.22) (0.22) (0.98) R2 Observations 34842 34822 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01
+
+64
+
+Table B10. Hypothesis 1 and 2 Results with Alternative Definition of Rural.
+
+(1) (2) (3) (4) (5) UHIOR 0.01*** -0.00** -0.00 -0.01 -0.17*** (0.00) (0.00) (0.01) (0.01) (0.04) Rural Residency (Yes) -0.34*** -0.39* -0.37* 0.03 (0.03) (0.20) (0.20) (0.09) Rural Residency * Upper House Inequality of Representation
+
+0.02*** 0.02** 0.02** -0.00
+
+(0.00) (0.01) (0.01) (0.00) Sex (Female) 0.02 0.01 0.02 (0.02) (0.04) (0.04) Age 0.02** 0.03* 0.02 (0.01) (0.02) (0.02) Political Ideology (Right) 0.07** 0.10 0.13 (0.03) (0.09) (0.08) Government Ideological Alignment (Yes) 0.02 -0.28** -0.10 (0.05) (0.10) (0.08) Constant 2.00*** 2.18*** 2.15*** 2.25*** 8.75*** (0.02) (0.02) (0.22) (0.23) (1.74) R2 0.0066 0.028 0.028 0.031 0.13 Observations 34842 34842 29560 29560 29560 Standard errors in parentheses; Standard errors are clustered by country. * p < 0.10, ** p < 0.05, *** p < 0.01

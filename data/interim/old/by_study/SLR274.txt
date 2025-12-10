@@ -1,0 +1,413 @@
+Public Opinion and Democratic Legitimacy
+
+Yun-han Chu, Michael Bratton, Marta Lagos,
+
+Sandeep Shastri, and Mark Tessler
+
+Yun-han Chu is distinguished research fellow of the Institute of Political Science at Academia Sinica, Taiwan, and director of the Asian Barometer. Michael Bratton is University Distinguished Professor of Political Science and African Studies at Michigan State University, East Lansing, and a codirector of Afrobarometer. Marta Lagos is the founding director of Latinobarómetro Corporation. Sandeep Shastri is director of the International Academy for Creative Teaching, Bangalore, and a founding member of the State of Democracy in South Asia Project. Mark Tessler is Samuel J. Eldersveld Collegiate Professor of Political Science at the University of Michigan, Ann Arbor, and director of the Arab Barometer.
+
+Why does popular support for democracy vary from one country to another? Is it because of economic factors, or does politics matter more? Those who favor the first kind of explanation argue that democracy must earn its legitimacy mainly by “delivering the goods”—if people see a net improvement in their material welfare under democracy, this reasoning goes, they will support it. Those who lean toward political explanations caution against economic reductionism and claim that citizens’ sense of commitment to democracy may be less a function of how they think the market is working than of how they experience democracy itself. This debate is important not only theoretically, but for practical reasons as well. All other things being equal, a strong coupling between economic performance and popular commitment to democratic governance is not conducive to the consolidation of young democracies. A country’s economic condition is always subject to numerous contingencies, and can fluctuate sharply from one year to another. This is particularly so in the age of globalization, as supranational economic forces increasingly hamper the ability of democratically elected governments to manage their respective nations’ economies and protect their citizens’ material well-being.
+
+Journal of Democracy Volume 19, Number 2 April 2008 © 2008 National Endowment for Democracy and The Johns Hopkins University Press
+
+75 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+Just how important is it, then, for young democracies to deliver economic growth and material well-being to their citizens? Casting our eyes over the globe, we have found an encouraging pattern that clearly shows economic factors to be relatively unimportant in explaining levels of popular support for democracy. A glaring exception to this encouraging picture comes from East Asia, where a number of high-income countries yield figures which suggest that publics there expect democratic regimes to keep up the kind of miraculous economic growth that took place under earlier and more authoritarian forms of governance. Earlier research on experiences of political transition in postcommunist Central and Eastern Europe suggested that, of the many factors influencing citizens’ support for democracy, perceptions of change in individual or national economic circumstances are the most important.1 Writing about how citizens respond to and form attitudes about democratic transition, Adam Przeworski similarly stressed that the most relevant factor is the gap between subjective expectations and real economic experiences. Consequently, if citizens believe that democracy improves their personal economic situation and that of the nation, then popular support for democracy increases.2 Russell Dalton also discovered that citizens’ attitudes toward democracy in the former East Germany are strongly linked to their evaluations of the national economy.3
+
+These findings emphasizing the economic basis of popular support for democracy came under challenge from Geoffrey Evans and Stephen Whitefield, who analyzed survey data from eight postcommunist countries in the early 1990s. Evans and Whitefield found that there is very little link from economic experience to support for democracy when the perceived responsiveness of the electoral system and support for marketization are controlled for.4 Richard Rose, William Mishler, and Christian Haerpfer studied public opinion in nine former East Bloc countries, and also warned against reductionist theories “that treat all political attitudes as if they were simply derivative of economic conditions.” They found that both economic and political factors determine levels of popular support for democracy, but politics matters more.5
+
+Subsequently, researchers studying other regions have also called into question the conventional wisdom that governments in new democracies legitimize themselves mainly through economic performance. Robert Mattes and Michael Bratton found that Africans support democracy even while being discontented with its achievements in both the political and the economic realms. This implies a measure of intrinsic support that supersedes instrumental considerations. Mattes and Bratton also found that approval of democracy remains performance-driven, though approval hinges less on the delivery of economic goods than on the government’s record of securing basic political rights.6 Analyzing data from the multiyear Latinobarómetro survey, Marta Lagos found that when many Latin American countries were hit by se 76 Journal of Democracy
+
+vere economic crises around the turn of the millennium, satisfaction with market-based policies and the actual workings of democratically chosen governments began to drop even as support for democracy as a regime type went up. This suggests that Latin Americans are learning to distin guish between democracy as a system and this or that democratic government which they may like or dislike.7 Working with the same data, Carol Graham and Sandip Sukhtankar later corroborated Lagos’s findings.8
+
+This good news about citizens’ readiness to “decouple” their view of democracy in general from the economic record of particular democratic governments needs a major qualification, however. In the latest Asian Barometer survey of seven East Asian countries, citizens’ evaluations of both their nation’s and their household’s economic condition emerge as one of the stronger predictors of support for democracy when the crossnational survey data are pooled together. This suggests that analyses restricted to the level of individual countries—where the data show people judging democracy more by its provision of political “goods” such as accountability, equal rights, and citizen empowerment than by national or household income—are missing significant cross-national patterns.9
+
+What is causing this discrepancy between the regional and countrylevel patterns in East Asia? The answer may be that variation in people’s perception of economic performance across countries tends to be much greater than within one country. Within a single country, people’s economic evaluation tends to move in one direction at a time: thumbs-up during booms, thumbs-down during busts. This built-in convergence is likely to attenuate the observed causal relationship between people’s economic evaluation and the level of support that they express for democracy. Therefore, country-by-country analyses cannot be conclusive because they might be missing some significant cross-national pattern of causality. Any analysis based on a single world region will likewise suffer because it may fail to capture a significant cross-regional pattern. Since national economic cycles within a single region often move in synchronized fashion, this is a legitimate concern. Unfortunately, virtually all the existing empirical studies on the issue have been confined to survey data collected in a few countries or at most one geographical region. We are trying to offer the first systematic global investigation of the relative importance of citizens’ economic evaluations to their support for a democratic form of government. Our effort relies on a newly available cross-regional merged data set created under the auspices of the
+
+We are trying to offer the first systematic global investigation of the relative importance of citizens’ economic evaluations to their support for a democratic form of government.
+
+77 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+Globalbarometer. This set pools all identical (or at least functionally equivalent) indicators from four regional surveys, namely Latinobarómetro, the Afrobarometer, the Asian Barometer (which covers both East and South Asia), and the newly launched Arab Barometer.10 Together, the pooled set covers more than 54 countries spread over four continents.11 Since our capacious data set maximizes cross-national variation and minimizes the risk of underestimating the economic factors’ impact on support for democracy, our scope of analysis puts the claim that “economic factors matter more” to an eminently fair (and even favorable) test. We base our analysis on a survey item that is widely used to gauge popular support for democracy as a preferred political system. Typically, respondents are asked to choose among three statements: “Democracy is always preferable to any other kind of government”; “Under some circumstances, an authoritarian government can be preferable to a democratic one”; and “For people like me, it does not matter whether we have a democratic or a nondemocratic regime.”12 This has been the most widely used item due not only to its face validity, but also to the way in which it facilitates meaningful comparisons. We use comparable measurements to examine the impact of both the “sociotropic” consideration (how people think their country’s economy is doing) and the immediate “pocketbook” effect (how their own household is doing).13 The goal is to find out whether there is a discernible global relationship between economic performance and democratic legitimacy, and whether or how each region deviates from this global pattern. We also break up the four regions and reclassify countries into four groups depending on whether their national income is low, lowermiddle, upper-middle, or high.14 This regrouping will allow us to learn if economic performance is less important to popular support for democracy in richer rather than poorer countries or vice-versa. In the Figure on p. 78, we plot a country’s level of popular support for democracy against its mean scores on the evaluation of economic condition. For simplicity’s sake, we combine the measure for evaluating national economic conditions with that of personal economic conditions to yield a single indicator of perceived economic performance.15 The horizontal axis marks the average score of people’s evaluation of economic condition with a maximum range of 1 (very bad) to 5 (very good). On the vertical axis, 0.6 means that 60 percent of the respondents in a given country believe that democracy is the best form of government for their society, while 0.4 means that 40 percent do so, and so on.16 As the scatterplot in the Figure shows, many third-wave democracies must cope with substandard legitimacy. Fewer than half the emerging democracies that we survey have reached the two-thirds level that may be taken as a minimum threshold of mass support for democracy in a consolidated regime.17 Many countries, such as Brazil, Ecuador, Mon 78 Journal of Democracy
+
+golia, Pakistan, Paraguay, South Korea, and Taiwan, have dipped below 0.5, meaning that (according to this measure) less than half the population in those places unconditionally embraces democracy. Next, we examine the scatterplot for any clues it may hold regarding any cross-national pattern featuring a linear relationship between perceived economic performance and the strength of citizens’ commitment to democracy at the aggregate level. We see no linear relationship between people’s perception of current economic conditions and the extent to which publics believe that democracy is the best form of government for their society. Countries where citizens take a dim view of current economic conditions can vary greatly as regards levels of popular commitment to democracy as the only legitimate form of government. Notable examples are Benin and Paraguay. At the same time, many countries that register relatively high popular support for democracy vary significantly in terms of how their citizens evaluate economic conditions. The figure’s three outliers (Kuwait, Vietnam, and Zimbabwe) occupy the two polar ends on the horizontal axis. Both Vietnamese and Kuwaitis are extraordinarily upbeat about their respective national economies while Zimbabweans feel very down about theirs, but all three publics register very high levels of popular yearning for democracy.18
+
+To further substantiate the claim that economic performance plays a
+
+Figure—Support for Democracy versus Evaluation of Current Economic Condition 1.00
+
+0.80
+
+0.60
+
+0.40
+
+0.20
+
+Support for Democracy
+
+1.0 2.0 3.0 3.5 2.5 4.0
+
+Mali
+
+Economic Evaluation
+
+■Zimbabwe
+
+Uruguay ■
+
+Malawi
+
+Benin
+
+Nicaragua
+
+Zambia■
+
+Palestine
+
+■
+
+Ghana
+
+1.5
+
+■ ■
+
+■
+
+■ ■
+
+■ ■
+
+■
+
+■
+
+■
+
+Lesotho
+
+South Korea
+
+Peru Honduras
+
+Tanzania
+
+■ ■
+
+■
+
+■
+
+■ ■
+
+■
+
+■
+
+Kenya Cape Verde
+
+Costa Rica
+
+Botswana
+
+Senegal Thailand Algeria
+
+Venezuela
+
+■
+
+■■
+
+■
+
+■
+
+■
+
+Nigeria
+
+Japan
+
+Argentina
+
+Sri Lanka Indonesia
+
+Panama ■
+
+■ ■■
+
+■■
+
+■
+
+■
+
+■
+
+■
+
+■ ■ ■
+
+■
+
+■
+
+Bolivia Guatemala El Salvador Ecuador Paraguay
+
+Brazil Mongolia
+
+Pakistan
+
+Colombia
+
+Mexico
+
+Chile
+
+Taiwan Madagascar
+
+Philippines
+
+Morocco
+
+■
+
+■ ■ Jordan
+
+Vietnam
+
+Kuwait
+
+Mozambique ■
+
+■
+
+■■
+
+■
+
+■ ■
+
+South Africa India Bangladesh
+
+Nepal
+
+Namibia Singapore
+
+Africa: Benin, Botswana, Cape Verde, Ghana, Kenya, Lesotho, Madagascar, Malawi, Mali, Mozambique, Namibia, Nigeria, Senegal, South Africa, Tanzania, Uganda, Zambia, Zimbabwe Arab world: Algeria, Jordan, Kuwait, Morocco, Palestine Asia: Bangladesh, India, Indonesia, Japan, Mongolia, Nepal, Pakistan, Philippines, Singapore, South Korea, Sri Lanka, Taiwan, Thailand, Vietnam Latin America: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela
+
+■ Uganda
+
+79 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+secondary role in shaping attitudes toward democracy, we apply correlation analysis to our merged data so that the strength of their linear association at the individual level can be more precisely gauged.19 To assess the relative importance of economic performance in explaining people’s normative commitment to democracy, we also include measures of how many people believe that democracy of an acceptable quality is being supplied in their country. Our comparative survey contains three sets of indicators that reveal essentials regarding how the political system looks in citizens’ eyes. The first set gauges how much people trust the key institutions of parliament, the courts, and political parties.20 The second set comprises indicators that measure the extent to which the political system fulfills such minimal requirements of liberal democracy as empowering the people to change a government they dislike,21 holding free and fair elections,22 and guaranteeing equal rights under law.23 The third set gathers data regarding citizens’ overall satisfaction with the way that democracy works in their particular country.24
+
+In Table 1 on p. 80, we juxtapose the correlation coefficients between support for democracy and the two economic indicators with each of the seven political indicators. The left-most column reports the correlation coefficients indicating the strength of linear association based on the entire global pool of our survey data.25 The next four columns report the results of correlation analysis based on the pooled survey data from each of the four regions. The last four columns show the strength of linear association for each of the four income groups, from low-income countries to high-income countries. The correlation coefficients are not strong for any of the nine explanatory variables. This is not surprising: The indicator that we use to measure support for democracy is very limited. Its binary scale tends to attenuate correlation coefficients, and thus underestimates the underlying strength of linear relationships. So we should pay more attention to the relative strength of each variable’s linear relationship with support for democracy. The left-most column shows that, across all four continents, how respondents perceive overall national economic conditions matters more than how they evaluate their personal economic circumstances. But neither exerts the kind of influence on attitudes toward democracy that most of our political factors do. The levels of trust that people feel toward parliament, parties, and courts, as well as respondents’ sense that citizens are politically empowered, far outweigh judgments of national or personal economic weal or woe. Among all the political indicators, satisfaction with democracy exerts the strongest influence on people’s normative commitment to democracy. Since such satisfaction is a catchall measure, it might well carry the cumulative impact of all the factors listed above. When we move down to the regional level, this pattern continues to hold. Among Africans, levels of trust in parliament, the courts, and free
+
+80 Journal of Democracy
+
+Table 1—Sources of Popular Support for Democracy: Correlation Analysis
+
+Global By Geographical Region By Per-Capita Income
+
+Africa Arab World Asia Latin
+
+America Low
+
+Income
+
+Countries
+
+Lower
+
+Middle-Income
+
+Countries
+
+Upper
+
+Middle-Income
+
+Countries
+
+High
+
+Income
+
+Countries
+
+Current country economic
+
+evaluation 0.07 0.04 0.07 0.10 0.02 0.01* 0.11 0.03 0.20
+
+Current personal economic
+
+evaluation 0.02 0.02 0.07 0.04 -0.01* -0.01* 0.05 0.02* 0.17
+
+Trust in political parties 0.12 0.07 0.02* 0.14 0.04 0.12 0.10 0.09 0.07
+
+Trust in parliament 0.13 0.07 0.02* 0.15 0.05 0.09 0.12 0.09 0.11
+
+Trust in the courts 0.13 0.03 0.07 0.16 0.04 0.09 0.13 0.09 0.19
+
+Citizen empowerment 0.08 0.02 0.01* 0.08 0.15 0.01* 0.09 0.16 0.09
+
+Free and fair elections 0.06 0.06 0.01* 0.09 NA 0.08 -0.02* 0.13 0.04
+
+Equal rights 0.06 -0.03 NA 0.12 0.04 0.05 0.06 0.01* 0.07
+
+Satisfaction with democracy 0.18 0.18 0.03* 0.13 0.21 0.14 0.19 0.22 0.05
+
+N 44270 14068 4082 10782 15337 14792 16858 8311 4308
+
+Note: Most of our correlation coefficients are statistically significant due to the sheer fact that our sample sizes are very big. Coeffecients that are not significant are marked with an asterisk (*).
+
+Sample sizes may vary from one row to another due to pair-wise deletion of missing cases. The reported N in the bottom row indicates the number of valid cases for estimating the correlation
+
+coefficients in the first row, in essence between support for democracy and evaluation of a country’s current economic conditions.
+
+81 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+and fair elections matter more than does the perception of national economic conditions—and much more than does the perception of personal economic conditions. Again, the impact of overall satisfaction with democracy, which arguably enjoys the closest causal proximity to support for democracy, surges to the top. Among Latin Americans, evaluations of national and personal economic conditions are the two least important factors in shaping people’s sense of democracy’s legitimacy. For Asians, belief in the preferablility of democracy hinges more on trust in parliament and the courts, plus overall satisfaction with democracy and the sense that rights are receiving equal protection. The five Arab-majority countries surveyed differ from this emerging pattern on two scores. First, no factor, economic or political, explains the positive orientation toward democracy with much power, for no correlation coefficient exceeds 0.07. The correlations may be low because of the limited variance on the item that gauges support for democracy across the Arab world. The level of aggregate support in all five countries—Algeria, Jordan, Kuwait, Morocco, and Palestine—exceeds 0.80, putting each of these lands well above the global mean of 0.67 (see the Figure on p. 78). Support for democracy in the Arab world, in other words, is very high (perhaps because people there, having never experienced democracy, can think of it as an ideal to which they aspire rather than as a system of governance whose ups and downs they have actually had to deal with). Moreover, among the few factors that exert some meager impact, the two economic-conditions indicators come out stronger. Indeed, they surpass all political indicators except trust in courts. Of all four regions, the one where perceptions of national economic condition make the strongest impact is clearly Asia. This is probably because many East Asian countries have traveled along a distinctive trajectory of regime transition. Most of today’s East Asian democracies are the successors of growth-friendly, market-conforming, soft-authoritarian regimes. Moreover, a great majority of East Asia’s citizens have seen an extraordinary socioeconomic transformation unfold within their lifetimes. They live in a region replete with authoritarian regimes, such as China’s and Vietnam’s, that have attained a high degree of economic success, and their own countries must live with constant competitive pressure from precisely those rising (authoritarian) economic powers. As a result, East Asians who live under democracy tend to apply much higher standards of success when they assess how their governments are performing economically. East Asians also place more emphasis on economic success, seeing it as a pillar of national pride, self-esteem, and security. This value priority is especially salient among the most socioeconomically advanced East Asian countries.26
+
+In the four right-most columns, we report the correlation coefficients calculated on the basis of pooled survey data from countries with different levels of per-capita annual income. Contrary to the received view
+
+82 Journal of Democracy
+
+that a rising level of economic development promotes “self-expression values” such as freedom of speech and participation in the decisionmaking process,27 we found that people’s economic evaluations had the strongest impact on support for democracy in the high-income countries, and the weakest impact in the low-income countries. In the lowincome lands, citizens’ assessments of their own and their countries’ economic circumstances had no impact at all. What mattered instead was trust in key democratic institutions—parliament, the parties, and the courts—plus the political system’s perceived adeptness at delivering free and fair elections and equal rights. The pattern of linear relationship observed among people living in high-income countries is just the opposite. There, citizens’ evaluations of national and personal economic conditions are, respectively, the most important and third-most important factors explaining their normative commitment to democracy. While political factors (especially trust in courts) still matter, they rank behind economic factors. Reinforcing our argument about the high priority that people living in advanced East Asian countries give to economic development is the observation that four of the five high-income countries (Japan, Singapore, South Korea, and Taiwan) are East Asian. The fifth, Kuwait, is the only one from outside the region. In the countries belonging to the upper part of the middle-income range, trust in democratic institutions, citizen empowerment, and free and fair elections all carry much more weight than economic performance in shaping orientations toward democracy. In countries in the lower part of that range, evaluations of national economic conditions carry more weight in explaining the level of legitimacy that democracy enjoys, but political factors such as trust in parliament and the courts weigh heavier still. Across the four income groups, to the extent that bad economic performance can erode people’s support for democracy, assessments of the national economy loom larger than do evaluations of personal economic circumstances. People outside the five high-income countries mostly neither credit nor blame democracy for their personal economic fortunes. In the bulk of cases, the single most important factor in accounting for people’s normative commitment to democracy is their level of overall satisfaction with the way democracy works. This calls for further exploration. In Table 2, we run a parallel correlation analysis in order to identify which factors shape people’s satisfaction with democracy’s overall performance. This analysis not only helps us to sort out the various ingredients that make up democratic satisfaction, but also aids our effort to learn whether this catchall approval rating serves as an important intermediary variable between perceived economic performance on the one hand and support for democracy on the other. The combination of a weak (but still statistically meaningful) association between economic performance and support for democracy
+
+83 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+Table 2—Sources of Popular Satisfaction with Democracy: Correlation Analysis
+
+Global By Geographical Region By Per Capita Income
+
+Africa Arab World Asia Latin
+
+America Low
+
+Income
+
+Countries
+
+Lower
+
+Middle-Income
+
+Countries
+
+Upper
+
+Middle-Income
+
+Countries
+
+High
+
+Income
+
+Countries
+
+Current country economic
+
+evaluation 0.29 0.29 0.20 0.35 0.20 0.32 0.31 0.26 0.17
+
+Current personal economic
+
+evaluation 0.14 0.18 0.10 0.18 0.13 0.18 0.15 0.13 0.08
+
+Trust in political parties 0.34 0.30 0.20 0.34 0.16 0.31 0.34 0.28 0.22
+
+Trust in parliament 0.39 0.36 0.37 0.38 0.19 0.40 0.37 0.31 0.25
+
+Trust in the courts 0.32 0.23 0.29 0.32 0.19 0.26 0.34 0.29 0.24
+
+Citizen empowerment 0.14 0.20 0.12 0.10 0.10 0.22 0.12 0.11 0.00*
+
+Free and fair elections 0.37 0.41 0.30 0.34 NA 0.39 0.34 0.36 0.32
+
+Equal rights 0.11 -0.20 NA 0.30 0.16 -0.04* 0.19 0.06 0.32
+
+Controlling corruption 0.25 0.21 0.20 0.32 NA 0.23 0.29 0.19 0.25
+
+N 44733 14476 4346 9852 16058 13993 17606 8543 4590
+
+Note: Sample sizes vary from one row to another due to pair-wise deletion of missing data. Coeffecients that are not significant are marked with an asterisk (*). The reported N at the bottom
+
+row indicates the number of valid cases for estimating the correlation coefficients in the first row, in essence between support for democracy and evaluation of country’s current economic
+
+conditions.
+
+84 Journal of Democracy
+
+with a much stronger linear relationship between economic evaluation and democratic satisfaction suggests that economic evaluation exerts no direct impact on people’s belief in democratic legitimacy. Rather, economic evaluation exerts only an indirect effect that is mediated through people’s satisfaction with the overall performance of democracy. If the linear association between perceived economic performance and support for democracy is stronger than that between democratic satisfaction and democratic support, we can confidently infer that perceived economic performance exerts at least some direct impact on people’s normative commitment to democracy. The same logic can be extended to the theoretical standing of political factors as well. Globally speaking, all factors under investigation are important to people’s evaluation of the overall performance of the democratic regime. Trust in democratic institutions and the free and fair voting process does the most to encourage popular approval of the way that democracy works. People’s evaluation of national economic conditions also matters, and its impact lags only slightly behind that of the various political indicators (see the left-most column of Table 2). This global pattern holds up well among Africans, Asians, and Arabs. In Latin America, by contrast, perceived national economic conditions matter more than political factors, but not by much. Across the four regions, how people assess the national economy appears to affect democratic satisfaction the most strongly in Asia. Comparing the first row of Table 2 with its counterpart from Table 1, we see that for all four regions the impact of perceived national economic condition on democratic satisfaction is much stronger than its influence on democratic support. This implies that economic performance exerts only an indirect influence over people’s normative commitment to democracy, acting mainly through its impact on popular approval of the way that democracy is actually working in a given country. This pattern also holds across the three income groups below the high-income countries. The glaring exception, in fact, is the high-income group, where the impact (at 0.17) of perceived national economic conditions on democratic satisfaction is actually slightly weaker than its influence (at 0.2) over support for democracy. (It is well to bear in mind that for citizens of high-income countries, their perception of national economic conditions ranks highest as a shaper of belief in democratic legitimacy, while satisfaction with democracy ranks almost at the bottom.) Putting all these together, an inescapable conclusion emerges: In high-income countries, economic performance is an important ingredient of popular support for democracy. People’s perceptions of how their national economies are faring have a significant and direct impact on how committed they feel toward democracy.28 This is a phenomenon peculiar to high-income countries, and especially the affluent East Asian countries that make up four-fifths of our high-income group.
+
+85 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+Our global survey underscores three important points: First, the success of third-wave democratization is not yet a foregone conclusion. Many third-wave democracies have experienced slow and uneven growth in democratic legitimacy, with substantial portions of their citizenries harboring reservations about democracy. Building a robust foundation of legitimacy remains a daunting challenge for most third-wave democracies. Second, citizens of most new democracies can distinguish between the political and economic dimensions of regime performance. Many of them come to value democracy for the political goods that it produces even when its economic performance is perceived to be poor in the short term. More specifically, people’s acceptance of democracy as legitimate hinges mostly on whether certain key political institutions command citizen trust, and on the political system’s ability to meet such basic requirements of liberal democracy as free and fair elections, the provision of equal rights under law, and the empowerment of citizens to make changes of government by lawful means. In a nutshell, democracy needs to “pay its way” by delivering acceptable levels of citizen control and good governance. Third, we cannot entirely write off economic performance as a factor in democratic consolidation. Democracies that have inherited records of stunning economic success from nondemocratic predecessors are under pressure to live up to high citizen expectations regarding continued economic excellence. Furthermore, all emerging democracies are subject to the harsh likelihood that protracted economic stagnation will sap popular support for democracy by destroying that sense of satisfaction with democracy’s performance that is essential to democracy’s legitimation.
+
+NOTES
+
+1. Herbert Kitschelt, “The Formation of Party Systems in East Central Europe,” Politics and Society 20 (March 1992): 7–50.
+
+2. Adam Przeworski, Democracy and the Market: Political and Economic Reforms in Eastern Europe and Latin America (Cambridge: Cambridge University Press, 1991).
+
+3. Russell Dalton, “Communists and Democrats: Democratic Attitudes in the Two Germanies,” British Journal of Political Science 24 (October 1994): 469–93.
+
+4. Geoffrey Evans and Stephen Whitefield, “The Politics and Economics of Democratic Commitment: Support for Democracy in Transition Societies,” British Journal of Political Science 25 (October 1995): 485–514.
+
+5. Richard Rose, William Mishler, and Christian Haerpfer, Democracy and Its Alternatives: Understanding Post-Communist Societies (Baltimore: Johns Hopkins University Press, 1998), 157 and 174.
+
+6. Robert Mattes and Michael Bratton, “Support for Democracy in Africa: Intrinsic or Instrumental?” British Journal of Political Science 31 (July 2001): 447–74; and Robert Mattes and Michael Bratton, “Learning About Democracy in Africa: Awareness, Per 86 Journal of Democracy
+
+formance, and Experience,” American Journal of Political Science 51 (January 2007): 192–217.
+
+7. Marta Lagos, “Latin America’s Lost Illusions: A Road with No Return?” Journal of Democracy 14 (April 2003): 163–73.
+
+8. Carol Graham and Sandip Sukhtankar, “Does Economic Crisis Reduce Support for Markets and Democracy in Latin America? Some Evidence from Surveys of Public Opinion and Well Being,” Journal of Latin American Studies 36 (May 2004): 349–77.
+
+9. Huo-yan Shyu, “Does Economic Performance Matter? Economic Evaluations and Support for Democracy in Seven Asian Countries,” paper presented at an Asian Barometer international conference on “Why Asians Support Democracy and Why Not?” 9–10 August 2007, Taipei.
+
+10. For more information about the four regional barometers, visit www.globalbarometer.net, www.afrobarometer.org, www.arabbarometer.org, www.asianbarometer.org, or www.latinobarometro.org. The Asian Barometer is a federation of two independent survey projects, East Asia Barometer and the State of Democracy in South Asia Project (www.lokniti.org).
+
+11. The data included in the merged file include eighteen countries from the thirdwave Afrobarometer (2005–2006); five countries from the first-wave Arab Barometer (2006–2007); five countries from the first-wave State of Democracy in South Asia Project (2004–2005); nine countries from the second-wave East Asia Barometer (2006–2007); and seventeen countries from Latinobarómetro (2003).
+
+12. This is the exact wording of the item used in Afrobarometer, Asian Barometer, and Latinobarómetro. The item used in the Arab Barometer, although somewhat different, is arguably functionally equivalent. The respondents were asked if they agreed or disagreed with the statement, “Democracy may have its problems but is better than any other form of government.”
+
+13. Regarding the current conditions of national economies, we asked our respondents, “How would you rate the overall economic condition of our country today? Very good? Good? So-so (not good, not bad)? Bad? Very bad?” Regarding the current personal economic conditions, we asked, “As for your own family, how do you rate your economic situation today? Very good? Good? So-so (not good, not bad)? Bad? Very bad?” For both items, the five-point response grid was converted to a numerical scale (2, 1, 0, -1, or -2) for the sake of statistical analysis. The exact wording of the response categories varied slightly from one region to another.
+
+14. We follow the World Bank’s classification, which divides national economies into income groups according to 2005 Gross National Income per capita, calculated using the World Bank Atlas method. The groups are: low income (LIC), $875 or less; lower middle income (LMC), $876–3,465; upper middle income (UMC), $3,466–10,725; and high income, $10,726 or more. See the Bank’s World Development Report, 2007 (Washington, D.C.: World Bank, 2008), 287.
+
+15. The correlation between the two measures is sufficiently large (0.5) to justify our collapsing the two into one.
+
+16. This indicator is coded as a binary, with 1 meaning believing democracy is the best form of government and 0 not believing so.
+
+17. This threshold was suggested by Larry Diamond in his Developing Democracy: Toward Consolidation (Baltimore: Johns Hopkins University Press, 1999), 179.
+
+18. It would be wise not to read too much into the extraordinarily high levels of popular support for democracy in the three outliers, however. All three countries are still under
+
+87 Yun-han Chu, Michael Bratton, Marta Lagos, Sandeep Shastri, and Mark Tessler
+
+authoritarian rule, and their peoples’ understanding of democracy might be quite different from the understanding of democracy that prevails elsewhere.
+
+19. We also evaluated the relative importance of each explanatory variable in multivariate context with logistic regression, which is methodologically more conclusive, to buttress our simple bivariate analysis. For the sake of space, these additional findings are not reported here.
+
+20. In order to measure institutional trust, we read the following statement to our respondents: “I am going to name a number of institutions. For each one, could you tell me how much trust you have in it? Is it a great deal of trust, some trust, not very much trust or none at all?” For the sake of statistical analysis, we converted the four-point response grid for each item into a numerical scale comprising values of 2, 1, -1, or -2.
+
+21. To gauge the extent of citizen empowerment, Afrobarometer asked its respondents the following question: “Think about how elections work in practice in this country. How well do elections enable voters to remove from office leaders who do not do what the people want? Very well? Well? Not very well? Not at all well?” The question used in other regional surveys follows essentially the same design, though each survey has its own nuances.
+
+22. We asked our respondents: “On the whole, how would you rate the freeness and fairness of the last national election, held in [year]? Completely free and fair? Free and fair but with minor problems? Free and fair but with major problems? Not free or fair?”
+
+23. In order to gauge whether people think that the rights of all are equally protected, Asian Barometer employed the following item: “Everyone is treated equally by the government. Strongly agree, somewhat agree, somewhat disagree, or strongly disagree.” Questions used in other barometer surveys slightly deviated one way or another from this, but all adopted a four-point response grid. For instance, Afrobarometer asked, “Are people treated unequally under the law? Always? Often? Rarely? Never?”
+
+24. To measure satisfaction with democracy, we asked our respondents: “On the whole, how satisfied or dissatisfied are you with the way democracy works in [country]? Very satisfied? Fairly satisfied? Not very satisfied? Not at all satisfied?” This four-point response grid was converted to a numerical scale, ranging from 2 to -2, for the sake of statistical analysis.
+
+25. We use a weighting variable to fix each country’s sample size to 1,000 cases so that any country happening to have a large sample would nonetheless not dominate the statistical results.
+
+26. This is consistent with the findings that we reported earlier.
+
+27. For instance, see Ronald Inglehart, Modernization and Postmodernization: Cultural, Economic, and Political Change in 43 Societies (Princeton: Princeton University Press, 1997).
+
+28. This direct causal relationship is further confirmed by our analysis within the framework of the structural-equation model. Explaining this model, however, would involve a great deal of technical material that we omit here for brevity’s sake.

@@ -1,0 +1,569 @@
+Predictors of citizens’ trust in public leadership in Ghana: a comparison between the president, MPs and MMDCEs
+
+Michael K. Dzordzormenyoh Department of Political Science, College of Arts and Sciences, Kent State University, Kent, Ohio, USA
+
+Abstract Purpose – This study was designed to assess the predictors of citizens’ trust in public leaders in Ghana. Specifically, it assesses the effect of eight trust variables—competence/ability, integrity, communication, benevolence, political/quality of governance, rational/economic, risk-taking and socio-demographic characteristics—on citizens’ trust in public leaders—the president, members of parliament (MPs) and metropolitan, municipal and district chief executives (MMDCEs)—in Ghana from 2016 to 2018. Design/methodology/approach – Summary statistics, bivariate correlation and binary logistic regression were employed to analyze 2,400 responses of Ghanaians obtained from the Afro-Barometer round seven surveys on Ghana (2016–2018). Findings – The results reveal that competence/ability, that is to say, the performance of the president, MPs and MMDCEs, influence citizens’ trust in these leaders. Furthermore, communication, benevolence, rationality, risk-taking and socio-demographic variables were significant predictors of citizens’ trust in the president. Likewise, competence/ability, communication, politics, benevolence and socio-demographic variables were predictors of citizens’ trust in MPs. Additionally, competence/ability, communication, integrity, politics, benevolence and socio-demographic variables influence citizens’ trust in MMDCEs. In short, the rationality and risk-taking variables only influence trust in the president, while the political variables influence trust in MPs and MMDCEs. However, integrity influences trust in MMDCEs. Future studies can investigate the factors that account for these differences to augment the current literature. Originality/value – This article is unique because it examines and compares citizens’ trust in three categories of public leaders—the president, MPs and MMDCEs—in Ghana using nationally representative data. Keywords Public trust, Leadership, President, MPs, MMDCEs, Ghana Paper type Research paper
+
+Introduction Studies examining citizens’ trust in their leaders and institutions have taken different forms throughout history because of the interest of different disciplines in the subject matter (Pillay, 2017). The multi-disciplinary interest in trust has led scholars to identify several factors that influence citizens’ trust. Specifically, socio-economic, political, cultural and societal power dynamics; competence, integrity and communication; and socio-demographic variables have been observed to influence citizens’ trust (Van de Walle et al., 2008; Bok, 1997, 2001; Pillay, 2017). Scholarships about citizens’ trust in the global north starting in the 1980s suggest a steady decline in trust (see Van de Walle et al., 2008). Several factors have been found to influence this decline in the existing literature (Bok, 2001). In contrast, studies from the global south, especially Africa, suggest similar declines in citizens’ trust since 2011 (see Pillay, 2017; Kerr and Wahman, 2021). For example, citizens’ trust in leaders from 2000 to 2011 was about 62% in most countries in Africa. However, since 2011, citizens’ trust has declined to about 34%. Evidence from Ghana from 2002 to 2015 suggests that citizens’ trust in their political leaders is very high, which contradicts Pillay’s findings (see Figures 1 and 2).
+
+Predictors of citizens’ trust
+
+189
+
+The current issue and full text archive of this journal is available on Emerald Insight at: https://www.emerald.com/insight/2056-4929.htm
+
+Received 3 November 2022 Revised 10 February 2023 26 March 2023 4 May 2023 Accepted 10 May 2023
+
+International Journal of Public Leadership Vol. 19 No. 3, 2023 pp. 189-209 © Emerald Publishing Limited 2056-4929 DOI 10.1108/IJPL-11-2022-0064
+
+The current literature about citizens’ trust in leaders in Africa, especially Ghana, has two major gaps. First, the results from these studies are inconsistent and inconclusive. Thus, further investigation can help add nuance to the current literature. Second, only a handful of studies focus on examining and comparing citizens’ trust in different categories of leaders within the same country. Against this background, this article has the following research objectives: (1) examine and compare the levels of citizens’ trust in three categories of leaders—the president, MPs and MMDCEs—in Ghana from 2016 to 2018, and (2) examine the predictors of citizens’ trust in these leaders in Ghana. Theoretically, this research addresses gaps in the current literature while also augmenting our understanding of leadership and public trust, especially in Ghana, Africa, and beyond. Practically, the knowledge acquired from this study can help improve public leadership, public trust and governance in Ghana and beyond.
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+2002/2003 2005/2006 2008/2009 2011/2013 2014/2015
+
+President No Trust MPs No Trust MMDCEs No Trust Source(s): Compiled by author from the Afro-barometer Survey Rounds 2, 3, 4, 5, 6 Figure by author
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+2002/2003 2005/2006 2008/2009 2011/2013 2014/2015
+
+President Trust MPs Trust MMDCEs Trust
+
+Source(s): Compiled by author from the Afro-barometer Survey Rounds 2, 3, 4, 5, 6 Figure by author
+
+Figure 1. Citizens trust in the president, MPs and MMDCEs in Ghana from 2002 – 2015 (Comparison of citizens level of “no trust” in public leaders in Ghana)
+
+Figure 2. Citizens trust in the president, MPs and MMDCEs in Ghana from 2002 – 2015 (Comparison of citizens level of “trust” in public leaders in Ghana)
+
+IJPL 19,3
+
+190
+
+Literature review Presidents, MPs and MMDCEs in Ghana: a review “Ghana was the first country south of the Sahara to obtain independence in 1957 and to practice democracy. However, less than a decade after independence, Ghana’s first president, Kwame Nkrumah, was overthrown in 1966”, (Bauer and Darkwah, 2022, p. 553). Between 1966 and 1992, Ghana’s political landscape was dominated by military regimes, with brief intermissions under civilian regimes (Ayee, 2017; Brierley and Ofosu, 2014; Daddieh, 2009; Bauer and Darkwah, 2022; Kumah-Abiwu and Abidde, 2022). Since Ghana transitioned into democratic politics in 1992 and commenced its fourth republic, governments have alternated every eight years between the two major parties—the New Patriotic Party (NPP) and the National Democratic Congress (NDC) (Bauer and Darkwah, 2022). Table 1 provides a summary of the post-independence regimes, leaders and governments in Ghana. This study falls under the Fourth Republic (1993–present), specifically from 2016 to 2018. This study examines citizens’ trust in public leaders under the Mills/Mahama and Akuffo-Addo governments. MPs in Ghana are elected to serve for four years based on Article 113 (1) of the 1992 Constitution. The president is required by the constitution to appoint the majority of his/her ministers from parliament (Parliament of Ghana, 2022). The Mills government had about seventy-five ministers, compared to the Mahama government with eighty-five ministers. The current Akuffo-Addo government has about one hundred and ten ministers (Citi Newsroom, 2017). The dual responsibilities of most MPs as ministers of state and members of parliament lead to high expectations from the constituents they represent and the public (Van Gyampo, 2015). Additionally, access to financial resources for developmental projects through the MPs Common Fund further increases citizens expectations of their MPs in Ghana (AppiahAgyekum et al., 2013). MMDCEs, unlike MPs, are appointed by the president based on Article 243 of the 1992 Constitution. Article 240 of the constitution and the Local Government Act of 1993 provide a framework for the operation of the local government structure in Ghana (Agomor et al., 2020; Appiah-Agyekum et al., 2013; Brierley and Ofosu, 2014; Daddieh, 2009). The local government structureof Ghana consists of metropolitan,municipal anddistrict assemblies (MMDAs) headed by chief executives (MMDCEs) appointed by the president (Agomor et al., 2019; Owusu, 2004). The central government is required by law to give about 5% of its yearly revenue to MMDAs for their developmental projects through the MMDAs Common Fund (Appiah Years Leaders Governments Regimes
+
+1957–1966 Nkrumah Convention People’s Party (CPP) Civilian 1966–1969 Ankrah/Afrifa National Liberation Council (NLC) Military 1969–1972 Busia Progress Party (PP) Civilian 1972–1978 Acheampong National Redemption Council (NRC) Military Supreme Military Council (SMC) I Military 1978–1979 Akuffo Supreme Military Council (SMC) II Military 1979–1979 Rawlings Armed Forces Revolutionary Council (AFRC) Military 1979–1981 Limann People’s National Party (PNP) Civilian 1982–1992 Rawlings Provisional National Defense Council (PNDC) Military 1993–2001 Rawlings National Democratic Congress (NDC) Civilian 2001–2009 Kufuor New Patriotic Party (NDC) Civilian 2009–2017 Mills/Mahama National Democratic Congress (NDC) Civilian 2017-Now Akufo-Addo New Patriotic Party (NPP) Civilian Source(s): Bauer and Darkwah (2022), Bauer (2018), Tandoh-Offin (2011)
+
+Table 1. Post-independence leaders, governments and regimes in Ghana, 1957 – present
+
+Predictors of citizens’ trust
+
+191
+
+Agyekum et al., 2013). Some studies have found that MMDAs are under-resourced because 5% is not enough to support the efficient administration of these units. Also, delays in receiving such funds further hinder the effective administration of MMDAs (Antwi-Boasiako, 2010; Nyendu, 2012). Political decentralization has been suggested by some studies as the best solution to address the current weaknesses associated with MMDAs and their operations (Dzordzormenyoh et al., 2022; Van Gyampo, 2017; Yeboah-Assiamah, 2016). However, efforts at political decentralization continue to be more rhetorical than practical under successive governments (see Dzordzormenyoh et al., 2022).
+
+Definition and conceptual challenges of trust: a review Despite the proliferation of trust studies, there is no universally accepted scholarly definition of trust (Rousseau et al., 1998; Bijlsma-Frankema and Costa, 2005; McEvily, 2011). To date, the definition and measurement of trust have been swallowed up in a conceptual quagmire (Metlay, 2013; Castelfranchi and Falcone, 2010; Dietz and Den Hartog, 2006; Gambetta, 1998). Complaints about the lack of scholarly consensus about the definition and measurement of trust are also well documented in current studies (Vigoda-Gadot and Mizrahi, 2014; Li, 2015). Attempts to understand, clarify and define trust have continued to be a challenge for scholars across various disciplines (Albrecht and Travaglione, 2003; PytlikZillig and Kimbrough, 2016). Reviews of trust conducted by business, management and organizational science scholars did not lead to an acceptable definition of trust (Bigley and Pearce, 1998; Burke et al., 2007; Castaldo et al., 2010; Dietz and Den Hartog, 2006; Fulmer and Gelfand, 2012; Hosmer, 1995; Kramer, 1999; Lane, 1998; Lewicki et al., 1998; Mayer et al., 1995; M€ollering et al., 2004). Similar efforts by sociologists and psychologists failed to produce a definition accepted by most, if not all, scholars (Bijlsma-Frankema and Costa, 2005; Frederiksen, 2012; Khodyakov, 2007; Lewis and Weigert, 2012). Political scientists (Bouckaert et al., 2002; Hardin, 2006; Kong, 2014; Levi and Stoker, 2000; Nannestad, 2008), economists (Bachmann, 2011; Williamson, 1993), interdisciplinary scholars (Cao, 2015; Earle et al., 2007; Gambetta, 1998; Li, 2007; M€ollering, 2006; Rousseau et al., 1998), and others (Castelfranchi and Falcone, 2010; Earle, 2010; McKnight and Chervany, 2001), were not left out of efforts aimed at arriving at a universal definition of trust. In sum, efforts by these studies to produce a universally accepted definition of trust among scholars did not accomplish that; however, they produced other benefits. First, several thematic areas of trust definitions were identified, and second, variations in the thematicareaswerealsoaccounted for(Castaldoetal., 2010; Finket al., 2010). The former revealed that trust definitions encompass these areas and others, namely: (1) trustor; (2) trustee; (3) interdependence of both trustor and trustee on each other; (4) involves risking taking situations; (5) or goals for the trustor; (6) is often a voluntary experience for the trustor and involves autonomy, agency and motivation; and (7) positive evaluation by others or expectations (Bachmann, 2011; Castaldo et al., 2010; Castelfranchi and Falcone, 2010; Drewry, 1999; Fink et al., 2010; Frederiksen, 2012; Eagly and Chaiken, 2007; Hardin, 2006; Hosmer, 1995; Lane, 1998; Levi and Stoker, 2000; Li, 2015; Mayer et al., 1995; Mayer and Davis, 1999; Schoorman et al., 2015). For the latter, distinctions between different types of trust exist in the extant literature, specifically between interpersonal and institutional trust (Bachmann, 1998; Putman, 2000). Interpersonal trust deals with issues such as familiarity, similarity and reputation. Thus, this trust is often labeled as characteristic-based and particularized trust (Zucker, 1986; Uslaner, 2002; Cook, 2005; Granovetter, 1973). On the other hand, institutional trust, often referred to as political trust by political scientists and system trust by sociologists, covers trust in public institutions, leaders and services (Giddens, 1990; Newton, 2001; Secor and O’Loughlin, 2004). Therefore, institutional, political, or system trust involves the perceived legitimacy, technical competence and ability to perform assigned duties effectively and efficiently (Khodyakov, 2007).
+
+IJPL 19,3
+
+192
+
+Predictors of trust: a review Several factors influence trust, and the existing literature provides evidence to this effect. For instance, communication, competence/ability, integrity, risk-taking, performance, sociocultural values, political, rational and socio-demographic characteristics all influence trust in leaders (Beslin and Reddin, 2004; Mayer et al., 1995; Welzel and Dalton, 2016). A detailed discussion of the predictors of trust will require a monograph. However, this article attempts to provide a brief but succinct review of these predictors of trust. First, the competence or ability of leaders, i.e. their performance, has been found to influence citizens’ trust in their leaders. Competence/ability deals with the skills, expertise and competencies that allow leaders to perform their tasks effectively and have influence over their followers (Mayer et al., 1995; Sitkin and Roth, 1993; Rosen and Jerdee, 1977). Some studies suggest that benevolence—the desire of a leader to meet expectations—should be included in the concept of competence or ability (Mayer et al., 1995). Other studies argue that benevolence—the goodwill or mutual trust and dependency of the parties involved—should be considered independently (Fairholm et al., 2018; Cook and Wall, 1980; Larzelere and Huston, 1980). Despite this difference, there is a consensus among researchers that benevolence influences trust in leaders. Hence, it is hypothesized that the competence or ability (performance) of the president, MPs and MMDCEs will influence citizens’ trust in these leaders in Ghana (H1). Second, empirical evidence suggests that communication influences citizens’ trust in their leaders. More specifically, effective communication has been observed to improve trust, while ineffective communication leads to the loss of trust (Albrecht and Travaglione, 2003; Beslin and Reddin, 2004; Fairholm et al., 2018). Effective communication involves an open flow of information through formal and informal channels, the clarity of the information being communicated and encouraging evaluation and feedback from followers (Beslin and Reddin, 2004; Dzordzormenyoh, 2022). In contrast, ineffective communication is characterized by a lack of clarity, secrecy, a lack of information sharing and bottlenecks aimed at preventing evaluations and feedback (Beslin and Reddin, 2004; Fairholm et al., 2018). Thus, it is hypothesized that communication will influence citizens’ trust in the president, MPs and MMDCEs in Ghana (H2). Third, risk-taking influences citizens’ trust in their leaders in several ways. Trusted relationships are built on taking risks and being vulnerable. Thus, a follower’s trust in a leader places a certain risk or vulnerability on the follower (Beslin and Reddin, 2004; Drewry, 1999). Some studies view the risk-taking behavior of followers as a rational endeavor that involves maximizing trust decisions (Ali and Bhuiyan, 2022; Campbell, 2004). This strand of studies suggests that followers rational risk-taking decisions are based on their retrospective and prospective evaluations of the performance of their leaders, the quality of life and governance (Ali and Bhuiyan, 2022; Campbell, 2004; Brehm and Rahn, 1997; Rothstein and Teorell, 2008). On the other hand, some studies suggest that followers risk-taking decisions to trust their leaders are devoid of rationality (Kim, 2005; Welzel and Dalton, 2016). Specifically, these studies suggest that cultural and institutional factors influence followers risk-taking decisions to trust their leaders (Kim, 2005). For instance, Welzel and Dalton (2016) suggest that power distance relationships influence followers risk-taking decisions to trust their leaders. A distinction between “high-power distance” and “low-power distance” societies can be made, and this influences the risk-taking decisions of followers. “High-power distance” societies are characterized by low contact with leaders and high dependence on them, low levels of accountability and high levels of trust, while “low-power distance” societies are characterized by easy access and less dependence on leaders, high levels of accountability and low levels of trust (Welzel and Dalton, 2016).
+
+Predictors of citizens’ trust
+
+193
+
+Furthermore, most African societies are characterized by collectivism and communitarianism as well as individualism (Malunga, 2006; Mbigi, 2007). Collectivism and communitarianism emphasize collective ownership, the importance of relationships over things, participatory leadership and decision-making, patriotism and conflict resolution or reconciliation. Collectivism and communitarianism are more common at the local or traditional level, while individualism is common at the national or state level (Malunga, 2006; Mbigi, 2007). Mbigi (2007) contends that collectivism and communitarianism promote “lowerpower distance” societies, while individualism promotes “high-power distance” societies. However, Welzel and Dalton (2016) found the opposite of Mbigis’ result. Overall, rationality and non-rationality factors influence citizens’ trust in their leaders (Granovetter, 1985; Coulson, 1998). Finally, the integrity of leaders has been found to influence citizens’ trust in their leaders (Sitkin and Roth, 1993; Butler, 1999). Citizens have standards they expect their leaders to adhere to, and the ability of leaders to do just that is what integrity is all about (McFall, 1987). Integrity also represents the idea of consistency regarding the actions, decisions, attitudes and results of leaders (Mayer et al., 1995). Furthermore, the extant literature reveals that regime change, political factors and the socio-demographic characteristics of both leaders and followers influence trust (Tyler and Kramer, 1996; Sheppard et al., 1992; Rogers, 1995; Tan and Tan, 2000; Mayer and Davis, 1999; Zucker, 1986). It is hypothesized that the sociodemographic characteristics of citizens will influence trust in the president, MPs and MMDCEs in Ghana (H3). Table 2 provides a summary of the predictors of trust and the study variables.
+
+Methodology Data Individual-level data on Ghana obtained from the Afro-barometers round 7 survey that happened between 2016 and 2018 was used for this study. Afro-barometer is a non-partisan, non-profit organization that collects data across the continent using random sampling methods and probability sampling proportionate to the size of the actual population. The survey collects data on the opinions of citizens regarding several issues: economics, politics,
+
+Predictors of trust from the review Current study variable
+
+Trust variables Trust in the President, Members of Parliament and Metropolitan, Municipal and District Chief Executives Communication variables Access to news, contact Members of Parliament and Metropolitan, Municipal and District Chief Executives, trust in information from the media Ability or competence variables Performance of the President, Members of Parliament and Metropolitan, Municipal and District Chief Executives Benevolence variables Trust in other leaders (traditional and religious) Integrity variables Corruption of the President, Members of Parliament and Metropolitan, Municipal and District Chief Executives Risk taking variables Report corruption without fear of retaliation Rational choice and economic variables Handling the economy, employment status, problems facing Ghana and economic/living condition Political and Quality of Governance (QoG) variables Satisfaction with democracy, crime victimization, neighborhood security, discrimination, access to services and facilities Socio-demographic variables Party affiliation, rural-urban residency, region, education, religion, gender, ethnicity and age Source(s): Table 2 by author
+
+Table 2. Predictors of trust and the current study variables
+
+IJPL 19,3
+
+194
+
+democracy, governance, crime, immigration, security, access to services and facilities, leadership, public institutions and the socio-demographic characteristics of citizens. The survey also collects data on country-specific issues at the time of its administration. The round 7 data utilized in this study was collected across the ten regions of Ghana, now sixteen. The present data has 2,400 respondents.
+
+Study variables Dependent variables: This study has three main dependent variables. Each variable measures citizens’ trust in public leaders in Ghana between 2016–2018. More specifically, variable I measures citizens’ trust in the president of Ghana. This variable was measured and coded as a binary variable, with 0 representing no trust and 1 representing trust. Variable II measures citizens’ trust in members of parliament (MPs) in Ghana. The variable was measured and coded as a dichotomous variable, with 0 5 no trust and 1 5 trust. Variable III measures citizens’ trust in local government leaders in Ghana, specifically metropolitan, municipal and district chief executives (MMDCEs). This variable was measured and coded as a binary variable, with 0 signifying no trust and 1 signifying trust. Independent variables: One independent variable, the performance of public leaders in Ghana, was assessed on the dependent variables. The performance variable gauges citizens’ attitudes about the ability of their public leaders to accomplish the responsibilities of their office. Specifically, the performance variable measures citizens’ attitudes about the performance of the president, MPs and MMDCEs. The performance variable was measured and coded as 1 representing strongly disapprove, 2 representing disapprove, 3 representing approve and 4 representing strongly approve. Control variables: The analysis controlled for the effects of six categories of variables found to influence trust in leaders. The first category is integrity variables, which include the following variables: perceived corruption of the president (0 5 no, 1 5 yes), perceived corruption of MPs (0 5 no, 1 5 yes), perceived corruption of MMDCEs (0 5 no, 1 5 yes), perceived corruption of traditional leaders (0 5 no, 1 5 yes) and perceived corruption of religious leaders (0 5 no, 1 5 yes). The second category is communication variables and includes the following: access to news (0 5 no, 1 5 yes), citizens contact with MPs (0 5 no, 1 5 yes), citizens contact with MMDCEs (0 5 no, 1 5 yes), citizens trust in the information from the public media (0 5 no, 1 5 yes) and private media (0 5 no, 1 5 yes). The third category is rational choice and economic variables and includes the following: handling the economy (1 5 very badly, 2 5 fairly badly, 3 5 fairly well, 4 5 very well), problems facing Ghana (0 5 no problem, 1 5 crime, 2 5 unemployment, 3 5 others), employment status (0 5 unemployed, 1 5 employed), economic and living conditions (1 5 very bad, 2 5 fairly bad, 3 5 neither good nor bad, 4 5 fairly good, 5 5 very good). The fourth category is political/quality of governance variables, which include the following: satisfaction with democracy (1 5 not at all satisfied, 2 5 not very satisfied, 3 5 fairly satisfied, 4 5 very satisfied), crime victimization (0 5 no crime, 1 5 theft, 2 5 physical attack, 3 5 armed robbery), neighborhood insecurity (0 5 no fear, 1 5 fear walking in the neighborhood, 2 5 fear at home), discrimination (0 5 no discrimination, 1 5 gender, 2 5 religion, 3 5 ethnicity), access to services (0 5 no access, 1 5 access to electricity, 2 5 access to clean water, 3 5 access to sewage systems); and facilities (0 5 no access, 1 5 access to schools, 2 5 access to health centers, 3 5 access to markets an stores, 4 5 access to transportation). The fifth category is benevolence variables, which include trust in traditional leaders (0 5 no, 1 5 yes), and trust in religious leaders (0 5 no, 1 5 yes). The sixth category is the risk Predictors of citizens’ trust
+
+195
+
+taking variable, specifically, the fear of retaliation for reporting corruption (0 5 no, 1 5 yes). The last category is the respondents’ socio-demographic characteristics, which included the following variables: party affiliation (0 5 no party, 1 5 NPP, 2 5 NDC, 3 5 others), ruralurban residency (0 5 rural, 1 5 urban), region (1 5 Ashanti, 2 5 Greater Accra, 3 5 Eastern, 4 5 Western, 5 5 Brong-Ahafo, 6 5 Northern, 7 5 Volta, 8 5 Central, 9 5 Upper East, 10 5 Upper West), education (0 5 no education, 1 5 primary/secondary, 2 5 post-secondary), religion (0 5 no religion, 1 5 Christianity, 2 5 Muslim, 3 5 others), gender (0 5 male, 1 5 female), ethnicity (1 5 Akan, 2 5 Ewe, 3 5 Ga-Adangbe, 4 5 Dagomba, 5 5 others), age (1 5 18–35 years, 2 5 36–65 years, 3 5 66þ years).
+
+Analytical strategy To answer this study’s research questions and test its hypotheses, the following analytical strategies were adopted and utilized. To begin, descriptive or summary statistics were identified to properly ascertain the distribution of scores for all the variables utilized in this analysis (see Table 3). Furthermore, a bivariate correlation was conducted between the study variables. The study also checked for the presence of multicollinearity by performing a collinearity test. Results from both bivariate correlation and multicollinearity analyses show there are no issues with two variables being highly correlated in the data. Finally, a binary logistic regression was conducted to assess the predictors of citizens’ trust in public leaders, that is, the president, MPs and MMDCEs in Ghana (see Table 4).
+
+Results Sample distribution The discussion of the distribution of scores for the study variables will focus on the dependent and independent variables and the significant control variables in this study. A detailed description of the distribution of scores for all the study variables can be found in Table 3. Regarding the dependent variable, namely, trust in public leaders, about 89% of the respondents trust the president, 84% trust MPs and 80% trust MMDCEs in Ghana (see Figure 3). Furthermore, regarding the independent variable, that is to say, the performance of public leaders, about 82% of the respondents strongly agree or agree with the performance of the president, 61% strongly agree or agree with the performance of MPs and 64% strongly agree or agree with the performance of MMDCEs (see Figure 4). Additionally, about 91% of the respondents trust the information they receive from the public media, while 89% trust the information, they receive from the private media in Ghana. Furthermore, 43% had no party affiliation, 38% belonged to the NPP, 18% to the NDC and 1% to other parties. In terms of ethnicity, 56% were Akan, 16% were Ewes, 9% were Ga/Adangbe, 5% were Dagomba and 14% were other ethnicities. For education, 16% had no education, 71% had primary/secondary education and 13% had post-secondary education. Furthermore, 20% did not trust traditional leaders, compared to 80% that did. Around 8% did not trust religious leaders, compared to 91% who did. Furthermore, 5% had no access to facilities, 8% had access to schools, 3% had access to health centers, 4% had access to markets/stores, 79% had access to transportation/roads. Additionally, 12% believe the economy is being handled very badly, 16% suggest fairly badly, 57% suggest fairly well and 14% suggest very well. Similarly, 37% of respondents express no fear of retaliation when reporting corrupt practices, compared to 63% who express fear of retaliation. Finally, 3% experience gender and religious discrimination, respectively, compared to 12% that experience ethnic discrimination. Overall, about 82% did not experience discrimination in Ghana.
+
+IJPL 19,3
+
+196
+
+Variables N M(SD) Min Max
+
+Dependent variables Trust in President 2,329 0.88 (0.31) 0 1 Trust in MPs 2,290 0.83 (0.36) 0 1 Trust in MMDCEs 2,194 0.80 (0.39) 0 1
+
+Independent variables Ability and Competence Performance of the President 2,235 3.07 (0.84) 1 4 Performance of MPs 2,070 2.60 (0.92) 1 4 Performance of MMDCEs 1,803 2.64 (0.85) 1 4
+
+Control variables Integrity variables President corrupt 2,127 0.87 (0.33) 0 1 MPs corrupt 2,137 0.93 (0.24) 0 1 MMDCEs corrupt 2,100 0.93 (0.25) 0 1 Traditional leaders corrupt 2,213 0.87 (0.33) 0 1 Religious leaders corrupt 2,205 0.79 (0.40) 0 1
+
+Communication variables Access to news 2,399 0.94 (0.23) 0 1 Contact MPs 2,392 0.15 (0.36) 0 1 Contact MMDCEs 2,391 0.28 (0.45) 0 1 Trust information from public media 2,228 0.91 (0.27) 0 1 Trust information from private media 2,205 0.89 (0.30) 0 1
+
+Rational and Economic variables Handling the economy 2,227 2.73 (0.85) 1 4 Problems facing Ghana 2,386 2.63 (0.65) 0 3 Employment status 2,399 0.66 (0.47) 0 1 Economic/living conditions 2,397 2.65 (1.32) 1 5
+
+Political and Quality of Governance variables Satisfaction with democracy 2,348 3.07 (0.83) 1 4 Crime victimization 2,391 0.28 (0.69) 0 3 Neighborhood insecurity 2,330 0.28 (0.65) 0 2 Discrimination 2,399 0.43 (1.00) 0 3 Access to service 2,400 2.27 (0.80) 0 3 Access to facilities 2,400 3.45 (1.18) 0 4
+
+Benevolence variables Trust in traditional leaders 2,329 0.79 (0.40) 0 1 Trust in religious leaders 2,346 0.91 (0.27) 0 1
+
+Risk Taking variables Report corruption with fear of retaliation 2,298 0.63 (0.48) 0 1
+
+Socio-demographic variables Party affiliation 2,324 0.77 (0.78) 0 3 Rural-urban residency 2,400 0.54 (0.49) 0 1 Region 2,400 4.17 (2.66) 1 10 Education 2,393 0.97 (0.54) 0 2 Religion 2,282 1.16 (0.49) 0 3 Gender 2,400 0.50 (0.50) 0 1 Ethnicity 2,206 2.07 (1.46) 1 5 Age 2,399 38 (15.26) 18 98 Source(s): Table 3 by author
+
+Table 3. Distribution of scores for the study variables
+
+Predictors of citizens’ trust
+
+197
+
+Model 1 Model 2 Model 3 Variables OR (SE) OR (SE) OR (SE)
+
+Constant 0.03 (0.07)*** 0.17 (0.32) 0.03 (0.06)*
+
+Competence/ability Performance of the President 2.37 (0.46)*** 0.90 (0.14) 0.96 (0.15) Performance of MPs 0.86 (0.16) 1.58 (0.22)** 1.27 (0.17) Performance of MMDCEs 1.20 (0.25) 1.08 (0.16) 1.71 (0.25)***
+
+Integrity variables President corrupt 0.67 (0.44) 0.49 (0.24) 1.33 (0.51) MPs corrupt 0.90 (0.73) 1.64 (1.04) 0.59 (0.39) MMDCEs corrupt 1.32 (0.88) 1.11 (0.60) 0.74 (0.41) Traditional leaders corrupt 0.72 (0.46) 0.59 (0.29) 0.85 (0.38) Religious leaders corrupt 1.24 (0.60) 1.69 (0.60) 1.99 (0.65)*
+
+Communication variables Access to news 1.34 (0.93) 1.47 (0.78) 1.53 (0.80) Contact MPs 1.33 (0.56) 1.56 (0.55) 1.47 (0.50) Contact MMDCEs 0.66 (0.23) 0.90 (0.24) 0.99 (0.25) Trust information from public media 2.93 (1.78) 2.63 (1.28)* 2.93 (1.39)* Trust information from private media 3.54 (2.05)* 2.33 (1.12) 2.14 (0.95)
+
+Rational and Economic variables Handling the economy 2.17 (0.43)*** 1.28 (0.19) 1.06 (0.15) Problems facing Ghana 0.83 (0.17) 1.26 (0.19) 0.92 (0.13) Employment status 1.11 (0.35) 1.10 (0.25) 0.78 (0.17) Economic/living conditions 1.05 (0.12) 1.16 (0.10) 1.02 (0.08)
+
+Political and Quality of Governance variables Satisfaction with democracy 0.95 (0.15) 0.95 (0.12) 1.02 (0.12) Crime victimization 0.75 (0.12) 1.16 (0.17) 0.99 (0.13) Neighborhood insecurity 1.19 (0.25) 0.82 (0.13) 0.96 (0.15) Discrimination 0.79 (0.10) 0.72 (0.07)** 0.75 (0.07)** Access to service 1.34 (0.32) 0.98 (0.19) 0.89 (0.17) Access to facilities 0.89 (0.16) 0.74 (0.10)* 1.11 (0.14)
+
+Benevolence variables Trust in traditional leaders 1.08 (0.44) 1.99 (0.54)* 4.79 (1.18)*** Trust in religious leaders 4.14 (2.04)** 4.08 (1.51)*** 3.08 (0.15)**
+
+Risk Taking variables Report corruption with fear of retaliation 1.94 (0.59)* 0.94 (0.21) 0.81 (0.18)
+
+Socio-demographic variables Party affiliation (No Party 5 RC) NPP 3.62 (1.63)** 1.49 (0.40) 1.35 (0.35) NDC 0.81 (0.29) 0.59 (0.18) 0.76 (0.23) Others 0.11 (0.08)** 1.75 (1.50) 0.56 (0.45) Rural-urban residency 0.71 (0.27) 1.15 (0.32) 0.60 (0.16)
+
+Region (Upper West 5 RC) Ashanti 0.42 (0.63) 0.15 (0.19) 0.45 (0.45) Greater Accra 0.30 (0.45) 0.17 (0.23) 1.16 (1.19) Eastern 0.34 (0.53) 0.17 (0.23) 0.71 (0.77) Western 0.17 (0.25) 0.13 (0.17) 0.75 (0.78) Brong-Ahafo 0.41 (0.62) 0.19 (0.24) 0.79 (0.81) Northern 0.47 (0.62) 0.31 (0.39) 1.29 (1.26)
+
+(continued)
+
+Table 4. Predictors of citizens’ trust in the president, MPs and MMDCEs in Ghana. Odd Ratio
+
+IJPL 19,3
+
+198
+
+Predictors of citizens’ trust in public leaders in Ghana Before discussing the regression estimates for the predictors of citizens’ trust in the president, MPs and MMDCEs in Ghana, this study examines the relationship between trust and performance (see Figures 5–7). Overall, strongly agree/agree with the performance of the president, MPs and MMDCEs correlates with higher levels of trust in these leaders.
+
+Model 1 Model 2 Model 3 Variables OR (SE) OR (SE) OR (SE)
+
+Volta 0.33 (0.49) 0.47 (0.62) 1.62 (1.77) Central 0.78 (1.21) 0.22 (0.28) 1.68 (1.82) Upper West 0.24 (0.36) 1.05 (1.67) 1.13 (1.55)
+
+Education (No Education 5 RC) Primary/Secondary 0.82 (0.39) 2.08 (0.74)* 1.75 (0.64) Post-Secondary 0.83 (0.49) 2.13 (0.97) 2.15 (1.00)
+
+Religion (No Religion 5 RC) Christian 2.35 (1.58) 1.85 (0.96) 1.54 (0.80) Muslim 1.89 (1.57) 1.09 (0.71) 0.75 (0.49) Other Religions 1.15 (1.58) 0.23 (0.26) 0.14 (0.14) Gender 0.59 (0.17) 0.81 (0.18) 0.88 (0.19)
+
+Ethnicity (Others 5 RC) Akan 0.35 (0.28) 0.63 (0.35) 0.51 (0.27) Ewe 0.23 (0.20) 0.25 (0.15)* 0.17 (0.11)** Ga/Adangbe 0.35 (0.31) 0.92 (0.63) 0.44 (0.28) Dagomba 0.27 (0.17)* 0.57 (0.31) 1.34 (0.78)
+
+Age (66þ 5 RC) 18–35 years 0.65 (0.50) 0.51 (0.31) 0.50 (0.30) 36–65 years 0.81 (0.63) 0.62 (0.39) 0.70 (0.43) Model Fit 345.67*** 302.25*** 373.15*** R2 47% 33% 36% Note(s): Standard errors in parentheses, RC 5 Reference Categories. *p < 0.05, **p < 0.01, ***p < 0.001 Source(s): Table 4 by author Table 4.
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+President MPs MMDCEs
+
+No Trust Trust
+
+Source(s): Figure 3 compiled by author using data from the Afro-barometer round 7 survey Figure by author
+
+Figure 3. Distribution of respondents based on trust and performance of public leaders in Ghana (Citizens trust in public leaders in Ghana)
+
+Predictors of citizens’ trust
+
+199
+
+Predictors of citizens’ trust in the president Table 4-Model 1 examines the predictors of citizens’ trust in the president. Overall, the model was significant and explained about 47% of the variance in the data. According to Model 1, the performance of the president positively influences citizens’ trust in the president. Empirical evidence from previous studies suggests that a leader’s performance, that is to say, the competence/ability of the president, influences citizens’ trust (Mayer et al., 1995; Rosen and Jerdee, 1977). The present result lends support to hypothesis one of this study, that leaders’ performance will influence citizens’ trust in Ghana. Additionally, the present results indicate that citizens’ trust in the information from the private media, the handling of the economy, trust in religious leaders, reporting corruption
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+President MPs MMDCEs
+
+Strongly Disagree Disagree
+
+Agree Strongly Agree
+
+Source(s): Figure 4 compiled by author using data from the Afro-barometer round 7 survey Figure by author
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+120%
+
+Strongly Disapprove Disapprove Approve Strongly Approve
+
+No Trust Trust
+
+Source(s): Compiled by author using data from the Afro-barometer round 7 survey Figure by author
+
+Figure 4. Distribution of respondents based on trust and performance of public leaders in Ghana (Citizens view of public leaders performance)
+
+Figure 5. Trust in public leaders (President, MPs and MMDCEs) by performance in Ghana (Trust in the president by performance)
+
+IJPL 19,3
+
+200
+
+without retaliation, affiliation to the NPP and other parties, and the Dagomba were significant predictors of citizens’ trust in the president. This result is consistent with empirical evidence from previous studies examining the predictors of citizens’ trust in leaders (Beslin and Reddin, 2004; Drewry, 1999; Fairholm et al., 2018; Rothstein and Teorell, 2008). The present result supports hypothesis two, whereby communication influences trust in leaders, and hypothesis three, that the socio-demographic characteristics of citizens’ influence trust in leaders.
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Strongly Disapprove Disapprove Approve Strongly Approve
+
+No Trust Trust
+
+Source(s): Compiled by author using data from the Afro-barometer round 7 survey Figure by author
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Strongly Disapprove Disapprove Approve Strongly Approve
+
+No Trust Trust Source(s): Compiled by author using data from the Afro-barometer round 7 survey Figure by author
+
+Figure 6. Trust in public leaders (President, MPs and MMDCEs) by performance in Ghana (Trust in MPs by performance)
+
+Figure 7. Trust in public leaders (President, MPs and MMDCEs) by performance in Ghana (Trust in MMDCEs by performance)
+
+Predictors of citizens’ trust
+
+201
+
+Predictors of citizens’ trust in MPs Table 4-Model 2 examines the predictors of citizens’ trust in MPs. This model was significant and explains approximately 33% of the variance in the data. The result from this model shows that the performance of MPs positively influences citizens’ trust in MPs. This result is consistent with empirical evidence from previous studies (Mayer et al., 1995; Rosen and Jerdee, 1977) and supports hypothesis one of this study that the performance of leaders will influence citizens’ trust. Furthermore, the present results reveal that citizens’ trust in information from the public media, discrimination, access to facilities, trust in traditional and religious leaders, primary/ secondary education and Ewe were significant predictors of citizens’ trust in MPs in Ghana. This result is consistent with evidence from previous studies (Beslin and Reddin, 2004; Drewry, 1999; Fairholm et al., 2018; Rothstein and Teorell, 2008) and lends support to hypotheses two and three.
+
+Predictors of citizens’ trust in MMDCEs Table 4-Model 3 examines the predictors of citizens’ trust in MMDCEs. This model was significant and explained about 36% of the variation in the data. The results revealed that the performance of MMDCEs positively influences citizens’ trust in these leaders. Previous studies have found similar results (Mayer et al., 1995; Rosen and Jerdee, 1977), which provides support for hypothesis one of this study, namely, the performance of leaders influences citizens’ trust in leaders. Moreover, the results reveal that the corruption of religious leaders, citizens’ trust in information from the private media, discrimination, trust in traditional and religious leaders and Ewe were significant predictors of citizens’ trust in MMDCEs in Ghana. Similar evidence can be found in the extant literature (Beslin and Reddin, 2004; Drewry, 1999; Fairholm et al., 2018; Rothstein and Teorell, 2008), which supports hypotheses two and three.
+
+Discussion and conclusion The primary goal of this research was to examine the predictors of citizens’ trust in three categories of public leaders in Ghana: the president, MPs and MMDCEs. Specifically, the study examines the effect of competence or ability, that is, the performance of leaders, and other variables on citizens’ trust in these leaders. Data from the 2016–2018 Afro-barometer survey about Ghana, with approximately two thousand and four hundred responses, was obtained and analyzed in accordance with this study’s three research objectives. Several intriguing and important observations were made worth discussing. The results suggest that Ghanaians show significantly high levels of trust toward the three categoriesof leadersexamined inthisstudy.Several factors mightaccountfor this trendamong Ghanaians. However, this study posits that the election of the current president, i.e. AkuffoAddo, in 2016 and the change of power from the NDC to the NPP contributed to this trend. New governments often enjoy significant goodwill and high levels of trust from the public in their firstyear ofgovernance (Sheppardet al., 1992; Rogers, 1995). Although thisstudy was unableto control for the effect of the change in power on citizens’ trust in these leaders. More research is needed to account for the effect of this variable on citizens’ trust in leaders. Furthermore, Ghanaians advocate for the president, MPs and MMDCEs to perform well in their roles. More specifically, the performance of the president was significantly higher compared to that of MPs and MMDCEs. This finding can be explained by the lack of political decentralization, the appointment of two-thirds of MPs as ministers, the president’s appointment of MMDCEs, and other factors that lead to citizens attributing these leaders’ performance to that of the president (Dzordzormenyoh et al., 2022; Bauer and Darkwah, 2022; Ohemeng et al., 2020).
+
+IJPL 19,3
+
+202
+
+Furthermore, it was revealed that competence/ability, that is to say, the performance of the three categories of leaders, strongly influence citizens’ trust in these leaders. Citizens’ participation and expectations in Ghana continue to rise as democratic governance improves (Adu-Owusu, 2023; Arhinful, 2022). The public’s expectations of the president, MPs and MMDCEs continue to rise. The ability of these leaders to meet some or most of these expectations influences citizens’ trust in these leaders. Past and present leaders in Ghana have experienced public uproar due to poor performance and failure to meet the expectations of citizens. Recent “FixTheCountry” hashtags and demonstrations, for example, attest to this (see BBC, 2021; Nartey and Yu, 2023). Additionally, although media freedom and communication have improved a great deal in Ghana since the inception of the Fourth Republic, there are still some concerns. The abuse of journalists and the perception that the government controls both the public and private media continues to influence interaction between leaders and citizens (Agyemang-Asante, 2022; Tettey, 2001; Moehler and Singh, 2011). This study recommends that the current and successive governments reduce the arrest and detention of journalists without due process, as well as implement intentional policies geared toward dispelling the negative public perception that the media is a puppet of the ruling class. Moreover, the results show that ethnicity influences citizens’ trust in these leaders. Ethnicity has been observed to play a vital role in Ghanaian politics since independence in 1957 (Bob-Milliar, 2011; Kelly, 2009; Nugent, 2001). These might explain why Ewes’ and Dagombas, who are pro-NDC, might show negative trust toward these leaders during the NPP government. Since this research could not account for the effect of changes in government on citizens’ trust, future studies can further investigate this result and add nuance to existing literature. To improve trust in the president, MPs and MMDCEs, this study provides the following recommendations: (1) leaders must enhance their performance; (2) improving the integrity of leaders will increase citizens’ trust in leaders; (3) effective communication with citizens will increase citizens’ trust in leaders; and (4) shifting the political discussion in Ghana away from ethnic cleavages to focus on policy ideas can increase citizens’ trust in leaders. Despite the intriguing and important results of this study, there are some limitations worth mentioning. The first limitation deals with the desirability bias associated with using secondary data. According to Boateng et al. (2022), desirability bias can affect the overall results and is beyond the control of researchers. Therefore, readers are cautioned against extrapolating the results beyond the scope of this study. The second limitation deals with the study’s inability to control for the impact of the change of government in 2016 on citizens’ trust in leaders in Ghana. To add nuance to the current literature, future studies should account for government change and its impact on trust in leaders. Finally, the third limitation deals with the omission of certain variables, such as the income and marital status of citizens, from the data and the present analysis. The inclusion of these variables in future studies is highly recommended. To address the limitations of this research, the following recommendations are provided for future studies: First, conducting the same research using a qualitative approach can expand on the findings discussed above. Second, reassessing and measuring change in government and leadership and its influence on citizens’ trust in the president, MPs and MMDCEs should be a priority for new studies on leadership and trust in Ghana. Third, expanding on and including variables not included in this analysis can help add nuance to understanding the predictors of citizens trust in Ghana. Future endeavors by researchers should focus on including omitted variables in their analysis. In sum, scholarship has addressed trust in several domains. The message has consistently been that trust matters. Yet, there are no universally accepted definitions of trust, and the predictors of trust have remained inconclusive and inconsistent. This article addressed these
+
+Predictors of citizens’ trust
+
+203
+
+deficiencies by examining citizens trust in three public leaders—the president, MPs and MMDCEs—in Ghana and the predictors of such trust. This examination shows that trust across leadership domains is similar but also distinct. Across leadership domains, citizens tend to trust the president and MPs slightly more than MMDCEs. Importantly, the performance of leaders is a common factor found to influences citizens’ trust across leadership domains. However, with the other predictors, variations exist across the leadership domains examined. Efforts to increase citizens trust in Ghana are likely to succeed when they expressly improve the performance of leaders as well as other variables found in this study to influence trust.
+
+References
+
+Adu-Owusu, P. (2023), “Ghana’s economic crisis not because somebody mismanaged the economy – Dr Mohammed Amin”, MyJoyOnline (February 23rd), available at: https://www.myjoyonline. com/ghanas-economic-crisis-not-because-somebody-mismanaged-the-economy-dr-mohammedamin/ (accessed 20 March 2023).
+
+Agomor, K.S., Adams, S. and Taabazuing, J. (2019), “Rethinking Ghana’s decentralization: citizens’ views on the question of electing or appointing a district political head”, Journal of Asian and African Studies, Vol. 54 No. 1, pp. 104-117.
+
+Agomor, K.S., Adams, S. and Asante, W. (2020), “Anatomy of Ghana’s parliamentary elections and democratic consolidation”, Journal of Contemporary African Studies, Vol. 38 No. 3, pp. 399-414.
+
+Agyemang-Asante, A.N. (2022), “How free is Ghana’s media”, available at: https://reutersinstitute. politics.ox.ac.uk/how-free-ghanas-media (accessed 20 March 2023).
+
+Albrecht, S. and Travaglione, A. (2003), “Trust in public-sector senior management”, International Journal of Human Resource Management, Vol. 14 No. 1, pp. 76-92.
+
+Ali, H.E. and Bhuiyan, S. (2022), “Institutional reforms, governance, and services delivery in the global south”, in Ali, H.E. and Bhuiyan, S. (Eds), Institutional Reforms, Governance, and Services Delivery in the Global South. International Series on Public Policy, Palgrave Macmillan, Cham.
+
+Antwi-Boasiako, K.B. (2010), “Public administration: local government and decentralization in Ghana”, Journal of African Studies and Development, Vol. 2 No. 7, pp. 166-175.
+
+Appiah-Agyekum, N.N., Boachie Danquah, N.Y. and Sakyi, E.K. (2013), “Local government finance in Ghana: disbursement and utilisation of the MPs share of the district assemblies common fund”, Commonwealth Journal of Local Governance, No. 12, pp. 90-109.
+
+Arhinful, E. (2022), “I know Ghanaians are suffering – Akufo-Addo”, (October 18), available at: https:// www.myjoyonline.com/i-know-ghanaians-are-suffering-akufo-addo/ (accessed 20 March 2023).
+
+Ayee, J.R. (2017), “Ghana’s elections of 7 December 2016: a post-mortem”, South African Journal of International Affairs, Vol. 24 No. 3, pp. 311-330.
+
+Bachmann, R. (1998), “Trust-conceptual aspects of a complex phenomenon”, Trust within and between Organizations. Conceptual Issues and Empirical Applications, Oxford University Press, pp. 298-322.
+
+Bachmann, R. (2011), “At the crossroads: future directions in trust research”, Journal of Trust Research, Vol. 1 No. 2, pp. 203-213.
+
+Bauer, G. (2018), “‘Did you see what happened to the market women?’ Legacies of military rule for women’s political leadership in Ghana?”, Contemporary Journal of African Studies, Vol. 5 No. 1, pp. 31-59.
+
+Bauer, G. and Darkwah, A.K. (2022), “The president’s prerogative”? The cabinet appointment process in Ghana and the implications for gender parity”, Politics and Gender, Vol. 18 No. 2, pp. 546-573.
+
+Beslin, R. and Reddin, C. (2004), “How leaders can communicate to build trust”, Ivey Business Journal, Vol. 69 No. 2, pp. 1-6.
+
+IJPL 19,3
+
+204
+
+Bigley, G.A. and Pearce, J.L. (1998), “Straining for shared meaning in organization science: problems of trust and distrust”, Academy of Management Review, Vol. 23 No. 3, pp. 405-421.
+
+Bijlsma-Frankema, K. and Costa, A.C. (2005), “Understanding the trust-control nexus”, International Sociology, Vol. 20 No. 3, pp. 259-282.
+
+Boateng, F.D., Dzordzormenyoh, M.K. and Cavalcante, D. (2022), “Citizens’ attitudes toward legal authorities in Brazil: examining the impact of crime, insecurity, and corruption”, Journal of Criminology, Vol. 55 No. 4, pp. 604-620.
+
+Bob-Milliar, G.M. (2011), “‘Te Nyɔgeyeng Gbengbeng!’(‘We are holding the Umbrella very tight!’): explaining the popularity of the Ndc in the Upper West region of Ghana”, Africa, Vol. 81 No. 3, pp. 455-473.
+
+Bok, D. (1997), “Measuring the performance of government”, in Nye, J.S. Jr, Zelikow, P.D. and King, D.C. (Eds), Why People Don’t Trust Government, Harvard University Press, Cambridge, MA, pp. 55-76.
+
+Bok, D. (2001), The Trouble with Government, Harvard University Press, Cambridge, MA.
+
+Bouckaert, G., Van de Walle, S., Maddens, B. and Kampen, J.K. (2002), Identity vs Performance: an Overview of Theories Explaining Trust in Government, Belgium: Public Management Institute, Katholieke Universiteit Leuven.
+
+Brehm, J. and Rahn, W. (1997), “Individual-level evidence for the causes and consequences of social capital”, American Journal of Political Science, Vol. 41 No. 3, pp. 999-1023.
+
+Brierley, S. and Ofosu, G. (2014), “The presidential and parliamentary elections in Ghana, December 2012”, Electoral Studies, Vol. 35, pp. 382-385.
+
+British Broadcasting Corporation (2021), “Fix the Country Ghana: Ghanaians hit de streets with protest today”, see Fotos (August 4), available at: https://www.bbc.com/pidgin/tori-58083964 (accessed 20 March 2023).
+
+Burke, C.S., Sims, D.E., Lazzara, E.H. and Salas, E. (2007), “Trust in leadership: a multi-level review and integration”, The Leadership Quarterly, Vol. 18 No. 6, pp. 606-632.
+
+Butler, J.K. Jr (1999), “Trust expectations, information sharing, climate of trust, and negotiation effectiveness and efficiency”, Group and Organization Management, Vol. 24 No. 2, pp. 217-238.
+
+Campbell, W.R. (2004), “The sources of institutional trust in East and West Germany: civic culture or economic performance?”, German Politics, Vol. 13 No. 3, pp. 401-418.
+
+Cao, L. (2015), “Differentiating confidence in the police, trust in the police, and satisfaction with the police”, Policing: An International Journal of Police Strategies and Management, Vol. 38 No. 2, pp. 239-249.
+
+Castaldo, S., Premazzi, K. and Zerbini, F. (2010), “The meaning (s) of trust. A content analysis on the diverse conceptualizations of trust in scholarly research on business relationships”, Journal of Business Ethics, Vol. 96, pp. 657-668.
+
+Castelfranchi, C. and Falcone, R. (2010), Trust Theory: A Socio-Cognitive and Computational Model, Wiley, Chichester.
+
+Citi Newsroom (2017), “Gov’t size: Akuffo-Addo vrs. Mahama [Infographic]”, available at: https:// citifmonline.com/2017/03/govt-size-akufo-addo-vrs-mahama-infographic/ (accessed 6 February 2022)
+
+Cook, K.S. (2005), “Networks, norms, and trust: the social psychology of social capital 2004 cooley mead award address”, Social Psychology Quarterly, Vol. 68, pp. 4-14.
+
+Cook, J. and Wall, T. (1980), “New work attitude measures of trust, organizational commitment and personal need non-fulfilment”, Journal of Occupational Psychology, Vol. 53 No. 1, pp. 39-52.
+
+Coulson, A. (Ed.) (1998), Trust and Contracts: Relationships In Local Government, Health and Public Services, Policy Press, Bristol.
+
+Predictors of citizens’ trust
+
+205
+
+Daddieh, C.K. (2009), “The presidential and parliamentary elections in Ghana, December 2008”, Electoral Studies, Vol. 4 No. 28, pp. 642-647.
+
+Dietz, G. and Den Hartog, D.N. (2006), “Measuring trust inside organisations”, Personnel Review, Vol. 35, pp. 557-588.
+
+Drewry, G. (1999), “Book review: trusts and contracts, relationships in local government, health and public services”, Teaching Public Administration, Vol. 19 No. 1, pp. 69-70.
+
+Dzordzormenyoh, M.K. (2022), “Effective local government council leadership: reassessing the facilitative model of leadership”, International Journal of Public Leadership, Vol. 18 No. 3, pp. 229-241.
+
+Dzordzormenyoh, M.K., Boateng, F.D. and Domeh, J.O. (2022), Local Government in Ghana: Exploring the Factors that Predict Public Attitudes towards Local Government Elections in Ghana, Local Development and Society, Taylor & Francis, Milton Park, Oxfordshire, pp. 1-17.
+
+Eagly, A.H. and Chaiken, S. (2007), “The advantages of an inclusive definition of attitude”, Social Cognition, Vol. 25 No. 5, pp. 582-602.
+
+Earle, T.C. (2010), “Trust in risk management: a model-based review of empirical research”, Risk Analysis: An International Journal, Vol. 30 No. 4, pp. 541-574.
+
+Earle, T.C., Siegrist, M. and Gutscher, H. (2007), “Trust, risk perception and the TCC model of cooperation”, in Siegrist, M., Earle, T.C. and Gutscher, H. (Eds), Trust in Cooperative Risk Management: Uncertainty and Scepticism in the Public Mind, pp. 1-49.
+
+Fairholm, M.R., Dzordzormenyoh, M.K. and Binda, G.A. (2018), “Trust-culture leadership in local public administrators’ work”, International Journal of Public Leadership, Vol. 14 No. 4, pp. 260-273.
+
+Fink, M., Harms, R. and M€ollering, G. (2010), “Introduction: a strategy for overcoming the definitional struggle”, The International Journal of Entrepreneurship and Innovation, Vol. 11 No. 2, pp. 101-105.
+
+Frederiksen, M. (2012), “Dimensions of trust: an empirical revisit to Simmel’s formal sociology of intersubjective trust”, Current Sociology, Vol. 60 No. 6, pp. 733-750.
+
+Fulmer, C.A. and Gelfand, M.J. (2012), “At what level (and in whom) we trust: trust across multiple organizational levels”, Journal of Management, Vol. 38 No. 4, pp. 1167-1230.
+
+Gambetta, D. (1998), “Can we trust trust?”, in Gambetta, D. (Ed.), Trust: Making and Breaking Cooperative Relations, Basil Blackwell, Oxford, pp. 213-238.
+
+Giddens, A. (1990), The Consequences of Modernity, Stanford University Press, Stanford, CA.
+
+Granovetter, M.S. (1973), “The strength of weak ties”, American Journal of Sociology, Vol. 78 No. 6, pp. 1360-1380.
+
+Granovetter, M. (1985), “Economic action and social structure: the problem of embeddedness”, American Journal of Sociology, Vol. 91 No. 3, pp. 481-510.
+
+Hardin, R. (2006), Trust, Polity Press, Malden, MA.
+
+Hosmer, L.T. (1995), “Trust: the connecting link between organizational theory and philosophical ethics”, Academy of Management Review, Vol. 20 No. 2, pp. 379-403.
+
+Kelly, B. (2009), “The Ghanaian election of 2008”, Review of African Political Economy, Vol. 36 No. 121, pp. 441-450.
+
+Kerr, N. and Wahman, M. (2021), “Electoral rulings and public trust in African courts and elections”, Comparative Politics, Vol. 53 No. 2, pp. 257-290.
+
+Khodyakov, D. (2007), “Trust as a process: a three-dimensional approach”, Sociology, Vol. 41 No. 1, pp. 115-132.
+
+Kim, J.Y. (2005), “‘Bowling together’ isn’t a cure-all: the relationship between social capital and political trust in South Korea”, International Political Science Review, Vol. 26 No. 2, pp. 193-213.
+
+IJPL 19,3
+
+206
+
+Kong, D.T. (2014), “Perceived competence and benevolence of political institutions as culturally universal facilitators of political trust: evidence from Arab countries”, Cross-Cultural Research, Vol. 48 No. 4, pp. 385-399.
+
+Kramer, R.M. (1999), “Trust and distrust in organizations: emerging perspectives, enduring questions”, Annual Review of Psychology, Vol. 50 No. 1, pp. 569-598.
+
+Kumah-Abiwu, F. and Abidde, S.O. (Eds) (2022), Jerry John Rawlings: Leadership and Legacy: A PanAfrican Perspective, Springer Nature.
+
+Lane, C. (1998), “Introduction: theories and issues in the study of trust”, in Lane, C. and Bachmann, R. (Eds), Trust within and between Organizations: Conceptual Issues and Empirical Applications, Oxford University Press, Oxford, pp. 1-30.
+
+Larzelere, R.E. and Huston, T.L. (1980), “The dyadic trust scale: toward understanding interpersonal trust in close relationships”, Journal of Marriage and the Family, Vol. 42 No. 3, pp. 595-604.
+
+Levi, M. and Stoker, L. (2000), “Political trust and trustworthiness”, Annual Review of Political Science, Vol. 3 No. 1, pp. 475-507.
+
+Lewicki, R.J., McAllister, D.J. and Bies, R.J. (1998), “Trust and distrust: new relationships and realities”, Academy of Management Review, Vol. 23 No. 3, pp. 438-458.
+
+Lewis, J.D. and Weigert, A.J. (2012), “The social dynamics of trust: theoretical and empirical research, 1985-2012”, Social Forces, Vol. 91 No. 1, pp. 25-31.
+
+Li, P.P. (2007), “Towards an interdisciplinary conceptualization of trust: a typological approach”, Management and Organization Review, Vol. 3 No. 3, pp. 421-445.
+
+Li, P.P. (2015), “Trust as a leap of hope for transaction value: a two-way street above and beyond trust propensity and expected trustworthiness”, in Bornstein, B.H. and Tomkins, A.J. (Eds), Motivating cooperation and compliance with authority: The role of institutional trust (Vol. 62nd Nebraska Symposium on Motivation, Springer, New York, pp. 37-53.
+
+Malunga, C. (2006), “Learning leadership development from African cultures: a personal perspective”, Intrac PraxisNote, Vol. 25, pp. 1-13.
+
+Mayer, R.C. and Davis, J.H. (1999), “The effect of the performance appraisal system on trust for management: a field quasi-experiment”, Journal of Applied Psychology, Vol. 84 No. 1, pp. 123-136.
+
+Mayer, R.C., Davis, J.H. and Schoorman, F.D. (1995), “An integrative model of organizational trust”, Academy of Management Review, Vol. 20 No. 3, pp. 709-734.
+
+Mbigi, L. (2007), “Spirit of African leadership: a comparative African perspective”, Diversity: New Realities in a Changing World, pp. 294-303, available at: http://ndl.ethernet.edu.et/bitstream/ 123456789/68750/1/55.pdf#page5311 (accessed 06 February 2023).
+
+McEvily, B. (2011), “Reorganizing the boundaries of trust: from discrete alternatives to hybrid forms”, Organization Science, Vol. 22 No. 5, pp. 1266-1276.
+
+McFall, L. (1987), “Integrity”, Ethics, Vol. 98 No. 1, pp. 5-20.
+
+McKnight, D.H. and Chervany, N.L. (2001), “What trust means in e-commerce customer relationships: an interdisciplinary conceptual typology”, International Journal of Electronic Commerce, Vol. 6 No. 2, pp. 35-59.
+
+Metlay, D. (2013), “Institutional trust and confidence: a journey into a conceptual quagmire”, Social Trust and the Management of Risk, Routledge, pp. 114-130.
+
+M€ollering, G. (2006), Trust: Reason, Routine, Reflexivity, Emerald Group Publishing, Bingley.
+
+M€ollering, G., Bachmann, R. and Hee Lee, S. (2004), “Introduction: understanding organizational trust– foundations, constellations, and issues of operationalisation”, Journal of Managerial Psychology, Vol. 19 No. 6, pp. 556-570.
+
+Moehler, D.C. and Singh, N. (2011), “Whose news do you trust? Explaining trust in private versus public media in Africa”, Political Research Quarterly, Vol. 64 No. 2, pp. 276-292.
+
+Predictors of citizens’ trust
+
+207
+
+Nannestad, P. (2008), “What have we learned about generalized trust, if anything?”, Annual Review of Political Science, Vol. 11, pp. 413-436.
+
+Nartey, M. and Yu, Y. (2023), “A discourse analytic study of# FixTheCountry on Ghanaian Twitter”, Social Mediaþ Society, Vol. 9 No. 1, 20563051221147328.
+
+Newton, K. (2001), “Trust, social capital, civil society, and democracy”, International Political Science Review, Vol. 22 No. 2, pp. 201-214.
+
+Nugent, P. (2001), “Ethnicity as an explanatory factor in the Ghana 2000 elections”, African Issues, Vol. 29 Nos 1-2, pp. 2-7.
+
+Nyendu, M. (2012), “Democratic decentralization in Ghana: the need for a policy review”, Journal of Asian and African Studies, Vol. 47 No. 2, pp. 221-235.
+
+Ohemeng, F.L., Obuobisa Darko, T. and Amoako-Asiedu, E. (2020), “Bureaucratic leadership, trust building, and employee engagement in the public sector in Ghana: the perspective of social exchange theory”, International Journal of Public Leadership, Vol. 16 No. 1, pp. 17-40.
+
+Owusu, G. (2004), “Small towns and decentralised development in Ghana: theory and practice”, Africa Spectrum, Vol. 39 No. 2, pp. 165-195.
+
+Parliament of Ghana (2022), “Overview”, available at: https://www.parliament.gh/mps (accessed 06 February 2023).
+
+Pillay, P. (2017), “Public trust and good governance: a comparative study of Brazil and South Africa”, African Journal of Public Affairs, Vol. 9 No. 8, pp. 31-47.
+
+Putman, R.D. (2000), Bowling Alone: The Collapse and Revival of American Community, Simon & Schuster, New York, NY.
+
+PytlikZillig, L.M. and Kimbrough, C.D. (2016), “Consensus on conceptualizations and definitions of trust: are we there yet?”, in Shockley, E., Neal, T.M., PytlikZillig, L.M. and Bornstein, B.H. (Eds.), Interdisciplinary Perspectives on Trust: Towards Theoretical and Methodological Integration, Springer, New York, NY, pp. 17-47, available at: https://static1.squarespace.com/static/ 5d1e94a2108c4a0001facaa4/t/62314ba4699e4c23819406b5/1647397800911/Interdisciplinary% 2BPerspectives%2Bon%2BTrust.pdf#page532 (accessed 3 May 2023).
+
+Rogers, R.W. (1995), “The psychological contract of trust–part I”, Executive Development, Vol. 8 No. 1, pp. 15-19.
+
+Rosen, B. and Jerdee, T.H. (1977), “Influence of subordinate characteristics on trust and use of participative decision strategies in a management simulation”, Journal of Applied Psychology, Vol. 62 No. 5, pp. 628-631.
+
+Rothstein, B.O. and Teorell, J.A. (2008), “What is quality of government? A theory of impartial government institutions”, Governance, Vol. 21 No. 2, pp. 165-190.
+
+Rousseau, D.M., Sitkin, S.B., Burt, R.S. and Camerer, C. (1998), “Not so different after all: a crossdiscipline view of trust”, Academy of Management Review, Vol. 23 No. 3, pp. 393-404.
+
+Schoorman, F.D., Wood, M.M. and Breuer, C. (2015), “Would trust by any other name smell as sweet? Reflections on the meanings and uses of trust across disciplines and context”, in Bornstein, B.H. and Tomkins, A.J. (Eds), Motivating Cooperation and Compliance with Authority: The Role of Institutional Trust, pp. 13-35.
+
+Secor, A.J. and O’Loughlin, J. (2004), “Social and political trust in Istanbul and Moscow: a comparative analysis of individual and neighbourhood effects”, Transactions of the Institute of British Geographers, Vol. 30 No. 1, pp. 66-82.
+
+Sheppard, B.H., Lewicki, R.J. and Minton, J.W. (1992), Organizational Justice: The Search for Fairness in the Workplace, Lexington Books/Macmillan, New York.
+
+Sitkin, S.B. and Roth, N.L. (1993), “Explaining the limited effectiveness of legalistic ‘remedies’ for trust/ distrust”, Organization Science, Vol. 4 No. 3, pp. 367-392.
+
+Tan, H.H. and Tan, C.S. (2000), “Toward the differentiation of trust in supervisor and trust in organization”, Genetic, Social, and General Psychology Monographs, Vol. 126 No. 2, pp. 241-260.
+
+IJPL 19,3
+
+208
+
+Tandoh-Offin, P. (2011), “Substantive representation of women: the case of Ghana’s Domestic Violence Law of 2007”, Doctoral dissertation, Clemson University.
+
+Tettey, W.J. (2001), “The media and democratization in Africa: contributions, constraints and concerns of the private press”, Media, Culture and Society, Vol. 23 No. 1, pp. 5-31.
+
+Tyler, T.R. and Kramer, R.M. (1996), “Whither trust”, Trust in Organizations: Frontiers of Theory and Research, Vol. 1, p. 15.
+
+Uslaner, E. (2002), The Moral Foundations of Trust, Cambridge University Press, Cambridge.
+
+Van de Walle, S., Van Roosbroek, S. and Bouckaert, G. (2008), “Trust in the public sector: is there any evidence for a long-term decline?”, International Review of Administrative Sciences, Vol. 74 No. 1, pp. 47-64.
+
+Van Gyampo, R.E. (2015), “Dealing with Ghana’s winner-takes-all politics: the case for an independent Parliament”, The African Review: A Journal of African Politics, Development and International Affairs, Vol. 42 No. 2, pp. 63-75.
+
+Van Gyampo, R.E. (2017), “The state of electoral reforms in Ghana”, Africa Spectrum, Vol. 52 No. 3, pp. 95-109.
+
+Vigoda-Gadot, E. and Mizrahi, S. (2014), Managing Democracies in Turbulent Times: Trust, Performance, and Governance in Modern States, Springer, New York.
+
+Welzel, C. and Dalton, R. (2016), “The secret of better government? Citizens who complain”, Democratic Audit UK, available at: https://eprints.lse.ac.uk/80519/1/democraticaudit.com-The% 20secret%20of%20better%20government%20Citizens%20who%20complain.pdf (accessed 06 February 2023).
+
+Williamson, O.E. (1993), “Calculativeness, trust, and economic organization”, The Journal of Law and Economics, Vol. 36 No. 1, Part 2, pp. 453-486.
+
+Yeboah-Assiamah, E. (2016), “Power to the people! How far has the power gone to the people? A qualitative assessment of decentralization practice in Ghana”, Journal of Asian and African Studies, Vol. 51 No. 6, pp. 683-699.
+
+Zucker, L.G. (1986), “Production of trust: institutional sources of economic structure, 1840– 1920”, Research in Organizational Behavior, No. 8, pp. 53-111.
+
+About the author Michael K. Dzordzormenyoh (Ph.D.) is an Assistant Professor in the Department of Political Science and a faculty affiliate at the Center for Africa Studies at the Kent State University. Michael holds a bachelor’s degree in political science from the University of Ghana. A master’s degree in applied politics from the University of Akron, USA. He obtained his Ph.D. in Political Science from the University of South Dakota, USA. Dr Dzordzormenyoh’s research interest is in comparative public inequality and social injustice issues related to public policy and administration, elections, immigration, criminal justice and leadership. Michael K. Dzordzormenyoh can be contacted at: mdzordzo@kent.edu
+
+For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm Or contact us for further details: permissions@emeraldinsight.com
+
+Predictors of citizens’ trust
+
+209

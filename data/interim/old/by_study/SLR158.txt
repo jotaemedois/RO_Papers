@@ -1,0 +1,417 @@
+European Journal of Political Research 55: 81–99, 2016 81
+
+doi: 10.1111/1475-6765.12119
+
+House or home? Constituent preferences over legislator effort allocation
+
+NICK VIVYAN1 & MARKUS WAGNER2
+
+1Durham University, UK; 2University of Vienna, Austria
+
+Abstract. In many political systems legislators face a fundamental trade-off between allocating effort to constituency service and to national policy-making activities, respectively. How do voters want their elected representatives to solve this trade-off? This article provides new insights into this question by developing a conjoint analysis approach to estimating voters’ preferences over their legislator’s effort allocation. This approach is applied in Britain, where it is found that effort allocation has a significant effect on voter evaluations of legislators, even in a political system where other legislator attributes – in particular,party affiliation – might be expected to predominate.This effect is nonlinear,with voters generally preferring a moderate balance of constituency and national policy work. Preferences over legislator effort allocation are not well-explained by self-interest or more broadly by instrumental considerations. They are, however, associated with voters’ local-cosmopolitan orientation, suggesting that heuristic reasoning based on underlying social dispositions may be more important in determining preferences over representative activities.
+
+Keywords: conjoint analysis; constituency service; effort allocation; home styles; instrumental reasoning
+
+Introduction
+
+A fundamental decision that legislators in many political systems must make is how to allocate their limited resources between national policy work and constituency service. In his landmark study of United States legislator ‘home styles’, Fenno (1978: 33) observed an ‘omnipresent and severe’ tension between these two broad types of activity, the first centred on the national legislature and involving committee membership, plenary debates and casting votes on legislation and the second centred on the legislator’s district, helping individual constituents with problems (‘case work’) or promoting the interests of larger groups of constituents (‘project work’). Since Fenno’s study, political scientists have developed a good understanding of how parliamentary representatives in various democracies divide their attention and effort between national policy work and constituency service (e.g., André et al. 2015; Brouard et al. 2013; Butler et al. 2012; Cain et al. 1987; Heitshusen et al. 2005; Norton & Wood 1993).
+
+We know much less, however, about how voters view the trade-off between their representative’s national policy work and constituency service. Existing survey research shows how voters rank legislators’ constituency and national policy-oriented activities in terms of importance (e.g., Cain et al. 1987: Chapter 1; Cowley 2013; Grant & Rudolph 2004; Griffin & Flavin 2011; Méndez-Lago & Martínez 2002), but does not tell us about the balance of constituency service and national policy work that voters want. Moreover, it remains unclear whether voters really care about representatives’ effort allocation when compared to other legislator attributes – for example, party affiliation – or whether voters
+
+C⃝2015 European Consortium for Political Research
+
+82 NICK VIVYAN & MARKUS WAGNER
+
+care about effort allocation only inasmuch as it serves as a proxy for other legislator attributes.
+
+Advancing our understanding of these voter preferences is important because it allows us to better evaluate whether legislators’ effort allocation decisions correspond to the wishes of their constituents (Grant & Rudolph 2004; Griffin & Flavin 2011). A lack of such correspondence could lead to voter dissatisfaction not just with individual representatives, but also with the political system more broadly (Bowler & Karp 2004).
+
+In this article, we contribute by developing and implementing a new approach to the estimation of popular preferences over the trade-off between constituency service and national policy work. We present the results of two conjoint analysis survey experiments (Green et al.2001;Hainmueller et al.2014) in which representative samples of British voters were asked to choose between pairs of hypothetical local Members of Parliament (MPs) who varied on several attributes, including their allocation of effort to constituency service and national policy work.
+
+Our empirical strategy has important advantages. Compared to an observational study of MP constituency effort and subsequent electoral performance,an experimental approach dramatically reduces concerns about endogeneity and measurement error. Compared to existing survey-based approaches, a conjoint analysis approach yields valuable additional information regarding: the mix of constituency and national policy work that constituents prefer (not just their rank ordering of different activities); the extent to which constituents care about this trade-off when it is just one of various politically salient MP attributes; and whether preferences over constituency service versus national policy are conditional on other MP attributes.
+
+We find that British voters do care about how their legislative representatives allocate effort between national policy work and constituency service.Even though our hypothetical MPs varied on several other potentially important attributes, voters’ choices between MPs were significantly influenced by the time those MPs allocated to constituency and national policy work, respectively. Crucially, even in a party-dominated system such as Britain, partisan considerations did not overwhelm concerns about individual MP effort allocation, suggesting that this attribute is also likely to matter for voter evaluations in less party-dominated systems, such as the United States. Moreover, our conjoint analysis results suggest that the importance voters attach to effort allocation does not result simply from the possibility that voters use a high level of constituency effort as a proxy for faithful representation of constituency policy preferences or independence from partisan politics.
+
+Interestingly, we find that the effect of increasing constituency attentiveness is nonlinear. Voters have a clear aversion to MPs who spend the minimum possible amount of time on constituency service, but prefer MPs who strike a moderate balance between constituency service and national policy work to MPs who spend the maximum possible amount of time on constituency service. This finding is difficult to reconcile with the notion that preferences over legislator home styles result from instrumental reasoning. Instead, we present initial evidence that demand for constituency service is associated with heuristic reasoning based on local-cosmopolitan orientation – that is, the extent to which they care about their local community or about broader groups such as the nation as a whole (Bechtel et al. 2014; Dye 1963).
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 83
+
+Expectations
+
+Should we expect voters to care about how their legislator allocates attention between constituency service and national policy work? Given that this decision fundamentally shapes a legislator’s representational style (Fenno 1978), it would make sense for voters to be concerned about it. Evidence from the United Kingdom and the United States suggests that legislators believe that their constituents care about how much effort they allocate to constituency service and that this allocative decision is consequential for their re-election prospects (Cain et al. 1987: 80–84) – a belief which is likely to be rooted in legislators’ own interactions with their constituents.This is also consistent with existing survey evidence that, when offered a list of activities undertaken by legislators, voters often rank constituencyoriented activities as important (Cain et al. 1987: Chapter 1; Cowley 2013; Grant & Rudolph 2004; Griffin & Flavin 2011; Méndez-Lago & Martínez 2002).
+
+However, the political world involves multidimensional judgments and choices, and voters may not place much weight on how their legislator divides his or her time when they simultaneously consider other attributes of that MP. In particular, voters may focus more on MP party affiliation rather than MP effort allocation. In a party-centric Westminster system such as the British one, many voters may only care about whether their MP occupies a seat in parliament for their preferred national party and therefore increases the chances of that party influencing policy or forming a government. Moreover, voters may sensibly use party affiliation as an information shortcut rather than having to collect and process other information about MPs (Ferejohn 1990). Beyond party affiliation, voters may also distinguish between representatives based on their dissent from their party line on policy (Carson et al. 2010; Kam 2009), their role interpretation as a trustee or delegate (Barker & Carman 2012; Bengtsson & Wass 2010; Carman 2006, 2007; Doherty 2013), their legislative experience (Jacobson 1989) and their gender (Sanbonmatsu 2002). Given that other attributes are important to voters, they may not care about effort allocation when they also have information about these other characteristics of legislators.
+
+A further issue is whether voters care about MP effort allocation itself or just perceive this as a signal – or ‘alias’ (Hainmueller et al.2014) – of some other attribute.One potentially ‘aliased’attribute is an MP’s trustee/delegate style of representation:voters may assume that an MP who devotes more time to constituency service will also more ardently represent constituents’ views in national policy debates. Another potentially ‘aliased’ attribute is MP independence from party: voters may assume that MPs who focus attention on Westminster are also party loyalists. Trustees and rebels are generally preferred by voters (e.g., Carson et al. 2010; Carman 2006), so we must distinguish preferences over MP constituency effort allocation from preferences over these other attributes.
+
+The key question is therefore whether voters care about MP effort allocation when asked to consider other MP characteristics that are more relevant to citizens and/or aliased by effort allocation. As we detail below, our conjoint analysis approach allows us to answer this question in a way that observational and existing survey-based studies cannot. First, however, we consider alternative potential explanations for preferences over MP effort allocation, based on different styles of voter reasoning: self-interested and instrumental reasoning on the one hand, and heuristic reasoning based on social dispositions on the other.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+84 NICK VIVYAN & MARKUS WAGNER
+
+Self-interested and instrumental reasoning
+
+Existing explanations for voter preferences over legislator effort allocation have tended to focus on self-interested and instrumental reasoning on the part of voters (Griffin & Flavin 2011; Harden 2011). According to this type of explanation, voters ask themselves how the work of a representative could produce personal benefits for themselves (Harden 2011; Sears & Funk 1991). These personal benefits may be tangible and direct: for example, a representative can help constituents in their dealings with other branches of government (‘service responsiveness’) (Eulau & Karps 1977). They can also accrue if a representative supports the local constituency as a whole: for example, if they address the needs and problems of local groups (‘project work’) (Norton & Wood 1993) or secure funds and goods for the constituency (‘allocation responsiveness’) (Eulau & Karps 1977). Finally, personal benefits may of course also result from the national policy work of a representative, who can help to develop laws or amendments that further the well-being of the constituent. For example, a representative could be influential in ensuring that regulation is advantageous to a citizen’s business. The self-interest of citizens can therefore conceivably be furthered by both local constituency and national policy work.
+
+Which type of work self-interested citizens prefer should depend on how their representative can achieve a greater impact, which is in turn largely determined by the institutional setting within which representatives are situated. Therefore, the more a political system limits an individual representative’s impact on national policy, the more instrumentally motivated constituents should prioritise their representative’s constituency work over his or her national policy work.1 Given that British MPs have a comparatively low level of influence on national policy outcomes (Cain et al. 1987; Lijphart 2012) but can be reasonably effective at carrying out constituency service (Cain et al. 1987: 60; Norton & Wood 1993),2 the self-interest account would predict that, on average, British citizens should strongly prioritise constituency work over national policy work.The self-interest account also predicts how preferences should vary between citizens within the same political system. In particular, citizens should have a greater preference for effort allocated to constituency work the more they themselves stand to benefit from this (Griffin & Flavin 2011; Harden 2011).
+
+A related explanation for preferences over legislator effort allocation is that citizens are instrumental but driven by sociotropic concerns as well as self-interest (Kinder & Kiewiet 1979; Funk 2000; Sears & Funk 1991). Here, citizens are not exclusively concerned with their expected personal gains from the work of a representative, but also attach some weight to the total expected benefit to society – that is,how many people in society are likely to benefit from the work of the representative and by how much (Edlin et al. 2007). Interestingly, if voters are sociotropic rather than purely self-interested, national policy work should retain some value even if there is only a low probability that an individual MP will influence national outcomes:any improvement in national public policy will impact millions of people across the entire country (Edlin et al. 2007), which raises the expected gains from national policy work relative to those from constituency work.3 However,we do not know the weight that voters attach to societal benefit relative to individual benefit, so the sociotropic account does not generate clear predictions regarding average preferences over MP effort allocation across British voters.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 85
+
+Nevertheless, because both the sociotropic and the self-interest accounts share the assumption that voters are instrumental and goal-oriented, we can conduct a joint test for both explanations based on variation in preferences across voters. If voters reason instrumentally, their preferences over the trade-off between MP constituency work and national policy work should depend on the expected impact of each activity. Specifically, we should observe that voters prefer more MP effort to be devoted to constituency service the more impact they perceive MPs to have on constituency outcomes compared to national policy outcomes.4
+
+Heuristic reasoning based on social dispositions
+
+An alternative explanation holds that constituent preferences over MP activities are not driven by instrumental reasoning but by the use of basic underlying dispositions or orientations as heuristics.5 In this article, we test one disposition that voters would plausibly use as a heuristic to evaluate how MPs should divide attention between constituency and national policy work: the degree to which voters themselves have a local or national/cosmopolitan outlook (Dye 1963; Jennings 1967; Merton 1957). This ‘localcosmopolitanism’ captures the extent to which individuals care about and pay attention to developments in their local area over and above national and international developments (Jennings 1967: 293).6 It reflects an individual’s degree of attachment, sense of belonging and general affect towards his or her local area (Roudometof 2005; Olofsson & Öhman 2007) and is related to voting behaviour in American presidential elections (Jackman & Vavreck 2011) as well as attitudes towards eurozone bail-outs (Bechtel et al.2014).Potential antecedents of local-cosmopolitan disposition include factors such as personality traits, education and social class (Jennings 1967; Jackman & Vavreck 2011).7
+
+If constituents use this disposition as a heuristic when considering MP effort allocation, they simply evaluate whether the focus of the MP’s activity reflects their own localcosmopolitan orientation rather than evaluating the expected outcome of the MP’s activity. Thus, citizens with a more local orientation would prefer constituency work because they see their local area as the more relevant level of the polity, while voters with a more cosmopolitan orientation would want their representative to focus on parliamentary activities because they primarily think of politics in terms of national or international issues. Contrast this with the instrumental reasoning hypothesis, which posits that even if a voter has a cosmopolitan outlook (and therefore ultimately cares more about national politics), this voter will nevertheless prefer their representative to focus on constituency work if this is where they think the MP can have the greatest impact.
+
+Based on this logic we can formulate the individual-level hypothesis that if voters use their local-cosmopolitan orientation as a heuristic when reasoning about legislator effort allocation then voters with a less local orientation will have a greater preference for national policy work. Moreover, if voters make use of this heuristic rather than reasoning instrumentally, then preferences over effort allocation should be unrelated to the perceived impact of legislators on constituency versus national policy outcomes.
+
+At the national level, this would suggest that the average voter preference concerning representative effort allocation should at least partly result from how locally or nationally oriented voters are on average. It is likely that British voters are rather nationally oriented
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+86 NICK VIVYAN & MARKUS WAGNER
+
+compared to voters elsewhere. In Britain, national politics generally dominates regional and local politics: units of local or regional government have little significant political power (Marks et al. 2008), and the newspaper market is characterised by influential national newspapers (Bens & Ostbye 1998).To the extent that these factors shape local-cosmopolitan orientations in a population,we would therefore expect that British voters,on average,prefer at least a moderate amount of national policy work from their legislator.
+
+Method
+
+We estimate voters’ preferences over the effort allocated by representatives to constituency and national policy work using choice-based conjoint analysis survey experiments (Green et al. 2001; Hainmueller et al. 2014). Such experiments typically involve participants making choices between two or more alternatives that vary along several dimensions and have recently been employed by political scientists to evaluate voter preferences over candidate attributes (Franchino & Zucchini 2015; Hainmueller et al. 2014). In our experiment, we ask respondents to choose between two MPs characterised by several varying attributes.
+
+The conjoint analysis approach combines the advantages of existing survey-based strategies for eliciting voter preferences over representative characteristics and behaviour. Traditional split sample survey experiments – where respondents evaluate legislators who vary along one or two dimensions (e.g., Huddy & Terkildsen 1993; Sanbonmatsu 2002; Campbell & Cowley 2014) – provide detailed information concerning voters’ preferences over a particular legislator attribute of interest, as do non-experimental studies which ask respondents more directly how they think a representative should act on a specific behavioural dimension (e.g., Carman 2006). Meanwhile, studies which ask survey respondents to rank various legislator activities (e.g., Cain et al. 1987) yield information about the relative importance voters attach to these different activities.By presenting voters with multidimensional choices,a conjoint analysis approach yields both types of information simultaneously.This enables us to test explanations for voter preferences over the MP effort allocation trade-off at the same time as examining whether voters in fact care about this trade-off.It also enables us to test whether voters simply view MP effort allocation as a proxy for other MP attributes by testing whether effort allocation has an impact in the presence of explicit information about these other attributes.
+
+Another alternative empirical strategy used in the literature relies on behavioural rather than survey data, examining how legislators’ effort allocation affects their subsequent electoral performance (Cain et al. 1987; Gaines 1998; Norton & Wood 1993). Of course, such an observational strategy overcomes the external validity issues associated with any survey experiment. However, drawing clear inferences from observational studies is problematic if representative behaviour is endogenously influenced by constituent expectations or by local electoral vulnerability (Cain et al. 1987: 128; King 1991). Furthermore, observational studies may understate how much constituents care about representative effort allocation if constituents do not receive clear information about effort allocation decisions or if their perceptions are subject to partisan biases. In contrast, in our survey experiments the variation in representative behaviour is clearly measured and exogenous by design, and all subjects receive unambiguous information concerning this behaviour. Furthermore, as Hainmueller et al.(2014:27) point out,a conjoint analysis design arguably improves external
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 87
+
+validity relative to other types of survey experiments: presenting respondents with rounded, multidimensional legislator profiles not only encourages more realistic respondent choices, but also gives fewer incentives for respondents to offer socially desirable answers (since there are multiple justifications for any given choice).
+
+Experimental design
+
+We ran two conjoint analysis survey experiments.The first was fielded 5–6 December 2012 to 1,899 respondents; and the second was fielded 24–25 September 2013 to 1,919 respondents. For each survey, YouGov drew a sample from its online panel, designed to be representative of British adults.8
+
+After a short introduction, we asked respondents to consider pairs of hypothetical MPs characterised by five attributes, each of which had between two and four levels. Our focus in this article is on the effort allocated to constituency service and national policy work. As a behavioural manifestation of effort allocation, we state how the MPs divided their working week between these two activities. Specifically, each MP could spend 1/2/3/4 days ‘working on local constituency issues’ and 4/3/2/1 days ‘reviewing and working on national policies in Parliament’, with each MP being constrained to work for five days in total. We took care to phrase the activities in a neutral and non-technical way: we do not state whether the MP actually has any influence on parliamentary or constituency outcomes, or the extent to which the MP has important posts within the parliament. Overall, this formulation makes the trade-off between the two types of activity explicit while avoiding presenting either in an obviously positive light. It also captures how constituency work is usually thought about in Britain – namely as case and project work for local voters. Other aspects of constituency service,such as the ability to ‘deliver pork’and shape national legislation in locally beneficial ways, are less relevant in the United Kingdom than in, for instance, the United States (Cain et al. 1987: 39).
+
+A key decision in designing conjoint analyses concerns which additional attributes to include in the vignettes. First, we included the two MP attributes we identified as being potentially ‘aliased’ by MP effort allocation (Hainmueller et al. 2014). Thus, in Study 2 we included a trustee-delegate attribute,explicitly stating whether each MP pays more attention to his or her own personal views or to those of his or her constituents when thinking about national policy. To capture MP independence from party, in both studies we also varied the dissent behaviour of MPs. In Study 1, we varied the frequency with which the MP speaks out or votes against his/her party leadership. In Study 2, we varied how MPs act when they disagree with the party leadership: they could either speak out internally only, or speak out internally and externally, or fail to speak out at all. Second, we included other MP attributes that capture key factors thought to influence evaluations of representatives. Crucially, we varied the party affiliation of the MP between Labour and Conservative.9 In addition, we varied whether the MP was male or female, and (in Study 1) whether the MP had been in parliament for three, ten or 21 years (roughly corresponding to the elections in 2010, 2000 and 1992).10 MP attribute values were assigned randomly and independently. For our outcome variable we asked respondents: Based on this information, which ONE of these two MPs would you prefer to have as your MP in the House of Commons?11 Respondents were presented with a total of five choice tasks.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+88 NICK VIVYAN & MARKUS WAGNER
+
+Figure 1. Screen shots from conjoint experiment (Study 1). Note: The top panel shows the introductory screen that all respondents saw before starting the experiment. The lower panel shows a randomly generated example choice task. Each respondent completed five such tasks.
+
+Figure 1 shows a screenshot of the pre-experiment introductory text as well as a randomly generated example choice task from Study 1. Descriptions were presented in paragraph format to make them more readable; in cognitive pre-testing, a tabular format proved more burdensome for respondents. While attribute ordering is not randomised, we varied the placement of the days spent on constituency versus parliamentary work: in Study 1 they were the first two bullet points, and in Study 2 the final two bullet points.
+
+Modeling the data
+
+Each study yields ten observations per respondent,one for each hypothetical MP with which they are presented across their five choice tasks (e.g., we have 1,899 × 2 × 5 = 18,990 observations for Study 1). Our outcome variable measures whether or not the respondent chose that MP. More formally, if i = {1, . . . , 1899}, k = {1, . . . , 5}, j = {1, 2} and l = {1, . . . , 5} index subjects, choice tasks, choice alternatives (i.e., MPs) and choice attributes, respectively, our binary dependent variable Yi jk is equal to one if subject i in the kth choice task chooses the jth MP, and zero otherwise.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 89
+
+Our causal quantity of interest is the average marginal component effect (AMCE) of each level of an MP attribute – that is, the change in the probability that an MP is preferred by the average British voter when the value of the attribute (component) of interest is changed from one level to another,averaging over all possible values of the MP’s remaining attributes and all possible values of the attributes of the other MP in the choice task (Hainmueller et al. 2014). Because our design employs completely independent randomisation, simple difference-in-means analysis yields unbiased AMCE estimates (Hainmueller et al. 2014: 16). We estimate these differences via ordinary least squares (OLS) analysis with dummy variables for each level of the attribute of interest. Standard errors are clustered by respondent.
+
+Results
+
+Based on our experiments, we first examine the average effect of MP effort allocation on British voters before examining how this effect varies across individuals. In the supporting materials, we also discuss the estimated effects of the other MP attributes included in the experiments and test the validity of the assumptions underlying our AMCE estimates (Online Appendices 3 and 4).
+
+Average preferences over MP time allocation
+
+Figure 2 presents population AMCE estimates for the number of days per week an MP spends on constituency service as opposed to national policy work. For each level of the attribute, the dot indicates the point estimate for the effect of that level relative to the baseline level where an MP spends one day per week on constituency service. The bars represent 95 per cent confidence intervals.
+
+Figure 2 strongly suggests that British voters do care about how their MP allocates effort between constituency service and national policy work, even when simultaneously confronted with information about other MP attributes, including those potentially aliased by effort allocation. There is a clear aversion among voters toward having an MP who allocates the minimal amount of time to constituency work: compared to an MP who spends only one day per week on constituency issues, MPs who spend two, three or four days per week working on constituency issues are all more likely to be preferred by voters. These estimated effects are all statistically significant and, at between 7 and 13 percentage points, substantial in magnitude too. They also are not an artifact of respondents failing to discriminate between different MP attributes in terms of their importance: while some of the other attributes included in the experiments (e.g., MP independent-mindedness and trustee/delegate style of representation) had stronger effects on respondent choices than did MP time allocation, others (e.g., gender and parliamentary experience) barely influenced respondents’ choices at all (see Online Appendix 3).
+
+The results in Figure 2 average over two types of choice task: same-party comparisons, where both MPs have the same party affiliation;and different-party comparisons,where one MP is Conservative and the other Labour.Unsurprisingly,additional analysis shows that the effects of MP effort allocation are weaker when voters are presented with different – rather than same – party comparisons (see Online Appendix 5). However, even in different party
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+90 NICK VIVYAN & MARKUS WAGNER
+
+Figure 2. Effects of MP attributes on probability of being preferred by voter (Study 1 and Study 2). Note: MPs in both studies allocated between one and four days per week to constituency service and the remainder to national policy work. Points show the average marginal component effect relative to the baseline (one day spent on constituency work). Bars show 95 per cent confidence intervals. For results on the other MP attributes included in the conjoint analysis, see the online appendix.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 91
+
+comparisons the effects of an MP spending two, three and four days on constituency work are all statistically significant and have estimates ranging from 5.9 to 8.3 percentage points.12
+
+Thus, MP effort allocation matters to voters, even when they simultaneously have to choose between parties.
+
+Figure 2 also tells us about the mix of constituency service and national policy work that British voters prefer their MP to engage in. Our key finding with regard to this is that the effect of MP days spent on constituency service appears to be nonlinear. For example, in Study 1, an increase in MP time spent on constituency work from the baseline level of one day per week to two days per week leads to a 10.7 per cent increase in the probability that an MP is preferred (95 per cent confidence interval = [8.6,12.7]).However,an increase from the baseline level to three days only leads to a slightly larger increase of 12.8 [10.7, 14.9] per cent. Furthermore, at 7.7 [5.4, 9.9] per cent, the effect of an increase in constituency work from the baseline to the maximum of four days per week is actually significantly smaller than that of an increase from the baseline to three days per week.13 In other words, voters prefer to have an MP who strikes a balance of around three days constituency work to two days national policy work. This pattern is at odds with the notion that citizens’ preferences over MP activities are driven mainly by self-interest,for according to that logic British voters should generally prefer MPs to concentrate on constituency work.
+
+To further assess the self-interest explanation for preferences over MP effort allocation, as well as other potential explanations, we now turn to examining how preferences vary across voters.
+
+Likelihood of personally benefitting from constituency work
+
+If citizens are self-interested, then those voters who stand to personally benefit more from constituency service should prefer their MP to spend more time on this activity. We test this prediction in two ways. First, we examine whether constituents who are predisposed to seek assistance from an MP also want their MP to allocate more time to their constituency. We compare respondents based on whether or not they, or someone they know well, had sought personal assistance from their local MP in the last three or four years. Yet, there are no clearly discernible differences between these groups in the effects of MP constituency work: the maximum difference in AMCE point estimates across the two groups is only 3 per cent (for the AMCE of four MP days on constituency work), the confidence intervals for the estimated effects tend to overlap with each other and an F-test fails to reject the null hypothesis of no interaction between MP constituency work and voter propensity to seek MP assistance (p = 0.44, see Online Appendix 6 for full results).
+
+Second, we also examined whether more socioeconomically disadvantaged citizens prefer a greater focus on constituency work,as such voters are more likely to benefit from the support and advice of MPs. Yet, when we compare respondents based on their social grade, there is at best a very weak tendency for respondents with lower social grades to prefer greater MP attention to constituency work: the maximum difference in estimated effects comparing respondents in the two most extreme social grade groups (AB versus DE) is only 4 per cent, and an F-test fails to reject the null hypothesis that the effect of MP days on constituency work is the same across voter social grades (p = 0.58; see Online Appendix
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+92 NICK VIVYAN & MARKUS WAGNER
+
+6 for full results).14 Results are substantively similar when using respondent income as an alternative measure of economic disadvantage.
+
+Of course, these voter characteristics are variables over which we have no experimental control so we cannot draw strong causal inferences from such analyses. Nevertheless, it does seem that voters who can expect greater personal gain from a constituency-oriented MP do not tend to prefer greater amounts of constituency work. We take this as further evidence that voters’ preferences over the MP time allocation trade-off are unlikely to be driven by narrow self-interest.
+
+Perceived impact of MP activities
+
+If voters reason instrumentally – motivated by either self-interest or sociotropic concerns – then those who think MPs have a greater national impact should prefer their MP to focus more on policy work in Parliament, while those who believe MPs have a greater impact at the local level should prioritise constituency work. To test this, in Study 2 we measured respondent perceptions of MPs’ relative local and national influence using two agree-disagree statements:
+
+1. A typical MP makes more of a difference on local issues than on national policy. 2. Individual MPs can have an important influence on national policy in Parliament.
+
+We then group voters according to their levels of agreement with each of these statements and estimated the effect of MP time allocation separately for each group. The results are presented in Figure 3, and suggest no clear relationship between preferences over MP effort allocation and perceptions of the relative impact of MP activities, whether the latter is measured by the first or second statement above. The corresponding F-tests are nonsignificant in both cases (p = 0.40 and p = 0.54, respectively) and the maximum difference in point estimates across subgroups is only 4.5 per cent (the difference in the effect of three MP days on constituency work comparing respondents who agree and disagree with the first statement above). Thus, there is little indication in our data that instrumental reasoning provides an adequate account of British voters’ preferences over MP effort allocation.15
+
+Local-cosmopolitan orientation
+
+The heuristic reasoning explanation predicts that voter preferences over MP effort allocation should be related to voters underlying local-cosmopolitan orientation. To measure the latter, we asked respondents in Study 2 to rate their agreement with two statements that assess whether they care more about and pay more attention to local or national politics (for a similar approach, see Dye 1963; Jennings 1967; Bechtel et al. 2014):
+
+1. I care more about how things are in my local area than about how things are in the UK
+
+as a whole. 2. I pay more attention to national UK politics than to politics in my local area.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 93
+
+Figure 3. Effect of MP constituency focus by perception of MP impact (Study 2). Note: Each plot shows estimates for British voters grouped by their level of agreement with the statement above the plot. Respondents recorded their level of agreement with each statement on a five-point scale, and we re-coded these responses into three groups: ‘disagree’, ‘neither’ and ‘agree’.
+
+Notice that we measure two different aspects of local-cosmopolitan orientation – namely, perceived relevance and attention – and vary the polarity of the agree-disagree statements to mitigate acquiescence bias.
+
+Figure 4 compares the estimated effects of MP effort allocation in our experiment when we subset respondents according to their local-cosmopolitan orientation.For either measure of respondent local-cosmopolitan orientation, there is a clear interaction with MP effort allocation, with significant F-tests in both cases (p-value < 0.01 and p-value = 0.03 for statements 3 and 4, respectively).
+
+Furthermore, the nature of the interaction is as expected under the heuristic reasoning hypothesis. In the first panel of Figure 4, the more a constituent cares about their local area relative to the United Kingdom as a whole, the greater the positive effect of an MP spending more days per week on constituency service; those who care most about their local area relative to the United Kingdom as a whole actually prefer MPs to allocate the maximum four days per week to constituency service, while those who care least about their local area prefer this type of MP least. In the second panel, as constituents pay more attention to national rather than local politics, the effect of an MP spending more time on constituency service become significantly smaller. These results are consistent with the argument that popular preferences over MP effort allocation are driven less by detailed instrumental calculations, and more by basic orientations toward the object of MP activities.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+94 NICK VIVYAN & MARKUS WAGNER
+
+Figure 4. Effect of MP constituency focus by local-cosmopolitan orientation (Study 2). Note: Each plot shows estimates for British voters grouped by their level of agreement with the statement above the plot. Respondents recorded their level of agreement with each statement on a five-point scale, and we re-coded these responses into three groups: ‘disagree’, ‘neither’ and ‘agree’.
+
+Of course, voters’ local-cosmopolitan orientations do not emerge out of a vacuum. Indeed, consistent with previous research (Jackman & Vavreck 2011) we find that respondents with a higher level of education, social grade and income tend to have a more cosmopolitan orientation. However, we show in the supporting materials that these background characteristics are not directly associated with preferences over MP effort allocation (Online Appendix 6), and that the interaction between MP effort allocation and respondent local-cosmopolitanism is robust when we control for these background characteristics and their interaction with MP effort allocation (Online Appendix 7). Thus, there is little evidence to suggest that the observed association between local-cosmopolitan orientation and preferences over MP effort allocation is a spurious one driven by the antecedents of local-cosmopolitanism.
+
+Finally, our local-cosmopolitan items were asked after the experiment to avoid priming considerations among respondents.One additional concern could therefore be that post hoc rationalisation may be responsible for the observed interaction. However, the incentive for rationalisation should be comparatively low in a conjoint analysis as no single attribute is highlighted to respondents. Moreover, if respondents were rationalising post hoc, we should also have observed an association between perceived MP local-national influence (also measured after the experiment) and effort allocation preferences.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 95
+
+Conclusion
+
+The results of our conjoint analysis experiments show that British voters prefer to have a legislative representative who devotes at least a moderate amount of time to national policy work while still paying strong attention to their constituency. Crucially, this preference is manifest in voters’ choices between MPs even in the presence of a variety of politically relevant MP attributes that could plausibly overwhelm these concerns (particularly MP party affiliation) or that might otherwise be aliased by MP effort allocation (MP trustee/delegate representational style and independence from party). We also find that instrumental concerns do not provide a powerful explanation for these preferences. Most surprisingly, there is little evidence of an association between voters’ preferences over effort allocation and their beliefs about where MPs have an influence in the British political system.Instead,variation in preferences is more consistent with heuristic reasoning,whereby voters use more basic dispositions – here, their local-cosmopolitan orientation – as criteria for assessing effort allocation.
+
+These results have implications for understanding cross-national patterns in constituent preferences over the effort allocation trade-off. In previous research, legislative institutions, and in particular the degree to which such institutions afford individual representatives influence over national policy, play a central and direct role as determinants of voter preferences (Cain et al. 1987). In contrast, our findings imply that cross-national variation in preferences over effort allocation may well be better explained by variation in the strength of local identities in different countries. Future research could test this possibility by deploying the conjoint analysis approach developed here in countries other than the United Kingdom. Such comparative research would also allow us to test whether political institutions more broadly may have an indirect influence on voter effort allocation preferences by shaping identities and dispositions among voters.
+
+What do our findings tell us about how representatives’ activities might influence electoral choices? On the one hand, our experiments show that the impact of MP effort allocation is weaker in more competitive partisan settings, which are more representative of a general election contest. Compounding this, voters in a real election will in all likelihood have less precise information about their MP’s activities than our experimental subjects. However, our experiments nevertheless offer unprecedentedly detailed information as to how MP effort allocation is likely to affect vote choices when it does so, and this type of information can inform future observational studies of the relationship between legislators’ effort allocation and their electoral support. In particular, since our experiments show that the key distinction voters are likely to make is between an MP who has an almost complete focus on national policy and one who does not, we would strongly suggest that such studies test for a nonlinear relationship.
+
+Finally, we argued earlier that one reason why establishing the nature of voter preferences is important is to examine whether there is a mismatch between citizen expectations and legislators’ actual effort allocation decisions – an important question for democratic representation (Grant & Rudolph 2004; Griffin & Flavin 2011). For the case of Britain, we can conclude that this mismatch is relatively minor. Despite fears that voters might make unrealistic demands for constituency service (Cain et al. 1987; Norton & Wood 1993: 155; Wright 2010), they in fact tend to prefer MPs to engage in a moderate
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+96 NICK VIVYAN & MARKUS WAGNER
+
+balance of constituency and national policy work at Westminster. Furthermore, research by Korris (2011: 6) finds that MPs newly elected in 2010 allocate 63 per cent of their time to constituency service and 37 per cent to national policy work; this is strikingly similar to the 60-40 split that was most preferred in our experiments.From this perspective,our findings are encouraging with regard to the quality of the representative-constituent link in the United Kingdom.
+
+Acknowledgements
+
+This research was funded by a British Academy Small Research Grant (grant number SG112504). We would like to thank Rosie Campbell, Phil Cowley and Joni Lovenduski for comments on an earlier version of this article. Previous versions were presented at the London School of Economics and Political Science,Newcastle University,University of East Anglia,Nuffield College (Oxford),the Annual Conference of the European Political Science Association, and the Annual Meeting of the Elections, Public Opinion and Parties section of the Political Studies Association.
+
+Supporting Information
+
+Additional Supporting Information may be found in the online version of this article at the publisher’s web-site:
+
+Appendix 1: Full text of conjoint analysis experiments Appendix 2: Follow-up questions Appendix 3: Full conjoint analysis results Appendix 4: Conjoint Analysis Diagnostics Appendix 5: Conjoint analysis results for same-party versus different-party comparisons Appendix 6: Further analysis of voter characteristics and preferences over MP constituency focus Appendix 7: Robustness of local-cosmopolitanism interactions to controls Appendix 8: AMCE estimates for weighted and un-weighted survey samples
+
+Notes
+
+1. We expect the same result if one increases the impact of constituency work on local outcomes. 2. This is partly because constituencies in the United Kingdom are of a manageable size, averaging 68,000
+
+voters. See www.parliament.uk/about/how/elections-and-voting/constituencies/. 3. Of course, there is a degree of societal gain from constituency service activities (e.g., saving a hospital
+
+or factory from closure benefits a number of people), but compared to national policy changes these activities can only benefit a limited number of people in the immediate locality. 4. This prediction holds if one extends the sociotropic voting account to allow voters to attach extra weight
+
+to the welfare of certain societal groups (e.g., social classes, ethnic groups or geographic groups) (Mutz & Mondak 1997). To see this, take an extreme case, where the voter attaches weight exclusively to the welfare of a certain social group,and therefore evaluates MP effort allocation solely in terms of outcomes for this group. As long as this group can potentially benefit from both constituency work and national policy work on the part of the voter’s own MP, then the voter’s preferences over MP effort allocation should be sensitive to the perceived relative effectiveness of the two types of MP activity. If the social group in question has members in the voter’s own constituency and in other constituencies (as would
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 97
+
+likely be the case with a particular social class), then the group as a whole may benefit from national policy changes effected by the voter’s MP, while at least a subset of the group may benefit from the MP’s constituency work. Even if the social group in question has members exclusively in the voter’s own constituency (e.g., if the group is the voter’s own local community), this group obviously benefits from their MP’s constituency work, but can still benefit from national policy work for the same reasons that an individual constituent can potentially benefit from their MP’s national policy work (see above). 5. In terms of dual-process models (Chaiken & Trope 1999), instrumental reasoning stems from careful
+
+System 2 thinking, whereas heuristic reasoning is more intuitive and thus related to System 1. 6. While in the literature the disposition ranges from a local, via a national, to a global cosmopolitan
+
+outlook, we focus in this article on the contrast between local and national orientations. 7. This also means it is possible that voter characteristics such as economic disadvantage may indirectly
+
+affect preferences over MP effort allocation by shaping local-cosmopolitan orientation. 8. YouGov maintain an online panel of over 360,000 British adults (recruited via their own website,
+
+advertising and partnerships with other websites), with data on the sociodemographic characteristics and newspaper readership of each panel member. Drawing on this information, YouGov uses targeted quota sampling to select a sub-sample of panelists for participation in each survey, with quotas based on the distribution of age, gender, social class and type of newspaper readership in the British adult population. YouGov has multiple surveys running at any time and uses proprietary software to determine, on a rolling basis, which panelists to email invites to and how to allocate invitees to surveys when they respond. Panelists who are ‘slow’ to respond to invites are thus still able to participate in surveys. Along with the modest cash incentives YouGov offer to survey participants, this helps ensure that survey samples contain panelists who are less politically engaged. A recent British Election Study comparison of YouGov data with a more traditional face-to-face survey showed only small differences in the distribution of most key explanatory variables and in regression models for political choices (Sanders et al. 2007). For further information on YouGov’s sampling procedures, see https://yougov.co.uk/about/panelmethodology/ and www.britishelectionstudy.com/custom/uploads/2014/05/BES_Wave1_tech.pdf All analyses reported here use unweighted data.Appendix 8 in the online appendix illustrates how our main results are unchanged when we weight the data according to standard YouGov weights (constructed using the same targets used for the sampling quotas). 9. We did not include MPs from other political parties for reasons of simplicity. 10. Online Appendix 1 contains the full list of MP attributes and their possible values.
+
+11. A response was required; there was no ‘don’t know’ option. In Study 2, we left out the phrase ‘in the
+
+House of Commons’to avoid priming national policy considerations.We also included a second question in Study 1, asking respondents to assess how happy they would be to have each MP represent them in Parliament. Analyses using this question yield substantively similar results. 12. We also checked all two-way interactions between MP time allocation and each other MP attribute. All
+
+joint F-tests of all interaction terms were non-significant at the 0.05 level. 13. The pattern for Study 2 is very similar, suggesting that these results are not simply an artifact of timing
+
+or design: these studies were fielded a number of months apart and varied in terms attribute ordering and wording. 14. Measures for social grade provided by YouGov and based on the occupation of the household’s chief
+
+income earner. 15. If voters are instrumental and self-interested, it may be that perceptions of the relative efficacy of MP
+
+constituency work and national policy work condition the relationship between how much a voter stands to benefit personally from constituency service and how much effort a voter prefers their MP to allocate to constituency service. However, when we use social grade to proxy likely personal benefits from constituency service, we find little evidence of such an interaction. See Online Appendix 6.
+
+References
+
+André, A., Depauw, S. & Martin, S. (2015). Electoral systems and legislators’ constituency effort: The
+
+mediating effect of electoral vulnerability. Comparative Political Studies 8(4): 464–496.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+98 NICK VIVYAN & MARKUS WAGNER
+
+Barker, D.C. & Carman, C.J. (2012). Representing red and blue: How the culture wars change the way citizens
+
+speak and politicians listen. Oxford: Oxford University Press. Bechtel, M.M., Hainmueller, J. & Margalit, Y.M. (2014). Preferences for international redistribution: The
+
+divide over the eurozone bailouts. American Journal of Political Science 58(4): 835–856. Bengtsson, A. & Wass, H. (2010). Styles of political representation: What do voters expect? Journal of
+
+Elections, Public Opinion and Parties 20(1): 55–81. Bens, E.D. & Ostbye, H. (1998). The European newspaper market. In D. McQuail & K. Suine (eds), Media
+
+policy: Convergence, concentration and commerce. London: Sage. Bowler, S. & Karp, J. (2004). Politicians, scandals and trust in government. Political Behavior 26(3): 271–287. Brouard,S.et al.(2013).Why do French MPs focus more on constituency work than on parliamentary work?
+
+Journal of Legislative Studies 19(2): 141–159. Butler, D.M., Kapowitz, C.F. & Pope, J.C. (2012). A field experiment on legislators’ home styles: Service
+
+versus policy. Journal of Politics 74(2): 474–486. Cain, B.E., Ferejohn, J.A. & Fiorina, M.P. (1987). The personal vote: Constituency service and electoral
+
+independence. Cambridge, MA: Harvard University Press. Campbell, R. & Cowley, P. (2014). Rich man, poor man, politician man: Wealth effects in a candidate
+
+biography survey experiment. British Journal of Politics and International Relations 16(1): 56–74. Carman, C.J. (2006). Public preferences for parliamentary representation in the UK: An overlooked link?
+
+Political Studies 54(1): 103–122. Carman,C.J.(2007).Assessing preferences for political representation in the US.Journal of Elections,Public
+
+Opinion and Parties 17(1): 1–19. Carson, J.L. et al. (2010). The electoral costs of party loyalty in Congress. American Journal of Political
+
+Science 54(3): 598–616. Chaiken, S. & Trope, Y. (eds) (1999). Dual-process theories in social psychology. New York: Guilford Press. Cowley, P. (2013). Why not ask the audience? Understanding the public’s representational priorities. British
+
+Politics 8(2): 138–163. Doherty, D. (2013). To whom do people think representatives should respond: Their district or the country?
+
+Public Opinion Quarterly 77(1): 237–255. Dye, T.R. (1963). The local-cosmopolitan dimension and the study of urban politics. Social Forces 41(3):
+
+239–246. Edlin, A., Gelman, A. & Kaplan, N. (2007). Voting as a rational choice: Why and how people vote to improve
+
+the well-being of others. Rationality and Society 19(3): 293–314. Eulau, H. & Karps, P.D. (1977). The puzzle of representation: Specifying components of responsiveness.
+
+Legislative Studies Quarterly 2(3): 233–254. Fenno, R.F. (1978). Home style: House members in their districts. Boston, MA: Little, Brown. Ferejohn, J.A. (1990). Information and the electoral process. In J.H. Kuklinski & J. Ferejohn (eds),
+
+Information and democratic processes. Urbana, IL: University of Illinois Press. Franchino, F. & Zucchini, F. (2015). Voting in a multi-dimensional space: A conjoint analysis employing
+
+valence and ideology attributes of candidates. Political Science Research and Methods 3(2): 221–241. Funk,C.L.(2000).The dual influence of self-interest and societal interest in public opinion.Political Research
+
+Quarterly 53(1): 37–62. Gaines, B.J. (1998). The impersonal vote? Constituency service and incumbency advantage in British
+
+Elections, 1950–92. Legislative Studies Quarterly 23(2): 167–195. Grant, J.T. & Rudolph, T.J. (2004). The job of representation in Congress: Public expectations and
+
+representative approval. Legislative Studies Quarterly 29(3): 431–445. Green, P.E., Krieger, A.M. & Wind, Y. (2001). Thirty years of conjoint analysis: Reflections and prospects.
+
+Interfaces 31(3): S56–S73. Griffin, J.D. & Flavin, P. (2011). How citizens and their legislators prioritize spheres of representation.
+
+Political Research Quarterly 64(3): 520–533. Hainmueller, J., Hopkins, D.J. & Yamamoto, T. (2014). Causal inference in conjoint analysis: Understanding
+
+multi-dimensional choices via stated preference experiments. Political Analysis 22(1): 1–30.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONSTITUENT PREFERENCES OVER LEGISLATOR EFFORT ALLOCATION 99
+
+Harden, J.J. (2011). Multidimensional Democracy: Citizen Demand for the Components of Political
+
+Representation. Paper presented at the 11th Annual State Politics and Policy Conference, Dartmouth College, 3–4 June. Heitshusen, V., Young, G. & Wood, D.M. (2005). Electoral context and MP constituency focus in Australia,
+
+Canada, Ireland, New Zealand and the United Kingdom. American Journal of Political Science 49(1): 32–45. Huddy, L. & Terkildsen, N. (1993). Gender stereotypes and the perception of male and female candidates.
+
+American Journal of Political Science 37(1): 119–147. Jackman, S. & Vavreck, L. (2011) Cosmopolitanism. In P.M. Sniderman & B.H. Highton (eds), Facing
+
+the challenge of democracy: Explorations in the analysis of public opinion and political participation. Princeton, NJ: Princeton University Press. Jacobson, G.C. (1989). Strategic Politicians and the Dynamics of U.S. House Elections, 1946–86. American
+
+Political Science Review 83(3): 773–793. Jennings,M.K.(1967) Pre-adult orientations to multiple systems of government.Midwest Journal of Political
+
+Science 11(3): 291–317. Kam, C. (2009). Party discipline and parliamentary politics. Cambridge: Cambridge University Press. Kinder, D.R. & Kiewiet, D.R. (1979). Economic discontent and political behavior: The role of personal
+
+grievances and collective economic judgments in congressional voting. American Journal of Political Science 23(3): 495–527. King, G. (1991). Constituency service and incumbency advantage. British Journal of Political Science 21(1):
+
+119–128. Korris, M. (2011). A year in the life: From member of public to Member of Parliament. London: Hansard
+
+Society. Lijphart, A. (2012). Patterns of democracy: Government forms and performance in thirty-six countries, 2nd
+
+edn. New Haven, CT: Yale University Press. Marks, G., Hooghe, L. & Schakel, A.H. (2008). Patterns of regional authority. Regional and Federal Studies
+
+18(2): 167–181. Méndez-Lago, M. & Martínez, A. (2002). Political representation in Spain: An empirical analysis of the
+
+perception of citizens and MPs. Journal of Legislative Studies 8(1): 63–90. Merton, R. (1957). Patterns of influence: Cosmopolitans and locals. In Social theory and social structure.
+
+Glencoe, NY: Free Press. Mutz, D.C. & Mondak, J.J. (1997). Dimensions of sociotropic behavior: Group-based judgements of fairness
+
+and well-being. American Journal of Political Science 41(1): 284–308. Norton, P. & Wood, D.M. (1993). Back from Westminster: British Members of Parliament and their
+
+constituents. Lexington, KY: University Press of Kentucky. Olofsson, A. & Öhman, S. (2007). Cosmopolitans and locals: An empirical investigation of transnationalism.
+
+Current Sociology 55(6): 877–895. Roudometof,V.(2005).Transnationalism,cosmopolitanism and globalization.Current Sociology 53(1):113–
+
+135. Sanbonmatsu, K. (2002). Gender stereotypes and vote choice. American Journal of Political Science 46(1):
+
+20–34. Sanders, D. et al. (2007). Does mode matter for modeling political choice? Evidence from the 2005 British
+
+Election Study. Political Analysis 15(3): 257–285. Sears, D.O. & Funk, C.L. (1991). The role of self-interest in social and political attitudes. Advances in
+
+Experimental Social Psychology 24(1): 1–91. Wright, T. (2010). What are MPs for? Political Quarterly 81(3): 298–308.
+
+Address for correspondence: Nick Vivyan, School of Government and International Affairs, Durham University, Al-Qasimi Building, Elvet Hill Road, Durham DH1 3TU, UK. Tel.: +44 (0)191 334 5881; Fax: +44 (0)191 334 5661; E-mail: nick.vivyan@durham.ac.uk
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12119 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

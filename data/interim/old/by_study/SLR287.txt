@@ -1,0 +1,451 @@
+Vol:.(1234567890)
+
+Acta Politica (2023) 58:380–400 https://doi.org/10.1057/s41269-022-00249-4
+
+ORIGINAL ARTICLE
+
+Seeing the world through party‑tinted glasses: performance evaluations and winner status in shaping political trust under high polarization
+
+Marta Kołczyńska1   · Ireneusz Sadowski1
+
+Accepted: 27 May 2022 / Published online: 17 June 2022 © Springer Nature Limited 2022
+
+Abstract Individuals with more favorable evaluations of government performance exhibit higher trust in the political system. People also tend to put more confidence in political institutions led by the party they support or identify with. This paper examines the relative importance of these two factors—performance evaluation and electoral winner status—on political trust in the context of strong, and increasing, partisan polarization. Based on the motivated reasoning thesis, we hypothesize that the winner effect and performance evaluations are intertwined, and voters’ evaluations of government performance are filtered through ‘party-tinted glasses.’ Our analysis relies on two waves of the Polish Panel Survey carried out in 2013 and 2018, i.e., before and after the 2015 parliamentary election, which brought a clear shift in power. Results of fixed-effects models show that electoral winner status has a substantial effect on trust in parliament both directly and indirectly, via performance evaluations. We further find that winner status moderates the effect of evaluations of economic performance on trust in parliament: trust among winners is less dependent on evaluations of the economy than among losers and non-voters. We interpret these findings in the context of high and increasing polarization in Poland.
+
+Keywords  Political trust · Performance · Political polarization · Winner effect · Poland
+
+* Marta Kołczyńska mkolczynska@isppan.waw.pl
+
+Ireneusz Sadowski sadowski@isppan.waw.pl
+
+1 Institute of Political Studies of the Polish Academy of Sciences, ul. Polna 18/20, 00‑625 Warsaw, Poland
+
+381 Seeing the world through party‑tinted glasses: performance…
+
+Introduction
+
+Theoretical and empirical research on the sources of political trust emphasizes the role of perceived or actual performance. Political trust is also known to reflect the overall attitude toward the state and its institutions, which includes a feeling of being represented and having one’s interest protected by the state (Hetherington and Rudolph 2015; Martini and Quaranta 2019). These considerations lead to the question about the evaluation- and representation-based nature of political trust and the mechanism through which both factors together shape trust. We examine this issue in the context of high and increasing political polarization in Poland. The analysis relies on fixed-effects models applied to data from two waves of the Polish Panel Survey, conducted in 2013 and 2018. These data enable the study of the effects of a major shift in Poland’s politics following the 2015 parliamentary election when, in a climate of heated political conflict, the hitherto fierce opposition party, Law and Justice, came to power leaving the former two-term ruling parties—and their supporters—as electoral losers. The shift of power to Law and Justice, a party considered populist (Rooduijn 2020), increased political polarization and heralded a period of democratic backsliding.1 This was not, however, accompanied by a crisis of political trust; on the contrary, average political trust increased substantially. An examination of within-person changes in political trust and performance evaluations sheds light on this puzzle and provides insights into the trust-generating mechanism. Our study offers several contributions. Empirically, our results suggest that both performance evaluations and trust in parliament more strongly depend on electoral winner status in conditions of high political polarization than under lower polarization. We also find that the effect of electoral winner status on trust in parliament is to a large extent mediated by evaluations of government performance. Additionally, winner status moderates the effect of evaluations of economic performance on trust in parliament: trust among electoral winners is less strongly related to economic performance evaluations than among electoral losers. We do not find, however, evidence of similar moderation in the case of evaluations of governments’ performance regarding corruption and unemployment. The susceptibility of trust in parliament to the winner effect suggests that trust in political institutions, often used as a measure of system support, is less diffuse and more specific (Easton 1975) than some researchers assume. This is especially the case in a highly polarized political climate. At the same time, the substantial within-person changes in political trust depending on the status of electoral winner or loser need not necessarily manifest in the volatility of average levels of trust in society. Our study also offers one of the few panel analyses of political trust outside of Western Europe, which contributes to our understanding of political trust in different contexts.
+
+1  Democratic decline has been documented by various democracy indicators, such as those from the Varieties of Democracy project (Coppedge et al. 2021a) or Freedom House (Freedom House 2020).
+
+382 M. Kołczyńska, I. Sadowski
+
+Sources of political trust
+
+The dominant approach to explaining political trust focuses on the evaluation of the performance of the state and its institutions, where low trust is interpreted as signaling unmet citizens’ demands and governments’ insufficient capacity to meet those demands (Fuchs and Klingemann 1995; van der Meer and Dekker 2011). Institutional performance is primarily evaluated in two aspects: the products, referring to the results of institutional activity, for example, in terms of economic factors, and the process, or procedural characteristics, such as the extent of public sector corruption (Norris 2011; Torcal 2014; van der Meer and Hakhverdian 2017). While corruption has been consistently found to be negatively associated with political trust (van der Meer 2010; Hakhverdian and Mayne 2012), the results regarding economic performance are mixed. The debate about the relative importance of performance in both aspects—product and process—is ongoing and includes questions about who reacts more or less strongly to actual versus perceived performance (van der Meer and Dekker 2011). The literature on the role of subjective performance evaluations on political trust seems to implicitly assume a primarily cognitive source of these assessments, with differences resulting from different individual benchmarks (van der Meer and Hakhverdian 2017). At the same time, performance evaluation is only one component of political trust, and citizens in making their trust decisions also take into account other factors that shape their perception of their interests being attended to and protected by the state. One group of prominent factors consists of majority–minority status, which is particularly intensively studied with regard to the electoral winner-loser gap.2 It is an established finding that supporters of the governing party exhibit higher levels of the less diffuse aspects of political support, as classified in Easton’s (1975) framework, including satisfaction with the political system (Anderson and Guillory 1997; Bowler and Donovan 2007; Martini and Quaranta 2019) and characteristics thereof (Dahlberg and Linde 2016). Anderson et al. (2005), in their study of political satisfaction, identify three mechanisms that may lead to electoral winners having higher political trust than electoral losers. The first one is utilitarian and deals with the possibility that electoral loss may reduce the chances of the implementation of particular policies one was hoping for. The second mechanism deals with the emotional effects of electoral victory or loss in terms of well-being and efficacy, based on the well-known fact that people generally prefer winning to losing. The third mechanism has to do with the negative evaluation of the political process on the side of electoral losers, as an attempt to maintain cognitive consistency (Kunda 1990; Taber and Lodge 2006), resulting in mistrust toward the intentions and actions of the government and biased evaluations of its performance (Hetherington and Rudolph 2015).
+
+2  Other aspects of representation have also been examined e.g. by Dunn (2015).
+
+383 Seeing the world through party‑tinted glasses: performance…
+
+While political trust may decline following an electoral loss, supporting winning parties is expected to increase trust through the same mechanisms operating in the opposite direction. Consequently, supporters of the winning party or parties would selectively evaluate and process facts eliminating incongruent information and form opinions about the situation in the country on that basis. Research on motivated reasoning provides insight into the psychological mechanism that underlies differences in opinions and evaluations among supporters of opposing political parties and shows—among others—that partisan differences in how people seek, select, and process information are exacerbated in a polarized political climate (Enns et al. 2012; Druckman et al. 2013; Van Bavel and Pereira 2018; Finkel et al. 2020; Peterson and Iyengar 2020). Party system polarization reflects the ideological distance between political parties (Dalton 2008). Strong political polarization also involves ideological disagreement and inter-group hostility between supporters of opposing political parties (Iyengar et al. 2012). Hence, it can be expected that strong polarization entails differences in performance evaluations between winners and losers. Partisanship may simply color the perceptions of political performance, thus limiting the impact of autonomous policy judgment (Bailey 2019). Based on the above, we formulate Hypothesis 1: the effect of electoral winner status on performance evaluations, and on political trust, will be stronger in a more polarized climate compared to a less polarized climate. Turning to mechanisms that link electoral winner status, performance evaluations, and political trust, we test two main possibilities visualized schematically in Fig. 1. The first (Hypothesis 2, top graph of Fig. 1) is that evaluations mediate (part of) the effect of winner status on political trust. A mediation effect would mean that supporting the government increases performance evaluations, and the increase in performance evaluations results in political trust that is higher than among electoral winners compared to losers. In this scenario, the rates at which evaluations translate into trust are the same among winners and losers. The boost in performance
+
+Fig. 1   Schematic representation of Hypotheses 2 and 3. The dotted arrow represents the hypothesized mediation effect. The dashed arrow represents the hypothesized moderation effect
+
+Mediation effect (Hypothesis 2)
+
+Moderation effect (Hypothesis 3)
+
+Winner status
+
+Trust in parliament
+
+Performance evaluation
+
+Winner status
+
+Trust in parliament
+
+Performance evaluation
+
+384 M. Kołczyńska, I. Sadowski
+
+evaluations among winners may reflect motivated reasoning, where winner status affects the selection and processing of information about some aspect of performance. But, it may also result from satisfaction with particular government policies that are close to voters’ preferences. Thus, we call this the weak version of the ‘partisan lens’ effect. Winner status may also operate as a moderator by affecting how performance evaluations translate into political trust (bottom graph of Fig. 1). We consider two variants of this Hypothesis 3—the ‘boost’ effect (3A) and the ‘desensitization’ effect (3B). In the first variant, winners’ trust is more strongly associated with performance evaluations, translating into even higher political trust than among losers with the same performance assessment. The opposite is also viable—winners’ trust may be less sensitive to performance evaluations and be primarily driven by the winner advantage. In both variants, winner status changes how performance evaluations translate into political trust, and we call them strong versions of the ‘partytinted glasses’ hypothesis. This is because a multiplicative nature of the relation goes beyond mediation and directly implies motivated reasoning. The case of Poland is particularly well suited to study this subject. First, Poland has become increasingly polarized in recent years, which provides the context necessary for testing our hypotheses. We discuss these developments in detail in the next section. Second, Poland has seen a change of the ruling party, which enables us to distinguish between the effects of winner status and the effects of belonging to the electorate of a specific party. Third, panel data are available that allow checking for an actual concurrent change of trust in parliament, party support, and performance evaluations.
+
+Political trust and polarization in Poland
+
+In the last two decades, political trust in Poland has been generally low, with Poland among the lowest ranking European countries in this regard. Recently, political trust has increased to levels not seen since the post-communist “honey moon” effect in the early 1990s (cf. Kołczyńska 2021). Breaking up the analysis by electoral winner status, in Fig. 2, shows that the recent increase has been primarily due to the increase in average trust by electoral winners (European Social Survey 2020). The changes in trust become easier to interpret when looking at Fig. 3, which shows trust levels among supporters of the three most recent ruling parties: the Civic Platform (PO), Law and Justice (PiS), and the Alliance of the Democratic Left (SLD) or its coalitions with junior partners. Following a period of relatively stable differences in trust between winners and losers until the 2010 survey, the gap increased in 2012. The drop in trust in 2012 was particularly strong among supporters of PiS, likely due to the intensifying conflict between PO and PiS. The conflict, which until then had been primarily confined to politics, escalated following the 2010 plane crash in Smolensk, Russia, which killed 96 passengers and crew, including President Lech Kaczyński and high ranking state and military officials, on their way to commemorate victims of the Soviet Katyń massacre during the Second World War (Etkind et  al. 2012). PiS, led by Lech Kaczyński’s twin brother,
+
+385 Seeing the world through party‑tinted glasses: performance…
+
+Jarosław, developed conspiracy theories about an alleged collaboration between the Polish PO-led government and Russian authorities, whom they held responsible for the crash. The crash and the ensuing escalation of conflict marked Polish politics since then (Adekoya 2016; Santora 2018). The trust gap between supporters of PO and PiS in the 2012 and 2015 surveys reflects this cleavage. The situation changed after parliamentary elections in late 2015 won by PiS with a majority that allowed them to rule alone. As shown in Figs. 2 and 3, the overall increase in trust in parliament is largely owing to a surge in trust among supporters
+
+Fig. 2   Average trust in parliament in Poland among supporters of government and opposition parties. Error bars indicate 95% confidence intervals of the means. Data source: European Social Survey, Rounds 1–9
+
+Fig. 3   Average trust in parliament among supporters of three former or current ruling parties. Error bars indicate 95% confidence intervals of the means, horizontal lines indicate election dates, and party abbreviations above the X axis indicate the government leading party. Data source: European Social Survey, Rounds 1–9
+
+386 M. Kołczyńska, I. Sadowski
+
+of PiS, from a mean of 2.5 on the 0–11 scale in 2015 to around 5 in 2016 and 2018. According to data from the eighth round of the ESS, Poland’s winner–loser gap in trust in parliament was the largest of all countries, followed closely by Hungary. Since the 2015 election, increasing aggravation of the media and public discourse (Żuk 2020), restrictions put on civil society organizations (Bill 2020), as well as controversial reforms challenging the constitutional order led to mutual hostility of supporters of the government and the opposition (Górska 2019; Tworzecki 2019). Greater winner–loser gaps in political trust are considered one of the symptoms of increasing political polarization (Hetherington and Rudolph 2017). Other data sources also point to increases in political polarization in Poland in the last decade. The Varieties of Democracy data include expert ratings of the extent to which “political differences affect social relationships beyond political discussions” (Coppedge et al. 2021b, p. 224), which indicates an increase in polarization between 2013 and 2018 (Coppedge et al. 2021a). Based on the definition, this measure arguably taps into aspects of affective polarization, which captures the feelings on in-group affinity and out-group hostility in peoples’ thinking about politics (cf. e.g., Iyengar et al. 2012). The European Elections Study (Schmitt et al. 2016, 2020), in its two waves carried out around European Parliament Elections in 2014 and 2019, included questions about how likely it is that respondents would ever vote for different parties in national parliamentary elections.3 In 2019, voters of PO and PiS declared a higher likelihood of voting for their parties compared to 2014 and a lower likelihood of voting for the other party. In terms of ideological polarization, we examined questions about respondents’ own placement on the left–right scale, as well as perceived placements of the main political parties (Enders and Armaly 2019). Compared to 2014, in 2019, the difference between mean self-placement positions of voters of PiS and PO increased by almost 1.5 points on a scale from 0 to 10, primarily due to a shift of PO voters toward the left of the scale, while the change of PiS’ supporters positions to the right remains within the margin of error. Respondents also perceived a greater distance between themselves (self-placement) and their main rival party (PO or PiS) in 2019 compared to 2014.
+
+Analytic strategy
+
+We use two waves from a panel study conducted in Poland in 2013 and 2018. Much of prior research on the causes of political trust exploited cross-national variation. The few studies of political trust based on panel data that exist were conducted in Western Europe and either do not deal with winner–loser gaps or focus on shortterm post-election changes in political support (Wass 2007; Esaiasson 2011; Torcal
+
+3  Questions about feelings toward political parties are included in the Comparative Study of Electoral Systems, but the data for Poland’s 2015 elections are not publicly available at the time of writing of this paper.
+
+387 Seeing the world through party‑tinted glasses: performance…
+
+2014; Hooghe et al. 2015; van der Meer and Steenvoorden 2018; Voogd et al. 2018). For our analysis, it is important to distinguish within- and between-effects, that is patterns concerning changes over time within individuals and cross-sectional patterns, respectively, and focus on the former. Relationships in cross-sectional data may simply be a co-product of specific, lasting features of separate party electorates or valence issues (Stokes 1963). This analytic design focuses on the actual change in individual-level political trust given the concurrent changes in the independent variables. It follows the logic of an experimental design, at least as it is possible with survey data. The primary treatment variable is the alteration of power that has taken place as an aftermath of the 2015 elections. The surveys took place outside the parliamentary campaign context, therefore should be relatively less vulnerable to intense political persuasion. While voting declarations made not immediately before or after the general vote might be deemed a less valid indicator of actual voting (faulty recollection, bandwagon effect), we focus on the presumed ‘winner’ and ‘loser’ statuses—which is acknowledging the identification with either ruling parties or an opposition. In other words, we are less interested in the veracity of voting reports than in the respondent’s state of mind at the time of the survey. Methodologically, many of those effects, especially connected with bandwagoning, are not going to influence the results, as supporting the winning parties during both terms precludes variance in the main independent variable. Additionally, an important reference point in this respect should be non-voters—we expect them to position fairly close to the ‘losers.’
+
+Data
+
+The data come from the Polish Panel Survey (POLPAN), a panel study of Poles aged 21 and above, which started in 1988 and has continued in five-year intervals since (Słomczyński et al. 2021). The study is based on panel respondents from the original probability samples from 1988, as well as renewal probability samples of respondents aged 21–25 at the time of each fieldwork wave. POLPAN’s history, methodology, quality, and questionnaire content are discussed in Tomescu-Dubrow et al. (2021). The analytic sample comprises all individuals surveyed both in 2013 and 2018 who responded to questions about the party they had voted for in the most recent parliamentary election. We also include respondents who said they had not voted but exclude those who failed to provide an answer to either of the questions about voting. Since we are only analyzing panelists who participated in both waves, the sample does not include respondents who joined the panel in 2018. As of the 2013 wave, POLPAN has a special simplified questionnaire for participants aged 70 or above to ease the cognitive burden on senior respondents. This simplified questionnaire does not include some of the questions crucial for our analysis. The final sample comprises individuals who in 2018 were aged between 26 and 70, and after listwise
+
+388 M. Kołczyńska, I. Sadowski
+
+deletion, the sample includes 1094 respondents, of whom 51 percent are female, with average age in 2018 equal to 48.4
+
+Variables and modeling
+
+As the indicator of political trust, we use trust in parliament, measured with a single survey item on trust in the Sejm, the lower chamber of the Polish parliament, on a five-point ordinal rating scale. In the Polish political system, the party or coalition of parties with the majority seats in the Sejm forms the government, so the question about trust in the parliament can be treated as pertaining not only to legislative but partially also to the executive branch. We replicate substantially the same results using the item on trust in political parties and present these analyses in the Online Supplement, Appendix 5. These similarities between results of models of trust in different institutions substantiate the practice of treating the trust in parliament item as a measure of trust in the entire political system (Klingemann 1999; Dalton et al. 2010; Newton and Zmerli 2011). With regard to performance evaluations, we distinguish between the assessment of general economic performance and assessments of government’s efficiency in reducing unemployment and corruption. We code respondents as “winners” if they report having voted for the party forming the government at the time of the survey (cf. Stiers et al. 2018).5 In 2013, winners were voters for PO or PSL; in 2018—voters for PiS. The non-winners include those who voted for one of the opposition parties and those who did not vote at all. Appendix 1 in the Online Supplement contains English translations of question wordings of the focal survey items. Summary statistics of all variables included in the analysis are presented in Table 1, and show, among others, how strikingly low trust in parliament in Poland generally is: in 2013, average trust was around 0.88 on the scale from 0 to 4 (77% of respondents chose one of the two negative response options), and increased by 0.26 to 1.14 in 2018 (65% negative responses). Compared to these low levels of trust, evaluations of state performance were comparatively higher and saw a greater increase in 2018. Table 1 also provides correlations of the variables measured in 2013 and 2018, indicating how stable the various characteristics are over time. PiS voters proved the least volatile, which is in line with the latest results on the stability of support for populist parties, especially those with established parliamentary representation (Voogd and Dassonneville 2020). The correlation of 0.15 in the case of trust in parliament shows that it is not a stable characteristic of individuals, especially when compared to interest in politics, for which
+
+4  We examined panel attrition and found no evidence of selection on the key variables important in our analysis (see the Online Supplement, Appendix 4). 5  The winners’ bonus in political trust arguably stems from the fact of supporting the party or parties in power, rather than the party or parties that received the greatest number of votes if they did not end up as part of the cabinet. In the latter case, using the share of votes obtained by each party or on the share of seats in the legislature would be a more appropriate basis for constructing indicators of winner status. Following Poland’s elections of 2011 and 2015, cabinets were formed by the party that won the majority of the votes and parliamentary seats (in 2011 PSL joined PO as a junior coalition partner), we are not able to distinguish the effect of supporting the winning party understood as the one forming the government, and the winning party as the one that received the most votes.
+
+389 Seeing the world through party‑tinted glasses: performance…
+
+Table 1   Descriptive statistics
+
+Variable Mean Std. Dev Min Max Correlations between 2013 and 2018 values
+
+Overall (N = 2188)
+
+Trust in parliament 1.009 0.856 0 4 0.146
+
+Economy 2.006 1.134 0 4 0.082
+
+Unemployment 1.695 1.108 0 4 − 0.059
+
+Corruption 1.723 1.172 0 4 − 0.002
+
+Interest in politics 1.605 0.986 0 4 0.529
+
+Party
+
+Not voted 0.264 0 1 0.364
+
+PO 0.286 0 1 0.445
+
+PiS 0.285 0 1 0.519
+
+PSL 0.048 0 1 0.244
+
+Left 0.027 0 1 0.174
+
+Other 0.091 0 1 0.224
+
+Winner 0.374 0 1 − 0.236
+
+2013 (N = 1094)
+
+Trust in parliament 0.879 0.799 0 3
+
+Economy 1.441 1.082 0 4
+
+Unemployment 1.122 0.989 0 4
+
+Corruption 1.264 1.106 0 4
+
+Interest in politics 1.503 0.982 0 4
+
+Party
+
+Not voted 0.292 0 1
+
+PO 0.338 0 1
+
+PiS 0.219 0 1
+
+PSL 0.059 0 1
+
+Left 0.038 0 1
+
+Other 0.053 0 1
+
+Winner (PO + PSL) 0.398 0 1
+
+2018 (N = 1094)
+
+Trust in parliament 1.138 0.890 0 4
+
+Economy 2.572 0.873 0 4
+
+Unemployment 2.269 0.906 0 4
+
+Corruption 2.181 1.051 0 4
+
+Interest in politics 1.707 0.981 0 4
+
+Party
+
+Not voted 0.236 0 1
+
+PO 0.234 0 1
+
+PiS 0.350 0 1
+
+PSL 0.036 0 1
+
+Left 0.015 0 1
+
+Other 0.130 0 1
+
+390 M. Kołczyńska, I. Sadowski
+
+the inter-wave correlation is 0.53. Correlations of performance evaluations are even lower and do not exceed 0.1. Because of the change in the composition of the government in 2015, the correlation of winner status in 2013 and 2018 is negative. Its moderate strength illustrates the relative volatility of party preferences. The mobility matrix by electoral status in 2013 and 2018 is provided in the Online Supplement, Appendix 2. The analysis presented in this article relies on linear fixed-effects (within-person) regression models as implemented in the xtreg routine in Stata 15.1. These models do not accommodate time-invariant characteristics that are often included in analyses of political trust, such as gender and education (individuals can in principle continue education beyond the age of 26, but in practice, only a very small share of people do). While church attendance is an important predictor of party preferences and voting behavior (Grabowska 2017), it is also a very stable characteristic, and including it in no way changes the results. Thus, we only include one control variable—political interest as an indicator of an informed opinion (Delli Carpini and Keeter 1996).
+
+Results
+
+Performance evaluations
+
+Table  2 presents the results of models predicting respondents’ evaluations of the economy and government’s performance in reducing corruption and unemployment. Models 1.1, 1.3, and 1.5 show that winner status is a strong predictor of performance evaluations in all three areas under investigation, in each case explaining between a third and half of within-person variation in the dependent variable. According to Models 1.2, 1.4, and 1.6, the effect of winner status was substantially stronger in 2018 compared to 2013. Changes in the log-likelihood show that adding this interaction significantly improves model fit. The increase in the winner effect was greater for evaluations of the government’s actions aimed at reducing corruption and unemployment than with regard to evaluations of the country’s economic situation, which was to be expected given that the questions about corruption and unemployment explicitly mention government’s efforts, while the question about the economy does not. Specifically, the winner advantage in assessments of economic performance grew from 0.54 in 2013 to 0.86 in 2018, while in the case of reducing corruption and unemployment, the increase was from 0.40 to 1.00, and from 0.33 to 0.94, respectively. This result supports the part of Hypothesis 1 that pertains to the
+
+Table 1   (continued)
+
+Variable Mean Std. Dev Min Max Correlations between 2013 and 2018 values
+
+Winner (PiS) 0.350 0 1
+
+391 Seeing the world through party‑tinted glasses: performance…
+
+increase in winner effects on performance evaluation in more polarized contexts. It should also be noted that performance evaluations between 2013 and 2018 improved for everyone, regardless of the change in electoral winner status.
+
+Political trust
+
+We now turn to the joint analysis of within-person changes in winner status, performance evaluations, and trust in parliament. Models 2.1–2.6 are given in Table 3. Model 2.1 shows the ‘gross’ change in trust in parliament between 2013 and 2018 in Poland, with statistical control of only one factor, interest in politics. This increase is substantial and in line with earlier results from the European Social Survey. When three performance indicators are added in Model 2.2, it becomes clear that this rise can be primarily attributed to them. The three measures separately retain statistical significance. Model 2.3 points to an average winner advantage in trust in parliament of around half a point. Further, Model 2.4 adds an interaction between winner status and the year, showing that the winners’ advantage increased from 0.28 in 2013 to as much as 0.84 in 2018. This result supports the part of Hypothesis 1 that
+
+Table 2   Linear fixed-effects models regressing performance evaluations on electoral winner status
+
+N = 2188 observations, 1094 respondents. Standard errors in parentheses
+
++  p < 0.10, *p < 0.05, **p < 0.01, ***p < 0.001
+
+Performance Model 1.1 Model 1.2 Model 1.3 Model 1.4 Model 1.5 Model 1.6
+
+Economy Corruption Unemployment
+
+Year 2018 1.16*** 1.01*** 0.95*** 0.71*** 1.17*** 0.93***
+
+(0.04) (0.09) (0.05) (0.11) (0.04) (0.10)
+
+Winner 0.70*** 0.54*** 0.70*** 0.40*** 0.63*** 0.33**
+
+(0.05) (0.10) (0.06) (0.11) (0.06) (0.10)
+
+Non-voter 0.24** 0.18 +  0.23* 0.16 0.22* 0.17
+
+(0.08) (0.10) (0.09) (0.12) (0.08) (0.11)
+
+Winner * 2018 0.32* 0.60** 0.61***
+
+(0.16) (0.18) (0.17)
+
+Non-voter * 2018 0.11 0.09 0.04
+
+(0.13) (0.15) (0.14)
+
+Interest in politics 0.07+  0.07+  0.04 0.04 0.08* 0.08*
+
+(0.04) (0.04) (0.05) (0.05) (0.04) (0.04)
+
+Constant 0.98*** 1.07*** 0.86*** 1.00*** 0.68*** 0.82***
+
+(0.08) (0.07) (0.09) (0.10) (0.08) (0.09)
+
+Within ­R2 0.505 0.507 0.346 0.354 0.476 0.485
+
+Between ­R2 0.023 0.012 0.015 0.026 0.020 0.026
+
+Overall ­R2 0.305 0.297 0.201 0.211 0.314 0.319
+
+Rho 0.404 0.411 0.358 0.358 0.332 0.336
+
+Log likelihood − 2042.5 − 2038.1 − 2386.0 − 2372.6 − 2160.2 − 2140.7
+
+392 M. Kołczyńska, I. Sadowski
+
+Table 3   Linear fixed-effects models regressing trust in parliament on performance evaluations and electoral winner status
+
+N = 2188 observations, 1094 respondents. Standard errors in parentheses
+
++  p < 0.10, *p < 0.05, **p < 0.01, ***p < 0.001
+
+Trust in parliament Model 2.1 Model 2.2 Model 2.3 Model 2.4 Model 2.5 Model 2.6
+
+Year 2018 0.22*** − 0.22*** 0.26*** 0.00 − 0.27** − 0.37***
+
+(0.03) (0.04) (0.03) (0.08) (0.08) (0.09)
+
+Winner 0.56*** 0.28* 0.15* 0.32**
+
+(0.04) (0.08) (0.08) (0.12)
+
+Non-voter 0.12+  0.01 − 0.04 0.10
+
+(0.07) (0.08) (0.08) (0.11)
+
+Winner * 2018 0.56*** 0.41** 0.53***
+
+(0.13) (0.12) (0.14)
+
+Non-voter * 2018 0.18+  0.16 0.31*
+
+(0.10) (0.10) (0.13)
+
+Economy 0.15*** 0.10*** 0.14***
+
+(0.02) (0.02) (0.04)
+
+Corruption 0.10*** 0.07** 0.07 +
+
+(0.03) (0.02) (0.04)
+
+Unemployment 0.16*** 0.13*** 0.17***
+
+(0.03) (0.03) (0.05)
+
+Winner * Economy − 0.11*
+
+(0.05)
+
+Winner * Corruption 0.00
+
+(0.05)
+
+Winner * Unemployment − 0.01
+
+(0.07)
+
+Non-voter * Economy − 0.04
+
+(0.06)
+
+Non-voter * Corruption 0.00
+
+(0.06)
+
+Non-voter * Unemployment − 0.10
+
+(0.07)
+
+Interest in politics 0.18*** 0.15*** 0.16*** 0.16*** 0.14*** 0.14***
+
+(0.03) (0.03) (0.03) (0.03) (0.03) (0.03)
+
+Constant 0.60*** 0.13* 0.38*** 0.53*** 0.25** 0.16 +
+
+(0.06) (0.06) (0.06) (0.07) (0.08) (0.09)
+
+Within ­R2 0.076 0.239 0.206 0.220 0.289 0.294
+
+Between ­R2 0.022 0.166 0.060 0.082 0.194 0.194
+
+Overall ­R2 0.043 0.198 0.122 0.141 0.235 0.238
+
+Rho 0.404 0.409 0.430 0.428 0.419 0.417
+
+Log likelihood − 1780.1 − 1568.0 − 1614.4 − 1594.1 − 1493.4 − 1484.9
+
+393 Seeing the world through party‑tinted glasses: performance…
+
+pertains to trust. At the same time, non-voters in 2018 seem to be more trusting toward the parliament, though the coefficient is short of being significant at the 0.05 threshold. Overall, the year, electoral status, and interest in politics account for around 22% of within-person variation in trust in parliament, while about 43% of the total unexplained variance can be attributed to within-person changes. Estimated levels of trust in parliament depending on electoral status and year are presented in Fig. 4. In Model 2.5, performance evaluations and winner status are entered together. Coefficients for variables: economy, corruption, and unemployment are substantially smaller than in Model 2.2, roughly by a third in the case of evaluations of the economy and fighting corruption, and by about a fifth in the case of unemployment reduction. This provides prima facie evidence in support of the mediation hypothesis (Hypothesis 2). To verify this hypothesis more rigorously, we ran mediation analyses where coefficients are estimated as within-person effects with the statistical control of year, non-voting, and interest in politics (to correspond with further analyses). Results are presented in Table 4. Performance indicators mediate from 20 to 24% of the impact of winner status on trust in parliament. This result strengthens support for Hypothesis 2. We now turn to testing the strong version of the ‘party-tinted glasses’ hypothesis. Model 2.6 in Table 3 adds interactions between electoral statuses and performance evaluations. The significant negative effect of interaction between winner status and opinion on the economy is consistent with the moderation hypothesis. In the case of evaluations of the state of the economy, winner status ‘desensitizes’ supporters of the ruling party to economic performance. In other words, what winners think of the economy is less relevant for political trust, as they derive more trust in parliament from their winner status. Figure 5 shows estimated levels of political trust depending on electoral status and evaluation of economic performance to illustrate
+
+Fig. 4   Estimated levels of trust in parliament depending on electoral status and year, based on Model 2.4 from Table 3. Error bars indicate 95% confidence intervals
+
+394 M. Kołczyńska, I. Sadowski
+
+the ‘desensitizing’ moderation effect. The plotted results also show that, with regard to the effect of economic performance evaluations on trust in parliament, non-voters are much more similar to losers than to winners. What is important, the mediation effect does not depend on the survey year—further dissection does not show statistically significant differences between 2013 and 2018 (analysis not shown). Taken together, these results support our ‘party-tinted glasses’ hypothesis with regard to evaluations of economic performance, and align with the motivated reasoning
+
+Table 4   Mediation effects in within-person changes
+
+N = 2188 observations, 1094 respondents. Control variables included non-voting, year and interest in politics. All variables demeaned. Standard errors in parentheses
+
++  p < 0.10, *p < 0.05, **p < 0.01, ***p < 0.001. Bootstrap standard errors provided for indirect effects
+
+Performance indicator: Economy Corruption Unemployment
+
+Winner—[performance] 0.70*** 0.70*** 0.63***
+
+(0.04) (0.04) (0.05)
+
+[Performance]—trust 0.16*** 0.16*** 0.21***
+
+(0.02) (0.01) (0.01)
+
+Winner—trust (total effect) 0.56*** 0.56*** 0.56***
+
+(0.03) (0.03) (0.03)
+
+Winner—trust (direct effect) 0.45*** 0.45*** 0.43***
+
+(0.03) (0.03) (0.03)
+
+Winner—trust (indirect effect) 0.12*** 0.11*** 0.13***
+
+(0.00) (0.00) (0.00)
+
+Proportion of effect mediated 0.21 0.20 0.24
+
+Fig. 5   Estimated levels of trust in parliament depending on electoral status and evaluations of economic performance, based on Model 2.6 from Table 3. Error ribbons indicate 95% confidence intervals
+
+395 Seeing the world through party‑tinted glasses: performance…
+
+theory. However, we observe no such patterns regarding opinions on policies concerning corruption or unemployment. We also examined differences between fixed-effects models that only model within-person changes and corresponding mixed-effects models that combine within- and between-person variation. The results are available in Appendix 3 in the Online Supplement. The differences between coefficients in fixed-effects and random-effects models are not substantial, and both provide support for the same hypotheses, yet those differences are significant (p < 0.01 in the Hausman test) and, thus, it is preferred to rely on the former.
+
+Discussion and conclusions
+
+Our analysis examined the role of electoral winner status and perceived performance of the economy and government’s policies on trust in parliament with two waves of the Polish Panel Survey, from the years 2013 and 2018. We exploited the change in the government composition following the 2015 election in Poland to identify the effect of the change in winner status, as well as the increase in political polarization over the studied period. This way, we obtained a setting with a clear ‘treatment’ (shift of power) in the well-documented context of strong political polarization. In such a setting, we have formulated and tested three hypotheses regarding the effect of winner status on trust in the key political institution. The first hypothesis expected that the effect of winner status on performance evaluations and trust in parliament will increase with increasing political polarization. Indeed, we found that the winner effect was much higher in 2018 compared to 2013. In the case of trust in parliament, those who had been winners and became losers experienced a substantial decline in trust, while those who from losers became winners saw an increase in trust over three times the size of that decline. In the case of performance evaluations, all groups experienced an increase between 2013 and 2018, but evaluations increased the most among those who were losers in 2013 and winners in 2018, and the least among those who were winners in 2013 and losers in 2018.6 We also found, in line with Hypothesis 2, that performance evaluations partly mediate the winner effect on trust in parliament. We further expected that supporting the governing party would moderate the relationship between performance evaluations and trust in parliament. It was the strongest variant of what we figuratively called the ‘party-tinted glasses’ effect. Our results pointed to economic performance evaluations as subject to such moderation, but not the other two aspects of performance evaluation. As we established, winners were more politically trustful while at the same time their trust was less sensitive to evaluations of economic performance,
+
+6  The increase in performance evaluations can be traced to two facts. First involves general trends— while in 2013 economies in Central and Eastern Europe were still recovering after the eurozone crisis (GDP was still relatively flat at the time), they were already booming in 2018. The second involves welfare programs introduced by the PiS government that became widely popular (Gromadzki et al. 2022). Paradoxically then, during the period of democratic backsliding, the national average of political trust has peaked.
+
+396 M. Kołczyńska, I. Sadowski
+
+whereas opposition supporters and non-voters based their trust more on views concerning the state of the economy. The case of Poland is in many ways instructive for studying political polarization and trust in political institutions. The relatively short experience with liberal democracy in the region means that the reservoir of diffuse support for the democratic political system, which could play a stabilizing role for the more specific forms of political support, is shallower than in established democracies. As a result, increasing polarization translates into extraordinarily high gaps in political trust between supporters of government and of opposition. The increase in the winner–loser gap in political trust during a time of democratic backsliding extends the cross-national findings about the connection between democratic quality and gaps in political support by Nadeau et  al. (2021) to a longitudinal setting. The winner effect in political trust was present both before and after the 2015 election, yet it became much more pronounced under PiS’ rule. However, we found no difference in the effect of moderation by winner status of the effect of evaluations of economic performance in the 2013 and 2018 survey. In other words, motivated reasoning characterized voters of parties labeled both ‘liberal’ and ‘right-wing populist.’ Considering more general implications of our findings, we conclude that in the context of strong partisan polarization, electoral winner status acquires a more prominent role in shaping both political trust and evaluations of state performance and the economy. Methodologically, this means that omitting party preferences from the trust equation may lead to wrongly attributing the effects to other characteristics and, in particular, may upwardly bias estimates of the effect of performance evaluations. The second consideration is theoretical. Within the broader concept of political support, political trust is understood as a middle-range indicator, situated between the more general support for the sociopolitical system and its fundamental principles on the one hand, and support for particular policies or actors on the other (Easton 1975; Norris 1999). Theoretically, high political trust provides stability and legitimacy necessary for democracies to thrive. If political trust is more a reflection of electoral winner status than of performance evaluation and general approval of the political system, this would mean that the extent to which high political trust is conducive to democracy—or the democratic utility of political trust—is lower than it would seem. Considerable volatility and within-person changes of political trust suggest that it is closer to specific than to diffuse notions of political support—using Easton’s terms (1975). When analyzing the consequences of political trust on governance, it is thus advisable to consider not only mean levels but also the dispersion of trust in the society, and to use survey measures that are more likely to tap into broader legitimacy beliefs. Our analysis naturally has some limitations. While the data leave little doubt that political polarization in Poland has increased in recent years, increases in all measurable aspects of polarization make it impossible to determine which of them is crucial for increasing winner–loser gaps in performance assessments and political trust. Additionally, in Poland, the increase in polarization coincided with democratic backsliding, whose effect in our analysis cannot be distinguished from that of polarization. Repeating our study in a country that experienced an increase in polarization
+
+397 Seeing the world through party‑tinted glasses: performance…
+
+without a parallel decline in democratic quality, and vice versa, would shed light on this issue. We also faced limitations related to the available data. Our analysis is based on a sample that, due to the design of the panel study, is restricted to respondents aged 26–70 in 2018. We are unable to directly confirm the observed patterns for the youngest or oldest voters. We may only speculate that in the categories remaining largely outside of the labor market the performance evaluations can be shaped differently. Further research on determinants of political trust could proceed in different directions. First, a longer panel time series would enable distinguishing between the effects of changing one’s status from winner to loser and switching parties, as well as a better examination of the durability of the winner–loser gap in political trust and in performance evaluations. Second, a comparative analysis across countries could answer whether the size of the trust bonus among electoral winners is associated with characteristics of a political cleavage, of the winning party or of the voter base. Including other aspects of state performance and opinion on specific policies would lead to identifying further potential mediators of the winner-trust link.
+
+Supplementary Information  The online version contains supplementary material available at https://​doi.​ org/​10.​1057/​s41269-​022-​00249-4.
+
+Acknowledgements  We thank Bogdan W. Mach, Leonie Schnieders, and Antonia Höchst, for their feedback on earlier versions of this paper.
+
+Funding  Grant from the Polish National Science Centre (2019/32/C/HS6/00421).
+
+Declarations
+
+Conflict of interest  On behalf of all authors, the corresponding author states that there is no conflict of interest.
+
+Replication materials  Data and code necessary to reproduce all analyses are available in the OSF repository: https://​osf.​io/​f3acb/.
+
+References
+
+Adekoya, R. 2016. ‘Poland’s Martyrology. PiS and the Smolensk Disaster’, Foreign Affairs, April 9.
+
+https://​www.​forei​gnaff​airs.​com/​artic​les/​2016-​04-​09/​polan​ds-​marty​rology. Anderson, C.J., et al. 2005. Losers’ Consent. Elections and Democratic Legitimacy. Oxford: Oxford University Press. https://​doi.​org/​10.​1093/​01992​76382.​001.​0001. Anderson, C.J., and C.A. Guillory. 1997. Political Institutions and Satisfaction with Democracy: A CrossNational Analysis of Consensus and Majoritarian Systems. American Political Science Review 91 (1): 66–81. https://​doi.​org/​10.​2307/​29522​59. Bailey, J. 2019. The Fact Remains: Party ID Moderates How Voters Respond to Economic Change. Electoral Studies 61 (August): 102071. https://​doi.​org/​10.​1016/j.​elect​stud.​2019.​102071. Bill, S. 2020. Counter-Elite Populism and Civil Society in Poland: PiS’s Strategies of Elite Replacement. East European Politics and Societies: and Cultures. https://​doi.​org/​10.​1177/​08883​25420​950800.
+
+398 M. Kołczyńska, I. Sadowski
+
+Bowler, S., and T. Donovan. 2007. Reasoning About Institutional Change: Winners, Losers and Support for Electoral Reforms. British Journal of Political Science 37 (3): 455–476. https://​doi.​org/​10.​1017/​ S0007​12340​70002​45. Coppedge, M., J. Gerring, C.H. Knutsen, S.I. Lindberg, J. Teorell, N. Alizada, et  al. 2021a. V-Dem [Country–Year/Country–Date] Dataset v11.1. Varieties of Democracy Project. https://​doi.​org/​10.​ 23696/​vdemd​s21. Coppedge, M., J. Gerring, C.H. Knutsen, S.I. Lindberg, J. Teorell, D. Altman, et al. 2021b. V-dem Codebook v. 11.1. Varieties of Democracy (V-Dem) Project. Dahlberg, S., and J. Linde. 2016. Losing Happily? The Mitigating Effect of Democracy and Quality of Government on the Winner-Loser Gap in Political Support. International Journal of Public Administration 39 (9): 652–664. https://​doi.​org/​10.​1080/​01900​692.​2016.​11778​31. Dalton, R.J. 2008. The Quantity and the Quality of Party Systems: Party System Polarization, Its Measurement, and Its Consequences. Comparative Political Studies 41 (7): 899–920. https://​doi.​ org/​10.​1177/​00104​14008​315860. Dalton, R., A. Van Sickle, and S. Weldon. 2010. The Individual-Institutional Nexus of Protest Behaviour. British Journal of Political Science 40 (1): 51–73. https://​doi.​org/​10.​1017/​S0007​12340​ 99903​8X. Delli Carpini, M.X., and S. Keeter. 1996. What Americans Know About Politics and Why It Matters. New Haven: Yale University Press. Druckman, J.N., E. Peterson, and R. Slothuus. 2013. How Elite Partisan Polarization Affects Public Opinion Formation. American Political Science Review 107 (1): 57–79. https://​doi.​org/​10.​1017/​ S0003​05541​20005​00. Dunn, K. 2015. Voice, Representation and Trust in Parliament. Acta Politica 50 (2): 171–192. https://​
+
+doi.​org/​10.​1057/​ap.​2014.​15. Easton, D. 1975. A Re-Assessment of the Concept of Political Support. British Journal of Political Science 5 (4): 435–457. https://​doi.​org/​10.​1017/​S0007​12340​00083​09. Enders, A.M., and M.T. Armaly. 2019. The Differential Effects of Actual and Perceived Polarization. Political Behavior 41 (3): 815–839. https://​doi.​org/​10.​1007/​s11109-​018-​9476-2. Enns, P.K., P.M. Kellstedt, and G.E. McAvoy. 2012. The Consequences of Partisanship in Economic Perceptions. Public Opinion Quarterly 76 (2): 287–310. https://​doi.​org/​10.​1093/​poq/​nfs016. Esaiasson, P. 2011. Electoral Losers Revisited—How Citizens React to Defeat at the Ballot Box. Electoral Studies 30 (1): 102–113. https://​doi.​org/​10.​1016/j.​elect​stud.​2010.​09.​009. Etkind, A., et al. 2012. Remembering Katyn. Cambridge: Polity Press. European Social Survey. 2020. ‘European Social Survey Cumulative File, ESS 1-9. Data file edition 1.0’. NSD - Norwegian Centre for Research Data, Norway - Data Archive and distributor of ESS data for ESS ERIC. https://​doi.​org/​10.​21338/​NSD-​ESS-​CUMUL​ATIVE. Finkel, E.J., et al. 2020. Political Sectarianism in America. Science 370 (6516): 533–536. https://​doi.​
+
+org/​10.​1126/​scien​ce.​abe17​15. Freedom House. 2020. Freedom in the World. Country and Territory Ratings and Statuses, 1973– 2020. https://​freed​omhou​se.​org/​report/​freed​om-​world. Fuchs, D., and H.-D. Klingemann. 1995. Citizens and the State: A Changing Relationship? In Citizens and the State, ed. H.-D. Klingemann and D. Fuchs, 1–23. Oxford: Oxford University Press. Górska, P. 2019. Polaryzacja polityczna w Polsce. Jak bardzo jesteśmy podzieleni? Warszawa. http://​
+
+cbu.​psych​ologia.​pl/​uploa​ds/f_​bulska/​Polar​yzacj​apoli​tyczn​a2.​pdf. Grabowska, M. 2017. Religiosity, the Catholic Church, and Politics in Poland. In Religion, Politics, and Values in Poland, 257–288. New York: Palgrave Macmillan US. https://​doi.​org/​10.​1057/​ 978-1-​137-​43751-8_​12. Gromadzki, J., K. Sałach, and M. Brzezinski. 2022. When Populists Deliver on Their Promises: The Electoral Effects of a Large Cash Transfer Program in Poland. SSRN Electronic Journal. https://​ doi.​org/​10.​2139/​ssrn.​40135​58. Hakhverdian, A., and Q. Mayne. 2012. Institutional Trust, Education, and Corruption: A MicroMacro Interactive Approach. The Journal of Politics 74 (3): 739–750. https://​doi.​org/​10.​1017/​ S0022​38161​20004​12. Hetherington, M.J., and T.J. Rudolph. 2015. Why Washington Won’t Work: Polarization, Political Trust, and the Governing Crisis. Chicago: University of Chicago Press. Hetherington, M.J., and T.J. Rudolph. 2017. Political Trust and Polarization. In The Oxford Handbook of Social and Political Trust, ed. E.M. Uslaner. Oxford: Oxford University Press. https://​doi.​org/​ 10.​1093/​oxfor​dhb/​97801​90274​801.​013.​15.
+
+399 Seeing the world through party‑tinted glasses: performance…
+
+Hooghe, M., R. Dassonneville, and S. Marien. 2015. The Impact of Education on the Development of Political Trust: Results from a Five-Year Panel Study among Late Adolescents and Young Adults in Belgium. Political Studies 63 (1): 123–141. https://​doi.​org/​10.​1111/​1467-​9248.​12102. Iyengar, S., G. Sood, and Y. Lelkes. 2012. Affect, Not Ideology: Social Identity Perspective on Polarization. Public Opinion Quarterly 76 (3): 405–431. https://​doi.​org/​10.​1093/​poq/​nfs038. Klingemann, H.H.-D. 1999. Mapping Political Support in the 1990s. In Critical Citizens: Global Support for Democratic Governance, ed. P. Norris, 31–56. Oxford: Oxford University Press. https://​doi.​org/​ 10.​1093/​01982​95685.​003.​0002. Kołczyńska, M. 2021. The Economy and Governance as Determinants of Political Trust in Europe: An Analysis of the European Values Study and World Values Survey, 1990–2019. Czech Sociological Review 56 (6): 791–834. https://​doi.​org/​10.​13060/​csr.​2020.​051. Kunda, Z. 1990. The Case for Motivated Reasoning. Psychological Bulletin 480 (3): 482–483. Martini, S., and M. Quaranta. 2019. Political Support Among Winners and Losers: Within- and BetweenCountry Effects of Structure, Process and Performance in Europe. European Journal of Political Research 58 (1): 341–361. https://​doi.​org/​10.​1111/​1475-​6765.​12284. Nadeau, R., J. Daoust, and R. Dassonneville. 2021. Winning, Losing, and the Quality of Democracy. Political Studies. https://​doi.​org/​10.​1177/​00323​21721​10261​89. Newton, K., and S. Zmerli. 2011. Three Forms of Trust and their Association. European Political Science Review 3 (2): 169–200. https://​doi.​org/​10.​1017/​S1755​77391​00003​30. Norris, P. 1999. Introduction: The Growth of Critical Citizens? In Critical Citizens: Global Support for Democratic Government, ed. Pippa Norris, 1–28. Oxford: Oxford University Press. https://​doi.​org/​ 10.​1093/​01982​95685.​003.​0001. Norris, P. 2011. Democratic Deficit: Critical Citizens Revisited, Democratic Deficit: Critical Citizens Revisited. Cambridge: Cambridge University Press. https://​doi.​org/​10.​1017/​CBO97​80511​973383. Peterson, E., and S. Iyengar. 2020. Partisan Gaps in Political Information and Information-Seeking Behavior: Motivated Reasoning or Cheerleading? American Journal of Political Science 00 (00): 1–15. https://​doi.​org/​10.​1111/​ajps.​12535. Rooduijn, M. et al. 2020. The PopuList: An Overview of Populist, Far Right, Far Left and Eurosceptic Parties in Europe, 2.0. www.​popu-​list.​org. Santora, M. 2018. After a President’s Shocking Death, a Suspicious Twin Reshapes a Nation. The New York Times, June 16. https://​www.​nytim​es.​com/​2018/​06/​16/​world/​europe/​poland-​kaczy​nski-​smole​ nsk.​html. Schmitt, H. et al. 2016. European Parliament Election Study 2014, Voter Study, First Post-Election Survey. GESIS Data Archive, Cologne. ZA5160 Data file Version 4.0.0. https://​doi.​org/​10.​4232/1.​ 12628. Schmitt, H. et al. 2020. European Parliament Election Study 2019, Voter Study. GESIS Data Archive, Cologne. ZA7581 Data file Version 1.0.0. https://​doi.​org/​10.​4232/1.​13473. Słomczyński, K.M., I. Tomescu-Dubrow, and Institute of Philosophy and Sociology Polish Academy of Sciences. 2021. Polish Panel Survey POLPAN. https://​doi.​org/​10.​7910/​DVN/​DAPH0P. Stiers, D., J. Daoust, and A. Blais. 2018. What Makes People Believe That their Party Won the Election? Electoral Studies 55 (July): 21–29. https://​doi.​org/​10.​1016/j.​elect​stud.​2018.​07.​002. Stokes, D.E. 1963. Spatial Models of Party Competition. American Political Science Review 57 (2): 368– 377. https://​doi.​org/​10.​2307/​19528​28. Taber, C.S., and M. Lodge. 2006. Motivated Skepticism in the Evaluation of Political Beliefs. American Journal ofPolitical Science 50 (3): 755–769. https://​doi.​org/​10.​1111/j.​1540-​5907.​2006.​00214.x. Tomescu-Dubrow, I., et al. 2021. The Polish Panel Survey, POLPAN. European Sociological Review 37 (5): 849–864. https://​doi.​org/​10.​1093/​esr/​jcab0​17. Torcal, M. 2014. The Decline of Political Trust in Spain and Portugal. American Behavioral Scientist 58 (12): 1542–1567. https://​doi.​org/​10.​1177/​00027​64214​534662. Tworzecki, H. 2019. Poland: A Case of Top-Down Polarization. The ANNALS of the American Academy of Political and Social Science 681 (1): 97–119. https://​doi.​org/​10.​1177/​00027​16218​809322. Van Bavel, J.J., and A. Pereira. 2018. The Partisan Brain: An Identity-Based Model of Political Belief. Trends in Cognitive Sciences 22 (3): 213–224. https://​doi.​org/​10.​1016/j.​tics.​2018.​01.​004. van der Meer, T. 2010. In What We Trust? A Multi-level Study into Trust in Parliament as an Evaluation of State Characteristics. International Review of Administrative Sciences 76 (3): 517–536. https://​ doi.​org/​10.​1177/​00208​52310​372450.
+
+400 M. Kołczyńska, I. Sadowski
+
+van der Meer, T., and P. Dekker. 2011. Trustworthy States, Trusting Citizens? A Multilevel Study into Objective and Subjective Determinants of Political Trust. In Political trust. Why context matters, ed. S. Zmerli and M. Hooghe, 95–116. Colchester: ECPR Press. van der Meer, T., and A. Hakhverdian. 2017. Political Trust as the Evaluation of Process and Performance: A Cross-National Study of 42 European Countries. Political Studies 65 (1): 81–102. https://​ doi.​org/​10.​1177/​00323​21715​607514. van der Meer, T.W.G., and E.H. Steenvoorden. 2018. Going Back to the Well: A Panel Study into the Election Boost of Political Support Among Electoral Winners and Losers. Electoral Studies 55: 40–53. https://​doi.​org/​10.​1016/j.​elect​stud.​2018.​06.​007. Voogd, R., and R. Dassonneville. 2020. Are the Supporters of Populist Parties Loyal Voters? Dissatisfaction and Stable Voting for Populist Parties. Government and Opposition 55 (3): 349–370. https://​doi.​ org/​10.​1017/​gov.​2018.​24. Voogd, R., T. van der Meer, and W. van der Brug. 2018. Political Trust as a Determinant of Volatile Vote Intentions: Separating Within- From Between-Person Effects. International Journal of Public Opinion Research. https://​doi.​org/​10.​1093/​ijpor/​edy029. Wass, H. 2007. The Effects of Age, Generation and Period on Turnout in Finland 1975–2003. Electoral Studies 26 (3): 648–659. https://​doi.​org/​10.​1016/j.​elect​stud.​2007.​06.​002. Żuk, P. 2020. One Leader, One Party, One Truth: Public Television Under the Rule of the Populist Right in Poland in the Pre-Election Period in 2019. Javnost. https://​doi.​org/​10.​1080/​13183​222.​2020.​ 17944​13.
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Marta Kołczyńska  is an assistant professor at the Institute of Political Studies of the Polish Academy of Sciences. Her research interests include political attitudes and behavior, in particular the causes and consequences of political support.
+
+Ireneusz Sadowski  is a sociologist, professor at the Institute of Political Studies of the Polish Academy of Sciences, Deputy Director at this Institute, and Deputy Editor of the Polish Sociological Review. His research interests prominently include institutional change, political behavior, social structure, and determinants of institutionalized choice. He recently published in Intelligence, Sex Roles, and East European Politics and Societies.
+
+Reproduced with permission of copyright owner. Further reproduction prohibited without permission.

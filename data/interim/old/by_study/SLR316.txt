@@ -1,0 +1,337 @@
+Intereconomics, July/August 2009
+
+INSTITUTIONS
+
+203
+
+T he collapse of Lehmann Brothers in mid-September 2008 had an enormous impact on the ﬁ nancial markets and the global economy by undermining trust – trust in counterparties among banks and trust in the overall stability of the ﬁ nancial system, but also citizens’ trust in their institutions – systemic trust – and the validity of the underlying principles. It is thus not surprising that re-establishing trust in the ﬁ nancial system has become a key task for policymakers throughout Europe (and the USA). This paper aims to contribute to the ongoing discussion of the impact of the ﬁ nancial crisis on trust by presenting recent empirical results concerning the reaction to the crisis as reﬂ ected in citizens’ diminished levels of systemic trust. Within the paradigm of systemic trust, special attention is given to the conﬁ dence invested in: i) political institutions at European and national level and ii) the free market economy.
+
+The paper ﬁ rst brieﬂ y elaborates on the key role of systemic trust and cites some basic ﬁ gures concerning public demand for more state intervention. Using time series data1 from the public opinion monitoring unit of the European Commission (Eurobarometer), the consequences of the ﬁ nancial crisis on public opinion vis-à-vis the three major European institutions: the European Central Bank, the European Commission and the European Parliament are then demonstrated. This is followed by an examination of the relationship between European and national institutions using time trend data on trust towards national governments and national parliaments from Eurobarometer and the
+
+Felix Roth* The Effect of the Financial Crisis on Systemic Trust
+
+Policymakers throughout Europe are faced with the challenge of re-establishing trust, and especially systemic or institutional trust, that has been lost in the wake of the ﬁ nancial crisis. This paper looks at recent empirical evidence concerning the reaction to the crisis in terms of citizens’ diminished levels of systemic trust. Special attention is paid to the conﬁ dence invested in political institutions at the European and the national level, on the one hand, and in the free market economy, on the other.
+
+* Research Fellow, Centre for European Policy Studies (CEPS), Brussels, Belgium. The author wishes to thank the Austrian Ministry of Finance for its grant to ﬁ nance the study “Who can be trusted after this ﬁ nancial crisis?” This paper was produced as part of the project. He also wishes to thank Daniel Gros for valuable comments and suggestions and Edmond Coughlan and Chiara Coldebella for excellent research assistance.
+
+Edelman Trust Barometer. Finally, cross-country results for the ﬁ ve largest European economies and the USA and time trend data for Germany are presented to demonstrate how the conﬁ dence levels in social market economies per se have been falling after the ﬁ nancial crisis.1
+
+The Key Role of Sufﬁ cient Levels of Systemic Trust
+
+Social scientists from all ﬁ elds agree that a sufﬁ cient level of trust, especially systemic or institutional trust, plays a crucial part in the stability and maintenance of the social, political and economic system. When trust breaks down, the social system is threatened with unrest, the democratic legitimacy of the political system is endangered and the legitimacy of the market-based economy is called into question. The latter should be mentioned in particular. Citizens’ loss of conﬁ dence in a market-based economy is often expressed in one of two ways. They pressure the government either to abolish the free-market system altogether or to intervene more heavily in the system. The likelihood of the ﬁ rst scenario materialising is rather small, as polls taken in the world’s largest economies indicate that a majority of citizens are still content with a market-based economy. In some economies, however, notably Germany, anti-capitalist sentiments are grow 1 Raw data available on CD-ROM from: Gesis ZA Data Service: Eurobarometer 1970-2004, CD-Rom 2, EB 42-EB 51, 2005, and Gesis ZA Data Service: Eurobarometer 1970 -2004, CD-ROM 3, EB 52-EB 62, and received on request from Gesis ZA Data Service for Standard Eurobarometers 63-69 (http://www.gesis.org/en/services/data/ survey-data/eurobarometer-data-service/data-access/). Data for the Standard Eurobarometer 70 were taken from: Eurobarometer: First Results: Standard Eurobarometer 70, European Commission, Brussels, December 2008; and Eurobarometer: National Report: United Kingdom – Standard Eurobarometer 70, European Commission, Brussels, February 2009. Aggregated data for the EU27 for the Standard Eurobarometer 71 were taken from: Eurobarometer: Eurobarometer European Parliament (EB Standard 71).
+
+DOI: 10.1007/s10272-009-0296-9
+
+INSTITUTIONS
+
+Intereconomics, July/August 2009 204
+
+ing stronger.2 According to a GlobeScan survey3 conducted in May-August 2007, a signiﬁ cant decrease in the conﬁ dence in free market economies had begun as early as 2002 in Germany, the USA, the UK and the emerging economies.
+
+The second scenario in fact is more realistic, as evidenced by increasing calls for stronger state intervention. Citizens want more state intervention at the national and regional level and less integration of their economies in a more globalised context. Recent polls suggest that globalisation is seen as a threat by citizens throughout the world. According to the Edelman Trust Barometer4 conducted in January 2009, for instance, 65% of all respondents (a ﬁ gure that rises to 84% in France) agreed that their government should impose stricter regulations and greater control over businesses in all industries. According to an FT/Harris Poll5 from mid-October 2008, 81% of Italian, 70% of German, 68% of French and 59% of British respondents support increased regulation by their governments of businesses’ activities. Citizens had expressed strong fears about globalisation even before the ﬁ nancial crisis. A GlobeScan survey6 conducted shortly before the ﬁ nancial crisis erupted indicated that a majority (72%) of respondents in 23 countries were in favour of measures to protect jobs and national industries, and 63% overall favoured restricting foreign ownership of national companies. And according to an FT/Harris Poll7 in March 2009, already more US citizens tend to agree (30%) than to disagree (24%) that national protectionism is the correct instrument to end the economic recession.
+
+Evidence from Eurobarometer
+
+One of the crucial research questions emerging from the ongoing crisis is how strongly the crisis is affecting European citizens’ level of conﬁ dence in various
+
+2 Financial Times/Harris P ol l : Poll on the Financial Market Crisis, http:www.harrisinteractive.com/news/FTHarrisPoll/HI_FinancialTimes_HarrisPoll_October2008.pdf; Institut für Demoskopie Allensbach: Einstellungen zur sozialen Marktwirtschaft, http://195.39.234.230/uploads/media/Studie_Allensbach_2008_ Marktwirtschaft_03.pdf, 2008.
+
+3 GlobeScan: Erosion of Support for Free Market system: Global Poll, http.//www.globescan.com/news_archives/free_enterprise/., 2008.
+
+4 Edelman Trust Barometer, http.//www.edelman.co.uk/ﬁ les/trustbarometer-2009.pdf, 2009.
+
+5 Financial Times/Harris P ol l : Poll on the Financial Market Crisis, op. cit.
+
+6 GlobeScan: World Losing Faith in Globalized Economy: Global Poll, http.//www.globescan.com/news_archives/GlobalizationPoll_FULL. pdf, 2008.
+
+7 Financial Times/Harris P ol l : In the United States and Largest European Economies Public Opinion is split on Issues Economic Nationalism, Protectionism and Internationalism, http: www.harrisinteractive.com/news/FTHarrisPoll/HI_FinancialTimes_HarrisPoll_ March_2009_19.pdf.
+
+institutions. The collapse of the ﬁ nancial sector has made European citizens aware of the fact that capitalist systems are more fragile than they believed they were. But what is the concrete impact on their trust in European and national institutions? Time trend data on conﬁ dence levels are still scarce, but one possible source are the survey ﬁ ndings released by Eurobarometer (EB) on the European and national institutions. Thus, to answer the important question on the evolution of European citizens’ conﬁ dence levels, time series data from EB have been utilised to show the trend in trust for the EU15 and, starting in spring 2007, for the EU27, regarding:
+
+the European Central Bank (ECB) •
+
+the European Commission (EC) •
+
+the European Parliament (EP). •
+
+Figure 1 shows the time trend in net levels of trust8 in the European Central Bank for the 12 member states of the eurozone.9
+
+The two last observations in Figure 1 were gathered after the ﬁ nancial crisis. Interestingly, in the au 8 In order to control for the signiﬁ cant variations in the “Don’t know” answers, net trust values are given in this paper when using EB data. “Net trust” here looks only at those respondents who have an opinin and subtracts the percentage of those who say they do not have trust from those who say they have trust in the system. Thus a value above zero indicates that overall there are more people who trust than distrust and a value below zero indicates that the majority of people distrust.
+
+9 The question of conﬁ dence in the ECB is really only relevant in the case of those countries that have implemented the euro. Therefore, only data from the euro area member states (EA12) have been used. However, the results do not differ signiﬁ cantly when using an EU15 or EU27 country sample. As the time trend from 1999-2009 is of primary importance in Figure 1, the four new countries Slovenia, Cyprus, Malta and Slovakia that joined the euro area recently have not been included in constructing the average.
+
+Source: Eurobarometer: Standard EB Nos. 51-71.
+
+ç
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%! %5
+
+3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ
+
+Figure 1 Net Trust in the ECB in the EA12 (EU27), 1999-2009
+
+Intereconomics, July/August 2009
+
+INSTITUTIONS
+
+205
+
+tumn 2008 (October-November 2008) poll (Standard EB 70)10, one month after the ﬁ nancial crisis ﬁ rst hit, the erosion of European citizens’ conﬁ dence levels in the ECB was still rather modest, whereas by JanuaryFebruary 2009 (Standard EB 71)11, the decline in conﬁ dence in the ECB reached a historically low level in the EU27.12 For the ﬁ rst time since the creation of the ECB, more European citizens tend to mistrust the ECB than to trust it. One has to underline here that the ECB is directly relevant for the citizens in the EA12 countries, as their national central banks have given up their autonomy to this institution. We now have to wait for the results of the Standard EB 72 to know if this trend will continue as sharply as in the interval between Standard EB70 (October-November 2008) and Standard EB71 (January-February 2009) or whether it comes to a halt. One last remark on the interpretation of the data is necessary. The actual conﬁ dence level in the ECB with a net value of -1% is still higher than the conﬁ dence levels in national governments and parliaments with net values ranging from -27% to -24%.
+
+To analyse whether this trend is also applicable to other European institutions, Figure 2 shows the trend in net conﬁ dence towards the European Commission. Although the decrease in conﬁ dence towards this in 10 Eurobarometer: First Results: Standard Eurobarometer 70; op. cit.
+
+11 Eurobarometer: Eurobarometer European Parliament (EB Standard 71); op. cit.
+
+12 Construction of the average for the EA12 countries from the Standard EB 71 (January-February 2009) is not yet possible as the data have not yet been ofﬁ cially released. Up to now only the aggregated data for the EU27 have been published in the Analytical Summary of the Eurobarometer poll on “European Elections 2009” in: Eurobarometer: Eurobarometer European Parliament (EB Standard 71); op. cit.
+
+stitution has not been as signiﬁ cant as that towards the ECB, it clearly supports the argument that there is a general decrease in citizens’ conﬁ dence regarding the European institutions since the ﬁ nancial crisis in mid-September 2008. More concretely, the decrease in October-November 2008 was followed by a stronger decrease in the conﬁ dence levels in January-February 2009 for the EU27. In contrast to the results discussed above, the levels of conﬁ dence in the European Commission are still slightly higher than those in the ECB. However, citizens’ conﬁ dence has reached the same low level as it did in spring 1999 and might reach its lowest conﬁ dence level in autumn 2009, once the data from the next Standard Eurobarometer can be evaluated. Again one should note that these conﬁ dence levels are still signiﬁ cantly higher than the conﬁ dence expressed in the national governments.
+
+To get the full picture of the trends in conﬁ dence levels towards the European institutions, Figure 3 shows net conﬁ dence levels in the European Parliament for the last decade. In a similar pattern to that observed with the ECB, the conﬁ dence level in the EP has reached a historical low with a net trust value of 8% in January-February 2009 on the part of the EU27.
+
+Conﬁ dence in National Governments
+
+The interesting question that now arises is whether this strong decrease in conﬁ dence levels in European institutions is accompanied by a similar pattern of declining conﬁ dence in national institutions.
+
+Two different sources of data are utilised to answer this question. One source is the set of time trend data
+
+Figure 2 Net Trust in the European Commission in the EU15 (EU27), 1999-2009
+
+S o u rce: Eurobarometer: Standard EB Nos. 51-71.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ
+
+%5 %5
+
+Figure 3 Net Trust in the European Parliament in the EU15 (EU27), 1999-2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ
+
+%5 %5
+
+Source: Eurobarometer: Standard EB Nos. 51-71.
+
+INSTITUTIONS
+
+Intereconomics, July/August 2009 206
+
+taken from the Edelman Trust Barometers.13 Respondents were asked how much they trusted the government to do what is right. Figure 4 shows the average time trend for the ﬁ ve European countries Germany, France, Italy, the United Kingdom and Spain. According to the Edelman Trust Barometers trust in national government actually increased from 2008 – before the ﬁ nancial crisis – to November-December 2008 – after the ﬁ nancial crisis. In particular, the increases in Germany (from 27% to 35%) and the increases in the United Kingdom (from 34% to 41%) in conﬁ dence in the government were rather strong. This phenomenon is not precisely new as empirical evidence suggests that trust in the national government appears to increase after the occurrence of a national crisis. This could already be observed after the attacks on the United States in September 2001.14 In times of severe crisis, citizens’ conﬁ dence towards their national institutions seems to increase. However, it should be noted that, in contrast to the experiences of the ﬁ ve big European economies, there were signiﬁ cant decreases in levels of public trust, from 39% before to 30% after the crisis, in the United States.
+
+13 Data from the 2004 to 2009 period are provided by the Edelman Trust Barometer reports which can be downloaded at http://www. edelman.co.uk/trustbarometer. Unlike the Eurobarometer surveys, the Edelman Trust Barometer surveys are not based on a representative sample of the population but are purposely constructed to monitor opinions of “elites”. Therefore, the Edelman Trust Barometer population is college-educated and reports a household income in the top quartile of their country.
+
+14 V. C h an l e y : Trust in the Aftermath of 9/11: Determinants and Consequences, Political Psychology, Vol. 23, No. 3, pp. 469-483. Although the September 11 attacks were not of an economic character, but rather were general attacks on the USA, these ﬁ gures might nevertheless give some indication of the trend in government conﬁ dence in the aftermath of national crisis.
+
+Thus, the Edelman data suggest that the trend seems to be diametrically opposed to conﬁ dence towards the European institutions. But is this trend supported by evidence from Eurobarometer? Recent data from Eurobarometer seem to support an inverse relationship between conﬁ dence in European institutions and national institutions. The best analysis for testing the assumption is to compare the same institution, in this case the parliament, on a European and national level. Thus Figure 5 shows the time trend data from Eurobarometer from 2001 to 200815 for citizens’ net conﬁ dence in national parliaments. Similarly to the Edelman data, one can observe an increase in conﬁ dence in the EU27 in the national parliaments after the ﬁ nancial crisis in October-November 2008.
+
+But does this relationship also hold for conﬁ dence in other national institutions? Also utilising Eurobarometer data, Figure 6 plots data showing trends in conﬁ dence in national governments. In examining the time trend data on conﬁ dence in national governments from 2001-08, shown in Figure 6, one detects a signiﬁ cant increase in the EU27. Thus data from both the Eurobarometer surveys and the Edelman Trust Barometer support a diametrically opposed trend between citizens’ conﬁ dence towards European and national institutions after the ﬁ nancial crisis. The data sets of the
+
+15 Data on the conﬁ dence in national institutions from the Standard EB 71 have not even been published in the analytical summary on the Eurobarometer European Parliament, in: Eurobarometer: Eurobarometer European Parliament (EB Standard 71); op. cit. The data from autumn 2008 (Standard EB 70) have only been released for the aggregated values for the EU27, in: Eurobarometer: National Report: United Kingdom – Standard Eurobarometer 70; op. cit. Thus we have to wait for the publication of the data from the Standard EB 71 to evaluate the trend of the net trust levels towards national institutions.
+
+Figure 4 Trust in the National Government on the Part of European G5 Countries, 2004-2009
+
+So u rce: Edelman Trust Barometer, 2004-2009.
+
+25
+
+27
+
+29
+
+31
+
+33
+
+35
+
+37
+
+2004 2005 2006 2007 2008 2009
+
+Trust Europe G5
+
+Figure 5 Net Trust in National Parliaments for EU15 (EU27), 2001-2008
+
+æ
+
+ç
+
+ç
+
+ç
+
+ç
+
+ç
+
+ç
+
+
+
+
+
+
+
+
+
+!UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ
+
+EU15 EU27
+
+Source: Eurobarometer: Standard EB Nos. 56-70.
+
+Intereconomics, July/August 2009
+
+INSTITUTIONS
+
+207
+
+upcoming standard Eurobarometers 71 and 72 have to be examined once they are available to shed more light on the conﬁ dence trend towards national institutions.
+
+Conﬁ dence in the Market Economy
+
+A certain level of citizens’ conﬁ dence in marketbased economies is crucial for the maintenance of social peace and the stability of the economic system. It guarantees citizens’ support of an economic system in which the means of production are privately owned and operated for proﬁ t through free market mechanisms. According to the results of an FT-Harris poll, as depicted in Figure 7, the level of conﬁ dence towards capitalistic free market economies is distributed differently throughout the different European countries and the USA. When asked in October, directly after the beginning of the ﬁ nancial crisis, whether the current ﬁ nancial crisis had been caused more by “abuses of capitalism” or by the “failure of capitalism itself”, an astonishing 30% of German respondents selected the latter explanation. This value is four times higher than the 7% obtained in the USA and nearly twice as high as that obtained in France, at 17%. These strong German anti-capitalist sentiments are accompanied by a signiﬁ cant increase in discontent expressed by German citizens with the concept of a social market economy. Figure 8 shows the German trend data16 towards trust in the social market economy. From 2003 until November 2008, there was a signiﬁ cantly steady increase in the number of German citizens who thought that the social market economy was unjust, from 34% to 49%. This increase in German citizens’ discontent
+
+16 Institut für Demoskopie Allensbach, op. cit.
+
+with the social market economy is also supported by time trend data and a poll conducted by the Bertelsmann Stiftung17 in May 2008, which found that 73% of German citizens evaluated the income distribution in Germany as unfair. Similarly, according to the WIN Crisis Index18 conducted in January 2009, German citizens have one of the lowest conﬁ dence levels towards banks, stock markets and their government compared to other G20 countries. However, these results could merely reﬂ ect the fact that the German economy has been hit the hardest among the world’s largest economies by the ﬁ nancial crisis with an expected decrease of economic growth by a staggering 6%. Thus German citizens might have been aware of this fact from the earliest stages of the ﬁ nancial crisis.
+
+Conclusion
+
+As could be presumed, the ﬁ nancial crisis had a signiﬁ cant impact on the levels of trust that citizens place in the system and its institutions. Recent data show a signiﬁ cant fall in the conﬁ dence of European citizens’ in the EU’s institutions. This sharp decline of conﬁ dence can be best observed in the case of the European Central Bank. For the ﬁ rst time since its creation, a majority of European citizens no longer trusts the ECB.
+
+17 Bertelsmann Stiftung: BürgerProgramm Soziale Marktwirtschaft – Ergebnisse einer repräsentativen Bürgerumfrage zu den Vorschlägen des BürgerForums Soziale Marktwirtschaft, http://www.bertelsmannstiftung.de/cps/rde/xbcr/SID-333758C3-F3537EEF/bst/xcms_bst_ dms_24744_24784_2.pdf, 2008.
+
+18 Win Crisis Index: Worldwide Barometer of the Financial Crisis, http://www.winmr.com/doc_upload/WIN%20CRISIS%20INDEX.pdf, 2009.
+
+So u rce: Eurobarometer: Standard EB Nos. 56-70.
+
+ç
+
+ç
+
+ç
+
+ç
+
+ç
+
+ç
+
+ç
+
+
+
+
+
+!UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ 3PRINGæ !UTUMNæ
+
+%5 %5
+
+Figure 7 Abuse or Failure of Capitalism? Anti-capitalist Tendencies among G8 Countries
+
+Source: Financial Times/Harris Pol l : Poll on the Financial Market Crisis, http: www.harrisinteractive.com/news/FTHarrisPoll/HI_FinancialTimes_HarrisPoll_October2008.pdf.
+
+æ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5NITEDæ3TATES )TALY 'REATæ"RITAIN 3PAIN &RANCE 'ERMANY
+
+Figure 6 Net Trust in National Governments for EU15 (EU27), 2001-2008
+
+INSTITUTIONS/TRANSPARENCY
+
+Intereconomics, July/August 2009 208
+
+However, the signiﬁ cant decrease in European citizens’ conﬁ dence in the two other European institutions – the European Commission and the European
+
+Parliament – is not replicated at the national level. Two independent data sources highlight that conﬁ dence levels in national governments have actually risen, supporting a contrasting trend between the conﬁ dence in European and in national institutions. It remains to be seen whether or not this ﬁ rst indication points towards a new trend of re-nationalisation. It can clearly be observed that the level of trust in the European institutions remains much higher than that for national institutions, but the advantage enjoyed by “Europe” has been signiﬁ cantly reduced.
+
+This decrease in conﬁ dence towards the ECB is ﬂ anked in the case of Germany by strong anti-capitalist sentiments and a sharp decline in support for the social market economy, with 30% of Germans identifying the current ﬁ nancial crisis as a failure of capitalism and around 50% characterising the social market economy as unjust, compared to around 35% who still identify it as just. We now have to wait for the release of the forthcoming data from Standard Eurobarometers 71 and 72, which will further help to evaluate more precisely the effects of the ﬁ nancial crisis on levels of systemic trust towards European and national institutions.
+
+Figure 8 German Social Market Enconomy – Socially Just versus Unjust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+3-%æISæJUST 3-%æISæUNJUST
+
+So u rce: Institut für Demoskopie Allensbach: Einstellungen zur sozialen Marktwirtschaft, http://195.39.234.230/uploads/media/Studie_Allensbach_2008_Marktwirtschaft_03.pdf, 2008.

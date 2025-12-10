@@ -1,0 +1,2841 @@
+Departamento de Sociologia e Políticas Públicas
+
+Sociedade Civil e Poder Legislativo
+
+Participação extra-eleitoral das associações voluntárias da sociedade civil no
+
+parlamento português entre 2008 e 2015
+
+Álvaro M. Ferro
+
+Dissertação submetida como requisito parcial para obtenção de grau de
+
+Mestre em Ciência Política
+
+Orientadora:
+
+Doutora Ana Espírito-Santo, Professora Auxiliar Convidada
+
+ISCTE - Instituto Universitário de Lisboa
+
+Outubro, 2015
+
+À Cristina e aos nossos filhos,
+
+que aguardaram pacientemente por
+
+mim, apoiando-me com tudo o que foi
+
+preciso para me dedicar a este trabalho.
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+AGRADECIMENTOS
+
+À minha orientadora, a Doutora Ana Espírito-Santo, que teve a disponibilidade para me
+
+encontrar no meio das minhas dúvidas, e à Doutora Ana Maria Belchior que me ajudou já na
+
+reta final a fechar este trabalho.
+
+Às mães: à minha mãe, que esteve sempre lá quando necessitei de alguém para lutar por
+
+mim; e à mãe do meu amigo Miguel que insistiram comigo há 20 anos que não desistisse de
+
+estudar. Que estejam sempre presentes para nos dizer como devemos fazer tudo na vida,
+
+mesmo as coisas mais óbvias que já não se percebe porque continuam a explicar-nos.
+
+Ao meu amigo A.Sousa que manteve o nosso pouparmelhor.com a funcionar enquanto
+
+me embrenhava na escrita final desta dissertação.
+
+Ao meu amigo Miguel, o cromo mais difícil da minha caderneta, que insistiu comigo
+
+para que fizesse o Mestrado em Ciência Política.
+
+Agradeço a todos os que no Parlamento, no SINDETELCO e na UGT me receberam
+
+sempre como se fosse da casa, ajudando-me nas minhas perguntas.
+
+A todos os que no Twitter me ajudaram, em especial o Luis Grave com os seus
+
+conhecimentos de programação.
+
+À Laura, que foi solidária com os meus objetivos pessoais ao longo destes 2 anos.
+
+!i
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+RESUMO
+
+Nesta dissertação procura-se saber mais sobre a participação extra-eleitoral dos
+
+cidadãos através das associações voluntárias da sociedade civil e no contexto
+
+institucional da Assembleia da República entre os anos 2008 e 2015. Na ausência de
+
+dados prontos a testar, foi criado um dataset novo recorrendo para isso a um conjunto
+
+de programas informáticos que permitiram obter a informação das iniciativas
+
+legislativas no site da Assembleia da República. O período em análise em Portugal é
+
+caracterizado como um período de recessão que afetou essencialmente a classe média
+
+e os jovens escolarizados. A literatura sobre este período apontava para a possibilidade
+
+de se encontrar na desigualdade de rendimentos uma explicação para a participação
+
+extra-eleitoral, o que não se confirma. Os indicadores de performance sócio económicos no contexto de crise parecem ter tido pouca relação com a participação
+
+extra-eleitoral da sociedade civil junto da Assembleia da República.
+
+Palavras-chave: Associações voluntárias; Sociedade Civil; Crise; Participação extra eleitoral; Assembleia da República.
+
+ABSTRACT
+
+With this dissertation is intended to learn more about the citizens extra-electoral
+
+participation on the National Parliament during the period between 2008 and 2015. On
+
+the absence of data to test on, a computer software that allowed to scrape the
+
+information from the National Parliament internet website was developed and a new
+
+dataset was created. The time span being analysed in Portugal evolves in a context of
+
+recession that has afflicted essentially the middle class and the schooled youth. The
+
+main possibility in the literature was to find in the income inequality an explanation to
+
+the extra-electoral participation, which was not confirmed. The social-economical
+
+performance in the context of crisis seamed didn’t had any impact in the extra electoral participation from the civil society in the National Parliament.
+
+Keywords: Voluntary associations; Civil society; Crisis; Extra-eleitoral participation;
+
+Parliament;
+
+!ii
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+ÍNDICE
+
+Agradecimentos i
+
+Resumo ii
+
+Abstract ii
+
+Índice iii
+
+Indice de Quadros iv
+
+Indice de Figuras v
+
+Glossário de Siglas vi
+
+I. Introdução 1
+
+II. Revisão da Literatura 4
+
+Contributo das associações voluntárias da sociedade civil para a discussão pública 5
+
+A questão da mudança de valores em Portugal 7
+
+Perspectiva histórica das Ações de protesto em Portugal 11
+
+Participação política e desigualdade 18
+
+Contexto legal português na relação das AVSC com o poder legislativo 20
+
+III. Conceptualização 22
+
+IV. Hipóteses 25
+
+V. Metodologia 27
+
+VI. Análise de resultados 31
+
+VII. Conclusões 36
+
+Fontes 38
+
+BibliograFIA 39
+
+Anexos I
+
+CV V
+
+!iii
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+INDICE DE QUADROS
+
+Quadro 1 - Modalidades de associação e organizações que as compõem 23
+
+Quadro 2 - Coeficiente de correlação de Pearson entre contributos da sociedade civil para o processo legislativo e os indicadores sócio-económicos 33
+
+Quadro 3 - Coeficiente de correlação de Pearson entre contributos da sociedade civil para o processo legislativo e os indicadores sócio-económicos 34
+
+A.1. Quadro - Temas legislativos contendo contributos da sociedade civil I
+
+A.2. Quadro - Frequência de iniciativas legislativas na Assembleia da República Portuguesa II
+
+A.3. Quadro - Frequência de contributos da sociedade civil no processo legislativo na Assembleia da República Portuguesa (por modalidade e ano) II
+
+A.4. Quadro - Frequência de contributos da sociedade civil no processo legislativo na Assembleia da República Portuguesa (por tema e ano) III
+
+A.5. Quadro - Frequência de contributos da sociedade civil para o debate relativo a iniciativas legislativas da Assembleia da República Portuguesa e indicadores sócio-económicos III
+
+!iv
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+INDICE DE FIGURAS
+
+Gráfico 1 - Materialismo e pós-materialismo na Europa, 1990-1999 9
+
+Gráfico 2 - Variação trimestral do PIB e Emprego 2008 a 2013 14
+
+Gráfico 3 - Gini Index e ratio S80/S20 (2007–11) 15
+
+Gráfico 4 - Total de contributos de cidadãos (modalidade de associação e individual) 31
+
+Gráfico 5 - Total de contributos de cidadãos (temas economia, trabalho e todos os outros) 32
+
+A.1. Gráfico - Total de contributos de cidadãos (modalidade de associação e individual) IV
+
+A.2. Gráfico - Frequência de contributos individuais e das AVSC de defesa de interesses nas iniciativas legislativas na Assembleia da República Portuguesa e Taxa de crescimento do PIB e Emprego IV
+
+!v
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+GLOSSÁRIO DE SIGLAS
+
+• AR - Assembleia da República Portuguesa
+
+• ASVC - Associações Voluntárias da Sociedade Civil
+
+• CRP - Constituição da República Portuguesa
+
+• RAR - Regimento da Assembleia da República
+
+!vi
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+I. INTRODUÇÃO
+
+No meu modo de ver, o que se deve pensar de tudo isto é o seguinte: quando
+
+um indivíduo nos vem dizer que encontrou um homem conhecedor de todos os
+
+ofícios, que sabe tudo o que cada um sabe do seu ramo, e com mais exatidão do que
+
+qualquer outro, devemos assegurá-lo de que é um ingénuo e que, ao que parece, se
+
+deparou com um charlatão e um imitador, que o iludiu a ponto de lhe parecer
+
+omnisciente, porque ele mesmo não era capaz de distinguir a ciência, a ignorância e a
+
+imitação (Platão, 380 AD: Livro X) . 1
+
+A citação de Platão retirada da obra “A República” serviu de mote para esta dissertação
+
+sobre a sociedade civil e a Assembleia da República Portuguesa (AR) no período da crise 2
+
+entre 2008 e 2015. Com esta dissertação pretende-se saber mais sobre os contributos da
+
+sociedade civil no contexto institucional do processo legislativo da AR durante o período
+
+de crise entre 2008 e 2015.
+
+A emergência da crise financeira mundial expôs a dificuldade europeia em reagir a uma
+
+crise financeira de escala global e em que Portugal e outros países europeus estiveram no
+
+centro das atenções mundiais. As sucessivas tentativas de endereçar a crise redundaram em
+
+março de 2011 com a queda do governo de Portugal e com a necessidade de recorrer à ajuda
+
+financeira externa. Os pacotes de medidas de emergência aplicados em Portugal desde o
+
+início da crise em 2008 tiveram como impacto uma inversão do índice de desigualdade de
+
+rendimentos que vinha a descer desde esse ano, atingindo o nível máximo de desigualdade na
+
+distribuição dos rendimentos em 2010 (Pedroso, 2014: 19).
+
+Com efeito, Portugal assistiu entre os anos de 2011 e 2013 a um conjunto de protestos
+
+em espaço público (desfiles/manifestações). Os temas destes protestos contrastaram com os
+
+temas de protestos em anos anteriores, mais ligados a questões de necessidades básicas da
+
+população. Estes protestos eram centrados na procura de justiça, melhor distribuição da
+
+riqueza e trabalho menos precário (Magnette, 2003: 66-67). Esta atividade de protesto
+
+acompanhou a tendência encontrada nos dados do European Social Survey (ESS) em 2012. A
+
+percentagem de inquiridos que indicaram ter participado numa manifestação cresceu
+
+significativamente entre 2008 e 2012 de 3,7 para 6,8 em Portugal. Guya Accornero e Pedro
+
+Tradução do autor da dissertação tendo por base a tradução em inglês. 1
+
+Parlamento ou a sigla AR serão usados ao longo desta dissertação referindo-se sempre e só à Assembleia da República 2 Portuguesa.
+
+!1
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Ramos Pinto, ligam estes protestos às mesmas causas de outros protestos à escala global
+
+também eles ligados à pioria das condições económicas, à injustiça e à desigualdade
+
+(Accornero e Ramos Pinto, 2015: 1-2).
+
+O objetivo central desta pesquisa é relacionar o nível de participação extra eleitoral, mediante contributos das associações livres da sociedade civil para os processos
+
+legislativos da Assembleia da República, comparando dois momentos relevantes em
+
+termos económicos: o momento anterior e posterior à emergência da crise económica em
+
+Portugal.
+
+De forma a atingir este objetivo, foram utilizadas as evidências de participação política
+
+extra-eleitoral da sociedade civil encontradas no site da AR, através da análise de 2769
+
+iniciativas legislativas, no período entre 2008 e 2015, e da classificação de 556 contributos da
+
+sociedade civil para essas iniciativas. De acordo com o Regimento da AR (RAR), a
+
+participação faz-se com o contributo dos interessados. Estes contributos são a informação
+
+entregue de forma voluntária pelos cidadãos para o processo legislativo, individualmente ou
+
+associados. 3
+
+Foi utilizada a definição e a diferenciação por modalidades de José Manuel Viegas para
+
+identificar as associações voluntárias da sociedade civil (ASVC), distinguindo-as das
+
+restantes pela forma voluntária de integração dos cidadãos (Viegas, 2004: 34-35, 2011: 51).
+
+Para a codificação dos temas das iniciativas legislativas foi utilizado um dicionário de
+
+categorias criado a partir do próprio conteúdo.
+
+Nos capítulos deste trabalho que se seguem apresentam-se as formas livres de
+
+associação, e discutem-se os principais contributos da teoria para o estudo deste tópico. De
+
+seguida exploram-se alguns dados que contribuem para melhor enquadrar as hipóteses e
+
+ajudaram a identificar as variáveis relevantes a incluir no estudo. Explora-se também a
+
+importância das associações livres para a discussão pública e os factores que influenciam as
+
+escolhas dos indivíduos para a participação cívica na comunidade. Mais em específico,
+
+descreve-se ainda o que se sabe sobre os protestos em Portugal associados ao período entre
+
+2008 e 2015 e a influência que as desigualdades e o sentimento de injustiça social podem ter
+
+na mobilização para a participação política extra-eleitoral. Colocado o cenário, foram
+
+O Regimento da Assembleia da República (AR) não faz menção de quem pode contribuir com a sua participação no 3 processo legislativo, mas para este efeito o que uma observação dos dados orientada por um contacto com os serviços jurídicos da AR permitiu identificar é que a distinção é feita pela origem da informação a juntar ao processo.
+
+!2
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+conceptualizadas as variáveis que depois compuseram as hipóteses. As hipóteses não podiam
+
+ter sido testadas sem a criação do um dataset específico uma vez que esta informação não
+
+estava disponível de antemão. Este dataset implicou criar um conjunto de programas de
+
+computador que permitiram recolher e selecionar os dados para a análise.
+
+A última parte do trabalho refere-se à análise de resultados e as conclusões que
+
+podemos tirar com este estudo.
+
+!3
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+II. REVISÃO DA LITERATURA
+
+De acordo com Alexis de Tocqueville, a participação livre dos cidadãos nas associações
+
+da sociedade civil tem benefícios para o próprio e para a comunidade. Os benefícios a que
+
+Tocqueville se refere das associações voluntárias da sociedade civil (AVSC), integradas na
+
+ordem pública, ultrapassam a proteção dos cidadãos contra a tirania. Para Toqueville a livre
+
+associação cria membros poderosos e informados para a comunidade, permite uma maior
+
+contribuição para a vida política pela representação dos interesses e uma manutenção da
+
+liberdade de forma próxima aos cidadãos (de Toqueville, 1835, 1972: 608, 659, 753). O que
+
+Tocqueville percebeu ao estudar as associações nos Estados Unidos da América foi que a
+
+forma associativa nesse país as capacitava as associações para exercerem uma pressão
+
+organizada e legal direccionada ao poder político.
+
+As associações voluntárias, no seu papel de entre-ajuda, são geradoras de um capital
+
+que facilita a obtenção de iniciativas mais próximas dos cidadãos que por elas são afetadas.
+
+Na relação social a expectativa de reciprocidade é constante. Esta expectativa dita que se
+
+fizermos alguma coisa por outra pessoa, ela ou alguém poderão devolver-nos o esforço que aí
+
+fizermos. Para Putnam, sorrir no corredor a alguém poderá suscitar no outro uma propensão
+
+para nos ajudar (Putnam, 2001: 2, Putnam, 1993: 2).
+
+A consideração de que uma participação mais ativa dos cidadãos é boa para a
+
+democracia está presente em vários autores (de Toqueville, 1835, 1972, OECD, 2001,
+
+Putnam, 2001: 2, van Deth, 2009: 643). Nesta noção, a boa forma de governação é aquela em
+
+que os cidadãos também participam no processo de decisão. As associações têm a
+
+possibilidade de recolher internamente o testemunho pessoal de cada associado e, através de
+
+um processo de generalização destes testemunhos, entregá-los como contributo para a
+
+deliberação política. Este contributo pode aumentar o conhecimento dos eleitos sobre os
+
+temas e enriquecer assim a discussão pública na procura de uma solução comum. Os
+
+associados podem entender que as suas ações terão maiores efeitos se executadas em
+
+conjunto, obtendo resultados para si e para os outros, o que não conseguiriam de forma
+
+individual (Olson, 1965: 8).
+
+O entendimento dos indivíduos de que necessitam intervir em grupo através das
+
+associações livres pode vir da desconfiança que têm do processo deliberativo, por entenderem
+
+que este está perdido quando confrontado com argumentos de força num debate. As
+
+!4
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+associações voluntárias transportam com elas para a discussão pública o conhecimento e a
+
+experiência de cada associado, entregando o testemunho dos seus associados que justifica a
+
+sua mensagem. Na discussão pública é esperado como efeito positivo o aumento da
+
+racionalidade, reduzindo os discursos de interesse e decisões por razão da força que são
+
+favorecidos quando a discussão decorre fora da esfera pública (Cohen, 1989: 68, Elster, 1998:
+
+111, Young, 2001: 672).
+
+A participação dos cidadãos na discussão pública através das associações voluntárias da
+
+sociedade civil pode através do seu envolvimento trazer efeitos positivos que contrariem a
+
+desconfiança perante a tomada de decisão, mas os indivíduos tem de se sentir capazes de o
+
+fazer com sucesso. De acordo com o autor Paul Maganette, referindo-se aos autores
+
+Przeworski, Thompson, Norris, Mayer e Perrineu, os incentivos e desincentivos da
+
+participação são difíceis de determinar. Os indivíduos ponderam a importância dos temas, o
+
+valor moral que lhe atribuem, a sua capacidade de entender e endereçar os temas em
+
+discussão antes de participar, mas são principalmente as estruturas institucionais e sistema de
+
+partidos que mantém os recursos cognitivos e motivacionais que polarizam a participação
+
+política. Os indivíduos que não compreendem este contexto terão muito maior dificuldade em
+
+compreender os seus resultados e em participar nos seus processos. As discussões e a
+
+construção de compromissos criados antes da discussão pública não facilitam por isso a
+
+compreensão dos cidadãos para os seus resultados. Estes ficam sem perceber quais as opções
+
+que estavam realmente disponíveis antes e os seus impactos que decorrem das decisões
+
+acordadas (Magnette, 2003: 9-10).
+
+CONTRIBUTO DAS ASSOCIAÇÕES VOLUNTÁRIAS DA SOCIEDADE
+
+CIVIL PARA A DISCUSSÃO PÚBLICA
+
+De acordo com o autor André Freire, a exigência de maior participação dos cidadãos na
+
+discussão política e nos processos de tomada de decisão tem estado sobretudo associada aos
+
+partidos da chamada “nova esquerda” (“Verdes”, “Socialistas de Esquerda”, “Esquerda
+
+Libertária”, etc.) com exceções. O partido de centro, liberal, holandês “Democratas
+
+66” (D66), aparece associado muitas vezes a causas da “nova esquerda” como seja a
+
+necessidade de uma maior participação dos cidadãos nos processos de tomada de decisão.
+
+Segundo Freire, referindo-se a Boa Ventura Sousa Santos, existem autores e correntes
+
+!5
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+políticas que defendem mais referendos e iniciativas legislativas populares, a par com a
+
+descentralização do poder, um aumento do ativismo cívico local, como os orçamentos
+
+participativos (Freire, 2007: 13).
+
+Para Michael Mann, o poder político da democracia é oriundo da noção de governança
+
+disponível pelas diversas entidades organizadas onde se incluem organizações empresariais,
+
+organizações não governamentais e movimentos sociais (Mann, 2013). A participação dessas
+
+organizações na deliberação política tem como consequência a aproximação das decisões do
+
+poder político à realidade que as associações representam e a redução da resistência dos
+
+associados e demais cidadãos. Se encararmos essa participação do ponto de vista do debate
+
+político, os eleitos podem aceitar este contributos para se apresentarem em público como mais
+
+responsáveis e transparentes, porque entendem a erosão da sua capacidade de representação
+
+(Mair, 2003: 278) e valorizam por isso os efeitos positivos das associações voluntárias na
+
+discussão política na esfera pública. As associações voluntárias entram na discussão política
+
+com o poder derivado dos recursos próprios que reuniram e da sua capacidade organizativa
+
+própria, o que lhes dá possibilidade sancionatória dos eleitos (Habermas, 1992: 418).
+
+Estas conclusões não são no entanto consensuais. Enquanto vários autores valorizam o
+
+diálogo entre as associações voluntárias da sociedade civil e os representantes eleitos por ser
+
+uma forma de enriquecimento da discussão política, outros há que apontam esta relação como
+
+uma forma de facilitar a criação de redes paralelas às instâncias formais e burocráticas da
+
+democracia, redundando numa dificuldade para o controlo das políticas públicas pelos eleitos
+
+(Gomes, 2010: 374). Serão estes eleitos que mais tarde serão julgados pelo voto. De acordo
+
+com os estudos de Manuel Villaverde Cabral, a maioria dos portugueses indica que os seus
+
+eleitos acabam por usar esse poder para tomar decisões importantes de forma contrária à
+
+forma que os eleitores consideram ideal (Cabral, 2000: 109). Estes resultados podem ser
+
+potenciadores de desconfiança dos cidadãos para com a elite política (Magone, 7, 2004). Dos
+
+eleitos, quando confrontados com os contributos que lhes são entregues para deliberação
+
+política, pode ser esperado que adaptem a sua posição ao resultado racional que melhor serve
+
+a comunidade e não apenas ao desejo dos seus eleitores diretos. Isto contraria a expectativa
+
+individual desses mesmos eleitores de que os eleitos prossigam com o objetivo que
+
+inicialmente estabeleceram, o que pode levar a uma maior desconfiança das elites políticas.
+
+!6
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+A QUESTÃO DA MUDANÇA DE VALORES EM PORTUGAL
+
+Organizações dirigidas pelas elites como os partidos políticos, as associações sindicais
+
+ou as igrejas tem visto nas democracias estabelecidas o declínio no número dos seus membros
+
+(Inglehart e Catterberg, 2002). Isto não significa que se confirme um estado de apatia dos
+
+cidadãos em relação à política. Numa análise aos dados empíricos de 21 democracias entre
+
+1981 e 2000, Inglehart concluiu que as formas de participação não convencional têm vindo a
+
+subir nas democracias mais antigas. A nível mundial, o decréscimo da participação
+
+convencional dirigida pelas elites e o aumento das formas pontuais e individualizadas de
+
+participação são apontados como um facto consumado pelos autores Inglehart e Gatterberg
+
+(2002) para as gerações pós-materialistas. Estes autores encontraram nos dados empíricos um
+
+aumento em termos mundiais do número de cidadãos que preferem encontrar formas de
+
+participação que não os associem permanentemente, deixando de aparecer assim nas listas de
+
+associados, mas continuando a contribuir para a discussão política pública, o que acentua a
+
+ideia de declínio da participação dos cidadãos através das associações voluntárias da
+
+sociedade civil.
+
+Os cidadãos nas democracias mais desenvolvidas preferem cada vez mais monitorar e
+
+intervir politicamente apenas quando entendem ser necessário. Evitam um compromisso ou
+
+referências a políticas partidárias. Esta noção acompanha a forma como as próprias
+
+organizações dirigidas pelas elites passaram a receber os contributos dos cidadãos. O modelo
+
+semi-profissionalizado de atuação das associações voluntárias acaba por dar maior preferência
+
+aos donativos do que à participação mais ativa no seio da associação. Esta forma de atuação
+
+resulta na diversificação dos contributos da sociedade civil e no aumento das formas de
+
+participação de desafio das elites dirigentes. (Inglehart e Catterberg, 2002: 17, Marien, et al.,
+
+2010: 3)
+
+Os estudos empíricos sobre os sistemas de valores dos indivíduos têm demonstrado uma
+
+alteração das prioridades valorativas dos vários indivíduos ao longo das gerações estudadas.
+
+Essas prioridades não variam em correlação com os ciclos económicos que uma geração
+
+experimenta, mas são afetadas no período inicial de socialização de cada geração (Inglehart e
+
+Catterberg, 2002). Portugal não se encontra incluído na investigação inicial de Inglehart, mas
+
+podemos questionar, caso fosse estendida até Portugal, se iríamos encontrar aí como nos
+
+outros países as gerações mais ativas politicamente com uma participação individual pontual,
+
+!7
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+desligada das organizações dirigidas pela elites e se se traduziria no aumento de contributos
+
+individuais no âmbito do processo legislativo português como forma de protesto contra essas
+
+mesmas elites.
+
+André Freire estudou os sistemas de valores do indivíduos em Portugal (2003b),
+
+baseando-se para isso nas hipóteses da mudança de valores de Ronald Inglehart (1971-1997).
+
+Inglehart identifica uma relação entre a socialização e a escassez para explicar as prioridades
+
+dos indivíduos em relação aos temas que mais valorizam. Em países onde o ritmo de
+
+crescimento económico foi mais acentuado nos últimos tempos, a diferença de valores entre
+
+gerações é mais clara que naqueles em que o crescimento económico foi menos acentuado.
+
+Na relação do indivíduos com a escassez (hipótese da escassez de Inglehart), as
+
+prioridades valorativas estão diretamente ligadas aos bens (materiais e imateriais) que lhes
+
+estão disponíveis. Nesta hipótese são menos valorizados os bens em maior abundância e mais
+
+valorizados os bens em maior escassez. Isto explica a valorização dada pelas gerações que
+
+viveram momentos de privação, como a segunda grande guerra mundial. Estas gerações
+
+valorizam mais o bem estar material e a paz, e por consequência os indivíduos desta geração
+
+optam por valorizar o crescimento económico e forças de segurança fortes. Por outro lado, as
+
+gerações que já nasceram depois destes eventos, e por isso usufruíram de um ambiente de
+
+relativa prosperidade constante e de uma economia em crescimento, tendem a valorizar mais
+
+os temas menos ligados ao bem estar material, como a defesa da qualidade de vida e a
+
+expressão e realização individual. Na relação com a socialização (hipótese da socialização de
+
+Inglehart) a definição dos valores nos indivíduos constrói-se durante a fase de socialização
+
+primária, dificilmente se alterando depois de atingirem a idade adulta. Esta ordenação
+
+valorativa regista alterações quando comparadas as gerações mais novas com as gerações
+
+mais velhas e essa diferença mantém-se estável ao longo das flutuações conjunturais que
+
+resultem de períodos recessivos e/ou marcados por forte insegurança (Freire, 2003b:
+
+298-300).
+
+Quando testou as hipóteses de Inglehart para Portugal, o autor André Freire usou uma
+
+conjunto de 4 perguntas do European Values Survey como indicadores. As perguntas
+
+utilizadas para esta pesquisa foram colocadas a indivíduos portugueses nos anos de 1990 e
+
+1999. Os indivíduos que escolheram “Manter a ordem no país” e “Combater o aumento de
+
+preços” foram identificados como materialistas. Os que escolheram “Dar aos cidadãos maior
+
+!8
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+capacidade de participação nas decisões importantes do governo” e “Defender a liberdade de
+
+expressão” foram identificados como pós materialistas. Os restantes indivíduos, aqueles que
+
+não optaram pelos conjuntos referidos anteriormente, foram identificados como tendo valores
+
+mistos. Numa Europa em transição ainda para os valores pós materialistas, Portugal
+
+apresentou no trabalho deste autor os resultados mais elevados nos indivíduos com valores
+
+materialistas e os resultados mais baixos em indivíduos que se identificaram com os valores
+
+pós-materialistas (Freire, 2003b: 303-304).
+
+Gráfico 1 - Materialismo e pós-materialismo na Europa, 1990-1999
+
+Fonte: Estudo Europeu de Valores 1990-1999 - Adaptado (Freire, 2003b: 303) 4
+
+Seria simplista interpretar estes dados sem ter em conta o desenvolvimento económico
+
+de cada um destes países nos anos em análise ou as gerações dos indivíduos questionados. O
+
+desempenho económico português não é no entanto suficiente para explicar a diferença de
+
+Portugal para países como a Espanha. Os indivíduos portugueses viveram uma época de
+
+guerra colonial que torna a mudança para valores pós materialistas muito mais difícil (Freire,
+
+2003a: 304-305). Segundo André Freire, na teoria de Inglehart é fundamental referir que os
+
+efeitos do ciclo de vida dos indivíduos não afetam os valores com que se identificam. Se
+
+assim fosse, os indivíduos mais jovens materialistas passariam a pós materialistas quando se
+
+tornassem mais velhos num ambiente de prosperidade económica, passando a valorizar mais a
+
+qualidade de vida e realização pessoal, o que não se verificou também para Portugal.
+
+Estas tendências de valorização têm impactos na participação política dos indivíduos.
+
+Gráfico do trabalho de André Freire adaptado para destacar a situação de Portugal 4
+
+!9
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Ao contrário sociedades industriais, nas sociedades pós-industriais a mobilização política é
+
+mais autónoma. Os indivíduos tendem a participar menos dirigidos pelas elites (partidos,
+
+associações profissionais, sindicatos, igrejas, etc.) e de forma mais autónoma (Freire, 2003a:
+
+324). Isto faz com que a participação extra-eleitoral dos indivíduos das gerações mais 5
+
+recentes seja muito mais ativa e desafiadora das elites políticas por aceitar menos a autoridade
+
+hierarquizada nas organizações oligarcas (Inglehart e Catterberg, 2002: 4). À medida que o
+
+indivíduo adquire mais recursos próprios, espera-se que participe mais. Referindo-se a Mayer
+
+e Perrineau, o autor André Feire faz notar que, no respeitante a formas extra-eleitorais de
+
+participação, não é lógico que um indivíduo com mais recursos financeiros recorra a formas
+
+de participação política de protesto ou desafiadoras das elites. A idade mais avançada dos
+
+indivíduos está associada não só ao maior numero de recursos, mas como à assunção de
+
+outras responsabilidades familiares e maior integração na comunidade, o que resulta em maior
+
+participação política no ato eleitoral (Freire, 2003a: 333).
+
+Os testes do autor André Freire encontraram pouca relevância em matéria explicativa
+
+nos recursos dos indivíduos para justificar a participação extra-eleitoral em vários países. Em
+
+Portugal encontrou apenas relação relevante nos indivíduos que responderam no ano de 1990
+
+e entre os outros países as correlações também não eram relevantes. O autor aponta para a
+
+ausência das variáveis “instrução” e “rendimento” como razão para os valores entre os vários
+
+países do estudo serem tão distintos, só permitindo concluir que em matéria de participação os
+
+indivíduos mais jovens são os que apresentam maior potencial de participação política.
+
+Concorrem para essa explicação fatores como a prática religiosa, a dimensão do habitat, mas
+
+principalmente o índice de associativismo. Como principais fatores explicativos para o
+
+aumento do potencial de participação o autor aponta as atitudes políticas e os sistemas de
+
+valores (materialismo versus pós materialismo), onde este potencial aumenta com a
+
+importância que o indivíduo dá à política e a frequência com que a discute (Freire, 2003a:
+
+334-335).
+
+O autor André Freire concluiu que há já uma mudança de valores no sentido pós materialista em curso em Portugal e na Europa, mas que Portugal evidência um claro atraso
+
+em termos do peso relativo dos indivíduos que demonstram dar maior importância aos valores
+
+pós-materialistas comparativamente aos indivíduos que demonstram dar maior importância
+
+Simplificadamente, a participação extra-eleitoral é aquela que não acontece apenas no momento de votar. 5
+
+!10
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+aos valores materialistas, como também não é marcado por um crescimento da participação
+
+extra-eleitoral. Enquanto nos restantes países Europeus estudados o declínio da participação
+
+eleitoral é observado como inversamente relacionado com o aumento da participação extra eleitoral, isto já não se verifica para Portugal entre 1990 e 1999 (Freire, 2003a).
+
+PERSPECTIVA HISTÓRICA DAS AÇÕES DE PROTESTO EM PORTUGAL
+
+As ações de protesto no espaço público em Portugal são entendidas por José Manuel
+
+Mendes e Ana Maria Seixas (2005: 100) como sendo uma visão do potencial de participação
+
+política da sociedade civil. Este potencial pode ser aplicado de forma efémera ou mais
+
+duradoura. Para estes autores, a ideia apresentada por Boa Ventura Sousa Santos de que a
+
+divisão entre Estado e sociedade civil é demasiado simplista é sustentada no quadro analítico
+
+do mesmo autor. De acordo com estes autores, Sousa Santos indicava que a sociedade civil é
+
+fraca e pouco autónoma nos espaços de produção de cidadania, mas forte, autónoma e auto regulada nos espaços domésticos, aqueles que dizem respeito à sociedade-providência.
+
+De acordo com os autores Mendes e Seixas, à heterogeneidade e fragmentação que
+
+caracteriza o Estado junta-se um comportamento autoritário e imprevisível desse mesmo
+
+Estado, oscilando entre um Estado predador e um Estado protetor (Mendes e Seixas, 2005:
+
+101-102). Os autores referem-se a Manuel Villaverde Cabral para descrever um despotismo
+
+administrativo e um distanciamento histórico entre as elites e a população. Referindo-se aos
+
+trabalhos de Villaverde Cabral, os autores Mendes e Seixas referem um distanciamento entre
+
+eleitos e eleitores que pode parecer paradoxal face ao tempo que decorreu desde o 25 de abril
+
+até à data desse estudo. Mendes e Seixas descrevem as abordagens teóricas onde a mais
+
+corrente aponta para uma relação entre protestos violentos e crónicos e um Estado e
+
+instituições avaliadas como pouco permeáveis à participação política. Mas Mendes e Seixas
+
+criticam esta aproximação como simplista por não ter em conta a existência de outros atores
+
+como jornalistas que interagem com movimentos sociais, determinam o acesso ao espaço
+
+público através dos mass média e dão através dos seus relatos recursos de produção de lógicas
+
+justificativas aos intervenientes nos protestos (Mendes e Seixas, 2005: 102).
+
+Os autores Mendes e Seixas referem Jack Goldstone para descreverem a relação entre
+
+a qualidade da democracia e a possibilidade de protesto. Referindo-se a este autor indicam
+
+que, tanto a democratização da democracia como a política institucional, assentam no mesmo
+
+!11
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+principio de que a pessoas comuns trazem valor à discussão política e devem por isso ser
+
+ouvidas. Para os autores, é a especificidade dos movimentos sociais e de protesto que
+
+determinam quando são necessários ativar os meios que reúnem e onde os aplicar (Mendes e
+
+Seixas, 2005: 103). Os autores Mendes e Seixas referem-se ainda à critica negativa feita por
+
+outros autores relativamente às formas de participação não institucionalizadas e de como estas
+
+formas são contrárias ao que chama de jogo democrático (Mendes e Seixas, 2005: 103).
+
+Para descrever o caso português, os autores Mendes e Seixas recorrem ainda ao autor
+
+António Barreto. Este autor a que se referem, na sua opção teórica não restringe a democracia
+
+por adjetivação e considera-a essencialmente baseada no voto livre e direto sem imposição de
+
+participação. Em António Barreto encontraram uma divisão da participação em “espontânea”
+
+e participação organizada, sendo que a primeira não obriga a contribuições permanentes e
+
+organizadas. Os autores referem que António Barreto, excluindo as formas de contribuição
+
+expontânea como forma de participação política, encontrou em Portugal um acréscimo de
+
+atividade política ao nível do associativismo de defesa de interesses e novos temas
+
+(sindicatos, organizações patronais, defesa ambiental) e o decréscimo das formas tradicionais
+
+de associativismo mais ligadas à inserção social e ação cívica (Mendes e Seixas, 2005: 104).
+
+Os autores Mendes e Seixas, baseando-se nos vários autores referidos atrás, entendem
+
+que as ações de protesto e reivindicação devem ser lidas em Portugal como elementos
+
+integrantes da democracia sendo indicadores e promotoras de democracia por indiciarem as
+
+insuficiências da democracia participativa e das ações enquadradoras do Estado e dos
+
+aparelhos politico-partidários (Mendes e Seixas, 2005: 107).
+
+Para descreverem o protesto em Portugal, os autores Mendes e Seixas utilizaram uma
+
+série temporal entre 1992 e 2002, analisando jornais de circulação nacional e procedendo à
+
+codificação exaustiva das noticias sobre o tema. A codificação permitiu-lhes identificar uma
+
+maior incidência dos protestos de forma localizada, centrando-se em temas sociais em
+
+primeiro lugar, segundo educativo e terceiro ambiental. Os protestos identificados foram na
+
+sua maioria de caráter pontual (56%) relativos a problemas do momento em que ocorreram,
+
+sendo em minoria os protestos com caráter mais prolongado e pontual (Mendes e Seixas,
+
+2005: 109-112).
+
+A grande maioria dos protestos codificados pelos autores Mendes e Seixas tiveram lugar
+
+nos distritos de Lisboa e Porto, por esta ordem, com forte incidência nas áreas metropolitanas
+
+!12
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+de Lisboa e Porto, o que propõem ser explicado pela proximidade aos órgãos de comunicação
+
+social, dimensão populacional e pelo peso da população do ensino superior, que acaba por
+
+reproduzir a distribuição do nível de ensino na população portuguesa. Portugal é caracterizado
+
+pela escolha dos desfiles ou manifestações e das petições como forma de protesto principal.
+
+Neste estudo de Mendes e Seixas, estas são as formas de protesto mais identificadas, sendo
+
+que em terceiro são encontradas formas que combinam duas ou mais outras formas. O
+
+repertório de protesto é variado, demonstrando maior variedade quando envolve as questões
+
+educativas. São os protestos culturais aqueles que originam actos de violência, não havendo
+
+relação com escala ou local. Os autores fazem ainda questão de realçar que o protesto no
+
+espaço público está associado a governações de esquerda, coincidindo com os governos do
+
+Partido Socialista no período em análise (Mendes e Seixas, 2005: 116-119).
+
+Os autores Mendes e Seixas referem em conclusão que os protestos no período estudado
+
+se relacionam de forma clara com os ciclos eleitorais, marcando as fases iniciais e finais dos
+
+mesmos, centrando-se em necessidades básicas da população como arruamentos, habitações
+
+condignas, saneamento básico, instalações escolares ou a colocação de professores.
+
+Encontram também um número relevante de ações com uma componente internacional e
+
+universalista, principalmente de temas ambientais e políticos. Para estes autores a atividade
+
+que encontraram e o elevado grau de mobilização contrastam com as descrições de apatia
+
+política patentes na sociedade portuguesa (Mendes e Seixas, 2005: 123-125).
+
+O contexto institucional e as características do grupo de indivíduos que constituem a
+
+associação determinam a escolha da forma de atuação. No caso das associações com
+
+necessidade de alargar a sua base de apoio para prosseguir os seus fins, estas podem optar por
+
+estratégias de participação que lhes dêem maior visibilidade (Dür e Mateo, 2013: 662). As
+
+associações podem recorrer para isso a formas não convencionais com maior impacto,
+
+organizando por exemplo um boicote a um produto (Stolle, 2005). Isto pode significar que os
+
+mesmos cidadãos ou associações podem participar de forma a que provoquem um impacto
+
+desproporcionado ao número de associados, por exemplo pela difusão da sua mensagem
+
+através dos mass media, mas não significa que não contribuam para a deliberação política
+
+através dos processos formalizados pelas instituições da democracia.
+
+!13
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Gráfico 2 - Variação trimestral do PIB e Emprego 2008 a 2013
+
+Fonte: Eurostat - Adaptado (Pedroso, 2014: 10)
+
+Em março de 2011 o governo de Portugal em minoria na AR vê-se confrontado com a
+
+necessidade de recorrer à ajuda financeira externa quando lhe é chumbado o quarto pacote de
+
+austeridade (Plano de Estabilidade e Crescimento 4 - PECIV). Um pacote de medidas de
+
+emergência é definido pelos partidos políticos PSD, PS e CDS em conjunto com a Comissão
+
+Europeia, o Banco Central Europeu e o Fundo Monetário Internacional (troika). O autor Paulo
+
+Pedroso (2014) resume a ação dos governos portugueses entre os anos de 2008 e 2013, após a
+
+crise económica mundial de 2008, como tendo passado por três atitudes diferentes, como
+
+ilustrado no gráfico 2. Numa primeira fase foram aplicadas medidas que tentaram salvar a
+
+economia do impacto da crise financeira global. Com foco no sistema financeiro, afetado
+
+pelas ligações entre a banca de investimento, a banca comercial e as companhias seguradoras,
+
+foi aplicado um programa de tentativa de sustentação deste setor. Num segundo momento
+
+tentou-se reduzir os impactos económicos e sociais da crise. No terceiro momento tentou-se a
+
+consolidação orçamental pela via fiscal. Nestes três momentos os governos aplicaram
+
+medidas acordadas com a Comissão Europeia e mais tarde também com a troika, conforme
+
+ilustrado pelo gráfico do autor. No 3º momento, o governo eleito em 2011 aplicou medidas
+
+recessivas acordadas com a troika , tentando criar uma mudança socio-económica no sentido 6
+
+Existe uma discussão públicas se o governo foi ou não além das medidas acordadas com a troika. Enquanto o então 6 candidato Pedro Passos Coelho afirmou que poderia vir a fazê-lo, não é claro que assim seja porque, uma vez assumido o cargo de Primeiro Ministro, este pode renegociar metas e formas de atingir os objetivos com a troika em cada revisão.
+
+!14
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+da desregulação do trabalho e da privatização total ou parcial dos bens do Estado (Pedroso,
+
+2014: 2-3).
+
+Gráfico 3 - Gini Index e ratio S80/S20 (2007–11) 7
+
+Fonte: Eurostat - Adaptado (Pedroso, 2014: 19)
+
+Na análise socio-económica do impacto destas medidas, Pedroso refere que estas
+
+afetaram principalmente os trabalhadores precários, o desemprego jovem os benefícios
+
+sociais, as pensões dos mais idosos e os serviços de saúde nacionais. Estas medidas trouxeram
+
+mais problemas sociais que ao mesmo tempo tinham menos resposta da comunidade
+
+(Pedroso, 2014: 1). O nível de desigualdade dos rendimentos, que tinha vindo a reduzir em
+
+Portugal nos anteriores à crise como ilustra o gráfico 3 do mesmo autor, sofreu uma inversão
+
+com a aplicação dos pacotes de consolidação orçamental (Pedroso, 2014: 19).
+
+O autor Elísio Estanque estudou em Portugal e no Brasil, entre os anos de 2011 e 2013,
+
+aquilo a que chamou as rebeliões da classe média (2014). No período em causa, ambos os
+
+países experimentaram um conjunto de protestos em espaço público de dimensão acima da
+
+média. Este autor pretendia ir além das teorias clássicas sobre os movimentos sociais no
+
+mundo ocidental e situar o fenómeno como sendo sócio económico partindo da hipótese de
+
+que este decorre de dinâmicas e tensões sociais oriundas da classe média. Este autor admite a
+
+controvérsia do seu artigo, mas entendeu que devemos questionar a ideia de uma classe média
+
+marcada pela passividade, individualismo e adesão acrítica ao que chamou de “ordem
+
+burguesa”. Pretendeu ainda sim identificar quem se mobiliza e qual o sentido de mudança que
+
+No indice de Gini e ratio S80/S20, o valor 0 (zero) indica uma total igualdade da distribuição de rendimentos enquanto os 7 valores mais elevados apontam para uma maior desigualdade dos rendimentos.
+
+!15
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+imprimiram na comunidade. Procurou identificar estas características de novidade nas
+
+manifestações do último ciclo de movimentos sociais onde se inserem os casos referidos por
+
+este autor (Estanque, 2014: 54).
+
+Estanque encontrou as mesmas características de ambos os países que estudou. No seu
+
+artigo identifica uma classe média agregada em torno de medidas justas, de moderação e 8
+
+virtude que se opõe à riqueza ou misérias extremas. Refere-se a Marx e Weber para referir que
+
+estes protestos não traziam uma lógica de oposição entre trabalho e propriedade. Em lugar
+
+disso, apresenta uma situação de perda da herança social do pós-guerra e de novas gerações
+
+educadas com perspectiva de empobrecimento que os seus pais não tiveram. Aponta como
+
+razão para esta situação a contratação precária, pontual e de baixa compensação que coloca as
+
+novas gerações em oposição à geração de trabalhadores com postos de trabalho mais estáveis
+
+(Estanque, 2014: 59-60).
+
+O panorama descrito pelo autor Elísio Estanque para Portugal foi baseado no trabalho
+
+de Nuno Nunes de 2013. Este trabalho utilizou como fonte o European Social Survey e,
+
+baseado na tipologia de classe dos autores João Ferreira de Almeida, António Firmino da
+
+Costa e Fernando Luís Machado, que caracteriza como classes mais vulneráveis as que
+
+reúnem os Empregados Executantes juntamente com os Profissionais Técnicos e de
+
+Enquadramento. Estas são classes qualificadas de trabalhadores que detinham as posições
+
+mais estáveis entre os assalariados. Foram também as classes que mais cresceram em termos
+
+emprego entre os anos de 1960 e 2011. Caracterizaram as alterações ao sistema de emprego
+
+por um aumento dos trabalhadores vulneráveis, a que se referem como novos proletários. De
+
+acordo com Estanque, desde 1990, o crescente neoliberalismo vinha a por em causa o modelo
+
+europeu e de Estado social, sendo os primeiros direitos a ser atingidos aqueles que dizem
+
+respeito ao mundo do trabalho. As medidas de “reforma” implementadas durante o período de
+
+vigência do acordo com a troika no sistema de emprego interferiram diretamente na coesão
+
+social, nas condições laborais, no mercado de trabalho e na vida dos cidadãos e das suas
+
+famílias. O resultado foi a alteração da distribuição de rendimentos e o aumento das
+
+desigualdades, com os mais ricos a verem um aumento do rendimento total dos 5% e 10%
+
+mais ricos a ver uma subida de 0,8 e 0,6 pontos percentuais, respetivamente (Estanque, 2014:
+
+62-65).
+
+O texto do autor não pretendia debater as várias definições discordantes de classe média como classe social. 8
+
+!16
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+O autor Elísio Estanque refere-se ao estudo do Instituto de Ciências Sociais (ICS) de
+
+2014 para enquadrar as atitudes dos cidadãos portugueses no período em análise. O estudo do
+
+ICS baseado no European Social Survey (ESS) de 2012-2013 revelou um fosso entre o valor
+
+dado pelos inquiridos à “importância” e ao “desempenho” das instituições da democráticas
+
+(Estanque, 2014: 65).
+
+Neste panorama os protestos continuaram a estar associados em Portugal
+
+essencialmente ao mundo do trabalho. O autor Elísio Estanque descreve estes protestos
+
+enquadrados na vaga de manifestações ao nível mundial. Estas foram dinamizadas por jovens
+
+escolarizados, com organização em rede suportada na Internet. Em Portugal, as manifestações
+
+principais desse período incluiram a “Geração à Rasca” em 2011, a Greve Geral convocada
+
+pelas duas centrais sindicais portuguesas em 2012, as manifestações “Que se lixe a Troika”
+
+em 2012, a Greve Geral Europeia em 2012, a manifestação “Grândola Vila Morena, o Povo é
+
+quem mais ordena” e os boicotes exporádicos a declarações de membros do governo
+
+chamados de “grandoladas” . O descontentamento para com os partidos e os resultados da 9
+
+democracia representativa estavam patentes nos cartazes e palavras de ordem (Estanque,
+
+2014: 66-67).
+
+O autor Elísio Estanque (2014) concluiu que estes momentos de protesto evidenciaram
+
+a força política simbólica das lutas coletivas e ao mesmo tempo expuseram uma lógica
+
+individual ilustrada no seio das manifestações. Os cartazes empunhados continham slogans
+
+centrados no indivíduo com dizeres como “eu quero ser feliz” lado a lado com temas
+
+coletivos e antipartidos. Esta dinâmica paradoxal de ação coletiva, rebeldia e individualismo
+
+proposta pelo autor, com expressões em sentidos contraditórios são ilustração das diferenças
+
+contidas na chamada classe média, onde os segmentos instruídos sentiram muito mais a
+
+contração. Neste panorama o autor propõem uma nova leitura inorgânica para as
+
+manifestações (Estanque, 2014: 74-76).
+
+O autor José Soeiro (2014) estudou mais em detalhe os movimentos que estiveram na
+
+base do protestos “Geração à Rasca” e “Que se lixe a Troika” e procurou identificar as suas
+
+principais características e significado sociológico. Desligados das formas de organização da
+
+sociedade civil, estes movimentos não tinham ligação direta aos partidos, sindicatos ou
+
+As grandoladas eram uma forma de boicote às declarações dos representantes políticos, essencialmente ligados ao governo 9 dos partidos PSD/CDS. Para interromper as suas declarações os manifestantes riam-se e cantavam o tema “Grândola, vila morena” de Zeca Afonso. Como nota Elísio Estanque, o alvo preferencial na altura foi o Ministro Miguel Relvas.
+
+!17
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+movimentos sociais e organizações não governamentais, suportando-se numa comunidade 10
+
+virtual global inspirada pelas experiências de outros países. Uma das características destes
+
+movimentos era um discurso centrado na denúncia da captura dos sistema económico, das
+
+instituições e agentes políticos pelo poder financeiro. Os percursores destes movimentos são
+
+caracterizados como jovens com formação, sem emprego ou com trabalho precário e baixos
+
+salários, em que a falta de perspectivas de crescimento ou mesmo o primeiro emprego
+
+desembocaram numa frustração social que acabou por confluir nestes movimentos, quase
+
+sempre de ação direta e ocupação de espaço público. As redes sociais eletrônicas e os
+
+telemóveis tiveram um papel essencial na sua ação, tendo suportado a organização e difusão
+
+da sua mensagem. Referidos como sendo uma novidade, um estudo mais aprofundado permite
+
+identificar os mesmos atores e ligações às formas convencionais de organização da sociedade
+
+civil (Soeiro, 2014: 56-61).
+
+Soeiro descreve a manifestação de 12 de março de 2011 como o momento fundacional.
+
+Foi o primeiro protesto convocado a partir da Internet e desligado dos modelos de
+
+organização convencionais, unindo os jovens na sua condição de precariedade em várias
+
+cidades. O autor descreve os mesmo momentos de protesto já descritos pelo autor Elísio
+
+Estanque e resume como este autor três grandes tendências:
+
+(1) a precarização do trabalho e a instalação em força do desemprego de massa,
+
+nomeadamente entre os mais jovens; (2) a crise económica e a estratégia austeritária; (3) a
+
+des-democratização da democracia e a desafeição relativamente à representação política e
+
+institucional (Soeiro, 2014: 63)
+
+A capacidade organizativa, a origem associativa de alguns dos organizadores e a
+
+formação dos participantes leva-me a questionar-me de que outras formas de ciber-ativismo
+
+se sentirão estes indivíduos capazes de executar com resultados positivos.
+
+PARTICIPAÇÃO POLÍTICA E DESIGUALDADE
+
+Eric M. Uslaner e Mitchell Brown (2005) definem a relação entre desigualdade,
+
+confiança e participação cívica referindo três pontos. Os níveis elevados de confiança e
+
+igualdade são dois caminhos para a participação, mas dificilmente explicam tudo. (1) Onde a
+
+desigualdade é mais elevada, aqueles com menores rendimentos ponderam que a sua
+
+participação não terá qualquer efeito e que os seus pontos de vista não serão representados.
+
+Não é claro se o autor identifica as organizações da sociedade civil pelas mesmas modalidades conforme José Manuel 10 Viegas define (Viegas, 2011)
+
+!18
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+(2) Porque a confiança nos outros depende da igualdade económica, quando os rendimentos
+
+são distribuídos de forma desigual, as pessoas nos extremos opostos não se vêm como
+
+partilhando o mesmo destino e por isso têm menos razões para confiar. (3) A confiança é um
+
+processo psicológico que é mais difícil de construir no sentido positivo quando a desigualdade
+
+é elevada. As desigualdades económicas levam primeiro a níveis reduzidos de otimismo, que
+
+se traduz em menor confiança, mas os autores encontraram pouca credibilidade na ligação
+
+ente a confiança e participação cívica, contrariando a noção esta seria o fator explicativo da
+
+participação cívica, o que os levou a testar a teoria (Uslaner e Brown, 2005: 2-7).
+
+Uslaner e Brown referem a ligação entre participação cívica e educação superior. Os
+
+indivíduos com formação superior tem maior probabilidade de se interessar nos assuntos
+
+políticos por os entenderem melhor e por isso tem maior probabilidade de querer fazer ouvir a
+
+sua voz. Os autores contestam também a noção que exista uma ligação entre entre
+
+desigualdade e participação. O que indicam é que o principal efeito da desigualdade nos
+
+grupos de menores rendimentos é antes não participar por terem menores recursos e
+
+considerarem que o sistema está feito para os derrotar (Uslaner e Brown, 2005: 9-10).
+
+Uslaner e Brown concluem que a desigualdade, medida pelo índice de Gini, é um
+
+indicador determinante para a confiança demonstrada em inquéritos do General Social Survey
+
+(GSS). Concluem ainda que existe um efeito indireto das desigualdades económicas e que
+
+estas têm apenas efeito no voluntariado. Ainda de acordo com estes autores, os grupos de
+
+menores rendimentos participam menos nos assuntos políticos, mas esta tendência não
+
+aumenta com o aumento das desigualdades. A sua conclusão final é que a relação entre
+
+desigualdade, confiança e participação serão bem mais complexas que uma ligação causal
+
+linear (Uslaner e Brown, 2005: 22).
+
+Frederic Solt (2008) propõem que a maior desigualdade de rendimentos leva os
+
+indivíduos de maior rendimento a procurarem uma parcela do poder e que em contextos de
+
+maior desigualdade de rendimentos reduz o interesse nos assuntos políticos. Se os recursos
+
+próprios e económicos podem ser utilizados para influencias os outros, então a ligação entre
+
+recursos e maior participação política é lógica e advém da maior probabilidade da aplicação
+
+desses recursos reverterem em resultados esperados (Solt, 2008: 2-3). As conclusões do
+
+estudo de Solt apontam para que a desigualdade de rendimentos tenha um efeito
+
+desmobilizador em termos de participação política derivado da fraca expectativa dos
+
+!19
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+indivíduos em que o investimento dos seus parcos recursos resulte. O contexto da
+
+desigualdade de rendimentos é da maior importância para determinar o interesse do indivíduo
+
+na política em qualquer dos modelos testados por este autor (Solt, 2010: 17).
+
+O autor Henry E. Brady (2004) questiona a qualidade dos modelos empíricos aplicados
+
+para a análise da relação entre o participação política e desigualdade de rendimentos. Na sua
+
+opinião tem sido dada muito maior atenção à relação entre educação e ocupação com a
+
+participação política do que aos impactos da desigualdade dos rendimentos e como esta afeta
+
+a desigualdade da participação. Na sua opinião, mesmo quando existem estudos sobre a
+
+participação e os rendimentos, estes são muito mais estendidos no tempo, essencialmente
+
+sobre participação eleitoral e com valores demasiado agregados, o que resulta em que muito
+
+pouco pensamento tenha sido registado sobre esta relação (Brady, 2004: 14).
+
+Existindo várias tentativas de encontrar uma relação entre desigualdades de rendimentos
+
+e comportamento politico dos indivíduos, como indicam Uslaner e Brown referindo-se a
+
+Putnam, o envolvimento cívico, a reciprocidade, a honestidade e a confiança são um “well tossed spaghetti” difícil de interpretar (Uslaner e Brown, 2005: 5), criando ainda maiores
+
+dificuldades em garantir que um modelo lógico possa depois ser suportado em dados
+
+empíricos.
+
+CONTEXTO LEGAL PORTUGUÊS NA RELAÇÃO DAS AVSC COM O
+
+PODER LEGISLATIVO
+
+O poder legislativo reside ainda em grande parte nos parlamentos nacionais (OECD,
+
+2001: 9) Em Portugal, o parlamento encontra-se na Assembleia da República Portuguesa
+
+(AR) e, de acordo com a Constituição da República Portuguesa, os candidatos eleitos para a
+
+AR representam todo o país e não apenas os círculos eleitorais pelos quais são eleitos. A
+
+organização temática, regional ou por interesses é deixada à liberdade dos cidadãos e ao livre
+
+associativismo. Os cidadãos portugueses têm o direito de constituir associações de forma livre
+
+e independente de qualquer autorização. Estas associações não se podem destinar a promover
+
+a violência ou ter fins contrários à lei ("Constituição da República Portuguesa - VII Revisão
+
+Constitucional," 2005: 15).
+
+Os cidadãos portugueses têm a possibilidade de participar de forma mais ou menos
+
+convencional na discussão pública, ligadas ou não às organizações dirigidas pelas elites, como
+
+!20
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+os partidos ou outro tipo de associações, mas a participação integrada no processo legislativo
+
+da Assembleia da República depende de um contributo formalizado, registado nos
+
+procedimentos do parlamento e apresentado publicamente através do site da Assembleia da
+
+República Portuguesa (Regimento da Assembleia da República, 2007).
+
+Na AR, a participação dos cidadãos, individualmente ou através das associações
+
+voluntárias da sociedade civil (AVSC), tem lugar num processo formal que recorre para
+
+análise nas comissões parlamentares competentes ao que o RAR identifica como contributos
+
+dos interessados (Regimento da Assembleia da República, 2007: 44). Estes contributos para o
+
+processo legislativo são entregues ou recolhidos por escrito ou através de audição pública à
+
+comissão competente, ficando posteriormente registados juntamente com o processo
+
+legislativo e acessíveis publicamente através do site da AR.
+
+Existe um desejo dos eleitos portugueses de tornar a AR mais transparente,
+
+responsabilizável e próximo dos cidadãos (Filipe, 2009: 2). O registo de contributos das
+
+associações voluntárias no âmbito das iniciativas da AR poderá ser indicativo de uma
+
+tentativa de aumento da legitimidade (Young, 2001: 5-6) e de uma maior preocupação com a
+
+ética da deliberação na esfera pública no processo legislativo.
+
+A contribuição destas associações voluntárias para a deliberação pública e o nível geral
+
+de envolvimento associativo é considerado genericamente fraco em Portugal quando
+
+comparado aos países do norte da Europa. As associações voluntárias da sociedade civil com
+
+maior envolvimento dos cidadãos acabam por ser aquelas que estão centradas na integração
+
+social (Viegas, 2004: 42-43).
+
+Poderíamos problematizar se o maior ou menor contacto direto dos cidadãos com os
+
+seus representantes políticos justifica ou resulta de uma fraca aceitação do sistema e, por
+
+consequência de uma redução ou aumento da confiança ou apatia em relação às suas
+
+instituições. Sabe-se no entanto que existe uma correlação entre a insatisfação com o
+
+desempenho do sistema democrático e as suas instituições e o desempenho económico em
+
+Portugal, e também uma relação entre a existência ou não de incentivos para os eleitos
+
+atenderem mais diretamente aos desejos dos eleitores (Magalhães, 2009: 3, Torcal e
+
+Magalhães, 2009).
+
+!21
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+III.CONCEPTUALIZAÇÃO
+
+O aumento da participação, e em especial a participação dos cidadãos de forma
+
+autónoma, que Inglehart indica nos seus trabalhos não quererá imediatamente dizer que será
+
+encontrado um declínio dos contributos oriundos das associações voluntárias da sociedade
+
+civil (AVSC) na Assembleia da República (AR). O não crescimento do número de associados
+
+entre 2001 e 2008 registado por José Manuel Viegas não será sinónimo do desaparecimento
+
+de atividade associativa em Portugal. Se tivermos em conta a semi-profissionalização das
+
+AVSC, vista cada vez mais como o modelo preferido de atuação, até poderemos encontrar um
+
+aumento da frequência da sua participação integrada nos processos formais das instituições da
+
+democracia, em particular no processo legislativo na AR.
+
+Contributos
+
+No âmbito da apreciação dos projetos ou propostas de lei , antes ou durante a discussão 11
+
+pública, as comissões parlamentares competentes da Assembleia da República (AR) recebem
+
+a participação de interessados no processo. A esta participação a AR chama contributos. Estes
+
+contributos seguem juntamente com o processo legislativo para a comissão competente para
+
+serem analisados em conjunto com os pareceres das entidades com competência jurídica para
+
+os emitir. Também são entendidos como contributos as participações obtidas pela participação
+
+livre de cidadãos ou grupos de cidadãos que as comissões entendam recolher junto dos
+
+interessados, designadamente através de audições parlamentares ou do sítio da Assembleia da
+
+República (AR) na Internet (Regimento da Assembleia da República, 2007: artigo 140º).
+
+Associações voluntárias da sociedade civil
+
+Para distinguir as associações voluntárias da sociedade civil (AVSC) dos outros tipos de
+
+associação, utilizei as definições de José Manuel Viegas. Este autor, referindo-se a Meister,
+
+Habermas, Cohen e Arato e van Til, define as AVSC como:
+
+“[…]Grupo de indivíduos que decidem, voluntariamente, pôr em comum os seus
+
+conhecimentos ou actividades de forma continuada, segundo regras por eles definidas, tendo
+
+em vista compartilhar os benefícios da cooperação ou defender causas ou interesses. O
+
+voluntariado demarca as associações dos grupos primários, como a família, bem como de
+
+organizações estatais de carácter coercivo. A cooperação distingue as associações das
+
+Os projetos de lei e propostas de lei diferem entre si pela origem. Os projetos de lei são um iniciativa da Assembleia da 11 República e dos seus deputados enquanto as propostas de lei são uma iniciativa do governo.
+
+!22
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+sociedades comerciais, com fins lucrativos e que se movimentam numa pura lógica de
+
+mercado. As associações, neste sentido, requerem a existência de uma sociedade pluralista e
+
+constituem um dos nódulos fundamentais da sociedade civil ou do “terceiro sector”.” (Viegas,
+
+2004: 34)
+
+Modalidades de associações voluntárias da sociedade civil
+
+Será baseado também na definição de José Manuel Viegas que irei classificar as
+
+modalidades das associações voluntárias da sociedade civil. De acordo com as propostas de
+
+Wessel, Van Deth e Kreuter, José Manuel Viegas define a organização destas associações
+
+unindo a relação teórica e empírica que existe entre cada uma da seguinte forma:
+
+As associações de integração social englobam as associações recreativas, culturais,
+
+religiosas, entre outras, em que a função de integração social aparece como predominante. Não
+
+queremos dizer que estas associações não tenham outras funções, mas é a dimensão cívica de
+
+integração que se revela mais importante. As associações de defesa de interesses de grupo,
+
+como os sindicatos, ordens, associações de pensionistas, associações patronais, entre outras,
+
+têm uma função institucional de defesa de interesses, mas também contribuem para o debate na
+
+esfera pública. Finalmente, as associações que expressam os novos movimentos sociais, como
+
+as associações de dos direitos de cidadania, de defesa dos consumidores, de defesa do
+
+ambiente, de defesa dos animais, entre outras, têm efeitos cívicos importantes pela
+
+contribuição que dão para o debate público, mas também para a formação da opinião sobre
+
+matérias socialmente relevantes.” (Viegas, 2011: 49)
+
+Quadro 1 - Modalidades de associação e organizações que as compõem
+
+Fonte: Adaptado (Viegas, 2011: 51)
+
+Modalidades de Associação
+
+Novos movimentos sociais Organizações de acção cívica
+
+Integração social
+
+Clube desportivo
+
+Organizações culturais
+
+Clubes e associações recreativas
+
+Organizações religiosas
+
+Organizações sociais
+
+Defesa de interesse
+
+Sindicatos
+
+Associações profissionais
+
+Organizações patronais
+
+!23
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Indicadores de desempenho sócio-económico - Desigualdade de rendimentos, Taxa de crescimento real do PIB e Taxa de crescimento do emprego
+
+Como variáveis de desempenho sócio-económico foram utilizados três indicadores:
+
+Indice de Gini, Taxa de crescimento real do PIB e Taxa de crescimento do emprego.
+
+Como variável de desempenho da economia é comumente aceite a taxa de crescimento
+
+do Produto Interno Bruto (PIB). De acordo com o Instituto Nacional de Estatística (INE), o
+
+PIB representa o resultado final da atividade económica dos residentes num determinado
+
+território, num dado período de tempo (tipicamente, um ano ou um trimestre). A taxa de
+
+crescimento do PIB permite comparar o desenvolvimento económico em vários períodos de
+
+forma independente das distorções provocadas pela utilização de valores absolutos
+
+influenciáveis por flutuação monetária. O PIB não é no entanto um bom indicador de justiça
+
+distributiva.
+
+Citando a teoria de Simon Kuznet, os autores Constantin Duguleana e Liliana
+
+Duguleana (2009) apontam uma distorção na distribuição de rendimentos ainda maior quanto
+
+maior é o PIB, sendo que nos países da Europa de oeste esta diferença tende para se acentuar
+
+sem alterar as distribuições de rendimentos ao centro, dando como exemplo o crescimento
+
+económico alemão cujas alterações aos rendimentos afetam apenas os 20% com menores
+
+rendimentos e os 20% com maiores rendimentos (Duguleana e Duguleana, 2009: 171). Por
+
+essa razão, como indicador de desenvolvimento económico que ilustre de forma mais próxima
+
+a distribuição de rendimentos é utilizado o coeficiente de Gini. Este coeficiente é o indicador
+
+de desigualdade de distribuição do rendimento. De acordo com a definição no Pordata, o
+
+objetivo deste indicador é sintetizar as diferenças da distribuição, tendo como 0 o valor que
+
+indica a maior igualdade de distribuição e 100 o valor de maior desigualdade e indicativo que
+
+o rendimento se encontra todo num único indivíduo.
+
+De taxa de crescimento de emprego apresenta a variação da população empregada. O
+
+INE define Indivíduo com idade mínima de 15 anos que, no período de referência, se
+
+encontrava numa das seguintes situações: a) tinha efectuado trabalho de pelo menos uma
+
+hora, mediante pagamento de uma remuneração ou com vista a um benefício ou ganho
+
+familiar em dinheiro ou em géneros; b) tinha um emprego, não estava ao serviço, mas tinha
+
+uma ligação formal com o seu emprego; c) tinha uma empresa, mas não estava
+
+temporariamente ao trabalho por uma razão específica; d) estava em situação de pré-reforma,
+
+mas encontrava-se a trabalhar no período de referência.
+
+!24
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Temas das iniciativas
+
+Os temas das iniciativas foram agrupados num sistema de categorias gerado a partir da
+
+análise semântica do próprio corpus. O dicionários de categorias foi organizado conforme
+
+Quadro 2. As categorias de temas que interessavam distinguir (Economia e Trabalho) foram
+
+separadas de todas as outras.
+
+IV. HIPÓTESES
+
+Os indícios de maior participação individualista nas gerações portuguesas mais recentes,
+
+típicos das democracias desenvolvidas (Inglehart e Catterberg, 2002), surgem nos protestos do
+
+período entre 2011 e 2013 em conjunto com temas associados a preocupações mais
+
+materialistas, num padrão misto de sistemas de valores que a investigação de André Freire já
+
+apontava em 1999 para Portugal. (Freire, 2003a).
+
+As associações voluntárias da sociedade civil (AVSC) escolhem as formas de
+
+participação política de acordo com os fins a que se propuseram. No período entre 1992 e
+
+2002 não foi a primeira opção destas organizações escolherem mais de uma forma de
+
+participação para o mesmo protesto (Mendes e Seixas, 2005: 117), mas os meios tecnológicos
+
+atualmente ao dispor e o envolvimento misto de modalidades de AVSC (Soeiro, 2014: 68-70),
+
+é só por si indicio de que tanto estas associações poderão ter participado politicamente em
+
+mais de uma forma.
+
+Os autores referidos na revisão da literatura apontaram para a ausência de variáveis de
+
+estudo mais detalhadas, para a dificuldade em desfazer o novelo de spaghetti das correlações
+
+sociais (Uslaner e Brown, 2005: 5), para um modelo de participação associado a um sistema
+
+de valores fixos a cada geração que não depende do contexto económico do momento (Freire,
+
+2003a: 298-300) e para o maior potencial de participação política dos indivíduos mais jovens
+
+e escolarizados. Elídio Estanque (2014) desafia as teorias clássicas sobre os movimentos
+
+sociais no mundo ocidental e situa o fenómeno partindo da hipótese de que este decorre de
+
+dinâmicas e tensões sociais oriundas da classe média e deve por isso ser visto como um
+
+fenómeno sócio-económico, referindo-se às desigualdades que afetam muito mais a classe
+
+média, o que cria uma dinâmica paradoxal de ação coletiva, rebeldia e individualismo
+
+(Estanque, 2014: 74-76).
+
+!25
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+A importância dos temas em causa e a possibilidade da participação política resultar em
+
+benefício de quem investe os recursos que tem disponíveis (Dür e Mateo, 2013: 662), pode
+
+implicar investimento simultaneamente numa participação em protesto desafiante das elites e
+
+de forma institucionalizada.
+
+Se ao cenário de contração dos rendimentos (Pedroso, 2014: 26) esteve associado um
+
+cenário de alteração da legislação do trabalho com o mesmo objetivo , é por isso lógico 12
+
+propor-se a possibilidade das formas de participação política de desafio das elites, através de
+
+protestos, boicotes e ocupações, e da contestação provocada pela falta de perspectivas de
+
+futuro e sentimentos de injustiça (Estanque, 2014: 65, Soeiro, 2014: 67-69) tenham tido
+
+também eco numa forma mais institucional de participação como são os contributos para o
+
+processo legislativo da Assembleia da República (AR).
+
+Concentrando a análise a este tipo de participação institucional da sociedade civil no
+
+período entre os anos 2008 e 2015, mantendo presente o contexto paradoxal da participação e
+
+da alteração das desigualdades de rendimentos descrito pela literatura, formula-se a seguinte
+
+hipótese:
+
+H1. Quando a desigualdade de rendimentos aumenta há um aumento de contributos da
+
+sociedade civil para o processo legislativo.
+
+Durante o período de crise, os temas dos principais protestos foram justiça distributiva e
+
+o trabalho (Estanque, 2014: 57, Soeiro, 2014: 65). Isto pode ser afirmado não só pela
+
+participação das duas centrais sindicais portuguesas, mas também, como refere José Soeiro
+
+(2014), porque os temas sócio-laborais são de longe os que mereceram mais referências nos
+
+protestos organizados pelos novos movimentos sociais do período que analisou. Como tal,
+
+associada à primeira, formula-se uma segunda hipótese:
+
+H2. O aumento dos contributos é observável em iniciativas que se inscrevem nos temas
+
+da economia e do trabalho.
+
+Entre 2008 e 2015 a Assembleia da República executou 258 processos legislativos diretamente ligados ao trabalho, 12 constituindo cerca de 10% das iniciativas legislativas nesse período.
+
+!26
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+V. METODOLOGIA
+
+A participação no âmbito do processo legislativo só era identificável se existisse sob a
+
+forma de contributos registados no âmbito do processo legislativo da Assembleia da
+
+República Portuguesa (AR).
+
+Os pedidos de dados enviados aos serviços da AR ainda se encontravam sem resposta à
+
+data da elaboração deste trabalho o que justificou a utilização de um método alternativo para a
+
+criação do dataset (base de dados) a analisar. Para testar as hipóteses foi necessário por isso
+
+recolher diretamente a informação disponível no site da Assembleia da República em
+
+www.parlamento.pt.
+
+Para esse efeito foram utilizadas técnicas de programação que permitiram a
+
+automatização da navegação no site da Internet da AR para assim obter, dos conteúdos das
+
+iniciativas legislativas da AR e dos debates públicos online relativos a iniciativas legislativas,
+
+a informação que procurava . 13
+
+Para obter a informação destas iniciativa foi desenvolvido um conjunto de programas de
+
+computador que permitiram recolher e organizar a informação para análise. Dada a grande
+
+quantidade de páginas a pesquisar para recolher os dados, de forma a evitar a disfunção dos
+
+serviços prestados no próprio site e pelo número elevado de pedidos que a recolha de dados
+
+gerava, foi utilizado um conjunto de programas desenvolvidos para este efeito específico.
+
+Estes programas interagiam com o site através do navegador internet (browser) Mozilla
+
+Firefox. O programa utilizado para controlar o navegador foi o iMacros. Este programa corre
+
+na dependência deste browser e permite programar ações com base no código que é colocado
+
+no ecrã pelos sites de Internet. Este programa contém uma linguagem de programação própria
+
+e permite simular a navegação humana para recolher os dados autonomamente após
+
+configuração.
+
+Face ao elevado número de conteúdos necessários recolher e face também ao elevado
+
+número de erros produzidos pelo software do site da AR, foi necessário executar um conjunto
+
+de funcionalidades que permitiam identificar o ponto de recolha em que se tinha dado a falha
+
+para poder retomar a recolha quando o site estivesse operacional. Para isso foi utilizada
+
+linguagem de programação Javascript (JS) que, por sua vez, continha as condições de
+
+funcionamento do browser e gravação dos dados escrita na linguagem proprietária do
+
+Informação das iniciativas foi recolhida a última vez no dia 18 de outubro de 2015 para concluir os dados da última 13 legislatura.
+
+!27
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+iMacros.
+
+A navegação com gravação automática gerou uma grande quantidade de dados em bruto
+
+que foi necessário distribuir pelos campos da base de dados a partir da qual se executou a
+
+análise. Para isso foi criada uma pilha de tarefas com Gnu Bourne-Again Shell (BASH) que 14
+
+recorreu a um bloco externo de código em PHP: Hypertext Preprocessor (PHP) para a 15
+
+execução da seleção e tratamento dos dados. Cada conjunto de dados em bruto em que se
+
+encontravam agrupadas as iniciativas de cada legislatura foi processado por um script em
+
+BASH através do programa em PHP. O programa em PHP converteu os a informação das
+
+17024 iniciativas parlamentares em 138516 registos de eventos. Os registos dos eventos do
+
+processo legislativo da AR foram depois processados pelo mesmo programa PHP em busca da
+
+participação dos cidadãos nas iniciativas parlamentares identificada pelas referências
+
+“Contributos”.
+
+A base de dados foi preparada de forma a que se pudessem distinguir os tipos de
+
+iniciativas parlamentares, detalhes dos eventos, data dos eventos e identificadores únicos da
+
+iniciativas a que pertenciam os eventos. Os identificadores únicos foram decompostos por
+
+número da iniciativa e legislatura para permitir a apresentação dos dados de forma sintética
+
+agrupada por ano.
+
+Uma observação mais cuidada aos dados resultantes permitiu identificar um conjunto de
+
+contributos com origem em cidadãos em nome próprio. Para testar as hipóteses foi necessário
+
+classificar os eventos das iniciativas na base de dados de forma a identificar os contributos
+
+das AVSC e cidadãos. Para isso foram identificados como “Individual” os contributos
+
+entregues diretamente por cidadãos e como “Associação” os contributos entregues pelas
+
+AVSC.
+
+De forma a verificar a qualidade dos dados a analisar, foi verificado que as datas dos
+
+registos se encontravam dentro do intervalo de datas do período real, retificando as datas
+
+encontradas através da consulta direta às iniciativas em causa. Os eventos foram também
+
+agrupados cronologicamente ao longo dos vários anos das doze legislaturas e cruzada a data
+
+dos registos com o intervalo de anos a que correspondiam essas legislaturas. Os eventos
+
+registados com datas fora do intervalo da legislatura a que pertencem foram também
+
+Gnu not Unix Bourne-Again Shell (Bash) 14
+
+PHP - Personal Home Page ou PHP: Hypertext Preprocessor 15
+
+!28
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+retificados pelo mesmo processo. 16
+
+A classificação por modalidades das AVSC foi efetuada com base nas modalidades
+
+identificadas pelo autor José Manuel Viegas. Para isso foram classificadas as associações
+
+conforme se tratassem de novos movimentos sociais, associações de integração social ou de
+
+associações de defesa de interesses como se resume no quadro V.1. que é adaptado do anterior
+
+do mesmo autor (Viegas, 2004: 36-40, 2011: 51).
+
+A definição de associações voluntárias da sociedade civil de José Manuel Viegas, que,
+
+referindo-se a vários autores, indica que estas devem ser entendidas como associações em que
+
+a participação dos cidadãos é feita de forma livre sem a procura do lucro. Desta definição
+
+ficam excluídas as ordens profissionais e a família ou outras em que a integração nesses
+
+grupos implica um nível de coercividade ou a procura de (Viegas, 2011: 44-45). Foi também
+
+utilizada a definição de modalidades do mesmo autor para classificar, conforme o Quadro 1
+
+adaptado para esta dissertação (Viegas, 2011: 54).
+
+A análise aos dados identificou um conjunto de outras organizações, como organismos
+
+do Estado e Ordens profissionais que participam através de pareceres para o processo
+
+legislativo. Estas organizações foram assinaladas nos dados respetivamente com “Estado” e
+
+“Ordens” para poderem ser filtradas para fora dos resultados a analisar. Foram também
+
+identificados um conjunto de associações de entidades coletivas de Administração Local do
+
+Estado. Para este trabalho as associações de municípios, freguesias ou outras de associação
+
+voluntária por outras organizações não foram consideradas AVSC. Embora permitam a defesa
+
+de interesses dos organismos associados e sejam de livre associação, gozam de um poder que
+
+não é oriundo da rede social de entre-ajuda que as AVSC criam e por serem constituídas por
+
+organismos de governo do país. Mesmo que constituídas como organizações de direito
+
+privado sem fins lucrativos e de associação livre, representam organizações do Estado. Os
+
+dados estão disponíveis para download no site www.ferro.cc.
+
+A classificação dos temas das iniciativas legislativas foi baseada num sistema de
+
+categorias construído com base na informação das próprias iniciativas e conforme Quadro A.1
+
+nos anexos.
+
+Os resultados desta organização dos dados foram posteriormente submetidos a análise
+
+As ocorrências de datas incompatíveis com os períodos legislativos detetadas foram comunicadas aos serviços da 16 Assembleia da República.
+
+!29
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+quantitativa com programas informáticos recorrendo-se para isso ao Microsoft Excel e SPSS 17
+
+para tratamento e análise estatística e ao Apple Numbers para a produção de quadros e
+
+gráficos.
+
+Para testar as variáveis quanto à direção da relação e a intensidade da mesma, foi
+
+calculado o coeficiente de correlação de Pearson (Gill, 2006: 369) entre as variáveis. Quando
+
+calculado este coeficiente entre duas variáveis, apresenta resultados entre 1 e -1, em que 1 e -1
+
+indicam uma correlação perfeita entre duas variáveis, sendo positiva quando o resultado é um
+
+número positivo e negativa quando esse resultado é um número negativo. Se o resultado for 0
+
+indica que as variáveis não estão relacionadas linearmente. Cada relação foi avaliada como
+
+muito fraca se o coeficiente de correlação de Pearson resultasse num valor entre 0 e 0,2; como
+
+fraca com resultados entre 0,2 e 0,4; como moderada com resultados entre 0,4 e 0,7; como
+
+forte com resultados entre 0,7 e 0,9; como muito forte com resultados entre 0,9 e 1. Embora
+
+tendo presente que o volume de casos utilizado para o cálculo das correlações é inferior ao
+
+mínimo estatisticamente exigido (n>30), considerou-se ainda assim o exercício como
+
+relevante na medida em que fornece uma indicação do grau de correlação entre as variáveis.
+
+Naturalmente tratando-se de um exercício exploratório e grosseiro, ainda assim, um indicador
+
+que contribui para melhor compreendermos a realidade que estamos a analisar.
+
+SPSS - Statistical Package for the Social Sciences 17
+
+!30
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+VI.ANÁLISE DE RESULTADOS
+
+Inicia-se esta análise como uma apresentação descritiva dos contributos e a sua
+
+distribuição pelos anos do período em análise, organizando esses contributos por modalidade
+
+associativa e temas de participação com contributos.
+
+Apresenta-se depois a análise subjacente ao teste das hipóteses H1. (Quando a
+
+desigualdade de rendimentos piora há um aumento de contributos da sociedade civil para o
+
+processo legislativo) e H2. (O aumento dos contributos é observável em iniciativas que se
+
+inscrevem nos temas da economia e do trabalho).
+
+A análise das 2679 iniciativas legislativas registadas no site www.parlamento.pt para o
+
+período entre 2008 e 2015 permitiu identificar um total 552 registos de participações da
+
+sociedade civil como contributos entregues à Assembleia da República Portuguesa (AR).
+
+No período em análise, a AR executou 2147 Projetos de Lei e 532 Propostas de Lei
+
+como detalhado no Quadro A.2 nos anexos. Durante este período houve uma concentração da
+
+frequência de contributos pelas associações da modalidade defesa de interesse, sendo que o
+
+período de maior número de contributos desta modalidade de associação foi nos anos de 2013
+
+a 2015. Analisando descritivamente os dados obtidos é possível destacar logo a participação
+
+quase inexistente dos movimentos de integração social e a participação através de contributos
+
+individuais no ano de 2009, conforme se ilustra com o gráfico 3 e se detalha no quadro A.3
+
+nos anexos.
+
+Gráfico 4 - Total de contributos de cidadãos (modalidade de associação e individual)
+
+!31
+
+Contributos para processo legislativo
+
+0
+
+50
+
+100
+
+150
+
+200
+
+2008 2009 2010 2011 2012 2013 2014 2015
+
+Defesa de interesse Integração social Novos movimentos sociais Individual
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Fonte: www.parlamento.pt - dados recolhidos 18 de outubro de 2015
+
+Entre os anos 2008 e 2015 foram entregues na Assembleia da República 479 contributos
+
+de associações da modalidade de defesa de interesses, 3 da modalidade de integração social,
+
+22 da modalidade dos novos movimentos sociais e 48 contributos a titulo individual. Esta
+
+frequência de contributos a título individual não deve ser vista com surpresa se for tida em
+
+conta a descrição mista de valores que o autor André Freire (2003a) faz para a sociedade
+
+portuguesa já em 1999, pela descrição que os autores Inglehart e Catterberg (2002) fazem do
+
+aumento do individualismo nas gerações com sistema de valores pós-materialista e mais ainda
+
+se olharmos para estes contributos individuais como uma forma de desafio de elites também
+
+característica de sistemas de valores pós-materialistas.
+
+Os anos 2010, 2013 e 2014 foram os anos com maior número de contributos, com o
+
+total de 84, 191 e 132, respetivamente. No ano de 2011 houve apenas um contributo e em
+
+2008 apenas 10 contributos.
+
+Gráfico 5 - Total de contributos de cidadãos (temas economia, trabalho e todos os outros)
+
+Fonte: www.parlamento.pt - dados recolhidos 18 de outubro de 2015
+
+Os dados entre os anos 2008 e 2015 indicam que foram entregues na AR 442
+
+contributos para participação de processos legislativos do tema do trabalho, 68 para tema
+
+Economia e 42 de todos os outros.
+
+!32
+
+Contributos
+
+0
+
+50
+
+100
+
+150
+
+200
+
+2008 2009 2010 2011 2012 2013 2014 2015
+
+Todos os outros Economia Trabalho
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+O ano com maior número de contributos do tema trabalho é o de 2013, com 168
+
+contributos, seguido do ano 2014 com 99 contributos para este tema. Neste período foram
+
+introduzidas alterações à legislação que repunham o subsídio de férias aos trabalhadores do
+
+Estado, alterações à requalificação dos trabalhadores do Estado, prestação de informação
+
+sobre os subsídios pagos aos trabalhadores do Estado, alteração do horário normal de trabalho
+
+dos trabalhadores do Estado, entre outros.
+
+Como referido no capítulo sobre a metodologia, o volume de casos utilizado para o
+
+cálculo das correlações é inferior ao mínimo estatisticamente exigido (n>30). Naturalmente
+
+tratando-se de um exercício exploratório e grosseiro, considerou-se o exercício como
+
+relevante na medida em que fornece uma indicação do grau de correlação entre as variáveis e
+
+um indicador que contribui para melhor compreendermos a realidade que estamos a analisar.
+
+A hipótese H1. (Quando a desigualdade de rendimentos piora há um aumento de
+
+contributos da sociedade civil para o processo legislativo) foi testada calculando o coeficiente
+
+de correlação de Pearson entre a frequência de contributos e cada um dos indicadores de
+
+desempenho sócio-económicos, conforme resultados no Quadro 2 e ilustrado nos gráficos A.1
+
+e A.2 nos anexos.
+
+Quadro 2 - Coeficiente de correlação de Pearson entre contributos da sociedade civil para o
+
+processo legislativo e os indicadores sócio-económicos
+
+Contributos da sociedade civil
+
+para o processo legislativo
+
+Taxa de crescimento real do
+
+PIB Pearson Correlation -.326
+
+Sig. (2-tailed) .475
+
+N 7
+
+Taxa de crescimento do
+
+emprego Pearson Correlation -.179
+
+Sig. (2-tailed) .735
+
+N 6
+
+Indice de Gini Pearson Correlation -.476
+
+Sig. (2-tailed) .233
+
+N 8
+
+!33
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Os resultados do teste estatístico com o coeficiente de Pearson entre a frequência dos
+
+contributos e os 3 indicadores sócio-económicos não permitiram afirmar que exista uma
+
+relação entre os contributos para a Assembleia da República e qualquer uma destas variáveis.
+
+Na correlação entre os contributos e a Taxa de crescimento do PIB, a relação é fraca, no
+
+sentido negativo e sem significado estatístico (r=-.326; n=7; p=.475). Na correlação entre os
+
+contributos e a Taxa de crescimento do emprego, a relação é muito fraca, no sentido negativo
+
+e sem significado estatístico (r=-.179; n=6; p=.735). Na correlação entre os contributos e o
+
+índice de Gini, a relação é fraca e no sentido negativo sem significado estatístico (r=-.326;
+
+n=7; p=.475). Para tais resultados sem relevância estatística terá necessariamente contribuído
+
+o muito baixo volume amostral utilizado neste exercício. Assim, mesmo que em termos
+
+indicativos, pode dizer-se que quando a desigualdade de rendimentos piora não é previsível
+
+que haja um aumento de contributos da sociedade civil para o processo legislativo na AR.
+
+A hipótese H2. (O aumento dos contributos é observável em iniciativas que se
+
+inscrevem nos temas da economia e do trabalho) foi testada calculando o coeficiente de
+
+correlação de Pearson entre a frequência de contributos e cada um dos temas, conforme
+
+resultados no Quadro 3.
+
+Quadro 3 - Coeficiente de correlação de Pearson entre contributos da sociedade civil para o
+
+processo legislativo e os indicadores sócio-económicos
+
+Contributos da sociedade civil para o
+
+processo legislativo
+
+Tema - Economia
+
+Pearson Correlation .682
+
+Sig. (2-tailed) .063
+
+N 8
+
+Tema - Trabalho
+
+Pearson Correlation .989**
+
+Sig. (2-tailed) .000
+
+N 8
+
+Todos os outros temas
+
+Pearson Correlation .085
+
+Sig. (2-tailed) .842
+
+N 8
+
+!34
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Os resultados do teste estatístico com o coeficiente de Pearson entre a frequência dos
+
+contributos e as iniciativas legislativas do tema trabalho e economia apresentam uma relação
+
+entre os contributos para a Assembleia da República e as iniciativas legislativas do tema
+
+Trabalho. Na correlação entre os contributos e o tema economia, a relação é moderada, no
+
+sentido positivo e sem significado estatístico (r=.682; n=8; p=.063). Na correlação entre os
+
+contributos e o tema trabalho, a relação é muito forte, no sentido positivo e com significado
+
+estatístico (r=.989; n=8; p=.000). Na correlação entre os contributos e as iniciativas
+
+legislativas de todos os outros temas, a relação é fraca e no sentido positivo sem significado
+
+estatístico (r=.085; n=8; p=.842). A correlação entre a frequência de contributos e as
+
+iniciativas legislativas do tema Trabalho será quase perfeita por serem estes os temas em que
+
+a legislação do trabalho indica que as AVSC de representação dos trabalhadores têm de ser
+
+ouvidas. Considerando as limitações antes referidas em termos de volume amostral, estes
+
+resultados são de realçar, pois muito baixos volumes amostrais constrangem a possibilidade
+
+de se encontrarem relações estatisticamente significativas. Contudo, pela mesma razão, estas
+
+conclusões devem ser interpretadas com cautela. Assim, mesmo que em termos indicativos,
+
+pode dizer-se que o aumento dos contributos é observável em iniciativas legislativas da AR
+
+que se inscrevem nos temas do trabalho, mas não nas as que se inscrevem nos temas da
+
+economia.
+
+!35
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+VII. CONCLUSÕES
+
+Pretendia-se saber como participaram os cidadãos no contexto institucional da sua
+
+relação com a Assembleia da República Portuguesa (AR) entre os anos 2008 e 2015 e se as
+
+alterações sócio-económicas que ocorreram nesse período tiveram influência nesse
+
+relacionamento. Para isso foi analisada a participação da sociedade civil através os
+
+contributos para os processos legislativos no período em análise, em especial aqueles ligados
+
+aos temas do trabalho e economia. Para esse efeito, recorreu-se aos registos de participação
+
+dos contributos que a AR mantém públicos no site www.parlamento.pt através de um dataset
+
+novo produzido com o apoio de um conjunto de programas desenvolvidos para o efeito.
+
+A análise da literatura propunha que as teorias clássicas sobre os movimentos sociais no
+
+mundo ocidental não respondiam ao fenómeno atual e apontavam para existirem dinâmicas e
+
+tensões sociais oriundas da classe média como um fenómeno sócio-económico (Estanque,
+
+2014). Esta dinâmica era alimentada pelas desigualdades que afetaram muito mais a classe
+
+média, aumentando o emprego precário entre aqueles a que chamaram de novo proletariado e
+
+entre a juventude altamente escolarizada, mas sem emprego ou expectativas de futuro (Soeiro,
+
+2014). Estes autores apontavam para uma dinâmica paradoxal de ação coletiva, rebeldia e
+
+individualismo. Esta dinâmica criada pelos novos movimentos sociais era proposta como uma
+
+novidade que carecia de aprofundamento.
+
+As hipóteses foram testadas com um volume de casos inferior ao mínimo
+
+estatisticamente exigido (n>30), mas ainda assim, tratando-se de um exercício exploratório e
+
+grosseiro, considerou-se que o exercício auxiliava ainda assim a melhor compreendermos a
+
+realidade que estamos a analisar. Tendo isto em conta, mesmo que apenas em termos
+
+indicativos, pode dizer-se que quando a desigualdade de rendimentos piora não é previsível
+
+que haja um aumento de contributos da sociedade civil para o processo legislativo na AR. Da
+
+mesma forma, apenas em termos indicativos, pode dizer-se que o aumento dos contributos é
+
+observável em iniciativas legislativas da AR que se inscrevem nos temas do trabalho, mas não
+
+nas as que se inscrevem nos temas da economia.
+
+Do ponto de vista da participação extra-eleitoral pode dizer-se que esta dinâmica, a
+
+existir e a influenciar as formas de participação, não teve ecos no relacionamento da
+
+sociedade civil com a Assembleia da República. As alterações à frequência de contributos da
+
+sociedade civil para participar no processo legislativo não parecem ter qualquer relação com
+
+!36
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+os indicadores sócio-económicos testados. Não ser identificada uma variação dos contributos
+
+de forma relacionada com os indicadores sócio-económicos poderá estar associado à semi profissionalização das AVSC que mantêm a sua agenda controlada mesmo perante as
+
+mudanças de contexto sócio-económico, apenas investindo nos temas do seu interesse em que
+
+avaliam ter capacidade para influenciar o resultado em seu favor. Isto poderá apontar para
+
+uma maior profissionalização dessas associações, mas nem por isso se aproxima mais do
+
+modelo de participação cidadã indicado como desejável pelos autores já referidos neste
+
+trabalho. (Canotilho e Moreira, 2007, Freire, 2007: 13, Pereira, 2000: 3)
+
+Poderia colocar-se a possibilidade deste comportamento das AVSC terem sido
+
+influenciados pela agenda da de correção orçamental nos anos em análise, alterando o seu
+
+comportamento em relação a anos anteriores, mas a AR não apresenta os registos de dados de
+
+contributos de forma consistentes em anos anteriores a 2008, pelo que não é possível
+
+comparar este comportamento com o passado da nossa democracia. Uma vez que esta
+
+informação esteja disponível, será possível saber mais sobre o relacionamento institucional
+
+das AVSC com a AR.
+
+As associações da modalidade de defesa de interesses apresentaram no período em
+
+análise a maior frequência de participação com contributos para o processo legislativo. O
+
+maior envolvimento dos cidadãos na modalidade de associação dos novos movimentos sociais
+
+que José Manuel Viegas e outros referiam antes de 2011 como sendo interessante estudar no
+
+futuro, parece manter-se inalterado no que toca à participação institucional junto da AR
+
+(Viegas, 2011: 56).
+
+Se o contexto institucional e as características do grupo de indivíduos que constituem a
+
+associação determinam a escolha da forma de atuação (Dür e Mateo, 2013: 662) haverá mais
+
+a perguntar que estes dados não podem responder, nomeadamente qual a eficácia da
+
+contribuição para o processo legislativo, o que não é possível responder com estes dados uma
+
+vez que não foram classificados os resultados das iniciativas legislativas. Também se sabe
+
+pouco sobre as relações informais que os grupos parlamentares da Assembleia da República
+
+mantém com as AVSC e se esta relação estará por trás desta manutenção do seu
+
+comportamento perante a AR.
+
+!37
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+FONTES
+
+Iniciativas - Site da Assembleia da República http://www.parlamento.pt/
+
+ActividadeParlamentar/Paginas/IniciativasLegislativas.aspx, acedido no dia 18 de outubro de
+
+2015
+
+Forum de debate - Site da Assembleia da República http://www.parlamento.pt/
+
+EspacoCidadao/Paginas/ForunsIndex.aspx, acedido no dia 20 de outubro de 2015
+
+Pordata - 2015. Fundação Francisco Manuel dos Santos, acedido no dia 26 de outubro
+
+de 2015
+
+Eurostat - http://ec.europa.eu/eurostat/, acedido no dia 28 de outubro de 2015
+
+!38
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+BIBLIOGRAFIA
+
+Accornero, Guya, e Pedro Ramos Pinto. 2015. "‘Mild Mannered’? Protest and Mobilisation in Portugal under Austerity, 2010–2013." West European Politics 38: 491-515.
+
+Brady, Henry E. 2004. "An Analytical Perspective on Participatory Inequality and Income Inequality." Social inequality: 667-702.
+
+Cabral, Manuel Villaverde. 2000. "O ExercíCio da Cidadania PolíTica Em Portugal." Análise Social 35: 29.
+
+Canotilho, José Joaquim, e Vital Moreira. 2007. "Constituição da República Portuguesa Anotada: Artigos 1 a 107."
+
+Cohen, Joshua. 1989. "Deliberation and Democratic Legitimacy." In Debates in Contemporary Political Philosophy: An Anthology. 67-92.
+
+"Constituição da República Portuguesa - VII Revisão Constitucional." 2005. ed. Assembleia da República Portuguesa. Lisboa.
+
+de Toqueville, Alexis. 1835, 1972. Democracy in America. Translated by Henry Reeve: An Electronic Classics Series Publication.
+
+Duguleana, Constantin, e Liliana Duguleana. 2009. "Testing the Law of Economic Growth and Income Distribution in the World Developed Countries."
+
+Dür, Andreas, e Gemma Mateo. 2013. "Gaining Access or Going Public? Interest Group Strategies in Five European Countries." European Journal of Political Research 52: 660-686.
+
+Elster, Jon. 1998. Deliberative Democracy. Vol. 1: Cambridge University Press.
+
+Estanque, Elísio. 2014. "Rebeliões de Classe Média? Precariedade E Movimentos Sociais Em Portugal E No Brasil (2011-2013)." Revista crítica de ciências Sociais: 53-80.
+
+Filipe, António. 2009. "The 2007 Reform of the Portuguese Parliament: What Has Really Changed?". The Journal of Legislative Studies 15: 1-9.
+
+———. 2007. Sociedade Civil, Democracia Participativa E Poder Político. Lisboa: Fundação Friedrich Ebert.
+
+Gill, Jeff. 2006. Essential Mathematics for Political and Social Research. New York: Cambridge University Press.
+
+Gomes, João Salis. 2010. "Interesse PúBlico, Controle DemocráTico do Estado E Cidadania." Homenagem ao Professor Doutor Diogo Freitas do Amaral: 27.
+
+Habermas, Jurgen. 1992. Between Facts and Norms: Suhrkamp Verlag.
+
+Inglehart, Ronald, e Gabrieal Catterberg. 2002. "Trends in Political Action: The Developmental Trend and the Post-Honeymoon Decline." International Journal of Comparative Sociology 43: 300-316.
+
+Magalhães, Pedro. 2009. "A Qualidade da Democracia Em Portugal: A Perspectiva Dos Cidadãos." In Secondary A Qualidade da Democracia Em Portugal: A Perspectiva Dos Cidadãos, ed Secondary ———. Reprint, Reprint.
+
+!39
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Magnette, Paul. 2003. "European Governance and Civic Participation: Beyond Elitist Citizenship?". Political Studies 51: 144-160.
+
+Magone, José M. "The Quality of Portuguese Democracy in the European Union."
+
+———. 2004. "The Quality of Portuguese Democracy in the European Union."
+
+Mair, Peter. 2003. "Os Partidos PolíTicos E a Democracia." Análise Social XXXVIII: 277-293.
+
+Mann, Michael. 2013. "The Sources of Social Power: Volume 4, Globalizations, 1945-2011."
+
+Marien, Sofie, Marc Hooghe, e Ellen Quintelier. 2010. "Inequalities in Non-Institutionalized Forms of Political Participation. A Multilevel Analysis for 25 Countries.". Political Studies 58(1): 187-213.
+
+Mendes, José Manuel, e Ana Maria Seixas. 2005. "Acção Colectiva E Protesto Em Portugal: Os Movimentos Sociais Ao Espelho Dos Media (1992-2002)." Revista crítica de ciências Sociais: 99-127.
+
+OECD. 2001. "Citizens as Partners - Information, Consultation and Participation in Public Policy Making." In Secondary Citizens as Partners - Information, Consultation and Participation in Public Policy Making, ed Secondary ———. Reprint, Reprint.
+
+Olson, Mancur. 1965. The Logic of Colective Action: Public Goods and the Theory of Groups. London: Harvard University Press.
+
+Pedroso, Paulo. 2014. "Portugal and the Global Crisis." In Secondary Portugal and the Global Crisis, ed Secondary ———: Friederich Ebert Stiftung. Reprint, Reprint.
+
+Pereira, Paulo Trigo. 2000. "Governabilidade, Grupos de Pressão Eo Papel do Estado." A Reforma do Estado em Portugal: problemas e perspectivas, Actas do 1.
+
+Platão. 380 AD. "A República." Gutenber.org. http://www.gutenberg.org/files/1497/1497-h/1497-h.htm. Accessed 2014-04-27.
+
+Putnam, Robert. 2001. "Social Capital: Measurement and Consequences." Canadian Journal of Policy Research 2: 32.
+
+Putnam, Robert D. 1993. "Civic Traditions in Modern Italy." In Making Democracy Work. Princeton, New Jersey: Princeton University Press. 80-120.
+
+Regimento da Assembleia da República. nº 1/2007, de 20 de agosto.
+
+Soeiro, José. 2014. "From Geração À Rasca to Que Se Lixe a Troika: Portugal in the New International Cycle of Protest." Sociologia 28: 55-79.
+
+Solt, Frederick. 2008. "Economic Inequality and Democratic Political Engagement." American Journal of Political Science 52: 48-60.
+
+———. 2010. "Does Economic Inequality Depress Electoral Participation? Testing the Schattschneider Hypothesis." Political Behavior 32: 285-301.
+
+Stolle, D. 2005. "Politics in the Supermarket: Political Consumerism as a Form of Political Participation." International Political Science Review/ Revue internationale de science politique 26: 245-269.
+
+Torcal, Mariano, e Pedro C. Magalhães. 2009. "Political Culture in Southern Europe: Searching for Exceptionalism." 55.
+
+Uslaner, Eric M, e Mitchell Brown. 2005. "Inequality, Trust, and Civic Engagement." American politics research 33: 868-894.
+
+van Deth, J. W. 2009. "Participation in Voluntary Associations: Dark Shades in a Sunny World?". American Behavioral Scientist 53: 640-656.
+
+!40
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+Viegas, José Manuel Leite. 2004. "Implicações Democráticas Das Associações Voluntárias - O Caso PortuguêS Numa Perspectiva Comparativa Europeia." Sociologia, Problemas e Práticas: 33-50.
+
+———. 2011. "A Participação Associativa Em Portugal: Que Contribuição Para Uma Sociedade Civil Forte?". Boletim do Núcleo Cultural da Horta: 43-58.
+
+Young, Iris Marion. 2001. "Activist Challenges to Deliberative Democracy." Political Theory 29: 670-690.
+
+!41
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+ANEXOS
+
+A.1. Quadro - Temas legislativos contendo contributos da sociedade civil
+
+Tema da iniciativa Assuntos
+
+Todos os outros
+
+Regula os vários processos eleitorais
+
+Regras de funcionamento de ensino e do apoio
+
+ao ensino, incluindo bolsas de estudo e
+
+condições de recursos
+
+Legislação relativa ao direito de informação e
+
+meios de suporte a esse direito como sejam a
+
+rádio difusão pública
+
+Atribuições e leis quadro relativas a organismos
+
+com capacidade fiscalizadora e reguladora do
+
+estado
+
+Leis pela qual se rege a justiça e a aplicação de
+
+penas
+
+Legislação relativo à proteção social, pensões e
+
+condições de recurso
+
+Legislação que regula o ordenamento do
+
+território e a sua divisão administrativa
+
+Processos administrativos regulados pela AR
+
+Condições específicas das AVSC
+
+Economia
+
+Orçamento geral do Estado
+
+Legislação relativa à cobrança de impostos, taxas
+
+e outros valores cobrados pelo estado aos
+
+cidadãos e empresas
+
+Legislação associado como seja as retificações
+
+ao orçamento geral do Estado e outros que
+
+afetam a economia
+
+Trabalho Legislação que afeta os rendimentos, condições
+
+de prestação e benefícios dos trabalhadores
+
+!I
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+A.2. Quadro - Frequência de iniciativas legislativas na Assembleia da República Portuguesa
+
+A.3. Quadro - Frequência de contributos da sociedade civil no processo legislativo na
+
+Assembleia da República Portuguesa (por modalidade e ano)
+
+Ano Projeto Lei Proposta de Lei Total
+
+2008 192 72 264
+
+2009 399 61 460
+
+2010 363 40 403
+
+2011 423 107 530
+
+2012 197 28 225
+
+2013 160 69 229
+
+2014 201 110 311
+
+2015 212 45 257
+
+Grand total 2147 532 2679
+
+Contributos Defesa de
+
+interesse
+
+Integração
+
+social
+
+Novos movimento
+
+s sociais
+
+Individual Total de contributos
+
+2008 5 0 0 5 10
+
+2009 3 0 0 16 19
+
+2010 71 3 8 2 84
+
+2011 0 0 0 1 1
+
+2012 32 0 2 6 40
+
+2013 171 0 2 18 191
+
+2014 122 0 10 0 132
+
+2015 75 0 0 0 75
+
+Gand Total 479 3 22 48 552
+
+!II
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+A.4. Quadro - Frequência de contributos da sociedade civil no processo legislativo na
+
+Assembleia da República Portuguesa (por tema e ano)
+
+A.5. Quadro - Frequência de contributos da sociedade civil para o debate relativo a iniciativas
+
+legislativas da Assembleia da República Portuguesa e indicadores sócio-económicos
+
+Contributos Todos os
+
+outros Economia Trabalho Total
+
+2008 1 9 0 10
+
+2009 2 0 17 19
+
+2010 2 58 24 84
+
+2011 1 0 0 1
+
+2012 13 27 0 40
+
+2013 20 168 3 191
+
+2014 32 99 1 132
+
+2015 0 75 0 75
+
+Grand total 71 436 45 552
+
+Indice de Gini
+
+Taxa de crescimento real
+
+do PIB
+
+Taxa de crescimento do
+
+emprego
+
+Contributos da sociedade civil para o processo
+
+legislativo
+
+2008 35,8 0,2 10
+
+2009 35,4 -2,98 -3,1 19
+
+2010 33,7 1,9 -1,7 84
+
+2011 34,2 1
+
+2012 34,5 -1,83 -3,3 40
+
+2013 34,2 -4,03 -3,9 191
+
+2014 34,5 -1,13 -2,2 132
+
+2015 0,91 1,9 75
+
+Grand total 552
+
+!III
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+A.1. Gráfico - Total de contributos de cidadãos (modalidade de associação e individual)
+
+Fonte: Eurostat (Gini Index) e www.parlamento.pt - dados recolhidos 18 de outubro de 2015
+
+A.2. Gráfico - Frequência de contributos individuais e das AVSC de defesa de interesses nas
+
+iniciativas legislativas na Assembleia da República Portuguesa e Taxa de crescimento do PIB
+
+e Emprego
+
+Fonte: Pordata (Taxa de crescimento do PIB e Emprego) e www.parlamento.pt - dados
+
+recolhidos 18 de outubro de 2015
+
+!IV
+
+33,00
+
+33,75
+
+34,50
+
+35,25
+
+36,00
+
+Contributos para processo legislativo
+
+0
+
+50
+
+100
+
+150
+
+200
+
+2008 2009 2010 2011 2012 2013 2014 2015 Total de contributos Indice de Gini
+
+Contributos
+
+0
+
+50
+
+100
+
+150
+
+200
+
+Taxa de crescimento do PIB e do Emprego
+
+-5
+
+-3,75
+
+-2,5
+
+-1,25
+
+0
+
+1,25
+
+2,5
+
+2008 2009 2010 2011 2012 2013 2014 2015
+
+Taxa de crescimento real do PIB Taxa de crescimento do emprego Individual Defesa de interesses
+
+SOCIEDADE CIVIL E PODER LEGISLATIVO DISSERTAÇÃO DE MESTRADO
+
+CV
+
+!V

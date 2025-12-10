@@ -1,0 +1,463 @@
+Environmental Politics
+
+ISSN: 0964-4016 (Print) 1743-8934 (Online) Journal homepage: www.tandfonline.com/journals/fenp20
+
+From populism to climate scepticism: the role of institutional trust and attitudes towards science
+
+Robert A. Huber, Esther Greussing & Jakob-Moritz Eberl
+
+To cite this article: Robert A. Huber, Esther Greussing & Jakob-Moritz Eberl (2022) From populism to climate scepticism: the role of institutional trust and attitudes towards science, Environmental Politics, 31:7, 1115-1138, DOI: 10.1080/09644016.2021.1978200
+
+To link to this article: https://doi.org/10.1080/09644016.2021.1978200
+
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+
+View supplementary material
+
+Published online: 24 Sep 2021.
+
+Submit your article to this journal
+
+Article views: 14595
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 62 View citing articles
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=fenp20
+
+From populism to climate scepticism: the role of institutional trust and attitudes towards science
+
+Robert A. Huber a, Esther Greussing b and Jakob-Moritz Eberl c
+
+aDepartment of Political Science and Sociology, University of Salzburg, Salzburg, Austria; bInstitute of Communication Science, TU Braunschweig, Braunschweig, Germany; cDepartment of Communication, University of Vienna, Vienna, Austria
+
+ABSTRACT Why do populist citizens oppose climate change? Thus far, data constraints limited the ability to test different theoretical mechanisms against each other. We argue that populist attitudes affect climate attitudes through two distinct channels, namely institutional trust and attitudes towards science. The former argument focuses on political institutions as the central actors in implementing climate policy. Individuals who distrust these institutions are more sceptical about climate change. The latter argument claims that populists deny climate change because they distrust the underlying climate science. According to this view, populists would view climate scientists as part of the self-serving elite that betrays the people. Utilising data from the Austrian National Election Study and structural equation modelling, we find strong support for the relationship of populism and climate attitudes via attitudes towards science and institutional trust. Populists systematically hold more negative attitudes towards science and political institutions, and consequently deny climate change.
+
+KEYWORDS Populist attitudes; climate scepticism; sem; attitudes towards science; political institutions
+
+Introduction
+
+The last decade was branded by a global rise of populism, posing an exis­ tential challenge to liberal democracies worldwide (de la Torre 2015, Galston 2018). Close to the end of this decade, however, a second global phenomenon emerged. On 20 August 2018, Greta Thunberg went on strike outside the Swedish parliament, a single act that revitalised the climate movement from the bottom up, and led to climate protests of kids and adults in around 150 countries by September 2019 (Vox.com 2019).
+
+Previous studies have shown that populism and the climate crisis may be strongly intertwined, as especially right-wing populists deny environ­ mental risks located on a transnational level (Forchtner and Kølvraa 2015) and vehemently oppose related climate action (Fraune and Knodt 2018,
+
+CONTACT Robert A. Huber robert.huber@sbg.ac.at Supplemental data for this article can be accessed here.
+
+ENVIRONMENTAL POLITICS 2022, VOL. 31, NO. 7, 1115–1138 https://doi.org/10.1080/09644016.2021.1978200
+
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial- NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+Lockwood 2018). While these studies provide us with fundamental insights on support for climate action, they commonly conflate political ideology and populism, with only a few differentiating, for example, between left- and right-wing populism (Huber 2020, Huber et al. 2020). These differences between left- and right-wing populists are important in the formation of their policy positions. However, what unites different types of populist actors is their level of populism.1 We focus on this commonality.
+
+Without testing the proposed mechanism empirically, both Lockwood (2018) and Huber (2020) argue that populists oppose the elitist and techno­ cratic aspects of climate policy and public discourse about it – irrespective of political ideology. Similarly, Zulianello and Ceccobelli (2020) suggest that the new wave of climate activism led by Greta Thunberg is, in fact, at odds with the populist set of beliefs as it propagates technocratic ecocentrism and the vox scientifica (see Caramani 2017). However, previous research remains vague about the precise theoretical mechanism. So through which mechan­ isms does populism relate to climate attitudes?
+
+In this manuscript, we propose two theoretical arguments that are genu­ inely about populism and not a function of the connected political ideology through which populism may affect climate scepticism. First, there is the populist distrust of political institutions, elites and norms that are key in the democratic negotiation processes of how to deal with the climate crisis. Second, this study takes a closer look at another type of elite institution that has gotten in the crosshairs of populist rhetoric and presumably holds power over the questions of ‘truth’ in climate change public discourse, namely academics, scholars, and other experts. Populist distrust of science (and associated anti-intellectualism, Motta 2018) is increasingly emphasized as shaping responses to public science issues (Mede and Schäfer 2020, Merkley 2020). This study thus brings these two arguments together in one theoretical model and puts it to an empirical test. In particular, we aim to expand previous work by studying the link between citizens’ populist atti­ tudes and their climate scepticism, while not conflating populism and poli­ tical ideology by, for example, studying right-wing populism alone (Kulin et al. 2021). More precisely, we explicitly focus on theoretical mechanisms that should be independent of political ideology but entirely a function of populist attitudes, namely the role of trust in political institutions and attitudes towards science.
+
+We use Austria as our case study. As recently seen in an increasingly large number of Western democracies, populist parties perform rather well in Austria with a populist party on the right – the Freedom Party of Austria (FPÖ) – represented in the national government between 2017 and 2019. Thus, this case is representative of most Western European countries, in which mainstream parties face more pressure from populist challengers. The
+
+1116 R. A. HUBER ET AL.
+
+Austrian National Election Study (AUTNES) multi-wave panel data further provides us with extensive measures of populist attitudes, institutional trust, attitudes towards science, and climate scepticism that enable us to test the mechanisms through which populism and climate scepticism may be related.
+
+The results of our structural equation models indicate that the link between populist attitudes and climate scepticism goes beyond political ideology and is indeed an indirect one. On the one hand, populists’ lack of institutional trust makes them question climate change. On the other hand, our findings support previous notions by Lockwood (2018), Huber (2020), and Zulianello and Ceccobelli (2020), that populist attitudes strengthen negative attitudes towards science (i.e., low trust as well as low interest in science and research), which, in turn, increase climate scepticism.
+
+These findings have major implications for the study of populism and climate attitudes. First, we make arguments explicit that have so far only been implicitly presented. Specifically, while Huber (2020) and Lockwood (2018) both mention the role of science and institutions, they do not delve into the specific mechanisms through which populist attitudes affect science attitudes and institutional trust. Our contribution is to substantiate prior research by empirically testing the two theoretical mechanisms against each other. Findings suggest that the attitudes towards science mediate the effect of populism on climate attitudes, whereas institutional trust plays a subordinate role in this relationship. Second, the literature is mainly focused on right-wing populism (but see Huber 2020, Huber et al. 2020). Thereby, this literature tends to conflate populism and right-wing political ideology, since it is next to impossible to disentangle both concepts when only focussing on one specific variation of populism. Our argument is genuinely about populism. The attitudes towards political institutions and science are rooted in a populist worldview. This is independent of whether populists are right-wing, left-wing or somewhere in the middle. Third, while previous literature on the individual level implications of populist attitudes on climate attitudes have mainly focused on Anglo-America, we add a case from continental Europe, demonstrating that previous studies’ arguments are transferable to other multiparty systems.
+
+Defining populism
+
+Definitions of populism have been contested. While different approaches have their justification, only defining populism as an ideology (Mudde 2004) allows measuring populism on an individual level, conceptualised as populist attitudes. Therefore, the literature converged towards an ideational approach to populism (Hawkins and Rovira Kaltwasser 2019), where populism is conceptualised as a set of ideas combining three core features: people- centrism, anti-elitism, and a Manichean outlook. Under this perspective,
+
+ENVIRONMENTAL POLITICS 1117
+
+‘the people’ are perceived to be homogeneous and good (people-centrism), while elites are perceived to be corrupt and evil, betraying ‘the people’ (anti- elitism). In other words, populists view politics to be black-and-white; they oppose elites and pin ‘the people’ against them. Moral judgements are central to populists’ worldview.
+
+Populist attitudes – understood as an individual level manifestation of a populist ideology – are independent of political ideology and appear across the political spectrum. This means that the core characteristics of populism remain and only the content changes. While left-wing populist actors and voters tend to define ‘the people’ in economic terms, striving for economic redistribution (March 2011), their right-wing counterparts usually rely on cultural definitions of ‘the people’, focusing on immigration and related topics (Mudde 2007). Finally, Zulianello (2020) demonstrates that some populist parties lack a clear ideological profile; their core appeal is populism, which is why he calls them ‘valence populists’. What unites these different types of populism is that they root for ‘the people’, though for different people. Hence, in theory, populism and political ideology are orthogonal. The concepts of elites and ‘the people’ are empty vessels that can be appro­ priated by different political ideologies while serving a similar goal of ‘othering’.
+
+Populism and climate attitudes
+
+The study of populism and its role in climate change policy is in its infancy, with much of the literature focusing on right-wing populist parties (Fraune and Knodt 2018, Lockwood 2018, Kulin et al. 2021). The extensive literature on political ideology and climate attitudes strongly suggests that right-wing entities are substantially more climate sceptic and less willing to support far- reaching climate and environmental policies (Neumayer 2004, McCright et al. 2016). However, based on this literature it remains unclear whether right-wing populists are less enthusiastic about climate change because of their right-wing political ideology or because of their populist worldview. Assessing voters of right-wing populist parties (as done in Kulin et al. 2021), for example, is useful for understanding public opinion on climate change but we may misattribute these actors’ opposition to climate change policy as a function of populism, although, in essence, it could be because of their political ideology or other factors that drive the voting behaviour (Bonikowski 2017, Van Hauwaert and Van Kessel 2018). Hence, separating populism from political ideology is essential to understand the drivers of climate attitudes.
+
+In his seminal contribution, Lockwood (2018) sketches different theore­ tical mechanisms why populists might oppose climate action. He argues that according to a ‘structuralist’ approach, right-wing populists typically
+
+1118 R. A. HUBER ET AL.
+
+represent low-skilled workers in resource-intensive industries who are most likely to lose their jobs in the wake of far-reaching climate policies. In line with Huber (2020), Lockwood also proposes an ideational argument, sug­ gesting that populism is not at odds with climate policy because of the constituents populists normally represent. Instead, populist actors’ opposi­ tion to climate action is rather a function of the concept of populism itself: it is rooted in their anti-elitist stance (Lockwood 2018, Huber 2020). Climate change is an abstract and cognitively distant phenomenon, and respective climate policies are reliant on democratic norms of political compromise and mediation, oftentimes located on an international level, making them an ideal target for populist criticism (Weber 2016). In this study, we follow the arguments put forward by Lockwood (2018) and Huber (2020) and focus on two theoretical mechanisms that should be independent of political ideology but entirely a function of populism. In particular, we expect the effect of populism on climate scepticism to run through individuals’ (1) trust in institutions and (2) attitudes towards science.
+
+Populism, institutional trust, and climate scepticism
+
+As outlined above, we rely on an ideational approach to populism. Hence, we assume that the core features of populism (i.e., anti-elitism, people-centrism, and a Manichean outlook) directly inform how populists relate to established political institutions such as the parliament or (constitutional) courts (Mudde and Rovira Kaltwasser 2012), but also public broadcasters and so- called ‘legacy media’ more generally (Fawzi 2019). These institutions repre­ sent the established political order. Populists oppose that order, as it is regarded as a manifestation of elite power. This opposition is strongly rooted in populists’ anti-elitism. Additionally, populists would be likely to believe that political institutions betray common citizens rather than serve them. Parliaments and courts could be perceived to be detached from the everyday needs of the people. Hence, and particularly when they join the government, populists have expressed strong sentiments against parliament and courts (Huber and Schimpf 2017; see, for example, Plattner 2010). The former represents the plurality of political ideas which is at odds with a populist worldview. The latter provides strong limits to the executive through checks and balances. However, populists have a tendency to concentrate power, which courts have opposed in the past (Krekó and Enyedi 2018). Similarly, mainstream media (i.e., in their role as Fourth Estate) have faced increased pressure from populists (Kenny 2020). Thus, strong evidence has suggested that populist actors undermine the balance between the political institutions (Mudde and Rovira Kaltwasser 2012, Huber and Schimpf 2017, Juon and
+
+ENVIRONMENTAL POLITICS 1119
+
+Bochsler 2020). Scholarly evidence suggests that similar mechanisms hold on the individual level (Akkerman et al. 2014, Heinisch and Wegscheider 2020, Plescia and Eberl 2021).
+
+Institutions play a central role in implementing climate mitigation action. On the one hand, institutional design affects the provision of public goods, like environmental protection (Bättig and Bernauer 2009). Institutional capacity to regulate and implement environmental policy is essential for the performance of climate mitigation (Hughes and Urpelainen 2015). On the other hand, institutions have a vanguard role through signalling pro- environmental stances. Thereby, they induce pro-environmental attitudes and behaviour (Hogg 2010, Carmichael and Brulle 2017, Huber et al. 2018).
+
+Therefore, attitudes towards these institutions are likely to affect attitudes towards climate action and climate change altogether (Fairbrother 2017). Particularly, as climate change is often perceived as a project of liberal, cosmopolitan elites (Lockwood 2018, Huber 2020), we would anticipate that those who oppose these elites would be more likely to reject climate change. For example, Susanne Winter, a former FPÖ environmental speaker, claimed that ‘climate change is a web of lies invented by the (liberal) media that needs to be torn down’ (Winter cited in Der Standard 2015). Prior research supports this assumption, showing that people who deny the reality and seriousness of climate change also tended to express mistrust in institu­ tions (Hobson and Niemeyer 2013), which makes it an influencing factor reducing public support for mitigation efforts (Lorenzoni and Pidgeon 2006). Cross-national studies highlight the role of trust in political institu­ tions such as a country’s government (Tranter and Booth 2015) or politi­ cians, political parties, and parliament (Fairbrother et al. 2019) in this respect.
+
+Based on this discussion, we propose the following hypothesis:
+
+H1: Populist attitudes will have an indirect positive association with climate scepticism through attitudes towards political institutions.
+
+Populism, attitudes towards science, and climate scepticism
+
+Populists’ anti-elitist stance does not only target political elites and political institutions but is directed at the societal establishment altogether (Wirth et al. 2016). This includes academics, scholars, and other experts, which also play a central role when it comes to identifying the trends, impacts, and attribution of climate change and to communicating them to the larger public. However, political institutions and the media differ from scientific institutions: as the scientific system is concerned with the production of ‘true’ knowledge, ‘the people’ and ‘the elite’ need to be conceptualised from an
+
+1120 R. A. HUBER ET AL.
+
+epistemological perspective. That is, the ordinariness of ‘the people’ results from common sense and everyday experience, which is in opposition to the distinctive norms and structures that characterise the rational scientific knowledge-generation process (Jamieson 2017, Harsin 2018). In this vein, academics are seen as part of an unvirtuous technocratic elite that holds power over the questions of ‘truth’ and is not legitimized by the virtuous ‘people’, thus, being part of the plot against them (Mede and Schäfer 2020).
+
+This becomes even more relevant in times where scientific knowledge is increasingly characterised by uncertainty, unpredictability and incomplete control (Funtowicz and Ravetz 1993), and non-rational, affective aspects such as social and political trust gain importance as drivers of attitudes towards science and scientific institutions (Kawamoto et al. 2013, Schäfer et al. 2018) or as moderators of conspiracy endorsement (Miller et al. 2016). Following this approach, for the general public, the decisive factor when forming attitudes towards science is no longer the plausibility of the content (‘What to believe?’) but the trustworthiness of its respective sources (‘Whom to believe?’).
+
+When science is mainly thought about as a social system (Bromme and Gierth in press), the negative view on elites, which is at the heart of populism, again comes to the fore. Due to their status and importance in policy debates, scientists might be regarded as part of the ruling elite: they form an institu­ tion of the ‘establishment’, residing in ivory towers high above the ordinary citizens. Moreover, elites are said to pursue their own egoistic interests – even more so, if they are in essence not democratically selected (Castanho Silva et al. 2017). Hence, from a populist point of view, scientific knowledge might be used at the expense of ‘the people’ by concealing the ‘truth’ (Sarathchandra and Haltinner 2020). This is also reflected in populists sympathy for conspiracy theories (Castanho Silva et al. 2017, Fraune and Knodt 2018), and their lower trust in universities (Saarinen et al. 2019). Related, recent research has shown that populist rhetoric can prime a generalized mistrust of intellectuals and experts (i.e., anti-intellectualism, Motta 2018), limiting the acceptance of scientifically grounded positions (Merkley 2020).
+
+Conversely, positive perceptions of scientists and scientific institutions reflect science’s legitimated social power and authority (O’Brien 2013). Following these insights, we argue that populist citizens should be more likely to be sceptical about scientific evidence or have negative attitudes towards science (as an institution) altogether.
+
+The more general concept of attitudes towards science is closely related, but not necessarily equal to attitudes towards specific scientific develop­ ments, technological issues, or so-called evidence-based policymaking. McCright and Dunlap (2010), for example, provide evidence that rather than disapproving the scientific community in its entirety, conservatives
+
+ENVIRONMENTAL POLITICS 1121
+
+report lower levels of trust in ‘impact scientists’ who examine environ­ mental development and technology than in ‘production scientists’ who drive new technologies and marketable products. A second dividing line runs along the controversial nature and complexity of a research area. Extant studies have found that individuals tend to rely on pre-existing knowledge, values and beliefs as well as on their level of trust in science and scientific authorities to form attitudes towards issues such as climate change (Lee et al. 2005, Poortinga et al. 2011). Hmielowski et al. (2014), for example, found that trust in scientists positively affects the perception that global warming is happening. This pattern of effects is commonly explained by the notion that people are ‘cognitive misers’ (Fiske and Taylor 1991): rather than carefully evaluating all information available, they use mental shortcuts, so-called heuristics, to make sense of and form opinions about complex phenomena (Siegrist and Cvetkovich 2000, Brossard and Nisbet 2006, Brewer and Ley 2013). Taken together, if negative attitudes towards science drive climate scepticism, and if negative attitudes towards science are more likely to occur among people who hold populist attitudes, then it follows that populist attitudes have an indirect association to climate scepticism through attitudes towards science. Put differently, we anticipate that populists – rooted in populists’ core idea of anti-elitism – hold more negative attitudes towards science, which in turn lead to climate scepticism.
+
+Based on this argument, our second hypothesis reads:
+
+H2: Populist attitudes will have an indirect positive association with climate scepticism through attitudes towards science.
+
+These two mechanisms outlined above (H1 and H2) are by and large a function of populism and not the associated political ideology. Thus, these paths are genuinely about the ideational content of populism. Nonetheless, political ideology plays an important role and provides an additional path linking populist attitudes and climate attitudes, in our specific case. That is, because of the right-wing populist supply in Austria (in form of the FPÖ), we anticipate that high levels of populist attitudes are more right-wing and thus more climate sceptic (McCright et al. 2016). To this end, we additionally model a path that relates populism and climate attitudes through political ideology. If this supply were the main reason for populist citizens to be more climate sceptic, we would anticipate only this path to return statistically significant. However, this mechanism is not in the focus of our theoretical argument as it is connected to but not genu­ inely about populism. Finally, as we contend that these three mechanisms (H1 and H2; and political ideology) should capture central theoretical mechanisms linking populism and climate attitudes, we anticipate that
+
+1122 R. A. HUBER ET AL.
+
+the direct path from populist attitudes to climate scepticism is weak or insignificant. The conceptual mediation model proposed in our hypotheses is displayed in Figure 1.
+
+Data and methods
+
+Austria is a particularly interesting case to understand how populism and climate attitudes are related. While previous research on climate attitudes is often focussed on largely two-party systems such as the US and the UK, Austria represents a good example of an increasingly common situation in many Western democracies, where mainstream parties are being challenged by at least one major populist party (if not more).
+
+When it comes to the political salience of climate change, Austria tends to mirror the European average (Eurobarometer 2019). In fact, between 2017 and 2019, the issue of climate change had moved to the top of many voters’ and parties’ issue agendas. In the summer of 2019, inspired by Greta Thunberg’s climate strikes in the months before, tens of thousands took part in demonstrations in Vienna and other Austrian cities to demand action on climate change. The salience of climate policy even grew within voters of the right-wing populist Freedom Party (FPÖ), the only major populist party in Austria, who had long focused foremost on immigration policy (Eberl et al. 2020). In the past, the climate issue had largely been ignored by the party in its electoral programs (Müller et al. 2017). When mentioning the issue in public, stances have been climate sceptic or even outright climate
+
+Figure 1. Conceptual mediation model.
+
+ENVIRONMENTAL POLITICS 1123
+
+denial. Again very similar to the situation in other European countries, the right-wing populist challenger firmly remains the most climate sceptic party in the Austrian multiparty system (Huber et al. 2021).
+
+To test the theoretical arguments outlined above, we utilise data from the Austrian National Election Study’s (AUTNES) Online Panel Study 2017– 2019. This study surveys the Austrian voting-age population. Respondents in this panel are selected based on the following key demographics: age, gender, gender × age, region (province), educational level, and household size. The quota sample was structured to closely represent the Austrian population. Respondents were interviewed at regular intervals, with drop-outs being compensated for by the recruitment of fresh respondents (Aichholzer et al. 2020). In other words, the quality of the underlying data is high, and it is representative according to the above-outlined quota. We focus on 1,237 respondents who took part in Wave 6 and Wave 9 of the study, as these waves provide measures of populist attitudes, trust in political institutions, attitudes towards science as well as several items of climate scepticism.2
+
+We rely on structural equation models to construct latent concepts and simultaneously run regression models. The structural equation model pro­ vides two key advantages over other regression models. First, it allows us to directly fit the measurement and structural model in one analytical step, potentially taking into account co-variances of our measures. Second and more importantly, SEMs allow to directly model indirect effects and thus to calculate the mediation effect of populist attitudes via institutional trust and science scepticism at once, while also controlling for the mediation effect via political ideology. Because of the non-numeric character of several variables (see below), we rely on the ‘WLSM’ estimator and use lavaan (Rosseel 2012) in the statistical software R (R Core Team 2020).
+
+In line with our theoretical argument, we specifically model the indirect effect of populist attitudes on climate scepticism via institutional trust and attitudes towards science.
+
+Dependent variable
+
+To capture climate scepticism, we rely on four items, following Rahmstorf (2004) and Poortinga et al. (2011). Poortinga and colleagues distinguish three sub-dimensions of climate scepticism, relating to the general trend of climate change (trend scepticism), whom to blame (attribution scepticism), and climate change’s impact (impact scepticism). While we have no explicit expectation, one could assume that populists challenge the attribution of climate change and its impact more than the general trend. We use one item to capture trend scepticism, two to capture attribution scepticism and one to capture impact scepticism. We rely on confirmatory factor analysis within
+
+1124 R. A. HUBER ET AL.
+
+a structural equation model to extract one factor for climate scepticism and all three individual dimensions. The confirmatory factor analysis suggests acceptable loadings on one and three dimensions, respectively (see Figure 2).
+
+Independent variables: populism, trust in science, and institutional trust
+
+To capture individual manifestations of populism (populist attitudes), we rely on the CSES Module 5 populist attitudes scale (Hobolt et al. 2016), which is based on the Akkerman et al. (2014) scale. It is designed to capture the two core elements of populism (anti-elitism and people centrism) in one dimension (see Table 1 for wordings and Figure 2 for the factor loadings).
+
+Figure 2. Structural model – Populist attitudes, attitudes towards science and climate scepticism. Note: * indicates p < 0.05. Factor loadings are standardised factor loadings from a CFA. Coefficients corresponding to paths are standardised regression coefficients. The control variables are not shown. We included age, education, gender, and left-right self-placement (linear and squared). See Table SM1 in the Appendix for the regression tables. Goodness of fit: Χ2 (204, n = 1,237) = 1922.8; p < 0.05; CFI = 0.958; RMSEA = 0.063; SRMR = 0.061.
+
+ENVIRONMENTAL POLITICS 1125
+
+This scale consists of six items. Each item ranges from completely disagree (1) to completely agree (5). Empirical tests suggest that the scale performs well, particularly picking up on anti-elitism (Castanho Silva et al. 2020). This scale does not include any questions with a clear ideological leaning, pre­ cisely because this scale ‘was developed to measure populism among indivi­ duals, regardless of their ideological (or political left-right) position (i.e. as a thin-centered ideology)’ (Geurkink et al. 2020, p. 264). Hence, questions tapping into immigration (a core topic for right-wing populists) or ‘big business’ (a core topic for left-wing populists) are not asked. Rather, this scale captures views on democracy and specifically political representation (Hawkins et al. 2012). Thus, these items do not capture right-wing populist attitudes (or left-wing populist attitudes) but populist attitudes independent from ideological leaning. Contrary to our dependent variable, populist atti­ tudes were recorded in a previous wave.
+
+Our mediators are institutional trust and attitudes towards science. We capture institutional trust with four items reflecting core institutions of modern democracies that are part of the system of checks and balances and play a key role in negotiating public policy: namely, trust in parliament, government, the European Union, the judicial branch, the constitutional court, and the media. The scale ranges from 0 (do not trust at all) to 10 (completely trust). Based on Füchslin et al. (2018), we capture attitudes towards science with two items, representing affective and cognitive aspects. In particular, we asked respondents whether they a) trust in science and b) pay attention to science-related information. The variables are scaled as such that a higher score reflects more positive attitudes towards science.
+
+Table 1. Item wordings.
+
+Label Wording P1 What people call ‘compromises’ in politics are really just selling out one’s principles P2 Most politicians care only about the interests of the rich and powerful P3 Most politicians are trustworthy P4 Parties are the main problem in Austria P5 The people, and not politicians, should make our most important policy decisions P6 I would rather be represented by a citizen than by a specialised politician S1 I usually pay attention to information on science and research. S2 I have great trust in science and research. I-G How much do you trust the following political institutions? the lower house of the Austrian
+
+parliament I-P . . . the federal government I-E . . . the European Union I-J . . . the judicial branch I-M . . . the media I-C . . . the constitutional court C-T I am not sure if climate change actually happens. C-A1 Evidence for man-made climate change is insufficient. C-A2 Climate change is mainly man-made. C-I Climate change and its consequences are often exaggerated.
+
+1126 R. A. HUBER ET AL.
+
+Model specification and control variables
+
+We model all four latent concepts in a measurement model, and factor loadings and fit indices suggest proper fit (see Table 1).While the main target of a structural equation model is parsimony, we add several key control variables. First of all, political ideology has a dual role in our argument. On the one hand, it provides one theoretical mechanism linking populism and climate attitudes. On the other hand, we include it as a control in all other paths. To this end, we use a left-right self-placement question to capture respondents’ political ideology. As discussed above, the literature finds strong associations between political ideology and climate attitudes. Writ large, right- wing individuals are expected to be more populist and more likely to deny climate change (Neumayer 2004, McCright et al. 2016).
+
+Additionally, we control for age, gender, and education. These key demo­ graphics are often cited as predictors of environmental attitudes (see, e.g., Beiser-McGrath and Huber 2018) and allow us to keep the model rather parsimonious.
+
+Empirical evidence
+
+We argue that populist attitudes should be associated with climate attitudes via institutional trust and attitudes towards science. In other words, populist attitudes should result in less trust in political institutions and more negative attitudes towards science. In return, trust in institutions and attitudes towards science should be negatively associated with climate scepticism. Figure 2 and Table SM1 in the Appendix provide empirical evidence for the relationship of populist attitudes, institutional trust, attitudes towards science, and climate scepticism.
+
+Starting with the model fit, CFI, SRMR and RMSEA indicate an appro­ priate fit of our model. Χ2 is statistically significant (which indicates poor fit). However, this goodness-of-fit measure is highly sensitive to the sample size and given our sample size of 1,237, one would anticipate a statistically significant Χ2 test (Hu and Bentler 1999).
+
+By-and-large, the findings are consistent with our arguments. Populist attitudes are negatively correlated with institutional trust, which in turn is negatively associated with climate scepticism (estimate = 0.10; p-value < 0.01). Similarly, high levels of populist attitudes result in lower attitudes towards science. These attitudes towards science then result in substantially higher climate scepticism. Again, this indirect path is statistically significant and positive (estimate = 0.06; p-value < 0.01). Both findings are consistent with previously made arguments by Lockwood (2018) and Huber (2020), who both emphasise a mechanism of populism via their distrust for the elites, namely political elites and scholarly elites.
+
+ENVIRONMENTAL POLITICS 1127
+
+The path of populist attitudes through political ideology is positive and statistically significant (estimate = 0.06; p-value < 0.01). This indicates that populists are more right-wing in Austria and this political leaning explains part of citizens’ climate stances. Counter our expectations, what remains as the direct path between populism and climate scepticism is negative and statistically significant. This is surprising and indicates that populist atti­ tudes – after extraction of science attitudes, institutional trust and political ideology – have a negative association with climate scepticism. However, it is plausible that the remaining covariation of populism and climate attitudes is negative, once we exclude several established causal mechanisms linking the two concepts. Thus, we mainly consider this a statistical artifact given that our paths capture the core theoretical mechanisms through which populism and climate attitudes relate.
+
+Despite this deviation from our expectations, the overall results lend support for our theory as populist attitudes are positively associated with climate scepticism through institutional trust and attitudes towards science. Additionally, the total effect of populist attitudes (that is the sum of all paths) is positive and statistically significant, as expected from a theoretical per­ spective (estimate = 0.08, p-value < 0.01).
+
+Thus far, we focused on climate scepticism as one concept. Poortinga and colleagues (2011) provide a more nuanced categorisation splitting the concept of climate change into three subcomponents: trend scepticism, attribution scepticism and impact scepticism. Trend scepticism captures the extent to which respondents question the existence of climate change. Attribution scepticism refers to whom respondents attribute the responsi­ bility regarding climate change. Finally, impact scepticism focuses on the extent to which respondents question the impact of climate change on society. Splitting up the concept allows us to get a more nuanced under­ standing of mechanisms.
+
+To model this, we split the latent variable climate scepticism into three variables. Trend and impact scepticism are captured by one item, whereas we have two items to capture attribution scepticism. We then model the rela­ tionship of populism on climate scepticism via science attitudes and institu­ tional trust, as well as directly. The model fit indicates that the data fit the theoretical model well. Starting with populisms’ association with climate scepticism via science attitudes, we find similar results across the three dimensions. All paths remain statistically significant and indicate that popu­ list attitudes are associated with trend, attribution, and impact scepticism in a largely similar way (see Figure 3 and Table SM2 in the Appendix). These findings suggest that populist citizens are not only more likely to deny the trend of climate scepticism, but are also more sceptical about who to blame (attribution scepticism) and whether climate change would even have an impact on their lives (impact scepticism).
+
+1128 R. A. HUBER ET AL.
+
+We now turn to a robustness check which further strengthens the con­ fidence in our results.
+
+While previous models all controlled for the ideological self-assessment of respondents, critical readers could suggest that our findings are actually driven by the strong supply of climate scepticism of the FPÖ. We test whether our results might be mainly driven by right-wing populists voters and more specifically the voters with a high propensity to vote for the FPÖ (i.e., the only populist party in parliament during our period of analysis). To this end, we run the final model again, excluding any respondents with a propensity to vote for the FPÖ higher than 7 (on a scale from 0–10). Table SM3 in the Appendix indicates that, as all effects are still in line with previous results, the two paths through science attitudes and institutional trust are actually a function of populist attitudes and not merely a proxy for right-wing ideology or the party system supply. Convincingly, the
+
+Figure 3. Structural model – Populist attitudes, attitudes towards science and three dimensions of climate scepticism. Note: * indicates p < 0.05. Factor loadings are stan­ dardised factor loadings from a CFA. Coefficients corresponding to paths are standardised regression coefficients. The control variables are not shown. We included age, education, gender, and left-right self-placement (linear and squared). See Table SM2 in the Appendix for the regression tables. Goodness of fit: Χ2 (187, n = 1,237) = 1905.7; p < 0.05; CFI = 0.959; RMSEA = 0.065; SRMR = 0.061.
+
+ENVIRONMENTAL POLITICS 1129
+
+association of populist attitudes and right-wing ideology disappears in this model; i.e. the path of populist attitudes through right-wing ideology turns insignificant at the 5 percent level. Finally, our data allow us to utilize a wave capturing populist attitudes that is closer to our dependent variable. However, this measure of populist attitudes is biased by the FPÖ’s govern­ ment participation at that time (Castanho Silva et al. 2020, p. 410). We, nevertheless, use it for an additional robustness check, showing that the main theoretical paths through institutional trust and attitudes towards sciences remain robust (see Table SM4 and SM5 in the Appendix).
+
+Discussion
+
+We focussed on the theoretical pathways from populism to climate scepti­ cism. We argue that populist citizens’ climate scepticism is rooted in two distinct mechanisms that are genuinely about populism and not its asso­ ciated political ideology. First, populists’ anti-elitism leads to low levels of institutional trust. Given the central role of institutions in climate change policy, trust levels should affect climate scepticism. Second, populists oppose non-political elites as well. Experts, perceived as part of a technocratic governance, face heavy criticism from populists (Caramani 2017).3
+
+Precisely because climate change policy is heavily informed by scientific evidence (like the IPCC), populists’ attitudes towards science should trans­ late into climate scepticism. We utilise the Austrian National Election Studies’ multi-wave online panel and structural equation models, finding consistent evidence for these expectations.
+
+We make several important contributions to the study of populism and climate attitudes. First, the previous literature mentions the two mechanisms we discuss here. However, it a) does not provide more explicit detailed theoretical arguments and b) cannot empirically test these mechanisms against each other. We can do both and thereby enhance our knowledge about the theoretical mechanisms linking populism and climate attitudes. Second, most literature casually applies the term populism to describe right-wing populists’ opposition to climate change. Thus, these studies conflate populism and political ideology and cannot empirically disentangle the extent to which their findings are a function of one concept or the other. Bart Bonikowski (2017, p. 182) explicitly advises against this by arguing that casually using populism ‘as an analytical category risks misunderstanding what populism is – thereby inhibiting the ability to recognize the phenomenon’s causes and con­ sequences – and downplaying the other co-constitutive elements of radical-right politics, particularly ethno-nationalism and authoritarianism’. The mechan­ isms that we focus on are largely independent of political ideology and also hold beyond right-wing populist individuals. Thereby, we provide mechan­ isms that are genuinely about populism and not about right-wing ideology.
+
+1130 R. A. HUBER ET AL.
+
+Third, most research on climate attitudes is focussed on the Anglo-American region, particularly the US (see Huber 2020 for extensive discussion). We focus on a quite different case. Austria is representative for the European Union in terms of climate concern and in its political system. In addition, Austria has an established populist party in the form of the FPÖ. Thereby, our empirical analyses provide evidence on a yet largely neglected case.
+
+Our study also adds to the study of populism. Thus far, the relationship between populism and scientific evidence has garnered limited attention. Only recently, Mede and Schäfer (2020) have started exploring how popu­ lism and science relate. Our findings indeed suggest that populism through science attitudes affect climate scepticism. However, this mechanism is important beyond the research of climate attitudes. Attitudes on long-term issues such as automation, vaccination or SARS-CoV2 that strongly rely on scientific expertise and have far-reaching effects on human livelihood might follow similar dynamics (Kennedy 2019, Eberl et al. 2021). Thus, future research should explore the links of populism, science and other issue areas beyond climate attitudes.
+
+Beyond this point, we propose the following fruitful endeavours for future research: First, on the supply-side, Austria, during our period of analysis, has one right-wing populist party, but, for example, no left-wing populist party. While our robustness checks suggest that our argument is not limited to right-wing populist citizens, future research should assess the relationship of populism and climate attitudes in settings with both types of populist parties. Interesting cases offering both left- and right-wing populist supply are, for example, Germany, the Netherlands, and Italy. Second, we focus on two mechanisms (institutional trust and science attitudes); however, at least one more mechanism comes to mind: international politics. To some extent, populists are sceptical of international cooperation and supranational poli­ tics (Verbeek and Zaslove 2017, Voeten 2019). Given the international character of climate politics, it is worth assessing whether populists’ opposi­ tion to climate change is rooted in its nature. Forchtner and Kølvraa (2015), for example, discuss these mechanisms for right-wing populist parties and argue the distinction between domestic (environmental protection) and international (climate change) issues matters substantially.
+
+What are the practical implications of these findings for policymakers? Huber et al. (2020) emphasise the importance of communication to react to populists’ backlash against climate action. Our findings complement this work. From our results, it appears that the ties between science and society play a major role in raising people’s awareness about the attributions, trends, and impacts of climate change. This should similarly hold when approaching populist citizens, potentially more given their distrust in science.
+
+ENVIRONMENTAL POLITICS 1131
+
+Communicative efforts that make inner-scientific processes somewhat more open and transparent – and thus less of an elitist system disconnected from the broad public – might be a fruitful step in this direction.
+
+Notes
+
+1. Specifically, it is argued that right-wing populist actors emphasise the cultural
+
+dimension of politics and form the central groups of their political discourse along these lines. In other words, immigration is a central policy area and the membership in the people is based on cultural factors using nativism. Left- wing populists define the people and elites based on economic terms. Thus, ‘big business’ may be a common enemy for left-wing populists but not necessarily for right-wing populists (Zulianello 2020). However, regardless of how the specific groups are formed, all these populist actors share a joint discourse pitting the ‘good and upright people’ against a ‘corrupt and evil elite’ (Hawkins and Rovira Kaltwasser 2019). 2. Please note that populist attitudes have also been recorded in Wave 7 of
+
+the panel survey. However, we refrain from using this Wave in our main models since the FPÖ was part of the government at that time, thus biasing the measure of our independent variable (Castanho Silva et al. 2020). Also see corresponding robustness checks SM4 and SM5 in the Appendix. 3. Some scholars recently discussed that technocracy and populism share
+
+a common critique of representative democracy and political elites (Bickerton and Accetti 2017, Havlík 2019). However, their responses to policy challenged substantially differ in terms. Particularly the role of science differs between populists (who reject experts) and technocrats (who demand strong expert involvement) (Beiser-McGrath et al. forthcoming).
+
+Acknowledgments
+
+Authors’ names in rotating order across various publications. We thank the editors and three anonymous reviewers for constructive comments and suggestions. Julian Aichholzer provided excellent feedback on an earlier version of this article. We also thank audiences at ÖGPW 2020 annual conference, SVPW 2021 annual conference and the DGPuK DACH 2021 for their thoughtful comments. We acknowledge financial support by the Open Access Publication Fund of the University of Salzburg.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the author(s).
+
+ORCID
+
+Robert A. Huber http://orcid.org/0000-0001-6536-9392 Esther Greussing http://orcid.org/0000-0001-8655-5119 Jakob-Moritz Eberl http://orcid.org/0000-0002-5613-760X
+
+1132 R. A. HUBER ET AL.
+
+Data availability statement
+
+This paper utilises the AUTNES 2017-2019 online panel (available here: 10.11587/ QDETRI).
+
+References
+
+Aichholzer, J., et al. 2020. ‘AUTNES online panel study 2017-2019 (SUF Edition)’.
+
+https://data.aussda.at/citation?persistentId=doi:10.11587/QDETRI (27 August 2020). Akkerman, A., Mudde, C., and Zaslove, A., 2014. How populist are the people?
+
+measuring populist attitudes in voters. Comparative Political Studies, 47 (9), 1324–1353. doi:10.1177/0010414013512600 Bättig, M.B. and Bernauer, T., 2009. National institutions and global public goods:
+
+are democracies more cooperative in climate change policy? International Organization, 63 (2), 281–308. doi:10.1017/S0020818309090092 Beiser-McGrath, L.F., et al., forthcoming. Parliament, people or technocrats?
+
+explaining mass public preferences on delegation of policymaking authority. Comparative Political Studies. Beiser-McGrath, L.F. and Huber, R.A., 2018. Assessing the relative importance of
+
+psychological and demographic factors for predicting climate and environmental attitudes. Climatic Change, 149 (3–4), 335–347. doi:10.1007/s10584-018-2260-9 Bickerton, C. and Accetti, C.I., 2017. Populism and technocracy: opposites or
+
+complements? Critical Review of International Social and Political Philosophy, 20 (2), 186–206. doi:10.1080/13698230.2014.995504 Bonikowski, B., 2017. Ethno-nationalist populism and the mobilization of collective
+
+resentment. The British Journal of Sociology, 68 (S1), S181–213. doi:10.1111/1468- 4446.12325 Brewer, P.R. and Ley, B.L., 2013. Whose science do you believe? explaining trust in
+
+sources of scientific information about the environment. Science Communication, 35 (1), 115–137. doi:10.1177/1075547012441691 Bromme, R. and Gierth, L., in press. Rationality and the public understanding of
+
+science. In: M. Knauff and W. Spohn, eds. The handbook of rationality. Cambridge MA: MIT Press. Brossard, D. and Nisbet, M.C., 2006. Deference to scientific authority among a low
+
+information public: understanding U.S. opinion on agricultural biotechnology. International Journal of Public Opinion Research, 19 (1), 24–52. doi:10.1093/ijpor/ edl003 Caramani, D., 2017. Will vs. reason: the populist and technocratic forms of political
+
+representation and their critique to party government. American Political Science Review, 111 (1), 54–67. doi:10.1017/S0003055416000538 Carmichael, J.T. and Brulle, R.J., 2017. ‘Elite cues, media coverage, and public concern: an
+
+integrated path analysis of public opinion on climate change, 2001–2013ʹ. Environmental Politics, 26 (2), 232–252. doi:10.1080/09644016.2016.1263433 Castanho Silva, B., Jungkunz, S., Helbling, M., and Littvay, L., 2020. An Empirical
+
+Comparison of Seven Populist Attitudes Scales. Political Research Quarterly, 73 (2), 409–424 Castanho Silva, C., Bruno, F.V., and Littvay, L., 2017. The elite is up to something:
+
+exploring the relation between populism and belief in conspiracy theories. Swiss Political Science Review, 23 (4), 423–443. doi:10.1111/spsr.12270
+
+ENVIRONMENTAL POLITICS 1133
+
+de la Torre, C., 2015. The promise and perils of populism: global perspectives.
+
+Lexington: University Press of Kentucky. Der Standard. 2015. ‘FPÖ-Umweltsprecherin Winter Nennt Klimawandel
+
+“Lügengebäude”’. derStandard.at. http://derstandard.at/2000018839122/FPOe- Umweltsprecherin-Winter-nennt-Klimawandel-Luegengebaeude (23 August 2016). Eberl, J.-M., Huber, L.M., and Plescia, C., 2020. A tale of firsts: the 2019 Austrian
+
+snap election. West European Politics, 43 (6), 1350–1363. doi:10.1080/ 01402382.2020.1717836 Eberl, J.-M., Huber, R.A., and Greussing, E., 2021. From populism to the “plandemic”:
+
+why populists believe in COVID-19 conspiracies. Journal of Elections, Public Opinion and Parties, 31 (sup1), 272–284. doi:10.1080/17457289.2021.1924730 Eurobarometer. 2019. Special eurobarometer 490. Brussels. https://ec.europa.eu/
+
+clima/sites/clima/files/support/docs/report_2019_en.pdf . Fairbrother, M., 2017. Environmental attitudes and the politics of distrust. Sociology
+
+Compass, 11 (5), e12482. doi:10.1111/soc4.12482 Fairbrother, M., Sevä, I.J., and Kulin, J., 2019. Political trust and the relationship
+
+between climate change beliefs and support for fossil fuel taxes: evidence from a survey of 23 European Countries. Global Environmental Change, 59, 102003. doi:10.1016/j.gloenvcha.2019.102003 Fawzi, N., 2019. Untrustworthy news and the media as “enemy of the people?” how
+
+a populist worldview shapes recipients’ attitudes toward the media. The International Journal of Press/Politics, 24 (2), 146–164. doi:10.1177/1940161218811981 Fiske, S.T. and Taylor, S.E., 1991. Social cognition. New York, NY: MacGraw-Hill. Forchtner, B. and Kølvraa, C., 2015. The nature of nationalism: populist radical right
+
+parties on countryside and climate. Nature and Culture, 10 (2), 199–224. doi:10.3167/nc.2015.100204 Fraune, C. and Knodt, M., 2018. Sustainable energy transformations in an age of
+
+populism, post-truth politics, and local resistance. Energy Research & Social Science, 43, 1–7. doi:10.1016/j.erss.2018.05.029 Füchslin, T., Schäfer, M.S., and Metag, J., 2018. A short survey instrument to segment
+
+populations according to their attitudes toward science. scale development, opti­ mization and assessment. Environmental Communication, 12 (8), 1095–1108. doi:10.1080/17524032.2018.1461673 Funtowicz, S.O. and Ravetz, J.R., 1993. Science for the post-normal age. Futures,
+
+25 (7), 739–755. doi:10.1016/0016-3287(93)90022-L Galston, W.A., 2018. The populist challenge to liberal democracy. Journal of
+
+Democracy, 29 (2), 5–19. doi:10.1353/jod.2018.0020 Geurkink, B., et al., 2020. Populist attitudes, political trust, and external political
+
+efficacy: old wine in new bottles? Political Studies, 68 (1), 247–267. doi:10.1177/ 0032321719842768 Harsin, J., 2018. Post-truth and critical communication studies. Oxford research
+
+encyclopedia of communication. Oxford University Press. https://oxfordre.com/ communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore- 9780190228613-e-757 28 July 2020. Havlík, V., 2019. Technocratic populism and political illiberalism in Central Europe.
+
+Problems of Post-Communism, 66 (6), 369–384. doi:10.1080/10758216.2019.1580590 Hawkins, K.A. and Rovira Kaltwasser, C., 2019. Introduction: the ideational
+
+approach. In: K.A. Hawkins, et al., eds. The ideational approach to populism: concept, theory, and method. London ; New York, NY: Routledge. 1–24.
+
+1134 R. A. HUBER ET AL.
+
+Hawkins, K.A., Riding, S., and Mudde, C. 2012. ‘Measuring populist attitudes’.
+
+Committee on Concepts and Methods Working Paper Series 55: 1–37. Heinisch, R. and Wegscheider, C., 2020. Disentangling how populism and radical
+
+host ideologies shape citizens’ conceptions of democratic decision-making. Politics and Governance, 8 (3), 32–44. doi:10.17645/pag.v8i3.2915 Hmielowski, J.D., et al. 2014. An attack on science? media use, trust in scientists, and
+
+perceptions of global warming. Public Understanding of Science, 23 (7), 866–883. doi:10.1177/0963662513480091 Hobolt, S.B., et al. 2016. CSES module 5: democracy divided? people, politicians and
+
+the politics of populism. CSES Planning Committee Module 5 Final Report. Hobson, K. and Niemeyer, S., 2013. “What sceptics believe”: the effects of informa­
+
+tion and deliberation on climate change scepticism. Public Understanding of Science, 22 (4), 396–412. doi:10.1177/0963662511430459 Hogg, M.A., 2010. Influence and leadership. In: S.T. Fiske, D.T. Gilbert, and
+
+G. Lindzey, eds. Handbook of social psychology. Hoboken, NJ, USA: John Wiley & Sons, Inc., 1166–1207. Hu, L. and Bentler, P.M., 1999. Cutoff criteria for fit indexes in covariance structure
+
+analysis: conventional criteria versus new alternatives. Structural Equation Modeling: A Multidisciplinary Journal, 6 (1), 1–55. doi:10.1080/ 10705519909540118 Huber, R.A., 2020. The role of populist attitudes in explaining climate change
+
+skepticism and support for environmental protection. Environmental Politics, 29 (6), 959–982. doi:10.1080/09644016.2019.1708186 Huber, R.A., Anderson, B., and Bernauer, T., 2018. Can social norm interventions
+
+promote voluntary pro environmental action? Environmental Science & Policy, 89, 231–246. doi:10.1016/j.envsci.2018.07.016 Huber, R.A., Fesenfeld, L., and Bernauer, T., 2020. Political populism, responsive­
+
+ness, and public support for climate mitigation. Climate Policy, 20 (3), 373–386. doi:10.1080/14693062.2020.1736490 Huber, R.A., Maltby, T., Szulecki, K., and Ćetković, S., 2021. Is populism a challenge
+
+to European energy and climate policy? Empirical evidence across varieties of populism. Journal of European Public Policy, 28 (7), 998–1017 Huber, R.A. and Schimpf, C.H., 2017. On the distinct effects of left-wing and
+
+right-wing populism on democratic quality. Politics and Governance, 5 (4), 146–165. doi:10.17645/pag.v5i4.919 Hughes, L. and Urpelainen, J., 2015. Interests, institutions, and climate policy:
+
+explaining the choice of policy instruments for the energy sector. Environmental Science & Policy, 54, 52–63. doi:10.1016/j.envsci.2015.06.014 Jamieson, K.H., 2017. The Need for a Science of Science Communication:
+
+Communicating Science’s Values and Norms. In: K.H. Jamieson, D.M. Kahan, and D.A. Scheufele, eds. The Oxford Handbook of the Science of Science Communication. Oxford: Oxford University Press, 15–23. Juon, A. and Bochsler, D., 2020. Hurricane or fresh breeze? disentangling the popu­
+
+list effect on the quality of democracy. European Political Science Review, 12 (3), 391–408. doi:10.1017/S1755773920000259 Kawamoto, S., Nakayama, M., and Saijo, M., 2013. A survey of scientific literacy to
+
+provide a foundation for designing science communication in Japan. Public Understanding of Science, 22 (6), 674–690. doi:10.1177/0963662511418893
+
+ENVIRONMENTAL POLITICS 1135
+
+Kennedy, J., 2019. Populist politics and vaccine hesitancy in Western Europe: an
+
+analysis of national-level data. European Journal of Public Health, 29 (3), 512–516. doi:10.1093/eurpub/ckz004 Kenny, P.D., 2020. “The enemy of the people”: populists and press freedom. Political
+
+Research Quarterly, 73 (2), 261–275. doi:10.1177/1065912918824038 Krekó, P. and Enyedi, Z., 2018. Orbán’s laboratory of illiberalism. Journal of
+
+Democracy, 29 (3), 39–51. doi:10.1353/jod.2018.0043 Kulin, J., Sevä, I.J., and Dunlap, R.E., 2021. Nationalist ideology, rightwing populism, and
+
+public views about climate change in Europe. Environmental politics, 1–24. Lee, C.-J., Scheufele, D.A., and Lewenstein, B.V., 2005. Public attitudes toward
+
+emerging technologies: examining the interactive effects of cognitions and affect on public attitudes toward nanotechnology. Science Communication, 27 (2), 240–267. doi:10.1177/1075547005281474 Lockwood, M., 2018. Right-wing populism and the climate change Agenda: explor­
+
+ing the linkages. Environmental Politics, 27 (4), 712–732. doi:10.1080/ 09644016.2018.1458411 Lorenzoni, I. and Pidgeon, N.F., 2006. Public views on climate change: European and
+
+USA perspectives. Climatic Change, 77 (1–2), 73–95. doi:10.1007/s10584-006-9072-z March, L., 2011. Radical left parties in contemporary Europe. London: Routledge. McCright, A.M. and Dunlap, R.E., 2010. Anti-reflexivity. Theory, Culture & Society,
+
+27 (2–3), 100–133. doi:10.1177/0263276409356001 McCright, A.M., Dunlap, R.E., and Marquart-Pyatt, S.T., 2016. Political ideology and
+
+views about climate change in the European Union. Environmental Politics, 25 (2), 338–358. doi:10.1080/09644016.2015.1090371 Mede, N.G. and Schäfer, M.S., 2020. Science-related populism: conceptualizing
+
+populist demands toward science. Public Understanding of Science, 29 (5), 473–491. doi:10.1177/0963662520924259 Merkley, E., 2020. Anti-intellectualism, populism, and motivated resistance to expert
+
+consensus. Public Opinion Quarterly, 84 (1), 24–48. doi:10.1093/poq/nfz053 Miller, J.M., Saunders, K.L., and Farhart, C.E., 2016. Conspiracy endorsement as
+
+motivated reasoning: the moderating roles of political knowledge and trust. American Journal of Political Science, 60 (4), 824–844. doi:10.1111/ajps.12234 Motta, M., 2018. The dynamics and political implications of anti-intellectualism in the
+
+United States. American Politics Research, 46 (3), 465–498. doi:10.1177/ 1532673X17719507 Mudde, C., 2004. The populist zeitgeist. Government and Opposition, 39 (4),
+
+542–563. doi:10.1111/j.1477-7053.2004.00135.x Mudde, C., 2007. Populist radical right parties in Europe. Cambridge, UK and
+
+New York: Cambridge University Press. Mudde, C. and Rovira Kaltwasser, C., 2012. Populism and (liberal) democracy:
+
+a framework for analysis. In: C. Mudde and C.R. Kaltwasser, eds. Populism in Europe and the Americas. Cambridge: Cambridge University Press, 1–26. Müller, W.C., et al., 2017. AUTNES content analysis of party manifestos 2013. ZA6877
+
+Data file Version 1.1.0. Cologne: GESIS Data Archive. Neumayer, E., 2004. The environment, left-wing political orientation and ecological
+
+economics. Ecological Economics, 51 (3–4), 167–175. doi:10.1016/j. ecolecon.2004.06.006 O’Brien, T.L., 2013. Scientific authority in policy contexts: public attitudes about
+
+environmental scientists, medical researchers, and economists. Public Understanding of Science, 22 (7), 799–816. doi:10.1177/0963662511435054
+
+1136 R. A. HUBER ET AL.
+
+Plattner, M.F., 2010. Populism, pluralism, and liberal democracy. Journal of
+
+Democracy, 21 (1), 81–92. doi:10.1353/jod.0.0154 Plescia, C. and Eberl, J.-M., 2021. “Not my government!” the role of norms and
+
+populist attitudes on voter preferences for government formation after the elec­ tion. Party Politics, 27 (1), 103–113. Poortinga, W., et al. 2011. Uncertain climate: an investigation into public scepticism
+
+about anthropogenic climate change. Global Environmental Change, 21 (3), 1015– 1024. doi:10.1016/j.gloenvcha.2011.03.001 Poortinga, W., et al. 2011. Uncertain climate: an investigation into public scepticism
+
+about anthropogenic climate change. Global Environmental Change, 21 (3), 1015–1024. doi:10.1016/j.gloenvcha.2011.03.001 R Core Team. 2020. R: a language and environment for statistical computing. Vienna,
+
+Austria. https://www.R-project.org/ . Rahmstorf, S., 2004. The climate sceptics. potsdam institute for climate impact
+
+research, potsdam. Munich Re, Weather catastrophes and climate change. 76–83. Rosseel, Y., 2012. lavaan: an R package for structural equation modeling. Journal of
+
+Statistical Software, 48 (2), 1–36. doi:10.18637/jss.v048.i02 Saarinen, A., Koivula, A., and Keipi, T., 2019. Political trust, political party preference
+
+and trust in knowledge-based institutions. International Journal of Sociology and Social Policy, 40 (1/2), 154–168. doi:10.1108/IJSSP-06-2019-0113 Sarathchandra, D. and Haltinner, K., 2020. Trust/distrust judgments and perceptions
+
+of climate science: a research note on skeptics’ rationalizations. Public Understanding of Science, 29 (1), 53–60. doi:10.1177/0963662519886089 Schäfer, M.S., et al. 2018. The different audiences of science communication:
+
+a segmentation analysis of the swiss population’s perceptions of science and their information and media use patterns. Public Understanding of Science, 27 (7), 836–856. doi:10.1177/0963662517752886 Siegrist, M. and Cvetkovich, G., 2000. Perception of hazards: the role of social trust
+
+and knowledge. Risk Analysis, 20 (5), 713–720. doi:10.1111/0272-4332.205064 Tranter, B. and Booth, K., 2015. Scepticism in a changing climate: a cross-national study.
+
+Global Environmental Change, 33, 154–164. doi:10.1016/j.gloenvcha.2015.05.003 Van Hauwaert, S.M. and Van Kessel, S., 2018. Beyond protest and discontent: a
+
+cross-national analysis of the effect of populist attitudes and issue positions on populist party support. European Journal of Political Research, 57 (1), 68–92. doi:10.1111/1475-6765.12216 Verbeek, B. and Zaslove, A., 2017. 1 populism and foreign policy. eds, C.R. Kaltwasser,
+
+et al. Oxford: Oxford University Press. http://oxfordhandbooks.com/view/10.1093/ oxfordhb/9780198803560.001.0001/oxfordhb-9780198803560-e-15 10 March 2020. Voeten, E. 2019. ‘Populism and backlashes against international courts’. Perspectives
+
+on Politics: 1–16. Vox.com. 2019. ‘Greta thunberg is leading kids and adults from 150 countries in
+
+a massive friday climate strike’. https://www.vox.com/2019/9/17/20864740/greta- thunberg-youth-climate-strike-fridays-future . Weber, E.U., 2016. What shapes perceptions of climate change? new research since
+
+2010: what shapes perceptions of climate change? Wiley Interdisciplinary Reviews. Climate Change, 7 (1), 125–134. Wirth, W., et al. 2016. ‘The appeal of populist ideas, strategies, and styles:
+
+a theoretical model and research design for analyzing populist political commu­ nication’. https://www.zora.uzh.ch/id/eprint/127461 (28 July 2020).
+
+ENVIRONMENTAL POLITICS 1137
+
+Zulianello, M., 2020. Varieties of populist parties and party systems in europe: from
+
+state-of-the-art to the application of a novel classification scheme to 66 parties in 33 countries. Government and Opposition, 55 (2), 327–347. doi:10.1017/gov.2019.21 Zulianello, M. and Ceccobelli, D., 2020. Don’t call it climate populism: on greta
+
+thunberg’s technocratic ecocentrism. The Political Quarterly, 91 (3), 623–631.
+
+1138 R. A. HUBER ET AL.

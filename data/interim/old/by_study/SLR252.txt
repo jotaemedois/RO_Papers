@@ -1,0 +1,1185 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/283896377
+
+Thinking Outside the Democratic Box. Political Values, Performance and Political Support in Authoritarian Regimes. A Comparative Analysis
+
+Chapter · January 2015
+
+DOI: 10.1163/9789004276062_010
+
+CITATIONS 5
+
+READS 421
+
+2 authors, including:
+
+Toralf Stark
+
+University of Duisburg-Essen
+
+35 PUBLICATIONS   130 CITATIONS
+
+SEE PROFILE
+
+All content following this page was uploaded by Toralf Stark on 17 February 2016.
+
+The user has requested enhancement of the downloaded file.
+
+300854
+
+Political Trust and Disenchantment with Politics
+
+International Perspectives
+
+Edited by
+
+Christina Eder Ingvill C. Mochmann
+
+Markus Quandt
+
+LEIDEN | BOSTON
+
+0002203980.INDD 3 10/29/2014 6:10:38 PM
+
+300854
+
+Cover illustrations: “Your vote counts” by Renee Silvermann. https://www.flickr.com/photos/ reneesilverman/3346954669/) Copyright: CC BY-ND; “We will vote” by Kevin Dooley (https://www.flickr.com/photos/pagedooley/10363570345/) Copyright: CC BY; “Naked protest/ digitalcourage” by digitalcourage (https://www.flickr.com/photos/digitalcourage/8958923268/) Copyright: CC BY-SA; “Anonymous Hollywood Scientology Protest” by Jason Scragz URL of original picture: https://www.flickr.com/photos/scragz/2340505105/ Copyright: CC BY; National women’s strike in protest against the new abortion law. Woman with female gender symbols painted on the face calls to action. Haarlem, the Netherlands, March 30, 1981. Photo: SFA003007234 © Nationaal Archief/Spaarnestad Photo/Face; “Protests in Paris/Crowd at demonstration” by Antonin Rémond (https://www.flickr.com/photos/antonin_remond/8220884938/) Copyright: CC BY.
+
+This publication has been typeset in the multilingual “Brill” typeface. With over 5,100 characters covering Latin, ipa, Greek, and Cyrillic, this typeface is especially suitable for use in the humanities. For more information, please see http://www.brill.com/brill-typeface.
+
+issn 0074-8684 isbn 978-90-04-26394-9 (hardback) isbn 978-90-04-27606-2 (e-book)
+
+Copyright 2015 by Koninklijke Brill nv, Leiden, The Netherlands. Koninklijke Brill nv incorporates the imprints Brill, Brill Nijhoff and Hotei Publishing. All rights reserved. No part of this publication may be reproduced, translated, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior written permission from the publisher. Authorization to photocopy items for internal or personal use is granted by Koninklijke Brill nv provided that the appropriate fees are paid directly to The Copyright Clearance Center, 222 Rosewood Drive, Suite 910, Danvers, ma 01923, usa. Fees are subject to change. This book is printed on acid-free paper.
+
+0002203980.INDD 4 10/29/2014 6:10:38 PM
+
+﻿
+
+300854
+
+Contents
+
+Acknowledgements vii List of Figures and Tables viii List of Contributors xi
+
+Editors’ Introduction
+
+Political Trust and Political Disenchantment in a Comparative Perspective  1
+
+Markus Quandt, Christina Eder and Ingvill C. Mochmann
+
+1 Trust and Political Disenchantment
+
+An Overview 19
+
+Ken Newton
+
+2 Trends in Conventional and Unconventional Political
+
+Participation in Europe 1981–2008 31
+
+Rik Linssen, Hans Schmeets, Peer Scheepers and Manfred te Grotenhuis
+
+3 Rethinking the Meaning and Measurement of Political Trust 59
+
+Suzanne L. Parker, Glenn R. Parker and Terri L. Towner
+
+4 When Citizens Lose Faith
+
+Political Trust and Political Participation 83
+
+Christina Eder and Alexia Katsanidou
+
+5 The Role of Electoral Systems for the Translation of Political
+
+Trust into Electoral Participation 109
+
+Christoph Arndt
+
+6 Social Risk, Political Detachment and Welfare State
+
+De-Commodification 130
+
+Maria Oskarson
+
+7 Contextual Income Inequality and Political Behavior 156
+
+Michael P. McDonald
+
+0002203980.INDD 5 10/29/2014 6:10:38 PM
+
+300854
+
+vi Contents﻿﻿﻿
+
+8 Thinking Outside the Democratic Box
+
+Political Values, Performance and Political Support in Authoritarian Regimes. A Comparative Analysis 184
+
+Wiebke Breustedt and Toralf Stark
+
+Index 223
+
+0002203980.INDD 6 10/29/2014 6:10:38 PM
+
+﻿
+
+300854
+
+Acknowledgements
+
+The open call for contributions that laid the foundation for this volume was followed by a double-blind review process over several stages. We are indebted to the members of our external review board, who carried most of the evaluation process. Based on the reviews, contributions were selected to be presented at an authors’ conference held at the gesis Leibniz Institute for the Social Sciences in Cologne in January 2012. Review board members were (in alphabetical order): Wolfgang Jagodzinski, University of Cologne; Hans-Dieter Klingemann, Wissenschaftszentrum Berlin;1 Ken Newton, University of Southampton and Wissenschaftszentrum Berlin; Pippa Norris, Harvard University, Cambridge; Jacques Thomassen, University of Twente, Enschede; and Christian Welzel, Leuphana University, Lüneburg. Most members of the review board attended the conference and inspired the discussions with their comments. With this input, the editors employed a second round of evaluations and reviews after the conference.
+
+1 We are indebted to Hans-Dieter Klingemann also for opening the conference with a keynote
+
+speech.
+
+0002203980.INDD 7 10/29/2014 6:10:38 PM
+
+300854
+
+List of Figures and Tables
+
+Figures
+
+Linssen et al. (Chapter 2) 1 Change in item ordering before and after the turn of the millennium: Average item difficulties by year 43 2 Difference in item popularity for voting vs. membership of and working for political parties 44 3 Trends in unconventional political participation, 1981–2008 for equivalent countries 52
+
+Towner (Chapter 3) 1 Trust in the government in Washington, d.c. and trust in state government in Florida: A measurement model 68 2 Trust in government and trust in incumbent political leaders: measurement models 69, 70, 71 3 Trust in government, trust in clinton, and clinton job evaluations: A measurement model 73 4 Trust in government, trust in clinton, and clinton job evaluation: A causal model 76, 77
+
+intervals) 29
+
+Arndt (Chapter 5) 1 Visualizing the coefficients from Model 3 in Table 1 121 2 Predicted probabilities for three typical countries, probabilities derived from Model 3, Table 1 122
+
+Oskarson (Chapter 6) 1 Effect of social risk position on political detachment and reduction of risk of poverty in 2008 145 2 Effect of social risk position on political detachment and social expenditure as a percentage of gdp in 2007 145 3 Effect of social risk position on political detachment and income inequality 146 4 Effect of social risk position on political detachment and gdp per capita 146
+
+0002203980.INDD 8 10/29/2014 6:10:39 PM
+
+300854
+
+ix List of Figures and Tables
+
+McDonald (Chapter 7) 1 Three causal models linking income inequality and political participation 157 2 Gini income inequality coefficient for u.s. counties, 2000 162 3 Gini income inequality coefficient for u.s. states, 2000 163 4 Transformed predicted contact propensity for lowest and highest family income categories across meaningful ranges of county-level income inequality 173
+
+Breustedt & Stark (Chapter 8) 1 Dimensions of political support in authoritarian regimes 190 2 Constitutional and actual rights of freedom and participation 192
+
+Tables
+
+Linssen (Chapter 2) 1 Participating countries and sample size in evs and ess surveys, by year 37 2 Question-wording and answer categories for items conventional and unconventional political participation in evs and ess 38 3 anova unconventional political participation: Proportions active respondents before and after the turn of the millennium, equivalent and non-equivalent countries 48, 49 4 anova membership and working for political parties and voting: Proportions active respondents after the turn of the millennium, equivalent and non-equivalent countries 50, 51
+
+Eder & Katsanidou (Chapter 4)
+
+1 Voting 96 2 Party engagement 98 3 Petitioning 99 4 Protest 100 5 Variable overview and Descriptive Statistics 103, 104
+
+Arndt (Chapter 5) 1 Political trust and turnout across electoral systems 117 2 Effects of political trust and electoral systems on electoral participation,
+
+randomeffects logistic regression 119 A1 Classification of electoral systems according to thresholds and average
+
+district magnitudes 126
+
+0002203980.INDD 9 10/29/2014 6:10:39 PM
+
+300854
+
+x List of Figures and Tables ﻿
+
+Oskarson (Chapter 6) 1 Political interest, political trust and political detachment index. (means 0–10) 138 2 Social risk, government satisfaction and political attachment
+
+2008, by country. ols regression, unstandardized b-coefficients 142 3 Correlations between social risk position, political detachment,
+
+de-commodification, inequality and wealth. (Pearson’s r) 148 4 Linear random-intercepts-random coefficients multi-level models
+
+of the effect of social risk on political detachment 149, 150
+
+McDonald (Chapter 7) 1 2004 presidential election vote, cps & anes logit models 165, 166 2 Trust, conflict & mobilization models, anes pooled logit models 168, 169 3 Contextual Income Inequality and Presidential Voter Turnout, 1992–2004 175
+
+0002203980.INDD 10 10/29/2014 6:10:39 PM
+
+300854
+
+List of Contributors
+
+Christoph Arndt is Assistant Professor in Comparative Politics at the Department of Political Science and Government, Aarhus University. His research interests include electoral behaviour, the political sociology of the welfare state, welfare state reform and party politics.
+
+Wiebke Breustedt is Research Assistant at the Chair for Comparative Politics at the University of Duisburg-Essen and PhD student at the University of Cologne. Her main research interests are political culture, political psychology, empirical democratic theory and social research methods.
+
+Christina Eder is Head of the Research Data Center ‘Elections’ at gesis. Her research focuses on electoral and non-electoral political participation, in particular direct democracy, gender politics, and the measurement and effects of political institutions.
+
+Manfred te Grotenhuis is an Assistant Professor of Quantitative Data Analysis at Radboud University Nijmegen and an affiliate of the Interuniversity Center for Social Science Theory and Methodology (ics). He does research and teaching in inferential statistics, age-period-cohort models, multilevel modeling, event history analysis, and spss syntax.
+
+Alexia Katsanidou leads the International Data Infrastructures Team at gesis – Leibniz Institute for the Social Sciences. She has published on political behavior, representation, and protest as well as on issues of data management, analysis and replicability.
+
+Rik Linssen is a PhD-candidate in the department of political science at Maastricht University, the Netherlands. His dissertation focuses on conventional and unconventional modes of political participation in international and longitudinal comparative perspective.
+
+0002203980.INDD 11 10/29/2014 6:10:39 PM
+
+300854
+
+xii Note on Contributors ﻿
+
+Michael McDonald is Associate Professor in Political Science at University of Florida. His research focuses on political participation and election administration, with emphasis on the United States.
+
+Ingvill C. Mochmann is Head of the eurolab at gesis and Vice-President for Research and Professor of International Politics at the Cologne Business School. She has published widely in the area of democracy and minority rights.
+
+Ken Newton is Professor Emeritus at the University of Southampton. His recent work deals with social and political trust, democratic innovations, media politics, and country family patterns of social and political participation in west Europe.
+
+Maria Oskarson is Associate Professor (PhD, 1958) at the department of Political Science at the University of Gothenburg, Sweden. Her research focuses on Social and Political Cleavages, Voting Behavior and Political engagement.
+
+Suzanne L. Parker is an Associate Professor of Political Science at Purdue University (West Lafayette, in). Her research focuses on American politics, public opinion and political attitudes, and in particular the study of trust in government.
+
+Glenn R. Parker is a Distinguished Professor of Political Science and a Professor of Economics at Purdue University (West Lafayette, in). His publications span the areas of American Politics and Public Choice, with an emphasis on the economics of political institutions.
+
+Markus Quandt is Head of the Research Data Center ‘International Survey Programmes’ at gesis. He has published on political participation, electoral campaigning, collective goods problems, and measurement problems in comparative surveys.
+
+Peer Scheepers is Professor of Comparative Methodology, Vice-Dean in the Faculty of Social Sciences at Radboud University Nijmegen the Netherlands. He is member of the Dutch Royal Academy of Arts and Sciences. He has published extensively
+
+0002203980.INDD 12 10/29/2014 6:10:39 PM
+
+300854
+
+xiii Note on Contributors
+
+in international journals on political voting, social capital and ethnic exclusionism.
+
+Hans Schmeets is part-time Professor in social statics at Maastricht University and is also employed at Statistics Netherlands. He also works with the osce. His research focuses on social cohesion, social capital, national elections, election observation, well-being, survey methodology and public opinion research.
+
+Toralf Stark is Research Assistant at the Chair for Comparative Politics at the University of Duisburg-Essen. His research focuses on political participation, political culture, political regime and transformation studies and social research methods.
+
+Terri L. Towner is an Associate Professor in the Department of Political Science at Oakland University in Michigan. She has published on the role of race and ethnicity in politics, the influence of new media on political attitudes, and the pedagogical value of social networks.
+
+0002203980.INDD 13 10/29/2014 6:10:39 PM
+
+© koninklijke brill nv, leiden, 2015 | doi 10.1163/9789004276062_010
+
+300854
+
+1 Other innovations include those by Inglehart and Welzel (2005), who focus more on modern ization as a cause of change in political culture as well as the interaction between social and political values. For a comprehensive summary see Pickel and Pickel (2006).
+
+chapter 8
+
+Thinking Outside the Democratic Box
+
+Political Values, Performance and Political Support in Authoritarian Regimes. A Comparative Analysis
+
+Wiebke Breustedt and Toralf Stark
+
+Introduction
+
+The downfall of the ussr was a decisive moment for all of its member countries. As such, the countries of Central and Eastern Europe, the Caucasus Region and Central Asia started out from a more or less comparable political situation into a new political future. Since then, democracy has been established in most Central and Eastern European countries. In Central Asia, however, the countries have not democratized successfully (Grotz and MüllerRommel 2011, 11).
+
+In light of this development, political culture research has experienced a revival as an explanatory approach (Fuchs 2007, 161). Its main argument is that the congruence between political culture (in terms of the citizens’ values and attitudes) and the political institutions of a given country are essential for the effective functioning and persistence of any political regime (Almond and Verba 1963, 20–21; Diamond 1993, 422–426; Easton 1965, 157; Rose, Mishler and Haerpfer 1998, 91; Verba 1965, 513). So far, public opinion studies have mainly focused on democracies (Anderson et al. 2005; Dalton 2004; Inoguchi and Blondel 2008; Kaase and Newton 1995; Klingemann and Fuchs 1995; Norris 1999; Nye, Zelikow and King 1997; Pharr and Putnam 2000). However, political culture is a relevant societal basis for the maintenance and successful implementation of power not only in democratic systems but also in authoritarian regimes (Inglehart and Welzel 2005, 158, 187–188; Rose, Mishler and Haerpfer 1998, 8).
+
+Among the many theoretical models of political support developed in the tradition of political culture research (Almond and Verba 1963; Dalton 2004; Easton 1965; Fuchs 1989, 2002, 2007; Lipset 1959; Norris 1999; Welzel and Inglehart 1999; Westle 1989) Fuchs’ (1999, 2002, 2007) model is particularly suitable for the study of political support in authoritarian regimes.1 It is better applicable than the other models as Fuchs clarifies the systemic consequences
+
+0002203979.INDD 184 10/29/2014 5:37:18 PM
+
+185 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+2 We would like to thank Claudius Wagemann and Carsten Schneider for helpful comments
+
+and remarks in the course of the ecpr ssmt 2011.
+
+of different types of political support with respect to regime persistence. In addition, it is innovative in so far as he clearly outlines the hierarchy of dimensions of the political system. However, for the sake of simplicity, Fuchs exclusively applies his model of political support to democratic political systems. Nevertheless, he states that “the assumption that a regime that wants to remain persistent in the long run, requires a political culture that is in congruency with the institutional structure, can be generally applied to all regime types” (Fuchs 2007, 163–164).
+
+In line with previous research results indicating the importance of political support in authoritarian regimes (Inglehart and Welzel 2005, 186–191), we study in how far Fuchs’ model can be applied to authoritarian systems. Fuchs states that support of democratic values and the democratic political regime are the most important aspects of political support in order to ensure the persistence of democratic political regimes. We argue that in authoritarian regimes the most important aspect of political support is trust in national government in order to maintain the authoritarian regime. Thus, it is crucial to study what determines trust in national government. According to the logic of political systems theory, the types of conditions that generate citizens’ support of the political regime and authorities are the same independent of the regime type (Easton 1975). We therefore study empirically the conditions of high political trust in national government in Central Asia. Our analysis serves to answer the question: Is the fact that people trust their national government in Central Asia conditioned by their assessment of socio-economic and political performance and political values?2
+
+The analysis focuses on Central Asian authoritarian regimes for several reasons. First, in general, there is little comparative research on the conditions of high political trust in authoritarian regimes. Most of the analyses are case studies and focus on East and Southeast Asia (Chu and Huang 2007; Dalton and Shin 2003; Inoguchi and Blondel 2008; Inoguchi 2008). While there are some case studies on Central Asian countries (Inoguchi 2008), so far, there have only been a few comparative, theory-testing studies (Dadabaev 2005; Dononbaev and Naskeeva 2004; Haerpfer 2008; Inoguchi 2008). However, the arguments upon which the conceptual political support framework is based have thus far not been adjusted to authoritarian regimes.
+
+Second, the common political heritage of the Central Asian countries as former Soviet republics and their common status as authoritarian regimes provide sufficient homogeneity of the cases considered to ensure that they are
+
+0002203979.INDD 185 10/29/2014 5:37:18 PM
+
+186 Breustedt and Stark
+
+300854
+
+3 In csqca, cases only differ in kind: they are either members (1) or non-members (0) of the set
+
+of high trusters in national government. FsQCA membership scores account for gradations in set membership. 4 Generally, “a condition is necessary if, whenever the outcome is present, the condition is also pres ent, but there can be cases that are members of the condition but not the outcome” (Schneider and Wagemann 2012, 329–330; original emphasis). A condition is sufficient “if, whenever the conditions is present, the outcome is also present, but there can be cases that are members of the outcome but not the condition” (Schneider and Wagemann 2012, 333; original emphasis).
+
+comparable with regard to the conditions of political trust. Third, due to the fact that the political systems of these countries can be characterized as authoritarian regimes to a different extent and since the political systems differ with regard to their socio-economic characteristics, the cases are diverse enough to supply maximum heterogeneity between the cases (Berg-Schlosser and de Meur 2009, 20–21).
+
+In order to specify the conditional patterns of high trust in national government in Central Asia, we use individual-level data from the Asia Barometer Survey 2005. As social desirability is even more of an issue in authoritarian regimes than in democracies, we heed the advice to perform contextualized analyses by taking into account the characteristics of the countries’ respective authoritarian political regime type (Inoguchi 2008, 17).
+
+In order to derive the conditions of the outcome of high political trust in national government, we apply fuzzy set Qualitative Comparative Analysis (fsQCA). So far, qca has rarely been applied to individual-level data due to its hitherto more case-oriented applications. However, the levels of application of qca have been broadened to include the individual level (for a summary of applications see Rihoux et al. 2009, 173–174). Here, the unit of analysis, i.e. the individual himself, is not primarily of interest. Rather, the analysis of conditions of high trust in national government is intended to derive types of individuals as reflected in different conjunctions of conditions that lead to high trust in national government (Schneider and Wagemann 2010, 401).
+
+FsQCA has several advantages for our analysis: First, unlike crisp set qca (csQCA), it permits a differentiation between individuals both in terms of differences in kind – do they trust their government or not – as well as in terms of degree – to what extent do they trust their government.3 Second, unlike standard statistical analyses it incorporates separate tests for necessary and sufficient conditions of the outcome (Wagemann and Schneider 2010, 380).4 Third, it allows the researcher to study complex interaction effects. Previous studies of political support usually applied multiple regression analysis, which follows the principle of additivity (Catterberg and Moreno 2005; Dalton 2004; Inglehart
+
+0002203979.INDD 186 10/29/2014 5:37:18 PM
+
+187 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+5 For a recent summary of the different approaches to explaining political trust see Kotzian
+
+(2011, 26–28) and Wong, Wan and Hsiao (2011: 264–267). 6 Specifically, qca enables the analysis of so-called inus conditions. An inus condition is a
+
+single condition that derives its name from the initial letters of the italicized words in the following definition: It is “an insufficient but necessary part of a condition which is itself unnecessary but sufficient for the result” (Mackie 1965, 245; original emphasis). In other words, it is a “single condition that is insufficient for producing the outcome on its own but which is a necessary part of a conjunction that, in turn, is unnecessary but sufficient for producing the outcome” (Schneider and Wagemann 2012, 328; original emphasis).
+
+and Welzel 2005; Mishler and Rose 2001; Pharr and Putnam 2000; Wong, Wan and Hsiao 2011). As research has shown, citizens’ political trust primarily results from their assessment of the socio-economic and political performance of the political system as well as their political values.5 However, the literature suggests that these factors do not affect political trust in an isolated manner. Rather, they influence political trust in conjunction. Consequently, multiple regression analyses that determine the net effect of the single best predictor do not adequately take into account the causal complexity reflected in the research findings (Ragin 1987, 83; Ragin 2008, 176–182). In qca, third, fourth and fifth order interaction terms are common, unlike in multiple regression analysis (Wagemann and Schneider 2010, 384).6 Finally, qca takes equifinality into account, i.e. “different constellations of factors may lead to the same result” (Berg-Schlosser et al. 2009, 8). This is important to bear in mind since the combinations or conjunctions of the conditions that affect political trust may differ both within and between the countries studied.
+
+In sum, the article contributes theoretically by elaborating the model of political support developed by Fuchs as we apply it to authoritarian regimes. In addition, the article enhances the knowledge of the conditions of high political trust in national government in Central Asia from a comparative perspective, which is very seldom found in analyses of Central Asian countries thus far. Furthermore, the article contributes methodologically by applying fsQCA to test the newly developed theoretical arguments and by using individual-level survey data to study the conditions of high political trust in national government.
+
+Theoretical Background
+
+A Model of Political Support for Authoritarian Regimes For our analysis, we refer to the model by Fuchs (1999, 2002, 2007), which is a recent and innovative elaboration of the political support model based on
+
+0002203979.INDD 187 10/29/2014 5:37:19 PM
+
+188 Breustedt and Stark
+
+300854
+
+7 In “Critical Citizens” and “Democratic Deficit – Critical Citizens Revisited” Norris (1999, 2011)
+
+also presents a hierarchical model of political support. Unlike her, Fuchs clearly distinguishes between general democratic values and the democratic values inherent in the institutional structure of the current political regime (Fuchs 1999, 124–125; Fuchs 2002, 37; Fuchs 2007, 165, see also Dalton 2004, 6–7). In addition, he does not include ‘identification with the political community’ in the concept of political support (see Fuchs 2007, 169–172 for a detailed explanation). 8 He thus elaborates Easton’s concept of political support. Easton differentiates the dimen sions of political support by attributing them to individual objects of the political system, i.e. the political community, the regime as a whole and the political authorities. Fuchs takes on a more general approach by associating the types of political support to different kinds of dimensions of the overall political system.
+
+Easton. Political support is defined as “an attitude by which a person orients himself to an object either favorably or unfavorably, positively or negatively” (Easton 1975, 436). Fuchs first discerns between three hierarchically ranked dimensions of the political system each of which comprises different political objects, namely political values, the institutions of a regime and the political authorities. He then goes on to specify the corresponding types of political support for democratic political systems, namely commitment to democratic values, support of the democratic regime of the country and support of the political authorities, respectively. In line with Easton he further states that trust is an essential dimension of political support (Fuchs 2007, 164–166; see also Easton 1975, 447).
+
+Conceiving political support as a system of attitudes, he, like other researchers before him (Almond 1980; Easton 1975; Pappi 1986), assumes that the different dimensions of political support interact and are affected by citizens’ assessment of political and socio-economic performance. However, he is the first to systematize and to justify theoretically the relationship between the different dimensions of political support (Fuchs 1999, 124; Fuchs 2002, 37–38; Fuchs 2007, 165).7
+
+Furthermore, Fuchs derives the systemic consequences that arise from the different types of political support (Fuchs 2002, 37). He does so by relating the dimensions of political support to the dimensions of the political system. Based on Parsons (1971) and Luhmann (1970, 1984), he argues that political values can be attributed to the cultural dimension, support of the regime reflects the structural dimension and support of the authorities represents the procedural dimension of the political system (Fuchs 2002, 35–36).8 He then states the respective consequences of the different dimensions of political support: persistence of a democratic system of the country, persistence of the type of democratic system of the country, re-election or de-election of political authorities.
+
+0002203979.INDD 188 10/29/2014 5:37:19 PM
+
+189 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+9 The question whether the objects of political support can be clearly distinguished in democracies has also been subject of a long debate (Miller and Citrin debate: Miller 1974a, 1974b; Citrin 1974; Citrin and Luks 2001). 10 Unlike in democracies where the constitutions specify the democratic values inherent in the political institutions of the political regime.
+
+Generally, there is no reason to believe why Fuchs’ model of political support should not be equally applicable to democracies and autocracies. The dimensions of the political system and the respective dimensions of political support can be applied to both democratic and authoritarian regimes in line with the logic of political systems theory (Easton 1965, 8). His argument concerning the origins of political support is based on a universal assumption about human nature, namely that it derives from people’s socialization experiences as well as their assessments of political and socio-economic performance. Therefore, he assumes that support develops in the same manner in all humans, independent of the type of political system they live in. Consequently, the fact that the different dimensions of political support and performance evaluations interact applies to authoritarian and democratic regimes.
+
+However, the consequences of the different kinds of political support for the political system differ. Fuchs considers support of democratic rule, i.e. the commitment to democratic values, to be the most important dimension of political support for the persistence of democracies in general and states that support of the current political regime is indispensable for the persistence of the type of democratic regime in the respective country (Fuchs 2002, 31; Fuchs 2007, 166–167). We argue that in authoritarian regimes, high political trust in national government is crucial for the persistence of authoritarian regimes.
+
+Since the national government is mainly perceived in terms of the political elites that represent the government, political trust in national government is located at the level of political authorities (Fuchs 1999, 124; Fuchs 2007, 165– 166). Due to the non- or bare existence of a system of checks and balances, the locus of institutional power rests with the authorities. Since the authorities are not elected or the elections are mere charades, over time, the central political institutions are mainly framed by the political leader(s). Therefore, a clear separation between the authorities themselves and the institutions is no longer possible. Consequently, the extent to which the objects of political support of the political system can be distinguished is not as clear-cut as in democracies.9 Instead, the values as well as the institutions of the regime are associated with the political authorities. In authoritarian countries, the authorities in national government and the ruling parties themselves personify the values of authoritarian rule.10
+
+0002203979.INDD 189 10/29/2014 5:37:19 PM
+
+190 Breustedt and Stark
+
+300854
+
+Figure 1 Dimensions of political support in authoritarian regimes Source: Own compilation based on Fuchs (2007)
+
+This has implications both for the most important aspect of political support for regime persistence as well as the interaction of the dimensions of political support. In general, based on this line of argument, it is high trust in national government that matters most for the persistence of the authoritarian regime in a given country (see figure 1). In authoritarian countries, it is therefore essential to study the conditions of high political trust in national government.
+
+According to the original model by Fuchs, political trust in political authorities, i.e. the incumbents in political offices, results from the extent to which people are satisfied with their political and socio-economic performance (Easton 1975, 438–439; see also Fuchs 1999, 124). In addition, generalized trust in institutions provides political authorities with an advance in trust. According to our model, citizens also base their trust in the authorities on political values. Political trust in national government in authoritarian regimes can thus be considered to be affected by people’s trust in the institutions of the regime, their political values as well as their evaluations of the political and socio- economic performance.
+
+Since “[…] different kinds of authoritarianism differ from each other as much as they differ from democracy” (Geddes 1999, 121), we also have to
+
+Generalization of experiences
+
+Political Performance Socio-economic Performance
+
+Persistence of the type of authoritarian regime of the country
+
+Persistence of an authoritarian system of the country Values
+
+Structure
+
+Process
+
+Support of the political authorities
+
+Commitment to authoritarian values
+
+Support of the authoritarian regime of the country
+
+Levels Attitudinal Constructs Systemic Consequences
+
+0002203979.INDD 190 10/29/2014 5:37:21 PM
+
+191 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+11 Polity IV and Freedom House refer to two dimensions: “contestation” and “inclusiveness” based on Dahl’s concept of polyarchy (Dahl 1971, 4–5). 12 Considering the fluctuations in Kyrgyzstan’s assessment of political performance over the past years, it remains to be seen whether the country will manage to maintain its positive development. 13 Polity IV differentiates three regime types. Countries ranked between 10 and 6 are called democracy, countries ranked between 5 and −5 are referred to as anocracies and those ranging from −6 to −10 are entitled ‘autocracy’. 14 Freedom House divides their scale into three dimensions: 1–2.5 = free; 3–5 = partly free; 5.5-7 not free.
+
+consider the different manifestations of authoritarianism in Central Asia when choosing the conditions of high levels of trust in national government. In order to do so, initially, it is important to set autocracies apart from democracies as autocracies function according to regime-specific mechanisms and principles in their own right (Sartori 1997, 185). We do so in reference to a number of authors who distinguish between political regimes based on this dichotomous differentiation (Geddes 1999, 122–130; Linz 2000, 49–53; Sartori 1997, 185–186). Empirically, we draw on Freedom House and Polity IV, the two most commonly used empirical indices measuring the political performance of political regimes (Coppedge et al. 2011, 248).11
+
+In terms of their political performance, the Central Asian countries highly differ, but none of them pass the democratic threshold (see figure 2).12 With respect to the type of executive recruitment, constraints on executive authority and political competition, the countries have either remained autocratic (Uzbekistan), have fluctuated between autocracy and anocracy (Kazakhstan, Tajikistan) or have remained in an anocratic state between autocracy and democracy (Kyrgyzstan) (Marshall, Jaggers and Gurr 2011).13
+
+Concerning the implementation of political rights and civil liberties, Freedom House has persistently rated some of the countries as not free (Uzbekistan), but has also assigned improving scores of freedom over time, while still categorizing the countries as not free (Kazakhstan,Tajikistan). Kyrgyzstan has been classified as either partly free or as not free.14 This brief summary indicates that this region contains political regimes that have implemented the authoritarian rules in terms of electoral institutions, as well as political rights and civil liberties to different degrees (Freedom House 2012).
+
+However, the differences between political regimes are not just a matter of quantitative degrees of authoritarianism but also a question of qualitative differences between authoritarian regimes. Possible qualitative differences should therefore also be considered when determining the conditions of high trust in national government.
+
+0002203979.INDD 191 10/29/2014 5:37:22 PM
+
+192 Breustedt and Stark
+
+300854
+
+15 as well as in one-party regimes
+
+In order to classify the types of authoritarian political regimes in Central Asia in a qualitative manner, we use the approach by Hadenius and Teorell (2006) which is based on Barbara Geddes’ seminal proposal (1999). Hadenius and Teorell elaborate Geddes’ concept in two respects. First, they classify authoritarian regimes based on three modes of political power maintenance: (a) hereditary succession; (b) actual or threatened use of military force and (c) popular election. The resulting regime types are monarchy, military regimes and electoral regimes. These basic types can be divided into several subtypes. Electoral regimes are differentiated into no-party regimes, one-party regimes and limited multiparty regimes (Hadenius and Teorell 2006, 6–7). Following Hadenius and Teorell, all Central Asian regimes are classified as limited multiparty regimes (Hadenius and Teorell 2006, 27). These arguments underline that – in limited multiparty regimes as in Central Asia15 – trust in parliament should contribute to trust in national government, as parliament is the main institutional display of the power of national parties.
+
+Second, unlike Geddes, Hadenius and Teorell do not consider personalism to be a regime type in its own right but state that it is a characteristic which is more or less present in all authoritarian regimes (Hadenius and Teorell 2006, 4). Since personalism is characteristic of all authoritarian regimes, support of strong political leadership (by a party or person) as a political value must be considered as a condition of trust in national government when studying these regimes. The importance of support of strong political leadership for citizens’
+
+Figure 2  Constitutional and actual rights of freedom and participation
+
+Source: Freedom House (2012)/ Polity IV (2011)
+
+–10 –8 –6 –4 –2 0 2 4 6 8 10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Kazakhstan Kyrgyzstan Uzbekistan Tajikistan
+
+Freedom House Polity IV
+
+0002203979.INDD 192 10/29/2014 5:37:24 PM
+
+193 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+16 see footnote 6.
+
+trust in national government in authoritarian regimes is substantiated by Welzel and Inglehart (2009). They argue that citizens’ intrinsic preference for authoritarianism is essential in order for them to support authoritarian rule in the long run (Welzel and Inglehart 2009, 134–135). According to them, citizens prefer authoritarianism intrinsically when they reject emancipative values, i.e. when they “give priority to authority and strong leadership over freedom and expression” (Welzel and Inglehart 2009, 131). They also show empirically that the congruence between citizens’ values and political structures has systemic consequences (Inglehart and Welzel 2005, 186–191).
+
+Assumptions Fuchs’ model implies that positive assessment of performance is a necessary condition of political trust in national government as political trust in national government mainly develops based on short-term evaluations of the political authorities (Easton 1975, 448), i.e. whenever people trust national government they also positively evaluate the socio-economic and/or political performance.
+
+In addition, based on the arguments outlined in the previous section, support of strong leadership, positive assessment of socio-economic and political performance as well as political trust in parliament are sufficient for high trust in national government, i.e. whenever people support strong leadership and/ or positively evaluate the performance, they also trust national government. These conditions can be sufficient either by themselves or as inus conditions.16
+
+According to Fuchs’ model, there should be sufficient conjunctions that exclusively include the positive assessment of socio-economic and political performance (‘performance-driven’ trusters). These conjunctions are likely to be complemented by trust in other institutions such as parliament. In contrast, according to our application of Fuchs’ model to authoritarian regimes, we expect conjunctions of conditions that include performance, trust in parliament and support of strong leadership, as citizens in authoritarian regimes do not distinguish as clearly between the different dimensions of the political regime as in democracies. Support of strong leadership is expected to be part of a sufficient conjunction of conditions among the individuals in all countries due to the fact that the analysis is based on survey data from individuals who have all been socialized in Central Asian authoritarian regimes. Similarly, authoritarian values could also be sufficient by themselves (‘value-driven’ trusters).
+
+0002203979.INDD 193 10/29/2014 5:37:24 PM
+
+194 Breustedt and Stark
+
+300854
+
+17 Kazakhstan N = 508; Kyrgyzstan N = 442; Tajikistan N = 414; Uzbekistan N = 353. A comparison of the distributions of our sample with the distributions in the original sample
+
+Method and Data
+
+We will now turn to the empirical determination of the necessary and sufficient conditions of high political trust in national government in authoritarian regimes in Central Asia. The study of the conditions of political trust is not merely a question of whether and why people trust or not. It involves both the question of qualitative states – do people trust or do they not trust – as well as the question of degree – to what extent do people trust or distrust. The most appropriate way to account for these differences in kind (qualitative differences) and degree (quantitative differences) both in terms of conceptualization as well as measurement when studying the conditions of high political trust in national government is to apply fuzzy set Qualitative Comparative Analysis (fsQCA) (Ragin 2008, 30; Schneider and Wagemann 2007, 184).
+
+The individuals’ responses to the survey questions in the Asia Barometer 2005 provide the raw data for the study of the conditions of high political trust in national government in the countries of analysis. The Asia Barometer is a regional public opinion survey project which has been conducted on an annual basis in East, Southeast, South and Central Asia since 2003 (Inoguchi and Fujii 2008, 187). In 2005, the survey focused on South and Central Asian countries. The survey items cover a range of issues pertaining to the quality of life, including political attitudes, political values and assessment of socio-economic and political performance (Inoguchi and Fujii 2008, 164–197).
+
+The selection of conditions is based on our model of political support. Therefore, items pertaining to authoritarian values, political trust in parliament as well as the assessment of socio-economic and political performance are included in the analysis (see Appendix A). With respect to the definition of the outcome, we deviate from Fuchs’ model. According to the argument outlined earlier, the choice of high political trust in national government as the outcome is based on the assumption that high political trust in national government is comparatively more important for the persistence of authoritarian regimes in a given country than authoritarian political values or high trust in the political system and its institutions as such.
+
+In order to perform a fsQCA to determine the necessity and sufficiency of the conditions, first, those respondents of the Asia Barometer 2005 were chosen which replied to the items pertaining to political performance, socioeconomic performance, political values and political trust.17 The survey data
+
+0002203979.INDD 194 10/29/2014 5:37:24 PM
+
+195 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+(not shown here) regarding the socio-demographic characteristics (sex, age and education) according to which the representative sample was drawn showed that the distributions are similar. 18 Overall, there are 18 items that pertain to political performance, socio-economic performance, political values and political trust. Among these, there are several items in the Asia Barometer that are similar in terms of content. In these cases (f.ex. satisfaction with public safety and satisfaction with the way government is dealing with crime), only those items were chosen for the analysis that explicitly referred to government performance. 19 Due to the large number of respondents per country, the raw data are not presented here. However, the data set is available on the Asia Barometer website. While the raw data can
+
+was then calibrated in order to perform a fsQCA to study the individual-level conditions of high political trust in national government. Each individual was therefore assigned set membership scores in the sets described by the characteristics of the conditions18 and the outcome (see Appendix A).
+
+According to the set-theoretic logic of fsQCA, the set membership scores range from 0 (full non-membership in the set, i.e. fully non-trusting) to 1 (full membership, i.e. fully trusting). The qualitative difference between the cases is determined by the 0.5 score, which represents the point of maximum ambiguity where cases are neither in nor out of a set (Ragin 2008, 30). This is why cases should not have a set membership of 0.5 because they cannot be clearly specified as members or non-members of a set. This in turn affects the ability to determine the specific truth table rows where they fit best (Schneider and Wagemann 2012, 28). The quantitative differences in the degree of set membership between the cases that are similar in kind are indicated by assigning different fuzzy set membership scores to the respective cases either above or below the point of maximum ambiguity (Ragin 2009, 89–90; Schneider and Wagemann 2007, 184–185).
+
+In order to reflect the qualitative character, each fuzzy set score was assigned a linguistic qualifier (Schneider and Wagemann 2007, 184). Since the Asia Barometer Survey uses fully verbalized scales, the linguistic qualifiers of the fuzzy set values are actually inherent in the labels of the response categories. According to research in survey methodology, the response categories of survey items affect the respondents’ cognitive process in choosing a response category when replying to the survey questions (see for example Mazaheri and Theuns 2009). These facts provide substantive reasons to assign a set membership score to each of the response categories. The endpoints of the scales were used as qualitative anchors to designate full membership and full non-membership, the crossover point was based on the meaning inherent in the labels of the response categories.19 All 3-point scales were calibrated as follows:
+
+0002203979.INDD 195 10/29/2014 5:37:24 PM
+
+196 Breustedt and Stark
+
+300854
+
+The point of maximum ambiguity was set between response category 2 and 3, as indicated by the labels. Response category 3 was coded as 0.55 because the linguistic qualifier reflects a positive tendency and the assignment of a set membership of 0.5 should be avoided as mentioned above. The 4-point scales were calibrated according to the calibration rules in Table 2
+
+be calibrated according to the calibration rules outlined above, the fsQCA data set is also available upon request to facilitate the reanalysis of the data.
+
+Table 1 Calibration of three-point scales
+
+Fuzzy set membership scores
+
+Survey item response categories Linguistic qualifiers
+
+1 1 Very good 0.55 2 Fairly good 0 3 Very bad
+
+Source: own calibration based on Asia Barometer 2005
+
+Table 2 Calibration of four-point scales
+
+Fuzzy set membership scores
+
+Survey item response categories
+
+Linguistic qualifiers
+
+1 1 Trust a lot/very well/very satisfied 0.66 2 Trust to a degree/fairly well/ somewhat satisfied 0.33 3 Don’t really trust/not so well/ somewhat dissatisfied 0 4 Don’t trust at all/not well at all/very dissatisfied
+
+Source: own calibration based on Asia Barometer 2005
+
+In the case of 4-point scales, the point of maximum ambiguity was set between response category 2 and 3 as the labels clearly indicate a qualitative difference. The 5-point scales were calibrated according to the calibration rules in Table 3. The point of maximum ambiguity was set between response categories 3
+
+0002203979.INDD 196 10/29/2014 5:37:24 PM
+
+197 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+20 The linguistic qualifier suggests a neutral middle category. However, due to the reasons elaborated with respect to table 1, cases should not be assigned a set membership of 0.50. We therefore assumed a positive response tendency in calibrating survey item responses ‘3’ as 0.55.
+
+and 4. A detailed overview of the calibration of each of the conditions is listed in Appendix A.
+
+Analysis of the Conditions of High Political Trust in National Government in Central Asian Authoritarian Regimes
+
+First, we determined the necessary conditions of high political trust in national government (tg) as well as their consistency and coverage per country. Consistency indicates “the degree to which the empirical information at hand is in line with the statement of necessity, i.e., how far the outcome can be considered a subset of the condition” (Schneider and Wagemann 2012, 143). When studying necessary conditions, coverage indicates the relevance of a necessary condition (Schneider and Wagemann 2012, 325), Second, we derived the sufficient conditions of high political trust in national government (tg) in a separate analysis for each of the countries. We also report the fit measures of consistency and coverage for sufficient conditions. Again, “consistency provides a numerical expression for the degree to which the empirical information deviates from a perfect subset relation” (Schneider and Wagemann 2012, 129). When studying sufficient conditions, coverage reflects to which degree the solution term explains the outcome (Schneider and Wagemann 2012, 325).
+
+Table 3 Calibration of five-point scales
+
+Fuzzy set membership scores
+
+Survey item response categories
+
+Linguistic qualifiers
+
+1 1 Very satisfied/strongly agree 0.75 2 Somewhat satisfied/agree 0.55 3 Neither satisfied nor dissatisfied/ neither disagree nor agree20 0.25 4 Somewhat dissatisfied/disagree 0 5 Very dissatisfied/strongly disagree
+
+Source: own calibration based on Asia Barometer 2005
+
+0002203979.INDD 197 10/29/2014 5:37:24 PM
+
+198 Breustedt and Stark
+
+300854
+
+21 See Appendix B for the consistency and coverage values of each necessary condition with regard to the outcome ‘high political trust in national government’ (tg) for each country. 22 The ‘~’ indicates the logical negation (Schneider and Wagemann 2012, 47). 23 The consistency level of ‘widespread corruption’ (C) is also very high in Tajikistan (0.88).
+
+Analysis of Necessity When analyzing the necessity of the conditions, we sought to determine whether there are any conditions of which the outcome of high political trust in national government (tg) is a subset, i.e. whenever high political trust in national government (tg) is present, the condition is also present (Wagemann and Schneider 2010, 383). In order to determine whether the conditions listed in Appendix A are necessary for high political trust in national government (tg), we assessed their consistency. We considered only those conditions whose consistency was above 0.9, 1 being the highest possible consistency value (Schneider and Wagemann 2012, 143).
+
+As expected, we found several political and socio-economic performance conditions that can be considered necessary based on their consistency value.21 In Kazakhstan, Kyrgyzstan and Uzbekistan, high satisfaction with the current scope of the right to vote (sv) could be considered necessary. Counter-intuitively, in Kyrgyzstan, Tajikistan and Uzbekistan, the absence of the conviction that the government is dealing well with unemployment (~su)22 could be considered necessary, and in Kazakhstan, Kyrgyzstan and Uzbekistan, the same applies to the belief that there is widespread corruption among those who govern (C).23
+
+However, “conditions that pass the consistency test as a necessary condition should not be deemed to be relevant necessary conditions unless they also obtain a high value in the relevance measure” (Schneider and Wagemann 2012, 147). The coverage of a necessary condition indicates the extent to which the set tg is smaller in relation to each conditional set. If the condition is irrelevant, its coverage will be low (Schneider and Wagemann 2012, 147, 237). This is the case for all conditions listed above. Therefore, we must conclude that there are no relevant necessary conditions. Nevertheless, the omnipresence of high satisfaction with the current scope of the right to vote (sv), the absence of the conviction that the government is dealing well with unemployment (~su) and the belief that there is widespread corruption among those who govern (C) in the Central Asian countries indicated by the distribution of the values (not shown here) is in itself an important finding in terms of survey research as well as the quality of the political systems. We will elaborate this further when discussing the findings in the conclusion.
+
+Analysis of Sufficiency When analyzing the sufficiency of the conditions, we sought to determine which conditions are subsets of the outcome for high political trust in national
+
+0002203979.INDD 198 10/29/2014 5:37:24 PM
+
+199 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+government (tg), i.e. whenever the condition is present, high political trust in national government (tg) is present (Schneider and Wagemann 2007, 32). qca is characterized by causal complexity which is expressed by the fact that, a lot of the time, conjunctions of conditions instead of single conditions contribute to the outcome. This is indicated by ‘*’ which stands for the logical and. When considering the conjunctions of conditions, it is also possible that the outcome can result from both the presence and the absence of a certain condition, depending on which conditions it is combined with, i.e. A*B +~A*C→Y are permissible. In addition, qca solution terms are characterized by equifinality, i.e. several conjunctions of conditions can be related to the same outcome (BergSchlosser et al. 2009, 8; Wagemann and Schneider 2010, 384; Schneider and Wagemann 2012, 54). This is indicated by ‘+’ which stands for the logical OR. However, the or is not exclusive but rather inclusive, i.e. an individual displays a high level of political trust if conjunction A*B OR~A*C→Y is present or both. Thus, the fsQCA solution term yields patterns of attitudes described by different solution paths. The arrow indicates that the expressions on the left side of the arrow are subsets of the outcome to the right side of the arrow. This subset relation implies sufficiency of the conditions for the outcome.
+
+Based on our theoretical model, we included high trust in parliament (tp), the conviction that having a powerful leader (L) is good, and conditions characterizing socio-economic and political performance. With regard to the items measuring political and socio-economic performance, qca’s case-orientedness supports the idea of functionally equivalent conditions (Schneider and Wagemann 2010, 403). We chose those functionally equivalent items listed in Appendix A that yielded the best consistency and coverage values per country. The following conditions are included in the fsQCA in Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan:
+
+Table 4 Conditions included in the analysis of sufficiency
+
+Dimensions of conditions
+
+Political Support Political performance (functional equivalents)
+
+Socio-economic performance (functional equivalents) Countries Values Structure
+
+Kazakhstan L tp si se, sl Kyrgyzstan L tp si, sv sh Tajikistan L tp si se, sh Uzbekistan L tp si su, sh, sc
+
+Source: see Appendix A
+
+0002203979.INDD 199 10/29/2014 5:37:24 PM
+
+200 Breustedt and Stark
+
+300854
+
+24 The truth tables are included in Appendix C. The consistency threshold was set at 0.9 to ensure high consistency while allowing for some minor inconsistencies due to measurement error in the surveys. The 0.79 pre threshold was chosen due to the fact that in all of the countries, all of the truth table rows with a consistency value of at least 0.9 exhibited a gap in the pre score below 0.79. 25 The parsimonious solution for Uzbekistan is: TP*SU + SI*SH*SC*TP*~L. The parsimonious solution for Kyrgyzstan is: L*TP*SH*SV+~L*TP*SH*SI+TP*SH*SI*SV (solution includes all prime implicants). We chose not to present and interpret the parsimonious or intermediate solution as we did not want to make any assumptions about the logical remainders which would have to be justified. By presenting the conservative solution, we exclusively relied on our empirical data.
+
+These conditions can be combined into 2k conjunctions of conditions. Each logically possible conjunction represents one truth table row. The truth table rows are essential for the derivation of the solution formula that describes the sufficient conditions and conjunctions of conditions of high trust in national government presented below. For each country, we assigned each individual to the truth table row that described it best based on the fuzzy set scores, i.e. the ideal typical conjunction of conditions where the individual had a set membership of higher than 0.5. We then determined the outcome value for each truth table row (Schneider and Wagemann 2012, 179–186). In order to decide which rows are considered sufficient for the outcome and are therefore included in the logical minimization process, we used raw consistency as well as the proportional reduction in error (pre). Whereas the raw consistency indicates the degree to which the conjunctions of conditions are a subset of the outcome, the pre provides a numerical indication of truth table rows’ simultaneous subset relations of the conjunctions of conditions in the outcome and the non-occurrence of the outcome (Schneider and Wagemann 2012, 242). We decided to include those rows with a raw consistency level of at least 0.90 and a pre (proportional reduction in error) score of 0.79 or higher.24 The analysis of sufficiency was performed using the QuineMcClusky truth table algorithm incorporated in the fsQCA program. With respect to the analysis of the individuals from Uzbekistan and Kyrgyzstan, several truth table rows (Uzbekistan: 22 rows; Kyrgyzstan: 3 rows) did not have cases with a set membership of more than 0.5. They are therefore logical remainders. However, we did not make any assumptions about them (Schneider and Wagemann 2012, 162). The truth table minimization yielded the following conservative solution terms:25
+
+Kazakhstan: TP + L*SI*SL + L*SE*SL + SI*SE*SL   TG Kyrgyzstan: L*TP*SH*SV + SI*TP*SH*SV   TG
+
+0002203979.INDD 200 10/29/2014 5:37:24 PM
+
+201 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Tajikistan: TP + L*SE + SE*SH + SE*SI + L*SI*~SH +~L*SI*SH   TG Uzbekistan: SC*SU*SI*TP + SC*SU*L*TP + SC*SH*SI*~L*TP + SI*SH*SU*
+
+~L*TP   TG
+
+The solution terms cover all sufficient truth table rows, i.e. all conjunctions of conditions that are sufficient for the outcome of high political trust in national government (tg). Since there are hardly ever any perfect subset relations in the social sciences, “it is important to assess the degree to which the empirical evidence is consistent with the set theoretic relation in question” (Ragin 2009, 108; original emphasis). Thus, before interpreting the solution terms, it is important to consider the consistency, the raw and unique coverage of the individual solution paths as well as the solution coverage and consistency. These parameters of fit are summarized in tables 5-8 below.
+
+Table 5 Kazakhstan
+
+Parameters of fit Sufficient conditions of tg
+
+TP + L*SI*SL + L*SE*SL + SI*SE*SL
+
+Raw coverage 0.813082 0.331405 0.382253 0.590487 Unique coverage 0.220254 0.005361 0.021054 0.030054 Consistency 0.922853 0.939832 0.933212 0.954417 Solution coverage 0.891546 Solution consistency 0.901002
+
+Table 6 Kyrgyzstan
+
+Parameters of fit Sufficient conditions of tg
+
+L*TP*SH*SV + SI*TP*SH*SV
+
+Raw coverage 0.401046 0.502772 Unique coverage 0.058800 0.160526 Consistency 0.936026 0.925965 Solution coverage 0.561572 Solution consistency 0.925156
+
+Source: own calculations based on Asia Barometer 2005
+
+Source: own calculations based on Asia Barometer 2005
+
+0002203979.INDD 201 10/29/2014 5:37:24 PM
+
+202 Breustedt and Stark
+
+300854
+
+The consistency scores for sufficiency of the overall solutions in all four countries indicate that the statement that the solutions are sufficient for high political trust in national government (tg) is in line with the empirical survey data. Therefore, usually, individuals’ membership score in the solution term is lower or equal to their membership score in high political trust in national government (tg). This means that there are very few instances where individuals have a membership score in the overall solution term that is larger than their set membership in high political trust in national government (tg).
+
+The solution coverage for sufficiency shows how much of the outcome is explained by the solution paths. It is very high in Kazakhstan and Tajikistan and comparatively lower in Kyrgyzstan and Uzbekistan. While there is no lower
+
+Table 8 Uzbekistan
+
+Parameters of fit Sufficient conditions of tg
+
+SC*SU*
+
+SI*TP
+
++ SC*SU*
+
+L*TP
+
++ SC*SH* SI*~L*TP
+
++ SI*SH*SU*
+
+~L* tp
+
+Raw coverage 0.259300 0.105340 0.326887 0.220257 Unique coverage 0.023082 0.019583 0.112584 0.005955 Consistency 0.977099 0.981132 0.961018 0.975265 Solution coverage 0.397421 Solution consistency 0.961818
+
+Table 7 Tajikistan
+
+Parameters of fit Sufficient conditions of tg
+
+TP + L*SE + SE* SH + SE*SI + L*SI*~SH + ~L*SI*SH
+
+Raw coverage 0.768204 0.353803 0.478605 0.446794 0.242735 0.315009 Unique coverage 0.223106 0.006323 0.010746 0.005974 0.011289 0.014509 Consistency 0.867634 0.948222 0.962025 0.969281 0.948893 0.962542 Solution coverage 0.866975 Solution consistency 0.861727
+
+Source: own calculations based on Asia Barometer 2005
+
+Source: own calculations based on Asia Barometer 2005
+
+0002203979.INDD 202 10/29/2014 5:37:24 PM
+
+203 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+26 This is in contrast to the usual discussion of ols regressions, where either values or performance indicators are deemed more important. 27 “A case is uniquely covered if it holds a membership value higher than 0.5 in only one sufficient path” (Schneider and Wagemann 2012: 137).
+
+threshold for coverage, a high coverage score for sufficiency indicates the empirical importance of the solution term (Schneider and Wagemann 2012, 137–138). Therefore, overall, the solution terms in Kazakhstan and Tajikistan are highly important whereas their importance in Kyrgyzstan and Uzbekistan is lower.
+
+The consistency scores for sufficiency of the individual solution paths show that the conjunctions of conditions are empirically sufficient for high political trust in national government (tg). In terms of analytical content, this means that in Tajikistan, for example, the individuals in the survey usually trust parliament to the same (or lesser) extent as they trust national government (tg).
+
+The raw coverage score of the individual solution paths “indicates how much of the membership in the outcome is covered by the membership in a single path” (Schneider and Wagemann 2012, 139). Overall, as reflected in the raw coverage scores, in Kazakhstan and Tajikistan, high political trust in parliament (tp) has the highest empirical importance, in Kyrgyzstan, it is SI*TP*SH*SV and in Uzbekistan, it is SC* SH* SI*~L*TP.
+
+Due to the inclusiveness of the logical or, individuals can have a set membership of more than 0.5 in more than one solution path, i.e. we cannot state from the raw coverage scores in how far certain conditions have a ‘higher effect’ on individuals.26
+
+At the same time, in fsQCA it is also possible to determine ‘types’ of trusters, i.e. those who are ‘value-driven’ and those who are ‘performance-driven’. In order to do so, we need to consider the unique coverage score. The unique coverage score indicates the unique contribution of each solution path to the outcome (Schneider and Wagemann 2012, 137, 139).27 Only those individuals which have a membership of greater than 0.5 in a single path are uniquely covered. According to the results, there are exclusively performance-based sufficient conjunctions of conditions. These uniquely cover the ‘performance-driven trusters’: SI*SE*SL in Kazakhstan and SE*SI as well as SE*SH in Tajikistan. However, there are no ‘value-driven trusters’ in any of the countries.
+
+Conclusions Regarding the Assumptions As outlined above, according to Fuchs’ model, a positive assessment of performance is a necessary condition of high political trust in national government. In the analysis of necessity, we found that satisfaction with the current scope of the right to vote (sv) is necessary. The absence of satisfaction with the way
+
+0002203979.INDD 203 10/29/2014 5:37:24 PM
+
+204 Breustedt and Stark
+
+300854
+
+government is handling unemployment (~su) and the agreement with the statement that there is widespread corruption among those who govern (C) contradict our assumptions. Yet, as indicated by the coverage of necessity, the conditions sv, ~su and C are trivial in most of the Central Asian countries. This means that the majority of respondents in our sample of the Asia Barometer Survey are satisfied with the right to vote in Kazakhstan, Kyrgyzstan and Uzbekistan, are dissatisfied with the way government is handling unemployment in Kyrgyzstan, Tajikistan and Uzbekistan and believe that there is high corruption among those who govern in all four countries. Therefore, unlike suggested by Fuchs’ model, neither political nor socio-economic performance are relevant necessary conditions for high trust in national government (tg), highlighting the need to take into account the difference between necessary and sufficient conditions when studying the conditions of political trust.
+
+With regard to the question of sufficient conditions, as outlined earlier Fuchs’ model suggested that there are exclusively performance-based trusters. As the unique coverage scores of the sufficient conjunctions of conditions show, there are indeed exclusively performance-based sufficient conjunctions of conditions: SI*SE*SL in Kazakhstan and SE*SI as well as SE*SH in Tajikistan. These uniquely cover the ‘performance-driven trusters’. However, the unique coverage is very low, which shows that there are very few cases to which these conjunctions of conditions apply, i.e. they are theoretically interesting but empirically almost irrelevant. Furthermore, there are no ‘value-driven trusters’. This means that there are no individuals who base their high trust in national government (tg) exclusively on intrinsic support of authoritarian values. Instead, authoritarian values always occur in conjunction with instrumental aspects as well as the other dimension of political support.
+
+In line with our assumption, the results show that high trust in parliament (tp), support of strong leadership (L) and satisfaction with socio-economic and political performance interact. In Kyrgyzstan and Uzbekistan, the sufficient conjunctions of conditions that include all of these dimensions have high raw coverage (L*TP*SH*SV in Kyrgyzstan, SC*SH*SI*~L*TP and SI*SH*SU*~L*TP in Uzbekistan). In Kazakhstan and Tajikistan, the sufficient conjunctions of conditions that cover support of strong leadership (L) and satisfaction with socio-economic and political performance also have high raw coverage (L*SI*SL in Kazakhstan, L*SI*~SH and~L*SI*SH in Tajikistan). However, in Kazakhstan and Tajikistan, high trust in parliament (tp) has the greatest explanatory power by itself which does not corroborate our assumption regarding the profound interaction of the conditions.
+
+In order to substantiate these results and ensure that these conjunctions of conditions are not also sufficient for the non-occurrence of the outcome, we
+
+0002203979.INDD 204 10/29/2014 5:37:24 PM
+
+205 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+also carried out analyses of sufficiency for no trust in national government (not shown here). In Tajikistan, Kyrgyzstan and Kazakhstan, none of the conjunctions of conditions passed the sufficiency threshold of 0.9 and the pre threshold of .79, indicating that they are not sufficient for explaining no trust in national government. In Uzbekistan, the analysis of sufficiency showed that: ~TP*~SU*~ SH*~SC+~TP*~SI*~SU*~SH+~TP*~L*~SU*~SC are sufficient for no trust in national government. These results highlight that high trust in national government and no trust in national government are two qualitatively different states of mind that are not subject to the principle of symmetric causation. Furthermore, with the exception of Uzbekistan, no trust in national government appears to derive from factors other than those included in this analysis. This also underlines the need to account for asymmetric causation in future analyses of the causes of political trust (Schneider and Wagemann 2012, 81–83).
+
+Implications
+
+In our article, we set out to determine the conditions of high trust in national government in authoritarian regimes in Central Asia. In order to do so, we adapted Fuchs’ model of political support, which applies to democracies, to authoritarian regimes. First, the results contribute theoretically to the model of political support as developed by Fuchs as they show the need to revise the model when it is applied to authoritarian regimes. Second, the study clearly reflects the methodological need to allow for equifinality by taking countryspecific conditions into account and to distinguish between necessary and sufficient conditions. Third, the results of the analysis of necessity give important insights into the use of survey data in authoritarian regimes.
+
+As justified theoretically, the first thing that should be taken into account when studying the conditions of political support in authoritarian regimes is that political trust in the political authorities is the essential dimension that should be studied due to its relevance for the persistence of the authoritarian regime in a given country: In authoritarian regimes the values as well as the institutions of the regime are associated with the political authorities.
+
+In general, the chosen conditions explain high trust in national government well in Kazakhstan and Tajikistan. The degree to which political values, institutional trust, socio-economic and political performance explain high political trust in government is considerably lower in Kyrgyzstan and Uzbekistan. Methodologically, this finding highlights the need for a context-sensitive choice of conditions of high trust in national government. With regard to the model of political support in general, this leads us to conclude that there may
+
+0002203979.INDD 205 10/29/2014 5:37:24 PM
+
+206 Breustedt and Stark
+
+300854
+
+be other conditions in Central Asian authoritarian regimes that explain high trust in national government to a greater extent beyond the conditions suggested by the theoretical model.
+
+As for the assumptions regarding the manner in which political values, trust in institutions, socio-economic and political performance affect high trust in national government, the results of the analysis provide a mixed picture. Generally, they support our assumption that these conditions interact. This is particularly evident in Kyrgyzstan and Uzbekistan. In Kazakhstan and Tajikistan, political values and satisfaction with socio-economic and political performance are also important but comparatively less so than institutional trust.
+
+Beyond these model-specific assumptions regarding the sufficient conditions, the fact that each country exhibits its own specific conjunctions of conditions underlines the usefulness of the application of the principle of equifinality. This takes into account both within- and between-country variations in the conditions of high trust in national government but allows for a test of a general theoretical model all the same.
+
+The analysis of the necessary conditions yielded findings that are pertinent both from a substantial and a methodological perspective. High satisfaction with the current scope of the right to vote, the absence of the conviction that the government is dealing well with unemployment and the belief that there is widespread corruption among those who govern is common among the respondents in the Central Asian countries. All four countries exhibit high rates of corruption, which the public clearly perceives and judges negatively. Even though all four countries have similar unemployment rates, Kazakhstan is the wealthiest in resources among the four, which may account for the fact that dissatisfaction with unemployment is not as omnipresent in Kazakhstan as in the other three countries which are comparatively poorer. As for satisfaction with the scope of the right to vote, Kazakhstan and Kyrgyzstan provide these rights to the greatest extent compared to Uzbekistan and Tajikistan which is again reflected in the survey responses. Methodologically, it is important to note that the survey respondents stated their opinion regarding the socio-economic and political performance of their regimes very openly. This is indicated by the overall negative assessment of the treatment of corruption and unemployment. This provides greater confidence in the survey responses in these authoritarian regimes.
+
+As for the generalizability of the results, it is possible to “formulate propositions that we can then apply, with appropriate caution, to other similar cases – that is, cases that share a reasonable number of characteristics with those that were the subject of the qca” (Berg-Schlosser et al. 2009, 12). Since socio- economic and political performance, authoritarian values and trust in
+
+0002203979.INDD 206 10/29/2014 5:37:25 PM
+
+207 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+parliament are included in the conjunctions of conditions in all countries, our assumption that the people do not discern clearly between national government and parliament as well as political values is generally sustained. Therefore, the results suggest that our model outlines the conditions whose interactions should be taken into account when performing analyses of high political trust in multiparty authoritarian regimes in future research.
+
+Appendix A: Conditions and Calibration Rules
+
+Concept Quest. Set Abbr. Resp. Cat.
+
+Fuzzy set M.ship score
+
+Linguistic qualifiers
+
+Outcome
+
+Q27a High political trust in central government.
+
+tg 1 1 Trust a lot 2 0.66 Trust to a degree 3 0.33 Don’t really trust 4 0 Don’t trust at all Conditions Political support
+
+Q27f High political trust in parliament.
+
+tp 1 1 Trust a lot 2 0.66 Trust to a degree 3 0.33 Don’t really trust 4 0 Don’t trust at all Q34a Having a government by a powerful leader without the restriction of parliament or elections is good.
+
+L 1 1 Very good 2 0.55 Fairly good 3 0 Bad
+
+Political performance
+
+Q31b There is widespread corruption among those who govern the country.
+
+C 1 1 Strongly agree 2 0.75 Agree 3 0.55 Neither agree nor disagree 4 0.25 Disagree 5 0 Strongly disagree
+
+0002203979.INDD 207 10/29/2014 5:37:25 PM
+
+208 Breustedt and Stark
+
+300854
+
+Concept Quest. Set Abbr. Resp. Cat.
+
+Fuzzy set M.ship score
+
+Linguistic qualifiers
+
+Q31g Government officials pay little attention to what citizens like me think.
+
+A 1 1 Strongly agree 2 0.75 Agree 3 0.55 Neither agree nor disagree 4 0.25 Disagree 5 0 Strongly disagree Q35a Very satisfied with the current scope of the right to vote.
+
+sv 1 1 Very satisfied 2 0.66 Somewhat satisfied 3 0.33 Somewhat dissatisfied 4 0 Very dissatisfied Q35d Very satisfied with current scope of the right to be informed about the work and functions of government.
+
+si 1 1 Very satisfied 2 0.66 Somewhat satisfied 3 0.33 Somewhat dissatisfied 4 0 Very dissatisfied Q28c The government is dealing well with human rights.
+
+sr 1 1 Very well 2 0.66 Fairly well 3 0.33 Not so well 4 0 Not well at all Socio-economic performance
+
+Q6d Very satisfied with the standard of living.
+
+sl 1 1 Very satisfied 2 0.75 Somewhat satisfied 3 0.55 Neither satisfied nor dissatisfied 4 0.25 Somewhat dissatisfied 5 0 Very dissatisfied
+
+Appendix A (cont.)
+
+0002203979.INDD 208 10/29/2014 5:37:25 PM
+
+209 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Concept Quest. Set Abbr. Resp. Cat.
+
+Fuzzy set M.ship score
+
+Linguistic qualifiers
+
+Q6e Very satisfied with household income.
+
+sh 1 1 Very satisfied 2 0.75 Somewhat satisfied 3 0.55 Neither satisfied nor dissatisfied 4 0.25 Somewhat dissatisfied 5 0 Very dissatisfied Q28e The government is dealing with crime very well.
+
+sc 1 1 Very well 2 0.66 Fairly well 3 0.33 Not so well 4 0 Not well at all Q28a The government is dealing with the economy very well.
+
+se 1 1 Very well 2 0.66 Fairly well 3 0.33 Not so well 4 0 Not well at all Q28d The government is dealing with unemployment very well.
+
+su 1 1 Very well 2 0.66 Fairly well 3 0.33 Not so well 4 0 Not well at all
+
+Appendix B: Analysis of Necessity
+
+B.1: Kazakhstan
+
+Condition Consistency Coverage
+
+tp 0.813079 0.922853 ~tp 0.578464 0.751763 L 0.479302 0.763759 ~L 0.657449 0.642687 sv 0.916302 0.765672
+
+Source: own calibration based on Asia Barometer 2005
+
+Appendix A (cont.)
+
+0002203979.INDD 209 10/29/2014 5:37:25 PM
+
+210 Breustedt and Stark
+
+300854
+
+Condition Consistency Coverage
+
+~sv 0.391285 0.862247 si 0.749072 0.835296 ~si 0.589673 0.782318 C 0.908082 0.691978 ~C 0.322112 0.952354 A 0.880400 0.700996 ~A 0.362336 0.918238 sr 0.635063 0.928860 ~sr 0.706250 0.730484 se 0.825458 0.885257 ~se 0.563031 0.784082 su 0.496522 0.916572 ~su 0.812462 0.732734 sc 0.440671 0.966990 ~sc 0.857916 0.718035 sl 0.802714 0.790592 ~sl 0.475176 0.748082 sh 0.757130 0.804523 ~sh 0.534796 0.753836
+
+Condition Consistency Coverage
+
+tp 0.772623 0.842796 ~tp 0.621846 0.586843 L 0.597387 0.642617 ~L 0.608431 0.581247 sv 0.907304 0.640317 ~sv 0.357627 0.639277 si 0.762160 0.697565 ~si 0.579412 0.655603 C 0.899836 0.564884 ~C 0.317205 0.827289 A 0.879402 0.564657 ~A 0.357895 0.854216
+
+B.2: Kyrgyzstan
+
+Appendix B (cont.)
+
+0002203979.INDD 210 10/29/2014 5:37:25 PM
+
+211 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Condition Consistency Coverage
+
+sr 0.617240 0.881313 ~sr 0.738372 0.578652 se 0.563940 0.907012 ~se 0.781030 0.576564 su 0.267214 0.895683 ~su 0.917901 0.547005 sc 0.357180 0.872815 ~sc 0.852439 0.543940 sl 0.799005 0.656466 ~sl 0.490295 0.645760 sh 0.742307 0.693877 ~sh 0.556071 0.613366
+
+Condition Consistency Coverage
+
+tp 0.768202 0.867634 ~tp 0.541993 0.752059 L 0.538036 0.749271 ~L 0.622801 0.701354 sv 0.807733 0.812273 ~sv 0.501880 0.820511 C 0.882257 0.696539 ~C 0.306823 0.903886 A 0.851182 0.716441 ~A 0.380144 0.909420 sr 0.627767 0.891914 ~sr 0.710942 0.787978 se 0.590331 0.942346 ~se 0.751093 0.766712 sc 0.571089 0.913440 ~sc 0.761180 0.776024 sl 0.766495 0.787015 ~sl 0.499901 0.790795
+
+B.3: Tajikistan
+
+Appendix B (cont.)
+
+0002203979.INDD 211 10/29/2014 5:37:25 PM
+
+212 Breustedt and Stark
+
+300854
+
+Condition Consistency Coverage
+
+si 0.602085 0.890930 ~si 0.722541 0.776689 su 0.290607 0.933923 ~su 0.920197 0.710627 sh 0.690225 0.825615 ~sh 0.604258 0.784685
+
+B.4: Uzbekistan
+
+Condition Consistency Coverage
+
+tp 0.796990 0.857247 ~tp 0.661999 0.535053 L 0.312031 0.608743 ~L 0.848739 0.513024 sv 0.898278 0.662456 ~sv 0.520502 0.641814 si 0.603866 0.781210 ~si 0.804417 0.577065 C 0.894165 0.549660 ~C 0.468323 0.866932 A 0.860034 0.533613 ~A 0.473909 0.853510 sr 0.581705 0.893962 ~sr 0.838180 0.552794 se 0.640330 0.879956 ~se 0.828358 0.575535 su 0.340330 0.922923 ~su 0.939653 0.522548 sc 0.656720 0.771138 ~sc 0.794411 0.603958 sl 0.842109 0.683848 ~sl 0.580538 0.620538 sh 0.747757 0.681074 ~sh 0.662736 0.619925
+
+Appendix B (cont.)
+
+0002203979.INDD 212 10/29/2014 5:37:25 PM
+
+213 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+28 The following truth tables might give the impression that we used csQCA since the conditions are only represented in terms of ‘0’ (not present) and ‘1’ (present). However, this is not the case. Each individual has partial membership in all rows but is assigned to a single truth table row where he has a set membership of > 0.5, as reflected by the column ‘number of individuals’. The set membership score in the conjunctions of conditions is derived from the individuals’ fuzzy set membership in the sets described by the individual conditions. The consistency and coverage values of the conjunctions of conditions are also based on fuzzy set membership scores. For a detailed outline of the procedure, see Ragin (2008, Chapter 7) and Schneider and Wagemann (2012, Chapters 4 and 5).
+
+Appendix C: Truth Tables28
+
+C.1: Kazakhstan
+
+Row Conditions Outcome Number of individuals
+
+Consistency pre
+
+tp L si se sl tg
+
+1 1 1 1 1 1 1 78 0.979464 0.952760 2 1 0 1 1 1 1 50 0.985451 0.954857 3 1 1 0 1 1 1 42 0.967684 0.905339 4 0 0 1 1 1 1 28 0.969413 0.853813 5 0 1 0 1 1 1 24 0.955220 0.796246 6 0 0 0 0 0 0 22 0.850061 0.258314 7 0 0 0 0 1 0 22 0.890967 0.404693 8 1 0 0 1 1 1 19 0.976856 0.903121 9 0 1 1 1 1 1 18 0.965579 0.845638 10 0 0 1 0 1 0 15 0.945466 0.664123 11 1 1 1 0 1 1 15 0.968583 0.886741 12 0 0 1 0 0 0 14 0.910163 0.504420 13 1 0 0 0 1 1 14 0.987413 0.928260 14 1 1 0 0 1 1 14 0.984750 0.933523 15 1 1 1 1 0 1 13 0.976318 0.917289 16 1 0 1 0 1 1 11 0.985928 0.925027 17 0 1 0 0 1 0 10 0.942332 0.602441 18 1 0 1 0 0 1 10 0.975050 0.851182 19 0 1 0 0 0 0 9 0.897946 0.342447 20 1 1 0 1 0 1 9 0.977087 0.891510 21 0 0 0 1 1 0 8 0.954100 0.719709 22 0 1 1 0 1 1 8 0.971858 0.828359
+
+0002203979.INDD 213 10/29/2014 5:37:25 PM
+
+214 Breustedt and Stark
+
+300854
+
+Row Conditions Outcome Number of individuals
+
+Consistency pre
+
+tp L si se sl tg
+
+23 0 1 1 1 0 0 8 0.951613 0.722749 24 1 0 1 1 0 1 8 0.978420 0.900000 25 0 1 1 0 0 0 7 0.948125 0.676018 26 0 0 0 1 0 0 6 0.937869 0.604576 27 0 1 0 1 0 0 6 0.947718 0.660168 28 1 0 0 1 0 1 6 0.985255 0.915645 29 1 1 1 0 0 1 6 0.978015 0.897716 30 1 1 0 0 0 1 4 0.970714 0.820195 31 0 0 1 1 0 0 2 0.952006 0.695524 32 1 0 0 0 0 1 2 0.980801 0.852731
+
+C.2: Kyrgyzstan
+
+Row Conditions Outcome Number of individuals
+
+Consistency pre
+
+L sh tp si sv tg
+
+1 1 1 1 0 1 1 39 0.942996 0.808241 2 1 1 1 1 1 1 67 0.939141 0.839896 3 0 1 1 0 0 0 3 0.935093 0.601828 4 0 1 1 1 1 1 31 0.931888 0.804707 5 0 1 1 0 1 0 12 0.9263 0.6917 6 1 0 1 1 1 0 21 0.918549 0.726751 7 1 1 1 1 0 0 2 0.914573 0.610374 8 1 0 1 0 1 0 16 0.913406 0.64154 9 1 0 1 0 0 0 2 0.91219 0.530928 10 1 1 1 0 0 0 5 0.907526 0.57647 11 0 0 1 1 1 0 8 0.906578 0.652897 12 0 0 1 0 1 0 6 0.902893 0.561498 13 0 0 1 0 0 0 3 0.895954 0.460674 14 1 1 0 0 1 0 17 0.855836 0.46746 15 0 1 0 0 1 0 10 0.854481 0.390068 16 1 1 0 1 1 0 52 0.849473 0.55946 17 0 1 0 1 0 0 2 0.836132 0.384802
+
+Appendix C (cont.)
+
+0002203979.INDD 214 10/29/2014 5:37:26 PM
+
+215 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Row Conditions Outcome Number of individuals
+
+Consistency pre
+
+L sh tp si sv tg
+
+18 0 1 0 1 1 0 24 0.835867 0.467185 19 1 0 0 0 1 0 10 0.83193 0.372409 20 1 1 0 1 0 0 9 0.818954 0.371527 21 1 0 0 1 1 0 25 0.814674 0.416548 22 0 1 0 0 0 0 8 0.807599 0.285122 23 1 1 0 0 0 0 10 0.800098 0.308475 24 0 0 0 1 1 0 16 0.794332 0.352107 25 0 0 0 0 1 0 12 0.792533 0.272588 26 0 0 0 1 0 0 3 0.749033 0.22921 27 1 0 0 1 0 0 7 0.747564 0.22012 28 1 0 0 0 0 0 6 0.746256 0.198214 29 0 0 0 0 0 0 16 0.710994 0.208956
+
+30-32 Logical remainders 0
+
+C.3: Tajikistan
+
+Row Conditions Outcome Number of individuals
+
+Consistency pre
+
+tp L si se sh tg
+
+1 1 0 1 1 1 1 12 0.998074 0.991859 2 1 0 0 1 1 1 14 0.992681 0.971584 3 0 1 0 1 1 1 8 0.993590 0.944840 4 1 1 1 1 1 1 35 0.983393 0.943864 5 1 0 1 1 0 1 5 0.987769 0.939560 6 0 0 1 1 1 1 1 0.993200 0.936210 7 1 0 0 1 0 1 9 0.982085 0.931226 8 0 1 1 1 1 1 10 0.989816 0.929205 9 1 1 1 1 0 1 5 0.983010 0.915310 10 1 0 0 0 1 1 12 0.978785 0.909540 11 1 1 0 0 1 1 36 0.977347 0.904403 12 1 0 1 0 1 1 10 0.977355 0.902203 13 0 1 1 1 0 1 3 0.985647 0.900685
+
+Appendix C (cont.)
+
+0002203979.INDD 215 10/29/2014 5:37:26 PM
+
+216 Breustedt and Stark
+
+300854
+
+Row Conditions Outcome Number of individuals
+
+Consistency pre
+
+tp L si se sh tg
+
+14 1 0 1 0 0 1 4 0.979411 0.896552 15 0 0 1 1 0 1 1 0.985655 0.891981 16 1 1 0 1 1 1 17 0.976993 0.882517 17 1 1 1 0 1 1 30 0.970885 0.879631 18 1 1 0 1 0 1 7 0.976618 0.874158 19 0 0 0 1 1 1 6 0.976475 0.841270 20 0 0 1 0 1 1 10 0.975244 0.841010 21 1 1 1 0 0 1 6 0.968831 0.836799 22 1 1 0 0 0 1 17 0.963590 0.835901 23 0 1 0 1 0 1 4 0.976855 0.833606 24 1 0 0 0 0 1 21 0.950293 0.831792 25 0 1 1 0 0 1 12 0.970699 0.827161 26 0 0 0 1 0 0 2 0.958021 0.755459 27 0 0 1 0 0 0 3 0.954361 0.728796 28 0 0 0 0 1 0 18 0.934140 0.702415 29 0 1 1 0 1 0 20 0.949027 0.702382 30 0 1 0 0 1 0 27 0.939960 0.658122 31 0 1 0 0 0 0 12 0.932408 0.612567 32 0 0 0 0 0 0 37 0.837200 0.480155
+
+C.4: Uzbekistan
+
+Row Conditions Outcome Number of
+
+individuals
+
+Consistency pre
+
+tp L si su sc sh tg
+
+1 1 1 1 1 1 0 1 1 1.000.000 1.000.000 2 1 1 0 1 1 1 1 1 1.000.000 1.000.000 3 1 1 1 1 1 1 1 5 1.000.000 1.000.000 4 1 0 1 1 1 0 1 1 0.982312 0.853535 5 1 0 1 1 1 1 1 3 0.974595 0.840909 6 1 0 1 0 1 1 1 13 0.965793 0.811089 7 1 0 1 1 0 1 1 1 0.981706 0.800677 8 1 1 0 1 1 0 1 2 0.974419 0.797546
+
+Appendix C (cont.)
+
+0002203979.INDD 216 10/29/2014 5:37:26 PM
+
+217 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Row Conditions Outcome Number of
+
+individuals
+
+Consistency pre
+
+tp L si su sc sh tg
+
+9 1 1 0 0 1 1 0 7 0.955674 0.760766 10 1 1 1 0 1 0 0 2 0.969438 0.750000 11 1 0 0 0 1 1 0 19 0.948702 0.737342 12 1 1 1 0 0 1 0 6 0.953074 0.721448 13 1 0 1 0 1 0 0 3 0.962904 0.711628 14 0 1 0 1 1 1 0 1 0.950783 0.690141 15 1 0 1 0 0 1 0 10 0.950923 0.675339 16 1 1 1 0 1 1 0 2 0.950254 0.671642 17 1 0 1 0 0 0 0 6 0.953084 0.664179 18 1 1 0 0 1 0 0 1 0.958457 0.644068 19 1 1 0 0 0 1 0 13 0.923765 0.612022 20 0 1 0 1 0 1 0 1 0.946860 0.571429 21 1 0 0 0 1 0 0 4 0.942738 0.570895 22 1 1 0 0 0 0 0 4 0.934035 0.567639 23 1 0 0 0 0 0 0 13 0.924259 0.562945 24 1 0 0 0 0 1 0 23 0.906971 0.560945 25 1 1 1 0 0 0 0 7 0.916667 0.497076 26 0 1 1 0 1 1 0 2 0.913649 0.421642 27 0 0 0 1 1 1 0 3 0.942074 0.418182 28 0 0 1 0 1 1 0 7 0.922006 0.348609 29 0 1 1 0 1 0 0 2 0.903280 0.340909 30 0 0 1 0 1 0 0 2 0.913471 0.276316 31 0 1 0 0 1 1 0 15 0.801932 0.272852 32 0 1 0 0 0 1 0 18 0.817402 0.255930 33 0 0 0 0 1 1 0 20 0.845005 0.247713 34 0 1 1 0 0 1 0 9 0.848420 0.212861 35 0 0 0 0 1 0 0 10 0.837791 0.193966 36 0 0 1 0 0 0 0 8 0.871275 0.185557 37 0 1 0 0 1 0 0 6 0.827545 0.180266 38 0 0 0 0 0 1 0 34 0.784494 0.162551 39 0 0 0 0 0 0 0 36 0.732458 0.162433 40 0 0 1 0 0 1 0 13 0.875122 0.157550 41 0 1 0 0 0 0 0 16 0.741506 0.142723 42 0 1 1 0 0 0 0 3 0.844573 0.030641
+
+43–64 Logical remainders 0
+
+Appendix C (cont.)
+
+0002203979.INDD 217 10/29/2014 5:37:26 PM
+
+218 Breustedt and Stark
+
+300854
+
+References
+
+Almond, Gabriel A. 1980. “The Intellectual History of the Civic Culture Concept.” In The
+
+Civic Culture Revisited, edited by Gabriel A. Almond and Sidney Verba, 1–36. Boston: Little, Brown and Company. Almond, Gabriel A., and Sidney Verba. 1963. The Civic Culture: Political Attitudes and
+
+Democracy in Five Nations. Princeton: Princeton University Press. Anderson, Christopher J., André Blais, Shaun Bowler, Todd Donovan, and Olaf Listhaug.
+
+2005. Losers’ Consent: Elections and Democratic Legitimacy. Oxford: Oxford University Press. Berg-Schlosser, Dirk and Gisèle de Meur. 2009. “Comparative Research Design. Case
+
+and Variable Selection.” In Configurational Comparative Methods: Qualitative Comparative Analysis (qca) and Related Techniques, edited by Benoît Rihoux and Charles C. Ragin, 19–32. London: Sage Publications. Berg-Schlosser, Dirk, Gisèle de Meur, Benoît Rihoux, and Charles C. Ragin. 2009.
+
+“Qualitative Comparative Analysis (qca) as an Approach.” In Configurational Com­ parative Methods: Qualitative Comparative Analysis (qca) and Related Techniques, edited by Benoît Rihoux and Charles C. Ragin, 1–18. London: Sage Publications. Catterberg, Gabriela, and Alejandro Moreno. 2005. “The Individual Bases of Political
+
+Trust: Trends in New and Established Democracies.” International Journal of Public Opinion Research 18(1):31–48. doi: 10.1093/ijpor/edh081. Chu, Yun-Han, and Min-Hua Huang. 2007. “A Synthetic Analysis of Sources of
+
+Democratic Legitimacy.” Asian Barometer Working Paper Series 41. Accessed March 31, 2011. http://www.asianbarometer.org/newenglish/publications/workingpapers/ no.41.pdf. Citrin, Jack. 1974. “Comment: The Political Relevance of Trust in Government.” The
+
+American Political Science Review 68(3):973–88. Citrin, Jack, and Samantha Luks. 2001. “Political Trust Revisited: Déjà Vu All Over
+
+Again?” In What is it About Government that Americans Dislike?, edited by John R. Hibbing and Elizabeth Theiss-Morse, 9–27. Cambridge: Cambridge University Press. Coppedge, Michael, John Gerring, David Altman, Michael Bernhard, Steven Fish, Allen
+
+Hicken, Matthew Kroenig et al. 2011. “Conceptualizing and Measuring Democracy: A New Approach.” Perspectives on Politics 9(2):247–67. doi: 10.1017/S1537592711000 880. Dadabaev, Timur. 2005. “Central Asia Reconsidered: Old Problems, New Paradigms.”
+
+Annals of the Japan Association for Middle Eastern Studies 20(2):375–85. Dahl, Robert A. 1971. Polyarchy: Participation and Opposition. New Haven: Yale
+
+University Press.
+
+0002203979.INDD 218 10/29/2014 5:37:27 PM
+
+219 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Dalton, Russell J. 2004. Democratic Challenges, Democratic Choices: The Erosion of
+
+Political Support in Advanced Industrial Democracies. Oxford: Oxford University Press. Dalton, Russell J. and Doh Chull Shin. 2003. “Democratic Aspirations and Democratic
+
+Ideals: Citizen Orientations toward Democracy in East Asia.” Accessed March 31, 2011. http://www.worldvaluessurvey.org/wvs/articles/folder_published/publication_500. Diamond, Larry. 1993. Political Culture and Democracy in Developing Countries: Textbook
+
+Edition. Boulder, co: Lynne Rienner Publishers. Dononbaev, Alim, and Asel Naskeeva. 2004. “Political Culture and Modernization in
+
+the Central Asian States.” Accessed March 31, 2011. http://www.ca-c.org/ journal/2004-01-eng/01.donprimen.shtml. Easton, David. 1965. A Systems Analysis of Political Life. New York: John Wiley & Sons
+
+Inc. ——. 1975. “A Re-Assessment of the Concept of Political Support.” British Journal of
+
+Political Science 5(4):435–57. Freedom House. 2012. “Country Ratings and Status.” Last modified 2012. http://www
+
+.freedomhouse.org/sites/default/files/FIW%20All%20Scores%2C%20 Countries%2C%201973-2012%20%28FINAL%29.xls. Fuchs, Dieter. 1989. Die Unterstützung des politischen Systems der Bundesrepublik
+
+Deutschland. Opladen: Westdeutscher Verlag. ——. 1999. “The Democratic Culture of Unified Germany.” In Critical Citizens: Global
+
+Support for Democratic Government, edited by Pippa Norris, 123–45. Oxford: Oxford University Press. ——. 2002. “Das Konzept der politischen Kultur: Die Fortsetzung einer Kontroverse in
+
+konstruktiver Absicht.” In Bürger und Demokratie in Ost und West: Studien zur politischen Kultur und zum politischen Prozess, edited by Dieter Fuchs, Edeltraud Roller, and Bernhard Wessels, 27–49. Wiesbaden: Westdeutscher Verlag. ——. 2007. “The Political Culture Paradigm.” In The Oxford Handbook of Political
+
+Behavior, edited by Russell J. Dalton and Hans-Dieter Klingemann, 161–84. New York: Oxford University Press. Geddes, Barbara. 1999. “What Do We Know About Democratization After Twenty
+
+Years.” Annual Review of Political Science 2:115–44. Grotz, Florian, and Ferdinand Müller-Rommel. 2011. “Die Regierungssysteme der mit tel- und osteuropäischen eu-Staaten als Gegenstand der Vergleichenden Demokratieforschung.” In Regierungssysteme in Mittel- und Osteuropa: Die neuen eu-Staaten im Vergleich, edited by Florian Grotz and Ferdinand Müller-Rommel, 11–24. Wiesbaden: Verlag für Sozialwissenschaften. Hadenius, Axel, and Jan Teorell. 2006. “Authoritarian Regimes: Stability, Change, and
+
+Pathways to Democracy, 1972–2003.” Kellogg Institute Working Paper Series 331.
+
+0002203979.INDD 219 10/29/2014 5:37:27 PM
+
+220 Breustedt and Stark
+
+300854
+
+Accessed March 31, 2011. http://kellogg.nd.edu/publications/workingpapers/WPS/331 .pdf. Haerpfer, Christian W. 2008. “Support for Democracy and Autocracy in Russia and the
+
+Commonwealth of Independent States, 1992–2002.” International Political Science Review 29(4):411–31. doi: 10.1177/0192512108095721. Inglehart, Ronald F., and Christian Welzel. 2005. Modernization, Cultural Change and
+
+Democracy: The Human Development Sequence. Cambridge, uk; New York: Cambridge University Press. Inoguchi, Takashi, ed. 2008. Human Beliefs and Values in Incredible Asia: South and
+
+Central Asia in Focus: Country Profiles and Thematic Analyses Based on the AsiaBarometer Survey of 2005. Shohan. Tokyo: Akashi Shoten. Inoguchi, Takashi, et al. 2005. “AsiaBarometer Survey Data 2005. AsiaBarometer
+
+Project.” Accessed March 21, 2009. https://www.asiabarometer.org/data/abdl.php. Inoguchi, Takashi, and Jean Blondel. 2008. Citizens and the State: Attitudes in Western
+
+Europe and East and Southeast Asia. London: Routledge. Inoguchi, Takashi, and Seiji Fujii. 2008. “The AsiaBarometer. Its Aim, Its Scope and Its
+
+Development.” In Barometers of Quality of Life Around the Globe: How are We Doing?, edited by Valerie Møller, Denis Huschka, and Alex C. Michalos, 187–232. Heidelberg: Springer. Kaase, Max, and Kenneth Newton. 1995. Beliefs in Government. Oxford: Oxford
+
+University Press. Klingemann, Hans-Dieter, and Dieter Fuchs. 1995. Citizens and the State. Oxford:
+
+Oxford University Press. Kotzian, Peter. 2011. “Conditional Trust: The Role of Individual and System-Level
+
+Features for Trust and Confidence in Institutions.” Zeitschrift für Vergleichende Politikwissenschaft 5(1):25–49. doi: 10.1007/s12286-011-0094-1. Linz, Juan J. 2000. Totalitarian and Authoritarian Regimes. Boulder, co: Lynne Rienner
+
+Publishers. Lipset, Seymour M. 1959. “Some Social Requisites of Democracy: Economic
+
+Development and Political Legitimacy.” The American Political Science Review 53(1):69–105. Luhmann, Niklas. 1970. Soziologie als Theorie sozialer Systeme. Soziologische Aufklärung.
+
+Aufsätze zur Theorie sozialer Systeme. Band 1. Opladen: Westdeutscher Verlag. ——. 1984. Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt a.M.:
+
+Suhrkamp. Mackie, John L. 1965. “Causes and Conditions.” American Philosophical Quarterly
+
+2(4):245–64. Marshall, Monty G., Keith Jaggers, and Robert T. Gurr. “The Polity IV Project: Political
+
+Regime Characteristics and Transitions, 1800–2010.” Accessed March 31, 2011. http:// www.systemicpeace.org/polity/polity4.htm.
+
+0002203979.INDD 220 10/29/2014 5:37:27 PM
+
+221 Values, Performance and Support in Authoritarian Regimes
+
+300854
+
+Mazaheri, Mehrdad, and Peter Theuns. 2009. “Effects of Varying Response Formats on
+
+Self-ratings of Life-Satisfaction.” Social Indicators Research 90(3):381–95. doi: 10.1007/ s11205-008-9263-2. Miller, Arthur H. 1974a. “Political Issues and Trust in Government: 1964–1970.” The
+
+American Political Science Review 68(3):951–72. ——. 1974b. “Rejoinder to “Comment” by Jack Citrin: Political Discontent or Ritualism.”
+
+The American Political Science Review 68(3):989–1001. Mishler, William, and Richard Rose. 2001. “What Are the Origins of Political Trust?
+
+Testing Institutional and Cultural Theories in Post-Communist Societies.” Comparative Political Studies 34(1):30–62. doi: 10.1177/0010414001034001002. Norris, Pippa. 1999. “Introduction: The Growth of Critical Citizens?” In Critical Citizens:
+
+Global Support for Democratic Government, edited by Pippa Norris, 1–27. Oxford: Oxford University Press. Norris, Pippa. 2011. Democratic Deficit. Critical Citizens Revisited. New York: Cambridge
+
+University Press. Nye, Joseph S., Philip D. Zelikow, and David C. King. 1997. Why People Don’t Trust
+
+Government. Cambridge, ma: Harvard University Press. Pappi, Franz U. 1986. “Politische Kultur. Forschungsparadigma, Fragestellungen,
+
+Untersuchungsmöglichkeiten.” In Politische Wissenschaft und politische Ordnung. Analysen zu Theorie und Empirie demokratischer Regierungsweise, edited by Max Kaase, 279–91. Wiesbaden: Westdeutscher Verlag. Parsons, Talcott. 1971. The System of Modern Societies. Englewood Cliffs, nj: Prentice-Hall. Pharr, Susan J., and Robert D. Putnam. 2000. Disaffected Democracies: What’s Troubling
+
+the Trilateral Countries? Princeton, nj: Princeton University Press. Pickel, Susanne, and Gert Pickel. 2006. Politische Kultur- und Demokratieforschung.
+
+Grundbegriffe, Theorien, Methoden: Eine Einführung. Wiesbaden: Verlag für Sozialwissenschaften. Polity IV. 2011. “Polity IV. Annual Time Series 1800–2011.” Accessed December 20, 2012.
+
+http://www.systemicpeace.org/inscr/p4v2011.sav. Ragin, Charles C. 1987. The Comparative Method: Moving Beyond Qualitative and
+
+Quantitative Strategies. Berkeley: University of California Press. ——. 2008. Redesigning Social Inquiry: Fuzzy Sets and Beyond. Chicago: University of
+
+Chicago Press. ——. 2009. “Qualitative Comparative Analysis Using Fuzzy Sets (fsQCA).” In Configurational
+
+Comparative Methods: Qualitative Comparative Analysis (qca) and Related Techniques, edited by Benoît Rihoux and Charles C. Ragin, 87–121. London: Sage Publications. Rihoux, Benoît, Charles C. Ragin, Sakura Yamasaki, and Damien Bol. 2009. “Conclusions
+
+– The Way(s) Ahead.” In Configurational Comparative Methods: Qualitative Comparative Analysis (qca) and Related Techniques, edited by Benoît Rihoux and Charles C. Ragin, 167–77. London: Sage Publications.
+
+0002203979.INDD 221 10/29/2014 5:37:27 PM
+
+222 Breustedt and Stark
+
+300854
+
+Rose, Richard, William Mishler, and Christian W. Haerpfer. 1998. Democracy and its
+
+Alternatives. Understanding Post-Communist Societies. Cambridge: Polity Press. Sartori, Giovanni. 1997. Demokratietheorie. Darmstadt: Wissenschaftliche Buchgesellschaft. Schneider, Carsten Q., and Claudius Wagemann. 2007. Qualitative Comparative Analysis
+
+(qca) und Fuzzy Sets. Ein Lehrbuch für Anwender und alle, die es werden wollen. Opladen: Verlag Barbara Budrich. ——. 2010. “Standards of Good Practice in Qualitative Comparative Analysis (qca) and
+
+Fuzzy-Sets.” Comparative Sociology 9(3):397–418. doi: 10.1163/156913210X124935387 29793. ——. 2012. Set-Theoretic Methods for the Social Sciences. A Guide to Qualitative
+
+Comparative Analysis. Cambridge: Cambridge University Press. Verba, Sidney. 1965. “Conclusion. Comparative Political Culture.” In Political Culture
+
+and Political Development, edited by Lucian W. Pye and Sidney Verba, 512–60. Princeton, nj: Princeton University Press. Wagemann, Claudius, and Carsten Q. Schneider. 2010. “Qualitative Comparative
+
+Analysis (qca) and Fuzzy-Sets. Agenda for a Research Approach and a Data Analysis Technique.” Comparative Sociology 9(3):376–96. doi: 10.1163/156913210X124 93538729838. Welzel, Christian, and Ronald F. Inglehart. 1999. “Analyzing Democratic Change and
+
+Stability: A Human Development Theory of Democracy.” Discussion Paper fs III 99–202. Wissenschaftszentrum Berlin für Sozialforschung (wzb). Accessed March 31, 2011. http://edoc.vifapol.de/opus/volltexte/2009/1972/pdf/iii99_202.pdf. ——. 2009. “Political Culture, Mass Beliefs, and Value Change.” In Democratization,
+
+edited by Christian W. Haerpfer, Patrick Bernhagen, Ronald F. Inglehart, and Christian Welzel, 126–144. Oxford: Oxford University Press. Westle, Bettina. 1989. Politische Legitimität – Theorien, Konzepte, empirische Befunde.
+
+Baden-Baden: Nomos. Wong, Timothy Ka-ying, Po-san Wan, and Hsin-Huang Michael Hsiao. 2011. “The Bases
+
+of Political Trust in Six Asian Societies: Institutional and Cultural Explanations Compared.” International Political Science Review 32(3):263–81. doi: 10.1177/ 0192512110378657.
+
+0002203979.INDD 222 10/29/2014 5:37:27 PM View publication stats

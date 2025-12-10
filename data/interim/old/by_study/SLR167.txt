@@ -1,0 +1,507 @@
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557 205
+
+Identidade nacional e confiança nas instituições em contexto de crise no
+
+Brasil
+
+National identity and confidence in institutions in a crisis context in Brazil
+
+Marcus Eugênio Oliveira Lima1
+
+Patrícia da Silva2 Nayara Chagas Carvalho3 Ludmila Chagas Monteiro Farias4
+
+RESUMO: Com o objetivo de analisar a identidade nacional e a confiança nas instituições do Brasil no contexto da crise econômica e política realizamos uma pesquisa junto a uma amostra de 595 pessoas de 16 estados da federação. A identidade nacional é entendida como conteúdo e como processo; sendo construída no contexto das relações sociais e consubstanciada por valores, crenças e representações sociais. Os participantes responderam a um questionário online entre outubro de 2015 e março de 2016, suas idades variaram de 16 a 78 anos (M = 31.9, DP = 12.1 anos), 56.6% eram do sexo feminino. Os resultados indicaram um elevado nível de identificação com o Brasil: eles se sentem brasileiros, gostam muito de ser e sentem relativo orgulho desse pertencimento. Em relação ao conteúdo ou os significados da identidade nacional, observamos que se estruturam em três representações sociais ambivalentes, estando a mais consensual delas carregada de conotação política negativa e sendo objetivada, sobretudo, pela palavra “corrupção”. No que concerne ao nível de confiança nas instituições, verificamos que os participantes confiam apenas na instituição “Família” e desconfiam, principalmente, do poder executivo e dos partidos políticos. Observamos ainda que a identidade nacional se correlaciona positivamente com a confiança em todas as instituições políticas. Os resultados apontam para desafios à democracia representativa e para os efeitos dos processos de difusão, propagação e propaganda da mídia na construção das identidades e da confiança nas instituições nacionais.
+
+Palavras-chave: Brasil; representações sociais; identidade nacional; crise; confiança nas instituições. ABSTRACT: National identity and the confidence in the institutions of Brazil in the context of the economic and political crisis were analyzed in this study. National identity is understood as content and as process; being constructed in the context of social relations and embodied by values, beliefs and social representations. The data were collected with a sample of 595 people from 16 states of the federation. Participants answered a questionnaire online between October 2015 and March 2016, their ages ranged from 16 to 78 years (M = 31.9, SD = 12.1 years), 56.6% were female. The results indicated a high level of identification with Brazil: they feel Brazilian, like to be and feel relatively proud of their belonging. The contents or meanings of the national identity were structured in three ambivalent social representations, the strongest of them being loaded with negative political connotations and objectified, above all, by the word "corruption". Concerning the level of trust in the institutions, we find that the participants trust only in the "Family" and distrust, mainly, the executive power and the political parties. We also note that national identity correlates positively with trust in all political institutions. The results point to challenges to
+
+1 Doutor em Psicologia Social pelo ISCTE-PT - Departamento de Psicologia da Universidade Federal de Sergipe – São Cristóvão, SE, Brasil. E-mail: marcuseolima@gmail.com.
+
+2 Doutora em Psicologia pela UFBA - Departamento de Psicologia da Universidade Federal de Sergipe – São Cristóvão, SE, Brasil.
+
+3 Mestre em Psicologia Social da Universidade Federal de Sergipe – São Cristóvão, SE, Brasil.
+
+4 Mestre em Ciências da Saúde da Universidade Federal de Sergipe – Aracaju, SE, Brasil.
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 206
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+representative democracy and to the effects of media diffusion, propagation and propaganda processes in the construction of identities and trust in national institutions.
+
+Keywords: Brazil; social representations; national identity; crisis; trust in institutions.
+
+Introdução
+
+Eric Hobsbawm inicia seu livro “Nações e nacionalismo de 1780” contando a história de um observador intergaláctico que, depois de uma guerra nuclear, aterrissa num planeta morto para inquirir as causas da catástrofe. Esse observador consulta as bibliotecas e arquivos que foram preservados para em seguida concluir: “os últimos dois séculos da história humana do planeta Terra são incompreensíveis sem o entendimento do termo ‘nação’ e do vocabulário que dele deriva” (Hobsbawm, 2011, p. 11).
+
+Se tal observador houvesse descido da sua nave no Brasil e resolvesse fazer uma busca no Scielo - principal repositório de artigos nacionais de acesso aberto, encontraria apenas um texto sobre o tema “identidade nacional brasileira”. Um artigo de 2005, escrito por Joshua Enslen, professor da Universidade da Geórgia nos Estados Unidos, cujo tema são as visões da identidade brasileira de Manoel de Oliveira Lima, um diplomata que viveu no século XIX. Se o mesmo observador fosse mais fundo e procurasse no banco de Teses e Dissertações da Capes também não encontraria muitos trabalhos. Com efeito, numa pesquisa realizada em 2012, Marques e Domingues (2014) encontraram 492 trabalhos sobre o tema (133 teses e 359 dissertações). A grande maioria dos trabalhos se inseriu nas áreas de História (122), Letras (94), Comunicação (50), Educação (42) e Sociologia (32). A maior parte deles teve como corpus da análise da identidade nacional a literatura (119 trabalhos). Dos 492 trabalhos apenas 8 foram realizados em programas de pós-graduação em psicologia, e destes apenas um teve a identidade nacional como tema principal.
+
+Todavia, o tema da identidade nacional é muito importante para a existência dos países e para a vida das cidades. Com efeito, mais de cem milhões de pessoas morreram somente no século XX lutando em guerras por seus países (Hobsbawm, 2011). Ainda que possuir uma nacionalidade não seja um atributo inerente ao ser humano, na atualidade é impossível viver sem ela (Gellner, 2001).
+
+Embora importante, na modernidade a identidade nacional parece um conceito “fora de moda”, que remete aos temíveis e anacrônicos “Estados-Nação”; a tal ponto que se torna elegante para muitos, cidadãos comuns e cientistas sociais, menosprezá-la. Contudo, essa, assim como qualquer outra forma identitária, só emerge ou se torna uma questão em contextos de crise, quando algo se desloca e põe em xeque uma forma estabelecida, trazendo a experiência da dúvida ou da incerteza (Mercer, 1990).
+
+A emergência identitária é bem destacada por Mathews (2002, p. 48), quando afirma:
+
+Tenho estado em reuniões com jovens japoneses sofisticados e com americanos e pessoas de Hong Kong que afirmam a identidade nacional não significar nada ou coisa alguma para eles. Entretanto, quando a discussão se dirige para certos tópicos delicados – o comportamento dos japoneses na Segunda Guerra Mundial ou a alta taxa de divórcio e o esfacelamento das famílias americanas ou o chinesismo de jovens estudantes de Hong Kong que têm pouca relação com a China – os sentidos de identidade nacional desses jovens cosmopolitas podem surgir inequivocamente.
+
+Por vincular uma dimensão subjetiva, o sentimento de ligação, a uma dimensão objetiva, o pertencimento a uma comunidade política, a identidade nacional torna-se um tema-chave para as análises da psicologia social. Seguindo a leitura que Mattoso (1998) faz de
+
+Identidade nacional e confiança nas instituições 207
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Eric Erikson, identificamos três tarefas na análise desse objeto: 1) distingui-lo de outro objeto, 2) atribuir-lhe um significado e 3) conferir-lhe um valor. Essa chave interpretativa será utilizada para compreender a identidade nacional brasileira, concebida como representação e significado, valor atribuído e sentimentos associados.
+
+Neste artigo analisamos a identidade nacional brasileira expressa em um período específico: de outubro de 2015 a março de 2016. Trata-se de um período de intensa crise econômica, institucional, política e social no Brasil, que culminou, em abril de 2016, com a aprovação da admissibilidade do impedimento da Presidenta Dilma Rousseff pela Câmara dos Deputados. A perspectiva teórica adotada é a da psicologia social, especificamente aquela presente nas Teorias das Representações Sociais (Moscovici, 1978) e da Identidade Social (Tajfel, 1981).
+
+Identidade nacional: definições e campo
+
+A identidade nacional é um fenômeno complexo de difícil definição pois se refere a um sentimento difuso de ligação (relacional e processual) a uma entidade coletiva intangível: a Nação. É assim, como comunidades políticas imaginadas, limitadas e soberanas, que Anderson (1991) define as nações. Imaginada porque os membros da comunidade nação não conhecem e jamais conhecerão a maioria dos outros membros e jamais falarão com eles, por menor que seja a nação; ainda que, na mente de cada um, sobreviva uma ideia que os une, algo comum, a imagem de uma comunhão.
+
+A discussão conceitual da identidade nacional vincula-se necessariamente à análise dos conceitos de identidade, nação e dos correlatos nacionalismo e patriotismo. A identidade pode ser concebida em duas dimensões intercambiáveis: uma pessoal, vinculada às idiossincrasias e imagens de si; e outra social ou coletiva, vinculada ao pertencimento aos grupos ou categorias sociais (Mathews, 2002).
+
+Para Tajfel (1978) a identidade social de um indivíduo decorre do seu conhecimento ou consciência de pertencimento a um grupo ou grupos sociais juntamente com o significado emocional e de valor associado a esse pertencimento. Nessa perspectiva, o processo de identificação com um grupo gera consequências que se situam num continuum que vai desde o nível psicológico e interpessoal até o plano das relações intergrupais e das políticas e ideologias que dão enquadramento a essas relações.
+
+Tajfel e Turner (1979) destacam três dessas consequências da identificação social: 1) os indivíduos se esforçam por manter ou melhorar sua autoestima pessoal para manter a fim de valorizar seu autoconceito; 2) os grupos sociais aos quais pertencem estão associados a imagens coletivas positivas ou negativas, essas imagens têm impacto no sentimento de ligação ao grupo e 3) a avaliação do próprio grupo ou grupos de pertencimento é determinada nos processos de comparação social com outros grupos, de forma que comparações positivas (“meu grupo é superior ao outro em alguma dimensão comparativa relevante”) geram prestígio e reforçam a identidade social, ao passo que, comparações negativas geram baixo prestígio e podem ameaçar a identificação com o grupo.
+
+Deschamps e Moliner (2009) afirmam que a noção de representação é fundamental para o entendimento das identidades sociais, uma vez que tanto os grupos com os quais nos identificamos quanto as imagens que circulam sobre eles são construções sociais. É neste sentido que os autores propõem o conceito de representações identitárias, que incluem tanto
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 208
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+a representação de si mesmo quanto a representação dos grupos. Nessa perspectiva, mesmo os processos responsáveis pela elaboração das representações identitárias seriam modulados por outras representações, sejam representações coletivas, representações do social ou representações sociais.
+
+A identidade social é, portanto, uma descrição de si que se reporta a um pertencimento e as emoções a ele vinculadas. Essa seria a dimensão subjetiva do processo de identificação. Existe, entretanto, uma esfera objetiva da identidade, que consiste em ser identificado por outrem como pertencente a um grupo ou categoria social. De forma que, a identidade assenta em dois pilares, “se identificar” e “ser identificado”, e em duas possíveis modalidades de pertencimento, as “consentidas” e as “recebidas”5 (İnaç & Ünal, 2013). Nesses termos, a identidade nacional é uma forma de identidade coletiva ou social que se enquadra na modalidade “recebida”, uma vez que o indivíduo não escolhe o país onde vai nascer; e o cidadão, na maior parte dos casos, não define a nação com a qual se identificará.
+
+As identidades nacionais, assim como as outras formas de identificação, são híbridas e heterogêneas como propõem Stuart Hall e Paul Gilroy (Voicu, 2011), seus aspectos definidores fundamentais são: 1) um território histórico ou terra de origem, 2) mitos e memórias históricas comuns, 3) uma cultura de massa comum, 4) direitos e deveres comuns e 5) uma economia comum. Embora outras formas de identidade coletiva (classe, gênero, raça e religião) possam se sobrepor ou combinar com a identidade nacional, raramente elas conseguem minar sua força, ainda que possam influenciar sua direção (Smith, 1991). Dentre todas as identidades coletivas, a identidade nacional é uma das mais fundamentais e inclusivas (para uma revisão ver Moreno, 2014).
+
+A identidade nacional é, portanto, e ao mesmo tempo, um sentimento e um valor associados ao pertencimento a uma comunidade: a Nação. As nações são construções sociais que se baseiam nos vínculos de fidelidade, convicção e solidariedade (Gellner, 2001). Nessa definição, um conjunto de indivíduos que ocupam um mesmo território e falam uma mesma língua se tornam uma nação quando reconhecem mutuamente certos deveres e direitos decorrentes da sua qualidade comum de membro daquela categoria social: “É o reconhecimento do outro indivíduo como um de sua classe que os torna uma nação, e não os demais atributos comuns, sejam eles quais forem, que distinguem essa categoria dos nãomembros dela”6 (Gellner, 2001, p. 20).
+
+Segundo Michel Debrun (1990), a Nação surgiu no século XVI a partir do descompasso entre duas categorias de fenômenos: a complexidade crescente das sociedades ocidentais, seja em termos de geografia física, seja em termos humanos; e a unificação dessas sociedades em termos de infraestrutura, pela economia capitalista e pela divisão do trabalho: “A invenção da Nação — ou melhor, a transformação em Nação de um espaço político previamente circunscrito e fechado pelos acasos de uma história dinástica, militar, etc. — se dá sob o impulso inicial do Estado, para igualar os dois aspectos acima expostos” (Debrun, 1990, p. 42).
+
+As nações só podem definir-se nas eras de nacionalismo (Gellner, 2001). Ou seja, são os nacionalismos, entendidos essencialmente como forças que atuam para fundir cultura e estado, que produzem as nações. Outras análises, no entanto, distinguem o nacionalismo, que pode ser considerado uma patologia da modernidade, responsável pelo extermínio ou
+
+5 “granted” and “gained” no original
+
+6 Tradução nossa.
+
+Identidade nacional e confiança nas instituições 209
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+exclusão social de muitos grupos, do patriotismo. O patriotismo pode ser entendido como um sentimento com conotação positiva de amor à pátria. O pressuposto psicossocial subjacente a essa distinção é o de que o amor ao próprio grupo (nação nesse caso) não implica necessariamente o ódio ao grupo do outro (Brewer, 1999).
+
+Com efeito, numa perspectiva histórica, Sobral (2010) distingue os nacionalismos doutrinários, ligados ao autoritarismo e à afirmação da superioridade étnico-racial, dos nacionalismos etnocêntricos, que acompanham o processo de formação das nações e se assemelham à noção de patriotismo. García-García, Ramírez, Álvaro e Torres (2016), numa análise crítica da produção psicossocial sobre a identidade nacional, salientam que evitando as perspectivas que concebem o grupo como entidade atemporal, é possível diferenciar o nacionalismo de outros sentimentos ligados à solidariedade ao grupo.
+
+Viki e Calitri (2008) demonstram a dissociação entre patriotismo e nacionalismo em um estudo na Inglaterra, no qual observam que uma maior adesão a afirmações nacionalistas (e.g., “os ingleses estão sempre certos”, “é errado criticar o Reino Unido”, “pessoas que não apreciam e respeitam sinceramente sua cultura deveriam viver em outro lugar”, etc.) implica em mais preconceito contra os norte-americanos (“outros”); e que uma maior aceitação de afirmações patrióticas (e.g., “ser britânico é uma dimensão muito importante de quem eu sou”, “eu amo o Reino Unido”, “eu não tenho vergonha de ser britânico”, etc.) não implicou preconceito ou desvalorização dos “outros”.
+
+O patriotismo é, portanto, análogo aos que aqui chamamos identidade nacional positiva. Trata-se de um sentimento forjado e difundido pelo Estado a fim de unificar, uniformizar e regular as esferas da vida social, moldando estruturas mentais e impondo visões e formas de pensamento, as quais passam a circular e serem guiadas pela ideia centralizadora de “nação” (Horta, 2009).
+
+O Brasil e a identidade nacional
+
+A identidade nacional brasileira é múltipla, integra dimensões políticas e culturais. Estas nem sempre se conciliam e, quando o fazem, atuam mais pela cooptação do menos forte pelo mais forte do que pela tolerância (Debrun, 1990). Para este autor, nunca tivemos no Brasil uma identidade nacional forte, no que se refere à dimensão cívico-política. Na falta de identidade ou identificações sólidas floresceram pseudo-identidades, algumas artificiais, concedidas pelos grupos dominantes; outras mais “naturais”, fracas, por resultarem da acomodação dos atores às estruturas de dominação. Com efeito, Turner e Brown (1978) demonstram que a identidade social insegura (estrutura social percebida como ilegítima e/ou instável) muitas vezes produz efeitos de aumento da discriminação e dos conflitos intergrupais.
+
+Dante Moreira Leite distingue as ideologias sobre o caráter nacional brasileiro em três fases: a nativista, marcada pela valorização da natureza exuberante dos trópicos, frequente nas produções culturais do século XVIII; a romântica, na qual a ênfase eram os atributos positivos da brasilidade, encarnados na figura do índio, tomado como símbolo nacional; e a terceira fase, influenciada pelas ideias do racismo científico e pela miscigenação (Marques & Domingues, 2014).
+
+Roberto DaMatta, no livro “O que faz o brasil, Brasil?”, refere essa ambivalência de brasis, quando afirma existir um “brasil” com “b” minúsculo, que seria o Brasil fadado ao
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 210
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+fracasso: “um conjunto doentio e condenado de raças que, misturando-se ao sabor de uma natureza exuberante, estariam fadadas à degeneração e à morte biológica, psicológica e social” (DaMatta, 1986, pp. 7-8). Já o “Brasil” com “B” maiúsculo, seria, por um lado, país, cultura, local, fronteira e território reconhecidos e, por outro, casa, terra, lar, memória, consciência de “uma ligação especial, única, totalmente sagrada” (p. 8). Nessa lógica analítica a identidade nacional se constrói ambivalente; de forma objetiva, por meio de dados da economia, da política e da demografia do Brasil no mundo - dimensão pela qual somos uma coletividade que tem pouco do que se orgulhar e, de forma subjetiva, mediante imagens que contam sobre nossa comida, nossa música, a saudade que humaniza o tempo e sobre as perdas e os amigos (DaMatta, 1986).
+
+Cabecinhas, Lima e Chaves (2006), em um estudo sobre memória coletiva e identidade nacional portuguesa e brasileira, realizado em 2003, observam que os acontecimentos históricos mais lembrados nos dois países foram as duas grandes Guerras Mundiais, em seguida “O 11 de setembro”, “A revolução francesa”, “Os descobrimentos” e a “Revolução Industrial”. Embora haja pouca diferença na enunciação de acontecimentos importantes na história entre brasileiros e portugueses, as emoções associadas aos acontecimentos diferenciam os dois grupos. No Brasil todos os acontecimentos lembrados na história do país foram associados simultaneamente a emoções negativas e positivas. Exemplo disso foram “os descobrimentos”. Em Portugal os sentimentos despertados por este fato histórico foram orgulho, alegria, felicidade e fascínio; no Brasil a tonalidade emocional foi composta pela alegria, admiração, revolta e decepção. Ou seja, a ambivalência de sentimentos caracterizou nesse estudo a memória coletiva dos brasileiros definindo o tom da identificação com o país.
+
+Noutra perspectiva, Fiorin (2009) propõe a existência de dois eixos culturais ao redor dos quais orbitariam as identidades nacionais. O eixo das culturas reguladas pelo princípio da exclusão e o eixo das reguladas pelo princípio da participação. Culturas do primeiro tipo confrontariam o “puro” com o “impuro” e proporiam a separação ou exclusão. Já nas culturas do segundo tipo, o operador seria a mistura, o confronto se situaria entre iguais e desiguais, superiores e inferiores. A identidade nacional brasileira seria predominantemente marcada por essa forma cultural da mistura; em decorrência o brasileiro seria acolhedor, cordial, agradável e sempre capaz de dar um “jeitinho” para resolver seus problemas. Todavia, essa aparente cordialidade esconde o preconceito e a violência que perpassam as relações cotidianas no país, fazendo operar também a forma cultural da exclusão (Fiorin, 2009).
+
+Renato Ortiz, no livro “Cultura brasileira e identidade nacional”, propõe que a construção teórica e ideológica de uma identidade nacional brasileira remonta ao processo histórico de formação do Brasil. Tal formação segue vários caminhos, sempre ancorada na cultura popular; caminha desde Sílvio Romero e as noções de caráter nacional brasileiro ligado à mistura racial, passando por Gilberto Freyre e uma noção positiva da mestiçagem, para finalmente chegar ao Estado Novo e aos imperativos de se pensar a identidade na sua integração entre o nacional e o popular, a fim de concretizar uma “identidade autenticamente brasileira” (Ortiz, 2008). A relação entre o popular, o nacional e o Estado pode ser explicitada considerando o Estado como mecanismo que transcende e integra os elementos da realidade social, que delimita o quadro da formação da identidade nacional: “É através de uma relação política que se constitui assim a identidade; como construção de segunda ordem ela se estrutura no jogo da interação entre o nacional e o popular, tendo como suporte real a sociedade global como um todo.” (Ortiz, 2008, p. 139).
+
+Identidade nacional e confiança nas instituições 211
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Lima e Vaccarezza (2016) realizam uma pesquisa sobre representações sociais do Brasil e identidade nacional. Os autores observam que as palavras mais associadas ao termo indutor “Brasil” foram: “país”, “pátria”, “nação”, “pessoas precisando” e “miséria”, seguidos de “país bom para viver”. Uma análise estrutural indicou que a representação social do Brasil integra no seu núcleo central os termos: “miséria”, “lugar bom para se viver” e “futebol”. Na zona de contraste aparecem também associações ambivalentes: “nação adorada” e “falta de emprego”. O mesmo acontece com as periferias simbólicas, ou seja, as dimensões habitadas pelas respostas menos frequentes e menos importantes. Todavia, apesar da ambivalência na representação social do Brasil, 64% dos participantes se sentem satisfeitos em serem brasileiros.
+
+França (2016), entrevistando crianças pardas, brancas e pretas de 7 a 11 anos de idade, também encontra um elevado sentimento de identificação com Brasil: 97% das crianças se sentem medianamente ou muito brasileiras e 99% gostam medianamente ou muito de serem brasileiras. A autora verifica que cor da pele e idade não influenciaram a identidade nacional das crianças.
+
+As representações do Brasil e a identidade nacional dependem, contudo, da posição social e econômica dos grupos. Isso é o que foi demonstrado por Spadoni, Leite, Ferreira e Torres (2016), num estudo em que comparam resultados de pesquisa nas regiões Nordeste e Centro-Oeste. Os autores concluem que a posição socioeconômica foi um importante organizador das representações sociais sobre “ser brasileiro”. Na mesma direção Techio e Lima (2016), analisando a identidade nordestina, observaram uma bricolagem que integra, a visão do “resiliente” “do sertanejo forte”, à semelhança da imagem construída na obra “Os sertões” de Euclides da Cunha, com a visão do Nordeste frágil, seco, pobre e vítima do descaso dos políticos.
+
+Assim, a identidade nacional, enquanto sentimento de ligação a um território, uma história e uma cultura, depende das crenças e atitudes vinculadas às instituições que configuram esse espaço como uma Nação. Nesse sentido, a confiança nas instituições pode ser considerada como uma dimensão informacional e cognitiva das atitudes que estruturam a identidade nacional.
+
+A confiança nas instituições
+
+Uma pesquisa do Datafolha realizada entre os dias 09 e 13 de junho de 2015 entrevistou 2125 brasileiros de todas as regiões e de níveis de escolaridade variados: fundamental (38%), médio (34%) e superior (20%). Essa pesquisa indagou sobre confiança nas instituições e verificou que 73% dos brasileiros confiam nas forças armadas; 61% confiam na Igreja católica; 55% confiam no poder judiciário; 54% confiam na imprensa; 54% confiam nos sindicatos de trabalhadores; 45% confiam na polícia; 19% confiam na Presidência da República e nos seus Ministérios; 15% confiam no Congresso Nacional e 7% confiam nos Partidos Políticos7.
+
+No mesmo ano e quase nas mesmas datas (12 a 16 de junho de 2015) a Pesquisa CNT/MDA entrevistou 2002 brasileiros novamente em todas as regiões do país. 44,3% apresentam alguma confiança no Congresso Nacional (confia sempre, confia na maioria das vezes, confia poucas vezes), 79,6% confiam nas Forças Armadas; 42,5% apresentam alguma
+
+7http://datafolha.folha.uol.com.br/
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 212
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+confiança no Governo; 87,1% na Igreja 76,9% na Imprensa; 74,1% na Justiça; 25,4% nos Partidos Políticos e 75,4% na Polícia8.
+
+Na Europa, num estudo feito em 1999 com amostra representativa de 14 países, no qual se pediu aos cidadãos que indicassem se confiavam ou não em 17 instituições políticas e civis, observou-se que a confiança no parlamento variou de 26% na Bélgica a 62% na Holanda (Magalhães, 2003). O autor conclui que a confiança ou desconfiança em relação às instituições políticas é uma atitude culturalmente difusa, e em larga medida sem relação com as posições sociais e as experiências de socialização de longo prazo dos indivíduos; sendo, pois, passível de alteração em curtos espaços de tempo. Outra conclusão do estudo foi que não existe uma correspondência alta entre nível de escolarização e confiança nas instituições sociais e políticas. Para Magalhães (2003), a desconfiança para com as instituições políticas pode contribuir para minar a democracia representativa.
+
+Na mesma direção, Dahl (2004) propõe uma classificação dos países democráticos em três grupos: as democracias antigas, as novas e as recentes. As antigas democracias são os países cujas instituições políticas democráticas (i.e., representantes eleitos, eleições livres e justas, liberdade de expressão, fontes alternativas de informação, liberdade de associação e direitos eleitorais para todos) existiram de forma ininterrupta desde 1950. As novas democracias seriam aquelas em que essas instituições existem desde 1980. Finalmente, as democracias recentes, e este é o caso do Brasil e de mais 36 países na classificação proposta por Dahl, as instituições democráticas estão presentes somente a partir de 1981. O risco das democracias mais consolidadas degenerarem para formas autoritárias de governo é praticamente zero. Silva e Ribeiro (2016), desenvolvendo essa análise, afirmam que a literatura da área atesta que a confiança nas instituições é mais forte e duradoura nas democracias antigas e nas novas que nas recentes. A explicação seria a interiorização por parte do cidadão de uma cultura cívica.
+
+Como vimos, um dos elementos propostos por Robert Dahl para a existência da democracia são as fontes alternativas de informação. Esse elemento seria garantido, numa democracia ideal, pela existência de três princípios: participação efetiva, o entendimento ilustrado e o controle da agenda. A participação se refere, por um lado, às oportunidades iguais de todos os cidadãos de comunicação dos seus pontos de vista e de suas opiniões sobre os rumos da política; por outro, significa que todo cidadão terá igual e efetiva oportunidade para escolher dentre as alternativas políticas existentes. O entendimento ilustrado diz respeito à necessidade de criar para cada cidadão oportunidades efetivas para que ele possa aprender sobre as políticas alternativas relevantes e sobre suas consequências. Finalmente, o controle da agenda é a chance de decidir como e quais assuntos ou pautas serão postos na agenda da sua coletividade (Dahl, 2004).
+
+Os processos de produção e de propagação das informações são, portanto, centrais na consolidação das democracias, de forma mais imediata, e no estabelecimento da confiança nas suas instituições, de forma mais mediata. A mídia é o principal agente na produção e propagação da informação e por isso interfere de forma decisiva na construção das representações sociais sobre o país, a política e os políticos. Moscovici (1972) afirma que a linguagem é um sistema cultural e social ligado de forma inextrincável a diferentes sistemas
+
+8http://cms.cnt.org.br/Imagens%20CNT/PDFs%20CNT/Pesquisa%20CNT%20MDA/Integra%20CNTMDA%20Fevereiro%2020 17.pdf
+
+Identidade nacional e confiança nas instituições 213
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+culturais e sociais. A psicologia social teria o quadro analítico mais apropriado para tornar explícita e analisar de forma rigorosa a função e comunicação da linguagem.
+
+No estudo pioneiro sobre as representações sociais da psicanálise Moscovici (1978), analisando três tipos de publicações: os jornais de grande circulação, a imprensa da Igreja Católica e a imprensa comunista, propôs a existência de três processos de comunicação: a difusão, a propagação e a propaganda. A difusão ocorre quando a informação é retransmitida, ou seja, as mídias comunicam da mesma forma que recebem, reproduzindo conteúdos de outras fontes. Na propagação as informações são transformadas e sua transmissão é “contaminada” pelos valores e visão de mundo de um grupo. Nela há um esforço em acomodar as informações que serão veiculadas ao quadro de pensamento do grupo. A propaganda, enquanto forma de comunicação se insere nas relações de conflito entre duas ou mais posições, entendidas numa lógica de contraste entre “o verdadeiro” ou aquilo que se quer promover, e “o falso” ou aquilo que se requer desacreditar (Doise, 2011).
+
+Consideramos que nos meses de coleta de dados desta pesquisa, entre outubro de 2015 e março de 2016, a mídia nacional veiculou, através dos processos de difusão, propagação e propaganda, informações que exerceram papel central na construção de representações sociais e na definição das atitudes em relação às instituições políticas e sociais. Assim, com base nesses pressupostos, interessa-nos analisar a identidade nacional e a confiança nas instituições do Brasil no contexto da crise econômica e política. Entendemos a identidade como uma forma de representação identitária que é modulada por várias outras representações e definida no âmbito dos processos citados de veiculação das informações.
+
+Método
+
+A pesquisa adotou uma estratégia on-line de coleta de dados. Para tal, hospedamos um instrumento eletrônico no google e divulgamos o link via e-mail e redes virtuais solicitando colaboração. A justificativa para o uso dessa estratégia de coleta foi a necessidade de alcançar na nossa amostra cidadãos de vários estados do Brasil. O questionário permaneceu acessível no período de outubro de 2015 a março de 2016.
+
+Participantes
+
+Participaram 595 cidadãos residentes em 16 estados da federação. As idades variaram de 16 a 78 anos (M = 31.9, DP = 12.1 anos). A maior parte era do sexo feminino (56.6%). Em relação à renda familiar a amostra se distribuiu quase uniformemente: até 1,9 salários mínimos (12.1%), entre 2 e 3 (18.5%), de 3,1 a 5 (23.2%), de 5,1 a 10 (28%) e com mais de 10 salários mínimos (18.2%). No que se refere à escolarização a maior parte da amostra possuía nível superior (57%), havendo apenas 1.5% sem o segundo grau completo. No que tange à cor da pele, usando a autoclassificação do IBGE, 45.5% se declaram pardos, 34.5% brancos e 15.8% pretos; outros 4.2% não se definiram nestes termos. Finalmente, em relação aos posicionamentos no espectro político Esquerda-Direita, observamos que 30.1% não se posiciona, dentre os que se posicionaram 31.6% se colocou à Esquerda, 30.3% no Centro e 7.2% à Direita. Outros 0.8% (cinco participantes) não responderam a essa pergunta.
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 214
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Procedimentos, análise dos dados e princípios éticos
+
+Para analisar a identidade nacional fizemos quatro perguntas, três fechadas e uma aberta. As fechadas foram: Você se sente Brasileir@? Em caso afirmativo, você gosta de ser Brasileir@? e Você sente orgulho de ser Brasileir@? A escala para responder às três questões variou de 1 (nada) a 4 (muito). Em seguida, perguntamos “Para você ser brasileir@ é ...?” As três primeiras variáveis foram analisadas utilizando o SPSS. Para a questão aberta utilizamos o software ALCESTE. Em relação à confiança nas instituições, apresentamos uma lista constando 11 instituições sociais e políticas e perguntamos sobre o grau de confiança em cada uma delas, utilizando uma escala de sete intervalos (1 = desconfio totalmente a 7 = confio totalmente). Esses dados foram analisados através do SPSS. Todos os princípios éticos na pesquisa com seres humanos foram seguidos, conforme estabelecidos na Resolução CNE nº 510/2016.
+
+Resultados e discussão
+
+Na análise da identidade nacional consideramos, seguindo Tajfel (1981), três dimensões (consciência de pertencimento, sentimento e orgulho). A maioria dos participantes se sente brasileiros (72.9%), gostam muito de pertencer (56%) e sentem orgulho mediano em serem brasileiros (38%). Apenas 1.8% não se sentem brasileiros, 4.4% não gostam de ser e 8.7% não sentem orgulho algum. Quando testamos, através de um teste t de Student, se as médias obtidas nessas variáveis estavam acima do ponto médio da escala (2.5), observamos que sim para as três dimensões: consciência de pertencimento [M = 3.64, DP = 0.68; t(594)= 40.93, p = .001], avaliação do pertencimento [M = 3.38, DP = 0.83; t(588)= 25.60, p = .001] e orgulho [M = 3.07, DP = 0.93; t(593)= 14.84, p = .001].
+
+Como vimos, a identidade nacional dos participantes foi positiva mesmo no contexto de intensa crise que o Brasil estava vivendo na época da pesquisa. Resultado semelhante a este foi encontrado em crianças (França, 2016) e em brasileiros adultos (Lima & Vaccarezza, 2016). Podemos indagar, entretanto, com que Brasil ou brasis as pessoas estão se identificando e que ancoragens ou inserções sociais interferem nesses significados identitários. Para responder a estas questões analisamos através do ALCESTE as respostas dadas à pergunta “Para você ser brasileir@ é ...?” Consideramos como variáveis estruturantes dessa representação: o sexo dos participantes, a renda familiar, a escolaridade, a cor da pele, o posicionamento no espectro político Esquerda-Direita e as três dimensões da identidade nacional (consciência de pertencimento, sentimento e orgulho).
+
+O corpus analisado foi composto por 538 Unidades de Contexto Iniciais (UCIs), que se referem às respostas dos participantes à questão formulada. O vocabulário do grupo pesquisado para expressão do significado ser brasileiro foi composto por 7021 palavras analisáveis (indicadoras de sentidos), sendo 1716 delas distintas. A análise dividiu-se em 588 Unidades de Contexto Elementares (UCEs), que são os segmentos de texto extraídos pelo ALCESTE a partir das UCIs. Esses segmentos são retidos na Classificação Hierárquica Descendente (CHD), a qual visa estabelecer as classes dos segmentos do texto (UCEs) que, simultaneamente, apresentam vocabulário semelhante entre si e diferente do vocabulário ou léxico das outras classes, utilizando para tanto testes Qui-Quadrado (Camargo, 2005). No corpus analisado a CHD correspondeu a 96.6% do vocabulário empregado.
+
+Encontramos três representações sociais da identidade nacional ou três classes léxicas. A Classe 1, composta por 70 UCEs e responsável por 17% do léxico, configura-se como uma
+
+Identidade nacional e confiança nas instituições 215
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+representação do tipo “sou brasileiro e não desisto nunca!”. O ser brasileiro é entendido como aquele que enfrenta as adversidades com um sorriso no rosto. As palavras mais emblemáticas da classe são: “enfrenta(r)”, “adversidade”, “rosto” e “sorriso”. Denominamos essa representação do ser brasileiro como “ser resiliente”. Essa representação identitária foi mais frequente nos participantes com identidade nacional muito positiva (que se sentem muito brasileiros e gostam muito de ser) e cuja renda familiar foi mais elevada. Ausências significativas (valores do Coeficiente de Contingência, Phi ≤ - 0.16) nesta classe são os termos: “Brasil”, “País”, e “Cultura”. Os dois segmentos de texto mais representativos dessa classe foram:
+
+• (feliz), (amigo), perseverante, (lutador), (guerreiro), trabalhador, inteligente, (solidário), (hospitaleiro), (forte), tolerante e às (vezes) passivo. • (ser) (capaz) de (enfrentar) e (superar) as (adversidades) com um (sorriso) no (rosto).
+
+A Classe 2 foi a mais representativa do léxico dos brasileiros na atribuição de significados ao pertencimento ao país, ela integrou 222 UCEs e foi responsável por 48% dos termos empregados. O ser brasileiro é representado numa bricolagem do sentimento de vergonha com as avaliações da dimensão política, dos direitos e deveres, vinculando o sistema de poder à corrupção. As palavras mais usadas nessa representação social foram: “política”, “direitos”, “país” e “deveres”. Denominamos essa representação de “ser envergonhado”. Essa representação identitária se ancorou na falta de orgulho em ser brasileiro, no posicionamento de Centro no espectro político Esquerda-Direita e na cor da pele preta. Ausências significativas nessa representação (Phi ≤ - 0.16) foram os termos: “Brasil”, “nasc(er)(ido)”, “Cultura” e os participantes que se posicionaram à Esquerda no espectro político. Os dois segmentos de texto mais representativos da classe foram:
+
+• vivenciar (o) caos cotidiano (onde) (a) grande (maioria) (é) (corrupta), travando (o) (desenvolvimento) (do) (país) (que) (poderia), (sem) essas práticas insanas, ser (um) (dos) (melhores) (países) (do) mundo. • ser (roubado) (todos) (os) (dias), seja (por) (políticos) ou (nas) ruas, (é) (viver) (de) (corrupção), (é) (ver) (tudo) errado (e) (não) (poder) (mudar) (nada) sozinho.
+
+Finalmente, a terceira representação do ser brasileiro (Classe 3) foi composta por 169 UCEs e respondeu por 37% do léxico utilizado, sendo a segunda mais representativa. Trata-se de uma representação identitária que reproduz o conceito de nação. Nela aparecem os elementos definidores território, cultura, nascer, Brasil e pátria. Com efeito, as palavras mais empregadas nessa representação foram: “Brasil”, “nascer”, “nascido”, “cultura” e “terra”. Denominamos essa representação de “ser nacional”. As variáveis de ancoragem social que estruturaram essa representação foram o posicionamento de Esquerda, a cor da pele parda e a escolaridade de terceiro grau incompleto. Nesse léxico representacional ficaram ausentes as palavras (Phi ≤ - 0.14): “ser”, “alegre” e “política”. Os dois segmentos de texto mais representativos da classe 2 foram:
+
+• (ter) (nascido) (no) (Brasil), (ter) (uma) (identificação) e (sentimento) de (pertença) com esta (nação), além de (compartilhar) impressões éticas, (culturais) e religiosas com o restante da comunidade que povoa o (território). • (acima de) tudo (ter) (nascido) em (terras) (brasileiras), cujo (território) é (diverso) e bonito por natureza, convivendo com várias (culturas), com a miscigenação, sem guerra, sem muitos cataclismos.
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 216
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Figura 1 - Classificação Hierárquica Descendente dos significados de ser brasileiro.
+
+A representação mais consensual encontrada apresenta um brasileiro envergonhado do seu país, da Política, dos políticos, do governo, do lugar. Trata-se de uma representação que retoma a história do Brasil, numa época anterior aos projetos modernistas, na qual a tristeza por um lado e as supostas consequências deletérias da miscigenação, por outro, criariam uma imagem pessimista do futuro do Brasil (Ortiz, 2013). Todavia, esse resgate do pessimismo na identidade nacional deve-se, na nossa interpretação, ao contexto de crise sistêmica e de escândalos de corrupção que tomaram de forma muito intensa as páginas e telas da mídia nacional desde 2015. Trata-se de uma representação identitária do Brasil que é mais comum nos participantes politicamente de Centro, que não sentem orgulho do Brasil e que afirmam ter a pele preta.
+
+Identidade nacional e confiança nas instituições 217
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Os participantes de Esquerda, juntamente com os de cor parda e de terceiro grau incompleto construíram uma representação identitária do Brasil amparada nos sentimentos de amar, valorizar, pertencer e compartilhar. Também aparecem, pela primeira vez, os termos “diverso” e “diferente” para referir um país plural, integrado por diversidades. O objeto desses afetos seriam o Brasil, a língua, a terra ou o território, a cultura e os costumes. Merece destaque o fato de que palavras “alegre” e “política” foram ausências significativas nessa representação. Ou seja, trata-se de uma identidade nacional da terra e pátria amada, da cultura compartilhada, mas que exclui a visão idílica do “brasileiro alegre” e ao mesmo tempo silencia sobre a política ou os políticos, talvez pelo contexto de escândalos e denúncias que envolveram todo o sistema político do Brasil no período, inclusive o Partido dos Trabalhadores (PT), principal partido de Esquerda. Ortiz (2013) afirma que a imagem da diversidade é uma forma de representação da identidade nacional à qual se associam valores como tolerância, democracia e pluralismo. Trata-se, para este autor, de uma representação do Brasil que será estrategicamente recuperada pelos movimentos sociais, a exemplo de minorias étnicas que se apropriam dessa noção para lutar por políticas públicas voltadas para a preservação de seus idiomas e costumes.
+
+A terceira representação identitária que predomina é a do ser brasileiro como “um forte”, um resiliente, alguém que, apesar de tudo, continua, não desiste e mantém sua forma alegre de ser. Essa forma representacional integra elementos clássicos da definição do “caráter nacional brasileiro”. Um deles aparece na obra os “Sertões” de Euclides da Cunha, quando ele afirma que “O sertanejo é antes de tudo um forte”. Para Bresser-Pereira (comunicação pessoal de 14 de novembro de 2000, p. 3) a imagem do sertanejo é também uma projeção do brasileiro em Euclides da Cunha, pois no final da obra o autor acrescenta: “Os sertanejos invertiam toda a psicologia da guerra: enrijavam-nos os revezes, robustecia-os a fome, empedernia-os a derrota. Ademais entalhava-se o cerne de uma nacionalidade. Atacava-se a fundo a rocha viva da nossa raça”. O outro elemento identitário é a alegria, que aparece em Dante Moreira Leite (1968), para superar as ideologias do pessimismo e em Macunaíma, nosso herói sem caráter de Mário de Andrade.
+
+Darcy Ribeiro, procurando entender a ontogênese dessa alegria e simultaneamente problematizando sua existência, afirma:
+
+Não seria esta alegria — além da mestiçagem alvoroçada, da espantosa uniformidade cultural e do brutal desgarramento classista — uma das características distintivas dos brasileiros? (...) De onde nos vem esta alegria pagã que não vi em tantos povos exitosos e bem nutridos, pelo mundo afora? (...) Seria ela a compensação dialética que o povo se dá da vida azarosa, famélica e triste que lhe impõem? A vingança do sofredor que, em dias excepcionais, rindo, pilheriando, renega a fome, a dor e o medo do seu cotidiano? (Ribeiro, 1997, p. xviii-xix citado em Filho, 2015, p. 403).
+
+Os resultados da identificação com o Brasil refletem os impactos da crise, tendo a Política sido associada com corrupção na principal representação formada. Cabe então indagar sobre os impactos da crise na confiança nas instituições sociais e políticas. Em uma democracia representativa e em processo de consolidação, como é a brasileira, a confiança nas instituições é elemento fundamental para proteger o país dos apelos e riscos do autoritarismo (Dahl, 2004). Contudo, nossos resultados mostram que a única instituição em que os brasileiros confiam é a família. Somente ela foi avaliada com escore superior ao ponto médio da escala. Os participantes desconfiam de todas as outras instituições, sobretudo, dos partidos políticos e do poder executivo, as quais possuem médias próximas da resposta “desconfio totalmente”. Nem a Igreja, nem o Judiciário foram percebidos como instituições
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 218
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+dignas de confiança pelos participantes. Estes resultados vão na mesma direção dos encontrados nas pesquisas do Datafolha e da CNT/MDA com amostras nacionais (ver Tabela 1).
+
+Tabela 1 - Médias, Desvios Padrões e testes t contra o ponto médio (4) da confiança em instituições do Brasil 9
+
+Instituição Média Desvio Padrão Teste contra o ponto médio (4)
+
+Família 5.86 1.40 t(589)= 32.42, p < .001
+
+Poder Judicial (Juízes) 3.65 1.65 t(590)= -5.08, p < .001
+
+Forças armadas 3.20 1.82 t(590)= -10.59, p < .001
+
+Polícia 3.01 1.59 t(591)= -15.04, p < .001
+
+Poder Legislativo ( 2.87 1.53 t(587)= -17.77, p < .001
+
+Igreja 2.69 1.53 t(586)= -20.68, p < .001
+
+Governo Federal 2.42 1.56 t(589)= -24.58, p < .001
+
+Governo Estadual 2,22 1.48 t(587)= -29.19, p < .001
+
+Governo Municipal 2.15 1.42 t(587)= -31.42, p < .001
+
+Poder Executivo 1.73 1.06 t(590)= -52.03, p < .001
+
+Partidos Políticos 1.66 1.09 t(586)= -52.09, p < .001
+
+Avaliamos também as relações entre as três dimensões da identidade nacional e a confiança nas instituições. A identidade se apresenta totalmente relacionada com a confiança nas instituições. Dentre as onze instituições pesquisadas somente a confiança na polícia não apresenta correlações positivas com os indicadores de identidade nacional. Quanto maior a confiança nas instituições políticas (Partidos; Governos federal, estadual e municipal; poderes executivo e legislativo) maiores a consciência, o sentimento e o orgulho em ser brasileiro. Da mesma forma, quanto maior a confiança na Família, na Igreja e nas Forças Armadas, maior a identidade nacional. A confiança no judiciário não se correlacionou positivamente apenas com o sentimento de ser brasileiro (ver Tabela 2).
+
+A fim de testarmos qual das instituições tem maior peso na definição da identidade nacional, construímos um indicador de identidade nacional a partir da média do somatório das três dimensões. Em seguida procedemos a uma análise de Regressão Linear tomando o indicador de identidade nacional como variável dependente e a confiança nas onze instituições como variáveis explicativas. Os resultados mostram que quatro variáveis constituem o melhor modelo preditivo, R2Ajustado = .16, F(4, 559) = 26.85, p < .001. A identidade nacional foi explicada numa relação positiva pela confiança no Governo Federal, (β = .33, SE = .02, t = 8.39, p < .001), na Família (β = .19, SE = .02, t = 4.58, p < .001) e nas Forças Armadas (β = .15, SE = .02, t = 3.55, p < .001). A confiança na Polícia indicou menor identidade nacional (β = -.08, SE = .02, t = -1.99, p < .046).
+
+Por outro lado, o posicionamento político no espectro Esquerda-Direita se relacionou com a confiança nas instituições de forma muito específica. Observa-se que quanto maior o posicionamento à Direita no espectro mais confiança na Família, na Polícia, no Poder Judiciário e nas Forças Armadas. Por outro lado, os que mais se posicionam à Esquerda apresentam
+
+9 A escala variava de 1 (desconfio totalmente) a 7 (confio totalmente).
+
+Identidade nacional e confiança nas instituições 219
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+maior confiança no sistema político: Partidos, Governo Federal e Estadual e também na Igreja. Cabe referir que na época do estudo o Governo Federal do Brasil era exercido por político de Esquerda (vinculado ao Partido dos Trabalhadores) e que os dois Estados da federação que mais contribuíram para amostra deste estudo (Sergipe e Bahia) na época possuíam governadores de Esquerda (Jackson Barreto e Jaques Wagner, respectivamente). A relação entre as posições de direita com as forças da conservação e manutenção da ordem (forças armadas, polícia, família e juízes) é referida em outros estudos (Dahl, 2004; Magalhães, 2003; Silva & Ribeiro, 2016).
+
+Tabela 2 - Matriz de correlações bivariadas entre a confiança nas instituições, as três dimensões da identidade nacional e o posicionamento político (n =595)
+
+Instituição Se sente
+
+brasileiro1
+
+Gosta de ser
+
+brasileiro1
+
+Sente orgulho em
+
+ser1
+
+Posição no espectro
+
+Esquerda-Direita2
+
+Família .19*** .15*** .10** .20***
+
+Polícia -04 .01 .05 .26***
+
+Partidos Políticos .12** .10** .18*** -.14***
+
+Governo Federal .20*** .27*** .33*** -.25***
+
+Governo Estadual .20*** .22*** .29*** -.15***
+
+Governo Municipal .10** .11** .15*** .02
+
+Poder Executivo .11** .12** .20*** -.04
+
+Poder Legislativo .10** .09* .15*** .08
+
+Poder Judiciário .09* .07 .11** .27***
+
+Forças armadas .17*** .17*** .14*** .24***
+
+Igreja .13** .16*** .19*** -.18***
+
+1 variava de 1 (pouco) a 4 (muito). 2 variava de 1 (Extrema-Esquerda) a 10 (Extrema-Direita). A confiança nas instituições variava de 1 (desconfio totalmente) a 7 (confio totalmente) Nota: * p < .05; ** p < .01; *** p < .001
+
+Considerações finais
+
+Nesse artigo analisamos a identidade nacional e a confiança nas instituições do Brasil no contexto da crise econômica e política. Os principais resultados indicam o impacto da crise nas representações identitárias do Brasil e, sobretudo, na confiança nas instituições. Os brasileiros desconfiam totalmente dos Partidos Políticos e do Governo Federal e não confiam nas demais instituições políticas, sociais e jurídicas.
+
+Não obstante gostarem de ser brasileiros e se sentirem ligados ao país, a maioria dos pesquisados possui uma representação negativa do Brasil, associando-o à corrupção e ao sentimento de vergonha. Talvez estejamos vivendo um cenário de intensa desconstrução das imagens mais idílicas do Brasil. Wachelke e Camargo (2007) afirmam que as transformações nas representações sociais podem ocorrer por mudanças na relação do grupo com o objeto, nas relações intergrupais ou em mudanças nos contextos sociais. De fato, vivemos no Brasil de hoje uma intensa mudança nos contextos sociais e mesmo nas relações intergrupais.
+
+Na medida em que decaem a confiança nas instituições e a identidade nacional, enquanto consciência de pertencimento e sentimento de ligação ao país, crescem os
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 220
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+sentimentos de anomia (normless) e de privação relativa. Vários estudos demostram que sujeitos desligados da estrutura social, insatisfeitos e anômicos são os mais susceptíveis a comportamentos disruptivos; seja de protesto político, seja de vandalismo e criminalidade ou ainda de rejeição às minorias sociais (Hövermann, Groß, Zick, & Messner, 2015; McDill, 1961; Srole, 1956).
+
+Podemos afirmar que os processos de difusão, de propagação e de propaganda empreendidos pela mídia foram efetivos: governo federal e partidos políticos foram percebidos como os menos confiáveis e as RS do ser brasileiro foram predominantemente negativas. Todavia, algumas limitações precisam ser destacadas neste estudo. A principal delas se refere à forma de coleta dos dados, que se baseou num questionário online. Embora essa estratégia tenha permitido um bom alcance da pesquisa, tendo a amostra sido composta por participantes de 16 Estados, ela apresenta alguns riscos amostrais como uma das suas principais desvantagens (Gonçalves, 2008). Com efeito, nossa amostra ficou muito concentrada na Região Nordeste do Brasil e, sobretudo, em dois Estados: Bahia e Sergipe.
+
+Em pesquisas futuras vamos ampliar a amostra a fim de englobar mais participantes de outros Estados. Nossa intenção é realizar estudos longitudinais comparativos das representações da identidade nacional e da confiança nas instituições. Essa estratégia pode nos permitir captar os estágios evolutivos da representação, focando suas emergência, estabilidade e transformação.
+
+Acreditamos que o estudo apresentado contribui para a constituição de quadro de análise das relações entre representações e identidades sociais, utilizando as lentes de duas das mais importantes teorias da psicologia social (TRS e TIS) na compreensão de fenômenos sócio-políticos como a crise e a confiança nas instituições. Como referido ao longo deste texto, a dimensão psicossocial desses fenômenos é fundamental na definição das suas consequências e impactos para a sociedade.
+
+Referências
+
+Anderson, B. (1991). Imagined communities. Londres: Verso.
+
+Bresser-Pereira, L. C. (14 de novembro de 2000). Identidade e auto-estima do brasileiro. Manuscrito
+
+apresentado no Simpósio Freud: Conflito e Cultura Brasil: Psicanálise e Modernismo. Recuperado dehttp://www.bresserpereira.org.br/papers/2000/63IdentidadAutoEstimaBras.pdf
+
+Brewer, M. B. (1999). Psychology of Prejudice: Ingroup Love or Outgroup hate? Journal of Social Issues, 55, 429 444.
+
+Cabecinhas, R., Lima, M. E. O. & Chaves, A. M. (2006). Identidades nacionais e memória social: hegemonia e
+
+polêmica nas representações sociais da história. In Miranda, J. & João, M. I. (Eds.). Identidades Nacionais em Debate (pp. 67-92.). Oeiras: Celta.
+
+Camargo, B. V. (2005). ALCESTE: Um programa informático de análise quantitativa de dados textuais. In A.S.P.
+
+Moreira, B.V. Camargo, J.C. Jesuíno e S.M. da Nóbrega (Orgs.). Perspectivas teórico-metodológicas em representações sociais (pp. 511-539). João Pessoa: Editora Universitária - UFPb.
+
+Dahl, R. A. (2004). Os sistemas políticos democráticos nos países avançados: êxitos e desafios. Disponível em
+
+http://biblioteca.clacso.edu.ar/ar/libros/hegemo/pt/Dahl.rtf. Acessado em 14 de maio de 2017
+
+DaMatta, R. (1986). O que faz o brasil, Brasil? Rio de Janeiro: Rocco.
+
+Debrun, M. (1990). Identidade Nacional Brasileira. Estudos Avançados, 4(8), 39-49.
+
+Deschamps, J.-C. & Moliner, P. (2009). A Identidade em Psicologia Social. Petrópolis: Vozes.
+
+Identidade nacional e confiança nas instituições 221
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Doise, W. (2011). Sistema e metassistema. In A.M. de O. Almeida, M. de F. de S. Santos e Z.A. Trindade (Orgs.).
+
+Teoria das representações sociais: 50 anos (pp. 123-158). Brasília: Techonopolitik.
+
+Filho, J. F. (2015). Era uma vez o “país da alegria”: mídia, estados de ânimo e identidade nacional. Intexto, 34,
+
+401-420.
+
+Fiorin, J. L. (2009). A construção da identidade nacional brasileira. Bakhtiniana, 1, 115-126.
+
+França, D. X. de (2016). A formação a identidade nacional em crianças: contribuições da televisão. In M. E. O.
+
+Lima, A. R. R. Torres & E. M. Techio (Orgs.). Identidade nacional e representações do Brasil (pp. 103-124). São Paulo: Scortecci.
+
+García-García, J., Ramírez, S. D., Álvaro, J. L. E., & Torres, A. R. R. (2016). Nacionalismo e identidade nacional
+
+sob uma perspectiva psicossociológica. In M. E. O. Lima, A. R. R. Torres & E. M. Techio (Orgs.). Identidade nacional e representações do Brasil (pp. 27-54). São Paulo: Scortecci.
+
+Gellner, E. (2001). Naciones y nacionalismo. Madrid: Alianza Editorial.
+
+Gonçalves, D.I.F. (2008). Pesquisas de marketing pela internet: As percepções sob a ótica dos entrevistados.
+
+Revista de Administração Mackenzie, 9(7), 70-88.
+
+Hobsbawm, E. (2011). Nações e nacionalismo desde 1780. Rio de Janeiro: Paz e Terra.
+
+Horta, A. (2009). Memória e Identidade Nacional no contexto europeu. In M. L. Martins & R. Cabecinhas (Eds.).
+
+Anuário Internacional de Comunicação Lusófona 2009: memória social e dinâmicas identitárias (pp. 11– 24). Lisboa: Grácio Editor.
+
+Hövermann, A., Groß, E. M., Zick, A., & Messner, S. F. (2015). Understanding the devaluation of vulnerable
+
+groups: A novel application of Institutional Anomie Theory. Social Science Research, 52, 408–421.
+
+İnaç, H. & Ünal, F. (2013). The Construction of National Identity in Modern Times: Theoretical Perspective.
+
+International Journal of Humanities and Social Science, 3(11), 223-232.
+
+Leite, D.M. (1968). O caráter nacional brasileiro: história de uma ideologia. São Paulo: UNESP.
+
+Lima, M. E. O. & Vaccarezza, E. (2016). Representações sociais do Brasil e identidade nacional. In M. E. O. Lima,
+
+A. R. R. Torres & E. M. Techio (Orgs.). Identidade nacional e representações do Brasil (pp. 79-102). São Paulo: Scortecci.
+
+Magalhães, P.C. (2003). A confiança nos parlamentos nacionais: regras institucionais, representação e
+
+responsabilização política. Análise Social, vol. XXXVIII, 443-465.
+
+Marques, C.B. da C. & Domingues, E. (2014). A Identidade Nacional Brasileira em Teses e Dissertações: uma
+
+revisão bibliográfica. Psicologia Política, 14, 465-480.
+
+Mathews, G. (2002). Cultura global e identidade individual. Bauru: Edusc.
+
+Mattoso, J. (1998). A identidade Nacional. Lisboa: Gradiva Publicações.
+
+McDill, E.L. (1961). Anomie, Authoritarianism, Prejudice, and Socioeconomic Status: An Attempt at Clarification.
+
+Social Forces, 39, 239-245.
+
+Mercer, K. (1990). Welcome to the Jungle: Identity and Diversity in Postmodern Politics. In J. Rutherford (Ed.),
+
+Identity. Community, Culture, Difference (pp. 43-71). Londres: Lawrence and Wishart.
+
+Moreno, J.C. (2014). Revisitando o conceito de identidade nacional. In C.C. Rodrigues, T. R. Luca & V.
+
+Guimarães (Orgs.). Identidades brasileiras: composições e recomposições (pp. 7-29). São Paulo: Editora UNESP.
+
+Moscovici, S. (1972). Preface. In S. Moscovici (Ed.). The psychosociology of language (pp. V-XV). Chicago:
+
+Markham Publishing Company.
+
+Moscovici, S. (1978). Representação social da psicanálise. Rio de Janeiro: Zahar.
+
+Ortiz, R. (2008). Cultura brasileira e identidade nacional. São Paulo: Brasiliense.
+
+Ortiz, R. (2013). Imagens do Brasil. Revista Sociedade e Estado, 28, 609-633.
+
+Silva, G. F. da & Ribeiro, L. M. L. (2016). Confiança nas instituições democráticas e vitimização por crime: qual a
+
+relação? Rev. Sociol. Polit., 24, 59-84.
+
+Lima, M. E. O., Silva, P., Carvalho, N. C., & Farias, L. C. M. 222
+
+Psicologia e Saber Social, 6(2), 205-222, 2017. doi: 10.12957/psi.saber.soc.2017.33557
+
+Smith, A. (1991). National Identity. London: Penguin.
+
+Sobral. J. M. (2010). Dimensões étnicas e cívicas e glorificação do passado em representações da identidade
+
+nacional portuguesa numa perspectiva comparada. In J. M. Sobral & J. Vala (Orgs.). Identidade nacional, inclusão e exclusão social (pp. 81-110). Lisboa: ICS.
+
+Spadoni, L., Leite, E. L., Ferreira, A. S. S., & Torres, A. R. R. (2016). Representações Identitárias da desigualdade
+
+no Brasil: comparação Nordeste e Centro-Oeste. In M. E. O. Lima, A. R. R. Torres & E.M. Techio (Orgs.). Identidade nacional e representações do Brasil (pp. 125-148). São Paulo: Scortecci.
+
+Srole, L. (1956). Social Integration and Certain Corollaries: An Exploratory Study. American Sociological Review,
+
+21(6), 709-716.
+
+Tajfel, H. & Turner, J.C. (1979). An integrative theory of intergroup conflict. In W. G. Austin & S. Worchel (Eds.).
+
+The Social Psychology of intergroup relations (pp. 33-47). Monterey, CA: Brooks/Cole.
+
+Tajfel, H. (1972). Experiments in a vacuum. In J. Israel & H. Tajfel (Eds.), The Context of Social Psychology: A
+
+Critical Assessment. Londres: Academic Press.
+
+Tajfel, H. (1978). Social categorization, social identity and social comparison. In H. Tajfel (ed.). Differentiation
+
+between social groups: studies in the social psychology of intergoup relations. London: Academic Press.
+
+Tajfel, H. (1981). Human groups and social categories: Studies in social psychology. Cambridge: Cambridge
+
+University Press.
+
+Techio, E. M. & Lima, M. E. O. (2016). A construção social da identidade regional: ser nordestino na concepção
+
+de universitários. In M. E. O. Lima, A. R. R. Torres & E.M. Techio (Orgs.). Identidade nacional e representações do Brasil (pp. 215-250). São Paulo: Scortecci.
+
+Turner, J. & Brown, R. (1978). Social status, cognitive alternatives and intergroup relations. In H. Tajfel (ed.).
+
+Differentiation Between Social Groups: Studies in the Social Psychology of Intergroup Relations (pp. 201234). Londres: Academic Press.
+
+Viki, G. T. & Calitri, R. (2008). Infrahuman outgroup or suprahuman ingroup: The role of nationalism and
+
+patriotism in the infrahumanization of outgroups. European Journal of Social Psychology, 38, 1054-1061.
+
+Voicu, C.G. (2011). Crossing borders: journey into otherness. Cultural and Linguistic Communication, 1(4), 322 339.
+
+Wachelke, J. F. R., & Camargo, B. V. (2007). Representações Sociais, Representações Individuais e
+
+Comportamento. Revista Interamericana de Psicología, 41, 379-390.
+
+Apresentação: 03/11/2017
+
+Aprovação: 18/12/2017

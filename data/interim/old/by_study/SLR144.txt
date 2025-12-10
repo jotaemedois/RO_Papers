@@ -1,0 +1,671 @@
+Foundations of Political Trust
+
+Page 1 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+Abstract and Keywords
+
+Research on political trust has been through a period of strong growth and now constitutes an important field within political behavior. The research growth is driven at least partly by access to new sources of data, which are relevant for testing many of the explanations of political trust discussed in the research literature. Research has moved in several directions. Overall, we observe that research on political trust is strongly integrated into mainstream research on political behavior with an emphasis of attitudes and other political psychology constructs. Complementing the micro-level approach, there is also a movement toward macro-level studies, with strong links to institutions. The institutional approach is primarily linked to electoral institutions and serves to test main hypotheses about differences between electoral systems.
+
+Keywords: political trust, political behavior, political psychology, electoral systems, electoral institutions
+
+OVER the last decades, the study of political trust has become an important part of political behavior research. Empirical studies have expanded to include both old and new democracies, and for many countries a time series is now available. This research has built on a long-term concern for the state of democracy in developed democracies in Western Europe and North America, going back to at least the 1970s. The early research was not primarily related to political trust narrowly conceptualized, but was focused on a broader crisis diagnostics of Western democracy—maybe also of the Western political system and culture on an even wider scale (Crozier, Huntington, and Watanuki 1975). On the surface, we can view the crisis interpretation through a longer time-frame, as the postwar period with strong economic growth, low unemployment, expansion of welfare, and political stability came to an end (Norris 2011). The concept of overload (King 1975) was often used to describe the combination of economic problems and political conflicts that emerged, suggesting that citizens demanded more than the system could deliver. Or, as expressed in the words of Fuchs and Klingemann (1995: 5), “the demands made by
+
+Foundations of Political Trust
+
+Ola Listhaug and Tor Georg Jakobsen The Oxford Handbook of Social and Political Trust Edited by Eric M. Uslaner
+
+Print Publication Date: Mar 2018 Subject: Political Science, Political Behavior Online Publication Date: May 2017 DOI: 10.1093/oxfordhb/9780190274801.013.14
+
+Oxford Handbooks Online
+
+Foundations of Political Trust
+
+Page 2 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+citizens on democratic governments were increasing, and doing so irreversibly, while, at the same time, the capacity of governments to realize their policy objectives was declining due, among other things, to lower economic growth.” In the years that have passed since this research was done, one can still observe elements that have been on the research agenda from the beginning, and still are, although such questions are not focused only on the crisis of government.
+
+In assessing the foundations of political trust, one can either focus on theoretical arguments, often with a broad crisis perspective, or investigate empirical problems of democracy and political trust within standard political behavior models. It is the latter approach that we will find in the present review, which is the orientation of research that has been dominant in the disciplines since the 1970s. While the crisis perspective in recent years has been more dominant in social capital research (Putnam 1993) than in research on political trust, we are of course aware of the considerable overlap between these fields of study.
+
+We present a general overview of political trust research as the research has developed within a standard political behavior framework. More specific models are also discussed in other chapters in this volume. In addition, we analyze political behavior models within a macro-setting. This is primarily about institutions, but we will also include other macrocharacteristics like resource curses, political conflict structures, and the welfare state.
+
+This means that our understanding of political trust has become broader and captures research questions that go far beyond a psychological trust model. Especially useful is the fact that data now allow us to compare political support across the borders of new and old democracies. We can also analyze other regime characteristics, such as how parties that originate from communist times are adapting to new political contexts. For example, among parties that are losing in an election we find that supporters of the traditional communist parties show the weakest political support, followed by reformed communists and voters for other parties (Anderson et al. 2005: 106–107).
+
+Pippa Norris has moved the research beyond the crisis view, particularly in Critical Citizens (1999) and more recently in Democratic Deficit (2011). The latter book stands as a comprehensive review and overview of conceptual issues in the study of political trust as well as an analysis of relevant data—both comparative and time series. It is also obvious that the two books offer a more positive picture of political trust than we usually see.
+
+When summing up her main findings, Norris (2011: chap. 12) does not support what she now calls the “conventional wisdom” that there is a long-term decline in political system support. Rather, she discusses a “trendless fluctuation” across the main dimensions of a revised set of Eastonian political support indicators (Norris 2011: 24–31), ordered from specific to general: officeholders, regime institutions, regime performance, regime principles and values, and national identities. Not all the indicators are analyzed with
+
+(p. 560)
+
+Foundations of Political Trust
+
+Page 3 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+overtime data, but it is fair to say that we now have a large set of empirical studies that cover many of the system support indicators and allow us to conclude the research on a sounder basis than we could do before (Norris 2011: 24).
+
+In contrast to the crisis literature, which typically focused on one major factor to trigger a decline of trust, research has moved to encompass a wider set of factors that are used to account for variations in political trust (Newton and Zmerli 2011). Some of the important groups of independent variables are political distance, socioeconomic performance, and impact of institutions and historical legacies. Many of these factors—but surely not all— were included in the Beliefs in Government project, and showed that the basis for political trust was complex and could not support one single formula (Kaase and Newton 1995; Klingemann and Fuchs 1995).
+
+The importance of political distance goes at least back to the controversy between Miller (1974) and Citrin (1974) on the impact of political issues on trust in government in the United States. In contrast to other studies on the relationship between crisis and political trust, the Miller and Citrin studies were specific in content and tried to sort out particular elements and mechanisms of dependent variables as well as independent variables.
+
+Miller argued that political cynicism was caused by the distance between political positions of the government and issue positions in the mass publics. Key questions in this early research were related to racial conflicts in American cities as well as participation in the Vietnam War. These issues were very polarizing and created large differences between important groups of citizens and the governing party. Miller interpreted the trust indicators as general (diffuse) measures of confidence in the political system, while Citrin saw the decline as related to weakening support for particular leaders, making understanding of the gaps between groups holding conflicting issue positions less dramatic than the interpretation of Miller. As is often the case in research, this controversy is more important for the questions that were raised than for an answer that is “correct.”
+
+For a discussion based on the time series of American National Election Studies (ANES) data, Norris (2011: 63–64) finds that the trust item in the battery is quite volatile, but the long-term trend is declining. In addition to discussion of trust items as specific or diffuse, political distance might be related to comparisons across demographic groups—age, gender, education, and others. Empirical research has given scant support to hypotheses that demography plays a significant role for political trust (Listhaug 1995). The main reason for this is that demographic variables are not in many cases linked to political issues and conflicts. Demographic factors and social cleavages normally have an impact on political trust only when they are linked to political conflicts between groups.
+
+When mass opinion moves away from the political views of government elites—or when governments shift their policies further away from mass audiences—the political distance
+
+(p. 561)
+
+Foundations of Political Trust
+
+Page 4 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+between mass and elite will increase. The size of political gaps between mass and elite is an important element in political representation, and we assume that political trust declines when gaps increase.
+
+There are several measures of political gaps that can be constructed. Later research has emphasized more general aspects of distance, for example, by left–right ideology. Most governments are recruited either from the moderate left or the moderate right. Distance to government will then be shortest for voters in these positions. Policy issues are the most important element in the distance model. However, research has expanded to include general aspects of politics as well as study of the interaction between ideological positions of government as measured by parties that form the government and parties that are the basis of government support in the parliament. While policy issues in many democracies are quite stable, it is likely that they are less stable than the distribution by left–right ideology or other ideological dimensions. For many ideological dimensions, we find a significant impact of ideological distance on political trust. This relationship often shows a curvilinear pattern, with weaker trust placed to the left or on the right rather than in the middle.
+
+If government is based on parties on the left, trust will improve for citizens who share this ideological position. If government is formed by parties to the right, political trust
+
+will show an improvement on this side of the ideological spectrum (Listhaug 1995). In this way the shifts in political trust are linked to the alternation of political power and are part of the democratic movements that follow election outcomes.
+
+There is also an impact of winning and losing on political trust. Research by Anderson (2005) and several others have emphasized that citizens who vote for parties who win elections are more likely to support the political system than those who vote for parties that are on the losing side in elections. There is now a considerable amount of empirical findings that support this hypothesis. In the multivariate model, Anderson et al. (2005: 104) find that losing has a negative impact on four measures of political support. The empirical findings also demonstrate that the negative impact of losing is larger in new democracies and transitional regimes than in the more stable European democracies.
+
+The low political support that we find in new democracies is normally attributed to shorter experience with democracy and weaker political institutions in these countries than in countries with longer experience of a democratic system and working political institutions over an extended period of time. In addition, in some new democracies the expectations for what the new system could deliver was exceedingly high, and was thus difficult to meet when political realities came. Or it could be phrased this way: “[L]osers in new democracies have not yet learned to lose—that is, that they have not developed the experience necessary for behaving like graceful losers” (Anderson et al. 2005: 105).
+
+Many of these observations are probably equally relevant today as in the late 1990s, and what was considered a success story of democratization is not so obvious in contemporary new democracies. In a discussion of this model, Esaiasson (2011) puts less emphasis on losers and argues that both winners and losers retain their trust levels, this
+
+(p. 562)
+
+Foundations of Political Trust
+
+Page 5 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+may even become more positive, probably because elections stimulate democratic attitudes. If trust in government declines, it is likely seen as a reaction toward violations of the democratic process.
+
+Although political distance is a key element in a model to explain variations in political trust, there are several other parts of the standard political behavior model that are relevant. The most important is political performance. Political trust increases when government delivers results and outcomes that are in demand by citizens. Previous research has demonstrated a large number of variables that are relevant as performance indicators. Economic measures are at the core, but more generally all valence variables are relevant for performance. The emphasis on valence moves some of the political trust research close to the literature on economic voting.
+
+The distance model is a model of conflict. This is not so clear for a performance model. If citizens agree on the goals for society, political competition between parties about who can best deliver results comes to the forefront. Political trust might be seen as a byproduct of what goes well in society. Normally the emphasis is on the economy, but as Huseby (1997) argued many years ago, there are other issues that have valence characteristics and could play a role for political trust. Especially in the European welfare states we assume that performance of healthcare, care for the elderly, and several other welfare-state indicators could be important for how citizens will trust the relevant areas of government as well as the state in general.
+
+Huseby (1997) included the environment as a valence issue that everyone is concerned about. This is even more relevant today when global warming is becoming an issue of great public concern (Kvaløy, Finseraas, and Listhaug 2012), and there are also good reasons that it will develop further as a performance issue in years to come. The global concern for the environment should also be linked to a survey analysis of mass and elite, and the survey should be part of a public policy analysis, preferably also in a comparative model.
+
+A full distance model also needs measurement of policy positions of government in addition to a survey of citizens. This is lacking in much of current research. Several methodological issues must be solved, but there is a considerable experience in election studies measuring both policy positons of voters and parties. However, we know from earlier research that perceptions of policy positions bias the estimates (Grand and Tiemann 2013), and we know from Soroka (2014) that there is a marked bias toward negativity in the measurement of politics and political communication. These sources of errors must also be handled.
+
+Since the 1960s there has been a general decline in public trust in the federal government in the United States. Today, according to the Pew Research Center, only two out of ten Americans express that they can trust the government in Washington to do what is right “just about always” or “most of the time.” At the start of the 1960s corresponding numbers were above 50%, and there has been a continuous decline ever since, with the exception of a couple of spikes that were relatively short-lived. This trend
+
+(p. 563)
+
+1
+
+Foundations of Political Trust
+
+Page 6 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+is robust to different age groups, only with a tendency that those who identify with the incumbent party have more trust than those who do not. These findings are consistent with those of the General Social Survey of adults (1972–2012) and the Monitoring the Future (MtF) survey of twelfth graders (1976–2012). This counters the prediction made by Sander and Putnam (2010) that the co-called millennial generation would bring a revival of social capital.
+
+The time series available for European countries are shorter than those for the United States. We have looked at trust in parliament, taken from the European Social Survey (2002–2014). The trends from Europe are relatively heterogeneous, as the country variations are large. However, there is a tendency that some of the countries hardest hit by the economic crisis or warfare have experienced a decline (e.g., Portugal and Ukraine), while some of the richest countries have experienced a rise (e.g., Norway and Switzerland), and others have experienced little change. These tendencies are not so clear as in the case with a downward trend seen in the United States. As such, European data contradict the claim that contemporary democracies are losing citizens’ support. Note also that Dalton (2004) has advocated a thesis of a general decline in advanced democracies, which is somewhat in contradiction to what we and an earlier study by Marien (2011b) have found.
+
+The decline of political trust in the United States has stimulated a literature that sets the decline in a broader setting (Hibbing and Theiss-Morse 2001, 2002; Hetherington 2005). Recently, several studies have related the polarization in American politics to the decline in political trust (Hetherington 2015; Hetherington and Rudolph 2015; Uslaner 2015).
+
+Institutions
+
+In line with what we find for other aspects of political behavior—voting, political participation, and policy attitudes—institutional effects are becoming important in empirical models of political trust. Institutions can be defined narrowly, primarily as electoral institutions, but they are also defined more broadly, which we find for example in Norris (1999). A weakness of some of the previous research is the lack of ability to
+
+combine data about macro-level indicators and institutions and micro-level data on attitudes and behavior. By establishing a major research collaboration of election studies and including a module of questions in the election surveys, and at the same time collecting important macro-level data about electoral systems, it became possible to observe effects of both micro- and macro-level institutions, which add empirical results to previous research findings (Klingemann 2009; Norris 1999, 2011; Thomassen 2014). Norris (2011) also points to the fact that several countries were working to change their electoral system, thus increasing interest in studying how institutions contributed to democracy or, for that matter, to political participation and other indicators that are relevant for assessment of the democratic system in a country.
+
+2
+
+(p. 564)
+
+Foundations of Political Trust
+
+Page 7 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+The empirical findings of institutional effects are not consistent as Klingemann and others observe; many of them are weak and do not go in the expected direction. Using data from the Comparative Study of Electoral Systems (CSES), we now have edited volumes (Klingemann 2009; Thomassen 2014) that analyze the data. Listhaug, Aardal, and Ellis (2009) studied the impact of institutions on three political support indicators—satisfaction with the democratic process, efficacy, and if it makes a difference who is in power. The classification of institutions follows the distinction between accountability and participation and how these dimensions are reflected in election systems. The authors do not find a clear impact of institutional effects on political trust indicators. This is the case both for measures of accountability and representation.
+
+Thomassen and van der Kolk (2009) study how political support varies by age of democracies, and find that satisfaction is higher in old democracies than in new democracies. Interestingly, they also find that new democracies are more sensitive to variations in effectiveness than old democracies (Thomassen and van der Kolk 2009, 346). An important interpretation is that established democracies are able to build on a reservoir of diffuse support, which helps citizens tolerate output to which they are opposed (Thomassen and van der Kolk 2009; 337). In another article, also based on CSES data, Aarts and Thomassen (2008) study how satisfaction with democracy is dependent on some key indicators of institutions, primarily accountability and representation.
+
+Sanders et al. (2014) use Eurobarometer data and data from CSES on satisfaction with democracy to study the impact of electoral institutions, as well as other macro- and microvariables. Many of their findings are in line with previous research, although the authors emphasize better than many scholars that institutions might have positive as well as negative effects on satisfaction with democracy. The authors argue that the practical effects of the rules are more important than the formal rules themselves (Sanders et al. 2014: 159). They emphasize especially the impact of plurality rules.
+
+Rules that produce plurality are often associated with negative effects of satisfaction with democracy. Disparities of vote share versus seat share are also hypothesized to have a negative effect. But majoritarian systems have positive effects as well, such as the effect of clarity of responsibility as described by Powell and Whitten (1993). In contrast to majoritarian institutions the impact of proportional systems or consensus democracy will improve political representation, which in turn will increase satisfaction with democracy (Thomassen 2014).
+
+In the conclusion on the question if institutions matter, Thomassen (2014: 19) comes up with an overall assessment that for political trust—and other political behavior characteristics—what matters is not the formal structure of institutions, but rather how institutions work. In addition, he points to the observation that effects can cancel each other. This leads him to be skeptical as to what can be achieved by institutional engineering.
+
+(p. 565)
+
+Foundations of Political Trust
+
+Page 8 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+In studies on the impact of institutions on political trust, scholars mostly do their research on national institutions. However, we also now see a considerable research interest in the study of multilevel governance and political trust. The following summaries build partly on a chapter by Listhaug and Ringdal (2009). One of the volumes in the Beliefs in Government project was devoted to international trust (Niedermayer and Sinnott 1995), and it is likely that the research interest in international trust will rise in the years to come.
+
+The conventional approach is to compare countries, regions, and other geographical units within countries. Above the country level, important examples are the European Union (EU) and the United Nations (UN). Including institutions at these levels, we will increase the complexity of the empirical analysis. In addition to the models with what we call “conventional geographical units,” Hooghe and Marks (2003: 235) have extended research even more and classified this as Type II (the conventional units are called Type I). Listhaug and Ringdal (2009) propose that if the Hooghe and Marks thesis is correct, this could lead to a decline in political trust as citizens would be overwhelmed by information and options that they cannot handle.
+
+Papandopolus (2007: 483) puts the emphasis on factors that might reduce accountability, and in the next stage reduce trust. One argument against this scenario is that citizens do not pay attention to much of the elite politics of the new governance structures, but keep their attention on traditional politics with the nation-state at its core. It is also likely that Euroscepticism is driven by political conflicts in the intersection between national politics and EU politics.
+
+There are three research questions in these studies (Listhaug and Ringdal 2009: 236). The first is at which level policies should be decided. The levels that we can study are the global level, the European level, and the regional or local level. The second question is to study if there is a relationship between political level and trust. We are concerned especially about the European level as there has been much focus on Euroscepticism (Hix 2008). Finally we investigate if there is a relationship between preferences for where
+
+policies should be decided and trust. The empirical support for the research questions is weak.
+
+We find that trust in national parliaments on average is higher than trust in the EU parliament. However, trust in the United Nations is the highest of the three institutions. For the UN the relatively high support is probably due to the fact that this institution represents an ideal that the United Nations has problems to achieve, but nevertheless is supported by most people. For the EU parliament and the national parliaments the situation is different. National parliaments are key political institutions and are supposed to be involved in significant political issues in the countries.
+
+For the EU parliament the situation has been somewhat different, as this institution has had weak powers compared to other EU institutions. Reforms have been implemented to increase the powers of the elected EU parliament—in contrast to EU institutions that are not elected. Currently the European Union has run into a series of problems in handling
+
+(p. 566)
+
+Foundations of Political Trust
+
+Page 9 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+the main issues of conflicts in Europe. We are thinking of economic issues as well as questions of security politics and conflicts between groups of member states. These problems may be related to political trust and legitimacy.
+
+In addition to institutions that are located above the nation-state, there has been considerable research on political units below the nation-state—local political units and regional institutions (Denters et al. 2014). Several research questions are relevant for the understanding of political trust at the local level. Denters (2002) used survey data from Denmark, the Netherlands, Norway, and the United Kingdom. The findings showed that those who held political offices at the local level had higher trust than national politicians. As for the impact of the size of the national communities, he observed that citizens in small municipalities were more satisfied than those who lived in larger units.
+
+In a very detailed study of Norway, Rose and Pettersen (1999: 119) use some strong language regarding their findings—which they characterize as “very solid, indeed even spectacular”— that those who live in small communities are more confident in how their politicians spend the taxpayers’ money.
+
+In a study by Fitzgerald and Wolak (2016), they emphasize that trust in local government is dependent on institutional mechanisms. Building on the view that local government is becoming more important in governing societies, trust in local government is also becoming more important. Small-size governments in Europe seem to develop more trusting audiences than large municipalities.
+
+In several studies by Denters and collaborators, a large list of research questions on the size of local government and political support is examined. Denters (2002) found earlier that citizens in smaller municipalities were more satisfied with their local government, leading to a negative relationship between size and trust. In the main book from the project (Denters et al. 2014), a detailed model is developed, giving a rich empirical study for investigating key questions on the link between size and democracy in the research line from Dahl and Tufte (1973). Before we proceed with the discussion of other macrolevel characteristics and political trust, we have included a table (Table 23.1) with an overview of some examples of newer research in the field. (p. 567)
+
+Foundations of Political Trust
+
+Page 10 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+Table 23.1 Newer Quantitative Research on Political Trust: Some Examples
+
+Author(s) Data Main explanatory variable(s)
+
+Dependent variable Findings
+
+van der Meer (2010) European Social Survey 2002, 2004, and 2006, 29 countries
+
+Corruption Perception Index, GDP per capita, electoral systems, and regime type
+
+Variable 0–10 denoting trust in parliament
+
+Corruption affects trust negatively, trust is higher in proportional electoral systems, and trust is lower in former communist countries
+
+Marien (2011a) European Social Survey 2006 and 2008, 23 countries
+
+Electoral systems, using Gallagher’s disproportionality index
+
+Scale 0–30 composed of three variables on trust in parliament, political parties, and politicians
+
+Political trust is highest in countries that have very proportional or very disproportional election outcomes
+
+Dunn (2012) World Values Survey 1995, 1999, and 2005, global sample
+
+Gallagher’s disproportionality index
+
+Variable 1–4 denoting trust in parliament
+
+Proportionate outcomes in parliament are associated with a higher level of individual trust
+
+Bauer & Fatke (2014) Swiss Electoral Studies 2007
+
+Availability of direct democratic rights
+
+Variable 0–10 denoting trust in cantonal authorities
+
+Greater availability of direct democratic rights is associated
+
+Foundations of Political Trust
+
+Page 11 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+with higher levels of political trust
+
+De Juan & Pierskalla (2014)
+
+World Health Survey 2003, Nepal
+
+Count data on the number of total killings per village development committee
+
+Political trust in the national government 1– 5
+
+Exposure to violence reduces trust in national government
+
+Ellinas & Lamprianou (2014)
+
+European Social Survey 2002, 2004, and 2010, Greece
+
+Social performance, measured through two questions on the respondents’ rating of education and health services
+
+Scale 0–10 showing average scores on trust in parliament, legal system, police, and politicians
+
+The effect of social performance on political trust is stronger during extraordinary conditions than during normal times
+
+Reitan et al. (2015) Norwegian Citizen Study (2009)
+
+Performance measurements index, Managerial autonomy index, Two-tier organization and Citizens’ participation index
+
+Legitimacy index 15–15 composed of five questions on local politicians
+
+No connection between government reforms and individual-level trust
+
+Hooghe et al. (2015) Belgian Political Panel Study 2006–11, which
+
+Own educational track, educational goal,
+
+Scale 0–10 composed of six questions on trust in police, courts,
+
+Students in higher education have already during secondary
+
+Foundations of Political Trust
+
+Page 12 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+tracks respondents aged 16–21
+
+mother’s education, father’s education
+
+federal parliament, regional parliament, European parliament, and political parties
+
+education acquired a value pattern congruent with their future status
+
+Kroknes et al. (2015) European Social Survey 2004, 2006, 2008, and 2010, 25 countries
+
+Economic indicators: GDP growth, unemployment, GDP gross debt, and GDP per capita
+
+Scale 0–30 composed of three variables on trust in parliament, politicians, and political parties
+
+The financial crisis of 2007–2008 had a negative influence on citizen’s trust levels in those countries hit hardest by the crisis
+
+Freitag & Ackermann (2015)
+
+Politics and Society in Switzerland 2012
+
+Agreeableness and direct democracy
+
+Variable 0–10 denoting trust in cantonal authorities
+
+Direct democracy has a negative influence on trust for persons that score high on the personality trait of agreeableness
+
+Foundations of Political Trust
+
+Page 13 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+If we follow the institutional approach, political trust and distrust can be considered to be rational responses by citizens to the performance of institutions (March 1988; North 1990). That is, those institutions that can deliver will be more trusted than those that are not perceived to function properly. When it comes to elections, it has been argued that political trust is related to citizens’ feeling of the fairness of proportional election outcomes (Lijphart 1999), as this model includes the wishes of as many people as possible in the government. However, it can also be said that the effectiveness and accountability of disproportional election outcomes could increase trust-levels (Aarts and Thomassen 2008), as is the case when only the wishes of the majority of the people are included in government.
+
+Several newer empirical studies have investigated the link between the proportionality of the electoral system and political trust. In a study of 23 countries using data from the European Social Survey (2006–2009), Marien (2011a) studies the effect of electoral outcomes on political trust. She finds a curvilinear effect of proportionality on political trust, as both proportional and disproportional election outcomes are associated with high trust-levels, while the middle category holds lower trust-levels. Another study by Dunn (2012) shows a more linear relationship. Using data from the World Values Survey (1995–2005), he finds proportionate voter outcomes to be associated with a higher individual level of trust in parliament.
+
+Taking the argument about citizen participation even further, two Swiss studies have investigated the link between direct democracy and political trust. First, Bauer and Fatke (2014) argue that greater availability of direct democratic rights will lead to increased trust levels. The argument is that direct democracy will increase people’s perception of control over political authorities as well as function as an incentive for them to act trustworthy. This argument is supported by their empirical results. Second, Freitag and Ackermann (2015) add personality traits to the equation. Their argument is that the previous lack of findings can be attributed to not including the diverse effect that direct democracy has on individuals, and this effect is conditioned by an individual’s personality traits. They investigate data from 26 Swiss cantons and find that the trait of agreeableness moderates the influence of direct democracy on trust in cantonal authorities in Switzerland. People with a high score on agreeableness will interpret direct democracy as a signal of political and societal conflict, and thus have less trust in cantonal authorities.
+
+Another study of trust levels in local politicians is performed by Reitan, Gustafsson, and Blekesaune (2015). They look at the relationship between local government reforms (New Public Management) and citizen trust in local government, finding no clear relationship between these two. In a panel study of Belgian adolescents and young adults, Hooghe, Dassonneville, and Marien (2015) investigate the impact of education on the development
+
+(p. 568)
+
+(p. 569)
+
+Foundations of Political Trust
+
+Page 14 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+of political trust. Their results show that during secondary education, students have already acquired a value pattern that continues into adulthood.
+
+Kroknes, Jakobsen, and Grønning (2015) predict that the countries hardest hit by the financial crisis of 2007–2008 will experience a decrease in political trust. This is tested by way of investigating economic indicators on general trust levels for 25 countries over the time period 2004–2010 using data from the European Social Survey. Their conclusion is that the financial crisis has a negative influence on citizens’ levels of trust in countries where the crisis has affected the economy the most. Using data from Greece, also taken from the European Social Survey, Ellinas and Lamprianou (2014) study the effect of extreme economic conditions on trust. They find that economic performance does not have a large effect on political trust, and that his effect does not increase with the worsening of the crisis. However, there is an effect of social performance, and this effect is stronger in times of economic hardship.
+
+Resource Curse
+
+The distribution of resources in the world is not equal. Some countries have an abundance of valuable minerals like oil, diamonds, gemstones, or cobalt, while others have shares of high-value renewable commodities like fish, coffee, and fertile soil. One would often think that the presence of such resources could be regarded as a blessing, and should naturally contribute to raising the expectations of the citizens of these resource-rich countries. However, many of these states have trouble generating growth and providing welfare for their populations. Researchers within the study of conflict have found that the presence of natural resources, especially when it constitutes a large part of a country’s exports, is strongly related to civil conflict (Collier and Hoeffler 2004; de Soysa & Neumayer, 2007; Fearon 2005; Lujala 2010).
+
+When it comes to political trust, there are two mechanisms explaining why an abundance of natural resources may affect political trust negatively. First, we have the local grievances explanation. If a given country has an unequal (real or perceived) distribution of resource revenues, people in the region where resources are extracted may develop
+
+grievances toward the political institutions of that country. The reason is that they have to bear the costs of extracting the resources, while at the same time perceiving that they are not getting their fair share of the income. The presence of minerals, oil, or renewable resources will raise people’s expectations, thus leaving them dissatisfied, which can manifest as a decrease in political trust. This mechanism could be expected to increase where the resource-rich regions coincide with other societal cleavages (Lujala 2015). Second, resource-rich countries have experienced lower growth rates than other countries. Reasons for this include the so-called Dutch disease, where resource exports remove capital and labor from other export sectors, the latter often consisting of those
+
+(p. 570)
+
+Foundations of Political Trust
+
+Page 15 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+that could have secured long-term growth of that country. Financial gains from export also affect the exchange rate, hurting other sectors of that country.
+
+The expectation raised from the presence of natural resources, together with poor handling of the economy resulting in an economic decline, can thus have an effect on political trust. We can apply the mechanism presented by Davies (1962), where you get a gap between expected need satisfaction and actual need satisfaction. In the worst instance, as Davies suggested, this could lead to armed uprisings. But before it goes so far, a large enough gap between what people want and what they get will also lead to a drop in citizens’ political trust. What is important is not only what people actually are getting but also the contrast between what a person has and what he or she expects to have. The presence of natural resources is often followed by a short-term financial gain, but when income decreases people’s expectations do not automatically decrease, and an intolerable gap is experienced.
+
+A global sample of 132 countries Tsui (2010) finds a negative connection between level of oil export and level of democracy (which again is linked to political trust). This finding is robust when excluding large Middle Eastern producers from the analysis. The mechanism is not limited to developing countries. Listhaug (2005) argues that Norway, which has taken steps to avoid the resource curse, also has experienced a drop in political trust due to the discrepancy between expectations and what people are actually getting. The Norwegian state has imposed strong government involvement in the production of oil, which strengthens citizens’ expectations of benefits they may receive. However, much of the oil wealth has been placed in an oil fund (investments abroad), and citizens thus perceive government to be too tight on spending, contributing to a decline in political trust in Norway. Listhaug (2005) views this decline as a mild form of resource curse, that is, a public perception of a contrast between growing wealth, which is stacked away in the oil fund, and more demands for public services and lower taxes.
+
+Conflict and Political Trust
+
+Trust is an important topic in the field of international relations and peace research. With
+
+regard to the former, trust is important in the security dilemma, where fear or lack of trust makes the actors keep arming themselves, creating an increasingly insecure environment. Regarding the latter, the opportunity cost of conflict is directly related to the issue of political trust. The opportunity school of thought (Collier and Hoeffler 1998) assumes that each individual makes a cost-benefit calculus, deciding whether or not to participate in armed rebellion. Their decision to go to war is a function of both income level (the higher your income is, the less likely you are to rebel), potential reward (diamond mines, oil fields, etc. increase the risk of war), and the perceived probability of success (a weak state increases the risk of war). If there is little trust in the existing system, this will make war more likely as people see little chance of political
+
+(p. 571)
+
+Foundations of Political Trust
+
+Page 16 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+improvement, representation, or more material gain. They thus have less to lose by participating in a rebellion. In addition, trust is essential to establishing peace, as it is necessary to solve commitment problems (Fearon 1995; Walter 1999).
+
+If we view political trust as an outcome variable, one argument would be that exposure to war or violence can affect people’s levels of trust in a negative way. The reason is that the presence of civil war shows the state to be unable to protect its citizens, that is, to uphold its monopoly over the use of violence. Or, even worse, the state’s engagement in military activities could be the reason for the loss of lives and property as well as displacement, thus directly influencing people’s perceptions of the government in a negative manner. Few studies have approached the effect of conflict on political trust. One exception is De Juan and Pierskalla (2014), who use survey data and village-level information on casualties to investigate the effects of exposure to violence on political trust in Nepal. The survey was conducted in 2003 and comprised 8,822 households in 65 out of 75 districts in Nepal. Their finding was that exposure to violence reduces trust in the national government.
+
+In their study of political trust in Africa in 2000–2005, Hutchison and Johnson (2011) found that institutional capacity was associated with increased levels of trust in government, and that this effect was independent of other individual-level attitudes, socioeconomic characteristics, and prior violent conflicts in a given state.
+
+In a study of postwar Tajikistan, Cassar, Grosjean, and Whitt (2011) found that conflict exposure undermines trust in people within local communities. It must be noted that the data were collected more than a decade after conflict. In a study of conflict and voting in Uganda, Blattman (2009) found that exposure to violence increased voting. The same was found by Bellows and Miguel (2009) in a study of Sierra Leone. In another study of Sierra Leone, Sacks and Larizza (2012) look at the consequences of political decentralization in a postconflict society using longitudinal survey data. They find respondents living in areas affected by the war to have more trust in their local government councilors. Using survey data from 2010, Bakke et al. (2014) find only limited evidence concerning the effect of internal political violence on trust in the president and parliament in Abkhazia. Note also here that the survey was conducted more than a decade after the end of violence. We observe that the impact of conflict is related to both levels of voting and trust in local government.
+
+According to De Juan and Pierskalla (2014), such diversity in findings can be attributed to the time aspect as well as peace-building activities after violent conflicts. The longer the period after violence, the less influence the conflict has on political trust. This argument is supported by De Luca and Verpoorten (2011), though with a different dependent variable, as they find a short-term effect of violence and social capital followed by a rapid recovery.
+
+(p. 572)
+
+Foundations of Political Trust
+
+Page 17 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+The Welfare State and Political Trust
+
+All countries must in some way provide their citizens with protection against the risks of modern life in order to secure continued economic growth and political stability. Thus, the state must play a role in promoting the social well-being of the individual. In most countries there is general support for and acknowledgment of the positive social consequences of the welfare state, especially with regard to the area of health care (Wendt et al. 2010). The output side is important for the legitimacy of the state, something that is especially valid in the modern welfare state. Citizens today are in many cases directly dependent on public-sector programs and schemes.
+
+Scant research has been performed on the topic of welfare state experiences on political trust. An exception is Kumlin (2004), who uses Swedish primary survey data to answer this question. His main finding is that personal welfare state experiences have a substantively significant effect on political trust. More specifically, he looks at what happens when a person is discontent with welfare-state service as a result of personal
+
+experience. In doing this he draws on Skocpol’s (1994) argument that public opinion is partly influenced by citizens’ experiences with preexisting governmental institutions and programs. Kumlin makes his reckoning which with earlier findings, suggest that aggregated collective experiences of events have a greater effect than personal experiences, with reference to the “economic voting” literature. His finding, that citizens’ own experiences have an effect, is different from much of the previous literature (e.g., Kinder and Kiewiet 1981).
+
+Conclusion
+
+Research on political trust has been through a period of strong growth and now constitutes an important field within political behavior. The research growth is driven at least partly by access to new sources of data that are relevant for testing many of the explanations of political trust that the research literature has discussed. Research has moved in several directions. Overall, we observe that the research on political trust is strongly integrated into mainstream political behavior research with an emphasis of attitudes and other political psychology constructs. Complementing the micro approach, there is also a movement toward macro studies, with strong links to institutions. The institutional approach is primarily linked to electoral institutions and tests main hypotheses about differences between electoral systems.
+
+Overall, we do not find a strong and consistent impact of institutions on trust. While institutions are the most important set of macrovariables that are relevant for the analysis of political trust, we have added several macrovariables that are not so
+
+(p. 573)
+
+Foundations of Political Trust
+
+Page 18 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+commonly used in the study of political trust, including studies of the resource curse, political conflicts, and the welfare state and political trust.
+
+References
+
+Aarts, K., and Thomassen, T. 2008. Satisfaction with democracy: Do institutions matter? Electoral Studies 27: 5–18.
+
+Anderson, C. J., Blais, A., Bowler, S., Donovan, T. and Listhaug, O. 2005. Losers’ Consent. Oxford: Oxford University Press.
+
+Bakke, K. M., O’Loughlin, J., Toal, G., and Ward, M. D. 2014. Convincing state-builders? Disaggregating internal legitimacy in Abkhazia. International Studies Quarterly 58: 591– 607.
+
+Bauer, P. C., and Fatke, M. 2014. Direct democracy and political trust: Enhancing trust, initiating distrust—or both?Swiss Political Science Review 20: 49–69.
+
+Bellows, J., and Miguel, E. 2009. War and local collective action in Sierra Leone. Journal of Public Economics 93: 1144–1157.
+
+Blattman, C. 2009. From violence to voting: War and political participation in Uganda. American Political Science Review 103: 231–247.
+
+Cassar, A., Grosjean, P., and Whitt, S. 2011. Civil war, social capital and market development: Experimental survey evidence on the negative consequences of violence. University of New South Wales, Discussion Paper 2011–14.
+
+Citrin, J. 1974. Comment: The political relevance of trust in government. American Political Science Review 68: 973–988.
+
+Collier, P., and Hoeffler, A. 1998. On economic causes of civil war. Oxford Economic Papers 50: 563–573.
+
+Collier, P., and Hoeffler, A. 2004. Greed and grievance in civil war. Oxford Economic Papers 56: 563–595.
+
+Crozier, M. J., Huntington, S. P., and Watanuki, J. 1975. The Crisis of Democracy. New York: New York University Press.
+
+Dahl, R. A., and Tufte, E. R. 1973. Size and Democracy. Stanford, CA: Stanford University Press.
+
+Dalton, R. 2004. Democratic Challenges, Democratic Choices. Oxford: Oxford University Press.
+
+Davies, J. C. 1962. Toward a theory of revolution. American Sociological Review 27: 5–19.
+
+(p. 574)
+
+Foundations of Political Trust
+
+Page 19 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+De Juan, A., and Pierskalla, J. H. 2014. Civil war violence and political trust: Microlevel evidence from Nepal. Conflict Management and Peace Science 33: 67–88.
+
+De Luca, G., and Verpoorten, M. 2011. From vice to virtue? Civil war and social capital in Uganda. HiCN Working Papers 111, Households in Conflict Network.
+
+Denters, B. 2002. Size and political trust: Evidence from Denmark, the Netherlands, Norway, and the United Kingdom. Environment and Planning C: Government and Policy 20: 793–812.
+
+Denters, B., Goldsmith, M., Ladner, A., Mouritzen, P. E., and Rose, L. E. 2014. Size and Local Democracy. Cheltenham: Edward Elgar.
+
+de Soysa, I., and Eric Neumayer, E. 2007. Resource wealth and the risk of civil war onset: Results from a new dataset on natural resource rents, 1970–99. Conflict Management and Peace Science 24: 201–218.
+
+Dunn, K. 2012. Voice and trust in parliamentary representation. Electoral Studies 31: 393–405.
+
+Ellinas, A. A., and Lamprianou, I. 2014. Political trust in extremis. Comparative Politics 46: 231–250.
+
+Esaiasson, P. 2011. Electoral losers revisited—how citizens react to defeat at the ballot box. Electoral Studies 30: 102–113.
+
+ESS Round 1–7: European Social Survey Round 1–7 (2002–2014). NSD—Norwegian Centre for Research Data, Norway—Data Archive and distributor of ESS data for ESS ERIC.
+
+Fearon, J. D. 1995. Rationalist explanations for war. International Organization 49: 379– 414.
+
+Fearon, J. D. 2005. Primary commodity exports and civil war. Journal of Conflict Resolution 49: 483–507.
+
+Fitzgerald, J., and Wolak, J. 2016. The roots of trust in local government in Western Europe. International Political Science Review 37: 130–146.
+
+Freitag, M., and Ackermann, K. K. 2015. Direct democracy and institutional trust: Relationships and differences across personality traits. Political Psychology 37: 707–723.
+
+Fuchs, D., and Klingemann, H. D. 1995. Citizens and the state: A changing relationship? In H. D. Klingemann and D. Fuchs, eds., Citizens and the State, 1–24. Oxford: Oxford University Press.
+
+Grand, P., and Tiemann, G. 2013. Projection effects and specification bias in spatial models of European parliament elections. European Union Politics 14: 497–521.
+
+(p. 575)
+
+Foundations of Political Trust
+
+Page 20 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+Hetherington, M. 2005. Why Trust Matters. Princeton, NJ: Princeton University Press.
+
+Hetherington, M. 2015. Why polarized trust matters. The Forum: 445–458.
+
+Hetherington, M., and Rudolph, T. 2015. Why Washington Won’t Work. Chicago: University of Chicago Press.
+
+Hibbing, J., and Theiss-Morse, E. 2001. What Is It about Government That Americans Dislike? Cambridge: Cambridge University Press.
+
+Hibbing, J., and Theiss-Morse. E. 2002. Stealth Democracy. Cambridge: Cambridge University Press.
+
+Hix, S. 2008. Euroscepticism as anti-centralization. European Union Politics 8: 131–150.
+
+Hooghe, M, Dassonneville, R., and Marien, S. 2015. The impact of education on the development of political trust: Results from a five-year panel study among late adolescents and young adults in Belgium. Political Studies 63: 123–141.
+
+Hooghe, L., and Marks, G. 2003. Unraveling the central state, but how?American Political Science Review 97: 233–242.
+
+Huseby, B. 1997. Satisfaction with democracy and public concerns for the economy, equality and environmental problems. Paper for ECPR Joint Sessions of Workshops, Bern.
+
+Hutchison, M. L., and Johnson, J. 2011. Capacity to trust? Institutional capacity, conflict, and political trust in Africa, 2000–2005. Journal of Peace Research 48: 737–752.
+
+Kaase, M., and Newton, K. 1995. Beliefs in Government. Oxford: Oxford University Press.
+
+Kinder, D. R, and Kiewiet, D. R. 1981. Sociotropic politics: The American case. British Journal of Political Science 11: 129–161.
+
+King, A. 1975. Overload: Problems of governing in the 1970s. Political Studies 23: 284– 296.
+
+Klingemann, H. D., ed. 2009. The Comparative Study of Electoral Systems. Oxford: Oxford University Press.
+
+Klingemann, H. D., and Fuchs, D., eds. 1995. Citizens and the State. Oxford: Oxford University Press.
+
+Kroknes, V. F., Jakobsen, T. G., and Grønning, L. M. 2015. Economic performance and political trust: The impact of the financial crisis on European citizens. European Societies 17: 700–723.
+
+Kumlin, S. 2004. The Personal and the Political: How Personal Welfare State Experiences Affect Political Trust and Ideology. New York: Palgrave Macmillan.
+
+Foundations of Political Trust
+
+Page 21 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+Kvaløy, B., Finseraas, H., and Listhaug, O. 2012. The publics’ concern for global warming: A cross-national study of 47 countries. Journal of Peace Research 49: 11–22.
+
+Lijphart, A. 1999. Patterns of Democracy: Government Forms and Performance in ThirtySix Countries. New Haven, CT: Yale University Press.
+
+Listhaug, O. 1995. The dynamics of trust in politicians. In H. D. Klingemann and D. Fuchs, eds., Citizens and the State, 261–297. Oxford: Oxford University Press.
+
+Listhaug, O. 2005. Oil wealth dissatisfaction and political trust in Norway: A resource curse?West European Politics 28: 834–851.
+
+Listhaug, O., Aardal, B, and Ellis, I. O. 2009. Institutional variation and political support. In H. D. Klingemann, ed., The Comparative Study of Electoral Systems, 311–332. Oxford: Oxford University Press.
+
+Listhaug, O., and Ringdal, K. 2009. Competition between Institutions in Multilevel Governance. Uppsala: University of Uppsala.
+
+Lujala, P. 2010. The spoils of nature: Armed civil conflict and rebel access to natural resources. Journal of Peace Research 47(1): 15–28.
+
+Lujala, P. 2015. Cursed by resources? High-value natural resources and armed civil conflict. In T. G. Jakobsen, ed., War: An Introduction to Theories and Research on Collective Violence, 2nd ed., 303–323. New York: Nova.
+
+March, J. G. 1988. Decisions and Organizations. Oxford: Basil Blackwell.
+
+Marien, S. 2011a. The effect of electoral outcomes on political trust: a multi-level analysis of 23 countries. Electoral Studies 30: 712–726.
+
+Marien, S. 2011b. Measuring political trust across time and space. In S. Zmerli and Hooghe, M., eds., Political Trust: Why Context Matters. Colchester: ECPR Press.
+
+Miller, A. H. 1974. Political issues and trust in government. American Political Science Review 68: 951–972.
+
+Newton, K. and Zmerli, S. 2011. Three forms of trust and their association. European Political Science Review 3: 169–200.
+
+Niedermayer, O., and Sinnott, R., eds. 1995. Public Opinion and Internationalized Governance. Oxford: Oxford University Press.
+
+Norris, P. 1999. Critical Citizens. Oxford: Oxford University Press.
+
+Norris, P. 2011. Democratic Deficit: Critical Citizens Revisited. New York: Cambridge University Press.
+
+(p. 576)
+
+Foundations of Political Trust
+
+Page 22 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+North, D. C. 1990. Institutions, Institutional Change, and Economic Performance. New York: Cambridge University Press.
+
+Papandopolus, Y. 2007. Problems of democratic accountability in network and multilevel governance. European Law Journal 13: 469–486.
+
+Powell, G. B., and Whitten, G. D. 1993. A cross-national analysis of economic voting: Taking account of the political context. American Journal of Political Science (2): 391–414.
+
+Putnam, R. D. 1993. Making Democracy Work. Princeton, NJ: Princeton University Press.
+
+Reitan, M., Gustafsson, K., and Blekesaune, A. 2015. Do local government reforms result in higher levels of trust in local politicians?Local Government Studies 41: 156–179.
+
+Rose, L., and Pettersen, P. A. 1999. Confidence in politicians and institutions. In H. M. Narud and T. Aalberg, eds., Challenges to Representative Democracy, 93–126. Bergen: Fagbokforlaget.
+
+Sacks, A., and Larizza, M. 2012. Why quality matters: A multi-level analysis of decentralization, local government performance and trustworthy government in postconflict Sierra Leone. World Bank Policy Research Paper 6021. Available at SSRN: http:// ssrn.com/abstract=1925391
+
+Sander, T. H., and R. D. Putnam. (2010). Still bowling alone? The post-9/11 split. Journal of Democracy 21(1): 9–16.
+
+Sanders, D., Clarke, H., Stewart, M., and Whiteley, P. 2014. Output oriented legitimacy: Individual- and system-level influences on democracy satisfaction. In Jacques Thomassen, ed., Elections and Democracy, 153–180. Oxford: Oxford University Press.
+
+Skocpol, T. 1994. From social security to health security? Opinion and rhetoric in U.S. social policy making. Political Science & Politics 27: 21–25.
+
+Soroka, S. 2014. Negativity in Democratic Politics. Cambridge: Cambridge University Press.
+
+Thomassen, J. 2014. Elections and Democracy. Cambridge: Cambridge University Press.
+
+Thomassen, J., and van der Kolk, H. 2009. Effectiveness and political support in old and new democracies. In H. D. Klingemann, ed., The Comparative Study of Electoral Systems, 333–346. New York: Oxford University Press.
+
+Tsui, K. K. 2010. More oil, less democracy: Evidence from worldwide crude oil discoveries. Economic Journal 121: 89–115.
+
+Uslaner, E. 2015. Congressional polarization and political trust. The Forum: 361–373.
+
+Foundations of Political Trust
+
+Page 23 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+
+Subscriber: University of Sussex; date: 24 June 2018
+
+van der Meer, T. 2010. In what we trust? A multi-level study into trust in parliament as an evaluation of state characteristics. International Review of Administrative Sciences 76: 517–536.
+
+Walter, B. F. 1999. Designing transitions from civil war: Demobilization, democratization, and commitments to peace. International Security 24: 127–155.
+
+Wendt, C., Kohl, J., Mischke, M., and Pfeifer, M. 2010. How do Europeans perceive their healthcare system? Patterns of satisfaction and preference for state involvement in the field of healthcare. European Sociological Review 26: 177–192.
+
+Notes:
+
+(1.) Pew Research Center, National Election Studies, Gallup, ABC/Washington Post, CBS/ New York Times, and CNN Polls.
+
+(2.) Monitoring the Future, www.monitoringthefuture.org.
+
+Ola Listhaug
+
+Ola Listhaug is Professor in the Department of Sociology and Political Science at the Norwegian University of Science and Technology.
+
+Tor Georg Jakobsen
+
+Tor Georg Jakobsen is Professor in the Trondheim Business School at the Norwegian University of Science and Technology.
+
+(p. 577)
+
+(p. 578)

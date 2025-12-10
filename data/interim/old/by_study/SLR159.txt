@@ -1,0 +1,1251 @@
+26/06/2025 23:27
+
+How and why is the COVID-19 crisis impacting trust in institutions? A two-wave longitudinal study in Italy / Cavazza, N; Russo, S; Colloca, P; Roccato, M. - In: PSICOLOGIA SOCIALE. - ISSN 1827-2517. - 17:3(2022), pp. 341-358. [10.1482/105492]
+
+Terms of use:
+
+The terms and conditions for the reuse of this version of the manuscript are specified in the publishing policy. For all terms of use and more information see the publisher's website.
+
+(Article begins on next page)
+
+This is the peer reviewd version of the followng article:
+
+1
+
+How and Why Is the COVID-19 Crisis Impacting Trust in Institutions? A Two-Wave Longitudinal 1
+
+Study in Italy 2
+
+3
+
+4
+
+Nicoletta Cavazza, Silvia Russo, Pasquale Colloca, Michele Roccato 5
+
+6
+
+Nicoletta Cavazza, Department of Communication and economics, University of Modena and 7
+
+Reggio Emilia, Italy (ORCiD: 0000-0002-6069-4601). 8
+
+Corresponding author: Silvia Russo, Department of Psychology, University of Torino, Italy (ORCiD: 9
+
+0000-0001-5214-9921). Email: silvia.russo@unito.it 10
+
+Pasquale Colloca, Department of Educational Science ‘Giovanni Maria Bertin’, University of 11
+
+Bologna, Italy (ORCiD: 0000-0003-0163-266X). 12
+
+Michele Roccato, Department of Psychology, University of Torino, Italy (ORCiD: 0000-0001- 13
+
+5817-7341). 14
+
+15
+
+16
+
+17
+
+18
+
+Cavazza, N., Russo, S., Colloca, P., & Roccato, M. (2022). How and why is the COVID-19 crisis impacting trust in institutions? A two-wave longitudinal study in Italy. Psicologia sociale, 17(3), 341-358. DOI: 10.1482/105492
+
+2
+
+Abstract 1
+
+Using a quota panel of the adult Italian population (N = 1,192), we conducted a two-wave longitudinal 2
+
+study to analyse how and why the crisis COVID -19 affected Italians' trust in institutions. Between May3
+
+June 2019 (before COVID -19) and April 2020 (the peak of the pandemic), trust in political institutions 4
+
+(political parties, parliament, and local administrations) and in super partes national institutions (the 5
+
+President of the Republic, the judiciary, and the police) increased, whereas trust in international 6
+
+institutions (the European Union and the United Nations) decreased. A mediation model showed that 7
+
+anxiety and collective angst were positively associated with seeking information about COVID -19 from 8
+
+institutional and relational sources. In turn, seeking information from institutional sources further 9
+
+increased trust in institutions, whereas seeking information from social media and friends did not. The 10
+
+same pattern held for trust in epistemic authorities (the national health care system, civil protection and 11
+
+scientists), which was measured only in the second wave. These results suggest that it is extremely 12
+
+important to pay attention to public communication strategies, as they play a crucial role in transforming 13
+
+individual and collective distress in times of crisis into trust in institutions, even net of the effect of 14
+
+information from relational sources. The strengths and limitations of the study are discussed, and 15
+
+directions for possible future research are suggested. 16
+
+Keywords: institutional trust; anxiety; information search; COVID-19; mediation 17
+
+18
+
+3
+
+How and Why Is the COVID-19 Crisis Impacting Trust in Institutions? A Two-Wave Longitudinal 1
+
+Study in Italy 2
+
+3
+
+The COVID -19 pandemic crisis has resulted in existential threats, economic damage, the need for 4
+
+significant lifestyle changes, and demands to adhere to norms that dramatically limit individuals' freedom 5
+
+and affect their psychological well-being (Scardigno & Testa, 2021). Since these dramatic changes are 6
+
+not easily reversible and are likely to last at least a few months, if not years, this crisis will have 7
+
+consequences in every social and existential sphere. In terms of the political sphere, the lockdown has 8
+
+increased political support for the ruling party, trust in government, and satisfaction with democracy in 15 9
+
+Western European countries (Bol et al., 2021). Similar results were provided by research in Denmark 10
+
+(Baekgaard et al., 2021), the United Kingdom (Parsons & Wiggins, 2021), and the 23 countries that 11
+
+participated in the PsyCorona survey (Han et al., 2021). These dynamics are far from surprising, as it is 12
+
+well known that exogenous shocks trigger «rally effects» which consist of an increase in people's trust in 13
+
+institutions that perform important social and individual functions. On the one hand, they help society as a 14
+
+unit respond quickly and efficiently to the shock (see Chatagnier, 2012). On the other hand, they promote 15
+
+people's well-being via the mediation of perceived control over their lives (see Roccato et al., 2021). 16
+
+Interestingly, Esaiasson et al. (2021) showed a strong and homogeneous rally effect of public opinion 17
+
+around the government even in Sweden, a context traditionally characterised by high levels of 18
+
+institutional and interpersonal trust, so much so that the Swedish government decided to respond to the 19
+
+pandemic with some of the weakest measures in Europe. Longitudinal analysis showed that, at least in the 20
+
+Netherlands, this increase in institutional trust was a true rally effect and not a response to the lockdown 21
+
+measures adopted by the Dutch government (Schraff, 2020). 22
+
+4
+
+However, we still do not know what process underlies this increase in institutional trust and whether 1
+
+this effect goes beyond trust in government. We tackled this research objective using Italy - a country that 2
+
+is on the opposite side of Sweden in terms of institutional trust and strategies implemented to combat the 3
+
+pandemic - as a case study. Italy was the first European country to pay a very high price in the COVID 4
+
+19 pandemic. When we collected the second wave data for this study (April 2020), Italy was under strict 5
+
+lockdown, had the fourth highest number of COVID -19 cases in Europe, and the second highest number 6
+
+of deaths, with more than 230,000 ill and more than 33,000 dead (Dowd et al., 2020). The emergency has 7
+
+brought the Italian healthcare system to its knees, especially in terms of availability of intensive care unit 8
+
+beds (Remuzzi & Remuzzi, 2020). Not surprisingly, many studies have been conducted in Italy to assess 9
+
+the psychological (e.g., Castelli et al., 2020; Prete et al., 2020) and social-psychological and behavioural 10
+
+(e.g., Moscatelli et al., 2021; Pagliaro et al., 2021; Paolini et al., 2020) consequences of COVID -19. 11
+
+However these latter used institutional trust as a predictor of citizens' compliance. To our knowledge, less 12
+
+attention has been paid to the predictors of institutional trust. Using a longitudinal dataset, we contributed 13
+
+to this growing literature by focusing on the role of social psychological factors (anxiety, collective angst 14
+
+and information seeking) potentially affecting changes in trust in political, super partes and international 15
+
+institutions between May and June 2019 (pre-pandemic) and in April 2020 (at the first peak). In addition, 16
+
+we also analysed the role of these factors in relation to trust in epistemic authorities. 17
+
+1. Critical Events and Institutional Trust 18
+
+Changes in institutional trust have been studied mainly in the context of economic hardship, wars, 19
+
+and terrorist attacks. National economic turmoil and personal economic hardship increase uncertainty 20
+
+about the future and lead to a weakening of institutional trust (e.g., Muro & Vidal, 2017), presumably due 21
+
+to a negative evaluation of institutional responses to these crises (Tormos, 2019). On the contrary, wars 22
+
+and terrorist attacks tend to strengthen institutional trust (Perrin & Smolek, 2009) by triggering 'rally 23
+
+5
+
+effects' that promote «a unity with the 'central' values, the political processes, the moral integrity of the 1
+
+political system, a loyalty to and support of the going order» (Lane, 1962, p. 162). Rally effects may 2
+
+result from increased patriotism (Mueller, 1973), strengthened collective identity (Skocpol, 2002), more 3
+
+positive evaluation of institutional response to threat (Putnam, 2002), greater adherence to national 4
+
+ingroup norms (Kuehnhass et al., 2021), and the need to make sense of and predict the social world by 5
+
+resorting to compensatory sources of control (Kay et al., 2008). 6
+
+There are some compelling similarities between the COVID -19 crisis and the crises analysed in the 7
+
+context of the rally effect. The crisis of COVID -19 is exogenous in nature, has led to a collective loss of 8
+
+subjective security and has increased the level of insecurity and existential anxiety of people. However, 9
+
+COVID -19 is an invisible enemy that has no explicit evil intentions. Moreover, the COVID -19 10
+
+emergency is unique in recent human history (Weible et al., 2020), and the health emergency and radical 11
+
+lifestyle changes (such as social distancing, home confinement, and remote work) designed to combat it 12
+
+were consequences of a complex and largely unknown phenomenon. As such, the crisis COVID -19 13
+
+underscores the need to cope with negative emotions and uncertainty (existential motivation) and to 14
+
+interpret and make sense of a new situation (epistemic motivation). 15
+
+According to theory and research on compensatory control (e.g., Kay et al., 2008; Rothbaum et al., 16
+
+1982), when confronted with existential and epistemic threats, individuals may activate compensatory 17
+
+processes that involve strengthening institutional trust, regardless of the effectiveness of institutional 18
+
+performance. These processes are driven by an epistemic motivation to reduce uncertainty and restore 19
+
+predictability to the world, and by an existential motivation to increase personal security. Thus, the 20
+
+epistemic and existential motivations activated by the COVID -19 pandemic should drive individuals' 21
+
+search for information to enhance institutional trust. 22
+
+6
+
+This is consistent with the theory of affective intelligence, according to which emotions act as 1
+
+signals to direct attention to potential opportunities or threats (Damasio, 1994). This theory states that two 2
+
+emotional subsystems are responsible for processing environmental stimuli. The disposition system 3
+
+controls most of our daily life by stimulating learned patterns of behaviour in response to familiar 4
+
+situations, whereas the surveillance system is activated by novel circumstances or threatening 5
+
+environmental events. The emotional expression of surveillance system activation is anxiety, which 6
+
+stimulates a desire to better understand the source of a potential threat. This promotes an active search for 7
+
+information and reduces reliance on habits and dispositions (Marcus, Neuman, & MacKuen, 2000). This 8
+
+suggests that anxiety, as the predominant emotion in the COVID -19 crisis, should motivate people to 9
+
+search for information about COVID -19. Based on another line of reasoning, it could be argued that 10
+
+anxiety could draw people back from news and information sources due to the stress caused by the 11
+
+pandemic and the information overload experienced (Soroya et al., 2020). However, the results of recent 12
+
+studies conducted in the context of the COVID -19 pandemic are consistent with predictions based on 13
+
+affective intelligence theory (Akgül et al., 2021; Ahundjanov et al., 2020; Bento et al., 2020; Russo et al., 14
+
+2021). 15
+
+Apart from the existential threat it poses in terms of personal vulnerability, the pandemic COVID 16
+
+19 has also led to overwhelming changes and uncertainties in terms of people's consolidated lifestyles. In 17
+
+addition to anxiety about one's own future and self, the COVID -19 pandemic has likely created a strong 18
+
+sense of uncertainty about the future of the groups to which people belong. Wohl and Branscombe (2009) 19
+
+defined this concern about the future of the group as 'collective angst' that is, a concern about the future 20
+
+vitality of the group that occurs when people perceive a threat that could seriously harm the group and 21
+
+have difficulty imagining how to protect it. Because collective angst drives people to be vigilant on behalf 22
+
+7
+
+of the group and to protect it, this emotional state should encourage individual searches for information 1
+
+about COVID -19. 2
+
+We expected that exposure to information about COVID -19 serving the epistemic and existential 3
+
+functions mentioned above would have different relationships to institutional trust depending on the type 4
+
+of source to which people referred. Information from institutional sources (i.e., the government, 5
+
+newspapers, TV, and radio)-which largely reported on the development of the COVID -19 pandemic and 6
+
+the government's necessary actions to combat it-should enhance people's support for institutions and 7
+
+institutional trust. However, relying on information circulating among friends, relatives, and social media 8
+
+(relational sources) exposes people to a broader range of viewpoints as well as the fake news and 9
+
+conspiracy theories (e.g., Doerr, Fouz, & Friedrich, 2012) prevalent in social media, even during the 10
+
+COVID -19 pandemic (e.g., Atehortua & Patino, 2021; Salali & Uysal, 2020), which can challenge 11
+
+institutional management of the pandemic. In such cases, thoughtful consideration of available options 12
+
+may not result in increased institutional support. 13
+
+2. The Present Study 14
+
+Based on these theoretical perspectives, we expected that the anxiety and collective angst that emerged 15
+
+during the pandemic would be positively associated with institutional trust, particularly through 16
+
+information from institutional sources rather than relational sources. Specifically, we expected the 17
+
+following: 18
+
+H1: Institutional trust should have increased from 2019 to 2020. 19
+
+H2: The anxiety triggered by uncertainty and fear would motivate and lead individuals to search for 20
+
+information about COVID -19, regardless of institutional and relational sources. 21
+
+H3: The collective angst created by the threat to the ingroup's future lifestyle would motivate individuals 22
+
+to search for information about COVID -19 in both institutional and relational sources. 23
+
+8
+
+H4: Exposure to information about COVID -19 from institutional sources is positively associated with 1
+
+institutional trust, whereas exposure to information about COVID -19 from relational sources is not. In 2
+
+other words: We expect that only exposure to information from institutional sources mediates the 3
+
+association between anxiety and collective angst and institutional trust. 4
+
+3. Materials and Methods 5
+
+3.1 Participants and Procedures 6
+
+We conducted a longitudinal study in two waves as part of the COCO (COnsequencs of COvid-19) 7
+
+project (for more details, see https://www.dippsicologia.unito.it/do/progetti.pl/Show?_id=9fxo). We 8
+
+collected the first wave of data between May 26 and June 1, 2019, to study the dynamics of voting in the 9
+
+2019 European elections. Using the CAWI method, we surveyed a quota sample of the adult Italian 10
+
+population stratified by sex, age, geographic residence, and demographic size of residence (N = 1,504; 11
+
+48.9% men; Mage = 47.80; SD = 15.06). We collected the second wave of data for the study between April 12
+
+17 and 26, 2020, when Italy was struggling with the most dramatic phases of the first wave of the COVID 13
+
+-19 pandemic and the lockdown measures. Of the 1,504 participants in the first wave, 1,192 participated 14
+
+in the second wave (49.3% men; Mage = 48.68; SD = 14.52). In accordance with the ethical standards of 15
+
+the 1964 Declaration of Helsinki, we informed participants of all relevant aspects of the study before their 16
+
+participation. Importantly, they were informed of the right to refuse to participate in the study or to 17
+
+withdraw their consent to participate at any time during the study without reprisal. They then confirmed 18
+
+that they had understood the instructions correctly, agreed to participate, and began filling out the 19
+
+questionnaire. The research protocol was approved by the Bioethics Committee of the University of Turin 20
+
+(Protocol No. 181488). 21
+
+We examined whether dropout rate between 2019 and 2020 was related to gender, age, education, 22
+
+and institutional trust. Logistic regression analysis was performed to determine whether dropouts were 23
+
+9
+
+systematic in the sample (dropout = 0, retention = 1). No significant differences emerged except for an 1
+
+effect of age (Wald test = 18.41; p < .001): as age increased, respondents were more likely to participate 2
+
+in the second wave. A low Nagelkerke's R2 (0.03) confirmed that differences between respondents who 3
+
+participated in both waves and those who participated only in the first were not substantial. A negative 4
+
+relationship was found between age and attrition χ2(5) = 39.48. However, the association was not very 5
+
+strong, phi = .16. 6
+
+3.2 Measures 7
+
+All measures listed below are from 2020, except for institutional trust, which was measured in both 8
+
+2019 and 2020. 9
+
+Anxiety. We asked participants to indicate how often they had felt anxiety, fear, and worry in the 10
+
+days preceding the survey (Marcus, Neuman & MacKuen, 2000). Response options were labelled 'Never', 11
+
+'Seldom', 'Often', and 'Always or Almost Always'. Based on α = .85, we calculated computed a mean 12
+
+index of anxiety. 13
+
+Collective angst. We measured collective angst using the following two 4-category items: 'I am 14
+
+worried that the Italian way of life is in jeopardy due to COVID -19' and 'I think the future of the Italian 15
+
+way of life is under threat from COVID -19' (Wohl & Branscombe, 2009). Response options were 16
+
+labelled 'Strongly disagree', 'Disagree', 'Agree' and 'Strongly agree'. We calculated a mean index of 17
+
+collective angst (r = .69; p < .001). 18
+
+Search for information about COVID -19. We asked participants to indicate how often they had 19
+
+searched for information about the pandemic situation in Italy after COVID -19 spread in the country: (a) 20
+
+from the government, (b) on social media (Facebook, Twitter, etc.), (c) from relatives and friends, (d) on 21
+
+TV and the radio, and (e) in newspapers. The four response alternatives were labelled 'Never or almost 22
+
+never', 'Less than once a day', 'Once a day', and 'More than once a day'. We calculated an indicator for 23
+
+10
+
+information seeking from institutional sources (government sources, TV, radio, and newspapers; α = .60) 1
+
+and another indicator for information seeking from relational sources (social media, relatives and friends; 2
+
+r = .42; p < .001). A confirmatory factor analysis conducted with MPLUS confirmed our hypothesised 3
+
+two-dimensional factorial structure, CFI = .98, TLI = .95, RMSEA = .06 (90% CI = .04, .09). 4
+
+Institutional trust. In both waves, we assessed participants' trust in eight institutions (political 5
+
+parties, the President of the Republic, the judiciary, the police, local administration, the European Union, 6
+
+the United Nations, and the Italian Parliament). As in the first wave, we used an 11-category format, 7
+
+whereas in the second wave we used a 10-category format, rescaling all responses so that they ranged 8
+
+between 0 and 1. We created three indicators of trust: Trust in political institutions (political parties, 9
+
+parliament, and local administration; α = .83 in the first wave and .81 in the second wave); Trust in super 10
+
+partes national institutions (the President of the Republic, the judiciary, and the police; α = .74 and α = 11
+
+.75 in the first and second waves, respectively); and Trust in international institutions (the European 12
+
+Union and the United Nations; r = .70, p < .001 and r = .66, p <.001 in the first and second waves, 13
+
+respectively). In the second wave, we also asked participants to rate their trust in three epistemic 14
+
+authorities: the national health system, civil protection, and scientists (α = .80). Table 1 shows the 15
+
+correlations between the variables. 16
+
+3.3 Data Analysis 17
+
+First, we described how institutional trust changed between 2019 and 2020. To this end, we 18
+
+calculated the average trust for all institutions examined in this study and evaluated the changes with a 19
+
+series of t-tests. We then tested three mediated regression models to predict participants' institutional trust 20
+
+as a function of their anxiety and collective angst, mediated by their search for information on COVID 21
+
+19 through institutional and relational sources (Figure 1). In our analysis, we controlled for gender, age, 22
+
+and education, as well as institutional trust measured one year earlier at 2019, as in autoregressive 23
+
+11
+
+models. The autoregressive components of the model are described by stability coefficients that reflect 1
+
+the magnitude of change between two time points (Schlüter, Davidov, & Schmidt, 2006). Here, each 2
+
+component of institutional trust in 2020 was regressed on its own lagged score, namely the same 3
+
+component of institutional trust in 2019. In this model, the regression coefficients and their magnitudes 4
+
+indicate how well the variation in our independent variables predicted the change in institutional trust. 5
+
+Finally, we tested an additional mediated model designed to predict participants' trust in the three 6
+
+epistemic authorities added in the second wave. We used the same predictors as in the first models, except 7
+
+for participants' trust in 2019, which was not available. We used PROCESS, the SPSS macro developed 8
+
+by Hayes (2018), to test all mediated models. Indirect effects were estimated using bootstrapping with 9
+
+5,000 resamples to calculate 95% confidence intervals (CIs). CIs that do not include 0 denote statistically 10
+
+significant indirect effects. 11
+
+4. Results 12
+
+As a first step, we analysed the single indicators of institutional trust and examined how they 13
+
+changed between 2019 and 2020. Table 2 shows the means along with t-tests for mean differences for 14
+
+each indicator of institutional trust in the first and second waves. Consistent with H1, participants' trust in 15
+
+all political and super partes institutions (except trust in the judiciary) increased significantly between the 16
+
+first and second waves, while trust in international institutions decreased significantly. 17
+
+Table 3 shows the results of the first three mediated regression models. In the lower part of the 18
+
+table, we report the effects of anxiety, collective angst and trust in 2019, along with the control variables 19
+
+for both mediators: seeking information from institutional and relational sources. In all three models, 20
+
+consistent with H2, we found that anxiety had positive and significant associations with both mediators. 21
+
+Consistent with H3, this was also true for collective angst, although the associations were smaller. In the 22
+
+upper part of the table, in addition to the stability coefficients of trust over time, we reported the 23
+
+12
+
+associations of anxiety and collective angst as well as the associations of seeking information from 1
+
+institutional and relational sources. As expected and consistent with H4, information from institutional 2
+
+sources had a positive association with institutional trust, whereas information from social media and 3
+
+friends did not, with the exception of trust in super partes institutions (negative association). We found 4
+
+significant and positive indirect effects of anxiety and collective angst on institutional trust through 5
+
+seeking information from institutional sources, but not through seeking information from relational 6
+
+sources (Table 4). 7
+
+We also ran an additional mediated regression model to predict trust in epistemic authority. The 8
+
+results are reported in the last columns of Table 3. Consistent with the previous models, as can be seen in 9
+
+the lower part of the table, anxiety and collective angst showed positive and significant associations with 10
+
+both mediators, with the effects of anxiety being larger. Seeking information from institutional sources 11
+
+was positively associated with trust in epistemic authorities. Seeking information from social media and 12
+
+friends was negatively related to trust in epistemic authorities. Finally, indirect effects analysis revealed 13
+
+positive indirect effects of anxiety and collective angst on trust in epistemic authorities mediated by 14
+
+seeking information from institutional sources and negative indirect effects of anxiety and collective angst 15
+
+on trust in epistemic authorities mediated by seeking information from social media and friends (Table 16
+
+4).1 17
+
+5. Discussion 18
+
+The analyses presented here seek to understand the impact of the current pandemic on citizens' 19
+
+feelings toward a variety of institutions by examining whether and how institutional trust was affected by 20
+
+the crisis COVID -19. Consistent with our predictions, the pandemic has increased people's trust in 21
+
+national institutions. In particular, significant changes in increased trust were observed in national 22
+
+political and super partes institutions. This is consistent with our expectations based on compensatory 23
+
+13
+
+control theory (Kay et al., 2008). It is plausible that the loss of control triggered by the pandemic 1
+
+motivated people to find ways to cope with existential fear and uncertainty. Strengthening institutional 2
+
+trust, just like reinforcing mainstream worldviews, may be one way to do so. This result is also consistent 3
+
+with the notion that exogenous shocks trigger «a unity with the 'central' values, the political processes, the 4
+
+moral integrity of the political system, a loyalty to and support of the going order» (Lane, 1962, p. 162) in 5
+
+order to cope with the loss of subjective control over the world by resorting to compensatory sources of 6
+
+control such as institutions (Kay et al., 2008). This finding is particularly interesting because it is 7
+
+consistent with and extends the observations of the so-called «Swedish experiment» (Esaiasson et al., 8
+
+2021), in which citizens have traditionally trusted institutions and the government therefore preferred to 9
+
+deal with the pandemic based on citizens' voluntary compliance with official recommendations. Our 10
+
+results show that the rally effects triggered by the pandemic are not necessarily grafted onto basic trust, 11
+
+but develop when institutions opt for mandatory measures. 12
+
+We have also found that the crisis COVID -19 has reduced confidence in international institutions. 13
+
+This result is not surprising. On the one hand, the COVID -19 crisis was handled almost exclusively by 14
+
+national institutions. International institutions took little responsibility in the health and economic 15
+
+management of the crisis and even gave contradictory messages (such as the World Health Organisation's 16
+
+inconsistent recommendations on the use of swabs). On the other hand, the literature suggests that rally 17
+
+effects are due to strengthened collective identities and stronger identification with the ingroup (Skocpol, 18
+
+2002). Collective identities are at least in part an expression of the need for personal security and 19
+
+psychological well-being (Wimmer, 2013). This need is particularly strong in threatening situations, 20
+
+which increase the importance of the 'most powerful identity available' (Gorman & Seguin, 2018, p. 706). 21
+
+It is plausible that the COVID -19 crisis increased the importance of national identification and decreased 22
+
+the importance of supranational identification. Since we do not have data on changes in the source of 23
+
+14
+
+collective identification between the first and second waves of our study, this remains a task for future 1
+
+studies. 2
+
+Most importantly, in this study we also examined how the COVID -19 crisis affected trust in 3
+
+institutions, hypothesising a mediation model. We expected that the level of uncertainty and existential 4
+
+fear triggered by the pandemic, measured in terms of anxiety and collective angst, would affect trust in 5
+
+institutions primarily through information seeking COVID -19. This prediction relied largely on 6
+
+compensatory control theory and affective intelligence theory, which suggest that such negative emotions 7
+
+stimulate the desire for information. Our results add to this line of research by showing that anxiety can 8
+
+also influence people's trust in political institutions, depending on the source of the information. As 9
+
+predicted, our results showed that the type of information source is critical to understanding people's 10
+
+institutional trust. Institutional trust was enhanced only by information from institutional sources, but not 11
+
+by information from relational sources. We expected this result because information circulating among 12
+
+friends and on social media could be more heterogeneous and inaccurate about actions taken by the 13
+
+government and could include rumours and fake news (e.g., Doerr et al., 2012). This pattern of results 14
+
+held true for trust in all three types of institutions studied (political, super partes and international), 15
+
+increasing our confidence in our conclusions. 16
+
+We also found a different mediated effect related to trust in epistemic authorities. Again, our 17
+
+analysis showed positive indirect effects of anxiety and collective angst on trust in epistemic authorities 18
+
+through the mediating effect of information from institutional sources. In addition, we found negative 19
+
+indirect effects on institutional trust through seeking information from relational sources. The result is 20
+
+consistent with the notion that the multiplicity of information from relational sources not only did not 21
+
+promote institutional trust, but actually led to even more distrust of 'doctors' who were perceived to be 22
+
+incapable of providing clear and reliable scientific information in the early stages of the pandemic. 23
+
+15
+
+This study has some limitations. First, we have only studied short-term effects. We cannot say what 1
+
+will happen in the long run once the emergency is over and the economic crisis has peaked. Previous 2
+
+studies have shown that rally effects last for a few months and their evolution depends on the 3
+
+performance of institutions in dealing with the current crisis (e.g., Perrin & Smolek, 2009). It is plausible 4
+
+that if the health crisis is followed by economic distress, public opinion will blame institutions for the 5
+
+crisis (Tormos, 2019), and that the rise in confidence will prove to be only temporary. Consistent with 6
+
+this, Roccato et al. (2021) showed that people who were dissatisfied with the government's handling of 7
+
+the pandemic increased their desire for an antidemocratic government. In addition, Aksoy et al. (2020) 8
+
+showed that exposure to the epidemic negatively affected young adults under age 25's trust in institutions. 9
+
+A multi-wave longitudinal study modelling trends in institutional trust may be of interest. 10
+
+Second, our sample consisted of adults from a single country. Although Italy was an appropriate 11
+
+case study given the wide spread of the virus, strict lockdown policies, and harsh economic consequences 12
+
+in that country, it should be noted that political trust can be taken as a general expression of a nationally 13
+
+rooted political culture. In this regard, Italy is a country with traditionally low levels of political trust 14
+
+(e.g., Van Erkel & Van der Meer, 2016). Future research could explore whether our results are unique to 15
+
+Italy and its political culture or whether they can instead be generalised to countries with lower levels of 16
+
+threat. Third, we focused only on institutional trust. A replication of this study, taking into account 17
+
+possible spillover effects between interpersonal and institutional trust, could be interesting. Finally, with 18
+
+the important exception of institutional trust, which was measured in both waves, our data allowed us to 19
+
+use predictors that were measured only in the second wave. This was related to the fact that in 2019, when 20
+
+we collected data for our first wave, no one could predict the pandemic. Because of this limitation, one 21
+
+could argue that the correlations we found do not depend on the COVID -19 pandemic. However, the 22
+
+results we obtained are consistent with the predictions we made based on the theoretical framework. 23
+
+16
+
+Moreover, although the panel structure of our data is suboptimal, it is rare in the growing literature 1
+
+on the social psychological consequences of COVID -19, which is mostly based on cross-sectional data or 2
+
+on panel studies begun after the outbreak of the pandemic. 3
+
+On a positive note, we reported changes in institutional trust over the course of a year. The longitudinal 4
+
+nature of our data allowed us to analyse changes at both the sample and individual levels. At the sample 5
+
+level, we were able to examine differences in institutional trust in a «normal» situation compared with a 6
+
+situation characterised by severe health and economic threats. At the individual level, we were able to test 7
+
+rigorous hypotheses about the relationships between fear among anxiety, exposure to information, and 8
+
+institutional trust by considering participants' levels of institutional trust prior to the pandemic. 9
+
+Furthermore, by assessing the different facets of institutional trust, we were able to paint a multifaceted 10
+
+and complete picture of the process that leads to a change in institutional trust. Our findings have 11
+
+implications for institutional crisis management, as they suggest that it is extremely important to pay 12
+
+attention to public communication strategies, as they play a crucial role in channelling individual and 13
+
+collective distress toward trust in institutions during times of crisis, even net of the effect of information 14
+
+from relational sources. Finally, our study went beyond the descriptive level that usually characterises 15
+
+studies of rally effects. It tested and validated a model of the social psychological reasons for the increase 16
+
+in trust we found. 17
+
+17
+
+References 1
+
+Ahundjanov, B. H. Akhundjanov, S. B., & Okhunjanov, B. B. (2020). Information search and financial 2
+
+markets under COVID-19. Entropy, 22, 791-809. https://doi.org/10.3390/e22070791 3
+
+Aksoy, C. G., Eichengreen, B., & Saka, O. (2020). The political scar of epidemics. Retrieved January 12, 4
+
+2022 from IZA website, https://www.iza.org/publications/dp/13351/the-political-scar-of-epidemics 5
+
+Atehortua, N. A., & Patino, S. (2021). COVID-19, a tale of two pandemics: Novel coronavirus and fake 6
+
+news messaging. Health Promotion International, 36(2), 524-534. 7
+
+https://doi.org/10.1093/heapro/daaa140 8
+
+Baekgaard, M., Christensen, J., Madsen, J. K., & Mikkelsen, K. S. (2021). Rallying around the flag in 9
+
+times of COVID-19: Societal lockdown and trust in democratic institutions. Journal of Behavioral 10
+
+Public Administration, 3, 1-12. https://doi.org/10.30636/jpba.32.172 11
+
+Bento, A. I., Nguyen, T., Wing, C., Lozano-Rojas, F., Ahn, Y.-Y., & Simon, K. (2020). Evidence from 12
+
+internet search data shows information-seeking responses to news of local COVID-19 cases. PNAS, 13
+
+117, 11220-11222. https://doi.org/10.1073/pnas.2005335117 14
+
+Bol, D., Giani, M., Blais, A., & Loewen, P. J. (2021). The effect of COVID-19 lockdown on political 15
+
+support: Some good news for democracy? European Journal of Political Research, 60, 497-505. 16
+
+https://doi.org/10.1111/1475-6765.12401 17
+
+Castelli, L., Di Tella, M., Benfante, A., & Romeo, A. (2020). The spread of COVID-19 in the Italian 18
+
+population: anxiety, depression, and post-traumatic stress symptoms. Canadian Journal of 19
+
+Psychiatry. Revue Canadienne de Psychiatrie, 65(10), 731. 20
+
+https://doi.org/10.1177/0706743720938598 21
+
+Chatagnier, T. (2012). The effect of trust in government on rallies ‘round the flag. Journal of Peace 22
+
+Research, 49, 631–645. https://doi.org/10.1177/0022343312440808 23
+
+18
+
+Damasio, A. R. (1994). Descartes’ error: Emotion, reason, and the human brain. Penguin. 1
+
+Doerr, B., Fouz, M., & Friedrich, T. (2012). Why rumors spread so quickly in social 2
+
+networks. Communications of the ACM, 55, 70-75. https://doi.org/10.1145/2184319.2184338 3
+
+Dowd, J. B., Andriano, L., Brazel, D. M., Rotondi, V., Block, P., Ding, X., ... & Mills, M. C. (2020). 4
+
+Demographic science aids in understanding the spread and fatality rates of COVID-19. Proceedings 5
+
+of the National Academy of Sciences, 117, 9696-9698. https://doi.org/10.1073/pnas.2004911117 6
+
+Esaiasson, P., Sohlberg, G., Ghersetti, M., & Johansson, B. (2021). How the coronavirus crisis affects 7
+
+citizen trust in institutions and in unknown others: Evidence from «the Swedish experiment». 8
+
+European Journal of Political Research, 60, 748-760. https://doi.org/10.1111/1475-6765.12419 9
+
+Gorman, B., & Seguin, C. (2018). World citizens on the periphery: Threat and identification with global 10
+
+society. American Journal of Sociology, 124, 705-761. https://doi.org/10.1086/699652 11
+
+Hayes, A. F. (2018). Introduction to mediation, moderation, and conditional process analysis (2nd Ed.). 12
+
+Guilford. 13
+
+Han, Q., Zheng, B., Cristea, M., Agostini, M., Bélanger, J. J., Gützkow, B., Kreienkamp, J., PsyCorona 14
+
+Collaboration, & Neander, P. (2021). Trust in government regarding COVID-19 and its associations 15
+
+with preventive health behaviour and prosocial behavior during the pandemic: A cross-sectional and 16
+
+longitudinal study. Psychological Medicine. Advance online publication. 17
+
+https://doi.org/10.1017/S0033291721001306 18
+
+Kay, A., Gaucher, D., Napier, J. L., Callan, M. J., & Laurin, K. (2008). God and the government: Testing 19
+
+a compensatory control mechanism for the support of external systems. Journal of Personality and 20
+
+Social Psychology, 95, 18-35. https://doi.org/10.1037/0022-3514.95.1.18 21
+
+Kuehnhass, C. R., Holm, J., & Mahieu, B. (2021). Rally ‘round the flag? Terrorism on (intra)national 22
+
+identity. Public Choice, 188, 53-74. https://doi.org/10.1007/s11127-020-00803-8 23
+
+19
+
+Marcus, G. E., Neuman W. R., & MacKuen, M. (2000). Affective intelligence and political judgment. 1
+
+University of Chicago Press. 2
+
+Moscatelli, S., Graziani, A. R., Botindari, L., Ciaffoni, S., & Menegatti, M. (2021). «Everything will be 3
+
+all right!»: National and European identifications as predictors of positive expectations for the 4
+
+future during the COVID-19 emergency. Frontiers in Psychology, 12, 723518. 5
+
+https://doi.org/10.3389/fpsyg.2021.723518 6
+
+Mueller, J. E. (1973). War, presidents and public opinion. Wiley. 7
+
+Muro, D., & Vidal, G. (2017). Political mistrust in southern Europe since the Great 8
+
+Recession. Mediterranean Politics, 22, 197-217. https://doi.org/10.1080/13629395.2016.1168962 9
+
+Pagliaro, S., Sacchi, S., Pacilli, M. G., Brambilla, M., Lionetti, F., Bettache, K., Bianchi, M., Biella, M., 10
+
+Bonnot, V., Boza, M., Butera, F., Ceylan-Batur, S., Chong, K., Chopova, T., Crimston, C. R., 11
+
+Álvarez, B., Cuadrado, I., Ellemers, N., Formanowicz, M., Graupamm, V., Gkinopoulos, T., Jeong, 12
+
+E. H. K., Jasinskaja-Lathi, I., Jetten, J., Bin, K. M., Mao, Y., McCoy, C., Mehnax, F., Minescu, A., 13
+
+Sirlopù, D., Simić, A., Travaglino, G., Uskul, A. K., Zanetti, C., Zinn, A., & Zubieta, E. (2021). 14
+
+Trust predicts COVID-19 prescribed and discretionary behavioral intentions in 23 countries. Plos 15
+
+One, 16(3), e0248334. https://doi.org/10.1371/journal. pone.0248334 16
+
+Paolini, D., Maricchiolo, F., Pacilli, M. G., & Pagliaro, S. (2020). COVID-19 lockdown in Italy: The role 17
+
+of social identification and social and political trust on well-being and distress. Current Psychology: 18
+
+A Journal for Diverse Perspectives on Diverse Psychological Issues. Advance online 19
+
+publication. https://doi.org/10.1007/s12144-020-01141-0 20
+
+Parsons, S., & Wiggins, R. D. (2021). Trust in government and others during the COVID-19 pandemic: 21
+
+Initial findings from the COVID-19 survey in five national longitudinal studies. Retrieved January 22
+
+12, 2022 from Centre for Longitudinal Studies website, https://cls.ucl.ac.uk/wp23
+
+20
+
+content/uploads/2020/10/Trust-in-government-and-others-during-the-COVID-19-pandemic1
+
+%E2%80%93-initial-findings-from-COVID-19-survey.pdf 2
+
+Perrin, A. J., & Smolek, S. J. (2009). Who trusts? Race, gender, and the September 11 rally effect among 3
+
+young adults. Social Science Research, 38(1), 136-147. 4
+
+https://doi.org/10.1016/j.ssresearch.2008.09.001 5
+
+Prete, G., Fontanesi, L., Porcelli, P., & Tommasi, L. (2020). The psychological impact of COVID-19 in 6
+
+Italy: Worry leads to protective behavior, but at the cost of anxiety. Frontiers in Psychology, 11, 7
+
+566659. https://10.3389/fpsyg.2020.566659 8
+
+Putnam, R. D. (2002). Community-based social capital and educational performance. In D. Ravitch & J. 9
+
+P. Viteritti (Eds.), Making good citizens: Education and civil society. Yale University Press. 10
+
+Remuzzi, A. & Remuzzi, G. (2020). COVID-19 and Italy: What next? Lancet, 395, 1225-1228. 11
+
+https://doi.org/10.1016/S0140-6736(20)30627-9 12
+
+Roccato, M., Colloca P., Cavazza, N., & Russo, S. (2021). Coping with the COVID-19 pandemic through 13
+
+institutional trust: Rally effects, compensatory control and emotions. Social Science Quarterly, 102, 14
+
+2360-2367. https://doi.org/10.1111/ssqu.13002 15
+
+Roccato, M., Russo, S., Colloca, P., & Cavazza, N. (2021). The lasting effects of the COVID-19 16
+
+pandemic on support for anti-democratic political systems: A 6-month longitudinal study. Social 17
+
+Science Quarterly, 102, 2285-2295. https://doi.org/10.1111/ssqu.12958 18
+
+Rothbaum, F., Weisz, J. R., & Snyder, S. S. (1982). Changing the world and changing the self: A two19
+
+process model of perceived control. Journal of Personality and Social Psychology, 42(1), 5-37. 20
+
+https://doi.org/10.1037/0022-3514.42.1.5 21
+
+Russo, S., Colloca, P., Cavazza, N., & Roccato, M. (2021). Moving away from populist votes: The role of 22
+
+anxiety during the COVID-19 pandemic. Polis, 35, 135-164. https://doi.org/10.1424/100291 23
+
+21
+
+Salali, G. D., & Uysal, M. S. (2020). COVID-19 vaccine hesitancy is associated with beliefs on the origin 1
+
+of the novel coronavirus in the UK and Turkey. Psychological Medicine. Advance online 2
+
+publication. doi:10.1017/S0033291720004067 3
+
+Scardigno, R., & Testa, G. (2021). Zoom è stato una luce: La religiosità online ai tempi del COVID-19 4
+
+[Zoom was a light: Online religiosity in the COVID-19 pandemic]. Psicologia Sociale, 16, 373-396. 5
+
+https://doi.org/10.1482/102122 6
+
+Schlüter, E., Davidov, E., & Schmidt, P. (2006). The dynamics of authoritarianism and anomia: Applying 7
+
+autoregressive cross-lagged and latent growth models to a three-wave panel study. In K. Montfort, 8
+
+H. Oud, & A. Satorra (Eds.), Longitudinal models in the behavioral and related sciences (pp. 315– 9
+
+336). Erlbaum. 10
+
+Schraff, D. (2020). Political trust during the COVID-19 pandemic: Rally around the flag or lockdown 11
+
+effects? European Journal of Political Research, 60, 1007-1017. https://doi.org/10.1111/147512
+
+6765.12425 13
+
+Skocpol, T. (2002). Will 9/11 and the war on terror revitalize American civic democracy? PS – Political 14
+
+Science & Politics, 35(3), 537-540. https://doi.org/10.1017/S104909650200080X 15
+
+Soroya, S. H., Farooq, A., Mahmood, K., Isoaho, J., & Zara, S. E. (2020). From information seeking to 16
+
+information avoidance: Understanding the health information behavior during a global health crisis. 17
+
+Information Processing & Management, 58(2), 102440. https://doi.org/10.1016/j.ipm.2020.102440 18
+
+Tormos, R. (2019). Measuring personal hardship and its impact on political trust during the great 19
+
+recession. Social Indicators Research, 144, 1209-1232. https://doi.org/10.1007/s11205-019-0213020
+
+y 21
+
+Van Erkel, P. F., & Van der Meer, T. W. (2016). Macroeconomic performance, political trust and the 22
+
+Great Recession: A multilevel analysis of the effects of within‐country fluctuations in 23
+
+22
+
+macroeconomic performance on political trust in 15 EU countries, 1999–2011. European Journal of 1
+
+Political Research, 55, 177-197. https://doi.org/10.1111/1475-6765.12115 2
+
+Weible, C. M., Nohrstedt, D., Cairney, P., Carter, D. P., Crow, D. A., Durnová, A. P., Heikkina, T., 3
+
+Ingold, K., McConnell, A., & Stone, D. (2020). COVID-19 and the policy sciences: Initial reactions 4
+
+and perspectives. Policy Sciences, 53, 225-241. https://doi.org/10.1007/s11077-020-09381-4 5
+
+Wimmer, A. (2013). Ethnic boundary making: Institutions, power, networks. Oxford University Press. 6
+
+Wohl, M. J. A., & Branscombe, N. R. (2009). Group threat, collective angst, and ingroup forgiveness for 7
+
+the war in Iraq. Political Psychology, 30, 193-217. https://doi.org/10.1111/j.14678
+
+9221.2008.00688.x 9
+
+10
+
+23
+
+Footnote. 1
+
+1. Between 2019 and 2020 a change of government took place in Italy. The Movimento 5 stelle 2
+
+(Five Star Movement) governed Italy in 2019 along with the right-wing populist Lega. In 2020, it still 3
+
+governed Italy, but the Lega was replaced by the centre-left Democrat party and two other small parties of 4
+
+similar orientation. Parallel analyses (available on request from the corresponding author) controlling for 5
+
+participants' vote at the 2019 European election produced results that are broadly consistent with those we 6
+
+present here. Thus, the effects we detected did not depend on the party affiliation of the participants. 7
+
+8
+
+9
+
+10
+
+24
+
+Table 1
+
+Correlations among the study variables
+
+2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 Trust in political institutions 2020 .69*** .70*** .57*** .60*** .47*** .48*** .05 .00 .23*** .09** -.01 -.01 -.00
+
+2 Trust in super partes institutions 2020 - .68*** .72*** .42*** .67*** .51*** .06* .08** .26*** .03 .06* -.01 .07*
+
+3 Trust in international institutions 2020 - .53*** .44*** .49*** .65*** .02 -.04 .14*** .04 -.05 -.00 .07*
+
+4 Trust in epistemic authorities 2020 - .36*** .49*** .42*** .06* .15*** .20*** .02 .03 .02 .04
+
+5 Trust in political institutions 2019 - .63*** .57*** -.02 -.03 .14*** .06* .03 -.08** .02
+
+6 Trust in super partes institutions 2019 - .67*** -.01 .05 .19*** -.01 .10*** -.07* .07*
+
+7 Trust in international institutions 2019 - .04 .02 .13*** .03 -.05 .00 .10***
+
+8 Anxiety - .51*** .44*** .40*** .02 .26*** -.02
+
+9 Collective angst - .36*** .26*** .05 .16*** -.01
+
+10 Information from institutional sources - .47*** .13*** .06* .08**
+
+11 Information from relational sources - -.10*** .14*** .03
+
+12 Age - .05 -.27***
+
+13 Gender - -.11***
+
+14 Education 
+
+Note. When cardinal and dummy variables are involved, we report the point-biserial correlation. *** p < .001. ** p < .01. * p < .05.
+
+25
+
+Table 2
+
+Trust toward institutions: Changes between 2019 and 2020
+
+M 2019(SD) M2020(SD) t(df) p
+
+Trust toward:
+
+Political parties .31(.24) .32(.25) -2.37(1190) .018
+
+Local administration .46(.23) .51(.24) -6.92(1185) <.001
+
+Parliament .41(.24) .42(.25) -2.04(1184) .041
+
+President of the Republic .56(.29) .58(.30) -2.51(1183) .012
+
+Judiciary .50(.26) .50(.27) 0.19(1187) .850
+
+Police .63(.23) .65(.23) -2.69(1185) .007
+
+European Union .47(.26) .37(.28) 14.54(1182) <.001
+
+United Nations .52(.24) .48(.26) 5.00(1188) <.001
+
+26
+
+Table 3
+
+Prediction of trust toward institutions and epistemic authorities
+
+Trust toward: Political institutions Super partes institutions International institutions Epistemic authorities
+
+Β p β p β p β p
+
+Age -.07 .005 -.04 .08 -.05 .04 -.03 .37
+
+Gender .02 .35 .03 .14 .01 .84 .02 .54
+
+Education -.04 .08 .01 .53 -.02 .46 .02 .56
+
+Trust 2019 .58 <.001 .64 <.001 .64 <.001 - 
+
+Anxiety .01 .74 .00 .87 -.01 .76 -.07 .044
+
+Collective angst -.05 .08 .00 .92 -.08 .001 .13 <.001
+
+Information from
+
+institutional sources
+
+.19 <.001 .16 <.001 .11 <.001 .23 <.001
+
+Information from
+
+relational sources
+
+-.03 .22 -.05 .04 -.01 .74 -.10 .002
+
+R2 .39 .47 .43 .06
+
+Mediator
+
+Information from:
+
+Institutional
+
+sources
+
+Relational
+
+sources
+
+Institutional
+
+sources
+
+Relational
+
+sources
+
+Institutional
+
+sources
+
+Relational
+
+sources
+
+Institutional
+
+sources
+
+Relational
+
+sources
+
+27
+
+β p β p β p β p β p β p β p β p
+
+Age .14 <.001 -.11 <.001 .13 <.001 -.11 <.001 .15 <.001 -.11 <.001 .15 <.001 -.11 <.001
+
+Gender -.05 .042 .05 .06 -.05 .05 .05 .09 -.06 .02 .05 .09 -.06 .02 .05 .09
+
+Education .12 <.001 .01 .59 .10 <.001 .02 .57 .11 <.001 .02 .58 .12 <.001 .02 .56
+
+Trust 2019 .14 <.001 .07 .006 .16 <.001 .00 .90 .11 <.001 .00 .88 - - - 
+
+Anxiety .37 <.001 .34 <.001 .37 <.001 .34 <.001 .37 <.001 .34 <.001 .37 <.001 .34 <.001
+
+Collective angst .18 <.001 .08 .009 .16 <.001 .08 .01 .17 <.001 .08 .01 .18 <.001 .08 .01
+
+R2 .27 .18 .28 .17 .26 .17 .25 .17
+
+28
+
+Table 4
+
+Completely standardized indirect effects
+
+Trust toward: Political institutions Super partes institutions International institutions Epistemic authorities
+
+Total effect Coeff. LLCI ULCI Coeff. LLCI ULCI Coeff. LLCI ULCI Coeff. LLCI ULCI
+
+Anxiety .05 .03 .08 .04 .02 .07 .04 .01 .06 .05 .02 .09
+
+Collective angst .03 .01 .04 .02 .01 .04 .02 .01 .03 .03 .02 .05
+
+Indirect effects Coeff. LLCI ULCI Coeff. LLCI ULCI Coeff. LLCI ULCI Coeff. LLCI ULCI
+
+Anxiety through information from
+
+institutional sources
+
+.06 .04 .08 .06 .04 .08 .04 .02 .06 .09 .05 .12
+
+Anxiety through information from
+
+relational sources
+
+-.01 -.03 .01 -.02 -.03 -.00 -.00 -.02 .02 -.04 -.06 -.01
+
+Collective angst through
+
+information from institutional
+
+sources
+
+.03 .02 .04 .03 .01 .04 .02 .01 .03 .04 .02 .06
+
+Collective angst through
+
+information from relational sources
+
+-.00 -.01 .00 -.00 -.01 .00 -.00 -.01 .00 -.01 -.02 -.00
+
+29
+
+Figure 1
+
+The tested model
+
+Anxiety
+
+Collective angst
+
+Information from relational sources
+
+Information from
+
+institutional
+
+sources
+
+Trust 2020:
+
+-political institutions
+
+-super partes institutions
+
+-international
+
+Trust 2019

@@ -1,0 +1,375 @@
+Spheres of trust: An empirical analysis of the foundations of particularised and generalised trustejpr_849 782..803
+
+MARKUS FREITAG & RICHARD TRAUNMÜLLER
+
+Department of Politics and Management, University of Konstanz, Germany
+
+Abstract. While the literature on trust has produced various conceptual models, there is also some confusion concerning different types of trust and their formation. In this article, three contested points are empirically clariﬁed. First, are there really different forms of trust as much of the literature suggests? Second, if so, then how are these different types of trust related to each other? Third, what are the foundations of these different forms of trust? Relying on data from the German Socio-Economic Panel, it is concluded that two types of trust can be empirically identiﬁed: an intimate trust in people close to the truster, as well as an abstract trust in people in general. Although these types of trust constitute separate dimensions, they are positively related to each other. Furthermore, this article challenges the widely held assumption that experiences are most relevant for particularised trust, while generalised trust is based on psychological predispositions. It is argued instead for a spherespeciﬁc logic of trust formation: It is the radius of experiences and predispositions that matters for the radius of trust. Finally, the analysis goes beyond the existing research by highlighting hitherto unknown conditions under which trust in familiar domains is more or less likely to extend to generalised trust.
+
+Introduction
+
+Niklas Luhmann (1979: 1) bemoaned a ‘sparse literature . . . that focuses on the subject of trust’. In the meantime, however, the scientiﬁc preoccupation with trust has become a ﬂourishing contemporary industry of research (Levi 2001).Although important discussions on the topic date back to philosophical forerunners of modern social science such as Thomas Hobbes and John Locke, as well as Georg Simmel’s more recent conception of trust ‘as one of the most important synthetic forces within society’ (Simmel 1992: 393–394), the current debate on trust is a rather recent phenomenon in the social sciences. This newfound interest in trust comes primarily from social capital research, where trust plays a key role in enabling cooperation between people (Coleman 1990; Freitag 2006; Fukuyama 1995; Glaeser et al. 1999; Newton 1999a; Putnam 1993, 1995a, 1995b; Uslaner 2002). Generally speaking, trust can be described as the expectation that others will contribute to the well-being of a person or a group, or at least will refrain
+
+782 European Journal of Political Research 48: 782–803, 2009 doi: 10.1111/j.1475-6765.2009.00849.x
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research) Published by Blackwell Publishing Ltd., 9600 Garsington Road, Oxford, OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA
+
+from harmful actions (Offe 1999). Beyond this minimal consensus, the vast literature on trust encompasses numerous conceptual variations, differentiations and typologies (e.g., Hardin 2002; Lane 1998; Levi 2001; Stolle 2002; Uslaner 2002; Yamagishi & Yamagishi 1994; Zucker 1986). While this multitude of proposed trust models has produced a lively debate, much confusion over the different types of trust and their respective foundations remains (Misztal 1996; Stolle 2002). A review of the literature, however, reveals that large parts of the ongoing controversies are purely theoretical.1 The empirical component has been neglected, due mainly to a lack of adequate data addressing various aspects of different forms of trust. In the present article, we aim to bridge this research gap by empirically evaluating some of the controversies. Relying on data from the German SocioEconomic Panel (SOEP), we investigate three key questions currently debated in trust research. First, is trust a single entity or a multidimensional concept – that is, can different types of trust be distinguished empirically? Second, should this be the case, what is the relationship between these different forms of trust? Are different types of trust correlated or are they largely independent of one another? Third, if different forms of trust can be detected, how are they formed? Are different forms of trust also based on different foundations? We restrict our analyses to the case of Germany. In addition to readily available data covering a wide range of different trust items, Germany in itself is an interesting case for trust research. In contrast to the United States, where levels of trust have been declining over the past decades (Putnam 1995a, 1995b; Uslaner 2002), Germany has experienced a constant increase in levels of trust since the 1950s (Newton 1999b). Furthermore, over the course of the reuniﬁcation process of East and West Germany during the last two decades, two distinct trust cultures rooted in different historical experiences have been merged together to form a new whole. However, save for a few comparative studies including Germany (e.g., Delhey & Newton 2005; Newton 1999b; Whiteley 1999), surprisingly little attention has been placed on investigating trust in Germany (Freitag & Traunmüller 2008; Kunz 2004). For this reason, and in addition to the above-mentioned theoretical concerns, taking a closer look at Germany’s trust culture will serve as an initial step in closing yet another research gap. The remainder of this article is organised into a series of steps. First, the conceptual debate concerning the differences between particularised and generalised trust, as well as their interrelation, is reviewed. After describing the data used in the analyses, we then will empirically investigate these assumptions. In the step to follow, we return to the theory, focusing on the different foundations of trust that have been proposed in the relevant literature. The
+
+spheres of trust 783
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+subsequent section will then assess their empirical viability. Finally, ﬁndings will be summarised and discussed in the conclusion.
+
+Trust: A multidimensional phenomenon or a single entity?
+
+Whereas trust seems to be a straightforward concept in everyday language and many researchers employ an untroubled usage of the term, others maintain that trust inherently implies something more complex and that different forms need to be distinguished conceptually. Newton (2001: 7), for instance, argues that ‘it makes little sense to use trust as a generic analytical concept, for there seems to be no such thing. We must stop talking about trust as if it were a single, indivisible entity’. Uslaner (2002) also stresses the importance of disaggregating trust into different types. Within the realm of interpersonal trust, the literature primarily identiﬁes two distinct kinds of trust with regard to their social scope: particularised trust and generalised trust (see Stolle 2002; Uslaner 2002; Whiteley 1999; Yamagishi & Yamagishi 1994).2 Particularised trust is trust found in close social proximity and extended toward people the individual knows from everyday interactions (e.g., family members, friends, neighbours and co-workers). Generalised trust is a rather abstract attitude toward people in general, encompassing those beyond immediate familiarity, including strangers (people one randomly meets in the street, fellow citizens, foreigners, etc.). In a similar vein, Yamagishi and Yamagishi (1994: 139ff) distinguish knowledge-based trust as trust ‘in closely related people’ from general trust as trust‘in people in general’.According to Putnam (2000: 465), thick trust refers to trust within a small radius, extended only to those close to the truster; thin trust refers to trust with a large radius, extended to people who are more socially distant from the truster. However, if there are multiple dimensions of trust, then particularised and generalised trust should empirically, as well as analytically, be distinct from one another (Uslaner 2002: 51). In this regard, by means of factor analysis using survey data from the United States, Uslaner (2002: 54) reveals two distinct factors for particularised and generalised trust. Furthermore, testing a total of 32 items related to trust in different groups of people, Yamagishi & Yamagishi (1994: 144), conclude ‘that trust in general others and trust in closely related others did not load on the same factor’. Both ﬁndings, however, are contradicted by the results reported by Whiteley (2000), which indicate that trust in the family, fellow national citizens and the generalised other in fact form a single scale and could therefore be regarded as a coherent trust syndrome. Additionally, it is sometimes assumed that particularised trust and generalised trust are in fact zero-sum entities that cannot go together in the sense that
+
+784 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+particularised trust will drive out generalised trust, or that high levels of particularised trust preclude high levels of generalised trust, and vice versa (Banﬁeld 1958; Fukuyama 1995; Stolle 2002). According to Bahry et al. (2005: 522), however, ‘[i]n-group trust need not be an impediment to conﬁdence in out-groups or others generally. . . . Some people may trust only their own and distrust outsiders, but others may well trust both.’ Glanville and Paxton (2007: 240) also do not ﬁnd that ‘strong trust in any one domain hinders the establishment of more generalized trust’. Whereas according to their view, one would expect generalised trust and particularised trust to be positively correlated, Newton (2001: 6) argues that ‘one can predict virtually nothing about a person’s . . . trust in people from their trust in the family. Different forms of trust do not form a single syndrome; they are largely independent of each other, and they seem to be context speciﬁc.’ How does one then empirically depict the relationship between particularised and generalised trust? In order to ﬁnd an answer to this question we draw on data from the German Socio-Economic Panel (SOEP) survey project.3 Here, respondents were asked how much trust they place in their own family, friends, neighbours and co-workers, as well as in strangers they meet for the ﬁrst time. Possible answers ranged from (1) ‘no trust at all’ to (4) ‘a lot of trust’.A slightly altered version of the standard trust item was also included in the questionnaire. On a scale from one to four, respondents could indicate the extent to which they agreed with the statement ‘In general people can be trusted’. Additionally, and employing the same scale, the level of agreement with the statement ‘When dealing with strangers, it is better to be careful, before trusting them’ was asked. Table 1 shows the rotated factor structure obtained from a maximum likelihood factor analysis.4 Because the indicator variables’ scale is ordinal, the factor analysis is based on a polychoric correlation matrix.5 Moreover, as theoretical assumptions suggest that different kinds of trust may in fact be correlated, an oblique rotation using the Promax criterion was conducted, explicitly taking this possibility into account, rather than precluding it a priori by means of orthogonal rotation.6
+
+Our results suggest that the pattern of the trust items is best described by assuming two underlying factors. As expected, the two factors represent particularised trust and generalised trust. Items loading high on the ﬁrst factor all refer to people known to the respondents from daily interactions.The variable with the highest loading (0.651) is trust in neighbours, followed by trust in friends (0.603). The item on trust in one’s own family belongs to the same dimension (0.602). All in all, this factor clearly represents close-range social (i.e., particularized) trust. In contrast, the item showing the highest loading on the second factor is trust in strangers one meets for the ﬁrst time (0.715). The
+
+spheres of trust 785
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+statement ‘It is better to be careful when dealing with strangers’ is negatively correlated with the second factor (-0.529). Finally, the standard trust item ‘In general people can be trusted’ also loads on the second dimension (0.455), indicating that – contrary to frequent criticism – it does indeed encompass trust in strangers (i.e., generalised trust). Against this background, the proposed distinction between particularised trust and generalised trust is not only theoretical in nature;it can also be shown empirically. Respondents clearly differentiate generalised trust – an abstract trust attitude that is directed toward people in general, including strangers – from particularised trust toward familiar people in their immediate social environment. Since the different historical experiences of East and West Germany could have led to distinct trust cultures in these two parts of the country, we separately conducted factor analyses for each of them (not shown here). The factor structures obtained were similar to the one found for the entire sample, showing that East and West Germans do not differ in their classiﬁcation of trust in closely related people and trust in strangers. How do these two distinct kinds of trust relate to each other? The correlation of the estimated factor scores is r = 0.51 (p < 0.001).This value indicates a considerable positive relationship between the two forms of trust.According to our results, there does not seem to be a simple trade-off between trusting closely related people and trusting those who are unknown; our results rather
+
+Table 1. Factor structure of trust items
+
+Items
+
+Factors
+
+1-h2 I II
+
+Trust in own family 0.602 -0.010 0.674
+
+Trust in friends 0.603 0.082 0.593
+
+Trust in neighbours 0.651 0.087 0.525
+
+Trust in strangers 0.063 0.715 0.450
+
+In general people can be trusted 0.131 0.455 0.731
+
+Better be careful with strangers 0.107 -0.529 0.752
+
+Variance 1.403 1.266
+
+N 964
+
+log likelihood (2 factors) -2.17
+
+LR-Test (independent versus saturated) c2 (15) = 887.51**
+
+LR-Test (2 factors versus saturated) c2 (4) = 10.59*
+
+Notes: Extraction: maximum likelihood; Correlation matrix: polychoric; Rotation: promax; * p < 0.05; ** p < 0.001.
+
+786 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+suggest that people who trust their own family, friends and neighbours also tend to place trust in their fellow citizens in general.
+
+Experiences versus predispositions: The foundations of trust
+
+What are the foundations of these two types of trust? Although research on the formation of trust is still in its nascent stages (e.g., Alesina & La Ferrara 2002; Bjørnskov 2007; Delhey & Newton 2005; Freitag 2003; Freitag & Bühlmann forthcoming; Glaeser et al. 1999; Glanville & Paxton 2007; Hooghe & Stolle 2003; Li et al. 2008; Paxton 2007; Uslaner 2002; Welch et al. 2007), there are, nevertheless, two general theoretical perspectives on how trust is formed (Glanville & Paxton 2007).The ﬁrst stresses that a person’s trust is basically an evaluation of his or her social environment and therefore grounded in concrete experiences of trustworthiness in social interaction. In the second perspective, trust is a general propensity either innate or learned early in life and is thus primarily a personal predisposition. Furthermore, it is generally assumed that each of these two different foundations correspond to different forms of trust. Whereas particularised trust in people one knows well is said to be based on concrete experiences from past social interactions, generalised trust in unknown people is presumed to rest on the personal predispositions of the truster. In other words, a clear-cut assignment of certain foundations to certain contexts of trust is proposed, thereby giving rise to two distinct explanatory models of trust (see Uslaner 2000, 2002; Yamagishi & Yamagishi 1994). Exponents of the ﬁrst perspective, who are mostly anchored in rational choice theory, argue that trust is mainly grounded in a rational evaluation of the trustworthiness of others (Coleman 1990; Hardin 2002). In order to judge another actor’s trustworthiness, information on that actor is needed – usually in terms of his or her reputation, past behaviour in similar situations or the actor’s given incentive structure (see Coleman 1990; Dasgupta 1988; Gambetta 1988). In other words, this evaluation is based on concrete experience from repeated interaction and therefore on an already existing relationship. Drawing on past experiences, the other actor’s probable future behaviour can be inferred. An ongoing relationship also provides an informational basis for the other actor’s incentive structure, who generally will be interested in the continuation of the relationship and will therefore behave in a trustworthy manner (Cook & Hardin 2001; Hardin 2002).Additionally, any two actors and potential cooperators will usually be embedded in wider social networks with other actors. This structural context gives rise to reputational effects, as breaches of trust are easily communicated among actors within the network and sanctions may be effectively imposed (Coleman 1990; Cook & Hardin
+
+spheres of trust 787
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2001). In this way, trustworthy behaviour is maintained and, consequently, trust in others encouraged. This explanation of how trust is formed clearly applies primarily to trust in the immediate social environment (i.e., particularised trust in family, friends and other people already known through everyday interactions and sharing common social contacts). How are we then to estimate the trustworthiness of strangers (i.e., people we meet for the ﬁrst time and with whom we have no prior ﬁrst- or second-hand experiences to guide our judgment)? According to the rational choice approach, placing trust in unknown people simply does not make any sense. However, as we have shown, people do in fact distinguish between trust in people with whom they are well-acquainted and trust in unfamiliar people in general. How people come to develop this latter, more abstract, kind of trust will be discussed below. The second, psychological, perspective suggests that trust is not exclusively dependent on the qualities of the trusted person (i.e., his or her estimated trustworthiness), but rather depends largely on the trustfulness of the truster (Sztompka 1998: 20). According to Uslaner (1999: 138), for example, trust in strangers cannot be based on evidence and therefore must rest on a different foundation – a moral predisposition to trust that ‘is a world view, not a summation of life experiences’. Trust is therefore a stable personality trait that does not change over time and is closely related to other psychological predispositions, such as optimism for the future and a sense of control over one’s life. People who have an optimistic view of the world will also anticipate social interactions with unknown persons in a conﬁdent and positive way. Even if their trust is breached, this negative experience does not alter their general positive outlook, nor does it prevent them from trusting again in another situation. A similar trust model was presented by Yamagishi and Yamagishi (1994: 136). They view trust as a cognitive bias in the processing of imperfect information on another person’s intentions (see also Yamagishi 2001). In other words, people with a trusting personality habitually tend to overestimate the benignity of other persons beyond the level that the available information in a given situation would actually warrant.This psychological mechanism leads to the propensity to risk placing trust in people with whom they have no prior acquaintance – that is, to generalised trust. However, beyond these two explanatory models derived from a welldeﬁned combination of foundations and objects of trust, large parts of the social capital literature obscure this otherwise straightforward differentiation. Putnam (2000), for instance, builds on the theoretical insights of the rational choice approach on trust formation; however, he deviates from the original argument and applies the perspective to generalised trust, stressing that trust
+
+788 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+in strangers essentially also rests on experience. More speciﬁcally, experiences within social networks of civic engagement are said to be conducive to this abstract attitude of trust (see also Brehm & Rahn 1997). Crucial is the assumption that trust based on positive experiences made in one domain (e.g., in an association) will eventually spill over to other domains of social life and therefore will be extended to people in general.The exact mechanism thought to be at work here, however, remains to be fully understood (Stolle 2003: 23). Furthermore, this connection is also far from being empirically conﬁrmed (see Claibourn & Martin 2000; Freitag 2003; Hooghe & Stolle 2003; Uslaner 2002). In reaction to the shortcomings of this society-centred account of trust formation, other social capital theorists have instead turned to political institutions as important sources of generalised trust (Cusack 1999; Freitag & Bühlmann forthcoming; Herreros & Criado 2008; Kumlin & Rothstein 2005; Rothstein & Stolle 2003). In this regard, institutions can stimulate individual attitudes and trustworthy behaviour through different incentives. If citizens feel that they are not treated fairly by the authorities and politicians, their self-esteem will be negatively inﬂuenced, thereby shaping how they behave toward strangers or unknown people. If the ofﬁcials of the government or the public administration are not fair and trustworthy, why should the rest of society be (Rothstein & Stolle 2003)? On the other hand, institutional arrangements produce particular habits and norms of trustworthiness, such as intolerance of corruption, cheating or the exploitation by majorities as unacceptable behaviour, thus making people inherently trustworthy through socialisation mechanisms.Both mechanisms presume that experiences of trustworthiness are relevant for generalised trust. Indeed, an overly rigid and impermeable conception of the general foundation for an individual form of trust (i.e., experiences for particularised trust and predispositions for generalised trust) is clearly too narrow. While one certainly cannot personally know a majority of one’s fellow citizens, who therefore remain strangers, there is no doubt that prior ﬁrst- or second-hand experiences with strangers will inﬂuence one’s current expectations of them.In his ‘street-epistemology of trust’, Hardin (2002: 113), for instance, argues that the judgement of whether or not to trust a stranger is made ‘largely by generalization from past encounters with other people’. In this sense, experiences would not only structure particularised trust, but also inﬂuence the generalised form. Furthermore, with regard to one’s predispositions, it is conceivable that these are also directed toward one’s immediate surroundings and do not refer only to wider spheres of social life. Trust in closely related people will have a dispositional or emotional base as well and will not rest solely upon rational evaluations of their respective incentive structures. Therefore, rather than
+
+spheres of trust 789
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+assuming a clear-cut assignment of general foundations to different forms of trust, we argue for a different logic of trust formation. In our view, experiences and personal predispositions are both central to the formation of trust; however, the inﬂuence of given experiences and personal predispositions appears to depend on the speciﬁc sphere or domain to which they refer. In fact, our argument is compellingly simple: there is a spectrum of concreteness from intimate to generalised trust, whose respective experiences and psychological predispositions differ. From one perspective, experiences and predispositions that correspond to a familiar and clearly deﬁned environment are relevant for the formation of particularised trust (see Figure 1). Experiences from regular interactions with acquaintances through informal channels or networks of civic engagement are therefore pivotal for particularised trust. Furthermore, relying on the views of the social capital school, one’s assessment of local political institutions and actors (such as the police, local public authorities and administration) that regulate the narrow sphere of everyday life will inﬂuence the propensity to place trust within this very domain. It will be rather difﬁcult to trust neighbours, acquaintances and friends if local authorities signal that it is acceptable to cheat or bribe and if the police do not intervene and sanction harmful actions within one’s immediate social surroundings. Additionally, predispositions that are primarily targeted at familiar spheres of social life and refer to feelings of security and control over the nearby space should be associated with trust in people close to the truster.
+
+Particularised Trust Generalised Trust
+
+Experiences
+
+– Experiences from regular interactions with known people
+
+– Evaluation of local institutions
+
+– First- and second-hand experiences with strangers
+
+– Evaluation of national and supranational institutions
+
+Dispositions – Predispositions referring to personal and familiar contexts (e.g., sense of security and control)
+
+–Mechanisms for coping with uncertainty in the wider community (e.g., risk propensity, general optimism)
+
+Figure 1. The sphere-speciﬁc logic of trust formation.
+
+790 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+From another perspective, experiences and predispositions ranging beyond the everyday sphere as well as extending past the borders of a well-deﬁned personal environment generate generalised trust. Experiences outside one’s narrow circle of everyday interactions, such as contact with unknown people and the evaluation of the more distant representative political institutions (national and supranational parliament, justice or government, etc.), have an impact on generalised trust. The same should hold true for predispositions as well. Psychological predispositions relevant for coping with situations outside the immediate realm of control and familiarity should accompany generalised trust. In sum, experiences and predispositions remain important foundations of the formation of trust; this formation, however, very much depends on the particular contexts to which these experiences and predispositions refer. This basic argument of the sphere-speciﬁc logic of trust formation renders earlier ways of thinking more precise, as well as overcoming their previous analytical deﬁcits. Consequently, this conceptual foundation is able to produce a more appropriate model to explain the formation of particularised and generalised trust.
+
+Method, data and operationalisation
+
+In our empirical investigation, we ﬁrst estimated two identical OLS regression models using the respective factor scores for particularised trust and generalised trust as dependent variables (see models 1 and 3 in Table 2). In order to test the proposed context-speciﬁc foundations of trust, we included several independent variables regarding social interaction experiences, as well as psychological predispositions belonging to different spheres of social life.7
+
+To cover experiences within the respondents’ immediate social surroundings, informal social connections were operationalised as a factor score, consisting of an item asking how often respondents meet socially with relatives, friends and neighbours and an item asking how often they help their relatives, friends and neighbours. Higher scores implied more frequent informal contacts. For networks of civic and associational engagement that also belong to the immediate sphere of regular interactions, a weighted scale including two items asking how frequently respondents volunteer in associations, organisations or social services and how frequently they participate in citizens’ initiatives and local affairs as well as the number of memberships in various groups was constructed via factor analysis. Again, higher scores indicated stronger civic and associational engagement. As proxies for experiences with local institutions that people deal with on an everyday basis, conﬁdence in the police
+
+spheres of trust 791
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+and public authorities on a scale from (1) ‘no trust at all’ to (4) ‘a lot of trust’ were considered.8 To gauge a sense of control – a psychological predisposition referring to one’s immediate life situation – respondents could agree or disagree (on a scale from one to seven) with the following statement:‘I have little control over what happens to me in life.’ The item was reversed so that higher values indicate a stronger sense of control.
+
+Table 2. Foundations of particularised trust and generalised trust in comparison
+
+Particularised trust Generalised trust
+
+(1) OLS (2) 2SLS (3) OLS (4) 2SLS
+
+Immediate social sphere
+
+Frequency of informal contacts 0.132*** (4.19) 0.128*** (4.23) 0.040 (1.26) –
+
+Networks of civic engagement 0.0782* (2.13) 0.071* (2.08) 0.005 (0.13) –
+
+Conﬁdence in the authorities 0.158** (2.94) 0.124* (2.34) 0.142** (2.60) 0.099 (1.88)
+
+Conﬁdence in the police 0.183*** (3.92) 0.179*** (4.16) 0.027 (0.57) –
+
+Sense of control 0.116*** (5.89) 0.113*** (6.14) 0.021 (1.04) –
+
+Wider social sphere
+
+Positive experience with strangers 0.084 (1.10) – 0.267*** (3.46) 0.249*** (3.56)
+
+Conﬁdence in the parliament 0.003 (0.07) – 0.183*** (3.61) 0.178*** (3.94)
+
+Optimism for the future 0.144* (2.17) 0.109 (1.55) 0.200** (2.97) 0.165* (2.57)
+
+Risk propensity 0.011 (0.87) – 0.073*** (5.56) 0.071*** (6.07)
+
+Controls
+
+Female 0.102 (1.66) – 0.026 (0.41) –
+
+Age in years 0.010*** (5.38) 0.008*** (3.91) 0.012*** (6.52) 0.010*** (5.25)
+
+Eastern German 0.185* (2.46) 0.179* (2.58) 0.027 (0.35) –
+
+Foreign citizen -0.036 (-0.23) – -0.100 (-0.64) –
+
+Big city 0.0423 (0.65) – 0.001 (0.01) –
+
+Education 0.036** (2.65) 0.033* (2.44) 0.030* (2.12) 0.020 (1.52)
+
+Unemployed -0.324*** (-3.31) -0.307** (-3.28) -0.164 (-1.64) –
+
+Trust
+
+Particularised trust – – – 0.245** (2.68)
+
+Generalised trust – 0.148 (1.24) – –
+
+Constant -2.385*** (-10.70) -1.994*** (-7.83) -2.096*** (-9.25) -1.621*** (-7.89)
+
+N 907 907 907 907
+
+Adjusted R2 0.183 0.280 0.154 0.300
+
+F statistic 13.67*** 22.17*** 11.33*** 27.14***
+
+Notes: Unstandardised coefﬁcients; absolute t-values in parentheses; * p < 0.05; ** p < 0.01; *** p < 0.001.
+
+792 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+With regard to the experiences outside of the familiar social environment, respondents were asked whether or not they had ever beneﬁted from the generosity of an unknown person. As an evaluation of a somewhat distant political institution, a measure of conﬁdence in the parliament (ranging from (1) ‘no trust at all’ to (4) ‘a lot of trust’) was considered. Psychological predispositions that refer to domains beyond the immediate setting were included, inquiring about general optimism for the future, as well as the propensity to take risks. To measure the ﬁrst, an item stating ‘When thinking of the future, I am actually quite conﬁdent’ was included. Respondents could agree or disagree on a scale ranging from one to four, with higher values denoting greater agreement. The question gauging risk propensity asked the respondent whether he or she considered himself or herself as someone who is willing to take risks or rather as someone who is risk averse. Answers ranged from one to ten, where higher values indicated a greater propensity to take risks. Several relevant control variables discussed in the literature that may have an impact on trust also entered the equations. Age and education consistently have been shown to be decisive factors for generalised trust. Older people and those with a higher level of education generally exhibit greater trust toward their fellow citizens (see Delhey & Newton 2005; Freitag 2003; Putnam 2000; Uslaner 2002). For this reason, we included both, measuring age in years and level of education using the CASMIN classiﬁcation (König et al. 1988). In addition to respondents’ sex, dummies for current unemployment, living in a large city and foreign citizenship also entered the equations. Following the literature, the latter three factors were all expected to lead to a decrease in generalised trust (see Putnam 2000; Sztompka 1999; Uslaner 2002). Finally, an important attribute in the German case, whether the respondent resided in East or West Germany prior to 1989, was also considered. Not only did the experience of communism in the former GDR stimulate distrust in the political elite, but also among the citizens themselves (see Mishler & Rose 1997; Rose 1994; Sztompka 1995). In addition to political oppression and a dysfunctional economy, the institution of the Stasi, with its endemic spying activities, caused people to become particularly suspicious of each other. Since uniﬁcation, these experiences have been relegated to the history books, but it is quite plausible that their imprint on the former East German consciousness has resulted in lingering low levels of generalised trust.
+
+Empirical ﬁndings
+
+With regard to models 1 and 3 in Table 2, it becomes clear that while particularised and generalised trust share some foundations, they also vary in several
+
+spheres of trust 793
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+crucial aspects. Let us ﬁrst turn to the dispositional foundations of trust. As expected from our sphere-speciﬁc logic of trust formation, a ﬁrm sense of control over one’s life plays an important role for trusting the people whom one encounters on a regular basis, but has no inﬂuence on trusting people in general.This is an interesting result as it differs from the argument put forward by Uslaner (2002), who holds that people who feel in control of their life situation should also more readily place trust in strangers. It is, however, conceivable that a feeling of control would primarily be linked to matters concerning one’s immediate social surrounding. A marked risk propensity is not relevant for trust in well-known people; however, risk propensity does matter in situations beyond every day familiarity – for example, in situations where the person to be trusted is an anonymous stranger. A somewhat different pattern emerges regarding one’s optimism for the future, which is signiﬁcantly associated with both types of trust. Respondents with a generally optimistic attitude tend to trust the people in their immediate social environment and also place more faith in their fellow citizens, including strangers. With regard to the impact of experiences in social interactions, involvement in formal networks of civic engagement led to an increase of particularised trust, as did informal socialising with friends, neighbours and relatives. This is what one would expect from a rational trust point of view (see also Herreros 2004; Herreros & Criado 2003).These forms of social interaction, however, had no impact on generalised trust in strangers, as social capital theorists tend to assume. Concrete experiences with strangers seem rather to be relevant for trust in personally unknown individuals. People who reported that they had previously beneﬁted from the generosity of people unknown to them scored higher on generalised trust. However, a positive experience with a stranger did not cause people to place more trust in the people dealt with on a daily basis. The experiential foundations of trust therefore seem to be highly context or domain speciﬁc. A more or less similar pattern emerged regarding the impact of political institutions on trust. Positive evaluations of ‘street-level bureaucrats’ (Rothstein & Stolle 2003) (i.e., representatives of institutions that people interact with on an everyday basis, such as the police) led to trust in one’s immediate social surrounding, but not necessarily to an abstract attitude like generalised social trust. In contrast, conﬁdence in parliament – an institution that is not only far beyond most people’s daily experiences, but also in the truest sense of the word represents fellow citizens in general – promotes generalised trust. Finally, as anticipated, the rather imprecise localisation of public authorities inﬂuenced both particularised and generalised trust. Looking at the control variables, some exhibited the same effects for both types of trust, while others had an impact only on particularised trust. Older
+
+794 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+people were more trusting, both in the private sphere and in the public sphere. Higher education also led to more trust in immediate social surroundings as well as to more abstract trust targeted at people in general. What has been shown to hold true for generalised trust in previous empirical research (e.g., Freitag 2003; Uslaner 2002) may therefore be transferred to particularised trust as well. Being unemployed, on the other hand, had negative effects on trust only in the immediate social environment. Concerning generalised trust, the negative effect of unemployment – although quite substantial – is not signiﬁcant; however, it is conceivable that this variable’s coefﬁcient would turn signiﬁcant in a larger sample. With regard to the comparison of eastern and western Germans, whatever differences in generalised trust that might have existed prior to 1989, or shortly after the fall of the Berlin Wall, are no longer visible today (cf. Kunz 2004; Rainer & Siedler 2006). Additional analyses (not presented here) show that the insigniﬁcance of the East dummy cannot be attributed to other highly collinear variables in the model that confound the effect of socialist heritage; rather, with regard to generalised trust, convergence has occurred between East and West Germany in the period since reuniﬁcation – a process that can also be observed for other cultural aspects. However, eastern Germans displayed greater particularised trust than their western countrymen. Neither form of trust was inﬂuenced by the sex of the respondent, foreign citizenship or whether or not the respondent resides in a large city.All of the coefﬁcients failed to reach statistical signiﬁcance at p  0.1.9
+
+In general, it can be concluded that experience and predispositions are relevant for both kinds of trust: trust in closely related people and trust in strangers. However, there is no clear-cut assignment of one general foundation to a speciﬁc sphere of trust, as parts of the literature suggest. Both trust in people well-known and trust in people unknown rest on a dispositional basis and are also shaped by ﬁrst- and second-hand experiences and evaluations.The process of trust formation seems rather to follow an entirely different logic: a sphere-speciﬁc logic. As expected, some experiences and predispositions matter particularly for particularised trust and others for generalised trust. To be more speciﬁc, psychological predispositions relating to people’s personal environments are relevant for trust within exactly this social sphere, whereas predispositions that enable people to transcend familiar situations and are directed toward wider-ranged communities lead to the more extensive form of generalised trust. Nevertheless, as we have already shown in a simple correlation analysis, there seems to be some evidence that people who exhibit higher levels of trust toward those closely related to themselves also place greater faith in the general other. In order to prove this assumption against the background of our ﬁndings to date, we took a closer look at this crucial, but at the same time little
+
+spheres of trust 795
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+understood, linkage. To do so, we followed Uslaner (2002: 145) and turned to simultaneous equation modeling. This allows us to treat both particularised and generalised trust as endogenous variables at the same time and to test their causal relationship. Using the Two-Stage Least Squares (2SLS) regression method, we estimated two more equations: one for the impact of particularised trust on generalised trust (model 4 in Table 2) and one to examine the reverse (model 2 in Table 2).As particularised trust and generalised trust were jointly determined, they were regarded as endogenous variables in the system. As exogenous variables, only those variables that proved signiﬁcant for one type of trust in the preceding regression models were included in the respective equation.10
+
+Results in Table 2 clarify the relationship between trust in closely related people and trust in people in general in a more meaningful way than the previous simple correlation was able to do. While generalised trust had no impact on particularised trust, trust in well-known people has a signiﬁcant effect on trust in strangers. In other words, the arrow runs from particularised trust to generalised trust, but not the reverse. Contradicting the ﬁndings reported by Uslaner (2002: 147) for the United States, particularised trust does indeed seem to spill over to generalised trust in Germany. The remaining effects were more or less identical to those found in the previous models.11
+
+Looking at the results as a whole, it has been shown that trust in closely related people and trust in strangers belong to distinct spheres and their corresponding sets of experiences and dispositions. Nevertheless, particularised trust seems to further trust that goes beyond the narrow circles of acquaintance and familiarity (see Erikson 1964; Glanville & Paxton 2007). Particularised trust, in this sense, may be a necessary foundation upon which generalised trust can be built; however, according to our argument, it should not be sufﬁcient. Therefore, in our last analytic step, we attempted to bridge these two opposed aspects by empirically identifying the conditions that reinforce or weaken the relationship between particularised and generalised trust and thus impact the spillover and expansion of trust. This was undertaken by considering several interaction effects and introducing them into the 2SLS regression equation for generalised trust.12
+
+For the sake of clarity, Table 3 presents coefﬁcients and t-values of the interaction terms and constitutive variables only. Only two of them have a signiﬁcant moderating impact on the relationship between particularised and generalised trust. Positive experiences with a stranger, as well as a positive evaluation of the parliament, are key conditions that encourage the extension of trust from the narrow private sphere to the wider public.13 Most notably, results for the interaction of particularised trust and experience with strangers show that particularised trust will in fact not spill over to generalised trust
+
+796 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+without positive experience with unknown people. The respective main effect is statistically insigniﬁcant. The experiential foundations of trust thus are highly sphere-speciﬁc.
+
+Conclusion
+
+The literature on trust has produced various conceptual models, but also some confusion concerning different types of trust and how they are formed (see Misztal 1996; Stolle 2002). In this article, we attempt to contribute to the lively debate on trust by empirically addressing some of the unanswered questions. Three important and contested points were tackled in our analysis. Are there really different forms of trust, as put forth by large parts of the literature? If so, how are these different types of trust related to each other? And ﬁnally, what are the foundations of these different forms of trust? Relying on representative survey data from Germany, we concluded that different forms of trust can indeed be empirically identiﬁed. More speciﬁcally,
+
+Table 3. Spillover and extension of trust: Interaction effects
+
+Generalised trust
+
+Particularised trust 0.163 (1.73)
+
+Positive experience with strangers 0.224** (3.13)
+
+Particularised trust x positive experience with strangers 0.371*** (5.63)
+
+Particularised trust 0.255** (2.80)
+
+Conﬁdence in authorities 0.101 (1.93)
+
+Particularised trust x conﬁdence in authorities 0.065 (1.74)
+
+Particularised trust 0.249** (2.73)
+
+Conﬁdence in parliament 0.169*** (3.75)
+
+Particularised trust x conﬁdence in parliament 0.100** (2.83)
+
+Particularised trust 0.260** (2.85)
+
+Optimism 0.168** (2.64)
+
+Particularised trust x optimism 0.099 (1.76)
+
+Particularised trust 0.244* (2.20)
+
+Risk propensity 0.071*** (6.02)
+
+Particularised trust x risk propensity -0.003 (-0.25)
+
+Notes: Unstandardised coefﬁcients (2SLS); absolute t-values in parentheses; * p < 0.05; ** p < 0.01; *** p < 0.001; all equations also included particularised trust, optimism for the future, risk propensity, positive experience with strangers, conﬁdence in authorities, conﬁdence in parliament, age in years and education; all variables except for dummies were centred.
+
+spheres of trust 797
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+respondents distinguished an intimate form of trust toward people close to them (particularised trust) from a more abstract trust in people including anonymous strangers (generalised trust). Moreover, these two types of trust were not at odds with each other, as is sometimes assumed in the theoretical literature (Banﬁeld 1958; Fukuyama 1995; Uslaner 2002). Quite to the contrary, people who placed high levels of trust in their immediate social surrounding also tended to place greater faith in people in general. Our analyses revealed that particularised trust is in fact a foundation upon which generalised trust can be built – given the right circumstances. According to our ﬁndings, no clear-cut correspondence of experiential and dispositional foundations to generalised and particularised trust was found.We opted instead for a more precise assignment of these foundations with regard to the speciﬁc spheres or domains to which they refer. In this sense, certain predispositions and experiences were relevant for certain types of trust, revealing a clear sphere-speciﬁc logic of trust formation. Experiences and predispositions belonging to the immediate social sphere were most relevant for particularised trust. Generalised trust, on the other hand, was based on experiences made beyond the realm of familiarity, as well as on psychological predispositions targeted at personally unknown domains and wide-ranged communities. Simply put, it is the radius of experiences and predispositions that matters for the radius of trust. Finally, our analysis goes beyond the existing and very recent research in highlighting hitherto unknown conditions under which trust in familiar domains is more or less likely to extend to generalised trust. We also went a step further by empirically identifying the very conditions that lead to a spillover of particularised trust to generalised trust. Generalised trust is not to be seen as a mere summation of particularistic worlds of trust, as argued by Glanville and Paxton (2007), but depends rather on speciﬁc vehicles transferring it to the realm beyond familiarity.According to our analyses, the extension of particularised trust to generalised trust is encouraged by positive contacts with strangers and trustworthy political institutions.With regard to the former, positive experiences with unknown people are indispensable for building generalised trust. The role of the latter is to guarantee these positive experiences by effectively and credibly sanctioning untrustworthy behaviour and breaches of trust. Moreover, representatives of institutions serve as important role models that should provide people with further examples of trustworthiness and signal that trustworthy behaviour is not only desirable, but pays off – thereby providing further encouragement (Kumlin & Rothstein 2005; Rothstein & Stolle 2003). While we have concentrated on the identiﬁcation, interrelation and foundations of two distinct forms of trust, the consequences of particularised and
+
+798 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+generalised trust have not been covered in the present article. This puzzle therefore remains an important task for future empirical investigation.
+
+Acknowledgements
+
+This article was written as part of a research project on Worlds of Social Capital that was carried out within the framework of the Excellence Initiative of the German Research Foundation (in particular the Cluster of Excellence Cultural Foundations of Integration and the Research Centre Volunteering and Social Capital). We are grateful to the three anonymous referees for their helpful comments and suggestions. Also, we would like to thank Jennifer Shore, Birgit Jacob and Carolin Rapp for their assistance in preparing the ﬁnal manuscript.
+
+Notes
+
+1. To the best of our knowledge, and to date, only the contributions of Gibson (2001), Herreros (2004), Uslaner (2002) and Welch et al. (2007) empirically scrutinise the formation of different types of trust. 2. Another crucial distinction involves interpersonal trust (e.g., trust in people), on the one hand, and institutional or political trust (e.g., trust in societal institutions and their representatives), on the other (see Newton 1999b; Offe 1999; Putnam 1995a, 1995b, 2000). In the present article, however, we concentrate solely on interpersonal trust; the focus of analysis is on trust attitudes people have toward each other. 3. The aim of this project is to provide information on objective life conditions as well as subjective values and orientations by means of a representative longitudinal study of private households in Germany. For our present analyses, however, we will not rely on data from the main survey, but rather on material taken from the 2006 stand-alone data set ‘Personality and Everyday Life’, allowing for in-depth research on topics not covered in regular waves of the SOEP. The data were collected by trained interviewers via computer assisted face-to-face interviews in summer 2005. The target population included all non-institutionalised residents of Germany 16 years of age and older. A multi-staged random sampling procedure yielded a total of N = 1,012 respondents. We would like to thank Jürgen Schupp (DIW) for kindly providing us with the data. 4. We chose to exclude the item for trust in co-workers from the factor analysis in order to retain a higher number of cases and so as not to bias the sample toward the employed. Including this item in the factor analysis did not alter the general factor structure. 5. For an alternative approach using item response theory (IRT), see Li et al. (2005). 6. Orthogonal rotation led to the same general factor structure, differing only slightly in item loadings. 7. A detailed description of all variables is available from the authors’ website (www.unikonstanz.de/freitag). Unfortunately, for the current dataset it is not possible to assign respondents to contextual units in order to check for contextual effects on the two types of trust, as suggested by a referee.
+
+spheres of trust 799
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+8. The question of conﬁdence in public authorities does not speciﬁcally refer to local institutions; we therefore expect a positive correlation with both forms of trust. 9. In the literature, it is still common to run separate analyses for eastern and western Germany (e.g., Kunz 2004; Zmerli et al. 2007; Zmerli 2008). Unfortunately, our eastern German sample does not include enough cases to allow for separate regression analysis in any sensible and meaningful way, retaining all explanatory variables in the model. Given this obvious limitation of our data, we refrain from presenting separate models. However, it should be noted that Kunz (2004: 224) ﬁnds that overall, individual determinants of generalised trust are indeed very similar in the populations of eastern and western Germany. 10. Whereas only some variables are always exogenous (sex, for example), most others can in fact be considered either endogenous or exogenous. The distinction between the endogenous and exogenous variables depends therefore to a large degree on how researchers deﬁne the scope of their research interest at hand (see Studenmund 1997: 532).Nonetheless,the F statistics in the ﬁrst-stage regressions as well as Sargan’s tests for over-identiﬁcation (not shown here) underscore the adequacy and exogeneity of the used instruments. It should also be noted that the reported results are not sensitive to the inclusion of the hitherto non-signiﬁcant variables. 11. One exception is optimism for the future, where no signiﬁcant effect on particularised trust could now be detected. However, this should not come as a surprise as it is actually a predisposition referring to a wider horizon, rather than to one’s immediate situation. 12. In order to avoid multicollinearity and to ease interpretation, all variables except for the dummies were centred. Interaction terms were included one at a time. 13. Additionally, calculating interaction terms for civic engagement and informal social contacts, respectively (not illustrated here), showed that social networks do not function as ampliﬁers of the relationship between particularised and generalised trust. This is an important result for social capital theory, where it is assumed that experiences made in one sphere (e.g., in civic associations) are actually transferred and generalised into wider spheres of social life (Hooghe & Stolle 2003; Putnam 1993).
+
+References
+
+Alesina, A. & La Ferrara, E. (2002). Who trusts others? Journal of Public Economics 85: 207–234. Bahry, D. et al. (2005). Ethnicity and trust: Evidence from Russia. American Political Science Review 99: 521–532. Banﬁeld, E.C. (1958). The moral basis of a backward society. New York: Free Press. Bjørnskov, C. (2007). Determinants of generalized trust: A cross-country comparison. Public Choice 130: 1–21. Brehm, J. & Rahn, W. (1997). Individual-level evidence for the causes and consequences of social capital. American Journal of Political Science 41: 999–1023. Claibourn, M.P. & Martin, P.S. (2000). Trusting and joining? An empirical test of the reciprocal nature of social capital. Political Behaviour 22: 267–291. Coleman, J. (1990). Foundations of social theory. Cambridge, MA: Belknap Press. Cook, K.S. & Hardin, R. (2001). Norms of cooperativeness and networks of trust. In M. Hechter & K.-D. Opp (eds), Social norms. New York: Russell Sage.
+
+800 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cusack, T.R. (1999). Social capital, institutional structures and democratic performance: A comparative study of German local governments.European Journal of Political Research 35: 1–34. Dasgupta, P. (1988). Trust as a commodity. In D. Gambetta (ed.), Trust: Making and breaking cooperative relations. Oxford: Basil Blackwell. Delhey, J. & Newton, K. (2005). Predicting cross-national levels of social trust: Global pattern or Nordic exceptionalism. European Sociological Review 21: 311–327. Erikson, E.H. (1964). Childhood and society. New York: Norton. Freitag, M. (2003). Social capital in (dis)similar democracies: The development of generalized trust in Japan and Switzerland. Comparative Political Studies 36: 936–966. Freitag, M. (2006). Bowling the state back in: Political institutions and the creation of social capital. European Journal of Political Research 45: 123–152. Freitag, M. & Bühlmann, M. (forthcoming). Crafting trust:The role of political institutions in a comparative perspective. Comparative Political Studies. Freitag, M. & Traunmüller, R. (2008). Sozialkapitalwelten in Deutschland. Soziale Netzwerke, Vertrauen und Reziprozitätsnormen im subnationalen Vergleich. Zeitschrift für Vergleichende Politikwissenschaft 2: 221–256. Fukuyama, F. (1995). Trust:The social virtues and the creation of prosperity. London: Hamish Hamilton. Gambetta, D. (1988). Can we trust trust? In Trust: Making and breaking cooperative relations. New York: Basil Blackwell. Gibson,J.L. (2001).Social networks,civil society and the prospects for consolidating Russia’s democratic transition. American Journal of Political Science 45: 51–68. Glaeser, E. et al. (1999). What is social capital? The determinants of trust and trustworthiness (NBER working paper series 7216). Cambridge, MA: National Bureau of Economic Research. Glanville, J.L. & Paxton, P. (2007). How do we learn to trust? A conﬁrmatory tetrad analysis of the sources of generalized trust. Social Psychology Quarterly 70: 230–242. Hardin, R. (2002). Trust and trustworthiness. New York: Russell Sage Foundation. Herreros, F. (2004). The problem of forming social capital: Why trust? New York: Palgrave Macmillan. Herreros, F. & Criado, H. (2003). In whom we trust? The creation of particularized trust inside associations. European Political Science 2: 56–61. Herreros, F. & Criado, H. (2008). The state and the development of social trust. International Political Science Review 29: 53–71. Hooghe, M. & Stolle, D. (2003). Generating social capital: Civil society and institutions in comparative perspective. New York: Palgrave Macmillan. König, W., Luttinger, P. & Muller, W. (1988). A comparative analysis of the development and structure of educational systems. Mannheim: CASMIN-Project, Institut für Sozialwissenschaften, Universität Mannheim. Kumlin, S. & Rothstein, B. (2005). Making and breaking social capital: The impact of welfare-state institutions. Comparative Political Studies 38: 339–365. Kunz, V. (2004). Soziales Vertrauen. In J.W. van Deth (ed.), Deutschland in Europa: Ergebnisse des European Social Survey 2002–2003. Wiesbaden: VS Verlag für Sozialwissenschaften. Lane, C. (1998). Introduction: Theories and issues in the study of trust. In C. Lane & R. Bachmann (eds), Trust within and between organizations: Conceptual issues and empirical applications. New York: Oxford University Press.
+
+spheres of trust 801
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Levi, M. (2001). Trust: Cultural concerns. In N.J. Smelser & P.B. Baltes (eds), International encyclopedia of the social and behavioural sciences. Oxford: Elsevier Science. Li, Y., Pickles, A. & Savage, M. (2005). Social capital and social trust in Britain. European Sociological Review 21: 109–123. Li, Y., Savage, M. & Warde, A. (2008). Social mobility and social capital in contemporary Britain. British Journal of Sociology 59: 391–411. Luhmann, N. (1979). Trust and power: Two works. New York: Wiley. Mishler, W. & Rose, R. (1997). Trust, distrust and skepticism: Popular evaluations of civil and political institutions in post-communist societies. Journal of Politics 59: 418–451. Misztal, B.A. (1996). Trust in modern societies: The search for the bases of social order. Cambridge: Polity Press. Newton, K. (1999a). Social capital and democracy in modern Europe. In J.W. van Deth (ed.), Social capital and European democracy. London/New York: Routledge. Newton, K. (1999b). Social and political trust in established democracies. In P. Norris (ed.), Critical citizens: Global support for democratic government. Oxford: Oxford University Press. Newton, K. (2001). Social Trust and Political Disaffection: Social Capital and Democracy. Paper presented at the EURESCO Conference on Social Capital: Interdisciplinary Perspectives, Exeter, UK. Offe, C. (1999). How can we trust our fellow citizens? In M. Warren (ed.), Democracy and trust. Cambridge: Cambridge University Press. Paxton, P. (2007). Association memberships and generalized trust:A multilevel model across 31 countries. Social Forces 86: 47–76. Putnam, R.D. (1993). Making democracy work: Civic traditions in modern Italy. Princeton, NJ: Princeton University Press. Putnam, R.D. (1995a). Bowling alone:America’s declining social capital. Journal of Democracy 6: 65–78. Putnam, R.D. (1995b). Tuning in, tuning out: The strange disappearance of social capital in America. Political Science and Politics 28: 664–683. Putnam, R.D. (2000). Bowling alone: The collapse and revival of American community. New York: Simon & Schuster. Rainer, H. & Siedler, T. (2006). Does democracy foster trust? (ISER Working Paper 31). Colchester: Institute for Social and Economic Research. Rose, R. (1994). Postcommunism and the problem of trust. Journal of Democracy 5: 18–30. Rothstein, B. & Stolle, D. (2003). Social capital, impartiality and the welfare state: An institutional approach. In M. Hooghe & D. Stolle (eds), Generating social capital: Civil society and institutions in comparative perspective. New York: Palgrave Macmillan. Simmel, G. (1992). Gesamtausgabe 11 Soziologie: Untersuchungen über die Formen der Vergesellschaftung. Frankfurt am Main: Suhrkamp. Stolle, D. (2002). Trusting strangers: The concept of generalized trust in perspective. Österreichische Zeitschrift für Politikwissenschaft 31: 397–412. Stolle, D. (2003). The sources of social capital. In M. Hooghe & D. Stolle (eds), Generating social capital: Civil society and institutions in comparative perspective. New York: Palgrave Macmillan. Studenmund,A.H. (1997).Using econometrics:A practical guide.NewYork:Addison-Wesley. Sztompka, P. (1995). Vertrauen: Die fehlende Ressource in der postkommunistischen Gesellschaft. In B. Niedelmann (ed.), Politische Institutionen im Wandel. Sonderheft Kölner Zeitschrift für Soziologie und Sozialpsychologie. Opladen: Westdeutscher Verlag.
+
+802 markus freitag & richard traunmüller
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Sztompka, P. (1998). Trust, distrust and two paradoxes of democracy. European Journal of Social Theory 1: 19–32. Sztompka, P. (1999). Trust: A sociological theory. Cambridge: Cambridge University Press. Uslaner, E.M. (1999). Democracy and social capital. In M.E. Warren (ed.), Democracy and Trust. Cambridge: Cambridge University Press. Uslaner, E.M. (2000). Producing and consuming trust. Political Science Quarterly 115: 569– 590. Uslaner, E.M. (2002). The moral foundations of trust. Cambridge: Cambridge University Press. Welch, M.R., Sikkink, D. & Loveland, M.T. (2007). The radius of trust: Religion, social embeddedness and trust in strangers. Social Forces 86: 23–46. Whiteley, P. (1999). The origins of social capital. In J.W. van Deth et al. (eds), Social capital and European democracy. London: Routledge. Whiteley, P. (2000). Economic growth and social capital. Political Studies 48: 443–466. Yamagishi,T. (2001).Trust as a form of social intelligence.In K.S. Cook (ed.),Trust in society. New York: Russell Sage Foundation. Yamagishi, T. & Yamagishi, M. (1994). Trust and commitment in the United States and Japan. Motivation and Emotion 18: 129–166. Zmerli, S. (2008). Inklusives und exklusives Sozialkapital in Deutschland: Grundlagen, Erscheinungsformen und Erklärungspotential eines alternativen theoretischen Konzepts. Baden-Baden: Nomos. Zmerli, S., Newton, K. & Montero, J.R. (2007). Trust in people, conﬁdence in political institutions and satisfaction with democracy. In J.W. van Deth, J.R. Montero & A. Westholm (eds), Citizenship and involvement in European democracies: A comparative analysis. New York: Routledge. Zucker, L.G. (1986). Production of trust: Institutional sources of economic structure, 1840– 1920. Research in Organizational Behaviour 8: 53–111.
+
+Address for correspondence: Markus Freitag, Department of Politics and Management, University of Konstanz, PO Box 84, D78457 Konstanz, Germany. E-mail: markus.freitag@ uni-konstanz.de
+
+spheres of trust 803
+
+© 2009 The Author(s) Journal compilation © 2009 (European Consortium for Political Research)
+
+14756765, 2009, 6, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2009.00849.x by Cochrane Portugal, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

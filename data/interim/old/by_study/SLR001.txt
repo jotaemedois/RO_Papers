@@ -1,0 +1,5623 @@
+Western Kentucky University Western Kentucky University TopSCHOLAR® TopSCHOLAR®
+
+Honors College Capstone Experience/Thesis Projects Honors College at WKU
+
+2020
+
+A Comparative Analysis of Institutional Trust, Traditional Social A Comparative Analysis of Institutional Trust, Traditional Social Values, and Partisanship in East and Southeast Asia Values, and Partisanship in East and Southeast Asia
+
+Lucas Knight Western Kentucky University, lucas.knight078@topper.wku.edu
+
+Follow this and additional works at: https://digitalcommons.wku.edu/stu_hon_theses
+
+Part of the International Relations Commons
+
+Recommended Citation Recommended Citation Knight, Lucas, "A Comparative Analysis of Institutional Trust, Traditional Social Values, and Partisanship in East and Southeast Asia" (2020). Honors College Capstone Experience/Thesis Projects. Paper 860. https://digitalcommons.wku.edu/stu_hon_theses/860
+
+This Thesis is brought to you for free and open access by TopSCHOLAR®. It has been accepted for inclusion in Honors College Capstone Experience/Thesis Projects by an authorized administrator of TopSCHOLAR®. For more information, please contact topscholar@wku.edu.
+
+A COMPARATIVE ANALYSIS OF INSTITUTIONAL TRUST, TRADITIONAL
+
+SOCIAL VALUES, AND PARTISANSHIP IN EAST AND SOUTHEAST ASIA
+
+A Capstone Project Presented in Partial Fulfillment
+
+of the Requirements for the Degree Bachelor of Arts
+
+with Mahurin Honors College Graduate Distinction
+
+at Western Kentucky University
+
+By
+
+Lucas Knight
+
+May 2020
+
+CE/T Committee:
+
+Professor Timothy Rich, Chair
+
+Professor Jeffrey Budziak
+
+Professor Elizabeth Gish
+
+Copyright by
+
+Lucas Knight
+
+2020
+
+ii
+
+ABSTRACT
+
+What factors drive an individual to trust, or not trust, their government? Over the
+
+past two decades, an extensive literature has developed that seeks to identify the sources
+
+and determinants of institutional trust in East and Southeast Asia. While this literature has
+
+solidified around several factors, for example, positive evaluations of economic
+
+performance or anti-corruption efforts, there is still significant debate on the importance
+
+of others. This study seeks to contribute to this ongoing debate by testing the role of
+
+traditionalism or traditional social values and partisanship. Utilizing data on 13 countries
+
+from Wave 4 of the Asian Barometer Survey and controlling for a range of commonly
+
+identified determinants of institutional trust, this study uses regression analysis to test to
+
+what extent traditional social values and partisanship shape individual-level institutional
+
+trust, both at the regional, aggregate level as well as on a country by country basis. While
+
+traditional social values quite consistently display a positive, significant relationship with
+
+institutional trust, the role of partisanship is less consistent, varying from country to
+
+country.
+
+iii
+
+ACKNOWLEDGEMENTS
+
+I would like to thank Dr. Timothy Rich, not only for his support and advice
+
+during this project, but also for his guidance on a host of topics over the course of my
+
+undergraduate career. Similarly, I would like to thank Dr. Jeffrey Budziak and Dr.
+
+Elizabeth Gish for their willingness to serve on my CE/T committee and for their
+
+feedback on this paper. Without the support of my committee, this project would not have
+
+been possible, and I am extremely grateful for their time and effort. I would also like to
+
+thank Dr. Patricia Minter, who I’ve had the chance to learn from in the classroom and
+
+work with through a number of organizations. Her work and obvious dedication to her
+
+students and community push me to be both a better student and better person. I also
+
+want to thank my friends and family for all of their support, and their willingness to let
+
+me vent, over the past several years. Finally, I would like to thank the Asian Barometer
+
+Project for providing access to the dataset used in this paper.
+
+iv
+
+VITA
+
+EDUCATION
+
+Western Kentucky University, Bowling Green, KY August 2021
+
+B.A. in Political Science, International Affairs, and Asian Religions and Cultures – Mahurin Honors College Graduate Honors Capstone: A Comparative Analysis of Institutional Trust, Traditional Social Values, and Partisanship in East and Southeast Asia
+
+Carol Martin Gatton Academy of Mathematics and Science May 2016
+
+PROFESSIONAL EXPERIENCE
+
+City of Owensboro Community Development Department May 2019 Community Development Specialist Aug. 2019
+
+AWARDS AND HONORS
+
+Critical Language Scholarship Recipient, Summer 2018 TUSA Global Ambassador Scholarship Recipient, Summer 2017 Faculty Undergraduate Student Engagement Grant Recipient, Spring 2017
+
+PRESENTATIONS
+
+Knight, L. (2018, March). Opinions on Free Trade Policies in Taiwan. Oral presentation presented at the 2018 WKU Student Research Conference. Bowling Green, KY
+
+Knight, L. (2018, January). Opinions on Free Trade Policies in Taiwan. Oral presentation presented at the 2018 Southern Political Science Association Conference. New Orleans, LA.
+
+.
+
+v
+
+CONTENTS
+
+Abstract…………………………………………………………………………………... ii
+
+Acknowledgements……………………………………………………………………... iii
+
+Vita………………………………………………………………………………………. iv
+
+List of Tables and Figures………………………………………………………………..vi
+
+Introduction………………………………………………………………………………. 1
+
+Literature Review and Hypotheses………………………………………………………. 6
+
+Institutional Trust and Traditional Social Values……………………………………… 24
+
+Institutional Trust and Partisanship…………………………………………………….. 48
+
+Conclusion……………………………………………………………………………… 65
+
+References……………………………………………………………………………… 70
+
+Appendix…………………………………………………………………………………73
+
+vi
+
+LIST OF TABLES AND FIGURES
+
+Table 1.1: Responses to Social Trust Questions…………………………………………31
+
+Table 1.2: Mean TSV Scores by Country………………………………………………..34
+
+Table 1.3: Mean Trust Level by Country (Trust Index 1)……………………………….37
+
+Table 1.4: Trust Index 1 Regional-Level OLS Regression………………………………38
+
+Table 1.5: Trust Index 1 OLS Regression with Social Trust Index……………………...43
+
+Table 1.6: Trust Index 2 OLS Regional-Level OLS Regression………………………...45
+
+Figure 2.1: Mean Trust Level by Voter Category………………………………………..50
+
+Table 2.1: Distribution of Winners, Losers, and Non-Voters……………………………52
+
+Table 2.2: Mean Trust Level by Institution Type………………………………………..55
+
+Table 2.3: General Institutional Trust Regional-Level OLS Regression………………...56
+
+Table 2.4: Partisan Institutional Trust Regional-Level OLS Regression………………..59
+
+Table 2.5: Neutral Institutional Trust Regional-Level OLS Regression………………...60
+
+1
+
+INTRODUCTION
+
+To what extent does an individual trust his or her government? What factors, if
+
+any, shape that level of trust? Are these levels of trust consistent across all governmental
+
+institutions and actors, or do they vary? On the surface, these types of questions tap into a
+
+relatively simple concept - why and to what extent individuals trust their government.
+
+However, even a cursory glance at the academic literature on these topics, a literature
+
+concerned with investigating the determinants and impacts of what is commonly termed
+
+political or institutional trust, reveals an incredibly complex and still-contentious field of
+
+study.
+
+Why should we care about institutional trust? The reasons are many and varied.
+
+To take just a few examples, while Grönlund and Setälä (2007) acknowledge the mixed
+
+results found in the literature on the topic, using survey data from the 2002-2003
+
+European Social Survey, they find that, even when controlling for a wide variety of
+
+demographic and attitudinal variables, trust in parliament exerts a significant, positive
+
+influence on voter turnout at the regional level, and this relationship holds for eleven of
+
+the twenty countries included in the survey. While it is certainly possible to debate the
+
+normative aspect of whether increased levels of turnout are good or bad, this is an
+
+important outcome of institutional trust regardless.
+
+Looking at the impact of institutional trust from a different direction, Evers and
+
+Gesthuizen (2011) investigate what impact institutional trust has on donation behavior,
+
+and they find that higher levels of individual-level institutional trust lead to increased
+
+2
+
+levels of donations to what they term “activist” and “leisure” organizations, and higher
+
+aggregate levels of individual trust at the country level, indicative of greater general faith
+
+in the institutions in those countries, leads to significantly lower levels of donations.
+
+Intriguingly, Hudson (2006), looking at EU data, makes the case that, when controlling
+
+for a host of other factors, trust in several international institutions as well national
+
+government, coded as a binary 0 or 1, has a significant and positive impact on levels of
+
+happiness. While no means comprehensive, the impressive breadth of topics that these
+
+studies cover, ranging from voter behavior to individual happiness, emphasizes the many
+
+consequences of higher institutional trust. The practical importance of these effects
+
+suggests a fuller understanding of both the determinants and implications of institutional
+
+trust is warranted. It is on the former, the determinants of institutional trust, that I focus
+
+this analysis.
+
+In this work, I seek to contribute to this growing literature, specifically as it
+
+relates to institutional trust in East and Southeast Asia, through the lenses of a few key
+
+questions. One, for countries in East and Southeast Asia, what influences individual-level
+
+trust in government? Two, are there certain approaches that more effectively explain
+
+levels of individual-level institutional trust? And three, are there any broad
+
+generalizations that can be made about institutional trust in East and Southeast Asia, or
+
+do the explanations about institutional trust vary from country to country? While I choose
+
+to focus more heavily on the determinants of institutional trust rather than the outcomes
+
+of institutional trust, this study joins a growing number of works looking at both aspects
+
+across the globe. As Marien and Hooghe (2011) note, “In recent years, the topic [political
+
+or institutional trust] has attracted renewed attention in the scholarly literature as a
+
+3
+
+reaction to various studies documenting a structural decline in levels of political trust –
+
+most notably in the United States,” (pg. 267). Moreover, this study seeks to contribute to
+
+a growing regional literature on institutional trust, what Park (2017) identifies as the
+
+study of institutional trust in the Asia-Pacific.
+
+Park’s work also offers a few reasons as to why further attention deserves to be
+
+paid to the study of institutional trust in the Asia-Pacific more broadly and East and
+
+Southeast Asia in particular. In brief, the region is one, “… of greater cultural and
+
+religious diversity…” and, “… varies widely by the type of regime and mode of
+
+governance,” (Park 2017, pg. 488). While areas like Western Europe have some
+
+diversity, the greater regional diversity of East and Southeast Asia permits studies of
+
+institutional trust to account for a wider variety of factors. For one example, Shi (2001)
+
+was able to use the shared cultural background but wildly different regime types present
+
+in Taiwan and China to isolate the impact of cultural factors and regime types on
+
+institutional trust, something that would not have been possible in a region of well established democracies.
+
+Additionally, the trends in overall levels of institutional trust that Marien and
+
+Hooghe (2011) discuss are not as easily apparent in East and Southeast Asia. Looking at
+
+data points from 17 different countries in the Asia-Pacific between 1996 and 2011, Park
+
+(2017) identifies four different patterns of fluctuations in institutional trust, only two of
+
+which appear to be trending downwards. If even the general trends of institutional trust in
+
+the region do not fully mirror the global experience, it is especially important for further
+
+studies to test whether commonly accepted determinants of institutional trust hold up to
+
+scrutiny when tested in East and Southeast Asia. While this question will be more fully
+
+4
+
+explored in the literature review, one example of cause for such concern can be found in
+
+a study by Kim (2005), who calls into question the relationship between institutional trust
+
+and social capital in South Korea, a relationship put forward and tested in Western
+
+countries by scholars like Putnam. These types of studies should make us hesitant to
+
+blindly accept that such relationships are easily transferable from region to region.
+
+In the following sections, I utilize data from Wave 4 of the Asian Barometer
+
+Survey1, covering 14 countries in East and Southeast Asia and conducted between 2014
+
+and 2016, to investigate several potential determinants of institutional trust. I place
+
+particular emphasis on the roles of traditional social values and partisanship, variables
+
+that to date have received comparatively little attention in the wider literature. In the
+
+literature review, I elaborate on two broad approaches to explaining levels of institutional
+
+trust while also documenting and exploring the impacts of methodological
+
+inconsistencies in the literature on what conclusions can be drawn about institutional trust
+
+in the region. Additionally, it is from this analysis that I derive two hypotheses and
+
+identify several variables that need to be tested in the later quantitative sections.
+
+Following this review of the literature, I include two quantitative chapters, each
+
+consisting of a section detailing the data and methods used and a section detailing the
+
+results of the analysis. While both chapters contain an array of independent variables, the
+
+first chapter specifically investigates the relationship between traditional social values
+
+and institutional trust while the second chapter focuses on partisanship. After this
+
+1 Data analyzed in this paper were collected by the Asian Barometer Project (2013-2016), which was codirected by Professors Fu Hu and Yun-han Chu and received major funding support from Taiwan’s Ministry of Education, Academia Sinica and National Taiwan University. The Asian Barometer Project Office (www.asianbarometer.org) is solely responsible for the data distribution. I appreciate the assistance in providing data by the institutes and individuals aforementioned. The views expressed herein are my own.
+
+5
+
+analysis is complete, I conclude the paper with a reflection on the broad implications of
+
+the results of the analysis and potential avenues for future research.
+
+6
+
+LITERATURE REVIEW AND HYPOTHESES
+
+An analysis of the literature surrounding individual-level institutional trust in East
+
+and Southeast Asia reveals a substantial amount of internal debate. In this literature
+
+review, I provide an overview of two of the major debates observable in the literature.
+
+The first is somewhat more explicitly methodological in nature. When discussing
+
+individual-level trust in government, which parts of government and other institutions are
+
+being referred to? I argue that the literature takes two broad approaches to this topic, and,
+
+importantly, an analysis of these two approaches suggests that this methodological
+
+distinction appears to have meaningful implications for analysis on what factors influence
+
+institutional trust. Second, I provide an overview of the main debate in the literature, that
+
+being which factors are the key determinants of individuals’ trust in government. This
+
+section includes not only a listing of competing explanations but also attempts to assess
+
+the extent to which the current literature supports said explanations, and in which areas
+
+the literature could be improved or further developed.
+
+Methodological Distinctions
+
+Beginning with the first debate, a review of the relevant literature produces two
+
+relatively clear trends in terms of which institutions authors utilize to test determinants of
+
+individual-level trust in government. First, a portion of the literature largely limits its
+
+analysis to a subset of institutions. For example, Kim (2005), in a study that looks at
+
+political trust in South Korea, limits his analysis to parliament and political parties. Wang
+
+(2013) utilizes two different sets of institutions when measuring political trust in China,
+
+7
+
+South Korea, Japan, and Taiwan, first looking at the presidency or prime minister as well
+
+as the national government and then later looking at trust in the central and the local
+
+government levels. Similarly, Park (2017) limits his regression analysis of institutional
+
+trust to an indexed score utilizing responses to questions about trust in the national
+
+government and parliament. What is particularly worth noting is that both Wang (2013)
+
+and Park (2017) utilize various waves of Asian Barometer data, which offers trust data on
+
+a large suite of institutions ranging from the national government, to courts, to the police,
+
+to the armed forces, to the media, and Park (2017) even includes much of this data in a
+
+descriptive discussion of trends in trust in East Asia before focusing in only two
+
+categories to conduct further analysis.
+
+By contrast, another subset of the literature employs a much more broad-based
+
+approach to the topic. For example, Zhai (2016), in his analysis of institutional trust in
+
+China, not only includes a greater list of institutions by looking at parliament, political
+
+parties, the national government, and courts, but he also includes trust in governmental
+
+officials as another avenue of analysis, while Tang (2011) extends this further, adding the
+
+presidency, the civil service, the military, the police, and local government to his models.
+
+In summary, at the methodological level, there is broad variance from study to study as to
+
+which institutions are considered when attempting to statistically test the determinants of
+
+political trust, and these differences persist despite the availability of data concerning
+
+much a more expansive set of institutions.
+
+Justifications as to why some studies select a small battery of institutions while
+
+others work with a much more holistic one vary. One justification for the selection of
+
+parliament and political parties as the only institutions simply asserts that trust in
+
+8
+
+parliament is the best measure available because parliament is preeminent in a
+
+representative system (Kim 2005). Sometimes the explanations are not fully developed.
+
+For example, the extent to which Park (2017) discusses why an index of only trust in
+
+national government and parliament is used to conducted regression analysis is limited to
+
+a brief statement that they are the, “… political branches of government,” (pg. 501).
+
+However, there are studies that limit their selection of institutions while more fully
+
+developing their reasoning. Chi and Kwon (2016), when looking at the impact of
+
+perceived inequality on trust in Taiwan and South Korea borrow from Mishler and Rose
+
+(2001) and Chang and Chu (2006), limiting themselves to a list of six institutions. Chang
+
+and Chu (2006) themselves, when looking at the relationship between corruption and
+
+political trust in East Asia, borrow the framework from Mishler and Rose (2001). Mishler
+
+and Rose (2001), in a study of trust of 10 post-Communist countries in Eurasia, base their
+
+decision to limit themselves to six institutions (parliament, the prime minister/president,
+
+courts, police, political parties, and the military) out of an original list of 11 due to
+
+analysis that found those institutions accounted for the lion’s share of variance in trust,
+
+and they additionally note that repeating their analysis with all 11 institutions results in
+
+no meaningful change in results. While it would have been potentially worthwhile to see
+
+either Chang and Chu (2006) or Chi and Kwon (2016) repeat the analysis that led to such
+
+a decision to limit the range of institutions with new data sets in a new region, but the
+
+logic used to arrive at this decision is easy to follow.
+
+Importantly, the literature suggests that differences in which institutions are
+
+included in the analysis have an impact on the results. One way in which this materializes
+
+can be seen in the work of Tang and Huhe (2016), who find that decentralization has a
+
+9
+
+statistically significant impact on political trust, but the direction of this relationship is
+
+different depending on whether local or national trust is being measured and whether the
+
+regime is authoritarian or democratic. In particular, in authoritarian regimes
+
+decentralization has a negative impact on local trust and a positive impact on national
+
+trust, whereas decentralization leads to a significant, positive increase in local trust in
+
+democracies and loses significance at the national level (Tang and Huhe 2016).
+
+Disregarding for the moment the differences based on regime type, just the differences in
+
+the way that decentralization influences trust when looking at local government versus
+
+national government suggests a greater need to carefully consider what institutions
+
+researchers choose to study in future research.
+
+A study by Huang, Lee, and Lin (2013) also highlights potential consequences of
+
+only using a small battery of institutions in measurements of trust, as they find that
+
+partisanship does not equally impact trust in all institutions. Instead, they find that trust in
+
+what they term “partisan institutions” like the president or prime minister and parliament
+
+is more strongly impacted by partisanship than in “neutral institutions” like the civil
+
+service and the military. While Park (2017) measures whether respondents voted for the
+
+winner or loser the last election, and Huang, Lee, and Lin (2013) measure partisanship
+
+explicitly as identification with the party in power or with opposition parties, Park
+
+concludes that the partisan bias quantified by this winner/loser split does not have an
+
+impact in Mongolia for political trust measured with two institutions, whereas Huang,
+
+Lee, and Lin find a significant relationship between partisanship and trust in Mongolia
+
+for a subset of the institutions they measure. While some of this difference may be in how
+
+partisanship is being measured, the design of Park’s study prevents this question from
+
+10
+
+being answered by not considering a wider variety of institutions. Finally, Yang and Tang
+
+(2010) look at a set of 13 political institutions in China and utilize factor analysis to
+
+divide them into administrative, legal, and societal categories, and they find that a variety
+
+of potential determinants of individual trust in institutions have different effects
+
+depending on the category of institution under discussion. Altogether, the findings in
+
+these studies and the different conclusion reached by Park and Huang, Lee, and Lin’s
+
+reinforce the notion that there are differences in the determinants of political trust across
+
+a wide range of institutions, and a failure to include a wider range of institutions when
+
+testing institutional trust has the potential to generate conclusions that do not accurately
+
+reflect the full complexity of the factors that impact institutional trust in East and
+
+Southeast Asia.
+
+Debates on the Determinants of Institutional Trust
+
+The second major debate in the literature centers around which factors best
+
+explain individual-level institutional trust in East and Southeast Asia. While there are
+
+various ways one might categorize potential determinants, this paper utilizes a framework
+
+put forward by a number of studies (e.g. Wong, Wan, and Hsiao 2011; Tang 2011; Zhai
+
+2016; Wang 2013; Yang and Tang 2010; Mishler and Rose 2001; Ma and Yang 2014),
+
+dividing approaches into two large categories: institutional approaches and cultural
+
+approaches. To elaborate more, Wong, Wan, and Hsiao (2011) borrow from Mishler and
+
+Rose (2001) in splitting up the relevant literature between institutional and cultural
+
+approaches, and in their review of the relevant literature they argue that the institutional
+
+approach centers around rational evaluations of the performance of government. When
+
+testing the institutional approach, the authors measure such a rational evaluation via
+
+11
+
+economic performance, as represented by handling of the economy and unemployment,
+
+and political performance, as represented by views governmental handling of political
+
+corruption and human rights issues. There appears to be in the literature a broad-based
+
+agreement on at least some of the factors that fall under the institutional approach, as
+
+numerous studies (e.g. Tang 2011; Huang, Lee, and Lin 2013; Wang 2013; Shi 2001)
+
+incorporate measures designed to capture economic performance and/or issues with
+
+corruption.
+
+However, this is not the only way in which studies have attempted to measure
+
+evaluations of governmental performance. Mujani and Liddle (2013) utilize an index
+
+consisting of responses to five questions such as satisfaction with the current government,
+
+likeliness of the government to solve what respondents viewed as a serious problem, ease
+
+of access to services like help from the police, and so on, focusing on these types of
+
+issues in addition to questions regarding economic performance rather than topics like
+
+corruption. Park (2017) also employs a slightly different approach, creating categories of
+
+policy performance, including economic performance, security, and anti-poverty efforts,
+
+and process performance, measured by a sub-set of topics related to rule of law. The
+
+benefit of this type of approach is that it allows for analysis to tease out further details
+
+about which factors shape individual-level trust institutional trust and to control for
+
+potential competing explanations. For example, returning to the topic of economic
+
+performance as a determinant of trust, Park (2017) finds that views on the national
+
+economy are much better predictors of political trust in East Asia than perceptions of the
+
+respondent’s own economic situation. These varying approaches showcase that, even
+
+with a general agreement in the literature on these important aspects of the institutional
+
+12
+
+approach, the constituent methods used to measure such performance can vary to some
+
+extent from study to study. And, small variations in the methods used can help contribute
+
+to a greater overall understanding of the institutional factors that shape institutional trust.
+
+Moreover, there are several potential determinants analyzed in the literature that
+
+might not fit entirely with the definition of institutional trust provided by Wong, Wan,
+
+and Hsiao (2011), but might fit under an expanded definition. First, both Park (2017) and
+
+Huang, Lee, and Lin (2013) incorporate media exposure as a potential determinant of
+
+trust, something seen as a significant, negative determinant of trust in portions of the
+
+African literature (Hutchison 2011; Hutchison and Johnson 2011), and Huang, Lee, and
+
+Lin explicitly include it in an evaluation of governmental performance while Park lists it
+
+as an alternative explanation. However, the findings of these two papers provide slightly
+
+different results. Both Park (2017) and Huang, Lee, and Lin (2013) utilize Asian
+
+Barometer Survey data to measure the impact of media exposure, although Park utilizes a
+
+combination of waves 1, 2, and 3 of the ABS as available and Huang, Lee, and Lin limit
+
+their analysis to the wave 3 data. Both studies use different sets of additional variables as
+
+controls and independent variables, and the question used within these surveys simply
+
+asks how often respondents view news about government or politics.
+
+Huang, Lee, and Lin (2013), when looking at Korea, Taiwan, Mongolia, the
+
+Philippines, Thailand, and Indonesia, find that only in Korea is there a significant,
+
+negative impact of media consumption on institutional trust that persists in a generalized
+
+analysis of institutional trust as well as when controlling for partisan versus neutral
+
+institutions, although in the Philippines there is a significant, positive influence on trust in
+
+neutral institutions. Park (2017), in a battery of ten countries, including all six countries
+
+13
+
+tested by the aforementioned paper, measures trust only in national government and
+
+parliament, and finds a significant effect for media exposure in the Philippines and
+
+Cambodia. It is difficult to ascertain what, exactly, is driving this difference in findings. It
+
+may be that the limited range of institutions that make up the trust measure in Park’s
+
+paper leads to differing conclusions, but in the Asian context media exposure appears to
+
+be a comparatively unreliable determinant of institutional trust as it is only significant in
+
+a small number of countries.
+
+However, it is worth noting that there are potential concerns about using such a
+
+simple measure of media exposure. For example, Ceron (2015) utilizes data from 27
+
+countries in the Eurobarometer survey dataset to investigate the impact on institutional
+
+trust, indexed as trust in the national government, regional and local governments,
+
+parliament, and political parties, of exposure to different types of news media,
+
+particularly government and traditional media websites versus social media. Ceron
+
+(2015) finds that higher rates of social media news consumption decrease trust, while
+
+such consumption from governmental and traditional media websites actually increases
+
+trust. Moreover, in testing the impact on trust of news consumption from non-web-based
+
+sources, press and radio news consumption significantly increased trust, while TV news
+
+had no effect (Ceron 2015).
+
+Applying these findings to the East and Southeast Asian context, then, it raises the
+
+potential that either the data available through the Asian Barometer Survey is simply not
+
+detailed enough to accurately test more nuanced relationships or that the analyses
+
+themselves are not nuanced enough. Luckily, a study by Wu (2014) looking at trust of the
+
+courts and police in China and Taiwan utilizes second wave ABS data to measure the
+
+14
+
+impact of varying forms of media consumption and highlights that it is possible to control
+
+for the amount of Internet use among respondents as well as whether they utilize
+
+television or newspapers as their primary source of information. The results are again
+
+somewhat inconclusive, with the only significant relationship between types of media
+
+consumption and trust in the police/courts being that in China those who consumed
+
+foreign news were less likely to trust these two institutions (Wu 2014). But the
+
+methodology utilized in the study suggests that it is possible to in more detail analyze the
+
+impact of media exposure on various institutions in the region with available data. And, it
+
+would be of benefit to the literature to do so, if only to more firmly demonstrate the
+
+inconsistent relationship between media exposure and institutional trust.
+
+Similarly, there is some discussion in the relevant literature on the role of
+
+government type and electoral systems. Tang and Huhe (2016) find that whether a
+
+country is a democracy or autocracy, measured either on a dichotomous scale or via
+
+Polity’s index, has an important interaction effect when it comes to measuring the impact
+
+of decentralization on political trust. This suggests that the generalized type of
+
+government a country operates under, while not directly impacting individual trust, may
+
+still need to be incorporated into models to control for any potential interactions with
+
+other variables. Focusing on a slightly different area, Park (2017) notes differences in the
+
+influence of winning or losing the last election on trust in both competitive authoritarian
+
+and electoral systems, arguing that electoral systems that disproportionately create losers
+
+have a larger influence on changes in institutional trust.
+
+Unfortunately, there appears to be comparatively little literature focused on East
+
+and Southeast Asia that explicitly analyzes the differences between different electoral
+
+15
+
+systems or electoral outcomes, although literature from outside the region suggests some
+
+ways in which the topic might be approached. For example, Cho (2012) conducts a study
+
+of 16 countries in Sub-Saharan Africa, seeking to test to what extent differences in
+
+electoral systems, particularly majoritarian versus proportional representation systems,
+
+influence political trust in the legislatures of those countries. Conducting a multi-level
+
+analysis and controlling for factors including election quality, economic conditions,
+
+winner/loser divide, demographic variables, and so on, feelings of accountability towards
+
+legislators had no significant impact on trust whereas feelings of representation had a
+
+significant, positive impact on trust (Cho 2012). Accountability played no greater role in
+
+majoritarian systems than PR systems, and PR systems were significantly more able to
+
+translate feelings of representation into trust as compared to majoritarian systems (Cho
+
+2012). At a minimum, these findings suggest that in some regions differences in electoral
+
+systems have a wider sphere of influence than only the relationship between the
+
+winner/loser divide and institutional trust, and it would benefit the East and Southeast
+
+Asian literature to pursue this direction moving forward.
+
+Looking at the topic from a different angle, Marien (2011) utilizes data from
+
+Europe and focuses not on the type of electoral system being utilized by a country but
+
+instead the impact of overall proportionality of the outcomes on political trust in
+
+parliament, politicians, and political parties. Controlling, for various demographic
+
+variables, institutional performance, the winner/loser divide, good governance, the age of
+
+the regime, and GDP per capita, Marien (2011) finds a curvilinear relationship between
+
+institutional trust and proportionality; very proportional and very disproportional election
+
+outcomes both lead to significant, positive increases in trust, which she suggests would
+
+16
+
+explain why previous empirical analyses have, when attempting to model this
+
+relationship linearly, found contradictory results on the impact of proportionality on
+
+political trust. Again, however, a review of the East and Southeast Asian literature on
+
+trust did not turn up studies that have attempted to apply this process to the region, which
+
+suggests yet another way forward that could help expand on the impact of electoral
+
+systems on political trust in the region. Altogether, although the role of electoral systems
+
+may be a factor that does not explicitly fall under a restrictive definition of the
+
+institutional approach, it seems reasonable to include it under a discussion of the
+
+institutional approach expanded to incorporate the impact of the structural design of
+
+governmental systems.
+
+Returning to the other half of this debate, Wong, Wan, and Hsiao (2011) define
+
+the cultural approach to understanding institutional trust as one that acknowledges the
+
+impact of unique cultural backgrounds, noting that these backgrounds can influence the
+
+way in which people might otherwise rationally evaluate the performance of their
+
+government. One commonly tested method that the literature suggests may explain the
+
+way in which the cultural background of a person might influence trust is Putnam’s social
+
+capital theory, which several studies (e.g. Kim 2005; Wang 2013; Huang, Lee, and Lin
+
+2013) break down into social trust and civic engagement. On this topic, Huang, Lee, and
+
+Lin (2013) conclude that social trust is a better explanatory variable than civic
+
+engagement when controlling for other factors such as economic performance and
+
+partisanship. Perhaps due to similar sentiments among other researchers, social trust has
+
+also found application in several studies separate from civic engagement (e.g. Mujani and
+
+Liddle 2013; Tang 2011; Park 2017) but there appears to be significant variation between
+
+17
+
+studies that incorporate social trust, or even both social trust and civic engagement, as to
+
+whether it is a significant determinant of individual institutional trust in all cases.
+
+To look further into this variation, it is helpful to focus on several studies with
+
+differing results. Huang, Lee, and Lin (2013), Park (2017), and Wang (2013) all
+
+operationalize social trust in the same way, utilizing a dichotomous variable indicating
+
+whether respondents feel that other people can, generally, be trusted, but each study uses
+
+different controls, different countries, different institutions that make up its institutional
+
+trust measure, and different combinations of waves of the Asian Barometer Survey data.
+
+And, potentially due to these differences, the conclusions that these three studies draw
+
+experience noticeable variation. Huang, Lee, and Lin (2013) find that social trust is a
+
+significant, positive determinant of institutional trust for at least one subset of institutions
+
+they analyze, with institutions being grouped into partisan and neutral categories in
+
+addition to a general trust score, in all six countries - Korea, Taiwan, Mongolia,
+
+Philippines, Thailand, and Indonesia - they study. Park (2017) adds an additional four
+
+countries, for example, Japan, to those used in Huang, Lee, and Lin’s study, and he finds
+
+that for only three countries of the 10 studied – South Korea, Mongolia, and Indonesia does social trust have a significant impact on institutional trust, and it is positive in each
+
+case. While there is some agreement here, then, the two studies find diverging
+
+conclusions on Taiwan, the Philippines, and Thailand. Finally, Wang (2013) finds that
+
+social trust has a significant, positive impact on institutional trust in an aggregate data set
+
+from Japan, Taiwan, and South Korea, but upon disaggregating this data down to the
+
+country level the relationship remains only in South Korea. What these disparate results
+
+suggest is that, even when a variable like social trust is being operationalized in the same
+
+18
+
+way, studies manage to find contradictory results that call into question which finding is
+
+correct.
+
+Moreover, due to the lack of a consensus as to which index to use for institutional
+
+trust, which controls to incorporate in an analysis, and which years of survey data to
+
+include, there is no immediately available way such comparisons might be made. This
+
+issue is further compounded by the fact that Mujani and Liddle (2013) operationalize
+
+social trust differently, creating an index from responses to five questions rather than
+
+relying on a single dichotomous variable, and conclude that social trust has a significant,
+
+positive impact on institutional trust across all seven countries they study. If comparing
+
+this study to only one of the three mentioned above, one might simply suggest that
+
+variance in how studies measure social trust is the issue. But, these contradictory results,
+
+both with and without contradictions in this area, suggest that studies sharing at a
+
+minimum more than one methodological feature are necessary to resolve these issues.
+
+Finally, a not-insignificant amount of discussion has been dedicated to what
+
+extent traditionalism or traditional values play in shaping political trust. Wong, Wan, and
+
+Hsiao (2011) found no significant relationship between traditionalism and institutional
+
+trust, but their measure of traditionalism centered around the superiority of one’s
+
+traditional culture over another. By contrast, a number of studies, both looking at China
+
+in particular (e.g. Yang and Tang 2010; Zhai 2016) or in multi-country studies (e.g. Shi
+
+2001; Tang 2011; Ikeda 2013) have put forward the argument that some form of what is
+
+often called traditional social values, placing an emphasis on topics like attitudes towards
+
+hierarchy derived from the historical context of the East and Southeast Asian region,
+
+contribute to levels of political trust in the region. To borrow one explicit definition,
+
+19
+
+Ikeda (2013) argues that, “This measure [the traditional social values measure] reflects
+
+‘social values’ in daily social settings and positive attitudes toward paternalism, harmony
+
+orientation, and collectivism,” (pg. 20).
+
+Looking at the China-focused studies first, Yang and Tang (2010) look at trust in
+
+a battery of 13 different institutions, utilizing factor analysis to group them into
+
+administrative, legal, and societal categories. Yang and Tang (2010) narrow down their
+
+measure of traditional values to one category closely associated with Confucian
+
+traditions, attitudes towards hierarchy, and find that when controlling for other variables
+
+related to modernization, government performance, and the impact of mobilization efforts
+
+by the Chinese government, this measure of traditional values leads to a significant,
+
+positive increase in trust across all categories of institutions. Zhai (2016), however, takes
+
+a broader view of the topic, suggesting that although traditional values in China can be
+
+linked not only to Confucianism, but other religious and quasi-religious traditions like
+
+Daoism and Buddhism, it is possible to quantify these attitudes with a set of 11 questions
+
+and then sub-divide them into categories of family, social, and political values. Zhai
+
+(2016) finds that traditional social and traditional political values have a significant,
+
+positive impact on trust in both institutions (parliament, parties, the national government,
+
+and courts) and governmental officials, while traditional family values maintained this
+
+relationship only for officials. Altogether, these findings suggest that despite broad
+
+differences in the range of interpretation of traditional values, the operationalization of
+
+this interpretation, and differing sets of institutions, at least in the case of China,
+
+traditional social values are meaningful determinants of political trust.
+
+20
+
+In cross-country comparison studies, the impact of traditional social values on
+
+institutional trust is inconsistent, and it, unfortunately, marks a return to the types of
+
+issues found in a number of studies utilizing social trust. Tang (2011), measuring
+
+traditional social values via six questions broadly related to attitudes towards authority,
+
+views on conflict, and collective wellbeing, finds a positive relationship between this
+
+variable and institutional trust across the region, but there is no available regression-style
+
+analysis of this relationship present in the study. Due to the lack of such an analysis, and
+
+the subsequent commentary on the strength of the relationship relative to other factors, it
+
+is difficult to rely on that conclusion. By contrast, Wang (2013) finds that in Japan,
+
+South Korea, and Taiwan, traditional social values, as measured with a battery of three
+
+questions, do not significantly influence political trust. But Ikeda (2013), looking at an
+
+aggregate data set of individuals from 11 countries in East and Southeast Asia finds that
+
+traditional social values have a significant, positive impact on political trust at the
+
+individual level, if not at the country level. What is to be made of these differences?
+
+Again, Ikeda (2013) and Wang (2013) utilize different waves of Asian Barometer Data,
+
+operationalize the measure via different methods, not only in that Ikeda uses a more
+
+expansive battery of questions but that the phrasing of many questions themselves
+
+changed from Wave 2 to Wave 3 of the ABS, and differ in the controls used, all of which
+
+has the potential to cause the observed differences. In much the same way that the area of
+
+social trust likely requires a convergence on methodology in order to come to more firm
+
+conclusions about the role it plays in shaping political trust in East and Southeast Asia,
+
+such convergence will likely be necessary for the role of traditional social values.
+
+21
+
+In a more general sense, what conclusions can we draw from the wider literature?
+
+First, while the claim that the institutional approach to understanding institutional trust is
+
+superior (e.g. Wong, Wan, and Hsiao 2011; Park 2017) may be premature, the assertion
+
+that “… national economic well-being and control of corruption play the most consistent
+
+role in determining political trust…” (Park 2017 pg. 503) is harder to dispute. Studies by
+
+Park (2017), Wong, Wan, and Hsiao (2011), Huang, Lee, and Lin (2013), Tang and Huhe
+
+(2016), and Wang (2013) all examine more than one country utilizing various
+
+methodological frameworks and find perceptions of corruption and economic
+
+performance are, generally, significant determinants of institutional trust. In other words,
+
+the consistent, significant presence of these measures across studies, apparent even
+
+despite differences in methodology, is a comparative rarity in the literature and therefore
+
+a meaningful reason to target a policy at one of these two areas if the goal of a policy
+
+proposal is to be applicable in as many contexts as possible. Wang (2013) provides
+
+further justification to focus on corruption, as he finds the positive impact on trust of
+
+increased evaluations of governmental performance is limited to a large extent when a
+
+person has concerns about corruption.
+
+Because of the consistency associated with the institutional approach across the
+
+wider literature, I will focus less on this approach to understanding institutional trust in
+
+this study. I will still control for such variables in my analysis, but in an effort to provide
+
+a greater contribution to the literature, I choose to on areas of continued debate. For this
+
+reason, more focus will be paid to understanding specific aspects of the cultural approach
+
+to institutional trust.
+
+22
+
+Second, one issue that repeatedly surfaces in the wider literature is a lack of
+
+methodological consistency, an issue that likely needs to be resolved moving forward.
+
+How to begin to resolve this issue, however, is a difficult question. Not only are there
+
+serious differences in methodology associated with meaningful differences in conclusions
+
+not only in the battery of institutions utilized to create a measure of political trust, as the
+
+discussion in the first debate highlights, but also as it relates to determinants of
+
+institutional trust themselves. Any suggestions aimed at correcting these methodological
+
+differences, then, should target at least one of these areas.
+
+It is my recommendation that, in an effort to begin to address such
+
+methodological inconsistencies, it would be beneficial to come to an agreement on a
+
+minimum battery of institutions to include in any index of institutional trust. At a
+
+minimum, the justifications utilized by Mishler and Rose (2001) and then implemented in
+
+several other studies (Chang and Chu 2006; Chi and Kwon 2016), wherein the battery of
+
+institutions consists of parliament, the prime minister/president, police, the military,
+
+courts, and the police, provide an acceptable baseline. This is not to suggest that there be
+
+no flexibility in terms of grouping institutions for analysis. But it is important that such
+
+decisions are made with sound reasoning behind them, as done with statistical
+
+justification by Yang and Tang (2010), in order to tap into a theme that non-grouped
+
+institutions could not, as done by Huang, Lee, and Lin (2013) for partisanship, or due to
+
+data restrictions. Moving forward into the quantitative analysis chapters, I will attempt to
+
+consistently utilize such a broader definition of institutional trust.
+
+Keeping these conclusions in mind, and cognizant of the vast number of potential
+
+avenues by which to investigate the determinants of institutional trust, I choose to narrow
+
+23
+
+my focus down to three key topics, two of which I develop into hypotheses and one
+
+which, while not a hypothesis, I still devote a portion of the analysis to. First, using Wave
+
+4 data from the Asian Barometer Survey, what is the relationship between traditional
+
+social values and institutional trust at the regional and country-level in East and Southeast
+
+Asia? Second, can we attribute the inconsistent results associated with measures of social
+
+capital to differences in the operationalization of variables? And third, building on the
+
+work of Huang, Lee, and Lin (2013), what is the relationship between partisanship and
+
+institutional trust when controlling for a wider number of additional variables, including
+
+traditional social values? Keeping in mind the relevant discussion of the current state of
+
+the literature on these topics, I put forward the following hypotheses:
+
+Hypothesis 1: Controlling for other factors, traditional social values should positively
+
+correlate with institutional trust.
+
+Hypothesis 2: Controlling for other factors, voting for the winning party of the last
+
+election should positively correlate with institutional trust. The magnitude of this
+
+relationship should be diminished for non-partisan institutions.
+
+24
+
+INSTITUTIONAL TRUST AND TRADITIONAL SOCIAL VALUES
+
+Data and Methods
+
+This project utilizes data from the 4th Wave of the Asian Barometer Survey
+
+(ABS), which contains survey results from 14 different countries and territories in East
+
+and Southeast Asia (Japan, Hong Kong, South Korea, China, Mongolia, the Philippines,
+
+Taiwan, Thailand, Indonesia, Singapore, Vietnam, Cambodia, Malaysia, and Myanmar).
+
+The surveys constituting the 4th Wave of the ABS were conducted between 2014 and
+
+20162, and sample sizes for each individual country range from approximately 1,000
+
+respondents to as many as 4,000, with a regional sample size of 19,467. Of interest for
+
+this research project, the ABS survey provides a relatively holistic battery of questions
+
+suitable for an investigation into the potential determinants of institutional trust. Not only
+
+does the ABS survey contain a battery of questions designed to measure trust in 13
+
+different political and non-political institutions, but it also has sections dedicated to voter
+
+behavior, social trust and social capital, views on governmental performance,
+
+traditionalism, and so on. It should be noted, however, that due to certain restrictions on
+
+the questions asked in a subset of the 4th Wave countries, particularly as it relates to
+
+questions on trust in various institutions, there is some limit to the extent that cross national comparisons can be made.
+
+2 Surveys in each country were conducted in the following time periods: Taiwan – June through November 2014; Singapore - October through December 2014; Philippines – July 2014; Mongolia – June through August 2014; Thailand – August through October 2014; Malaysia – September through November 2014; China – December 2014 through June 2016; Myanmar – January through March 2015; Indonesia – January 2016; Vietnam – September through October 2015; Hong Kong – February through April 2016; Japan – March 2016; South Korea – October through December 2015; Cambodia October through November 2015.
+
+25
+
+Dependent Variable
+
+One of the most important methodological decisions in this project is what
+
+method to use to operationalize institutional trust. As highlighted in the literature review,
+
+there are a wide array of methods used in the relevant literature, many of them with their
+
+own potential benefits and issues. However, in line with my prior observations about the
+
+current state of the literature, any method must fulfill two major criteria:
+
+1. The method used should be applicable to as many countries in the dataset as
+
+possible. This will not only allow for country-to-country comparisons to
+
+determine whether the models developed in this paper work equally well in each
+
+country contained in the sample, but it will also provide the most latitude for
+
+future research on the topic to be compared against the results found in this paper.
+
+2. The method should incorporate a relatively broad set of institutions into its
+
+measurement of institutional trust. The review of the relevant literature suggests
+
+that such choices matter, and studies that limit a definition of institutional trust to
+
+only a small subset of institutions investigated in the ABS survey risk missing
+
+valuable insights into the determinants of institutional trust.
+
+Unfortunately, any operationalization method that attempts to fulfill both criteria
+
+immediately runs into several issues. First, although the 4th Wave ABS Survey contains
+
+questions on a battery of 13 separate institutions3, due to issues such as structural
+
+differences between the 14 countries included in the survey, questions on trust in the
+
+3 The full list includes: The president or prime minister, the courts, the national government located in the capital city, political parties, parliament, the civil service, the military or armed forces, the police, the local government, newspapers, television, the election commission, and NGOs. The election commission and NGOs are listed as optional questions in the survey.
+
+26
+
+executive office, political parties, local government, the election commission, and NGOs
+
+are not asked in at least one country. As some of these, particularly institutions like the
+
+executive office, seem quite relevant to a comprehensive measure of institutional trust,
+
+this presents potential issues in attempts to create a model that works for every country in
+
+the sample. Second, respondents in Vietnam were not presented the same answer choices
+
+for the institutional trust questions as the rest of the sample. Respondents in every
+
+country except Vietnam were presented with a 4-point Likert scale asking them to
+
+indicate how much they trust each institution, ranging from “A great deal of trust” to
+
+“None at all”, as well as options such as declining to answer. In Vietnam, however,
+
+respondents have only three answers to indicate their level of trust: “A great deal of
+
+trust,” “Quite a lot of trust,” or “Some trust.” This means that it is impossible to directly
+
+compare Vietnam to the rest of the sample, and because of this I choose to exclude
+
+Vietnam from the analysis entirely.
+
+From there, I create two distinct indexes of institutional trust, Trust Index 1 to
+
+apply to all 13 remaining countries in the sample and Trust Index 2 to apply to a nine country subset, the countries where questions about all of the institutions composing
+
+Trust Index 2 were asked. The former utilizes only those questions pertaining to
+
+institutions that were asked about in every country in the set and so excludes questions
+
+regarding the executive branch of government, local government, political parties, the
+
+election commission, and NGOs. Additionally, while there is likely some value in
+
+knowing to what extent respondents trust T.V. and newspapers as sources of information,
+
+I choose to not include these institutions in my indexed measure as they in many cases
+
+are not explicitly political groups, a government branch, or otherwise a governmental
+
+27
+
+organ. As such, the first institutional trust index only contains respondents’ evaluations of
+
+the courts, the national government, parliament, the civil service, the military, and the
+
+police.
+
+However, in order to have a measure that incorporates other important organs of
+
+government like the executive office, I also choose to create a second index including
+
+evaluations of all possible institutions excluding newspapers, television, and NGOs.
+
+While this index applies to only nine countries in the set4 and necessitates running a
+
+second set of models, this is the best compromise available between a model that
+
+incorporates and allows comparisons between as many countries as possible and a model
+
+that does not exclude potentially important institutions from its operationalization of
+
+institutional trust.5 The first model, applicable to all 13 countries, will permit a full,
+
+regional comparison, whereas the second model with allow for a more comprehensive
+
+definition of institutional trust to be tested on a subset of countries. Moreover, at least for
+
+the nine countries present in both sets of data, I will be able to directly compare the two
+
+models to analyze what impact defining the dependent variable of analysis more
+
+comprehensively has on the regression results.
+
+Independent Variables
+
+The various independent variables in this study draw heavily from prior literature
+
+on the topic of institutional trust in East and Southeast Asia. First, in line with most of the
+
+4 China, Singapore, Indonesia, and Hong Kong all fail to ask at least questions regarding at least one of the 10 institutions (The executive office, courts, national government, political parties, parliament, the civil service, the military, the police, the local government, and the election commission) included in this second index. 5 While there are slight variations in the mean level of trust as measured by Trust Index 1 and Trust Index 2 for the nine countries for which the two measures are applicable, this variance is in each case less than .1
+
+28
+
+previous literature, this project attempts to capture the impact of the evaluation of
+
+governmental performance on institutional trust via a question on respondents’ views of
+
+the current economic situation in their country. To measure this, I use Question 1 of the
+
+4th Wave ABS Survey, which reads, “How would you rate the overall economic condition
+
+of our country today?” utilizes a 5-point Likert scale ranging from very good (1) to very
+
+bad (5), which I recoded as very bad (1) to very good (5). Additionally, in line with
+
+works such as Park (2017), I also choose to include Question 4 of the ABS Survey, “As
+
+for your own family, how do you rate the economic situation of your family today,” in
+
+order to account for any potential difference in a respondent’s economic evaluation of
+
+their personal situation versus the national situation. Question 4 is recoded in the same
+
+manner as Question 1.
+
+The second independent variable included in this study is corruption. While the
+
+ABS Survey provides several different ways to tap into the issue of corruption, I choose
+
+to follow a number of previous studies in looking at corruption through the lenses of
+
+governmental efforts to combat corruption. To capture perceptions of anti-corruption
+
+efforts, I utilize Question 119, which reads, “In your opinion, is the government working
+
+to crack down on corruption and root out bribery?”. This is akin to the operationalization
+
+of the variable as done by studies such as Huang, Lee, and Lin (2013), although it might
+
+also be reasonable to follow studies such as Park (2017) and Wang (2013), who use a
+
+question asking about how widespread corrupt behavior is. Using Question 119,
+
+respondents are presented with a 4-point Likert scale with response ranging from “It is
+
+doing its best” (1) to “Doing nothing” (4), but I recode this variable so that “It is doing its
+
+best” correlates to 4 and “Doing nothing” correlates to 1.
+
+29
+
+The third and fourth independent variables included in this study relate to social
+
+capital. As discussed in the literature review, studies looking at social capital have taken a
+
+few different approaches to this topic. Some restrict their analysis solely to social trust,
+
+while others control for both this and membership in a variety of civic organizations. To
+
+be as comprehensive as possible, I follow with the latter category, and as such I attempt
+
+to capture the impact of social capital with two different variables. The first is
+
+membership in a variety of civic organizations. Via the ABS Survey, this is captured with
+
+questions 20-22, asking respondents to name various organizations that they belong to.
+
+Wang (2013) uses the absolute number of organizations as a measure of this variable,
+
+however, the 4th Wave data set contains a variable “fq” indicating whether the respondent
+
+is a member of any formal organization which I have recoded from “Yes” (1) and “No”
+
+(2) to a dichotomous variable where being a member of formal organization is coded as 1
+
+and not being a member is coded as 0. This is in line with the way that Huang, Lee, and
+
+Lin (2013) operationalize the variable. Additionally, I utilize two different methods to
+
+capture social trust. First, in line with studies such as Huang, Lee, and Lin (2013), Park
+
+(2017), and Wang (2013), I utilize Question 23 of the ABS Survey, “Generally speaking,
+
+would you say that ‘most people can be trusted’ or ‘that you must be careful in dealing
+
+with people?” While this variable was initiated coded so that “Most people can be
+
+trusted,” was a 1 and, “You must be very careful in dealing with people,” was a 2, I
+
+recode this so that a value of 0 indicates a lack of trust in others and a value of 1 indicates
+
+trust in other people. But, in order to test whether a different operationalization of social
+
+trust would alter its relationship with institutional trust, I also follow the general method
+
+put forward by Mujani and Liddle (2013) and construct an indexed measure of social
+
+30
+
+trust, utilizing questions 23 and 26-28 of the ABS survey6. Questions 26-28 ask
+
+respondents to what extent they trust a subset of the population: relatives, neighbors, and
+
+others you interact with, respectively. For each question, the response options consist of a
+
+4-point Likert scale ranging from “A great deal of trust,” (1) to “None at all,” (4)7, with
+
+these options recoded in reverse order. Once recoded, Questions 26-28 are converted into
+
+values of 0 or 1 to indicate non-trusting or trusting and all and four questions are summed
+
+to create an indexed social trust measure.
+
+Of note, even a cursory glance at the distributions of answers to the questions
+
+composing these two operationalizations suggests that the choice of method will
+
+potentially affect the relationship between social trust and institutional trust. In Table 1.1
+
+below, the responses to questions 26-28 have been recoded so that 0 represents not
+
+trusting and 1 represents trusting. Missing values are not included in the table. For the
+
+dichotomous measure of social trust commonly utilized in the literature, the vast majority
+
+of the survey sample believes they must be careful in dealing with others. However, in
+
+the case of trusting relatives and neighbors the lion’s share of the survey sample falls into
+
+the trusting category. Moreover, while there does appear to be a decrease in trust as the
+
+circle of people expands, at somewhere between 14-15% per stage, even when this is
+
+extended to include the wider population that respondents interact with, most of the
+
+survey believe they can trust others. This stands in direct contrast to the more common,
+
+single-question measure of social trust, where only 28.8% of the sample felt that most
+
+6 One of the questions used in the index created by Mujani and Liddle (2013) is not asked in Indonesia as part of the Wave 4 survey. In the interests of including Indonesia in the remainder of the analysis, I choose to use the other four questions to create a four-point scale. 7 The full range of responses is: “A great deal of trust” (1); “Quite a lot of trust” (2); “Not very much trust” (3); “None at all” (4).
+
+31
+
+people can be trusted. This disparity reinforces the notion that it will be useful to test both
+
+measures of social trust in further analysis and compare to what extent the performance
+
+of the two measures vary.
+
+Table 1.1: Responses to Social Trust Questions
+
+Social Trust Dichotomous
+
+Measure
+
+Trust in Relatives Trust in Neighbors
+
+Trust in Others you Interact With
+
+Frequency Percent Frequency Percent Frequency Percent Frequency Percent 0 13186 67.7 2410 12.4 5375 27.6 8050 41.4
+
+1 5613 28.8 16787 86.2 13547 69.6 10651 54.7
+
+Total 18800 96.6 19198 98.6 18922 97.2 18701 96.1
+
+Fifth, one of the core independent variables in this project is the measure of the
+
+respondent’s traditionalism, or traditional social values (TSV). While discussed in more
+
+depth in the literature review, it is important to reiterate that there are a variety of ways in
+
+which to conceivably operationalize this measure of traditionalism or TSV, ranging from
+
+Wang, Wan, and Hsiao’s (2011) definition of traditionalism as belief in the supremacy of
+
+one’s traditional culture over another society’s, to Wang’s (2013) three-question index, to
+
+the various models that Ikeda (2013) develops based on prior research and analysis of the
+
+Asian Barometer dataset. In this paper, I utilize a definition that Ikeda (2013) tests,
+
+specifically the seven-question battery for an overarching traditionalism scale, for a few
+
+key reasons.
+
+First, as it relates to Wang, Wan, and Hsiao (2011), the measure they use to define
+
+traditionalism is very specific, and rather than tapping into the extent that a respondent
+
+holds onto traditional cultural beliefs, it instead seems likely to measure something akin
+
+to cultural nationalism. By contrast, the models that Wang (2013) and Ikeda (2013)
+
+32
+
+utilize, based on data from prior waves of the Asian Barometer Survey, seem to much
+
+more directly tap into cultural views. However, Wang (2013) chooses to utilize the 2nd
+
+Wave of the Asian Barometer Survey, whereas Ikeda (2013) utilizes the 3rd Wave, and
+
+this decision has important implications for the replicability of their respective models.
+
+Between the 2nd and 3rd Waves of the Asian Barometer Survey, the battery of questions
+
+related to traditionalism changed significantly, with 11 questions either having altered
+
+wording or being entirely new in the 3rd Wave as compared to the 2nd Wave. By contrast,
+
+the 3rd and 4th Wave sections on traditionalism are remarkably similar, with only a single
+
+question having been removed in the latter survey. Importantly, this means that the
+
+operationalization of traditionalism that Ikeda (2013) utilizes in his study on 3rd Wave
+
+data can be replicated with the 4th Wave data used in this paper.
+
+Each of the questions present in the 4th Wave survey’s battery on traditionalism are 4 point Likert scales, asking respondents to indicate to what extent they agree with a series
+
+of statements, with responses ranging from “Strongly Agree” (1) to “Strongly Disagree”
+
+(4). I first recode each of these variables so that “Strongly Disagree” corresponds to 1 and
+
+“Strongly Agree” corresponds to 4. Then, I create an index following the method Ikeda
+
+(2013) utilizes, incorporating the recoded variants of questions 55, 57, 60, 62, 63, 64, and
+
+658, wherein the mean of the summed responses to these questions is calculated, forming
+
+a new 1-4 scale.
+
+8 Questions composing the scale: Q55 - “For the sake of the family, the individual should put his personal interests second.”; Q57 – “For the sake of national interest, individual interest could be sacrificed.”; Q60 - Even if parents’ demands are unreasonable, children still should do what they ask.”; Q62 – “Being a student, one should not question the authority of their teacher.”; Q63 – “In a group, we should avoid open quarrel to preserve the harmony of the group.”; Q64 – “Even if there is some disagreement with others, one should avoid the conflict.”; Q65 – “A person should not insist on his own opinion if his co-workers disagree with him.”
+
+33
+
+The prior literature on traditional social values in the region has largely focused
+
+itself on what Tan and Tambyah (2011) term, “Confucian Asia” – China, Japan,
+
+Singapore, South Korea, Taiwan, Vietnam, and Hong Kong. Tang (2011), for example,
+
+makes an explicit connection to Confucianism, arguing that, “… we cannot conduct our
+
+analysis by relying on perspectives taken from Western culturalism that make no
+
+allowance for the importance of Confucian values in East Asian cultures,” (pg. 12). Wang
+
+(2013) limits his analysis of traditionalism to only Confucian Asia, looking at China,
+
+Japan, South Korea, and Taiwan. Yang and Tang (2010) similarly explicitly link attitudes
+
+towards hierarchy with the Confucian tradition, and even Zhai (2016), who acknowledges
+
+the influence of non-Confucian traditions on Chinese thought, limits in-depth analysis to
+
+China and data-based comparisons of traditional values to Confucian Asia proper. These
+
+studies showcase at least some consensus on the need to test the role of traditional social
+
+values in shaping institutional trust in a subset of the wider region.
+
+While there are certainly reasonable arguments to be made for the applicability of
+
+the traditionalism measures as defined by the 4th Wave Asian Barometer Survey to be
+
+applicable in what Tan and Tambyah (2011) term “Confucian Asia,” it is important to
+
+discuss whether such a measure would be appropriate for the rest of the region. A simple
+
+country-by-country comparison of the mean scores for the traditional social values
+
+highlights an interesting trend that supports the assertion that the measure is capturing a
+
+set of ideal and beliefs that are not solely limited to “Confucian Asia,”, but that is also
+
+present across the wider ABS region and, as Ikeda (2013) notes in his study looking at all
+
+11 East and Southeast Asian countries included in Wave 3 of the Asian Barometer
+
+34
+
+survey, potentially in other regions across the globe9. Countries that would seemingly
+
+have more direct engagement with Confucian thought, for example, China, Taiwan,
+
+Japan, and South Korea, fall on the lower end of the scales for the measure of
+
+traditionalism, whereas the other countries in the 4th Wave data set actually exhibit higher
+
+levels.
+
+Table 1.2: Mean TSV Scores by Country
+
+Mean TSV Scores by Country Country Mean TSV Value Japan 2.5 Hong Kong 2.52 Korea 2.57 China 2.75 Mongolia 3.01 Philippines 3.07 Taiwan 2.65 Thailand 2.91 Indonesia 3.12 Singapore 2.78 Cambodia 3.06 Malaysia 3.1 Myanmar 3.39
+
+One potential explanation for this is that solely defining the set of beliefs that the
+
+Asian Barometer traditionalism battery of questions attempts to capture as ‘Confucian’ is
+
+incorrect; as Zhai (2016) notes while using this battery of questions to tap into the impact
+
+of traditionalism on institutional trust in China, at least in the Chinese case Buddhism and
+
+9 Specifically, Ikeda (2013) argues that, “What we mean by “Asian” in this essay is that the traditional social values detailed here are widely supported in the East/Southeast Asian area. It does not deny that the same value configuration has support in other areas of the world,” (pg. 20).
+
+35
+
+Taoism also play important roles in shaping traditional Chinese thought. That
+
+traditionally “Confucian” Asia actually falls on the lower end of these two measures of
+
+traditionalism, then, supports the assertion that the ABS measure is in fact picking up a
+
+more wide-ranging set of beliefs, not solely Confucian beliefs. Understanding the ABS
+
+measure of traditional social values in these terms, not as values ascribed to a single
+
+tradition but as values that can be identified in a number of unique cultural backgrounds,
+
+suggests that it is reasonable to apply such a measure to every country in the data set, not
+
+just a sub-set therein.
+
+Finally, the regression analysis conducted in this paper will include a variety of
+
+additional control variables. In addition to traditional demographic variables such as age,
+
+education, gender, and income, I also choose to include a Freedom House score for each
+
+country so as to attempt to capture any facets of living in a comparatively more or less
+
+authoritarian society that are not picked up by other variables used in my analysis. In
+
+other words, this variable attempts to identify to what extent, controlling for other factors,
+
+regime type influences institutional trust. In order to do this, I created a new variable in
+
+the data set, “FreedomHouse,” setting the value of the variable to the Freedom House
+
+score of the respondent’s country in the year that the survey was conducted.10
+
+Taking in the full account of relevant variables, in the following section I will
+
+conduct regression analysis on the 4th Wave ABS data set, testing the relationship
+
+between traditional social values and institutional trust, controlling for the other
+
+10 For the year that surveys were conducted, Myanmar did not receive a traditional PolityIV score, as the country underwent a transition in 2015. Additionally, Hong Kong as a territory does not receive a PolityIV Score. Because of these issues, and since every country/territory in this data set receives a Freedom House score, I choose to use Freedom House rather than PolityIV as a proxy for living in a more or less authoritarian system.
+
+36
+
+independent variables discussed above. This analysis will first be conducted on the full
+
+13-country data set, utilizing Trust Index 1, and afterward this analysis will be re-run on
+
+the nine-country data set, utilizing Trust Index 2. In each case, I will additionally dis aggregate the data set and re-run the analysis on a country by country level to pick up any
+
+variation in the relative effectiveness of the models.
+
+Results and Discussion
+
+Before diving into detailed regression analysis of the determinants of institutional
+
+trust, it is helpful to have a general understanding of the levels of institutional trust in the
+
+13 countries under study. Table 1.3 below displays the mean value of Trust Index 1 by
+
+country along with the respective countries’ Freedom House scores for the year that
+
+surveys were conducted in that country. Based on Table 1.3, there is a noticeable level of
+
+variance within the region. The mean for the entire region is 2.6894, and seven of the
+
+thirteen countries’ average levels of institutional trust fall below this point. These levels
+
+fall as low as 2.25 in South Korea and rise as high as 3.07 in China, .82 points on a scale
+
+ranging from 1 to 4. In line with much of the recent discussion on low levels of political
+
+trust in democratic societies, it is telling that it is the comparatively long-standing
+
+democracies of the region, such as Taiwan, Japan, and South Korea, in which trust is
+
+lowest. Moreover, of the six countries with a Freedom House score of six or less on the
+
+overall 14-point scale11, five of them (Japan, South Korea, Mongolia, Philippines, and
+
+Taiwan) all fall below the regional mean for political trust. These findings suggest reason
+
+11 When utilizing the Freedom House measure, a lower score indicates that a country is relatively freer than a country with a higher score. As such, the fact that lower Freedom House scores seem to be associated with lower levels of institutional trust means that freer countries appear to have lower levels of institutional trust.
+
+37
+
+for concern among scholars tracking the decline in institutional trust in democracies
+
+across the globe.
+
+Table 1.3: Mean Trust Levels by Country (Trust Index 1)
+
+Mean Trust Levels by Country for Trust Index 1 Country Mean Standard Error of Mean Freedom House Score Japan 2.48 0.02 2 Hong Kong 2.55 0.02 7 Korea 2.25 0.01 5 China 3.07 0.01 13 Mongolia 2.46 0.01 4 Philippines 2.51 0.02 6 Taiwan 2.28 0.01 3 Thailand 2.78 0.02 11 Indonesia 2.77 0.01 6 Singapore 3.05 0.02 8 Cambodia 2.73 0.02 11 Malaysia 2.98 0.02 8 Myanmar 2.41 0.02 11
+
+Keeping this regional variation in mind, I first run OLS regression analysis on the
+
+full thirteen-country data set with Trust Index 112 as the dependent variable, creating
+
+three models. I test these models first for the regional data sample with all countries
+
+included, and then I additionally test the models for each country. The first model
+
+contains only factors that have regularly been investigated in the wider literature on
+
+institutional trust in the region: Evaluations of the national and local economic situation,
+
+perceptions of anti-corruption efforts, as well as social trust and social capital. In these
+
+models, social trust is defined using a dichotomous variable derived from the response to
+
+Question 23 from the ABS Survey. In Model 2, I introduce the measure of traditional
+
+12 Trust Index 1 is composed of only trust in the courts, the national government, parliament, the civil service, the military, and the police.
+
+38
+
+social values (TSV) as operationalized by Ikeda (2013), Finally, Model 3 introduces
+
+various other control variables, namely gender, education, income, and a Freedom House
+
+score assigned by the related score of the respondent’s country.
+
+Table 1.4 Trust Index 1 Regional-Level OLS Regression
+
+Model Unstandardized Coefficients
+
+Standardized Coefficients
+
+t Sig.
+
+B Std. Error
+
+Beta
+
+1 (Constant) 1.358 0.024 56.035 0
+
+National Economic Evaluations 0.205 0.005 0.324 40.568 0
+
+Family Economic Evaluations 0.009 0.006 0.012 1.482 0.138
+
+Anti-Corruption Efforts 0.227 0.006 0.297 39.104 0
+
+Social Trust Dummy 0.076 0.01 0.057 7.719 0
+
+Organizational Membership -0.027 0.009 -0.022 -2.973 0.003 2 (Constant) 0.981 0.033 29.591 0
+
+National Economic Evaluations 0.195 0.005 0.309 38.753 0
+
+Family Economic Evaluations 0.008 0.006 0.01 1.258 0.208
+
+Anti-Corruption Efforts 0.219 0.006 0.287 37.975 0
+
+Social Trust Dummy 0.098 0.01 0.073 9.931 0
+
+Organizational Membership -0.042 0.009 -0.034 -4.625 0
+
+Traditionalism Index 0.15 0.009 0.123 16.488 0 3 (Constant) 1.028 0.038 27.254 0
+
+National Economic Evaluations 0.163 0.005 0.258 31.605 0 Family Economic Evaluations 0.029 0.006 0.036 4.665 0 Anti-Corruption Efforts 0.21 0.006 0.275 37.021 0
+
+Social Trust Dummy 0.101 0.01 0.075 10.347 0
+
+Organizational Membership 0.008 0.009 0.006 0.864 0.387
+
+Traditionalism Index 0.102 0.009 0.084 11.016 0
+
+Female 0 0.009 0 -0.053 0.957
+
+Freedom House Score 0.026 0.001 0.151 18.513 0 Education -0.018 0.002 -0.076 -9.574 0
+
+Income Quintiles 0.013 0.004 0.028 3.686 0 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 1 .502a 0.252 0.252 0.5227 2 .516b 0.266 0.266 0.51767 3 .542c 0.294 0.293 0.50796
+
+This regression analysis offers several useful insights, but it also raises a few
+
+important questions. First, in every model, respondents’ evaluations of the national
+
+economic situation (Q1) and evaluations of governmental anti-corruption efforts (Q119)
+
+have a positive, significant impact on institutional trust. That these are consistent across
+
+all three models and the magnitude of the associated coefficients are the largest in each
+
+39
+
+model reinforces the broader conclusion that can be drawn from the literature:
+
+evaluations of governmental performance, utilizing the national economic situation as a
+
+proxy, and evaluations of government anti-corruption efforts are reliable determinants of
+
+institutional trust in the region. Interestingly, while respondents’ evaluations of their
+
+family economic situation (Q4) do not reach significance in Model 1 or Model 2, it does
+
+so in Model 3; however, even in Model 3 the coefficient is much smaller than the
+
+coefficient associated with Q1.
+
+Moreover, this trend continues when Trust Index 1 is tested on the country level13,
+
+rather than considering the entire sample on aggregate. In each model where Q4 is
+
+significant at p <= .05, it exerts a notably smaller, but still positive effect on institutional
+
+trust than the evaluation of the national economic situation. Compounding this issue, at
+
+the country level Q4 repeatedly fails to reach the level of significance. For Hong Kong,
+
+South Korea, China, Thailand, Indonesia (p-value of .055 in Model 3) and Myanmar, Q4
+
+is not significant in all three models. For Cambodia, and the Philippines, Q4 is only
+
+significant in Model 3, in Taiwan it is significant in Model 2 and Model 3, although the
+
+p-value in Model 1 is .053, and in Singapore Q4 is only significant in models 1 and 2,
+
+failing to reach significance in Model 3.
+
+What to make of these trends? At a minimum, while evaluations of familial
+
+economic situation do seem to have some impact on levels of institutional trust at the
+
+regional level, and in a small subset of the data at the country level, this impact is much
+
+smaller as compared to evaluations of the national economic situation. Combine this with
+
+13 See Appendix 1.1 for the country-level regression models; only model three is included for brevity.
+
+40
+
+the fact that Q4 so often fails to reach significance at the country level, and this suggests
+
+that evaluations of the national economic situation are a more consistent determinant of
+
+institutional trust than family economic evaluations. One potential explanation as to why
+
+evaluations of family economic situation fail to significantly influence institutional trust
+
+is that respondents might fail to link the particulars of their own economic situation to
+
+government actions, reducing the role that this evaluation plays in shaping institutional
+
+trust, whereas they more explicitly link the national economic situation to governmental
+
+performance, more drastically influencing institutional trust.
+
+Second, the various demographic and other control variables present something of
+
+a mixed message. As it relates to the demographic controls, there does not appear to be
+
+any particular pattern to be observed. The significance of gender, income, and education
+
+varies greatly from country to country. Moreover, the direction of these relationships is
+
+not consistent between the regional model and the country models, or even between
+
+countries. By contrast, at the regional level the Freedom House score is significantly and
+
+positively correlated with institutional trust; higher Freedom House scores, and therefore
+
+‘less free’ countries, tend to have higher levels of institutional trust.
+
+Third, this analysis offers some insight into the accuracy of Hypothesis 1. While
+
+this model does not control for partisanship, at the regional level the seven-question
+
+operationalization of traditional social values has a significant, positive impact on
+
+institutional trust for both Model 2 and Model 3 (the two models which include TSV as a
+
+variable). Admittedly, the magnitude of the coefficient in each model is somewhat lower
+
+than the coefficients attached to questions about the national economic situation and anti corruption efforts. At the same time, the fact that it reaches significance at a p-value of 0
+
+41
+
+seems to suggest that, contrary to the findings of studies such as Wang (2013), traditional
+
+social values do have a significant impact on shaping institutional trust in the region.
+
+Moreover, these results are largely in line with the findings of Ikeda (2013), utilizing the
+
+same operationalization of TSV on a new set of data, and this displays that there is at
+
+least some degree of replicability over time in the impact of TSV on institutional trust.
+
+In addition, whereas a country-level analysis casts doubt on the consistency of
+
+evaluations of familial economic situations as a determinant of institutional trust, this
+
+type of analysis instead further supports Hypothesis 1. There is some variance between
+
+the magnitude of the associated coefficient for each country, but for all the countries in
+
+the data set, the seven-question measure of traditional social values is statistically
+
+significant to at least the .05 level. In terms of consistency, then, this places traditional
+
+social values in the same category as the national economic situation and anti-corruption
+
+efforts, by far the two most consistently significant determinants of institutional trust
+
+tested in the broader literature. Altogether, then, I find initial evidence in support of
+
+Hypothesis 1 based on an analysis of Trust Index 1, regardless of whether this analysis is
+
+conducted on the regional sample or country-specific samples, although it is still
+
+necessary to test this relationship when partisanship is factored into the model.
+
+Moreover, this regression analysis offers some insights into the relationship
+
+between social capital, both in terms of participation in organizations as well as social
+
+trust, and institutional trust. At the regional level, membership in an organization displays
+
+a significant relationship with institutional trust in Model 1 and Model 2. Surprisingly,
+
+considering the wider literature’s predictions related to social capital, the direction of this
+
+relationship is negative. However, there are two caveats to these results that call into
+
+42
+
+doubt the veracity of this relationship. For one, when controlling for gender, education,
+
+income, and the Freedom House score of respondents in Model 3, membership in an
+
+organization fails to reach significance with a p-value of .387. For another, the
+
+relationship between institutional trust and organizational membership at the country level varies greatly from country to country. Of the 13 countries in the data set,
+
+organizational membership reaches significance in at least one model in seven countries.
+
+In Hong Kong, South Korea, Mongolia, Taiwan, Thailand, and Myanmar, organizational
+
+membership has a significant and positive impact on institutional trust in all three models.
+
+In Singapore, this relationship is negative but significant only for Model 1. In the other
+
+six countries, the variable fails to reach significance with 95% certainty in any model. In
+
+other words, the impact of organizational membership on political trust varies based on
+
+location, and this level of variance at the country level potentially explains the
+
+unexpected results at the regional level.
+
+Finally, this analysis offers insight into the role that social trust plays in shaping
+
+institutional trust. At the regional level, social trust as measured by a dichotomous
+
+variable is significant in each of the three models tested, and this relationship between
+
+social trust and institutional trust is positive. Relative to the magnitude of the coefficients
+
+associated with anti-corruption efforts or evaluations of the national economy, the impact
+
+of social trust is somewhat smaller. Again, however, the regional level analysis does not
+
+tell the entire story. As compared to organizational membership, social trust performs
+
+much better at the country level of analysis, having a significant, positive relationship
+
+with institutional trust for all models in each country except Mongolia, Cambodia, and
+
+43
+
+Taiwan. For the former two countries, social trust is not significant in any model, and in
+
+Taiwan it is only significant for Model 3.
+
+Table 1.5: Trust Index One OLS Regression with Social Trust Index
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.252 0.024
+
+0
+
+National Economic Evaluations 0.202 0.005 0.321 0
+
+Family Economic Evaluations 0.004 0.006 0.004 0.564
+
+Anti-Corruption Efforts 0.215 0.006 0.282 0
+
+Organizational Membership -0.035 0.009 -0.028 0
+
+Social Trust Index 0.078 0.004 0.154 0 2 (Constant) 0.872 0.033 0 National Economic Evaluations 0.193 0.005 0.305 0
+
+Family Economic Evaluations 0.002 0.006 0.002 0.75
+
+Anti-Corruption Efforts 0.208 0.006 0.272 0
+
+Organizational Membership -0.05 0.009 -0.04 0
+
+Social Trust Index 0.081 0.004 0.16 0
+
+Traditionalism Index 0.15 0.009 0.123 0 3 (Constant) 0.915 0.037
+
+0
+
+National Economic Evaluations 0.158 0.005 0.251 0
+
+Family Economic Evaluations 0.024 0.006 0.03 0
+
+Anti-Corruption Efforts 0.198 0.006 0.259 0
+
+Organizational Membership 0.003 0.009 0.002 0.741
+
+Social Trust Index 0.086 0.004 0.169 0
+
+Traditionalism Index 0.1 0.009 0.082 0
+
+Female 0.008 0.008 0.007 0.329 Education -0.019 0.002 -0.079 0 Income Quintiles 0.011 0.003 0.023 0.002
+
+Freedom House Score 0.028 0.001 0.16 0 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate 1 .522a 0.272 0.272 0.51584
+
+2 .536b 0.287 0.286 0.51062
+
+3 .563c 0.317 0.317 0.49974
+
+Using these results as a baseline, I run an additional round of analysis for both the
+
+regional level and the country level in order to test the impact of operationalizing social
+
+trust via two different methodologies. As part of this process, the models are identical
+
+except for the fact that, rather than operationalizing social trust as a dichotomous
+
+44
+
+variable, I instead use the general method utilized by Mujani and Liddle (2013), creating
+
+an index of responses to four separate questions14 to measure social trust. I test these new
+
+models at both the regional and country level.15 Looking only at social trust, at the
+
+regional level, while the size of the standardized coefficient associated with social trust is
+
+notably larger than when a dichotomous measure is used, there is no difference in terms
+
+of the direction of the relationship or the significance between social trust and
+
+institutional trust dependent on the operationalization of social trust. Both
+
+operationalizations have a significant, positive impact in all three models. At the country
+
+level of analysis, however, there are some immediate differences. Whereas the
+
+dichotomous measure of social trust fails to reach significance in Cambodia, Mongolia,
+
+and in two models in Taiwan, the index operationalization achieves significance in every
+
+model in each country. This result in some way supports the idea that divergent
+
+operationalizations of social trust can result in different outcomes; there are differences in
+
+the statistical significance of social trust dependent on the operationalization16. But these
+
+differences are limited to only three of the thirteen countries analyzed, so differences in
+
+operationalization cannot adequately explain the extent of the variation in results that
+
+prior studies testing the relationship between social trust and institutional trust have
+
+found.
+
+15 See Appendix 1.2 for the country-level regression models; only model three is included for brevity. 16This study focuses on the quantitative impact of different operationalizations of social trust, but Ikeda (2013) provides a brief discussion of the difference between,” … trust in others one already knows…”, “… trust in a category that one knows is trustful, in general, such as medical doctors…,” and, “… when one judges an unknown other (upon first contact) as trustable…” (pg. 18). While it is largely outside of the scope of this study, these two different operationalizations might tap into these different types of trust, leading to the different outcomes observed.
+
+45
+
+Table 1.6: Trust Index Two Regional-Level OLS Regression
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+t Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.302 0.027 48.915 0
+
+National Economic Evaluations
+
+0.204 0.006 0.329 34.236 0
+
+Family Economic Evaluations
+
+0.028 0.007 0.037 3.876 0
+
+Anti-Corruption Efforts 0.2 0.006 0.285 31.224 0
+
+Social Trust Dummy 0.02 0.012 0.015 1.673 0.094
+
+Organizational Membership 0.012 0.01 0.01 1.144 0.252 2 (Constant) 0.842 0.036 23.208 0
+
+National Economic Evaluations
+
+0.186 0.006 0.3 31.317 0
+
+Family Economic Evaluations
+
+0.028 0.007 0.038 4.058 0
+
+Anti-Corruption Efforts 0.187 0.006 0.266 29.414 0
+
+Social Trust Dummy 0.046 0.012 0.034 3.87 0 Organizational Membership 0.013 0.01 0.011 1.272 0.203
+
+Traditionalism Index 0.184 0.01 0.165 18.283 0 3 (Constant) 1.041 0.041 25.167 0
+
+National Economic Evaluations
+
+0.165 0.006 0.266 27.38 0
+
+Family Economic Evaluations
+
+0.045 0.007 0.061 6.466 0
+
+Anti-Corruption Efforts 0.187 0.006 0.267 29.886 0
+
+Social Trust Dummy 0.062 0.012 0.046 5.248 0
+
+Organizational Membership 0.028 0.01 0.024 2.749 0.006
+
+Traditionalism Index 0.126 0.011 0.113 11.764 0 Female 0.006 0.01 0.005 0.597 0.551
+
+Freedom House Score 0.015 0.002 0.088 8.608 0
+
+Education -0.022 0.002 -0.095 -9.227 0
+
+Income Quintiles -0.004 0.004 -0.008 -0.828 0.408 Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate 1 .492a 0.242 0.242 0.4976 2 .517b 0.267 0.267 0.4892 3 .536c 0.287 0.286 0.48272
+
+Moving on to the nine-country subset, I recreate the above analysis with the same
+
+three models, this time using Trust Index 2 rather than Trust Index 1. As such, Trust
+
+Index 2 allows for the analysis to tap into responses to a battery of ten institutions (The
+
+46
+
+executive office, courts, national government, political parties, parliament, the civil
+
+service, the military, the police, the local government, and the election commission).
+
+When compared to the 13-country model, at the regional level there are slight but
+
+important differences in results. Whereas social trust is significant at the .05 level in all
+
+three models at the regional level and organizational membership is significant at this
+
+level in models 1 and 2, utilizing Trust Index 2 these two variables fail to attain
+
+significance at the .05 level in Model 1 (with p-values of .094 and .252, respectively), and
+
+organizational membership again fails to reach significance in Model 2. Interestingly,
+
+both variables are significant in Model 3, whereas organizational membership failed to
+
+reach significance in the 13-country subset. Additionally, Q4 is significant in all three
+
+models, whereas it is only significant in Model Three for the 13-country subset. Because
+
+several countries have been removed from the sample, though, it is difficult to isolate
+
+whether these differences are due to the additional institutions added to the institutional
+
+trust index or the removed cases from the four countries that were dropped. To further
+
+dive into these differences, it is more beneficial to directly compare the country-level
+
+results17.
+
+Unfortunately, when comparing the country-level models for the nine countries
+
+included in both analyses, few clear patterns emerge. Certainly, there are some
+
+differences. Relative to the Trust Index 1 measure, in South Korea familial economic
+
+evaluations are significant in all three models, in Taiwan Q4 is significant in Model 1,
+
+and in Cambodia social trust barely fails to meet the 95% confidence level for
+
+significance, with a p-value of .051. However, these changes are often isolated to singular
+
+17 See Appendix 1.3 for the country-level models.
+
+47
+
+models, and are minimal at best. As such, these results seem to suggest that, on the
+
+margins, the decision of which institutions to include in a measure of institutional trust
+
+does have some ability to impact the interpretation of some of the determinants of
+
+institutional trust, but this decision does not impact each variable equally. The one clear
+
+trend of note is that, for every country in both sets, the R-squared value of the model
+
+utilizing Trust Index 2 as its dependent variable is higher than that of Trust Index 1.
+
+While this does not directly reflect on which operationalization of institutional trust most
+
+accurately captures trust in government, it does at least support the assertion that the
+
+independent variables used in both models more fully predict Trust Index 2’s broader
+
+definition of institutional trust.
+
+At the same time, the results of the analysis of Trust Index 2 do offer further
+
+insight into Hypothesis 1. Namely, the seven-question index for traditional social values
+
+once again remains a consistent determinant of institutional trust, showing a significant
+
+and positive relationship with institutional trust in all three models at the regional level as
+
+well as in each country. Much like in the thirteen-country analysis, this consistency is
+
+akin to that of evaluations of the national economic situation and governmental anti corruption efforts. All together then, these findings provide further support for
+
+Hypothesis 1.
+
+48
+
+INSTITUTIONAL TRUST AND PARTISANSHIP
+
+Data and Methods
+
+Having concluded the above discussion investigating Hypothesis 1 and the impact
+
+of varying operationalizations of social trust, this section of the paper centers around an
+
+investigation into Hypothesis 2, largely inspired by the work of Huang, Lee, and Lin
+
+(2013). As discussed in the literature review, in their paper, Huang, Lee, and Lin (2013)
+
+find that broadly speaking, partisanship, defined as self-identified association with a
+
+political party, exerts a significant influence on institutional trust; those that identify with
+
+an opposition party have a significantly lower level of institutional trust. Moreover,
+
+borrowing a framework from the work of Rothstein and Stolle (2008), Huang, Lee, and
+
+Lin (2013) divide the institutions they investigate into “partisan” and “neutral”
+
+institutions; while there is variance from country to country, the study generally finds that
+
+the impact of partisanship is larger for partisan institutions than neutral institutions.
+
+In this section of the paper, I draw heavily on this approach, with a few key
+
+differences. First, and perhaps most important, I choose to define partisanship in a
+
+slightly different manner. Within the context of this study, I choose to define partisanship
+
+not as self-identified affiliation with a party but instead as whether respondents voted for
+
+the winner or loser of the last major election, as identified by the Asian Barometer
+
+Survey. This operationalization is functionally akin to the measure that taps into what
+
+Park (2017), citing the work of Anderson et. al (2005), terms the “winner-loser thesis,”
+
+predicting that, “… political [institutional] trust should be higher among those who voted
+
+49
+
+for the party in power while lower among those who voted for the opposition,” (pg. 501).
+
+I choose this operationalization method for two major reasons. One, as discussed in the
+
+literature review, there are some notable differences between the findings of Park and
+
+Huang, Lee, and Lin, but due to Park’s limited definition of which institutions matter
+
+when considering institutional trust, it is impossible to isolate whether said differences
+
+are due to different operationalizations of ‘partisanship’ or differences in the battery of
+
+institutions considered. Measuring partisanship in a manner like Park with an expanded
+
+battery of institutions may help clarify this issue. Two, Huang, Lee, and Lin (2013) rely
+
+on detailed knowledge of the political situation in the countries they investigate in order
+
+to properly identify and define what, if any, coalitions represent those in power and the
+
+opposition. By contrast, the variable used to identify winners and losers in the Wave 4
+
+ABS data set, Q34a, was created by the in-country survey teams. By utilizing their
+
+definitions of winners and losers, I can rely on their knowledge of the local political
+
+scene.
+
+There are some potential ramifications of this choice to consider. All things
+
+considered, it seems reasonable to expect relatively high levels of consistency between
+
+the two measures – we would expect supporters of a given party to vote for said party,
+
+and opponents to vote against said party. One potential point of concern, however, is
+
+whether or not voters report their voting behavior accurately. For example, several
+
+studies focusing on the United States (e.g. Wright 1990; Wright 1992; Carsey and
+
+Jackson 2001) have found long-running issues with excessively high numbers of voters
+
+reporting that they had voted for the winner in elections. It may be a concern, then, that
+
+the number of winners is overstated and some people who voted for a loser or did not
+
+50
+
+vote may be classified as winners. Based on the predictions of Hypothesis 2 and the party
+
+affiliation partisanship-related findings of Huang, Lee, and Lin (2013), this could
+
+artificially deflate trust levels among winners.
+
+I would, however, push back on this concern to some extent. When analyzing the
+
+mean levels of institutional trust for winners, losers, and non-voters in the eight countries
+
+I include in the regression analysis below, the expected distribution of trust levels is still
+
+evident.
+
+Figure 2.1: Mean Trust Levels by Voter Category
+
+Figure 2.1 displays this point. For all three institution classifications utilized in
+
+this chapter, winners display the highest mean levels of trust, followed by non-voters,
+
+followed by losers. Even if some members of the latter category have misreported their
+
+voting behavior and therefore have been miscategorized, it does not appear to alter the
+
+fundamental relationship that would be expected.
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+General Trust Index Partisan Trust Index Neutral Trust Index
+
+Mean Trust Level
+
+Trust Index
+
+Mean Trust Levels by Voter Category
+
+Non-Voters Winners Losers
+
+51
+
+In addition to this difference, as implied using eight countries from the sample, I
+
+choose to slightly vary the countries included in this analysis. Huang, Lee, and Lin
+
+(2013) choose to investigate six countries included in Wave 3 of the Asian Barometer
+
+Survey: South Korea, Taiwan, Mongolia, The Philippines, Thailand, and Indonesia. By
+
+contrast, I choose to include eight of the countries from Wave 4 of the Asian Barometer
+
+Survey that I used when analyzing Trust Index 2 above: Japan, South Korea, Mongolia,
+
+The Philippines, Taiwan, Cambodia, Malaysia, and Myanmar.
+
+This difference exists for a few reasons. First, Huang, Lee, and Lin (2013) choose
+
+to utilize a single definition of partisan and neutral institutions across all the countries
+
+they study, predicated on the assumption that, “… the involvement of national elections,
+
+in which all major parties compete, is the principal criterion for partisan politics,” (pg.
+
+10) Based on this assumption, the authors, “… classify the president/prime minister, the
+
+national government, and parliament as partisan institutions and the courts, civil service,
+
+the military, the police, and the election commission as neutral institutions,” (Huang, Lee,
+
+and Lin 2013, pg. 10). Moreover, they exclude newspapers, television, and NGOs as
+
+neither partisan nor neutral institutions, and political parties and local government
+
+because they are, “… not unique nationally, and respondents of the ABS may have been
+
+referring to different entities,” (Huang, Lee, and Lin 2013, pg. 10). Broadly speaking, I
+
+believe these classifications to be reasonable, and I mirror them in my analysis in this
+
+chapter. Unfortunately, questions about the election commission were not asked in
+
+Indonesia in Wave 4 of the ABS, precluding its inclusion, and a similar lack prevents the
+
+inclusion of China or Singapore.
+
+52
+
+Excluding Indonesia, China, and Singapore, the remaining sample consists of ten
+
+countries. However, there are some peculiarities with the winner and loser data at the
+
+country level that are a potential cause for concern.
+
+Table 2.1: Distribution of Winners, Losers, and Non-Voters
+
+WinnerLoserAggregate Total Total N Valid %
+
+Non-Voter Winner Loser
+
+Japan 199 396 325 920 1081 85.11 Hong Kong 128 85 114 327 1217 26.87 Korea 171 491 295 957 1200 79.75 Mongolia 133 702 338 1173 1228 95.52 Philippines 182 694 184 1060 1200 88.33 Taiwan 260 623 518 1401 1657 84.55 Thailand 88 186 228 502 1200 41.83 Cambodia 257 576 283 1116 1200 93.00 Malaysia 165 506 146 817 1207 67.69 Myanmar 447 392 403 1242 1620 76.67 Total 2030 4651 2834 9515 12810 74.28
+
+Due to the way in which Q34a is coded, only three categories of responses are
+
+provided: voting for the winner, voting for the loser, or a non-applicable category. This
+
+means that it is impossible to establish a baseline of non-voters from Q34a alone; it is
+
+impossible to know whether the non-applicable category refers to a respondent not
+
+voting, voting but refusing to disclose who they voted for, whether the data for the said
+
+voter is missing, and so on. Instead, it is necessary to pull data from both Q34a and Q33.
+
+So, from Q33 I retrieve whether a respondent did not vote in the last election, providing
+
+the non-voter baseline, and then from Q34a I pull information about whether voters voted
+
+for the winning or losing party or candidate in the last election. I use this information to
+
+create the variable WinnerLoserAggregate, responses to which are detailed in Table 2.1,
+
+53
+
+a variable that contains information on respondents who either confirmed they did not
+
+vote or voters who did vote and provided information on who they voted for. From this
+
+variable, I create dummy variables for winners and for losers that will be used in the
+
+regression analysis.
+
+The issue, and what necessitates the inclusion of only eight countries out of the
+
+remaining ten, is that for Hong Kong and Thailand there are notable issues with this data.
+
+As seen in Table 2.1, in Hong Kong only 26.9% of all respondents from the territory can
+
+be classified as a winner, a loser, or a non-voter. In Thailand18, only 41.8% of
+
+respondents can be classified in this way. Comparatively, in every other country, at least
+
+two-thirds of respondents can be classified. For this reason, I choose to exclude both
+
+Hong Kong and Thailand from the analysis, leaving only eight countries.
+
+Moving forward, I conduct the analysis in three parts, following the process
+
+utilized by Huang, Lee, and Lin (2013). In addition to a measure of generalized
+
+institutional trust, TrustIndexGeneral19, an indexed measure of questions 7, 8, 9, 11, 12,
+
+13, 14, and 18 constructed in the same manner as Trust Index 1 and Trust Index 2 above,
+
+I also create a measure of institutional trust in partisan institutions, TrustIndexPartisan,
+
+consisting of only questions 7, 9, and 11, and a measure of institutional trust in neutral
+
+institutions, TrustIndexNeutral, consisting of questions 8, 12, 13, 14, and 18. In each
+
+18 As an additional note, for respondents from Thailand, 1064 respondents stated that they voted in Q33, with 88 saying they did not and 48 either refusing to answer or otherwise not having a coded yes/no answer to the question. But, in Q34 and Q34a, 612 respondents are missing, rather than declining to answer or falling into some similar category. I cannot account for such a massive discrepancy, one that is not present for many other questions in the survey, and this provides further reason to exclude Thailand from the analysis in this section. 19 The institutions included in this measure are: The Executive Office, the National Government, Parliament, the Courts, the Civil Service, the Military, the Police, and the Election Commission. The former three constitute the partisan trust index measure, and the latter five constitute the neutral trust index measure.
+
+54
+
+case, the minimum response is a 1 and the maximum a 4, ranging from the least amount
+
+of institutional trust to the maximum. I treat each of these indexes as their own dependent
+
+variable, and I conduct regression analysis at both the regional level and at the country
+
+level for each one. The independent variables, outside of the addition of the winner and
+
+loser dummy variables, remain the same as in Chapter 1.
+
+Results and Discussion
+
+Before diving into the regression analysis, it is beneficial to have a general grasp
+
+of the relationship between these three measures of institutional trust. Table 2.2 displays
+
+the mean values for each of the three measures along with the standard error of the mean.
+
+From this distribution, it is possible to identify some general trends. First, following the
+
+trends associated with the institutional trust measures in Chapter 1, countries with lower
+
+Freedom House scores, therefore being considered freer, tend to have lower levels of
+
+institutional trust across the board. Second, largely consistent with the findings of Huang,
+
+Lee, and Lin (2013), the mean partisan institutional trust measure is lower than both the
+
+neutral and general measures of institutional trust in every country except Myanmar.
+
+In the case of Myanmar, this unique distribution can be better highlighted by
+
+taking an in-depth look at trust levels in these eight countries for all institutions included
+
+in the general trust index. For the three partisan institutions (the executive office, the
+
+national government, and parliament) the mean scores in Myanmar are approximately .2
+
+to .25 points higher than the regional average. For the five neutral institutions, mean trust
+
+in the courts and the civil service are .1 to .15 points lower, but the major differences lie
+
+with trust in the military, approximately .25 points lower, and the police, more than .5
+
+points on a four-point scale. It is possible these drastically lower levels of trust in two of
+
+55
+
+the five neutral institutions, in combination with above-average trust in partisan
+
+institutions, create this statistical oddity.
+
+Table 2.2: Mean Trust Levels by Institution Type
+
+Moving into the OLS regression analysis, the findings are in many ways
+
+consistent with the findings and predictions of Huang, Lee, and Lin (2013) and support
+
+Hypothesis 2. Of note, in the previous chapter, I ran the regression analysis with three
+
+models. But, because this chapter concerns both regional and country-level analysis for
+
+three different dependent variables, I choose to simply run one model for each case. This
+
+model includes all the independent variables including demographic controls, making the
+
+models functionally like Model 3 in the previous chapter outside of the addition of the
+
+winner and loser dummy variables.
+
+Beginning with the general institutional trust model, at the regional level all
+
+variables except for the female dummy variable, income quintiles, and organizational
+
+membership reach significance at the 95% confidence level. It should be noted, however,
+
+that while organizational membership does not strictly meet this definition of
+
+significance, its associated p-value is .059. Much like in Chapter 1, evaluations of the
+
+national economic situation and anti-corruption efforts exert significant, positive
+
+TrustIndexPartisan TrustIndexNeutral TrustIndexGeneral Mean SE Mean SE Mean SE Freedom House Japan 2.17 0.02 2.66 0.02 2.48 0.02 2 Korea 2.1 0.02 2.41 0.02 2.29 0.01 5 Mongolia 2.3 0.02 2.53 0.01 2.44 0.01 4 Philippines 2.46 0.02 2.6 0.02 2.54 0.02 6 Taiwan 2.07 0.01 2.39 0.01 2.27 0.01 3 Cambodia 2.71 0.02 2.77 0.02 2.74 0.02 11 Malaysia 2.93 0.02 2.99 0.02 2.97 0.02 8 Myanmar 2.65 0.02 2.37 0.02 2.47 0.02 11
+
+56
+
+influences in institutional trust, and the standardized coefficients for these two variables
+
+are by far the largest in the model. Social trust, traditional social values, the Freedom
+
+House score, and evaluations of family economic situation all have a significant and
+
+positive relationship with institutional trust, but the standardized coefficients are
+
+comparatively low. Interestingly, these initial results do seem to further support the
+
+predictions of Hypothesis 1; even when controlling for partisanship, higher levels of
+
+traditional social values are correlated with higher levels of institutional trust. Higher
+
+levels of education do result in a significantly lower level of institutional trust, but the
+
+magnitude of this relationship is relatively small. Finally, moving on to the winner and
+
+loser dummy variables, these initial findings provide support for Hypothesis 2. Compared
+
+to non-voters, voting for the winning party in the last election results in a significant and
+
+positive change in general institutional trust at the regional level, and voting for the
+
+losing party results in a significant decrease in institutional trust.
+
+Table 2.3: General Institutional Trust Regional-Level OLS Regression
+
+Model Unstandardized Coefficients
+
+Standardized Coefficients
+
+t Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.091 0.049 22.32 0
+
+National Economic Evaluations
+
+0.162 0.007 0.256 23.263 0
+
+Family Economic Evaluations
+
+0.041 0.008 0.054 5.193 0
+
+Anti-Corruption Efforts 0.18 0.007 0.249 24.492 0 Social Trust Dummy 0.059 0.014 0.043 4.299 0
+
+Organizational Membership
+
+0.022 0.012 0.019 1.89 0.059
+
+Female 0.008 0.011 0.007 0.743 0.458 Traditionalism Index 0.113 0.013 0.099 9.056 0
+
+Freedom House Score 0.011 0.002 0.058 4.902 0
+
+Education -0.019 0.003 -0.08 -6.96 0
+
+Income Quintiles 0.002 0.005 0.005 0.475 0.635
+
+Winner Dummy 0.12 0.015 0.103 7.904 0
+
+Loser Dummy -0.084 0.017 -0.065 -5.044 0 Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate 1 .541a 0.292 0.291 0.49288
+
+57
+
+Moving onto general institutional trust at the country level20, there is a notable
+
+amount of variance in the significance of factors from country to country. Much of this
+
+variance can be attributed to the various demographic controls, but more pertinent to this
+
+discussion is the variance in the significance of the winner and loser dummy variables,
+
+social trust, organizational membership, and traditional social values. Compared to the
+
+regional model, organizational membership is significant and positively associated with
+
+institutional trust in South Korea, Mongolia, and Myanmar. Social trust fails to reach
+
+significance in Mongolia and Cambodia. Considering that these two variables displayed
+
+similar levels of variance in significance in the previous chapter, such trends are not
+
+inherently surprising. However, for the first time, traditional social values fail to reach
+
+significance in a model – in Myanmar, the associated p-value is only .082. Finally, the
+
+winner and loser dummy variables are somewhat erratic. In the case of the former, the
+
+winner dummy variable is not significant in Mongolia, the Philippines, Taiwan, and
+
+Myanmar. In the case of the latter, the loser dummy variable fails to reach significance in
+
+Japan, Mongolia, the Philippines, Taiwan, and Myanmar. These findings do not entirely
+
+discredit Hypothesis 2 as one might expect the influence of voting for the winning or
+
+losing party to be diluted in a trust measure that includes both partisan and non-partisan
+
+institutions, but it does at least begin to suggest the impact of such effects is not even
+
+across all countries, much as Huang, Lee, and Lin (2013) find in their study, and it raises
+
+the possibility that the loss in trust from voting for a loser is less noticeable than the
+
+increase in trust from voting for the winner.
+
+20 See Appendix 2.1 for the country level regression models.
+
+58
+
+Keeping these findings in mind, I then move onto the analysis of the partisan trust
+
+index. At the regional level, only the female and income quintile variables fail to reach
+
+significance, and there is no variation in the direction of the significant relationships
+
+between the general and partisan models. The magnitude of the impact of the winner and
+
+loser variables is also higher for the partisan trust index than the general trust index,
+
+which suggests that the scale of the impact for voting for the winner or loser may be
+
+larger for partisan institutions. Like the general trust index, there is still noticeable
+
+variation in terms of the significance of determinants between countries21. Organizational
+
+membership fails to reach significance in Japan, the Philippines, Taiwan, Cambodia, and
+
+Malaysia. Social trust fails to reach significance at the 95% confidence level in Mongolia,
+
+the Philippines (with a p-value of .061), Taiwan, and Cambodia. Again, traditional social
+
+values fail to reach significance in one country, but in this case, it is Mongolia, not
+
+Myanmar. While this does not discredit the notion that, in many cases, traditional social
+
+values are an important determinant of institutional trust, the fact that evaluations of
+
+national economic performance and anti-corruption continue to remain significant in
+
+every model highlights their relative consistency compared to other determinants.
+
+21 See Appendix 2.2 for the country level regression models.
+
+59
+
+Table 2.4: Partisan Institutional Trust Regional-Level OLS Regression
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+t Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.547 0.056 9.829 0
+
+National Economic Evaluations
+
+0.196 0.008 0.261 24.702 0
+
+Family Economic Evaluations
+
+0.036 0.009 0.04 3.977 0
+
+Anti-Corruption Efforts 0.19 0.008 0.222 22.764 0
+
+Social Trust Dummy 0.058 0.016 0.035 3.707 0
+
+Organizational Membership
+
+0.05 0.013 0.036 3.815 0
+
+Female 0.013 0.013 0.009 1.014 0.311
+
+Traditionalism Index 0.151 0.014 0.111 10.615 0
+
+Freedom House Score 0.043 0.002 0.197 17.374 0
+
+Education -0.017 0.003 -0.062 -5.611 0
+
+Income Quintiles 0.003 0.006 0.005 0.487 0.626
+
+Winner Dummy 0.152 0.017 0.109 8.769 0
+
+Loser Dummy -0.128 0.019 -0.083 -6.739 0 Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate 1 .596a 0.355 0.354 0.55818
+
+Finally, the winner dummy variable fails to reach significance in the Philippines
+
+and Myanmar, and the loser dummy variable fails to reach significance in Mongolia,
+
+Taiwan (p-value .054), and Myanmar. Again, the inconsistency of the winner and loser
+
+variables in certain countries further supports the assertion that the impact of partisanship
+
+on institutional trust is, while a factor, one that cannot be generalized to every country.
+
+But both the winner and loser variables reach significance in a larger number of countries
+
+for the partisan institutions, and the direction of the relationship for the countries where
+
+these measures reach significance is in line with expectations, so in many ways, these
+
+findings still provide support for Hypothesis 2.
+
+Finally, I repeat the above process for the neutral trust index. At the regional
+
+level, the results are quite like those of the general trust index, with organizational
+
+60
+
+membership, the female dummy variable, and income quintiles not reaching significance
+
+at the 95% confidence level. While these results are quite similar, an important difference
+
+is that the R Square value for the neutral trust index is notably smaller at .199 than the
+
+general trust index, .292, or the partisan trust index, .355. Similarly, for each country the
+
+R Square value of the neutral trust index is lower than that of the partisan trust index.
+
+This, in combination with the fact that the magnitude of the coefficients for the winner
+
+and loser variables in the neutral trust index are the smallest out of all three regional
+
+models, suggests that the winner and loser variables in particular, and the entirety of the
+
+independent variables tested in general, are less able to explain variance in institutional
+
+trust for these neutral institutions.
+
+Table 2.5: Neutral Institutional Trust Regional-Level OLS Regression
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+t Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.421 0.054 26.258 0 National Economic Evaluations
+
+0.143 0.008 0.217 18.546 0
+
+Family Economic Evaluations
+
+0.044 0.009 0.056 5.02 0
+
+Anti-Corruption Efforts 0.172 0.008 0.229 21.153 0
+
+Social Trust Dummy 0.059 0.015 0.041 3.867 0
+
+Organizational Membership
+
+0.007 0.013 0.005 0.511 0.61
+
+Female 0.006 0.013 0.005 0.481 0.631
+
+Traditionalism Index 0.092 0.014 0.078 6.663 0
+
+Freedom House Score -0.009 0.002 -0.047 -3.755 0
+
+Education -0.02 0.003 -0.082 -6.698 0
+
+Income Quintiles 0.003 0.006 0.005 0.454 0.65
+
+Winner Dummy 0.098 0.017 0.081 5.836 0
+
+Loser Dummy -0.063 0.018 -0.047 -3.407 0.001 Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate 1 .446a 0.199 0.198 0.54557
+
+61
+
+At the country level22, the neutral institutions again display a somewhat similar
+
+pattern to the one observable in the prior two models, inasmuch as many of the variables
+
+display a wide variance in significance from country to country. Interestingly,
+
+organizational membership fairs better for these institutions, failing to reach significance
+
+only in the Philippines, Cambodia, and Malaysia. Social trust fails to reach significance
+
+in Mongolia, Cambodia (p-value .078), and Myanmar (p-value .078), and once more,
+
+traditional social values fail to reach significance in Myanmar. The variables whose
+
+performance most suffer in this model, however, are the winner and loser variables. The
+
+winner variable fails to reach significance in South Korea, Mongolia, the Philippines,
+
+Taiwan, Cambodia, and Myanmar, and the loser variable fails to reach significance in
+
+Japan, Mongolia, the Philippines, Taiwan, and Myanmar23. Evaluations of national
+
+economic performance and governmental anti-corruption efforts are still consistently
+
+significant, positive determinants of institutional trust in every country, and evaluations
+
+of family economic situation pass the 95% confidence interval in all but South Korea and
+
+Myanmar.
+
+What to make of these findings? Before diving into how these findings shape the
+
+understanding of Hypothesis 2, it is necessary to revisit a point made in the literature
+
+review, the way in which the impact of partisanship in Mongolia serves as an example of
+
+potential issues with a limited definition of which institutions matter when creating a
+
+22 See Appendix 2.3 for the country level regression models. 23 Myanmar is very much an oddity in terms of this analysis, with the winner and loser variables failing to reach significance in every single model. While this may, in fact, be accurate, it is important to note that, as detailed by sources like The Economist (2015) that at the time the Wave 4 ABS was being conducted in Myanmar, the country was in a run-up to its first comparatively free and fair general election in decades, coming on the tail-end of five years of military-approved reforms. Further analysis, perhaps when a fifth wave of the ABS survey is released, will likely be necessary to determine whether these findings are a fluke or a pattern.
+
+62
+
+measure of institutional trust. Unfortunately, these results do not provide a
+
+comprehensive conclusion on whether it was Park’s (2017) choice of a limited definition
+
+of institutional trust, only considering parliament and national government, that led to the
+
+divergence in findings between his work and the work of Huang, Lee, and Lin (2013). As
+
+I found, only in the case of partisan institutions does voting for the winner have a
+
+significant, positive impact on institutional trust in Mongolia. But, trust in parliament and
+
+national government makes up two-thirds of this measure, so it is difficult to say with
+
+certainty that it was the institutions chosen rather than changes in the political situation in
+
+Mongolia that explain such variance. What the expanded battery of institutions in
+
+combination with dividing the analysis into partisan and neutral institutions does offer,
+
+however, is the ability to concretely state that, at any given period, partisanship does or
+
+does not significantly impact trust in a wider set of institutions.
+
+More broadly, the collective impression is at least somewhat supportive of
+
+Hypothesis 2. At the regional level, for each model the winner and loser dummy variables
+
+have significant impacts on institutional trust, positive for the case of the winner variable
+
+and negative for the loser variable. This supports the assertion that, as compared to non voters, those who vote for the winner of the most recent election display higher levels of
+
+institutional trust, not only in partisan institutions but also in institutions more broadly,
+
+and losers display lower levels. It is the country-level results that require conditioning the
+
+acceptance of Hypothesis 2 to some extent.
+
+Certainly, the winner and loser dummy variables perform at different levels
+
+depending on whether the model uses a more holistic index of institutional trust or a
+
+partisan/non-partisan measure. That the best performance is found in the partisan model,
+
+63
+
+and the worst the neutral model, suggests that on aggregate the impact of partisanship on
+
+trust in neutral institutions is less than on trust in partisan institutions and is in line with
+
+Hypothesis 2 and the findings of Huang, Lee, and Lin (2013). That these broad
+
+relationships hold when controlling for a wider range of factors than those tested by
+
+Huang, Lee, and Lin (2013) provides further support to their argument that partisanship is
+
+an important determinant to test, one that as of yet is underrepresented in the wider
+
+literature on institutional trust. At the same time, the wide variance in country-level
+
+results should serve as something of a cautionary note. It does not seem reasonable to
+
+suggest that partisanship is a sweeping force that influences institutional trust equally in
+
+every location as the regional-level results might initially indicate. Instead, it is likely that
+
+the causal link between partisanship and institutional trust is case-specific, and attempts
+
+to explain such a link will likely necessitate in-depth analysis of time-sensitive situations
+
+in any given location, much as Huang, Lee, and Lin (2013) do when attempting to
+
+explain the variance in results they find in their study.
+
+Finally, with the emphasis that this study places on the roles of traditional social
+
+values and partisanship, I re-run the above analysis with a two-level OLS regression
+
+model, the first level including all variables except for traditional social values and the
+
+second model also including traditional social values. If, for example, there were a
+
+number of cases in which the inclusion of traditional social values altered the significance
+
+of the winner or loser variables, it may suggest some form of interaction between these
+
+variables24. However, this does not appear to be the case. For both the partisan and
+
+general trust indexes, the inclusion of traditional social values in no way influences the
+
+24 Because there is no meaningful difference in results, the models are not included in this paper.
+
+64
+
+significance of the winner or loser variables at either the regional-level or the country level. In the case of the neutral trust index, such an effect is only found in South Korea,
+
+although in this case the loser dummy variable actually reaches significance only after
+
+traditional social values is accounted for. For the most part, then, there appears to be no
+
+unique relationship between partisanship and traditional social values.
+
+65
+
+CONCLUSION
+
+Taking a holistic look at the findings of this study, in many ways they serve as
+
+validations of observable trends in the wider literature. At the same time, this study also
+
+provides several conclusions that serve to further advance the discussion on institutional
+
+trust in East and Southeast Asia while providing meaningful avenues of future research.
+
+First, in a broad sense, this project provides further insight into the debate over
+
+whether institutional or cultural factors best explain trends in institutional trust. The
+
+analysis in this paper was prefaced by the claims of authors (e.g. Wong, Wan, and Hsiao
+
+2011; Wang 2013; Park 2017) about the relative superiority or consistency of the
+
+institutional approach to institutional trust. Within that discussion, I asserted, based on
+
+prior literature, that the latter portion of the argument seems a more reasonable claim than
+
+the former, and the results of this study support that assertion. Consistency is, in fact, the
+
+hallmark of the variables reflective of the institutional approach like evaluations of the
+
+national economic situation and governmental anti-corruption efforts. In every single
+
+model included in this paper, these two variables have a significant, positive impact on
+
+institutional trust. Moreover, the standardized coefficients associated with these variables
+
+suggest that the magnitude of their impact is the largest of any tested variable.
+
+The consistency of these two variables, and therefore the comparatively higher
+
+consistency of the institutional approach, is further highlighted by the lack of consistency
+
+displayed by the variables attempting to tap into social capital. For both social trust and
+
+organizational membership, there is a much greater level of variation in significance from
+
+66
+
+model to model and from country to country. This is, admittedly, not surprising given the
+
+inconsistent conclusions the wider literature reaches about these variables, but the fact
+
+that this inconsistently remains apparent when controlling for a wider number of
+
+variables than much of the literature does lend further credence to voices that downplay
+
+the role of social capital in shaping institutional trust in East and Southeast Asia.
+
+Moreover, there appears to be only marginal support for the role that different
+
+operationalizations of social trust play in explaining some of this variance. While
+
+utilizing an alternative operationalization of social trust on the same data set, the general
+
+process modeled off the work of Mujani and Liddle (2013), does alter the significance of
+
+social trust in a subset of the countries studied, it is not a comprehensive explanation. As
+
+such, it seems reasonable to largely accept the literature’s preference for the institutional
+
+approach.
+
+At the same time, there are some findings that prompt pushback on a blanket
+
+assertion that the institutional approach is clearly superior to the cultural approach as
+
+compared to acknowledging that the cultural approach does provide some value. In
+
+particular, the conclusions that we can draw about traditional social values from this
+
+study reflect positively on the cultural approach. Whereas social trust and organizational
+
+membership fail to reach a significant level of certainty in many of the models tested,
+
+traditional social values almost always have a significant, positive impact on institutional
+
+trust. Behind evaluations of the national economic situation and governmental anti corruption efforts, traditional social values are actually the most consistent variable tested
+
+in the entire study. While the wider literature on the topic of traditionalism is much more
+
+mixed, because the results of this study were found using the same operationalization but
+
+67
+
+a newer set of data than Ikeda (2013), it seems reasonable to conclude that much of the
+
+discrepancy in the conclusions drawn about traditional social values are due to issues
+
+with operationalization rather than intrinsic issues that might suggest a lack of a
+
+relationship between traditional social values and institutional trust.
+
+More broadly, these findings offer a mixed picture on the long-term prospects of
+
+institutional trust in the region. Considering their findings on partisanship, Huang, Lee,
+
+and Lin (2013) take a relatively negative tact, arguing that, “… the implications of our
+
+findings seem pessimistic. If institutional trust is subject to partisan projection, there is a
+
+limit to what a democratic government can do to improve trust by improving
+
+governance,” (pg. 67). To some extent, these same fears exist with the findings in this
+
+study. Partisanship does seem to play a role in shaping levels of trust in the region. At the
+
+same time, this relationship does not hold true for each country or each type of
+
+institution, and even in those it does the magnitude of this relationship is smaller than
+
+many other variables. Moreover, the two most consistent and influential determinants of
+
+institutional trust, evaluations of the national economic situation and perceptions of anti corruption efforts, are much more closely associated with governmental performance.
+
+Certainly, there are factors outside the influence of governments that can negatively
+
+impact economic growth, but those concerned about increasing levels of institutional trust
+
+should take heart in the fact that institutional trust does still appear to be tied closely to
+
+good governance. What might be more concerning in the long run is the relationship
+
+between traditional social values and institutional trust. If one assumes that these
+
+traditional values will decay over time, this presents a source of further decline in
+
+68
+
+institutional trust that may be difficult for governments to address. More research is likely
+
+necessary to determine if such a trend exists.
+
+This study also provides additional avenues for further research. First, in line with
+
+the necessity of further research tracking the level of traditional social values in the
+
+region, traditional social values should feature much more prominently in any future
+
+research on institutional trust in East and Southeast Asia. At the same time, this study
+
+utilizes a relatively straightforward operationalization of traditional social values. It
+
+would likely be worthwhile to disaggregate traditional social values further, as Zhai
+
+(2016) does when disaggregating traditional social values in China into family, social,
+
+and political values. There are also several variables discussed in the literature review
+
+that were, unfortunately, not included in this study that warrant further testing. These
+
+include testing to see to what extent the electoral systems utilized influence levels of
+
+institutional trust, the extent to which the proportionality of electoral outcomes influences
+
+institutional trust, and whether a more comprehensive definition of media consumption
+
+would lead to more consistent conclusions about the impact of the variable than currently
+
+exist in the wider literature and address the discrepancies about the variable that exist
+
+between the East Asian and African literature on trust. The more expansive models
+
+utilized in this study are a good first step, but further progress can be made on uniformly
+
+testing competing explanations about the determinants of institutional trust within any
+
+single study.
+
+Additionally, there are some methodological aspects utilized in this project that
+
+either warrant further study or should be more commonly incorporated in the literature on
+
+the topic. The differences in results between partisan and neutral institutions explored in
+
+69
+
+Chapter 2 lend further credence to the assertion made by Huang, Lee, and Lin (2013) that
+
+the relationship between partisanship and institutional trust needs to be accounted for in
+
+more studies. At the same time, it was not only the relationship between partisanship and
+
+institutional trust that varied when looking at partisan versus neutral institutions. This
+
+suggests that, regardless of whether partisanship is being investigated in a study, there is
+
+value in carving out this distinction between types of institutions. Of course, the
+
+differences in the significance of other determinants between partisan and neutral
+
+institutions may not be linked to their partisan or non-partisan nature, but at the very least
+
+this point supports my earlier claim that studies should be taking into account a greater
+
+number of institutions when defining institutional trust; a measure looking at views for
+
+only one or two institutions simply can’t pick up any such potential variation.
+
+Altogether, this study has provided valuable insights on both the institutional and
+
+cultural approaches to institutional trust. It has confirmed the importance of testing both
+
+partisanship and traditional social values as determinants of institutional trust in East and
+
+Southeast Asia. And, more broadly, it has explored some of the implications of the
+
+varying methodologies that have been used in the wider literature while providing some
+
+suggestions on areas where progress can be made on standardizing approaches. Issues of
+
+institutional trust will likely maintain their importance in the years to come, and further
+
+research, both on the regional and at the country level, will be necessary to continue to
+
+improve our understanding of the topic.
+
+70
+
+BIBLIOGRAPHY
+
+Anderson, C.J., A. Blais and S. Bowler et al. (2005), Losers’ Consent: Elections and
+
+Democratic Legitimacy, Oxford: Oxford University Press.
+
+Carsey, T. M., & Jackson, R. A. (2001). Misreport of vote choice in US Senate and
+
+gubernatorial elections. State Politics & Policy Quarterly, 1(2), 196-209. https://doi.org/10.1177%2F153244000100100205
+
+Ceron, A. (2015). Internet, news, and political trust: The difference between social media
+
+and online media outlets. Journal of Computer-Mediated Communication, 20(5), 487-503. https://doi.org/10.1111/jcc4.12129
+
+Chang, E. C., & Chu, Y. H. (2006). Corruption and trust: exceptionalism in Asian
+
+democracies?. The Journal of Politics, 68(2), 259-271. https://www.jstor.org/stable/10.1111/j.1468-2508.2006.00404.x
+
+Chi, E., & Kwon, H. Y. (2016). The trust-eroding effect of perceived inequality:
+
+Evidence from East Asian new democracies. The Social Science Journal, 53(3), 318-328. http://www.socialcapitalgateway.org/sites/socialcapitalgateway.org/files/data/pap er/2017/03/23/rchi2016-thetrust-erodingeffectofperceivedinequality.pdf
+
+Cho, W. (2012). Accountability or representation? How electoral systems promote public
+
+trust in African legislatures. Governance, 25(4), 617-637. https://doi.org/10.1111/j.1468-0491.2012.01598.x
+
+Evers, A., & Gesthuizen, M. (2011). The impact of generalized and institutional trust on
+
+donating to activist, leisure, and interest organizations: individual and contextual effects. International Journal of Nonprofit and Voluntary Sector Marketing, 16(4), 381-392. DOI: 10.1002/nvsm.434
+
+Grönlund, K., & Setälä, M. (2007). Political trust, satisfaction and voter turnout.
+
+Comparative European Politics, 5(4), 400-422. https://doi.org/10.1057/palgrave.cep.6110113
+
+Huang, K, Lee, F, & Lin, T. (2013). Partisanship and Institutional Trust: A Comparative
+
+Analysis of Emerging Democracies in East Asia. Taiwan Journal of Democracy, 9(1). 47-71. http://www.academia.edu/15535239/Partisanship_and_Institutional_Trust_A_Co mparative_Analysis_of_Emerging_Democracies_in_East_Asia
+
+Hudson, J. (2006). Institutional trust and subjective well‐being across the EU. Kyklos,
+
+59(1), 43-62. https://doi.org/10.1111/j.1467-6435.2006.00319.x
+
+71
+
+Hutchison, M. L. (2011). Territorial threat and the decline of political trust in Africa: A
+
+multilevel analysis. Polity, 43(4), 432-461. https://doi.org/10.1057/pol.2011.3
+
+Hutchison, M. L., & Johnson, K. (2011). Capacity to trust? Institutional capacity,
+
+conflict, and political trust in Africa, 2000–2005. Journal of Peace Research, 48(6), 737-752. DOI: 10.1177/0022343311417981
+
+Ikeda, K. I. (2013). Social and Institutional Trust in East and Southeast Asia. Taiwan
+
+Journal of Democracy, 9(1). http://www.tfd.org.tw/export/sites/tfd/files/publication/journal/dj0901/002.pdf
+
+Kim, J. (2005). “’Bowling Together’ isn’t a Cure-All: The Relationship between Social
+
+Capital and Political Trust in South Korea.” International Political Review, 26(2). 192-213. https://doi.org/10.1177%2F0192512105050381
+
+Ma, D., & Yang, F. (2014). Authoritarian orientations and political trust in East Asian
+
+societies. East Asia, 31(4), 323-341. https://doi.org/10.1007/s12140-014-9217-z
+
+Marien, S., & Hooghe, M. (2011). Does political trust matter? An empirical investigation
+
+into the relation between political trust and support for law compliance. European Journal of Political Research, 50(2), 267-291. https://doi.org/10.1111/j.14756765.2010.01930.x
+
+Marien, S. (2011). The Effect of Electoral Outcomes on Political Trust. A Multi-level
+
+Analysis of 23 Countries. Electoral Studies, 30(4), 712-726 https://doi.org/10.1016/j.electstud.2011.06.015
+
+Mishler, W., & Rose, R. (2001). What are the origins of political trust? Testing
+
+institutional and cultural theories in post-communist societies. Comparative political studies, 34(1), 30-62. https://doi.org/10.1177%2F0010414001034001002
+
+Mujani, S., & Liddle, R. W. (2013). Generational Change, Political Institutions, and
+
+Regime Support in East Asia. A Comparative Survey of Democracy, Governance, and Development, Working Paper Series, 62. http://asianbarometer.org/publications/0488e16507a69eec1593167650a87ee2.pdf
+
+Park, C. M. (2017). Political trust in the Asia-Pacific region. In S. Zmerli & T. W.G. van
+
+der Meer (Eds.), Handbook on political trust (488-508). Edward Elgar Publishing.
+
+Rothstein, B., & Stolle, D. (2008). The state and social capital: An institutional theory of
+
+generalized trust. Comparative Politics, 40(4), 441-459. https://www.jstor.org/stable/20434095
+
+Shi, T. (2001). Cultural values and political trust: a comparison of the People's Republic
+
+of China and Taiwan. Comparative Politics, 33(4). 401-419. http://www.jstor.org/stable/422441
+
+72
+
+Tan, S.J., & Tambyah, S.K. (2011) Generalized Trust and Trust in Institutions in
+
+Confucian Asia. Social Indicators Research 103, 357–377. https://doi.org/10.1007/s11205-010-9703-7
+
+Tang, M., & Huhe, N. (2016). The variant effect of decentralization on trust in national
+
+and local governments in Asia. Political Studies, 64(1), 216-234. https://doi.org/10.1111%2F1467-9248.12177
+
+Tang, Y. (2011). “Institutional Trust and Democratic Support: A Comparison of the
+
+Peoples of East Asia.” Department of Political Science, National Taiwan University. https://pdfs.semanticscholar.org/d5e8/6db1f7cbbf579e02a1a3e8898da318d7aa46. pdf?_ga=2.195785516.1091842723.1574007345-1671169823.1574007345
+
+The Economist. (2015, October 29). Change in the Air: An Election in Myanmar.
+
+Retrieved from https://www.economist.com/asia/2015/10/29/change-in-the-air
+
+Wang, C. (2013). Causes and Consequences of Political Trust in East Asia (Dissertation).
+
+University of Houston, Houston, Texas. https://uhir.tdl.org/bitstream/handle/10657/2723/WANG-DISSERTATION2013.pdf?sequence=1
+
+Wong, T. K. Y., Wan, P. S., & Hsiao, H. H. M. (2011). The bases of political trust in six
+
+Asian societies: Institutional and cultural explanations compared. International Political Science Review, 32(3), 263-281. http://journals.sagepub.com/doi/pdf/10.1177/0192512110378657
+
+Wright, G. C. (1990). Misreports of vote choice in the 1988 NES senate election study.
+
+Legislative Studies Quarterly, 543-563. https://www.jstor.org/stable/439896
+
+Wright, G. C. (1992). Reported versus actual vote: there is a difference and it matters.
+
+Legislative Studies Quarterly, 131-142. https://www.jstor.org/stable/440085
+
+Wu, Y. (2014). The impact of media on public trust in legal authorities in China and
+
+Taiwan. Asian journal of criminology, 9(2), 85-101. https://doi.org/10.1007/s11417-013-9177-z
+
+Yang, Q. & Tang, W. (2010). Exploring the Sources of Institutional Trust in China:
+
+Culture, Mobilization, or Performance?. Asian Politics & Policy, 2: 415-436. doi:10.1111/j.1943-0787.2010.01201.x
+
+Zhai, Y. (2016). Traditional Values and Political Trust in China. Journal of Asian and
+
+African Studies, 53(3). 350-365. https://doi.org/10.1177%2F0021909616684860
+
+73
+
+APPENDIX
+
+Appendix 1.1: Trust Index 1 Country-Level Regression Models
+
+JAPAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.084 0.142
+
+National Economic Evaluations 0.095*** 0.019 0.169
+
+Family Economic Evaluations 0.103*** 0.022 0.166
+
+Anti-Corruption Efforts 0.175*** 0.021 0.278
+
+Social Trust Dummy 0.089** 0.033 0.088
+
+Organizational Membership 0.061 0.035 0.057
+
+Traditionalism Index 0.14*** 0.038 0.123
+
+Female -0.086** 0.031 -0.091
+
+Education 0.01 0.01 0.036
+
+Income Quintiles -0.009 0.012 -0.028 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .485c 0.235 0.226 0.41749
+
+*** p <.001, ** p <. 01, * p < .05
+
+HONG KONG
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 0.93 0.132
+
+National Economic Evaluations 0.166*** 0.019 0.279
+
+Family Economic Evaluations 0.007 0.024 0.009 Anti-Corruption Efforts 0.116*** 0.022 0.177
+
+Social Trust Dummy 0.086** 0.029 0.092
+
+Organizational Membership 0.146** 0.046 0.101
+
+Traditionalism Index 0.342*** 0.037 0.308
+
+Female -0.009 0.029 -0.01
+
+Education -0.007 0.006 -0.035 Income Quintiles -0.016 0.01 -0.052 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .547c 0.3 0.291 0.39238 *** p <.001, ** p <. 01, * p < .05
+
+KOREA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.154 0.13
+
+National Economic Evaluations 0.103*** 0.02 0.155
+
+Family Economic Evaluations 0.041 0.023 0.054
+
+Anti-Corruption Efforts 0.128*** 0.021 0.174
+
+Social Trust Dummy 0.132*** 0.03 0.127
+
+Organizational Membership 0.108*** 0.029 0.108
+
+74
+
+Traditionalism Index 0.147*** 0.03 0.142
+
+Female 0.005 0.028 0.005
+
+Education -0.009 0.009 -0.028
+
+Income Quintiles 0.007 0.012 0.017 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .393c 0.155 0.148 0.45985
+
+*** p <.001, ** p <. 01, * p < .05
+
+CHINA
+
+Model Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.69 0.112
+
+National Economic Evaluations 0.095*** 0.01 0.216
+
+Family Economic Evaluations 0.005 0.014 0.009
+
+Anti-Corruption Efforts 0.125*** 0.016 0.171
+
+Social Trust Dummy 0.107*** 0.019 0.12
+
+Organizational Membership 0.017 0.073 0.005
+
+Traditionalism Index 0.258*** 0.032 0.181
+
+Female -0.038* 0.019 -0.043
+
+Education -0.009* 0.004 -0.054
+
+Income Quintiles -0.018* 0.008 -0.056 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .433c 0.188 0.184 0.40057
+
+*** p <.001, ** p <. 01, * p < .05
+
+MONGOLIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.408 0.14
+
+National Economic Evaluations 0.128*** 0.02 0.197 Family Economic Evaluations 0.053* 0.022 0.073
+
+Anti-Corruption Efforts 0.084*** 0.019 0.133
+
+Social Trust Dummy 0.022 0.037 0.018
+
+Organizational Membership 0.105** 0.032 0.099
+
+Traditionalism Index 0.104** 0.033 0.095 Female -0.008 0.03 -0.008
+
+Education -0.002 0.007 -0.009
+
+Income Quintiles 0.002 0.016 0.004 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .310c 0.096 0.088 0.48385
+
+*** p <.001, ** p <. 01, * p < .05
+
+PHILIPPINES
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients B Std. Error Beta 3 (Constant) 1.283 0.143
+
+National Economic Evaluations 0.139*** 0.018 0.221
+
+Family Economic Evaluations 0.042* 0.02 0.061
+
+75
+
+Anti-Corruption Efforts 0.105*** 0.019 0.152
+
+Social Trust Dummy 0.162** 0.057 0.078
+
+Organizational Membership 0.043 0.032 0.037
+
+Traditionalism Index 0.181*** 0.036 0.136 Female -0.004 0.031 -0.004
+
+Education -0.023** 0.007 -0.093
+
+Income Quintiles -0.051** 0.016 -0.097 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .396c 0.157 0.15 0.52298
+
+*** p <.001, ** p <. 01, * p < .05
+
+TAIWAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.074 0.123
+
+National Economic Evaluations 0.135*** 0.013 0.26
+
+Family Economic Evaluations 0.052** 0.016 0.086
+
+Anti-Corruption Efforts 0.156*** 0.016 0.241
+
+Social Trust Dummy 0.063* 0.026 0.063
+
+Organizational Membership 0.065** 0.024 0.065
+
+Traditionalism Index 0.129*** 0.037 0.091
+
+Female -0.001 0.024 -0.001
+
+Education -0.005 0.006 -0.022
+
+Income Quintiles -0.032** 0.011 -0.08 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .469c 0.22 0.215 0.44443 *** p <.001, ** p <. 01, * p < .05
+
+THAILAND
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.586 0.174
+
+National Economic Evaluations 0.096*** 0.023 0.164
+
+Family Economic Evaluations 0.005 0.032 0.007
+
+Anti-Corruption Efforts 0.085*** 0.024 0.127
+
+Social Trust Dummy 0.15*** 0.04 0.136
+
+Organizational Membership 0.146*** 0.039 0.133
+
+Traditionalism Index 0.222*** 0.043 0.181
+
+Female -0.06 0.037 -0.056
+
+Education -0.027** 0.008 -0.117
+
+Income Quintiles 0.002 0.019 0.005 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .423c 0.179 0.168 0.48238 *** p <.001, ** p <. 01, * p < .05
+
+INDONESIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.29 0.15
+
+National Economic Evaluations 0.125*** 0.018 0.204
+
+76
+
+Family Economic Evaluations 0.039 0.02 0.058
+
+Anti-Corruption Efforts 0.14*** 0.023 0.172
+
+Social Trust Dummy 0.139*** 0.034 0.112
+
+Organizational Membership 0.089 0.055 0.045 Traditionalism Index 0.144*** 0.035 0.114
+
+Female 0.028 0.028 0.028
+
+Education -0.03*** 0.007 -0.136
+
+Income Quintiles 0.06*** 0.012 0.157 Model R R Square Adjusted R Square
+
+Std. Error of the Estimate 3 .449c 0.201 0.195 0.45663
+
+*** p <.001, ** p <. 01, * p < .05
+
+SINGAPORE
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.171 0.201
+
+National Economic Evaluations
+
+0.103** 0.03 0.145
+
+Family Economic Evaluations
+
+0.057 0.031 0.08
+
+Anti-Corruption Efforts 0.199*** 0.033 0.238
+
+Social Trust Dummy 0.154** 0.048 0.125
+
+Organizational Membership -0.077 0.042 -0.07 Traditionalism Index 0.172*** 0.04 0.175
+
+Female 0.024 0.041 0.023
+
+Education 0.005 0.01 0.022
+
+Income Quintiles 0.025 0.019 0.054 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .434c 0.188 0.175 0.48336
+
+*** p <.001, ** p <. 01, * p < .05
+
+CAMBODIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 0.753 0.144
+
+National Economic Evaluations
+
+0.212 *** 0.02 0.286
+
+Family Economic Evaluations
+
+0.053 * 0.023 0.06
+
+Anti-Corruption Efforts 0.221 *** 0.02 0.292
+
+Social Trust Dummy 0.035 0.043 0.02
+
+Organizational Membership -0.022 0.039 -0.014 Traditionalism Index 0.219 *** 0.036 0.152
+
+Female 0.129 *** 0.03 0.109
+
+Education -0.019** 0.007 -0.076
+
+Income Quintiles -0.032* 0.014 -0.06 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .549c 0.301 0.296 0.49492
+
+*** p <.001, ** p <. 01, * p < .05
+
+77
+
+MALAYSIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.026 0.124 National Economic Evaluations
+
+0.188 *** 0.018 0.288
+
+Family Economic Evaluations
+
+0.09 *** 0.021 0.114
+
+Anti-Corruption Efforts 0.192 *** 0.019 0.258
+
+Social Trust Dummy 0.149 ** 0.051 0.07
+
+Organizational Membership 0.025 0.032 0.018
+
+Traditionalism Index 0.241 *** 0.031 0.192
+
+Female -0.025 0.029 -0.021
+
+Education -0.023** 0.007 -0.083
+
+Income Quintiles -0.05*** 0.013 -0.101 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .611c 0.373 0.368 0.47187
+
+*** p <.001, ** p <. 01, * p < .05
+
+MYANMAR
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 0.705 0.165
+
+National Economic Evaluations
+
+0.115 *** 0.025 0.13
+
+Family Economic Evaluations
+
+0.037 0.03 0.035
+
+Anti-Corruption Efforts 0.319*** 0.021 0.404
+
+Social Trust Dummy 0.177*** 0.046 0.099
+
+Organizational Membership 0.155*** 0.037 0.108
+
+Traditionalism Index 0.121** 0.038 0.083
+
+Female 0.011 0.035 0.008
+
+Education -0.027*** 0.007 -0.098
+
+Income Quintiles -0.017 0.021 -0.022 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .532c 0.283 0.277 0.57966
+
+*** p <.001, ** p <. 01, * p < .05
+
+Appendix 1.2: 13-Trust Index 1 Country-Level Regression with Social Trust Index
+
+JAPAN
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+3 (Constant) 1.027 0.139
+
+0
+
+National Economic Evaluations 0.09 0.019 0.161 0 Family Economic Evaluations 0.099 0.022 0.158 0
+
+Anti-Corruption Efforts 0.162 0.021 0.258 0
+
+Organizational Membership 0.044 0.034 0.041 0.199
+
+Social Trust Index 0.073 0.015 0.165 0
+
+Traditionalism Index 0.133 0.037 0.116 0
+
+Female -0.085 0.031 -0.09 0.005
+
+Education 0.008 0.01 0.029 0.411
+
+Income Quintiles -0.013 0.012 -0.039 0.282 Model Summary
+
+78
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .503c 0.253 0.244 0.41166
+
+HONG KONG
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 0.91 0.131
+
+0
+
+National Economic Evaluations 0.157 0.019 0.263 0
+
+Family Economic Evaluations 0.016 0.024 0.021 0.505
+
+Anti-Corruption Efforts 0.099 0.022 0.151 0
+
+Organizational Membership 0.146 0.045 0.101 0.001
+
+Social Trust Index 0.045 0.013 0.112 0.001
+
+Traditionalism Index 0.339 0.037 0.304 0
+
+Female -0.011 0.029 -0.012 0.694
+
+Education -0.007 0.006 -0.035 0.269
+
+Income Quintiles -0.018 0.01 -0.057 0.068 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .549c 0.302 0.294 0.39242
+
+KOREA
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.196 0.127
+
+0
+
+National Economic Evaluations 0.102 0.019 0.154 0
+
+Family Economic Evaluations 0.029 0.022 0.038 0.194 Anti-Corruption Efforts 0.12 0.021 0.163 0
+
+Organizational Membership 0.099 0.028 0.099 0
+
+Social Trust Index 0.072 0.011 0.181 0
+
+Traditionalism Index 0.133 0.029 0.128 0
+
+Female -0.005 0.028 -0.005 0.845
+
+Education -0.018 0.009 -0.062 0.045
+
+Income Quintiles 0.012 0.012 0.03 0.333 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .412c 0.17 0.163 0.45641
+
+CHINA
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.583 0.11
+
+0
+
+National Economic Evaluations 0.093 0.01 0.209 0
+
+Family Economic Evaluations -0.004 0.013 -0.006 0.785
+
+Anti-Corruption Efforts 0.119 0.016 0.16 0
+
+Organizational Membership 0.016 0.071 0.005 0.818
+
+Social Trust Index 0.065 0.009 0.155 0
+
+Traditionalism Index 0.267 0.031 0.187 0
+
+Female -0.031 0.019 -0.035 0.1
+
+79
+
+Education -0.01 0.004 -0.062 0.01
+
+Income Quintiles -0.016 0.008 -0.051 0.031 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .439c 0.193 0.189 0.40288
+
+MONGOLIA
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.311 0.14 0
+
+National Economic Evaluations 0.12 0.019 0.184 0
+
+Family Economic Evaluations 0.056 0.022 0.078 0.01
+
+Anti-Corruption Efforts 0.079 0.018 0.125 0
+
+Organizational Membership 0.087 0.031 0.083 0.005
+
+Social Trust Index 0.057 0.014 0.116 0
+
+Traditionalism Index 0.091 0.032 0.083 0.005
+
+Female -0.003 0.029 -0.002 0.932
+
+Education -0.002 0.007 -0.011 0.743
+
+Income Quintiles 0.013 0.016 0.026 0.42 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .325c 0.106 0.098 0.4804
+
+THE PHILIPPINES
+
+Model Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.237 0.139
+
+0
+
+National Economic Evaluations 0.13 0.018 0.208 0 Family Economic Evaluations 0.034 0.019 0.05 0.072
+
+Anti-Corruption Efforts 0.089 0.018 0.13 0
+
+Organizational Membership 0.035 0.031 0.03 0.259 Social Trust Index 0.112 0.014 0.22 0
+
+Traditionalism Index 0.156 0.036 0.118 0
+
+Female 0.013 0.03 0.011 0.672 Education -0.021 0.007 -0.085 0.003
+
+Income Quintiles -0.05 0.015 -0.094 0.001 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .444c 0.197 0.191 0.51021
+
+TAIWAN
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.021 0.119
+
+0
+
+National Economic Evaluations 0.13 0.013 0.253 0
+
+Family Economic Evaluations 0.045 0.016 0.074 0.005
+
+80
+
+Anti-Corruption Efforts 0.15 0.016 0.233 0
+
+Organizational Membership 0.054 0.024 0.053 0.024
+
+Social Trust Index 0.07 0.01 0.175 0
+
+Traditionalism Index 0.118 0.036 0.084 0.001 Female -0.001 0.023 -0.001 0.951
+
+Education -0.007 0.006 -0.033 0.249
+
+Income Quintiles -0.037 0.011 -0.092 0.001 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .496c 0.246 0.241 0.43645
+
+THAILAND
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta 3 (Constant) 1.426 0.161
+
+0
+
+National Economic Evaluations 0.087 0.022 0.15 0
+
+Family Economic Evaluations 0.013 0.029 0.016 0.659
+
+Anti-Corruption Efforts 0.07 0.022 0.105 0.002
+
+Organizational Membership 0.109 0.037 0.1 0.003
+
+Social Trust Index 0.121 0.016 0.27 0
+
+Traditionalism Index 0.21 0.041 0.173 0
+
+Female -0.047 0.035 -0.045 0.173
+
+Education -0.021 0.008 -0.092 0.008
+
+Income Quintiles -0.003 0.018 -0.006 0.858 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .487c 0.237 0.228 0.46616
+
+INDONESIA Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.192 0.15
+
+0 National Economic Evaluations 0.119 0.018 0.195 0
+
+Family Economic Evaluations 0.034 0.02 0.05 0.092
+
+Anti-Corruption Efforts 0.138 0.022 0.172 0 Organizational Membership 0.097 0.054 0.049 0.073
+
+Social Trust Index 0.068 0.014 0.137 0
+
+Traditionalism Index 0.137 0.035 0.109 0 Female 0.04 0.028 0.04 0.145
+
+Education -0.03 0.007 -0.137 0
+
+Income Quintiles 0.058 0.012 0.155 0 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .454c 0.206 0.199 0.45369
+
+SINGAPORE
+
+81
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 1.093 0.199
+
+0
+
+National Economic Evaluations 0.11 0.03 0.153 0
+
+Family Economic Evaluations 0.041 0.03 0.058 0.177
+
+Anti-Corruption Efforts 0.2 0.032 0.239 0
+
+Organizational Membership -0.056 0.042 -0.051 0.179
+
+Social Trust Index 0.053 0.016 0.125 0.001
+
+Traditionalism Index 0.184 0.04 0.185 0
+
+Female 0.028 0.041 0.027 0.487
+
+Education 0.002 0.01 0.009 0.822
+
+Income Quintiles 0.031 0.019 0.067 0.105 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .438c 0.192 0.179 0.48426
+
+CAMBODIA
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 0.695 0.142
+
+0 National Economic Evaluations 0.211 0.019 0.284 0
+
+Family Economic Evaluations 0.037 0.023 0.043 0.102
+
+Anti-Corruption Efforts 0.213 0.019 0.282 0
+
+Organizational Membership -0.005 0.038 -0.003 0.888 Social Trust Index 0.088 0.015 0.146 0
+
+Traditionalism Index 0.2 0.036 0.139 0
+
+Female 0.145 0.03 0.123 0
+
+Education -0.021 0.007 -0.084 0.002
+
+Income Quintiles -0.028 0.014 -0.051 0.048 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .567c 0.321 0.316 0.48783
+
+MALAYSIA
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 0.993 0.124
+
+0
+
+National Economic Evaluations 0.189 0.018 0.289 0
+
+Family Economic Evaluations 0.083 0.021 0.105 0
+
+Anti-Corruption Efforts 0.189 0.019 0.255 0
+
+Organizational Membership 0.023 0.032 0.017 0.479
+
+Social Trust Index 0.062 0.014 0.109 0
+
+Traditionalism Index 0.224 0.031 0.179 0
+
+Female -0.01 0.029 -0.008 0.734
+
+Education -0.025 0.007 -0.091 0.001
+
+Income Quintiles -0.049 0.013 -0.1 0 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+82
+
+3 .615c 0.378 0.373 0.46946
+
+MYANMAR
+
+Model
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Sig.
+
+B Std. Error Beta
+
+3 (Constant) 0.71 0.16
+
+0
+
+National Economic Evaluations 0.111 0.024 0.125 0
+
+Family Economic Evaluations 0.023 0.029 0.021 0.435
+
+Anti-Corruption Efforts 0.304 0.02 0.385 0
+
+Organizational Membership 0.144 0.036 0.1 0
+
+Social Trust Index 0.103 0.012 0.21 0
+
+Traditionalism Index 0.097 0.037 0.067 0.009
+
+Female 0.019 0.034 0.014 0.578
+
+Education -0.029 0.007 -0.104 0 Income Quintiles -0.012 0.021 -0.016 0.55 Model Summary
+
+Model R R Square
+
+Adjusted R Square
+
+Std. Error of the Estimate
+
+3 .562c 0.316 0.31 0.56618
+
+Appendix 1.3: Trust Index 2 Country-Level Regression Models
+
+JAPAN Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.075 0.131
+
+National Economic Evaluations
+
+0.102*** 0.018 0.19
+
+Family Economic Evaluations
+
+0.093*** 0.02 0.158
+
+Anti-Corruption Efforts 0.174*** 0.019 0.292
+
+Social Trust Dummy 0.078* 0.031 0.081 Organizational Membership
+
+0.063 0.032 0.061
+
+Traditionalism Index 0.163*** 0.035 0.151
+
+Female -0.093** 0.029 -0.104
+
+Education 0.002 0.009 0.006
+
+Income Quintiles -0.01 0.011 -0.032 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .514c 0.264 0.255 0.38745
+
+*** p <.001, ** p <. 01, * p < .05
+
+KOREA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.165 0.122
+
+National Economic Evaluations
+
+0.099*** 0.018 0.157
+
+Family Economic Evaluations
+
+0.047* 0.021 0.066
+
+83
+
+Anti-Corruption Efforts 0.123*** 0.02 0.175
+
+Social Trust Dummy 0.149*** 0.028 0.151
+
+Organizational Membership
+
+0.106*** 0.027 0.111
+
+Traditionalism Index 0.157*** 0.028 0.158
+
+Female 0.01 0.026 0.011
+
+Education -0.015 0.009 -0.052
+
+Income Quintiles 0.008 0.012 0.021 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .425c 0.181 0.174 0.43078
+
+*** p <.001, ** p <. 01, * p < .05
+
+MONGOLIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.351 0.128
+
+National Economic Evaluations
+
+0.153*** 0.018 0.253
+
+Family Economic Evaluations
+
+0.059** 0.02 0.087
+
+Anti-Corruption Efforts 0.078*** 0.017 0.133
+
+Social Trust Dummy 0.008 0.033 0.007
+
+Organizational Membership 0.102*** 0.029 0.103
+
+Traditionalism Index 0.092** 0.03 0.09
+
+Female -0.009 0.027 -0.01
+
+Education -0.002 0.006 -0.009
+
+Income Quintiles -0.011 0.015 -0.025 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .358c 0.128 0.121 0.44168
+
+*** p <.001, ** p <. 01, * p < .05
+
+PHILIPPINES
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.264 0.131
+
+National Economic Evaluations
+
+0.154 *** 0.017 0.262
+
+Family Economic Evaluations
+
+0.036* 0.018 0.056
+
+Anti-Corruption Efforts 0.108*** 0.017 0.169
+
+Social Trust Dummy 0.191*** 0.052 0.099
+
+Organizational Membership 0.04 0.029 0.037 Traditionalism Index 0.173*** 0.033 0.14
+
+Female 0.017 0.028 0.016
+
+Education -0.019** 0.007 -0.082
+
+Income Quintiles -0.059*** 0.014 -0.12 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .443c 0.197 0.19 0.47705
+
+*** p <.001, ** p <. 01, * p < .05
+
+84
+
+TAIWAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.002 0.109
+
+National Economic Evaluations
+
+0.13*** 0.012 0.272
+
+Family Economic Evaluations
+
+0.059*** 0.014 0.107
+
+Anti-Corruption Efforts 0.158*** 0.014 0.265
+
+Social Trust Dummy 0.069** 0.023 0.075
+
+Organizational Membership
+
+0.065** 0.022 0.07
+
+Traditionalism Index 0.155*** 0.033 0.119
+
+Female -0.012 0.021 -0.013
+
+Education -0.008 0.006 -0.04
+
+Income Quintiles -0.036*** 0.01 -0.098 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .519c 0.269 0.265 0.39708
+
+*** p <.001, ** p <. 01, * p < .05
+
+THAILAND
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 1.593 0.164
+
+National Economic Evaluations
+
+0.108*** 0.022 0.193
+
+Family Economic Evaluations
+
+0.006 0.03 0.007
+
+Anti-Corruption Efforts 0.079*** 0.022 0.125
+
+Social Trust Dummy 0.105** 0.038 0.1
+
+Organizational Membership 0.153*** 0.037 0.147 Traditionalism Index 0.21*** 0.041 0.18
+
+Female -0.055 0.034 -0.054
+
+Education -0.03*** 0.008 -0.139
+
+Income Quintiles -0.005 0.018 -0.011 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .437c 0.191 0.181 0.45454
+
+*** p <.001, ** p <. 01, * p < .05
+
+CAMBODIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients B Std. Error Beta 3 (Constant) 0.857 0.133
+
+National Economic Evaluations
+
+0.205*** 0.018 0.297
+
+Family Economic Evaluations
+
+0.046* 0.021 0.057
+
+Anti-Corruption Efforts 0.215*** 0.018 0.305
+
+Social Trust Dummy 0.047 0.04 0.029
+
+Organizational Membership -0.004 0.036 -0.002
+
+Traditionalism Index 0.207*** 0.034 0.154
+
+Female 0.112*** 0.028 0.101
+
+85
+
+Education -0.016* 0.006 -0.068
+
+Income Quintiles -0.028* 0.013 -0.055 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .562c 0.316 0.31 0.45694
+
+*** p <.001, ** p <. 01, * p < .05
+
+MALAYSIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 0.99 0.118
+
+National Economic Evaluations
+
+0.191*** 0.017 0.302
+
+Family Economic Evaluations
+
+0.078*** 0.02 0.102
+
+Anti-Corruption Efforts 0.192*** 0.018 0.266
+
+Social Trust Dummy 0.164** 0.049 0.079
+
+Organizational Membership 0.044 0.031 0.034 Traditionalism Index 0.237*** 0.029 0.195
+
+Female -0.002 0.027 -0.001
+
+Education -0.023** 0.007 -0.087
+
+Income Quintiles -0.049*** 0.013 -0.102 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .628c 0.394 0.389 0.4507
+
+*** p <.001, ** p <. 01, * p < .05
+
+MYANMAR
+
+Model Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 3 (Constant) 0.798 0.156
+
+National Economic Evaluations
+
+0.101*** 0.023 0.119
+
+Family Economic Evaluations
+
+0.042 0.028 0.041
+
+Anti-Corruption Efforts 0.307*** 0.02 0.408
+
+Social Trust Dummy 0.163*** 0.043 0.096
+
+Organizational Membership 0.137*** 0.035 0.099 Traditionalism Index 0.14*** 0.036 0.1
+
+Female 0.012 0.033 0.009
+
+Education -0.028*** 0.007 -0.107
+
+Income Quintiles -0.012 0.02 -0.016 Model R R Square Adjusted R Square Std. Error of the Estimate 3 .539c 0.291 0.285 0.5501
+
+*** p <.001, ** p <. 01, * p < .05
+
+Appendix 2.1: General Institutional Trust Country-Level Regression Models
+
+JAPAN
+
+Model Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 1.081 0.142
+
+National Economic Evaluations
+
+0.092*** 0.019 0.166
+
+86
+
+Family Economic Evaluations
+
+0.084*** 0.021 0.137
+
+Anti-Corruption Efforts 0.167*** 0.021 0.27
+
+Social Trust Dummy 0.098** 0.032 0.098
+
+Organizational Membership
+
+0.052 0.035 0.048
+
+Female -0.101** 0.031 -0.107
+
+Traditionalism Index 0.146*** 0.038 0.129
+
+Education 0.01 0.01 0.036 Income Quintiles 0.002 0.012 0.007
+
+Winner Dummy 0.14** 0.042 0.149
+
+Loser Dummy -0.052 0.043 -0.054 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .558a 0.311 0.3 0.39229
+
+*** p <.001, ** p <. 01, * p < .05
+
+KOREA
+
+Unstandardized Coefficients Standardized Coefficients Model
+
+B Std. Error Beta
+
+(Constant) 1.029 0.135
+
+1 National Economic Evaluations
+
+0.084*** 0.02 0.132
+
+Family Economic Evaluations
+
+0.04 0.023 0.054
+
+Anti-Corruption Efforts 0.124*** 0.023 0.169
+
+Social Trust Dummy 0.142*** 0.031 0.14
+
+Organizational Membership
+
+0.119*** 0.03 0.121
+
+Female 0.022 0.029 0.023
+
+Traditionalism Index 0.194*** 0.031 0.191
+
+Education 0.007 0.01 0.026 Income Quintiles -0.007 0.013 -0.019
+
+Winner Dummy 0.101* 0.041 0.103
+
+Loser Dummy -0.134** 0.043 -0.126 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .488a 0.239 0.229 0.43085 *** p <.001, ** p <. 01, * p < .05
+
+MONGOLIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 1.434 0.14
+
+National Economic Evaluations
+
+0.14*** 0.019 0.229
+
+Family Economic Evaluations
+
+0.067** 0.021 0.098
+
+Anti-Corruption Efforts 0.063** 0.018 0.105
+
+Social Trust Dummy 0.004 0.035 0.004
+
+Organizational Membership 0.102** 0.03 0.102
+
+87
+
+Female -0.011 0.028 -0.012
+
+Traditionalism Index 0.088** 0.031 0.085
+
+Education 0.003 0.006 0.013
+
+Income Quintiles -0.015 0.015 -0.034
+
+Winner Dummy 0.043 0.047 0.045
+
+Loser Dummy -0.037 0.051 -0.036 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .344a 0.118 0.109 0.44979 *** p <.001, ** p <. 01, * p < .05
+
+PHILIPPINES Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 1.201 0.153
+
+National Economic Evaluations
+
+0.14*** 0.018 0.234
+
+Family Economic Evaluations
+
+0.049* 0.02 0.073
+
+Anti-Corruption Efforts 0.102*** 0.019 0.154
+
+Social Trust Dummy 0.166** 0.056 0.084
+
+Organizational Membership 0.051 0.033 0.046
+
+Female 0.018 0.031 0.017
+
+Traditionalism Index 0.19*** 0.037 0.146
+
+Education -0.023** 0.007 -0.096
+
+Income Quintiles -0.045** 0.016 -0.089
+
+Winner Dummy 0.05 0.043 0.044
+
+Loser Dummy -0.08 0.053 -0.055 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .432a 0.187 0.178 0.4936 *** p <.001, ** p <. 01, * p < .05
+
+TAIWAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 0.868 0.125
+
+National Economic Evaluations
+
+0.134 *** 0.013 0.268
+
+Family Economic Evaluations
+
+0.06*** 0.016 0.102
+
+Anti-Corruption Efforts 0.156*** 0.016 0.247 Social Trust Dummy 0.079** 0.025 0.081
+
+Organizational Membership
+
+0.089*** 0.024 0.09
+
+Female -0.018 0.024 -0.018
+
+Traditionalism Index 0.183*** 0.037 0.13
+
+Education -0.002 0.006 -0.011
+
+Income Quintiles -0.035** 0.011 -0.09
+
+Winner Dummy 0.056 0.034 0.057
+
+Loser Dummy -0.034 0.034 -0.033 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .544a 0.296 0.289 0.41191
+
+88
+
+*** p <.001, ** p <. 01, * p < .05
+
+CAMBODIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 0.965 0.142
+
+National Economic Evaluations
+
+0.196*** 0.019 0.267
+
+Family Economic Evaluations
+
+0.045* 0.022 0.054
+
+Anti-Corruption Efforts 0.2*** 0.019 0.27
+
+Social Trust Dummy 0.06 0.042 0.035
+
+Organizational Membership -0.026 0.038 -0.017 Female 0.099** 0.029 0.085
+
+Traditionalism Index 0.204*** 0.035 0.145
+
+Education -0.009 0.007 -0.035
+
+Income Quintiles -0.047** 0.014 -0.087
+
+Winner Dummy 0.078* 0.036 0.067
+
+Loser Dummy -0.24*** 0.041 -0.181 Model Summary Model R R Square Adjusted R Square Std. Error of the Estimate 1 .617a 0.381 0.374 0.46064
+
+*** p <.001, ** p <. 01, * p < .05
+
+MALAYSIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 1.135 0.147
+
+National Economic Evaluations
+
+0.167*** 0.021 0.25
+
+Family Economic Evaluations
+
+0.09*** 0.024 0.109
+
+Anti-Corruption Efforts 0.195*** 0.023 0.258
+
+Social Trust Dummy 0.174** 0.059 0.078
+
+Organizational Membership 0.011 0.036 0.008
+
+Female -0.059 0.033 -0.049
+
+Traditionalism Index 0.194*** 0.035 0.153 Education -0.022** 0.008 -0.082
+
+Income Quintiles -0.037* 0.015 -0.075
+
+Winner Dummy 0.172*** 0.042 0.138
+
+Loser Dummy -0.187** 0.054 -0.119 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .687a 0.472 0.464 0.44227
+
+*** p <.001, ** p <. 01, * p < .05
+
+MYANMAR
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients
+
+B Std. Error Beta 1 (Constant) 0.988 0.18
+
+National Economic Evaluations
+
+0.132*** 0.027 0.157
+
+89
+
+Family Economic Evaluations
+
+0.042 0.032 0.041
+
+Anti-Corruption Efforts 0.275*** 0.023 0.366
+
+Social Trust Dummy 0.112* 0.05 0.065
+
+Organizational Membership 0.156*** 0.04 0.112
+
+Female 0.04 0.038 0.03
+
+Traditionalism Index 0.072 0.041 0.052
+
+Education -0.029*** 0.008 -0.109
+
+Income Quintiles -0.031 0.023 -0.04
+
+Winner Dummy 0.081 0.047 0.058
+
+Loser Dummy -0.029 0.046 -0.021 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .520a 0.271 0.262 0.56092 *** p <.001, ** p <. 01, * p < .05
+
+Appendix 2.2: Partisan Institutional Trust Country-Level Regression Models
+
+JAPAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.722 0.172 0
+
+National Economic Evaluations
+
+0.127 0.023 0.188 0
+
+Family Economic Evaluations
+
+0.1 0.026 0.134 0
+
+Anti-Corruption Efforts 0.181 0.025 0.241 0
+
+Social Trust Dummy 0.091 0.039 0.075 0.021
+
+Organizational Membership
+
+0.023 0.042 0.017 0.59
+
+Female -0.138 0.037 -0.12 0
+
+Traditionalism Index 0.182 0.046 0.132 0
+
+Education -0.002 0.012 -0.006 0.877
+
+Income Quintiles -0.025 0.015 -0.063 0.088
+
+Winner Dummy 0.185 0.051 0.16 0
+
+Loser Dummy -0.126 0.052 -0.106 0.015
+
+Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate
+
+1 .568a 0.322 0.311 0.47544
+
+KOREA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.812 0.159 0
+
+National Economic Evaluations
+
+0.114 0.024 0.149 0
+
+Family Economic Evaluations
+
+0.032 0.028 0.036 0.244
+
+Anti-Corruption Efforts 0.157 0.027 0.178 0
+
+Social Trust Dummy 0.166 0.037 0.136 0
+
+90
+
+Organizational Membership
+
+0.1 0.035 0.084 0.005
+
+Female 0.019 0.035 0.016 0.579
+
+Traditionalism Index 0.195 0.036 0.161 0
+
+Education -0.016 0.012 -0.046 0.175
+
+Income Quintiles 0.009 0.015 0.019 0.556
+
+Winner Dummy 0.156 0.049 0.133 0.001
+
+Loser Dummy -0.192 0.051 -0.15 0
+
+Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate
+
+1 .514a 0.265 0.256 0.50725
+
+MONGOLIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.031 0.182 0
+
+National Economic Evaluations
+
+0.189 0.024 0.235 0
+
+Family Economic Evaluations
+
+0.081 0.027 0.091 0.003
+
+Anti-Corruption Efforts 0.094 0.023 0.12 0
+
+Social Trust Dummy 0.037 0.045 0.024 0.419
+
+Organizational Membership
+
+0.158 0.039 0.12 0
+
+Female 0.015 0.037 0.012 0.69
+
+Traditionalism Index 0.045 0.04 0.033 0.269
+
+Education -0.001 0.008 -0.003 0.922
+
+Income Quintiles -0.015 0.02 -0.026 0.434
+
+Winner Dummy 0.223 0.061 0.174 0
+
+Loser Dummy 0.027 0.066 0.02 0.682
+
+Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate
+
+1 .386a 0.149 0.14 0.5817
+
+PHILIPPINES
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.991 0.173 0
+
+National Economic Evaluations
+
+0.184 0.021 0.272 0
+
+Family Economic Evaluations
+
+0.032 0.022 0.042 0.155
+
+Anti-Corruption Efforts 0.113 0.021 0.151 0
+
+Social Trust Dummy 0.12 0.064 0.054 0.061
+
+Organizational Membership
+
+0.054 0.037 0.043 0.143
+
+Female 0.021 0.035 0.018 0.544
+
+91
+
+Traditionalism Index 0.184 0.042 0.125 0
+
+Education -0.018 0.008 -0.067 0.032
+
+Income Quintiles -0.036 0.018 -0.062 0.047
+
+Winner Dummy 0.042 0.048 0.033 0.381
+
+Loser Dummy -0.156 0.06 -0.096 0.01
+
+Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate
+
+1 .430a 0.185 0.176 0.55658
+
+TAIWAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.684 0.145 0
+
+National Economic Evaluations
+
+0.161 0.015 0.283 0
+
+Family Economic Evaluations
+
+0.048 0.019 0.072 0.01
+
+Anti-Corruption Efforts 0.158 0.019 0.219 0
+
+Social Trust Dummy 0.048 0.029 0.043 0.106
+
+Organizational Membership
+
+0.052 0.028 0.046 0.065
+
+Female -0.008 0.028 -0.007 0.772
+
+Traditionalism Index 0.186 0.043 0.116 0
+
+Education -0.009 0.007 -0.035 0.237
+
+Income Quintiles -0.029 0.013 -0.066 0.023
+
+Winner Dummy 0.095 0.039 0.085 0.015
+
+Loser Dummy -0.076 0.039 -0.066 0.054
+
+Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate
+
+1 .527a 0.278 0.271 0.4757
+
+CAMBODIA
+
+Model Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.813 0.172 0
+
+National Economic Evaluations
+
+0.248 0.023 0.286 0
+
+Family Economic Evaluations
+
+0.032 0.027 0.032 0.226
+
+Anti-Corruption Efforts 0.215 0.023 0.246 0
+
+Social Trust Dummy 0.027 0.05 0.013 0.588
+
+Organizational Membership
+
+0.02 0.046 0.011 0.658
+
+Female 0.096 0.036 0.07 0.007
+
+Traditionalism Index 0.177 0.042 0.106 0
+
+Education -0.005 0.008 -0.016 0.567
+
+Income Quintiles -0.042 0.017 -0.066 0.014
+
+92
+
+Winner Dummy 0.114 0.044 0.083 0.01
+
+Loser Dummy -0.27 0.05 -0.172 0
+
+Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate
+
+1 .589a 0.347 0.34 0.55713
+
+MALAYSIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig. B Std. Error Beta 1 (Constant) 0.797 0.177 0
+
+National Economic Evaluations
+
+0.224 0.025 0.284 0
+
+Family Economic Evaluations
+
+0.082 0.029 0.084 0.004
+
+Anti-Corruption Efforts 0.191 0.027 0.215 0
+
+Social Trust Dummy 0.233 0.072 0.088 0.001 Organizational Membership
+
+0.032 0.043 0.02 0.467
+
+Female -0.041 0.039 -0.029 0.3
+
+Traditionalism Index 0.209 0.042 0.14 0
+
+Education -0.016 0.01 -0.051 0.097 Income Quintiles -0.036 0.018 -0.062 0.045
+
+Winner Dummy 0.262 0.051 0.178 0
+
+Loser Dummy -0.192 0.065 -0.103 0.003 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .669a 0.448 0.44 0.53376
+
+MYANMAR Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.885 0.198 0
+
+National Economic Evaluations
+
+0.144 0.029 0.161 0
+
+Family Economic Evaluations
+
+0.038 0.035 0.036 0.269
+
+Anti-Corruption Efforts 0.267 0.025 0.338 0
+
+Social Trust Dummy 0.121 0.055 0.066 0.028
+
+Organizational Membership
+
+0.157 0.044 0.106 0
+
+Female 0.039 0.042 0.028 0.344 Traditionalism Index 0.137 0.045 0.093 0.003
+
+Education -0.024 0.009 -0.085 0.008
+
+Income Quintiles -0.008 0.025 -0.01 0.742
+
+Winner Dummy 0.065 0.052 0.044 0.209
+
+Loser Dummy -0.055 0.05 -0.037 0.277 Model Summary Model R R Square Adjusted R Square Std. Error of the Estimate 1 .502a 0.252 0.242 0.60207
+
+93
+
+Appendix 2.3: Neutral Institutional Trust Country-Level Regression Models
+
+JAPAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.301 0.159 0
+
+National Economic Evaluations
+
+0.076 0.021 0.13 0
+
+Family Economic Evaluations
+
+0.075 0.024 0.117 0.002
+
+Anti-Corruption Efforts 0.157 0.023 0.241 0
+
+Social Trust Dummy 0.099 0.036 0.094 0.007
+
+Organizational Membership
+
+0.082 0.039 0.072 0.037
+
+Female -0.074 0.035 -0.074 0.034
+
+Traditionalism Index 0.126 0.042 0.105 0.003 Education 0.016 0.011 0.055 0.151
+
+Income Quintiles 0.016 0.014 0.045 0.249
+
+Winner Dummy 0.096 0.047 0.097 0.043
+
+Loser Dummy -0.017 0.048 -0.017 0.722 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .463a 0.215 0.202 0.44057
+
+KOREA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.155 0.151 0
+
+National Economic Evaluations
+
+0.067 0.023 0.098 0.003
+
+Family Economic Evaluations
+
+0.044 0.026 0.056 0.095
+
+Anti-Corruption Efforts 0.104 0.025 0.133 0
+
+Social Trust Dummy 0.129 0.035 0.119 0
+
+Organizational Membership
+
+0.131 0.034 0.125 0
+
+Female 0.026 0.033 0.025 0.43 Traditionalism Index 0.192 0.034 0.178 0
+
+Education 0.022 0.011 0.071 0.047
+
+Income Quintiles -0.017 0.014 -0.042 0.234
+
+Winner Dummy 0.071 0.046 0.068 0.126 Loser Dummy -0.098 0.049 -0.086 0.044 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .401a 0.16 0.15 0.48116
+
+MONGOLIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.681 0.153 0
+
+94
+
+National Economic Evaluations
+
+0.11 0.02 0.171 0
+
+Family Economic Evaluations
+
+0.057 0.023 0.079 0.013
+
+Anti-Corruption Efforts 0.043 0.02 0.068 0.029
+
+Social Trust Dummy -0.018 0.038 -0.015 0.635
+
+Organizational Membership
+
+0.07 0.033 0.066 0.033
+
+Female -0.028 0.031 -0.028 0.359 Traditionalism Index 0.119 0.034 0.108 0.001
+
+Education 0.003 0.007 0.015 0.66
+
+Income Quintiles -0.013 0.017 -0.028 0.416
+
+Winner Dummy -0.068 0.052 -0.066 0.19 Loser Dummy -0.081 0.055 -0.073 0.144 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .262a 0.068 0.058 0.489
+
+PHILIPPINES
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.319 0.173 0
+
+National Economic Evaluations
+
+0.116 0.021 0.177 0
+
+Family Economic Evaluations
+
+0.059 0.022 0.081 0.008
+
+Anti-Corruption Efforts 0.094 0.021 0.128 0
+
+Social Trust Dummy 0.196 0.064 0.091 0.002
+
+Organizational Membership
+
+0.05 0.037 0.041 0.172
+
+Female 0.016 0.035 0.013 0.66
+
+Traditionalism Index 0.196 0.042 0.137 0
+
+Education -0.026 0.008 -0.1 0.002
+
+Income Quintiles -0.049 0.018 -0.088 0.006
+
+Winner Dummy 0.057 0.048 0.045 0.236
+
+Loser Dummy -0.034 0.06 -0.022 0.571 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .374a 0.14 0.131 0.55615
+
+TAIWAN
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 0.984 0.14 0 National Economic Evaluations
+
+0.112 0.015 0.211 0
+
+Family Economic Evaluations
+
+0.066 0.018 0.106 0
+
+Anti-Corruption Efforts 0.155 0.018 0.23 0
+
+Social Trust Dummy 0.1 0.028 0.095 0
+
+Organizational Membership
+
+0.108 0.027 0.102 0
+
+Female -0.027 0.027 -0.025 0.319
+
+95
+
+Traditionalism Index 0.183 0.042 0.122 0
+
+Education 0.002 0.007 0.007 0.82
+
+Income Quintiles -0.038 0.012 -0.093 0.002
+
+Winner Dummy 0.044 0.037 0.041 0.245
+
+Loser Dummy 0.001 0.038 0.001 0.988 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .481a 0.231 0.224 0.46051
+
+CAMBODIA
+
+Model Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.041 0.152 0
+
+National Economic Evaluations
+
+0.17 0.021 0.227 0
+
+Family Economic Evaluations
+
+0.055 0.023 0.064 0.018
+
+Anti-Corruption Efforts 0.189 0.021 0.249 0
+
+Social Trust Dummy 0.078 0.044 0.045 0.078
+
+Organizational Membership
+
+-0.053 0.04 -0.034 0.191
+
+Female 0.102 0.032 0.086 0.001
+
+Traditionalism Index 0.217 0.037 0.151 0
+
+Education -0.01 0.007 -0.038 0.175
+
+Income Quintiles -0.048 0.015 -0.087 0.001
+
+Winner Dummy 0.058 0.039 0.049 0.137 Loser Dummy -0.231 0.044 -0.17 0 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .567a 0.321 0.314 0.49273
+
+MALAYSIA
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.336 0.158 0
+
+National Economic Evaluations
+
+0.134 0.022 0.199 0
+
+Family Economic Evaluations
+
+0.096 0.026 0.115 0
+
+Anti-Corruption Efforts 0.195 0.024 0.258 0 Social Trust Dummy 0.14 0.064 0.063 0.028
+
+Organizational Membership
+
+-0.001 0.039 -0.001 0.981
+
+Female -0.07 0.035 -0.057 0.047
+
+Traditionalism Index 0.185 0.037 0.146 0 Education -0.025 0.009 -0.095 0.003
+
+Income Quintiles -0.037 0.016 -0.075 0.021
+
+Winner Dummy 0.118 0.045 0.094 0.01
+
+Loser Dummy -0.188 0.058 -0.119 0.001 Model Summary Model R R Square Adjusted R Square Std. Error of the Estimate 1 .628a 0.395 0.386 0.47529
+
+96
+
+MYANMAR
+
+Model
+
+Unstandardized Coefficients Standardized Coefficients Sig.
+
+B Std. Error Beta
+
+1 (Constant) 1.051 0.194 0
+
+National Economic Evaluations
+
+0.134 0.029 0.15 0
+
+Family Economic Evaluations
+
+0.043 0.034 0.04 0.209
+
+Anti-Corruption Efforts 0.277 0.025 0.348 0
+
+Social Trust Dummy 0.096 0.054 0.053 0.078
+
+Organizational Membership
+
+0.158 0.044 0.107 0
+
+Female 0.044 0.041 0.032 0.283
+
+Traditionalism Index 0.035 0.045 0.024 0.433
+
+Education -0.033 0.009 -0.117 0
+
+Income Quintiles -0.048 0.025 -0.059 0.058
+
+Winner Dummy 0.08 0.051 0.054 0.119 Loser Dummy -0.035 0.049 -0.024 0.473 Model Summary
+
+Model R R Square Adjusted R Square Std. Error of the Estimate 1 .492a 0.242 0.233 0.60557

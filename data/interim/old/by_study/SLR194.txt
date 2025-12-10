@@ -1,0 +1,735 @@
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR
+
+LA JUVENTUD DESPUÉS DE LA AUSTERIDAD. COMPORTAMIENTO Y ACTITUDES POLÍTICAS
+
+Gema García-Albacete Universidad Carlos III de Madrid gemgarci@clio.uc3m.es ORCID iD: https://orcid.org/0000-0002-2457-5699
+
+Javier Lorente Universidad Carlos III de Madrid jalorent@clio.uc3m.es ORCID iD: https://orcid.org/0000-0001-9305-4056
+
+Revista Internacional de Sociología RIS vol. 77 (4), e141, octubre-diciembre, 2019, ISSN-L:0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Cómo citar este artículo / Citation: García-Albacete, G. y J. Lorente. 2019. “The post-austerity youth. Political atti­ tudes and behavior”. Revista Internacional de Sociología 77(4):e141. https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Copyright: © 2019 CSIC. This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+Abstract The economic crisis transformed the way in which European citizens relate to politics in general but particularly affect­ ed young people. The crisis resulted in decreased levels of trust in political institutions and increased levels of po­ litical protest. But little attention has been paid to the postcrisis period. Ten years on, what are young people’s atti­ tudes and behaviour? This article examines the potential long term consequences of the economic crisis on young people’s political interest, political trust and political par­ ticipation. In examining political behaviour we use a clas­ sification of types of participants that allows us to compare young people to adults, and young people before, during and after the economic crisis. Empirically, we use a descrip­ tive approach using survey data from the European Social Survey, covering a considerable period of time (2002-2016) and 16 European countries. The comparison is threefold: young people over time, young people to adults, and young people across countries. The results support the idea of the emergence of a post-crisis youth that is more engaged and participative than adults and young people before the crisis. However the results do not show radical differences among countries that were affected by the economic crisis in vary­ ing degrees.
+
+Keywords Economic recession; Political participation; Western Europe; Young people’s attitudes; Youth.
+
+Resumen La crisis económica transformó la manera en la que los ciu­ dadanos se relacionan con la política, afectando de forma más directa a los jóvenes. La crisis supuso un descenso en los niveles de confianza en las instituciones políticas, así como un aumento de las acciones de protesta. Sin embar­ go, el periodo post-crisis está aún por ser analizado. Diez años después, ¿qué ha ocurrido con las actitudes y compor­ tamientos políticos de los jóvenes? Este artículo analiza las potenciales consecuencias a largo plazo del interés por la política y la confianza institucional de los jóvenes, así como de sus niveles de participación política. Al examinar su com­ portamiento político, usamos una clasificación de distintos tipos de participantes que nos permite comparar jóvenes y adultos, y también los jóvenes de antes, durante y después de la crisis. A nivel empírico, utilizamos una estrategia des­ criptiva, valiéndonos de datos de encuesta de la Encuesta Social Europea, cubriendo un importante periodo de tiempo (2002-2016) y 16 países europeos. La comparación, por tan­ to, es triple: jóvenes a lo largo del tiempo, jóvenes y adultos y jóvenes en diferentes países. Los resultados apoyan la idea del surgimiento de una juventud distinta en el periodo post-crisis, más implicada y participativa que los adultos y los jóvenes de antes de la crisis. Con todo, los resultados no muestran diferencias radicales entre países más y menos afectados por la crisis económica.
+
+Palabras Clave Actitudes de los jóvenes; Europa Occidental; Juventud; Participación política; Recesión económica.
+
+Received: 10/12/2018. Accepted: 19/07/2019 Published online: 29/11/2019
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+2 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+The early years of the economic crisis affected people in very similar ways in many developed coun­ tries. Levels of political satisfaction and of trust in political institutions decreased, protests generally in­ creased, and parties in government were punished by voters (Kriesi 2014). During a second stage, around 2012, the response to increasing austerity measures was more aggressive in some countries such as Greece, Ireland, Spain, Italy and Portugal, as it af­ fected the quality of specific welfare state services (Ronchi 2018). The political consequences of the cri­ sis reproduced this North-South divide. Whereas at­ titudinal indicators normalized in Northern European countries, the levels of discontent and distrust inten­ sified in the South. Protests were even more intense, and the electoral response went far beyond punish­ ing the incumbent parties. In Spain, Italy and Greece, the party system changed, new parties appeared and traditional mainstream parties obtained their worst results. Portugal remains the only exception to this process (Bosco and Verney 2016; Casal Bértoa and Bourne 2017; Casal Bértoa and Weber 2018).
+
+Beyond country differences, the Great Recession did not equally affect all social groups. Young people suffered some consequences of the Recession to a greater extent. Youth unemployment rates were the highest, surpassing 50 percent in Spain and Greece, and the labour market became particularly precari­ ous for those entering it for the first time. Specific measures aimed at controlling the public deficit had direct consequences on young people, such as cuts in education, increases in university fees and mea­ sures that sought to make the labour market more flexible. Similarly, access to housing continues to be a serious problem for young people in some coun­ tries, and there is a paucity of policies to address this issue (Green 2017). Consequently, young people have been leading actors in protests and, in some countries, contributed greatly to changes in the party structure by voting for new parties instead of the old (Damore, Waters, and Bowler 2011; Galais 2014; Della Porta et al. 2017; Andretta 2018).
+
+Although researchers examined political reac­ tions to the economic crisis in detail, and particularly after the wave of protests in 2011 (Ker, Marien and Hooghe 2015; Grasso and Giugni 2016), little atten­ tion has been paid to young people’s subsequent political perspective and habits. For this reason, this article examines this group’s political attitudes and behaviour in several European countries over time (using biannual waves of the European Social Sur­ vey from 2002 to 2016). In order to examine whether changes in young people’s engagement persisted over time, it first provides a comprehensive picture of the post crisis-period for a number of countries and also compares youth’s level of commitment to adults. What happened to young people’s political attitudes and behaviour during the post crisis period?
+
+In order to respond to this research question, we first review previous work on the specificities of young people’s political behaviour and on the effect of societal transformations on them. Based on those theories we argue that the crisis changed the way in which citizens relate to politics (Kahler and Lake 2013; Bermeo and Bartels 2014), and did so to a greater extent among the young. So as to test these expectations, we first employ a descriptive but com­ prehensive illustration of levels of political involve­ ment in the aftermath of the economic crisis. To mea­ sure political participation we use a classification of types of participants that allows us to compare young people to adults, and also within this group before, during and after the economic crisis. The evidence supports the expectations. In Europe, young people are more critical, more politically engaged and par­ ticipative in the post-crisis period than before the eco­ nomic crisis. However these changes do not seem to be dependent on the economic performance of each country as we expected. Overall, the findings point to a more critical youth who strongly support recent movements such as #metoo and the 2018 feminist demonstrations. This leads us to identify these young individuals as ‘standby citizens’ who are ready to par­ ticipate when they find the motivation, or when cir­ cumstances deteriorate (Amnå and Ekman 2013).
+
+Young people and politics in troubled times
+
+In order to address the research question in this section we build upon previous research on two main issues. First, we briefly consider why young people and adults differ politically, and in doing so highlight two different effects of age: an individual’s life cycle, and young people’s sensitivity to intense contexts. Second, we review the leading theories about political participation and how the Great Re­ cession has challenged them. The combination of both strands of research allows us to garner expec­ tations regarding young people’s political engage­ ment in the post-crisis period.
+
+Young citizens’ attitudes and behaviour: why are they different?
+
+Since the earliest studies in electoral behaviour, research in sociology and political science has ac­ cumulated evidence that young people relate to poli­ tics differently than adults. Regarding their political participation, young people are less likely to cast a vote in elections (e.g. Blais, Gidengil and Nevitte 2004; Franklin 2004); they are less interested in poli­ tics in general (Martín 2004; García-Albacete 2014), and particularly detached from party politics and tra­ ditional institutions (Scarrow 2000). However, young citizens are also more willing to take the streets to make their voice heard (Barnes and Kaase 1979),
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 3
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+and more likely to use creative forms of action (Nor­ ris 2002; Stolle, Hooghe and Micheletti 2005). When it comes to other political attitudes, they have been said to be more progressive and liberal (Glenn 1974), more ‘post-materialistic’ (Inglehart 1977; Inglehart and Welzel 2005), and more distrustful towards dem­ ocratic institutions (Norris 2002; Dalton 2013); they are also simultaneously more supportive of norms of citizenship related to active engagement (Dalton 2008; Dalton 2013) and involved in their communities (Zukin, et al. 2006).
+
+The arguments used to explain young people’s distinct political behaviour can be grouped in two main approaches. On the one hand, the life cycle explanation focuses on life stages and their rela­ tionship to politics. Each life stage that an individual goes through implies distinctive social roles, which confer different resources, interests, needs and de­ mands to face the costs of being involved in poli­ tics (Jennings 1979; Sears and Levy 2003). Young individuals might be less aware of the importance of politics than adults, due to their lack of political experience. As they adopt adult roles (leaving the parental home, finding a first job and finishing their studies, marrying and having the first child), indi­ viduals become aware of the importance of politics in their daily lives and acquire the knowledge that makes involvement in politics easier and meaningful (Rosenstone and Hansen 1993; Strate et al. 1989). The relationship to politics becomes more distant again as people age, as retirement implies a de­ crease in social connections and exposure to mobi­ lization networks and, finally, health issues (Milbrath 1965; Strate et al. 1989; Goerres 2009).1
+
+On the other hand, age also has a psychologi­ cal effect that is linked to the period in which citi­ zens socialize; that is, the moment when individu­ als interiorize social norms and develop the basic attitudinal tools to interact with the political system (Hyman 1959; Jennings 2007). As young people set about developing their political views, they are more likely to be influenced by social transformations, and particularly so in critical periods (Ryder 1965). As individuals approach adulthood, their attitudes turn more resistant to change. The main theoretical consequence of the political socialization process is that the context in which individuals develop their political attitudes during their youth ends up condi­ tioning their relationship to politics in the long term (Kinder and Sears 1985; Sears and Valentino 1997; Dinas 2013).
+
+When it comes to explaining the impact of the economic crisis, both approaches can be useful. On the one hand, the crisis may have a significant impact on young people’s transition to adulthood, by halting, delaying or making more difficult the key transitional events: leaving the parental nest, find­ ing a job, or forming a family (Sears and Levy 2003;
+
+García-Albacete 2014). On the other hand, the con­ text of the crisis can be understood as a critical junc­ ture in conditioning and influencing political views in the long run.
+
+Young people’s political participation in trou­ bled times
+
+In light of previous studies on youth’s political be­ haviour, it is not surprising that young people were among the protagonists of street mobilizations fu­ eled by an economic crisis that affected political systems all over the world. The full consequences of the crisis are still to be studied, but a degree of consensus has emerged amongst scholars. Re­ garding political attitudes, the crisis provoked a rapid decrease in levels of trust towards the main political institutions at national level (Torcal 2014; Roth, Nowak-Lehmann, and Otter 2013), but also at regional and European level (Armingeon and Ceka 2014). Although democratic legitimacy has not been threatened (Teixeira, Tsatsanis, and Belchior 2014), the sharp increase in dissatisfaction with how de­ mocracy works might be an expression of discon­ tent about how democracies dealt with the crisis (Armingeon and Guthmann 2014).
+
+Negative attitudes, however, did not lead to ap­ athy or alienation. Protesters took to the street in 2011 to the point that they became the protagonists from Wall Street to Tarhir Square or Puerta del Sol, and across a number of other European Countries. The exceptional political mobilizations challenged previous theoretical accounts on who, when, how, and why people - and particularly the young - mobi­ lize politically. Among the many theories developed to explain political behaviour in democratic societ­ ies, the Civic Voluntarism Model has proved to be the most effective in explaining who participates in politics. Participants are those who have high lev­ els of resources such as time, education, money and/or civic abilities (Verba, Schlozmann and Brady 1995). Following this argument, recent studies pro­ vide convincing evidence that unemployment not only depresses political interest in early adulthood, but it also has scarring effects on levels of political engagement later in life (Emmenegger, Marx and Schraff 2017). Similarly, recent research on the po­ litical effects of labour market disadvantages shows that increases in both perceived job and financial in­ security erode trust in politics (Schraff 2018). Com­ pelling evidence that greater economic inequality yields greater political inequality is also available at the aggregate level, as higher levels of income inequality powerfully depress political involvement among all but the most affluent (Solt 2008). Since the crisis reduces the availability of resources, we might expect a decrease in levels of political par­ ticipation. However, if that is the case, how can the crisis-related protests be explained?
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+4 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+Given the limited capacity of resource-based the­ ories to account for the intensity of protest move­ ments during the Great Recession, some research­ ers moved to grievance theories to explain 2011 protest movements. While the Civic Voluntarism Model argues that material resources are an essen­ tial requirement for participation, the grievance mod­ el argues that relative deprivation will lead to more participation. As Kern et al. (2015) concluded, griev­ ance theory is especially useful in exceptionally neg­ ative conditions since suddenly imposed grievances can lead to different modes of protest behaviour. In fact, the economic crisis diminished the traditional gap in terms of individual socioeconomic positions, at least in what concerns low-cost modes of political action (Rodon and Guinjoan 2018). Is also consider­ ably boosted the public’s knowledge of the state of the economy and reduced information inequalities (Marinova and Anduiza 2018).
+
+Finally, beyond individual approaches, it is rel­ evant to take a look at the structure of opportunities found in each country. As Grasso and Giugni (2016) show, individual-level feelings or relative deprivation have a direct effect on the propensity to participate in protests, but that effect is greater in contexts char­ acterized by either higher unemployment aggregate rates or higher levels of social spending; that is to say, in contexts that opened up political opportunities for protest among those who experienced a deterio­ ration in living standards during the economic crisis. Bassoli and Monticelli (2018), when focusing on pre­ carious young workers in five European cities, pro­ vide a similar argument. ‘Precarious youth’ are more active than regular workers –or not—depending on labor market regulations, thereby functioning as an issue-specific political opportunity structure. Interac­ tions between individual level economic circumstanc­ es and the political context have also been identified in terms of government performance. How govern­ ments have handled the economic situation and the issue of unemployment alters the extent to which perceptions of egocentric economic situation affect political participation (Giugni and Grasso 2017).
+
+The effect of other variations in the structure of opportunities has been less studied, for various rea­ sons, among them the difficulties in identifying causal links. Institutional and contextual characteristics vary simultaneously across countries and over time. In the early years of the crisis, almost all developed coun­ tries suffered its consequences in terms of slower economic growth, higher unemployment, and prob­ lems balancing the public deficit (Matsaganis and Leventi 2014). However, since 2011, differences among developed countries can be observed within Europe. As stated in the introduction, Northern Euro­ pean countries such as Denmark, The Netherlands and Germany overcame the worst consequences of the crisis around 2011. On the other hand, Spain,
+
+Portugal, Italy and Greece’s economic situation wors­ ened in 2012, when levels of unemployment reached rates never seen before (Braun and Tausendpfund 2014). Political outcomes also varied between Euro­ pean regions. Even though protests spread across almost all developed countries (Bermeo and Bartels 2014), electoral shifts were very different between Northern and Southern European countries (Her­ nandez and Kriesi 2016; Bosco and Verney 2012, 2016). In Southern Europe party systems underwent major transformations due to crises among the main­ stream parties and the emergence of new political formations in Greece (2012), Italy (2013) and Spain (2014/2015) (Teperoglou, Tsatsanis, and Nicolaco­ poulos 2015; Orriols and Cordero 2016; Morlino and Raniolo 2017). The only exception was Portugal, where the party system remained stable (Fernandes, Magalhães, and Santana-Pereira 2018).
+
+Overall, the structure of opportunities interacted with social demands and shaped citizens’ behaviour. In both protest movements and in the electoral suc­ cess of new political parties, young people played an important role (Della Porta et al. 2017). Thus, young people’s relationship to politics changed significantly during those years. But, what has happened since then? To the best of our knowledge no study has provided a comprehensive view of levels of political engagement and mobilization in the aftermath of the Great Recession. Following our previous discussion, we offer three different proposals to respond to the research question.
+
+Firstly (1), given the politicized context of the cri­ sis in which this youth cohort came into politics, we expect that they may exhibit higher levels of politi­ cal involvement after the crisis. This expectation is supported both by both socialization and grievances theories. Secondly (2), the literature suggests that young people are no longer as involved in politics as they once were. A decade after the economic crisis, the economic circumstances of young people are still challenging. They still suffer precarious conditions that hamper their ability to face the costs of being politically engaged. Consequently, the alternative expectation is that young people may exhibit lower levels of political involvement after the crisis. Finally (3), following country-specific characteristics, political involvement and participation can be sensitive to the particular structure of political opportunities. There­ fore, we expect that young people from countries par­ ticularly hit by the crisis will remain more politically involved than their counterparts in those that were less affected by the Great Recession.
+
+Data and research design
+
+To test our expectations we rely on data from the European Social Survey (ESS), a high-quality representative biannual survey conducted in more
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 5
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+than 20 countries between 2002 and 2016.2 When comparing the periods before, during and after the crisis, we consider the ‘pre-crisis period’ - the years between 2002 and 2006, the ‘crisis period’- the years between 2008 and 2012, and finally, the ‘post-crisis period’ - the years between 2014 and 2016. We have included all countries in the anal­ yses that have observations for all eight waves of the ESS available: Belgium, Switzerland, the Czech Republic, Germany, Spain, Finland, France, Great Britain, Hungary, Ireland, The Netherlands, Norway, Poland, Portugal, Sweden and Slovenia.
+
+The empirical strategy is two-fold. First, we use a descriptive approach in which we depict the evolu­ tion of two political attitudes (political interest and confidence towards institutions) and four types of ‘participants’ in politics for young and adult citizens over time. Second, we use a multivariate analysis to determine: 1) whether the differences between young people and adults hold in the presence of specific controls, and 2) to explore the effects of rel­ ative deprivation after the crisis for both adults and young people.
+
+The first indicator of attitude we employ is politi­ cal interest. Political interest expresses an individu­ al’s level of curiosity towards politics, but it is also a proxy of cognitive mobilization (Martín and van Deth 2007: 203). In fact, it is an essential attitude to ex­ plain political participation. Highly interested citizens are mobilized and tend to participate in politics to a greater extent than other citizens. Secondly, we em­ ploy ‘confidence in institutions’ as a measure. Specif­ ically, we selected the indicator of trust in the national parliament because it refers to the core democratic institution, and also because, following Denters, Ga­ briel, and Torcal (2007), it can be used to represent confidence in democratic institutions in general. Low levels of political trust would suggest alienation from politics and, in combination with low levels of politi­ cal interest, political disaffection. Some studies have shown, nonetheless, that interest and trust have fol­ lowed different patterns during the crisis (Martín and Montero 2015). Whereas trust in parliament has de­ creased, citizens’ levels of interest in politics have grown in many countries. The combination is coher­ ent with the emergence of critical citizens that are participative and also likely to get involved in costly forms of participation as protests (Norris 1999; Dal­ ton 2004, Dalton 2007; Dalton 2013).
+
+In order to compare political participation over time and across groups of the population, we take into account its multidimensional character. If we compare across age groups, at the same level of po­ litical interest, young people prefer non-institutional actions while adults are more likely to participate through representative institutions (García-Albacete 2014). Comparing one single mode of action could result in biased estimates regarding profiles of po­
+
+litical involvement. In addition, preferred modes of political action vary significantly across countries (van Deth 1986; García-Albacete 2014; Quaranta 2015), as they depend on the structure of opportuni­ ties and specific social demands (Kriesi et al. 1992; Vráblíková 2014). For these reasons, we propose a general classification that allows us to distinguish citizens according to types of political involvement while being general enough to be comparable across age groups and countries. To build the classification we start by using the standard distinction between institutional and non-institutional participation. The institutional participation category refers to actions related to elections or political parties and includes: turnout in the last general election, contact with politi­ cians, and voluntary work for a political party. Noninstitutional participation includes any form of action aside from elections: strikes, attending demonstra­ tions, signing a petition, and boycotting products for political reasons. The combination of the two catego­ ries results in a fourfold typology: (a) none for those individuals who did not participate in any mode of action; (b) protesters, for those citizens who partici­ pated in at least one non-institutional activity and did not participate in any institutional action; (c) turnout, for people that participated in at least one institutional mode of participation but did not participate in any non-institutional forms; and, finally, (d) both, for those who participated both in at least one institutional and one non-institutional mode of action.3
+
+Furthermore, to compare young people to adults we need a demarcation line between those two life stages. Following previous studies,4 the strategy here is to use as a criterion the average age in which a main event in the transition to adulthood takes place: having a first child. The average age is 30 for Europe. In addition, we take into account that se­ nior citizens participate in a different way to adults, and thus including them in the same group could obscure the differences between young people and adults. To classify interviewees as senior citizens we use the most common legal age for retirement across Europe: 65. Furthermore, to simplify the de­ scription we drop the latter group from the analyses presented below. The resulting categories for life stages are: (a) young people for those individuals who are aged 15 to 30 years old; and (b) adults for those individuals that are 31 to 65 years old, and (c) elder people, for individuals that are 66 year or older (not included in the analyses).
+
+The second part of our analytical strategy uses multivariate techniques to provide a test that takes into account the potential different compositions of the groups in key individual antecedents, such as ed­ ucation. For this part, we will concentrate on political participation and the comparison between those who do not participate at all to the rest of the population. As we will see in the description, and given the spo­ radic character of protest mobilizations, this is a key
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+6 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+of – politics. Only Portugal, where young people are as interested in politics as adults, deviates from this pattern. When compared to other South European countries such as Spain, the cohort of young people socialized in democracy has maintained relatively high levels of political interest, due to the character of the transition to democracy (Fishman and Lizardo 2013). An additional explanation could be that Por­ tugal suffered an earlier economic crisis in 2002 that mobilized young people significantly.5
+
+Regarding the evolution of young people’s political interest over time, we can observe some differences in comparison to adults, but also variation across countries. Young people and adults follow the same pattern in Germany, France, Great Britain and Ire­ land, where we observe an increase in their levels of political interest in 2008, when the crisis began. In Switzerland and Norway, there are no changes over time. In four countries, Belgium, Czech Republic, The Netherlands and Slovenia, increasing or stable levels of political interest among adults contrast with negative trends for young people. Overall, and in line with the ‘impressionable years’ thesis that em­ phasizes how young people are more sensitive to contextual changes, we find larger variations across time for young people than for adults. Adults’ lev­ els of political interest remain more stable over the years, without sharp changes, while young people’s levels of interest show abrupt changes in short peri­ ods. Figure 1 exemplifies such changes in Finland, Great Britain, Ireland, The Netherlands, Norway, Sweden and Slovenia, where significant ups and downs are visible for young people even in short periods of two years.
+
+Let’s now turn our attention to confidence in institu­ tions and specifically to levels of trust in the country’s parliament (see Figure A2 in the Appendix). Once more, we observe large variation across countries. A decrease in trust during the crisis is found in eight countries, and no changes in five cases; while in only two countries the level of trust increased during the crisis. The countries where trust has decreased since the crisis (2008-2010) are: Germany, Spain, Finland, France, Great Britain, Ireland, Portugal and Slovenia. We find no changes in trust in Belgium, Switzerland, Czech Republic, The Netherlands and Norway. Final­ ly, we observe an increase in the levels of trust in the national parliament in Hungary, Poland and Sweden.
+
+Young people do not distrust political institutions any more than adults or senior citizens do (see Fig­ ure 2), contrary to what other studies have claimed (Norris 1999; O’Toole, Marsh and Su 2003; Dalton 2004: 94; Sloam 2007)6. This finding is not exception­ al, as previous studies have provided evidence that young people trusted basic institutions of democracy as much (if not more) than adults at the beginning of the 21st century (García-Albacete 2014: 142-143). As the black lines indicate in Figure 2, on average,
+
+distinction over time. Therefore, the categories for the dependent variable in the multivariate analyses are: (a) none versus (b) some kind of political action. In addition to life stages, the multivariate analysis in­ cludes respondents’ occupational status (in paid em­ ployment, student, unemployed and other situations). Finally, as control variables, the models include gen­ der and years of education completed.
+
+A post crisis generation? Political participa­ tion and attitudes
+
+As said, in this section we present our descriptive analyses of young people’s political attitudes and be­ haviour over time. Findings show great heterogene­ ity across countries. In order to make interpretations easier, in what follows, for each attitude or behaviour we first address the general trend for the entire popu­ lation and then we establish a double comparison: (a) between the youth and adults over time, and (b) among young people before, during and after the economic crisis.
+
+Young people’s political attitudes: political interest and trust in institutions
+
+When looking at the trends for the whole popula­ tion, there is a large variation in levels of political in­ terest over time in each country (see Figure A1 in the Appendix). In some countries, the economic cri­ sis came with an increase in political interest. That is the case of Germany, Spain, France, Great Brit­ ain, Ireland and Slovenia when we compare average citizens’ political interest in 2006 to 2008 or 2010. In other countries, the crisis did not have a visible effect, and levels of political interest remained stable (Bel­ gium, Switzerland, and Norway). In some countries the increase in political interest in 2008 was followed by a visible decrease in political interest shortly after (2010-2012), such as in Ireland and Great Britain. A decrease in political interest is also visible in Hungary around the same time. In two Nordic countries, Swe­ den and Finland, the increase in political interest is only visible later on, in 2014-2016. In those cases, the increase takes place far beyond the hardest years of the economic crisis and might be related to another crisis, in this case, the so-called refugee crisis.
+
+Regarding age differences, Figure 1 shows the average level of political interest for each age group (young people in black, adults in grey and seniors in white) by country and over time (2002-2016). A com­ mon pattern emerges: young people are significantly less interested in politics than adults (as represented in black lines). This is not surprising, as previous re­ search has repeatedly shown that young people are less interested in politics (e.g. Glenn and Grimes 1968; Prior 2010). This gap can be understood with the life-cycle hypothesis discussed above, and par­ ticularly, by a lack of experience in – and knowledge
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 7
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+young people declare higher levels of trust in na­ tional parliament in almost all countries at some point during the period 2002-2016 (Belgium, Switzerland, Czech Republic, Germany, Finland, France, The Netherlands, Portugal and Sweden). In other coun­ tries (such as Spain, Great Britain, Hungary, Ireland, Norway, Poland and Slovenia) we find no differences between adults and young people. Over time, young people and adults follow the same trend of stability. This is clearly visible in Figure 2, where lines overlap with each other.
+
+In sum, the descriptive evidence does not allow us to determine whether young people are particu­ larly interested in politics or critical towards institu­ tions. Both adults and young people share the same trends. We expect to observe more differences re­ garding political behaviour.
+
+Young people’s political behaviour: modes of political participation
+
+Let us now turn our attention to different modes of political participation. Figure 3 shows the percent­ age of young people that participate only in protests (black), only in institutional politics by voting (white),
+
+in both protest and institutional actions (light grey); and finally, the percentage of young people who do not participate in any activity (dark grey). Figure 4 provides the same information for adults.
+
+The first visible pattern is common to both young people and adults. Among both age groups there is a larger percentage of citizens who participate ex­ clusively in electoral politics. Notwithstanding this regularity, there are also visible differences between age groups. Young people participate to a greater extent than adults in protest or in both institutional and non-institutional actions. Regarding non-par­ ticipants, the percentage of young citizens who do not participate in any kind of political action is also larger than the percentage of adults who do not par­ ticipate. This evidence confirms something that oth­ er studies previously found: young people are less participative in electoral politics (Blais, Gidengil and Nevitte 2004; Franklin 2004) and when they par­ ticipate, they prefer non-institutional forms of action (Barnes and Kaase 1979; García-Albacete 2014). Finally, the relatively large percentage of young citi­ zens in the mixed category ‘both’ confirms that they are more likely to combine different forms of political participation (García-Albacete 2014).
+
+Figure 1. Average levels of political interest over age groups and time, by country
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+8 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+Figure 2. Average levels of trust in a country’s parliament, over age groups and time, by country
+
+Figure 3. Types of participants among young people by country and over time
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 9
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Having identified general patterns and differenc­ es between young people and adults, we now fo­ cus on trends over time. First, Figures 3 and 4 show that although there is large heterogeneity across countries, adults and young people’s participation followed the same dynamics. That is to say, when percentages of any mode of political participation in­ crease in one specific year, this increase is typically found for both young people and adults. The same occurs when political participation decreases. Same trends across age signal the existence of period ef­ fects that have had an impact on all citizens.
+
+Even though the period effects are shared by young and adult citizens, we now focus on changes across time and particularly after the cri­ sis started (see in Figures 3 and 4, from 2008 to 2012). In some countries, institutional participa­ tion remained stable, for both adults and young people (see for instance Belgium, The Nether­ lands, Ireland and Norway). In a second group of countries, institutional participation decreased; al­ though the change is less intense among adults, as in the case of the Czech Republic and Finland. In a third and more numerous group of countries, institutional participation increased; this is the case of Germany, Spain, Hungary, Poland, Por­ tugal, and Slovenia. Finally, in countries like Swit­
+
+zerland, France and Sweden the trends shift dur­ ing the period of crisis.
+
+Regarding other types of participants, there are no clear trends during the crisis. In some countries - Belgium, Finland, France, Great Britain, Hungary, Ireland, The Netherlands, Sweden and Slovenia - the percentage of respondents that both participat­ ed in institutional and non-institutional actions, and the percentage of respondents that only protested, decreased. In other countries, such as Switzerland, Germany, Spain, Poland and Portugal, we can iden­ tify an increase in the levels of political participation. Additionally, in these countries, the increase in pro­ test occurs instead in the post-crisis period.
+
+The increase in political participation from 2012 onwards is a common trend for both adults and young people (see Figures 3 and 4). It is visible for all types of participation and it has its parallel in a decrease in the percentage of respondents that did not participate at all. It is, however, in the post-cri­ sis period (2014-2016) when we find more political involvement: the number of citizens that participate in institutional actions and in both protest and insti­ tutional modes increased significantly. To provide a better illustration, Figure 5 focuses on the percent­ age of non-participants (category “none”) for young people (black lines) and for adults (grey lines).
+
+Figure 4. Types of participants among adults by country and over time
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+10 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+Again we observe a general trend despite heteroge­ neity across countries: in the post-crisis scenario there is greater mobilization. At the end of the period only in the Czech Republic, France and Hungary is there a larger percentage of respondents who are not involved in poli­ tics than during the crisis. As we previously found, with regards to other indicators, young people are more vola­ tile, and thus tend to change more in a shorter period of time. In addition to the general trend of political mobiliza­ tion, Figure 5 shows that growing mobilization particular­ ly affected young people. Adults did not change in many countries or, as happened in Hungary and Slovenia, fol­ lowed a different pattern than young people.
+
+In sum, young people, who are more sensitive to context, changed their political behaviour to a greater extent than adults. This change is consistent with our first expectation: that young people became more po­ litically involved during the crisis. Despite experienc­ ing hard economic conditions, the fact that they so­ cialize politically during a politicized period resulted in increased levels of political participation. This mobili­ zation finds no parallel among adults, signalling that the cohort effect might be a good mechanism to ex­ plain the changes observed. Regarding our third ex­ pectation that changes would be particularly visible in the countries hardest hit by the economic crisis, the descriptive findings do not support this view. Further analyses are required to understand these differences better. We address this issue in the next section.
+
+A mobilized post-crisis youth? A multivariate approach
+
+The descriptive findings support the expectation that citizens became more politically involved dur­ ing the crisis and maintained high levels of political involvement thereafter. To confirm the robustness of the results, controlling for the potential different com­ position of age groups, we run logit equations con­ ducted separately for each country. Figure 6 summa­ rizes the results by plotting the predicted probabilities of not participating in politics (versus any form of political participation) over years and across coun­ tries. We have introduced as the main independent variable the interaction of age and year and, as con­ trol variables, gender, level of education and occupa­ tional status (the data are available in Table A1 in the Appendix). The results confirm previous descriptive findings. Whereas adults’ participation has remained fairly stable, young people’s participation increased over time. We observe that young people’s levels of non-participation (higher values) decrease over time in Belgium, Switzerland, Spain, Finland, Norway, Poland, Portugal and Slovenia. On the other hand, we see stability for both adults and young people in Germany, Great Britain, Ireland, The Netherlands and Sweden. Finally, young people tend to be less participative in recent years in the Czech Republic, France and Hungary.
+
+Figure 5. Average levels of non-participants among young and adult citizens, over time
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 11
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Again, we interpret higher levels of involvement as a consequence of a highly politicized period after the economic crisis. Far from creating distance from poli­ tics, we see that one long-term effect of the crisis is an increase in young people’s political engagement. Although political attitudes changed in a similar way for adults and young people, among young citizens interest translated into political action to a greater extent than among adults. It could be that the high levels of political interest and the acquisition of par­ ticipatory habits become a cohort characteristic that could have long term effects.
+
+Following previous arguments, we also expected this pattern to differ according to the country-specific structure of opportunities. Specifically, we expected mobilization to be greater in countries that were par­ ticularly affected by the crisis. However, as we dis­ cussed before, no trend can be found across coun­ tries that supports such expectation. Over time, levels of political participation have increased in countries that were harder hit by the crisis, such as Spain and Portugal; but also in countries where the crisis was less intense, such as, for instance, Germany, The Netherlands, Finland and Norway.
+
+Our research design is not well equipped to ex­ plain this finding as there are several factors that may have influenced young people’s high levels of politi­ cal involvement in recent years. High participation levels could be related to country specific domestic
+
+politics, such as whether elections were particular­ ly competitive (as competitiveness in elections is a good mobilizer for young people; see Franklin 2004) or the success of mobilization tactics by new or small political parties. An increase in political participa­ tion might also be the result of international political conflicts beyond the Great Recession, such as the refugee and migration crisis. Most likely, both expla­ nations account for the increase in young people’s political participation. The economic crisis might have played a greater role in Portugal and Spain, whereas the reactions to migration politics might explain mo­ bilization in Central and Northern Europe. Economic and migration crisis might also interact.
+
+Irrespective of the specific events that have in­ creased political participation, the increase in mobi­ lized citizens over time and across countries allows us to be optimistic. On average, young people are, after the crisis, more participative than before, in spite of the strategies followed by certain governments to increase the costs of participating in politics.
+
+Conclusion
+
+It is clear that the economic crisis has had an effect on European’s citizens’ attitudes and behav­ iour; and particularly so among young people. But what is young people’s level of political engage­ ment 10 years later? In this article, we provide a comprehensive description of young citizen’s politi­
+
+Figure 6. Predicted probabilities of non-participation (multivariate logistic regression models)
+
+Note: Probabilities are calculated from the models presented in Table A1 in the Appendix.
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+12 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+cal attitudes and behaviour before, during and after the Great Recession. We focus on young people as protagonists of mobilizations against the economic and political consequences of the crisis. The results confirm that their attitudes and behaviour have changed significantly during the last decade. Fur­ thermore, young people’s levels of political interest and participation remained higher in the post-crisis period than before 2008, whereas adults, in gener­ al, maintained similar levels of political participation during the same period. We interpret these chang­ es as a cohort effect: contextual changes are more intense for young people according to socialization theory. If a cohort effect is present, we can expect the post-crisis youth to remain more active during the following decades.
+
+In this article we have used an integrative approach when it comes to political participation. Instead of ex­ amining only one form of action, we have provided a typology that allows equivalent comparison across age groups. Additionally, this classification allows us to capture political nuances in recent years, with street mobilization periods followed by changes in party systems. In some countries, in Southern Eu­ rope for example, these changes have been signifi­ cant. By using this perspective we can conclude that whether young people choose to make their voices heard by means of the ballot box or by protesting in the street, precarious working conditions have not re­ sulted in apathy or alienation, and therefore our sec­ ond expectation is rejected.
+
+Regarding variation across countries, our de­ scription shows great heterogeneity. No pattern could be identified regarding the evolution of politi­ cal attitudes. When we focus on political participa­ tion, we observe similarities even in countries with contrasting economic performance during the crisis, such as Germany and Spain. We have to acknowl­ edge, however, that we are using a perspective that comes from countries that were harder hit by the economic crisis, that is, those in Southern Europe. Since 2014, Central and Northern European coun­ tries have experienced mobilizations linked to the emergence or success of new radical right parties, whether they support their positions or reject them. A detailed account on current levels of political par­ ticipation among young citizens requires the inte­ gration of other dimensions, such as the migration crisis, into any explanation.
+
+Finally, we have provided a necessary but only preliminary account of attitudes and behaviour. This initial step has a number of shortcomings. First, the availability of data to examine young citizens’ politi­ cal participation across countries is rather poor. Ei­ ther youth studies are not comparable across coun­ tries or, when data is comparable such as through the ESS, youth samples are small, since data col­
+
+lection seeks to be representative of the whole pop­ ulation and not specifically of young adults. Small samples impede running detailed analyses of, for in­ stance, personal economic circumstances, and how they affect young people’s relationship to the politi­ cal system. More recent research has focused at­ tention on the importance of distinguishing between, for instance, economic grievances and feelings of relative deprivation (both in comparison to others and in comparison to one’s own situation over time; see Kurer et al. 2018) among the factors that ex­ plain protest mobilization in Europe.
+
+Lack of resources is likely to produce apathy while a change in resources is more likely to mo­ bilize protest actions (Kurer et al. 2018). In light of changes in economic and labour conditions across Europe, the distinction between level of resources on the one hand, and changes in the endowment of resources on the other, could be key to understand­ ing what drives young people out into the streets. Some evidence is already available on the potential translation of economic inequalities into political in­ equalities for young people in Spain, as the result of the economic crisis (García-Albacete et al. 2016). Furthermore, other potential sources of inequality among young people, for instance gender or im­ migration background, or the interaction among the diverse sources of inequality, have rarely been ad­ dressed from an international perspective, due to the lack of data.
+
+Finally, a second limitation relates to the exclu­ sion of governments’ response to political mobili­ zation during the crisis. In Spain, for instance, the costs of participating in demonstrations are higher since the approval of the “Ley Mordaza” (Gag Law). Currently, different modes of political protests that were allowed before the crisis are now punished with serious fines or are directly prohibited. Our operationalization of political participation does not allow us to capture those effects. Data on repres­ sion strategies could be used to complement our description. In this regard, it is of great benefit that some European projects7 are currently collecting data specifically for young people, and will provide us with additional tools to examine changes in the coming years.
+
+Acknowledgements
+
+This research was made possible thanks to fund­ ing from The Ministry of of Science, Innovation and Universities, ref. CSO2016-75090-R.
+
+Agradecimientos
+
+Esta investigación ha sido posible gracias a la fi­ nanciación del Ministerio de Ciencia, Innovación y Universidades, referencia CSO2016-75090-R.
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 13
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Amnå, E. and J. Ekman. 2013. ‘Standby Citizens: Diverse
+
+Faces of Political Passivity’. European Political Sci­ ence Review 6(2): 261–281. https://doi.org/10.1017/ S175577391300009X
+
+Andretta, M. 2018. ‘Protest in Italy in Times of Crisis: A Cross Government Comparison’. South European Society and Politics 23 (1): 97–114. https://doi.org/10.1080/13 608746.2018.1434456
+
+Armingeon, K. and B. Ceka. (2014). ‘The loss of trust in the
+
+European Union during the great recession since 2007: The role of heuristics from the national political system’. European Union Politics 15(1), 82-107.
+
+Armingeon, K. and K. Guthmann. 2014. ‘Democracy in cri­
+
+sis ? The declining support for national democracy in European countries, 2007 – 2011’. European Jour­ nal of Political Research 53: 423-442. https://doi. org/10.1111/1475-6765.12046
+
+Barnes, S. H. and M. Kaase (eds.). 1979. Political action:
+
+Mass participation in five Western democracies. Lon­ don: Sage.
+
+Bassoli, M. and L. Monticelli. 2018. “What about the welfare
+
+state? Exploring precarious youth political participation in the age of grievances”. Acta Politica 53(2): 204-230. https://doi.org/10.1057/s41269-017-0047-z
+
+Bermeo, N. and L. M. Bartels. 2014. Mass Politics in Tough
+
+Times. Opinions, Votes and Protest in the Great Re­ cession. Oxford: Oxford University Press.
+
+Blais, A, E. Gidengil and N. Nevitte. 2004. ‘Where does turnout
+
+decline come from?’ European Journal of Political Re­ search 43(2): 221-236. https://doi.org/10.1111/j.14756765.2004.00152.x
+
+Bosco, A. and S. Verney. 2012. ‘Electoral Epidemic: The Po­
+
+litical Cost of Economic Crisis in Southern Europe, 2010–11’. South European Society and Politics, 17 (2): 129–154, https://doi.org/10.1080/13608746.201 2.747272
+
+Bosco A. and S. Verney. 2016. ‘From Electoral Epidemic to
+
+Government Epidemic: The Next Level of the Crisis in Southern Europe’. South European Society and Poli­ tics 21 (4): 383–406, https://doi.org/10.1080/1360874 6.2017.1303866
+
+Braun, D. and M. Tausendpfund. 2014. ‘The Impact of the Euro
+
+Crisis on Citizens’ Support for the European Union’.
+
+Journal of European Integration 36 (3): 231–245, https://doi.org/10.1080/07036337.2014.885751
+
+Casal Bértoa, F. and A. Bourne. 2017. ‘Prescribing Democ­
+
+racy? Party Proscription and Party System Stabil­ ity in Germany, Spain and Turkey’. European Jour­ nal of Political Research 56 (2): 440–465, https://doi. org/10.1111/1475-6765.12179
+
+Casal Bértoa, F. and T. Weber. 2018. ‘Restrained Change: Party
+
+Systems in Times of Economic Crisis’. The Journal of Politics 81 (1): 233–245, https://doi.org/10.1086/700202
+
+Dalton, R. J. 2004. Democratic Challenges, Democratic Choic­
+
+es. Oxford: Oxford University Press.
+
+Dalton, R. J. 2007. “Partisan mobilization, cognitive mobiliza­
+
+tion and the changing American electorate”. Electoral Studies 26(2): 274–286. https://doi.org/10.1016/j.elect­ stud.2006.04.009
+
+Dalton, R. J. 2008. The Good Citizen: How a Younger Genera­
+
+tion Is Reshaping American Politics. London: Sage.
+
+Dalton, R. J. 2013. The Apartisan American: dealignment and
+
+changing electoral politics. Thousand Oaks, California: CQ Press.
+
+Damore, D. F., M. M. Waters and S. Bowler. 2011. ‘Unhappy,
+
+Uninformed, or Uninterested? Understanding “None of the Above” Voting’. Political Research Quarterly 65(4), 895–907, https://doi.org/10.1177/1065912911424286
+
+Della Porta, D., J. Fernández, H. Konki and L. Mosca. 2017. Move­
+
+ment Parties against Austerity. Cambridge: Polity Press.
+
+Denters, B, O. Gabriel and M. Torcal. 2007. ‘Political Confi­
+
+dence in Representative Democracies: Socio-cultural vs. Political explanations’ Pp. 66-87 in Citizenship and Involvement in European Democracies. A comparative analysis, edited by J. W. van Deth, J.R. Montero, and A. Westholm, Oxon: Routledge.
+
+Dinas, E. 2013. ‘Opening Openness to Change: Political
+
+Events and the Increased Sensitivity of Young Adults’. Political Research Quarterly 66 (4): 868-882. https:// doi.org/10.1177/1065912913475874
+
+Emmenegger, P., P. Marx, and D. Schraff. 2017. Off to a bad
+
+start: Unemployment and political interest during early adulthood. The Journal of Politics 79(1), 315-328.
+
+Fernandes, J. M., P. C. Magalhães and J. Santana-Pereira.
+
+2018. ‘Portugal’s Leftist Government: From Sick Man
+
+Notes
+
+1. The exception is that senior citizens are more likely to turn out to vote, which has been explained as a result of habit formation and residential stability (Goerres 2009).
+
+2. All details on the European Social Survey are available at http://www.europeansocialsurvey.org/
+
+3. In order to make the levels of participation compara­ ble across groups, respondents who were not eligible to vote in the previous general elections in each coun­ try are not included in the analyses.
+
+4. For a review of the problematic use of arbitrary cutoff points, see García-Albacete and Martín (2010). For a similar strategy to the one used here, see GarcíaAlbacete (2014).
+
+5. A second deviation visible in Figure 1 refers to senior citizens’ low levels of political interest in Spain, which is coherent with previous research regarding political generations in Spain (Martín 2004) and which we inter­ pret as the results of demobilization tactics during their political socialization under Franco’s Regime.
+
+6. This claim is often made without comparing young people to adults.
+
+7. See for instance EURYKA (https://www.unige.ch/ sciences-societe/euryka/home/)
+
+References
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+14 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+to Poster Boy?’ South European Society and Politics 23(4): 503-524. https://doi.org/10.1080/13608746.201 8.1525914
+
+Fishman, R. and O. Lizardo. 2013. ‘How macro-histori­
+
+cal change shapes cultural taste. Legacies of de­ mocratization in Spain and Portugal’. American Sociological Review 78(2): 213-239. https://doi. org/10.1177/0003122413478816
+
+Franklin, M. N. 2004. Voter turnout and the dynamics of elec­
+
+toral competition in established democracies since 1945. Cambridge: Cambridge University Press.
+
+Galais, C. 2014. ‘Don’t Vote for Them: The Effects of the
+
+Spanish Indignant Movement on Attitudes about Vot­ ing’. Journal of Elections, Public Opinion & Parties 24 (3): 334–350. https://doi.org/10.1080/17457289.2014 .887089
+
+García-Albacete, G. 2014. Young People’s Political Partici­
+
+pation in Western Europe: Continuity or Generational Change? Basingstoke: Palgrave Macmillan.
+
+García-Albacete, G., J. Lorente and I. Martín. 2016. ‘How does
+
+the Spanish ‘crisis generation’ relate to politics?’ Pp. 50-72 in Political Engagement of the Young in Europe: Youth in the crucible, edited by P. Thijssen, J. Sionges, J. van Laer, J. Haers, and S. Mels. London: Routledge.
+
+García-Albacete, G. and I. Martín. 2010. ‘La Participación
+
+política de los jóvenes españoles en perspectiva comparada’. In La Ciudadanía Europea en el siglo XXI. Estudio comparado de sus actitudes, opinión pública y comportamiento políticos, edited by M. Tor­ cal. Madrid: CIS.
+
+Giugni, M. and M. T. Grasso. 2017. ‘Blame and contention:
+
+how perceptions of the government’s role in the eco­ nomic crisis shape patterns of political action’. Acta Po­ litica 54(3): 346-370 https://doi.org/10.1057/s41269017-0073-x
+
+Glenn, N. D. 1974. ‘Aging and Conservatism’. Annals of the Amer­
+
+ican Academy of Political and Social Science 415: 176186. https://doi.org/10.1177/000271627441500113
+
+Glenn, N. D. and M. Grimes. 1968. ‘Aging, voting and politi­
+
+cal interest’. American Sociological Review 33(4): 563575. https://doi.org/10.2307/2092441
+
+Goerres, A. 2009: The Political Participation of Older People
+
+in Europe: The Greying of Our Democracies. Basing­ stoke: Palgrave Macmillan.
+
+Grasso, M. T. and M. Giugni. 2016. ‘Protest participation and
+
+economic crisis: The conditioning role of political op­ portunities’. European Journal of Political Research 55: 663-680. https://doi.org/10.1111/1475-6765.12153
+
+Green, A. 2017. The Crisis for Young People. Generational In­
+
+equalities in Education, Work, Housing and Welfare. Basingstoke: Palgrave Macmillan.
+
+Hernandez, E., and H. Kriesi. 2016. ‘The Electoral Conse­
+
+quences of the Financial and Economic Crisis in Eu­ rope’. European Journal of Political Research 55: 203– 24. https://doi.org/10.1111/1475-6765.12122
+
+Hyman, H. H. 1959. Political Socialization: A Study of Psychol­
+
+ogy of Political Behavior. Glencoe: Free Press.
+
+Inglehart, R. 1977. The Silent Revolution. Princeton: Princeton
+
+University Press.
+
+Inglehart, R. and C. Welzel. 2005. Modernization, Cultural
+
+Change and Democracy. Cambridge: Cambridge Uni­ versity Press.
+
+Jennings, M. K. 1979. ‘Another Look at the Life Cycle and Politi­
+
+cal Participation’. American Journal of Political Science 23(4): 755–771, https://www.jstor.org/stable/2110805
+
+Jennings, M. K. 2007. ‘Political Socialization’. In The Oxford
+
+Handbook of Political Behavior, edited by R. J. Dal­ ton and H.-D. Klingemann. Oxford: Oxford University Press.
+
+Kahler, M. and D. A. Lake. 2013. Politics in Hard Times. The
+
+Great Recession in Comparative Perspective. Cornell: Cornell University Press.
+
+Kern, A., S. Marien and M. Hooghe. 2015. ‘Economic Crisis
+
+and Levels of Political Participation in Europe (2002– 2010): The Role of Resources and Grievances’. West European Politics 38: 465-490. https://doi.org/10.1080 /01402382.2014.993152
+
+Kinder, D. R. and D. O. Sears. 1985. ‘Public opinion and po­
+
+litical action’. Pp. 659-741 in The Handbook of Social Psychology, edited by G. Lindzey and E. Aronson, vol. II.. New York: Random House.
+
+Kriesi, H. K., R. Duyvendak, Jan W. and M. Giugni, . 1992. ‘New
+
+social movements and political opportunities in Western Europe’. European Journal of Political Research 22(2): 219-244. https://doi.org/10.1111/j.1475-6765.1992. tb00312.x
+
+Kriesi, H. K. 2014. ‘The Political Consequences of the Eco­
+
+nomic Crisis: Electoral Punishment and Popular Pro­ test’. Pp. 297–333 in Mass Politics in Tough Times: Opinions, Votes and Protest in the Great Recession, edited by N. Bermeo and L. M. Bartels. Oxford: Oxford University Press.
+
+Kurer, T., S. Häusermann, B. Wüest and M. Enggist, . 2018.
+
+‘Economic grievances and political protest’. European Journal of Political Research. Advanced online publi­ cation. https://doi.org/10.1111/1475-6765.12311
+
+Marinova, D. M. and E. Anduiza. 2018. ‘When Bad News
+
+is Good News: Information Acquisition in Times of Economic Crisis’. Political Behavior. https://doi. org/10.1007/s11109-018-9503-3
+
+Martín, I. 2004. Significados y Orígenes del Interés por la
+
+Política en dos nuevas democracias: Grecia y España. PhD Thesis: Universidad Autónoma de Madrid, Juan March Foundation.
+
+Martín, I. and J. R. Montero. 2015. The Political Culture of
+
+Southern Europe Reassessed: The impact of the Eco­ nomic Crisis. Paper presented at UACES Conference. Bilbao.
+
+Martín, I. and J. W. van Deth. 2007. ‘Political involvement’.
+
+Pp. 304–333 in Citizenship and Involvement in Eu­ ropean Democracies. A comparative analysis, edited by J. W. van Deth, J. R. Montero and A. Westholm. Oxon: Routledge.
+
+Matsaganis, M. and C. Leventi. 2014. ‘The Distributional Impact
+
+of Austerity and the Recession in Southern Europe’. South European Society and Politics 19 (3): 393–412. https://doi.org/10.1080/13608746.2014.947700
+
+Milbrath, L. W. 1965. Political participation. How and why do
+
+people get involved in politics? Chicago: Rand Mcnally College.
+
+Morlino, L. and F. Raniolo. 2017. The impact of the Economic
+
+Crisis on South European Democracies. Basingstoke: Palgrave Macmillan.
+
+Norris, P. 1999. Critical citizens : Global support for democratic gov­
+
+ernment. Oxford and New York: Oxford University Press.
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 15
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Norris, P. 2002. Democratic phoenix. Reinventing political ac­
+
+tivism. New York: Cambridge University Press.
+
+O’Toole, T., D. Marsh and J. Su. 2003. ‘Political Literacy cuts
+
+both ways: the Politics of Non-Participation among Young People’. The Political Quarterly 74(3): 349-360. https://doi.org/10.1111/1467-923X.00544
+
+Orriols, L. and G. Cordero. 2016. ‘The breakdown of the Span­
+
+ish two-party system: the upsurge of Podemos and Ciudadanos in the 2015 general election’. South Euro­ pean Society and Politics 21(4): 469-492, https://doi.or g/10.1080/13608746.2016.1198454
+
+Prior, M. 2010. “You’ve Either Got It or You Don’t? The Stabil­
+
+ity of Political Interest over the Life Cycle”. The Jour­ nal of Politics 72(3): 747-766. https://doi.org/10.1017/ S0022381610000149
+
+Quaranta, M. 2015. Political Protest in Western Europe: Ex­
+
+ploring the Role of Context in Political Action. London: Springer.
+
+Rodon, T. and M. Guinjoan. 2018. ‘Mind the Protest Gap: The
+
+Role of Resources in the Face of Economic Hardship’. PS: Political Science and Politics 51(1): 84-92. https:// doi.org/10.1017/S1049096517001809
+
+Ronchi, S. 2018. ‘Which Roads (If Any) to Social Investment?
+
+The Recalibration of EU Welfare States at the Crisis Crossroads (2000–2014)’. Journal of Social Policy 47 (3): 459–78, https://doi.org/10.1017/S0047279417000782
+
+Rosenstone, S. J. and J. Hansen. 1993. Mobilization, Partici­
+
+pation, and Democracy in America. Macmillan Publish­ ing Company.
+
+Roth, F., F. Nowak-Lehmann and T. Otter. 2013. Crisis and
+
+Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012. Paper Series of the EUI-CADMUS, Nº 31/2013.
+
+Ryder, N. B. 1965. ‘The Cohort as a Concept in the Study of
+
+Social Change’. American Sociological Review 30 (6): 843–861, https://www.jstor.org/stable/2090964
+
+Scarrow, S. E. 2000. ‘Parties without members? Party organi­
+
+zation in a changing electoral environment’ Pp. 79-101 in Parties without Partisans, edited by R. J. Dalton, and M. P. Wattenberg. Oxford: Oxford University Press.
+
+Schraff, D. 2018. “Labor market disadvantage and political alien­
+
+ation: a longitudinal perspective on the heterogeneous risk in temporary employment”. Acta Politica, 53(1): 4867. https://doi.org/10.1057/s41269-016-0037-6
+
+Sears, D. O and N. Valentino. A. 1997. Politics matters: Po­
+
+litical Events as Catalysts for Preadult Socializationp. American Political Science Review 91(1): 45-65. https://doi.org/10.2307/2952258
+
+Sears, D. O., and S. Levy. 2003. ‘Childhood and Adult Political
+
+Development’. Pp. 59–95 in Oxford Handbook of Politi­ cal Psychology, edited by L. Huddy, D. O. Sears and J. S. Levy. Oxford University Press.
+
+Sloam, J. 2007. ‘Rebooting Democracy: Youth Participation
+
+in Politics in the UK’. Parliamentary Affairs 60(4): 548567, https://doi.org/10.1093/pa/gsm035
+
+Solt, F. 2008. ‘Economic Inequality and Democratic Political
+
+Engagement’. American Journal of Political Science 52(1): 48-60, https://www.jstor.org/stable/25193796
+
+Stolle, D., M. Hooghe and M. Micheletti. 2005. ‘Politics
+
+in the supermarket: Political consumerism as a form of political participation’. International Po­ litical Science Review 26(3): 245-269. https://doi. org/10.1177/0192512105053784
+
+Strate, J. M., C.J. Parrish, C.D. Elder and C. Ford. 1989. ‘Life
+
+Span Civic Development and Voting Participation’. The American Political Science Review 83(2). Pp. 443-464. https://doi.org/10.2307/1962399
+
+Teixeira, C.P., E. Tsatsanis and A. Belchior 2014. ‘Support for
+
+Democracy in Times of Crisis : Diffuse and Specific Regime Support in Portugal and Greece’. South Euro­ pean Society and Politics 19 (4): 501-518. https://doi. org/10.1080/13608746.2014.975770
+
+Teperoglou, E., E. Tsatsanis and E. Nicolacopoulos. 2015.
+
+‘Habituating to the New Normal in a Post- earthquake Party System: The 2014 European Election in Greece’. South European Society and Politics 20(3): 333–355. https://doi.org/10.1080/13608746.2015.1068377
+
+Torcal, M. 2014. “The Decline of Political Trust in Spain and Por­
+
+tugal: Economic Performance or Political Responsive­ ness?” American Behavioral Scientist 58 (12): 15421567. https://doi.org/10.1177/0002764214534662
+
+van Deth, J. W. 1986. “A note on measuring political partici­
+
+pation in comparative research”. Quality and Quantity 20(2-3): 261-272. https://doi.org/10.1007/BF00227430
+
+Verba, S., K. L. Schlozman and H. E. Brady. 1995. Voice and
+
+Equality: Civic Voluntarism in American Politics. Har­ vard University Press.
+
+Vráblíková, K. 2014. ‘How Context Matters? Mobilization, Po­
+
+litical Opportunity Structures, and Non-electoral Politi­ cal Participation in Old and New Democracies’. Com­ parative Political Studies 47(2): 203-229. https://doi. org/10.1177/0010414013488538
+
+Zukin, C., S. Keeter, M. Andolina, K. Jenkins and M. X. Delli
+
+Carpini. 2006. A new engagement? Political participa­ tion, civic life and the changing American citizen. New York: Oxford University Press.
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+16 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+Appendix
+
+Figure A1. Average levels of political interest, over time and by country
+
+Figure A2. Average levels of trust in National Parliament for the whole population, over time and by country
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 17
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+Figure A4. Average levels of mixed participation (both institutional and non-institutional) amongst young people and adults
+
+Figure A3. Average levels of non-institutional participation (protest) amongst young people and adults
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712 https://doi.org/10.3989/ris.2019.77.4.19.004
+
+18 . GEMA GARCÍA-ALBACETE Y JAVIER LORENTE
+
+BE CH CZ DE ES FI FR GB HU IE NL NO PL PT SE SI
+
+Young (15-30) 0.826*** 0.801*** -0.014 0.867*** 1.613*** 0.493** 0.637*** 1.080*** 0.749*** 1.565*** 1.030*** 1.178*** 1.034*** 1.357*** 0.600** 0.858***
+
+(0.223) (0.182) (0.208) (0.178) (0.189) (0.229) (0.178) (0.159) (0.159) (0.154) (0.195) (0.206) (0.123) (0.160) (0.241) (0.175)
+
+2004 -0.396* 0.044 0.361*** 0.394*** -0.146 0.183 -0.362*** 0.337*** 0.097 0.198 0.416*** -0.042 0.020 0.177 -0.057 0.468***
+
+(0.207) (0.116) (0.109) (0.124) (0.168) (0.153) (0.138) (0.122) (0.133) (0.141) (0.132) (0.192) (0.110) (0.116) (0.199) (0.140)
+
+2006 -0.588*** 0.452*** 0.547*** 0.285* -0.128 -0.357*** 0.286** 0.518*** 0.521*** 0.447*** 0.108 0.237** -0.146 -0.296 0.147
+
+(0.222) (0.125) (0.122) (0.154) (0.166) (0.134) (0.121) (0.131) (0.147) (0.136) (0.189) (0.107) (0.117) (0.215) (0.145)
+
+2008 -0.351* 0.217* 0.243** 0.504*** 0.185 0.106 -0.474*** 0.323*** 0.180 0.328** 0.296** 0.027 0.061 0.258** -0.210 0.306**
+
+(0.208) (0.122) (0.114) (0.129) (0.144) (0.156) (0.139) (0.120) (0.136) (0.150) (0.143) (0.199) (0.113) (0.114) (0.219) (0.145)
+
+2010 -0.007 0.449*** 0.195* 0.486*** 0.128 -0.023 -0.092 0.336*** 0.543*** 0.871*** 0.376*** -0.315 0.039 0.092 -0.500** 0.592***
+
+(0.194) (0.125) (0.113) (0.125) (0.156) (0.168) (0.136) (0.117) (0.129) (0.128) (0.142) (0.224) (0.112) (0.117) (0.255) (0.136)
+
+2012 0.166 -0.032 0.117 0.416*** 0.093 -0.129 -0.445*** 0.557*** 0.641*** 0.747*** 0.410*** -0.004 0.316*** 0.386*** -0.368 0.573***
+
+(0.186) (0.137) (0.117) (0.131) (0.154) (0.163) (0.139) (0.117) (0.120) (0.129) (0.143) (0.200) (0.104) (0.113) (0.231) (0.139)
+
+2014 -0.029 -0.027 0.385*** 0.405*** 0.196 0.141 -0.070 0.424*** 0.492*** 0.616*** 0.374** -0.085 0.395*** 0.122 -0.382 0.790***
+
+(0.198) (0.136) (0.112) (0.133) (0.156) (0.162) (0.135) (0.121) (0.128) (0.134) (0.147) (0.225) (0.108) (0.137) (0.248) (0.140)
+
+2016 -0.086 0.022 0.452*** 0.486*** -0.056 0.011 0.156 0.213 0.470*** 0.978*** 0.709*** -0.116 0.047 0.006 -0.794*** 0.722***
+
+(0.207) (0.136) (0.111) (0.136) (0.161) (0.174) (0.127) (0.131) (0.128) (0.129) (0.146) (0.223) (0.111) (0.141) (0.290) (0.139)
+
+Young * 2004 -0.237 -0.390 0.431* -0.101 -0.824*** 0.147 0.006 -0.286 0.274 -0.269 -0.496* -0.351 0.153 -0.435** -0.437 0.346
+
+(0.330) (0.245) (0.235) (0.240) (0.269) (0.300) (0.264) (0.222) (0.217) (0.213) (0.281) (0.320) (0.176) (0.208) (0.368) (0.228)
+
+Young * 2006 -0.584 0.153 0.053 -0.658*** 0.238 0.365 0.161 -0.445* -0.238 -0.338 -0.063 -0.384** -0.245 0.054 0.408*
+
+(0.432) (0.268) (0.230) (0.249) (0.325) (0.265) (0.213) (0.233) (0.226) (0.275) (0.298) (0.175) (0.209) (0.350) (0.237)
+
+Young * 2008 -0.610 -0.301 0.655*** 0.036 -0.975*** 0.580** 0.432* 0.043 -0.209 -0.129 -0.470 -0.428 -0.517*** -0.689*** -0.015 0.252
+
+(0.381) (0.246) (0.248) (0.249) (0.239) (0.291) (0.254) (0.214) (0.240) (0.233) (0.293) (0.349) (0.188) (0.222) (0.385) (0.234)
+
+Young * 2010 -0.878*** -0.057 0.355 -0.189 -0.904*** 0.365 0.513** 0.202 -0.252 -0.415** -0.332 0.095 -0.294 -0.310 -0.449 0.121
+
+(0.338) (0.261) (0.240) (0.233) (0.278) (0.324) (0.256) (0.209) (0.220) (0.191) (0.287) (0.332) (0.192) (0.221) (0.466) (0.234)
+
+Young * 2012 -0.838** -0.075 0.582** 0.067 -0.741*** 0.095 0.157 -0.098 -0.169 -0.677*** -0.285 -0.241 -0.678*** -0.813*** 0.431 -0.141
+
+(0.354) (0.260) (0.268) (0.247) (0.263) (0.318) (0.270) (0.217) (0.208) (0.199) (0.278) (0.326) (0.180) (0.221) (0.358) (0.243)
+
+Young * 2014 -1.101*** -0.158 0.551** -0.299 -0.896*** 0.202 0.353 -0.181 0.058 -0.480** -0.139 -0.295 -0.541*** -0.592** -0.292 -0.186
+
+(0.364) (0.271) (0.249) (0.255) (0.289) (0.328) (0.252) (0.229) (0.221) (0.214) (0.279) (0.342) (0.206) (0.276) (0.409) (0.245)
+
+Young * 2016 -1.442*** -0.374 0.697*** -0.109 -0.848*** -0.062 0.385 0.037 0.424* -0.665*** -0.468 -0.560 -0.464** -0.904*** 0.759* -0.564**
+
+(0.471) (0.262) (0.243) (0.264) (0.286) (0.329) (0.263) (0.234) (0.229) (0.207) (0.297) (0.371) (0.198) (0.289) (0.426) (0.254)
+
+Women -0.226** 0.141** 0.080* -0.021 -0.062 -0.265*** 0.080 -0.008 -0.096* -0.029 -0.051 -0.050 0.089* 0.119** -0.251** -0.003
+
+(0.090) (0.059) (0.044) (0.055) (0.063) (0.071) (0.059) (0.050) (0.052) (0.051) (0.065) (0.087) (0.047) (0.051) (0.101) (0.056)
+
+Years of education -0.118*** -0.133*** -0.062*** -0.266*** -0.066*** -0.146*** -0.102*** -0.103*** -0.125*** -0.075*** -0.174*** -0.137*** -0.148*** -0.065*** -0.119*** -0.116***
+
+(0.013) (0.010) (0.009) (0.011) (0.007) (0.012) (0.009) (0.008) (0.009) (0.008) (0.010) (0.013) (0.009) (0.006) (0.018) (0.009)
+
+Student (ref: paid em­ ployment)
+
+0.981*** 0.190 0.241** 0.010 -0.073 0.141 0.187 0.378*** 0.561*** 0.376*** 0.162 0.220 0.118 0.131 0.458*** 0.036
+
+(0.174) (0.130) (0.109) (0.116) (0.129) (0.142) (0.143) (0.121) (0.106) (0.090) (0.148) (0.148) (0.096) (0.116) (0.164) (0.098)
+
+Table A1. Logistic regressions no participation by age group and year
+
+THE POST-AUSTERITY YOUTH. POLITICAL ATTITUDES AND BEHAVIOR . 19
+
+RIS [online] 2019, 77 (4), e141. REVISTA INTERNACIONAL DE SOCIOLOGÍA. ISSN-L: 0034-9712
+
+https://doi.org/10.3989/ris.2019.77.4.19.004
+
+BE CH CZ DE ES FI FR GB HU IE NL NO PL PT SE SI
+
+Unemployed 0.570*** 0.623*** 0.538*** 0.882*** 0.243*** 0.735*** 0.358*** 0.736*** 0.306*** 0.662*** 0.741*** 0.710*** 0.477*** 0.340*** 0.867*** 0.171*
+
+(0.155) (0.155) (0.089) (0.083) (0.094) (0.112) (0.102) (0.091) (0.096) (0.073) (0.126) (0.192) (0.079) (0.077) (0.170) (0.102)
+
+Other situation 0.121 -0.060 0.004 0.088 -0.118 0.121 -0.246*** 0.127** -0.098 -0.015 0.120 0.143 -0.157*** -0.189*** 0.388** -0.383***
+
+(0.110) (0.073) (0.054) (0.068) (0.087) (0.093) (0.076) (0.059) (0.064) (0.064) (0.075) (0.123) (0.059) (0.065) (0.154) (0.074)
+
+Constant -1.077*** 0.052 -0.179 0.892*** -1.193*** -0.299* -0.183 -0.484*** -0.143 -1.143*** -0.163 -0.845*** 0.554*** -0.752*** -1.291*** -0.161
+
+(0.206) (0.139) (0.146) (0.168) (0.142) (0.175) (0.146) (0.136) (0.146) (0.150) (0.156) (0.207) (0.129) (0.107) (0.252) (0.152)
+
+Nagelkerke’s R2 0.048 0.044 0.024 0.101 0.039 0.058 0.047 0.065 0.054 0.079 0.070 0.065 0.053 0.037 0.050 0.059
+
+Observa­ tions 8,178 6,872 9,615 13,279 8,593 8,452 8,161 10,124 8,760 10,492 9,171 7,107 9,743 8,651 8,146 6,931
+
+Standard errors in parentheses
+
+*** p<0.01, ** p<0.05, * p<0.1
+
+GEMA GARCÍA-ALBACETE (PhD Political Science, University of Mannheim 2011) is Assistant Professor at the Department
+
+of Social Sciences of Universidad Carlos III de Madrid. Her research relates to citizens’ inequalities in political interest, knowledge and political participation across Western democracies. Her current work focuses on two main areas: political engagement among young people and persistent gender gaps in political attitudes and behaviors. Her work has been published in journals such as West European Politics, Politics & Gender, the International Journal of Press/Politics, or Information Communication and Society, among others. Her monograph on Young People’s Political Participation in West­ ern Europe summarizes some of her work on youth and politics.
+
+JAVIER LORENTE FONTANEDA (PhD Political Science, Universidad Autónoma de Madrid) is a Lecturer in the Department of
+
+Social Sciences at the Universidad Carlos III de Madrid. Currently, he works in the field of Political Behaviour, focusing on young people’s relationship with politics, the development of political attitudes, and the formation of political generations. He has participated in several edited volumes and is currently working on a monograph about his doctoral research.

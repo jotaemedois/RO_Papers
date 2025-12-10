@@ -1,0 +1,1113 @@
+1
+
+Partisan sentiments and political trust: a longitudinal study of Spain
+
+Mariano Torcal1*
+
+and
+
+Emily Carty2
+
+1 Universitat Pompeu Fabra, Department of Social Sciences, Spain ICREA Scholar, Director of RECSM Barcelona ORCID: https://orcid.org/0000-0002-0060-1522 mariano.torcal@upf.edu
+
+2 Área de Ciencia Política, Universidad de Salamanca, Salamanca, Spain ORCID: https://orcid.org/0000-0002-1017-4456 Emily.carty@usal.es
+
+* Correspondence: Mariano Torcal
+
+mariano.torcal@upf.edu
+
+2
+
+Abstract
+
+This article seeks to gain a deeper understanding on the relationship between polarisation and
+
+political trust in multiparty systems by examining the effect of different indicators of
+
+affective and ideological polarisation on the within-individual variation of political trust over
+
+time. Using unique data collected from two separate online survey panels in Spain, our
+
+findings show that in multiparty contexts it is important to use two different measures of
+
+affective polarisation, as they have two distinct effects on political trust. While in-group
+
+affective polarisation tends to increase political trust, out-group polarisation has a negative
+
+impact on within-individual levels of trust in all democratic institutions. The latter effect is
+
+much stronger, providing an explanation of the overall decline in political trust.
+
+Keywords
+
+Affective polarisation, Group identity, Party identification, Ideological extremism, Perceived
+
+ideological polarisation, Spain
+
+3
+
+Trust in the institutions of representation, the legal system and main political actors
+
+seems to be declining in many contemporary democracies. In explaining this phenomenon,
+
+recent academic work has often emphasised the effect of “performance” evaluations,
+
+adopting a “trust-as-evaluation” approach, according to which people trust institutions more
+
+or less based on rational calculations of the perceived trustworthiness of each institution in
+
+relation to its benchmarks (Van der Meer & Hakhverdian 2017). However, an important
+
+aspect that has not been addressed is the effect of affective politics – and the inter-partisan
+
+group conflict it generates – on this decline in political trust. Despite the burgeoning
+
+literature, we still know relatively little about this topic, especially on the political
+
+consequences of affective polarisation (Iyengar et al. 2019, p. 139). Only a limited number of
+
+studies have made some general assessments about its impact on the quality of democracy
+
+(McCoy & Somer 2019, pp. 258-60; Somer, McCoy & Luke 2021, pp. 932-4), and how it
+
+might undermine certain democratic norms (Graham & Svolik 2020; Kingzette et al. 2021).
+
+Our knowledge is much more limited on how affective polarisation might affect other
+
+important democratic attitudes such as political trust. The most significant attempt to address
+
+this topic is the ‘polarisation of political trust’ hypothesis (Hetherington & Rudolph 2015)
+
+which has become a central part of the academic debate on explaining individual-level trust
+
+in the government but has only been explored in the context of the United States. According
+
+to this theory, political trust in the government varies depending on individual partisanship
+
+which conditions how people look at and evaluate its performance, and that the overall
+
+decline observed in trust can be attributed to increasing levels of affective confrontation
+
+between the two main parties.
+
+While enlightening for the US case, this contribution presents some significant
+
+limitations in its ability to travel to other contexts, particularly to multiparty systems.
+
+Affective polarisation in the US is shaped by the dynamics of a two-party system (Harteveld
+
+4
+
+2019, p. 3), making it very difficult to disentangle the effects of in-group polarisation from
+
+out-group polarisation, as they are inverse concepts in this context (Theiss-Morse, Barton &
+
+Wagner 2015, pp. 175-177). In the US, partisan identification produces rivalry between the
+
+two groups (Miller & Conover 2015), strengthening the antipodal relationship between in group and out-group sentiments. This is not the case in multiparty systems. In these settings,
+
+self-identification with a single party will often be smaller if multiple parties exist that are
+
+ideologically close, affecting the level of partisan affective polarisation (Harteveld 2019).
+
+Additionally, in many countries, party identification is lower in general, and, although
+
+affective polarisation and partisanship might still be related (Wagner 2021), the effect of
+
+positive in-group and negative out-group sentiments on political trust might be present
+
+regardless of the levels of pure or instrumental partisanship (Huddy, Bankert & Davies 2018).
+
+This is an important aspect to consider especially in systems with low levels of instrumental
+
+partisanship and party system instability with high electoral volatility. Finally, most work on
+
+this topic has focussed on the government as the object of trust (for an exception see, Theiss Morse, Barton & Wagner 2015, pp. 174-175), however the evaluation of ‘the government’ is
+
+strongly related with opinions regarding the incumbent and party competition (Cinar & Ugur Cinar 2018). Thus, we are likely to overestimate the importance of the effect of ‘partisan
+
+affect’ on political trust based solely on this political object. Therefore, there are still many
+
+questions about this topic that require more detailed comparative research. Does this
+
+phenomenon occur in multiparty settings? Does affective polarisation have the same effect on
+
+other objects of political trust? Does in-group polarisation have the same effect as out-group
+
+polarisation on political trust? Are these effects also present in contexts of low party
+
+identification and increasing levels of party supply volatility?
+
+In this article we argue that affective polarisation has a clear and strong impact on
+
+individual-level variation in political trust over time, but that in multiparty systems the
+
+5
+
+direction of this effect is different depending on if polarisation stems from positive in-group
+
+or negative out-group sentiments. In the case of the US, in-group affective polarisation
+
+produced by positive in-group sentiments among members of the same political group
+
+increases trust in the main institutions of democracy whereas out-group affective polarisation,
+
+or negative sentiments toward voters and leaders of other political groups, decreases political
+
+trust (Theiss-Morse, Barton & Wagner 2015). In the analyses to follow, however, we find
+
+that in the multiparty setting of Spain, the negative effect of out-group affective polarisation
+
+is substantially stronger than the positive effect of in-group affective polarisation, resulting in
+
+an overall reduction of political trust. We find this to be true for all institutions at the national
+
+and subnational levels, and that this tendency seems to hold regardless of the ideological
+
+position of the parties that might cause polarisation, not just for right-wing populist parties
+
+(Muis, Brils & Gaidytè 2021). As we will show, the effects of polarisation on political trust
+
+seem to be the same in two different periods, one characterised by the emergence of a radical
+
+left-wing populist party and the other by the emergence of a radical right-wing party. These
+
+findings contribute to a better understanding of the effect of partisan affective polarisation on
+
+political trust in multiparty settings.
+
+In the following pages we test this argument using two original survey panel datasets.
+
+One is the CIUPANEL dataset (Torcal, Martini & Serani 2016) which was collected between
+
+2014 and 2015, coinciding with a period of increasing polarisation and the emergence of the
+
+radical left-wing party, Podemos (We can). The second survey panel, E-DEM, was conducted
+
+between October 2018 and May 2019 (Torcal et al. 2020). This period coincides with an
+
+increase in affective polarisation attributed to certain events in contemporary Spanish politics,
+
+including two elections and the increase in support for the extreme right-wing party Vox. This
+
+dataset includes various individual-level measures of affective and ideological polarisation and
+
+political trust repeated across multiple waves.
+
+6
+
+The Polarisation of Political Trust
+
+Conceptually, political trust is an “indicator of support” (Zmerli, Newton & Montero
+
+2007, p. 41) “concerned with the political institutions that link overarching democratic
+
+principles to everyday actors and policies” (Van der Meer & Zmerli 2017, p. 4; see also
+
+Newton & Norris 2000, p. 53). The study of this concept has gained momentum during the
+
+last decade due to the fact that trust in the basic institutions of democratic representation and
+
+aggregation of interests seems to be declining in many contemporary democracies (Torcal
+
+2017; Van der Meer & Zmerli 2017).
+
+Scholars have recently emphasised the role of performance evaluations in explaining
+
+political trust, in what has become known as the “trust-as-evaluation” approach (Van der
+
+Meer & Hakhverdian 2017). From this perspective, attention is directed towards aspects
+
+related to the output side of the political system – that is it, whether the (democratic)
+
+government is effective and performs well, ensuring wealth and affluence (Martini &
+
+Quaranta 2020; Rothstein 2009). Economic stewardship and its social consequences are
+
+typically identified as a leading cause of trust: when citizens are dissatisfied with economic
+
+performance, distrust of government ensues, whereas the reverse effect is produced when
+
+economic prosperity abounds (Citrin & Luks 2001; Kumlin 2004; Listhaug 2006; Rothstein
+
+2003). Some authors have also attributed this process to welfare state retrenchment (Alesina
+
+& Wacziarg 2000; Kumlin & Haugsgjerd 2017). Finally, in line with this, recent studies have
+
+shown that fluctuations in economic performance affect levels of political trust over time
+
+(Dotti Sani & Magistro 2016; Ruelens, Meuleman & Nicaise 2018;; Van Erkel & Van der
+
+Meer 2016).
+
+7
+
+Alternatively, although following the same understanding of what explains political
+
+trust, several studies argue that political institutions are increasingly unresponsive to citizens’
+
+demands (Hakhverdian & Mayne 2012; Harteveld, Van de Meer & de Vries 2013; Norris
+
+2011) and that the decrease in political trust is a symptom of perceived deficits in the
+
+functioning of the political process (Pharr 2000). Some have argued that this decline could be
+
+due to a lack of “institutional fairness”, measured either by subjective perceptions or
+
+objective indicators (Grimes 2006; Hakhverdian & Mayne 2012; Kumlin 2004; Linde 2012;
+
+Persson, Parker & Widmalm 2017; Van der Meer & Hakhverdian 2017). Others maintain that
+
+it has more to do with perceptions regarding the lack of political responsiveness, which can
+
+be defined as the short-term tension between what people want and what they receive from
+
+political parties and leaders in terms of policies and policy outputs (Linde & Peters 2020, p.
+
+291; see also Torcal 2014). Finally, another factor considered by the comparative literature
+
+on the evolution of political trust-as-evaluation is the negative effect of political corruption
+
+(Chang 2013;; Hakhverdian & Quinton 2012; Harring 2013; Uslaner 2017, Wang 2016).
+
+Nevertheless, and despite the relevance of these contributions, one cannot consider political
+
+trust as only the product of rational merit-based evaluations citizens have of these objects of
+
+trust (Harteveld, Van de Meer & de Vries 2013). While it has not been extensively explored,
+
+some studies suggest that these evaluations may be conditioned by ideological or party
+
+preferences (Jones 2015). Scholarship has shown, for example, that the gap between winners
+
+and losers (based on party preferences and election results) can make a difference in the
+
+levels of satisfaction with democratic functioning and even political trust (Anderson et al.
+
+2005; Singh 2013; Theiss-Morse, Barton & Wagner 2015), however it remains unclear the
+
+extent to which holding polarised partisan positions matters for political trust.
+
+In that respect, an important aspect that has not been fully addressed is the effect of
+
+affective politics—and the inter-partisan group conflict it generates—on declining political
+
+8
+
+trust. Increasing partisan polarisation and the party dynamics that it generates can affect
+
+political trust through different mechanisms. First, as it has been pointed out, an important
+
+part of radical actors’ tactics is to attack representative institutions which, in turn, affects their
+
+supporters’ attitudes. Most comparative literature has attributed these uncivil discourses to
+
+ideologically radical parties and, more concretely, to those with populist discourses and
+
+strategies (Mauk 2020). These parties are characterised by their tendency to unite criticisms
+
+of established democratic procedures and institutions with critiques of political elites
+
+(Galston 2018), accusing them of not caring about the common people, being unresponsive
+
+and unaccountable to ordinary people’s demands, and of being incompetent (Mudde 2004;
+
+Sheets, Bos & Boomgaarden 2016; Somer 2019; Tworzecki 2019). These populist messages
+
+are bound to undermine citizens’ trust in the political system, as perceptions of
+
+responsiveness, accountability, and competence are core components of trust in institutions of
+
+representation (Muis, Brils & Gaidytè 2021).
+
+However, there is reason to believe that the detrimental effects of partisan affective
+
+polarisation should not only be attributed to populist or extremist parties. Not only are many
+
+dynamics that turn polarisation pernicious built-in and hard to control for the very political
+
+actors that initiate it, but more importantly, it is not always clear how other political actors
+
+can respond to polarising parties “constructively” without getting into reactive polarizing
+
+strategies (Klein 2020, pp.40-44; McCoy & Somer 2019, p. 257, Somer, McCoy & Luke
+
+2021, pp. 936-7). As these authors claim, if politicians abstain from counter-polarisation, for
+
+instance by not vilifying extreme radical parties, they may be seen as accepting and thus
+
+legitimising the parties’ unscrupulous tactics and even the violation of accepted democratic
+
+norms. This causes the other parties in the political system to implement their own polarising
+
+tactics and malign their opponents, contributing to greater perceptions of polarisation than the
+
+policy differences among parties actually warrant, and accelerating democratic erosion
+
+9
+
+(Somer 2019, p. 57; Vegetti 2019, p. 88-9). This dynamic seems to be most visible on social
+
+media (Klein 2020, pp. 158 ff.); studies have shown, for example, that a high percentage of
+
+tweets seem to contain very uncivil messages (Theocharis et al. 2020). Consequently, these
+
+dynamics of party competition may produce declining evaluations of political institutions,
+
+leading to the deterioration of trust in representative institutions and their main actors (parties
+
+and politicians).
+
+This erosion of citizens’ trust in their institutions and actors of representation could be
+
+attributed to more factors beyond the uncivil messages adopted by political parties. Affective
+
+polarisation increases zero-sum perceptions of the public space, reducing willingness to
+
+cooperate and compromise in seeking solutions to shared predicaments. This produces
+
+problems of governance: either gridlock—the inability to make and implement effective
+
+policy decisions—or the unilateral imposition of policies by the majority on the minority
+
+(Klein 2020, pp. 131-2; McCoy & Somer 2019, pp. 257-258). Additionally, these situations
+
+might be exacerbated by aggressive discourses and behaviours adopted by most parties in an
+
+attempt to delegitimise their opponents, leading voters to discount substantive information,
+
+and to develop more confidence in “less substantively grounded opinions” (Druckman,
+
+Peterson & Slothuss 2013, p. 73) causing them to choose their own party’s positions over
+
+liberal democratic principles (Graham & Svolik 2020; Kingzette et al. 2021; Mauk 2020;
+
+Svolik 2020). Therefore, these dynamics decrease evaluations of political institutions,
+
+deteriorating trust in representative institutions and their main actors (parties and politicians).
+
+However, in this context we need to take into consideration how in-group and out group polarisation may have different effects on trust, especially in multiparty systems where
+
+polarisation due to out-group sentiments are not the exact mirror of in-group sentiments. In group polarisation might contribute to the increase of political trust among those having
+
+positive feelings towards that particular partisan group, especially if that party is gaining
+
+10
+
+more support and more power in those institutions. This is precisely the logic used by
+
+scholars who argue that the negative effects on political trust disappear or reverse when
+
+populist or illiberal parties are in the government (Park 2017; Rivetti & Cavatorta 2017).
+
+When those parties obtain an important number of seats in parliament or even control
+
+institutions, their supporters may come to trust institutions more and stop questioning the
+
+decisions and outcomes they produce, contributing positively to overall political trust (for a
+
+recent counter-argument see; Muis, Brils & Gaidytè 2021). However, affective polarisation
+
+leads to a greater questioning of the moral legitimacy of out-group political leaders and
+
+voters. As Iyengar, Sood and Lelkes (2012, p. 428) note, those who impugn the motives and
+
+character of political opponents are less likely to treat as legitimate the decisions and policies
+
+enacted when those opponents control the government and may also be less satisfied with
+
+representative institutions.
+
+Based on the preceding discussion, we put forth the two following hypotheses:
+
+H1. As in-group partisan affective polarisation increases over time, political trust should
+
+increase.
+
+H2. As out-group partisan affective polarisation increases over time, political trust should
+
+decrease.
+
+Data and the Model
+
+Our data come from two different online survey panels. The first is the CIUPANEL
+
+(Torcal, Martini & Serani 2016) consisting of a total of 3,686 respondents recruited from a
+
+sample of adult citizens who completed six waves of an online panel conducted during 2014
+
+and 2015.1 Unfortunately, we could only use two of the waves (third and fifth) given the
+
+11
+
+variables needed for this analysis. The second online survey panel is the E-DEM (Torcal et al.
+
+2020), which includes 1,484 respondents selected from the Spanish voting-age population who
+
+completed all four waves between October 2018 and May 2019 (for information on these two
+
+survey panels, see Tables 1A to 4A in sections A of the Online Appendix).
+
+About Political Trust
+
+Political trust is defined by a specific “set of objects (political institutions and actors)
+
+and is both relational (having a subject and an object) and situational (characterized by a
+
+degree of uncertainty about the object’s future actions)” (Van der Meer & Zmerli 2017, p. 4).
+
+Both survey panel datasets used here contain repeated individual-level information on a set of
+
+indicators of trust in different institutions and political actors in Spain at the national and
+
+regional levels (for wording and scales see sections B of the Online Appendix). Table 1
+
+contains the average within-individual changes in political trust for various institutions across
+
+the waves during the two different time periods under study. Although the figures are not
+
+directly comparable across the survey panels due to slightly different ranges of the indicators,
+
+we can observe that during the first period between 2014-5 there is a decrease in political
+
+trust, but during the second (2018-9) there is a small but positive increase in political trust for
+
+all institutions over the duration of the survey panel. Observing the changes between each
+
+wave during this second period, the largest increase occurred between the first and second
+
+wave (October 2018 to February 2019). This was the period of greatest electoral growth of
+
+the radical right-wing party Vox and the highest aggregate increase in levels of affective
+
+polarisation (Torcal & Comellas 2022).
+
+(Table 1)
+
+12
+
+Measures of polarisation
+
+To measure affective polarisation we have used sentiments towards voters and party
+
+leaders according to Wagner’s formula (2021, pp. 4-5). Additionally, we use an indicator of
+
+territorial affective polarisation in order to control for this orthogonal conflict that has been so
+
+relevant in Spanish politics during the last years. By including this measure, we can test
+
+whether this conflict contributes to the evolution of political trust in different institutions at
+
+different levels of government, as has been argued in recent work on Spanish politics (Orriols
+
+& León 2020, pp. 370-2) (see section B of the Online Appendix).
+
+As has been discussed in the literature, there could be two other types of polarisation
+
+that may cause individuals to adopt more extreme attitudes (Ward & Tavits 2019). As such,
+
+we include an additional two measures of polarisation in the models: the individual perceived
+
+party system polarisation (Alvarez & Nagler 2004, p. 50; Ezrow 2007, p. 186); and an
+
+individual-level measure of ideological extremism measured as the distance between each
+
+respondent’s left–right self-placement and some central position (Weldon & Dalton 2014),
+
+which in our case is the average ideological position of our sample (see section B of the
+
+Online Appendix).
+
+How much individual-level variation can be observed in the different measures of
+
+polarisation over time? Table 2 displays the longitudinal information for different indicators
+
+of polarisation during the two time periods under study. During the first, there is a substantive
+
+decrease in in-group polarisation, where the rest of the indicators seem to be relatively stable.
+
+In general, we can say that the average change in individual-level affective polarisation
+
+during these time periods has been small but varies depending on the type of polarisation.
+
+13
+
+(Table 2)
+
+The model
+
+To test our hypotheses, we estimate a longitudinal model with two-way fixed effects
+
+(individual and time/waves). This model will allow us to test the effects of within-individual
+
+variation of in-group and out-group partisan affective polarisation, territorial polarisation, and
+
+the two measures of ideological polarisation on political trust. Additionally, in our models
+
+we estimate the effects of the within-individual variation of two variables that have long been
+
+used to explain political trust: evaluation of the country’s economic situation and perceptions
+
+of corruption. To test the potential effects of changes in one’s economic and social
+
+situations, we include in the model individual variation on an index of economic uncertainty
+
+and subjective well-being. Finally, we add other control variables such as political interest,
+
+social trust, and positions on some salient political and social issues in Spain (see section B of
+
+the Online Appendix).
+
+Thus, the model we estimate is the following:
+
+𝑌𝑖𝑡= 𝛼𝑖𝑜+ 𝛽𝑖𝜏𝑖+ 𝛽𝑡𝛾𝑡+ 𝜇𝑖+ 𝜀𝑖𝑡
+
+where 𝜏𝑖 is a vector of individual fixed effects (𝑥̅it-xi): in-group and out-group affective
+
+polarisation, perceived ideological polarisation, ideological extremism, territorial polarisation
+
+(only for the second time frame), political interest, economic evaluation, corruption
+
+evaluation, government evaluation (only for the first time frame), issue positions on
+
+decentralisation, public services, abortion wealth distribution and immigration (only for the
+
+second time frame), and personal economic uncertainty index. 𝛾𝑡 is a vector of time/wave
+
+14
+
+dummies (waves 3 and 5). 𝜇𝑖 are the model’s (homogeneous) random effects for individuals
+
+i, which are assumed to be normally distributed and 𝜀𝑖𝑡 are the model’s (homoscedastic)
+
+individual-level residuals, which are also assumed to be normally distributed.
+
+Results: the systematic negative effects of out-group polarisation
+
+Table 3 displays the results of a longitudinal OLS model with two-way fixed effects
+
+(individual and time/wave) based on the survey panel data for the period 2014-5 (two waves).
+
+In this table we can observe the consistency of two important factors in explaining individual
+
+variation of political trust: government evaluation and, more importantly, the consistent
+
+negative effect of out-group partisan polarisation based on sentiments towards voters of
+
+different parties (H2). However, the positive individual fixed effect of in-group polarisation
+
+on political trust (H1) is not only substantially weaker, but it is also inconsistent depending on
+
+the type of institutions (it is not significant, for example, for trust in politicians). Based on
+
+these results, we can initially posit that the polarisation based on out-group dislike seems to
+
+be consistently deteriorating political trust, a process that it is hardly compensated by the
+
+benefits of in-group like.
+
+To confirm these findings, we have repeated the same analysis for the survey panel
+
+covering the 2018-9 period (three waves), during which polarisation was generated by the
+
+emergence of a right-wing party (Vox) and political trust was already very deteriorated (see
+
+Torcal 2021). For the estimation of these models, we have an additional dependent variable:
+
+trust in the regional government. In the data for first period under study (2014-2015), we do
+
+not have the indicators on issue positions nor an indicator of territorial affective polarisation
+
+(see below). As such, for the models for those years we substituted these indicators with
+
+15
+
+government evaluation, as they tend to be highly correlated (for a detailed description on the
+
+wording and summary statistics of each indicator see section B of the online Appendix).
+
+Based on the results of the estimation of these models displayed in Tables 3 and 4, we
+
+can conclude that there are four fundamental and consistent drivers of the within-individual
+
+variation of political trust for all institutions: evaluation of the economic situation, evaluation
+
+of political corruption, and in-group and out-group partisan affective polarisation based on
+
+feelings toward leaders. Although it is not consistent for all institutions, results also confirm
+
+previous findings that stress the positive relationship between economic performance and
+
+political trust (Dotti Sani & Magistro 2016; Van Erkel & Van der Meer 2016), with this
+
+effect mostly due to sociotropic evaluations and not so much to change in an individual’s
+
+economic and social conditions (reflected in the null effect of the individual index of
+
+economic security and well-being evaluation). The effect of perceptions regarding the level
+
+of corruption on trust is positive and significant for the second time period (2018-9) showing
+
+that the higher an individual’s perceptions of corruption, the greater the change in their levels
+
+of political trust. This effect of corruption in the second period is likely due to greater
+
+visibility in the public sphere of corruption scandals that dramatically affected political trust
+
+(Torcal & Christmann 2021, p. 4 and p. 7), and confirms once again the importance of the
+
+perception of corruption for explaining political trust (Della Porta 2000; Uslaner 2017).
+
+However, what is more important for our argument is that these findings confirm that out group partisan affective polarisation based on sentiments towards party leaders presents a
+
+larger negative impact on the within- variation of political trust, confirming H2, as well as the
+
+reduced and inconsistent positive effects of in-group partisan polarisation (H1).
+
+(Tables 3 and 4)
+
+16
+
+Additionally, it should be noted that ideological polarisation does not have a
+
+consistent effect on the within-individual variation of political trust across different
+
+institutions. This is also the case with ideological extremism, the effect for which is only
+
+observed for trust in politicians and the regional government during the second time period.
+
+In the same vein, it is also important to highlight that the variations in an individual’s
+
+positions on the most salient issues at the moment have almost no effect on political trust.
+
+Finally, in these results we find that territorial affective polarisation (only included in the
+
+models for the period 2018-9) has limited effects (positive for regional governments and
+
+small negative effects on trust in politicians) on political trust. Thus, out of all the
+
+polarisation measures, only out-group partisan affective polarisation seems to have a
+
+significant and consistent negative effect on political trust and the slight increase produced by
+
+the positive effect of in-group partisan polarisation hardly compensates for its effect, a
+
+finding very much in line with previous studies’ results regarding the negative effects of out group dislike (Lehr, Ferreira & Banaji 2019).
+
+However, as it has been discussed in some literature on the US (Druckman &
+
+Levendusky 2019), on average, people dislike leaders more than voters (see also Bolsen &
+
+Thornton 2021); and a more recent comparative study (Kingzette 2021) has shown that
+
+sentiments towards leaders and parties result in an over-estimation of affective polarisation.
+
+Given this, for the period of 2018-9 we re-estimate the same model using in-group and out group partisan polarisation measured by feeling thermometer ratings towards the voters of
+
+different parties instead of the parties as organizations or their leaders. As observed in Table
+
+5, the results are consistent and practically reproduce those in Table 4 with one difference:
+
+17
+
+the positive effects of in-group partisan polarisation on political trust are even weaker than
+
+the ones previously observed based on sentiments towards leaders.
+
+(Table 5)
+
+Robustness check: Estimating a REWB model
+
+FE models are based on the assumption that the within- effects are constant regardless
+
+of the wave (time context) (Bell & Jones 2014, p. 137). In our case, this would assume that
+
+changes observed for the within- effect of polarisation on political trust is the same as the
+
+cross-sectional effect (being equally polarised on average, over the course of the period under
+
+observation). This is a problematic assumption for this analysis given the importance of
+
+some of the political events that happened in Spain during the time period under study. For
+
+instance, it seems that the aggregate levels of polarisation during this time increased as a
+
+result of escalating political disputes, which may have conditioned the effect of individual
+
+variation in polarisation on political trust in different ways. This problem is evident if there is
+
+high correlation between some independent variable in the model and the context (time)
+
+variance, proving that Cov Xij, µj ≠0 and, thus, resulting in a ‘heterogeneity bias’ (Bell &
+
+Jones 2014, pp. 138-9).
+
+To resolve this issue, we include the wave averages of the most relevant variables in
+
+the model to estimate the between-wave variation. In doing so, we obtain two types of
+
+parameters for each variable: one for the within-individual variation (which is exactly the
+
+same as the fixed effects); and another for the between-wave variation (time or aggregate
+
+average effects).
+
+Additionally, OLS fixed effects models do not allow us to test the effect of time
+
+invariant variables (in our case we have only an initial time measure of political
+
+18
+
+receptiveness), or variables with very little variance over time (such as party identification)
+
+(Bell & Jones 2014, pp. 140-1). This allows us to include as controls partisan identification
+
+with the two radical parties in the Spanish system, Unidas Podemos (United We Can) and the
+
+right-wing party Vox, resulting in a more demanding model to test our main two hypotheses.
+
+With that in mind we opt to estimate a longitudinal OLS Random Effects Within and
+
+Between (REWB) model with panel data (Bell Fairbrother & Jones 2018, p. 1052). These
+
+models offer a solution for the ‘heterogeneity bias’ by allowing the inclusion of the fixed
+
+effects (within) and the between-wave effects (time averages at the aggregate levels),
+
+resulting in more robust and less biased estimators than those obtained with fixed effects
+
+models (Bell & Jones 2014, pp. 143-4; Bell Fairbrother & Jones 2018, pp. 1059-60). In other
+
+words, REWB models can estimate fixed effects and time aggregate average effects, resulting
+
+in more robust and unbiased estimators than those obtained with FE models (Bell & Jones
+
+2014, p. 143-4; Bell, Fairbrother & Jones 2018, pp. 1059-60).
+
+Thus we estimate the following REWB model:
+
+𝑌𝑖𝑡= 𝛼𝑖𝑜+ 𝛽1𝑖𝜏𝑖+ 𝛽𝑡𝛾̅𝑡+ 𝛽2𝑖𝑍𝑖 + 𝜇𝑖+ 𝜀𝑖𝑡
+
+where 𝜏𝑖 is a vector of individual fixed effects (𝑥̅it-xi): in-group and out-group affective
+
+polarisation, perceived ideological polarisation, ideological extremism, territorial
+
+polarisation, political interest, economic evaluation, corruption evaluation, government
+
+evaluation, issue positioning, and personal economic uncertainty index). 𝛾̅𝑡 is a vector of 𝑥̅it
+
+for the polarisation variables. 𝑍𝑖 is the vector of the time invariant variables included:
+
+Podemos PID and Vox PID.
+
+In Table 6 we display the results of the REWB models (with partisan affective
+
+polarisation measured by sentiments towards voters as the dependent variable). These results
+
+19
+
+give us unbiased estimates that show even stronger effects of partisan affective out-group
+
+(negative) polarisation on political trust than in the previous FE models, again confirming H2.
+
+These models show only some variations regarding our argument. There are stronger and
+
+more consistent positive effects of in-group polarisation (H1) although always weaker than
+
+the negative effects of out-group polarisation, except for political parties, politicians and
+
+government. These results also reveal that the polarisation produced by the conflict around
+
+territorial identities has an overall negative effect on individual-level trust in all institutions
+
+except for the courts, showing that polarisation caused by other non-partisan identities could
+
+have a negative effect on political trust once those identities are politicised. Additionally, it
+
+seems that identification with the radical right-wing party, Vox, significantly decreases the
+
+individual levels of political trust in institutions of democratic representation, even after
+
+controlling for the effects of other relevant variables. This finding is also present for Unidas
+
+Podemos, although only for trust in the regional governments and courts.
+
+(Table 6)
+
+Finally, in the preceding analyses we could not include the observations from the
+
+fourth wave of the E-DEM panel, since that wave did not include sufficient information to
+
+compute the ideological polarisation indices. To check the robustness of the preceding
+
+results, we have estimated the same FE models from Tables 4 and 5 but with the ideological
+
+variables dropped, which allows us to include the fourth wave in our longitudinal model. The
+
+results in Tables 5A and 6A in the online Appendix show that we get the same results with
+
+the increase in the number of observations after including the fourth wave and the two
+
+ideological polarisation indices dropped from the models. The results appear to be very
+
+robust despite these modifications in our models and the inclusion of the additional
+
+20
+
+observations. We also ran an ancillary analysis using a first difference regression model, the
+
+results of which are almost identical (Table 7A in online Appendix).
+
+Conclusions and implications
+
+In the preceding pages we have shown that, in addition to the traditional factors in
+
+explaining political trust related to the concept of trust-as-evaluation, partisan affective
+
+polarisation might be a key factor in explaining the recent decline in political trust. In our
+
+analyses we find that affective polarisation has divergent effects: in-group polarisation tends
+
+to increase trust while out-group polarisation diminishes it. Although these are opposing
+
+effects, our results show that the negative effect of out-group polarisation is much stronger,
+
+explaining the overall negative effect of affective polarisation on political trust. We find
+
+these effects to be consistent for all types of institutions and levels of government (with the
+
+exception of politicians, political parties and government in the REBW models), and
+
+regardless of the political context and parties causing polarisation. Additionally, the effect of
+
+ideological polarisation is small or null. These results seem to be solid and robust after
+
+controlling for variations in individual positions on important issues in the Spanish politics
+
+during this time and even after taking into consideration party identification with the most
+
+extremist parties.
+
+Although our findings are limited in that the data comes from a case study
+
+characterised by very low levels of trust and covers a very limited period of time, the findings
+
+of this article help to shed light on the relationship between affective polarisation and
+
+political trust in representative democracies. Our findings clearly demonstrate that in order to
+
+understand the effect of affective polarisation on trust in multiparty systems, it is imperative
+
+to have a more nuanced conceptualisation and corresponding operationalisation of affective
+
+21
+
+polarisation, as our analyses show that in-group and out-group partisan affective polarisation
+
+have different effects. It seems that increasing levels of out-group affective polarisation could
+
+be one of the main drivers in the deterioration of political trust, and that effect is not offset by
+
+the positive effect of in-group polarisation. Additionally, those effects seem to be consistent
+
+across different ideologies of the parties responsible for polarisation and political contexts.
+
+These finding are especially concerning given the confrontational nature of this type of
+
+polarisation, particularly in those democratic settings, like Spain, that seem to be in a scenario
+
+of increasing affective politics as opposed to other more ‘rational’ elements on which to base
+
+political debate, such as policy alternatives and their evaluation.
+
+Our findings help to better understand the nuances of the micro- foundations of the
+
+effects of populist and/or illiberal leaders on political trust (Mauk 2020; Muis, Brils &
+
+Gaidytè 2021; Somer 2019; Svolik 2020;), at least before such parties obtain political power
+
+(Tworzecki 2019). We have confirmed that affective polarisation has the potential to be one
+
+of the ills of democratic functioning (MacKuen et al. 2010; McCoy & Somer 2019; McCoy,
+
+Rahman & Somer 2018), by fostering mistrust towards the main institutions and actors of
+
+political representation, thereby increasing the chances of democratic backsliding by populist
+
+and more radical options of the party supply (Levitsky & Ziblatt 2018; McCoy, Rahman &
+
+Somer 2018; Svolik 2019).
+
+Additionally, these findings imply that political trust might become more volatile in
+
+response to the dynamics of party competition and incumbent popularity, especially in
+
+contexts of high affective polarisation (Theiss-Morse, Barton & Wagner 2015, p. 185). As a
+
+result, citizens’ political trust might be more dependent upon the increasing affective
+
+polarisation promoted by party competition and elite behaviour (McCoy, Rahman & Somer
+
+2018) diminishing the capacity of trust to become the ‘safety net’ in times of political
+
+instability or bad performance.
+
+22
+
+While our results may seem to paint a rather grim picture, there is a possible silver
+
+lining in the opposing effects of in-group and out-group polarisation on trust. Although the
+
+negative effects of out-group polarisation outweigh the positive effect of in-group
+
+polarisation in the contemporary Spanish context, there may be some cases in which the
+
+effect of in-group polarisation is stronger and thereby generates a net increase in political
+
+trust. Further research is needed to determine if that situation is possible and, if so, under
+
+what circumstances.
+
+23
+
+References Abramowitz, A. I. (2010) The Disappearing Center, Yale University Press, New Haven. Abramowitz, A. I. & Saunders, K. L. (2008) ‘Is polarization a myth?’, Journal of Politics, vol. 70, no. 2, pp. 542–55. Alesina, A. & Wacziarg, R. (2000) ‘The economics of civic trust in disaffected democracies’, in Disaffected Democracies. What’s Troubling the Trilateral Countries?, eds. S. J. Pharr & R. D. Putnam, Princeton University Press, Princeton, pp. 147-170. Alvarez, R. M. & Nagler, J. (2004) ‘Party system compactness: Measurement and consequences’, Political Analysis, vol. 12, no. 1, pp. 46–62. Anderson, C. J., Blais, A., Bowler, S., Donovan, T. & Listhaug, O. (2005) Losers´Consent. Elections and Democratic Legitimacy, Oxford University Press, Oxford. Baldassarri, D. & Gelman, A. (2008) ‘Partisans without constraint: Political polarization and trends in American public opinion’, American Journal of Sociology, vol. 114, no. 2, pp. 408446. Bell, A., Fairbrother, M. & Jones, K. (2018) ‘Fixed and random effects models: making an informed choice’, Quality & Quantity, vol. 53, no. 2, pp. 1051-1074. Bell, A., & Jones, K. (2014) ‘Explaining fixed effects: random effects modelling of timeseries cross-sectional and panel data’, Political Science Research and Methods, vol. 3, no. 1, pp. 133-153. Bolsen, T. & Thornton, J. R. (2021) ‘Candidate and party affective polarization in U.S. presidential elections: The person-negativity bias?’ Electoral Studies, 71. doi:10.1016/j.electstud.2021.102293 Chang, E. C. (2013) ‘A comparative analysis of how corruption erodes institutional trust’, Taiwan Journal of Democracy, vol. 9, no. 1, pp. 73-92. Cinar, K. & Ugur-Cinar, M. (2018) ‘The effects of executive constraints on political trust’, Democratization, vol. 25, no. 8, pp. 1519-1538. Citrin, J. & Luks, S. (2001) ‘Political trust revisited: Déjà vu all over again? ’, in What Is It About Government that Americans Dislike?, eds. J.R. Hibbing & E. Theiss-Moore, Cambridge University Press, Cambridge, pp. 9-27. Della Porta, D. (2000) ‘Social capital, beliefs in government, and political corruption’, in Disaffected Democracies. What’s Troubling the Trilateral Countries?, eds. S. J. Pharr & R. D. Putnam, Princeton University Press, Princeton, pp. 202-228.
+
+24
+
+Dotti Sani, G. M. & Magistro, B. (2016) ‘Increasingly unequal? The economic crisis, social inequalities and trust in the European Parliament in 20 European countries’, European Journal of Political Research, vol. 55, no. 2, pp. 246-264. Druckman, J. N. & Levendusky, M. S. (2019) ‚What do we measure when we measure affective polarization?’, Public Opinion Quarterly, vol. 83, no. 1, pp. 114-122. Druckman, J. N., Peterson, E. & Slothuss, R. (2013) ‘How elite partisan polarization affects public opinion formation’, American Political Science Review, vol. 107, no. 1, pp. 57-79. Ezrow, L. (2007) ‘The variance matters: How party systems represent the preferences of voters’. Journal of Politics, vol. 69, no. 1, pp. 182–192. Galston, W. A. (2018) ‘The populist challenge to liberal democracy’, Journal of Democracy, vol. 29, no. 2, pp. 5–19. Graham, M. H. & Svolik, M. W. (2020) ‘Democracy in america? Partisanship, polarization, and the robustness of support for democracy in the United States’, American Political Science Review, vol. 114, no. 2, pp. 392-409. Grimes, M. (2006) ‘Organizing consent: the role of procedural fairness in political trust and compliance’, European Journal of Political Research, vol. 45, no. 2, pp. 285-315. Hakhverdian, A. & Mayne, Q. (2012). ‘Institutional trust, education, and corruption: a micromacro interactive approach’, The Journal of Politics, vol. 74, no. 3, pp. 739-750. Harring, N. (2013) ‘Understanding the effects of corruption and political trust on willingness to make economic sacrifices for environmental protection in a cross-national perspective’, Social Science Quaterly, vol. 94, no. 3, pp. 660-671. Harteveld, E. (2019) ‘Affective polarization and social sorting: a comparative study’, unpublished manuscript, University of Amsterdam. Available online at: http://www.eelcoharteveld.nl/wp-content/uploads/2019/11/Harteveld-Affective-polarizationand-social-sorting.pdf Harteveld, E., van der Meer, T. W.G. & de Vries, C.E. (2013) ‘In Europe we trust? Exploring three logics of trust in the European Union’, European Union Politics, vol. 14 no. 4, pp. 542565. Hetherington, M. J. & Rudolph, T. J. (2015) Why Washington Won’t Work. Polarization, Political Trust and The Governing Crisis, Chicago University Press, Chicago. Hetherington, M. J., Long, M. T. & Rudolph, T. J. (2016) ‘Revisiting the myth: new evidence of a polarized electorate’, Public Opinion Quarterly, vol. 80, no. S1, pp. 321-350. Hibbing, J. R. & Theiss-Morse, E. (2002) Stealth Democracy: Americans' Beliefs about How Government Should Work, Cambridge University Press, Cambridge. Huddy, L., Bankert, A. & Davies, C. (2018) ‘Expressive versus instrumental partisanship in multiparty European systems’, Political Psychology, vol. 39, pp. 173-199.
+
+25
+
+Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N. & Westwood, S. J. (2019) ‘The origins and consequences of affective polarization in the United States’, Annual Review of Political Science, vol. 22, no. 1, pp. 129-146. Iyengar, S., Sood, G. & Lelkes, Y. (2012) ‘Affect, not ideology: a social identity perspective on polarization’, Public Opinion Quarterly, vol. 76, no. 3, pp. 405-431. Jones, D. R. (2015) ‘Partisan polarization and the effect of congressional performance evaluations on party brands and American elections’, Political Research Quarterly, vol. 68, no. 4, pp. 785-801. Keele, L. (2007) ‘Social capital and the dynamics of trust in government,’ American Journal of Political Science, vol. 51, no. 2, pp. 241-254. Kingzette, J. (2021) ‘Who Do You Loathe? Feelings toward Politicians vs. Ordinary People in the Opposing Party’ Journal of Experimental Political Science, vol. 8, no. 1, pp. 75-84. Kingzette, J., Druckman, J. N., Klar, S., Krupnikov, Y., Levendusky, M. & Ryan, J. B. (2021). ‘How affective polarization undermines support for democratic norms’, Public Opinion Quarterly, vol. 85, no. 2, pp. 663-677. Klein, E. (2020) Why We're Polarized, Simon and Schuster, New York. Kumlin, S. (2004) The Personal and The Political: How Personal Welfare State Experiences Affect Political Trust and Ideology, Palgrave Macmillan, New York. Kumlin, S. & Haugsgjerd, A. (2017) ‘The welfare state and political trust: bringing performance back in”, in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 418-439. Lehr, S. A., Ferreira, M. L. & Banaji, M. R. (2017) ‘When outgroup negativity trumps ingroup positivity: Fans of the Boston Red Sox and New York Yankees place greater value on rival losses than own-team gains’ Group Processes & Intergroup Relations, vol. 22, no. 1, pp. 26-42. Lelkes, Y. (2016) ‘Mass polarization: Manifestations and measurements’, Public Opinion Quarterly, vol. 80, no. S1, pp. 392-410. Levitsky, S. & Ziblatt, D. (2018) How Democracies Die, Crown Publishing Group, New York. Linde, J. (2012) ‘Why feed the hand that bites you? Perceptions of procedural fairness and system support in post-communist democracies’, European Journal of Political Research, vol. 51, no. 3, pp. 410-434. Linde, J. & Peters, Y. (2020) ‘Responsiveness, support, and responsibility: how democratic responsiveness facilitates responsible government’, Party Politics, vol. 26, no. 3, pp. 291304.
+
+26
+
+Listhaug, O. (2006). ‘Political disaffection and political performance. Norway, 1957-2001’, in Political Disaffection in Contemporary Democracies. Social Capital, Institutions, and Politics, eds. M. Torcal & J. R. Montero, Routledge, London, pp. 213-243. Lupu, N. (2015) ‘Party polarization and mass partisanship: a comparative perspective’, Political Behavior, vol. 37, no. 2, pp. 331-356. MacKuen, M., Wolak, J., Keele, L. & Marcus, G. E. (2010) ‘Civic engagements: resolute partisanship or reflective deliberation’, American Journal of Political Science, vol. 54, no. 2, pp. 440-458. Martini, S. & Quaranta, M. (2020) Citizens and Democracy in Europe: Contexts, Changes and Political Support, Palgrave Macmillan, Cham. Mauk, M. (2020) ‘Rebuilding trust in broken systems? Populist party success and citizens’ trust in democratic institutions’, Politics and Governance, vol. 8, no. 3, pp. 45-58. Mayne, Q. & Hakhverdian, A. (2017) ‘Education, socialization and political trust in Western and Southern Europe’, in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 176-196. McCoy, J. L., Rahman, T. & Somer, M. (2018) ‘Polarization and the global crisis of democracy: Common patterns, dynamics, and pernicious consequences for democratic polities’, American Behavioral Scientist, vol. 62, no. 1, pp. 16-42. McCoy, J. L. & Somer, M. (2019) ‘Toward a theory of pernicious polarization and how it harms democracies: comparative evidence and possible remedies’, The ANNALS of the American Academy of Political and Social Science, vol. 681, no. 1, pp. 234-271. Miller, P. R. & Conover, P. J. (2015) ‘Red and blue states of mind’, Political Research Quarterly, vol. 68 no. 2, pp. 225-239. Mudde, C. (2004) ‘The populist zeitgeist’, Government and Opposition, vol. 39, no. 4, pp. 541–563. Muis, J., Brils, T. & Gaidytė, T. (2021). ‘Arrived in power, and yet still disgruntled? How government inclusion moderates ‘protest voting’ for far-right populist parties in Europe, Government and Opposition, pp. 1-30. https://doi.org/10.1017/gov.2021.46 Newton, K. & Norris, P. (2000) ‘Confidence in public institutions. Faith, culture or performance?’, in Disaffected Democracies. What’s Troubling the Trilateral Countries?, eds. S. J. Pharr & R. D. Putnam, Princeton University Press, Princeton, pp. 52-73. Norris, P. (2011) Democratic Deficit. Critical Citizens Revisited, Cambridge University Press, Cambridge. Orr, L. V. & Huber, G. A. (2020) ‘The policy basis of measured partisan animosity in the United States’, American Journal of Political Science, vol. 64, no. 3, pp. 569-586.
+
+27
+
+Orriols, L. & León, S. (2020) ‘Looking for affective polarisation in Spain: PSOE and Podemos from conflict to coalition’ South European Society and Politics vol. 25, nos. 3-4, pp. 351-379. Park, C-M. (2017) ‘Political trust in the Asian-Pacific region’, in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 488-508. Persson, T., Parker, C. F. & Widmalm, S. (2017) ‘Social trust, impartial administration and public confidence in EU crisis management institutions’, Public Administration, vol. 95, no. 1, pp. 97-114. Pharr, S. J. (2000). ‘Officials’ Misconduct and Public Distrust: Japan and the Trilateral democracies’, in Disaffected Democracies. What’s Troubling the Trilateral Countries?, eds. S. J. Pharr & R. D. Putnam, Princeton University Press, Princeton, pp. 173-201. Rivetti, P. & Cavatorta, F. (2017) ‘Functions of political trust in authoritarian settings’, in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 53-68. Rothstein, B. (2003) ‘Social capital, economic growth and quality of government: The causal mechanism’, New Political Economy, vol. 8, no. 1, pp. 49-71. Rothstein, B. (2009). ‘Creating political legitimacy: Electoral democracy versus quality of government’, American behavioral scientist, vol. 53, no. 3, pp. 311-330. Ruelens, A., Meuleman, B. & Nicaise, I. (2018) ‘Examining macroeconomic determinants of trust in parliament: A dynamic multilevel framework’, Social Science Research, vol. 75, pp. 142-153. Sheets P., Bos, L. & Boomgaarden, H. G. (2016) ‘Media cues and citizen support for rightwing populist parties’, International Journal of Public Opinion Research, vol. 28, no. 3, pp. 307–330. Simón, P. (2020) ‘The multiple Spanish elections of April and May 2019: the impact of territorial and left-right polarisation’ South European Society and Politics, vol. 25, nos. 3-4, pp. 441-474. Singh, S. P. (2013) ‘Not all election winners are equal: Satisfaction with democracy and the nature of the vote’, European Journal of Political Research, vol. 53, no. 5, pp. 308-327. Somer, M. (2019) ‘Turkey: the slippery slope from reformist to revolutionary polarization and democratic breakdown’, The ANNALS of the American Academy of Political and Social Science, vol. 681, no. 1, pp. 42-61. Somer, M., McCoy J. L. & Luke, R.E. (2021). “Pernicious polarization, autocratization and opposition strategies”. Democratization, vol. 5, no. 5, pp. 929-948. Svolik, M. W. (2019) ‘Polarization versus Democracy’, Journal of Democracy, vol. 30, no. 3, pp. 20-32.
+
+28
+
+Svolik, M. (2020) ‘When polarization trumps civic virtue: partisan conflict and the subversion of democracy by incumbents’, Quarterly Journal of Political Science, vol. 15, no. 1, pp. 3-31. Theiss-Morse, E., Barton, D.-G. & Wagner, M. W. (2015) ‘Political trust in polarized times’, in Motivating Cooperation and Compliance with Authority, eds. B.H. Bornstein & A.J. Tomkins, Springer, Heildelberg, pp. 167-190. Theocharis, Y., Barberá, P., Fazekas, Z. & Popa, S. A. (2020) ‘The dynamics of political incivility on Twitter’, SAGE Open, vol. 10, no. 2, pp. 1-15. Thomassen, J. & Rosema, M. (2009) ‘Party identification revisited’ in Political Parties and Partisanship: Social Identity and Individual Attitudes, eds. J. Bartle & P. Bellucci, Routledge /ECPR Studies in European Political Science (no. 57), Oxford, pp. 42-59. Torcal, M. (2014) ‘The decline of political trust in Spain and Portugal: economic performance or political responsiveness?’ American Behavioral Scientist, vol. 58, no. 12, pp. 1542-1567. Torcal, M. (2017) ‘Political trust in Western and Southern Europe’, in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 418-439. Torcal, M. (2021). ‘La polarización política en España’, in A. Penadés & A. Garmendia (Eds.), Informe sobre la Democracia en España 2020 (pp. 40-70), Fundación Alternativas, Madrid. Torcal, M. & Christmann, P. (2021). Responsiveness, Performance and Corruption: Reasons for the Decline of Political Trust. Frontiers in Political Science, 87. Torcal, M. & Comellas, J.M. (2022) ‘Affective polarization in Spain in comparative perspective’ South European Politics and Society, in this issue. Torcal, M., Martini, S. & Serani, D. (2016) ‘Crisis and challenges in Spain: attitudes and political behavior during the economic and the political representation crisis (CIUPANEL)’. Ministerio de Innovación, Economía y Competitividad (CSO2013-47071-R, 2014-2016, IP: Mariano Torcal), available online at: https://www.upf.edu/web/survey/research-projects-data Torcal, M., Santana, A., Carty, E. & Comellas, J. M. (2020) ‘Political and affective polarisation in a democracy in crisis: The E-Dem panel survey dataset (Spain, 2018-2019)’, Data in Brief, vol. 32. Tworzecki, H. (2019) ‘Poland: A case of top-down polarization’. The ANNALS of the American Academy of Political and Social Science, vol. 681, no. 1, pp. 97-119. Uslaner, E. M. (2017) ‘Political trust, corruption, and inequality’ in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 302-315.
+
+29
+
+Van der Meer, T. W.G. & Hakhverdian, A. (2017) ‘Political trust as the evaluation of process and performance: A cross-national study of 42 European countries’, Political Studies, vol. 65, no. 1, pp. 81-102. Van der Meer, T. W.G. & Zmerli, S. (2017) ‘The deeply rooted concern with political trust’ in Handbook of Political Trust, eds. S. Zmerli & T. W.G Van der Meer, Edward Elgar, Cheltenham, pp. 1-15. Van Elsas, E. J., Brosius, A., Marquart, F. & De Vreese, C. H. (2020) ‘How political malpractice affects trust in EU institutions’, West European Politics, vol. 43, no. 4, pp. 944968. Van Erkel, P. F.A & Van der Meer, T. W.G. (2016) ‘Macroeconomic performance, political trust and the Great Recession: A multilevel analysis of the effects of within-country fluctuations in macroeconomic performance on political trust in 15 EU countries, 19992011’, European Journal of Political Research, vol. 55, no. 1, pp. 177-197. Vegetti, F. (2019) ‘The political nature of ideological polarization: The case of Hungary’, The ANNALS of the American Academy of Political and Social Science, vol. 681, no. 1, pp.78-96. Wagner, M. (2021) ‘Affective polarization in multiparty systems’, Electoral Studies, vol. 69, doi.org/10.1016/j.electstud.2020.102199. Wang, C.-H. (2016) ‘Government performance, corruption, and political trust in East Asia’, Social Science Quaterly, vol. 97, no. 2, pp. 211-231. Ward, D. G. & Tavits, M. (2019) ‘How partisan affect shapes citizens' perception of the political world’, Electoral Studies, vol. 60, https://doi.org/10.1016/j.electstud.2019.04.009. Weldon, S., & Dalton, R. (2014) ‘Democratic structures and democratic participation: the limits of consensualism theory’, in Elections and democracy: Representation and accountability, ed. J. Thomassen, Oxford: Oxford University Press, Oxford, pp. 113-131. Zmerli, S., Newton, K. & Montero J.R. (2007) ‘Trust in people confidence in political institutions and satisfaction with democracy,’ in Citizenship and involvement in European Democracies. A comparative analysis, eds. J.W van Deth, J.R. Montero & A. Westholm, Routledge, London, pp. 35-65.
+
+30
+
+Table 1: Average individual change in political trust in Spain
+
+Parliament Government Regional Government Politicians Political
+
+Parties Courts
+
+CIUPANEL Panel Survey (1-10 scale) December 2014-December 2015 -0.045 -0.308 n.i. -0.120 -0.100 0.234 E-DEM Panel Survey (1-7 scale) Total Average 0.160 0.165 0.128 0.167 0.163 0.167 By waves October 2018-February 2019 0.205 0.197 0.227 0.184 0.206 0.206 February 2019-April 2019 0.137 0.084 0.051 0.170 0.165 0.129 April 2019-May 2019 0.128 0.214 0.088 0.142 0.108 0.095 n.i.: not included
+
+Source: CIUPANEL and E-DEM panel datasets.
+
+31
+
+Table 2 Average individual change in polarisation in Spain.
+
+In-group
+
+Voters
+
+In-group
+
+Leaders
+
+Out-group
+
+Voters
+
+Out-group
+
+Leaders
+
+Territorial
+
+Affective Polarisation
+
+Perceived Ideological Polarisation
+
+Ideological Extremism
+
+CIUPANEL Panel Survey December 2014-December 2015 -0.601 n.i. 0.027 n.i. n.i. -0.071 -0.007
+
+E-DEM Panel Survey Total Average 0.128 0.177 - 0.053 - 0.133 - 0.025 0.057 0.073 By waves October 2018-February 2019 - 0.065 0.059 0.109 - 0.023 - 0.041 0.067 0.026 February 2019-April 2019 0.526 0.453 -0.347 - 0.332 - 0.015 0.044 0.127 April 2019-May 2019 - 0.052 0.029 0.053 - 0.068 -0.015 Not included Not included n.i.: not included
+
+Source: CIUPANEL and E-DEM panel datasets.
+
+32
+
+Table 3: Partisan affective polarisation (leaders) and political trust in Spain 2014-5 (two-way fixed model: individual and time)
+
+Parliament Government Politicians Political
+
+Parties Courts
+
+In-group partisan polarisation (leaders) 0.127*** 0.052** 0.035 0.066*** 0.067** (0.029) (0.025) (0.025) (0.025) (0.029) Out-group partisan polarisation (leaders) -0.097*** -0.086*** -0.095*** -0.088*** -0.109*** (0.035) (0.029) (0.029) (0.030) (0.034) Perceived ideological polarisation 0.054 0.026 0.050 0.012 0.043 (0.071) (0.060) (0.060) (0.061) (0.070) Ideological extremism -0.078 0.000 -0.040 0.042 -0.041 (0.050) (0.042) (0.042) (0.043) (0.050) Political interest 0.131 0.102 0.104 0.103 0.104 (0.097) (0.082) (0.083) (0.084) (0.097) Evaluation of the economic situation 0.109** 0.127*** 0.034 0.053 0.094* (0.052) (0.044) (0.044) (0.044) (0.051) Evaluation of the corruption situation 0.146 0.060 0.308*** 0.251*** 0.151 (0.093) (0.079) (0.079) (0.080) (0.093) Evaluation of Government 0.171** 0.532*** 0.156** 0.159** 0.194** (0.084) (0.071) (0.071) (0.072) (0.084) Personal Economic Uncertainty Index 0.060 -0.113 0.046 0.087 0.031 (0.100) (0.084) (0.085) (0.086) (0.099) Wave 3 Ref. Ref. Ref. Ref. Ref. Wave 5 -0.147** 0.080 -0.025 -0.088 -0.504*** (0.068) (0.057) (0.057) (0.058) (0.068) Intercept 2.501*** 1.942*** 0.980* 1.005* 3.013*** (0.614) (0.518) (0.519) (0.526) (0.612) Sigma u 2.13 2.04 1.69 1.68 2.18 Sigma e 1.43 1.21 1.21 1.23 1.43 Rho 0.69 0.74 0.66 0.65 0.70 R2 within 0.04 0.09 0.04 0.04 0.05 R2 between 0.24 0.60 0.34 0.30 0.23 R2 overall 0.22 0.57 0.31 0.27 0.20 Number of groups 2424 2424 2424 2424 2424
+
+33
+
+N 3686 3686 3686 3686 3686 Source: CIUPANEL dataset. Standard errors in parentheses * p < 0.10, ** p < 0.05, *** p < 0.01
+
+34
+
+Table 4: Partisan affective polarisation (leaders) and political trust in Spain 2019 (two-way fixed model: individual and time)
+
+Parliament Government Regional Government Politicians Political
+
+Parties Courts
+
+In-group partisan polarisation (leaders) 0.038** 0.035** 0.041** 0.030** 0.028** 0.016 (0.016) (0.016) (0.017) (0.013) (0.014) (0.016) Out-group partisan polarisation (leaders) -0.108*** -0.083*** -0.063*** -0.075*** -0.114*** -0.097*** (0.022) (0.022) (0.023) (0.018) (0.019) (0.022) Territorial affective polarisation 0.002 -0.041 0.110*** -0.056* -0.020 0.041 (0.035) (0.035) (0.036) (0.029) (0.030) (0.034) Perceived ideological polarisation -0.008 -0.001 0.007 -0.028 0.003 -0.026 (0.035) (0.034) (0.036) (0.028) (0.029) (0.034) Ideological extremism 0.028 -0.008 0.084*** 0.026 0.011 -0.030 (0.026) (0.026) (0.027) (0.021) (0.022) (0.025) Political interest -0.074 0.018 0.009 -0.044 -0.033 -0.028 (0.053) (0.051) (0.055) (0.043) (0.044) (0.051) Evaluation of the economic situation 0.032** 0.049*** 0.023 0.033*** 0.047*** 0.044*** (0.016) (0.015) (0.016) (0.013) (0.013) (0.015) Evaluation of the corruption situation 0.040** 0.053*** 0.063*** 0.081*** 0.071*** 0.034** (0.016) (0.016) (0.017) (0.013) (0.014) (0.015) Opinion on government decentralisation -0.009 -0.015 -0.001 -0.016* -0.025*** -0.008 (0.011) (0.011) (0.011) (0.009) (0.009) (0.011) Opinion on provision of public services 0.005 0.016 0.006 -0.003 -0.000 -0.009 (0.012) (0.011) (0.012) (0.009) (0.010) (0.011) Opinion on women abortion rights 0.005 0.003 -0.030** -0.012 -0.020 0.010 (0.014) (0.014) (0.015) (0.012) (0.012) (0.014) Opinion on fairness of wealth distribution -0.015 0.001 -0.006 -0.013 -0.000 -0.024** (0.012) (0.011) (0.012) (0.009) (0.010) (0.011) Opinion on immigration 0.004 0.008 0.021 0.018 0.032** 0.013 (0.017) (0.017) (0.018) (0.014) (0.014) (0.016) Personal Economic Uncertainty Index 0.101 -0.061 0.092 -0.048 -0.027 -0.064 (0.064) (0.063) (0.066) (0.052) (0.054) (0.062)
+
+35
+
+Wave 1 Ref. Ref. Ref. Ref. Ref. Ref. Wave 2 0.190*** 0.168*** 0.191*** 0.173*** 0.181*** 0.280*** (0.042) (0.041) (0.043) (0.034) (0.035) (0.040) Wave 3 0.255*** 0.213*** 0.147*** 0.244*** 0.281*** 0.336*** (0.048) (0.046) (0.049) (0.038) (0.040) (0.046) Intercept 3.396*** 3.142*** 3.042*** 2.863*** 3.060*** 4.132*** (0.375) (0.366) (0.387) (0.304) (0.317) (0.362) Sigma u 1.29 1.38 1.62 1.05 1.05 1.55 Sigma e 1.08 1.06 1.12 0.88 0.91 1.05 Rho 0.59 0.63 0.68 0.60 0.57 0.69 R2 within 0.05 0.04 0.04 0.08 0.09 0.06 R2 between 0.20 0.25 0.07 0.31 0.30 0.17 R2 overall 0.15 0.19 0.06 0.25 0.25 0.14 Number of groups 2265 2262 2264 2264 2265 2265 N 4916 4913 4913 4915 4917 4916 Source: CIUPANEL dataset. Standard errors in parentheses * p < 0.10, ** p < 0.05, *** p < 0.01
+
+36
+
+Table 5: Partisan affective polarisation (voters) and political trust in Spain 2019 (two-way fixed model: individual and time)
+
+Parliament Government Regional Government Politicians Political
+
+Parties Courts
+
+In-group partisan polarisation (voters) 0.023 0.044*** 0.027* 0.023* 0.027** 0.017 (0.016) (0.015) (0.016) (0.013) (0.013) (0.015) Out-group partisan polarisation (voters) -0.105*** -0.052*** -0.101*** -0.055*** -0.069*** -0.084*** (0.019) (0.019) (0.020) (0.015) (0.016) (0.018) Territorial affective polarisation 0.034 -0.018 0.118*** -0.052* -0.017 0.032 (0.036) (0.035) (0.038) (0.029) (0.030) (0.035) Perceived ideological polarisation -0.024 -0.037 -0.002 -0.044 -0.019 -0.049 (0.036) (0.035) (0.036) (0.028) (0.029) (0.034) Ideological extremism 0.032 0.003 0.071*** 0.031 0.023 -0.027 (0.026) (0.025) (0.027) (0.021) (0.022) (0.025) Political interest -0.072 0.041 0.014 -0.038 -0.022 -0.000 (0.053) (0.051) (0.054) (0.042) (0.044) (0.050) Evaluation of the economic situation 0.018 0.045*** 0.022 0.032*** 0.047*** 0.037** (0.015) (0.015) (0.016) (0.012) (0.013) (0.014) Evaluation of the corruption situation 0.034** 0.051*** 0.061*** 0.072*** 0.064*** 0.023 (0.016) (0.016) (0.017) (0.013) (0.013) (0.015) Opinion on government decentralisation -0.001 -0.009 0.010 -0.013 -0.019** -0.005 (0.011) (0.011) (0.011) (0.009) (0.009) (0.010) Opinion on provision of public services -0.006 0.008 -0.007 -0.006 -0.001 -0.018 (0.012) (0.012) (0.012) (0.010) (0.010) (0.011) Opinion on women abortion rights -0.002 -0.011 -0.031** -0.019 -0.028** 0.004 (0.014) (0.014) (0.015) (0.011) (0.012) (0.013) Opinion on fairness of wealth distribution -0.010 0.007 -0.004 -0.008 0.002 -0.023** (0.012) (0.011) (0.012) (0.009) (0.010) (0.011) Opinion on immigration 0.004 0.011 0.024 0.010 0.028** 0.023 (0.017) (0.016) (0.017) (0.014) (0.014) (0.016) Personal Economic Uncertainty Index 0.139** -0.039 0.117* -0.024 -0.007 -0.006 (0.064) (0.062) (0.066) (0.051) (0.053) (0.061)
+
+37
+
+Wave 1 Ref. Ref. Ref. Ref. Ref. Ref. Wave 2 0.223*** 0.181*** 0.208*** 0.177*** 0.168*** 0.276*** (0.042) (0.040) (0.043) (0.033) (0.034) (0.040) Wave 3 0.314*** 0.216*** 0.143*** 0.283*** 0.294*** 0.380*** (0.048) (0.046) (0.049) (0.038) (0.039) (0.045) Intercept 3.391*** 2.865*** 3.278*** 2.734*** 2.692*** 3.918*** (0.351) (0.340) (0.360) (0.281) (0.290) (0.333) Sigma u 1.29 1.39 1.64 1.07 1.08 1.53 Sigma e 1.09 1.06 1.12 0.87 0.90 1.03 Rho 0.58 0.64 0.68 0.60 0.59 0.69 R2 within 0.05 0.04 0.04 0.07 0.08 0.06 R2 between 0.22 0.23 0.03 0.28 0.26 0.22 R2 overall 0.16 0.17 0.04 0.22 0.21 0.18 Number of groups 2247 2244 2246 2246 2247 2247 N 4923 4922 4920 4923 4924 4923 Source: CIUPANEL dataset. Standard errors in parentheses * p < 0.10, ** p < 0.05, *** p < 0.01
+
+38
+
+Table 6: Partisan affective polarisation (voters) and political trust in Spain 2019 (REWB model)
+
+FIXED EFFECTS Parliament Government Regional Government Politicians Political
+
+Parties Courts
+
+In-group partisan polarisation (voters) 0.068*** 0.092*** 0.024** 0.064*** 0.081*** 0.025*** (0.009) (0.009) (0.010) (0.008) (0.008) (0.010) Out-group partisan polarisation (voters) -0.153*** -0.085*** -0.060*** -0.074*** -0.078*** -0.159*** (0.011) (0.011) (0.012) (0.009) (0.009) (0.011) Territorial affective polarisation -0.047** -0.122*** 0.140*** -0.080*** -0.057*** -0.033 (0.019) (0.019) (0.022) (0.016) (0.016) (0.020) Political interest -0.068*** 0.007 -0.045 -0.103*** -0.109*** -0.063** (0.025) (0.026) (0.031) (0.022) (0.022) (0.028) Evaluation of economic situation 0.140*** 0.172*** 0.064*** 0.106*** 0.118*** 0.131*** (0.009) (0.009) (0.010) (0.007) (0.008) (0.009) Evaluation of the corruption situation 0.106*** 0.091*** 0.067*** 0.141*** 0.133*** 0.086*** (0.009) (0.010) (0.011) (0.008) (0.008) (0.010) Opinion on government decentralisation -0.004 0.010 0.077*** 0.009* 0.009* -0.054*** (0.006) (0.006) (0.007) (0.005) (0.005) (0.006) Opinion on provision of public services 0.006 0.023*** -0.003 -0.010* -0.005 -0.008 (0.007) (0.007) (0.008) (0.006) (0.006) (0.007) Opinion on women abortion rights 0.001 0.029*** -0.007 -0.027*** -0.021*** -0.004 (0.008) (0.008) (0.009) (0.006) (0.007) (0.008) Opinion on fairness of wealth distribution -0.031*** 0.010 -0.018** -0.021*** -0.017*** -0.048*** (0.007) (0.008) (0.008) (0.006) (0.006) (0.008) Opinion on immigration 0.020** 0.050*** 0.044*** 0.039*** 0.035*** 0.003 (0.008) (0.009) (0.010) (0.007) (0.007) (0.009) Personal Economic Uncertainty Index 0.043 -0.053 0.007 -0.072** -0.072** 0.035 (0.034) (0.035) (0.040) (0.029) (0.030) (0.037) TIME INVARIANT OR QUASI INVARIANT
+
+39
+
+Vox PID -0.234* -0.494*** -0.329** -0.060 -0.069 -0.109 (0.119) (0.130) (0.167) (0.103) (0.105) (0.148) Unidas Podemos PID 0.003 0.059 -0.301*** 0.034 0.025 -0.327*** (0.073) (0.080) (0.103) (0.063) (0.064) (0.091) TIME AVERAGES Mean In-group partisan polarisation (voters)
+
+0.580*** 0.114 0.547*** 0.381** 0.518*** 1.011***
+
+(0.195) (0.192) (0.203) (0.163) (0.165) (0.189) Mean Out-group partisan polarisation (voters)
+
+1.683*** 0.589 1.752*** 1.001** 1.278*** 2.732***
+
+(0.524) (0.516) (0.546) (0.440) (0.445) (0.510) Mean Territorial affective polarisation -4.908*** -9.674*** -6.358*** -5.575*** -4.165*** -1.750 (1.886) (1.854) (1.957) (1.582) (1.602) (1.827) Intercept -5.578 9.011 -4.264 0.240 -4.301 -18.082*** (6.048) (5.954) (6.306) (5.076) (5.141) (5.884) Sigma u 0.79 0.91 1.26 0.69 0.71 1.08 Sigma e 1.07 1.04 1.10 0.90 0.91 1.02 Rho 0.36 0.43 0.56 0.38 0.38 0.53 R2 within 0.05 0.06 0.03 0.08 0.08 0.04 R2 between 0.38 0.39 0.17 0.38 0.39 0.36 R2 overall 0.27 0.29 0.13 0.29 0.27 0.28 Number of groups 2351 2351 2351 2350 2351 2351 N 6757 6754 6756 6758 6757 6759 Source: CIUPANEL dataset. Standard errors in parentheses * p < 0.10, ** p < 0.05, *** p < 0.01
+
+40
+
+Endnotes:
+
+1 Although this is not a probability sample, the distribution of basic socio-demographic variables and of other partisan and ideological characteristics in our sample approximates the same parameters obtained by the National Centre for Sociological Research (CIS) during the same years. In our sample, we only find a lower propensity to declare an intention to vote for the more traditional parties before the general election in 2015. In addition, our sample is skewed towards the more educated than the general population (National Institute of Statistics – INE – Census data 2014-2015) (for more details, see Table 3A the Online Appendix).

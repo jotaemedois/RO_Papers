@@ -1,0 +1,1287 @@
+This is a repository copy of Voice, Representation and Trust in Parliament.
+
+White Rose Research Online URL for this paper: http://eprints.whiterose.ac.uk/86790/
+
+Version: Accepted Version
+
+Article: Dunn, K orcid.org/0000-0002-2156-6930 (2015) Voice, Representation and Trust in Parliament. Acta Politica: international journal of political science, 50 (2). pp. 171-192. ISSN 1741-1416
+
+https://doi.org/10.1057/ap.2014.15
+
+© 2015 Macmillan Publishers Ltd. This is an author produced version of a paper published in Acta Politica: international journal of political science Uploaded in accordance with the publisher's self-archiving policy.
+
+eprints@whiterose.ac.uk https://eprints.whiterose.ac.uk/
+
+Reuse Items deposited in White Rose Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws. The publisher or other rights holders may allow further reproduction and re-use of the full text version. This is indicated by the licence information on the White Rose Research Online record for the item.
+
+Takedown If you consider content in White Rose Research Online to be in breach of UK law, please notify us by emailing eprints@whiterose.ac.uk including the URL of the record and the reason for the withdrawal request.
+
+Voice, Representation and Trust in Parliament
+
+Abstract: The procedural justice literature argues that providing individuals voice in institutional processes facilitates trust in that institution. For democratic institutions, voice is provided to the citizenry via political representation. In this article, I apply the procedural justice argument to trust in parliament, equating representation with voice: if individuals believe they are represented in parliament, they will trust parliament more than if they believe otherwise. Analyses of data from three of four countries find support for this argument: those individuals who believe that a party with at least one seat in parliament represents their views trust parliament more than those who do not. This relationship holds even when accounting for political self-interest. For those who wish to promote trust in parliament, a suggested normative good with a host of politically important consequences, one potential pathway is to facilitate individuals’ belief that there is a party in parliament that represents them.
+
+Keywords: Voice, Representation, Trust in Parliament, Procedural Justice, Left-Right Congruence
+
+Modern representative democracy requires citizens to authorize a small group of political
+
+elites to govern in their stead. This process entails that citizens trust that their elected
+
+representatives will advocate for their interests in the processes of government. Recent
+
+research, built on the procedural justice literature, argues that individuals trust parliament
+
+more if they believe they have a voice (i.e., the ability to express one’s political preferences),
+
+in the form of a selected representative, in the policy-making process (Dunn, 2012). As the
+
+overwhelming majority of individuals never participate directly in parliament, they instead
+
+gain voice through representation. Individuals will thereby trust parliament more when their
+
+elected representative is perceived to advocate for their political preferences in the policy making process.
+
+Research in the representative congruence literature argues, either explicitly or implicitly,
+
+that electors and representatives should align on some relevant measure(s) of policy
+
+preference, often Left-Right identification/classification (Andeweg, 2011; Blais & Bodet,
+
+2006; Dalton, Farrell, & McAllister, 2011; Golder & Stramski, 2010; Holmberg, 2011; Huber
+
+& Powell, 1994; M. Kim, 2009; Powell, 2009). Though there is debate regarding whether
+
+alignment results from bottom-up or top-down processes (or some combination of both), in
+
+any case, ideological alignment is suggested to be of central importance, with democratic
+
+representation considered normatively better where the policy preferences of the electorate
+
+and the parliament are ideologically congruent. Specifically, the congruence literature argues
+
+that the ideological distribution of the parliament should, as closely as possible, match that of
+
+the electorate. There are however, other ways of conceiving of representation, descriptive
+
+representation being the most readily apparent (cf., Mansbridge, 1999). Certain conceptions
+
+of representation suggest that parliament should act as the political voice of the electorate in
+
+the policy-making process. Verba (1993, p. 677) argues that a “bedrock principle” of modern
+
+democracy states that “in what the government does, the preferences and interests of each
+
+citizen ought to be given equal consideration.” Modern democratic representation should
+
+therefore make “voice its most active and consonant manifestation and judgment about just
+
+and unjust laws and policies its content” (Urbinati, 2006, p. 19). Though this argument does
+
+not necessarily translate to the equivalent individual-level argument that an individual
+
+representative act as the voice of his or her elector, from the perspective of the elector, this is
+
+precisely the purpose of a representative. For the individual-level perspective, a
+
+representative is a person or party chosen to provide voice to the elector in the policy-making
+
+process.
+
+An individual perceives himself to have voice in the policy-making process, then, when he
+
+believes a party in parliament is representative of his interests, however an individual may
+
+define such. Since an individual tends to trust an institution (or process) more where he
+
+perceives himself to have a voice in the institution (or process) (Culnan & Armstrong, 1999;
+
+Grimes, 2006; van den Bos, Wilke, & Lind, 1998), he will trust parliament more if he
+
+perceives that a party which holds at least one seat in parliament represents his interests. This
+
+article examines this hypothesis using data from recent waves of the Austrian, Dutch, New
+
+Zealand and Swiss Election Studies. Regression analyses indicate that believing one is
+
+represented by a party in parliament does, in most cases examined, result in a higher level of
+
+trust in parliament.
+
+Trust and Voice in Parliament
+
+Political trust has been an issue of interest to political scientists for decades. Political trust is
+
+often considered a fundamental indicator of the health and legitimacy of a democracy and
+
+crucial to its stability. Mishler and Rose (2001), for example, state that “popular trust in
+
+political institutions is vital to democracy.” In addition to normative concerns, a number of
+
+quantitative investigations demonstrate that political trust impacts such political attitudes and
+
+behaviors as policy preferences (Hetherington, 2005), voter turnout (Cox, 2003; Grönlund &
+
+Setälä, 2007), vote-choice (Bélanger & Nadeau, 2005; Hetherington, 1999; Hooghe, Marien,
+
+& Pauwels, 2011), and perceived acceptability of illegal behavior (Marien & Hooghe, 2011).
+
+Political trust affects not only the normative legitimacy of democratic governance but also
+
+substantive outcomes associated with that governance.
+
+The various facets and levels of political trust have gradually been fleshed out as research in
+
+this area has evolved. Political trust covers a spectrum divided into five (perhaps not so
+
+distinct, cf., Bowler & Karp, 2004) categories which proceed from diffuse to specific support
+
+(Easton, 1965, 1975): political community, regime principles, regime performance, regime
+
+institutions, and political actors (Norris, 1999a). As the institution most often referred to as
+
+the voice of the people and most often studied by those interested in representation, this paper
+
+focuses on trust in parliament, one aspect of the second most specific level of political trust,
+
+trust in regime institutions.
+
+Trust in parliament is undoubtedly the result of myriad factors, some self-interested, some
+
+beneficent, some cognitive, and some affective. One recent suggestion regards the influence
+
+perceived voice exerts on trust in parliament (Dunn, 2012). This argument, developed from
+
+theory and evidence from the procedural justice literature, states that an individual will trust
+
+parliament more if he believes he has a voice in the parliament via a self-selected
+
+representative.
+
+In modern representative democracy, individuals necessarily grant representatives the power
+
+to act on their behalf in the processes of governing (cf., Montesquieu, 2002 [1748]). In doing
+
+so, they abdicate control of their political lives to others and thereby place themselves at risk
+
+of neglect, harm, or worse. Even though unable to act on their own behalf, when individuals
+
+are given the opportunity to express their interests as respected members of the community
+
+(Anand, 2001; Folger, 1977; Lind, Kanfer, & Earley, 1990; Lind & Tyler, 1988; Tyler &
+
+Blader, 2003; Tyler & Lind, 1992), they gain a sense of control (van Prooijen, 2009) and
+
+certainty about the future (Lind & van den Bos, 2002) that they may otherwise lack. A
+
+perception of dignity and voice builds trust where authority is exercised by another whom
+
+one does not personally know and whose actions one cannot directly control (Culnan &
+
+Armstrong, 1999; van den Bos, et al., 1998). Individuals are thereby more likely to trust
+
+institutions where they perceive themselves to have a voice in those decisions that affect them
+
+and their community.
+
+Importantly, the impact of perceived voice on the perception of fair process and trust in
+
+institutions goes above and beyond simple self-interest; even when outcomes are negative,
+
+the process by which those outcomes are reached is of considerable importance for individual
+
+perceptions of fairness and trust. The perception of voice often results in the belief that the
+
+outcome, even if negative, is fair (Lind & Tyler, 1988; Thibaut & Walker, 1978; Walker,
+
+Lind, & Thibaut, 1979) which, in turn, produces greater levels of institutional trust (Culnan &
+
+Armstrong, 1999; W. C. Kim & Mauborgne, 2003). A desire for voice is not simply the
+
+expression of a desire for favorable outcomes, but a desire to be a valued member of the
+
+group. Perceived provision of voice, believing that one’s voice is heard and acknowledged,
+
+facilitates trust in those institutions where authority is held by another.
+
+This is, of course, not to say that self-interest plays no part in the level of trust one expresses
+
+in institutions. Procedural justice research often finds that individuals trust processes and
+
+institutions more where those processes and institutions serve their self-interest (e.g.,
+
+Korsgaard, Schweiger, & Sapienza, 1995; Lind, et al., 1990; Tyler, 1994). A number of
+
+studies of trust in political institutions indicate that trust is higher among electoral or policy
+
+winners – i.e., among those individuals who voted for or agree with the policy outputs of
+
+those currently in power (Anderson & LoTempio, 2002; Banducci & Karp, 2003;
+
+Hetherington, 1998; Miller, 1974; Miller & Borrelli, 1991; Norris, 1999b). As with
+
+nonpolitical institutions, trust in political institutions will likely result from a mixture of
+
+perception of voice and self-interested outcomes, among other things.
+
+Individuals express greater trust in an institution when they believe they have a voice in that
+
+institution, even when that institution produces outcomes they do not agree with. In political
+
+terms, individuals will report greater trust in parliament if they feel they are represented in
+
+parliament even if the government is controlled by a non-favored party or coalition. Based
+
+on the proposed relationship, I derive and test the following prediction:
+
+P1: Trust in parliament will be positively related to perceived representation by a party with
+
+at least one seat in parliament.
+
+Data and Measurement
+
+There are two variables needed to examine the above prediction: trust in parliament and
+
+perceived representation by a party in parliament. There are a number of surveys that include
+
+a confidence or trust in parliament inquiry, with both of these items often used as indicators
+
+of trust in parliament. The second variable, perceived representation, is less straightforward.
+
+There are two measures that appear in a number of election surveys that can be considered to
+
+measure such. The first directly inquires as to whether the respondent feels represented by a
+
+political party, and if so, which one. Linking this question to the most recent parliamentary
+
+election allows one to determine whether the respondent feels represented by a party with at
+
+least one seat in parliament. The second and less direct measure, is whether an individual’s
+
+vote-choice is perceived to be ideologically proximate to their own Left-Right placement.
+
+This is a one-to-one measure of ideological-congruence (Golder & Stramski, 2010) that
+
+utilizes intra-individual perceptions of the respondent’s own and his vote-choice’s location on
+
+the Left-Right scale; an ideological-congruence measure that avoids differential item
+
+functioning (DIF) issues which can arise due to assuming inter-individual measurement
+
+equivalency where it does not exist (Aldrich & McKelvey, 1977; King, Murray, Salomon, &
+
+Tandon, 2004). This second measure makes the rather large assumptions that Left-Right
+
+placements of self and parties mean something to the respondent and that perceived
+
+congruence between these placements is equivalent to representation. Both the empirical and
+
+theoretical literature provide numerous arguments both for and against each of these
+
+assumptions. It is therefore preferable to use the former measure, or at least to confirm the
+
+convergent validity of the latter measure against the former.
+
+Ideally, I would prefer to examine my stated hypothesis using data from a large-scale cross country survey. This would ensure that any findings resulting from the analyses were
+
+applicable regardless of the political environment. This would also allow me to examine any
+
+potential conditioning factors – such as whether certain electoral systems or regime types
+
+condition the relationship between representation and trust in parliament.
+
+Unfortunately, there is currently no large-scale cross-country dataset that provides both a
+
+confidence/trust in parliament measure and both, or even one, of the perceived representation
+
+measures. There are a small number of relatively recent election studies that include the trust
+
+in parliament inquiry and inquiries relevant to creating both of the perceived representation
+
+measures: the 2009 Austrian National Election Study (AUTNES; http://www.autnes.at/), the
+
+2002 Dutch Parliamentary Election Study (DPES; http://www.dpes.nl/), the 2002 and 2008
+
+New Zealand Election Studies (NZES; http://nzes.org), and the 2007 Swiss Election Study
+
+(SELECTS; http://www2.unil.ch/selects/). Each of these surveys provide the necessary
+
+individual-level data on trust in parliament, whether one feels represented by a political party
+
+(and which one), ideological self-identification, the perception of the ideological placement
+
+of major parties, and vote-choice, as well as a number of theoretically relevant control
+
+variables. This limited selection of cases restricts the conclusions that can be drawn from the
+
+following analyses, but does allow me to determine whether the hypothesis receives support
+
+in at least a handful of Established Democracies.
+
+The 2009 Austrian National Election Survey is a post-election survey of 1,165 enfranchised
+
+Austrian residents aged 18 and above. The fieldwork was conducted in German using
+
+computer assisted personal interviewing. The sample was drawn using multiple stratification
+
+with a clustered address random procedure (Kritzinger et al., 2013).
+
+The 2002 Dutch Parliamentary Election Survey is a pre- and post-election survey of 1574
+
+residents. The trust in parliament question is asked in the post-election survey, while the
+
+representation-relevant questions (see below) are split between the pre- and post election
+
+surveys. The interviews were conducted using computer assisted personal interviewing for
+
+all the pre-election interviews as well as for a majority of re-interviewees – a minority of re interviewees were surveyed via self-administered surveys. The sample was drawn using a
+
+random sample of telephone numbers from a random sample of municipalities.
+
+The 2002 New Zealand Election Survey is a post-election survey of 5783 enfranchised
+
+residents aged 18 and above. Respondents completed the survey using mail and telephone
+
+questionnaires. The sample consists of both a “new general sample” and follow-up panel
+
+samples. Both sample groups were randomly selected from the electoral register,
+
+proportionate to each of the then 62 regular parliamentary electorates; the 7 Maori electorates
+
+were oversampled and therefore not proportionately sampled. The 2008 sample was gathered
+
+similarly, consisting of 3042 individuals, including an oversample of 636 Maori.
+
+The 2007 Swiss Election Survey is a post-election survey of 4392 Swiss citizens. The sample
+
+consists of a nationally representative sample mixed with an oversampling of small cantons
+
+to ensure at least 100 interviews per canton.
+
+The dependent variable is an individual's trust in parliament. For Austria, this variable is
+
+determined via reference to the respondent's answer to the following inquiry: "How much do
+
+you trust… the Austrian parliament?" For the Netherlands: “How much trust do you have in
+
+the Second Chamber?” For New Zealand in 2002: “please indicate how much trust and
+
+confidence would you say you have in parliament.” For New Zealand in 2008: "please
+
+indicate how much trust and confidence you have in Parliament." For Switzerland: “Please
+
+tell me for each institution how much trust you have in it…: Parliament.” Unfortunately,
+
+there is a diverse range of possible responses for each case, with only Austria and
+
+Switzerland using a similar metric, making any comparison between countries difficult.
+
+However, to provide some sense of comparison, I transform trust in parliament in each case
+
+to range from 0 to 1, inclusive. With the above caveat in mind, in order from the lowest to
+
+the highest transformed mean: New Zealand (2002) = 0.542, Netherlands (2002) = 0.575,
+
+Austria (2008) = 0.580, New Zealand (2008) = 0.581, and Switzerland (2007) = 0.642.
+
+Comparison of means using a two-sample t-statistic indicates that 7 of the 10 comparisons
+
+yield statistically significant differences, with New Zealand (2002) being significantly lower
+
+and Switzerland (2007) being significantly higher than the three middle-level cases, and each
+
+other; the three middle-level cases are statistically indistinguishable from one another.
+
+Above, I suggest two possible indicators of whether an individual believes he is represented
+
+in parliament. The first uses a more direct tact, asking whether the individual feels
+
+represented by a political party and then determining whether that party holds a seat in
+
+parliament. The question for the AUTNES reads: “Would you say that any of the parties in
+
+Austria represent your views reasonably well?” For the DPES (pre-election survey): “Is there
+
+in the Netherlands a political party which on the whole reflects or represents your opinion
+
+best?” For both iterations of the NZES: “Would you say that any of the parties in New
+
+Zealand represent your views reasonably well?” And for the SELECTS: “Is there a party that
+
+represents your personal views well?” A follow-up question inquires as to which party. If
+
+the reported party holds at least one seat in parliament, the individual is coded as believing
+
+(s)he is represented by a party in parliament (=1). If the person responds with a “no” to the
+
+initial inquiry or does not answer either question, the individual is coded as not believing
+
+(s)he is represented by a party in parliament (=0). There is considerable difference between
+
+cases in the proportion of people who believe they are represented according to this measure:
+
+Switzerland reports the lowest proportion of people who believe they are represented, at
+
+0.437, followed by New Zealand (2002) at 0.656, Austria at 0.611, the Netherlands at 0.705,
+
+and New Zealand (2008) at 0.811.
+
+One drawback to this measure: as a result of each country relying on either a proportional or
+
+mixed-member proportional representation electoral system, an overwhelming majority of
+
+respondents who report a party, report a party that is represented in the parliament. This
+
+means there is very little difference between this measure and a measure simply coding
+
+whether a person feels represented by a political party.
+
+The second possibility suggested above is a measure of vote-congruence, a respondent’s
+
+perceived Left-Right congruence between himself and his reported vote choice. This variable
+
+is determined via reference to the respondent's Left-Right self-placement, his/her reported
+
+vote choice, and his/her perception of the Left-Right placement of his/her vote choice. In
+
+Austria, the respondent's perception of the Left-Right placement of political parties is
+
+determined via reference to the following question: "In politics people sometimes talk of left
+
+and right. Thinking of the parties in Austria, where would you place the following parties on
+
+a scale from 1 to 11 where 1 means the left and 11 means the right?" Respondents were
+
+asked to place the following parties: SPÖ, ÖVP, FPÖ, Grüne, BZÖ, LIF, and Liste
+
+Dinkhauser. Respondents in the Netherlands were asked a substantively similar question and
+
+asked to place the following parties: PvdA, VVD, D66, GroenLinks, CDA, SGP,
+
+ChristenUnie, Leefbaar Nederland, SP, and Lijst Pim Fortuyn. For the 2002 New Zealand
+
+election survey respondents were asked to place the following parties: National, Labour, New
+
+Zealand First, Alliance, Act, Green, Progressive Coalition, and United Future. For the 2008
+
+New Zealand election survey: National, Labour, NZ First, United Future, Act, Green Party,
+
+Progressive, and the Maori Party. For the Swiss election survey: CVP, FDP, SP, SVP,
+
+Gruene, LPS, EVP, and LEGA. The request for Left-Right party placement was followed by
+
+a request for the respondent to place themselves on the same scale. In Austria, for example:
+
+"And what about yourself? Where would you place yourself on a scale from 1 to 11, where 1
+
+means left and 11 means right?" For the Netherlands, both the self- and party-placement
+
+inquiries were asked in the post-election survey. An individual's vote choice is determined
+
+via reference to a question directly asking if the respondent voted in the recent elections, and
+
+if so, for which party.
+
+The respondent's vote-congruence is equal to ten minus the absolute value of the difference
+
+between the respondent's Left-Right placement and the Left-Right placement of his vote choice. This produces an individual-level Left-Right-congruence score ranging from 0 to 10
+
+with 10 being a precise match and 0 being the most extreme mismatch. Though this variable
+
+can range from 0 to 10, for Austria vote-congruence ranges from 1 to 10 and in the
+
+Netherlands, from 3 to 10. The distribution is heavily negatively skewed with the mean
+
+ranging from 8.569 (in Switzerland) to 8.997 (in the Netherlands); over 90% of respondents
+
+in each case (who were not removed from the analyses due to missing data) score between 7
+
+and 10, inclusive.
+
+Issues of accuracy in the Left-Right placement of parties, and therefore issues of projection
+
+bias (seeing one’s vote choice as ideologically more similar to oneself than is actually the
+
+case), are not an issue with this measure as it is solely concerned with individuals’
+
+perceptions. The argument in this paper, as well as in the procedural justice literature in
+
+general, is that the perception of voice matters for trust; in fact, it is precisely the relevance of
+
+perception over reality that leads some authors to express concerns regarding the potential of
+
+elite manipulation of perception to elicit trust in potentially unjust institutions (Cohen, 1989;
+
+Dunn, 2012).
+
+Examining the relationship between the two suggested independent variables gives reason to
+
+suspect that perceived Left-Right vote-congruence may not accurately reflect whether an
+
+individual believes he is represented. Table 1 presents the output from three separate
+
+analyses analyzing the relationship between the two measures. The first analysis is a simple
+
+difference in means test between the vote-congruence scores of those who believe they are
+
+represented by a party in parliament and those who do not. Those who believe they are
+
+represented in parliament have a higher mean vote-congruence score than those who do not,
+
+and this difference is significant in three of the five cases analyzed: Austria (2008), the
+
+Netherlands (2002), and New Zealand (2002). There is a non-significant difference for New
+
+Zealand (2008) and Switzerland (2007). Pairwise correlations echo this result. There are
+
+minimal and inconsistently significant correlations between vote-congruence and whether
+
+one feels represented in parliament. A logistic regression of feeling represented on vote congruence again echoes these results indicating that the predicted probability of feeling
+
+represented is higher for those with a higher level of vote-congruence, but this increase in
+
+probability is only significantly different from zero in the same three cases noted above.
+
+[INSERT TABLE 1 HERE]
+
+These two variables, though somewhat related in three of the five cases examined here, are
+
+clearly measuring different concepts (or are substantially differentially susceptible to noise);
+
+though these concepts are certainly related to some degree in three of the five cases. As the
+
+more direct measure possesses a higher degree of face validity, I will focus primarily on this
+
+variable from here on. However, I retain the vote-congruence measure for inclusion in the
+
+following analyses as this variable is at least a face-valid indicator of how an individual
+
+perceives his relationship to his vote choice in terms of the Left-Right continuum.
+
+In addition to the variables discussed above, research often argues for the inclusion of a
+
+number of other relevant variables hypothesized to influence political trust: age; education;
+
+gender; whether an individual’s vote choice is included in government (electoral winner); an
+
+individual’s Left-Right identification; and an individual’s perception of the health of the
+
+economy (perception of economy) (e.g., Anderson & LoTempio, 2002; Banducci & Karp,
+
+2003; Norris, 1999a).
+
+Perception of the Economy: The perception of economy variable reflects the respondent's
+
+view of the state of the economy. The measurement of this variable varies from country to
+
+country though it is intended to capture perceptions of economic health. In Austria this
+
+variable is measured via reference to the following question: "How would you evaluate, very
+
+generally, the current economic situation of Austria?" In the Netherlands: “do you think that
+
+the economic situation has been influenced favorably, unfavorably or neither by the
+
+government policies?” In New Zealand 2002 and 2008: "How do you think the general
+
+economic situation in the country now compares with a year ago?" In Switzerland: “In your
+
+opinion: how is the current economic situation in Switzerland?” Each of these questions
+
+takes a slightly different approach to the intended concept and as such, the variable has
+
+slightly different meaning in each country. Nevertheless, the variable does, in each case,
+
+measure a respondent’s perception of the economy, whether from an absolute perspective or
+
+relative to an earlier point of comparison. Higher values for this variable indicate a more
+
+negative view of the economy and should therefore be negatively related to trust in
+
+parliament.
+
+Left-Right Identification: This variable indicates the respondent's Left-Right identification
+
+and is measured, as noted above, by reference to the following question in Austria and a
+
+substantively similar question in each of the other 4 surveys: "In politics people sometimes
+
+talk of left and right… Where would you place yourself on a scale from 1 to 11, where 1
+
+means left and 11 means right?"
+
+Electoral Winner: This variable reflects whether the respondent's vote choice is represented
+
+in government, in the cabinet. Following the 2008 election, the Austrian cabinet consisted of
+
+members of the Social Democratic Party (SPÖ) and the Austrian People's Party (ÖVP). In
+
+the Netherlands, following the 2002 election, the Christian Democratic Appeal (CDA), List
+
+Pim Fortuyn (PFL), and the People’s Party for Freedom and Democracy (VVD) formed the
+
+cabinet. Following the 2002 New Zealand elections, Labour and the Progressives formed the
+
+cabinet and following the 2008 election, the National party formed a minority government.
+
+After the 2007 Swiss elections, the Federal Council consisted of members of the Liberals
+
+(FDP), Christian Democratic People’s Party (CVP), Social Democratic Party (SP), and Swiss
+
+People’s Party (SVP) as it has for decades due to the ‘magic formula’ (cf., Ladner, 2001).
+
+This variable is coded 1 if a person's vote choice is in the cabinet and 0 otherwise.
+
+An individual's age is an approximate measure determined by subtracting the respondent's
+
+birth year from the year of the survey; gender is coded 0 for female and 1 for male; education
+
+is measured by reference to years of education in Austria and by level of education in the
+
+Netherlands, New Zealand, and Switzerland, with higher values indicating a longer duration
+
+or higher level of education; political interest is based on a question inquiring into how
+
+interested in politics the respondent is, with higher values corresponding to greater interest.
+
+Table A1 in appendix A provides a brief summary of the variables for each country.
+
+The following analyses rely on datasets created using listwise deletion of missing data.
+
+Appendix B reports analyses using data derived from multiple imputation by chained
+
+equations (cf., Azur, Stuart, Frangakis, & Leaf, 2011; Royston & White, 2011; White,
+
+Royston, & Wood, 2011).
+
+Analysis
+
+The data are analyzed separately for each country using ordinary least squares regression for
+
+Austria, New Zealand and Switzerland and ordered logistic regression for the Netherlands.
+
+The outputs of the regression analyses are displayed in Tables 2a, 2b, and 2c.
+
+[INSERT TABLE 2 HERE]
+
+Tables 2a and 2b display both the non-standardized and the standardized coefficients for the
+
+OLS regression models – Austria, New Zealand and Switzerland. Table 2c displays the log
+
+odds and the odds ratios for the ordered logistical regression – the Netherlands. Of the 5
+
+cases, 4 demonstrate significant results for the relationship between perceived representation
+
+and trust in parliament. In Austria, the difference between not believing one is represented
+
+and believing one is represented predicts a 1.065 unit increase in the trust in parliament
+
+variable, from just below the mean score of trust in parliament at 5.147 (all other variables
+
+held at their mean), to just above the mean at 6.212; this corresponds to 0.413 standard
+
+deviation change in trust in parliament, jumping from -0.253 standard deviations below the
+
+mean to 0.161 standard deviations above. Of the variables included in the model, perceived
+
+representation demonstrates the most substantial relationship (in terms of standardized
+
+coefficients) with trust in parliament in Austria.
+
+In the Netherlands, moving from not believing one is represented to believing one is
+
+represented corresponds with a 0.417 unit increase in the ordered log-odds of reporting a
+
+higher category of trust in parliament, or 1.517 times greater than the odds of reporting a
+
+lower category. With the move from not believing one is represented to believing one is
+
+represented, the probability of reporting “absolutely no trust” decreases from 0.022 to 0.014,
+
+the probability of reporting “not so much trust” falls from 0.337 to 0.255, the probability of
+
+reporting “fairly much trust” increases from 0.608 to 0.681, and the probability of reporting
+
+“very much trust” increases from 0.033 to 0.049.
+
+In New Zealand in 2002, the difference between not believing one is represented and
+
+believing one is represented predicts a 0.248 unit increase in the trust in parliament variable,
+
+from just below the mean score of trust in parliament at 4.172, to just above the mean at
+
+4.420; this corresponds to 0.142 standard deviation change in trust in parliament, jumping
+
+from -0.093 standard deviations below the mean to 0.049 standard deviations above. In terms
+
+of relative impact, perceived representation lags behind all other significant variables save
+
+gender.
+
+In New Zealand in 2008, the difference between not believing one is represented and
+
+believing one is represented corresponds with a 0.572 unit increase in the trust in parliament
+
+variable, from just below the mean score of trust in parliament at 4.760, to just above the
+
+mean at 5.333; this corresponds to 0.329 standard deviation change in trust in parliament,
+
+jumping from -0.267 standard deviations below the mean to 0.062 standard deviations above.
+
+For relative impact, perceived represented places third, behind education and political
+
+interest.
+
+For Switzerland, this relationship is neither statistically nor substantively significant. As
+
+Switzerland is a fairly unique case among the four countries there are a number of reasons
+
+this may be the case, be it the country’s federal design accommodating four linguistic/cultural
+
+regions or the seven-member relatively-fixed multi-party executive.
+
+Vote-congruence is a less consistent predictor of trust in parliament. This relationship attains
+
+significance only in Austria and New Zealand in 2008. For these cases, perceived ideological
+
+congruence with one’s vote choice independently and positively contributes to trust in
+
+parliament above and beyond perceived representation, though it exerts less impact than
+
+perceived representation.
+
+The control variables, where they attain significance, act much as previous research leads us
+
+to expect. However, of the control variables, only two, age and negative perception of the
+
+economy, are consistently significantly related to trust in parliament. Age, though
+
+consistently related to trust in parliament, varies the polarity of its relationship among
+
+countries. In Austria and New Zealand, this variable is positively related to trust in
+
+parliament, with older age cohorts more trusting of parliament. In the Netherlands and
+
+Switzerland, this variable is negatively related to trust in parliament, with older cohorts less
+
+trusting of parliament. A negative perception of the economy is consistently negatively
+
+related to trust in parliament; a negative perception of the economy predicts less trust in
+
+parliament.
+
+Education, Left-Right identification, political interest, and surprisingly, even whether one is
+
+an electoral winner are all only inconsistently related to trust in parliament. Education
+
+achieves significance and is positively related to trust in parliament in Austria and New
+
+Zealand; for Austria, a greater number of years in education predicts a higher level of trust in
+
+parliament; for New Zealand, a higher level of education predicts a higher level of trust in
+
+parliament. Left-Right identification achieves significance and is positively related to trust in
+
+parliament in New Zealand in 2008 and in Switzerland and negatively related to trust in
+
+parliament in the Netherlands; so whereas the those who identify with the Right are more
+
+trusting of parliament in New Zealand in 2008 and Switzerland, those who identify with the
+
+Left are more trusting of parliament in the Netherlands. Political interest achieves
+
+significance only in Austria, the Netherlands, and in New Zealand in 2008 where it is
+
+positively related to trust in parliament; those who are more interested in politics report a
+
+higher level of trust in parliament.
+
+Of the control variables, the most surprising result is that whether one voted for a party in
+
+government, and thereby one of the dominant coalition in parliament, is not significantly
+
+related to trust in parliament in the Netherlands and Switzerland. Plausible reasons for this
+
+that are most apparent are the relatively consensual and fixed nature of the party composition
+
+of the Swiss Federal Council (though, see Church, 2008) and the political turmoil following
+
+the assassination of Pim Fortuyn (whose internally conflicted and controversial party, PFL,
+
+formed part of the governing coalition following the 2002 election) during the 2002 election
+
+campaign (cf., Pennings & Keman, 2003).
+
+Similar to other research on individual levels of political trust (e.g., Bélanger & Nadeau,
+
+2005; Bowler & Karp, 2004; Mishler & Rose, 2001), the models examined here do not
+
+explain a great deal of the variance in the trust in parliament variable. Four of the models
+
+explain less than 10% of the variance of trust in parliament, with those of the Netherlands and
+
+Switzerland explaining less than even 5%. Austria is the exception, with the included
+
+variables explaining slightly over 17% of the variance of trust in parliament.
+
+Conclusion
+
+Political trust, considered a normative good by many, impacts political attitudes and behavior
+
+in a variety of ways, exerting a definitive impact on a country’s political climate. In seeking
+
+to understand political attitudes and behavior we are thereby encouraged to also understand
+
+political trust. This article looks at political trust, specifically trust in parliament, from the
+
+perspective of the procedural justice literature.
+
+The literature on procedural fairness provides decades of evidence that perceived voice in a
+
+process increases individuals’ trust in the process and the institution responsible for the
+
+process. Dunn (2012) extends this research into the political trust literature in an analysis of
+
+the effect of electoral systems on individually-held levels of trust in parliament, finding that
+
+voice in parliament (measured as the form and proportionality of the electoral system)
+
+predicts greater trust in parliament. This research argues that an individual will trust
+
+parliament more if the individual has a voice in that institution, but never directly measures
+
+whether an individual perceives that he has a voice in parliament. This paper resolves this by
+
+utilizing the concept of representation.
+
+The proposition that democratic representatives should provide voice (i.e., the ability to
+
+express one’s political preferences) to their constituents is common in political theory (e.g.,
+
+Mansbridge, 2009; Mill, 1861; Urbinati, 2006; Williams, 1998) and is often echoed, at least
+
+cursorily, in recent quantitative research (e.g., Blais & Bodet, 2006; Golder & Stramski,
+
+2010; Pande, 2003; Powell, 2006). In this sense, this article equates voice with democratic
+
+representation: an individual believes he is represented in parliament insofar as he believes
+
+that a representative in parliament provides him the ability to express his political preferences
+
+in the processes undertaken by parliament.
+
+This train of reasoning leads me to predict that individuals will trust parliament more if they
+
+believe they are represented in parliament. Making use of five electoral surveys of four
+
+countries, this article tests whether believing one is represented by a party in parliament
+
+corresponds with a higher level of political trust. In three of the four countries, and four of
+
+the five cases (Austria 2009, the Netherlands 2002, New Zealand 2002, New Zealand 2008),
+
+believing one is represented by a party in parliament does correspond with a higher level of
+
+political trust. However, in Switzerland 2007, there is no significant relationship between
+
+believing one is represented and trust in parliament. Though there is confirmation of this
+
+relationship in four of the five cases studied, the absence of any relationship in 2007
+
+Switzerland suggests caution. Nevertheless, there is certainly reason to suggest that, in
+
+general, believing that one has a voice in parliament leads one to trust parliament more than
+
+one otherwise would.
+
+The standard warning one should keep in mind when looking at evidence derived from cross sectional data applies: these findings are correlational, even though the theory predicting
+
+them indicates a causal relationship. Further, as the data analyzed here are also restricted to
+
+only four countries, I cannot be sure of how these results will generalize to more culturally
+
+divergent areas. There is some comfort in the numerous cultural, geographic, historical, and
+
+institutional differences between the four countries. However, all of these countries are
+
+advanced democracies and thereby limit generalization. More conclusive tests could be
+
+derived from data allowing individual measurement of perceived representation and trust in
+
+parliament over time and across a wider variety of countries.
+
+Data limitations notwithstanding, this evidence indicates that for those hoping to increase
+
+individuals’ trust in parliament, facilitating the perception that one is represented in
+
+parliament appears a promising tactic. One possible method for doing this would be
+
+increasing the proportionality of the electoral system (Golder & Stramski, 2010; Huber &
+
+Powell, 1994; Powell, 2000, 2009), a method equated with increasing perceptions of voice in
+
+parliamentary representation (Dunn, 2012; Mill, 1861). However, further evidence is
+
+necessary to determine whether the results obtained here apply more broadly, whether
+
+Switzerland in 2007 is an anomaly or indicative of a broader trend, and whether electoral
+
+systems designed to deliver more proportional results do actually increase individual
+
+perceptions of representation.
+
+Appendix A
+
+[INSERT TABLE A1 HERE]
+
+Appendix B
+
+[INSERT TABLE B1 HERE]
+
+References:
+
+Aldrich, J.H., & McKelvey, R.D. (1977). A Method of Scaling with Applications to the 1968
+
+and 1972 Presidential Elections. The American Political Science Review, 71(1), 111 130.
+
+Anand, P. (2001). Procedural fairness in economic and social choice: Evidence from a survey
+
+of voters. Journal of Economic Psychology, 22(2), 247-270.
+
+Anderson, C.J., & LoTempio, A.J. (2002). Winning, Losing and Political Trust in America.
+
+British Journal of Political Science, 32(02), 335-351.
+
+Andeweg, R.B. (2011). Approaching Perfect Policy Congruence: Measurement,
+
+Development, and Relevance for Political Representation. In Martin Rosema, Bas
+
+Denters & Kees Aarts (Eds.), How Democracy Works: Political Representation and
+
+Policy Congruence in Modern Societies (pp. 39-52). Amsterdam University Press,
+
+Amsterdam: Pallas Publications.
+
+Azur, M.J., Stuart, E.A., Frangakis, C., & Leaf, P.J. (2011). Multiple imputation by chained
+
+equations: what is it and how does it work? International Journal of Methods in
+
+Psychiatric Research, 20(1), 40-49.
+
+Banducci, S.A., & Karp, J.A. (2003). How Elections Change the Way Citizens View the
+
+Political System: Campaigns, Media Effects and Electoral Outcomes in Comparative
+
+Perspective. British Journal of Political Science, 33(03), 443-467.
+
+Bélanger, É., & Nadeau, R. (2005). Political trust and the vote in multiparty elections: The
+
+Canadian case. European Journal of Political Research, 44(1), 121-146.
+
+Blais, A., & Bodet, M.A. (2006). Does Proportional Representation Foster Closer
+
+Congruence Between Citizens and Policy Makers? Comparative Political Studies,
+
+39(10), 1243-1262.
+
+Bowler, S., & Karp, J. (2004). Politicians, Scandals, and Trust in Government. Political
+
+Behavior, 26(3), 271-287.
+
+Church, C.H. (2008). The Swiss Elections of 21 October 2007: Consensus Fights Back. West
+
+European Politics, 31(3), 608-623.
+
+Cohen, R.L. (1989). Fabrications of Justice. Social Justice Research, 3(1), 31-46.
+
+Cox, M. (2003). When Trust Matters: Explaining Differences in Voter Turnout. JCMS:
+
+Journal of Common Market Studies, 41(4), 757-770.
+
+Culnan, M.J., & Armstrong, P.K. (1999). Information Privacy Concerns, Procedural Fairness,
+
+and Impersonal Trust: An Empirical Investigation. Organization Science, 10(1), 104 115.
+
+Dalton, R.J., Farrell, D.M., & McAllister, I. (2011). The Dynamics of Political
+
+Representation. In Martin Rosema, Bas Denters & Kees Aarts (Eds.), How
+
+Democracy Works: Political Representation and Policy Congruence in Modern
+
+Societies (pp. 21-38). Amsterdam University Press, Amsterdam: Pallas Publications.
+
+Dunn, K. (2012). Voice and Trust in Parliamentary Representation. Electoral Studies, 31(2),
+
+393–405.
+
+Easton, D. (1965). A Systems Analysis of Political Life. New York: Wiley.
+
+Easton, D. (1975). A Re-Assessment of the Concept of Political Support. British Journal of
+
+Political Science, 5(4), 435-457.
+
+Folger, R. (1977). Distributive and procedural justice: Combined impact of voice and
+
+improvement on experienced inequity. Journal of Personality and Social Psychology,
+
+35(2), 108-119.
+
+Golder, M., & Stramski, J. (2010). Ideological Congruence and Electoral Institutions.
+
+American Journal of Political Science, 54(1), 90–106.
+
+Grimes, M. (2006). Organizing consent: The role of procedural fairness in political trust and
+
+compliance. European Journal of Political Research, 45(2), 285-315.
+
+Grönlund, K., & Setälä, M. (2007). Political Trust, Satisfaction and Voter Turnout.
+
+Comparative European Politics, 5(4), 400-422.
+
+Hetherington, M.J. (1998). The Political Relevance of Political Trust. The American Political
+
+Science Review, 92(4), 791-808.
+
+Hetherington, M.J. (1999). The Effect of Political Trust on the Presidential Vote, 1968-96.
+
+The American Political Science Review, 93(2), 311-326.
+
+Hetherington, M.J. (2005). Why Trust Matters: Declining political trust and the demise of
+
+American liberalism. Princeton, NJ: Princeton University Press.
+
+Holmberg, S. (2011). Dynamic Representation from Above. In Martin Rosema, Bas Denters
+
+& Kees Aarts (Eds.), How Democracy Works: Political Representation and Policy
+
+Congruence in Modern Societies (pp. 53-76). Amsterdam University Press,
+
+Amsterdam: Pallas Publications.
+
+Hooghe, M., Marien, S., & Pauwels, T. (2011). Where Do Distrusting Voters Turn if There is
+
+No Viable Exit or Voice Option? The Impact of Political Trust on Electoral
+
+Behaviour in the Belgian Regional Elections of June 2009. Government and
+
+Opposition, 46(2), 245-273.
+
+Huber, J.D., & Powell, G.B., Jr. (1994). Congruence Between Citizens and Policymakers in
+
+Two Visions of Liberal Democracy. World Politics, 46(3), 291-326.
+
+Kim, M. (2009). Cross-National Analyses of Satisfaction with Democracy and Ideological
+
+Congruence. Journal of Elections, Public Opinion & Parties, 19(1), 49-72.
+
+Kim, W.C., & Mauborgne, R. (2003). Fair Process: Managing in the Knowledge Economy.
+
+Harvard Business Review, 81(1), 127-136.
+
+King, G., Murray, C.J.L., Salomon, J.A., & Tandon, A. (2004). Enhancing the Validity and
+
+Cross-Cultural Comparability of Measurement in Survey Research. The American
+
+Political Science Review, 98(1), 191-207.
+
+Korsgaard, M.A., Schweiger, D.M., & Sapienza, H.J. (1995). Building Commitment,
+
+Attachment, and Trust in Strategic Decision-Making Teams: The Role of Procedural
+
+Justice. The Academy of Management Journal, 38(1), 60-84.
+
+Kritzinger, S., Aichholzer, J., Johann, D., Wagner, M., Willmann, J., & Zeglovits, E. (2013).
+
+AUTNES Post-Post Election Survey 2009 Documentation Report (2nd edition).
+
+Vienna: University of Vienna.
+
+Ladner, A. (2001). Swiss political parties: Between persistence and change. West European
+
+Politics, 24(2), 123-144.
+
+Lind, E.A., Kanfer, R., & Earley, P.C. (1990). Voice, control, and procedural justice:
+
+Instrumental and noninstrumental concerns in fairness judgments. Journal of
+
+Personality and Social Psychology, 59(5), 952-959.
+
+Lind, E.A., & Tyler, T.R. (1988). The Social Psychology of Procedural Justice. New York:
+
+Plenum Press.
+
+Lind, E.A., & van den Bos, K. (2002). When Fairness Works: Toward a general theory of
+
+uncertainty management. Research in Organizational Behavior, 24, 181-223.
+
+Mansbridge, J. (1999). Should Blacks Represent Blacks and Women Represent Women? A
+
+Contingent "Yes". The Journal of Politics, 61(3), 628-657.
+
+Mansbridge, J. (2009). A “Selection Model” of Political Representation. The Journal of
+
+Political Philosophy, 17(4), 369-398.
+
+Marien, S., & Hooghe, M. (2011). Does political trust matter? An empirical investigation into
+
+the relation between political trust and support for law compliance. European Journal
+
+of Political Research, 50(2), 267-291.
+
+Mill, J.S. (1861). Representative Government. Kitchener, Ontario: Batoche Books.
+
+Miller, A.H. (1974). Political Issues and Trust in Government: 1964-1970. The American
+
+Political Science Review, 68(3), 951-972.
+
+Miller, A.H., & Borrelli, S.A. (1991). Confidence in Government During the 1980s.
+
+American Politics Research, 19(2), 147-173.
+
+Mishler, W., & Rose, R. (2001). What Are the Origins of Political Trust?: Testing
+
+Institutional and Cultural Theories in Post-communist Societies. Comparative
+
+Political Studies, 34(1), 30-62.
+
+Montesquieu, C.d.S. (2002 [1748]). The Spirit of the Laws. In Anne M. Cohler, Basia C.
+
+Miller & Harold S. Stone (Eds.). Cambridge, England: Cambridge University Press.
+
+Norris, P. (1999a). Critical Citizens: Global support for democratic government. Oxford;
+
+New York: Oxford University Press.
+
+Norris, P. (1999b). Institutional Explanations for Political Support. In Pippa Norris (Ed.),
+
+Critical Citizens: Global support for democratic government (pp. 217-235). Oxford
+
+[England]; New York: Oxford University Press.
+
+Pande, R. (2003). Can Mandated Political Representation Increase Policy Influence for
+
+Disadvantaged Minorities? Theory and Evidence from India. The American Economic
+
+Review, 93(4), 1132-1151.
+
+Pennings, P., & Keman, H. (2003). The Dutch Parliamentary Elections in 2002 and 2003:
+
+The Rise and Decline of the Fortuyn Movement. Acta Politica, 38(1), 51-68.
+
+Powell, G.B. (2000). Elections as Instruments of Democracy: Majoritarian and proportional
+
+visions. New Haven: Yale University Press.
+
+Powell, G.B. (2006). Election Laws and Representative Governments: Beyond Votes and
+
+Seats. British Journal of Political Science, 36(02), 291-315.
+
+Powell, G.B. (2009). The Ideological Congruence Controversy: The Impact of Alternative
+
+Measures, Data, and Time Periods on the Effects of Election Rules. Comparative
+
+Political Studies, 42(12), 1475-1497.
+
+Royston, P., & White, I.R. (2011). Multiple Imputation by Chained Equations (MICE):
+
+Implementation in Stata. Journal of Statistical Software, 45(4), 1-20.
+
+Thibaut, J., & Walker, L. (1978). A Theory of Procedure. California Law Review, 66(3), 541 566.
+
+Tyler, T.R. (1994). Governing amid Diversity: The Effect of Fair Decisionmaking Procedures
+
+on the Legitimacy of Government. Law & Society Review, 28(4), 809-831.
+
+Tyler, T.R., & Blader, S.L. (2003). The Group Engagement Model: Procedural Justice, Social
+
+Identity, and Cooperative Behavior. [Article]. Personality & Social Psychology
+
+Review, 7(4), 349-361.
+
+Tyler, T.R., & Lind, E.A. (1992). A Relational Model of Authority in Groups. In P. Zanna
+
+Mark (Ed.), Advances in Experimental Social Psychology (Vol. Volume 25, pp. 115 191): Academic Press.
+
+Urbinati, N. (2006). Political Representation as Democratic Process. In Kari Palonen (Ed.),
+
+Redescriptions (pp. 18-40). Helsinki: Transaction Publishers.
+
+van den Bos, K., Wilke, H.A.M., & Lind, E.A. (1998). When Do We Need Procedural
+
+Fairness? The role of trust in authority. Journal of Personality and Social Psychology,
+
+75(6), 1449-1458.
+
+van Prooijen, J.-W. (2009). Procedural justice as autonomy regulation. Journal of Personality
+
+and Social Psychology, 96(6), 1166-1180.
+
+Verba, S. (1993). The 1993 James Madison Award Lecture: The Voice of the People. PS:
+
+Political Science and Politics, 26(4), 677-686.
+
+Walker, L., Lind, E.A., & Thibaut, J. (1979). The Relation between Procedural and
+
+Distributive Justice. Virginia Law Review, 65(8), 1401-1420.
+
+White, I.R., Royston, P., & Wood, A.M. (2011). Multiple imputation using chained
+
+equations: Issues and guidance for practice. Statistics in Medicine, 30(4), 377-399.
+
+Williams, M.S. (1998). Voice, Trust, and Memory: Marginalized groups and the failings of
+
+liberal representation. Princeton, N.J.: Princeton University Press.
+
+Table 1: Difference between those who do and do not feel represented by a party in parliament
+
+ȴ means std.err. pw.corr ȴ p.prob Austria (2008) -0.220 0.104 0.076 0.242 Netherlands (2002) -0.187 0.066 0.076 0.227 New Zealand (2002) -0.319 0.056 0.106 0.361 New Zealand (2008) -0.144 0.078 0.044 0.152 Switzerland (2007) -0.049 0.063 0.016 0.050 Note: Bolded values are significant at the p ч 0.05 level.
+
+Table 2a: OLS Regression predicting Trust in Parliament in Austria and Switzerland
+
+Austria (2008) Switzerland (2007) ɴ s.e. std.ɴ ɴ s.e. std.ɴ age 0.014 0.005 0.093 -0.005 0.002 -0.047 education 0.101 0.037 0.099 0.022 0.017 0.029 electoral winner 0.952 0.198 0.170 0.168 0.099 0.035 gender (male) 0.007 0.176 0.001 -0.211 0.073 -0.061 Left-Right Identification -0.045 0.037 -0.041 0.089 0.014 0.131 perception of economy -0.418 0.111 -0.128 -0.236 0.052 -0.097 political interest 0.290 0.089 0.114 -0.063 0.054 -0.024 feel represented 1.065 0.180 0.202 0.103 0.072 0.029 vote congruence 0.169 0.061 0.092 -0.020 0.023 -0.018
+
+constant 2.439 0.786 -- 6.868 0.336 -- r-squared 0.173 -- -- 0.034 -- -- observations 767 -- -- 2420 -- -- Note: Bolded coefficients are significant at the p ч 0.05 level.
+
+Table 2b: OLS Regression predicting Trust in Parliament in New Zealand
+
+New Zealand (2002) New Zealand (2008) ɴ s.e. std.ɴ ɴ s.e. std.ɴ age 0.008 0.002 0.071 0.007 0.003 0.064 education 0.198 0.019 0.200 0.092 0.016 0.148 electoral winner 0.294 0.072 0.083 0.294 0.096 0.084 gender (male) 0.200 0.063 0.057 -0.033 0.080 -0.009 Left-Right Identification -0.019 0.015 -0.026 0.061 0.020 0.084 perception of economy -0.354 0.044 -0.152 -0.179 0.052 -0.081 political interest 0.041 0.047 0.016 0.361 0.058 0.147 feel represented 0.248 0.067 0.067 0.572 0.102 0.129 vote congruence 0.034 0.022 0.028 0.095 0.031 0.070
+
+constant 3.158 0.304 -- 2.238 0.417 -- r-squared 0.095 -- -- 0.097 -- -- observations 2883 -- -- 1744 -- - Table 2c: Ordered Logistic Regression predicting Trust in Parliament in the Netherlands
+
+Netherlands (2002) ɴ s.e. O.R. age -0.008 0.004 0.992 education 0.010 0.022 1.010 electoral winner 0.143 0.135 1.154 gender (male) 0.012 0.115 1.013 Left-Right Identification -0.065 0.032 0.937 perception of economy -0.350 0.083 0.704 political interest 0.348 0.109 1.416 feel represented 0.417 0.123 1.517 vote congruence 0.073 0.049 1.076
+
+pseudo r-squared 0.027 -- -- observations 1408 -- -- Note: Bolded coefficients are significant at the p ч 0.05 level.
+
+Table A1: Summary Statistics
+
+Austria (2008) Obs. Mean Std.Dev. Min. Max. trust in parliament 767 5.798 2.576 0 10 age 767 51.983 17.478 18 96 education 767 3.743 2.531 0 10 electoral winner 767 0.694 0.461 0 1 gender (male) 767 0.495 0.500 0 1 Left-Right Identification 767 4.755 2.360 0 10 perception of economy 767 3.180 0.788 1 5 political interest 767 3.538 1.015 1 5 feel represented 767 0.611 0.488 0 1 vote congruence 767 8.712 1.406 1 10
+
+Netherlands (2002) Obs. Mean Std.Dev. Min. Max. trust in parliament 1408 2.726 0.574 1 4 age 1408 49.564 15.833 18 97 education 1408 6.298 2.804 1 11 electoral winner 1408 0.530 0.499 0 1 gender (male) 1408 0.496 0.500 0 1 Left-Right Identification 1408 5.229 2.161 0 10 perception of economy 1408 1.577 0.685 1 3 political interest 1408 2.195 0.539 1 3 feel represented 1408 0.705 0.456 0 1 vote congruence 1408 8.997 1.129 3 10
+
+New Zealand (2002) Obs. Mean Std.Dev. Min. Max. trust in parliament 2883 4.335 1.753 0 8 age 2883 50.995 15.329 18 100 education 2883 4.870 1.766 1 8 electoral winner 2883 0.435 0.496 0 1 gender (male) 2883 0.503 0.500 0 1 Left-Right Identification 2883 5.147 2.388 0 10 perception of economy 2883 2.581 0.753 1 5 political interest 2883 3.051 0.695 1 4 feel represented 2883 0.656 0.475 0 1 vote congruence 2883 8.725 1.430 0 10
+
+New Zealand (2008) Obs. Mean Std.Dev. Min. Max. trust in parliament 1744 5.225 1.737 0 9 age 1744 53.607 16.140 18 100 education 1744 5.467 2.792 0 10 electoral winner 1744 0.423 0.494 0 1 gender (male) 1744 0.493 0.500 0 1
+
+Left-Right Identification 1744 5.493 2.380 0 10 perception of economy 1744 4.288 0.788 1 5 political interest 1744 3.122 0.705 1 4 feel represented 1744 0.811 0.391 0 1 vote congruence 1744 8.895 1.281 0 10
+
+Switzerland (2007) Obs. Mean Std.Dev. Min. Max. trust in parliament 2420 6.421 1.734 0 10 age 2420 53.403 17.075 18 95 education 2420 4.628 2.244 1 8 electoral winner 2420 0.842 0.365 0 1 gender (male) 2420 0.510 0.500 0 1 Left-Right Identification 2420 5.271 2.551 0 10 perception of economy 2420 2.019 0.714 1 5 political interest 2420 3.147 0.670 1 4 feel represented 2420 0.437 0.496 0 1 vote congruence 2420 8.569 1.549 0 10
+
+Table B1a: OLS Regression predicting Trust in Parliament (Imputed)
+
+Austria (2008) Switzerland (2007) ɴ s.e. ɴ s.e. age 0.012 0.004 -0.007 0.002 education 0.067 0.030 0.039 0.014 electoral winner 0.988 0.150 0.409 0.063 gender (male) 0.055 0.142 -0.269 0.061 Left-Right Identification -0.044 0.033 0.095 0.013 perception of economy -0.496 0.088 -0.314 0.041 political interest 0.329 0.068 0.211 0.039 feel represented 0.917 0.147 0.059 0.065 vote congruence 0.156 0.055 -0.027 0.029
+
+constant 2.856 0.647 6.034 0.313 observations 1165 -- 4392 -- Note: Bolded coefficients are significant at the p ч 0.05 level.
+
+Table B1b: OLS Regression predicting Trust in Parliament (Imputed)
+
+New Zealand
+
+(2002) New Zealand
+
+(2008) ɴ s.e. ɴ s.e. age 0.005 0.002 0.002 0.001 education 0.178 0.016 0.085 0.013 electoral winner 0.320 0.060 0.466 0.081 gender (male) 0.105 0.050 0.014 0.068 Left-Right Identification -0.011 0.014 0.054 0.018 perception of economy -0.382 0.036 -0.142 0.044 political interest 0.052 0.039 0.426 0.047 feel represented 0.370 0.055 0.690 0.078 vote congruence 0.038 0.020 0.106 0.030
+
+constant 3.274 0.249 1.885 0.344 observations 5783 -- 3042 -- Note: Bolded coefficients are significant at the p ч 0.05 level.
+
+Table B1c: Ordered Logistic Regression predicting Trust in Parliament (Imputed)
+
+Netherlands (2002) ɴ s.e. age -0.002 0.001 education 0.003 0.006 electoral winner 0.067 0.036 gender (male) 0.020 0.031 Left-Right Identification -0.021 0.008 perception of economy -0.092 0.021 political interest 0.107 0.028 feel represented 0.139 0.032 vote congruence 0.019 0.013
+
+constant 2.499 0.149 observations 1907 -- Note: Bolded coefficients are significant at the p ч 0.05 level.

@@ -1,0 +1,1451 @@
+1
+
+Examining Macroeconomic Determinants of Trust in Parliament:
+
+A Dynamic Multilevel Framework
+
+Anna Ruelens1, Bart Meuleman2, Ides Nicaise1
+
+Accepted for publication in Social Science Research
+
+Abstract The extensive literature on political trust has long suggested a link between macroeconomic
+
+conditions and public trust in political institutions. However, empirical evidence regarding this
+
+relationship remains ambiguous. Conflicting results appear to be related to differences in research
+
+design: while cross-sectional studies tend not to find evidence of a link between macroeconomic
+
+variables and trust in political institutions, most longitudinal studies do. In this paper, using recent
+
+advances in multilevel methodology, we examine both cross-sectional and longitudinal effects of
+
+macroeconomic variables on trust in national parliament within a single dynamic multilevel framework.
+
+By analyzing all seven waves of the European Social Survey (2002-2014), we demonstrate that declining
+
+macroeconomic performance has a negative within-country effect on trust in national parliament. At the
+
+same time, we find limited evidence in support of this association at the between-country level. This
+
+discrepancy suggests the presence of confounding factors that are unaccounted for in cross-sectional
+
+designs. We therefore argue for the importance of examining within-country effects as they provide a
+
+more stringent test of causality.
+
+Keywords: political trust, trust in parliament, macroeconomic performance, European Social Survey,
+
+multilevel modeling
+
+1 Research Institute for Work and Society, University of Leuven, Belgium
+
+2 Centre for Sociological Research, University of Leuven, Belgium
+
+2
+
+1. Introduction
+
+Researchers of political trust1 have begun to develop increasingly comprehensive models that combine
+
+individual and macro-level characteristics, as well as the interplay between them. The motivating
+
+premise underlying these studies is that trust in political institutions, such as national parliaments,
+
+constitutes a complex phenomenon and that its determinants are not limited to the factors at the micro level (Van der Meer, 2010). To complement the explanations emphasizing individual-level
+
+characteristics, most studies focused on exploring the link between different aspects of macroeconomic
+
+performance and political trust. In recent years, following the financial and economic crisis of 2008 2009, there has been a significant increase in studies examining the relationship between
+
+macroeconomic performance and trust. Although few would deny the relevance of macroeconomic
+
+characteristics in relation to political trust, the exact nature of this relationship remains unclear. In fact,
+
+the empirical literature examining the relationship between objective macroeconomic performance and
+
+trust in political institutions has been equivocal, reporting positive relationships between
+
+macroeconomic variables and trust in some cases and negative or null relationships in other cases (cf.
+
+Clarke et al., 1993; Cusack, 1999; Miller and Listhaug, 1999; Dalton, 2004; Van der Meer, 2010;
+
+Hakhverdian and Mayne, 2012; Van der Meer and Hakhverdian, 2017).
+
+Given the conflicting pattern of results, there is a general concern in political trust literature about the
+
+consistency of evidence supporting a causal relationship between contextual factors and political trust
+
+(Zmerli and Van der Meer, 2017). In light of such comments, our study is set to examine one potential
+
+source of contradictory findings in the past research. Specifically, we argue that inconsistent findings of
+
+prior studies may have resulted from methodological differences in research design. Indeed, while cross sectional studies tend not to find evidence of a link between macroeconomic performance and trust in
+
+political institutions, most studies employing a longitudinal design or time-series analysis do (e.g.
+
+Anderson, 2009; Clarke et al., 1993; Cusack, 1999; Mishler and Rose, 2001). The difference is that the
+
+cross-sectional studies analyze the effects of macroeconomic variables on trust between countries
+
+(between-country effects) whereas longitudinal studies rely on within-country analysis. Each of these
+
+designs is characterized by certain advantages and limitations. The cross-sectional design is static as it
+
+considers data at a single time point (i.e. a year or a survey wave). By relying on a snapshot in time,
+
+studies that employ a cross-sectional design are vulnerable to the influence of confounding factors that
+
+are difficult to remove. Therefore, a demonstration of cross-sectional differences alone does not provide
+
+conclusive evidence of a causal role of contextual characteristics in influencing political trust.
+
+Longitudinal studies that analyze changes in political trust over time may be especially useful in
+
+1 Although there is some debate on whether institutional trust, political trust and political confidence refer to the
+
+same concept, in the current literature these terms are often used interchangeably.
+
+3
+
+shedding additional light on the relationship between macroeconomic performance and political trust.
+
+Yet, to date, most longitudinal studies on trust in political institutions have primarily relied on
+
+aggregated survey data (e.g., Mishler and Rose, 2001), or on a single-country study (e.g. Poznyak et al.,
+
+2014) and, therefore, have limited generalizability to other spatial and temporal contexts.
+
+In this paper, using recent advances in multilevel methodology, we provide a methodologically rigorous
+
+examination of the effects of macroeconomic characteristics on public trust in national parliaments. The
+
+present study contributes to the political trust literature in a number of ways. First, while prior studies
+
+focus either on a period of stability or a period of economic turmoil, we are able to examine the evolution
+
+of trust in national parliament for a more extended period, namely from 2002 to 2014, by using all seven
+
+waves of the European Social Survey (ESS). Examining a longer time span is important considering that
+
+contextual effects can have different influence in normal and crisis times (Kumlin and Haugsgjerd,
+
+2017). Second, in the present study, we apply a more dynamic view by focusing on longitudinal (within ) as well as cross-sectional (between-) effects of macroeconomic variables. This strategy allows us to
+
+examine not only the effect of macroeconomic context on between-country differences in political trust
+
+but also its effects on the differences within countries over time. At the same time, by using multilevel
+
+approach, we simultaneously control for compositional effects of each national sample. Altogether, this
+
+work contributes new theoretical and empirical insights to the established debate regarding the
+
+relationship between macroeconomic performance and political trust.
+
+2. Theoretical background
+
+Although a wide variety of political trust definitions exist, there is a converging understanding of
+
+political trust as a basic relational and evaluative orientation towards political institutions and actors
+
+with the expectation that these institutions and actors will act according to one’s interest and normative
+
+disposition (Van der Meer, 2010; Hakhverdian and Mayne, 2012; cf. Newton, 1999; Levi and Stoker,
+
+2000; Hetherington, 1998). Political trust is not only an essential prerequisite for the functioning of the
+
+democratic institutions, such as domestic parliaments (Easton, 1965; Mishler and Rose, 2001; Newton,
+
+2001; Kumlin and Rothstein, 2005; Keele, 2007; Freitag and Buhlmann, 2009) but it also, together with
+
+norms and values, constitutes a fundamental component of social capital (Van Oorschot and Arts, 2005).
+
+Recent scholarship on political trust has become increasingly interested in the performative evaluation
+
+of the state (Kumlin and Haugsgjerd, 2017). Specifically, ‘trust-as-evaluation’ perspective suggests that
+
+the evaluation of the actual performance of the state may impact the levels of political trust at the
+
+individual level (Van der Meer, 2017). To date, most empirical and theoretical work that adopts a
+
+performance-oriented framework has been concerned with a single policy domain, namely
+
+macroeconomic performance.
+
+4
+
+The proponents of the political economy perspective have long argued that institutional ability in
+
+meeting the socio-economic demands of the citizenry represents a key determinant of public trust in
+
+political institutions (Lipset 1960; Offe 1984). According to this view, public support of political
+
+institutions depends on the economic performance of the country (Miller and Listhaug, 1999). Both
+
+egotropic and sociotropic concerns of the individuals regarding their economic situation have been
+
+linked to changes in attitudes towards political institutions (Lewis-Beck and Stegmaier, 2000).
+
+Egotropic concerns relate to the direct individual experiences of economic vulnerability that can be
+
+either transitory or stable. In contrast, sociotropic concerns reflect the overall assessment of economic
+
+conditions in the country regardless of individual economic circumstances. To illustrate these two types
+
+of subjective evaluations, it may be helpful to consider an example of an economic crisis, typically
+
+characterized by economic contraction and increased unemployment. At the individual level,
+
+experiences of unemployment and loss of income constitute the key examples relating to egotropic
+
+concerns. Sociotropic concerns, on the other hand, can reflect a general anxiety of citizens about a
+
+worsening economic situation in the country and dissatisfaction with the performance of political
+
+institutions in handling the consequences of the crisis. It is clear that both types of reactions can be
+
+affected by the actual macroeconomic performance of the state.
+
+At the individual level, a number of studies examining the utility of egotropic evaluations point out to
+
+the importance of class structure and socioeconomic status, as key determinants of political trust (Lipset
+
+1960; Hout et al., 1995; Clarke et al., 1993). In particular, this logic suggests that political trust is lower
+
+among individuals in more economically vulnerable positions, such as poor and low-educated. Recent
+
+studies have also established a connection between the experience of unemployment and lower levels
+
+of trust (Polavieja, 2013; Van Erkel and Van der Meer, 2016). As an alternative, a sociotropic
+
+perspective focuses on establishing the link between trust in political institutions and individual
+
+perceptions of macroeconomic performance (also termed ‘retrospective evaluations’ see Torcal, 2014).
+
+Studies using this approach, tend to find a strong connection between a subjective opinion about national
+
+economic performance and political trust (e.g., Citrin and Green, 1986; Hetherington and Rudolph,
+
+2008; Van der Meer and Dekker, 2011, Ellinas and Lambrianou, 2014). However, as aptly observed by
+
+Van Erkel and Van der Meer (2016): “these subjective evaluations tell us little about actual [emphasis
+
+is ours] macroeconomic effects” (p. 177).
+
+In contrast to the studies focusing on subjective individual factors (either individual characteristics or
+
+perceptions of economic situation), the role of objective economic performance in determining political
+
+trust remains a subject of debate (Van der Meer, 2017; Van der Meer and Hakhverdian, 2017). Many
+
+argue that political trust benefits from solid macroeconomic performance (e.g., Clarke et al., 1993;
+
+Cusack, 1999; Miller and Listhaug, 1999; Taylor, 2000; Anderson, 2009). Given that citizens use a
+
+country’s economic performance as a main criterion for judging political performance it is not surprising
+
+that in times of economic prosperity public trust in national political institutions tends to rise, while in
+
+5
+
+times of economic crisis, it tends to suffer. Still other empirical studies do not confirm a significant
+
+relationship between macroeconomic performance and political trust (e.g., Dalton, 2004; Van der Meer,
+
+2010). Furthermore, more recent research has emphasized the importance of political aspects of
+
+government performance, such as public sector corruption, in determining political trust (Della Porta,
+
+2000; Anderson and Tverdova, 2003; Morris and Klesner, 2010; Uslaner 2017). According to this
+
+perspective, public-sector corruption undermines the performance of political institutions and results in
+
+unresponsiveness to citizens’ demands and expectations (Hakverdian and Mayne, 2012; Torcal, 2014).
+
+In the latest empirical work examining the determinants of political trust, corruption serves as a rival
+
+explanation to the influence of macroeconomic performance. For example, on the basis of the ESS data
+
+Van der Meer (2010) concludes that corruption has “a consistent, negative effect on trust in parliament”
+
+(p. 530) while no effect of the actual economic performance on trust in parliament is found. Similarly,
+
+Van der Meer and Hakverdian (2017), using cross-sectional data from the European Value Survey 2008,
+
+find that macroeconomic characteristics lose their significance once corruption is taken into account.
+
+The authors, however, emphasize that it is essential to conduct within-country, longitudinal analyses
+
+before definite conclusions about the relationship between macroeconomic performance and trust can
+
+be made (Van der Meer and Hakverdian, 2017).
+
+3. Current study and research hypotheses
+
+3.1. A dynamic approach to studying macroeconomic effects
+
+The conflicting pattern of results constitutes ‘the perception-performance paradox’ of macroeconomic
+
+performance in its influence on political trust (Van der Meer, 2017). A potentially important explanation
+
+for this paradox is methodological, relating to the research design used to assess the relationship between
+
+macroeconomic performance and political trust (cf. Van Erkel and Van der Meer, 2016). In the past,
+
+most of the studies examining the role of objective macroeconomic characteristics relied on cross sectional designs that measure the effect of macroeconomic variables at a single point in time. A well known drawback of the traditional cross-sectional design is the relatively weak internal validity: this
+
+design does not allow to establish causal claims about the relationships between contextual variables at
+
+the country level and individual-level outcomes. Cross-sectional evidence that economically better performing countries have higher levels of political trust hardly confirms that macroeconomic factors
+
+determine citizens’ levels of political trust, because the presence of confounding variables (e.g. the
+
+welfare regime) cannot be ruled out and the temporal order cannot be ascertained. In contrast, if one
+
+would observe that trust in national parliaments decreases after a period of economic downturn, then the
+
+evidence for a causal relationship between macroeconomic performance and political trust is much
+
+stronger. Supporting this view, a number of recent studies on political trust have criticized the use of the
+
+6
+
+cross-sectional design and have recommended the use of longitudinal designs (Armingeon and
+
+Guthmann, 2014; Van Erkel and Van der Meer, 2016; Van der Meer and Hakhverdian, 2017; Van der
+
+Meer, 2017). Unfortunately, comparative longitudinal data on individual attitudinal variables are scarce,
+
+and the results derived from single-country time-series designs (e.g. Poznyak et al., 2014) are not
+
+generalizable directly to other contexts.
+
+In order to address this challenge, the present study implements a recently developed multilevel model
+
+that decomposes the cross-sectional and longitudinal components at the context level, while
+
+simultaneously controlling for compositional effects at the individual level (Allison, 2009; Schunck,
+
+2013; Curran and Bauer, 2011; Fairbrother, 2014; Schmidt-Catran, 2016; Meuleman et al., 2017). Such
+
+a dynamic model for repeated cross-sectional, cross-national data combines the strength of comparative
+
+cross-sections (that is, the wide range of comparison across countries) and longitudinal models (the
+
+focus on change over time). Concretely, this model, separates cross-sectional and longitudinal effects of
+
+macroeconomic factors on trust in national parliament. To elaborate, when considering macroeconomic
+
+factors, cross-sectional effects refer to the relationship between macroeconomic characteristics and trust
+
+in national parliament between countries (i.e. national parliaments in countries with stronger
+
+macroeconomic performances enjoy more trust), while longitudinal effects refer to the relationship
+
+between changes in macroeconomic characteristics and political trust within a country (i.e. the stronger
+
+a country’s macroeconomic performance becomes the more trust its national parliament will enjoy). In
+
+addition to the advantages outlined above, by using this modeling approach, we are able to examine a
+
+longer time span that includes a period of relative economic stability and a period of the economic crisis.
+
+Given the wide variation in the effects of the crisis on countries’ macroeconomic performance, the
+
+context of the crisis provides a quasi-natural experimental setting for testing our hypotheses.
+
+3.2. Research hypotheses
+
+Considering the theoretical propositions discussed above, we formulate a set of hypotheses regarding
+
+the relationship between trust in national parliament and the individual and macroeconomic
+
+characteristics. Drawing on the individual-level explanations, we expect that lower socioeconomic status
+
+is negatively associated with trust in domestic parliaments (Hypothesis 1). Moreover, according to the
+
+proponents of the political economy perspective, poor macroeconomic performance results in lower
+
+levels of political trust. It follows then that the higher a country’s level of macroeconomic performance,
+
+the more citizens are likely to trust the national parliament (between-country effects) (Hypothesis 2).
+
+Furthermore, we expect that the relationship between macroeconomic performance and trust in
+
+parliament also holds longitudinally. This implies that the positive changes in national macroeconomic
+
+performance are positively related to changes in trust in domestic parliaments (within-country effects)
+
+(Hypothesis 3). Finally, to test a competing explanation for the level and changes in public trust in
+
+7
+
+parliament, namely corruption, we evaluate the following alternative hypothesis: the relationship
+
+between macroeconomic performance and trust in parliament will be insignificant both between and
+
+within countries, once we control for corruption at the country level (Hypothesis 4). 2
+
+4. Data and measurements
+
+Data
+
+This study investigates the relationship between macroeconomic performance and political trust in
+
+national parliament. To test our hypotheses, we combine data from different sources. The individual level data are available through the European Social Survey (ESS), 2002-2014. The ESS is a high quality
+
+biennial comparative survey, frequently used in research on political trust (e.g. Listhaug and Ringdal,
+
+2008; Marien, 2011: Van der Meer, 2010). The item of trust in national parliaments analyzed in this
+
+study belongs to the core ESS module. This core module, repeated every two years, allows us to combine
+
+all seven waves of the ESS survey. Our final sample includes 28 countries, 157 country-periods, and
+
+295,226 individual respondents. The number of respondents per country and per ESS wave is
+
+summarized in Supplementary Materials, Table 1. For this study, individual-level data were combined
+
+with country-level data on macroeconomic performance and control of corruption provided by the
+
+World Bank.
+
+Measures
+
+Dependent variable
+
+Trust in national parliament is operationalized by using the European Social Survey’s question to what
+
+extent citizens trust their national parliament. The individual responses are recorded on eleven-point
+
+scale ranging from 0 (‘having no trust at all’) to 10 (‘having complete trust’). The official question
+
+wording used in the ESS was: “Using this card, please tell me on a score of 0-10 how much you
+
+personally trust each of the institutions I read out [here country’s parliament]. 0 means you do not trust
+
+an institution at all, and 10 means you have complete trust.”
+
+2 We have chosen not to include a hypothesis regarding sociotropic concerns for two main reasons: 1) the relevance
+
+of subjective evaluations of macroeconomic performance is firmly established in the literature; 2) our inclusion of
+
+a measure of perception of economic performance may lead to underestimating the effect of objective
+
+macroeconomic indicators on political trust, considering that part of the objective performance is incorporated into
+
+the subjective evaluation (see also comment of Van der Meer (2017) regarding the studies of Rahn and Rudolph
+
+(2005) and Oskarsson (2010)).
+
+8
+
+Independent and control variables
+
+To capture the effects of macroeconomic performance, we use the data on the real GDP growth rate and
+
+the unemployment rate (% of total labour force), provided by the World Bank. These two indicators are
+
+most indicative of the condition of the national economy and are most frequently used in the literature
+
+to capture the effects of macroeconomic performance (Dolan et al., 2009; Van der Meer, 2010; Van
+
+Erkel and Van der Meer, 2016). To control for the effect of corruption, we use the Control of Corruption
+
+(CCI) indicator, one of the key Worldwide Governance Indicators (WGI) from the World Bank. This
+
+indicator provides country scores ranging between -2.5 and 2.5 with higher scores indicating greater
+
+perceived control of corruption (Kaufmann et al., 2011). The Corruption Perception Index (CPI),
+
+published by Transparency International (TI), often serves as an alternative indicator of perceived
+
+corruption. However, the changes in methodology in the CPI over the time period used in this study do
+
+not allow for making valid comparisons over time (Rohwer, 2009). Although the Control of Corruption
+
+indicator might also not be an ideal measure for longitudinal comparisons, it offers more consistency
+
+across time. In addition, the correlation between the two corruption measures (CCI and CPI) is generally
+
+reported to be very high (e.g. corr. = 0.97 in Bohara et al., 2004) which increases our confidence in this
+
+indicator. Lastly, given that previous research suggests a link between political trust and the former
+
+communist regime (e.g. Mishler and Rose, 2001; Van der Meer and Dekker, 2011; Závecz, 2017), we
+
+include a dummy variable for former communist countries as a control variable into the analysis. Table
+
+2 in the online supplement gives an overview of the descriptive statistics for the independent variables
+
+at the country level.
+
+In keeping with our hypotheses and prior research, we include the following variables at the individual
+
+level: respondent’s gender (female as reference); age (in years) and the squared term of age; employment
+
+status measured as the main activity of a respondent in the last seven days and operationalized using ten
+
+constructed categories (white collar as reference, self-employed, higher service class, blue collar,
+
+unemployed, retired, in education, doing housework, disabled, and other), and the degree of urbanization
+
+of the respondent (recoded as 1 ‘living in farm or home in countryside’ to 5 ‘living in a big city’). As a
+
+proxy for socioeconomic status, we use educational level measured in years of full-time education
+
+completed.3 In addition to the control variables, empirical research on political trust suggests a number
+
+of potentially influential variables at the individual level to be included into analysis. Specifically,
+
+financial situation is operationalized using the ESS subjective income item asking respondents to
+
+indicate their feeling about household’s present income ranging from ‘living comfortably’ to ‘very
+
+difficult’. Since this item is originally reverse coded, we recoded the scores so that a higher score
+
+3 While we can also operationalize educational background by using separate categories we choose to use a
+
+continuous measure to facilitate interpretation.
+
+9
+
+indicates people who see themselves as living more comfortably on the present income. Additionally,
+
+respondents’ political views may be important for their trust attitudes (Torcal, 2014; Van Erkel and Van
+
+Der Meer, 2016). Accordingly, we introduce the self-positioning of the individual on the political
+
+spectrum into the analysis by using the ESS item asking respondents about their position on an
+
+ideological scale ranging from left ‘0’ to right ‘10’. We divide this scale into three groups: left (scores
+
+0 to 4), center (score 5), and right (scores 6 to 10), and add a fourth category to account for missing data
+
+on this item. Furthermore, we include a measure of religiosity operationalized using the mean of three
+
+ESS items reflecting various aspects of religious involvement, namely, religious attendance (ranging
+
+from 1 ‘never’ to 7 ‘every day’), frequency of praying (ranging from 1 ‘never’ to 7 ‘every day’), and
+
+subjective religiosity (ranging from 0 ‘not at all religious’ to 10 ‘very religious’). Finally, we also include
+
+a variable that indicates whether an individual is a member of minority (member of majority as
+
+reference) based on the data from three separate ESS indicators: (1) self-identification of belonging to a
+
+minority ethnic group in the country, (2) not being a citizen of the country and (3) not being born in the
+
+country. Table 3 in the online supplement provides an overview of the descriptive statistics for the
+
+independent variables and for the control variables at the individual level.
+
+5. Modeling strategy
+
+Given that our hypotheses predict the effects of individual- and contextual factors on political trust in a
+
+dynamic perspective, we use the modeling strategy that combines individual-, country-period-, and
+
+country-level data. We take advantage of multilevel modeling by estimating a series of models with
+
+between-country and within-country effects to determine the relationship between macroeconomic
+
+performance and political trust in country’s parliament (for other examples of applications, see
+
+Fairbrother, 2014; Bell and Jones, 2015; Schmidt-Catran, 2014; Meuleman et al., 2017). In the absence
+
+of the individual time-series data, such a ‘between-within’ approach allows us to use cross-national
+
+survey data sampled in various time-points in order to account for the causal relationships. Accordingly,
+
+we specify the following baseline multilevel model in its general form:
+
+𝑦𝑖𝑡𝑗= 𝛽0 + 𝛽1𝑡𝑖𝑚𝑒𝑡𝑗+ 𝑣1𝑗𝑡𝑖𝑚𝑒𝑡𝑗+ 𝑣0𝑗+ 𝑢0𝑡𝑗+ 𝑒𝑖𝑡𝑗, (1)
+
+with random effects following normal distribution with a mean of 0 and constant variance 𝜎2:
+
+𝑣0𝑗~𝑁(0, 𝜎𝜈0
+
+2 )
+
+𝑣1𝑗~𝑁(0, 𝜎𝜈1
+
+2 )
+
+𝑢0𝑡𝑗~𝑁(0, 𝜎𝑢2)
+
+𝑒𝑖𝑡𝑗~𝑁(0, 𝜎𝑒2). (2)
+
+10
+
+In (1), yitj is the level of political trust of individual respondent i, surveyed at time t in country j. At the
+
+second or the country-period level, we include the indicator of time as a fixed effect to account for the
+
+longitudinal or change effect. This indicator represents a growth curve on a societal level (Fairbrother,
+
+2014; Meuleman et al., 2017). In turn, 𝛽0 is a grand intercept that indicates the predicted level of trust
+
+when the time indicator equals zero. Since we grand-mean centered the time, 𝛽0 is the level of trust in
+
+the middle of time series. Time can be modeled as a linear effect, as shown in (1), or can be included as
+
+a more complex effect i.e. quadratic or cubic. Random components include a random effect for the
+
+intercept (𝑣0𝑗), a random effect for the slope (𝑣1𝑗), a random component at the country-period level
+
+(𝑢0𝑡𝑗) indicating a country-period deviation from the average growth curve, and a random effect at the
+
+individual level (𝑒𝑖𝑡𝑗), reflecting a deviation at the individual level.
+
+To estimate more complex models, we include the individual and contextual predictors into the baseline
+
+model (1). Following the approach of Fairbrother (2014), we account for both cross-national and
+
+longitudinal effects of macroeconomic performance by decomposing these contextual effects into their
+
+cross-sectional (between-country) and longitudinal (within-country) components. The between-country
+
+component represents the value of a given contextual variable averaged over the entire observed period
+
+(e.g., the average GDP growth rate between 2001 and 2014). The parameter for this component indicates
+
+the cross-sectional relationship between this macroeconomic variable and the level of trust in national
+
+parliament. The longitudinal component, in contrast, represents the deviation of the observed value of
+
+the macroeconomic variable at a specific time point from the country’s average value over the entire
+
+period under observation. In practice, we simultaneously include the country means i.e. time-invariant
+
+component of contextual variables (GDP growth rate, unemployment rate, and control of corruption),
+
+and the mean-differenced i.e. time-varying component of these three indicators in the model (see also
+
+Schmidt-Catran, 2014; Schmidt-Catran and Fairbrother, 2015). Because our hypotheses examine the
+
+effects of macroeconomic variables on subsequent changes in political trust, we lag the macro-level
+
+variables. Specifically, we combine the contextual information of two years to refer to a specific point
+
+of time (e.g., the average unemployment rate of 2001 and 2002 is taken to predict political trust in the
+
+2002 survey wave). The advantage of such multilevel models over the analysis of pooled time-series
+
+cross-section data is that, in addition to estimating both longitudinal (within-) and cross-sectional
+
+(between-) effects, we can also control for compositional effects at the individual level and for the time
+
+trend. The continuous predictor variables at the individual level (education and age) are grand-mean
+
+centered prior to the analysis. Because they are grand-mean centered rather than group-mean centered
+
+(see Raudenbush and Bryk 2002), the averages for these independent variables can differ across groups,
+
+and compositional effects are controlled for.
+
+To address the item non-response, listwise deletion was applied to the records with missing values,
+
+except for the political self-positioning variable, for which we created a separate category for missing
+
+values (see above). The number of missing values was lower than 5% on average and ranged between
+
+11
+
+0.02% for the minority variable and 2.85% for the trust in national parliament variable. Thus, applying
+
+listwise deletion is unlikely to introduce bias into our results (see also Schafer and Graham, 2002).
+
+All models were estimated in SAS 9.4 using the MIXED procedure with restricted maximum likelihood
+
+and robust standard errors. All the analyses were weighted using the ESS design weight to account for
+
+the sampling designs in various countries.
+
+6. Results
+
+Descriptive results: Evolution of trust in national parliaments, 2002-2014
+
+We begin our empirical analysis by examining trends in the evolution of public trust in domestic
+
+parliaments over the period 2002 to 2014. Figure 1 shows considerable differences between countries
+
+in their levels of trust in national parliaments. On a scale from 0 to 10, the average trust in national
+
+parliament ranges from as low as 1.87 in Bulgaria in 2008 to as high as 6.49 in Denmark in 2008. These
+
+cross-country differences tend to follow the regional patterns. In Northern Europe, for example, we
+
+observe the highest level of political trust. The Nordic countries mostly score higher than 5, which is
+
+the midpoint of the scale. In contrast, Eastern and Southern European countries mostly score below 5.
+
+The countries of Western Europe score somewhat in the middle. In the context of cross-national
+
+differences, this configuration of a low level of trust in national parliaments in Southern, Central and
+
+Eastern Europe and a high level of trust in Northern and Western European countries is aligned with the
+
+previous research findings (Listhaug and Wiberg, 1995; Dogan, 2005; Van de Walle et al., 2008).
+
+Regarding longitudinal trends, most European countries have experienced some decline in trust in
+
+national parliaments particularly over the period of the economic crisis (2008-2010) (Figure 1). The
+
+declining trends are especially prominent in the countries that were most severely affected by the crisis
+
+such as Cyprus, Greece, Portugal, and Spain. Notably, whereas trust in national parliaments in a number
+
+of countries of Southern and Eastern Europe appears to follow a continuous declining trend, trust levels
+
+in Nordic and Western European countries appear to ultimately recover to the pre-crisis levels. A
+
+noticeable exception is Iceland, which experienced a considerable drop in trust in national parliament
+
+from 5.92 in 2004 to 4.21 in 2012 without visible recovery over the observation period.
+
+Taken together, these descriptive findings suggest a decreasing trend in trust in national parliaments and
+
+appear to support the association between the worsening of macroeconomic conditions and declining
+
+trust in political institutions. In countries where the impact of the economic crisis was more pronounced
+
+(Iceland, Ireland, Greece, Portugal, Spain), this decline in public trust is considerable. At the same time,
+
+mere descriptive analyses cannot serve as strong evidence of the actual linkage between national
+
+macroeconomic performance and the decline in trust in national parliaments. Therefore, in the next
+
+section we turn to the results of the estimation of the multilevel models.
+
+12
+
+INSERT FIGURE 1 ABOUT HERE
+
+Results of multilevel models
+
+To test the explanatory power of our hypotheses, we estimate a sequence of three-level models with
+
+random effects at the individual, country-period, and country level. The results of the estimation for the
+
+time effects, individual-level variables, macro-level effects and variance components are given in Table
+
+1. First, the results of the null model (not presented) indicate that there is a significant variation at all
+
+three levels of the empty model. The calculated intraclass correlation coefficient (ICC) suggests that
+
+16.8% of the total variation in trust in national parliament is located at the country-level and 4% at the
+
+country-period level. In other words, about 20.8% of the total variance in the sample is not located at
+
+the individual level. Although the variance at the country-period level is small compared to the total
+
+variance, it is significant and therefore needs to be accounted for (Schmidt-Catran, 2014). Considering
+
+that the dataset offers only 5.6 waves for an average country, there is more variation between countries
+
+than within countries over time.
+
+In the following step, we include the linear effect of time as a predictor into the baseline model. The
+
+results of the estimation indicate that for trust in national parliament the linear time effect is negative
+
+and significant (Model 1). This finding confirms that, on average across European countries, trust in
+
+domestic parliaments has decreased during the period 2002-2014. This result is in line with the literature
+
+reporting a general declining trend in public trust in national parliaments and domestic political
+
+institutions (Pharr et al., 2000, Pharr and Putnam, 2000; Dalton, 2004; Bovens and Wille, 2008, Van de
+
+Walle et al., 2008; Hendriks, 2009). In addition, the random effect for time included in Model 2 is also
+
+found to be significant. The significant random slope for the time effect indicates that there is significant
+
+variation between countries in their longitudinal trends in trust. In other words, in some countries trust
+
+in domestic parliaments has decreased, in others it has increased, while yet in other countries, the level
+
+of trust has remained stable. To confirm that the general linear time trend provides a good description
+
+of the data for the period under investigation, we have also tested a model that included a dummy
+
+variable for the year 2010. In 2010, a number of countries introduced austerity measures in order to
+
+counteract the effects of the economic crisis. The dummy for 2010 would account for any additional
+
+change in political trust that might have taken place in 2010 beyond the linear time trend. The dummy
+
+coefficient for the year 2010 was found to be insignificant, confirming that the general linear time trend
+
+provides an adequate description of the data. We therefore excluded the dummy variable for the year
+
+13
+
+2010 from further analyses.4 The quadratic effect of time was likewise found to be insignificant.
+
+In Model 3, we include individual-level predictors and controls along with a dummy variable for former
+
+communist countries. Most of the individual variables are significant, which is not surprising given the
+
+established relevance of these characteristics in the theoretical literature and a large sample size at the
+
+individual level. Consistent with Hypothesis 1, respondents with lower socioeconomic status (as
+
+determined by years of education and subjective income) appear to be more distrustful of national
+
+parliaments. Regarding employment status, respondents in most of the occupational categories are less
+
+trustful of national parliament than the individuals occupying a white collar position. Two exceptions to
+
+this pattern are individuals in education and those in the higher service class jobs. Next, in line with
+
+previous research (e.g. Van der Meer and Hakhverdian, 2017), we find that religious respondents are
+
+more trustful of national parliaments. The area of residency (urban vs. rural) appears to be significant in
+
+influencing the level of trust in national parliament, suggesting that respondents who live in the urban
+
+environment are more trustful of national parliaments compared to the rural residents. Moreover, we
+
+note a very small but significant quadratic effect of age. Furthermore, we find that female respondents
+
+are less trustful of national parliaments than male respondents (for similar results, see Van der Meer,
+
+2010; Van der Meer and Hakhverdian, 2017). Right-oriented respondents are significantly more likely
+
+to exhibit higher levels of trust in national parliament (see also Torcal, 2014: Van Erkel and Van der
+
+Meer, 2016. Interestingly, minorities tend to bestow more trust upon domestic parliaments. While, at
+
+first, this result may appear counterintuitive, this result is consistent with prior findings on trust among
+
+migrants (Michelson, 2003; Maxwell, 2010; Strömblad and Adman, 2010; Röder and Mühlau, 2012;
+
+Heath et al., 2013, Van der Meer and Hakhverdian, 2017) and is often explained by the tendency of
+
+immigrants to provide a more positive evaluation of the political institutions in their host countries than
+
+of those in their country of origin. Finally, the dummy variable for former communist countries is
+
+likewise significant confirming that countries with a communist legacy tend to have lower levels of trust
+
+in their domestic parliaments (for similar findings see Van der Meer, 2010; Van der Meer and Dekker,
+
+2011; Závecz, 2017).
+
+INSERT TABLE 1 ABOUT HERE
+
+Effects of macroeconomic performance indicators
+
+4 As a further robustness check, we tested a model that included dummy variables for the survey waves 2002-2014.
+
+The resulting time trend is negative and largely monotonic (with two exceptions), which supports our notion that
+
+linear time trend provides an adequate description of the time trend in our sample.
+
+14
+
+In addition to the predictors at the individual level,5 Model 4 includes two indicators of macroeconomic
+
+context, namely the real GDP growth rate and the unemployment rate. As discussed in the modeling
+
+part of the paper, these indicators are introduced into the model in two forms: as a cross-sectional or
+
+time-invariant component and as a longitudinal or time-varying component. This strategy allows us to
+
+estimate between-country and within-country effects of macroeconomic performance on political trust.
+
+The results of Model 4 (Table 1) clearly indicate that the longitudinal component of growth rate and the
+
+longitudinal component of unemployment rate significantly influence trust in national parliament. In
+
+other words, when GDP growth rate is falling or when unemployment rate is rising, trust in national
+
+parliament tends to decline. These findings confirm Hypothesis 3, which stipulates that longitudinal
+
+changes in macroeconomic performance are related to the changes in trust in national parliament.
+
+Specifically, a decrease in real GDP growth rate or an increase in the unemployment rate of one
+
+percentage point reflects a decrease in trust in domestic parliament of 0.047 and 0.048 points,
+
+respectively. While seemingly small, these effects represent substantial changes. For example, between
+
+2003 and 2012, Greece experienced an increase in the unemployment rate of 15.03 percentage points.
+
+This change in the unemployment rate can lead to the decline in trust in national parliament by 0.72, as
+
+predicted by Model 4, which constitutes a considerable decrease. It should be emphasized that these
+
+effects refer to the longitudinal influences of macroeconomic performance. In other words, they reflect
+
+the effect of macroeconomic characteristics on trust in national parliament within countries at a specific
+
+point of time, while controlling for cross-sectional effects of these two macroeconomic variables and
+
+for compositional effects.
+
+A somewhat different picture emerges when we only consider the between-country effects of
+
+macroeconomic variables. While the between-country effect of the unemployment rate is found to be
+
+significant, in the case of the GDP growth rate, the between-effect is insignificant. This result suggests
+
+that the relationship between this latter macroeconomic indicator and trust in national parliaments does
+
+not hold cross-sectionally providing partial evidence against Hypothesis 2. However, as previously
+
+argued, the between-country effects are more susceptible to the influence of confounding variables, and
+
+it is the within-country (longitudinal) effects, instead, that should be given more weight in the
+
+interpretation.
+
+Altogether, the individual and macroeconomic indicators in Model 4 lead to the reduction in variance
+
+of 5.9% at the individual level, of 57.7% at the country-period level, and of 68.7% at the country level,
+
+compared to Model 1. The fact that more than half of the longitudinal variation is explained highlights
+
+the effectiveness of Model 4 in clarifying why in some periods trust in national parliaments is higher
+
+while in other periods, it is lower.
+
+5 Given that the individual parameters have not changed substantially we omit them from further discussion in the
+
+subsequent models with contextual effects.
+
+15
+
+To assess the robustness of our findings, we include macroeconomic variables and the control of
+
+corruption variable along with the individual characteristics into our final model (Model 5). With the
+
+inclusion of the control of corruption indicator, the longitudinal effects of the economic growth and of
+
+the unemployment rate remain significant. This result provides evidence against Hypothesis 4 and
+
+supports the robustness of our findings about the influence of changes in macroeconomic context on
+
+changes in trust in national parliaments. The between-country effects of both macroeconomic variables
+
+are now insignificant but, as mentioned previously, this discrepancy provides support to our argument
+
+that cross-sectional effects are subject to unobserved heterogeneity and should be considered along with
+
+the within-effects for a more accurate interpretation. At the same time, both cross-sectional and
+
+longitudinal effects of the control of corruption indicator are strong and significant, which supports
+
+earlier findings about the effect of corruption on political trust (e.g. Anderson and Tverdova, 2003;
+
+Morris and Klesner, 2010; Hakverdian and Mayne, 2012; Van der Meer, 2010). The final model, Model
+
+5, reduces between-country variance by 83.3% compared to Model 1.
+
+7. Discussion and Conclusion
+
+The present study has responded to a general call in political trust research to supplement the existing
+
+cross-sectional evidence for the causal relevance of macro-level factors with longitudinal designs (Van
+
+der Meer, 2017). Concretely, we analyzed seven waves of the ESS (2002-2014) by means of multilevel
+
+models that disentangle the cross-sectional and longitudinal effects of contextual variables on trust in
+
+national parliaments. The results of this study have implications that are important for theory building
+
+and empirical research on political trust.
+
+More specifically, the current study provides support for the notion that it is important to distinguish
+
+between within-country and between-country effects and its results serve as an important stepping stone
+
+to resolve a growing controversy in the literature regarding the influence of macroeconomic variables
+
+on trust in political institutions. Various studies have reached opposite conclusions about the effects of
+
+macroeconomic performance, but, as the present work demonstrates, these results might reflect
+
+differences in research design. Our findings suggest that the cross-sectional effects of macroeconomic
+
+indicators on political trust that are repeatedly reported in the literature cannot be generalized in a
+
+straightforward manner to longitudinal developments. As such, there is a need to carefully disentangle
+
+between- and within-country relationships. Both types of effects can be reconciled in a single framework
+
+if one uses the design that allows for simultaneous modeling of the between-and within-country effects.
+
+By testing and interpreting longitudinal effects, we can shed new light on the causal relationship between
+
+trust in national parliaments and macroeconomic performance. While the between-effects are more
+
+vulnerable to confounding variables and do not offer insight into the temporal order, the within-effects
+
+provide a more robust test of causality. In other words, if there exists a causal relationship between
+
+16
+
+macroeconomic characteristics and political trust then the changes in these characteristics are expected
+
+to lead to visible changes in trust in political institutions over time.
+
+In the present study, we find no consistent significant cross-sectional relationship between
+
+macroeconomic variables, on the one hand, and trust in national parliaments on the other. However, we
+
+do find strong longitudinal effects of economic growth and unemployment rate on political trust, even
+
+when controlling for the individual effects and corruption. This result is consistent with the previous
+
+findings indicating the significant effects of within-country changes in economic performance on
+
+political trust (Van Erkel and Van der Meer, 2016). That the within-country effects are significant but
+
+not the between-country effects, points in the direction of the presence of confounding factors at the
+
+country level. This result illustrates our argument that that differences in trust between countries and
+
+between time points can be driven by distinct mechanisms, and can therefore show diverging
+
+relationships with other variables. Just what these confounding macro-level factors are should be
+
+considered in future studies. In our view, looking at criteria related to the welfare performance of
+
+countries, such as, for example, the extent of welfare provision or quality of public services, could
+
+provide promising insights.
+
+The divergence between within-country and between-country macroeconomic effects in their influence
+
+on political trust may not be solely due to methodological factors but may also require further theoretical
+
+probing. Specifically, it may be that citizens evaluate the national economy by comparing its
+
+performance historically over time (within-country effects) rather than using other countries’
+
+macroeconomic performance (between-country effects) as a benchmark (Van Erkel and Van der Meer,
+
+2016; Van der Meer, 2017). In such a case, cross-sectional and longitudinal effects can also be expected
+
+to differ, depending on a point of reference for the evaluation. This theoretical avenue needs to be
+
+explored more thoroughly in future research. Our findings also generate additional insights by
+
+examining macroeconomic and corruption effects simultaneously within the same model. Contrary to a
+
+number of studies employing cross-sectional design, we find evidence that the effect of macroeconomic
+
+variables does not disappear after we include the control of corruption measure into the model. Instead
+
+all three within-country effects are found to be significant. This result suggests that corruption and
+
+macroeconomic performance should be viewed as complementary rather than competing explanations
+
+for the differences in political trust. Exactly how they complement each other should be the subject of
+
+future research.
+
+In conclusion, the results of this study provide evidence of the importance of macroeconomic factors for
+
+determining trust in national parliaments. Furthermore, we believe that a more dynamic perspective
+
+focusing on both cross-sectional and longitudinal effects of macroeconomic performance has the
+
+potential to contribute to the development of a more comprehensive account of the relationship between
+
+contextual factors and political trust in institutions.
+
+17
+
+References
+
+Allison, P. D. (2009). Fixed effects regression models (Vol. 160). SAGE publications.
+
+Anderson, C. D. (2009). Institutional change, economic conditions and confidence in government:
+
+Evidence from Belgium. Acta Politica, 44(1), 28-49.
+
+Anderson, C. J. and Tverdova, Y. V. (2003). Corruption, political allegiances, and attitudes toward
+
+government in contemporary democracies. American Journal of Political Science, 47(1), 91-109.
+
+Armingeon, K., and Guthmann, K. (2014). Democracy in crisis? The declining support for national
+
+democracy in European countries, 2007–2011. European Journal of Political Research, 53(3), 423-442.
+
+Bell, A., and Jones, K. (2015). Explaining fixed effects: Random effects modeling of time-series cross sectional and panel data. Political Science Research and Methods, 3(01), 133-153.
+
+Bohara, A. K., Mitchell, N. J., and Mittendorff, C. F. (2004). Compound Democracy and the Control of
+
+Corruption: A Cross‐Country Investigation. Policy Studies Journal, 32(4), 481-499.
+
+Bovens M. and Wille A. (2008) Deciphering the Dutch drop: Ten explanations for decreasing political
+
+trust in the Netherlands. International Review of Administrative Sciences, 74 (2): 283-305.
+
+Citrin, J. and Green, D.P., Presidential leadership and the resurgence of trust in government, Br. J. Polit.
+
+Sci.16(4), 1986, 431-453.
+
+Clarke, H. D., Dutt, N., and Kornberg, A. (1993). The political economy of attitudes toward polity and
+
+society in Western European democracies. The Journal of Politics, 55(04), 998-1021.
+
+Curran, P. J., and Bauer, D. J. (2011). The disaggregation of within-person and between-person effects
+
+in longitudinal models of change. Annual review of psychology, 62, 583-619.
+
+Cusack, T. R. (1999). The shaping of popular satisfaction with government and regime performance in
+
+Germany. British Journal of Political Science, 29(4), 641-672.
+
+Dalton, R. (2004). Democratic challenges, democratic choices: The erosion of political support in
+
+advanced industrial democracies. Oxford: Oxford University Press.
+
+Della Porta, D. (2000). Social capital, beliefs in government, and political corruption. In S.J. Pharr and
+
+R.D. Putnam (Eds), Disaffected democracies: What’s troubling the trilateral countries?, 202-228.
+
+Princeton, NJ: Princeton University Press.
+
+Dogan, M. (2005). Erosion of confidence in thirty European democracies. Comparative Sociology, 4(1),
+
+11-54.
+
+18
+
+Dolan, C. J., Frendreis, J., and Tatalovich, R. (2009). A presidential economic scorecard: performance
+
+and perception. PS: Political Science & Politics, 42(4), 689-694.
+
+Easton, D. (1965). A systems analysis of political life. New York: Wiley.
+
+Ellinas, A., and Lamprianou, I. (2014). Political trust in extremis. Comparative Politics, 46(2), 231-250.
+
+Fairbrother, Malcolm. (2014). “Two Multilevel Modeling Techniques for Analyzing Comparative
+
+Longitudinal Survey Datasets.” Political Science Research and Methods, 2(1):119-40.
+
+Freitag, M., and Bühlmann, M. (2009). Crafting trust: The role of political institutions in a comparative
+
+perspective. Comparative Political Studies, 42(12), 1537-1566.
+
+Hakhverdian, A., and Mayne, Q. (2012). Institutional trust, education, and corruption: A micro-macro
+
+interactive approach. The Journal of Politics, 74(03), 739-750.
+
+Heath, A. F., Fisher, S. D., Rosenblatt, G., Sanders, D., and Sobolewska, M. (2013). The political
+
+integration of ethnic minorities in Britain. OUP Oxford.
+
+Hendriks, F. (2009). Contextualizing the Dutch drop in political trust: connecting underlying factors.
+
+International Review of Administrative Sciences, 75(3), 473-491.
+
+Hetherington, M. J. (1998). The political relevance of political trust. American political science review,
+
+92(4), 791-808.
+
+Hetherington, M. J., and Rudolph, T. J. (2008). Priming, performance, and the dynamics of political
+
+trust. The Journal of Politics, 70(2), 498-512.
+
+Hout, M., Brooks, C., and Manza, J. (1995). The democratic class struggle in the United States, 1948 1992. American sociological review, 805-828.
+
+Kaufmann, D., Kraay, A., and Mastruzzi, M. (2011). The worldwide governance indicators:
+
+methodology and analytical issues. Hague Journal on the Rule of Law, 3(2), 220-246
+
+Keele, L. (2007). Social capital and the dynamics of trust in government. American Journal of Political
+
+Science, 51(2), 241-254.
+
+Kumlin, S., and Haugsgjerd, A. (2017). In The Welfare State and Political Trust Bringing Performance
+
+Back In. In S. Zmerli and T. Van der Meer (Eds), Handbook on Political Trust (pp. 285-301).
+
+Cheltenham, England: Edward Elgar.
+
+Kumlin, S., and Rothstein, B. (2005). Making and breaking social capital: The impact of welfare-state
+
+institutions. Comparative political studies, 38(4), 339-365.
+
+19
+
+Levi, M., and Stoker, L. (2000). Political trust and trustworthiness. Annual Review of Political Science,
+
+3(1), 475-507.
+
+Lewis-Beck, M. S., and Stegmaier, M. (2000). Economic determinants of electoral outcomes. Annual
+
+Review of Political Science, 3(1), 183-219.
+
+Lipset S.M. (1960). Political man: The social basis of modern politics. Garden City, New York:
+
+Doubleday.
+
+Listhaug, O., and Ringdal, K. (2008). Trust in political institutions. In H. Ervasti et al. (Eds.) Nordic
+
+social attitudes in a European perspective (pp. 131-151). Edward Elgar Publishing.
+
+Listhaug, O., and Wiberg, M. (1995). Confidence in political and private institutions. In H.-D.
+
+Klingemann and D. Fuchs (Eds), Citizens and the State (pp. 298-322). New York: Oxford University
+
+Press.
+
+Marien, S. (2011). Measuring political trust across time and space. In S. Zmerli and M Hooghe (Eds),
+
+Political Trust: Why Context Matters (pp. 13-45). Colchester, England: ECPR Press.
+
+Maxwell, R. (2010). Evaluating migrant integration: political attitudes across generations in Europe.
+
+International Migration Review, 44(1), 25-52.
+
+Meuleman, B., Davidov, E., and Billiet, J. (2017). Modeling Multiple-country Repeated Cross-sections.
+
+A Societal Growth Curve Model for Studying the Effect of the Economic Crisis on Perceived Ethnic
+
+Threat. Methods, Data, Analyses. DOI: 10.12758/mda.2017.10.
+
+Michelson, M. R. (2003). The corrosive effect of acculturation: How Mexican Americans lose political
+
+trust. Social Science Quarterly, 84(4), 918-933.
+
+Miller, A., and Listhaug, O. (1999). Political Performance and Institutional Trust. In P. Norris (Ed.),
+
+Critical citizens: Global support for democratic governance (pp. 204-216). Oxford: Oxford University
+
+Press.
+
+Mishler, W., and Rose, R. (2001). What are the origins of political trust? Testing institutional and
+
+cultural theories in post-communist societies. Comparative political studies, 34(1), 30-62.
+
+Morris, S. D., and Klesner, J. L. (2010). Corruption and trust: Theoretical considerations and evidence
+
+from Mexico. Comparative Political Studies, 43(10), 1258-1285.
+
+Newton, K. (1999). Social and political trust in established democracies. In P. Norris (Ed.), Critical
+
+citizens: Global support for democratic governance (pp. 169-187). Oxford: Oxford University Press.
+
+Newton, K. (2001). Trust, social capital, civil society, and democracy. International Political Science
+
+Review, 22(2), 201-214.
+
+20
+
+Offe, C. (1984). Contradictions of the Welfare State. London: Hutchinson.
+
+Oskarsson, S. (2010). Generalized trust and political support: A cross-national investigation. Acta
+
+Politica, 45(4), 423-443.
+
+Pharr, S. J., and Putnam, R. D. (Eds.). (2000). Disaffected democracies: What's troubling the trilateral
+
+countries?. Princeton University Press.
+
+Pharr, S. J., Putnam, R. D., and Dalton, R. J. (2000). A quarter-century of declining confidence. Journal
+
+of Democracy, 11(2), 5-25.
+
+Polavieja, J. (2013). Economic crisis, political legitimacy, and social cohesion. In D. Gallie (Ed.),
+
+Economic crisis, quality of work and social integration: The European experience (pp. 256-278).
+
+Oxford, UK: Oxford University Press.
+
+Poznyak, D., Meuleman, B., Abts, K., and Bishop, G. F. (2014). Trust in American government:
+
+Longitudinal measurement equivalence in the ANES, 1964–2008. Social indicators research, 118(2),
+
+741-758.
+
+Raudenbush, S. W., and Bryk, A. S. (2002). Hierarchical Linear Models: Applications and Data
+
+Analysis Methods. Thousand Oaks: Sage.
+
+Rahn, W. M., and Rudolph, T. J. (2005). A tale of political trust in American cities. Public Opinion
+
+Quarterly, 69(4), 530-560.
+
+Röder, A., and Mühlau, P. (2012). Low Expectations or Different Evaluations: What Explains
+
+Immigrants' High Levels of Trust in Host-Country Institutions?. Journal of Ethnic and Migration
+
+Studies, 38(5), 777-792.
+
+Rohwer, A. (2009). Measuring corruption: a comparison between the Transparency International’s
+
+Corruption Perceptions Index and the World Bank’s Worldwide Governance Indicators. CESifo DICE
+
+Report, 7(3), 42-52.
+
+Schafer, J. L., and Graham, J. W. (2002). Missing data: our view of the state of the art. Psychological
+
+methods, 7(2), 147.
+
+Schmidt-Catran, A. (2014). Economic inequality and public demand for redistribution: combining cross sectional and longitudinal evidence. Socio-Economic Review, 14(1), 119-140.
+
+Schmidt-Catran, A., and Fairbrother, M. (2015). The random effects in multilevel models: Getting them
+
+wrong and getting them right. European Sociological Review, 32(1), 23-38.
+
+Schunck, R. (2013). Within and between estimates in random-effects models: Advantages and
+
+drawbacks of correlated random effects and hybrid models. Stata Journal, 13(1), 65-76.
+
+21
+
+Strömblad, P., and Adman, P. (2010). From naïve newcomers to critical citizens? Exploring political
+
+trust among immigrants in Scandinavia, In B Bengtsson, P. Strömblad and A-H Bay (Eds.) Diversity,
+
+Inclusion and Citizenship in Scandinavia (pp. 345-370). Newcastle: Cambridge Scholars Publishing.
+
+Taylor, M. A. (2000). Channeling frustrations: institutions, economic fluctuations, and political
+
+behavior. European Journal of Political Research, 38(1), 95-134.
+
+Torcal, M. (2014). The Decline of Political Trust in Spain and Portugal Economic Performance or
+
+Political Responsiveness. American Behavioral Scientist, 58(12).
+
+Uslaner, E. (2017). Political trust, corruption, and inequality. In S. Zmerli and T. Van der Meer (Eds),
+
+Handbook on Political Trust (pp. 302-315). Cheltenham, England: Edward Elgar.
+
+Van de Walle, S., Van Roosbroek, S., and Bouckaert, G. (2008). Trust in the public sector: is there any
+
+evidence for a long-term decline? International Review of Administrative Sciences, 74(1), 47-64.
+
+Van der Meer, T. (2010). In what we trust? A multi-level study into trust in parliament as an evaluation
+
+of state characteristics. International Review of Administrative Sciences, 76(3), 517-536.
+
+Van der Meer, T. (2017). Democratic input, macroeconomic output and political trust. In S. Zmerli and
+
+T. Van der Meer (Eds), Handbook on Political Trust (pp. 270-284). Cheltenham, England: Edward
+
+Elgar.
+
+Van der Meer, T., and Dekker, P. (2011). Trustworthy states, trusting citizens? A multilevel study into
+
+objective and subjective determinants of political trust. In S. Zmerli and M Hooghe (Eds), Political
+
+Trust: Why Context Matters (pp. 95-116). Colchester, England: ECPR Press.
+
+Van der Meer, T., and Hakhverdian, A. (2017). Political Trust as the Evaluation of Process and
+
+Performance: A Cross-National Study of 42 European Countries. Political Studies, 65(1), 81-102.
+
+Van Erkel, P., and Van der Meer, W. (2016). Macroeconomic performance, political trust and the Great
+
+Recession: A multilevel analysis of the effects of within-country fluctuations in macroeconomic
+
+performance on political trust in 15 EU countries. European Journal of Political Research, 55(1), 177 197.
+
+Van Oorschot, W., and Arts, W. (2005). The social capital of European welfare states: the crowding out
+
+hypothesis revisited. Journal of European social policy, 15(1), 5-26.
+
+Závecz, G. (2017). Post-communist societies of Central and Eastern Europe. In S. Zmerli and T. Van
+
+der Meer (Eds), Handbook on Political Trust (pp. 440-457). Cheltenham, England: Edward
+
+Elgar. Handbook on Political Trust.
+
+Zmerli, S., and Van Der Meer, T. (Eds). (2017). Handbook on Political Trust. Cheltenham, England:
+
+Edward Elgar.
+
+22
+
+Funding
+
+This research contributed to the Rebuilding an Inclusive, Value-based Europe of Solidarity and Trust
+
+through Social Investments (Re-InVEST) project, funded by the European Union's Horizon 2020
+
+research and innovation programme under Grant Agreement No 649447.
+
+23
+
+Figure 1. Evolution of trust in National Parliament in 28 countries grouped by region, 2002-2014
+
+Note: The y-axis indicates average score in trust in National Parliament measured on 0-10 scale.
+
+24
+
+Table 1. Multilevel regression results. The dependent variable is “trust in national parliament”
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Coef. SE Coef. SE Coef. SE Coef. SE Coef. SE Intercept 4.3753*** 0.1982 4.3442*** 0.2050 3.2464*** 0.2249 3.9964*** 0.3573 1.9230** 0.5170
+
+Time trend -0.0762* 0.0326 -0.1093* 0.0402 -0.1087** 0.0368 -0.0579* 0.0272 -0.0328 0.0250 (1) Individual predictors Age 0.0017 0.0013 0.0017 0.0013 0.0017 0.0013 Age squared 0.0002*** 0.0000 0.0002*** 0.0000 0.0002*** 0.0000 Gender female (ref. cat) male 0.2155*** 0.0272 0.2155*** 0.0272 0.2155*** 0.0272 Education 0.0445*** 0.0066 0.0447*** 0.0066 0.0445*** 0.0067 Subjective income 0.3313*** 0.0227 0.3311*** 0.0227 0.3310*** 0.0227 Employment status white collar (ref.cat)
+
+self-employed -0.2476*** 0.0276 -0.2475*** 0.0275 -0.2474*** 0.0276 higher service class
+
+0.1490*** 0.0207 0.1491*** 0.0207 0.1491*** 0.0207
+
+blue collar -0.3317*** 0.0380 -0.3318*** 0.0380 -0.3318*** 0.0380 unemployed -0.2772*** 0.0467 -0.2766*** 0.0467 -0.2768*** 0.0467 retired -0.2487*** 0.0365 -0.2486*** 0.0365 -0.2487*** 0.0365 in education 0.3431*** 0.0358 0.3434*** 0.0358 0.3432*** 0.0358 doing housework
+
+-0.1410*** 0.0296 -0.1409*** 0.0296 -0.1410*** 0.0296
+
+disabled -0.4883*** 0.0704 -0.4885 *** 0.0705 -0.4886*** 0.0705 other -0.1758* 0.0695 -0.1758* 0.0695 -0.1756* 0.0694
+
+Urbanization 0.0278* 0.0135 0.0276* 0.0135 0.0279* 0.0135 Left-right placement left (ref. cat.) centre -0.1766*** 0.0415 -0.1766*** 0.0415 -0.1766*** 0.0415 right 0.2125*** 0.0624 0.2126*** 0.0624 0.2126*** 0.0624 missing -0.5263*** 0.0487 -0.5263*** 0.0487 -0.5263*** 0.0487 Religiosity
+
+0.0967*** 0.0065 0.0967*** 0.0064 0.0967*** 0.0064
+
+25
+
+Minority member of majority (ref. cat.)
+
+member of minority
+
+0.2842** 0.0863 0.2839** 0.0864 0.2839** 0.0864
+
+(2) Contextual predictors Former communist regime -1.3590*** 0.2705 -1.1927*** 0.3327 0.0151 0.3823
+
+GDP growth – crosssectional
+
+0.1162 0.1200 -0.0434 0.1097
+
+GDP growth – longitudinal
+
+0.0475** 0.0169 0.0406** 0.0166
+
+Unemployment rate – cross-sectional
+
+-0.1322*** 0.0342 -0.0246 0.0338
+
+Unemployment rate – longitudinal
+
+-0.0485** 0.0155 -0.0423** 0.0155
+
+Corruption – crosssectional
+
+0.9545*** 0.1778
+
+Corruption – longitudinal
+
+0.8699* 0.3634
+
+Variance components (1) Variance country intercept
+
+1.0854*** 0.3097 1.1809*** 0.3344 0.4860*** 0.1437 0.3395*** 0.1042 0.1811** 0.06026
+
+(2) Variance slope time
+
+0.0356** 0.0142 0.0284** 0.011 0.0180* 0.0081 0.0134* 0.0065
+
+(3) Variance country-year intercept
+
+0.2433*** 0.0311 0.1330*** 0.0201 0.1205*** 0.018 0.1028*** 0.0157 0.1009*** 0.0154
+
+(4) Residual variance 5.2595*** 0.0142 5.2595*** 0.0142 4.9550*** 0.0134 4.9550*** 0.0134 4.9550*** 0.0134 Deviance 1252984 1236783 1236764 1236743 * p < .05, ** p < .01, *** p < .001, N country = 28.

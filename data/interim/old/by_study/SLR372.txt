@@ -1,0 +1,455 @@
+Why should we trust our public leaders in Africa? A comparative analysis between 2019 and 2021
+
+Michael K. Dzordzormenyoh Department of Political Science, College of Arts and Sciences, Kent State University, Kent, Ohio, USA
+
+Abstract Purpose – This study investigates the factors that influence citizens trust in public leaders [i.e. presidents, members of parliament (MPs) and local government leaders (LGs)] in 34 countries in Africa between 2019 and 2021. Design/methodology/approach – Individual-level data with a sample size of 48,084 was obtained from the Afro-Barometer round 8 survey only and analyzed using multivariate binary logistic regression. Findings – Several important and intriguing observations were made from this analysis: (1) the performance of public leaders influences citizens trust in their leaders; (2) the perceived corruption of public leaders and civil servants and the level of corruption influence citizens trust in public leaders; (3) perceived neighborhood problems (i.e. fear of violence, fear of terrorism and service delivery) influence citizens trust in their public leaders and (4) the socio-demographic characteristics of citizens (i.e. age, religion, education, location, employment and political party affiliation) influence citizens trust in their public leaders. Originality/value – This study is exceptional in two ways: (1) it examines and compares citizens trust in public leaders across different levels, i.e. presidents, MPs and LGs in Africa and (2) it examines and compares the factors influencing citizens trust in public leaders in Africa comparatively. Keywords Trust, Leaders, Public, Africa Paper type Research paper
+
+Introduction Several studies have been conducted to examine the factors that influence citizens’ perspectives about trust in public leaders in Africa (Dzordzormenyoh, 2023; Pillay, 2017). Some studies have examined trust in public leaders at the continent level (Kerr and Wahman, 2021), while others have done so at the national and local levels (Pillay, 2017). Evidence from these studies has made enormous contributions towards our understanding of trust, its antecedents and its importance (Dzordzormenyoh, 2023; Pillay, 2017). Despite the vast research on trust and public leadership in Africa, the existing literature is plagued by three glaring weaknesses, namely: (1) the lack of scientific investigation about citizens trust in public leaders in Africa from a comparative viewpoint; (2) the lack of empirical studies that utilize public opinion data to examine the factors that influence citizens trust in their public leaders; and (3) the inability of the current literature to compare the factors that influence citizens trust in their public leaders across various levels on the continent. Obviously, these gaps are worth addressing by researchers. Therefore, this study seeks to address these three weaknesses in the current scholarship through these three objectives. Objective 1: comparatively examine the factors that influence citizens’ trust in public leaders in Africa. Objective 2: assesses the factors responsible for citizens trust in their public leaders using public opinion data from 34 countries in Africa. Objective 3: investigate and compare the factors that influence citizens trust in the president, members of parliament (MPs) and local government leaders (LGs) in Africa. The significance of this research is twofold. First, this study addresses significant gaps in the current literature as it pertains to the lack of comparative studies on citizen trust in public
+
+Public leaders in Africa
+
+109
+
+The current issue and full text archive of this journal is available on Emerald Insight at: https://www.emerald.com/insight/2056-4929.htm
+
+Received 26 September 2023 Revised 19 December 2023 Accepted 17 January 2024
+
+International Journal of Public Leadership Vol. 20 No. 2, 2024 pp. 109-131 © Emerald Publishing Limited 2056-4929 DOI 10.1108/IJPL-09-2023-0071
+
+leaders using public opinion data. By addressing these gaps, the present study augments the existing literature and contributes to the development of theories about trust and public leadership. Second, the results of this empirical inquiry can be utilized by various stakeholders, especially citizens and public leaders, on the continent to improve citizens trust in their public leaders, governance and democracy on the continent. In essence, the current article makes significant theoretical and practical contributions to our understanding of the factors that influence citizens’ trust in public leaders in Africa and beyond.
+
+Theoretical perspectives and empirical evidence Trust According to Mayer et al. (1995), trust can be defined as the disposition of one party to be susceptibletothe actionsofanother party. Trustthereforeinvolvesthe expectation thatoneparty will perform an action imperative to the other party in the presence or absence of supervision and monitoring. According to Sherman (2002), it is a measure of one’s buoyancy in the integrity, efficacy and justness of another party. Some researchers suggest that trust is a measure of a party’s ability to act professionally and ethically when performing assigned tasks (Hardin, 2002). Trust has also been defined as a party’s evaluation of the performance of another party to whom authority and responsibility have been delegated (Van Craen and Skogan, 2017). Singer et al. (2019) posit that trust refers to the belief the trustee has in the trustor that, as authority and responsibilities are delegated, the trustor will act with integrity, efficacy and fairness. Legood et al. (2021) define trust as a cognitive and affective relationship that exists between leaders and followers. Specifically, cognitive trust is based on the rational assessment of the qualities and abilities of another party, while affective trust deals with the emotional connection between trusting parties (van der Werff et al., 2019; Yuan et al., 2022). While these definitions and others have advanced our understanding and conceptualization of trust, it is no secret that scholarly consensus about the definition of trust has remained futile. Scientific studies on trust from different academic traditions such as political science, economics, psychology, sociology, criminal justice, leadership, management, organizational studies, interdisciplinary studies and others (see Bachmann, 1998; Cao, 2015; Dzordzormenyoh, 2023; Fairholm et al., 2018; Fulmer and Gelfand, 2012; Kong, 2014; Melkamu and Teshome, 2023) have failed to generate a universally acceptable definition of trust. The absence of a universally acceptable definition of trust in the existing literature does not also mean the absence of progress in understanding trust. For instance, previous studies have tremendously contributed to identifying some key thematic areas of trust (Li, 2015; Melkamu and Teshome, 2023). Scholarly unanimity exists regarding some thematic areas of trust, that is, a trustor and a trustee, the interdependence of both trustor and trustee on each other, voluntary risk-taking and the performance of delegated tasks and evaluation of performance (Schoorman et al., 2015; Fairholm et al., 2018). Additionally, there is consensus among researchers that different types of trust exist, such as social, interpersonal, public, system, institutional trust and others (Cook, 2005; Secor and O’Loughlin, 2005; Dinesen et al., 2020; Shockley-Zalabak and Morreale, 2021; Spadaro et al., 2020; Aboramadan et al., 2022). While a detailed discussion of the nuances and exigencies of each type of trust is beyond the scope of this study, it is appropriate to state that public trust (the focus of this study) deals with perceived legitimacy, technical competenceandtheefficacy of performingdelegatedtasks bypublicleaders andinstitutionsby the public (Khodyakov, 2007; Dzordzormenyoh, 2023).
+
+Performance theory and trust Performance theory has been utilized by researchers in different fields to understand trust for years (Boateng et al., 2022; Legood et al., 2021; WangandSun,2020). Therudimentary premise of
+
+IJPL 20,2
+
+110
+
+performance theory is that performance influences trust. Morespecifically, good performance on assigned tasks correlates with increased trust, while bad performance is associated with low trust (Boateng, 2018a; Sargeant et al., 2014; Wilson and Cunliffe, 2022). Thus, the performance of public leaders (i.e. the president, MPs and LGs) can influence citizens trust. Performance theory has been utilized to understand trust at the macro and micro levels. Macro-level studies have revealed that trust is influenced by factors such as unemployment levels, growth or decline of the economy, inflation, political stability and fear of terrorism (Melkamu and Teshome, 2023). According to Boateng (2018b), trust at the macro level is determined by crime rates, insecurity, levels of fear and neighborhood disorder. Now, shifting attention to the micro level, previous studies have found that the existence of service, the quality of service delivered, neighborhood violence and insecurity, corruption and others negatively affect the perception of performance, which leads to a decline in public trust (Bouckaert et al., 2002; Dzordzormenyoh, 2023). Whether at the macro or micro level, performance theory has been found to explain public trust. However, some studies suggest that performance theory neglects non-performance factors such as procedural issues (see Sargeant et al., 2014).
+
+Empirical evidence of the factors influencing trust Researchers have found several factors that influence public trust. First, the performance of public leaders and institutions has been found to influence public trust (Boateng et al., 2022; Melkamu and Teshome, 2023). Precisely, a parallel relationship exists between performance and public trust (i.e. good performance is associated with an increase in trust and vice versa). For instance, Mayer et al. (1995) found that the good performance of leaders leads to increased trust in them by their followers. Recent studies exploring the nexus between leader performance and trust founda positive association (Dzordzormenyoh, 2023; Legood et al., 2021). Second, contact and communication have been observed to influence public trust. Leaders that communicate effectively (i.e. have open communication, clear communication of the task and encourage evaluation of their work or feedback) are rewarded with high levels of trust from their followers (Beslin and Reddin, 2004; Fairholm et al., 2018; Wilson and Cunliffe, 2022). Effective communication increases public trust in leaders, while ineffective communication reduces public trust. Third, trust relationships are founded on voluntary risk-taking. Obviously, previous studies have found that risk-taking influences trust (Ali and Bhuiyan, 2022). Two broad schools of thought exist in the current literature about risk-taking and trust, namely, the rational and non-rational perspectives (Ali and Bhuiyan, 2022; Welzel and Dalton, 2016). The former suggests that citizens’ risk-taking is based on rational decision-making that takes into consideration retrospective and prospective evaluations (Ali and Bhuiyan, 2022). The latter advocates that non-rational factors such as culture influence risk-taking decisions. According to Welzel and Dalton (2016), culture creates high- and low-power distance societies that influence the risk-taking decisions of individuals. Likewise, it has been observed that high levels of integrity correspond to high levels of trust (Butler, 1999; Yazdanshenas and Mirzaei, 2023). Leaders perceived to have high levels of integrity (i.e. honor, justice, professionalism, accountability and ethics) are more likely to have high levels of trust from their followers (Mayer and Davis, 1999; Nawaz et al., 2022). Integrity, according to some studies, has the potential to encourage participation and legitimize existing systems as fair and just (Fitzgerald et al., 2013). Also, a positive effect exists between leaders that have procedurally just structures and trust (Pryce et al., 2017, 2019; Nivette and Akoensi, 2019). Research from Ghana, Kenya and Nigeria suggests that perceived procedurally just public systems and leaders are associated with high levels of trust (Tankebe, 2008; Pryce et al., 2017; Akinlabi, 2017).
+
+Public leaders in Africa
+
+111
+
+Moreover, previous studies have found that neighborhoods with high crime rates, poor services and other challenges tend to exhibit lower levels of trust in their leaders. Neighborhood problems are often associated with the failure of leaders to do their jobs (Sprott and Doob, 2009; Boateng, 2018b; Zhang et al., 2021). Closely connected to neighborhood problems is corruption. Corruption continues to show a negative association with public trust. The negative association between corruption and public trust exists because corruption makes leaders ineffective and leads to unfair treatment of the public (Boateng et al., 2022; Sabet, 2013). Public satisfaction with democratic governance influences trust. Dissatisfaction with democracy leads to low levels of trust and satisfaction with democracy leads to high levels of trust (Boateng, 2018a). The discussion will be incomplete without examining the association between citizen characteristics and public trust. Regarding age, public trust is higher in older people than in younger people (Powell et al., 2008; Havold et al., 2021). In terms of gender, males are more likely to have higher public trust than females (Hu et al., 2022; Son and Lee, 2023). Other studies have found public trust to be higher among females than males (Boateng, 2018b). Some studies have found gender to have no effect on public trust (Hurst and Frank, 2000; Dzordzormenyoh, 2023). Married and employed citizens tend to have more public trust compared to single, unemployed citizens (Cao and Zhao, 2005; Enwereuzor et al., 2020). Citizens with low socio-economic status and less education show low public trust compared to those with high socio-economic status who are also well educated (Wu et al., 2009). Contrarily to this finding, some studies have found that highly educated and high socio-economic classes have lower public trust (see Murphy and Worrall, 1999). Race and ethnicity have been found to influence public trust. Racial and ethnic minorities tend to exhibit low levels of public trust compared to dominant racial and ethnic groups (Murphy and Cherney, 2012; Merry et al., 2012).
+
+Focus of the current study and hypothesis Previous studies reveal that Africa is a continent characterized by socio-cultural, economic and political differences and similarities. These differences and similarities have been observed to influence how citizens assess (i.e. trust) their public leaders (Welz, 2021). The existing literature suggest that the performance of leaders, ethnic identities, partisanship and other factors influence how citizens assess their public leaders on the continent (Bratton et al., 2012; Eifert et al., 2010; Posner, 2007; Harris and Posner, 2019; Gyimah-Boadi et al., 2021). Evidence from 16 countries in Africa suggest that the ethnicity of citizens, the policy performance of leaders in reducing inflation, unemployment and improving income distribution and party politics impact how public leaders are assessed (Bratton et al., 2012). Similarly, evidence was found in Kenya and Zambia (Posner, 2007). However, it was noted that ethnicity (tribes, clans, region, language and religion) were stronger determinants of how citizens evaluate their public leaders. A study conducted in 10 African countries found that ethnic identities influence citizens’ assessment of their public leaders compared to occupational identities (Eifert et al., 2010). Finally, a recent study from Ghana observed that citizens’ demographic characteristics and perception of public leaders’ performance and corruption influence their assessment (i.e. trust) in their leaders (Dzordzormenyoh, 2023). Despite this, the current literature is void of recent comparative works, especifically, studies that compare public leaders at different levels (national, regional and local) and studies that compare different countries on the continent. Therefore, the primary objective of this study is to comparatively examine the predictors of trust in public leaders in Africa at different leadership levels and across different countries to augment previous research. Based on the existing literature and key assumptions derived from it, it is hypothesized that:
+
+IJPL 20,2
+
+112
+
+H1. The good performance by public leaders would have a positive effect on public trust in public leaders in Africa.
+
+Methodology Data The data for this study was obtained from the Afro-Barometer survey conducted in 34 countries between 2019 and 2021. Specifically, the data collected during the 8th round of surveys during the aforementioned time frame was obtained and analyzed. The survey measures people’s attitudes towards democracy, governance, economic conditions and related issues in Africa. Data from each country were obtained by a representative multistage random sampling of individuals 18 years or older. The sample size of the current data is 48,084 respondents. Regarding the reliability and validity of the data, it was collected by a pan-African, nonpartisan and independent research network that has been in existence since 1999. A national representative sample is utilized for data collection, which is done through face-to-face interviews in the language of the respondents’ choice. The country-level sample size is either 1,200 or 2,400, with a margin of error of ± 3 or 2% points, respectively, at a 95% confidence level [1]. The rationale for using data from the 8th round of the survey is twofold: (1) this study builds on concurrent research that examines trust in public leaders from 2016 to 2018; (2) between 2019 and the present, several coups occurred on the continent with much public support for these coups. Hence, investigating trust in public leaders before the coup (2016–2018) and during the coups (2019–present) can help understand the similarities and differences in trust in public leadership before and during coups on the continent and inform policy formulation [2].
+
+Measures [3] Dependent variables: Citizens’ trust in public leaders (i.e. the president, MPs and LGs) were the dependent variables of this analysis. The variable was measured and coded as a dichotomous one for each of the three public leaders. Thus, trust in the president, trust in MPs and trust in LGs were measured as 0 representing No and 1 representing Yes. Trust in the president, MPs and LGs was measured in the Afro-Barometer data using questions Q41A, Q41B and Q41D, respectively. Respondents were asked, “how much do you trust each of the following, or haven’t you heard enough about them to say?”: the president (Q41A), parliament/national assembly (Q41B) and local government council (Q41D). Independent variables: According to performance theory, the performance (i.e. ability to accomplish tasks effectively and efficiently) of public leaders and institutions influences the trust citizens have in them (see Boateng et al., 2022). Therefore, this study assesses the effect of the performance of public leaders (i.e. the president, MPs and LGs) on citizens’ trust in these leaders. Each of the performance variables for each leader was measured and coded as 1 representing Strongly Disapprove, 2 representing Disapprove, 3 representing Approve and 4 representing Strongly Approve. Respondents were asked, “do you approve or disapprove of the way that the following people have performed their jobs over the past twelve months, or haven’t you heard enough about them to say?” Question 51A measured the performance of the president, Q51B measured the performance of parliament/national assembly and Q51C measured the performance of the local government council/leaders. Control variables: Evidence from previous studies suggests several factors influence citizens’ trust in their leaders. This analysis accounted for the effect of some of these variables, namely: (1) the president and office corrupt was measured as 0 5 none, 1 5 some,
+
+Public leaders in Africa
+
+113
+
+2 5 most and 3 5 all; (2) MPs corrupt was measured as 0 5 none, 1 5 some, 2 5 most and 3 5 all; (3) contact MPs was measured as 0 5 never, 1 5 once, 2 5 few times and 3 5 often; (4) problems facing Africa was measured as 0 5 none, 1 5 crime, 2 5 unemployment and 3 5 others; (5) economic and living condition was measured as 1 5 very bad, 2 5 fairly bad, 3 5 neither good nor bad, 4 5 fairly good and 5 5 very good; (6) LGs corrupt was measured as 0 5 none, 1 5 some, 2 5 most and 3 5 all; (7) contact LGs was measured as 0 5 never, 1 5 once, 2 5 few times and 3 5 often; (8) level of corruption in Africa was measured as 1 5 increased a lot, 2 5 increased somewhat, 3 5 stayed the same, 4 5 decreased somewhat and 5 5 decreased a lot; (9) education was measured as 0 5 no education, 1 5 primary, 2 5 secondary and 3 5 post-secondary; (10) age was measured as 1 5 18–25 years, 2 5 26–35 years, 3 5 36–45 years, 4 5 46–55 years and 5 5 Over 55 years. Furthermore, the following variables were controlled for: (11) location was measured as 0 5 urban and 1 5 rural; (12) employment status was measured as 0 5 employed and 1 5 unemployed; (13) gender was measured as 0 5 male and 1 5 female; (14) religion was measured as 1 5 Christian, 2 5 Muslim and 3 5 others; (15) satisfaction with democracy was measured as 1 5 not at all, 2 5 not very, 3 5 fairly, 4 5 very; (16) lived poverty level was measured as 0 5 none, 1 5 low, 2 5 moderate and 3 5 high; (17) treated unfairly by government was measured as 0 5 never, 1 5 sometimes, 2 5 often and 3 5 always; (18) discrimination (i.e. ethnic and religious) was measured as 0 5 never, 1 5 once or twice, 2 5 several times and 3 5 many times; (19) quality of life (i.e. access to electricity, toilet, radio, etc.) was measured as 0 5 no and 1 5 yes; (20) fear of violence was measured as 0 5 no and 1 5 yes; (21) fear of extremism was measured as 0 5 no and 1 5 yes; (22) leaders handling job creation was measured as 1 5 very badly, 2 5 fairly badly, 3 5 fairly well and 4 5 very well; (23) trust public institutions (i.e. police, army, law courts and tax agencies) was measured as 0 5 not at all, 1 5 just a little, 2 5 somewhat and 3 5 a lot; (24) access to news (radio, TV, newspaper, Internet and social media) was measured as 0 5 never, 1 5 less once a month, 2 5 few times a month, 3 5 few times a week and 4 5 every day; (25) service delivery was measured as 1 5 very badly, 2 5 fairly badly, 3 5 fairly well and 4 5 very well; (26) political party affiliation was measured as 0 5 no and 1 5 yes.
+
+Analytical strategy Descriptive analysis was used to show the distribution of scores for the study variables (see Table 1). Bivariate correlation (Pearson correlation) and multicollinearity tests (variance inflation factor) were conducted. The former was to ensure that no two independent variables were highly correlated. The latter checked for the presence of collinearity among the variables. Both tests showed no issues with high correlation or collinearity among the variables. The results for the Pearson correlation and the variance inflation factor test can be found in Tables A1 and A2, respectively, in Appendix. Additionally, a multivariate binary logistic regression was utilized to assess the effect of the independent and control variables on the dependent variable (see Table 2). Binary logistic regression was adopted because the dependent variable was dichotomous in nature, that is, no and yes. This model is useful in predicting the presence or absence of characteristics for a dichotomous dependent variable (see Harris, 2021).
+
+Results Sample description According to Table 1, half of respondents were male (50%), between the ages of 18 and 45 years (74.65%), Christians (56.33%), unemployed (59.97%), live in rural Africa (54.70%) and possess secondary education (35.36%). Additionally, about 45.38% of the respondents are affiliated with a political party.
+
+IJPL 20,2
+
+114
+
+However, regarding the trust in public leaders, 54.71% of the respondents trust presidents, 43.20% trust MPs and 45.61% trust LGs. In terms of the performance of these leaders, the average score for the performance of presidents was 2.58, the performance of MPs was 2.29, and the performance of LGs was 2.39. Refer to Table 1 for more details on the sample description (see Figures 1–3).
+
+% M (SD) Min Max
+
+Gender (Male) 50.01
+
+Age 18–25 26.52 26–35 28.12 36–45 20.01 46–55 12.16 56 and over 13.19 Party affiliation (yes) 45.38
+
+Education No education 19.95 Primary 28.01 Secondary 35.36 Post-secondary 16.67 Unemployed 59.97 President/Office corrupt 1.35 (0.92) 0 3 MPs corrupt 1.42 (0.87) 0 3 Local gov’t leaders corrupt 1.33 (0.84) 0 5 Contact MPs 2.46 (0.92) 1 4 Contact local gov’t leaders 0.48 (0.90) 0 3 Problems facing Africa 2.68 (0.49) 0 3 Economic/living condition 2.65 (1.27) 1 5 Level of corruption 2.32 (1.32) 1 5 Religion 0.20 (0.62) 0 3 Christianity 56.33 Muslim 34.44 Other 9.24 Location – rural 54.70 Civil servants corrupt 1.38 (0.80) 0 3 Handling job creation 1.79 (0.88) 1 4 Trust public institutions 2.76 (0.79) 0 3 Fear of violence (yes) 31.97 Fear of extremism (yes) 22.27 Public service delivery 2.18 (1.03) 1 4 Poverty level 1.67 (0.93) 0 3 Satisfaction with democracy 2.32 (0.98) 1 4 Access to news 3.66 (1.10) 0 4 Trust in president (yes) 53.71 Trust in MPs (yes) 43.20 Trust in local government (LG) leaders (yes) 45.61 Performance of president 2.58 (0.99) 1 4 Performance of MPs 2.29 (0.91) 1 4 Performance of LGs leaders 2.39 (0.92) 1 4 Treated unfairly by gov’t officials 0.78 (0.95) 0 3 Discrimination 1.38 (0.72) 0 3 Quality of life 0.98 (0.13) 0 1 Source(s): Table by the author
+
+Table 1. Descriptive statistics of the study variables (N 5 45,823)
+
+Public leaders in Africa
+
+115
+
+Model 1 President Model 2 MPs Model 3 Local Gov’t leaders Variables OR (SE) OR (SE) OR (SE)
+
+Constant 0.01 (0.00)*** 0.01 (0.00)*** 0.01 (0.00)*** Gender 0.94 (0.04) 1.01 (0.04) 1.00 (0.04)
+
+Age (18–25) 26–35 1.13 (0.06)* 0.95 (0.05) 0.95 (0.05) 36–45 1.31 (0.08)*** 1.10 (0.06) 1.00 (0.06) 46–55 1.40 (0.11)*** 1.06 (0.08) 1.02 (0.07) 56 and over 1.47 (0.12)*** 1.09 (0.08) 0.98 (0.07) Party affiliation 1.08 (0.05) 1.06 (0.04) 1.16 (0.05)***
+
+Education (No education 5 RC) Primary 1.17 (0.08)* 0.98 (0.06) 0.98 (0.06) Secondary 1.02 (0.07) 0.76 (0.05)*** 0.74 (0.04)*** Post-Secondary 1.11 (0.09) 0.65 (0.05)*** 0.70 (0.05)*** Employment 0.88 (0.04)* 0.92 (0.04) 0.96 (0.04) President/Office corrupt 0.67 (0.02)*** 1.00 (0.03) 1.05 (0.03) MPs corrupt 1.00 (0.03) 0.69 (0.02)*** 0.90 (0.03)** Local gov’t leaders corrupt 0.99 (0.03) 0.96 (0.03) 0.70 (0.02)*** Contact MPs 1.03 (0.04) 1.07 (0.04) 1.03 (0.03) Contact local gov’t leaders 1.06 (0.03)* 1.05 (0.02) 1.16 (0.03)*** Problems facing Africa 1.07 (0.05) 1.10 (0.04)* 1.11 (0.04)* Economic/living condition 1.00 (0.01) 1.00 (0.01) 0.99 (0.01) Level of corruption 1.15 (0.02)*** 1.12 (0.02)*** 1.12 (0.01)*** Civil servants corrupt 1.08 (0.04)* 0.96 (0.03) 0.99 (0.03)
+
+Religion (Other 5 RC) Christianity 1.38 (0.13)*** 1.19 (0.11) 1.11 (0.10) Muslim 1.60 (0.15)*** 1.02 (0.09) 1.32 (0.12)** Location – rural and urban 1.03 (0.05) 1.19 (0.05)*** 1.31 (0.06)*** Handling job creation 1.07 (0.03)* 1.12 (0.02)*** 1.15 (0.02)*** Trust public institutions 1.52 (0.05)*** 1.60 (0.07)*** 1.70 (0.08)*** Fear of violence 0.98 (0.05) 0.96 (0.04) 0.82 (0.04)*** Fear of extremism 0.86 (0.04)** 0.90 (0.04) 1.04 (0.05) Public service delivery 1.14 (0.02)*** 1.15 (0.02)*** 1.09 (0.02)***
+
+Poverty level (No 5 RC) Low 0.89 (0.08) 0.96 (0.08) 0.95 (0.08) Mid 0.86 (0.08) 0.90 (0.08) 0.84 (0.07) High 0.92 (0.09) 0.96 (0.09) 0.93 (0.08) Satisfaction with democracy 1.48 (0.03)*** 1.40 (0.03)*** 1.27 (0.03)*** Access to news 1.03 (0.02) 1.00 (01) 1.01 (0.01) Performance of president 2.25 (0.06)*** 1.28 (0.03)*** 1.06 (0.02)* Performance of MPs 1.07 (0.03)* 1.42 (0.04)*** 1.13 (0.03)*** Performance of local gov’t leaders 1.00 (0.03) 1.12 (0.03)*** 1.65 (0.04)*** Treated unfairly by gov’t officials 0.89 (0.02)*** 0.91 (0.02)*** 0.92 (0.02)** Discrimination 1.01 (0.03) 0.90 (0.03)** 0.89 (0.03)*** Quality of life 0.66 (0.12)* 0.78 (0.13) 0.60 (0.09)** 2 Log likelihood 5984.07 6631.73 6723.14 Wald χ2 2769.55*** 2416.19*** 2358.57*** R2 27% 22% 21% Note(s): SE 5 robust standard errors; RC 5 reference category. *p < 0.05, **p < 0.01, ***p < 0.001 Source(s): Table by the author
+
+Table 2. Factors influencing citizens trust in the public leaders in Africa
+
+IJPL 20,2
+
+116
+
+Factors influencing citizens trust in their public leaders in Africa Trust in presidents in Africa. Table 2—Model 1 explains 27% of the variance in the data and was significant (Wald χ2 5 2769.55, p < 0.001). According to Table 2—Model 1, the performance of presidents and MPs increases the odds of trusting presidents by 2.25 and 1.07% points, respectively. Corruption by presidents or their offices decreases the odds of trusting presidents by 0.67% points. However, the corruption of civil servants and the level of corruption increase the odds of trusting presidents by 1.08 and 1.15% points, respectively. Furthermore, Table 2—Model 1 contact with LGs increases the odds of trusting presidents by 1.06% points. The problems facing Africa increase the odds of trusting presidents by 1.07% points. Satisfaction with democracy increases the odds of trusting presidents by 1.48% points. Unfair treatment by the government decreases the odds of respondents trusting in presidents by 0.89% points. The quality of life and extremism individually decrease the odds of trusting in presidents by 0.66 and 0.86% points, respectively. The perception of handling job creation
+
+Figure 1. Public trust in presidents in Africa (2019–2021)
+
+Figure 2. Public trust in MPs in Africa (2019–2021)
+
+Public leaders in Africa
+
+117
+
+increases the odds of trusting presidents by 1.07% points. Respondents’ trust in public institutions and public service delivery both increases the odds of trusting presidents by 1.14 and 1.52% points, respectively. In terms of the demographic characteristics of respondents, the analysis in Table 2— Model 1 revealed that individuals aged 26–35 years, 36–45 years, 46–55 years and over 55 years increase the odds of trusting presidents by 1.13, 1.31, 1.40 and 1.40% points, respectively. Respondents’ employment status decreases the odds of trusting presidents by 0.88% points. The religion of respondents, specifically being Christian or Muslim, both increases the odds of trusting presidents by 1.38 and 1.60% points, respectively. Trust in members of parliament (MPs) in Africa. Table 2—Model 2 explains 22% of the variance in the data and was significant (Wald χ2 5 2416.19, p < 0.001). According to Table 2—Model 2, the performance of the MPs, LGs and presidents increases the odds of trusting MPs by 1.42, 1.12 and 1.28% points, respectively. However, the corruption of MPs decreases the odds of trusting MPs by 0.69% points. Additionally, Table 2—Model 2 shows that the problems facing Africa increase the odds of trusting MPs by 1.10% points. The level of corruption increases the odds of trusting MPs by 1.12% points. Satisfaction with democracy increases the odds of trusting MPs by 1.40% points. Unjust treatment of respondents by the government and discrimination decrease the odds of trusting MPs by 0.91 and 0.90% points, respectively. Respondents’ trust in public institutions and how their leaders handle of job creation both increase the odds of trusting MPs by 1.60 and 1.12% points, respectively. Public service delivery increases the odds of trusting MPs by 1.15% points. Regarding the demographic predictors of trust in MPs, the analysis revealed in Table 2— Model 2 indicates that respondents’ education, specifically secondary and post-secondary education, decreases the odds of trusting MPs by 0.76 and 0.65% points, respectively. Respondents’ location (i.e. rural-urban) increases the odds of trusting MPs by 1.19% points. Predictors of trust in local government leaders (LGs). Table 2—Model 3 explains 21% of the variance in the data and was significant (Wald χ2 5 2358.57, p < 0.001). According to Table 2—Model 3, the performance of the LGs, MPs and presidents increases the odds of trusting LGs by 1.65, 1.13 and 1.06% points, respectively. Likewise, corruption of public leaders, that is, MPs and LGs, decreases the odds of trusting LGs by 0.90 and 0.70% points, respectively. The problems facing Africa increase the odds of trusting LGs by 1.11% points.
+
+Figure 3. Public trust in LGs in Africa (2019–2021)
+
+IJPL 20,2
+
+118
+
+Likewise, Table 2—Model 3 shows that respondents’ contact with LGs increases the odds of trusting LGs by 1.16% points. The level of corruption and satisfaction with democracy also increase the odds of respondents’ trusting LGs by 1.12 and 1.27% points, respectively. Unfair treatment by the government, discrimination, quality of life and fear of neighborhood violence, together, decrease the odds of trusting LGs by 0.92, 0.89, 0.60 and 0.82% points, respectively. Institutional trust and public service delivery were both observed to increase the odds of trusting LGs by 1.70 and 1.09% points, respectively. Concerning the demographic characteristics of the respondents’, the analysis in Table 2— Model 3 indicates that education, that is, secondary and post-secondary, decreases the odds of trusting LGs by 0.74 and 0.70% points, respectively. Respondents location—rural or urban— increases the odds of trusting LGs by 1.31% points. Religion, specifically, being Muslim, increases the odds of trusting LGs by 1.32% points. Respondents partisanship was found to increase the odds of trusting LGs by 1.16% points. Overall, the present study found that the performance of public leaders – presidents, MPs and LGs – in Africa increases the odds of citizens trusting these leaders. This supports Hypothesis 1 of this study.
+
+Discussion and conclusion Discussions The primary objective of this research was to examine the predictors of public trust in public leaders in Africa. Particularly, the predictors of public trust in presidents, MPs and LGs. Using several analytical strategies – descriptive, Pearson correlation, variance inflation factor and binary logistics regression – interesting and noteworthy discoveries were made that warrant further discussion. The discussion of the results is divided into two categories: (1) intriguing results and (2) other results. Regarding the intrigue results, two major observations were made that are worth discussing. First, it was observed that citizens trust in their public leaders (i.e. the president, MPs and LGs) is largely influenced by the performance of these leaders. For instance, it was found that the performance of presidents, MPs and LGs influences citizens trust in them. A more nuanced explanation suggests that citizens’ trust in presidents in Africa is influenced by the performance of the presidents as well as the MPs. Regarding citizen trust in MPs, it was revealed that the performance of MPs, presidents and LGs influences trust in MPs. In terms of citizen trust in LGs, it was observed that the performance of LGs, MPs and presidents influences trust in LGs. Obviously, the central argument of the performance theory (i.e. that the performance of leaders influences citizens trust in them) is supported by these results (see Melkamu and Teshome, 2023; Sargeant et al., 2014). Furthermore, the results also support the assumption of the current study, that is, that the good performance of public leaders would have a positive effect on public trust (see Hypothesis 1). Therefore, the results offered support for the performance theory of explaining trust in public leadership (Melkamu and Teshome, 2023). Second, it was observed that citizens’ perceptions of the corruption of public leaders influence public trust in their leaders. More specifically, it was revealed that perceived corruption of presidents and their offices, MPs, LGs and civil servants and the level of corruption on the continent, influence citizens trust in their public leaders (Boateng et al., 2022). Previous studies indicate that corruption influences public trust because it undermines the ability of public leaders and institutions to be effective in the discharge of their responsibilities. Also, corruption sows the seed of betrayal and lack of public confidence in public leaders and the institutions they lead because of the perception that corruption will lead to unfair treatment of some citizens compared to others (Dzordzormenyoh, 2023). This explains why unfair treatment of citizens by the government, quality of life and discrimination (religious and ethnic) were found to influence citizens’ trust in their public
+
+Public leaders in Africa
+
+119
+
+leaders in Africa. Overall, corruption, unfair treatment of citizens by the government, quality of life, discrimination and others sum up citizens satisfaction with democracy on the continent. Like previous empirical evidence, this study observed that citizens’ satisfaction with democracy influences their trust in their leaders (Boateng, 2018a). On the other hand, several other observations were made apart from the two mentioned above. Foremost, it was found that neighborhood-related issues such as job creation, neighborhood insecurity (i.e. fear of violence and terrorism), and public service delivery influenced citizens trust in public leaders, specifically for MPs and LGs more so than the president. The current result is supported by previous studies that contend that neighborhood problems are often associated with the failure of leaders to do their job (Sprott and Doob, 2009; Boateng, 2018b). However, an interesting question for future studies to consider is: why do neighborhood problems affect citizens trust in MPs and LGs more than presidents on the continent? Second, the results offered support for the demographic explanation of why citizens trust their public leaders (see Cao and Zhao, 2005; Powell et al., 2008; Wu et al., 2009; Dzordzormenyoh, 2023). Particularly for this study, it was found that citizens’ age, education, religion, location, employment status, and partisanship influence their trust in public leaders in Africa. For this study, it was observed that citizens’ trust in presidents was influenced by their age, education, employment, and religion. Both young and older citizens with primary education who are employed and are either Christians or Muslims impact trust in the president. Regarding MPs, citizens location (i.e. rural or urban) and education (i.e. secondary and post-secondary) influence trust. For this study, it was observed that citizens’ trust in presidents was influenced by their age, education, employment, and religion. Both young and older citizens with primary education who are employed and are either Christians or Muslims impact trust in the president. Regarding MPs, citizens’ location (i.e. rural or urban) and education (i.e. secondary and post-secondary) influence trust. In terms of LGs, partisanship, education, religion and location are factors that influence trust in public leaders. Despite these findings, there is a lot to unpack here regarding why and how these demographic characteristics influence trust in public leaders in Africa. Future studies can consider these by utilizing demographic variables as independent variables instead of control variables and also engaging qualitative strategies such as in-depth interviews to add nuance to the literature.
+
+Practical implications of these results Like most empirical investigations, this study has some practical implications for several stakeholders, particularly political and public leaders and citizens. Practically, the findings imply that citizens should expect their political and public leaders to, first, perform their duties; second, be accountable and less corrupt; and third, be accessible, available and responsive to citizens. The implication of these for leaders is that to ensure public trust in them, leaders must be concerned with meeting citizen expectations in three key areas: (1) performance of the duties related to their offices; (2) avoid engaging in corrupt activities and be more accountable to citizens; and (3) ensure they are available, accessible and responsive to the needs of their citizens. As noted by some previous studies, the roles of public leaders, their ability to perform these roles and their responsiveness shape citizens perceptions of the leaders and public institutions (Dzordzormenyoh, 2022; Tummers and Knies, 2016).
+
+Limitations Despite the results and the noteworthy contributions of this study to theory and practice, unfortunately, there are some limitations worth declaring. To begin with, although secondary
+
+IJPL 20,2
+
+120
+
+data has enormous benefits such as easy access, cheap cost, time savings and others, desirability bias—respondents concealing their true opinion to look good—continues to be a major limitation. Undesirably, this limitation is one that is beyond the remedy of researchers that utilize secondary data. Second, public leadership includes elected, non-elected and administrative, among others. However, for this study, the focus was mainly on elected public leaders—presidents, MPs and LGs. This is a limitation of the current study worth acknowledging. Third, the present analysis does not account for changes in governance and leadership during the period of 2019 and 2021. There is no doubt that changes in governance and leadership at all three levels of public leadership examined in this study impact trust, yet the inability of this study to account for this is a notable limitation. Fourth, the present research excludes the influence of macro-level variables such as gross domestic product, unemployment rate, corruption indexes, crime indexes and others at the country level. This limitation is one that is important to mention. Fifth, the omission of certain important variables that influence trust in public leaders at the micro-level, such as income, marital status, ethnicity of respondents and other factors, is a limitation of the current analysis. Finally, the R-squares for each of the models were all under 30%, indicating that a significant portion (about 70%) of why citizens trust their public leaders was not accounted for in this study.
+
+Recommendations for future studies Guided by the aforementioned limitations, future studies are encouraged to fully consider the following recommendations: First, future studies are highly encouraged to consider other non-secondary data sources, such as in-depth interviews, to enhance our understanding of the predictors of trust in public leaders in Africa. Second, future studies should also consider investigating other types of public leaders not examined in this study, such as traditional and civil society organization leaders on the continent. This can broaden our understanding of the predictors of trust in public leaders on the continent. Third, future studies are strongly encouraged to explore the role of change in governance and leadership on trust in public leaders. Change and stability can be important variables in understanding the predictors of trust in public leaders in Africa. Fourth, it is highly recommended that future research explore the inclusion of omitted macro- and micro-level variables in their analysis regarding the predictors of trust in public leaders. This can provide a holistic overview of the predictors of trust in public leaders.
+
+Conclusions Clearly, public trust and leadership are indispensable parts of democracy. Researchers and practitioners alike acknowledge the importance of both trust and public leadership (Boateng et al., 2022; Dzordzormenyoh, 2023; Khodyakov, 2007; Pillay, 2017). While trust in public leaders has been studied from several perspectives, the performance viewpoint is ubiquitous in its application to understanding public trust across different disciplines. The fundamental argument of the performance perspective is that the ability of leaders and their institutions to meet the needs of the public determines the confidence citizens place in them. Additionally, this theory also suggests that anything that undermines the ability of leaders and their institutions to perform their tasks impacts public trust negatively. Using this perspective, this study made interesting and noteworthy findings that promote understanding about the factors that influence citizens trust in public leaders from both theoretical and policy standpoints in Africa and beyond.
+
+Public leaders in Africa
+
+121
+
+Notes 1. For more information about the Afro-Barometer survey and data, please visit the website using this link: https://www.afrobarometer.org
+
+2. Between 2016 and 2018, only one coup happened in Zimbabwe on November 15, 2017, that deposed President Robert Mugabe from office. However, between 2019 and present, approximately 16 coups have occurred, with 6 being unsuccessful (38%) and 10 being successful (62%). Often, these coups are targeted at public leaders (i.e. presidents), which affects other types of public leaders. The widespread public support for these coups warrants a careful review of citizens’ trust in public leaders prior to, during and after coups.
+
+3. For more information about the data set, questionnaires and coded book visit the Afro-Barometer data section at: https://www.afrobarometer.org/data/
+
+References
+
+Aboramadan, M., Dahleez, K. and Hamad, M. (2022), “Servant leadership and academics’ engagement in higher education: mediation analysis”, Journal of Higher Education Policy and Management, Vol. 42 No. 6, pp. 617-633, doi: 10.1080/1360080X.2020.1774036.
+
+Akinlabi, O.M. (2017), “Young people, procedural justice and police legitimacy in Nigeria”, Policing and Society, Vol. 27 No. 4, pp. 419-438, doi: 10.1080/10439463.2015.1077836.
+
+Ali, H.E. and Bhuiyan, S. (2022), “Institutional reforms, governance, and services delivery in the global south”, in Ali, H.E. and Bhuiyan, S. (Eds), Institutional Reforms, Governance, and Services Delivery in the Global South. International Series on Public Policy, Palgrave Macmillan, Cham, doi: 10.1007/978-3-030-82257-6_1.
+
+Bachmann, R. (1998), “Trust-conceptual aspects of a complex phenomenon”, in Trust within and between Organizations. Conceptual Issues and Empirical Applications, Oxford University Press, pp. 298-322.
+
+Beslin, R. and Reddin, C. (2004), “How leaders can communicate to build trust”, Ivey Business Journal, Vol. 69 No. 2, pp. 1-6.
+
+Boateng, F. (2018a), “Police legitimacy in Africa: a multilevel multinational analysis”, Policing and Society, Vol. 28 No. 9, pp. 1105-1120, doi: 10.1080/10439463.2017.1280034.
+
+Boateng, F.D. (2018b), “Institutional trust and performance: a study of the police in Ghana”, Australian and New Zealand Journal of Criminology, Vol. 51 No. 2, pp. 164-182, doi: 10.1177/ 0004865817712335.
+
+Boateng, F.D., Dzordzormenyoh, M.K. and Cavalcante, D. (2022), “Citizens’ attitudes toward legal authorities in Brazil: examining the impact of crime, insecurity, and corruption”, Journal of Criminology, Vol. 55 No. 4, pp. 604-620, doi: 10.1177/26338076221122939.
+
+Bouckaert, G., Van de Walle, S., Maddens, B., & Kampen, J.K. (2002), “Identity vs performance: an overview of theories explaining trust in government”, Second Report, Public Management Institute, Leuven, available at: https://soc.kuleuven.be/io/pubpdf/IO0505002_identity.pdf (accessed 6 September 2023).
+
+Bratton, M., Bhavnani, R. and Chen, T.H. (2012), “Voting intentions in Africa: ethnic, economic or partisan?”, Commonwealth and Comparative Politics, Vol. 50 No. 1, pp. 27-52, doi: 10.1080/ 14662043.2012.642121.
+
+Butler, J.K. Jr (1999), “Trust expectations, information sharing, climate of trust, and negotiation effectiveness and efficiency”, Group and Organization Management, Vol. 24 No. 2, pp. 217-238, doi: 10.1177/1059601199242005.
+
+Cao, L. (2015), “Differentiating confidence in the police, trust in the police, and satisfaction with the police”, Policing: An International Journal of Police Strategies and Management, Vol. 38 No. 2, pp. 239-249, doi: 10.1108/pijpsm-12-2014-0127.
+
+IJPL 20,2
+
+122
+
+Cao, L. and Zhao, J.S. (2005), “Confidence in the police in Latin America”, Journal of Criminal Justice, Vol. 33 No. 5, pp. 403-412, doi: 10.1016/j.jcrimjus.2005.06.009.
+
+Cook, K.S. (2005), “Networks, norms, and trust: the social psychology of social capital 2004 cooley mead award address”, Social Psychology Quarterly, Vol. 68 No. 1, pp. 4-14, doi: 10.1177/019027250506800102.
+
+Dinesen, P.T., Schaeffer, M. and Sønderskov, K.M. (2020), “Ethnic diversity and social trust: a narrative and meta-analytical review”, Annual Review of Political Science, Vol. 23 No. 1, pp. 441-465, doi: 10.1146/annurev-polisci-052918-020708.
+
+Dzordzormenyoh, M.K. (2022), “Effective local government council leadership: reassessing the facilitative model of leadership”, International Journal of Public Leadership, Vol. 18 No. 3, pp. 229-241, doi: 10.1108/ijpl-02-2021-0015.
+
+Dzordzormenyoh, M.K. (2023), “Predictors of citizens’ trust in public leadership in Ghana: a comparison between the president, MPs and MMDCEs”, International Journal of Public Leadership, Vol. 19 No. 3, pp. 189-209, doi: 10.1108/ijpl-11-2022-0064.
+
+Eifert, B., Miguel, E. and Posner, D.N. (2010), “Political competition and ethnic identification in Africa”, American Journal of Political Science, Vol. 54 No. 2, pp. 494-510, doi: 10.1111/j.1540-5907.2010.00443.x.
+
+Enwereuzor, I.K., Adeyemi, B.A. and Onyishi, I.E. (2020), “Trust in leader as a pathway between ethical leadership and safety compliance”, Leadership in Health Services, Vol. 33 No. 2, pp. 201-219, doi: 10.1108/lhs-09-2019-0063.
+
+Fairholm, M.R., Dzordzormenyoh, M.K. and Binda, G.A. (2018), “Trust-culture leadership in local public administrators’ work”, International Journal of Public Leadership, Vol. 14 No. 4, pp. 260-273, doi: 10.1108/ijpl-06-2018-0031.
+
+FitzGerald, M., Hough, M., Joseph, I. and Qureshi, T. (2013), Policing for London, Routledge, Willan, Cullompton.
+
+Fulmer, C.A. and Gelfand, M.J. (2012), “At what level (and in whom) we trust: trust across multiple organizational levels”, Journal of Management, Vol. 38 No. 4, pp. 1167-1230, doi: 10.1177/ 0149206312439327.
+
+Gyimah-Boadi, E., Logan, C. and Sanny, J. (2021), “Africans’ durable demand for democracy”, Journal of Democracy, Vol. 32 No. 3, pp. 136-151, doi: 10.1353/jod.2021.0039.
+
+Hardin, R. (2002), “Trust and trustworthiness. (The russell sage foundation series)”, in The Routledge Handbook of Trust and Philosophy, Russel Sage Foundation, available at: http://library.mpibberlin.mpg.de/toc/z2008_2135.pdf (accessed 5 September 2023).
+
+Harris, J.K. (2021), “Primer on binary logistic regression”, Family Medicine and Community Health, Vol. 9 No. Suppl 1, e001290, doi: 10.1136/fmch-2021-001290.
+
+Harris, J.A. and Posner, D.N. (2019), “(Under what conditions) do politicians reward their supporters? Evidence from Kenya’s Constituencies Development Fund”, American Political Science Review, Vol. 113 No. 1, pp. 123-139, doi: 10.1017/s0003055418000709.
+
+Havold, O.K.S., Havold, J.I. and Glavee-Geo, R. (2021), “Trust in leaders, work satisfaction and work engagement in public hospitals”, International Journal of Public Leadership, Vol. 17 No. 2, pp. 145-159, doi: 10.1108/ijpl-07-2020-0061.
+
+Hu, L., Jiang, N., Huang, H. and Liu, Y. (2022), “Perceived competence overrides gender bias: gender roles, affective trust and leader effectiveness”, Leadership and Organization Development Journal, Vol. 43 No. 5, pp. 719-733, doi: 10.1108/lodj-06-2021-0312.
+
+Hurst, Y.G. and Frank, J. (2000), “How kids view cops the nature of juvenile attitudes toward the police”, Journal of Criminal Justice, Vol. 28 No. 3, pp. 189-202, doi: 10.1016/s0047-2352(00)00035-0.
+
+Kerr, N. and Wahman, M. (2021), “Electoral rulings and public trust in African courts and elections”, Comparative Politics, Vol. 53 No. 2, pp. 257-290, doi: 10.5129/001041521x15930293747844.
+
+Khodyakov, D. (2007), “Trust as a process: a three-dimensional approach”, Sociology, Vol. 41 No. 1, pp. 115-132, doi: 10.1177/0038038507072285.
+
+Public leaders in Africa
+
+123
+
+Kong, D.T. (2014), “Perceived competence and benevolence of political institutions as culturally universal facilitators of political trust: evidence from Arab countries”, Cross-Cultural Research, Vol. 48 No. 4, pp. 385-399, doi: 10.1177/1069397114523929.
+
+Legood, A., van der Werff, L., Lee, A. and Den Hartog, D. (2021), “A meta-analysis of the role of trust in the leadership-performance relationship”, European Journal of Work and Organizational Psychology, Vol. 30 No. 1, pp. 1-22, doi: 10.1080/1359432x.2020.1819241.
+
+Li, P.P. (2015),“Trust as a leap of hope for transaction value: a two-way street above and beyond trust propensity and expected trustworthiness” in Bornstein, B.H. and Tomkins, A.J. (Eds), Motivating cooperation and compliance with authority: The role of institutional trust, 62nd Nebraska Symposium on Motivation, Springer, New York, pp. 37-53.
+
+Mayer, R.C. and Davis, J.H. (1999), “The effect of the performance appraisal system on trust for management: a field quasi-experiment”, Journal of Applied Psychology, Vol. 84 No. 1, pp. 123-136, doi: 10.1037/0021-9010.84.1.123.
+
+Mayer, R.C., Davis, J.H. and Schoorman, F.D. (1995), “An integrative model of organizational trust”, Academy of Management Review, Vol. 20 No. 3, pp. 709-734, doi: 10.5465/amr.1995.9508080335.
+
+Melkamu, M.T. and Teshome, W. (2023), “Public trust in the police: investigating the influence of police performance, procedural fairness, and police-community relations in Addis Ababa, Ethiopia”, Cogent Social Sciences, Vol. 9 No. 1, 2199559, doi: 10.1080/23311886.2023.2199559.
+
+Merry, S., Power, N., McManus, M. and Alison, L. (2012), “Drivers of public trust and confidence in police in the UK”, International Journal of Police Science and Management, Vol. 14 No. 2, pp. 118-135, doi: 10.1350/ijps.2012.14.2.268.
+
+Murphy, K. and Cherney, A. (2012), “Understanding cooperation with police in a diverse society”, The British Journal of Criminology, Vol. 52 No. 1, pp. 181-201, doi: 10.1093/bjc/azr065.
+
+Murphy, D.W. and Worrall, J.L. (1999), “Residency requirements and public perceptions of the police in large municipalities”, Policing: An International Journal of Police Strategies and Management, Vol. 22 No. 3, pp. 327-342, doi: 10.1108/13639519910285080.
+
+Nawaz, A., Gilal, F.G., Channa, K.A. and Gilal, R.G. (2022), “Going deep into a leader’s integrity: a systematic review and the way forward”, European Management Journal, Vol. 41 No. 6, pp. 845-863, doi: 10.1016/j.emj.2022.11.001.
+
+Nivette, A.E. and Akoensi, T.D. (2019), “Determinants of satisfaction with police in a developing country: a randomised vignette study”, Policing and Society, Vol. 29 No. 4, pp. 471-487, doi: 10. 1080/10439463.2017.1380643.
+
+Pillay, P. (2017), “Public trust and good governance: a comparative study of Brazil and South Africa”, African Journal of Public Affairs, Vol. 9 No. 8, pp. 31-47.
+
+Posner, D.N. (2007), “Regime change and ethnic cleavages in Africa”, Comparative Political Studies, Vol. 40 No. 11, pp. 1302-1327, doi: 10.1177/0010414006291832.
+
+Powell, M.B., Skouteris, H. and Murfett, R. (2008), “Children’s perceptions of the role of police: a qualitative study”, International Journal of Police Science and Management, Vol. 10 No. 4, pp. 464-473, doi: 10.1350/ijps.2008.10.4.099.
+
+Pryce, D.K., Johnson, D. and Maguire, E.R. (2017), “Procedural justice, obligation to obey, and cooperation with police in a sample of Ghanaian immigrants”, Criminal Justice and Behavior, Vol. 44 No. 5, pp. 733-755, doi: 10.1177/0093854816680225.
+
+Pryce, D.K., Wilson, G. and Fuller, K. (2019), “Predictors of satisfaction with Kenya’s police and Kenya’s criminal justice system: results from a sample of Kenyan college students”, The Police Journal, Vol. 92 No. 4, pp. 296-315, doi: 10.1177/0032258x18814281.
+
+Sabet, D.M. (2013), “Corruption or insecurity? Understanding dissatisfaction with Mexico’s police”, Latin American Politics and Society, Vol. 55 No. 1, pp. 22-45.
+
+Sargeant, E., Murphy, K. and Cherney, A. (2014), “Ethnicity, trust, and cooperation with police: testing the dominance of the process-based model”, European Journal of Criminology, Vol. 11 No. 4, pp. 500-524, doi: 10.1177/1477370813511386.
+
+IJPL 20,2
+
+124
+
+Schoorman, F.D., Wood, M.M. and Breuer, C. (2015), “Would trust by any other name smell as sweet? Reflections on the meanings and uses of trust across disciplines and context”, in Bornstein, B.H. and Tomkins, A.J. (Eds), Motivating Cooperation and Compliance with Authority: the Role of Institutional Trust, pp. 13-35.
+
+Secor, A.J. and O’Loughlin, J. (2005), “Social and political trust in Istanbul and Moscow: a comparative analysis of individual and neighbourhood effects”, Transactions of the Institute of British Geographers, Vol. 30 No. 1, pp. 66-82, doi: 10.1111/j.1475-5661.2005.00152.x.
+
+Sherman, L.W. (2002), “Trust and confidence in criminal justice”, National Institute of Justice Journal, Vol. 248, pp. 22-31, available at: https://www.ojp.gov/sites/g/files/xyckuh241/files/archives/ ncjrs/189106-1.pdf (accessed 5 Septemer 2023).
+
+Shockley-Zalabak, P.S. and Morreale, S.P. (2021), “Voters’ perceptions of trust in Donald Trump in 2016 and 2019: implications for presidential leadership in the crises of 2020”, American Behavioral Scientist, Vol. 65 No. 3, pp. 448-464, doi: 10.1177/0002764220975051.
+
+Singer, A.J., Chouhy, C., Lehmann, P.S., Walzak, J.N., Gertz, M. and Biglin, S. (2019), “Victimization, fear of crime, and trust in criminal justice institutions: a cross-national analysis”, Crime and Delinquency, Vol. 65 No. 6, pp. 822-844, doi: 10.1177/0011128718787513.
+
+Son, S. and Lee, J.Y. (2023), “When humble leaders enhance employee job crafting: the role of gender and trust in leaders”, SAGE Open, Vol. 13 No. 3, 21582440231184862, doi: 10.1177/ 21582440231184862.
+
+Spadaro, G., Gangl, K., Van Prooijen, J.W., Van Lange, P.A. and Mosso, C.O. (2020), “Enhancing feelings of security: how institutional trust promotes interpersonal trust”, PloS One, Vol. 15 No. 9, e0237934, doi: 10.1371/journal.pone.0237934.
+
+Sprott, J.B. and Doob, A.N. (2009), “The effect of urban neighborhood disorder on evaluations of the police and courts”, Crime and Delinquency, Vol. 55 No. 3, pp. 339-362, doi: 10.1177/ 0011128707306689.
+
+Tankebe, J. (2008), “Police effectiveness and police trustworthiness in Ghana: an empirical appraisal”, Criminology and Criminal Justice, Vol. 8 No. 2, pp. 185-202, doi: 10.1177/1748895808088994.
+
+Tummers, L. and Knies, E. (2016), “Measuring public leadership: developing scales for four key public leadership roles”, Public Administration, Vol. 94 No. 2, pp. 433-451, doi: 10.1111/padm.12224.
+
+Van Craen, M. and Skogan, W.G. (2017), “Achieving fairness in policing: the link between internal and external procedural justice”, Police Quarterly, Vol. 20 No. 1, pp. 3-23, doi: 10.1177/ 1098611116657818.
+
+van der Werff, L., Legood, A., Buckley, F., Weibel, A. and de Cremer, D. (2019), “Trust motivation: the self-regulatory processes underlying trust decisions”, Organizational Psychology Review, Vol. 9 Nos 2-3, pp. 99-123, doi: 10.1177/2041386619873616.
+
+Wang, S.Y.K. and Sun, I.Y. (2020), “A comparative study of rural and urban residents’ trust in police in Taiwan”, International Criminal Justice Review, Vol. 30 No. 2, pp. 197-218, doi: 10.1177/ 1057567718763724.
+
+Welz, M. (2021), Africa since Decolonization: the History and Politics of a Diverse Continent, Cambridge University Press.
+
+Welzel, C. and Dalton, R. (2016), “The secret of better government? Citizens who complain”, Democratic Audit UK, available at: https://eprints.lse.ac.uk/80519/1/democraticaudit.com-The% 20secret%20of%20better%20government%20Citizens%20who%20complain.pdf (accessed 9 September 2023).
+
+Wilson, J.A. and Cunliffe, A.L. (2022), “The development and disruption of relationships between leaders and organizational members and the importance of trust”, Leadership, Vol. 18 No. 3, pp. 359-382.
+
+Wu, Y., Sun, I.Y. and Triplett, R.A. (2009), “Race, class, or neighborhood context: which matters more in measuring satisfaction with the police?”, Justice Quarterly, Vol. 26 No. 1, pp. 125-156, doi: 10. 1080/07418820802119950.
+
+Public leaders in Africa
+
+125
+
+Yazdanshenas, M. and Mirzaei, M. (2023), “Leadership integrity and employees’ success: role of ethical leadership, psychological capital, and psychological empowerment”, International Journal of Ethics and Systems, Vol. 39 No. 4, pp. 761-780, doi: 10.1108/ijoes-05-2022-0117.
+
+Yuan, Y., Kong, H., Baum, T., Liu, Y., Liu, C., Bu, N., Wang, K. and Yin, Z. (2022), “Transformational leadership and trust in leadership impacts on employee commitment”, Tourism Review, Vol. 77 No. 5, pp. 1385-1399, doi: 10.1108/tr-10-2020-0477.
+
+Zhang, S., Bowers, A.J. and Mao, Y. (2021), “Authentic leadership and teachers’ voice behaviour: the mediating role of psychological empowerment and moderating role of interpersonal trust”, Educational Management Administration and Leadership, Vol. 49 No. 5, pp. 768-785, doi: 10. 1177/1741143220915925.
+
+Further reading
+
+Afrobarometer Data (2019/2021), “34 countries merged data, round 8”, available at: http://www. afrobarometer.org (accessed 1 August 2023).
+
+Mattes, R. (2020), “Lived poverty on the rise: decade of living-standard gains ends in Africa”, available at:
+
+https://www.afrobarometer.org/wp-content/uploads/migrated/files/publications/Policy%20papers/ ab_r7_pap13_lived_poverty_on_the_rise_in_africa_1.pdf (accessed 15 December 2023).
+
+IJPL 20,2
+
+126
+
+Appendix
+
+Variables 1 2 3 4 5 6 7 8 9 10 11
+
+Trust presidents (1) 1.00 Trust MPs (2) 0.54 (0.000)* 1.00 Trust LGs (3) 0.42 (0.000)* 0.51 (0.000)* 1.00 Presidents performance (4) 0.47 (0.000)* 0.31 (0.000)* 0.24 (0.000)* 1.00
+
+MPs performance (5) 0.28 (0.000)* 0.33 (0.000)* 0.28 (0.000)* 0.48 (0.000)* 1.00
+
+LGs performance (6) 0.22 (0.000)* 0.26 (0.000)* 0.35 (0.000)* 0.35 (0.000)* 0.55 (0.000)* 1.00
+
+Presidents corrupt (7) 0.32 (0.000)* 0.25 (0.000)* 0.21 (0.000)* 0.35 (0.000)* 0.25 (0.000)* 0.22 (0.000)* 1.00
+
+MPs corrupt (8) 0.23 (0.000) 0.27 (0.000)* 0.23 (0.000)* 0.24 (0.000)* 0.27 (0.000)* 0.22 (0.000)* 0.66 (0.000)* 1.00 Contact MPs (9) 0.02 (0.000)* 0.05 (0.000)* 0.04 (0.000)* 0.00 (0.28) 0.06 (0.000)* 0.03 (0.000)* 0.02 (0.000)* 0.01 (0.03) 1.00 Problems in Africa (10) 0.02 (0.000)* 0.03 (0.000)* 0.04 (0.000)* 0.00 (0.33) 0.01 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.04 (0.000)* 0.02 (0.000)* 1.00
+
+Econ/living conditions (11) 0.12 (0.000)* 0.09 (0.000)* 0.08 (0.000)* 0.17 (0.000)* 0.15 (0.000)* 0.12 (0.000)* 0.11 (0.000)* 0.09 (0.000)* 0.01 (0.000)* 0.04 (0.000)* 1.00
+
+LGs corrupt (12) 0.16 (0.000)* 0.20 (0.000)* 0.24 (0.000)* 0.17 (0.000)* 0.20 (0.000)* 0.26 (0.000)* 0.49 (0.000)* 0.59 (0.000)* 0.01 (0.03) 0.03 (0.000)* 0.07 (0.000)* Contact LGs (13) 0.03 (0.000)* 0.04 (0.000)* 0.08 (0.000)* 0.00 (0.000)* 0.01 (0.000)* 0.09 (0.000)* 0.03 (0.000)* 0.01 (0.000)* 0.45 (0.00)* 0.01 (0.000)* 0.00 (0.35) Civil servants corrupt (14) 0.14 (0.000)* 0.17 (0.000)* 0.16 (0.000)* 0.15 (0.000)* 0.17 (0.000)* 0.15 (0.000)* 0.48 (0.000)* 0.56 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.07 (0.000)*
+
+Level of corruption (15) 0.27 (0.000)* 0.24 (0.000)* 0.24 (0.000)* 0.31 (0.000)* 0.25 (0.000)* 0.23 (0.000)* 0.32 (0.000)* 0.28 (0.000)* 0.00 (0.47) 0.04 (0.000)* 0.11 (0.000)*
+
+Education (16) 0.08 (0.000)* 0.11 (0.000)* 0.12 (0.000)* 0.04 (0.000)* 0.08 (0.000)* 0.10 (0.000)* 0.09 (0.000)* 0.10 (0.000)* 0.01 (0.000)* 0.09 (0.000)* 0.07 (0.000)* Age (17) 0.05 (0.000)* 0.04 (0.000)* 0.03 (0.000)* 0.02 (0.000)* 0.00 (0.72) 0.01 (0.001)* 0.01 (0.000)* 0.01 (0.000)* 0.05 (0.000)* 0.00 (0.08) 0.06 (0.000)* Location (18) 0.07 (0.000)* 0.11 (0.000)* 0.13 (0.000)* 0.05 (0.000)* 0.07 (0.000)* 0.10 (0.000)* 0.06 (0.000)* 0.07 (0.000)* 0.04 (0.000)* 0.08 (0.000)* 0.05 (0.000)* Employment (19) 0.02 (0.000)* 0.04 (0.000)* 0.05 (0.000)* 0.08 (0.05) 0.02 (0.000)* 0.04 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.03 (0.000)* 0.01 (0.000)* Gender (20) 0.00 (0.45) 0.00 (0.44) 0.00 (0.88) 0.00 (0.27) 0.02 (0.000)* 0.01 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.07 (0.000)* 0.02 (0.000)* 0.00 (0.13) Religion (21) 0.00 (0.15) 0.00 (0.97) 0.02 (0.000)* 0.00 (0.98) 0.02 (0.000)* 0.03 (0.000)* 0.02 (0.000)* 0.01 (0.01) 0.01 (0.000)* 0.00 (0.13) 0.02 (0.000)* Sat. w/t democracy (22) 0.32 (0.000)* 0.28 (0.000)* 0.25 (0.000)* 0.33 (0.000)* 0.26 (0.000)* 0.22 (0.000)* 0.27 (0.000)* 0.22 (0.000)* 0.03 (0.000)* 0.03 (0.000)* 0.17 (0.000)*
+
+Level of poverty (23) 0.09 (0.000)* 0.06 (0.000)* 0.05 (0.000)* 0.15 (0.000)* 0.10 (0.000)* 0.08 (0.000)* 0.14 (0.000)* 0.11 (0.000)* 0.03 (0.000)* 0.08 (0.000)* 0.30 (0.000)*
+
+Treated unfairly (24) 0.12 (0.000)* 0.13 (0.000)* 0.13 (0.000)* 0.14 (0.000)* 0.11 (0.000)* 0.12 (0.000)* 0.17 (0.000)* 0.15 (0.000)* 0.04 (0.000)* 0.03 (0.000)* 0.13 (0.000)*
+
+Discrimination (25) 0.04 (0.000)* 0.04 (0.000)* 0.05 (0.000)* 0.00 (0.21) 0.00 (0.41) 0.02 (0.000)* 0.00 (0.13) 0.01 (0.04) 0.00 (0.35) 0.03 (0.000)* 0.05 (0.000)* Quality of life (26) 0.01 (0.000)* 0.02 (0.000)* 0.03 (0.000)* 0.00 (0.98) 0.02 (0.000)* 0.01 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.00 (0.28) 0.03 (0.000)* 0.02 (0.000)*
+
+(continued)
+
+Table A1. Pearson correlation for study variables (N 5 48,084)
+
+Public leaders in Africa
+
+127
+
+Variables 1 2 3 4 5 6 7 8 9 10 11
+
+Neighborhood violence (27) 0.09 (0.000)* 0.08 (0.000)* 0.08 (0.000)* 0.09 (0.00)* 0.07 (0.000)* 0.08 (0.000)* 0.09 (0.000)* 0.08 (0.000)* 0.03 (0.000)* 0.04 (0.000)* 0.04 (0.000)*
+
+Extremism (28) 0.09 (0.000)* 0.09 (0.000)* 0.06 (0.000)* 0.10 (0.000)* 0.07 (0.000)* 0.03 (0.000)* 0.10 (0.000)* 0.10 (0.000)* 0.05 (0.000)* 0.09 (0.000)* 0.02 (0.000)* Handling job creation (29) 0.24 (0.000)* 0.24 (0.000)* 0.20 (0.000)* 0.30 (0.000)* 0.28 (0.000)* 0.24 (0.000)* 0.22 (0.000)* 0.21 (0.000)* 0.05 (0.000)* 0.00 (0.27) 0.18 (0.000)*
+
+Institutional trust (30) 0.23 (0.000)* 0.21 (0.000)* 0.20 (0.000)* 0.18 (0.000)* 0.15 (0.000)* 0.15 (0.000)* 0.18 (0.000)* 0.17 (0.000)* 0.01 (0.000)* 0.00 (0.16) 0.08 (0.000)*
+
+Access to news (31) 0.02 (0.000)* 0.05 (0.000)* 0.05 (0.000)* 0.00 (0.000)* 0.04 (0.000)* 0.04 (0.000)* 0.04 (0.000)* 0.05 (0.000)* 0.02 (0.000)* 0.04 (0.000)* 0.04 (0.000)* Service delivery (32) 0.26 (0.000)* 0.25 (0.000)* 0.23 (0.000)* 0.31 (0.000)* 0.24 (0.000)* 0.23 (0.000)* 0.24 (0.000)* 0.21 (0.000)* 0.01 (0.000)* 0.08 (0.000)* 0.10 (0.000)*
+
+Party affiliation (33) 0.09 (0.000)* 0.09 (0.000)* 0.09 (0.000)* 0.06 (0.000)* 0.05 (0.000)* 0.05 (0.000)* 0.03 (0.000)* 0.05 (0.000)* 0.09 (0.000)* 0.05 (0.000)* 0.03 (0.000)*
+
+Variables 12 13 14 15 16 17 18 19 20 21 22
+
+LGs corrupt (12) 1.00 Contact LGs (13) 0.01 (0.04) 1.00 Civil servants corrupt (14) 0.60 (0.000)* 0.02 (0.000)* 1.00
+
+Level of corruption (15) 0.24 (0.000)* 0.00 (0.25) 0.22 (0.000)* 1.00
+
+Education (16) 0.08 (0.000)* 0.01 (0.03) 0.05 (0.000) 0.09 (0.000)* 1.00 Age (17) 0.03 (0.000)* 0.10 (0.00)* 0.00 (0.63) 0.01 (0.000)* 0.21 (0.000)* 1.00 Location (18) 0.08 (0.000)* 0.09 (0.000)* 0.05 (0.000)* 0.04 (0.000)* 0.33 (0.000)* 0.06 (0.000)* 1.00 Employment (19) 0.04 (0.000)* 0.03 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.22 (0.000)* 0.11 (0.000)* 0.13 (0.000)* 1.00 Gender (20) 0.02 (0.000)* 0.13 (0.000)* 0.03 (0.000)* 0.00 (0.000)* 0.10 (0.000)* 0.08 (0.000)* 0.00 (0.87) 0.12 (0.000)* 1.00 Religion (21) 0.00 (0.000)* 0.01 (0.000)* 0.02 (0.000)* 0.02 (0.000)* 0.12 (0.000)* 0.00 (0.10) 0.02 (0.000)* 0.07 (0.000)* 0.05 (0.000)* 1.00 Sat. w/t democracy (22) 0.19 (0.000)* 0.01 (0.000)* 0.17 (0.000)* 0.26 (0.000)* 0.08 (0.000)* 0.03 (0.000)* 0.08 (0.000)* 0.00 (0.000)* 0.00 (0.24) 0.02 (0.000)* 1.00
+
+Level of poverty (23) 0.10 (0.000)* 0.05 (0.000)* 0.10 (0.000)* 0.08 (0.000)* 0.20 (0.000)* 0.00 (0.77) 0.15 (0.000)* 0.06 (0.000)* 0.01 (0.01) 0.01 (0.000)* 0.17 (0.000)*
+
+Treated unfairly (24) 0.15 (0.000)* 0.04 (0.000)* 0.12 (0.000)* 0.13 (0.000)* 0.04 (0.000)* 0.00 (0.05) 0.02 (0.000)* 0.03 (0.000)* 0.03 (0.000)* 0.03 (0.000)* 0.17 (0.000)*
+
+Discrimination (25) 0.01 (0.000)* 0.01 (0.02) 0.00 (0.54) 0.04 (0.000)* 0.15 (0.000)* 0.01 (0.000)* 0.12 (0.000)* 0.06 (0.000)* 0.01 (0.000)* 0.02 (0.000)* 0.03 (0.000)* Quality of life (26) 0.01 (0.000)* 0.00 (0.05) 0.01 (0.000)* 0.01 (0.000)* 0.13 (0.000)* 0.00 (0.19) 0.10 (0.000)* 0.05 (0.000)* 0.03 (0.000)* 0.01 (0.000)* 0.00 (0.11) Neighborhood violence (27) 0.09 (0.000)* 0.02 (0.000)* 0.07 (0.000)* 0.08 (0.000)* 0.05 (0.000)* 0.06 (0.000)* 0.07 (0.000)* 0.05 (0.000)* 0.00 (0.73) 0.03 (0.000)* 0.11 (0.000)*
+
+Extremism (28) 0.08 (0.000)* 0.06 (0.000)* 0.09 (0.000)* 0.06 (0.000)* 0.00 (0.95) 0.03 (0.000)* 0.00 (0.56) 0.00 (0.56) 0.01 (0.01) 0.00 (0.72) 0.09 (0.000)*
+
+(continued)
+
+Table A1.
+
+IJPL 20,2
+
+128
+
+Variables 12 13 14 15 16 17 18 19 20 21 22
+
+Handling job creation (29) 0.17 (0.000)* 0.02 (0.000)* 0.13 (0.000)* 0.25 (0.000)* 0.09 (0.000)* 0.01 (0.02) 0.06 (0.000)* 0.00 (0.04) 0.01 (0.00)* 0.00 (0.12) 0.27 (0.000)*
+
+Institutional trust (30) 0.16 (0.000)* 0.02 (0.000)* 0.13 (0.000)* 0.12 (0.000)* 0.04 (0.000)* 0.02 (0.000)* 0.06 (0.000)* 0.00 (0.36) 0.01 (0.00)* 0.01 (0.000)* 0.17 (0.000)*
+
+Access to news (31) 0.04 (0.000)* 0.03 (0.000)* 0.03 (0.000)* 0.03 (0.000)* 0.24 (0.000)* 0.02 (0.000)* 0.18 (0.000)* 0.10 (0.000)* 0.10 (0.000)* 0.01 (0.000)* 0.02 (0.000)* Service delivery (32) 0.18 (0.000)* 0.02 (0.000)* 0.15 (0.000)* 0.31 (0.000)* 0.09 (0.000)* 0.01 (0.000)* 0.10 (0.000)* 0.00 (0.37) 0.00 (0.03) 0.02 (0.000)* 0.29 (0.000)*
+
+Party affiliation (33) 0.05 (0.000)* 0.13 (0.000)* 0.02 (0.000)* 0.04 (0.000)* 0.04 (0.000)* 0.06 (0.000)* 0.09 (0.000)* 0.02 (0.000)* 0.07 (0.000)* 0.04 (0.000)* 0.08 (0.000)*
+
+23 24 25 26 27 28 29 30 31 32 33
+
+Level of poverty (23) 1.00
+
+Treated unfairly (24) 0.17 (0.000)* 1.00
+
+Discrimination (25) 0.13 (0.000)* 0.00 (0.20) 1.00
+
+Quality of life (26) 0.06 (0.000)* 0.00 (0.78) 0.01 (0.000)* 1.00
+
+Neighborhood violence (27) 0.10 (0.000)* 0.09 (0.000)* 0.01 (0.000)* 0.01 (0.000)* 1.00
+
+Extremism (28) 0.09 (0.000)* 0.11 (0.000)* 0.01 (0.02) 0.01 (0.000)* 0.37 (0.000)* 1.00 Handling job creation (29) 0.13 (0.000)* 0.12 (0.000)* 0.01 (0.000)* 0.00 (0.62) 0.05 (0.000)* 0.02 (0.000)* 1.00
+
+Institutional trust (30) 0.08 (0.000)* 0.07 (0.000)* 0.00 (0.13) 0.00 (0.90) 0.04 (0.000)* 0.05 (0.000)* 0.13 (0.000)* 1.00
+
+Access to news (31) 0.08 (0.000)* 0.01 (0.00)* 0.06 (0.000)* 0.25 (0.000)* 0.04 (0.000)* 0.03 (0.000)* 0.02 (0.000)* 0.00 (0.72) 1.00
+
+Service delivery (32) 0.07 (0.000)* 0.13 (0.000)* 0.06 (0.000)* 0.00 (0.09) 0.11 (0.000)* 0.10 (0.000)* 0.41 (0.000)* 0.17 (0.000)* 0.02 (0.000)* 1.00
+
+Party affiliation (33) 0.05 (0.000)* 0.02 (0.000)* 0.07 (0.000)* 0.00 (0.10) 0.00 (0.04) 0.01 (0.05) 0.04 (0.000)* 0.05 (0.000)* 0.00 (0.04) 0.08 (0.000)* 1.00
+
+Note(s): p-values are in parenthesis Source(s): Table by the author
+
+Table A1.
+
+Public leaders in Africa
+
+129
+
+Model 1 Model 2 Model 3 Presidents MPs LGs Variables T (VIF) T (VIF) T (VIF)
+
+Gender 0.90 (1.10) 0.90 (1.10) 0.90 (1.10)
+
+Age (18–25) 26–35 0.66 (1.51) 0.66 (1.51) 0.66 (1.51) 36–45 0.68 (1.47) 0.68 (1.47) 0.68 (1.43) 46–55 0.74 (1.33) 0.75 (1.33) 0.74 (1.33) 56 and over 0.73 (1.36) 0.73 (1.36) 0.73 (1.36) Party affiliation 0.94 (1.06) 0.94 (1.06) 0.94 (1.16)
+
+Education (No education 5 RC) Primary 0.52 (1.91) 0.52 (1.91) 0.52 (1.91) Secondary 0.44 (2.25) 0.44 (2.25) 0.44 (2.25) Post-secondary 0.49 (2.00) 0.49 (2.00) 0.50 (2.00) Employment 0.87 (1.14) 0.87 (1.14) 0.87 (1.14) President/Office corrupt 0.47 (2.10) 0.47 (2.10) 0.47 (2.10) MPs corrupt 0.41 (2.39) 0.41 (2.39) 0.41 (2.39) Local gov’t leaders corrupt 0.50 (1.98) 0.50 (1.98) 0.50 (1.98) Contact MPs 0.78 (1.28) 0.78 (1.28) 0.78 (1.28) Contact local gov’t leaders 0.75 (1.32) 0.75 (1.32) 0.75 (1.32) Problems facing Africa 0.94 (1.06) 0.94 (1.06) 0.94 (1.06) Economic/living condition 0.86 (1.16) 0.86 (1.15) 0.86 (1.15) Level of corruption 0.72 (1.37) 0.72 (1.37) 0.72 (1.37) Civil servants corrupt 0.55 (1.80) 0.55 (1.80) 0.55 (1.80)
+
+Religion (Other 5 RC) Christianity 0.21 (4.63) 0.21 (4.61) 0.21 (4.61) Muslim 0.21 (4.71) 0.21 (4.69) 0.21 (4.69) Location – rural and urban 0.82 (1.22) 0.82 (1.22) 0.82 (1.22) Handling job creation 0.7 (1.35) 0.74 (1.35) 0.74 (1.34) Trust public institutions 0.90 (1.11) 0.90 (1.10) 0.90 (1.11) Fear of violence 0.81 (1.23) 0.81 (1.23) 0.81 (1.23) Fear of extremism 0.81 (1.22) 0.81 (1.22) 0.81 (1.22) Public service delivery 0.68 (1.45) 0.68 (1.45) 0.68 (1.45)
+
+Poverty level (No 5 RC) Low 0.27 (3.66) 0.27 (3.66) 0.27 (3.66) Mid 0.25 (3.87) 0.25 (3.86) 0.25 (3.87) High 0.30 (3.30) 0.30 (3.30) 0.30 (3.30) Satisfaction with democracy 0.72 (1.38) 0.72 (1.38) 0.72 (1.38) Access to news 0.84 (1.18) 0.84 (1.19) 0.84 (1.18) Performance of president 0.63 (1.58) 0.63 (1.58) 0.63 (1.58) Performance of MPs 0.57 (1.72) 0.58 (1.72) 0.58 (1.72) Performance of local gov’t leaders 0.63 (1.56) 0.63 (1.56) 0.63 (1.51) Treated unfairly by gov’t officials 0.84 (1.18) 0.84 (1.18) 0.84 (1.18) Discrimination 0.94 (1.05) 0.94 (1.05) 0.94 (1.05) Quality of life 0.90 (1.10) 0.90 (1.10) 0.90 (1.10) Mean VIF 1.79 1.79 1.79 Note(s): T 5 tolerance values and VIF 5 variance inflation factor values Source(s): Table by the author
+
+Table A2. Multicollinearity test for factors influencing citizens’ trust in the public leaders in Africa
+
+IJPL 20,2
+
+130
+
+About the author Michael K. Dzordzormenyoh (PhD) is Assistant Professor of Political Science in the Department of Political Science and Faculty Affiliate at the Center for African Studies at Kent State University, Kent, Ohio, USA. His research and pedagogical expertise are shown in comparative public administration and public policy, specifically in elections, immigration, criminal justice and leadership. Michael K. Dzordzormenyoh can be contacted at: mdzordzo@kent.edu
+
+For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm Or contact us for further details: permissions@emeraldinsight.com
+
+Public leaders in Africa
+
+131

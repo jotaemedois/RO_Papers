@@ -1,0 +1,513 @@
+Perceived threats, trust in authorities, and well-being: The role of responsibility attribution☆
+
+Olga A. Gulevich a , Alexander N. Gnezdilov a , Evgeny N. Osin b,c,*
+
+a Politics & Psychology Lab, HSE University, Moscow, Russia b Laboratory LINP2, University of Paris Nanterre, Nanterre, France c Centre d'´etudes russes, caucasiennes, est-europ´eennes et centrasiatiques (CERCEC), French National Centre for Scientific Research (CNRS), Aubervilliers, France
+
+A R T I C L E I N F O
+
+Keywords: Perceived external threats Political trust Subjective well-being Russia
+
+A B S T R A C T
+
+Subjective well-being, i.e., a combination of affective and cognitive evaluations of one's life, is predicted by objective and subjective indicators of the country's state of affairs. Previous studies have revealed the negative effect of perceived external threats on various well-being indicators. However, we expected that some threats may have paradoxical positive effects. Our study explored the relationship between various forms of perceived external threats, attitudes toward the political system, and satisfaction with life. In two studies involving Russian respondents, we measured the intensity of perceived economic and violent threats, attribution of responsibility to domestic political authorities, political trust, and satisfaction with life. The studies showed that perceived external threats predict not only decreased but also increased life satisfaction. Perceived economic threats had a negative and perceived violent threats a positive indirect effect on satisfaction with life mediated by political trust. The association of economic threats with political trust and satisfaction with life was moderated by the attribution of responsibility for economic problems to domestic political authorities. We discuss the possible explanations for these effects and their policy implications.
+
+1. Introduction
+
+Subjective well-being (SWB) is typically defined as a combination of affective and cognitive evaluations of one's life. The balance of positive and negative emotions constitutes affective well-being, whereas an in­ dividual's cognitive evaluation of their life constitutes cognitive well- being (Pavot & Diener, 2013). Numerous studies have shown that SWB can have a positive influence on various aspects of a person's life: physical health and longevity, social interaction and social support, job performance, and wages, among others (Pavot & Diener, 2013).
+
+It is not surprising that scholars show great interest in the variables predicting SWB. These factors include societal-level variables, such as cultural values and indicators of the economic and political situation of the country (Pavot & Diener, 2013). On the one hand, several studies have shown that objective indicators of economic development, eco­ nomic growth, economic inequality (e.g., Easterlin et al., 2010; Ste­ venson & Wolfers, 2008; Zagorski et al., 2014), level of corruption (e.g., Heukamp & Ari˜no, 2011; Yan & Wen, 2020), and political regime (e.g., Loubser & Steenekamp, 2017) are all associated with SWB.
+
+On the other hand, a few previous studies have shown that SWB is predicted by individual-level subjective indicators of societal conditions, such as perceived external threats. In most cases, researchers have suggested that perceived external threats signal to individuals of possible harm, which has negative effects on their SWB (Amin et al., 2022; Matavelli et al., 2020; Pellerin & Raufaste, 2020). However, there is evidence that perceived external threats may also have positive effects on the psychological states of individuals (Schmid & Muldoon, 2015).
+
+When and why may the perception of dangers be associated with increased SWB? We hypothesize that different forms of perceived threat may have different effects on well-being. Our study aimed to explore the relationship between various forms of perceived external threats and subjective well-being (SWB). We hypothesized that perceived economic threats would be associated with decreased satisfaction with life, whereas perceived violent threats would be associated with increased life satisfaction. We also expected that these paradoxical effects could be explained by the attitudes toward the political system. To test these assumptions, we conducted two studies with Russian respondents.
+
+☆This article is part of a Special issue entitled: ‘Differences in Wellbeing’ published in Personality and Individual Differences.
+
+* Corresponding author.
+
+E-mail addresses: ogulevich@hse.ru (O.A. Gulevich), angnezdilov@edu.hse.ru (A.N. Gnezdilov), evgeny.n.osin@gmail.com (E.N. Osin).
+
+Contents lists available at ScienceDirect
+
+Personality and Individual Differences
+
+journal homepage: www.elsevier.com/locate/paid
+
+https://doi.org/10.1016/j.paid.2025.113335 Received 31 December 2024; Received in revised form 12 May 2025; Accepted 11 June 2025
+
+Personality and Individual Diϱerences 246 (2025) 113335
+
+Available online 20 June 2025 0191-8869/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).
+
+1.1. Perceived external threats and SWB
+
+Several scholars have made a distinction between perceived internal threats, which stem from the private life of individuals, and external threats, which have social-level causes (Onraet et al., 2014; Onraet, Van Hiel, & Cornelis, 2013). Perceived external threats can be related to various factors, such as economic problems (e.g., income reduction or unemployment), political situation (e.g., human rights violations or political competition) or violent actions (e.g., terrorist acts or military operations).
+
+Generally, the past studies have shown that perceived external threats are associated with lower SWB. For instance, residents of Northern Ireland who felt greater threats from their political opponents reported more disruptions in their psychological functioning (Schmid & Muldoon, 2015). Similarly, participants from Portugal (Matavelli et al., 2020) and France (Pellerin & Raufaste, 2020) who experienced greater economic threats, as well as respondents from Qatar who perceived greater threats from the diplomatic blockade (Amin et al., 2022), had lower levels of SWB.
+
+However, the effects of perceived external threats on SWB may be direct or indirect. For instance, in a study conducted in Northern Ireland, the direct association of perceived threats from political opponents with SWB was negative. Simultaneously, the indirect effect was positive: perceived threat from political opponents was associated with stronger political identification and, in turn, more positive psychological states (Schmid & Muldoon, 2015). Thus, accounting for additional variables related to the individual differences in the attitudes to the political system may change the strength and/or even the direction of the rela­ tionship between perceived threats and SWB.
+
+Nevertheless, we found very few studies examining the variables that could mediate or moderate the relationships of the external threats perceived by individuals to their psychological states. We expected that these mediating variables could relate to the attitudes toward the po­ litical system: politicians, political institutions, and the system of governance as a whole (e.g., political trust; Zmerli & Newton, 2017). Below we will examine the ways different forms of perceived external threats are associated with the attitudes toward the political system, and how these attitudes are related to SWB.
+
+1.2. Perceived external threats and attitudes toward the political system
+
+Numerous studies have shown that perceived external threats are associated with the attitudes toward the political system. However, their associations may vary depending on the type of perceived threats. For instance, perceived economic threats (e.g., from poor economic condi­ tions, high levels of social inequality and corruption) are typically negatively related to the attitudes toward the political system (Ciziceno & Giovanni, 2019; Tay et al., 2014; Uslaner, 2017; van der Meer, 2017, 2018; You, 2018). In turn, perceived violent threats (e.g., from terror­ ists: Godefroidt, 2023) are positively associated with these attitudes.
+
+Why do the effects of these forms of perceived threats differ? In our opinion, these differences may depend on the attribution of re­ sponsibility for the relevant societal problems. In general, the attribution of responsibility for some positive outcomes to a person or a social group elicits positive attitudes toward this person or group, and vice versa (see Weiner, 2012, for review). Several studies have shown that people tend to attribute responsibility for the state of the economy in their societies to their domestic political authorities, whereas the responsibility for the societal-level of violence is typically attributed to some other actors working within or outside the country (e.g., Iyengar, 1989; Marsh & Tilley, 2010).
+
+The distinct effects of these attributions are accounted for by two different groups of studies of political trust that can be termed “insti­ tutional” and “compensatory”. The “institutional” approach explains the role of perceived external threats attributed to domestic authorities whose actions influence citizens' attitudes toward the political system
+
+(Mishler & Rose, 2001, 2005). In line with this approach, the domestic political authorities that are believed to improve the situation in the country tend to improve the attitudes toward the political system, whereas those domestic political actors that are seen by citizens as worsening the state of affairs in the country tend to undermine the positive attitudes toward the political system.
+
+The “compensatory” approach explains the role of perceived external threats attributed to “enemies” acting inside and outside the country to damage the societal status quo (e.g., Jost, 2020; Murray, 2017). Ac­ cording to this approach, the outside agents that are believed by people to threaten their physical or material well-being, values or lifestyle, as well as the image or status of the country, frustrate their basic psycho­ logical needs. In return, this triggers a defensive response that is re­ flected in improved attitudes toward the domestic political system.
+
+Thus, the “institutional” approach appears to explain better the negative relationship of perceived economic threats to the attitudes to­ ward the political system, whereas the “compensatory” approach ap­ pears to better explain the positive relationships of perceived violent threats to these attitudes. In turn, in line with Weiner (2012), the attribution of greater responsibility for any societal problems to do­ mestic political authorities should decrease the positive association of these perceived threats to political attitudes.
+
+Supporting this idea, some studies have shown that attributing the responsibility for the perceived state of the economy to domestic polit­ ical authorities strengthens the relationship between the perceived state of the economy and the attitudes toward these actors (e.g., Biten et al., 2022; Marsh & Tilley, 2010; Rudolph, 2003ab, 2006, 2016; Rudolph & Grant, 2002). Furthermore, the individual and situational differences in responsibility attributions may explain the heterogeneity in the rela­ tionship of perceived external threats and attitudes toward the political system (e.g., Godefroidt, 2023; N¨agel et al., 2024; Sotola & Cred´e, 2022).
+
+1.3. Attitudes toward the political system and SWB
+
+Attitudes toward the political system are positively associated with people's psychological states. Some scholars believe that SWB improves the attitudes toward the political system: they assume that the cognitive (life satisfaction) and emotional (happiness or depression) components of SWB serve as criteria that people use to evaluate the performance of public institutions (Esaiasson et al., 2020), thus influencing the pro­ cessing of information about the events happening in the country (e.g., news selection) (Bernardi et al., 2024).
+
+Other researchers believe that positive attitudes toward the political system improve SWB. This idea is contained in both of the above- described approaches to political trust. According to the “institutional” approach, trust in political institutions creates the necessary conditions for interpersonal and economic transactions in society, which makes citizens' lives easier and, as a result, increases their SWB (e.g., Ciziceno & Giovanni, 2019; Tay et al., 2014). According to the “compensatory” approach, political trust allows individuals to fulfill their basic psycho­ logical needs and, thus, increases SWB (Vargas-Salfate et al., 2018).
+
+The hypothesis about the positive association between the attitudes toward the political system and SWB was supported by several inter­ national studies. For instance, the World Values Survey data gathered in eight countries in the Middle East and North Africa have shown that the overall trust in social institutions predicted higher satisfaction with life (Ciziceno & Giovanni, 2019). Similarly, a longitudinal analysis of the Gallup World Poll data from 150 countries has demonstrated that the trust in political institutions predicted later positive emotions and satisfaction with life (Tay et al., 2014).
+
+Another longitudinal study conducted in eighteen countries has revealed that general system justification (i.e., the belief that the social system existing in the country is functioning correctly) predicted lower anxiety, lower depression, and higher satisfaction with life six months later. This effect was observed among individuals with various levels of
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+2
+
+economic well-being and in societies with different levels of inequality (Vargas-Salfate et al., 2018).
+
+Moreover, some studies have revealed that the attitudes toward the political system mediate the relationship between perceived external threats and SWB. For instance, data from the 6th wave of the World Values Survey showed that trust in social institutions mediated the negative link between perceived corruption and life satisfaction (Ciziceno & Giovanni, 2019). Similarly, data from the Gallup World Poll demonstrated that trust in political institutions mediated the negative relationship of perceived corruption with positive emotions and satis­ faction with life (Tay et al., 2014).
+
+1.4. The limitations of previous studies
+
+Thus, past research has shown that perceived external threats, atti­ tudes toward the political system, and SWB are interconnected. How­ ever, these studies have several limitations. Firstly, most studies focused either on only one form of perceived threats (e.g., economic or violent) or used a general index, combining their different forms into one indi­ cator (Onraet et al., 2014; Onraet, Van Hiel, Dhont, & Pattyn, 2013). However, researchers have rarely compared the effects of various perceived external threats on the individuals' attitudes to their political system and their psychological states.
+
+Secondly, we only found a few within-country studies that have examined the link between perceived threats and SWB. Moreover, in the international studies, respondents were often asked about their assess­ ment of the status quo (e.g., the prevalence of corruption), rather than about the extent of their concern (e.g., whether corruption may threaten their economic status). Consequently, scholars have not paid much attention to the fact that that the same aspects of the status quo may constitute different levels of perceived threat across individuals and countries (e.g., Tay et al., 2014).
+
+Thirdly, previous research has shown that the relationship between the perceived state of affairs in the country and the attitudes toward the political system is moderated by responsibility attributions (Marsh & Tilley, 2010; Rudolph, 2003ab, 2006, 2016; Rudolph & Grant, 2002). However, these studies have mainly considered the ways perceptions of the economic situation are related to electoral choices. Thus, we cannot be certain that the attribution of responsibility may influences the relationship of other perceived threats to the attitudes toward the po­ litical system.
+
+We took these limitations into account. Specifically, we examined the role of perceived economic and violent threats separately. Moreover,
+
+instead of measuring the perceived state of affairs in the national economy and the level of violence in society, we assessed the extent to which people were concerned by these issues. Finally, we explored whether the association between the intensity of perceived threats and the attitudes to the political system would differ depending on the attribution of responsibility for the societal problems to domestic po­ litical authorities.
+
+1.5. Research hypotheses
+
+Our research hypotheses were based on the “institutional” and “compensatory” approaches to understandng the role of perceived external threats (the hypotheses are summarized in Fig. 1). For clarity, we have divided the hypotheses. The first hypothesis describes the relationship of the attitudes toward the political system to satisfaction with life, which we expected to be positive (Hypothesis 1).
+
+The second group of hypotheses describe the associations of perceived external threat intensities with the attitudes toward the po­ litical system. We hypothesized that the intensity of perceived economic threats would negatively predict the attitudes toward the political sys­ tem (Hypothesis 2a), whereas the intensity of perceived violent threats would positively predict these attitudes (Hypothesis 2b). As a result, the attitudes toward the political system should mediate the negative as­ sociation of perceived economic threat intensity and the positive asso­ ciation of perceived violent threat intensity to satisfaction with life.
+
+The third group of hypotheses concerns the role of responsibility attributions for perceived external threats to domestic political author­ ities. We expected that both the responsibility attributions of perceived economic threats (Hypothesis 3a) and violent threats (Hypothesis 3b) would negatively predict the attitudes toward the political system. As a result, the attitudes toward the political system should mediate the negative associations of responsibility attributions for perceived threats with satisfaction with life.
+
+Finally, the fourth group of hypotheses describes the interaction ef­ fects between intensities of and attributions for perceived external threats. We expected that the attribution of responsibility to domestic political authorities would be associated with a stronger negative effect of perceived economic threats on political attitudes and, thus, satisfac­ tion with life (Hypothesis 4a). In turn, stronger attribution of perceived violent threats to domestic political authorities would predict weaker positive association of perceived violent threat intensity with the atti­ tudes to political system and, thus, satisfaction with life (Hypothesis 4b).
+
+Fig. 1. Research hypotheses.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+3
+
+1.6. Research context
+
+To test these hypotheses, we conducted two cross-sectional studies using samples from Russia, an authoritarian country (EIU, 2023) that has been carrying out military action against Ukraine since 2014. The Russian authorities have tried to justify the new military campaign against Ukraine in February 2022 by the need to protect Russia against military threats. At the time, this understanding was shared by at least two thirds of the Russian population (WCIOM, 2022).
+
+Study 1 was conducted using data from two samples recruited in September and November 2022, i.e., before and after the large-scale mobilization was announced in the country. Study 2 was conducted in January 2024 when the war turned out to be protracted and has led to economic changes in response to international sanctions, as well as to increased military threats within the Russian borders. We aimed to achieve internal replication by combining datasets collected at different times.
+
+In Study 1, we measured the intensity of perceived external threats, attitudes toward the political system, and satisfaction with life, thereby testing hypotheses 1 and 2. In Study 2, we measured the intensity of perceived external threats, responsibility attribution to domestic polit­ ical authorities, attitudes toward the political system, and satisfaction with life, thereby testing all the hypotheses.
+
+2. Study 1
+
+2.1. Method
+
+2.1.1. Aim
+
+The study aimed to test the Hypotheses 1 about the effects of atti­ tudes to political system on satisfaction with life and the Hypotheses 2a and 2b about the effects of perceived economic and violent threats measured simultaneously on the attitudes to the political system. We also aimed to test for the indirect effects of perceived threats on satis­ faction with life mediated by the attitudes to the political system.
+
+2.1.2. Participants and procedure
+
+Samples 1a and 1b were recruited in September and November 2022 using Yandex.Toloka, which used to be a Russian-language analog of Amazon MTurk, an online marketplace for human intelligence tasks. Sample 1a included 3193 individuals, with 49.9 % identifying as men and 50.1 % as women; ages ranging from 18 to 80 (M = 39.4, SD = 13.9). Sample 1b included 3237 individuals, with 50 % identifying as men and 50 % as women; ages ranging from 18 to 84 (M = 39.5, SD = 14.0). All participants had had a confirmed Russian citizenship.
+
+All participants were anonymous volunteers who provided their informed consent. To ensure full anonymity, those who opted to take part in the study followed a link to questionnaires hosted on an external online survey service. Respondents were paid 40 cents for the comple­ tion of the questionnaire. To ensure that the participants would com­ plete the survey thoroughly, the above samples excluded those who had failed to respond correctly to one or more of the “attention check” items (e.g., “For this question, please select the answer ‘agree completely’”). The sample sizes were determined by the requirements of other studies conducted using additional measures included in the same questionnaire.
+
+2.1.3. Measures
+
+2.1.3.1. Intensity of perceived external threats. We used the question: “Please tell me to what extent you are concerned that the following phenomena/events are already happening or will shortly in Russia?”. The perceived economic threats included “rising prices and impover­ ishment of people” and “economic crisis and production decline” (α = 0.82 and 0.83 in Samples 1a and 1b, respectively). The perceived violent
+
+threats formulation was “major terrorist acts (explosions, arson, hos­ tage-taking)” and “civil war and political unrest” (α = 0.75 and 0.72).
+
+These perceived threats were selected based on the results of public opinion polls conducted by Russian sociological agencies before and at the beginning of the 2022 large-scale invasion into Ukraine. Re­ spondents indicated the extent to which each of these phenomena worried them using Likert scales from 1 (not worried at all) to 5 (Sample 1a) or 7 (Sample 1b) (highly worried).
+
+2.1.3.2. Attitudes toward the political system. We measured trust in po­ litical institutions using indicators validated in previous studies. In both samples, participants indicated their trust in the president, the govern­ ment, and the parliament using a 7-point scale from 1 (no trust at all) to 7 (complete trust) (α = 0.95 in both samples).
+
+2.1.3.3. Satisfaction with Life. We only measured satisfaction with life, which was used in most previous studies and showed the most consistent associations with the attitudes toward the political system. We used the Satisfaction with Life Scale (Diener et al., 1985; Russian-language version Osin & Leontiev, 2020), which included five statements rated using a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree) (α = 0.90 in both samples).
+
+2.1.4. Data analysis
+
+First, we used R Statistics to evaluate scale reliability, investigate descriptive statistics, zero-order correlations, and conduct single-sample t-tests. To test the substantive hypotheses accounting for the differential effects of different threats, we conducted latent factor analyses in Mplus 8.11 with robust maximum likelihood (MLR) estimator. Under slight to moderate non-normality this approach provides more conservative factor loading estimates, but more precise interfactor correlation esti­ mates, compared to WLSMV (Li, 2016). Following the Reviewer's request, we also tested the same models using WLSMV estimator treating Likert indicator variables as ordered-categorical.
+
+After testing the fit of the measurement model, in which 12 in­ dicators formed 4 freely correlated latent variables (intensity of perceived economic threats, intensity of perceived violent threats, po­ litical trust, and satisfaction with life), we followed by testing a math­ ematically equivalent partial mediation model, where political trust partially mediated the effects of economic and violent threats on satis­ faction with life. Using this model, we tested the hypotheses H1 and H2 (a, b). Finally, we entered the control variables (gender, age, education, and income) as predictors of all four latent factors (with disturbances of economic and violent threats freely correlated). This model was used to establish confidence intervals for the indirect effects using bootstrapping with 1000 iterations.
+
+2.2. Results
+
+Descriptive statistics and correlations are presented in Table 1. The item distributions were close to normal with skewness values ranging from −1.13 to 0.25 and kurtosis ranging from −1.12 to 1.02 for indi­ vidual items. The mean scores revealed that in both samples the in­ tensity of perceived economic and violent threats exceeded the scale mid-points (teconomic = 68.545***/60.565***; tviolent = 43.734***/ 47.033***). However, respondents felt more worried about economic threats than about violent ones (t = 13.080***/8.129***). In addition, political trust was only slightly above the scale mid-point in Study 1a (ttrust = 2.900**/−2.058), whereas life satisfaction was below it (tLS = −10.381***/−3.409***) in both studies.
+
+At the level of zero-order correlations, the intensities of different perceived threats were positively associated. However, only the in­ tensity of perceived economic threats showed consistent negative asso­ ciations with political trust and satisfaction with life, whereas the intensity of perceived violent threats revealed anegative association
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+4
+
+with political attitudes in Sample 1a only.
+
+The theoretical CFA model with four freely correlated latent factors fit the data quite well both in both samples (Sample 1a: χ2 = 360.311, df = 48, p < .001, CFI = 0.984, RMSEA = 0.045, 90 % CI [0.041, 0.050], SRMR = 0.033; Sample 1b: χ2 = 573.627, df = 48, p < .001, CFI = 0.974, RMSEA = 0.058, 90 % CI [0.054, 0.063], SRMR = 0.040). The stan­ dardized factor loadings ranging from 0.70 to 0.99 in both samples.
+
+Next, we tested a partial mediation model where the effects of the intensity of perceived economic and violent threats on satisfaction with life were mediated by political trust with the control variables (gender, age, education, and income) entered as predictors of political trust and satisfaction with life freely correlated with both types of threats. Again, this model fit the data well in both samples (Sample 1a: χ2 = 557.206, df = 80, p < .001, CFI = 0.978, RMSEA = 0.043, 90 % CI [0.040, 0.047], SRMR = 0.030; Sample 1b: χ2 = 778.060, df = 80, p < .001, CFI = 0.970, RMSEA = 0.052, 90 % CI [0.049, 0.055], SRMR = 0.034). The stan­ dardized parameters of this model are presented in Table 2 and Fig. 2.
+
+In both models, the intensity of perceived economic threats emerged as a negative predictor of political trust, whereas the intensity of perceived violent threats emerged as a positive predictor, in line with Hypotheses 2a and 2b. Political trust, in turn, positively predicted life satisfaction, after accounting for the direct effects of the intensities of
+
+both types of perceived threats, in line with Hypothesis 1. The remaining direct effects were consistent in sign with the respective indirect effects of perceived threat intensities on political attitudes: the intensity of perceived economic threats was negative predictor of satisfaction with life, whereas the intensity of perceived violent threats was a positively predictor.
+
+The indirect effects were significant in both samples and consistent in sign with the direct effects. Political trust partially mediated the nega­ tive association of the intensity of perceived economic threats and satisfaction with life (Sample 1a: abET = −0.146, 95 % CI [−0.174, −0.124]; Sample 1b: abET = −0.203, 95 % CI [−0.251, −0.165]) and the positive association of the intensity of perceived violent threats and satisfaction with life (Sample 1a: abVT = 0.083 [0.061, 0.105]; Sample 1b: abVT = 0.157 [0.119, 0.199]).
+
+The results based on the WLSMV estimator treating Likert scales as categorical were quite consistent with the above, the final model showing good fit in both samples (Sample 1a: χ2 = 792.048, df = 80, p < .001, CFI = 0.996, RMSEA = 0.053, 90 % CI [0.049, 0.056], SRMR = 0.028; Sample 1b: χ2 = 1185.044, df = 80, p < .001, CFI = 0.994, RMSEA = 0.065, 90 % CI [0.062, 0.069], SRMR = 0.031).
+
+The estimates of indirect effects of perceived threats on satisfaction with life were consistent in magnitude and direction with those
+
+Table 1 Descriptive statistics and correlations (Study 1).
+
+Variable 1 2 3 4 5 6 7 8 M SD
+
+1. Intensity of perceived economic threats 0.626*** −0.259*** −0.146*** 0.099*** 0.016 0.027 −0.172*** 5.484 1.394 2. Intensity of perceived violent threats 0.540*** −0.018 0.022 0.172*** 0.035* 0.007 −0.092*** 5.300 1.571 3. Political trust −0.332*** −0.048** 0.371*** 0.032 0.148*** −0.022 0.176*** 3.934 1.820 4. Satisfaction with life −0.172*** 0.011 0.339*** 0.085*** 0.011 0.052** 0.312*** 3.921 1.321 5. Gender 0.082*** 0.135*** 0.015 0.061*** −0.010 0.106*** −0.045* – – 6. Age −0.025 −0.025 0.137*** −0.013 0.000 0.095*** −0.009 – – 7. Education 0.077*** 0.010 −0.036* 0.078*** 0.092*** 0.036* 0.160*** 3.985† 1.098 8. Income −0.218*** −0.109*** 0.186*** 0.315*** −0.052** −0.035* 0.185*** 3.274 1.107 M 4.054† 3.834† 4.090 3.760 – – 3.985† 3.276 SD 0.869 1.077 1.761 1.306 – – 1.097 1.105
+
+Below the diagonal are the coefficients for sample 1a, above are the coefficients for sample 1b. Gender is coded as 1 for “male”, 2 for “female”.
+
+*** p < .001. ** p < .01. * p < .05. † variables marked range from 1 to 5, all the other variables from 1 to 7.
+
+Table 2 Studies 1a and 1b: regression coefficients.
+
+Predictors Study 1a Study 1b
+
+Political trust Life satisfaction Political trust Life satisfaction
+
+β 95 % C.I. β 95 % C.I. β 95 % C.I. β 95 % C.I.
+
+Political trust 0.265*** [0.224; 0.305] 0.287*** [0.243; 0.331] Intensity of perceived economic threats
+
+−0.552*** [−0.619; −0.488]
+
+−0.160*** [−0.244; −0.080]
+
+−0.706*** [−0.841; −0.594]
+
+−0.231*** [−0.347; −0.124] Intensity of perceived violent threats
+
+0.312*** [0.240; 0.388] 0.155*** [0.081; 0.233] 0.547*** [0.422; 0.688] 0.228*** [0.123; 0.343]
+
+Gender 0.014 [−0.022; 0.048] 0.051** [0.017; 0.085] −0.002 [−0.042; 0.036] 0.057** [0.023; 0.089] Age 0.142*** [0.110; 0.175] −0.042* [−0.077; −0.010]
+
+0.151*** [0.114; 0.188] −0.047** [−0.080; −0.014] Education −0.015 [−0.050; 0.020] 0.038* [0.005; 0.074] −0.035 [−0.073; 0.000] 0.018 [−0.016; 0.050] Income 0.102*** [0.063; 0.139] 0.265*** [0.227; 0.299] 0.116*** [0.075; 0.155] 0.264*** [0.229; 0.300]
+
+Indirect effects Intensity of perceived economic threats ⇒ Political trust ⇒ Life satisfaction
+
+−0.146*** [−0.174; −0.121]
+
+−0.203*** [−0.251; −0.165] Intensity of perceived violent threats ⇒ Political trust ⇒ Life satisfaction 0.083*** [0.061; 0.105] 0.157*** [0.119; 0.199]
+
+Note. Gender is coded as 1 for “male”, 2 for “female”.
+
+*** p < .001. ** p < .01. * p < .05.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+5
+
+presented above for both economic threats (Sample 1a: abET = −0.195, 95 % CI [−0.235, −0.160]; Sample 1b: abET = −0.267, 95 % CI [−0.335, −0.215]) and violent threats (Sample 1a: abVT = 0.122 [0.095, 0.152]; Sample 1b: abVT = 0.211 [0.164, 0.267]); the remaining direct effects also had comparable magnitude and the same direction as the indirect ones. Thus, the hypotheses 1, 2a, and 2b were fully confirmed.
+
+3. Study 2
+
+3.1. Method
+
+3.1.1. Aim
+
+The study aimed to replicate the findings of Study 1 by testing the Hypotheses 1 and 2a-2b, as well as to extend them by addressing the attribution of responsibility for threats to domestic authorities. We ex­ pected that responsibility attribution for perceived threats may have direct effects (Hypotheses 3a and 3b) as well as interactive effects with the intensity of perceived threats (Hypotheses 4a and 4b) on the atti­ tudes to the political system and aimed to explore the corresponding indirect and conditional indirect effects.
+
+3.1.2. Participants and procedure
+
+Study 2 sample was recruited in January 2024 using the same pro­ cedure as that used in Study 1. We had planned for a sample size of N = 500, which should provide sufficient power for a latent variable medi­ ation model under typical conditions (Wolf et al., 2013). After excluding the participants who failed the attention check items, the final sample included 782 participants, with 50.6 % identifying as men and 49.4 % as women; ages ranged from 18 to 73 (M = 41.6, SD = 12.2). All partici­ pants confirmed Russian citizenship.
+
+3.1.3. Measures
+
+3.1.3.1. The intensity of perceived external threats. Participants were asked to answer the question: “Please tell me to what extent are you concerned that the following phenomena are already happening or will
+
+happen shortly in Russia?”. We used the same perceived economic and violent threat formulations as those used in Study 1. Respondents were asked to indicate the extent to which each of these phenomena worried them on a 7-point scale ranging from 1 (not worried at all) to 7 (highly worried) (αeconomic = 0.84, αviolent = 0.78).
+
+3.1.3.2. Responsibility attributions for external threats. We used two perceived economic and perceived violent threats from the previous indicator. Participants were asked to answer the question: “To what extent do you think the Russian political authorities are responsible for the occurrence of each of these phenomena in Russia?” Participants answered on a 7-point scale from 1 (not responsible at all) to 7 (bear maximum responsibility) (αeconomic = 0.88, αviolent = 0.78).
+
+3.1.3.3. Attitudes toward the political system. We used the same question as in Study 1. Participants indicated their level of trust in the president, the government, and the parliament on a 7-point scale from 1 (no trust at all) to 7 (complete trust) (α = 0.95).
+
+3.1.3.4. Satisfaction with Life. We used the same measure as in Study 1. Participants rated their agreement with five statements about satisfac­ tion with life using a 7-point scale ranging from 1 (strongly disagree) to 7 (strongly agree) (α = 0.91).
+
+3.1.4. Data analysis
+
+First, we used R Statistics to evaluate scale reliability, investigate descriptive statistics, zero-order correlations, and conduct single-sample t-tests. Next, to test the substantive hypotheses, we conducted a medi­ ation analysis using the same methodology as in Study 1, and an analysis with latent factor interaction in Mplus 8.11. To simplify the computa­ tions and ensure model stability, we tested separate models for perceived economic and violent threats.
+
+First, we tested two measurement models, each with 12 indicators and 4 latent factors (intensity of perceived threats of one type, the at­ tributions of responsibility for threats of this type, political trust, and satisfaction with life). As in Study 1, we followed by testing a
+
+Fig. 2. Structural equation models: Studies 1a and 1b. Note. The standardized solution is reported; ***p < .001. For simplicity, control variables are not displayed. The results of Study 1a are presented before the slash and the results of Study 1b are presented after the slash.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+6
+
+mathematically equivalent partial mediation model (testing the hy­ potheses H1, H2, H3) and entering the control variables (gender, age, education, and income) as predictors of all the latent factors (with dis­ turbances of the intensity of perceived threats and responsibility attri­ butions freely correlated). The last model was used to test for the significance of the indirect effects using bootstrapping.
+
+Next, to test the Hypotheses 4a and 4b, we tested two random-effects models, where we introduced interactions between the latent factors of the intensity of perceived threats and responsibility for threats. At this stage, to ensure model convergence, we had to switch to MLF estimator, as suggested by Mplus. In case of significant interactions, we performed simple slope analysis to identify the conditional indirect effects (Stride et al., 2015; Model 1a). The estimation of these random-effects models using the WLSMV estimator was not feasible due to a very long computation time.
+
+Finally, to ensure replication, we also tested exactly the same model as in Study 1 (including the intensity of two types of perceived threats at the same time but excluding the responsibility attribution factors) using MLR and WLSMV estimators.
+
+3.2. Results
+
+The distributions were approximately normal (skewness values ranging from −1.29 to 0.20 and kurtosis ranging from −1.04 to 1.47 for individual survey items). Descriptive statistics and correlations are presented in Table 3. They showed that the intensity of all perceived threats (teconomic = 33.542***; tviolent = 29.103***) and responsibility attributions of domestic political authorities (teconomic = 34.990***; tvio­
+
+lent = 22.851***) exceeded the scale mid-points.
+
+The intensities of perceived economic and violent threats did not differ significantly. However, the participants attributed to domestic political authorities more responsibility for the state of the economy than for the level of violence (t = 12.949***). In addition, political trust was above the scale mid-point (ttrust = 2.446***), and satisfaction with life was below the scale mid-point (tLS = −6.289***).
+
+Zero-order correlations (see Table 3) indicated that the intensities of perceived threats and their respective attributions were positively correlated. Again, the intensity of perceived economic threats was negatively associated with life satisfaction and political attitudes, whereas the intensity of perceived violent threats was negatively asso­ ciated with satisfaction with life only. Responsibility attributions showed expected negative associations with both political trust and satisfaction with life.
+
+The measurement models with four latent factors (perceived threats intensity, attributions of responsibility for the threats to domestic au­ thorities, political trust, and satisfaction with life) fit the data well both for perceived economic threats (χ2 = 149.850, df = 48, p < .001, CFI = 0.979, RMSEA = 0.052, 90 % CI [0.043, 0.062], SRMR = 0.020) and perceived violent threats (χ2 = 159.222, df = 48, p < .001, CFI = 0.975, RMSEA = 0.054, 90 % CI [0.045, 0.064], SRMR = 0.034), with factor loadings ranging from 0.70 to 0.93 in both cases.
+
+Next, we tested two models where the perceived threat intensities and the attributions of responsibility for the respective threats were correlated predictors of political trust which partially mediated their effects on satisfaction with life. Gender, age, education, and income were entered as control variables predicting each of the latent factors (the disturbances of the threat intensity and the responsibility attribu­ tion latent factors were allowed to correlate). The models fit the data well for both economic threats (χ2 = 229.433, df = 80, p < .001, CFI = 0.974, RMSEA = 0.049, 90 % CI [0.042, 0.056], SRMR = 0.021) and violent threats (χ2 = 238.293, df = 80, p < .001, CFI = 0.969, RMSEA = 0.050, 90 % CI [0.043, 0.058], SRMR = 0.031). The standardized pa­ rameters of these mediation models for the intensities of perceived economic threats and violent threats are given in Tables 4 and 5 and Figs. 3 and 4, respectively.
+
+In line with Hypothesis 1, political trust was again a significant positive predictor of satisfaction with life. The intensity of perceived economic threats (see Table 4 and Fig. 3 for details) emerged as a weak (non-significant) negative predictor of political trust, while the attri­ bution of responsibility to the domestic authorities was a stronger and significant negative predictor. The indirect effect of the intensity of perceived economic threats on satisfaction with life mediated by polit­ ical trust was non-significant (abET = −0.039 [−0.089, 0.014]), whereas the indirect effect of responsibility for these threats was significant and negative (abETR = −0.126 [−0.190, −0.073]). The remaining direct effect was significant for the intensity of perceived economic threats (c'ET = −0.120 [−0.238, −0.019]), but not for responsibility attribution (c'ETR = −0.091 [−0.189, 0.020]). The sizes of all these effects were weak, but the direction was consistently negative.
+
+The same model using on the WLSMV estimator also fit the data well (χ2 = 271.561, df = 80, p < .001, CFI = 0.993, RMSEA = 0.055, 90 % CI [0.048, 0.063], SRMR = 0.022) and showed consistent findings with only the direct effect of the intensity of perceived economic threats (c'ET = −0.131 [−0.267, −0.017]) and the indirect effect of responsibility attribution being significant (abETR = −0.173 [−0.255, −0.110]). Thus, Hypothesis 3a stating the negative effect of attribution of responsibility
+
+Table 3 Descriptive statistics and correlations: Study 2.
+
+M SD 1 2 3 4 5 6 7 8 9
+
+1. Intensity of perceived economic threats
+
+5.61 1.34
+
+2. Intensity of perceived violent threats
+
+5.60 1.54 0.658***
+
+3. Attribution of responsibility for economic threats
+
+5.75 1.40 0.589*** 0.327***
+
+4. Attribution of responsibility for violent threats
+
+5.30 1.58 0.538*** 0.408*** 0.791***
+
+5. Political trust 4.16 1.85 −0.311*** −0.022 −0.375*** −0.343*** 6. Satisfaction with life 3.70 1.36 −0.313*** −0.109** −0.328*** −0.272*** 0.466*** 7. Gender – – 0.102** 0.155*** 0.064 0.066 0.022 0.114** – 8. Age – – −0.040 0.103** 0.002 −0.013 0.172*** 0.020 −0.011 9. Education 4.068† 1.097 −0.052 −0.101** −0.018 −0.064 −0.031 0.108** 0.072* 0.108** 10. Income 3.223† 0.829 −0.178*** −0.114** −0.145*** −0.157*** 0.203*** 0.371*** 0.031 0.067 0.180***
+
+Note. All the other variables from 1 to 7; gender is coded as 1 for “male”, 2 for “female”.
+
+*** p < .001. ** p < .01. * p < .05. † variables marked range from 1 to 5.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+7
+
+for economic threats to domestic authorities on political trust, which mediated the effect of responsibility attribution on satisfaction with life, was confirmed.
+
+The intensity of perceived violent threats (see Table 5 and Fig. 4 for details)emerged as a significant positive predictor of political trust, and the attribution of responsibility for them to domestic authorities as significant negative predictor. The indirect positive effect of the in­ tensity of perceived violent threats mediated by political trust was sig­ nificant (abVT = 0.079 [0.014, 0.138]), whereas their remaining direct effect on satisfaction with life was not (c'VT = −0.026 [−0.120, −0.062]). The indirect effect of attribution of responsibility for violent threats to domestic authorities was significant and negative (abETR = −0.197 [−0.263, −0.138]), as was the remaining direct effect (c'ETR = −0.100 [−0.208, −0.009]).
+
+The same model using on the WLSMV estimator also fit the data well (χ2 = 316.566, df = 80, p < .001, CFI = 0.991, RMSEA = 0.061, 90 % CI [0.054, 0.069], SRMR = 0.031), confirming a significant positive indi­ rect effect of the intensity of perceived violent threats (abVT = 0.109 [0.047, 0.178]) and a significant negative indirect effect of re­ sponsibility attribution to domestic authorities (abETR = −0.241 [−0.318, −0.174]). Thus, Hypothesis 3b stating the negative effect of attribution of responsibilityfor violent threats on political trust, which mediated the negative association of responsibility attribution for vio­ lent threats with satisfaction with life, was confirmed.
+
+Finally, in the random-effects models, we tested the interaction effect between intensity of perceived threats and the attribution of re­ sponsibility to the domestic authorities. For economic threats (see Fig. 5), the interaction effect was significant and consistent in direction with the effects of the main predictors (βETxETR = −0.100 [−0.184, −0.016]), indicating that a combination of perceived economic threats and attribution of the responsibility to the domestic political authorities predicts lower political trust with potential negative implications for satisfaction with life. According to simple slopes analysis (see Fig. 6), the negative effect of the intensity of perceived economic threats on political trust was significant at high levels of responsibility attribution (SIMP_HI = −0.240 [−0.410, −0.070]), but not at medium (SIMP_MED = −0.124 [−0.270, 0.023]) or low levels (SIMP_LO = −0.008 [−0.194, 0.178]). Thus, Hypothesis 4a was confirmed.
+
+We did not discover any significant interaction effect for violent threats (βVTxVTR = −0.037 [−0.048, 0.121]). The remaining parameters of the resulting model differed only marginally from those presented in Fig. 4 and are not presented for brevity. Thus, we failed to find any support for the Hypothesis 4b stating a potential interaction between the intensity of perceived violent threats and the attribution of re­ sponsibility for them to the domestic authorities.
+
+To reconfirm the results of Study 1, we also tested the same model with the intensity of two types of perceived threats predicting political trust and discovered good fit (χ2 = 268.725, df = 80, p < .001, CFI = 0.967, RMSEA = 0.055, 90 % CI [0.048, 0.062], SRMR = 0.034). The model revealed substantially the same results, with significant and negative effects of the intensity of perceived economic threats on satisfaction with life, both indirect (abET = −0.335, 95 % CI [−0.484, −0.234]) and direct (c'ET = −0.353, 95 % CI [−0.634, −0.138]), and positive effects of the intensity of perceived violent threats on satisfac­ tion with life, with only the indirect effect (abVT = 0.187, 95 % CI [0.110, 0.303]), but not the direct one (c'VT = 0.149, 95 % CI [−0.015, 0.345]) reaching significance. The results based on the WLSMV esti­ mator (χ2 = 333.551, df = 80, p < .001, CFI = 0.991, RMSEA = 0.064, 90 % CI [0.057, 0.071], SRMR = 0.032) replicated these findings with very small differences in effect sizes. Thus, Hypotheses 1, 2a, and 2b were reconfirmed (we do not present these models for brevity, but they are fully available in the online repository).
+
+4. General discussion
+
+In this study, we have examined the relationships of perceived
+
+Table 4 Perceived economic threats.
+
+Predictors Political trust Satisfaction with life
+
+β 95 % C.I. β 95 % C.I.
+
+Political trust 0.384*** [0.301; 0.457] Intensity of perceived economic threats
+
+−0.102 [−0.233; 0.033]
+
+−0.120* [−0.238; −0.019] Responsibility attribution for perceived economic threats
+
+−0.328*** [−0.467; −0.199]
+
+−0.091 [−0.189; 0.020]
+
+Gender 0.065* [0.000; 0.130]
+
+0.103** [0.044; 0.164] Age 0.167*** [0.101; 0.232]
+
+−0.082* [−0.147; −0.020] Education −0.095** [−0.159; −0.027]
+
+0.066* [0.008; 0.129] Income 0.143*** [0.072; 0.213]
+
+0.262*** [0.194; 0.324]
+
+Indirect effects Intensity of perceived economic threats ⇒ Political trust ⇒ Satisfaction with life
+
+−0.039 [−0.089; 0.014] Responsibility attribution for perceived economic threats ⇒ Political trust ⇒ Satisfaction with life
+
+−0.126*** [−0.190; −0.073]
+
+Note. Gender is coded as 1 for “male”, 2 for “female”.
+
+*** p < .001. ** p < .01. * p < .05.
+
+Table 5 Violent threats, mediation model.
+
+Predictors Political trust Satisfaction with life
+
+В 95 % C.I. β 95 % C.I.
+
+Political trust 0.420*** [0.335; 0.499] Intensity of perceived violent threats
+
+0.187* [0.034; 0.332]
+
+−0.026 [−0.120; 0.062] Responsibility attribution for perceived violent threats
+
+−0.469*** [−0.595; −0.353]
+
+−0.100* [−0.208; −0.009]
+
+Gender 0.034 [−0.035; 0.101]
+
+0.094** [0.035; 0.160] Age 0.141*** [0.069; 0.211]
+
+−0.083* [−0.146; −0.019] Education −0.092** [−0.158; −0.027]
+
+0.064* [0.004; 0.129] Income 0.159*** [0.085; 0.231]
+
+0.272*** [0.200; 0.334]
+
+Indirect effects Intensity of perceived violent threats ⇒ Political trust ⇒ Satisfaction with life
+
+0.079* [0.014; 0.138] Responsibility attribution for perceived violent threats ⇒ Political trust ⇒ Satisfaction with life
+
+−0.197*** [−0.263; −0.138]
+
+Note. Gender is coded as 1 for “male”, 2 for “female”.
+
+*** p < .001. ** p < .01. * p < .05.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+8
+
+external threats to the attitudes toward the political system and satis­ faction with life. We hypothesized that the effects of perceived economic and violent threats on satisfaction with life should have opposite di­ rections, with the intensity of perceived economic threats predicting lower well-being and the intensity of perceived violent threats predict­ ing higher well-being. We also expected that these effects depend on the extent to which individuals attribute the responsibility for the threat­ ening problems to their domestic political authorities and that they are mediated by the attitudes toward the political system. The results allow us to draw several conclusions.
+
+Firstly, the intensity of perceived external threats can have both positive and negative effects on the attitudes toward the political sys­ tem, depending on the type of threats. In both studies we discovered that the intensity of perceived economic threats was a negative predictor of political trust, whereas the intensity of perceived violent threats pre­ dicted it positively. Overall, these findings align with previous studies showing that economic problems are negatively related to attitudes to­ ward domestic political authorities (Matavelli et al., 2020; Pellerin & Raufaste, 2020; van der Meer, 2018) and satisfaction with life (Ciziceno & Giovanni, 2019; Tay et al., 2014), whereas terrorist attacks and
+
+military actions are positively related to these attitudes (Godefroidt, 2023; Murray, 2017).
+
+Secondly, in Study 2, the attribution of responsibility for both eco­ nomic and violent threats to domestic authorities was a negative pre­ dictor of political trust. Interestingly, the effects of responsibility attribution in both cases appeared stronger than the effects of perceived threat intensity. These results can be explained by several different psychological models suggesting that the attributions of responsibility to individuals or social groups predict emotions and behaviour toward them (e.g., Weiner, 2012).
+
+However, the results also suggest that the perception of authorities as responsible for the emerging problems might be more important than the perception of problem intensity. This suggests that even very serious domestic problems may not undermine the trust to political authorities, as long as the responsibility for those issues is successfully shifted by the authorities to some “enemies” working within or outside the country, or to unfavourable circumstances. In contrast, if the authorities are held accountable, even minor problems could undermine political trust.
+
+At least, our evidence suggests that this might be true for economic problems: the negative association of the intensity of perceived
+
+Fig. 3. Structural equation model, Study 2: intensity of perceived economic threats. Note. The standardized solution is reported; ***p < .001; *p < .05. For simplicity, control variables are not displayed. Only significant direct effects are shown.
+
+Fig. 4. Structural equation model, Study 2: intensity of perceived violent threats. The standardized solution is reported; ***p < .001; *p < .05. For simplicity, control variables are not displayed. Only significant direct effects are shown.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+9
+
+economic threats with the attitudes toward the political system and, consequently, life satisfaction is only significant for individuals who attribute the responsibility for these economic problems to domestic authorities. This result is consistent with findings in North America and some European countries (Marsh & Tilley, 2010; Rudolph, 2003ab, 2006, 2016; Rudolph & Grant, 2002).
+
+However, we did not discover any evidence of a similar effect con­ cerning the responsibility attribution for violence: the intensity of perceived violent threats was consistently associated with higher trust in authorities and higher satisfaction with life regardless of whether the authorities were held responsible. However, the effect of violent threat responsibility attribution to authorities was independent, negative, and somewhat stronger in magnitude.
+
+In summary, it appears that the interplay of the type of the intensity of perceived external threats and the attribution of responsibility for their emergence may explain the heterogeneous relationships of perceived threats to the attitudes toward the political system (Godefroidt, 2023; N¨agel et al., 2024; Sotola & Cred´e, 2022). For instance, a recent meta-analysis has discovered that terrorist attacks do induce a so-called “rally-around-the-flag” effect, but the strength of this effect depends on the type of terrorists and differs across countries (Godefroidt, 2023).
+
+In a similar vein, the European Social Survey data indicate (N¨agel et al., 2024) that the effects of terrorist attacks on the attitudes toward the political system are ambiguous: while some attacks appeared to in­ crease institutional trust (e.g., The Netherlands 2004, France 2015, Israel 2012), other ones had no effect (e.g., Germany 2015, France 2018) or decreased trust in domestic institutions (Russia 2012). Our findings suggest that this could be due to the different perceptions of the extent to which domestic authorities are held responsible for the ability of ter­ rorists to complete their attacks.
+
+Thirdly, we found that the attitudes to the political system are positively related to well-being, which is fully in line with the results of existing cross-sectional and longitudinal studies (Ciziceno & Giovanni, 2019; Tay et al., 2014; Vargas-Salfate et al., 2018). This is also supported by a recent meta-analysis showing that the perception of justice and legitimacy of the current political system is consistently positively associated with psychological well-being of individuals with different socio-economic status living in various countries (Vargas Salfate et al., 2024).
+
+Finally, we found that the association of the intensity of perceived external threats and responsibility for their emergence with satisfaction with life is partially mediated by political trust. These results are partly consistent with previous international studies that focused on perceived
+
+corruption (Ciziceno & Giovanni, 2019; Tay et al., 2014). Our findings complement these results by showing the differences in the direction of this indirect effect for different types of perceived threats and its moderation by the attribution of responsibility.
+
+Overall, we believe that our study contributes to understanding the psychological factors of subjective well-being and political trust by showing the differences in the effects of perceived economic and violent threats and the importance of responsibility attribution. We have extended and reproduced the past findings using different measures and a specific social context of an authoritarian country at war.
+
+Nevertheless, our study has several limitations. First of all, we used cross-sectional designs, as re-contacting participants was impossible without storing identifiers, which could threaten the safety of partici­ pants expressing views disapproved by the authorities. Experimental manipulation of perceived threats and responsibility attribution was also hardly feasible, given the extent to which social discourse is monopolized by the authorities.
+
+Unfortunately, cross-sectional studies do not allow to draw firm conclusions regarding causality or direction of longitudinal effects (Kline, 2015; Maxwell et al., 2011; Shrout, 2011). Because perceived threats are more strongly associated with political trust than with satisfaction with life, the mathematically equivalent alternative models show weak to non-existent indirect effects. However, future studies may reveal causal effects going in both directions or the effects of unmea­ sured third variables, such as media consumption.
+
+Second, SWB comprises both cognitive and affective components. Some researchers note that these components are predicted by different factors and have various effects (e.g., Pavot & Diener, 2013), with emotional indicators being more strongly influenced by daily events (Tov, 2018). In the present study, we only focused on the cognitive component, which was used in most previous studies on this topic. However, in future it would make sense to explore the impact of perceived threats on the affective components of SWB.
+
+Third, we compared the effects of two forms of perceived external threats – the deterioration of the economic situation and the rise of violence within the country, both of these being realistic threats. How­ ever, Russian public opinion polls have shown that other forms of perceived threats are also prevalent in society, such as threats of crim­ inal activity, political repression, natural disasters, and military losses. Future research could consider the relationship of other forms of perceived threats and their responsibility attribution on political atti­ tudes and subjective well-being.
+
+The existing findings suggest that different forms of perceived threats have very different relations to political views across countries and that
+
+Fig. 5. Structural equation model with latent interaction: intensity of perceived economic threats. Note. The standardized solution is reported; ***p < .001; *p < .05. For simplicity, control variables are not displayed. Only significant direct effects are shown.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+10
+
+the effects of these threats in the Russian context may be unique in some ways (Brandt et al., 2021), precluding generalization. A recent meta- analysis indicates that a combination of realistic and symbolic threats, as well as of various groups as their sources is more strongly associated with the support for restriction of civil liberties (Carriere et al., 2022), suggesting that presenting the country as a “besieged castle” may help authoritarian leaders to win over the public opinion.
+
+Finally, we discovered direct and indirect effects of perceived external threats on individual psychological states. We suggest that the remaining direct associations could be explained by other mediators not accounted for in the study, such as identification with one's social group (Schmid & Muldoon, 2015). Future research could investigate the other psychological variables that create a sense of security, blocking the negative impact of perceived external threats on psychological well Fig. 6. The results of simple slope analysis showing the effect of economic threats intensity (horizontal axis) on political trust (vertical axis) at different levels of responsibility attribution (moderator). Note: LOMOD, MEDMOD and HIMOD correspond to the values of moderator (responsibility attribution) of −1, 0, and 1 standard deviations from the mean, correspondingly.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+11
+
+being.
+
+Using various research designs and comparing the findings across countries with different levels of democracy would allow to reveal the efficacy of mechanisms used by authoritarian governments to maintain their status quo by downplaying the threats or displacing responsibility, as well as by populist incumbents and other agents to undermine po­ litical trust by emphasizing the threats and the responsibility of the political authorities. The awareness of these mechanisms could help make democratic societies more resilient in the face of attempts to manipulate their public opinion made by agents of authoritarian countries.
+
+CRediT authorship contribution statement
+
+Olga A. Gulevich: Writing – review & editing, Writing – original draft, Supervision, Project administration, Funding acquisition, Conceptualization. Alexander N. Gnezdilov: Writing – review & edit­ ing, Software, Formal analysis, Data curation. Evgeny N. Osin: Writing – review & editing, Writing – original draft, Visualization, Validation, Software, Methodology, Investigation, Formal analysis.
+
+Ethics statement
+
+The studies were conducted in accordance with the Declaration of Helsinki. Informed consent was obtained from all participants and no personally identifying information was collected.
+
+Funding information
+
+The work of the first two authors was supported by the HSE Uni­ versity Basic Research Program.
+
+Declaration of competing interest
+
+none.
+
+Data availability
+
+All the results are reported honestly and the submitted work is original. All the data and models are publicly available at: https://osf. io/c2rht.
+
+References
+
+Amin, A., Van Assche, J., Abdelrahman, M., McCashin, D., Al-Adwan, D., & Hasan, Y. (2022). Can identity buffer against the detrimental effects of threat? The case of the Qatar blockade. Frontiers in Psychology, 13, Article 750471. https://doi.org/ 10.3389/fpsyg.2022.750471 Bernardi, L., Sala, G., & Gotlib, I. H. (2024). A cognitive model of depression and political attitudes. Electoral Studies, 87, Article 102737. https://doi.org/10.1016/j. electstud.2023.102737 Biten, M., Kuhn, T., & van der Brug, W. (2022). How does fiscal austerity affect trust in the European Union? Analyzing the role of responsibility attribution. Journal of European Public Policy, 30(6), 1033–1050. https://doi.org/10.1080/ 13501763.2022.2060282 Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., Van Leeuwen, F., Bender, M., van Osch, Y., & Adams, B. (2021). The association between threat and politics depends on the type of threat, the political domain, and the country. Personality and Social Psychology Bulletin, 47(2), 324–343. https://doi.org/10.1177/0146167220946187 Carriere, K. R., Hallahan, A., & Moghaddam, F. M. (2022). The effect of perceived threat on human rights: A meta-analysis. Group Processes & Intergroup Relations, 25(1), 247–279. https://doi.org/10.1177/1368430220962563 Ciziceno, M., & Giovanni, T. (2019). Perceived corruption and individuals’ life satisfaction: The mediating role of institutional trust. Social Indicators Research, 141 (1), 685–701. https://doi.org/10.1007/s11205-018-1850-2 Diener, E. D., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The satisfaction with life scale. Journal of Personality Assessment, 49(1), 71–75. https://doi.org/10.1207/ s15327752jpa4901_13 Easterlin, R. A., McVey, L. A., Switek, M., Sawangfa, O., & Zweig, J. S. (2010). The happiness–income paradox revisited. Proceedings of the National Academy of Sciences, 107(52), 22463–22468. https://doi.org/10.1073/pnas.1015962107
+
+EIU (2023, Feb 2). Russia suffers biggest global fall in the democracy index following its invasion of Ukraine. Available at: https://www.eiu.com/n/russia-suffers-biggest-glo bal-fall-in-the-democracy-index-following-its-invasion-of-ukraine/. Esaiasson, P., Dahlberg, S., & Kokkonen, A. (2020). In pursuit of happiness: Life satisfaction drives political support. European Journal of Political Research, 59(1), 25–44. https://doi.org/10.1111/1475-6765.12335 Godefroidt, A. (2023). How terrorism does (and does not) affect citizens' political attitudes: A meta-analysis. American Journal of Political Science, 6(1), 22–38. https:// doi.org/10.1111/ajps.12692 Heukamp, F. H., & Ari˜no, M. A. (2011). Does country matter for subjective well-being? Social Indicators Research, 100, 155–170. https://doi.org/10.1007/s11205-010- 9610-y Iyengar, S. (1989). How citizens think about national issues: A matter of responsibility. American Journal of Political Science, 33(4), 878–900. Jost, J. T. (2020). A theory of system justification. Harvard University Press. Kline, R. B. (2015). The mediation myth. Basic and Applied Social Psychology, 37(4), 202–213. https://doi.org/10.1080/01973533.2015.1049349 Li, C.-H. (2016). Confirmatory factor analysis with ordinal data: Comparing robust maximum likelihood and diagonally weighted least squares. Behavior Research Methods, 48(3), 936–949. https://doi.org/10.3758/s13428-015-0619-7 Loubser, R., & Steenekamp, C. (2017). Democracy, well-being, and happiness: A 10- nation study. Public Affairs, 17(1–2), Article e1646. https://doi.org/10.1002/ pa.1646 Marsh, M., & Tilley, J. (2010). The attribution of credit and blame to government and its impact on vote choice. British Journal of Political Science, 40(1), 115–134. https:// doi.org/10.1017/S0007123409990275 Matavelli, R., Neves de Jesus, S., Pinto, P., & Viseu, J. (2020). Social support as a moderator of the relationship between financial threat and life satisfaction. Journal of Tourism, Sustainability and Well-Being, 8(1), 16–28. Maxwell, S. E., Cole, D. A., & Mitchell, M. A. (2011). Bias in cross-sectional analyses of longitudinal mediation: Partial and complete mediation under an autoregressive model. Multivariate Behavioral Research, 46(5), 816–841. https://doi.org/10.1080/ 00273171.2011.606716 Mishler, W., & Rose, R. (2001). What are the origins of political trust? Testing institutional and cultural theories in post-communist societies. Comparative Political Studies, 34(1), 30–62. https://doi.org/10.1177/0010414001034001002 Mishler, W., & Rose, R. (2005). What are the political consequences of trust? A test of cultural and institutional theories in Russia. Comparative Political Studies, 38(9), 1050–1078. https://doi.org/10.1177/0010414005278419 Murray, S. (2017, June 28). The “Rally-'Round-the-Flag” Phenomenon and the Diversionary Use of Force. Oxford Research Encyclopedia of Politics. Retrieved 15 Jun. 2025, from https://oxfordre.com/politics/view/10.1093/acrefore/97801 90228637.001.0001/acrefore-9780190228637-e-518. N¨agel, C., Nivette, A., & Czymara, C. (2024). Do jihadist terrorist attacks cause changes in institutional trust? A multi-site natural experiment. European Journal of Political Research, 63, 411–432. https://doi.org/10.1111/1475-6765.12612 Onraet, E., Dhont, K., & Van Hiel, A. (2014). The relationships between internal and external threats and right-wing attitudes: A three-wave longitudinal study. Personality and Social Psychology Bulletin, 40(6), 712–725. https://doi.org/10.1177/ 0146167214524256 Onraet, E., Van Hiel, A., & Cornelis, I. (2013). Threat and right-wing attitudes: A cross- national approach. Political Psychology, 34(5), 791–803. https://doi.org/10.1111/ pops.12014 Onraet, E., Van Hiel, A., Dhont, K., & Pattyn, S. (2013). Internal and external threat in relationship with right-wing attitudes. Journal of Personality, 81(3), 233–248. https://doi.org/10.1111/jopy.12011 Osin, E. N., & Leontiev, D. A. (2020). Brief Russian-language instruments to measure subjective well-being: Psychometric properties and comparative analysis. Monitoring of Public Opinion: Economic and Social Changes, 1, 117–142. https://doi.org/ 10.14515/monitoring.2020.1.06 Pavot, W., & Diener, E. (2013). Happiness experienced: The science of subjective well- being. In S. A. David, I. Boniwell, & A. C. Ayers (Eds.), The Oxford handbook of happiness (pp. 134–151). Oxford University Press. Pellerin, N., & Raufaste, E. (2020). Psychological resources protect well-being during the COVID-19 pandemic: A longitudinal study during the French lockdown. Frontiers in Psychology, 11, Article 590276. https://doi.org/10.3389/fpsyg.2020.590276 Rudolph, T. J. (2003a). Institutional context and the assignment of political responsibility. Journal of Politics, 65(1), 190–215. https://doi.org/10.1111/1468- 2508.00009 Rudolph, T. J. (2003b). Who’s responsible for the economy? The formation and consequences of responsibility attributions. American Journal of Political Science, 47 (4), 697–712. https://doi.org/10.1111/1540-5907.00049 Rudolph, T. J. (2006). Triangulating political responsibility: The motivated formation of responsibility judgments. Political Psychology, 27(1), 99–122. https://doi.org/ 10.1111/j.1467-9221.2006.00451.x Rudolph, T. J. (2016). The meaning and measurement of responsibility attributions. American Politics Research, 44(1), 106–130. https://doi.org/10.1177/ 1532673X15595460 Rudolph, T. J., & Grant, J. T. (2002). An attributional model of economic voting: Evidence from the 2000 presidential election. Political Research Quarterly, 55(4), 805–823. https://doi.org/10.1177/106591290205500404 Schmid, K., & Muldoon, O. T. (2015). Perceived threat, social identification, and psychological well-being: The effects of political conflict exposure. Political Psychology, 36(1), 75–92. https://doi.org/10.1111/pops.12073
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+12
+
+Shrout, P. E. (2011). Commentary: Mediation analysis, causal process, and cross- sectional data. Multivariate Behavioral Research, 46(5), 852–860. https://doi.org/ 10.1080/00273171.2011.606718 Sotola, L. K., & Cred´e, M. (2022). On the predicted replicability of two decades of experimental research on system justification: A Z-curve analysis. European Journal of Social Psychology, 52(5–6), 895–909. https://doi.org/10.1002/ejsp.2858 Stevenson, B., & Wolfers, J. (2008). Economic growth and subjective well-being: Reassessing the Easterlin paradox. Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, 39(1), 1–102. https://doi.org/10.3386/ w14282 Stride, C. B., Gardner, S. E., Catley, N., & Thomas, F. (2015). Mplus code for mediation, moderation, and moderated mediation models. https://www.figureitout.org.uk/m plusmedmod.htm. Tay, L., Herian, M. N., & Diener, E. (2014). Detrimental effects of corruption and subjective well-being: Whether, how, and when. Social Psychological and Personality Science, 5(7), 751–759. https://doi.org/10.1177/1948550614528544 Tov, W. (2018). Well-being concepts and components. In E. Diener, S. Oishi, & L. Tay (Eds.), Handbook of Well-being. Salt Lake City, UT: DEF Publishers. nobascholar.com. Uslaner, E. M. (2017). Political trust, corruption, and inequality. In S. Zmerli, & T. W. G. van der Meer (Eds.), Handbook on political trust (pp. 302–315). Cheltenham, UK: Edward Elgar Publishing Inc. https://doi.org/10.4337/9781782545118.00030. van der Meer, T. W. G. (2017). Democratic input, macroeconomic output, and political trust. In S. Zmerli, T. W. G. van der Meer, S. Zmerli, & T. W. G. van der Meer (Eds.), Handbook on political trust (pp. 270–284). Cheltenham, UK: Edward Elgar Publishing Inc. https://doi.org/10.4337/9781782545118.00028. van der Meer, T. W. G. (2018). Economic performance and political trust. In E. M. Uslaner (Ed.), The Oxford handbook of social and political trust (pp. 599–616). Oxford: Oxford University Press. https://doi.org/10.1093/oxfordhb/ 9780190274801.013.16. Vargas Salfate, S., Spielmann, J., & Briley, D. A. (2024). Supporting the status quo is weakly associated with subjective well-being: A comparison of the palliative
+
+function of ideology across social status groups using a meta-analytic approach. Psychological Bulletin, 150(11), 1318–1346. https://doi.org/10.1037/bul0000446 Vargas-Salfate, S., Paez, D., Khan, S. S., Liu, J. H., & Gil de Zú˜niga, H. (2018). System justification enhances well-being: A longitudinal analysis of the palliative function of system justification in 18 countries. British Journal of Social Psychology, 57(3), 567–590. https://doi.org/10.1111/bjso.12254 WCIOM. (2022, February 28). Specialnaya voennaya operatsiya na Ukraine: otnoshenie i celi. The special military operation in Ukraine: Attitudes and perceived goals. Available at: https://wciom.ru/analytical-reviews/analiticheskii-obzor/specialnaja-voennaja -operacija-v-ukraine-otnoshenie-i-celi. Weiner, B. (2012). An attribution theory of motivation. In P. A. M. Van Lange, A. W. Kruglanski, & E. T. Higgins (Eds.), Handbook of Theories of Social Psychology (pp. 135–155). Sage Publications Ltd.. https://doi.org/10.4135/9781446249215.n8 Wolf, E. J., Harrington, K. M., Clark, S. L., & Miller, M. W. (2013). Sample size requirements for structural equation models: An evaluation of power, bias, and solution propriety. Educational and Psychological Measurement, 73(6), 913–934. Yan, B., & Wen, B. (2020). Income inequality, corruption, and subjective well-being. Applied Economics, 52(12), 1311–1326. https://doi.org/10.1080/ 00036846.2019.1661953 You, J.-S. (2018). Trust and corruption. In E. M. Uslaner (Ed.), The Oxford handbook of social and political trust (pp. 473–496). Oxford: Oxford University Press. https://doi. org/10.1093/oxfordhb/9780190274801.013.22. Zagorski, K., Evans, M. D. R., Kelley, J., et al. (2014). Does national income inequality affect individuals’ quality of life in Europe? Inequality, happiness, finances, and health. Social Indicators Research, 117(2014), 1089–1110. https://doi.org/10.1007/ s11205-013-0390-z Zmerli, S., & Newton, K. (2017). Objects of political and social trust: Scales and hierarchies. In S. Zmerli, & T. W. G. van der Meer (Eds.), Handbook on political trust (pp. 104–124). Edward Elgar Publishing. https://doi.org/10.4337/ 9781782545118.00017.
+
+O.A. Gulevich et al. Personality and Individual Diϱerences 246 (2025) 113335
+
+13

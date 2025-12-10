@@ -1,0 +1,343 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/351128058
+
+Responsiveness Towards Street Protests: MPs’ and citizens’ Normative Views
+
+Chapter · April 2021
+
+DOI: 10.1007/978-3-030-70242-7_8
+
+CITATIONS 0
+
+READS 151
+
+2 authors, including:
+
+Manuel Jiménez-Sánchez
+
+Universidad Pablo de Olavide de Sevilla
+
+41 PUBLICATIONS   727 CITATIONS
+
+SEE PROFILE
+
+All content following this page was uploaded by Manuel Jiménez-Sánchez on 29 July 2023.
+
+The user has requested enhancement of the downloaded file.
+
+153 © The Author(s), under exclusive license to Springer Nature Switzerland AG 2021 X. Coller, L. Sánchez-Ferrer (eds.), Politicians in Hard Times, https://doi.org/10.1007/978-3-030-70242-7_8
+
+CHAPTER 8
+
+Responsiveness Towards Street Protests: MPs’ and citizens’ Normative Views
+
+Manuel Jiménez-Sánchez and Pablo Domínguez
+
+Introduction
+
+In his 1970 book, Demonstration Democracy, Etzioni pointed out that extra-institutional forms of citizen engagement in politics would constitute a permanent feature of representative democracies.1 At present, large portions of citizens routinely engage in political contestation either as participants or as more or less active audiences. Political elites, when not actively promoting contestation themselves, must decide how to face protests, in other words, whether to support, antagonise or ignore them. Elected representatives, in particular, have to choose whether to listen (or not) to those voices in the streets, incorporating them to (or excluding them from) the representative relationship. The normalisation of protest (Aelst and Walgrave 2001; Jiménez-Sánchez 2011) poses several normative, theoretical and empirical questions on the functioning of representative institutions and the extent to which they fulfil their democratic aspirations. This chapter focuses on whether citizens and elected
+
+M. Jiménez-Sánchez (*) • P. Domínguez Department of Sociology, Pablo de Olavide University, Seville, Spain e-mail: mjimsan@upo.es; pdomben@upo.es
+
+Cite this chapter: Jiménez-Sánchez, M., Domínguez, P. (2021). Responsiveness Towards Street Protests: MPs’ and citizens’ Normative Views. In: Coller, X., Sánchez-Ferrer, L. (eds) Politicians in Hard Times. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-70242-7_8
+
+154
+
+representatives consider that governments (and elected representatives) should respond (or not) to citizens who voice their demands by taking to the streets. Do they believe that governments should conversate with protesters or, on the contrary, keep their distance? To what extent do citizens and representatives share the same views on the matter? And what individual sociodemographic characteristics and political attitudes are associated to those stances? Studying how procedural aspects of democratic representation are perceived is critical to understand the different ways in which citizens and representatives conceive the functioning of the representative link. Furthermore, focusing on their congruence is of utmost relevance in the current context of citizens’ distrust towards representative institutions (Meer 2017) and the debates around democratic deficits (Norris 2011) and institutional reforms (Smith 2009). Research on this topic contributes also to the understanding of the transformation of political leaderships in times of political confidence crisis and protests intensification. Empirical research on related fields in political sociology and political science has extended its agenda to encompass the procedural aspects of democratic representation. For instance, studies on citizens’ political support have focused on a broad range of topics such as: the relationship between political trust and normative views of democracy (Hooghe et al. 2017); attitudes towards alternative modes of decision-making and innovative participatory mechanisms; or their willingness to participate beyond casting a vote (Hibbing and Theiss-Morse 2002; Ferrin and Kriesi 2016; Fernández-Martínez and Font Fábregas 2018). For their part, elite studies have conveyed these questions to the representatives, inquiring about how they perceive the representation gap (Cordero and Coller 2018; Coller et al. 2020) or their attitudes towards different modes of democracy and the proposed institutional reforms (Katz 2001; Bedock et al. 2019). The research agenda on congruence has been paying growing attention to responsiveness between elections (for a review see Beyer and Hänni 2018; Esaiasson and Narud 2013), focusing on how representatives conceive and perform their representative role (Önnudóttir 2016). Similarly, there is a renewed interest in knowing citizens’ opinions about how representatives should perform their representative role (Bengtsson and Wass 2010). Nevertheless, only a few empirical works have specifically dealt with the link between protesters and representatives, and, to our knowledge, no studies have been conducted on MP-citizen congruence. For example,
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+155
+
+based on a survey of local representatives in Sweden, Gilljam et al. (2012) showed that the acceptance of protests by representatives varied according to their ideology, parliamentary position, and past personal protest experience.2 Wouters and Walgrave (2017) examined protests as a societal signal influencing the formation of representatives’ opinions. Following an experimental design with Belgian representatives, they identified certain protest features (such as size or unity among protesters) that increased their political leverage. Following a similar experimental design, Wouters (2019) showed that protest features, such as the diversity of demonstrators, affect public support. Giugni and Grasso (2019), employing individual-­level survey data on MPs in 15 countries and 73 national and local assemblies, examined the conditions under which MPs are responsive in their everyday work to interest organisation, differentiating between classic interest groups and social movement organisations. Among other conclusions, they pointed out that the attitudes of MPs, such as their ideology or their views of citizens as political actors had a differential impact on their responsiveness to these two types of organisations. Drawing from these contributions, this chapter addresses the relationship between protest and representation from an attitudinal perspective. More specifically, it centres on normative evaluations of whether governments and representatives should be responsive to protesters (i.e. on their support for the norm of responsiveness) and explores for the first time the congruence of the views of both citizens and MPs. The empirical approach is based on the analysis of data obtained from two comparable surveys carried out among the general Spanish population and MPs in the course of fieldwork conducted between June 2018 and February 2019. The case of Spain is particularly interesting for at least two reasons. First, citizens’ high levels of non-violent protest activity (the highest among the Europeans in terms of demonstrations, Jiménez-Sánchez 2011; and labour conflicts, Fishman 2004) are coupled with a sweeping distrust towards representative institutions and dissatisfaction with the functioning of democracy (Coller et al. 2020; Foa et al. 2020). High rates of protest in Spain have been connected with the limited opportunities for citizens’ participation provided by the political system designed during the transition to democracy. Political elites, including a large sector on the left, have traditionally judged voting as the unique legitimate channel for citizens’ political participation, while demands voiced in the streets have tended to be considered as misbegotten, and, consequently, ignored or repressed (Jiménez-Sánchez 2005). As stated by Robert Fishman (2011:
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+156
+
+262) Spanish elected representatives ‘have often attempted to ‘screen out’ such voices of extra-institutional protest, rather than seeking to incorporate them into mainstream democratic life’ (see also Chap. 9 in this volume).3 Second, the intense cycle of protest initiated in 2011 by the 15M movement under its motto ‘no nos representan’ (they don’t represent us), deepened citizens’ political distrust and heightened their propensity towards street protests (Jiménez-Sánchez et al. 2018). At the same time, it triggered a notable renewal of the representatives who may have also entailed a change in their traditionally dominant negative attitudes towards public protest and perhaps now congruently mirror citizens’ views on this particular issue.4
+
+The results of our surveys in fact show that the responsiveness norm is widely endorsed, especially among citizens: 93% of citizens and 74% of MPs consider that representatives ought to conversate with protesters rather than keep their distance. These results are consistent with Spain’s extensive normalisation of protests and protesters mentioned above. The distance of almost 19 percentage points between both groups indicates that citizens and MPs do not present full-fledged congruence and that negative views about public protest remain in the political culture of part of the elected representatives. The analysis carried out in this chapter shows that variables such as ideology, perceiving citizens as politically capable or views on the roles of representatives (delegate vs trustee models, see also Chap. 7) are associated with the extent to which the responsiveness norm is endorsed. The results provide significant cues to understand whether the limited congruence between both groups derive from their different positions in the representative relationship or from their distinct political culture.
+
+The Responsiveness Norm
+
+and MP-Citizen Congruence
+
+Independently of the representatives’ understanding of their role either as delegates or as trustees (Eulau and Karps 1977), being responsive to their constituency entails substantial representational activity (Pitkin 1967). Powell (2004: 91) defined responsiveness as ‘what occurs when the democratic process induces the government to form and implement policies that the citizens want’. Protest can be regarded as one of those ‘things’ that customarily occur in chains of events that can induce representatives
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+157
+
+to be responsive.5 The issue of responsiveness can hence be observed in the context of the protester-representative relationship, where protests are expressions of citizen’s wishes signalled to representatives, and representatives are the targeted institutions where responses are to be substantiated. In this sense, responsiveness to protests can be understood as the representatives’ disposition to listen and talk to protesters (to initiate a conversation), instead of ignoring (confronting or repressing) them. It can also be interpreted as ‘access responsiveness’ (Schumaker 1975: 494), indicating the extent to which targeted authorities are willing to hear protesters’ concerns and accept them as valid interlocutors for a legitimate set of interests (Gamson 1990: 28). According to Gamson (1990: 31), this ‘acceptance involves change from hostility or indifference to a more positive relationship’. It could be also thought of as the initial step in the activation of what Fishman and Everson (2016) call ‘the conversation mechanism’ through which social movements exert political influence over power holders. Following this reasoning, this chapter analyses the attitude of MPs and citizens towards responsiveness as a norm guiding the representatives’ reactions when they face protests. This is operationalized as a dichotomous variable (avoid vs conversate) and it is termed, for short, (support for) the responsiveness norm.6 The ultimate goal is to explore the extent to which this responsiveness norm is congruently endorsed by elected representatives and citizens. Congruence regarding the responsiveness norm informs us about the extent to which citizens and representatives share similar views on how representatives should deal with protests. Congruence also tell us whether protests are likewise considered as a valid channel to communicate wants to the representative institutions and, ultimately, to what extent responsiveness is similarly ideated, beyond the electoral moment, on both sides of the representative relationship. This chapter thus deals with a case of procedural congruence. It focuses on the level of agreement regarding the procedures and practices through which representatives perform their activities rather than to the substance of those activities or their results. The level of procedural congruence in this sense may inform about the (good) functioning of the political system and perhaps about its legitimacy, but it will tell little about its democratic qualities. Rather, procedural congruence is related to the degree to which both citizens and representatives partake of a similar political culture. Studying particular instances of procedural congruence—such as the
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+158
+
+responsiveness norm to protests—improve existing empirical knowledge about the MPs and citizens different forms of understanding of (democratic) politics and may shed some light on the crisis of the representative link. In this sense, procedural congruence parallels Sartori’s notion of ‘procedural consensus’ that he uses to stress that democracy is feasible only if its actors agree on the procedures to be accomplished and their political actions are guided by such procedural agreement (1987: 90–91).
+
+Exploring the Gap: Role or Political Culture?
+
+Due to the fact that protests have become normalised, it is not entirely surprising that the surveys showed generalised support for the responsiveness norm. The congruence gap between citizens and their representatives, however, somehow appears to be more intriguing. To account for this gap, one could consider that MPs’ and citizens’ distinct positions regarding the representative relationship modulate their views in a diverse manner (the different role hypothesis). Citizens, for their part, may perceive protest as a mechanism allowing to voice their demands to the holders of power (Lipsky 1968). Citizens’ attitudes towards the responsiveness norm may thus involve judgments about protest validity (legitimacy) as forms of political participation (Turner 1969). It is also probable that their judgments often mingle with broader normative values related to the exercise of the democratic right to have a voice and to be heard. In turn, representatives may additionally perceive protests as one in a series of various, sometimes conflicting, signalling mechanisms they are exposed to in their representative activity. One may expect that their own experience as representatives will lead them to be aware of the positive and negative implications of protest acceptance. Protesters’ demands may, for instance, be in conflict with their political alignment and may thus complicate the implementation of their political programme or election mandate (Gilljam et al. 2012). It is reasonable to think that the ‘different role’ types of explanations are defendable in so far as the MPs-citizens gap remains comparatively similar across (sociodemographic and) ideological positions in both groups. Otherwise, the lack of congruence could be attributable to attitudinal differences between both groups (the distinct political culture hypothesis). In order to explore these two general hypotheses, in the section that follows, a series of specific sociodemographic and attitudinal hypotheses that guide the empirical analysis are developed
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+159
+
+Overall, it is expected that certain factors empirically associated in previous research with protesters’ profile would also account, in a similar way, for the endorsement of the norm. The normalisation of protest has led to large sectors of society taking to the streets. In the case of demonstrations for instance, several studies have observed that participatory inequalities in terms of gender and age have diminished considerably. Although their effects seem also somehow smoothed, other sociodemographic indicators of political resources continue to be strong predictors of participation. The less educated remain particularly underrepresented in most forms of protests (Aelst and Walgrave 2001; Jiménez-Sánchez 2011).7
+
+One my expect gender, age and education to be associated with the responsiveness norm in a similar way to how they are found to be associated to the participation in protests. In particular, support for the norm is expected to be more frequent among those MPs and citizens with higher education levels, while weaker or no associations is anticipated with regard to gender or age (H1). Regarding ideology, an increasing number of moderate and conservative citizens have turned into protesters. This is especially true in Spain where, as mentioned above, surveys show high percentages of participants in protests (Jiménez-Sánchez 2011), and where parties of all ideologies have increasingly supported, if not promoted street mobilisations (Cornejo and Galán 2017; Jiménez-Sánchez et al. 2018). Yet empirical studies show that leftists are still overrepresented (Jiménez-Sánchez 2011; Kostelka and Rovny 2019; Torcal et al. 2016). As in the case of sociodemographic variables, we assume that both MPs’ and citizens’ normative stance will follow a similar variation as in regard to the propensity to protest along the ideological scale found in the general population. Previous studies on MPs’ attitudes towards protest strengthen these expectations. Gilljam et  al. (2012: 252) for instance found that representatives on the left showed a greater acceptance of protest than those on the right. If representatives do not approve extra-institutional participation, it is reasonable to believe that they will also be less likely to be responsive to them.8 Accordingly, a significantly strong association between ideology and the responsiveness norm is expected: the further to the ideological left, the more likely it is that both MPs and citizens will endorse the responsiveness norm (H2). The normalisation of protest has also been associated with the transformation of citizens as political subjects, from allegiant profiles to more critical ones, often dissatisfied with the functioning of democracy (Dalton 2008; Klingemann 2015; Norris 2011). The democracy satisfaction
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+160
+
+indicator refers to citizens’ judgements about the functioning of the democratic system in practice (Easton 1975) which, in that sense, can be connected to the notion of responsiveness (Morlino and Quaranta 2014). More specifically, MPs and citizens who are dissatisfied with democracy are expected to be more favourable to listening to the voices in the streets (H3). Support for the responsiveness norm can also be related to different perceptions of citizens as political actors and their role in democracy (Giugni and Grasso 2019). Minimalist versions of democracy have projected negative views of citizens, limiting their role to that of electors. According to these approaches, elites are regarded as the only politically capable agents (Schumpeter 1994). Seminal studies on political behaviour have empirically confirmed this view of citizen as scantly sophisticated, incongruent or simply uninterested in politics (Campbell et  al. 1960). This profile is still revealed in current studies, such as those supporting the stealth democracy thesis; the latter show that a large portion of citizens do not wish to—or do not think they can—have an active role in politics (Hibbing and TheissMorse 2002). In contrast, scholars who defend broader popular models of democracy give a more favourable political picture of citizens. Not only do they point out that citizens are capable of participating beyond the casting of a vote but they also see their political engagement as a pre-requisite to maintain healthy democracies (Fung and Wright 2001; Mair 2006). These scholars also view social movements and protests positively because they substantially contribute to deepening democracy by bringing the demands of otherwise marginalised sectors into institutionalised politics (Fishman 2016: 304). Empirical studies supporting these views point to cognitive mobilisation and the spread, over the last decades, of more critical and politically sophisticated type of citizens (Dalton 2008; Norris 2011). Along these lines, it is expected that respondents, MPs and citizens, who conceive citizens as capable of meaningful political initiative to be more likely to endorse the responsiveness norm (H4). Concerning the perception of the representative function, those respondents endorsing a delegate model of representation may be seen as more prone to initiating conversations with protesters. In turn, those who consider the representatives as trustees may perceive protests as elements that disturb the exercise of the representative function and thus be less prone to adhere to the responsiveness norm. Therefore, MPs and citizens who conceive the representatives as delegates (instead of trustees) will largely support the responsiveness norm (H5).9
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+161
+
+In brief, given the normalisation of protest and protesters, and according to the results of similar studies, it may be anticipated that MPs’ and citizens’ stances be clearly skewed towards ‘should listen to the protesters’, especially among the most educated and leftist-orientated (while little differences are expected by gender or age). Support for the responsiveness norm is also envisaged to be higher among those dissatisfied with the functioning of democracy, those that perceive citizens as capable of meaningful political initiative and those who conceive representatives as delegates (rather than trustees). Regarding congruence, the observed 19 percentage points distance between both groups may be explained by their different roles in the representative relationship or, non-exclusively, by their distinct political culture. Under the different role hypothesis, the expected result is that of higher levels of support for the responsiveness norm among citizens, being themselves the potential ‘beneficiaries’ of those responses. From the MPs’ perspective, however, the paybacks of responsiveness (for themselves) may not always be so straightforward. This hypothesis may be held in so far as (attitudinal) variables included in our model perform similarly in both groups, the gap thus being comparatively similar along the diverse sociodemographic and the ideological spectrum. Otherwise (sociodemographic and) political attitudes should also be considered as an explanatory factor of the gap (the distinct political culture hypothesis).
+
+Results
+
+To explore the factors associated with the support to the responsiveness norm among MPs and citizens, as well as the variations in terms of congruence, two regressions were run using a comparable logistic model. Independent variables included gender, age and education (a four-level scale) as sociodemographic characteristics, ideology (0–10 points-scale) and satisfaction with democracy (4 points-scale) as general political attitudes. Two additional variables were also included as indicators of the views on citizen roles in politics (i.e. whether they are judged as capable of meaningful political initiative or not) and as indicators of the preferred representative model (trustee vs delegate).10
+
+Figure 8.1 summarises the results of the logistic regressions.11 The points (circle or diamonds markers) represent the estimated odds ratio values and their horizontal spikes represent the confidence intervals. Thicker spikes indicate value intervals for a 90% confidence level, while the
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+162
+
+finer ones indicate value intervals for a 95% confidence level. The odd values and their confidence intervals located to the right of the vertical line (i.e. they are greater than 1), indicate a positive effect (increases in the probabilities of supporting the responsiveness norm). When placed to the left, that effect is negative. When the confidence intervals step on the vertical line (i.e. they include the value 1), there is no statistically significant relationship. Figure 8.1 allows to compare the strength of these associations, interpreting them as changes in the probabilities of supporting the norm (for each variation in the independent variable unit). In most cases, changes are smaller in the citizens’ model. This may be due to citizens’ high proportion of adherence to the norm (93%), inasmuch as explanatory factors account for a much more limited range of variation than among MPs, where supporting the norm is, comparatively, less likely (74%). To
+
+Fig. 8.1  Comparing factors associated with the responsiveness norm among MPs and citizens. (Source: Authors’ own elaboration from CIUPARCRI Project survey datasets. Note: Dark grey circle and light grey diamond shapes for MPs and citizens, respectively)
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+163
+
+facilitate the reading of these results, the adjusted predictions using representative values for all independent variables are plotted in diverse figures (when not included in the text, figures are provided in Annex 3). Based on the idea that the normalisation of protest may translate into a general acceptance of the responsiveness norm, we expected significant associations with education levels but not with gender and age (H1). The results clearly amended these expectations: being a female and younger increases the probability of supporting responsiveness norms, while there were no differences in terms of educational levels (see Fig. 8.7 in Annex 3). In the case of gender, this association is not statistically significant among MPs (see Fig. 8.5. in Annex 3). Among citizens, however, gender shows a moderate effect: the probability of being pro-norm is five percentage points higher for women (95% compare to 90% for men). This result may point to a trend detected in previous works: that of the growing prevalence of women in protest activities and being even overrepresented among the youngest generations in activities such as demonstrations (Jiménez-Sánchez 2011). Regarding age, the youngest in both groups approve the conversation position to a larger extent. The probability of citizens being pro-norm stands at 95% among the youngest groups and only reaches the 90% mark among the elderly. In the case of MPs, there are greater differences of up to 20 percentage points: from 84% among the youngest (those in their thirties) down to 65% among the eldest (mostly those in their sixties, see Fig. 8.6. in Annex 3). Contrary to the expectations, no significant differences are found based on educational level.12 In the case of citizens, this may suggest that while education is a major indicator of the resources that favour participating in protests, it does not apparently influence perceptions of protests or views on the responsiveness norm. Concerning ideology, as respondents move to the right on the ideology scale, the odds of supporting the norm decrease. The margin results highlight that variations in probabilities are particularly large in the case of deputies (as shown in the larger negative slope of their values in Fig. 8.2). The expected probabilities for citizens fell from values ​above 95%, among those self-placed at the left, to values ​around 85%, among those on the right. This decreasing support pattern is much more noticeable among MPs: while endorsement among the deputies on the left (positions 0 to 2 in the scale) drops by 5 percentage points (from 93 to 88), it falls below 40% in scale positions 9 and 10. These results confirm the second hypothesis. It also indicates that the association between ideology and support for
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+164
+
+the responsiveness norm is stronger among MPs. This means, as can be observed in Fig. 8.2, that MP-citizen levels of support for the responsiveness norm increasingly diverge as we move to the right of the ideology scale. It was also expected that citizens and MPs dissatisfied with democracy would be more favourable to governments being open to the voices on the streets. The results confirmed the third hypothesis in the case of citizens. According to the values ​of the adjusted predictions (see Fig. 8.8 in Annex 3), the probabilities of supporting the responsiveness norm increased by 7 percentage points, from 88% among those fully satisfied with the functioning of democracy, to 95% among those completely dissatisfied. If we relax the confidence intervals to the 90% level, the association can also be considered as statistically significant among MPs: the probability of supporting the norm increases from 66% among the satisfied to 84% among those who expressed dissatisfaction.
+
+Fig. 8.2  MPs and citizens’ probabilities of supporting the responsiveness norm across the ideology scale. (Source: Authors’ own elaboration from CIUPARCRI Project survey datasets. Note: Adjusted predicted values with 95% CIs)
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+165
+
+Results also confirm the hypothesis according to which the likelihood of endorsing the responsiveness norm will be higher among those that judge citizens to be capable of meaningful political initiative (H4). This association is stronger among citizens than among MPs (for the latter, it is only statistically significant with a 90% confidence level, see Fig. 8.9 in the annex). Figure 8.3 shows how this relationship varies with statistically significant differences along their self-placement on the ideology scale (a similar analysis among MPs did not yield any significant results). As can be observed, those citizens adopting a positive view of citizens had higher probabilities of supporting the responsiveness norm than those who had a less positive image, regardless of their ideology (except at the ends of the scale where differences are not significant).13 For example, a citizen who is in position 6 on the ideology scale and also has a positive vision of citizens’ political capabilities presents a probability of supporting the norm that is
+
+Fig. 8.3  Probabilities of supporting the responsiveness norm across ideology, comparing citizens with positive and negative views of citizens’ political capacity. (Source: Authors’ own elaboration from CIUPARCRI Project survey datasets. Note: Adjusted predicted values with 90% CIs)
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+166
+
+8 percentage points higher than a citizen in the same ideological position but who holds a negative view (adjusted prediction of 0.87 vs 0.95, controlling the effects of the rest of the model’s variables). Finally, it was also expected that a higher proportion of those who considered the representatives as delegates (vs trustees) would endorse the responsiveness norm (H5). This was only the case among MPs. MPs who conceived representatives as delegates of citizens’ interests were more likely to support the responsiveness norm: predicted probabilities increased from 62% to 77%. That is, the probabilities increased by 15 percentage points when we switched from trustee to delegate perceptions of the representative role (see the Fig. 8.10 in Annex 3). Figure 8.4. allows to analyse the relationship between the responsiveness norm and the understandings of the representation link among our MPs in greater detail. Except in cases of extreme values ​(not statistically
+
+Fig. 8.4  Probabilities of supporting the responsiveness norm across ideology, comparing MPs who endorsed delegate versus trustee models of representation link. (Source: Authors’ own elaboration from CIUPARCRI Project survey datasets. Note: Adjusted predicted values with 90% CIs)
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+167
+
+significant), the probability of supporting the norms decreases as we move to the right. This support, however, is systematically lower among deputies who understand representation as being a trustee. For example, a deputy who self-places herself in position 6 on the ideology scale would be more likely to support the norm if she also conceives representation as delegation, that is, 20 percentage points more than if she conceives representation as being a trustee (from 52% to 72%).
+
+Conclusions
+
+The procedural norm by which elected politicians should be responsive to demands voiced in the streets is widely endorsed among Spain’s citizens (93%). This data is in tune with the fact that non-violent protest has become highly widespread in Spain’s political culture. A smaller majority of MPs are also pro-norm (74%), suggesting that non-acceptance of public protest, previously dominant, is now much less widespread among the Spanish representatives. The analysis of these data suggests that support towards the responsiveness norm is associated with factors that are usually connected with participation in protests, especially political attitudes.14 Broadly, in line with the hypotheses that guided the analysis, the results highlight the explanatory importance of ideology: the more the orientation towards the left, the more widespread the support. Other attitudinal variables are significant too. Among citizens, in addition to ideology, support towards the responsiveness norm rises among those dissatisfied with the functioning of democracy and among those holding a positive perception of citizens as politically capable. The role of these two attitudes is less clear when it comes to MPs (becoming significant only at a confidence level of 90%). In turn, among them, pro-norm stances appear—in addition to ideology— more clearly linked to views of the representative function as delegation: regardless of their ideological position, support is usually greater among MPs who adhere to the delegation model. The analysis also provides some critical cues to understand the relative lack of congruence on this (procedural) matter. Broadly, the interpretation of the results undermines those accounts of the lack of MPs-citizens congruence focused on their different position in the representative relationship and invites to consider differences in their political cultures as potential explanatory factors.
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+168
+
+MP-citizen gap in their levels of support for the responsiveness norm steadily grows as we move to the right of the ideology scale (as shown in Fig. 8.2). That is, citizens and MPs have matching views on the responsiveness norms among the leftists, while this congruence decreases as we move to the centre and to the right of the ideology scale. One may think that political elite’s renewal spurred by the political crisis during the first half of the 2010s has approached MPs to citizens on the acceptance of protest, except for a non-negligible sector of conservatives. In a likely process of attitudinal distancing from citizens, including many of their own potential electors, some conservative MPs keep on disregarding citizens voiced in the streets. However, given that Spanish conservative elites increasingly support, when not promote, streets protest, their lack of support for the responsiveness norm appears highly intriguing. A possible explanation could be found in the particular political culture held by a these conservative representatives. For the majority of MPs, on the left and right of the political spectrum, protest is certainly an instrument for political confrontation. However, in line with citizens, they have also come to understand protest as a legitimate channel for citizens to express their demands to power holders and as an occasion to initiate a meaningful political conversation (Fishman 2004). Congruence here may be perceived as an opportunity for representatives to re(connect) with citizens and ameliorate low level of satisfaction with the functioning of democracy and political distrust. A conservative sector of MPs, however, seems to diverge from the majority and see citizens’ protest uniquely as a mere instrument to generate political noise and erode the adversary. This understanding of protest not only set them apart from the majority of citizens, including a substantial part of their own constituencies, but may also contribute to erode feelings of (external) political efficacy among citizens, feeding political cynicism and generalised political distrust.
+
+Acknowledgments  The authors would like to thank the editors for their support and thoughtful comments and the UPO Language Service for the English language revision. This work is part of two research projects funded by FEDER/ Ministerio de Ciencia, Innovación y Universidades-Agencia Estatal de Investigación: ‘Ciudadanía y parlamentarios en tiempos de crisis y renovación democrática: el caso comparado de España en el contexto del sur de Europa’ (Grant number CSO2016-78016-R) and ‘Protesta, aprendizaje y cambio político’ (Grant number CSO2017-84861-P).
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+169
+
+Annex
+
+Table 8.1  Variable description and bivariate relation with dependent variable (responsiveness norm towards)
+
+Variable Question in the questionnaire MPs/ Citizens Descriptive values Relation with VD: % of yes by categories Coef. values (p-value)a
+
+Responsiveness to protest norm H.9. What do you think parliamentarians should do when there are street protests? (1) not be swayed by them (2) listen and talk to protesters
+
+MPs (1): 26.1% (2): 73.9% N: 441 Citizens (1): 7.3% (2): 92.7% N: 1569
+
+Gender I.2. / Sex. Gender. MPs Male: 56.6% Female: 43.4% N: 452
+
+% yes Male: 70.3% Female: 79.3% 0.099 (0.037)
+
+Citizens Male: 48.9% Female: 51.1% N: 1600
+
+% yes Male: 89.8% Female: 95.4% 0.108 (0.000)
+
+Age I.3. / Age. MPs Mean: 51.22 SD: 9.8 N: 451
+
+Mean Yes: 54.11 No: 50.15 0.031 (0.000) Citizens Mean: 48.24 SD: 16.24 N: 1600
+
+Mean Yes: 47.78 No: 52.29 0.005 (0.004)
+
+(continued)
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+170
+
+Table 8.1  (continued)
+
+Variable Question in the questionnaire MPs/ Citizens Descriptive values Relation with VD: % of yes by categories Coef. values (p-value)a
+
+Education I.9 Education level: Recoded variable: (1) Elementary School (2) Middle-high school/ vocational training (3) Bachelor (4) Post-graduate
+
+Mps (1): 0.6% (2): 13.3% (3): 51.2% (4): 34.7%
+
+N: 451
+
+% yes (1): 33.3% (2): 68.4% (3): 72.1% (4): 79.2% 0.117 (0.108) Citizens (1): 23.5% (2): 39.8% (3): 29.3% (4): 7.4%
+
+N: 1600
+
+% yes (1): 92.4% (2): 94.9% (3): 89.5% (4): 93.9% 0.085 (0.010) Ideology G.1. Scale from 0 (left) to 10 (right) MPs Mean: 4.16 SD: 2.55
+
+N: 448
+
+Mean Yes: 3.51 No: 5.95 0.176 (0.000) Citizens Mean: 4.73 SD: 1.97
+
+N: 1530
+
+Mean Yes: 4.66 No: 5.62 0.015 (0.000) SwD H.1. Satisfaction with democracy (1) Not at all satisfied (2) Not very satisfied (3) Fairly satisfied (4) Very satisfied
+
+MPs (1): 10.4% (2): 22.9% (3): 54.1% (4): 12.6%
+
+N: 443
+
+% yes (1): 95.7% (2): 90.1% (3): 67.2% (4): 54.5% 0.307 (0.000) Citizens (1): 18.3% (2): 45.2% (3): 33% (4): 3.6%
+
+N: 1597
+
+% yes (1): 95.8% (2): 94.5% (3): 88.7% (4): 89.3% 0.114 (0.000)
+
+(continued)
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+171
+
+Table 8.1  (continued)
+
+Variable Question in the questionnaire MPs/ Citizens Descriptive values Relation with VD: % of yes by categories Coef. values (p-value)a
+
+Citizens’ initiative capacity H.6. Citizens promote referendum (1) Strongly disagree (2) Disagree (3) Neither agree nor disagree (4) Agree (5) Strongly agree
+
+MPs (1): 16.9% (2): 22% (3): 26.6% (4): 14.1% (5): 20.5%
+
+N: 439
+
+% yes (1): 48.6% (2): 68% (3): 72.6% (4): 82% (5): 96.7% 0.345 (0.000) Citizens (1): 8.8% (2): 7.8% (3): 15.3% (4): 20.8% (5): 47.4%
+
+N: 1586
+
+% yes (1): 77.8% (2): 87% (3): 90.4% (4): 95.4% (5): 95.7% 0.204 (0.000) MPs’ representation style
+
+H.7. Model of representation: (1) Delegate (2) Trustee
+
+MPs (1): 74.3% (2): 25.7%
+
+N: 436
+
+% yes (1): 77.1% (2): 64.3% 0.127 (0.008) Citizens (1): 87.7% (2): 12.3%
+
+N: 1570
+
+% yes (1): 93.4% (2): 88% 0.069 (0.007)
+
+Source: CIUPARCRI (2018)
+
+aCramer’s V or Eta squared test applied, where applicable. Levels of significance: p < 0.0
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+172
+
+Table 8.2  Support for the responsiveness norm. Logistic regressions for MPs and citizens
+
+MPs Survey: Logistic regression Number of strata = 1 Number of obs = 423 Number of PSUs = 423 Population size = 427.042886 Design df = 422 F(7416) = 13.41 Prob > F = 0.0000 Linearized | Odds Ratio Std. Err. t P > |t| [95% Conf. Interval] Female (vs male) 1.430387 0.4516596 1.13 0.258 0.7689621 2.66074 Age (years) 0.9624362 0.015585 −2.36 0.019 0.9322848 0.9935628 Education (1–4) 1.460599 0.30649 1.81 0.072 0.9669461 2.206275 Ideology (0–10) | 0.6932297 0.0459015 −5.53 0.000 0.6086304 0.7895883 SwD (1–4) 0.6590398 0.1662529 −1.65 0.099 0.401389  1.082076 Ctzns capability (1–5) 1.320562 0.191623 1.92 0.056 0.9928601 1.756424 Trustee(vs deleg) 0.3719605 0.119252 −3.08 0.002 0.1980675 0.6985225 _cons 64.28412 100.5059 2.66 0.008 2.974762  1389.169
+
+Citizens Survey: Logistic regression Number of strata = 1 Number of obs = 1461 Number of PSUs = 1461 Population size = 1,463.0421 Design df = 1460 F(71,454) = 9.12 Prob > F = 0.0000 Linearized Odds Ratio Std. Err. t P > |t| [95% Conf. Interval] Female (vs male) 2.093416 0.5519658 2.80 0.005 1.248059  3.511365 Age (years) 0.9839523 0.0070935 −2.24 0.025 0.9701358 0.9979656 Education (1–4) 0.86524 0.1152975 −1.09 0.278 0.666217  1.123718 Ideology (0–10) 0.8505721 0.0602597 −2.28 0.022 0.7402132 0.9773846 SwD (1–4) 0.7043601 0.1006448 −2.45 0.014 0.5321905 0.9322286 Ctzns capability (1–5) 1.438724 0.1141895 4.58 0.000 1.231297  1.681095 Trustee (vs deleg) 0.6399739 0.1857609 −1.54 0.124 0.3621469 1.130941 _cons 46.93017 38.70755 4.67 0.000 9.306938  236.6451
+
+Source: Authors’ own elaboration from CIUPARCRI Project survey datasets
+
+Note: _cons estimates baseline odds
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+Fig. 8.5  Gender: statistically significant differences between male and females in both surveys. (Source: CIUPARCRI [2018])
+
+Fig. 8.6  Age: statistically significant differences between along the scale age in both surveys. (Source: CIUPARCRI [2018])
+
+Fig. 8.7  Education: differences among education levels (4) are not statistically significant in neither surveys. (Source: CIUPARCRI [2018])
+
+Fig. 8.8  Satisfaction with Democracy: statistically significant differences along the scale in both surveys. (Source: CIUPARCRI [2018])
+
+Fig. 8.9  Citizens’ political initiative capacity: statistically significant differences along the 0–5 scale only among citizens (and for MPs at a CI of 90%). (Source: CIUPARCRI [2018])
+
+Fig. 8.10  Representation model: statistically significant differences between delegate and trustee positions among MPs. (Source: CIUPARCRI [2018])
+
+176
+
+Notes
+
+1. Current forms of protest and the representative institutions are indeed deeply interwoven, and both are rooted in the parliamentarisation of politics and their combined effect on the extension of democracy since it gained momentum during the nineteenth century (Tilly 1997). 2. A parallel theme that is receiving growing attention is that of the perceived effectiveness of protest (vs voting). Hooghe and Marien (2014), for instance, found that MPs tend to consider taking part in elections as the most effective means to influence political life, while boycotting, internet discussions, and illegal protests are the least effective. 3. This has not impeded social movements and groups of ordinary citizens, to successfully influence in numerous decision-making processes but such political influence has been heavily contingent on their capacity to generated social conflict (Jiménez-Sánchez 2005, 2007). 4. Fostered by the institutionalisation of new parties such as Podemos or Ciudadanos, the 2015 legislature initiated brought about the highest ever renewal rate of parliamentarians in Spain’s recent democratic history: 67% of the MPs were newcomers (Portillo and Dominguez 2020: 105). 5. From a normative perspective, responsiveness can be judged as a desirable consequence of democracy (Dahl 1971). Fishman considers responsiveness as a property, a constitutive feature of its quality rather than a definitional element (2016: 299). Its democratic bestowment however, may be contingent on the degree of equity among the voices with access to the decision-­ making process. 6. In both surveys, respondents were asked to line up with one of two stances concerning how the government and the representatives should deal with protestors in the streets: either ignoring them (‘not to be swayed by them’) or responding to them, initiating a conversation (‘to listen and talk with them’). 7. However, focused on USA, Dalton (2017) showed that the extension of protests has widened, rather than reducing the participation gap. 8. Hutter and Vliegenthart (2018), adopting an agenda-setting approach, show that protests’ partisan profile conditions their effect on parliamentary activity, and that representatives are more likely to react to issues raised within their own political camp. 9. In the case of MPs, an alternative reasoning would also be theoretically conceivable. In fact, although they would probably not have protests in mind, Eulau et  al. associated sensitiveness to pressure groups with the trustee style (1959: 749). 10. Table 8.1 in Annex 1 shows the variables’ corresponding questions in the questionnaires, as well as their frequency distribution or average values and
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+177
+
+the coefficient values of their bivariate association with our dependent variable (the responsiveness norm). 11. The regression results are included in Annex 2. The graphs were produced using the coefplot Stata command (Jann 2014). 12. One should bear in mind that the MP sample presented little variations in terms of education levels as most MPs have a university degree. 13. In Figs. 8.3 and 8.4, the margin error is widened to a 90% confidence level to appreciate the trend better. 14. The (unforeseen) lack of significance in the case of educational level reinforces its interpretation as indicator of the resources needed for rather than the willingness to take part in protests.
+
+References
+
+Aelst, P., & Walgrave, S. (2001). Who Is That (Wo)man in the Street? From the Normalisation of Protest to the Normalisation of the Protester. European Journal of Political Research, 39(4), 461–486. https://doi. org/10.1111/1475-­6765.00582. Bedock, C., Rangoni, S., & Talukder, D. (2019). How MPs Perceive Deliberative and Participatory Democracy: An Inquiry into the Belgian Case. Democratic Renewal Conference, Leuven, September. Bengtsson, Å., & Wass, H. (2010). Styles of Political Representation: What Do Voters Expect? Journal of Elections, Public Opinion and Parties, 20(1), 55–81. https://doi.org/10.1080/17457280903450724. Beyer, D., & Hänni, M. (2018). Two Sides of the Same Coin? Congruence and Responsiveness as Representative Democracy’s Currencies. Policy Studies Journal, 46, S13–S47. https://doi.org/10.1111/psj.12251. Campbell, A., Converse, P. E., Warren E., Miller, W. E., & Stokes, D. E. (1960). The American Voter (Unabridged Edition). Chicago: University Of Chicago Press. CIUPARCRI (2018). Ciudadanía y parlamentarios en tiempos de crisis y renovación democrática: el caso comparado de España en el contexto del sur de Europa. Research Project funded by the Spanish Ministry of Economy and Competitiveness (CSO2016-78016-R). Coller, X., Jiménez-Sánchez, M., & Portillo-Pérez, M. (2020). It Is Not Just the Economy. How Spanish Established Political Elites Understand the (Political) Crisis and Its Effects. In A.  Freire, M.  Barragán, X.  Coller, M.  Lisi, & E.  Tsatsanis (Eds.), Political Representation in Southern Europe and Latin America (pp. 85–101). https://doi.org/10.4324/9780429400414-­5. Cordero, G., & Coller, X. (2018). Democratizing Candidate Selection: New Methods, Old Receipts? In G.  Cordero & X.  Coller (Eds.), Democratizing
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+178
+
+Candidate Selection: New Methods, Old Receipts? https://doi. org/10.1007/978-­3-­319-­76550-­1. Cornejo, M., & Galán, J.  I. P. (2017). From the Pulpit to the Street: Ultraconservative Religious Position Against Gender in Spain. In R. Kuhar & D. Paternotte (Eds.), Anti-gender Campaigns in Europe: Mobilizing Against Equality (pp. 233–252). Rowman & Littlefield International, Ltd. Dahl, R. A. (1971). Polyarchy: Participation and Opposition. New Haven: Yale University Press. Dalton, R.  J. (2008). Citizen Politics: Public Opinion and Political Parties in Advanced Industrial Democracies. Washington, DC: CQ press. Dalton, R. J. (2017). The Participation Gap: Social Status and Political Inequality. Oxford: Oxford University Press. Easton, D. (1975). A Re-Assessment of the Concept of Political Support. British Journal of Political Science, 5(4), 435–457. https://doi.org/10.1017/ S0007123400008309. Esaiasson, P., & Narud, H. (2013). Between-Election Democracy: The Representative Relationship After Election Day. Essex: ECPR Press. Etzioni, A. (1970). Demonstration Democracy. New York: Gordon and Breach, Science Publishers, Inc.. Eulau, H., Wahlke, J. C., Buchanan, W., & Ferguson, L. C. (1959). The Role of the Representative: Some Empirical Observations on the Theory of Edmund Burke. American Political Science Review, 53(3), 742–756. https://doi. org/10.2307/1951941 Eulau, H., & Karps, P.  D. (1977). The Puzzle of Representation: Specifying Components of Responsiveness. Legislative Studies Quarterly, 2(3), 233–254. https://doi.org/10.2307/439340. Fernández-Martínez, J. L., & Font Fábregas, J. (2018). The Devil Is in the Detail: What Do Citizens Mean When They Support Stealth or Participatory Democracy? Politics, 38(4), 458–479. https://doi. org/10.1177/0263395717741799. Ferrin, M., & Kriesi, H. (Eds.). (2016). How Europeans View and Evaluate Democracy. Oxford: Oxford University Press. Fishman, R. M. (2004). Democracy’s Voices : Social Ties and the Quality of Public Life in Spain. Ithaca: Cornell University Press. Fishman, R.  M. (2011). On the Significance of Public Protest in Spanish Democracy. In Democràcia, Política i Societat: Homenatge a Rosa Virós (pp. 351–366). Barcelona: Universitat Pompeu Fabra. Fishman, R.  M. (2016). Rethinking Dimensions of Democracy for Empirical Analysis: Authenticity, Quality, Depth, and Consolidation. Annual Review of Political Science, 19(1), 289–309. https://doi.org/10.1146/ annurev-­polisci-­042114-­015910.
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+179
+
+Fishman, R.  M., & Everson, D.  W. (2016). Mechanisms of Social Movement Success: Conversation, Displacement and Disruption. Revista Internacional de Sociologia, 74(4), e045. https://doi.org/10.3989/ris.2016.74.4.045. Foa, R.  S., Klassen, A., Slade, M., Rand, A., & Williams, R. (2020). Global Satisfaction with Democracy 2020. Cambridge: Bennett Institute for Public Policy. Retrieved September 15, 2020, from https://www.bennettinstitute. cam.ac.uk/media/uploads/files/DemocracyReport2020.pdf. Fung, A., & Wright, E.  O. (2001). Deepening Democracy: Innovations in Empowered Participatory Governance. Politics and Society, 29, 5–41. https:// doi.org/10.1177/0032329201029001002. Gamson, W. A. (1990). The Strategy of Social Protest. Belmont: Wadsworth. Gilljam, M., Persson, M., & Karlsson, D. (2012). Representatives’ Attitudes Toward Citizen Protests in Sweden: The Impact of Ideology, Parliamentary Position, and Experiences. Legislative Studies Quarterly, 37(2), 251–268. https://doi.org/10.1111/j.1939-­9162.2012.00045.x. Giugni, M., & Grasso, M. (2019). Mechanisms of Responsiveness: What MPs Think of Interest Organizations and How They Deal with Them. Political Studies, 67(3), 557–575. https://doi.org/10.1177/0032321718784156. Hibbing, J. R., & Theiss-Morse, E. (2002). Stealth Democracy: Americans Beliefs About How Government Should Work. New York: Cambridge University Press. https://doi.org/10.1017/cbo9780511613722. Hooghe, M., & Marien, S. (2014). How to Reach Members of parliament? Citizens and Members of Parliament on the Effectiveness of Political Participation Repertoires. Parliamentary Affairs, 67(3), 536–560. https:// doi.org/10.1093/pa/gss057. Hooghe, M., Marien, S., & Oser, J. (2017). Great Expectations: The Effect of Democratic Ideals on Political Trust in European Democracies. Contemporary Politics, 23(2), 214–230. https://doi.org/10.1080/1356977 5.2016.1210875. Hutter, S., & Vliegenthart, R. (2018). Who Responds to Protest? Protest Politics and Party Responsiveness in Western Europe. Party Politics, 24(4), 358–369. https://doi.org/10.1177/1354068816657375. Jann, B. (2014). Plotting Regression Coefficients and Other Estimates. Stata Journal, 14(4), 708–737. https://doi.org/10.1177/1536867x1401400402. Jiménez-Sánchez, M. (2005). El impacto político de los movimientos sociales : un estudio de la protesta ambiental en España. Madrid: Centro de Investigaciones Sociológicas. Jiménez-Sánchez, M. (2007). Mobilizations against the Iraq War in Spain: Background, Participants and Electoral Implications. South European Society and Politics, 12(3), 399–420. https://doi.org/10.1080/13608740701495392.
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+180
+
+Jiménez-Sánchez, M. (2011). La normalización de la protesta el caso de las manifestaciones en España (1980–2008). Madrid: Centro de Investigaciones Sociológicas. Jiménez-Sánchez, M., Ruiz, A., & Navarro, L. (2018). Protesta y cambio electoral en España (2003–2013). Madrid: Centro de Investigaciones Sociológicas. Katz, R. S. (2001). Models of Democracy. European Union Politics, 2(1), 53–79.
+
+https://doi.org/10.1177/1465116501002001003. Klingemann, H. D. (2015). Dissatisfied Democrats: Democratic Maturation in Old and New Democracies. In R. J. Dalton & C. Welzel (Eds.), The Civic Culture Transformed: From Allegiant to Assertive Citizens (pp.  116–157). New  York: Cambridge University Press. https://doi.org/10.1017/ CBO9781139600002.010. Kostelka, F., & Rovny, J. (2019). It’s Not the Left: Ideology and Protest Participation in Old and New Democracies. Comparative Political Studies, 52(11), 1677–1712. https://doi.org/10.1177/0010414019830717. Lipsky, M. (1968). Protest as a Political Resource. American Political Science Review, 62(4), 1144–1158. https://doi.org/10.2307/1953909. Mair, P. (2006). Ruling the Void?: The Hollowing of Western Democracy. New Left Review, 42, 25. Morlino, L., & Quaranta, M. (2014). The Non-Procedural Determinants of Responsiveness. West European Politics, 37(2), 331–360. https://doi.org/1 0.1080/01402382.2014.887878. Norris, P. (2011). Democratic Deficit: Critical Citizens Revisited. New  York: Cambridge University Press. https://doi.org/10.1017/ CBO9780511973383. Önnudóttir, E. H. (2016). Political Parties and Styles of Representation. Party Politics, 22(6), 732–745. https://doi.org/10.1177/1354068814560934. Pitkin, H. (1967). The Concept of Representation. University of California Press. Portillo, M., & Dominguez, P. (2020). The Social Profile of Spanish Elites Following the Great Recession. In A. Freire, M. Barragán, X. Coller, M. Lisi, & E. Tsatsanis (Eds.), Political Representation in Southern Europe and Latin America Before and After the Great Recession and the Commodity Crisis (pp. 102–136). New York: Routledge. Powell, G. B. (2004). The Chain of Responsiveness. Journal of Democracy, 15, 91–105. https://doi.org/10.1353/jod.2004.0070. Sartori, G. (1987). The Theory of Democracy Revisited. Chatham: Chatham House. Schumaker, P. D. (1975). Policy Responsiveness to Protest-Group Demands. The Journal of Politics, 37(2), 488–521. https://doi.org/10.2307/2129004. Schumpeter, J.  A. (1994). Capitalism, Socialism, and Democracy. London: Routledge.
+
+M. JIMÉNEZ-SÁNCHEZ AND P. DOMÍNGUEZ
+
+181
+
+Smith, G. (2009). Democratic Innovations: Designing Institutions for Citizen Participation. New  York: Cambridge University Press. https://doi. org/10.1017/CBO9780511609848. Tilly, C. (1997). Parliamentarization of Popular Contention in Great Britain, 1758–1834. Theory and Society, 26(2–3), 245–273. https://doi.org/10.102 3/A:1006836012345. Torcal, M., Rodon, T., & Hierro, M. J. (2016). Word on the Street: The Persistence of Leftist-Dominated Protest in Europe. West European Politics, 39(2), 326–350. https://doi.org/10.1080/01402382.2015.1068525. Turner, R. H. (1969). The Public Perception of Protest. American Sociological Review, 34(6), 815–831. https://doi.org/10.2307/2095975. van der Meer, T.  W. G. (2017). Political Trust and the ‘Crisis of Democracy’. Oxford: Oxford University Press. https://doi.org/10.1093/ ACREFORE/9780190228637.013.77. Wouters, R. (2019). The Persuasive Power of Protest. How Protest Wins Public Support. Social Forces, 98(1), 403–426. https://doi.org/10.1093/sf/soy110. Wouters, R., & Walgrave, S. (2017). Demonstrating Power: How Protest Persuades Political Representatives. American Sociological Review, 82(2), 361–383. https://doi.org/10.1177/0003122417690325.
+
+8  RESPONSIVENESS TOWARDS STREET PROTESTS: MPS’ AND CITIZENS…
+
+View publication stats

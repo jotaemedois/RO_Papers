@@ -1,0 +1,361 @@
+Vol.:(0123456789)
+
+Social Indicators Research (2024) 171:493–512 https://doi.org/10.1007/s11205-023-03256-w
+
+1 3
+
+ORIGINAL RESEARCH
+
+Who Cares? Issue Salience as a Key Explanation for Heterogeneity in Citizens’ Approaches to Political Trust
+
+Lisanne de Blok1
+
+Accepted: 27 October 2023 / Published online: 6 December 2023 © The Author(s), under exclusive licence to Springer Nature B.V. 2023
+
+Abstract Political trust is a critical facet of the democratic legitimacy of political institutions. A vast body of research convincingly demonstrates that political trust is responsive to actual political performance, where citizens trust their government if it performs well and vice versa. However, if political trust is based on citizens’ evaluations of government performance, this raises the question what type of performance citizens take into consideration. This research note demonstrates that citizens’ bases of political trust vary as they emphasize different policy issues, and that perceived issue salience can explain this variation. Using a combination of longitudinal cross-sectional data from EU member states and novel multilevel Dutch data, it models both collective and personal issue salience as key conditions for performance-based political trust. In doing so, this research note generates new insights into the formation of political trust.
+
+Keywords  Political trust · Policy performance · Issue salience
+
+1  Introduction
+
+Political trust is essential for representative democracies to maintain stability, viability and legitimacy (van der Meer & Zmerli, 2017). Scholars agree that citizens’ trust in political authorities should not be blind (Norris, 2022). Rather, it should be driven by citizens’ satisfaction with how political authorities are doing their job. National governments are, however, responsible for a broad range of policy areas and frequently have to juggle multidimensional policy challenges. To illustrate, during the Covid-19 pandemic, national governments had to nurture the health and safety of their citizens while they also had to foster the health of the economy. All the while they were confronted with an enduring climate crisis and growing international tensions. In such a context, it is not evident on what basis citizens evaluate the performance of their governments in order to formulate a trust judgement. They may focus on different policy areas, resulting in contextual differences in the bases of political trust (Langer, 2001).
+
+* Lisanne de Blok e.a.deblok@uu.nl
+
+1 Utrecht University School of Governance, Utrecht, The Netherlands
+
+494 L. de Blok
+
+1 3
+
+Over the past decade, a rich body of literature has emerged demonstrating a relationship between policy performance and political trust (e.g. Haugsgjerd & Kumlin 2020; KestiläKekkonen & Söderlund, 2016). When studying this relationship, scholars have implicitly assumed that the type of performance included in their models (predominantly economic performance) is the one that is most salient to all citizens. This is problematic given that the salience the economy strongly varies across time, across countries, and across individuals (De Vries & Giger, 2014; Singer, 2011). Therefore, it is key to take into account multiple policy areas and to explicitly model the perceived salience of these policy areas to get a better understanding of what drives political trust. This research note demonstrates the key role of issue salience in explaining variations in citizens’ bases of political trust using both longitudinal cross-sectional data on EU member states and novel multi-level data from the Netherlands. As such, it makes two important contributions to the literature. First, it provides insights in the contextual variation in the individual-level bases of political trust. Citizens vary in the weight they assign to different policy areas and particularly base their trust in authorities on their satisfaction with policy areas they care about. Second, it provides the necessary micro-level foundation for a priming effect of issue salience on the relationship between institutional performance and political trust. It thereby builds on important work by Hetherington and Rudolph (2008) who demonstrate the role of macro-level problem perceptions for the effect of economic satisfaction on political trust in the United States.
+
+2  Theory
+
+Political trust is considered a critical facet of democratic legitimacy, essential to the survival of democratic regimes (Verba & Almond, 1963). Given its importance, many scholars have sought to explain when, how, and why citizens trust their democratic institutions. One core explanation proposed within the literature is that political trust is a consequence of institutional performance (Citrin & Stoker, 2018). It is based on a performance evaluation where citizens adjust their levels of political trust according to their satisfaction with the functioning of political institutions (Mishler & Rose, 2001). At first glance, the findings seem to support such a trust-as-evaluation approach: in general, evaluations of government performance are positively correlated with political trust (e.g., van der Meer & Dekker, 2011; Torcal, 2014). Yet, upon closer inspection, the relationship between institutional performance and political trust seems anything but constant (van der Meer, 2017). Rather, its explanatory strength strongly varies across countries, individuals, and time-points (Magalhães, 2014). This led scholars to call for a better and more realistic understanding of the evaluative mechanism driving political trust, including an explicit specification of its key conditions (Anderson, 2007).
+
+2.1  Issue Salience
+
+If political trust is based on citizens’ evaluations of government performance, this raises the question what type of performance citizens take into consideration. Research on performance voting convincingly demonstrates that citizens are unlikely to punish or reward political authorities for performance on policy areas they do not care about (De Vries & Giger, 2014). This is because citizens tend to pay closer attention to issues they prioritize and hence have more knowledge about and accessible attitudes of these particular issues
+
+495 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+(Krosnick et  al., 2005; Luskin, 1990; Sears et  al., 1980; Lavine et  al., 1996). In other words, the salience of a political issue shapes citizens support for specific political institutions including the president (Edwards III et al., 1995) or a political party (Bélanger & Meguid, 2008; Fournier et al., 2003; Singer, 2011). However, the key role of issue salience has rarely been considered for political trust. Issue salience is defined as the relative weight an individual ascribes to a given issue on the political agenda (cf. Wlezien, 2005; Moniz and Wlezien, 2020). It captures what people think about deeply, gather and retain information about, and use as a basis for political judgments and behavior (Miller et al., 2016). Interestingly, as found by Miller et al. 2016 in their review chapter, despite common usage in the literature, “policy issue salience has more often been a vague metaphor than a precisely defined scientific concept with an accepted operationalisation” (p. 116). It is important to distinguish between the importance of an issue to an individual personally (so-called personal salience) and the importance of a policy issue for the country or community (so-called collective or national salience), because they have different causes and consequences (ibid). While judgments of the national importance of an issue vary according to changes in the objective seriousness of national problems (Wlezien, 2005) and the volume of media attention (Behr & Iyengar, 1985), personal issue salience stems from material self-interest, social identification with reference groups (of a policy), and personal values (Boninger et al., 1995). Hence, personal issue salience is assumed to be much less fleeting: while the objective condition of a country can change, and with that people’s perceptions of national issue salience, one’s personal connection to an issue remains relatively fixed. Compared to support for a specific party of candidate, political trust is a more diffuse form of support that is also largely driven by performance evaluations. The fact that issue salience has not been linked to the dynamics of political trust is surprising, given that issue salience seems particularly relevant when citizens are faced with the demanding task of evaluating the trustworthiness of a group of actors that together make up a political institution (such as the national government) based on its past performance across a broad range of policy areas. When faced with such a task, citizens can reduce the burden by relying on their satisfaction with salient issues as a proxy for government performance in general. Accordingly, issue salience affects the weight that citizens assign to certain policy areas in their evaluations of government performance and their trust judgments. Seeing that people vary in what they perceive as important, the moderating influence of personal issue salience explains why individuals have different justifications for political trust. Alternatively, national salience perceptions can explain why, on an aggregate level, the strength of the relationship between the public’s evaluation of a specific issue and political trust varies across time. This brings us to the following hypothesis: to the extent that political trust is based on policy issue satisfaction, the perceived performance on a policy issue that is perceived as important should have a greater impact. The causal mechanism underlying the moderating influence of issue salience on the relationship between policy performance and political trust is called priming, which refers to “changes in the standard that people use to make political evaluations” (Iyengar and Kinder, 2010). Priming effects occur when an individual’s attention to an issue influences the weight he/she assigns to it during the formulation of political evaluations (Druckman, 2004; Miller & Listhaug, 1999). Hetherington and Rudolph (2008) have, as one of few, considered the priming effect of issue salience for political trust (cf. Chanley et al., 2000). They convincingly show that in the United States, satisfaction with a given policy issue has a greater influence on political trust if the percentage of the public naming this issue as most salient increases. In other words, the degree of importance a society attaches to a
+
+496 L. de Blok
+
+1 3
+
+policy area moderates the relationship between economic satisfaction and political trust. Still, more insight is needed into the priming effect of issue salience for performance-based political trust, especially at the micro-level. What an individual perceives as most important may vary from collective salience perceptions (Miller et  al., 2016). The evaluative mechanism underlying political trust presumes an individual-level mechanism, and therefore, individual salience perceptions form a crucial precondition.
+
+3  Data and Methods
+
+3.1  Case Selection
+
+When testing the role of issue salience for political trust, there are two roads one could take. Like Hetherington and Rudolph (2008), one could focus on the perceived importance of a given issue by society at large in a given context. Accordingly, one would track collective salience perceptions across time in a set of (comparable) countries. Alternatively, one could also focus on differences between and within individuals in the salience that they attach to specific issues, and how this affects their motivations to trust a political institution. As such, one would focus specifically on variations in personal issue salience. This research note does both. First, it performs a test of the moderating influence of collective issue salience at the macro level using variations in political trust within EU member states between 2006 and 2018. This period marked a turbulent time for the EU as most member states faced sharp economic downturns and welfare state retrenchment or slowdown resulting from the Great Recession and the refugee crisis. At the same time, European countries were not equally affected by the Great Recession with some countries having to implement more harsh austerity measures than others. Taking EU member states as a case study on the one hand ensures sufficient comparability on the quality of government and the overall economy (following EU membership criteria). At the same time, the crisis period and diverging country experiences ensures sufficient variation in our variables of interest, including policy issue evaluations and policy issue salience. In addition, this note presents a test at the micro level by focusing on variations in personal issue salience and political trust in the Netherlands. This country also provides a suitable case for testing the conditioning effect of issue salience on the performance-trust link, as it is a stable and established democracy, representative of most Western European political systems. While it is generally regarded as a ‘high trust’ country, similar to Norway, there are considerable fluctuations in political trust over time (Bovens & Wille, 2008). The research period (February 2022) is particularly suitable to study the role of personal issue salience as it coincided with the run-up to the municipal elections which heightened citizens’ awareness of past government performance. At this time, Dutch politics was faced with multiple crises and scandals, including a long-term deficit in affordable housing, a gridlock in the nitrogen reduction efforts, and the Dutch childcare benefits scandal. Also, the Netherlands just came out of the Covid-19 pandemic and the Ukraine war erupted at the end of the fieldwork period.1 The fact that there were many different issues that dominated the public agenda means that it is not evident which issue weighted more heavily
+
+1  35.75% of the respondents filled in the survey after the start of the war. I control for potential effects of the Ukraine war in the models.
+
+497 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+in citizens’ trust judgements, leaving room for the moderating influence of personal issue salience.
+
+3.2  Data Sources
+
+In this first analysis, the role of macro-level problem perceptions for performance-based political trust is investigated using comparative longitudinal survey data from seven waves of the European Social Survey (ESS) between 2006 and 2018, complemented with data on collective issue salience from the Eurobarometer (EB).2 This Eurobarometer data was merged at the country year-level with the ESS data. I focus specifically on the countries which were included in all ESS waves and for which the EB captured national-level issue salience, resulting in 19 EU countries.3 Both the EES and the EB rely on random probability sampling and draw representative country samples of approximately a 1000 respondents per country per wave.4
+
+The second test zooms in on the micro-level and employs data from the Policy Performance & Political Trust (PerfTrust) survey that was designed to tackle this research question.5 This dataset includes information on political trust, and the evaluations and salience of eight policy areas. What is unique about this dataset is that it allows us to study variation in political trust and issue satisfaction within individuals, while controlling for differences between individuals (see Analytical method). This not only makes for a more stringent test of the priming mechanism of issue salience for the relationship between issue satisfaction and political trust, it also allows us to simultaneously model satisfaction across a broad range of policy issues, without running the risk of multicollinearity. The survey is based on a random sample of 1750 respondents (18+) drawn from a representative Dutch database (the LISS panel).6
+
+3.3  Variables
+
+Political trust is operationalized in two ways, depending on the data source. Using the ESS, the dependent variable is captured using an index of three indicators: trust in parliament, politicians, and parties.7 These items are measured on an 11-point scale (0 no trust at all— 10 complete trust). As such, I focus specifically on trust in national political institutions.
+
+2  The following waves of the Eurobarometer are included: EB 65.4, EB 69.2, EB 73.4, EB 77.3, EB 81.4, EB 85.2, and EB 89.1. 3  The following countries are included: Austria, Belgium, Czech Republic, Germany, Estonia, Spain, Finland, France, United Kingdom, Hungary, Ireland, Italy, Lithuania, Netherlands, Poland, Portugal, Sweden, and Slovenia. 4  For more information on the sampling procedures, please see the website of the ESS and the website of the EB. 5  Centerdata, a leading private research institute specialized in survey and market research, collected the data using computer-assisted self-interviewing. Their Longitudinal Internet Studies for the Social sciences (LISS) panel is based on a high quality randomly-selected probability sample of all Dutch households drawn from the population register by Statistics Netherlands. For more information on the survey, see de Blok and Brummel (2022). 6  See https://​www.​cente​rdata.​nl/​en/​liss-​panel for more information on the LISS panel. 7  Cronbach’s alpha is above 0.88 across all waves.
+
+498 L. de Blok
+
+1 3
+
+The Dutch data includes identical items on trust in parliament, politicians and parties.8 In addition, it contains specific items that asks respondents how much they trust the national authorities9 to do what is right for the Netherlands on eight different policy areas (education, health care, the economy, social security, safety, immigration, youth care, and the climate). As such, it specifies the domains in which a political actor is trusted (or not) and better aligns with the common definition of political trust that ‘A trusts B to do X’ (Hardin, 1999). These items were also measured on an 11-point scale, ranging from 0 (no trust at all) to 10 (complete trust). A factor analysis confirmed that these items load on a single dimension with the traditional trust items on trust in politicians, parties and politicians (see Appendix 3). The micro-level analysis will focus on these domain-specific trust items as they allow for studying variation within individuals across policy areas. Moving to the independent variables, policy issue satisfaction is again captured in two ways. For the macro-level analysis using the ESS data, policy issue satisfaction is measured for two policy issues. Economic evaluations are captured using respondents’ satisfaction with the present state of the economy in their country. Welfare evaluations are captured using the mean across two items: (a) a respondent’s satisfaction with the state of education and (b) their satisfaction with the state of health care services in their country. All items are measured on a 11-point scale where 0 meant ‘extremely bad’ and 10 ‘extremely good’. Respondents who answered ‘don’t know’ were coded as missing.10 Moreover, the policy satisfaction scores are centered around the country mean to control for cross-country measurement error. In the micro-level analysis, an individual’s policy issue satisfaction is captured for eight different policy issues, identical to the trust domains. For each issue, satisfaction was measured on a 11-point scale ranging from 0 (very dissatisfied) to 10 (very satisfied).11 As is explained in the Analytical method section, the effect of policy issue satisfaction is separated in a within- and between-respondent component. The between-person component of issue satisfaction constitutes the individual mean evaluation across all policy issues, while the within-component entails variation from this mean (i.e., when an issue is evaluated more positively by an individual than other issues). To operationalize policy issue salience at the country-level, I rely on the ‘most important issue’ question from the Eurobarometer. Respondents were asked what the two most important issues were that their country was facing at the time. The proportion of respondents who mentioned either the economic situation, inflation, taxation or unemployment is coded as the collective salience of the economy (per country-year) and the proportion of respondents who thought health care or education was the most pressing issue captures the collective salience of welfare state services (also per country year).
+
+8  Cronbach’s alpha 0.96. 9  The question used the term ‘de nationale overheid’ for which there is no English equivalent. It refers to the highest authority within a sovereign area, which in the Dutch case consists of the parliament, the government, the senate, the heads of state (king and queen) and the public administration. It can therefore be interpreted as a measure of diffuse support. 10  As a robustness check, the analyses were also run with respondents who answered ‘don’t know’. This resulted in similar effects, both in size, direction and significance. 11  The analyses were run with and without respondents who answered ‘don’t know’; both yielded similar results in terms of direction, size, and significance. The number of ‘don’t knows’ per issue for the evaluation question: education (7.2%), health care (3.5%), the economy (5.4%), social security (7.3%), safety (3.8%), immigration (11.4%), youth care (20.7%), and the climate (6%). Of the entire sample, 2.6% answered ‘don’t know’ on all eight issues.
+
+499 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+Similarly, at the micro-level, respondents were asked what they considered the two most important issues for the Netherlands at the time. Policy issue salience is captured as a binary item for each policy area, indicating whether the respondent mentioned the policy area as (second) most important or not.12 This results in eight different issue salience measures at the micro-level. Lastly, I control for various alternative explanations of political trust that are put forward in the literature. In the macro-level analysis, I control for age, gender, years of education, political interest, subjective income and employment status at the individual level. The micro-level analysis controls for age, gender and level of education. In addition, I include a binary variable indicating whether a respondent answered the survey after the start of the Ukraine war.
+
+3.4  Analytical Method
+
+As noted, two tests of the role of issue salience for performance-based political trust are performed. The first one involves a cross-country dataset, focusing the effect of collective issue salience on the relationship between policy issue satisfaction and political trust across time. Individuals are nested within years and within countries. Here, I employ a mixed effects model using STATA 15 with random effects for policy issue satisfaction at the country and the country-year level. For the sake of simplicity, I will present the effects of interest using figures in this paper, but the complete regression table is presented in Appendix 1. For the micro-level analysis, the dataset is first transposed into a long format with each respondent having eight observations (one for each policy issue). This allows for the simultaneous inclusion of the evaluations of all policy issues, without running the risk of multicollinearity (cf. de Blok et al., 2020). On this dataset I perform a multilevel linear regression (using the “xtreg” command in Stata 15) including both between- and within-effects of policy issue satisfaction (level 1 variables). It thereby builds on the “within-between Random-Effects” (REWB) framework for analyzing nested data that combines the advantages of fixed and random effects models (Bartels et al., 2008; Bell & Jones, 2015). Rather than controlling for cluster confounding bias between higher-level units with the use of fixed effects, the REWB framework explicitly models such causal heterogeneity by separating between- from within-cluster effects, thereby significantly reducing the risk of endogeneity (for a similar application and more information on the approach, see de Blok et al., 2020).
+
+4  Results
+
+4.1  Collective Salience Perceptions
+
+The macro-level analysis investigates the role of national salience for the relationship between economic and welfare state satisfaction and political trust, similar to Hetherington
+
+12  Moreover, to understand the meaning of this measurement, additional analyses predicted issue satisfaction using an individuals’ prioritization of an issue. Interestingly, while the prioritization of an issue often coincides with a negative evaluation of that issue, the size of the effect of issue prioritization on issue satisfaction varies between issues, with prioritization having no significant effect on one’s satisfaction with health care, the issue that is most commonly seen as most important (see “Appendix 2”). This suggests that an important issue is not always the same as an important problem.
+
+500 L. de Blok
+
+1 3
+
+and Rudolph (2008) (although they did not study welfare state performance). The left side of Fig. 1 shows the trends in national issue salience using the mean proportion of citizens across all 19 EU countries that mentioned the economy or welfare state services as the most important issue facing their country. The upper and lower bound show the standard deviation per year. The salience of a specific policy issue strongly varies across time. Prior to the Great Recession, a large proportion of EU citizens regarded health care and education as pressing issues. However, as the recession unfolded, the salience of the economy sharply increased, crowding out welfare state issues from the collective agenda. At the end of the crisis, however, the salience of welfare state services again increased, while the economy was perceived as less important. Following these trends in collective problem perceptions, one would predict that the weight given to each policy issue for predicting trust also varies across time. To test this, evaluations of the economy and welfare state services are interacted with a time variable (for the complete regression table, see Table 2 in Appendix 1). The marginal effects of these interactions are plotted on the right side of Fig. 1. Prior to the Financial crisis, perceptions of the economy and welfare services both appear to be strong predictors of political trust, approximately equal in strength. However, in line with the trends in collective issue salience, the effect of economic satisfaction on political trust increases at the onset of the crisis. At the same time, the effect of perceived welfare state performance on political trust decreases, suggesting that trust judgements are a zero-sum game where increased importance of one policy issue leads to a decrease in another. Last, I test whether issue salience can indeed explain such contextual variation in the bases of political trust using cross-level interaction effects between collective issue salience and policy issue satisfaction. The positive interactions, displayed in Fig. 2, strongly suggest that this is indeed the case. As depicted, the effect of perceived economic performance on political trust is greater in a context (country-year) where the economy is perceived as collectively salient (Coef. 0.06, p < 0.1 ). Yet, this interaction effect is only marginally significant. This dynamic is however much clearer for welfare state performance (Coef. 0.11,
+
+p < 0.01 ). If society regards a policy issue as most pressing, the government’s performance on that issue will be an important driver of political trust. Taking into account issue salience can thus help explain individual-level variations in political trust motivations, in particular when it concerns other types of performance than the economy.
+
+4.2  Personal Salience Perceptions
+
+As noted, these macro-level findings do not provide sufficient evidence for the micro-level priming-mechanism of issue salience on evaluation-based political trust. Therefore, the second part of the analysis focuses on individual-level variation in issue salience and issue satisfaction. Before moving to the multi-level analyses, some more descriptive results are discussed. The left pane of Fig. 3 shows what issues were considered important in the Netherlands in February 2022. There was not a clear consensus on which issue was most important. While health care was deemed important by the largest share of respondents (39%), this does not constitute a majority. About a quarter perceived the economy and the climate as
+
+501 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+most important.13 Immigration and youth care, even though they were evaluated most negatively (with an average evaluation of 4.45 and 4.21 respectively), were only considered important by a small share of respondents.14
+
+Given the lack of consensus in collective issue salience, it is not evident what policy issue mattered most for political trust. The right panel of Fig. 3 plots the direct effects of policy issue satisfaction on political trust derived from simple regression models run for each issue separately. Two operationalisations of political trust are employed: a ‘traditional’ index of trust in parliament, parties and politicians and a domain-specific trust index on citizens’ trust in national authorities to do what is right on eight policy areas. Note that there were no significant differences between these indices in the found relationships. What becomes clear from the overview of regression coefficients is that the effect of policy issue satisfaction on political trust varies across policy issues. Political trust is most strongly related to one’s satisfaction with the economy, safety, health care and social security (with coefficients between 0.47 and 0.49, on a 11-point scale). However, the size of these direct effects do not necessarily correspond to the collective salience of these issues, where health care is, for example, regarded as substantially more important than social security but is not much more influential for political trust. Also, even though the climate was deemed
+
+Fig. 1   (A) Collective issue salience (mean and SD) and (B) the effects of the economic and welfare service evaluations on political trust across time time (95% CI). Source: ESS and EB. Marginal effects are calculated using a mixed effects model, with random effects for policy issue satisfaction at the country and the country-year level (see Appendix 1)
+
+13  The Ukraine-war led to an increase in respondents indicating that ‘safety’ was the most important issue, from 10.7% before February 24 to 19.1% after (Chi-square = 24.0 p < 0.001). 14  Mean evaluation of other policy areas were: health care 6.05, economy 5.68, climate 4.85, safety 6.0, education 5.9, social security 5.88. These evaluations were captured on a 11-point scale ranging from 0 to 10.
+
+502 L. de Blok
+
+1 3
+
+Fig. 2   Marginal effect of economic and welfare service satisfaction, conditional on collective issue salience. Source: ESS and EB. Marginal effects are calculated using a mixed effects model, with random effects for policy issue satisfaction at the country and the country-year level (see Appendix 1)
+
+Fig. 3   Descriptive results on issue satisfaction and issue salience. Source: PerfTrust. Left-panel: proportion of sample who indicated issue as 1st or 2nd most important issue for the Netherlands at that time. Right panel: coefficients derived from OLS regression models of political trust per policy issue (controlled for age, gender, education). All effects are significant at p < 0.001 . Sample sizes ­(R2) per policy issue: climate 1600 (.08), youth care 1351 (.15), immigration 1514 (.21), education 1578 (.19), health care 1644 (.24), social security 1580 (.23), safety 1636 (.25), economy 1613 (.27)
+
+503 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+important by a large group of respondents, it has the smallest effect on political trust. As argued by de Blok et al. (2020), this could partly be due to responsibility attributions, with climate policy commonly being seen as a responsibility of the EU, while youth care is largely decentralized in the Netherlands. Still, these simple models mask individual level variation across policy areas in their respective weight in an individual’s trust calculus. It could well be the case that for some people, satisfaction with climate policy is an important source for political (dis)trust. To provide a more stringent test of the priming-mechanism of political trust, and to allow for the inclusion of all issue evaluations in a single model without running the risk of multicollinearity, the dataset is transposed into a long format where policy issues are clustered within individuals. To do so, I focus on the domain-specific trust items. On this long dataset, I run a random intercept multilevel model for political trust that investigates variation in issue evaluations and political trust within individuals, while explicitly modelling variation between individuals.15 The results are presented in Table 1.
+
+15  See “Appendix 4” for variable descriptives.
+
+Table 1   Multilevel regression model results for political trust (REWB). Source: PerfTrust. Random-effects maximum likelihood estimation model
+
+In this table shows unstandardized beta coefficients
+
++p < 0.10 , ∗p < 0.05 , ∗∗p < 0.01 , ∗∗∗p < 0.001
+
+Model 4 Model 5
+
+Issue evaluation (wi) 0.49*** 0.47***
+
+(0.01) (0.01) Issue priority − 0.06* − 0.03 (0.03) (0.03) Evaluation (wi)*priority 0.09∗∗∗
+
+(0.01) Issue evaluation (bw) 0.78∗∗∗ 0.78∗∗∗
+
+(0.02) (0.02) Gender (woman = ref.) 0.01 0.01 (0.05) (0.05) Age 0.00 0.00 (0.00) (0.00) Level of education 0.01 0.01 (0.02) (0.02) Ukraine war − 0.12* − 0.12* (0.06) (0.06) (Intercept) 1.17∗∗∗ 1.15**
+
+(0.16) (0.14) Variance (intercept) 0.99 0.99 Variance (observations) 1.16 1.15 Num. obs. 12,365 12,365 AIC 41,746.73 41,721.58 BIC 41,820.95 41,795.8 ICC 0.42 0.42
+
+504 L. de Blok
+
+1 3
+
+The direct effects are presented in model 4. The within-effect of issue evaluation on political trust (coef. 0.49, p < .001 ) tells us that a more positive (negative) issue evaluation (compared to the mean satisfaction across issues) is significantly related to a higher (lower) level of political trust on that specific issue domain. Note that this effect is controlled for all variation resulting from differences between individuals, such as a general discontentment bias or partisan effects. The between-person effect (also positive and significant, coef. 0,78
+
+p < .001 ) only focuses on those between person differences and shows that individuals who are more satisfied across policy issues hold higher levels of political trust, compared to other individuals. The most stringent test of the priming-mechanism of issue salience lies in the within-person interaction effect between issue evaluation and issue priority (presented in model 5). This positive and significant interaction effect shows that a more positive (or negative) policy issue evaluation (compared to other issues) has a greater effect on political trust if it concerns an issue that is regarded as important by the individual. To visualize this, Fig. 4 presents the marginal effects of a within-person variation in policy issue satisfaction if the issue is (not) a priority. A one-point increase (or decrease) in issue evaluation leads to an increase (or decrease) in political trust of 0.47 when it concerns an issue that is not considered important, while it leads to an increase (or decrease) of 0.56 when it concerns an issue that is considered important. Issue salience thus leads to an increase in effect size of 19% for that particular issue on political trust.
+
+5  Discussion and Conclusions
+
+In multi-party democracies, where policy responsibilities are commonly spread within and between levels of government, judging the trustworthiness of political authorities on the basis of their performance can be a daunting task. Citizens do not have the time to continuously monitor government performance on all facets. Hence, citizens simplify their political decisions by relying on heuristics such as personal values, including perceptions of issue salience. Accordingly, it is especially poor performance on salient political issues that results in a decline in political trust (Huseby, 2004). This article investigated the role of issue salience for the relationship between policy issue performance and political trust. More specifically, it allowed for the possibility of heterogeneity in citizens’ bases of political trust: what type of performance drives political trust varies between contexts and between individuals. In doing so, it demonstrates why it is key to take into account a wide
+
+Fig. 4   Marginal effect of issue evaluation on political trust if issue is (not) a priority. Source: PerfTrust. Marginal effects are calculated using a linear random intercept model (see Table 1)
+
+505 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+range of policy areas when studying political trust, as citizens differ in the weight they assign to each policy area for their trust judgment. The findings of this article build upon and extend existing work from the United States on the role of collective issue salience (Hetherington & Rudolph, 2008). Political trust is driven by both citizens’ satisfaction with the economy and with welfare services. However, over the course of the Financial Crisis, a shift can be observed within EU countries in the relative influence of each policy issue on political trust. At the height of the crisis, economic dissatisfaction was much more influential for political trust, while the relevance of welfare state performance declined. Such a pattern coincided with trends in collective problem perceptions, with the salience of the economy sharply peaking between 2008 and 2010, while health care and education were regarded as less important. The regression analysis indeed confirmed that these national salience beliefs account for the heterogeneity in the effect of policy performance on political trust. Here, the basis for political trust seems to be a zero-sum game, where the increased relevance of one issue crowds out the influence of another (cf. Hans-Bernd and Mathias Hans, 1995). Furthermore, this article provided the necessary micro-level foundation for the moderating role of issue salience by focusing on personal issue salience. In comparison to collective issue salience, personal issue salience lies closer to the evaluative mechanism of political trust. This article’s findings show policy area evaluations do not equally affect political trust, some issues matter more than others. More particularly, when looking at the individual trust basis, a more positive (or negative) policy evaluation has a bigger effect on political trust if it concerns an issue that is of particular importance to the individual. These individual differences in issue priorities seem particularly relevant when there is no consensus on the most important issue for a country, for example if a country is faced with multiple crises. As such, in the absence of consensus in collective issue salience, the basis of political trust varies from person to person depending on the importance they attach to certain policy issues. Taken together, the current findings thus provide strong evidence for the causal mechanism assumed in the macro-level analyses on collective issue salience and political trust (Hetherington & Rudolph, 2008). By demonstrating the heterogeneity in citizens’ trust bases, this article contributes to a better and more realistic understanding of the evaluative mechanism driving political trust (Anderson, 2007). Accordingly, it is also linked to the recently identified expectationsevaluations gap in the trust literature (Seyd, 2015; Ouattara et al., 2023). Like issue salience, the expectancy-disconfirmation model goes beyond the simple relationship between political performance and political trust by focusing on the underlying mechanisms by which assessments and perceptions factored into an overall trust judgement of a political actor or institution. Here, studies have primarily focused on the behavior of political actors (process) and the degree to which their behavior aligns with an individual’s normative expectations. The priming-mechanism of issue salience complements this line of work by uncovering the mechanism through which various types of policy performance (output) are factored into trust judgments. The findings of this article also contribute to broader debates on democratic legitimacy and accountability. There is ongoing work on grievance asymmetry which suggests that, for certain issues, bad performance typically leads to distrust, but good performance tends to go unnoticed (Yang & Holzer, 2006). This article demonstrates that it is important to differentiate between macro and micro-level salience and that accountability is shaped by what is dominating the public agenda. That is, if there is consensus on the national level that one policy issue is the most salient, for example a declining economy, the dissatisfaction with this issue indeed has the potential to overshadow the (potentially positive) effects
+
+506 L. de Blok
+
+1 3
+
+of other policy areas. In other words, there is not so much an asymmetry of positive and negative performance, rather there is a dominance of nationally salient policy issues for political trust. If, however, such a national consensus in issue salience is absent, governments are rewarded and punished equally for positive and negative performances depending on what matters most for an individual. To conclude, when the public agenda is not dominated by a single issue or crisis, citizens are more likely to differentiate in their motivations for trusting the national government depending on what issues they personally care about and tend to equally praise and blame authorities for their performance on those issues. Alternatively, national crises make citizens’ foundations of political trust rather homogeneous and indeed asymmetric: they just want the government to fix the problem.
+
+Appendix 1: Full models macro‑level analyses
+
+I employ a mixed effects model using STATA 15 with random effects for policy issue satisfaction at the country and the country-year level. The models are built up in three steps: the first model studies heterogeneity in the effect of policy issue satisfaction across time. To explain such heterogeneity, the second model introduces the national salience perceptions to the model. In the third model, these salience perceptions are interacted with the policy performance evaluation variables to see if satisfaction on a specific issue exerts a greater influence on political trust at that time if it is an issue that was collectively seen as important (Table 2).
+
+Appendix 2: Relationship Salience and Policy satisfaction
+
+To understand whether respondents are more likely to regard a policy issue as important if they are dissatisfied with it (i.e., if its a problem) and vice versa, I run multiple regressions predicting the level of satisfaction with a policy issue using the personal salience of that issue (a binary item indicating whether the issue was seen as the (second) most important issue or not). For each policy issue, two models are run: a simple regression between issue salience and issue satisfaction, and a multiple regression including various control variables (gender, age, level of education). For both the full and the simple model, the coefficients of policy issue salience are plotted in Fig.  5 per policy issue. What is evident is that there are differences between issues: while for most issues a prioritization is related to a negative evaluation, the strength of the relationship strongly varies. Moreover, for health care, the most salient issue in the sample, prioritization does not significantly predict issue satisfaction.
+
+507 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+Appendix 3: Exploratory Factor Analysis
+
+To explore the factorial structure of political trust in the Dutch sample, and to understand the relation of the traditional political trust items (items 1–4) to the trust items on specific tasks (items 5–12), an exploratory factor analyses was performed using the following items:
+
+• Could you please indicate on a scale from 0 to 10 how much you personally trust each of the following institutions?
+
+• If you think about specific issues, how much do you then trust the national authorities to do what is right for the Netherlands on these issues? (presented in a random order)
+
+5. Education 6. Health care 7. The economy 8. Social security 9. Safety 10. Immigration 11. Youth care 12. The climate
+
+All items were measured on a 11-point scale ranging from 0 ‘Completely no trust’ to 10 ‘Complete trust’. Those who answered ‘Don’t know’ were coded as missing. The Kaiser–Meyer–Olkin measure verified the sampling adequacy for the analysis, with KMO =.94. Bartlett’s test of sphericity X 2 (66) = 15841.82, p < .001 , indicating that correlation structure is adequate for factor analyses. Based on the Kaiser’s criterion of eigenvalues greater than 1 (Pituch & Stevens, 2015) and a cut-off of factor loadings at .40, the factor analysis yielded a one-factor solution as the best fit for the data, accounting for 90.61% of the variance. This factor had an eigenvalue of 7.48. The results of this factor analysis are presented in Table 3 (see Factor A). This strongly suggests that the traditional trust items load on the same dimension as the trust items that ask about specific tasks. The multi-level analyses build on the task items only (so that we can study variation across policy issues within individuals). As indicated by Factor B in Table 3, these 8 items also produce a single factor (with an Eigenvalue of 4.88).
+
+508 L. de Blok
+
+1 3
+
+Table 2   Macro-level analysis of collective issue salience as moderator. Source: EB and ESS
+
+Model 1 Model 2 Model 3
+
+Year (2006 = ref.)
+
+2008 0.17∗∗ 0.15∗ 0.15∗
+
+(0.07) (0.08) (0.08) 2010 − 0.04 − 0.02 − 0.02 (0.07) (0.09) (0.09) 2012 − 0.07 − 0.04 − 0.05 (0.07) (0.09) (0.09) 2014 − 0.1 − 0.09 − 0.09 (0.07) (0.09) (0.09) 2016 − 0.11 − 0.15 − 0.15 (0.08) (0.09) (0.09) 2018 − 0.11 − 0.17∗∗ − 0.17∗∗
+
+(0.07) (0.09) (0.09) Welfare services evaluations 0.26∗∗∗ 0.26∗∗∗ 0.21∗∗∗
+
+(0.01) (0.01) (0.02) Economic evaluations 0.28∗∗∗ 0.28∗∗∗ 0.23∗∗∗
+
+(0.02) (0.02) (0.03) MII Economy − 0.25 − 0.25 (0.18) (0.18) MII Welfare services 0.04 0.04 (0.25) (0.25)
+
+2008∗Economic evaluation 0.02 0.01 0.02
+
+(0.02) (0.02) (0.02)
+
+2010∗Economic evaluation 0.05∗∗∗ 0.05∗∗∗ 0.04∗∗∗
+
+(0.02) (0.02) (0.02)
+
+2012∗Economic evaluation 0.08∗∗∗ 0.08∗∗∗ 0.07∗∗∗
+
+(0.02) (0.02) (0.02)
+
+2014∗Economic evaluation 0.06∗∗∗ 0.06∗∗∗ 0.06∗∗∗
+
+(0.02) (0.02) (0.02)
+
+2016∗Economic evaluation 0.08∗∗∗ 0.07∗∗∗ 0.08∗∗∗
+
+(0.02) (0.02) (0.02)
+
+2018∗Economic evaluation 0.05∗∗∗ 0.04∗∗∗ 0.06∗∗∗
+
+(0.01) (0.01) (0.02)
+
+2008∗Welfare evaluation 0.01 0.01 0.02
+
+(0.01) (0.01) (0.01)
+
+2010∗Welfare evaluation − 0.02 − 0.02 0.00
+
+(0.01) (0.01) (0.02)
+
+2012∗Welfare evaluation − 0.03∗∗ − 0.03∗∗ 0.00
+
+(0.01) (0.01) (0.02)
+
+2014∗Welfare evaluation 0.01 0.01 0.03∗∗
+
+(0.01) (0.01) (0.02)
+
+2016∗Welfare evaluation 0.01 0.01 0.03∗
+
+(0.01) (0.01) (0.01)
+
+2018∗Welfare evaluation 0.02∗ 0.02∗ 0.03∗∗
+
+(0.01) (0.01) (0.01)
+
+509 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
++p < 0.10 , ∗p < 0.05 , ∗∗p < 0.01 , ∗∗∗p < 0.001
+
+Table 2   (continued) Model 1 Model 2 Model 3
+
+MII Economy∗Economic evaluation 0.06∗
+
+(0.03)
+
+MII Welfare∗Welfare evaluation 0.11∗∗∗
+
+(0.04) Age 0.00∗∗∗ 0.00∗∗∗ 0.00∗∗∗
+
+(0.00) (0.00) (0.00) Gender 0.17∗∗∗ 0.17∗∗∗ 0.17∗∗∗
+
+(0.01) (0.01) (0.01) Education (years) 0.01∗∗∗ 0.01∗∗∗ 0.01∗∗∗
+
+(0.00) (0.00) (0.00) Political interest 0.44∗∗∗ 0.44∗∗∗ 0.44∗∗∗
+
+(0.00) (0.00) (0.00) Household income 0.05∗∗∗ 0.05∗∗∗ 0.05∗∗∗
+
+(0.00) (0.00) (0.00) Unemployed − 0.06∗∗∗ − 0.06∗∗∗ − 0.06∗∗∗
+
+(0.01) (0.01) (0.01) Constant 2.1∗∗∗ 2.28∗∗∗ 2.28∗∗∗
+
+(0.19) (0.26) (0.26) Country 25 25 25 Countryyear 144 144 144 Individuals 258,775 257,585 257,585
+
+Table 3   Exploratory factor analysis of the trust items. Source: PerfTrust 2022
+
+Extraction based on maximum likelihood
+
+Items Factor A Factor B
+
+Traditional items
+
+1. Government 0.88 2. Parliament 0.88 3. Politicians 0.86 4. Parties 0.84 Task items 5. Education 0.75 0.83 6. Health care 0.73 0.81 7. Economy 0.76 0.76 8. Social security 0.83 0.86 9. Safety 0.79 0.81 10. Immigration 0.72 0.69 11. Youth care 0.72 0.76 12. Climate 0.69 0.71 Eigenvalue 7.48 4.88
+
+510 L. de Blok
+
+1 3
+
+Appendix 4: Descriptive Statistics Micro‑level Analysis
+
+N Mean SD Min. Max.
+
+Political trust (domain-specific) 12,934 5.45 2.11 0 10
+
+Issue evaluation (within) 12,819 0 1.63 − 7.25 7.38 Issue evaluation (between) 13,600 5.41 1.57 0 9.67 Issue priorities 14,032 .17 .38 0 1 Gender (female = ref) 14,032 1.51 .50 1 2 Age 14,032 46.36 18.52 18 95 Level of education 13,984 3.93 1.50 1 6 Ukraine war 14,032 0.36 .48 0 1
+
+Source: PerfTrust 2022
+
+Acknowledgements  I acknowledge the anonymous reviewers of Social Indicators Research for their valuable comments and feedback. I would also like to thank Catherine de Vries, Tom van der Meer, Wouter van der Brug, Staffan Kumlin for their extensive help and feedback. Moreover, I am grateful for the fruitful discussions resulting from the presentation of (previous versions of) this paper at the TrustGov workshop May 2020, the Quality of Governance Seminar in 2019, and the MPSA General conference of 2019.
+
+Funding  This work was supported by the Netherlands Organisation for Scientific Research (NWO) through the NWO TOP Grant (407-13-029).
+
+Fig. 5   Effect of issue satisfaction on issue salience. Source: PerfTrust. Coefficients derived from OLS regression models of political trust per policy issue with and without controls (age, gender, education). All effects are significant at p < 0.001 . Sample sizes ­(R2) per policy issue: immigration 1514 (.22), youth care 1351 (.16), climate 1600 (.12), economy 1613 (.27), education 1578 (.20), social security 1580 (.24), safety 1636 (.25), health care 1644 (.24)
+
+511 Who Cares? Issue Salience as a Key Explanation for Heterogeneity…
+
+1 3
+
+Declarations
+
+Conflict of interest  There is no conflict of interest surrounding this research, and all ethical and legal requirements have been met.
+
+References
+
+Anderson, C. J. (2007). The end of economic voting? Contingency dilemmas and the limits of democratic accountability. Annual Review of Political Science, 10, 271–296. Bartels, B. (2008). Beyond “fixed versus random effects’’: A framework for improving substantive and statistical analysis of panel, time-series cross-sectional, and multilevel data. The Society for Political Methodology, 9, 1–43. Behr, R. L., & Iyengar, S. (1985). Television news, real-world cues, and changes in the public agenda. Public Opinion Quarterly, 49(1), 38–57. Bélanger, É., & Meguid, B. M. (2008). Issue salience, issue ownership, and issue-based vote choice. Electoral Studies, 27(3), 477–491. Bell, A., & Jones, K. (2015). Explaining fixed effects: Random effects modeling of time-series cross-sectional and panel data. Political Science Research and Methods, 3(1), 133–153. Boninger, D. S., Krosnick, J. A., & Berent, M. K. (1995). Origins of attitude importance: Self-interest, social identification, and value relevance. Journal of Personality and Social Psychology, 68(1), 61. Bovens, M., & Wille, A. (2008). Deciphering the Dutch drop: Ten explanations for decreasing political trust in the Netherlands. International Review of Administrative Sciences, 74(2), 283–305. Chanley, V. A., Rudolph, T. J., & Rahn, W. M. (2000). The origins and consequences of public trust in government: A time series analysis. Public Opinion Quarterly, 64(3), 239–256. Citrin, J., & Stoker, L. (2018). Political trust in a cynical age. Annual Review of Political Science, 21, 49–70. de Blok, L., & Brummel, L. (2022). Gefundeerd politiek vertrouwen? onderzoek naar de relatie tussen overheidsprestaties en het vertrouwen in politieke instituties. Technical report, Utrecht School of Governance. de Blok, L., van der Meer, T., & Van der Brug, W. (2020). Policy area satisfaction, perceptions of responsibility, and political trust: A novel application of the REWB model to testing evaluation-based political trust. Journal of Elections, Public Opinion and Parties, 32, 1–22. De Vries, C. E., & Giger, N. (2014). Holding governments accountable? Individual heterogeneity in performance voting. European Journal of Political Research, 53(2), 345–362. Druckman, J. N. (2004). Priming the vote: Campaign effects in a us senate election. Political Psychology, 25(4), 577–594. Edwards III, G. C., Mitchell, W., & Welch, R. (1995) Explaining presidential approval: The significance of issue salience. American Journal of Political Science, 108–134. Fournier, P., Blais, A., Nadeau, R., Gidengil, E., & Nevitte, N. (2003). Issue importance and performance voting. Political Behavior, 25(1), 51–67. Hans-Bernd, B., & Mathias Hans, K. (1995). Killer and victim issues: Issue competition in the agenda-setting process of German television. International Journal of Public Opinion Research, 7(3), 211–231. Hardin, R. (1999) Do we want trust in government. In Democracy and trust (pp. 22–41). Cambridge. Haugsgjerd, A., & Kumlin, S. (2020). Downbound spiral? Economic grievances, perceived social protection and political distrust. West European Politics, 43(4), 969–990. Hetherington, M. J., & Rudolph, T. J. (2008). Priming, performance, and the dynamics of political trust. The Journal of Politics, 70(2), 498–512. Huseby, B. (2004) Government Performance and Political Support: A Study of How Evaluations of Economic Performance, Social Policy and Environmental Protection Influence the Popular Assessments of the Political System. Ph.D. thesis, Department of Sociology and Political Science, Norwegian University of Technology. Iyengar, S., & Kinder, D. R. (2010). News that matters: Television and American opinion. University of Chicago Press. Kestilä-Kekkonen, E., & Söderlund, P. (2016). Political trust, individual-level characteristics and institutional performance: Evidence from Finland, 2004–13. Scandinavian Political Studies, 39(2), 138–160. Krosnick, J. A., Visser, P., & Harder, J. (2005). The psychological underpinnings of political behavior. In S. T. Fiske & D. T. Gilbert (Eds.), Handbook of social psychology (Vol. 2, pp. 1288–1342). Wiley. Langer, G. (2001) Trust in government... to do what? Public Perspective 7–10.
+
+512 L. de Blok
+
+1 3
+
+Lavine, H., Sullivan, J. L., Borgida, E., & Thomsen, C. J. (1996). The relationship of national and personal issue salience to attitude accessibility on foreign and domestic policy issues. Political Psychology, 17(2), 293–316. Luskin, R. C. (1990). Explaining political sophistication. Political Behavior, 12(4), 331–361. Magalhães, P. C. (2014). Government effectiveness and support for democracy. European Journal of Political Research, 53(1), 77–97. Miller, J. M., Krosnick, J. A., & Fabrigar, L. R. (2016). The origins of policy issue salience: Personal and national importance impact on behavioral, cognitive, and emotional issue engagement. In J. M. Miller (Ed.), Political psychology: New explorations (p. 125). Taylor and Francis. Miller, A., & Listhaug, O. (1999). Political performance and institutional trust. In P. Norris (Ed.), Critical citizens: Global support for democratic government (pp. 204–216). Oxford University Press. Mishler, W., & Rose, R. (2001). What are the origins of political trust? Testing institutional and cultural theories in post-communist societies. Comparative Political Studies, 34(1), 30–62. Moniz, P., & Wlezien, C. (2020) Issue salience and political decisions. In Oxford research encyclopedia of politics. Norris, P. (2022). In praise of skepticism: Trust but verify. Oxford University Press. Ouattara, E., Steenvoorden, E., & van der Meer, T. (2023). Political trust as an evaluation against normative benchmarks? A two-wave survey experiment on the role of normative benchmarks in the evaluative model of political trust. International Journal of Public Opinion Research, 35(2), 1–13. Pituch, K. A., & Stevens, J. P. (2015). Applied multivariate statistics for the social sciences: Analyses with SAS and IBM’s SPSS. Routledge. Sears, D. O., Lau, R. R., Tyler, T. R., & Allen, H. M. (1980). Self-interest vs. symbolic politics in policy attitudes and presidential voting. American Political Science Review, 74(03), 670–684. Seyd, B. (2015). How do citizens evaluate public officials? The role of performance and expectations on political trust. Political Studies, 63, 73–90. Singer, M. M. (2011). Who says “It’s the economy’’? Cross-national and cross-individual variation in the salience of economic performance. Comparative Political Studies, 44(3), 284–312. Torcal, M. (2014). The decline of political trust in Spain and Portugal: Economic performance or political responsiveness? American Behavioral Scientist, 58(12), 1542–1567. van der Meer, T. W. G. (2017). Economic performance and political trust. In E. M. Uslaner (Ed.), The Oxford handbook of social and political trust (pp. 599–616). Oxford University Press. van der Meer, T. W. G., & Dekker, P. (2011). Trustworthy states, trusting citizens? A study into objective and subjective determinants of political trust. In S. Zmerli & M. Hooghe (Eds.), Political trust: Why context matters. Causes and consequences of a relational concept (pp. 95–116). ECPR Press. van der Meer, T. W. G., & Zmerli, S. (2017). The deeply rooted concern with political trust. In S. Zmerli & T. W. G. van der Meer (Eds.), Handbook on political trust (pp. 270–284). Edward Elgar Publishing. Verba, S., & Almond, G. (1963). The civic culture: Political attitudes and democracy in five nations. Princeton University Press. Wlezien, C. (2005). On the salience of political issues: The problem with ‘most important problem’. Electoral Studies, 24(4), 555–579. Yang, K., & Holzer, M. (2006). The performance-trust link: Implications for performance measurement. Public Administration Review, 66(1), 114–126.
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.

@@ -1,0 +1,401 @@
+Vol.:(0123456789)
+
+Comparative Economic Studies (2023) 65:461–482 https://doi.org/10.1057/s41294-023-00212-y
+
+Economic Insecurity, Institutional Trust and Populist Voting Across Europe
+
+Denis Ivanov1
+
+Accepted: 2 February 2023 / Published online: 15 February 2023 © The Author(s) 2023
+
+Abstract This study revisits the drivers of populist voting in Europe, focusing on the interplay between economic insecurity and institutional trust. Specifically, it examines the degree to which the decision to vote for a populist party is driven by economic insecurity, while explicitly accounting for the moderating role of two types of institutional trust: trust in national institutions and trust in the European Parliament. The paper tests this moderating effect primarily using the European Social Survey (ESS), but also combining it with data from the World Inequality Database (WID). It finds support for the view that trust in institutions moderates the effect of economic insecurity on populist voting, with greater trust associated with less populist voting, except for the most economically insecure members of the population, whose propensity to vote for populist parties is unaffected by institutional trust.
+
+Keywords  Populism · Economic insecurity · Institutional trust · Euroscepticism
+
+Introduction
+
+Multiple crises have enabled renewed populist electoral successes in Europe. Almost every parliament in Europe currently has a seat occupied by a populist party, with representants of these party getting re-elected, and even leading governments in places. Viktor Orbán and Fidesz have ruled Hungary since 2010, Jarosław Kaczyński and Law and Justice—since 2015, while Marine le Pen reached the second round of the French presidential election in 2017 and 2022. For many, the key triggers were: the economic crisis of 2008 and the refugee crisis of 2015 as exogenous shocks in the economic sphere (Guriev 2018; Stankov 2018; Margalit 2019; Guiso et al. 2020; Rodrik 2021) and in the cultural sphere (Norris and Inglehart 2019). But now that these crises have abated, one can wonder why populism
+
+* Denis Ivanov denis.ivanov@uni-corvinus.hu
+
+1 Department of World Economy, Inst. of Global Studies, Corvinus University of Budapest, Fővám tér 8, Budapest 1093, Hungary
+
+462 D. Ivanov
+
+remains a potent political force. New explanations are needed to understand why successful populist politicians continue to lead governments or have parliamentary representations across Europe. Here, we contend that what is missing from the extent of scholarship is a discussion of the possible moderating role of trust in national and supranational institutions on voters’ economic circumstances when deciding to support a specific party. Institutional quality might have a protective effect, even in times of hardship. Institutional trust can either amplify or dampen the impact of an individual’s socioeconomic situation on their political decision. Strong institutions create trust, demonstrate legitimacy, and prompt polity to protect them (Greif and Laitin 2004). This becomes especially important in times of crisis, when a high level of confidence that strong established institutions of government will solve one’s economic hardship could protect one from susceptibility to anti-establishment and populist rhetoric. Institutions can thus have a protective effect that would allow voters not to turn to populism if they have enough faith that institutions are set up to protect them. The European Union provides a unique example in this regard. In some parts of the EU, citizens with historically low levels of trust levels toward their local government could trust the European Parliament as an anchor for national legitimacy, in hope that further economic and institutional convergence in the bloc might raise their economic well-being (Mihaljek 2018). At the same time, citizens who are susceptible to the anti-Brussels rhetoric of politicians might be looking at their national institutions as superior to the supranational ones (van Bohemen et al. 2019). European populists often blame the EU for mishaps at the national level, resulting in a decrease in trust in supranational institutions. This has been especially the case for the populist parties in government for a long period of time, such as Hungary and Poland, and thus the difference in trust into national institutions versus supranational ones would provide insight on the extent the anti-Brussels rhetoric is effective in the context when populists represent the government itself. The moderating effect of institutions and trust in them in the context of populist voting seems to be understudied, even when it is linked to populism indirectly through institutional environments (Devinney and Hartwell 2020) and successful transition (Havrylyshyn 2001; Havrylyshyn and Van Rooden 2003). Indeed, both Norris and Inglehart (2016) and Guiso et al. (2020) use some form of institutional trust as controls in their models, but do not analyze their moderating role. Other studies have illustrated interesting links between trust and populist support. For example, Geurkink et al. (2020) find that political trust mainly reflects the antielitism of populism, Algan et al. (2017) crisis-driven economic insecurity is a substantial determinant of populism and political distrust, while Dustmann et al. (2017) illustrate the correlations between dissatisfaction toward the prevailing political establishment and the rise of populist parties in Europe. Here, we contend, however, that not enough attention has been given to trust in institutions as a key moderator. The joint effect of institutional mistrust and economic insecurity is at the core of what populism means in terms of ideology. In its minimal definition, populism is thin—besides the ideological divide between us versus them, it is not a full ideology, such as communism or liberalism (Mudde 2017). Instead, the economic and trust dimensions could become additional ‘thickening’ factors that a party or politician
+
+463 Economic Insecurity, Institutional Trust and Populist Voting…
+
+could use for greater appeal. In fact, economic insecurity issues have been heavily emphasized in the political programs of the radical left parties, while the sense of mistrust of the local and supranational establishment as well as the lack of representation of ’the left behind’, is the key salient issue for Eurosceptic and populist far right. The electorate that bases its decision on these prompting factors on the demand side of populism meets the supply through party cues and ideological shifts on economic and cultural dimensions. The main contribution of this paper is a deliberate focus on investigating whether institutional trust helps or hinders the chances of populists being elected under particular socioeconomic conditions. In other words, differences among voting patterns could depend not only on the level of trust in the government or the economic conditions of the voter, but would depend on the interaction between trust in the government and the degree of economic insecurity of the voter. For some socioeconomic groups, their level of trust in institutions may not be a determinant of who to vote for, as their primary concern might be purely economic. Others might feel loyal to a party as well as to the government system under which they prosper and which they associate with the improvement in their personal economic conditions in the past. In EU countries, and as mentioned above, the moderation effect can come from two sources independently: the national sources (politicians, political parties, parliament, or the legal system), and the European sources, such as the EU parliament, and this can play differently in different countries. Methodologically, our paper constructs a novel index of economic insecurity (a build-up on Guiso et al. 2017) and uses multilevel modeling to conduct a more fine-grained analysis that goes beyond the individual, as group, regional, and country differences are considered in the study. The article is structured as follows. The next section introduces the theory used to motivate the hypotheses. The following section presents the methodology and results. The final section then discusses the results and concludes.
+
+Theoretical Arguments
+
+Institutional quality is the key to understanding populist voting. Political theories emphasize the key role of institutions for democratic performance (Tabellini 2008), accumulation of ‘democratic capital’ in a society (Putnam 1993; Persson and Tabellini 2009), while proponents of institutional perspectives argue that democracy is sustainable only if it remains in the narrow corridor created by a strong state and a strong society (Acemoglu and Robinson 2019). Since economic and political agents do not make decisions in a vacuum, their actions reflect the opportunities and constraints generated by the particular institutional setup in which they make these decisions. Although some populist politicians seem to be pushing the boundaries of the many aspects of ‘rules of the game’ outward (Hartwell and Devinney 2021), either during times of economic hardship or when acceding to power, it is ultimately up to the voter to reward or punish them for it in the voting booth.
+
+464 D. Ivanov
+
+Institutional trust in supranational institutions, such as the EU, becomes an essential factor to consider when analyzing the context of a decision to vote for any party, and a populist party in particular. While in a position of power, populists aim to discredit what they believe is ‘the corrupt elite’ by attempting to dismantle the system of checks and balances within a country, or deploy an Eurosceptic discourse aimed at discrediting the authority of supranational institutions on both the right (Reungoat 2010) and the left wing of the political spectrum (Stavrakakis and Katsambekis 2014). Voters who are most distrustful of their government or become so as a result of the effective rhetoric might be attracted to vote for populist parties, seeking an alternative to the system of democratic representation. Some voters might distrust national institutions at the expense of the EU: previous research demonstrated that supporters of liberal principles of democracy tend to be more supportive of the EU, while supporters of more direct forms of citizen influence are more Eurosceptic (der Brug, et al. 2021). While institutions are often perceived as a rigid set of rules and regulations, the institutional trust of citizens has been argued to reflect their own cumulative experience with public institutions (Gërxhani and Wintrobe 2020), particularly in individualistic societies (Amini et al. 2022). Institutional trust as ’a lubricant of the social system’ (Arrow 1974) could protect people from susceptibility to anti-establishment politics. The proponents of using trust in government as a proxy for measuring institutional quality refer to it as bridging (as opposed to bonding (community) trust (Korosteleva et al. 2020), institutional trust (Hudson 2006) or swift trust (a ‘snap’ decision in a changing temporary, transient economic settings) (Kroeger et al. 2021). The consensus in the literature is to measure institutional trust at the individual level using direct or indirect survey questions and to construct a simple index combining highly correlated variables on trust in various institutions. Some authors focus on the interplay between country and individual level of trust in formal institutions (Clausen et al. 2011; Grönlund and Setälä, 2007) while others focus on individuallevel relative trust, i.e., the difference in trust in certain institutions over trust in other ones (Hudson 2006). With this in mind, the quality of institutions might moderate the well-known effect of hardship on populist voting. High trust in institutions makes people more prone to pay their taxes (Anderson 2017) and therefore could potentially attenuate the importance of current economic hardships for voters, as they can hope that their government will take care of them. The moderating effect of institutional trust on economic hardship is in-line with the literature on economic voting. The classic monograph of Duch and Stevenson (2008) narrows the focus from macrophenomena political performance (aggregate measures of institutional performance) to the level of an individual (survey data on interpersonal and institutional trust and perceptions of economic and political performance, also in Mishler and Rose 2001). Both political (parties and party systems, trade unions, courts, etc.) (see Lewis-Beck and Paldam 2000) and economic institutions (markets, the banking system, the system of property rights, etc.) are treated as moderating variables that influence the degree to which economic hardship can impact populist voting, as ultimately the effect of economic hardship on populist voting can be reduced or amplified through institutional trust.
+
+465 Economic Insecurity, Institutional Trust and Populist Voting…
+
+Assuming that institutions (and trust in them) change over time, we are interested in how institutions can protect against hardship and thus lead those who trust institutions to turn less to populist parties. Our question of interest is thus: How can they provide a moderating effect on the relationship between economic insecurity and the individual decision to vote for populist parties? To answer this question, conceptualizing trust in institutions at the individual and regional levels could provide more insight into what influences the voting decision. Therefore, the main hypotheses that this study aims to test are the following:
+
+H1  Higher economic insecurity is associated with an increased likelihood of voting for a populist party.
+
+H2  Greater institutional trust is associated with a lower likelihood of voting for a populist party.
+
+H3  The association between economic hardship and populist voting will be weaker when national institutional trust is higher.
+
+H4  The association between economic hardship and populist voting will be stronger when trust in national institutions is greater than in supranational ones.
+
+Although H1 and H2 have already been tested in the literature to a large extent and are thus known to be true in the European context, testing H3 and H4 is the key contribution of the present study and implies adding an interaction term between economic hardship and (relative) institutional trust in our regression testing for the drivers of populist voting. Given the categorical nature of our measure of economic hardship, in practice we will need several interaction terms (one for each categorical value). We note that an insignificant coefficient for these interaction terms would imply no moderating effect (i.e., that institutional trust and economic hardship only affect populist voting independently).
+
+Data and Variables
+
+We constructed two samples with data from the European Social Survey (ESS), which contains cross-sectional face-to-face interview data collected in 28 European countries. The first includes every country covered in this cross-sectional survey for every 2-year period between 2002 and 2016. The second sample is reduced, and it is from the multilevel ESS archive that contains regional indicators (NUTS levels), which we use for robustness checks. Self-reported voting responses are recoded into a classification of parties into populists and not (1 and 0) according to the PopuLIST (Rooduijn et al. 2019). In addition, we merge country-level data on income polarization from World Inequality Database (WID) (Alvaredo et al. 2020) (top 10% over bottom 50%) by countries and years that are available in ESS. For additional robustness checks, we extract country-level economic data on GDP and GDP per
+
+466 D. Ivanov
+
+capita from the World Bank Development Indicators and merge them by countries and years that are covered by ESS. To construct the sample, we exclude all countries that are not covered in the PopuLIST classification (non-EU). As shown in Table 1 below, the difference in the number of observations is attributed to the availability of data, as some, such as regional-level trust, are available only from 2008 onward when the EU NUTS classification was introduced into the ESS. The full sample is estimated to have 333,102 observations, limited by the availability of the data across various variables. Income Polarization is a countrylevel variable, while Institutional Trust is available at both individual and regional (NUTS) levels. The independent variables are derived from the literature reviewed in the previous sections. The description of the variables is reported in Table 2. They can be classified into three main groups: Table  2 includes key independent variables, which comprise income polarization at the country level, subjective perception of inequality, as well as the expanded index of economic insecurity (individual level) to control for all aspects of socioeconomic inequality. The index embeds three elements of economic insecurity found in the recent literature: job insecurity (Anderson and Pontusson 2007), feeling of financial distress (Norris and Inglehart 2019; Guiso et al. 2017) and unemployment (Gallie et al. 2016). It is based on the principle proposed by Guiso et al. (2017) but reworked and expanded in terms of who to classify as ‘insecure’. Borrowing the social class classification from Norris and Inglehart (2016) and Erikson–Goldthorpe–Portocarero (EGP) (1992), it includes all unskilled workers
+
+Table 1   Summary statistics
+
+Variables (1) (2) (3) (4) (5)
+
+N Mean SD Min Max
+
+The Expanded Index of Insecurity 333,102 0.724 0.821 0 3
+
+Income Polarization (top 10%/bottom 50%) 304,575 1.191 0.250 0.725 1.740
+
+Perception of inequality 319,993 2.069 1.031 1 6
+
+Populist (dummy) 333,102 0.074 0.262 0 1
+
+Institutional Trust (individual) 330,590 0.416 0.187 0 1.000
+
+Institutional Trust (Regional-NUTS1) 226,636 0.406 0.093 0.155 0.632
+
+Institutional Trust (difference) 299,729 − 0.028 0.197 − 1 0.932
+
+Institutional Trust (difference/Regional-NUTS1) 226,631 − 0.029 0.079 − 0.237 0.161
+
+Immigration attitudes 321,365 2.557 0.904 1 4
+
+Gender (female=1) 332,777 0.533 0.499 0 1
+
+Age (log) 331,671 3.789 0.434 2.565 4.812
+
+Education (log) 331,913 1.026 0.523 0 4.007
+
+GDP (million, constant 2015 USD) 308,365 804271.9 994144.2 13914.17 3432460
+
+GDP per capita (thousand, const. 2015 USD) 308,365 35.228 18.909 3.718 84.611
+
+GDP per capita (thousand, PPP) 308,365 41.889 12.596 10.506 72.107
+
+Years 333,155 2009 4.504 2002 2016
+
+Countries 333,102 14.05 8.07 1 28
+
+467 Economic Insecurity, Institutional Trust and Populist Voting…
+
+Table 2   Description of the variables. Source: Provided in the table
+
+Description Source/literature
+
+Dependent variable
+
+Populist voting Binary variable encoded as: 1 if self-reported to vote for a party classified as populist in PopuList, 0—if not Classification of populist parties provided by the PopuList project (Rooduijn et al. 2019)
+
+Independent variables
+
+Income polarization Describes a situation where the distribution of income is very unequal in a society, and the frequency distribution by income brackets is plurimodal. Measured as a country-level ratio of shares of top 10% earners over bottom 50% (Alvaredo et al.
+
+2018).
+
+World Inequality Database (data are merged on country years during the time period to match the European Social Survey)
+
+Economic insecurity The Expanded Index of Insecurity, which ranges from zero to three. The value of the index: 3= finding it hard or extremely hard to survive on current income, has experienced long-term unemployment (3 months or more) and is an unskilled worker 2 = at least two of the above-mentioned elements are true 1 = at least one is true 0 = none is true
+
+European Social Survey (2002–2016), skill classification according to Erikson–Goldthorpe–Portocarero (EGP) occupational classification coding (Erikson et al., 1979) occupational classification coding in Leiulfsrud et al. (2005). Expanded from the base index of Guiso et al. (2017), in-line with Berloffa et al. (2019)
+
+Perception of inequality A subjective measure of socioeconomic inequality, not correlated with other measures (less than 0.03). Method similar to the work of Gimpelson and Monusova (2014) general questions about inequality in the society.
+
+Question H1C from the ESS common questionnaire on how important it is in their view to treat everyone equally and to provide the same opportunities in life.
+
+Immigration attitudes Proxy cultural values through measuring attitudes toward immigration from non-European countries (Guiso et al. 2017). It is measured on the 1 (minimum) to 4 (maximum) scale.
+
+ESS, using the answer to question B40 in the ESS core questionnaire opposing immigration from outside Europe.
+
+GDP Measured in millions, constant 2015 USD World Bank national accounts data, and OECD National Accounts data files—World Bank (2022)
+
+GDP per capita Measured in thousands, constant 2015 USD World Development Indicators, World Bank (2022)
+
+GDP per capita (PPP) Measured in thousands, constant 2015 USD and adjusted for purchasing power parity World Development Indicators, World Bank (2022)
+
+Education The logarithm of years of education European Social Survey (2002–2016)
+
+Age The logarithm of age (total years)
+
+468 D. Ivanov
+
+Table 2   (continued)
+
+Description Source/literature
+
+Gender (self-reported) Female=1, 0—otherwise
+
+Moderator variables
+
+Institutional Trust Index An equal scale comprised of four equally weighted components: trust in politicians, trust in political parties, trust in parliament, and trust in legal system. It is then turned into an index and is rescaled from 0 to 1 from the complete lack of trust to the full trust, respectively, (scale reliability statistics (0.8996) shows high correlation between the components).
+
+European Social Survey (2002–2016), individual, and also aggregated to regional NUTS1 level
+
+Relative Institutional Trust Index The difference in trust in national institutions (index above) versus supranational institutions (EU parliament), lying in a range between − 1 (full trust in EU parliament over national institutions) and +1 (full trust in national institutions over EU parliament) on individual level (also used in Pitlik and Rode, 2017)a
+
+European Social Survey (2002–2016), individual, and also aggregated to regional NUTS1 level
+
+a For the full formula, please refer to Annex D in Supporting Information.
+
+469 Economic Insecurity, Institutional Trust and Populist Voting…
+
+(instead of simply blue-collar manufacturing workers, as the most susceptible to the crisis) who find it hard and extremely hard to survive on present income with experience of long-term unemployment. This dramatically increases the number of observations and provides better variability in the sample. An important aspect is the further aggregation of institutional indices at the regional level and the cross-level interaction, which provides a robustness check for two main reasons. First, it provides information on the levels of trust in particular regions. This allows for different-level interactions, answering the question of how higher-level aggregation variables of interest affect individual voting decisions.1 Second, individual trust aggregated to the regional level dilutes the effect of the extremes, namely those who completely mistrust institutions as well as those who fully trust institutions get blended in with their neighbors who are in the middle of the distribution of trust. Third, aggregation attenuates the risk posed by possible measurement issues at the individual level. Therefore, it allows for an inclusion of a variable whose distribution is more centered around the mean, without losing important information at the regional level, which could otherwise be done at the country-level manually.
+
+Methodology and Results
+
+Estimation Method: Multilevel Modeling (MLM)
+
+In this study we employ multilevel modeling; the justification for it is twofold. First, the data itself are hierarchical. Respondents who live in Europe are clustered within countries and across time (a two-level analysis), or also within regions (a three-level analysis), and they are expected to exhibit similar characteristics within their respective cluster groups. Failure to account for the nested structure of data (dependence of observations due to the clustering of data) would lead to biased results, especially for coefficients of predictors that are measured at the group level (RabeHesketh et al. 2005). MLM (if specified and estimated correctly) improves the fit of the model, minimizes standard errors, and helps avoid bias. The second reason is the interest in hierarchies and clustering from a theoretical standpoint, in terms of the effect (interaction) of regional (NUTS) and country-level variables on individuals. As seen further in the analysis, economic insecurity is a phenomenon that can be conceptualized and operationalized as a country- or region-level variable; the same applies to measures of institutional trust. Therefore, the interaction between the effect at the country level (socioeconomic conditions) and individual decision on voting is of key interest to the current research question. To check whether institutional trust has a moderating effect on the way economic insecurity affects voting for populist parties, we estimate the following model.
+
+1  The distribution of the index by countries in the sample can be found in the Supporting Information.
+
+470 D. Ivanov
+
+Functional Form of the Proposed Model (Multilevel Mixed Probit)
+
+where Pij is a binary indicator that takes the value 1 if an individual i in country j votes for a populist party, and
+
+Xij—economic insecurity indicator Iij—measures of perception of institutional trust Zij—vector of individual characteristics that includes dummies for being a female, education(log) and age(log)
+
+Ti—time as binary variable (dummy), t − 1 time periods.
+
+EJ—country as binary variable (dummy), j −  countries. uj + eij—the random part of the model that contains both first-level and secondlevel residuals;
+
+uj—denotes level-1 residual eij−denotes level-2 error term i,j—denotes level-1 and level-2 parameters For the two levels (individuals representing level 1 and country-time—level 22), 11.2% of variance in voting for populist parties can be attributed to differences between countries and across time. For the three-level model that is augmented to include NUTS1 regions as an additional level, an additional 2.1% of variance in voting for populist parties can be attributed to regional differences at the NUTS1 level on a reduced sample.
+
+Regression Analysis: The Expanded Index of Insecurity and Institutional Trust
+
+Table  3 below reports the regression coefficients in the results of the multilevel regressions on the moderating effect of the individual trust. We first estimate the direct effects of the Expanded Index of Insecurity (Direct Effects 1) on the likelihood of voting for a populist party in a model including a standard set of control variables on age, education, gender, as well as country and year dummy variables. The results of the base model highlight several main findings. The standard controls for age and gender are highly significant and are in-line with the literature, indicating that the support for populist parties in Europe is generally stronger among the older generation and is weaker if the respondent is female. The control for education is somewhat surprising, as higher education is generally not associated with populist voting. It increases in significance and magnitude, especially in models where immigration variable is added. However, the magnitude of the effect is generally low, and also loses significance when controlling for more variables. The intuition here is that the component of trust and insecurity takes on some of the effect from educated individuals, whereas the significance level and
+
+(1) Pij = 훽0 + 훽1(Xij ∗Iij) + 훽2Xij + 훽3Iij+훽4Zij +
+
+∑
+
+훿iTi+
+
+∑
+
+훾jEj + uj + eij
+
+2  Three-level regressions, while preferred, cause convergence problems, highlighted by Schmidt-Catran and Fairbrother (2016).
+
+471 Economic Insecurity, Institutional Trust and Populist Voting…
+
+Table 3   Multilevel mixed-effects Probit regressions
+
+Variables (1) (1.2) (1.3) (1.4) (1.5) (2) (2.2) (2.3) (2.4) (2.5)
+
+Direct effects Inst. trust individuallevel interaction
+
+Individual immigration Inst. trust regionallevel interaction
+
+Regional immigration Direct effects Rel. trust individuallevel interaction
+
+Individual immigration Regional interaction Regional immigration
+
+Age (log) 0.295*** 0.294*** 0.270*** 0.293*** 0.265*** 0.293*** 0.291*** 0.259*** 0.293*** 0.265***
+
+(0.040) (0.040) (0.039) (0.046) (0.044) (0.040) (0.040) (0.039) (0.046) (0.044)
+
+Education (log) 0.074** 0.076** 0.101*** 0.061* 0.088*** 0.038 0.038 0.074*** 0.060* 0.086***
+
+(0.030) (0.030) (0.027) (0.035) (0.031) (0.028) (0.028) (0.025) (0.035) (0.031)
+
+Gender (female=1) −0.115*** −0.115*** −0.113*** −0.121*** −0.119*** −0.103*** −0.104*** −0.100*** −0.121*** −0.120***
+
+(0.015) (0.015) (0.015) (0.019) (0.020) (0.014) (0.014) (0.015) (0.019) (0.020)
+
+Insecurity (1) 0.101*** −0.002 −0.009 −0.039 −0.044 0.137*** 0.134*** 0.128*** 0.132*** 0.127***
+
+(0.014) (0.036) (0.037) (0.099) (0.103) (0.015) (0.016) (0.016) (0.018) (0.018)
+
+Insecurity (2) 0.160*** 0.017 −0.001 −0.278** −0.300** 0.230*** 0.224*** 0.207*** 0.240*** 0.226***
+
+(0.026) (0.050) (0.048) (0.136) (0.134) (0.029) (0.031) (0.031) (0.041) (0.041)
+
+Insecurity (3) 0.159*** −0.181* −0.207** −0.379* −0.375* 0.224*** 0.230*** 0.214*** 0.288*** 0.280***
+
+(0.049) (0.098) (0.094) (0.222) (0.226) (0.047) (0.050) (0.049) (0.050) (0.048)
+
+Institutional Trust (individual) −0.904*** −1.094*** −1.026*** 0.340*** 0.428*** 0.401***
+
+(0.124) (0.140) (0.142) (0.066) (0.083) (0.078)
+
+Insecurity (1)#Institutional Trust (individual)
+
+0.265*** 0.278*** −0.158** −0.155**
+
+(0.092) (0.092) (0.068) (0.067)
+
+Insecurity (2)# Institutional Trust (individual)
+
+0.407*** 0.429*** −0.189* −0.200*
+
+(0.134) (0.133) (0.105) (0.103)
+
+472 D. Ivanov
+
+Table 3   (continued)
+
+Variables (1) (1.2) (1.3) (1.4) (1.5) (2) (2.2) (2.3) (2.4) (2.5)
+
+Direct effects Inst. trust individuallevel interaction
+
+Individual immigration Inst. trust regionallevel interaction
+
+Regional immigration Direct effects Rel. trust individuallevel interaction
+
+Individual immigration Regional interaction Regional immigration
+
+Insecurity (3)# Institutional Trust (individual)
+
+1.093*** 1.146*** −0.010 −0.005
+
+(0.233) (0.227) (0.198) (0.208)
+
+Income Polarization 0.494 0.495 0.514 −0.605 −0.603 0.510 0.508 0.537 −0.364 −0.378
+
+(0.484) (0.484) (0.489) (0.558) (0.556) (0.480) (0.480) (0.487) (0.538) (0.541)
+
+Perception of Inequality 0.030* 0.030* 0.017 0.026 0.011 0.035** 0.034** 0.018 0.026 0.011
+
+(0.016) (0.016) (0.015) (0.019) (0.016) (0.017) (0.016) (0.014) (0.019) (0.016)
+
+Institutional Trust (NUTS) −3.464*** −3.243*** 0.749 0.721
+
+(0.990) (0.972) (1.617) (1.613)
+
+Insecurity (1)# Institutional Trust (NUTS)
+
+0.407* 0.407* 0.235 0.246
+
+(0.221) (0.227) (0.234) (0.248)
+
+Insecurity (2)# Institutional Trust (NUTS)
+
+1.266*** 1.280*** 0.749** 0.808**
+
+(0.356) (0.350) (0.371) (0.351)
+
+Insecurity (3)# Institutional Trust (NUTS)
+
+1.534*** 1.502** 1.363*** 1.375***
+
+(0.588) (0.593) (0.484) (0.500)
+
+Immigration attitudes 0.115*** 0.125*** 0.143*** 0.125***
+
+(0.024) (0.029) (0.023) (0.029)
+
+Constant −2.194*** −2.123*** −2.418*** −0.023 −0.382 −2.486*** −2.481*** −2.833*** −1.449*** −1.716***
+
+(0.487) (0.486) (0.495) (0.695) (0.702) (0.472) (0.473) (0.478) (0.558) (0.554)
+
+473 Economic Insecurity, Institutional Trust and Populist Voting…
+
+Table 3   (continued)
+
+Variables (1) (1.2) (1.3) (1.4) (1.5) (2) (2.2) (2.3) (2.4) (2.5)
+
+Direct effects Inst. trust individuallevel interaction
+
+Individual immigration Inst. trust regionallevel interaction
+
+Regional immigration Direct effects Rel. trust individuallevel interaction
+
+Individual immigration Regional interaction Regional immigration
+
+Observations 289,542 289,542 280,526 179,368 173,983 264,018 264,018 257,138 179,368 173,983
+
+Number of clusters 157 157 157 100 100 157 157 157 100 100
+
+Country Dummies Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+Year Dummies Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+NUTS1 No No NO Yes Yes No No No Yes Yes
+
+The reference group of interactions is insecurity equal to zero; Institutional trust becomes relative for Models 2–2.5; Robust standard errors in parentheses ***p < 0.01; **p < 0.05; *p < 0.1
+
+474 D. Ivanov
+
+sign of interaction of insecurity and institutional trust are in-line with the literature, including Norris and Inglehart (2016). In order to address the potential omitted variable bias, perception of inequality (individual level), as well as income polarization, are included jointly alongside the economic insecurity variable. All these variables have to be included together in order to grasp the full effect of socioeconomic inequality including all three elements: the country-level polarization (from WID), subjective perception of inequality, and individual economic insecurity. These elements are not correlated (less than 0.03) and can therefore be included jointly, without concern for potential multicollinearity. Direct Effects (1) shows that the Expanded Index of Insecurity produces a positive and significant effect on populist voting by itself (1–3) as compared to the reference group of zero (0) (not economically insecure), which is what we would expect in hypothesis 1. Stand-alone, institutional trust is highly significant (at 1%) as well with a negative sign, which is in-line with the expectations in hypothesis 2. To test our third hypothesis, we added an interaction term in Model 1.2 between economic insecurity and institutional trust, to identify whether these two variables could present some complementarities in their relationship with populist voting. It produces a significant and positive effect (at different values of the institutional trust distribution) indicating that the higher level of insecurity amplifies the probability of populist voting for all institutional trust levels of the voters. For our reference group (no economic insecurity), the probability of voting for a populist party decreases with institutional trust, but as economic insecurity increases, the effect of institutional trust on populist voting progressively weakens. It continues to do so up on the scale of the index of insecurity until, for the most insecure individuals, institutional trust becomes irrelevant to their voting decisions. Model 1.3 adds attitudes toward immigration as a component of the cultural backlash thesis (Norris and Inglehart 2016), which is highly significant. Models 1.4 and 1.5 provide additional robustness checks to our initial models. Model 1.4 shows that the relationship still holds when including an additional level of analysis (regional) and a more focused time dimension (post-2008). Model 1.5 adds immigration attitudes to the regional equation; they are highly significant, but again do not alter the significance nor the coefficients of the insecurity difference in institutional trust interaction at the regional level. We produce additional robustness checks that can be found in Table 4 in Annex. Following the approach in Giannone et al. (2008) and Comiskey and Marsh (2012), we add variables associated with the business cycle: country-level GDP and GDP per capita (in nominal and adjusted for purchasing power parity) in separate models. The results show that when controlling for business cycle, the interaction of trust and insecurity remains significant, with the positive sign and in-line with previous models in terms of magnitude of the effect. Figure 1 depicts a more nuanced view of the interaction between different levels of the Expanded Index of Insecurity (all levels) and Institutional Trust at the individual level on the x-axis. The y-axis on the left represents the predicted incidence of voting for populist parties, while the one on the right indicates the percentage of observations of the histogram of institutional trust index. For all groups according to their level of institutional trust, economic insecurity increases the incidence of populist voting. Figure 1 also shows that for the most economically insecure with
+
+475 Economic Insecurity, Institutional Trust and Populist Voting…
+
+the maximum value of the index, different levels of institutional trust do not, in fact, change the likelihood of populist voting. In fact, being the most economically insecure (experience of long-term unemployment, low-skilled profession, as well as feeling insecure to provide on current income) increases chances of voting for populist parties by 9%. Statistically significant differences between groups according to their level of economic insecurity start at around 0.4 (also confirmed by t tests) and continue for higher levels of trust. As posited in hypothesis 3, high institutional trust reduces the probability for the most secure respondents (index = 0) to vote for populist parties from 7% at the 0.3 point of trust, down to 4% at the 0.65 (at the ninetieth percentile of trust) and to 2% at the highest level of trust in the national legal system, politicians, political parties, and parliament. Overall, an important finding is that economic insecurity does matter for populist voting: an increase in insecurity always leads to an increase in populist voting, a result already discussed in Guiso et al. (2017) for example. However, we have been able to nuance this result in an important way by adding an interaction term with institutional trust. Some voters will withstand some degree of economic insecurity and will not be tempted to vote for populist parties because they still have faith in their national institutions. We may infer that they believe that their situation will improve or that they will be supported in some ways, at least partly because of competent institutions. This is in-line with the framework of Duch and Stevenson (2008) on institutions as moderators in the voting process. However, this effect appears to be absent for highly economically insecure individuals; even very high levels of institutional trust will not deter them from voting for populist parties. In fact, they seem to be the true economic voters, undeterred by the trust in government and truly voting with their own pocket. It seems that the protective effect of institutions only exists when voters are not desperate, that is, when they experience relatively more benign forms of economic hardship. For losers from global markets (according to their extreme level of insecurity) (Norris and Inglehart 2016), the level of trust in
+
+Fig. 1   Predictive margins of insecurity index and institutional trust
+
+476 D. Ivanov
+
+their government does not matter when they enter the voting booth, and they are more likely to vote for populist parties, irrespective of their trust in institutions.
+
+Relative Institutional Trust (Difference)
+
+In order to test hypothesis 4, we interact a measure of relative trust, which captures trust toward national institutions relative to supranational ones (institutional trust in national institutions minus the supranational one), with our index of insecurity. Controlling only for institutional trust, as often done in the literature, is only one facet of the analysis. Relative trust could be a better measure. First, it allows us to correct the way personal sources of variations in responses (for example, people who tend to agree with the statements they are given, whatever they are, following Hudson (2006)). Second, relative trust conveys a more tailored information for our research question. For the sake of transparency and to allow comparison with the literature, we present relative trust (the difference between national institutions and the EU parliament) as an alternative measurement of institutional trust. Similarly to the previous set of regressions on the interaction of the institutional variable with economic insecurity, we start with the direct-effects regression (presented in Table  2) and include an analogous set of independent variables to address the different aspects of socioeconomic inequality: the country-level polarization, subjective (perception of inequality), and individual economic insecurity. Model (2) shows that the Expanded Index of Insecurity produces a significant effect on populist voting by itself (1–3) as compared to the reference category of zero (0) (not economically insecure), confirming Guiso et al. (2017) finding that an increase in economic insecurity increases the probability of populist voting. The interaction model (2.2) tests hypothesis 4 and shows that regardless of the level of economic insecurity, the higher level of trust in national institutions than in supranational ones increases the probability of populist voting for all socioeconomic groups. It produces a significant and positive effect (at different values of the institutional trust distribution) indicating that the higher level of insecurity amplifies the probability of populist voting for all institutional trust levels of the voters. As compared to the trust levels of the reference group of insecurity index at zero (no economic insecurity), the probability of voting for populist parties increases when economic insecurity (1, 2 and highly insecure at 3) is higher. Although it does not alter the significance or coefficients of the independent variables used in the previous models, the interaction between trust and the lower level of insecurity loses its statistical significance. Model (2.3) adds attitudes toward immigration as a component of the cultural backlash thesis (Norris and Inglehart 2016), which is highly significant, but does not alter the significance or coefficients of the insecurity-trust interaction. Model (2.4) shows that the relationship still holds for two out of three groups according to the level of economic insecurity, when including an additional level of analysis (regional) and a more focused time dimension (post-2008). Model (2.5) adds cultural attitudes to the regional equation; it has a similar effect of altering the significance of the interaction of the less economically
+
+477 Economic Insecurity, Institutional Trust and Populist Voting…
+
+insecure group and the levels of institutional trust at the regional level. This points to some unobserved heterogeneity on the spectrum of economic insecurity and to the difference in salience in terms of group dynamics in voting. Table 5 in Annex provides additional robustness checks focused on the effects of the business cycle. It contains models that include country-level GDP and GDP per capita (in nominal and adjusted for purchasing power parity) in separate models (following the approach in Giannone et al. 2008; Comiskey and Marsh 2012). The results show that when controlling for the ups and downs of the business cycle at country level, the interaction of relative trust and economic insecurity remains significant, with the sign and the magnitude of the coefficient that are in-line with previous models. Figure 2 depicts the interaction between different levels of the Index of Insecurity (all levels) and the Institutional Trust (difference between national and supranational institutions) at the individual level on the x-axis. Positive values on the x-axis point to the trust of voters for national institutions over EU ones, while negative values measure the opposite. The higher level of economic insecurity increases the support for populist parties across all the spectrum of groups of institutional trust. As seen from the histogram of the distribution of institutional trust, the majority of all observations are centered around the mean, with 90% of all observations in the sample lying between − 0.3 and 0.2 for trust. For our reference group (no economic insecurity), the probability of voting for a populist party increases with the relative institutional trust, but as economic insecurity increases, the effect of relative trust on populist voting progressively weakens. There are stark differences between groups of voters according to their insecurity index levels at the maximum and minimum values, highly insecure (3) with secure (0). Their decision to vote for populist parties in Europe as defined solely by their level of insecurity determines their vote at around 7% for the minimum level of insecurity at the ­90th percentile of the relative institutional trust (value of 0.2), and at 9% for the maximum level of insecurity in the same percentile of trust. At the same time, the decrease in the trust of national institutions over European Parliament potentially points to the lesser
+
+Fig. 2   Predictive margins of insecurity index and relative institutional trust
+
+478 D. Ivanov
+
+susceptibility to populist discourses, as it reduces the probability for all respondents, regardless of their insecurity, to vote for populist parties. The probability of voting for populist parties decreases from 9% at 0.2 points for trust, down to 7% at the lowest level of the difference in institutional trust at the tenth percentile in the distribution (− 0.3) with the steepest slope for the most economically insecure. The probability that the least economically insecure vote for populists decreases with a lesser magnitude of the effect, from 7 to 4% at the ­10th percentile in the distribution (values of the difference in the institutional trust at − 0.3). Roughly the same can be said about the difference between the less economically insecure (index = 2) and least economically insecure (index = 0). There is a statistically significant difference between the interaction of insecurity and relative institutional trust between the two across the 90% of the distribution of trust (from − 0.3 to 0.2), producing a less steep curve (than for the more insecure). In addition, the increase of trust in European Parliament over the set of national institutions for those with the value of the Expanded Index of Insecurity equal to two (2) has a negative moderating effect diminishing the decision to vote for populists from roughly 9% at midpoint for trust (90% percentile at 0.2), down to 6% at the negative value of the institutional trust difference (−0.3). Overall, an important finding from this analysis is that economic insecurity and its moderating effect on relative trust in institutions matters when it comes to populist voting. Although the direct effect of relative institutional trust on populist voting has been found to be significant in the works of Dustmann et al. (2017), the current analysis provides important insight. The moderating effect of the difference in economic insecurity for groups according to their level of institutional trust is similar, reducing the propensity to vote for a populist party by roughly 2%, with a slightly steeper effect for the most economically insecure (by almost five percent). It points to an interesting finding that economically insecure individuals might not be influenced by their level of trust in national institutions in the voting booth but might have a lot to say about the EU-level institutions. On the one hand, it points to the salience of the EU issue dimension for all groups of voters according to the level of their economic insecurity. On the other hand, it shows the effectiveness of the anti-Brussels rhetoric, especially of populist parties that have been in government for a long time. From another perspective, when individuals trust their national institutions more than the EU parliament, improving their economic security could reduce their propensity to vote populist. This points to the importance of national and regional politics, as well as the experience of voters with their regional institutions, for all socioeconomic groups.
+
+Conclusions
+
+We have explored the moderating effect of institutional trust on populist voting using different groupings by economic insecurity, which seems to be a common feature in the debate over the rise of demand for populism. We drew on the ideas of Putnam (1993), Persson and Tabellini (2009), Gërxhani and Wintrobe, (2020) and Hudson (2006) to formulate our conceptualization of the quality of institutions using institutional trust in national and supranational institutions, and argued its relevance to
+
+479 Economic Insecurity, Institutional Trust and Populist Voting…
+
+the context of populist voting. We also built on the empirical developments of Guiso et al. (2020), as well as Norris and Inglehart (2016), by expanding the index of economic insecurity to include a wider spectrum of population. Using a large intertemporal cross-country cross-individual dataset and multilevel modeling methods, we found support for our hypotheses concerning the moderating effects of institutional trust on economic insecurity in terms of voting for populist parties. While there is some empirical evidence showing the direct effect of economic insecurity and institutional trust on populism (see, e.g., Guiso et al. 2017; Dustmann et al. 2017; Algan et al. 2017), this is the first study of its kind to show how the impact of institutional trust insecurity on populism varies depending on the level of economic insecurity. We find that when enlarging the definition of economic insecurity, it amplifies populist voting of various groups according to their levels of institutional trust differently. For our reference group (without economic insecurity), the probability of voting for a populist party decreases with institutional trust, but as economic insecurity increases, the effect of institutional trust on populist voting progressively weakens. It continues to do so up on the scale of the index of insecurity until, for the most insecure individuals, institutional trust becomes irrelevant to their voting decisions. They seem to represent the closest candidate to being the real ’economic voters.’ For them, their economic situation is the main determinant: their experience with long-term unemployment, their less secure jobs, and their limited ability to make ends meet are key to their voting decision. Nevertheless, the same cannot be said about those who are comparatively a bit less economically insecure (which we have classified as being at moderate levels of insecurity), and those who are on the opposite side of the scale—the secure ones, who are economically better off. Economic insecurity and institutional trust appear significantly more important for them in their voting choice for anti-establishment populist parties. The less insecure they are economically with the same level of trust in political parties, politicians, the legal system, and the parliament, the less prone they are to vote for populists. Eurosceptic parties seem to have reached their electorate effectively. When measuring institutional trust in national over supranational institutions, the result is homogeneous for all socioeconomic groups. The more a person trusts the national institutions over the European parliament, the more prone they are to vote for a populist party for all levels of economic insecurity. The results point to the susceptibility of anti-EU discourse of many populist parties across Europe and the Eurosceptic effect it has on all strata of its population; this reflects the effect theorized by Reungoat (2010) as well as Stavrakakis and Katsambekis (2014). The results contribute to a better understanding of populism and institutional trust. Since the results show that the choices of both right- and left-wing populist voters are driven by economic insecurity and moderated by a lack of trust in institutions, populism as ideological tool used by a variety of populist parties in the region seems to have the same root causes for support. In terms of institutional trust, the findings point to the significance of the proposition by Kroeger et al. (2021) to focus on swift trust in transient economic settings, which are especially important in the voting booth and could be structurally different from institutional trust on any other day or in a different context. Since voting requires a snap judgment at a particular
+
+480 D. Ivanov
+
+point in time under economic circumstances, swift trust may be more dependent on the experience with institutions in one’s network, rather than a macro-trust, an established opinion about governments in general. Our findings have important implications for policy makers. Any policies targeting bridging of local communities should be smart and directed toward specific strata of the population. The mode, intensity, and interaction with institutions on regional level helps citizens build trust in government that will help them push through economic hardships. As documented by our Table 2 results and illustrated in Figure 1, the same does not happen with the most economically insecure, who are most susceptible to the Eurosceptic discourse and are the most attracted by antiestablishment rhetoric. Our results suggest that policy makers concerned to increase trust in institutions should first try to understand more carefully which aspects of the institutional environment are deficient, and then work systematically to improve them, focusing consistently on the long-term and short-term changes. Variation within regions of the EU persists and societies with a higher level of trust in national institutions and strong Eurosceptic sentiments have to be paid special attention. In addition, real institutional reform must start from the experience of the population on the ground, with a special focus on the most economically insecure. The analysis is limited by possible endogeneity that could still be present in the model. This could be addressed by the addition of significant controls in the model as well as instrumental variables, which would not only present a more comprehensive picture of the causes for the rise of populism in Europe, but would focus on the cause and effect relationship. However, since the results generally point in a similar direction as in the literature when aggregating variables into regions and increasing the number of controls, these concerns are generally minimized.
+
+Supplementary Information  The online version contains supplementary material available at https://​doi.​ org/​10.​1057/​s41294-​023-​00212-y.
+
+Acknowledgements  The author of this paper would like to thank the editor as well as the two anonymous reviewers for providing useful comments to improve this work. A version of this article was awarded Hans Raupach Best Paper Award 2020 at the 12th Joint IOS/EACES Summer Academy on Central and Eastern Europe. This project has received funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No 765224.
+
+Funding  Open access funding provided by Corvinus University of Budapest.
+
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ ses/​by/4.​0/.
+
+481 Economic Insecurity, Institutional Trust and Populist Voting…
+
+References
+
+Acemoglu, D., and J.A. Robinson. 2019. The narrow corridor: How nations struggle for liberty. London: Penguin. Algan, Y., S. Guriev, E. Papaioannou, and E. Passari. 2017. The European trust crisis and the rise of populism. Brookings Papers on Economic Activity 2017(2): 309–400. Alvaredo, F., A.B. Atkinson, T. Blanchet, L. Chancel, L. Bauluz, M. Fisher-Post, I. Flores, B. Garbinti, J. Goupille-Lebret, and C. Martínez-Toledano, 2020. Distributional national accounts guidelines, methods and concepts used in the world inequality database. Alvaredo, F., L. Chancel, T. Piketty, E. Saez, and G. Zucman. 2018. World inequality report 2018. Cambridge: Belknap Press. Amini, C., E. Douarin, and T. Hinks. 2022. Individualism and attitudes towards reporting corruption: Evidence from post-communist economies. Journal of Institutional Economics 18(1): 85–100. Anderson, J.E. 2017. Trust in government and willingness to pay taxes in transition countries. Comparative Economic Studies 59(1): 1–22. https://​doi.​org/​10.​1057/​s41294-​016-​0017-x. Anderson, C.J., and J. Pontusson. 2007. Workers, worries and welfare states: Social protection and job insecurity in 15 OECD countries. European Journal of Political Research 46(2): 211–235. Arrow, K.J. 1974. The limits of organization. New York: WW Norton & Company. Berloffa, G., E. Matteazzi, A. Şandor, and P. Villa. 2019. The quality of employment in the early labour market experience of young Europeans. Cambridge Journal of Economics 43(6): 1549–1575. Clausen, B., A. Kraay, and Z. Nyiri. 2011. Corruption and confidence in public institutions: Evidence from a global survey. The World Bank Economic Review 25(2): 212–249. Comiskey, M., and L.C. Marsh. 2012. Presidents, parties, and the business cycle, 1949–2009. Presidential Studies Quarterly 42(1): 40–59. Devinney, T.M., and C.A. Hartwell. 2020. Varieties of populism. Global Strategy Journal 10: 32–66.
+
+https://​doi.​org/​10.​1002/​gsj.​1373. Duch, R.M., and R.T. Stevenson. 2008. The economic vote: How political and economic institutions condition election results. Cambridge: Cambridge University Press. Dustmann, C., B. Eichengreen, S. Otten, A. Sapir, G. Tabellini, and G. Zoega. 2017. Europe’s trust deficit. Causes and remedies. London: Centre for Economic Policy Research. Erikson, R., and J.H. Goldthorpe. 1992. The constant flux: A study of class mobility in industrial societies. New York: Oxford University Press. Gallie, D., A. Felstead, F. Green, and H. Inanc. 2016. The hidden face of job insecurity. Work, Employment and Society 31(1): 36–53. https://​doi.​org/​10.​1177/​09500​17015​624399. Gërxhani, K., and R. Wintrobe. 2020. Understanding tax evasion: Combining the public choice and new institutionalist perspectives. In Palgrave handbook of comparative economics. Springer Nature. Geurkink, B., A. Zaslove, R. Sluiter, and K. Jacobs. 2020. Populist attitudes, political trust, and external political efficacy: Old wine in new bottles? Political Studies 68(1): 247–267. Giannone, D., M. Lenza, and L. Reichlin. 2008. Business cycles in the euro area (No. w14529). National Bureau of Economic Research. Gimpelson, V., and G. Monusova. 2014. Perception of inequality and social mobility. Higher School of Economics Research Paper No. WP BRP, 84. Greif, A., and D.D. Laitin. 2004. A theory of endogenous institutional change. American Political Science Review 98(4): 633–652. Grönlund, K., and M. Setälä. 2007. Political trust, satisfaction and voter turnout. Comparative European Politics 5(4): 400–422. Guiso, L., H. Herrera, M. Morelli, and T. Sonno. 2017. Populism: Demand and supply. Center for Economic Policy Research Discussion Paper, 11871. Guiso, L., H. Herrera, M. Morelli, and T. Sonno. 2020. Economic insecurity and the demand of populism in Europe. Rome: Einaudi Institute for Economics and Finance. Guriev, S. 2018. Economic drivers of populism. In AEA Papers and Proceedings (Vol. 108, pp. 200–203). Hartwell, C.A., and T. Devinney. 2021. Populism, political risk, and pandemics: The challenges of political leadership for business in a post-COVID world. Journal of World Business 56(4): 101225. Havrylyshyn, O. 2001. Recovery and growth in transition: A decade of evidence. IMF Staff Papers 48(1): 53–87. https://​doi.​org/​10.​2307/​46216​90. Havrylyshyn, O., and R. van Rooden. 2003. Institutions matter in transition, but so do policies. Comparative Economic Studies 45(1): 2–24. https://​doi.​org/​10.​1057/​palgr​ave.​ces.​81000​05.
+
+482 D. Ivanov
+
+Hudson, J. 2006. Institutional trust and subjective well-being across the EU. Kyklos 59(1): 43–62. Korosteleva, J., T. Mickiewicz, and P. Stępień-Baig. 2020. It takes two to tango: Complementarity of bonding and bridging trust in alleviating corruption in cities. Regional Studies 54(6): 851–862. https://​doi.​org/​10.​1080/​00343​404.​2019.​16528​94. Kroeger, F., G. Racko, and B. Burchell. 2021. How to create trust quickly: A comparative empirical investigation of the bases of swift trust. Cambridge Journal of Economics 45(1): 129–150. Leiulfsrud, H., I. Bison, and H. Jensberg. 2005. Social class in Europe: European social survey 2002/3. NTNU Samfunnsforskning/NTNU Social Research Ltd. Lewis-Beck, M.S., and M. Paldam. 2000. Economic voting: An introduction. Electoral Studies 19(2–3): 113–121. Margalit, Y. 2019. Economic insecurity and the causes of populism, reconsidered. Journal of Economic Perspectives 33(4): 152–170. Mihaljek, D. 2018. Convergence in Central and Eastern Europe: Can all get to EU average? Comparative Economic Studies 60(2): 217–229. https://​doi.​org/​10.​1057/​s41294-​018-​0063-7. Mishler, W., and R. Rose. 2001. What are the origins of political trust? Testing institutional and cultural theories in post-communist societies. Comparative Political Studies 34(1): 30–62. Mudde, C. 2017. An ideational approach. In The Oxford Handbook of Populism, ed. C.R. Kaltwasser, P.A. Taggart, P.O. Espejo, and P. Ostiguy, vol. 27. Oxford: Oxford University Press. Norris, P., and R. Inglehart. 2016. Trump, Brexit, and the rise of populism: Economic have-nots and cultural backlash. Harvard JFK School of Government Faculty Working Papers Series, 1–52. Norris, P., and R. Inglehart. 2019. Cultural backlash: Trump, Brexit, and authoritarian populism. Cambridge University Press. Persson, T., and G. Tabellini. 2009. Democratic capital: The nexus of political and economic change. American Economic Journal: Macroeconomics 1(2): 88–126. Putnam, R. 1993. The prosperous community: Social capital and public life. The American Prospect, 13(Spring), Vol. 4. http://​www.​prosp​ect.​org/​print/​vol/​13. Accessed 7 April 2003. Rabe-Hesketh, S., A. Skrondal, and A. Pickles. 2005. Maximum likelihood estimation of limited and discrete dependent variable models with nested random effects. Journal of Econometrics 128(2): 301–323. Reungoat, E. 2010. Anti-EU parties and the people: An analysis of populism in French Euromanifestos. Perspectives on European Politics and Society 11(3): 292–312. https://​doi.​org/​10.​1080/​15705​854.​ 2010.​503034. Rodrik, D. 2021. Why does globalization fuel populism? Economics, culture, and the rise of right-wing populism. Annual Review of Economics 13: 133–170. Rooduijn, M., S. Van Kessel, C. Froio, A. Pirro, S. De Lange, D. Halikiopoulou, P. Lewis, C. Mudde, and P. Taggart. 2019. The PopuList: An overview of populist, far right, far left and Eurosceptic parties in Europe. The PopuList. https://​popu-​list.​org/ Schmidt-Catran, A.W., and M. Fairbrother. 2016. The random effects in multilevel models: Getting them wrong and getting them right. European Sociological Review 32(1): 23–38. Stankov, P. 2018. The political economy of populism: An empirical investigation. Comparative Economic Studies 60(2): 230–253. https://​doi.​org/​10.​1057/​s41294-​018-​0059-3. Stavrakakis, Y., and G. Katsambekis. 2014. Left-wing populism in the European periphery: The case of SYRIZA. Journal of Political Ideologies 19(2): 119–142. Tabellini, G. 2008. Institutions and culture. Journal of the European Economic Association 6(2–3): 255–294. van Bohemen, S., W. de Koster, and J. van der Waal. 2019. Euroscepticism among Dutch Leftist and Rightist Populist Constituencies: How can the U-curve be understood? JCMS: Journal of Common Market Studies 57(2): 371–387. https://​doi.​org/​10.​1111/​jcms.​12806. van der Brug, W., S.A. Popa, S.B. Hobolt, and H. Schmitt. 2021. Illiberal democratic attitudes and support for the EU. Politics 41(4): 537–561. World Bank. 2022. GDP, GDP per capita, GDP per capita (PPP) (in USD) for European countries. World Development Indicators. https://​data.​world​bank.​org/​indic​ator/​NY.​GDP.​PCAP.​PP.​CD
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

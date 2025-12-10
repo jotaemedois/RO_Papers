@@ -1,0 +1,4857 @@
+Universidade do Minho
+
+Escola de Economia e Gestão
+
+Carlos Manuel da Silva Pereira Pinheiro de Pinho
+
+O impacto da Covid-19 na qualidade da democracia portuguesa
+
+abril de 2022
+
+O impacto da Covid-19 na qualidade da democracia portuguesa Carlos Manuel da Silva Pereira Pinheiro de Pinho do UMinho | 2022
+
+Universidade do Minho Escola de Economia e Gestão
+
+Carlos Manuel da Silva Pereira Pinheiro de Pinho
+
+O impacto da Covid-19 na qualidade da democracia portuguesa
+
+Dissertação de Mestrado Mestrado em Ciência Política
+
+Trabalho efetuado sob a orientação de Professora Doutora Ana Patrícia Costa Fernandes Professor Doutor Miguel Ângelo Vilela Rodrigues
+
+abril de 2022
+
+ii
+
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS
+
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as
+
+regras e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e
+
+direitos conexos.
+
+Assim, o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada.
+
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições
+
+não previstas no licenciamento indicado, deverá contactar o autor, através do RepositóriUM
+
+da Universidade do Minho.
+
+Licença concedida aos utilizadores deste trabalho
+
+Atribuição
+
+CC BY
+
+https://creativecommons.org/licenses/by/4.0/
+
+iii
+
+AGRADECIMENTOS
+
+Um profundo agradecimento à Senhora Professora Doutora Ana Patrícia Costa Fernandes e
+
+ao Senhor Professor Doutor Miguel Ângelo Vilela Rodrigues por terem aceitado o convite de
+
+orientação e por terem caminhado comigo lado a lado. A Vossa orientação foi de estimado
+
+valor, os Vossos conselhos foram imprescindíveis e da maior sapiência. O meu eterno
+
+obrigado!
+
+Aos meus colegas de mestrado e amigos Alzira de Sousa Monteiro, Beatriz Borges Rodrigues
+
+e Marco Matos Esteves agradeço o companheirismo, o altruísmo e a generosidade que
+
+tiveram para comigo.
+
+Ao meu amigo Filipe Celestino Silva agradeço as muitas horas que disponibilizou para me ouvir
+
+e aconselhar.
+
+Aos mais importantes da minha vida, os meus pais, a minha irmã e os meus avós, dirijo o maior
+
+dos agradecimentos. A eles devo-lhes a minha vida e aquilo que sou. Amo-vos!
+
+iv
+
+DECLARAÇÃO DE INTEGRIDADE
+
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e
+
+confirmo que não recorri à prática de plágio nem a qualquer forma de utilização indevida ou
+
+falsificação de informações ou resultados em nenhuma das etapas conducente à sua
+
+elaboração.
+
+Mais declaro que conheço e que respeitei o Código de Conduta Ética da Universidade do
+
+Minho.
+
+v
+
+O IMPACTO DA COVID-19 NA QUALIDADE DA DEMOCRACIA PORTUGUESA
+
+RESUMO
+
+O nosso trabalho tem como objetivo perceber os efeitos provocados pela doença Covid-19,
+
+enquanto choque exógeno, na avaliação da qualidade da democracia portuguesa,
+
+considerando dois conceitos essenciais no domínio da Ciência Política: a democracia e a
+
+cultura política. Da conjugação desses dois elementos resulta uma avaliação da democracia,
+
+através de um conjunto de indicadores formados pelas perceções da população. No nosso
+
+estudo, os indicadores – confiança no governo, confiança no parlamento, confiança nos
+
+partidos, confiança no sistema de justiça, satisfação com a democracia e interesse político dos
+
+cidadãos – são expostos ao impacto da pandemia, permitindo-nos analisar o seu efeito na
+
+qualidade da democracia portuguesa. Na componente empírica do estudo, as hipóteses de
+
+investigação, elaboradas com o suporte teórico da literatura, serão validadas pelas variáveis
+
+analisadas, compostas por um conjunto de dados recolhidos durante o período compreendido
+
+entre os anos dois mil e dois mil e vinte e um. Para se conseguir analisar o impacto da
+
+pandemia aplicamos a técnica das séries temporais interrompidas. Os resultados permitem nos concluir que o impacto da pandemia provocada pela doença Covid-19 teve um efeito
+
+positivo na qualidade da democracia portuguesa.
+
+PALAVRAS-CHAVE: Covid-19, Portugal, Qualidade da democracia
+
+vi
+
+THE IMPACT OF COVID-19 ON THE QUALITY OF PORTUGUESE DEMOCRACY
+
+ABSTRACT
+
+Our work aims to understand the effects caused by the Covid-19 disease, as an exogenous
+
+shock, in the assessment of the quality of portuguese democracy, considering two essential
+
+concepts in the field of Political Science: democracy and political culture. The combination of
+
+these two elements results in an evaluation of democracy, through a set of indicators formed
+
+by the perceptions of the population. In our study, the indicators – trust in government, trust
+
+in parliament, trust in parties, trust in the justice system, satisfaction with democracy and
+
+citizens' political interest – are exposed to the impact of the pandemic, allowing us to analyze
+
+its effect on quality of portuguese democracy. In the empirical component of the study, the
+
+research hypotheses, elaborated with the theoretical support of the literature, will be
+
+validated by the analyzed variables, composed by a set of data collected during the period
+
+between the years two thousand and two thousand and twenty-one. In order to analyze the
+
+impact of the pandemic, we apply the technique of interrupted time series. The results allow
+
+us to conclude that the impact of the pandemic caused by the Covid-19 disease had a positive
+
+effect on the quality of Portuguese democracy.
+
+KEY WORDS: Covid-19, Portugal, Quality of democracy
+
+vii
+
+ÍNDICE GERAL
+
+INTRODUÇÃO
+
+1
+
+PARTE I - REVISÃO DA LITERATURA
+
+6 Capítulo 1. Enquadramento da temática
+
+7 1.1. Contextualização conceptual
+
+7 1.2. Cultura política
+
+9 1.3. Democracia
+
+12
+
+Capítulo 2. Estado da arte
+
+17
+
+2.1. Apoio político
+
+17
+
+2.2. Confiança nas instituições políticas
+
+24
+
+2.3. Satisfação com a democracia e interesso político
+
+33
+
+2.4. Democracia e Covid-19
+
+38
+
+PARTE II - ESTUDO EMPÍRICO
+
+42
+
+Capítulo 3. Metodologia
+
+43 3.1. Objetivo e âmbito do estudo
+
+43
+
+3.2. Modelo de análise
+
+45
+
+3.3. Hipóteses de investigação
+
+47
+
+viii
+
+3.4. Estratégia de estimação
+
+50
+
+Capítulo 4. Resultados
+
+56
+
+4.1. Resultados estatísticos descritivos
+
+56
+
+4.2. Matriz de correlação
+
+64
+
+4.3. Resultados estatísticos inferenciais
+
+65
+
+CONCLUSÃO
+
+78
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+84 ANEXO
+
+92 Anexo I - Conceções de democracia
+
+93 Anexo II - Princípios e valores democráticos
+
+94
+
+ix
+
+ÍNDICE DE FIGURAS
+
+Figura 1 - The conceptual framework
+
+19
+
+Figura 2 - Nível de confiança no Governo português
+
+31 Figura 3 - Nível de confiança no Parlamento português
+
+31 Figura 4 - Nível de confiança nos partidos políticos portugueses
+
+32 Figura 5 - Nível de confiança no sistema de justiça português
+
+32 Figura 6 - Nível de satisfação com a democracia portuguesa
+
+37 Figura 7 - Nível de interesse político dos portugueses
+
+37 Figura 8 - Modelo de análise
+
+46 Figura 9 - Resultado estatístico descritivo da variável dependente “Confiança no governo”
+
+58
+
+Figura 10 - Resultado estatístico descritivo da variável dependente “Confiança no parlamento”
+
+59
+
+Figura 11 - Resultado estatístico descritivo da variável dependente “Confiança nos partidos”
+
+60
+
+Figura 12 - Resultado estatístico descritivo da variável dependente “Confiança no sistema de justiça”
+
+61
+
+Figura 13 - Resultado estatístico descritivo da variável dependente “Satisfação com a democracia”
+
+62
+
+Figura 14 - Resultado estatístico descritivo da variável dependente “Interesse político dos cidadãos”
+
+63
+
+Figura 15 - Representação da Interrupted time series analysis para a variável dependente “Confiança no governo”
+
+66
+
+x
+
+Figura 16 - Representação da Interrupted time series analysis para a variável dependente “Confiança no parlamento”
+
+68
+
+Figura 17 - Representação da Interrupted time series analysis para a variável dependente “Confiança nos partidos”
+
+70
+
+Figura 18 - Representação da Interrupted time series analysis para a variável dependente “Confiança no sistema de justiça”
+
+72
+
+Figura 19 - Representação da Interrupted time series analysis para a variável dependente “Satisfação com a democracia”
+
+74
+
+Figura 20 - Representação da Interrupted time series analysis para a variável dependente “Interesse político dos cidadãos”
+
+76
+
+xi
+
+ÍNDICE DE TABELAS
+
+Tabela 1 - Tipos de legitimidade
+
+21
+
+Tabela 2 - Preferências dos cidadãos em relação a diferentes formas de
+
+governo em Portugal (2008-2014)
+
+22
+
+Tabela 3 - Variáveis dependentes
+
+54 Tabela 4 - Variável de controlo
+
+55 Tabela 5 - Resultados estatísticos descritivos das variáveis do estudo
+
+56 Tabela 6 - Matriz de correlação
+
+64 Tabela 7 - Resultados da variável dependente “Confiança no governo”
+
+65 Tabela 8 - Resultados da variável dependente “Confiança no parlamento”
+
+67 Tabela 9 - Resultados da variável dependente “Confiança nos partidos”
+
+69 Tabela 10 - Resultados da variável dependente “Confiança no sistema de justiça”
+
+71 Tabela 11 - Resultados da variável dependente “Satisfação com a democracia”
+
+73 Tabela 12 - Resultados da variável dependente “Interesse político dos cidadãos”
+
+75
+
+1
+
+INTRODUÇÃO
+
+2
+
+A democracia, como regime político, evoluiu desde a sua origem na Grécia Antiga até aos
+
+tempos contemporâneos e proliferou-se por todo o mundo. Contudo, a democracia é apenas
+
+um entre outros regimes políticos e atualmente sofre com o aumento de regimes não
+
+estritamente democráticos (muitas vezes designados como democracias iliberais) (Amaral,
+
+2014).
+
+A cultura política corresponde a um conjunto de atitudes, normas, crenças e valores políticos
+
+partilhados pela maioria dos membros de uma determinada sociedade ou nação. A cultura
+
+política de uma nação tem uma multiplicidade de variáveis (ou fatores), entre elas: o
+
+comportamento de apatia (alienação) dos cidadãos; os graus de confiança e de tolerância; a
+
+adesão ou recusa a determinadas formas de ação política e instituições, em detrimento de
+
+outras; as configurações das forças políticas atuantes; as identidades partidárias; os modos
+
+como os conflitos políticos que surgem no sistema são percebidos e solucionados. Além destes
+
+fatores, a religião, a história e os costumes de um povo moldam a sua atitude perante a
+
+aceitação e/ou recusa de determinado regime político. Portanto, a cultura política de um
+
+povo, mesmo que não seja compreendida e aceite por outros, é a razão e a explicação para a
+
+existência ou inexistência de certos regimes políticos num país. No espaço europeu ocidental,
+
+onde maioritariamente vigoram democracias liberais, há uma grande partilha de valores
+
+jurídico-constitucionais; contudo, as democracias de cada país carregam um conjunto de
+
+características que as tornam diferentes e únicas. Estas singularidades devem-se à cultura,
+
+costumes e história de cada nação (Cancian, 2021).
+
+Após as sucessivas vagas de democratização, o interesse da Ciência Política passou a ir além
+
+do reconhecimento da importância da legitimidade da democracia em termos formais,
+
+procurando aferir e até mensurar de que forma as democracias contemporâneas asseguram
+
+a tradução prática das normas e das instituições do Estado de Direito Democrático, mas
+
+também a qualidade das democracias (Morlino, 2009).
+
+O nosso estudo será direcionado para a qualidade da democracia portuguesa “à luz da teoria
+
+do apoio ao sistema político, entendido este como o conjunto de crenças, atitudes e
+
+comportamentos dos cidadãos” (p.13), considerando sempre o apoio aos valores e princípios
+
+3
+
+fundamentais da democracia (apoio difuso), mas centralizando a nossa análise nas principais
+
+instituições e atores políticos que compõem a democracia (apoio específico) (Teixeira, 2018).
+
+Em Portugal não se reconhece que exista uma crise de legitimidade democrática, mas sim uma
+
+visível e profunda crise de confiança nas instituições políticas e de avaliação que os cidadãos
+
+fazem dos atores políticos (Teixeira, 2018). Conceição Pequito Teixeira faz uma avaliação
+
+negativa da qualidade da democracia portuguesa, isto porque a “elevada insatisfação dos
+
+portugueses com a democracia em termos práticos retrata um fenómeno que radica mais em
+
+causas de longo termo – relacionadas com a cultura política preponderante no nosso país –
+
+do que em fatores de curto e médio prazo” (p.124).
+
+O descontentamento com a democracia tem sido gradual e prolongado, contudo há
+
+acontecimentos pontuais que têm testado a solidez dos regimes democráticos, podendo
+
+provocar um fortalecimento ou um acumular do descontentamento. A nível europeu,
+
+inclusive em Portugal, o último grande teste foi a crise financeira de dois mil e oito. O
+
+descontentamento com a democracia, apesar de não ser uma tendência nova, agravou-se
+
+com a crise económica e social que Portugal atravessou, atingindo níveis críticos por
+
+comparação com outros países europeus (Belchior, 2015).
+
+Para uma possível concretização dos estudos sobre a qualidade da democracia a partir da
+
+compreensão dos “atuais sentimentos dos cidadãos em relação à política e às instituições”
+
+(Belchior, 2015, p.13), a Ciência Política tem-se debruçado sobre indicadores com maior
+
+relevância em termos do funcionamento do sistema político coadunado com a existência de
+
+dados comparativos e atuais. Esses indicadores são: a confiança no governo, no parlamento,
+
+nos partidos e no sistema judicial e também a satisfação com a democracia e o interesse
+
+político dos cidadãos (Putnam, 1993; Tarrow, 1996; Teixeira & Freire, 2010; Klingemann, 2014;
+
+Teixeira et al., 2014; Torcal, 2014).
+
+Em finais de dois mil e dezanove, o planeta foi assolado pelo vírus SARS-CoV-2 que provoca a
+
+doença Covid-19. O vírus, que alcançou grandes proporções, obrigou os decisores políticos a
+
+aplicarem restrições às liberdades individuais dos cidadãos, principalmente em democracias
+
+liberais, apresentadas, contudo, como necessárias para a salvaguarda da comunidade.
+
+4
+
+Este vírus foi mais uma prova à robustez das democracias liberais. Os trâmites e os
+
+procedimentos inerentes ao sistema democrático foram comparados e considerados menos
+
+eficazes pela demora de atuação em relação a regimes não democráticos que atuaram de
+
+forma mais célere e sem constrangimentos (Karabulut et al., 2021).
+
+A par das respostas, as consequências da pandemia também serão marcantes. A doença
+
+Covid-19 mudará o mundo profundamente, não porque as sociedades queiram mudanças ou
+
+porque haja um consenso sobre a direção da mudança, mas porque não se pode voltar atrás.
+
+A doença Covid-19 pode encerrar uma década disruptiva marcada pelo desdobramento da
+
+globalização, que provocará mudanças profundas na política, na economia e nos modos de
+
+vida. Uma década que também pode ficar marcada pelo retorno do Estado, apoiado por uma
+
+confiança restaurada na experiência e no conhecimento e pelo reforço do nacionalismo e de
+
+uma indefinição das fronteiras entre a democracia e o autoritarismo (Krastev, 2021).
+
+No contexto da União Europeia, a gestão da pandemia foi da responsabilidade de cada
+
+governo nacional (exceto na compra de vacinas que ficou a cargo da Comissão Europeia), do
+
+que resultaram atitudes e procedimentos diferentes para os mesmos problemas. A
+
+diversidade de atuação complica a comparação entre países que partilham o mesmo regime
+
+político, pelo que o nosso estudo será delimitado a Portugal, tendo como objeto de estudo os
+
+níveis de confiança nas instituições políticas, a satisfação com a democracia e o interesse
+
+político da população portuguesa e como objetivo de estudo perceber o efeito de um choque
+
+exógeno – a pandemia – na avaliação da qualidade da democracia portuguesa.
+
+Relativamente ao espaço temporal do nosso estudo, os indicadores analisados estão
+
+compreendidos entre o ano dois mil e o ano dois mil e vinte e um, tendo como ponto principal
+
+o impacto causado pela pandemia provocada pela doença Covid-19 em dois mil e vinte.
+
+O nosso estudo adota o método de investigação quantitativa, integrando-se no paradigma
+
+positivista. Os dados foram recolhidos por observação indireta a partir de fontes oficiais e,
+
+como técnica de tratamento de dados, aplicamos a técnica das séries temporais
+
+interrompidas.
+
+Tendo como suporte a revisão bibliográfica, a pergunta de investigação central pode ser
+
+formulada do seguinte modo: De que forma a pandemia provocada pela doença Covid-19
+
+5
+
+afetou a qualidade da democracia portuguesa? Como perguntas de investigação secundárias
+
+temos: De que forma a pandemia provocada pela doença Covid-19 afetou a confiança nas
+
+instituições políticas da democracia portuguesa? De que forma a pandemia provocada pela
+
+doença Covid-19 afetou a satisfação com a democracia portuguesa e o interesse político dos
+
+cidadãos portugueses?
+
+O nosso estudo é composto por duas partes e quatro capítulos. A parte I, dedicada à revisão
+
+da literatura, é composta pelo capítulo de enquadramento da temática, no qual
+
+contextualizamos os principais temas que suportam o estudo, e pelo capítulo do estado da
+
+arte, no qual abordamos a literatura sobre os principais indicadores que serão analisados na
+
+componente empírica do estudo. A parte II, dedicada ao estudo empírico, é composta pelo
+
+capítulo da metodologia, no qual apresentamos a metodologia a aplicar e que suportará
+
+teoricamente os resultados obtidos, e pelo capítulo dos resultados, no qual procedemos à
+
+apresentação e discussão dos resultados obtidos.
+
+6
+
+PARTE I - REVISÃO DA LITERATURA
+
+7
+
+Capítulo 1. Enquadramento da temática
+
+1.1. Contextualização conceptual
+
+A política, consistindo num conjunto de argumentos estabelecidos por força das
+
+circunstâncias imprevisíveis do acontecimento político e das necessidades de legitimação,
+
+pode ser entendido “como uma atividade humana, em parte de tipo competitivo, tendo por
+
+objeto a conquista e a manutenção do poder, e em parte de tipo diretivo, tendo por objeto a
+
+governação de uma comunidade humana, com vista à realização do seu bem comum”
+
+(Amaral, 2014, p.53).
+
+A evolução histórica do exercício do poder, desde a antiguidade até à contemporaneidade,
+
+torna o conceito de política mutável e ambíguo pelas suas variadas manifestações e complexo
+
+nas diferentes abordagens. Compreender a política resulta de um processo cumulativo do
+
+sentido agregador do indivíduo, não dispensando o exame histórico dos factos políticos e
+
+culturais (Sarmento, 2008).
+
+A Ciência Política, no seu património conceptual, tem por antecedentes, desde a sua origem
+
+clássica, uma formulação híbrida, isto porque adotou alguns dos conceitos já estudados por
+
+outras disciplinas, entre os quais: poder, carisma, classe, revolução, papel social (Dogan,
+
+1996). Nessa perspetiva, a Ciência Política pode ser entendida como a disciplina que estuda
+
+os problemas do poder na atualidade, através da observação dos fatos e da sua explicação
+
+racional, conforme conceitos, tipologias e leis ou tendências naturais (Amaral, 2014).
+
+A cultura é constituída por uma herança inventiva a que se juntam as características biológicas
+
+e o ambiente natural onde o ser humano está inserido, em que “o arquivo de gestos e
+
+conhecimento é ampliado e conservado, de modo que é esta dinâmica que explica afinal o
+
+carácter eminentemente progressivo da vida dos homens à superfície do planeta” (Bessa,
+
+1997, p.50). Assim, a cultura consiste numa rede densa produtora de sentido e significado que
+
+envolve os cidadãos num determinado contexto, sendo que o trabalho de descodificação e
+
+8
+
+interpretação simbólicas é partilhada pelos integrantes da comunidade (Geertz, 1983).
+
+Classicamente, pode ser entendida como um conjunto complexo de manifestações da vida
+
+social traduzidas em hábitos, costumes, atitudes e crenças (Cruz, 1995).
+
+Enquadrado no contexto político, a cultura política corresponde a um sistema de crenças
+
+empíricas (como os cidadãos percebem e interpretam a relação política), de símbolos
+
+representativos (o que os cidadãos sentem em relação às instituições e aos líderes políticos)
+
+e valores (padrões que definem os objetivos do sistema político usados para avaliar a relação
+
+política), definindo a situação em que a ação política acontece e que são relativamente
+
+partilhados por determinada população. Estas crenças estão dirigidas a um objeto político que
+
+abrange o sistema político como um todo, a estrutura política, os cargos institucionais, as
+
+políticas governativas ou os atores políticos (Patterson, 1970; Almond & Verba, 1989).
+
+O conceito de democracia pode apelar a diferentes entendimentos e aplicações, devendo
+
+haver uma compreensão da distinção entre democracia dos antigos1 e democracia dos
+
+modernos. A democracia dos modernos tem sido disputada por diferentes teorias, como a
+
+liberal ou representativa, a participativa ou a deliberativa (Fernandes, 2021). O nosso estudo
+
+insere-se no quadro das democracias ocidentais liberais: “O paradigma liberal começou a ser
+
+concebido ao longo do século XVII, em especial em Inglaterra, como resposta aos regimes
+
+absolutistas” (Fernandes, 2021, p.152) e caracteriza-se como sendo “centrado no primado do
+
+indivíduo, anterior à comunidade e dotado de direitos naturais que constituem limites à
+
+atividade do Estado. Esse indivíduo, provido de razão e autonomia, constitui voluntariamente
+
+o Estado através do seu consentimento que tem como fim garantir as liberdades individuais,
+
+baseando-se na lei e na lógica de divisão de poderes” (Fernandes, 2021, p.153).
+
+Considerando estas características, a democracia liberal pode ser entendida como um regime
+
+político que assenta na ideia de que o poder pertence ao povo, que escolhe os governantes
+
+através de eleições (soberania popular), sendo o seu exercício de poder limitado pelos Direitos
+
+Humanos de cada pessoa (Estado de Direito) (Amaral, 2014).
+
+1 Democracia dos antigos era o sistema de governo existente na Grécia antiga, mais especificamente entre os séculos VI e IV antes
+
+de Cristo. Foi um período marcado por intensos debates sobre a conduta dos homens tendo em vista as relações políticas. Contudo, muitas pessoas eram excluídas da cidadania, nomeadamente os escravos, a maioria dos estrangeiros e as mulheres (Pierini, 2008). Na perspetiva do papel do indivíduo, de acordo com Constant (1985, p.1), “o indivíduo, quase sempre soberano nas questões públicas, é escravo em todos os assuntos privados. Como cidadão, ele decide sobre a paz e a guerra; como particular, permanece limitado, observado, reprimido em todos seus movimentos”.
+
+9
+
+1.2. Cultura política
+
+Partindo da aceção de cultura política já mencionada, Almond e Verba (1963) procederam à
+
+sua decomposição numa dimensão individual, identificando as seguintes categorias de
+
+orientação política: a orientação cognitiva (corresponde ao conhecimento dos objetos
+
+políticos); a orientação afetiva (refere-se aos sentimentos de identificação, rejeição ou apatia
+
+relativamente aos objetos políticos); e a orientação avaliativa (resulta de julgamentos e
+
+opiniões acerca de objetos políticos que resultam de uma conjugação de informações e
+
+sentimentos).
+
+Relacionado com o tipo de orientação política, os mesmos autores definiram três tipos de
+
+cultura política: a paroquial (as orientações face ao sistema político são mais de ordem afetiva
+
+e normativa do que cognitiva); a de sujeição (relação passiva do indivíduo com o sistema
+
+político) e a de participação (papel ativista do cidadão na esfera política).
+
+Na cultura política paroquial não há papéis políticos especializados, mas difusos; para os
+
+membros dessas sociedades, as orientações políticas desses papéis não estão separadas das
+
+suas orientações religiosas e sociais. Também se verifica uma ausência comparativa de
+
+expectativas de mudança iniciadas pelo sistema político, não se esperando concretamente
+
+nada dele. Na cultura política de sujeição, o membro da sociedade tem conhecimento da
+
+autoridade governamental especializada, sendo “afetivamente orientado para ela, talvez se
+
+orgulhando dela, talvez não gostando dela; e ele o avalia como legitimo ou não” (p.19). É uma
+
+relação essencialmente passiva, embora haja uma forma limitada de competência que é
+
+apropriada numa cultura de sujeição. Na cultura política de participação, “os membros da
+
+sociedade tendem a ser explicitamente orientados para o sistema como um todo e para as
+
+estruturas e processos políticos e administrativos” (p.19), havendo uma orientação para um
+
+papel ativista, embora os sentimentos e avaliações de tal papel possam variar entre a
+
+aceitação e a rejeição (Almond & Verba, 1963).
+
+Se considerarmos as convergências entre as categorias de orientação política e os tipos de
+
+cultura política retiramos as seguintes conclusões: uma cultura política paroquial seria
+
+caracterizada por uma elevada taxa de orientação cognitiva e elevadas taxas de orientação
+
+positivas afetivas e avaliativas para as estruturas difusas da comunidade tribal ou da aldeia;
+
+10
+
+uma cultura política de sujeição seria caracterizada por uma elevada taxa de cognição e
+
+elevadas taxas positivas dos outros dois tipos de orientação para o sistema político
+
+especializado como um todo e para os aspetos administrativos ou de produção; uma cultura
+
+política de participação seria caracterizada por elevadas e positivas taxas de orientação para
+
+as quatro classes de objetos políticos (Almond & Verba, 1963).
+
+O conjunto de crenças e atitudes que um cidadão tem em relação à política tem implícito um
+
+domínio subjetivo da política, ou seja, subjacente aos sistemas políticos existe um domínio
+
+subjetivo ordenado de políticas que dão sentido à política, que disciplinam as instituições e
+
+que atribuem relevância social aos atos individuais. O interesse da cultura política não são as
+
+estruturas formais da política, os governos, os partidos, os grupos de pressão ou os padrões
+
+de comportamento de uma sociedade, mas sim aquilo que as pessoas acreditam, sabem e
+
+sentem sobre as estruturas e comportamentos (Dowse & Hughes, 1986).
+
+Seguindo a mesma perspetiva do papel da cultura na sociedade, a cultura política não é
+
+estática nem anacrónica, mas sim dinâmica e diacrónica. Apesar de ser um processo lento e
+
+ténue, a cultura política está em constante mutação, constatando-se que as transformações
+
+mais expressivas estão relacionadas com a renovação das gerações (Barney-Barry & Hody,
+
+1995). A constante mutação consubstancia-se, na política atual, numa nova vivência de
+
+cidadania, mais ativa, pessoal e próxima do poder de decisão, e pelo alargamento dos espaços
+
+de participação em áreas que antigamente não eram de preocupação política (Lijphart, 1989).
+
+A relação entre a cultura política e o processo democrático é definido pela literatura em duas
+
+correntes teóricas: a culturalista e a institucionalista. A teoria culturalista pressupõe a cultura
+
+política como um conjunto de atitudes, crenças e valores políticos que se vislumbram em
+
+sentimentos e atos como o orgulho nacional, participação e interesse pela política, respeito
+
+pela lei, tolerância, confiança interpessoal e institucional. Essas orientações têm longa
+
+duração temporal, influenciando ou não os cidadãos a aceitarem o regime democrático.
+
+Contudo, essas orientações não significam que não haja mudanças, nomeadamente por efeito
+
+de transformações geracionais e processos de modernização económica e social sobre os
+
+valores políticos (Almond & Verba, 1963; Inglehart, 2002). A teoria institucionalista propõe-se
+
+a avaliar a institucionalização da democracia a partir de indicadores agregados de instituições
+
+políticas, desempenho de governos ou a relação entre o poder executivo e o poder legislativo.
+
+11
+
+Não são ponto de interesse os valores políticos ou a orientação normativa dos indivíduos, mas
+
+a eficácia das instituições. Estas teorias supõem que o apoio dos cidadãos ao regime político
+
+depende da avaliação de curto prazo, dos custos e dos benefícios, do desempenho
+
+institucional, sendo as atitudes de apoio ou de confiança política resultantes do
+
+funcionamento das instituições do regime democrático (Coleman, 1989; North, 1990;
+
+Hetherington, 1998; Norris, 1999). O modo como estas teorias abordam categorias como a
+
+confiança política ou a adesão ao regime foram analisadas por Easton (1965), nomeadamente
+
+os problemas envolvidos na legitimidade dos regimes políticos, sugerindo que o fenómeno de
+
+apoio político (difuso e específico) está associado à experiência política dos indivíduos, isto é,
+
+à relação e ao uso que fazem das instituições públicas e ao julgamento político que decorre
+
+dessa experiência. Portanto, o apoio ao regime tem uma essência complexa e
+
+multidimensional, envolvendo, simultaneamente, uma aceitação da democracia como um
+
+ideal, uma insatisfação com os seus resultados práticos e atitudes que confundem e
+
+combinam essas escolhas (Dalton, 1999; Klingemann, 1999; Shin, 2005).
+
+12
+
+1.3. Democracia
+
+Ao longo dos séculos, o desenvolvimento político das sociedades e das nações proporcionou
+
+um conjunto de regimes políticos. De acordo com Amaral (2014, p.173), a “classificação
+
+moderna dos principais tipos de regimes” – democracias e ditaduras – atende a um duplo
+
+critério: fonte de legitimidade do poder e atitude do poder face aos direitos naturais dos
+
+cidadãos. As características do primeiro critério são: soberania popular (eleitoral) ou poder
+
+conquistado por alguém (autocracia), subdividindo-se este último em poder de um só
+
+(monocracia) ou de um grupo de indivíduos (partido único, junta militar). As características do
+
+segundo critério são: o poder aceita limites à sua atuação pela necessidade de garantir as
+
+liberdades individuais (liberalismo político, Democracia, Estado de Direito) ou não aceita
+
+quaisquer limites, considerando que os interesses coletivos do Estado são mais importantes
+
+do que os direitos dos cidadãos (ditadura, autoritarismo, totalitarismo).
+
+Por norma, os critérios referidos estão ligados: o poder político pertence ao povo e só em
+
+parte é delegado aos governantes, sendo o poder destes limitado: “O delegante (povo
+
+soberano) traça limites às competências que confere aos seus delegados (parlamento e
+
+governo), que estes têm de respeitar; e pode mesmo substituí-los em certos casos (dissolução,
+
+destituição) ou dentro de certos prazos (eleições periódicas)” (Amaral, 2014, p.173).
+
+O nosso estudo debruça-se exclusivamente sobre o regime democrático, podendo adotar
+
+várias conceções2: eleitoral (elitista, minimalista, realista, schumpeteriana); liberal
+
+(consensual, pluralista); maioritária (governo responsável); participativa; deliberativa;
+
+igualitária (Coppedge et al., 2011). Apesar das diferentes conceções de democracia, existe um
+
+conjunto de condições necessárias para um adequado funcionamento do processo
+
+democrático: liberdade de construir e aderir a organizações; liberdade de expressão; direito
+
+de voto; direito de competir pelo apoio e pelos votos; elegibilidade de cargos políticos; fontes
+
+de informação alternativas; eleições livres e justas; instituições que tornam o governo
+
+dependente do voto e das outras formas de expressão de preferências políticas (Porta, 2013,
+
+p.13).
+
+2 Informação detalhada no Anexo I
+
+13
+
+“Para considerar até que ponto os princípios de controlo popular e igualdade política moldam
+
+e informam as instituições e procedimentos do governo representativo, precisamos definir o
+
+que é chamado de “valores mediadores”” (Beetham et al., 2008, p.22). Esses valores3
+
+democráticos são a participação, a autorização, a representação, a accountability, a
+
+transparência, a responsabilidade e a solidariedade (Beetham et al., 2008).
+
+A democracia tem um conjunto de conceções e valores que a caracterizam, mas há um
+
+fenómeno primordial e exclusivo que a distingue de outros regimes: a alternância
+
+democrática. Este fenómeno caracteriza-se pela luta pelo poder, no qual o seu exercício
+
+ocorre de forma alternada entre os principais partidos ou coligações, tal como acontece,
+
+geralmente, em Portugal, entre o Partido Socialista e o Partido Social Democrata. Contudo, há
+
+exceções: na Suíça, há décadas que os governos são formados pelos três maiores partidos em
+
+coligação permanente; na Alemanha, entre dois mil e cinco e dois mil e nove e entre dois mil
+
+e treze e dois mil e vinte e um, tivemos governos de grande coligação entre a União
+
+Democrática Cristã e o Partido Social-Democrata da Alemanha, e nas eleições de dois mil e
+
+vinte e um (Olaf Scholz substituiu Angela Merkel como Chanceler Federal da Alemanha)
+
+formou-se a coligação semáforo, correspondendo a uma coligação entre o Partido Social Democrata da Alemanha, o Partido Democrático Liberal e os Verdes; em Portugal, entre mil
+
+novecentos e oitenta e três e mil novecentos e oitenta e cinco, houve um governo de bloco
+
+central entre o Partido Socialista e Partido Social Democrata (Amaral, 2014; Marques, 2021).
+
+A par das diferentes conceções de democracia, Joseph Schumpeter considera que há um
+
+elemento inerente a todas elas: a participação no processo político. A diferenciação entre as
+
+várias conceções reside nos níveis de participação, e, para o autor, a participação deve ser
+
+entendida numa perspetiva estritamente limitada, restringindo-se ao sufrágio universal e
+
+significando que o povo apenas tem a oportunidade de aceitar ou recusar aqueles que
+
+governam. Schumpeter considera que uma participação ampliada provocaria instabilidade,
+
+logo deve ser restringida a favor da estabilidade e por forma a que haja um funcionamento
+
+dos compromissos institucionais. O autor destaca o papel das elites, referindo que lhe cabe
+
+competir entre si pela adesão e condução do poder, adquirido através do voto popular. As
+
+elites são as únicas depositárias de racionalidade política e capazes do poder de decisão, na
+
+3 Informação detalhada no Anexo II
+
+14
+
+medida que os cidadãos cedem a impulsos irracionais e não são detentores das capacidades
+
+necessárias para a tomada de decisões (Schumpeter, 2013).
+
+Esta teoria surgiu como critica à teoria participativa da democracia influenciada por Jean Jacques Rousseau: “Toda a teoria política de Rousseau apoia-se na participação individual de
+
+cada cidadão no processo político de tomada de decisões, e, em sua teoria, a participação é
+
+bem mais do que um complemento protetor de uma série de arranjos institucionais”
+
+(Pateman, 1992, p.35). No seu Contrato Social, que deve ser enquadrado na respetiva época,
+
+Rousseau defende uma sociedade de igualdade e independência económica. Não exigia uma
+
+igualdade absoluta, mas destacava que as diferenças não deveriam levar à desigualdade
+
+política. Idealmente, deveria existir uma situação em que “nenhum cidadão fosse rico o
+
+bastante para comprar o outro e em que nenhum fosse tão pobre que tivesse de se vender”
+
+(Pateman, 1992, p.36). Para Rousseau, uma exigência vital era que cada indivíduo possuísse
+
+alguma propriedade, pois só com segurança e independência seria possível conferir a
+
+igualdade e independência política (Pateman, 1992). Para Rousseau, se existissem tais
+
+condições, os cidadãos poderiam agrupar-se enquanto indivíduos iguais e independentes na
+
+medida que “cada cidadão esteja em perfeita independência de todos os outros e em
+
+excessiva dependência da Cidade” (Rousseau, 1999, p.65).
+
+Entre os muitos elementos que dão forma à democracia liberal encontramos as instituições.
+
+Voltando a Schumpeter: a sua teoria enfatiza uma vertente minimalista de privilegiar as
+
+eleições sobre outas dimensões da democracia, isto é, define essencialmente a democracia
+
+como um método de escolha competitiva de governos entre as elites disponíveis,
+
+desvalorizando as demais instituições como o parlamento, o judiciário ou a polícia e a forma
+
+deficitária de funcionamento e separação de poderes, mesmo num regime de regras eleitorais
+
+(Karl, 2000). Considerando as limitações da teoria de Schumpeter e propondo uma ampliação
+
+da teoria, Robert Dahl definiu a abordagem das poliarquias, mostrando que é indispensável a
+
+participação dos cidadãos na escolha de governos, inclusive a possibilidade de eles próprios
+
+serem escolhidos. Como característica principal da democracia, o autor indicou a continua
+
+responsividade dos governos face à preferência dos cidadãos, o que implica a garantia das
+
+liberdades individuais e o direito de organização e representação da sociedade civil, em
+
+particular, os partidos políticos. É por intermédio destes que a pluralidade de conceções e
+
+interesses em disputa se podem expressar. Também é necessário que aquilo que se designou
+
+15
+
+de constitucionalismo, isto é, a necessidade de que princípios internalizados em instituições
+
+(como mecanismos de pesos e contrapesos) sejam garantidos por uma Constituição aceite e
+
+legitimada pela sociedade (Dahl, 1971).
+
+A par do que foi referido, a qualidade da democracia também assume especial relevo no nosso
+
+estudo. Nas décadas de setenta e oitenta, com as evoluções políticas no Sul da Europa e na
+
+América Latina, os estudos académicos centraram-se nas transições para os regimes
+
+democráticos. Com a proliferação de democracias resultante da terceira vaga de
+
+democratizações (Huntington, 1994), o foco mudou para a consolidação democrática. A
+
+Ciência Política pretendeu ir mais longe do que a importância da legitimidade em termos
+
+formais, procurando aferir e até mensurar de que forma as democracias contemporâneas
+
+asseguram a tradução prática das normas e das instituições do Estado de Direito, mas
+
+igualmente saber se estas podem ou não ser classificadas como democracias de qualidade.
+
+Mais recentemente, os estudos académicos centraram-se na compreensão da consolidação
+
+do autoritarismo após os processos de democratização e o surgimento de semidemocracias
+
+ou regimes híbridos (Plattner, 2005; Levitsky & Way, 2010; Teixeira, 2018).
+
+A compreensão da ideia de qualidade da democracia exige uma exposição dos termos que o
+
+compõem. Enquanto o termo democracia já se encontra explanado no nosso estudo, o termo
+
+qualidade, enquadrado na área da Ciência Política, pode ser entendido como um conceito
+
+crítico em que se pretende analisar várias dimensões: a qualidade dos procedimentos (Estado
+
+de Direito, competição, responsabilização vertical e horizontal e participação), pela qual a
+
+qualidade de um produto é o resultado de um processo exato e controlado; a qualidade do
+
+conteúdo (igualdade e liberdade), pela qual a qualidade resulta das características estruturais
+
+do produto; a qualidade dos resultados (responsividade), pela qual pode ser observável pelo
+
+grau de satisfação do cliente (Diamond & Morlino, 2005; Teixeira, 2018).
+
+Assim, a qualidade da democracia pode ser avaliada a partir do princípio geral de regime em
+
+que os cidadãos possuem um alto grau de liberdade, igualdade política e controlo sobre as
+
+políticas públicas e os políticos através do funcionamento legítimo e legal de instituições
+
+estáveis. Isto é, uma boa democracia pode ser entendida como um regime legitimado que vai
+
+de encontro às expectativas dos cidadãos; em que existe liberdade e igualdade política; e em
+
+16
+
+que os cidadãos avaliam se o governo estabelece a liberdade e a igualdade de acordo com o
+
+Estado de Direito (Diamond & Morlino, 2005).
+
+Contudo, neste entendimento sobre a qualidade da democracia deve haver algumas
+
+precauções. A elevada qualidade da democracia não deve ser entendida como um tipo de
+
+política ideal, revelando-se utópico; a análise comparativa evidencia inconsistências e
+
+compensações entre as várias dimensões da qualidade da democracia; a perceção que a
+
+sociedade tem das dimensões da qualidade da democracia pode ser desfasada da realidade;
+
+as estruturas cognitivas sobre as instituições e os processos da democracia são distintas entre
+
+grupos sociais, especialmente entre aqueles que exercem o poder e aqueles sobre o qual a
+
+autoridade é exercida (Diamond & Morlino, 2005). As diferenças entre sociedades e culturas
+
+também podem proporcionar diferentes entendimentos: diferentes culturas e padrões de
+
+desenvolvimento permitem explicar as variações nas perceções dos cidadãos, a anuência e a
+
+adequação de padrões democráticos (Dalton et al., 2007).
+
+A subjetividade demonstrada no entendimento da qualidade da democracia pode
+
+transparecer que a seleção de indicadores para a sua avaliação seja tendenciosa. Isto porque,
+
+mesmo que os cidadãos apresentem noções incompletas e distorcidas sobre a democracia, a
+
+verdade é que cada cidadão tem a sua visão de um regime e de uma sociedade. Por isso, a
+
+democracia é um processo em permanente redefinição. Daí que sejam importantes as
+
+medições e as avaliações da qualidade da democracia para poder haver uma avaliação da
+
+evolução da democracia (Coppedge, 2004; Diamond & Morlino, 2005).
+
+17
+
+Capítulo 2. Estado da arte
+
+2.1. Apoio político
+
+Tanto a origem como a robustez dos regimes políticos são preocupações que estiveram
+
+presentes na história do pensamento político. Aristóteles, na sua obra Política, já referia a
+
+importância dos sentimentos dos cidadãos relativamente à sobrevivência dos regimes
+
+(Coêlho, 1998) e Alexis de Tocqueville mencionou que a base dos regimes estava assente nos
+
+costumes do povo e na sua condição moral e intelectual (Tocqueville, 1994). Contudo, o
+
+estudo recorrente da cultura política só se iniciou com a proliferação de estudos de opinião
+
+realizados a partir de inquéritos por questionários aplicados a amostras representativas da
+
+população no século XX (Coppedge, 2012).
+
+A abordagem a este tipo de estudos pressupõe um conjunto de indagações que não são
+
+recentes na Ciência Política, como compreender quais são as bases do apoio e sustentação
+
+popular dos regimes políticos ou de que modo a avaliação feita pelos cidadãos sobre a
+
+democracia afeta ou não a legitimidade do regime político. Para haver essa compreensão é
+
+importante recuperar o debate sobre os valores, crenças, atitudes e comportamentos
+
+políticos dos cidadãos como indicadores da qualidade da democracia em Portugal (Teixeira,
+
+2018).
+
+Entre os estudos mais recentes, e nos quais foram aplicadas modernas técnicas de recolha e
+
+análise de dados, destaca-se o papel de David Easton e a sua obra A Systems Analysis of
+
+Political Life, de mil novecentos e sessenta e cinco. O contributo mais importante da sua obra
+
+foi a distinção que estabeleceu quanto ao tipo de apoio dos regimes democráticos, que pode
+
+ser difuso ou específico:
+
+A distinção está relacionada a um fenómeno político universal e conhecido.
+
+Normalmente, os membros de um sistema político podem encontrar-se em oposição
+
+às autoridades políticas, inquietos com suas políticas, insatisfeitos com suas condições
+
+18
+
+de vida e, quando têm oportunidade, preparados para destituir os governantes. Às
+
+vezes, essas condições podem levar a mudanças políticas ou sociais fundamentais. No
+
+entanto, noutras ocasiões, apesar do descontentamento generalizado, parece haver
+
+pouca perda de confiança no regime - a ordem subjacente da vida política - ou de
+
+identificação com a comunidade política. O descontentamento político nem sempre é,
+
+ou mesmo geralmente, o sinal para uma mudança política básica (Easton, 1975, p.436).
+
+Enquanto alguns tipos de avaliação estão sobejamente relacionados com o que as autoridades
+
+políticas fazem e como o fazem, outros tipos são de carácter mais fundamental porque são
+
+direcionadas a aspetos básicos do sistema político (Easton, 1975).
+
+A distinção feita por Easton ganhou relevância académica porque permitiu entender a
+
+avaliação que os cidadãos fazem dos regimes democráticos e tornou-se a base para estudos
+
+subsequentes, sendo usada e atualizada nomeadamente na obra Critical Citizens: Global
+
+Support for Democratic Government, editada por Pippa Norris, em mil novecentos e noventa
+
+e nove. A autora distingue a obra de Easton como uma das estruturas analíticas mais úteis, na
+
+medida em que faz a distinção entre o apoio à comunidade, ao regime e às autoridades
+
+(Norris, 1999), nomeadamente:
+
+o regime constituía a estrutura básica para governar o país. As pessoas não podiam
+
+escolher entre diferentes elementos do regime, aprovando algumas partes e
+
+rejeitando outras. Contudo, na prática, os cidadãos pareciam distinguir entre os
+
+diferentes níveis de regime, muitas vezes acreditando fortemente nos valores
+
+democráticos, por exemplo, ao mesmo tempo que se mostram críticos quanto à forma
+
+como os governos democráticos funcionam na prática (Norris, 1999, p.9).
+
+Influenciada pelos argumentos de Russel Dalton e Hans-Dieter Klingemann, que participam na
+
+mesma obra, Norris (1999) propõe consequentemente um quadro de análise em que
+
+diferentes objetos políticos são dispostos num eixo unidimensional, como exemplificado na
+
+figura seguinte:
+
+19
+
+Figura 1 The conceptual framework Diffuse Support
+
+Object of Support
+
+Summary of Trends
+
+Political Community
+
+High levels of support
+
+Regime Principles
+
+High levels of support
+
+Regime Performance
+
+Varied satisfaction with the workings of the regime
+
+Regime Institutions
+
+Declining confidence in government institutions; low levels
+
+of support in many newer democracies
+
+Political Actors
+
+Mixed trends in trust in politicians
+
+Specific Support Fonte: Norris (1999, p.10)
+
+Esta conceptualização pode ser entendida como uma
+
+classificação numa estrutura quíntupla, distinguindo-se entre o apoio político para a
+
+comunidade, os princípios do regime, o desempenho do regime, as instituições do
+
+regime e os atores do regime. Esses níveis podem ser vistos como variando em
+
+continuum, desde o apoio mais difuso ao Estado-nação, passando por níveis sucessivos
+
+até ao apoio mais concreto a políticos específicos (Norris, 1999, p.10).
+
+A abordagem unidimensional de Norris é contestada por Torcal e Montero (2006), que
+
+argumentam que as escolhas teóricas que estão implícitas no modelo da autora não fazem
+
+justiça aos contributos do modelo de Easton. Imputar uma só dimensão aos processos de
+
+apoio político é uma imprecisão, porque diferentes objetos podem ter apoio com base em
+
+princípios gerais (apoio difuso) ou com base no desempenho (apoio específico). O conceito de
+
+apoio político deve implicar a multidimensionalidade, na medida em que, em relação aos
+
+objetos políticos (comunidade política, princípios do regime, normas e procedimentos do
+
+regime, instituições políticas e autoridades políticas), é possível suscitar um apoio, em
+
+diferentes graus, de natureza especifica e difusa.
+
+20
+
+A importância do contributo de Easton para compreendermos a avaliação que os cidadãos
+
+fazem do regime democrático é evidenciada pelos outros autores. Isso leva-nos à necessidade
+
+de aprofundar e compreender melhor a sua abordagem. Pode entender-se o apoio específico
+
+como a aprovação do desempenho das instituições e dos atores políticos, ou seja, está
+
+relacionado com a avaliação que é feita pelos cidadãos do funcionamento concreto do sistema
+
+democrático e das suas principais instituições e atores políticos, bem como o modo como uns
+
+e outros satisfazem as funções básicas que lhes são atribuídas e respondem com eficácia às
+
+expectativas dos cidadãos. O apoio difuso pode ser entendido como a adesão aos princípios
+
+basilares do funcionamento do regime, ou seja, está relacionado com a lealdade dos cidadãos
+
+aos valores e ideais normativos associados à democracia enquanto regime político, resultando
+
+de aspetos de longo prazo relativos a diferentes dimensões da cultura política do país
+
+(Teixeira, 2018).
+
+Ao conceito de apoio difuso, Easton (1975) associa uma proximidade ao conceito de
+
+legitimidade, referindo que “o apoio difuso normalmente se expressa de uma segunda
+
+maneira importante, por meio da crença na legitimidade dos objetos políticos” (p.450). Para
+
+o autor, a legitimidade é um tipo de sentimento de apoio que pode ser direcionado a qualquer
+
+um dos três objetos políticos, não havendo dúvidas de que é apropriado falar na crença de
+
+legitimidade de um regime e das suas autoridades. Para esta crença, o autor apresenta um
+
+apoio legitimador de três tipos, conforme demonstrado na tabela seguinte:
+
+21
+
+Tabela 1 Tipos de legitimidade
+
+Objetos de legitimidade
+
+Fontes de legitimidade
+
+Regime
+
+Autoridades
+
+Ideologia
+
+Convicções morais sobre a
+
+Validade do regime
+
+Convicções morais sobre a validade
+
+dos titulares de funções de
+
+autoridade
+
+Estrutura
+
+Crença independente na validade
+
+da estrutura e normas
+
+Extravasamento da crença na estrutura para os titulares das
+
+funções de autoridade
+
+Qualidades pessoais
+
+Extravasamento da crença na validade das funções dos titulares
+
+das funções de autoridade para as próprias funções de autoridade
+
+(estrutura e normas do regime)
+
+Crença independente na validade das autoridades por causa de suas
+
+qualidades pessoais
+
+Fonte: Easton (1975, p.452)
+
+Relativamente aos objetos políticos, Norris e Dalton também apresentam um conjunto de
+
+objetos políticos: a comunidade política (sentimentos genéricos e fundamentais dos cidadãos
+
+quanto ao sentido de pertença à comunidade nacional); o regime político (apoio aos princípios
+
+gerais do regime, incluindo a aprovação de atitudes e valores democráticos e autoritários); as
+
+instituições políticas (a confiança nas instituições do Estado, nomeadamente no governo,
+
+parlamento, partidos, funcionalismo público, tribunais e forças de segurança); e as
+
+autoridades políticas (a confiança em titulares de cargos eleitos e nomeados) (Teixeira, 2018).
+
+No que respeita ao apoio político aos regimes democráticos, este também está relacionado
+
+com a experiência das pessoas:
+
+Os cidadãos identificam-se com as instituições porque aprendem a fazê-lo através de
+
+processos sucessivos de transmissão do seu significado pelas diferentes gerações
+
+(processo de socialização política). Mas, também, porque as suas experiências
+
+políticas, ao longo da sua vida adulta, os qualificam para avaliar racionalmente o
+
+desempenho dessas instituições. A participação em eleições e a vivência de processos
+
+institucionais que ampliam ou restringem o seu acesso a direitos estabelecidos pela lei
+
+fornece as bases do seu julgamento (Teixeira, 2018, p.54).
+
+22
+
+Easton (1975) também se refere à experiência das pessoas, salientando que além da sua
+
+origem na socialização, também se pode esperar que a confiança seja estimulada pelas
+
+experiências que os membros têm das autoridades ao longo do tempo.
+
+Apoio político em Portugal
+
+Consideremos estes aspetos no que diz respeito ao nosso país. Quanto ao apoio difuso em
+
+Portugal, e em sentido contrário ao nosso vizinho espanhol, praticamente desde a sua
+
+fundação que o país é relativamente homogéneo, isto é, sem minorias étnico-linguísticas ou
+
+étnico-religiosas significativas (Freire et al., 2003). Os inquéritos mais recentes evidenciam,
+
+como demonstrado na tabela seguinte, que, mesmo com um decréscimo entre dois mil e oito
+
+e dois mil e quatorze, o regime político democrático é largamente apoiado pelos cidadãos
+
+portugueses, sendo enganador falar-se de uma preocupante perda de legitimidade (Teixeira,
+
+2018).
+
+Tabela 2 Preferências dos cidadãos em relação a diferentes formas de governo em Portugal (2008 2014)
+
+2008
+
+2012
+
+2014
+
+Média Muito má
+
+0,4
+
+2,7
+
+1,9
+
+1,6
+
+Má
+
+3,7
+
+7,4
+
+12,7
+
+7,9
+
+Total
+
+4,1
+
+10,1
+
+14,6
+
+9,6
+
+Boa
+
+55,7
+
+56,9
+
+65,8
+
+59,5
+
+Muito boa
+
+40,2
+
+33,0
+
+19,6
+
+30,9
+
+Total
+
+95,9
+
+89,9
+
+85,4
+
+90,4
+
+Fonte: Teixeira (2018) Nota: “Concorda totalmente, concorda, discorda ou discorda totalmente da seguinte afirmação: a
+
+democracia pode ter muitos defeitos, mas é ainda assim a melhor forma de regime”
+
+23
+
+No que respeita ao apoio dos cidadãos ao sistema democrático, este pode ser
+
+multidimensional, sugerindo que a legitimidade do regime democrático está associada a dois
+
+tipos de atitudes políticas: a satisfação dos cidadãos com o desempenho do sistema
+
+democrático e a confiança nas principais instituições democráticas. Enquanto a satisfação ou
+
+insatisfação com a democracia presume uma perceção que varia conforme o desempenho
+
+específico dos governos, a confiança ou desconfiança nas instituições políticas presume a
+
+existência de motivações tanto atitudinais como normativas, ou seja, a confiança ou
+
+desconfiança depende da avaliação que os cidadãos fazem do funcionamento das instituições
+
+políticas (Teixeira, 2018).
+
+Especificando uma particularidade da satisfação com o funcionamento do sistema
+
+democrático, a literatura refere que tanto pode ser considerado um apoio difuso como um
+
+apoio específico, ou seja, tanto pode ser um indicador do apoio aos princípios básicos da
+
+democracia como de avaliação ao funcionamento específico do sistema político em
+
+determinada conjuntura concreta. Contudo, há um certo consenso de que a satisfação com o
+
+funcionamento do sistema democrático seja aferida pelo apoio específico (Fuchs et al., 1998;
+
+Klingemann, 1999).
+
+Numa análise comparativa do apoio dos portugueses ao sistema político democrático, Freire
+
+(2003) conclui que há uma forte adesão dos cidadãos aos princípios básicos da democracia,
+
+ao mesmo tempo que se verifica um forte criticismo face à classe política, uma insatisfação
+
+crescente com o desempenho da democracia e um elevado afastamento em relação ao poder.
+
+24
+
+2.2. Confiança nas instituições políticas
+
+A comunidade académica, ciente da influência que a confiança política exerce em muitas
+
+atitudes políticas dos cidadãos, reconhece a importância de investigar que fatores potenciam
+
+ou enfraquecem a confiança política, evidenciando-as em duas correntes teóricas que
+
+apresentamos supra: a culturalista e a institucionalista. A teoria culturalista pressupõe que a
+
+confiança política é uma extensão da confiança interpessoal e do capital social que os cidadãos
+
+adquirem durante a sua vida. A teoria institucionalista pressupõe que as instituições políticas
+
+são as criadoras fundamentais de confiança política, essencialmente quando funcionam
+
+adequadamente e produzem boas políticas públicas (Mishler & Rose, 2001; Putnam et al,
+
+1983).
+
+Respeitando os pressupostos do nosso estudo, seguimos a linha teórica institucionalista. No
+
+enquadramento das ciências sociais, as instituições podem ser entendidas como um conjunto
+
+de “regras, costumes, práticas e valores relativamente estáveis” que dirigem o
+
+comportamento dos indivíduos em sociedade, ou seja, “são conjuntos de procedimentos, são
+
+um meio para atingir os objetivos da vida em sociedade” (Belchior, 2015, p.25).
+
+O sistema político é suportado por um conjunto de instituições, tais como, a presidência da
+
+república, o parlamento, o governo, o sistema judicial, os partidos políticos, os sindicatos,
+
+entre outras. Estas instituições, apesar de verem a maioria das suas regras de funcionamento
+
+definidas na Constituição e na legislação ordinária complementar, não se regem
+
+exclusivamente pela lei. Há um conjunto de práticas e arranjos mais ou menos informais que
+
+as regem, nomeadamente procedimentos de tomada de decisão, práticas de bom
+
+relacionamento e procedimentos diplomáticos e protocolares entre instituições (Belchior,
+
+2015).
+
+A confiança que os cidadãos depositam uns nos outros para assegurarem o funcionamento da
+
+democracia e das suas instituições foi sempre um dos pontos precursores dos estudos de
+
+cultura política e vários estudos integram a confiança como um dos principais indicadores.
+
+Apesar de já referido neste estudo, pela sua relevância, é importante voltar a mencionar a
+
+obra The Civic Culture, de Gabriel Almond e Sidney Verba. Estes autores realizaram uma
+
+análise de dados em grande escala sobre o comportamento político e as novas atitudes de
+
+25
+
+indivíduos em sociedades industrializadas após a Segunda Guerra Mundial. Os autores
+
+anteviram uma mudança na cultura política em direção a uma maior participação política dos
+
+cidadãos, e que denominaram por cultura cívica. Este novo tipo de cultura política indicava
+
+um equilíbrio entre as crescentes competências de participação política, muito devido ao
+
+aumento dos níveis de educação e de informação, e um sentido de responsabilidade com o
+
+intuito de preservar a estabilidade democrática, inibindo os indivíduos a uma contínua
+
+intervenção cívica. A este pressuposto, que os autores consideraram ser a cultura política mais
+
+adequada, está intimamente relacionada a confiança. Esta forma de cultura política resultaria
+
+do equilíbrio entre sentimentos de confiança e de desconfiança dos indivíduos sobre as
+
+instituições (Almond & Verba, 1963).
+
+Contudo, os mesmos autores publicaram, em mil novecentos e oitenta e nove, a obra The Civic
+
+Culture Revisited para explicar o retrocesso da cultura cívica para a mesma população
+
+estudada. Esse retrocesso deveu-se a uma insatisfação generalizada relativamente ao
+
+desempenho dos governos, provocando uma quebra de confiança popular nas instituições e
+
+nas autoridades políticas (Almond & Verba, 1989).
+
+Outra obra de referência no estudo da confiança é Making Democracy work – Civic Traditions
+
+in Modern Italy, de Robert Putnam, que analisou vinte governos regionais italianos no período
+
+entre mil novecentos e setenta e o final dos anos oitenta. Putnam constatou que, “em
+
+comparação com o Norte, as regiões do Sul não estão em melhor situação hoje do que em
+
+1970” (p.184). Os motivos das diferenças de desempenho dos governos regionais deviam-se
+
+ao maior envolvimento cívico dos cidadãos do Norte em comparação com a inexistência de
+
+envolvimento e participação cívica dos cidadãos do Sul de Itália, muito devido à ineficiência
+
+dos governos e também à corrupção existente. O autor concluiu que o desempenho das
+
+instituições políticas e da democracia seriam afetadas pelo ambiente social, económico e
+
+cultural – aquilo que o autor designou como capital social. Ou seja, as características de uma
+
+organização social como a confiança, as normas sociais ou as redes de interação,
+
+aperfeiçoariam a eficiência do sistema político ao auxiliar o desenvolvimento de ações
+
+coletivas coordenadas. Nestas circunstâncias, o autor considerou a confiança um elemento chave porque apenas confiando nos outros e obtendo a confiança destes, a confiança,
+
+primordial para a evolução das comunidades, seria frutífera (Putnam, 1993).
+
+26
+
+Os autores citados tiveram como referência Alexis de Tocqueville e a importância que este
+
+atribuiu à confiança nos outros para a estabilidade democrática na obra A Democracia na
+
+América, publicada pela primeira vez em mil oitocentos e trinta e cinco. Em viagem pelos
+
+Estados Unidos da América para observar as prisões americanas, Tocqueville acabou por
+
+observar a sociedade como um todo e procurar as razões para a perseverança da democracia
+
+naquele país em contraste com o que acontecia em França. Uma das razões foi o espírito de
+
+igualdade que encontrou na comunidade, muito devido à condição social, religião e costumes
+
+que os imigrantes trouxeram para o país. Outra razão foi a capacidade de o cidadão ter um
+
+papel ativo no governo da sociedade e de fazer prevalecer o espírito associativo que vinha da
+
+consciencialização de que o bem-estar individual dependia da prosperidade comum para a
+
+qual cada cidadão deveria contribuir. A esta perspetiva de comunidade estava associada uma
+
+preponderante confiança dos cidadãos americanos na legislação produzida, no sistema
+
+judicial, nas decisões tomadas em maioria e na confiança entre os cidadãos da comunidade
+
+(Tocqueville, 1994).
+
+Os estudos apresentados, importantes pelo seu suporte teórico, foram o guia dos estudos
+
+mais recentes sobre a atual incidência da confiança política nas instituições. O argumento de
+
+vários autores vai no sentido de uma deterioração da confiança nas instituições políticas,
+
+principalmente nos países da Europa do Sul, nomeadamente em instituições políticas como o
+
+parlamento, o governo e os partidos políticos, entre dois mil e dois mil e quinze. Contudo, essa
+
+tendência de declínio não é inequívoca para todos os países da Europa, verificando-se, mesmo
+
+no contexto da crise económica provocada pela crise financeira de dois mil e oito, importantes
+
+diferenças entre países europeus (Marien, 2011; Torcal, 2014; Muro & Vidal, 2016).
+
+Teixeira et al. (2014) exploraram a questão da legitimidade democrática em Portugal e na
+
+Grécia, entre dois mil e oito e dois mil e doze, aplicando a diferenciação conceptual entre o
+
+apoio difuso (medido pelo grau de confiança nas instituições políticas) e o apoio específico
+
+(medido pelo grau de satisfação com o funcionamento da democracia e pelo apoio ao regime
+
+democrático) ao regime democrático. Foram apresentadas hipóteses explicativas sobre os
+
+efeitos de fatores demográficos (sexo, idade, educação), de fatores atitudinal‑cognitivo
+
+(valores pós‑materialistas, ideologia, voto, interesse pela política e exposição aos media) e de
+
+fatores de desempenho (avaliação da economia e do governo, e avaliação da resposta dos
+
+partidos à crise). Os resultaram mostraram que, no que diz respeito a Portugal, e apesar do
+
+27
+
+ligeiro declínio constatado em alguns indicadores relacionados com o apoio ao regime, “a
+
+democracia portuguesa parece ser apoiada por uma massa critica de cidadãos democráticos”
+
+(p.514). O interesse pela política e a exposição aos media quase não tiveram impacto:
+
+A ideia de que forças de longo prazo associadas à disseminação de valores pós materialistas tornam os cidadãos mais exigentes e críticos do governo também não
+
+parece ser verdade no caso português (provavelmente porque é habitualmente
+
+avaliado como um país não pós-materialista) (p.514).
+
+A confiança ou desconfiança no funcionamento das instituições políticas e no próprio sistema
+
+democrático pode ser encarada como um termómetro da vitalidade do sistema democrático,
+
+na medida em que, quando aponta para valores negativos, é indício de que as instituições
+
+políticas não estão a desempenhar as suas funções devidamente, podendo ser sinónimo de
+
+potencial crise no sistema; mas, quando existe excesso de confiança, pode ser igualmente
+
+problemática se, por exemplo, um governo que seja corrupto apresente elevados níveis de
+
+confiança. Numa outra perspetiva, a desconfiança pode ser interpretada como uma
+
+consequência do aumento de competências dos cidadãos em virtude de maior escolaridade e
+
+de acesso a informação, resultando num aumento de exigência em relação ao desempenho
+
+das instituições políticas, podendo ser entendido como algo benéfico (Belchior, 2015).
+
+Num estudo sobre a confiança nas instituições, Teixeira e Freire (2010) analisaram os
+
+determinantes da confiança nos parlamentos, entre os quais o português, para o período
+
+entre dois mil e dois mil e oito, a partir de quatro modelos explicativos: efeito dos recursos
+
+individuais; valores e atitudes políticas; níveis de apoio específico ao regime; confiança social
+
+e redes sociais. Os resultados permitiram concluir que, numa perspetiva comparativa, “existe
+
+um nível de confiança relativamente modesto no parlamento” (p.33). Contudo, esse facto não
+
+permite confirmar uma cultura política antiparlamentar, na medida em que os níveis de
+
+confiança verificados em Portugal, apesar de estarem abaixo em relação às médias mais
+
+elevadas do Norte da Europa, estão acima das verificadas no Leste da Europa. Relativamente
+
+aos determinantes individuais de confiança no parlamento, os autores concluíram que fatores
+
+associados ao apoio específico e à confiança institucional contribuem melhor para uma
+
+explicação dos níveis de confiança no parlamento como instituição.
+
+28
+
+As várias interpretações de confiança política, consoante as circunstâncias, revelam bem a sua
+
+importância para as instituições e para o regime democrático. Isso está patente em duas das
+
+obras mais distintas sobre o tema. Por outro lado, David Easton interpreta a confiança como
+
+uma forma de medir o apoio ao regime e às instituições, através do apoio difuso e do apoio
+
+específico. O autor considera que o sistema político tem a legitimidade de tomar decisões e
+
+fazer aceitá-las, sendo entendido como autoridade. Contudo, essa aceitação de autoridade
+
+está dependente da confiança política, isto é, a confiança contribui para a legitimidade e
+
+aceitação das decisões políticas em democracia (Easton, 1965). Por sua vez, Norris (1999)
+
+interpreta a desconfiança como uma mais-valia, recusando que uma visão mais crítica dos
+
+cidadãos em relação ao sistema político deva ser entendida como algo negativo: o aumento
+
+do nível de escolaridade e o maior acesso de informação pode ser um fator primordial para se
+
+compreender a oposição a regimes não democráticos e a reivindicação por governos mais bem
+
+preparados, transparentes e eficientes.
+
+A relação entre desconfiança política e performance política não tem de ter a mesma direção
+
+interpretativa. Na verdade, a desconfiança política não é sinónimo incontestável de que a
+
+performance política seja má ou que tenha piorado. Isto deve-se a duas razões. Em primeiro
+
+lugar, os governos não têm de seguir a sua ação política pela opinião pública e seus
+
+sentimentos. As decisões políticas devem ser guiadas pelo bem comum e não por instintos
+
+populistas, com uma gestão da ação política tendo em vista satisfazer os interesses do
+
+eleitorado em função da sua popularidade (Belchior, 2015). Em segundo lugar, estamos a lidar
+
+com perceções e julgamentos que podem ser condicionados por diversas razões, tais como o
+
+desconhecimento, o desinteresse por assuntos políticos, a discórdia em relação a um assunto
+
+em concreto, a influência de comentadores políticos ou apreciações de natureza pessoal
+
+(Belchior, 2015). Esse condicionamento foi percecionado por Hetherington e Husser (2012),
+
+ao constatarem que a confiança no governo norte-americano varia conforme a área de
+
+governo que está em destaque em determinado momento: “a quantidade de confiança que
+
+as pessoas transmitem e o impacto que isso tem dependerá de quais partes do governo estão
+
+preparadas para considerar” (p.313). Os norte-americanos estão habituados a olhar para o
+
+governo pela sua capacidade de lidar com questões de redistribuição e de raça. Contudo,
+
+aquando do onze de setembro, houve um aumento massivo de atenção por parte dos meios
+
+de comunicação para as questões de defesa e política externa, alterando as suas preferências
+
+29
+
+políticas e de confiança em relação ao governo. Os autores concluíram que “quando as
+
+questões de defesa se tornam relevantes, as pessoas são preparadas para avaliar a
+
+confiabilidade do governo com considerações baseadas na defesa em mente, o que, por sua
+
+vez, faz com que a confiança afete as preferências neste domínio” (p.322). O mesmo
+
+acontecendo quando as questões predominantes são sobre distribuição e raça: “A confiança
+
+terá consequências nos domínios de política que se destacam” (p.323).
+
+O estudo da confiança política suscita o interesse em compreender quem é mais otimista ou
+
+mais cético em relação às instituições políticas e ao regime democrático. As pessoas mais
+
+otimistas em relação à confiança nas instituições políticas (parlamento, governo, sistema
+
+jurídico, partidos políticos, políticos) apresentam, na generalidade, um conjunto de
+
+características: em termos sociais, são indivíduos mais escolarizados e pertencem a estratos
+
+socioeconómicos mais favorecidos, confirmando um sentimento de confiança política e de
+
+satisfação com o sistema político, sendo, consequentemente, os que mais votam (Belchior,
+
+2015). Os mais céticos caracterizam-se por adotarem uma forma de participação menos
+
+convencional ou desligada de partidos políticos, e quando votam tendem a votar em branco
+
+ou nulo ou escolhendo partidos extremistas ou populistas. Os cidadãos que demonstram
+
+menos confiança são mais críticos, mas também mais permissivos quanto à aceitação e
+
+adoção de comportamentos ilegais (Marien & Hooghe, 2011).
+
+Os efeitos provocados pela crise financeira de dois mil e oito também foram um impulsionador
+
+da deterioração da confiança nas instituições políticas. O estudo desenvolvido por Torcal
+
+(2014) analisou o problema da crescente desconfiança nas instituições democráticas
+
+europeias, com destaque para Portugal e Espanha. Para o período entre dois mil e oito e dois
+
+mil e doze, foi registado, em ambos os países, um aumento significativo da desconfiança no
+
+parlamento e nos partidos políticos e menos significativo em relação às instituições judiciais.
+
+O autor entende que essa “crescente desconfiança institucional se deve em grande parte às
+
+perceções dos cidadãos de que o sistema política não responde às suas necessidades”
+
+(p.1543). Apesar de o estudo se ter focado num período de crise financeira, em Portugal e em
+
+Espanha as preocupações económicas não foram o “melhor indicador de deterioração da
+
+confiança nas instituições de representação, tendo quase nenhum efeito sobre a confiança
+
+individual nas instituições do Estado” (p.1560). O fator mais contundente para a desconfiança
+
+é que “as instituições e seus membros não respondem e, além disso, são corruptos” (p.1560),
+
+30
+
+ou seja, a responsividade política foi o maior influenciador de confiança nas instituições
+
+analisadas.
+
+Por sua vez, Muro e Vidal (2016) desenvolveram um estudo com o objetivo de explicar o
+
+aumento da desconfiança política desde dois mil e oito em Itália, Portugal, Grécia e Espanha.
+
+Apesar de a confiança política ser tradicionalmente baixa nestes países, a crise financeira
+
+acentuou a desconfiança política, algo que os autores tentaram compreender através de duas
+
+explicações possíveis, partindo de variáveis económicas e/ou políticas como possíveis
+
+responsáveis: uma com uma predominância macroeconómica através das variáveis
+
+desemprego, PIB per capita, inflação da dívida publica; outra com a predominância política
+
+através das variáveis eficácia do governo e corrupção política. Em suma, concluíram que “uma
+
+interação entre desempenho económico e escândalos de corrupção é a melhor explicação
+
+para os níveis crescentes de desconfiança política no sul da Europa desde a Grande Recessão”
+
+(p.18).
+
+Confiança nas instituições políticas em Portugal
+
+As instituições políticas ganharam um papel primordial nas democracias modernas ao serem
+
+instituídas como um meio através do qual os cidadãos concretizam as suas aspirações e
+
+interesses, sendo-lhes atribuída a função de mediação que possibilita distinguir o regime
+
+democrático de outras formas de governo (Teixeira, 2018). A adequada perceção de confiança
+
+nas instituições políticas portuguesas revela a necessidade de uma apresentação de dados
+
+comparativos e longitudinais, nomeadamente das principais instituições políticas
+
+portuguesas: governo, parlamento, partidos políticos e sistema de justiça. As figuras seguintes
+
+representam esses resultados:
+
+31
+
+Figura 2 Nível de confiança no Governo português
+
+Fonte: Eurobarometer (citado em Portal de Opinião Pública, 2021) Nota: % dos cidadãos que “tendem a confiar” no Governo português Quando este estudo foi elaborado, o indicador estava atualizado à data de 01.06.2021
+
+Figura 3 Nível de confiança no Parlamento português
+
+Fonte: Eurobarometer (citado em Portal de Opinião Pública, 2021) Nota: % dos cidadãos que “tendem a confiar” no Parlamento português Quando este estudo foi elaborado, o indicador estava atualizado à data de 01.06.2021
+
+32
+
+Figura 4 Nível de confiança nos partidos políticos portugueses
+
+Fonte: Eurobarometer (citado em Portal de Opinião Pública, 2021) Nota: % dos cidadãos que “tendem a confiar” nos partidos políticos portugueses Quando este estudo foi elaborado, o indicador estava atualizado à data de 01.06.2021
+
+Figura 5 Nível de confiança no sistema de justiça português
+
+Fonte: Eurobarometer (citado em Portal de Opinião Pública, 2021) Nota: % dos cidadãos que “tendem a confiar” no sistema de justiça português Quando este estudo foi elaborado, o indicador estava atualizado à data de 01.06.2021
+
+33
+
+2.3. Satisfação com a democracia e interesse político
+
+A importância da análise das atitudes e comportamentos dos cidadãos na satisfação com a
+
+democracia e o seu interesse político são fundamentais porque os cidadãos são os melhores
+
+juízes para julgarem as democracias, os sistemas institucionais e os governos (Pasquino, 2002).
+
+Nos estudos comparados de cultura política as avaliações feitas pelos cidadãos têm por base
+
+as suas atitudes, crenças e avaliações face à democracia, sendo estas dimensões essenciais
+
+numa verificação comparativa daquele desempenho, sobretudo em matéria da respetiva
+
+qualidade (Freire, 2003).
+
+As atitudes e comportamentos dos cidadãos podem ser vistas como uma fonte de legitimidade
+
+do regime, isto é, podem ser vistas tanto pela confiança que os cidadãos consignam às
+
+principais instituições democráticas, como também pela satisfação com o desempenho do
+
+sistema democrático (Teixeira, 2018). O apoio ao regime democrático demonstrado pela
+
+satisfação dos cidadãos pode ser uma reserva fundamental para as democracias encararem
+
+os momentos mais complicados das suas histórias (Linz, 1995). Contudo, a cultura política não
+
+se preocupa só com o apoio político – a predisposição dos cidadãos para a participação no
+
+processo político também é fundamental (Sanders & Bellucci, 2012). Uma forma de medir o
+
+envolvimento político de um cidadão é pelo seu grau de interesse na política (predisposição
+
+para discutir assuntos políticos), através da medição de como a população de um país
+
+acompanha a atualidade política e consegue formar uma opinião sobre os assuntos políticos.
+
+Almond e Verba (1963), além dos traços passivos, também incluem no enquadramento da
+
+cultura cívica os traços participativos de envolvimento político dos cidadãos.
+
+Enquanto argumento teórico, estas duas dimensões podem ter várias configurações. Por um
+
+lado, é possível que um cidadão concorde com os princípios do regime democrático e
+
+demonstre satisfação com os resultados da democracia e, ao mesmo tempo, devido a uma
+
+convergência de fatores, não sinta interesse pela política. Contrariamente, um cidadão que
+
+esteja insatisfeito com o funcionamento da democracia pode procurar resolver as questões
+
+que lhe suscitam maior descontentamento através de um envolvimento mais ativo
+
+(Klingemann, 2014).
+
+34
+
+A investigação académica mais recente ao nível da cultura política ganhou relevância após a
+
+Segunda Guerra Mundial com as mudanças políticas ocorridas. Almond e Verba (1963)
+
+apresentam um caso paradigmático de envolvimento político: o caso italiano. Este tornou-se
+
+referência ao ser caracterizado pela desorganização social, pela desconfiança e por baixos
+
+níveis de envolvimento político que se transmitiriam entre sucessivas gerações. Contudo, os
+
+autores previram que, com o desenvolvimento económico do pós-guerra, haveria uma
+
+distribuição mais equitativa de rendimentos, levando ao enfraquecimento do tradicionalismo
+
+e ao aumento da confiança no sistema político. É de salientar que, apesar dos baixos níveis de
+
+satisfação com a democracia, o sistema democrático italiano subsistiu sem reformas
+
+profundas desde o pós-guerra atá mil novecentos e noventa e quatro (Freire, 2003).
+
+Esta característica do povo italiano do pós-guerra era transversal aos restantes países da
+
+Europa do Sul pela sua familiaridade cultural. De acordo com alguns autores, a
+
+incompatibilidade entre a cultura política e a robustez da democracia resultaria do papel
+
+predominante da religião. Lipset (1959) afirmou que o sistema de crenças associado à religião
+
+católica era inconciliável com a legitimação da democracia. Almond e Verba (1963)
+
+justificaram que a cultura política italiana era muito marcada pelo paroquialismo, evidenciado
+
+pela maioria dos votos do partido Democracia Cristã advirem de cidadãs católicas sem
+
+interesse pela política.
+
+Também em França a cultura política tem sido alvo de análise, principalmente pela sua
+
+diversidade social. Retratando a evolução do capital social em França, Worms (2002) destacou
+
+que o Estado francês “desempenhou um papel crucial na formação da sociedade civil” (p.41).
+
+Apesar do importante papel do Estado, “praticamente todas as instituições políticas estão
+
+sujeitas a um grau extremamente alto de crítica e desconfiança” (p.182). Aquilo que parece
+
+ser um desinteresse pela política é, na verdade, uma rejeição de instituições disfuncionais e
+
+resulta do anseio por outro tipo de políticas, “ilustrado pelo envolvimento crescente em
+
+formas de participação direta na política” (p.184). Ao nível do voto, verificou-se uma
+
+tendência em candidatos extremistas, candidatos inelegíveis, votos nulos e abstenções
+
+deliberadas. Em consequência, um país com uma “tradição de participação eleitoral
+
+relativamente alta, está agora em posição de eleger uma maioria parlamentar representando
+
+uma minoria do eleitorado” (p.183).
+
+35
+
+A diversidade de estudos sobre a cultura política levou a que Torcal e Magalhães (2009, p.42)
+
+fizessem uma análise mais profunda sobre se “existe uma cultura política do Sul da Europa?”
+
+Aplicaram um conjunto de variáveis para encontrarem uma resposta adequada, tais como
+
+confiança social, satisfação com a democracia, confiança no parlamento, interesse pela
+
+política e eficácia interna. Os autores quiseram verificar quais os traços comuns entre Itália,
+
+Espanha, Portugal e Grécia e as diferenças em relação a outros países europeus. Em resposta
+
+à pergunta central do estudo, os autores concluíram que, “na maioria dos casos, o caso do
+
+excecionalismo do Sul da Europa no que diz respeito a atitudes e valores políticos é
+
+excecionalmente difícil de defender” (p.42). Esta conclusão deve-se, por um lado, às
+
+diferenças consideráveis em várias dimensões destes países para que haja uma coesão
+
+significativa. Por outro lado, em relação a outras democracias europeias, tanto ocidentais
+
+como de leste, não se verificaram grandes diferenças em muitos indicadores.
+
+No que concerne a algumas das variáveis analisadas, importa salientar que, relativamente ao
+
+nível de apoio ao regime democrático, não parece haver diferenças entre as democracias da
+
+Europa do Sul e as restantes democracias europeias ocidentais. Quanto à confiança nas
+
+instituições e à confiança social, existem padrões de semelhança entre as democracias da
+
+Europa do Sul e as recentes democracias da Europa de Leste. No que respeita aos níveis de
+
+rejeição das alternativas autoritárias, níveis de satisfação com a democracia e níveis relatados
+
+de participação política, entre Itália, Espanha, Portugal e Grécia, parece haver mais diferenças
+
+do que alegadas semelhanças (Torcal & Magalhães, 2009).
+
+A única exceção aparente diz respeito ao interesse político: as democracias da Europa do Sul
+
+parecem ter um “nível persistente e comparativamente baixo” de envolvimento na esfera
+
+política em comum com as demais democracias europeias. A explicação mais preponderante
+
+do interesse político é encontrada no nível de educação dos cidadãos, sendo que Itália,
+
+Espanha, Portugal e Grécia apresentam níveis mais baixos de educação (Torcal & Magalhães,
+
+2009, p.42).
+
+Recentemente, a literatura sobre cultura política tem demonstrado um interesse na crise
+
+financeira de dois mil e oito, com o intuito de analisar o impacto entre os cidadãos e os
+
+sistemas políticos. Numa perspetiva geral, uma perceção negativa da situação económica
+
+tende a erodir as avaliações da democracia, sendo que “a satisfação com o funcionamento da
+
+36
+
+democracia é afetada pela perceção da economia” (Cordero & Simón, 2015, p.15). A crise
+
+financeira de dois mil e oito provocou grandes mudanças, concretamente nos países que
+
+sofreram resgates económicos e estiveram sob supervisão da Troika, como Portugal, em que
+
+“os cidadãos insatisfeitos com a economia aumentam o seu apoio aos valores democráticos”
+
+(p.16).
+
+Satisfação com a democracia e interesse político em Portugal
+
+Relativamente ao grau de satisfação dos portugueses com a democracia, entre dois mil e dois
+
+mil e dezasseis, o nível de satisfação passou de quarenta e oito por cento para quarenta por
+
+cento, sendo que os níveis mais baixos correspondem ao período entre dois mil e onze e dois
+
+mil e quatorze, período do resgate financeiro e da intervenção da Troika em Portugal. No
+
+período a posteriori constatou-se um claro otimismo em relação à democracia, passando de
+
+trinta e três vírgula três por cento em dois mil e quatorze para cinquenta e dois por cento em
+
+dois mil e dezasseis (Teixeira, 2018).
+
+Considerando o interesse dos cidadãos portugueses por assuntos políticos, em dois mil e doze,
+
+entre vinte e dois países europeus, Portugal ocupava a última posição, no extremo oposto dos
+
+países escandinavos (Dinamarca, Suécia e Noruega), Alemanha e Suíça. Ressalta-se que,
+
+nesses países, menos de metade dos inquiridos admitiam ter interesse pela política, e em
+
+Portugal eram menos de um quarto. A tendência crescente de desinteressados acarreta
+
+preocupações porque a tomada de decisões fundamentadas implica interesse e informação
+
+pela política. E embora essa tendência possa ser decifrada por sentimentos de desconfiança,
+
+insatisfação e alheamento político, também é sinónimo de demissão dos deveres dos cidadãos
+
+(Belchior, 2015).
+
+As figuras seguintes representam, para Portugal, a evolução destas duas dimensões da cultura
+
+política em relação à democracia.
+
+37
+
+Figura 6 Nível de satisfação com a democracia portuguesa
+
+Fonte: Eurobarometer (citado em Portal de Opinião Pública, 2021) Nota: Valor médio, numa escala de 1 (nada satisfeito) a 4 (muito satisfeito) Quando este estudo foi elaborado, o indicador estava atualizado à data de 01.06.2021
+
+Figura 7 Nível de interesse político dos portugueses
+
+Fonte: Eurobarometer (citado em Portal de Opinião Pública, 2021) Nota: Valor médio, numa escala de 1 (nada satisfeito) a 4 (muito satisfeito) Quando este estudo foi elaborado, o indicador estava atualizado à data de 07.07.2020
+
+38
+
+2.4. Democracia e Covid-19
+
+Numa observação geral às crises, as respostas, numa perspetiva de desempenho, podem
+
+acolher um conjunto de críticas ou um reforço do status quo, dependendo do desempenho
+
+das instituições políticas e de como os cidadãos percebem o seu desempenho (Campbell,
+
+2012). Numa perspetiva de apoio político, as respostas adotadas face às crises podem afetar
+
+o apoio político de duas formas. Numa primeira forma, podem unir os cidadãos em torno das
+
+instituições quando há a perceção de que as políticas adotadas ajudaram a resolver o
+
+problema ou pelo menos o aliviaram (Healy & Malhotra, 2009). Numa segunda forma, podem
+
+alterar o apoio às instituições devido à mudança de visão que os cidadãos têm das mesmas,
+
+podendo, por exemplo, provocar uma mudança de regime (Ruiz-Rufino & Alonso, 2017).
+
+Relativamente à pandemia provocada pela doença Covid-19, esta representou um enorme
+
+desafio para os regimes democráticos, principalmente no que diz respeito aos problemas
+
+causados pelo elevado número de mortes e pela paralisação económica. Em resposta ao
+
+possível impacto sanitário da doença, a maioria dos países foi obrigada a medidas de
+
+confinamento social, algo que só acontecia em períodos de guerra ou catástrofes. Embora
+
+possam ser medidas compreendidas pela maioria da população como o meio mais eficaz para
+
+conter a propagação do vírus SARS-CoV-2, elas foram fortemente redutoras das liberdades
+
+individuais, diminuíram o capital social e trouxeram extrema insegurança económica (Fetzer
+
+et al., 2020).
+
+A pandemia proporcionou um conjunto de estudos sobre as consequências pandémicas no
+
+suporte político às democracias e a literatura tem mostrado que não há consenso sobre as
+
+consequências políticas da crise, muito em resultado de não ter decorrido o tempo necessário
+
+para essa avaliação.
+
+Numa análise aos comportamentos políticos provocados pela pandemia nas eleições locais do
+
+Estado da Baviera, no Sul da Alemanha, podemos afirmar que a pandemia beneficiou
+
+consistentemente o partido dominante e os seus candidatos, que obtiveram melhores
+
+resultados nas áreas mais afetadas pela pandemia (Leininger & Shaud, 2020). Isto permitiu
+
+aos autores concluírem que os resultados alcançados “contradizem as afirmações teóricas de
+
+que eventos negativos reduzem o apoio aos políticos em exercício” (p.28).
+
+39
+
+Merkley et al. (2020, p.313) realizaram uma análise a membros do Parlamento Federal
+
+canadiano, nomeadamente a redes sociais, tendências de pesquisa no Google e opiniões
+
+públicas para avaliarem as respostas à pandemia. Concluíram que “as elites políticas no
+
+Canadá apresentam uma frente unida sobre a natureza e a gravidade da pandemia Covid-19”.
+
+A perceção de que há um apoio em torno dos líderes em situações de guerra ou ataques
+
+terroristas leva ao questionamento sobre se as medidas de confinamento aplicadas no início
+
+da pandemia diferem das crises estudadas na literatura que são respostas a crises políticas
+
+com efeitos negativos sobre a economia. O estudo foi direcionado a dinamarqueses
+
+desempregados nas primeiras três semanas de confinamento sobre a confiança nas
+
+instituições democráticas. Os resultados mostram que a confiança no governo foi maior após
+
+o anúncio do confinamento e foi aumentando com o evoluir da pandemia. O aumento da
+
+confiança também se verificou em instituições como o sistema de justiça e o setor público em
+
+geral, mas é menos claro em relação ao parlamento. Utilizando dois procedimentos
+
+estatísticos, estimativas ordinary least squares e interrupted time series, os resultados foram
+
+semelhantes. Baekgaard et al. (2020) concluíram que os cidadãos tendem a unir-se em tempos
+
+de crise e que esse aumento de confiança tende a transbordar para instituições que não estão
+
+envolvidas diretamente nas decisões de gestão da crise.
+
+Numa pesquisa realizada a cidadãos espanhóis por forma a analisar as suas reações aos
+
+dilemas democráticos colocados pela pandemia, Amat et al. (2020) verificaram uma tendência
+
+de mudança no sentido de uma governação tecnocrática e de uma liderança forte. Embora
+
+essa mudança possa ser temporária e até racional numa troca de liberdades civis e pluralismo
+
+pela proteção contra o vírus, os autores levantaram a questão sobre essas preferências
+
+tecnocráticas e autoritárias terem consequências duráveis para as democracias afetadas.
+
+Existem dois modos pelo qual a pandemia pode afetar a democracia: o modo direto
+
+corresponderia a uma transformação durável das preferências de representação sob a
+
+atualização negativa de um conjunto de crenças da capacidade de proteção dos regimes
+
+democráticos, representativos e liberais; o modo indireto corresponderia ao impacto da
+
+pandemia, que seria uma oportunidade para os pretendentes a líderes autoritários
+
+conquistarem e centralizarem o poder, aumentando o controlo e a vigilância da população.
+
+40
+
+Nos Estados Unidos da América foi realizada uma pesquisa de âmbito nacional para avaliar
+
+como o partidarismo e as informações políticas moldam os comportamentos em relação às
+
+atitudes políticas. Os resultados, sem efeitos estatisticamente significativos, mostraram que o
+
+fornecimento de informações partidárias e políticas sobre a doença Covid-19 não originou
+
+uma mudança mensurável na confiança política ou nas preferências políticas (Gadarin et al.,
+
+2020). No mesmo país, para se estudar a influência do partidarismo político nas respostas
+
+comportamentais na prevenção à doença Covid-19 através das recomendações dos
+
+Governadores dos Estados Federais, foram usadas estatísticas de mobilidade derivadas de
+
+dispositivos de geolocalização. Os resultados mostraram a importância das mensagens dos
+
+governadores estaduais, mas também mostraram que o partidarismo político influenciou as
+
+respostas dos cidadãos às mensagens dos governadores sobre a necessidade de haver um
+
+distanciamento físico e uma permanência nos domicílios. Quanto à influência dos partidos, os
+
+Estados Federais com tendência democrata foram especialmente recetivos às mensagens dos
+
+governadores republicanos, enquanto que Estados Federais com tendência republicana
+
+responderam com menos força às mensagens dos governadores (Grossman et al., 2020).
+
+O combate à doença Covid-19 obrigou a que muitas medidas drásticas fossem tomadas pelos
+
+governos, muitas delas em difícil equilíbrio entre a necessidade de proteção das populações e
+
+a preservação dos direitos e liberdades fundamentais. Não sendo um equilíbrio consistente,
+
+Engler et al. (2021) investigaram a relação entre a qualidade (maior ou menor restrição de
+
+liberdades individuais e concentração e poder) da democracia e as respostas dos governos no
+
+combate à doença Covid-19. Numa análise a trinta e quatro democracias europeias
+
+verificaram uma grande variedade na forma como os governos lidaram com o dilema
+
+democrático na primeira vaga da doença Covid-19. Nos países onde a qualidade da
+
+democracia é maior em tempos normais, os governos foram bastante resistentes a tomar
+
+medidas possivelmente conflituantes com os princípios democráticos, havendo uma
+
+“associação forte e estatisticamente robusta entre a proteção constitucional e o respeito de
+
+fato pelas liberdades individuais, por um lado, e a relutância dos governos em restringir tais
+
+liberdades como parte da luta contra a Covid-19 por outro” (p.1095).
+
+Existe, frequentemente, o pressentimento de que os regimes democráticos não fornecem
+
+uma resposta rápida, forte e eficaz a uma crise pandémica como os regimes autoritários; estes
+
+últimos têm a capacidade de agir mais rapidamente, com mais força, com uma mobilização de
+
+41
+
+recursos mais eficaz e sem a preocupação de consequências eleitorais. A falta de uma resposta
+
+rápida e eficaz das democracias, alega-se, sem evidências concretas, que resulta em maior
+
+número de infeções e efeitos mais negativos para a saúde. Para a doença Covid-19, o estudo
+
+desenvolvido por Karabulut et al. (2021) demonstrou que, apesar das taxas de infeção do vírus
+
+parecerem mais altas em países democráticos, as taxas de letalidade observadas foram mais
+
+baixas. Os resultados também mostraram que houve uma associação negativa entre as taxas
+
+de letalidade e as tentativas de os governos censurarem os meios de comunicação social –
+
+contudo, essa censura relacionou-se positivamente com a taxa de infeção. Os autores
+
+concluíram que “os países democráticos podem reagir lentamente no curto prazo, mas
+
+valorizam mais a vida e a saúde humana” (p.3).
+
+Democracia e Covid-19 em Portugal
+
+Considerando a situação portuguesa, evidenciamos como foi percecionada a resposta das
+
+instituições políticas portuguesas à crise pandémica, pelo menos na primeira fase. De acordo
+
+com Silva et al. (2021), Portugal foi elogiado internacionalmente pelo exemplo demonstrado
+
+quando comparado com outros países do Sul da Europa. As medidas adotadas pelo governo
+
+para responder à propagação inicial do vírus contou com o apoio dos cidadãos e de várias
+
+partes da sociedade portuguesa. Os partidos da oposição mantiveram um tom pragmático e
+
+conciliador durante as fases de confinamento e o Chefe de Estado teve um papel de grande
+
+colaboração com o governo. Os baixos níveis de polarização política e um clima de colaboração
+
+que se verificou entre partidos foram fatores que proporcionaram aquilo que os autores
+
+apelidaram de “milagre português”.
+
+42
+
+PARTE II - ESTUDO EMPÍRICO
+
+43
+
+Capítulo 3. Metodologia
+
+3.1. Objetivo e âmbito do estudo
+
+No que diz respeito à revisão da literatura, o nosso estudo desenvolveu-se numa perspetiva
+
+de avaliação da qualidade da democracia, nomeadamente através da confiança nas
+
+instituições democráticas como o governo, o parlamento, os partidos e o sistema de justiça, e
+
+também através da satisfação com a democracia e no interesse político dos cidadãos. A
+
+avaliação da qualidade da democracia é construída a partir da perceção política dos cidadãos,
+
+tendo como base a cultura política dos cidadãos. No estudo que a Parte II apresentará,
+
+pretendemos perceber o efeito de um choque exógeno, a pandemia provocada pela doença
+
+Covid-19, na avaliação da qualidade da democracia portuguesa.
+
+A abordagem metodológica consistirá num conjunto de parâmetros de conexão entre a
+
+componente teórica e a componente empírica do estudo. A consecução da componente
+
+empírica deve ser adequada com os pressupostos do estudo e coerente com a componente
+
+teórica. Isto é, deve ser adotada a melhor técnica de recolha e tratamento de dados que se
+
+coadune ao espaço temporal delimitado para a elaboração do estudo. A par disso, deve haver
+
+uma certa aproximação às técnicas de recolha e tratamentos de dados adotadas nos estudos
+
+mencionados no estado da arte, possibilitando uma futura comparação e fundamentação de
+
+conclusões. Também deve haver um enquadramento com os objetivos do estudo, tendo por
+
+finalidade validar ou rejeitar as hipóteses de investigação e responder às perguntas de
+
+investigação.
+
+A pandemia provocada pela doença Covid-19 obrigou os governos democráticos a adotarem
+
+medidas severas e restritivas dos direitos e das liberdades individuais dos cidadãos em
+
+interesse de um bem coletivo. A aceitação ou rejeição dessas medidas em detrimento dos
+
+direitos individuais provocou um conjunto de atitudes ou perceções positivas ou negativas
+
+sobre a democracia, influenciando a sua qualidade. É a partir deste contexto que surge a nossa
+
+pergunta de investigação central: De que forma a pandemia provocada pela doença Covid-19
+
+44
+
+afetou a qualidade da democracia portuguesa? Como perguntas de investigação secundárias:
+
+De que forma a pandemia provocada pela doença Covid-19 afetou a confiança nas instituições
+
+políticas da democracia portuguesa? De que forma a pandemia provocada pela doença Covid 19 afetou a satisfação com a democracia portuguesa e o interesse político dos cidadãos
+
+portugueses?
+
+Considerando o referido, o nosso estudo assenta nos seguintes pressupostos: o objeto de
+
+estudo são os níveis de confiança nas instituições políticas, a satisfação com a democracia e o
+
+interesse político da população portuguesa; como objetivo do estudo, pretendemos perceber
+
+o efeito de um choque exógeno – a pandemia – na avaliação da qualidade da democracia
+
+portuguesa; relativamente ao espaço temporal do nosso estudo, os indicadores analisados
+
+estão compreendidos entre o ano dois mil e o ano dois mil e vinte e um, tendo como ponto
+
+principal o impacto causado pela pandemia provocada pela doença Covid-19 em dois mil e
+
+vinte.
+
+45
+
+3.2. Modelo de análise
+
+Os estudos sobre a qualidade da democracia ganharam destaque académico após a segunda
+
+guerra mundial com a proliferação do regime democrático por vários países, principalmente
+
+na Europa. Nos primeiros tempos, a análise debruçou-se sobre a transição para os regimes
+
+democráticos e a sua consolidação. Posteriormente, a atenção académica passou da
+
+consolidação do regime democrático para as ameaças ao mesmo.
+
+A pluralidade do sistema político democrático tem demonstrado um conjunto de fragilidades,
+
+como a lentidão de decisão e a falta de consenso alargado. Estas fragilidades têm sido
+
+demonstradas por um descontentamento das populações em relação à atuação do regime,
+
+sendo extremado por alguns elementos da sociedade na tentativa de reimplementar, como
+
+solução às falhas do regime democrático, regimes autoritários ou democracias iliberais.
+
+Subjacente às ações e perceções das populações encontramos uma condicionante vital: a
+
+cultura política dos cidadãos, que condiciona o modo de reagir, atuar e avaliar as situações,
+
+neste caso a qualidade da democracia.
+
+O último grande caso a provocar descontentamento com a atuação política foi a crise
+
+financeira de dois mil e oito. Os impactos, principalmente nos países da Europa do Sul, foram
+
+devastadores, destruindo a vida de muitas famílias e hipotecando o futuro de muitos. A forma
+
+como as instituições políticas lidaram com o problema refletiu-se no apoio específico à
+
+democracia e na avaliação da sua qualidade. A confiança nas instituições políticas, a satisfação
+
+com a democracia e o interesse político dos cidadãos têm sido fatores de avaliação dos
+
+regimes democráticos. A maioria dos estudos sobre a crise financeira de dois mil e oito
+
+evocaram um enorme retrocesso avaliativo nestes fatores. Os dados mostram que o regime
+
+democrático não está em risco, apesar das tentativas em alguns países para que tal aconteça,
+
+mas há um enorme descontentamento com a sua atuação.
+
+A partir dos dados obtidos, pretendemos aplicar ao nosso estudo os mesmos fatores de
+
+avaliação da qualidade da democracia que foram aplicados noutros períodos e estudos,
+
+restringindo-nos à democracia portuguesa. A restrição geográfica deve-se ao facto de,
+
+contrariamente ao que aconteceu na última crise financeira, em que a Comissão Europeia teve
+
+um papel central na resolução da crise, na crise pandémica, à exceção da compra de vacinas
+
+46
+
+e da emissão de dívida europeia, cada Estado-membro tomou as suas medidas de combate à
+
+pandemia e de apoio à população.
+
+No caso de um acontecimento externo como a pandemia provocada pela doença Covid-19, o
+
+impacto será repercutido nos fatores que avaliam a qualidade da democracia, sempre
+
+influenciados pela cultura política dos cidadãos. Assim, na figura seguinte apresentamos o
+
+nosso modelo de análise.
+
+Figura 8 Modelo de análise
+
+Fonte: Elaboração própria
+
+Qualidade da democracia portuguesa
+
+Confiança nas instituições políticas portuguesas
+
+Cultura política
+
+Satisfação com a democracia portuguesa
+
+Interesse políticos dos portugueses
+
+Covid-19
+
+47
+
+3.3. Hipóteses de investigação
+
+As hipóteses de investigação têm como função proporcionar uma resposta prévia à pergunta
+
+de investigação, sendo suportadas e desenvolvidas a partir de estudos já realizados sobre o
+
+tema. Isto é, as hipóteses de investigação são suposições admissíveis que procuram solucionar
+
+a pergunta de partida e ajudam a compreender o tema. Estas não são necessariamente
+
+verdadeiras, pois as mesmas são formuladas para que, no final da investigação, sejam
+
+consideradas verdadeiras ou falsas (Sousa & Baptista, 2011).
+
+Um dos grandes tópicos abordados refere-se à confiança nas instituições políticas. A
+
+comunidade académica evidencia duas correntes teóricas: a culturalista e a institucionalista.
+
+Considerando os pressupostos do estudo, seguimos a corrente institucionalista em que o
+
+sistema político é suportado por um conjunto de instituições como o parlamento, o governo,
+
+os partidos políticos e o sistema de judicial. Estas são criadoras de confiança política, isto é,
+
+há confiança política nas instituições quando estas funcionam adequadamente e produzem
+
+boas políticas públicas (Putnam et al, 1983; Mishler & Rose, 2001; Marien, 2011; Torcal, 2014;
+
+Belchior, 2015; Muro & Vidal, 2016).
+
+Com a proliferação do regime democrático após a segunda guerra mundial, o interesse pelo
+
+estudo na confiança das instituições políticas democráticos também ganhou relevo,
+
+especialmente na tentativa de compreender a solidificação dessas instituições em períodos
+
+complexos após as mudanças de regime. Também o aumento de participação cívica e política
+
+dos cidadãos começou a aumentar, tanto pelo crescimento do nível de formação dos
+
+cidadãos, como pela permissão e incentivo que está associado ao regime democrático. Obras
+
+como The Civic Culture e Making Democracy work – Civic Traditions in Modern Italy são
+
+referências no estudo da confiança política (Almond & Verba, 1963; Putnam, 1993).
+
+Recentemente, o impacto que a última crise financeira provocou nos níveis de confiança nas
+
+instituições políticas instigou grande interesse académico. Os resultados mostraram uma
+
+deterioração no nível de confiança nas instituições políticas, que não sendo inequívoca para
+
+todos os países da Europa, há um enfoque na deterioração da confiança nos países do Sul da
+
+Europa. O grau de descontentamento não é igualmente proporcional em todas as instituições,
+
+havendo diferenças, mas houve um sentimento generalizado de desconfiança (Teixeira &
+
+Freire, 2010; Marien, 2011; Torcal, 2014; Muro & Vidal, 2016).
+
+48
+
+Além da confiança nas instituições políticas, a avaliação da democracia também pode ser feita
+
+pelas atitudes e os comportamentos dos cidadãos, isto é, o apoio ao regime democrático
+
+também pode ser demonstrado pela satisfação dos cidadãos, podendo ser um fator
+
+fundamental em períodos complexos (Linz, 1995). Contudo, a predisposição dos cidadãos para
+
+a participação no processo político também é fundamental, podendo ser medido pelo seu
+
+grau de interesse na política, ou seja, pela predisposição em discutir assuntos políticos
+
+(Sanders & Bellucci, 2012).
+
+Numa perspetiva de desempenho, as respostas às crises podem resultar num conjunto de
+
+críticas ou num reforço do status quo, dependendo do desempenho das instituições políticas
+
+e da forma como os cidadãos percebem o seu desempenho (Campbell, 2012). Quanto ao apoio
+
+político, as respostas às crises podem, por um lado, unir os cidadãos em torno das instituições,
+
+quando há a perceção de que houve uma solução do problema, ou provocar o contrário,
+
+quando há uma mudança de visão que os cidadãos têm das mesmas (Healy & Malhotra, 2009;
+
+Ruiz-Rufino & Alonso, 2017).
+
+Crises de natureza diferente implicam medidas políticas distintas. As soluções encontradas
+
+para combater a pandemia foram fortemente redutoras das liberdades individuais,
+
+diminuíram o capital social e trouxeram um fortíssimo impacto económico (Fetzer et al.,
+
+2020). Apesar da dureza das medidas adotadas, verificou-se uma tendência de reforço no
+
+apoio, nomeadamente às instituições políticas que adotaram as medidas, como os governos
+
+ou os parlamentos. Também os partidos que estavam no poder saíram reforçados nos atos
+
+eleitorais (Baekgaard et al., 2020; Leininger & Shaud, 2020).
+
+À data de elaboração deste estudo, a pandemia provocada pela doença Covid-19 ainda era
+
+um acontecimento recente, justificando a escassez de estudos sobre o seu impacto na
+
+qualidade das democracias, especialmente em relação à satisfação com a democracia e ao
+
+interesse político dos cidadãos. Esta condicionante tornou o estudo ainda mais relevante,
+
+reforçando o conhecimento nesta área científica.
+
+Os escassos estudos, à data de elaboração do nosso estudo, pressupõem que a doença Covid 19 teve um impacto positivo na qualidade das democracias (Leininger & Shaud, 2020; Merkley
+
+et al., 2020; Baekgaard et al., 2020; Karabulut et al., 2021; Silva et al., 2021). Desse modo,
+
+49
+
+assumimos e testamos que os fatores repercutidos nas seguintes hipóteses de investigação
+
+seguem a mesma orientação de reforço da qualidade da democracia portuguesa.
+
+Apresentamos a hipótese geral de investigação e as restante hipóteses de investigação.
+
+Hipótese geral de investigação: A pandemia provocada pela doença Covid-19 teve um impacto
+
+positivo na qualidade da democracia portuguesa.
+
+H1: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de confiança
+
+política nas instituições democráticas portuguesas.
+
+H1a: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de
+
+confiança política no Governo português.
+
+H1b: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de
+
+confiança política no Parlamento português.
+
+H1c: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de
+
+confiança política nos partidos políticos portugueses.
+
+H1d: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de
+
+confiança política no sistema de justiça português.
+
+H2: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de satisfação
+
+com a democracia portuguesa.
+
+H3: O impacto da pandemia provocada pela doença Covid-19 reforçou o nível de interesse
+
+político dos cidadãos portugueses.
+
+50
+
+3.4. Estratégia de estimação
+
+A metodologia de investigação consiste num processo de definição estratégica da investigação
+
+que passa pela escolha do método de investigação e pela escolha da técnica de recolha de
+
+dados, em que tudo “depende do objetivo que se pretende atingir” (Carmo, 1998, p.175).
+
+Considerando os métodos de investigação quantitativa e qualitativa, o que melhor se
+
+enquadra no objetivo do nosso estudo é o método de investigação quantitativa. Este “integra se no paradigma positivista, apresentando como objetivo a identificação e apresentação de
+
+dados, indicadores e tendências observáveis. Este tipo de investigação mostra-se geralmente
+
+apropriado quando existe a possibilidade de recolha de medidas quantificáveis de variáveis e
+
+inferências a partir da amostra de uma população” (Sousa & Baptista, 2011, p.53). Neste
+
+método de investigação, as hipóteses de investigação e as variáveis estão previamente
+
+definidas, baseando-se a validade dos resultados no controlo conceptual e técnico das
+
+variáveis do estudo (Sousa & Baptista, 2011).
+
+A resposta à pergunta de investigação tem por base um conjunto de hipóteses de investigação
+
+que são testadas no modelo através da aplicação de um conjunto de variáveis. As variáveis
+
+são compostas por um conjunto de dados – neste estudo, representam um conjunto de dados
+
+secundários que foram obtidos de várias fontes que sustentam as variáveis pré-existentes.
+
+Sendo que “os dados secundários provêm da análise documental” (Sousa & Baptista, 2011,
+
+p.71), a técnica de recolha de dados aplicada foi a análise documental.
+
+O objeto de estudo são os níveis de confiança nas instituições políticas, a satisfação com a
+
+democracia e o interesse político da população portuguesa, nomeadamente através da
+
+recolha de opinião. A análise documental é feita por observação indireta a partir de fontes
+
+oficiais: isto é, os dados secundários correspondem a um conjunto de indicadores que são
+
+elaborados pelo Eurobarometer através da recolha de opinião dos cidadãos europeus. O
+
+Eurobarometer4 foi um projeto iniciado em mil novecentos e setenta e quatro no seio da
+
+Comissão Europeia e atualmente é o instrumento de sondagem utilizado pela Comissão
+
+Europeia, Parlamento Europeu e outras instituições e agências da União Europeia para
+
+monitorizar regularmente o estado da opinião pública na Europa sobre questões relacionadas
+
+4 https://europa.eu/eurobarometer/about/eurobarometer
+
+51
+
+com a União Europeia, bem como as atitudes sobre assuntos de natureza política ou social.
+
+Uma outra fonte de recolha de dados é a Pordata5, um projeto criado em dois mil e nove pela
+
+Fundação Francisco Manuel dos Santos, consistindo numa base de dados de Portugal
+
+contemporâneo e no qual dá corpo a uma das prioridades da fundação: recolha, organização,
+
+sistematização e divulgação da informação sobre múltiplas áreas da sociedade, para Portugal,
+
+municípios e países europeus.
+
+Pretendendo-se perceber o efeito de um choque exógeno, a pandemia provocada pela doença
+
+Covid-19, na avaliação da qualidade da democracia portuguesa, aplicamos a técnica das séries
+
+temporais interrompidas como técnica de tratamento de dados.
+
+As séries temporais interrompidas começaram a ser descritas na literatura das ciências sociais
+
+na década de mil novecentos e sessenta, envolvendo um conjunto de observações sobre um
+
+objeto, sobre um sujeito ou, mais usualmente, sobre casos de saúde pública ou sobre uma
+
+população, antes e após uma intervenção (Campbell & Stanley, 1963).
+
+Na análise da série temporal interrompida, uma variável de resultado é observada em vários
+
+períodos de tempo igualmente espaçados antes e depois da introdução de uma intervenção
+
+que deve interromper o seu nível ou tendência, estimando o efeito de uma intervenção numa
+
+variável de resultados para um único grupo de tratamento ou quando comparado com um ou
+
+mais grupos de controlo (Linden, 2015).
+
+Uma série temporal é uma sequência contínua de observações de uma população, feita
+
+repetidamente (normalmente em intervalos iguais) ao longo do tempo. Num estudo de séries
+
+temporais interrompidas, uma série temporal de um determinado resultado de interesse é
+
+usada para estabelecer uma tendência subjacente que é "interrompida" por uma intervenção
+
+num ponto conhecido no tempo. O cenário hipotético em que a intervenção não ocorreu e a
+
+tendência continua inalterada (ou seja: a tendência "esperada", na ausência da intervenção,
+
+dada a tendência pré-existente) é referido como o "contrafactual". Este cenário contrafactual
+
+fornece uma comparação para a avaliação do impacto da intervenção, examinando qualquer
+
+mudança ocorrida no período pós-intervenção (Bernal et al., 2016).
+
+5 https://www.pordata.pt/Sobre+a+Pordata
+
+52
+
+Na análise de uma série temporal interrompida é preciso considerar que, na sua abordagem
+
+estatística, estamos perante uma regressão segmentada. Isto é, num exemplo com um
+
+período de pré-intervenção e um período de pós-intervenção, a regressão segmentada ajusta
+
+uma linha de regressão linear de mínimos quadrados separada para cada período. O modelo
+
+de pós-intervenção pode mudar de nível, inclinação ou ambos (Wagner et al., 2002). Outro
+
+aspeto que é preciso considerar é que, ao contrário da regressão linear em que os dados são
+
+independentes, nas séries temporais interrompidas isso não acontece por duas razões. Uma
+
+delas é que as observações consecutivas tendem a ser mais similares do que as mais distantes,
+
+ou seja, verifica-se uma autocorrelação. A outra razão é que, frequentemente, as observações
+
+num mês são semelhantes ao mesmo mês do ano anterior, ou seja, verifica-se uma
+
+sazonalidade. Isto acontece, por exemplo, em questões de saúde onde os níveis de gripe são
+
+mais elevados nos meses de inverno (Glass et al., 1975).
+
+A aplicação de uma série temporal interrompida pressupõe que os dados devem respeitar dois
+
+requisitos. Um deles é que os dados devem abranger os períodos pré-intervenção e pós intervenção, ou seja, deve haver várias medidas sequenciais ao longo do tempo, antes e
+
+depois da intervenção. O outro requisito é que o momento da intervenção deve ser claro para
+
+haver uma perfeita distinção entre o período priori e posteriori intervenção (Shadish et al.,
+
+2002).
+
+De acordo com Bernal et al. (2016), uma série temporal interrompida pressupõe um mínimo
+
+de três variáveis:
+
+T: O tempo decorrido desde o início do estudo com a unidade que representa a
+
+frequência com que as observações são tomadas (por exemplo, mês ou ano);
+
+Xt: Uma variável dummy indicando o período pré-intervenção (codificado 0) ou o
+
+período pós-intervenção (codificado 1);
+
+Yt: O resultado no tempo t.
+
+Numa série temporal interrompida é usado o seguinte modelo de regressão:
+
+𝑌𝑡= 𝛽0 + 𝛽1𝑇+ 𝛽2𝑋𝑡+ 𝛽3𝑇𝑋𝑡
+
+53
+
+𝛽0 representa o nível da linha base em que T = 0, 𝛽1 é interpretado como a mudança no
+
+resultado associado a um aumento da unidade de tempo (representando a tendência pré intervenção subjacente), 𝛽2 é a mudança de nível após a intervenção e 𝛽3 indica a mudança
+
+de inclinação seguinte à intervenção (usando a interação entre tempo e intervenção: T𝑋𝑡).
+
+Através deste modelo será possível aferir a evolução temporal dos indicadores, o “salto”
+
+registado no momento da pandemia provocada pela doença Covid-19 e o diferencial no ritmo
+
+da evolução pós-pandemia. Dos estudos realizados sobre o impacto da doença Covid-19,
+
+autores como Bækgaard et al. (2020) ou Bol et al. (2021) aplicaram a técnica séries temporais
+
+interrompidas como técnica de tratamento de dados, o que fomenta a validade da sua
+
+aplicabilidade.
+
+Os dados do nosso estudo são categorizados por uma variável independente binária, por um
+
+conjunto de variáveis dependentes e por uma variável de controlo que são compostas por um
+
+conjunto de indicadores.
+
+Variáveis dependentes
+
+Conforme o nosso objetivo inicial, a análise teve em consideração as dimensões demonstradas
+
+na tabela seguinte:
+
+54
+
+Tabela 3 Variáveis dependentes
+
+Variável
+
+Unidade de
+
+medida
+
+Frequência
+
+temporal
+
+Amostra
+
+Fonte6
+
+Confiança no
+
+governo
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Anual entre 2001 e 2021
+
+Média de 1000
+
+inquéritos em Portugal
+
+Eurobarometer (2022)
+
+Confiança no
+
+parlamento
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Anual entre 2000 e 2021
+
+Média de 1000
+
+inquéritos em Portugal
+
+Eurobarometer (2022)
+
+Confiança nos
+
+partidos
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Anual entre 2000 e 2021
+
+Média de 1000
+
+inquéritos em Portugal
+
+Eurobarometer (2022)
+
+Confiança no
+
+sistema de
+
+justiça
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Anual entre 2000 e 2021
+
+Média de 1000
+
+inquéritos em Portugal
+
+Eurobarometer (2022)
+
+Satisfação com
+
+a democracia
+
+Escala de 1 (nada
+
+satisfeito) a 4 (muito satisfeito)
+
+Anual entre 2000 e 2021
+
+Média de 1000
+
+inquéritos em Portugal
+
+Eurobarometer (2022)
+
+Interesse político
+
+dos cidadãos
+
+Escala de 1 (nenhum interesse) A 4 (muito interesse)
+
+Bianual entre
+
+2002 e 2016
+
+Anual entre 2017 e 2021
+
+Média de 1000
+
+inquéritos em Portugal
+
+Eurobarometer (2022)
+
+Fonte: Elaboração própria
+
+6 Eurobarometer: Standard Eurobarometer 52 a Standard Eurobarometer 95.
+
+55
+
+Variável de controlo
+
+Conforme o nosso objetivo inicial, a análise teve em consideração as dimensões demonstradas
+
+na tabela seguinte:
+
+Tabela 4 Variável de controlo
+
+Variável
+
+Unidade de
+
+medida
+
+Frequência
+
+temporal
+
+Amostra
+
+Fonte
+
+Taxa de crescimento real
+
+do PIB
+
+Percentagem
+
+Anual entre 2000 e 2021
+
+População residente em Portugal, média anual: total e por
+
+sexo
+
+Pordata (2022)
+
+Fonte: Elaboração própria
+
+56
+
+Capítulo 4. Resultados
+
+4.1. Resultados estatísticos descritivos
+
+Analisados os dados recolhidos por meio das técnicas estatísticas, apresentamos os resultados
+
+estatísticos descritivos das variáveis do estudo.
+
+Tabela 5 Resultados estatísticos descritivos das variáveis do estudo
+
+Variável
+
+Média
+
+Desvio padrão
+
+Mínimo
+
+Máximo
+
+Unidade de medida
+
+Confiança no
+
+governo
+
+0,3409
+
+0,1279
+
+0,1250
+
+0,5350
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Confiança no
+
+parlamento
+
+0,3659
+
+0,1079
+
+0,1400
+
+0,5250
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Confiança nos
+
+partidos
+
+0,1713
+
+0,0362
+
+0,1000
+
+0,2250
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Confiança no
+
+sistema de
+
+justiça
+
+0,4052
+
+0,0545
+
+0,3200
+
+0,5000
+
+Percentagem (escala de 0%
+
+a 100%)
+
+Satisfação com
+
+a democracia
+
+2,2595
+
+0,2401
+
+1,8000
+
+2,7000
+
+Escala de 1 (nada satisfeito) a 4 (muito satisfeito)
+
+Interesse político
+
+dos cidadãos
+
+2,1331
+
+0,2077
+
+1,9000
+
+2,5500
+
+Escala de 1 (nenhum interesse) a
+
+4 (muito interesse)
+
+Taxa de crescimento
+
+real do PIB
+
+0,0066
+
+0,0298
+
+-0,0844
+
+0,0490
+
+Percentagem
+
+Fonte: Elaboração própria
+
+57
+
+No âmbito dos resultados estatísticos descritivos das variáveis, observamos que a variável
+
+“Confiança no governo” apresenta uma média de confiança tendencialmente reduzida e com
+
+uma baixa dispersão de valores. Quanto à escala de “Confiança no governo”, verificamos que
+
+o nível de confiança máximo das opiniões expressadas é escassamente superior a cinquenta
+
+por cento, indicando que a grande maioria se encontra abaixo dos cinquenta por cento.
+
+Relativamente às restantes variáveis de confiança, verificamos uma similitude de valores para
+
+os mesmos parâmetros.
+
+Em relação às variáveis “Satisfação com a democracia” e “Interesse político dos cidadãos”,
+
+observamos médias ligeiramente superiores à mediana da escala de valores, havendo uma
+
+menor dispersão de valores na variável “Interesse político dos cidadãos”. Quanto à escala de
+
+“Satisfação na democracia”, verificamos que o nível de satisfação máximo das opiniões
+
+expressadas é razoavelmente superior a cinquenta por cento, o mesmo se verificando na
+
+variável “Interesse político dos cidadãos”.
+
+No que respeita à variável de controlo “Taxa de crescimento real do PIB”, observamos uma
+
+média de crescimento muito reduzida e uma baixa dispersão de valores. Quanto à escala de
+
+crescimento verificamos que o crescimento máximo obtido nos anos analisados foi de
+
+aproximadamente cinco por cento.
+
+Os valores apresentados indicam-nos que os níveis de confiança nas instituições políticas, em
+
+média, são tendencialmente reduzidos desde o início do século XXI. No que respeita à
+
+“Satisfação com a democracia”, os valores indicam que há, em média, uma satisfação
+
+generalizada com a democracia, o mesmo se verificando no “Interesse político dos cidadãos”.
+
+A “Taxa de crescimento real do PIB” registou, em média, um crescimento muito reduzido
+
+desde o início do seculo XXI, havendo anos em que o PIB foi negativo, provocando recessão,
+
+conforme demonstrado no valor mínimo observado.
+
+As figuras que se seguem correspondem às representações gráficas dos resultados estatísticos
+
+descritivos das variáveis dependentes.
+
+58
+
+Figura 9 Resultado estatístico descritivo da variável dependente “Confiança no governo”
+
+Fonte: Elaboração própria
+
+Considerando a unidade de medida, verificamos, desde dois mil e um até dois mil e treze, uma
+
+acentuada descida no nível de “Confiança do governo” com ressalva para ligeiras subidas
+
+nesse período. O nível de confiança mais baixo registou-se no ano de dois mil e treze. De dois
+
+mil e treze a dois mil e quinze registou-se uma ligeira recuperação e nos dois anos seguintes
+
+uma surpreendente recuperação para o máximo de confiança registada no período analisado.
+
+Nos anos subsequentes verificaram-se algumas subidas e descidas, mas sempre em torno dos
+
+cinquenta por cento do nível de confiança.
+
+59
+
+Figura 10 Resultado estatístico descritivo da variável dependente “Confiança no parlamento”
+
+Fonte: Elaboração própria
+
+Considerando a unidade de medida, verificamos que, entre dois mil e dois mil e cinco, o nível
+
+de “Confiança no parlamento” oscilou entre os quarenta e os cinquenta por cento. Nos anos
+
+seguintes, os níveis de confiança permaneceram estáveis, mas entre dois mil e nove e dois mil
+
+e treze houve uma descida acentuada até ao nível mais baixo registado nos períodos
+
+analisados. A partir de dois mil e treze houve uma recuperação nos níveis de “Confiança no
+
+parlamento”, que se situaram em torno dos quarenta por cento e têm-se mantido estáveis
+
+com pequenas oscilações.
+
+60
+
+Figura 11 Resultado estatístico descritivo da variável dependente “Confiança nos partidos”
+
+Fonte: Elaboração própria
+
+Considerando a unidade de medida, verificamos que, entre o ano dois mil e dois mil e doze, o
+
+nível de “Confiança no parlamento” oscilou num intervalo de sete pontos percentuais, entre
+
+os catorze e os vinte e um por cento. Nos dois anos seguintes, houve uma redução
+
+considerável até ao mínimo de dez por cento e nos dois anos seguintes uma recuperação
+
+muito considerável até ao nível máximo do período analisado. Os anos seguintes têm seguido
+
+uma tendência de descida.
+
+61
+
+Figura 12 Resultado estatístico descritivo da variável dependente “Confiança no sistema de justiça”
+
+Fonte: Elaboração própria
+
+Considerando a unidade de medida, verificamos grandes oscilações no nível de “Confiança no
+
+sistema de justiça” entre o ano dois mil e dois mil e dez. A partir de dois mil e quatorze, houve
+
+uma tendência de subida no nível de confiança com ligeiras descidas, sendo que o nível de
+
+maior confiança no período analisado registou-se em dois mil e vinte, nos cinquenta por cento.
+
+62
+
+Figura 13 Resultado estatístico descritivo da variável dependente “Satisfação com a democracia”
+
+Fonte: Elaboração própria
+
+Considerando a unidade de medida, verificamos um mínimo relativo no nível de “Satisfação
+
+com a democracia” nos dois pontos no ano de dois mil e seis. Depois de uma ligeira
+
+recuperação, o ano de dois mil e treze registou o mínimo absoluto do período analisado,
+
+havendo nos anos seguintes uma consecutiva subida até ao máximo absoluto do período
+
+analisado, em dois mil e dezassete. Os anos seguintes têm seguido uma tendência de descida.
+
+63
+
+Figura 14 Resultado estatístico descritivo da variável dependente “Interesse político dos cidadãos”
+
+Fonte: Elaboração própria
+
+Considerando a unidade de medida, entre os anos dois mil e dois e dois mil e doze, o nível de
+
+“Interesse político dos cidadãos” rondou os dois pontos. A partir desse ano, registou-se uma
+
+permanente tendência de subida no nível de “Interesse político dos cidadãos”, atingindo o
+
+valor mais elevado do período analisado em dois mil e vinte e um.
+
+64
+
+4.2. Matriz de correlação
+
+A matriz de correlação evidencia os valores de correlação de Pearson, medindo o grau de
+
+relação linear entre as variáveis do estudo.
+
+Tabela 6 Matriz de correlação
+
+Conf. Gov.
+
+Conf. Parl.
+
+Conf. Part.
+
+Conf. Just.
+
+Satf. Dem.
+
+Int. Polít.
+
+Tx. PIB Conf. Gov.
+
+1,0000
+
+Conf. Parl.
+
+0,8259
+
+1,0000
+
+Conf. Part.
+
+0,9093
+
+0,8840
+
+1,0000
+
+Conf. Just.
+
+0,6880
+
+0,3380
+
+0,5399
+
+1,0000
+
+Satf. Dem.
+
+0,8086
+
+0,4597
+
+0,7446
+
+0,8100
+
+1,0000
+
+Int. Polít.
+
+0,7071
+
+0,3069
+
+0,4011
+
+0,6808
+
+0,6704
+
+1,0000
+
+Tx. PIB
+
+-0,1076
+
+-0,0720
+
+-0,0776
+
+-0,2511
+
+-0,0485
+
+0,0143
+
+1,0000 Fonte: Elaboração própria
+
+Os dados evidenciam que, na maioria das interações, existe uma correlação positiva entre as
+
+variáveis, isto é, as variáveis apresentam-se como diretamente correlacionadas. Entre as
+
+variáveis com correlação positiva observamos que, a variável dependente “Confiança no
+
+governo” apresenta os maiores níveis de correlação com as restantes variáveis.
+
+65
+
+4.3. Resultados estatísticos inferenciais
+
+Apresentados e analisados os resultados de carácter mais descritivo, procedemos à
+
+apresentação dos resultados inferenciais obtidos após a aplicação da regressão de séries
+
+temporais interrompidas, usando a “Taxa de Crescimento Real do PIB” como variável de
+
+controlo. Os resultados obtidos pela interrupted time series analysis para estimar o impacto
+
+que as medidas políticas adotadas durante a pandemia provocaram nos indicadores da
+
+qualidade da democracia portuguesa estão apresentados em ordem das variáveis
+
+dependentes.
+
+Variável dependente “Confiança no governo”
+
+Tabela 7 Resultados da variável dependente “Confiança no governo”
+
+Confiança no governo
+
+Coeficiente (Desvio padrão)
+
+Tendência de confiança no governo (período pré-impacto)
+
+-0,004 (0,006)
+
+Impacto da pandemia provocada pela doença Covid-19
+
+0,540***
+
+(0,115)
+
+Alteração na tendência anterior no pós-impacto (comparativamente ao período pré-impacto)
+
+-0,474**
+
+(0,169)
+
+Taxa de crescimento real do PIB
+
+3,284**
+
+(1,252)
+
+Constante
+
+0,337***
+
+(0,049)
+
+Número de observações
+
+21
+
+F (3, 16)
+
+24,51
+
+Prob > F
+
+0,0000
+
+Fonte: Elaboração própria Nota: * Significativamente diferente de zero ao nível de significância de 10% (p value) ** Significativamente diferente de zero ao nível de significância de 5% (p value) *** Significativamente diferente de zero ao nível de significância de 1% (p value)
+
+66
+
+Os resultados mostram que a pandemia teve um impacto positivo no nível de “Confiança no
+
+governo”, na ordem dos cinquenta e quatro pontos percentuais. Contudo, destacamos a
+
+significância do período pós-impacto da pandemia, na medida que verificamos uma tendência
+
+de agravamento no nível de “Confiança no governo”, que já era negativa, na ordem dos
+
+quarenta e sete vírgula quatro pontos percentuais. A figura seguinte representa os resultados
+
+obtidos:
+
+Figura 15 Representação da Interrupted time series analysis para a variável dependente “Confiança no governo”
+
+Fonte: Elaboração própria
+
+67
+
+Variável dependente “Confiança no parlamento”
+
+Tabela 8 Resultados da variável dependente “Confiança no parlamento”
+
+Confiança no parlamento
+
+Coeficiente (Desvio padrão)
+
+Tendência de confiança no parlamento (período pré-impacto)
+
+-0,01**
+
+(0,005)
+
+Impacto da pandemia provocada pela doença Covid-19
+
+0,381***
+
+(0,112)
+
+Alteração na tendência anterior no pós-impacto (comparativamente ao período pré-impacto)
+
+-0,285*
+
+(0,148)
+
+Taxa de crescimento real do PIB
+
+2,097* (1,102)
+
+Constante
+
+0,434***
+
+(0,417)
+
+Número de observações
+
+22
+
+F (3, 17)
+
+5,21
+
+Prob > F
+
+0,0098
+
+Fonte: Elaboração própria Nota: * Significativamente diferente de zero ao nível de significância de 10% (p value) ** Significativamente diferente de zero ao nível de significância de 5% (p value) *** Significativamente diferente de zero ao nível de significância de 1% (p value)
+
+Os resultados mostram que, ao longo dos anos temos verificado uma tendência decrescente
+
+no nível de “Confiança no parlamento”, na ordem de um ponto percentual por ano. Com o
+
+impacto da pandemia constatamos um aumento substancial no nível de “Confiança no
+
+parlamento”, na ordem dos trinta e oito vírgula um pontos percentuais. No entanto, no
+
+período pós-impacto da pandemia verificamos um agravamento da tendência na ordem dos
+
+vinte e oito vírgula cinco pontos percentuais, o que se traduz no reforço da tendência, que já
+
+era negativa, para os vinte e nove vírgula cinco pontos percentuais. A figura seguinte
+
+representa os resultados obtidos:
+
+68
+
+Figura 16 Representação da Interrupted time series analysis para a variável dependente “Confiança no parlamento”
+
+Fonte: Elaboração própria
+
+69
+
+Variável dependente “Confiança nos partidos”
+
+Tabela 9 Resultados da variável dependente “Confiança nos partidos”
+
+Confiança nos partidos
+
+Coeficiente (Desvio padrão)
+
+Tendência de confiança nos partidos (período pré-impacto)
+
+-0,001 (0,002)
+
+Impacto da pandemia provocada pela doença Covid-19
+
+0,099**
+
+(0,038)
+
+Alteração na tendência anterior no pós-impacto (comparativamente ao período pré-impacto)
+
+-0,088 (0,057)
+
+Taxa de crescimento real do PIB
+
+0,478 (0,423)
+
+Constante
+
+0,176***
+
+(0,016)
+
+Número de observações
+
+22
+
+F (3, 17)
+
+960,97
+
+Prob > F
+
+0,0000
+
+Fonte: Elaboração própria Nota: * Significativamente diferente de zero ao nível de significância de 10% (p value) ** Significativamente diferente de zero ao nível de significância de 5% (p value) *** Significativamente diferente de zero ao nível de significância de 1% (p value)
+
+Os resultados mostram que a pandemia teve um impacto no nível de “Confiança nos partidos”,
+
+proporcionando um aumento na ordem dos nove vírgula nove pontos percentuais. Contudo,
+
+constatamos que a pandemia não teve impacto na tendência anterior nem na tendência
+
+posterior em relação ao nível de “Confiança nos partidos”. Ou seja, a pandemia provocou um
+
+aumento no nível de “Confiança nos partidos”, mas não alterou tendências passadas nem
+
+futuras, restringindo-se ao impacto no momento da pandemia. A figura seguinte representa
+
+os resultados obtidos:
+
+70
+
+Figura 17 Representação da Interrupted time series analysis para a variável dependente “Confiança nos partidos”
+
+Fonte: Elaboração própria
+
+71
+
+Variável dependente “Confiança no sistema de justiça”
+
+Tabela 10 Resultados da variável dependente “Confiança no sistema de justiça”
+
+Confiança no sistema de justiça
+
+Coeficiente (Desvio padrão)
+
+Tendência de confiança no sistema de justiça (período pré-impacto)
+
+0,007***
+
+(0,002)
+
+Impacto da pandemia provocada pela doença Covid-19
+
+0,062 (0,104)
+
+Alteração na tendência anterior no pós-impacto (comparativamente ao período pré-impacto)
+
+-0,076 (0,129)
+
+Taxa de crescimento real do PIB
+
+0,180 (0,969)
+
+Constante
+
+0,342***
+
+(0,028)
+
+Número de observações
+
+19
+
+F (3, 14)
+
+1711,34
+
+Prob > F
+
+0,0000
+
+Fonte: Elaboração própria Nota: * Significativamente diferente de zero ao nível de significância de 10% (p value) ** Significativamente diferente de zero ao nível de significância de 5% (p value) *** Significativamente diferente de zero ao nível de significância de 1% (p value)
+
+Os resultados mostram que a pandemia não teve um impacto imediato no nível de “Confiança
+
+no sistema de justiça”. Contudo, destacamos a significância do período pré-pandemia, na
+
+medida que, ao longo dos anos, verificamos uma tendência de aumento do nível de
+
+“Confiança no sistema de justiça”, na ordem dos zero vírgula sete pontos percentuais por ano.
+
+A figura seguinte representa os resultados obtidos:
+
+72
+
+Figura 18 Representação da Interrupted time series analysis para a variável dependente “Confiança no sistema de justiça”
+
+Fonte: Elaboração própria
+
+73
+
+Variável dependente “Satisfação com a democracia”
+
+Tabela 11 Resultados da variável dependente “Satisfação com a democracia”
+
+Satisfação com a democracia
+
+Coeficiente (Desvio padrão)
+
+Tendência de satisfação com a democracia (período pré-impacto)
+
+0,015 (0,009)
+
+Impacto da pandemia provocada pela doença Covid-19
+
+0,761***
+
+(0,261)
+
+Alteração na tendência anterior no pós-impacto (comparativamente ao período pré-impacto)
+
+-0,933**
+
+(0,333)
+
+Taxa de crescimento real do PIB
+
+5,757**
+
+(2,489)
+
+Constante
+
+2,045***
+
+(0,072)
+
+Número de observações
+
+21
+
+F (3, 16)
+
+1593,00
+
+Prob > F
+
+0,0000
+
+Fonte: Elaboração própria Nota: * Significativamente diferente de zero ao nível de significância de 10% (p value) ** Significativamente diferente de zero ao nível de significância de 5% (p value) *** Significativamente diferente de zero ao nível de significância de 1% (p value)
+
+Os resultados mostram que a pandemia teve um impacto positivo no nível de “Satisfação com
+
+a democracia”, na ordem dos setenta e seis vírgula um pontos percentuais. Contudo,
+
+destacamos a significância do período pós-impacto da pandemia, na medida que verificamos
+
+uma tendência de agravamento no nível de “Satisfação com a democracia”, contrário do que
+
+se verificava antes do impacto da pandemia, na ordem dos noventa e três vírgula três pontos
+
+percentuais. A figura seguinte representa os resultados obtidos:
+
+74
+
+Figura 19 Representação da Interrupted time series analysis para a variável dependente “Satisfação com a democracia”
+
+Fonte: Elaboração própria
+
+75
+
+Variável dependente “Interesse político dos cidadãos”
+
+Tabela 12 Resultados da variável dependente “Interesse político dos cidadãos”
+
+Interesse político dos cidadãos
+
+Coeficiente (Desvio padrão)
+
+Tendência de interesse político dos cidadãos (período pré-impacto)
+
+0,030**
+
+(0,011)
+
+Impacto da pandemia provocada pela doença Covid-19
+
+0,393***
+
+(0,076)
+
+Alteração na tendência anterior no pós-impacto (comparativamente ao período pré-impacto)
+
+-0,247***
+
+(0,059)
+
+Taxa de crescimento real do PIB
+
+3,275***
+
+(0,478)
+
+Constante
+
+1,887***
+
+(0,078)
+
+Número de observações
+
+13
+
+F (3, 8)
+
+126,59
+
+Prob > F
+
+0,0000
+
+Fonte: Elaboração própria Nota: * Significativamente diferente de zero ao nível de significância de 10% (p value) ** Significativamente diferente de zero ao nível de significância de 5% (p value) *** Significativamente diferente de zero ao nível de significância de 1% (p value)
+
+Os resultados evidenciam que, ao longo dos anos temos verificado uma tendência crescente
+
+no nível de “Interesse político dos cidadãos”, na ordem três pontos percentuais por ano. Com
+
+o impacto da pandemia constatamos um aumento substancial no nível de “Interesse político
+
+dos cidadãos”, na ordem dos trinta e nove vírgula três pontos percentuais. Contudo, no
+
+período pós-impacto da pandemia confirmamos uma inversão da tendência na ordem dos
+
+vinte e quatro vírgula sete pontos percentuais, o que se traduz numa nova tendência, agora
+
+negativa, na ordem dos vinte e um vírgula sete pontos percentuais. A figura seguinte
+
+representa os resultados obtidos:
+
+76
+
+Figura 20 Representação da Interrupted time series analysis para a variável dependente “Interesse político dos cidadãos”
+
+Fonte: Elaboração própria
+
+Os resultados obtidos para as diferentes variáveis dependentes permitem-nos fazer uma
+
+análise global dos resultados. Contudo, é importante salientar que os resultados estão
+
+condicionados pelo fator tempo, na medida que a nossa tendência futura é medida só por dois
+
+pontos: o momento do impacto da pandemia e o ano seguinte. Só por si, esta condicionante
+
+pode repercutir-se nos resultados alcançados, fazendo deste estudo um trabalho exploratório
+
+que deve ser continuado no futuro. Outro fator condicionante é a variável de controlo: a
+
+escolha de outro tipo de variável de controlo que não foi aqui comtemplada pode refletir-se
+
+e proporcionar outro tipo de resultados.
+
+Numa perspetiva geral, é intrínseco a todos os resultados que há uma tendência negativa no
+
+período (ano) seguinte ao impacto da pandemia; com maior ou menor intensidade, é inerente
+
+77
+
+a todas as variáveis uma tendência de diminuição no nível de confiança, na satisfação com a
+
+democracia e no interesse político.
+
+Para todas as variáveis dependentes, exceto para a “Confiança no sistema de justiça”,
+
+verificamos que o momento do impacto da pandemia é estatisticamente significativo, sempre
+
+com um aumento substancial dos níveis de confiança, de satisfação com a democracia e de
+
+interesse político.
+
+Para a maioria das variáveis verificamos resultados estatisticamente significativos no pós impacto da pandemia, indicando que o impacto da pandemia alterou a tendência futura dos
+
+resultados. A exceção é a variável dependente “Confiança nos partidos”, na medida que o
+
+momento do impacto da pandemia é um resultado estatisticamente significativo, mas não na
+
+tendência futura.
+
+A grande exceção é a variável dependente “Confiança no sistema de justiça”. O momento do
+
+impacto da pandemia não proporcionou qualquer resultado estatisticamente significativo no
+
+nível de confiança nem qualquer repercussão no nível de confiança futura, constatando-se
+
+que só os níveis de confiança nos períodos pré-impacto é que eram estatisticamente
+
+significativos. Ou seja, a pandemia não provocou uma alteração na tendência de “Confiança
+
+no sistema de justiça” que já existia antes do momento do impacto da pandemia.
+
+78
+
+CONCLUSÃO
+
+79
+
+O impacto da pandemia provocada pela doença Covid-19 na qualidade da democracia
+
+portuguesa constitui o cerne do nosso estudo. O nosso objetivo passa por perceber o efeito
+
+de um choque exógeno – a pandemia – na avaliação da qualidade da democracia portuguesa.
+
+O objeto de estudo foi, nessa medida, dirigido, aos níveis de confiança nas instituições
+
+políticas, à satisfação com a democracia e ao interesse político da população portuguesa e,
+
+temporalmente, ao momento do primeiro impacto da pandemia. Tendo esse objetivo e esse
+
+objeto em vista, traçamos como pergunta de investigação central a seguinte: De que forma a
+
+pandemia provocada pela doença Covid-19 afetou a qualidade da democracia portuguesa? E
+
+como perguntas de investigação secundárias as seguintes: De que forma a pandemia
+
+provocada pela doença Covid-19 afetou a confiança nas instituições políticas da democracia
+
+portuguesa? De que forma a pandemia provocada pela doença Covid-19 afetou a satisfação
+
+com a democracia portuguesa e o interesse político dos cidadãos portugueses?
+
+A partir destas linhas orientadoras iniciamos o nosso trabalho com a análise da literatura sobre
+
+as diferentes dimensões do tema, por forma a enquadrar teoricamente a temática e a
+
+apresentar o estado da arte sobre o tema.
+
+No enquadramento da temática procuramos explanar dois conceitos fundamentais no
+
+domínio da Ciência Política: cultura política e democracia. A cultura política pode ser
+
+entendida como um conjunto de crenças e atitudes que um cidadão tem em relação à política,
+
+e que está subjacente aos sistemas políticos como um domínio subjetivo ordenado de políticas
+
+que dão sentido à política, que disciplinam as instituições e que atribuem relevância social aos
+
+atos individuais (Dowse & Hughes, 1986). A democracia pode ser entendida como “uma das
+
+várias formas de governo, em particular aquelas em que o poder não está nas mãos de um só
+
+ou de poucos, mas de todos, ou melhor, da maior parte, como tal se contrapondo às formas
+
+autocráticas, como a monarquia e a oligarquia” (Bobbio, 1994, p.7).
+
+No estado da arte procuramos aclarar aqueles que são os fatores essenciais para medir e,
+
+consequentemente, avaliar os efeitos na qualidade da democracia portuguesa, aplicado no
+
+contexto da pandemia provocada pela doença Covid-19. O modelo de análise que definimos
+
+(Figura 8) permite-nos compreender a interligação entre as partes e fundamentar a
+
+racionalidade do estudo. A avaliação da qualidade da democracia é feita através de um
+
+80
+
+conjunto de indicadores que estão explanados no estado da arte: confiança nas instituições
+
+políticas portuguesas – governo, parlamento, partidos e sistema de justiça –, satisfação com
+
+a democracia portuguesa e interesse político dos cidadãos portugueses. Estes indicadores
+
+foram já aplicados em vários estudos sobre a qualidade da democracia, como no contexto da
+
+crise financeira de dois mil e oito, fundamentando a sua aplicabilidade no nosso estudo; e são
+
+elaborados a partir da coleta de opinião dos cidadãos sobre aspetos específicos, entre os quais
+
+políticos, que, no tratamento global, permitem avaliar a qualidade da democracia. Tratando se da opinião do cidadão, devemos considerar que esta é condicionada pela sua cultura
+
+política, que influencia a sua perceção sobre as instituições políticas, sobre a democracia e
+
+sobre o seu interesse político. Considerando a importância da cultura política, o nosso estudo
+
+centra-se no impacto que estes indicadores sofreram quando surgiu a pandemia provocada
+
+pela doença Covid-19 – enquanto acontecimento externo – e nas consequências para a
+
+qualidade da democracia portuguesa.
+
+Apoiados na literatura existente, desenvolvemos a parte empírica do estudo que permitiria
+
+responder às nossas perguntas de investigação. De forma a alcançar o objetivo do nosso
+
+estudo enveredamos pelo método de investigação quantitativa, e para validar as hipóteses de
+
+investigação aplicamos a técnica das séries temporais interrompidas como técnica de
+
+tratamento de dados.
+
+Considerando os trabalhos desenvolvidos por Baekgaard et al. (2020), Leininger e Shaud
+
+(2020), Merkley et al. (2020), Karabulut et al. (2021) e Silva et al. (2021) sobre o impacto da
+
+pandemia provocada pela doença Covid-19 na qualidade da democracia, elaboramos as
+
+nossas hipóteses de investigação.
+
+Os resultados obtidos (Tabela 7) para a hipótese de investigação H1a – O impacto da pandemia
+
+provocada pela doença Covid-19 reforçou o nível de confiança política no Governo português
+
+– sugerem a confirmação desta hipótese de investigação. No ano do impacto da pandemia
+
+constatamos um reforço substancial no nível de confiança política no Governo português.
+
+Os resultados obtidos (Tabela 8) para a hipótese de investigação H1b – O impacto da
+
+pandemia provocada pela doença Covid-19 reforçou o nível de confiança política no
+
+Parlamento português – sugerem a confirmação desta hipótese de investigação. No ano do
+
+impacto da pandemia verificamos um reforço no nível de confiança política no Parlamento
+
+81
+
+português. No pós-impacto confirmamos um agravamento de tendência de descida que já se
+
+verificava no pré-impacto.
+
+Os resultados obtidos (Tabela 9) para a hipótese de investigação H1c – O impacto da pandemia
+
+provocada pela doença Covid-19 reforçou o nível de confiança política nos partidos políticos
+
+portugueses – sugerem a confirmação desta hipótese de investigação. No ano do impacto da
+
+pandemia verificamos um ligeiro reforço no nível de confiança política nos partidos
+
+portugueses.
+
+Os resultados obtidos (Tabela 10) para a hipótese de investigação H1d – O impacto da
+
+pandemia provocada pela doença Covid-19 reforçou o nível de confiança política no sistema
+
+de justiça português – não permitem validar a hipótese por falta de significância estatística
+
+dos resultados.
+
+Os resultados obtidos sugerem a confirmação da hipótese de investigação H1 – O impacto da
+
+pandemia provocada pela doença Covid-19 reforçou o nível de confiança política nas
+
+instituições democráticas portuguesas –, mas não validada em todas as dimensões de análise.
+
+Os resultados obtidos (Tabela 11) para a hipótese de investigação H2 – O impacto da pandemia
+
+provocada pela doença Covid-19 reforçou o nível de satisfação com a democracia portuguesa
+
+– sugerem a confirmação desta hipótese de investigação. No ano do impacto da pandemia
+
+verificamos um substancial reforço no nível de satisfação com a democracia portuguesa.
+
+Os resultados obtidos (Tabela 12) para a hipótese de investigação H3 – O impacto da
+
+pandemia provocada pela doença Covid-19 reforçou o nível de interesse político dos cidadãos
+
+portugueses – sugerem a confirmação desta hipótese de investigação. No ano do impacto da
+
+pandemia verificamos um reforço no nível de interesse político dos cidadãos portugueses. No
+
+pós-impacto confirmamos uma inversão da tendência positiva que se verificava no pré impacto.
+
+A confirmação das hipóteses de investigação H1, H2 e H3 permitem-nos concluir pela
+
+confirmação da hipótese de investigação geral – A pandemia provocada pela doença Covid-19
+
+teve um impacto positivo na qualidade da democracia portuguesa –, no qual a pandemia
+
+82
+
+provocada pela doença Covid-19 teve um impacto positivo na qualidade da democracia
+
+portuguesa.
+
+A confirmação da hipótese geral de investigação do estudo permite-nos concluir que
+
+alcançamos o objetivo de perceber o efeito que a pandemia teve na avaliação da qualidade
+
+da democracia portuguesa. Também nos permite responder às nossas perguntas de
+
+investigação, na medida que a pandemia provocada pela doença Covid-19 afetou
+
+positivamente a confiança nas instituições políticas da democracia portuguesa, afetou
+
+positivamente a satisfação com a democracia e o interesse político dos cidadãos portugueses,
+
+o que consequentemente afetou positivamente a qualidade da democracia portuguesa.
+
+Os resultados obtidos permitem-nos olhar para o imediato e percecionar de forma evidente
+
+que os cidadãos portugueses depositaram confiantemente nas instituições políticas a sua
+
+salvaguarda e a orientação dos acontecimentos para a resolução da pandemia. A espelho
+
+desta confiança num momento de crise, devemos olhar para o estado moderno como
+
+resultado de um contrato social que visa retirar os indivíduos do estado natureza, garantindo lhes que não ficam sem proteção contra perigos e riscos imprevistos. As funções do Estado e
+
+a perceção que os cidadãos têm das suas funções estão intrinsecamente ligadas à história da
+
+nação. Em Portugal, numa cultura política marcada pela história recente, há um entendimento
+
+paternalista do Estado que perdura até aos dias de hoje, e foi isso que os portugueses
+
+esperaram das instituições políticas quando a pandemia surgiu. As pessoas estavam com
+
+medo e queriam que as instituições políticas tomassem medidas e todos elas reagiram em
+
+conformidade: o governo decretou o confinamento, o parlamento aprovou as medidas do
+
+governo e os partidos não restringiram a ação do governo. Tal como os nossos resultados
+
+evidenciaram, tudo isto reforçou a confiança dos portugueses nas instituições políticas, na
+
+satisfação com a democracia pela resposta do regime à pandemia e também fomentou o
+
+interesse político dos portugueses. Contudo, a perceção positiva que os portugueses tiveram
+
+das medidas adotadas pelas instituições políticas no primeiro impacto da pandemia foi
+
+desvanecendo com a sua evolução. A realidade defraudou as espectativas das pessoas quando
+
+perceberam que não é possível controlar tudo, não é possível resolver todos os problemas,
+
+não é possível ajudar todos de forma igual, muito menos numa pandemia. A insatisfação com
+
+a solução oferecida pelas instituições políticas refletiu-se nas tendências de descida
+
+verificadas.
+
+83
+
+O nosso estudo acarreta um conjunto de características que o torna relevante no momento
+
+em que foi desenvolvido. O fator tempo sublinha a característica exploratória e inovadora do
+
+estudo. A decisão de avançar com a investigação pouco tempo após o primeiro impacto da
+
+pandemia trouxe um conjunto de limitações como a escassez de literatura e de dados que
+
+fortalecessem a componente teórica e empírica do estudo. Mais literatura disponível poderia
+
+indicar, por exemplo, outros indicadores de avaliação. Mais dados disponíveis reforçariam a
+
+tendência pós-impacto e provavelmente um conjunto de resultados e conclusões diferentes.
+
+A compreensão adequada dos efeitos da pandemia pressupunha que os três elementos – pré impacto, momento do impacto e pós-impacto – estivessem bem delimitados no tempo.
+
+Mesmo assim, fizemos a análise considerando o período antes do impacto, o momento do
+
+impacto e o período de um ano após o impacto – limitação temporal de elaboração do nosso
+
+estudo –, mas recomendamos uma análise futura com os três elementos devidamente
+
+definidos. Estas limitações dotaram o nosso estudo de uma característica exploratória,
+
+fomentando a investigação académica para um acontecimento tão relevante e que trará
+
+consequências para o futuro das sociedades, entre as quais consequências políticas. À
+
+característica exploratória juntamos a característica inovadora do estudo, na medida que a
+
+ousadia de explorar caminhos pouco trilhados permite acrescentar mais uma pedra no muro
+
+da investigação científica.
+
+Além disso, abre o leque a um conjunto de investigações futuras como corrigir as limitações
+
+detetadas, aplicar o estudo num sistema comparativo entre países, aplicar o estudo a outras
+
+fases da pandemia ou num sistema comparativo de avaliação da qualidade da democracia
+
+portuguesa antes e depois da pandemia. Também poderá ser importante compreender se a
+
+gestão da pandemia predispôs as pessoas a aceitarem um exercício mais autoritário e iliberal
+
+do poder político, mostrando como a satisfação com a democracia enquanto mecanismo de
+
+poder direto nos pode conduzir a regimes não liberais de democracia. Para as investigações
+
+futuras salientamos que poderá haver uma dificuldade de circunscrever com precisão os
+
+impactos da gestão política da pandemia por causa da guerra na Europa, na medida que não
+
+houve um interregno temporal entre a invasão russa à Ucrânia e a pandemia provocada pela
+
+doença Covid-19.
+
+84
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+85
+
+Almond, G. & Verba, S. (1963). The civic culture: Political attitudes and democracy in five
+
+nations. Sage.
+
+Almond, G. & Verba, S. (1989). The civic culture revisited. Sage.
+
+Amaral, D. (2014). Uma introdução à Política. Bertrand Editora.
+
+Amat, F., Arenas, A., Faló-Gimeno, A. & Muñoz, J. (2020). Pandemics meet democracy:
+
+Experimental evidence from the COVID-19 crisis in Spain. SocArXiv Papers. https://osf.io/preprints/socarxiv/dkusw
+
+Bækgaard, M., Christensen, J., Madsen, J. & Mikkelsen, K. (2020). Rallying around the flag in
+
+times of Covid-19: Societal lockdown and trust in democratic institutions. Journal of Behavioral Public Administration, 3(2), 1-12.
+
+Barney-Barry, C. & Hody, C. (1995). The politics of change. St. Martin´s Press.
+
+Beetham, D., Carvalho, E., Landman, T., Weir, S. (2008). Assessing the quality of democracy: A
+
+pratical guide. International Institute for Democracy and Electoral Assistance.
+
+Belchior, A. (2015). Confiança nas instituições políticas. Fundação Francisco Manuel dos
+
+Santos.
+
+Bernal, J., Cummins, S. & Gasparrini, A. (2016). Interrupted time series regression for the
+
+evaluation of public health interventions: A tutorial. International Journal of Epidemiology, 2017, 348-355.
+
+Bessa, A. (1997). O trabalho das ideias. Edições ISCSP.
+
+Bobbio, N. (1994). Liberalismo e democracia (6ª ed.). Editora Brasileirense.
+
+Bol, D., Giani, M., Blais, A. & Loewen, P. (2021). The effect of COVID-19 lockdowns on political
+
+support: Some good news for democracy? European Journal of Political Research, 60, 497505.
+
+Campbell, D. & Stanley, J. (1963). Experimental and quasi-experimental designs for research.
+
+Houghton Mifflin Company.
+
+Campbell, A. (2012). Policy makes mass politics. Annual Review of Political Science, 15(1), 333 351.
+
+Cancian, R. (2021, setembro 09). Cultura política - abordagem culturalista - Estudos foram
+
+influenciados pelo determinismo. https://educacao.uol.com.br/disciplinas/sociologia/cultura-politica---abordagemculturalista-estudos-foram-influenciados-pelo-determinismo.htm
+
+Carmo, H. (1998). Metodologia de investigação científica. Universidade Aberta.
+
+86
+
+Coêlho, I. (1998). Política Aristóteles (Edição bilingue, 1ª Ed.). Vega.
+
+Coleman, J. (1989). Rationality and the justification of democracy. Em G. B. Lomasky, Politics
+
+and process (pp. 194-221). Cambridge University Press.
+
+Constant, B. (1985). Da liberdade dos antigos comparada à dos modernos. Revista Filosófica
+
+Política, 2.
+
+Coppedge, M. (2004). Quality of democracy and its measurement. Em G. O´Donnell, J. Cullell
+
+& O. Iazzetta (Eds.), The quality of democracy: Theory and applications (pp. 239-248). University of Notre Dame Press.
+
+Coppedge, M., Gerring, J., Altman, D., Bernhard, M., Fish, S., Hicken, A., Kroenig, M., Lindberg,
+
+S., McMann, K., Paxton, P., Semetko, H., Skaaning, S., Staton, J. & Teorell, J. (2011). Conceptualizing and measuring democracy: A new approach. Perspectives on Politics, 9(2), 247-267.
+
+Coppedge, M. (2012). Democratization and Research Methods. Cambridge University Press.
+
+Cordero, G. & Simón, P. (2015). Economic crisis and support for democracy in Europe. West
+
+European Politics, 39(2). http://dx.doi.org/10.1080/01402382.2015.1075767
+
+Cruz, B. (1995). Teorias sociológicas: Os fundadores e os clássicos (2ª ed.). Fundação Calouste
+
+Gulbenkian.
+
+Dahl, R. (1971). Polyarchy: Participation and opposition. Yale University Press.
+
+Dalton, R. (1999). Political support in advanced industrial democracies. Em P. Norris (Ed.),
+
+Critical citizens: Global support for democracy governance. Oxford University Press.
+
+Dalton, R., Shin, D. & Jou, W. (2007). Understanding democracy: Data from unlikely places.
+
+Journal of Democracy, 18(4), 142-156.
+
+Diamond, L. & Morlino, L. (2005). Assessing the quality of democracy. The John Hopkins
+
+University Press.
+
+Dogan, M. (1996). Political Science and the other Social Sciences. Em R. E.-K. (Eds.), The new
+
+handbook of political science (pp. 97-130). Cambridge University Press.
+
+Dowse, R & Hughes, J. (1986). Political sociology (2ª ed.). John Wiley & Sons.
+
+Easton, D. (1965). A system analysis of political life. Wiley.
+
+Easton, D. (1975). A re‑assessment of the concept of political support. British Journal of
+
+Political Science, 5(4), 435‑457.
+
+Engler, S., Brunner, P., Loviat, R., Abou-Chadi, T., Leemann, L., Glaser, A. & Kübler, D. (2021).
+
+Democracy in times of the pandemic: explaining the variation of COVID-19 policies across European democracies. West European Politics, 44(5-6), 1077-1102.
+
+87
+
+Eurobarometer. (2022, março 04). Standard eurobarometer. https://europa.eu/eurobarometer/surveys/browse/all/series/4961
+
+Fernandes, P. (2021). Nós, os ex-liberais. Em B. Reis, Um mundo de incertezas; as leituras
+
+possíveis de um tempo pandémico (pp. 149-168). NIP-C@M & UAL.
+
+Fetzer, T., Hensel, L., Hermle, J. & Roth, C. (2020). Coronavirus perceptions and economics
+
+anxiety. Forthcoming, Review of Economics and Statistics. https://arxiv.org/pdf/2003.03848.pdf
+
+Freire, A. (2003). Desempenho da democracia e reformas políticas: O caso português em
+
+perspectiva comparada. Sociologia, Problemas e Práticas, 43, 133-160.
+
+Freire, A., Magalhães, P. & Santo, A. (2003). Thinner than thin? Political culture and political
+
+action in Portugal. IOC Discussion Papers, 18. Institute of Oriental Culture, University of Tokyo.
+
+Fuchs, D., Guidorossi, G. & Svensson, P. (1998). Support for the democratic system. Em H.-D.
+
+Klingemann e D. Fuchs (Eds.), Citizens and the state (pp. 323-353). Oxford University Press.
+
+Gadarian, S., Goodman, S. & Pepinsky, T. (2020). Partisan endorsement experiments do not
+
+affect mass opinion on COVID-19. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3574605
+
+Geertz, C. (1983). Local knowledge. Basic Books.
+
+Glass, G., Wilson, V. & Gottman, J. (1975). Design and analysis of time-series experiments.
+
+Colorado Associated University Press Boulder.
+
+Grossman, G., Kim, S., Rexer, J. & Thirumurthy, H. (2020). Political partisanship influences
+
+behavioral responses to governors? Recommendations for COVID-19 prevention in the United States. Proceedings of the National Academy of Sciences of the United States of America. https://www.pnas.org/content/117/39/24144
+
+Healy, A. & Malhotra, N. (2009). Myopic voters and natural disaster policy. American Political
+
+Science Review, 103(3), 387-406.
+
+Hetherington, M. (1998). The political relevance of political trust. American Political Science
+
+Review, 92(4), 791-808.
+
+Hetherington, M. & Husser, J. (2012). How trust matters: The changing political relevance of
+
+political trust. American Journal of political science, 56(2), 312-325.
+
+Huntington, S. (1994). A terceira onda: A democratização no final do século XX. Ática.
+
+Inglehart, R. (2002). Cultura e democracia. Em L. H. Huntington, A cultura importa: Os valores
+
+que definem o progresso humano (pp. 133-154). Record.
+
+Karabulut, G., Zimmermann, k., Bilgin, M. & Doker, A. (2021). Democracy and Covid-19
+
+outcomes. Economics Letters, 203, 1-4.
+
+88
+
+Karl, T. (2000). Electoralism. Em R. R. al., The international encyclopedia of elections.
+
+Congressional Quarterly Press.
+
+Klingemann, H.-D. (1999). Mapping political support in the 1990s: a global analysis. Em P.
+
+Norris, Critical citizens: Global support for democratic governance. Oxford University Press.
+
+Klingemann, H.‑D. (2014). Dissatisfied democrats: Democratic maturation in old and new
+
+democracies. Em R. Dalton & C. Welzel (Eds.), The civic culture transformed: From allegiant to assertive citizens (pp. 116-157). Cambridge University Press.
+
+Krastev, I. (2021, Março 29). Is it tomorrow yet?: Paradoxes of the pandemic. The Forum
+
+Network. https://www.oecd-forum.org/posts/is-it-tomorrow-yet-paradoxes-of-thepandemic-by-ivan-krastev
+
+Leininger, A. & Shaub, M. (2020). Voting at the dawn of a global pandemic. SocArXiv Papers.
+
+https://osf.io/preprints/socarxiv/a32r7
+
+Levitsky, S. & Way, L. (2010). Competitive authoritarianism. Cambridge University Press.
+
+Lijphart, A. (1989). As democracias contemporâneas (1ª ed.). Gradiva.
+
+Linden, A. (2015). Conducting interrupted time-series analysis for single- and multiple-group
+
+comparisons. The Stata Journal, 15(2), 480-500.
+
+Linz, J. (1995). La quiebra de las democracias. Alianza Universidad.
+
+Lipset, S. (1959). Some social requisites of democracy: Economic development and political
+
+legitimacy. The American Political Science Review, 53(1), 69‑105.
+
+Marien, S. (2011). Measuring political trust across time and space. Em M. Hooghe & S. Zmerli
+
+(Eds.), Political trust: Why context matters (pp. 13-46). ECPR Press.
+
+Marien, S. & Hooghe, M. (2011). Does political trust matter? An empirical investigation into
+
+the relation between political trust and support for law compliance. European Journal of Political Research, 50, 267-291.
+
+Marques, F. (2021, dezembro 4). Coligação "semáforo" ratificada pelo SPD: começa o fim da
+
+era Angela Merkel. Euronews. https://pt.euronews.com/2021/12/04/coligacao-semafororatificada-pelo-spd-comeca-a-concretizar-se-o-fim-de-angela-merkel
+
+Merkley, E., Bridgeman, A., Loewen, P., Owen, T., Ruths, D. & Zhilin, O. (2020). A rare moment
+
+of cross-partisan consensus: Elite and public response to the COVID-19 pandemic in Canada. Cambridge University Press, 53, 311-318.
+
+Mishler, W. & Rose, R. (2001). What are the origins of political trust? Testing institutional and
+
+cultural theories in post‑communist societies. Comparative Political Studies, 34(1), 30‑62.
+
+Morlino, L. (2009). Democracias e democratizaciones. Centro de Investigaciones Sociologicas.
+
+89
+
+Muro, D. & Vidal, G. (2016). Political mistrust in Southern Europe since the great recession
+
+political. Mediterranean Politics, 22(2), 197‑217.
+
+Norris, P. (1999). Critical citizens: Global support for democratic government. Oxford
+
+University Press.
+
+North, D. (1990). Institutions, institutional change and economic performance. Cambridge
+
+University Press.
+
+Pasquino, G. (2002). Curso de Ciência Política. Principia.
+
+Pateman, C. (1992). Participação e teoria democrática. Editora Paz e Terra.
+
+Patterson, S. (1970). The political cultures of the American States. Em D. &. Rosenbaum,
+
+Political opinion and behavior: Essays and studies (2ª ed., pp. 105-124). Wadsworth Publishing Company.
+
+Plattner, M. (2005). A skeptical perspective. Em L. Diamond & L. Morlino (Eds.), Assessing the
+
+quality of democracy (pp. 77-81). The John Hopkins University Press.
+
+Pordata. (2022, março 04). Taxa de crescimento real do PIB. https://www.pordata.pt/Portugal/Taxa+de+crescimento+real+do+PIB-2298
+
+Porta, D. (2013). Can democracy be saved? Participation, deliberation and social movements.
+
+Polity Press.
+
+Portal de Opinião Pública. (2021, outubro 20). Confiança no parlamento. https://www.pop.pt/pt/grafico/a-politica/confianca-no-parlamento/pt/?colors=pt-0
+
+Portal de Opinião Pública. (2021, outubro 22). Confiança no governo. https://www.pop.pt/pt/grafico/a-politica/confianca-no-governo/pt/?colors=pt-0
+
+Portal de Opinião Pública. (2021, outubro 24). Confiança nos partidos políticos.
+
+https://www.pop.pt/pt/grafico/a-politica/confianca-nos-partidos-politicos/pt/?colors=pt0
+
+Portal de Opinião Pública. (2021, outubro 26). Confiança na justiça. https://www.pop.pt/pt/grafico/a-politica/confianca-na-justica/pt/?colors=pt-0
+
+Portal de Opinião Pública. (2021, novembro 02). Satisfação com a democracia.
+
+https://www.pop.pt/pt/grafico/a-politica/satisfacao-com-a-democracia/pt/?colors=pt-0
+
+Portal de Opinião Pública. (2021, novembro 04). Interesse na política. https://www.pop.pt/pt/grafico/a-politica/interesse-na-politica/pt/?colors=pt-0
+
+Putnam, R., Leonardi, R., Nanetti, Y. & Pavoncello, F. (1983). Explaining institutional success:
+
+The case of Italian regional government. The American Political Science Review, 77(1), 55‑74.
+
+90
+
+Putnam, R. (1993). Making democracy work: Civic traditions in modern Italy. Princeton
+
+University Press.
+
+Rousseau, J. (1999). O contrato social: Princípios do direito político - J.-J. Rousseau (3ª ed.). (A.
+
+d. Danesi, Trad.). Livraria Martins Fontes Editora.
+
+Ruiz-Rufino, R. & Alonso, S. (2017). Democracy without choice: Citizens’ perceptions of
+
+government’s autonomy during the Euro-Zone crisis. European Journal of Political Research, 56(2), 230-245.
+
+Sanders, D. & Bellucci, P. (2012). Informal political engagement in Europe, 1975–2007. Em D.
+
+Sanders, P. Magalhães & G. Tóka (Eds.), Citizens and the European polity (pp. 39-64). Oxford University Press.
+
+Sarmento, C. (2008). Os guardiões dos sonhos: Teorias e práticas dos anos 60. Edições Colibri.
+
+Schumpeter, J. (2013). Capitalism, socialism and democracy. Routledge.
+
+Shadish, W., Cook, T. & Campbell, D. (2002). Experimental and quasi-experimental designs for
+
+generalized causal inference. Houghton Mifflin Company.
+
+Shin, D. (2005). Democratization: perspectives from global citizenries. Em R. D.-D. Klingemann,
+
+The oxford handbook of political behavior. Oxford University Press.
+
+Silva, P., Costa, E. & Moniz, J. (2021). A portuguese miracle: The politics of the first phase of
+
+Covid-19 in Portugal. South European Society and Politics. DOI:10.1080/13608746.2021.1979741
+
+Sousa, M. & Baptista, C. (2011). Como fazer investigação, dissertações, teses e relatórios –
+
+Segundo Bolonha. Pactor.
+
+Tarrow, S. (1996). Making social science work across space and time: A critical reflection on
+
+Robert Putnam’s making democracy work. The American Political Science Review, 90(2): 389-397.
+
+Teixeira, C. & Freire, A. (2010). Decline, transformation and trust in parliaments: The
+
+Portuguese case in a longitudinal and comparative Perspective. Revista Ibero‑Americana de Estudos Legislativos, 1(1), 24‑37.
+
+Teixeira, C., Tsatsanis, E. & Belchior, A. (2014). Support for democracy in times of crisis: Diffuse
+
+and specific regime support in Portugal and Greece. South European Society and Politics, 19(4), 501‑518.
+
+Teixeira, C. (2018). Qualidade da democracia em Portugal. Fundação Francisco Manuel dos
+
+Santos.
+
+Tocqueville, A. de (1994 [1835‑1840]). Democracy in America, vol. I. Everyman’s Library.
+
+91
+
+Torcal, M. & Montero, J. (2006). Political disaffection in comparative perspective. Em M. Torcal
+
+& J. Montero (Eds.), Political disaffection in contemporary democracies: Social capital, institutions and politics (1ª ed., pp. 3-19). Routledge.
+
+Torcal, M. & Magalhães, P. (2009). Political culture in southern Europe: Searching for
+
+exceptionalism. http://www.pedro-magalhaes.org/PDFs/PoliticalCultureinSouthernEuropemarc.pdf
+
+Torcal, M. (2014). The decline of political trust in Spain and Portugal: Economic performance
+
+or political responsiveness? American Behavioral Scientist, 58(12), 1542‑1567.
+
+Wagner, A., Soumerai, S., Zhang, F. & Ross-Degnan, D. (2002). Segmented regression analysis
+
+of interrupted time series studies in medication use research. Journal of Clinical Pharmacy and Therapeutics, 27(4), 299-309.
+
+Worms, J.‑P. (2002). France: Old and new civic and social ties in France. Em R. Putnam (Ed.),
+
+Democracies in flux: The evolution of social capital in contemporary society (pp. 137-188). Oxford University Press.
+
+92
+
+ANEXO
+
+93
+
+Anexo I
+
+Conceções de democracia
+
+Princípios
+
+Instituições
+
+Eleitoral (Elitista, minimalista, realista, Shumpetariana)
+
+Contestação
+
+Competição
+
+Eleições Partidos políticos Competitividade e negociação
+
+Liberal (Consensual, pluralista)
+
+Governo limitado Veto político e accountability
+
+horizontal Direitos humanos, liberdades
+
+civis e transparência
+
+Independente e descentralizada
+
+Meios de comunicação e
+
+grupos de interesse Constituição escrita e garantias
+
+explícitas
+
+Maioritária (Governo responsável)
+
+Regra da maioria
+
+Centralização Accountability vertical
+
+Consolidada e centralizada com
+
+especial destaque para o papel dos partidos políticos
+
+Participativa
+
+Governo pelo povo
+
+Lei laboral, sociedade civil,
+
+governo local Democracia direta
+
+Deliberativa
+
+Governo pela razão
+
+Media Audições Painéis e órgãos deliberativos
+
+Igualitária
+
+Igualdade política
+
+Igualdade de participação Representação, proteção e recursos politicamente relevantes
+
+Fonte: Coppedge et al. (2011)
+
+94
+
+Anexo II
+
+Princípios e valores democráticos
+
+Valores
+
+Exigências institucionais
+
+Meios de realização
+
+Participação
+
+Direitos de participação Recursos de participação Agências de participação
+
+Cultura participativa
+
+Direitos civis, económicos,
+
+sociais e culturais Eleições, partidos, organizações
+
+não governamentais, educação
+
+Autorização
+
+Validação da Constituição Escolha dos titulares de cargos
+
+Controlo dos eleitos sobre o pessoal executivo não eleito
+
+Referendos Eleições livres e justas Sistema de subordinação dos
+
+funcionários eleitos
+
+Representação
+
+Legislatura representativa Instituições representativas da composição social do eleitorado
+
+Sistema político eleitoral e
+
+partidário e leis contra a
+
+discriminação
+
+Accountability
+
+Linhas claras de accountability Sistema judicial civil e integrante
+
+Estado de Direito e processo de
+
+auditoria independente
+
+Transparência
+
+Governos abertos ao escrutínio legislativo e
+
+público e ao debate
+
+Leis de liberdade de informação
+
+Meios de comunicação
+
+independentes e debates nacionais
+
+Responsabilidade
+
+Acessibilidade de governo aos eleitores e diferentes sessões de
+
+opinião pública na formulação e implementação de
+
+medidas
+
+Procedimentos sistemáticos e
+
+acessíveis Governos locais
+
+Solidariedade
+
+Diversidade
+
+Apoio aos governos democráticos e
+
+às lutas populares democráticas Educação cívica e direitos humanos
+
+Fonte: Beetham et al. (2008)

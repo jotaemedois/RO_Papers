@@ -1,0 +1,379 @@
+Journal of Contemporary European Studies
+
+ISSN: 1478-2804 (Print) 1478-2790 (Online) Journal homepage: www.tandfonline.com/journals/cjea20
+
+The winner takes all the trust: populism, democracy, and winner-loser gaps in political trust in Central and Southern Europe
+
+Marta Kołczyńska
+
+To cite this article: Marta Kołczyńska (2023) The winner takes all the trust: populism, democracy, and winner-loser gaps in political trust in Central and Southern Europe, Journal of Contemporary European Studies, 31:4, 1240-1253, DOI: 10.1080/14782804.2022.2162486
+
+To link to this article: https://doi.org/10.1080/14782804.2022.2162486
+
+Published online: 28 Dec 2022.
+
+Submit your article to this journal
+
+Article views: 917
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=cjea20
+
+ARTICLE
+
+The winner takes all the trust: populism, democracy, and winner-loser gaps in political trust in Central and Southern Europe
+
+Marta Kołczyńska
+
+Department of Research on Social and Institutional Transformations, Institute of Political Studies of the Polish Academy of Sciences, Warszawa, Poland
+
+ABSTRACT Studies typically find that supporters of populist parties exhibit low poli­ tical trust. Drawing on research on winner-loser gaps in political support and the consequences of political polarization on attitudes, I re-examine the association between populism and political trust taking into account the supported party’s status in or outside of government, distinguishing between government leaders and junior coalition partners. I analyze data from the European Social Survey Rounds 1–9 from nine Central and Southern European countries that experienced populist parties as govern­ ment leaders, combined with party characteristics from the Varieties of Party Identity and Organization as well as democracy scores from the Varieties of Democracy datasets. Results show that the effect of party status on political trust is stronger among supporters of populist than non-populist parties. Further, I find that supporters of populist govern­ ments enjoy greater trust advantages in less democratic contexts.
+
+KEYWORDS Political trust; populism; elections; European Social Survey; Varieties of Democracy
+
+Introduction
+
+After over two decades of very low political trust in post-communist countries of Central and Eastern Europe, in the last years trust has rebound in some of them. Notably, political trust has recently increased in Poland and Hungary, countries whose governments are being accused of violating political rights and civil liberties, undermining judicial independence, and dismantling the demo­ cratic order (Bakke and Sitter 2020; Cianetti, Dawson, and Hanley 2018). Given that, on the individual level, support for populist parties has been traditionally associated with lower-than-average political trust (Norris and Inglehart 2019; Rooduijn 2018), the increase in country-level political trust under populist governments constitutes a puzzle.
+
+To address this puzzle, it is crucial to investigate whose political trust contributes to the overall increase when populists are in power, and – specifically – how political trust of supporters of populist parties changes depending on these parties’ status in or out of government. Political trust among populist voters tends to be lower than average in many European countries, because in most of these countries populist parties are in the opposition or are at most junior coalition partners. Building on research on winner-loser gaps in political support, I expect the opposite to be true when populist parties win elections and lead governments. In order to increase the overall level of political trust, the increase in trust among populist winners would have to exceed the decline in trust among non- populist losers. A similar dynamic was studied in the Western European context by Harteveld et al.
+
+CONTACT Marta Kołczyńska mkolczynska@isppan.waw.pl Department of Research on Social and Institutional Transformations, Institute of Political Studies of the Polish Academy of Sciences, ul. Polna 8/10, Warszawa 02-625, Poland
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 2023, VOL. 31, NO. 4, 1240–1253 https://doi.org/10.1080/14782804.2022.2162486
+
+© 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+(2021), who theorized that political trust is more robust to negative shocks among people who have enjoyed high trust for extended periods of time, in this case among non-populist voters. I additionally argue that populism itself, as well as the polarization it may cause, contribute to higher winner effects in political trust among populist voters.
+
+Further, I hypothesize that the winner advantage in political trust among populist voters is particularly large in countries with lower levels of democracy. Linking the micro and macro levels of political trust, the analysis shows that if populist parties win elections and the level of democracy is low, supporters of the winning populist parties will see an increase in political trust that exceeds the decline in political trust among non-populist losers, thus increasing the overall average level of political trust in the country.
+
+I test these hypotheses with data from nine Central and Southern European countries which have experienced populist-led governments in the period 2002–2019. I apply multilevel linear models to survey data on political trust and party support from the European Social Survey Rounds 1–9 combined with data on political party orientations from the Varieties of Party Identity and Organization as well as democracy scores from the Varieties of Democracy datasets. As an extension of earlier studies that tend to use a binary classification of winner and loser status, this study distinguishes between the supported party’s status as government leader, junior coalition partner, and opposition party.
+
+Results show that supporters of winning populist parties declare higher political trust than suppor­ ters of winning non-populist parties, while supporters of losing populist parties have lower trust than supporters of losing non-populist parties. Taken together, these two effects contribute to the winner- loser gap that is greater among supporters of populist than non-populist parties. Second, the analysis shows that these effects depend on the country’s level of democracy: the winners’ trust advantage is greatest among people who support populist governments in countries with lower levels of democ­ racy. In other words, in weak democracies populist governments coincide with more polarization in political trust between electoral winners and losers. The analysis also shows that supporters of populist parties that are junior coalition partners are much more similar to electoral losers in terms of trust than to supporters of government leaders. Thus, treating winner-loser status as binary may conceal some of the characteristic features of supporters of populist parties. More generally, these findings show how democratic backsliding may coincide with an increase in political trust.
+
+The paper is organized as follows. I start by discussing the nature of winner-loser gaps in political support, and the features of populism that can be expected to exacerbate these gaps, especially in less democratic contexts. Next, I present the data and modeling techniques, and proceed to describing the main findings. The final part discusses the results connecting them to the theoretical understanding of the links between political trust and democracy, points out limitations of the present study, and outlines possible extensions for future research.
+
+Political trust, populism, and democracy
+
+Research generally finds that supporters of populist parties or candidates tend to have low trust in state institutions (Dahlberg and Linde 2017; Hooghe, Marien, and Pauwels 2011; Söderlund and Kestilä-Kekkonen 2009). There are two main explanations for the negative association between political trust and populist vote on the individual level. First, voting for populist parties or candidates may be understood as protest voting, and thus as an expression of disaffection with mainstream politics and political institutions (Bélanger and Aarts 2006), in line with the nature of populism as rejecting the entire political elite as corrupt and self-serving (Canovan 1999; Mudde 2004). The second explanation considers voting for populist parties as an expression of voters’ policy preferences, which then leads to low political trust as a consequence of populist parties’ anti- establishment rhetoric (Brug and Wouter 2003; Der Brug, Wouter, and Tillie 2005). Both explanations may be true at the same time, and there is reason to believe that the link between political trust and
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1241
+
+populist support is indeed reciprocal (Hooghe and Dassonneville 2018; Matthijs, van der Brug, and de Lange 2016).
+
+What many studies of the effects of populist voting on political trust seem to ignore is the fact that in most Western European countries, where much of the research on populism is conducted, populist parties have primarily been in the opposition and occasionally included in governments as junior partners. At the same time, research on winner-loser gaps in political trust has long found consistent differences in political trust and satisfaction between supporters of ruling parties and supporters of opposition parties (Anderson et al. 2005; Martini and Quaranta 2019). Analyzing voters of populist parties in contexts where they are typically in the position of electoral losers cannot answer the question whether low political trust is a distinguishing feature of populist voters in general. Indeed, in the analysis of voters of 15 populist parties in Western Europe, Rooduijn (2018) found that the negative effect of populist support on political trust is not universal, and some of the instances where no negative effect was found can in fact be explained by the populist party’s inclusion in government.1
+
+Political trust expressed by supporters of populist parties tends to increase when these parties are included in governing. Haugsgjerd (2019) demonstrated this on the example of Fremskrittspartiet, the Norwegian Progress Party, whose joining the government as a junior coalition partner in 2013 was followed by a reduction of the satisfaction deficit among its supporters. The authors justify this increase by invoking the winner advantage in satisfaction (Anderson et al. 2005) and the moderation of the populists party’s policy postulates and rhetoric after joining the government (Tjitske, de Lange, and Rooduijn 2016). Still, in the described example, the association between political trust and supporting Fremskrittspartiet remained negative.
+
+If a populist party wins enough parliamentary seats to lead the government or to form a government on its own, there may be no need to become more moderate, as would be the case for junior coalition partners. Thus, populist governments may continue their rhetoric, while at the same time pursuing their ideological agendas. Populist party supporters that had been dissatisfied and distrustful of the political system under the previous non-populist government can now be expected to react to having their party rule with increases in political trust resulting from the perception of higher responsiveness of the political system and increased representation, as well as from the satisfaction with the possibility of implementation of their preferred policies. In short, given the mechanisms that drive the winner’s advantage in political trust and the ubiquity of winner- loser gaps in political trust across countries and regions (Martini and Quaranta 2019; Moehler 2009; Monsiváis-Carrillo 2020), there is no reason to expect that supporters of populist parties would not experience its effects.
+
+On the contrary, there are reasons to expect winner effects in political trust for supporters of populist parties to be greater than the decline in trust among supporters of mainstream parties following electoral defeats. In an analysis of twelve Western European countries, Harteveld et al. (2021) used David Easton’s concept of ‘reservoir of goodwill’ (1965) to argue and show that the inclusion of populist radical right parties in government is associated with a smaller decline in political satisfaction among people holding non-nativist views, than the increase in satisfaction and confidence among people holding nativist views. The reasoning is that the higher trust and satisfaction non-nativists had exhibited over longer periods of time has accumulated into more stable and diffuse support that protects them from sharp declines when the political system becomes less responsive to their preferences. In other words, being used to system responsiveness in the long run stabilizes political trust and satisfaction when responsiveness declines owing to reservoirs of diffuse system support.
+
+The mechanism of the reservoir of good will should apply to all instances when a group of voters is used to having their interests represented for an extended period of time, whether it be preferences related to migration or others. In addition to this mechanism, populism2 itself by its nature seems conducive to making political trust of populist voters more extreme than that of other voters, both in terms of low trust if their preferred party is in the opposition, and in terms of strong
+
+1242 M. KOŁCZYŃSKA
+
+increases in trust when the party is in government. The dichotomous character of populist rhetoric can be expected to make populists’ electoral victories particularly rewarding, as they represent a triumph of ‘the people’ in a system that had earlier been serving ‘the corrupt elite’ and a victory of the good over the evil (Mudde 2004). Additionally, populist leaders tend to emphasize the need for direct democracy and close contact between leaders and voters (Bonikowski 2017), which – in the case of populist governments – may create a perception of reduced distance and increased respon­ siveness to their voters’ needs.
+
+The effect of populism may operate in two main ways: through populist attitudes or through support for a populist party. In the first scenario, voters who hold populist attitudes would react more strongly to their party’s electoral outcome regardless of whether the party is populist or not. In the second scenario, regardless of individual populist orientations, support for populist parties would inflate winner-loser effects. To the extent that individual populist attitudes predict populist party support (Hauwaert, Steven, and Van Kessel 2017; Akkerman, Mudde, and Zaslove 2013), both mechanisms are hard to distinguish empirically.
+
+Elections with populist parties as major players are likely to take place in a climate of overall high political polarization, or ‘political sectarianism’, which consists of three core ingredients: othering of opposing parties and their supporters, aversion to opposing partisans, and portraying them as immoral (Finkel et al. 2020), all of which are compatible with a populist outlook. Among other consequences, political sectarianism and polarization stimulate partisan motivated reasoning, thus affecting how people select and process information depending on whether it is favorable for the party they support, leading to increasingly partisan views of the state of affairs (Bavel, Jay, and Pereira 2018; Druckman, Peterson, and Slothuus 2013; Peterson and Iyengar 2020; Enns, Kellstedt, and McAvoy 2012). The winner-loser gap in political trust may be further exacerbated by media partisanship or parallelism (Lelkes 2016), which may occur when populist governments use state television as a propaganda outlet or put pressure on civil society organizations as they did in Italy, Hungary and Poland (Albertazzi and Mueller 2013; Bill 2020; Krekó and Enyedi 2018).
+
+Research also shows that people are ready to trade democratic norms for political ideology, partisan loyalty, and policy preferences, and will maintain support for parties that violate democratic principles such as electoral integrity or respect for the rule of law in favor of partisan goals (Graham and Svolik 2020; Arbatli and Rosenberg 2020). These trade-offs would manifest most strongly in less democratic contexts, where violations of democratic principles may be occurring behind the facade of serving the will of the people. In such contexts, evaluations of democracy and governance by supporters of populist governments would reflect the messages of the ruling party and state- controlled media. At the same time, reduced democratic performance would be more soberly evaluated by opponents of ruling populists. Additionally, observing developments that violate democratic norms and hurt the fairness of political competition may lead electoral losers to lose confidence in their ability to become winners in the near future (Nadeau, Daoust, and Dassonneville 2021). Taken together, these processes lead to a greater mismatch between the assessment of state performance by electoral winners and losers.
+
+Cross-national survey analyses using data from Latin America found that electoral victory indeed colors the evaluation of the supply of freedoms, with electoral losers perceiving substantially less freedom of speech, of the press, and respect for human rights, and more so in countries with flawed democracies (Monsiváis-Carrillo 2020). Similarly, winner-loser gaps in political satisfaction are found to be greater in countries with higher levels of corruption (Anderson and Tverdova 2003). A recent study found that winner-loser gaps in trust increased in Poland in a period of democratic backsliding and high polarization (Kołczyńska and Sadowski 2022). There is also ample evidence of large winner- loser gaps in evaluations of electoral integrity, especially in less democratic contexts (Norris 2018; McAllister and White 2011; Moehler 2009). The winner-loser gap in political support depends on the level of democracy, in that countries with a higher quality of the electoral process and rule of law see smaller gaps in satisfaction with democracy (Dahlberg and Linde 2016; Nadeau,
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1243
+
+Daoust, and Dassonneville 2021). Altogether, evaluations of state performance tend to be driven to a larger extent by electoral winner status in contexts characterized by poorer institutional performance compared to those with high performance. If low democratic and institutional perfor­ mance is conducive to greater differences in expressed attitudes about the state due to differential information selection and processing, populism can be expected to further exacerbate these effects.
+
+Based on the above discussion, I formulate two hypotheses about the associations between political trust, populism, and democracy:
+
+Hypothesis 1: The trust advantage of supporters of ruling populist parties is higher than among supporters of ruling non-populist parties. In other words, the winner-loser gap is greater for populists than for non-populists.
+
+Hypothesis 2: The trust advantage of supporters of ruling populist parties is higher in countries with lower levels of democracy.
+
+Data and methods
+
+The study usesindividual-level data from the European Social Survey Rounds 1–9, an academically driven biennial survey of European societies (European Social Survey 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018). The ESS relies on probability samples of adult populations with surveys conducted in most European countries, and questionnaires including questions on a wide range of social and political topics, such as items about political support, voting in last national election and feeling close to a particular political party that are used for the present study.
+
+As the dependent variable I use trust in the national parliament, which is perhaps the most widely used measure of trust in the political system (Dalton, Van Sickle, and Weldon 2010; Newton and Zmerli 2011; Klingemann 1999). In the ESS, trust in the national parliament is measured on an 11- point scale, ranging from 0 to 10, where 0 indicates ‘not trust at all’ and 10 indicates ‘complete trust’ (European Social Survey 2020). Replicating the analysis with two alternative dependent variables that are often used as indicators of political support, trust in politicians and satisfaction with democracy, leads to substantively similar conclusions. These additional analyses are presented in the Online Supplement.
+
+Populism is measured based on survey responses to questions about supported political parties mapped to Party Facts IDs (Bederke, Döring, and Regel 2020), which were then merged with populism scores from the Varieties of Party Identity and Organisation, V-Party (Lührmann et al. 2020). I used questions about the party the respondent voted for in the last election or – if that information was missing – the party the respondent reported feeling close to. V-Party provides expert-coded indicators of populism of political parties in most countries of the world through 2019. The populism index measures the extent to which ‘representatives of the party use populist rhetoric’ (Lührmann et al. 2020, 19), including anti-elite rhetoric and the glorification of the ordinary people and self-identification as part of them (Lührmann et al. 2020, 24). Only parties that have reached at least 5% of votes in parliamentary elections are included in the dataset.
+
+The V-Party dataset also provides information about the parties’ government support, identifying parties that were part of the cabinet as the senior partner or the only cabinet party, a junior partner, or were not part of the government. The analysis includes only data from countries that have experienced a populist party (with the V-Party populist index above 0.5) in the role of government leader in the period covered by the ESS data, i.e. Bulgaria, Czechia, Greece, Hungary, Italy, Lithuania, Poland, Slovakia, and Slovenia. Populism scores and party government status for the analyzed countries are provided in the Online Supplement.
+
+1244 M. KOŁCZYŃSKA
+
+The information on party ideologies and winner-loser status from the V-Party data was matched to the ESS data taking into account dates of fieldwork and of elections, to make sure that the coding reflects the situation of respondents at the time of the interview. Of the analyzed countries, the only time ESS fieldwork coincided with elections was in Greece, which held snap elections in October 2009 while ESS Round 4 fieldwork was ongoing, so this survey was excluded from the analysis. Additionally, respondents who reported not having voted and not feeling close to any particular party, and those who support parties for which populism scores are not available (i.e. very small parties) were excluded as well. Respondents below voting age (17 years in Greece and 18 years in the remaining countries) were excluded as well. Cases with missing values on any of the variables were also excluded, leaving the sample with 52,763 observations from 58 country-years and nine countries. Information about the countries and years used in the analysis is provided in the Appendix, Tables A1.
+
+To measure the quality of democracy, I use the Liberal Democracy index from the Varieties of Democracy project, which evaluates the extent to which countries protect individual and minority rights, including civil liberties, rule of law, independence of the judiciary, and effective checks and balances, also taking into account an evaluation of electoral democracy (Coppedge et al. 2021b; 43, Coppedge et al. 2021a).
+
+I control for economic performance, which is known to be an important predictor of political trust. For this purpose I use GDP per capita data from the World Bank (World Development Indicators 2020). I further control for sociodemographic factors: age, sex, and education in years of schooling top-coded at 20 years. Summary statistics are available in the Appendix, Table A2.
+
+The data have a multilevel structure with respondents nested in country-years, which in turn are nested in countries. I estimate a series of Bayesian linear three-level models with political trust as the dependent variable. Analyses were performed in R (R Core Team 2020) with the brms package (Bürkner 2017), an interface to the Stan language (Carpenter et al. 2017) for Bayesian analysis. Priors for all parameters were chosen as weakly-informative, thus having only minimal influence on the obtained inference while ensuring sufficient sampling efficiency (Gelman et al. 2008). I report inference on model parameters in terms of posterior means, quantile-based 95% posterior uncer­ tainty intervals (credible intervals, CI), and posterior probabilities as a continuous measure of evidence in favor of or against the expected effect. The data processing and modelling code are available in the online replication materials.
+
+Results
+
+The first hypothesis focuses on the association between trust in parliament and the level of populism of the supported political party, depending on the party’s position on the political scene. To start, Model 1.1 in Table 1 includes additive effects of all variables without any interactions. The model reveals familiar patterns of associations. Supporters of more populist parties tend to report lower levels of trust in parliament, but the effects are relatively small: the difference between trust in parliament among supporters of the most populist countries (populism level of 1) and supporters of the least populist parties (populism level of 0) is estimated at 0.28 units (95% CI = [−0.36; −0.19]) on the 0–10 trust scale, net of the other factors.
+
+Regarding the party’s position in or outside of government, political trust is highest among supporters of leading or only government parties, lower among supporters of junior coalition parties, and lower still (by almost an entire point compared to trust among winners) among supporters of opposition parties. Interestingly, among the nine countries included in the analysis, countries with higher levels of democracy on average see lower levels of trust in parliament. A change from the highest to the lowest level of democracy represented in the data, i.e. from 0.83 in Poland in 2012 to 0.37 in Hungary in 2019, would be associated with a decline in trust in parliament by 1.11 points on the 0–10 scale (CI = [−2.20, −0.06]). Looking at the control variables, countries with higher GDP per
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1245
+
+capita enjoy higher trust, and people with less education, women, and younger people tend to have lower trust.
+
+Model 1.2 adds an interaction effect between the level of populism of the supported party, and the position of that party in or out of government. Figure 1 presents these associations graphically, showing that political trust among supporters of government populist parties strongly depends on whether the party is government leader or a smaller coalition partner. Trust among supporters of populist parties that are junior coalition partners is similar to when the parties are in the opposition. In other words, only leading the government represents a true victory for populist party supporters. At the same time, among supporters of non-populist parties, the differences in trust are overall much smaller, and the important distinction is between the party being in the government at all, and outside of government.
+
+Table 1. Model results: Trust in parliament.
+
+Variable
+
+Model 1.1 Model 1.2 Model 1.3
+
+Estimate 95% interval Estimate 95% interval Estimate 95% interval Populism −0.28 [−0.36; −0.19] 0.50 [−0.03; 1.07] 4.01 [−0.29; 8.29] Party status (ref. Government senior) Junior −0.36 [−0.42; −0.29] 0.36 [0.10; 0.65] 2.95 [0.38; 5.88] Opposition −0.90 [−0.94; −0.85] −0.28 [−0.54; −0.02] −0.56 [−3.59; 2.54] Populism*Junior −1.84 [−2.81; −1.03] −8.68 [−15.24; −3.02] Populism*Opposition −1.25 [−1.84; −0.66] −4.31 [−8.55; −0.01] Populism*Democracy −5.24 [−10.82; 0.39] Junior*Democracy −3.56 [−7.27; −0.28] Opposition*Democracy 0.26 [−3.67; 4.19] Populism*Junior*Democracy 9.69 [2.34; 18.00] Populism*Opposition*Democracy 4.59 [−1.13; 10.15] Liberal democracy −2.16 [−4.39; −0.06] −1.19 [−4.12; 1.66] 0.42 [−4.10; 4.88] Control variables GDP per capita 0.47 [0.06; 0.83] 0.43 [0.02; 0.80] 0.43 [0.01; 0.82] Age (10 years) −0.29 [−0.36; −0.22] −0.29 [−0.35; −0.22] −0.29 [−0.36; −0.22] Age (10 years), squared 0.03 [0.03; 0.04] 0.03 [0.03; 0.04] 0.03 [0.03; 0.04] Women −0.11 [−0.15; −0.07] −0.11 [−0.15; −0.07] −0.11 [−0.15; −0.07] Schooling years 0.05 [0.05; 0.06] 0.05 [0.05; 0.06] 0.05 [0.05; 0.06] Intercept 4.52 [2.40; 6.98] 3.48 [0.85; 6.53] 2.41 [−1.32; 6.44] Random effects sd country intercept 0.51 [0.18; 1.09] 0.50 [0.09; 1.15] 0.53 [0.05; 1.30] sd country-wave intercept 0.61 [0.49; 0.75] 0.64 [0.42; 0.88] 0.63 [0.46; 0.84] sd Populism 0.71 [0.32; 1.18] 0.47 [0.05; 0.89] sd Junior 0.30 [0.02; 0.66] 0.17 [0.01; 0.47] sd Opposition 0.46 [0.27; 0.68] 0.47 [0.28; 0.71] sd Populism*Junior 1.27 [0.45; 2.41] 0.90 [0.31; 1.81] sd Populism*Opposition 0.68 [0.15; 1.18] 0.63 [0.16; 1.10] cor Intercept, Populism −0.27 [−0.77; 0.43] −0.20 [−0.72; 0.55] cor Intercept, Junior 0.24 [−0.40; 0.76] 0.17 [−0.54; 0.78] cor Populism, Junior 0.15 [−0.60; 0.78] 0.10 [−0.66; 0.76] cor Intercept, Opposition 0.19 [−0.28; 0.67] 0.09 [−0.36; 0.57] cor Populism, Opposition −0.30 [−0.81; 0.33] −0.26 [−0.77; 0.32] cor Junior, Opposition −0.04 [−0.64; 0.62] 0.03 [−0.64; 0.71] cor Intercept, Populism*Junior −0.01 [−0.52; 0.49] −0.00 [−0.50; 0.51] cor Populism, Populism*Junior −0.30 [−0.81; 0.36] −0.16 [−0.75; 0.53] cor Junior, Populism*Junior −0.51 [−0.91; 0.38] −0.27 [−0.88; 0.56] cor Opposition, Populism*Junior 0.54 [0.04; 0.88] 0.50 [−0.07; 0.88] cor Intercept, Populism*Opposition −0.19 [−0.72; 0.38] −0.18 [−0.73; 0.35] cor Populism, Populism*Opposition −0.23 [−0.73; 0.49] 0.10 [−0.54; 0.74] cor Junior, Populism*Opposition 0.09 [−0.58; 0.70] 0.03 [−0.68; 0.71] cor Opposition, Populism*Opposition −0.24 [−0.73; 0.46] −0.47 [−0.84; 0.31] Cor Populism*Junior,
+
+Populism*Opposition
+
+−0.06 [−0.65; 0.55] −0.20 [−0.77; 0.51]
+
+sd Democracy 0.48 [0.02; 1.40] cor Intercept, Democracy −0.22 [−0.98; 0.92]
+
+Note: cor = correlation, sd = standard deviation. Sample size: 52,763 observations, 58 country-years, 9 countries.
+
+1246 M. KOŁCZYŃSKA
+
+A closer look at estimated trust levels based on Model 1.2 shows that for voters for the most populist parties (populism score of 0.95), the estimated difference in trust between supporters of coalition leaders and opposition parties is 1.46, 95%-CI = [1.09, 1.85], while the same difference for supporters of the least populist parties (populism score of 0.05) is by over one point smaller and amounts to 0.34, CI = [0.11, 0.58]. The posterior probability of the winner-loser gap in trust among populist voters being greater than the winner-loser gap among non-populist voters exceeds 0.99.
+
+These results support the first hypothesis, which expected a greater winner-loser gap among supporters of populist parties than among supporters of non-populist parties. When a populist party wins elections, the increase in trust among its supporters exceeds the decline in trust among supporters of non-populist losers. As a consequence, overall average trust increases.
+
+This analysis also shows that populist preferences need not necessarily mean low trust, as the analysis by Norris and Inglehart (2019) suggests, and that low trust in parliament or politicians is not a distinguishing feature of populist party supporters (Rooduijn 2018). Additionally, the results point to the importance of distinguishing between support for government leaders and junior coalition partners. Among non-populist voters, trust is very similar regardless of the supported party’s status in government. Among populist voters, trust is much higher if the supported party is leading the government than if it is a junior partner.
+
+The second hypothesis considers the role of democracy. Model 1.3 adds the country’s quality of democracy to the interaction between the supported party’s level of populism and the party’s status. To facilitate interpretation, Figure 2 presents estimated levels of trust in parliament depending on the supported party’s level of populism and that party’s position in relation to the government for two levels of democracy, which approximately correspond to the 15th and 85th percentile of the democracy distribution of the country-years represented in the data.
+
+According to the results, low levels of democracy exacerbate the effects observed in Model 1.2 and Figure 1. When the level of democracy is low, the trust advantage associated with supporting a ruling populist party is the highest and is estimated at 1.73, CI = [1.39, 2.06], which is higher than the trust advantage associated with supporting a non-populist party in a less democratic context (0.26, CI = [−0.18, 0.76]), and higher than the trust advantage associated with supporting a populist party (0.97, CI = [0.56, 1.37]) or non-populist party (0.4, CI = [0.17, 0.67]) in a more democratic context.
+
+Figure 1. Estimated levels of trust in parliament by level of populism of the supported party and the party’s winner-loser status. Lines indicate posterior medians, and ribbons indicate 95% posterior credible intervals. Data from Bulgaria, Czechia, Greece, Hungary, Italy, Lithuania, Poland, Slovakia, Slovenia. Data source: European Social Survey Rounds 1–9, V-Party V1 and V-Dem V11.1 datasets.
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1247
+
+In less democratic contexts, supporters of parties that are government leaders tend to have higher trust if that party is populist than if it is not; the estimated difference is 0.8, CI = [0.06, 1.52]. At higher levels of democracy, there is no evidence of a difference between trust among supporters of ruling populist and ruling non-populist parties (estimated difference −0.15, CI = [−0.68, 0.37]). But, there is a difference between trust among supporters of opposition populist and non-populist parties in that the latter is substantially higher, by 0.71 points on the 0–10 trust scale, CI = [−1.0, −0.38]. Overall, these results are consistent with hypothesis 2, which anticipated a higher winner- loser gap in political trust among supporters of populist parties in less democratic contexts com­ pared to more democratic contexts.
+
+Concluding remarks
+
+In this paper I analyzed the links between political trust and support for populist parties in nine countries from Central and Southern Europe in the period 2002–2019, in an attempt to verify whether supporters of populist parties universally exhibit low political trust, and whether electoral victories of populist parties are associated with increases of winner-loser gaps in political support.
+
+First, I found that the effect of political trust on supporting a populist party depends on this party’s status in or out of government, but in a way that many analyses of winner-loser effects do not capture. The difference in political trust among supporters of populist government leaders and supporters of populist opposition parties is much greater than the same difference for supporters of non-populist parties. Additionally, among supporters of non-populist parties, political trust is similar among supporters of cabinet parties regardless of whether their junior or senior status. However, political trust among supporters of populist opposition parties is similar to that of supporters of populist parties that are junior coalition partners. The latter result suggests that parties in such situations may be under pressure to abandon their anti-establishment stance and focus on their roles in government. At the same time, populist parties leading the government face little pressure, at least on the domestic front, and may escalate their rhetoric instead of moderating it, thus earning greater support from their voters. Strong populist parties also have the capacity to normalize their rhetoric, a process aided – especially in Central and Eastern Europe – by mainstream parties who legitimize radical positions and narratives (Pytlas 2018).
+
+The second hypothesis additionally considered the country’s level of democracy, and found that the trust advantage of supporters of ruling populist parties is higher in countries with lower levels of democracy. Increased levels of political trust among supporters of populist governments in less
+
+Figure 2. Estimated levels of trust in parliament by level of populism of the supported party, the party’s winner-loser status, and the country’s level of democracy. Lines indicate posterior medians, and ribbons indicate 95% posterior credible intervals. Data from Bulgaria, Czechia, Greece, Hungary, Italy, Lithuania, Poland, Slovakia, Slovenia. Data source: European Social Survey Rounds 1–9, V-Party V1 and V-Dem V11.1 datasets.
+
+1248 M. KOŁCZYŃSKA
+
+democratic countries can be expected to pull the overall societal mean of political trust upwards. However, such average increases conceal partisan polarization in political trust.
+
+These results have implications for the understanding of political trust regarding its link to legitimacy and democratic utility. If legitimacy presupposes broad consensus about the adequacy of the political system and its institutions, it is necessary to pay attention to the distribution of political support in society, not only to its average level. Despite the overall increases in political trust under populist-led govern­ ments, the simultaneous increase in the polarization of political trust indicates low democratic legitimacy and may threaten political stability (Anderson et al. 2005). As Svolik (2019) and Graham and Svolik (2020) argue, high political polarization makes it easier for people to tolerate democratic violations in favor of partisan interests. Arbatli and Rosenberg (2020) point to one concrete way in which polarization may erode democracy: by transforming political opinions into identities, which increases the cost of accepting failure and decreases the cost of tolerating violations of democratic norms, in this case intimidation of the opposition, and leading to the acceptance of lowered democratic standards.
+
+Relatedly, in order to infer about the democratic utility of political trust, it is necessary to examine who trusts whom. Rather than representing support for the democratic political system and its institutions, it is likely that high political trust among supporters of populist governments reflects support for the situation of having ‘our people’ in charge of running the country. Much like for populists ‘only some of the people are really the people’ (Noury and Roland 2020, 3), it seems that for supporters of populist governments only part of the state is the state, and the trust in political institutions they declare should be interpreted accordingly. There has long been a debate about the position of political trust, as measured in most surveys, on the spectrum of specific-to-diffuse support (Bergh 2004; cf. Easton 1965), but the possibility that the character of political trust declarations depends on the individual’s partisanship has – to the best of my knowledge – not yet been entertained. While more targeted analyses are required to test this hypothesis, the results in the present paper suggest that the high political trust expressed by supporters of populist governments is conditional on the populist incumbents and represents satisfaction with the outcome rather than support for the rules of the game. ‘[D]emocracy is a system in which parties lose elections’ (Przeworski 1991, 10), and if populist parties are removed from power, the currently observed high levels of political trust are likely to return to earlier low levels.
+
+It is worth remembering that the present analysis only included nine countries that have experienced populist government leaders in the period 2022–2019 covered by the ESS data. These countries are clustered in Central and Southern Europe, and the results may hence not be broadly generalizable. Even among the nine countries, the rise of popularity of populist parties is attributed to different events: to the financial crisis and austerity policies that followed in Southern Europe, and to the concern with migrants and refugees during the so-called refugee crisis in Central Europe (Vachudova 2021). Still, some of the countries analyzed in the present paper saw populist-led governments already earlier. Rooduijn (2018) also notes differences between attributes of voters of different populist parties questioning a single concept of a ‘populist voter’. The different sources of populism party support, voter characteristics, and ideological content (cf. e.g. Zulianello 2019) may affect how the findings apply to different settings.
+
+Future research, in addition to extending the geographical scope of the analysis, may attempt to more closely identify the mechanism that leads to higher winner effects among supporters of populist parties and distinguish the partisanship mechanism from the attitudes mechanism. The data I used did not enable measuring populist attitudes, so the present analysis relied on support for populist parties as a proxy. Since not all people with populist orientations vote for populist parties and not all populist voters are themselves populist, a richer dataset would enable testing the relative importance of both mechanisms.
+
+Notes
+
+1. This is the case of Freedom Party of Austria and the Swiss People’s Party. 2. By populism I mean the „thin ideology” or discursive frame, which tends to be combined with a ‘thick ideology’,
+
+such as nationalism or socialism (Mudde 2017a, 2017b).
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1249
+
+Disclosure statement
+
+No potential conflict of interest was reported by the author(s).
+
+Funding
+
+The work was supported by the Polish National Science Centre [2019/32/C/ HS6/00421].
+
+ORCID
+
+Marta Kołczyńska http://orcid.org/0000-0003-4981-0437
+
+Data availability statement
+
+Replication materials are available via this anonymous link:
+
+https://osf.io/7j3ua/?view_only=209067bfb9d64417a46af9cc2ac8d647 Replication materials Replication materials are available via this link: https://osf.io/7j3ua/.
+
+References
+
+Akkerman, A., C. Mudde, and A. Zaslove. 2013. “How Populist are the People? Measuring Populist Attitudes in Voters.”
+
+Comparative political studies 47 (9): 1324–1353. doi:10.1177/0010414013512600. Albertazzi, D., and S. Mueller. 2013. “Populism and Liberal Democracy: Populists in Government in Austria, Italy, Poland
+
+and Switzerland.” Government and Opposition 48 (3): 343–371. doi:10.1017/gov.2013.12. Anderson, C. J., A. Blais, S. Bowler, T. Donovan, and O. Listhaug. 2005. Losers’ Consent. Elections and Democratic
+
+Legitimacy. Oxford University Press. doi:10.1093/0199276382.001.0001. Anderson, C. J., and Y. V. Tverdova. 2003. “Corruption, Political Allegiances, and Attitudes Toward Government in
+
+Contemporary Democracies.” American Journal of Political Science 47 (1): 91–109. doi:10.1111/1540-5907.00007. Arbatli, E., and D. Rosenberg. 2020. “United We Stand, Divided We Rule: How Political Polarization Erodes Democracy.”
+
+Democratization 28 (2): 285–307. doi:10.1080/13510347.2020.1818068. Bakke, E., and N. Sitter. 2020. “The Eu’s Enfants Terribles: Democratic Backsliding in Central Europe Since 2010.”
+
+Perspectives on Politics 20 (1, July): 1–16. doi:10.1017/S1537592720001292. Bavel, V., J. Jay, and A. Pereira. 2018. “The Partisan Brain: An Identity-Based Model of Political Belief.” Trends in cognitive
+
+sciences 22 (3): 213–224. doi:10.1016/j.tics.2018.01.004. Bederke, P., H. Döring, and S. Regel. 2020. “Party Facts.” https://partyfacts.herokuapp.com/ . Bélanger, E., and K. Aarts. 2006. “Explaining the Rise of the LPF: Issues, Discontent, and the 2002 Dutch Election.” Acta
+
+Politica 41 (1): 4–20. doi:10.1057/palgrave.ap.5500135. Bergh, J. 2004. “Protest Voting in Austria, Denmark, and Norway.” Scandinavian political studies 27 (4): 367–389. doi:10.
+
+1111/j.0080-6757.2004.00113.x. Bill, S. 2020. “Counter-Elite Populism and Civil Society in Poland: PiS’s Strategies of Elite Replacement.” East European
+
+Politics and Societies: And Cultures 36 (1, September): 1–23. doi:10.1177/0888325420950800. Bonikowski, B. 2017. “Ethno-Nationalist Populism and the Mobilization of Collective Resentment.” The British Journal of
+
+Sociology 68 (November): S181–213. doi:10.1111/1468-4446.12325. Brug, V. D., and Wouter. 2003. “How the LPF Fuelled Discontent: Empirical Tests of Explanations of LPF Support.” Acta
+
+Politica 38 (1): 89–106. doi:10.1057/palgrave.ap.5500005. Bürkner, P.C. 2017. “Brms : An R Package for Bayesian Multilevel Models Using Stan.” Journal of Statistical Software 80 (1).
+
+doi:10.18637/jss.v080.i01. Canovan, M. 1999. “Trust the People! Populism and the Two Faces of Democracy.” Political studies 47 (1): 2–16. doi:10.
+
+1111/1467-9248.00184. Carpenter, B., A. Gelman, M. D. Hoffman, D. Lee, B. Goodrich, M. Betancourt, M. Brubaker, J. Guo, L. Peter, and A. Riddell.
+
+2017. “Stan: A Probabilistic Programming Language.” Journal of Statistical Software 76 (1). doi:10.18637/jss.v076.i01. Cianetti, L., J. Dawson, and S. Hanley. 2018. “Rethinking ‘Democratic Backsliding’ in Central and Eastern Europe–Looking
+
+Beyond Hungary and Poland.” East European Politics 34 (3): 243–256. doi:10.1080/21599165.2018.1491401. Coppedge, M., J. Gerring, C. Henrik Knutsen, S. I. Lindberg, J. Teorell, N. Alizada, D. Altman, et al. 2021a. “V-Dem
+
+[Country–Year/country–Date] Dataset V11.1.” Varieties of Democracy (V-Dem) Project. Coppedge, M., J. Gerring, C. Henrik Knutsen, S. I. Lindberg, J. Teorell, D. Altman, M. Bernhard, et al. 2021b. “V-Dem
+
+Codebook V11.1.” Varieties of Democracy (V-Dem) Project.
+
+1250 M. KOŁCZYŃSKA
+
+Dahlberg, S., and J. Linde. 2016. “Losing Happily? The Mitigating Effect of Democracy and Quality of Government on the
+
+Winner–Loser Gap in Political Support.” International Journal of Public Administration 39 (9): 652–664. doi:10.1080/ 01900692.2016.1177831. Dahlberg, S., and J. Linde. 2017. “The Dynamics of the Winner–Loser Gap in Satisfaction with Democracy: Evidence from
+
+a Swedish Citizen Panel.” International Political Science Review 38 (5): 625–641. doi:10.1177/0192512116649279. Dalton, R., A. Van Sickle, and S. Weldon. 2010. “The Individual–Institutional Nexus of Protest Behaviour.” British Journal of
+
+Political Science 40 (1): 51–73. doi:10.1017/S000712340999038X. Der Brug, V., M. F. Wouter, and J. Tillie. 2005. “Why Some Anti-Immigrant Parties Fail and Others Succeed.” Comparative
+
+political studies 38 (5): 537–573. doi:10.1177/0010414004273928. Druckman, J. N., E. Peterson, and R. Slothuus. 2013. “How Elite Partisan Polarization Affects Public Opinion Formation.”
+
+The American Political Science Review 107 (1): 57–79. doi:10.1017/S0003055412000500. Easton, D. 1965. A Systems Analysis of Political Life. New York: Wiley. Enns, P. K., P. M. Kellstedt, and G. E. McAvoy. 2012. “The Consequences of Partisanship in Economic Perceptions.” Public
+
+Opinion Quarterly 76 (2): 287–310. doi:10.1093/poq/nfs016. European Social Survey. 2002. “European Social Survey Round 1 Data.” In Data File Edition 6.6; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSD-ESS1-2002. European Social Survey. 2004. European Social Survey Round 2 Data. Data File Edition 3.6; NSD - Norwegian Centre for
+
+Research Data: Norway. doi:10.21338/NSDESS2-2004. European Social Survey. 2006. “European Social Survey Round 3 Data.” In Data File Edition 3.7; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS3-2006. European Social Survey. 2008. “European Social Survey Round 4 Data.” In Data File Edition 4.5; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS4-2008. European Social Survey. 2010. “European Social Survey Round 5 Data.” In Data File Edition 3.4; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS5-2010. European Social Survey. 2012. “European Social Survey Round 6 Data.” In Data File Edition 2.4; NSD - Norwegian Centre for
+
+Research Data. Norway: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS6-2012. European Social Survey. 2014. “European Social Survey Round 7 Data.” In Data File Edition 2.2; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS7-2014. European Social Survey. 2016. “European Social Survey Round 8 Data.” In Data File Edition 2.1; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS8-2016. European Social Survey. 2018. “European Social Survey Round 9 Data.” In Data File Edition 1.2; NSD - Norwegian Centre for
+
+Research Data. Norway -: Data Archive; distributor of ESS data for ESS ERIC. doi:10.21338/NSDESS9-2018. European Social Survey. 2020. ESS Round 9 Source Questionnaire. Bergen: European Social Survey Data Archive, NSD
+
+Norwegian Centre for Research Data for ESS ERIC. doi:10.21338/NSD-ESS9-2018. Finkel, E. J., C. A. Bail, M. Cikara, P. H. Ditto, S. Iyengar, S. Klar, L. Mason, et al. 2020. “Political Sectarianism in America.”
+
+Science abe1715 3706516:533–536. doi:10.1126/science. Gelman, A., A. Jakulin, M. Grazia Pittau, and S. Yu-Sung. 2008. “A Weakly Informative Default Prior Distribution for
+
+Logistic and Other Regression Models.” The Annals of Applied Statistics 2 (4): 1360–1383. doi:10.1214/08-AOAS191. Graham, M. H., and M. W. Svolik. 2020. “Democracy in America? Partisanship, Polarization, and the Robustness of Support
+
+for Democracy in the United States.” The American Political Science Review 114 (2): 392–409. doi:10.1017/ S0003055420000052. Harteveld, E., A. Kokkonen, J. Linde, and S. Dahlberg. 2021. “A Tough Trade-Off? The Asymmetrical Impact of Populist
+
+Radical Right Inclusion on Satisfaction with Democracy and Government.” European Political Science Review 13 (1): 113–133. doi:10.1017/s1755773920000387. Haugsgjerd, A. 2019. “Moderation or Radicalisation? How Executive Power Affects Right-Wing Populists’ Satisfaction
+
+with Democracy.” Electoral studies 57 (February): 31–45. 2018.09.008. doi:10.1016/j.electstud.2018.09.008. Hauwaert, V., M. Steven, and S. Van Kessel. 2017. “Beyond Protest and Discontent: A Cross-National Analysis of the Effect
+
+of Populist Attitudes and Issue Positions on Populist Party Support.” European Journal of Political Research 57 (1): 68–92. doi:10.1111/1475-6765.12216. Hooghe, M., and R. Dassonneville. 2018. “A Spiral of Distrust: A Panel Study on the Relation Between Political Distrust
+
+and Protest Voting in Belgium.” Government and Opposition 53 (1): 104–130. doi:10.1017/gov.2016.18. Hooghe, M., S. Marien, and T. Pauwels. 2011. “Where Do Distrusting Voters Turn if There is No Viable Exit or Voice
+
+Option? The Impact of Political Trust on Electoral Behaviour in the Belgian Regional Elections of June 2009.” Government and Opposition 46 (2): 245–273. doi:10.1111/j.14777053.2010.01338.x. Klingemann, H.D. 1999. “Mapping Political Support in the 1990s.” In Critical Citizens: Global Support for Democratic
+
+Governance, edited by P. Norris, 31–56. Oxford: Oxford University Press. doi:10.1093/0198295685.003.0002. Kołczyńska, M., and I. Sadowski. 2022. “„seeing the World Through Party-Tinted Glasses: Performance Evaluations and
+
+Winner Status in Shaping Political Trust Under High Polarization”.” Acta Politica Acta Politica, online first. doi:10.1057/ s41269-022-00249-4. Krekó, P., and Z. Enyedi. 2018. “Orbán’s Laboratory of Illiberalism.” Journal of Democracy 29 (3): 39–51. doi:10.1353/jod.
+
+2018.0043.
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1251
+
+Lelkes, Y. 2016. “Winners, Losers, and the Press: The Relationship Between Political Parallelism and the Legitimacy Gap.”
+
+Political Communication 33 (4): 523–543. 1117031. doi:10.1080/10584609.2015.1117031. Lührmann, A., N. Düpont, M. Higashijima, Y. Berker Kavasoglu, K. L. Marquardt, M. Bernhard, H. Döring, et al. 2020.
+
+Codebook Varieties of Party Identity and Organisation (V–Party) V1. Varieties of Democracy (V–Dem) Project. Martini, S., and M. Quaranta. 2019. “Political Support Among Winners and Losers: Within- and Between-Country Effects
+
+of Structure, Process and Performance in Europe.” European Journal of Political Research 58 (1): 341–361. doi:10.1111/ 1475-6765.12284. Matthijs, R., W. van der Brug, and S. L. de Lange. 2016. “Expressing or Fuelling Discontent? The Relationship Between
+
+Populist Voting and Political Discontent.” Electoral studies 43 (September): 32–40. doi:10.1016/j.electstud.2016.04.006. McAllister, I., and S. White. 2011. “Public Perceptions of Electoral Fairness in Russia.” Europe-Asia studies 63 (4): 663–683.
+
+doi:10.1080/09668136.2011.566429. Moehler, D. C. 2009. “Critical Citizens and Submissive Subjects: Election Losers and Winners in Africa.” British Journal of
+
+Political Science 39 (2): 345–366. doi:10.1017/s0007123408000513. Monsiváis-Carrillo, A. 2020. “Permissive Winners? The Quality of Democracy and the Winner– Loser Gap in the
+
+Perception of Freedoms.” Political studies 70 (1): 1–22. doi:10.1177/0032321720952230. Mudde, C. 2004. “The Populist Zeitgeist.” Government and Opposition 39 (4): 541–563. doi:10.1111/j.1477-7053.2004.
+
+00135.x. Mudde, C. 2017a. “Populism: An Ideational Approach.” In The Oxford Handbook of Populism, edited by Cristóbal Rovira
+
+Kaltwasser, Paul Taggart, Paulina Ochoa Espejo and Pierre Ostiguy, 27–47. Oxford, United Kingdom; New York: Oxford University Press. Mudde, C., edited by. 2017b. The Populist Radical Right: A Reader, Routledge Studies in Extremism and Democracy. London;
+
+New York: Routledge, Taylor & Francis Group. Nadeau, R., J.F. Daoust, and R. Dassonneville. 2021, July. “Winning, Losing, and the Quality of Democracy.” Political
+
+studies, 1–18. doi:10.1177/00323217211026189. Newton, K., and S. Zmerli. 2011. “Three Forms of Trust and Their Association.” European Political Science Review 3 (2):
+
+169–200. doi:10.1017/S1755773910000330. Norris, P. 2018. “Do Perceptions of Electoral Malpractice Undermine Democratic Satisfaction? The Us in Comparative
+
+Perspective.” International Political Science Review 40 (1): 5–22. doi:10.1177/0192512118806783. Norris, P., and R. Inglehart. 2019. Cultural Backlash. Trump, Brexit, and Authoritarian Populism. Cambridge University
+
+Press. doi:10.1017/9781108595841. Noury, A., and G. Roland. 2020. “Identity Politics and Populism in Europe.” Annual Review of Political Science 23 (1):
+
+421–439. doi:10.1146/annurev-polisci-050718-033542. Peterson, E., and S. Iyengar. 2020. “Partisan Gaps in Political Information and Information-Seeking Behavior: Motivated
+
+Reasoning or Cheerleading?” American Journal of Political Science 0 (June): 1–15. doi:10.1111/ajps.12535. Przeworski, A. 1991. “Democracy.” In Democracy and the Market: Political and Economic Reforms in Eastern Europe and
+
+Latin America, 10–50. Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172493.003. Pytlas, B. 2018. “Populist Radical Right Mainstreaming and Challenges to Democracy in an Enlarged Europe.” In
+
+Trumping the Mainstream. The Conquest of Mainstream Democratic Politics by the Populist Radical Right, edited by L. E. Herman and J. Muldoon, 165–184. Abingdon: Routledge. doi:10.4324/9781315144993-8. R Core Team. 2020. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical
+
+Computing. Rooduijn, M. 2018. “What Unites the Voter Bases of Populist Parties? Comparing the Electorates of 15 Populist Parties.”
+
+European Political Science Review 10 (3): 351–368. doi:10.1017/S1755773917000145. Söderlund, P., and E. Kestilä-Kekkonen. 2009. “Dark Side of Party Identification? An Empirical Study of Political Trust
+
+Among Radical Right-Wing Voters.” Journal of Elections, Public Opinion and Parties 19 (2): 159–181. doi:10.1080/ 17457280902799014. Svolik, M. W. 2019. “Polarization versus Democracy.” Journal of Democracy 30 (3): 20–32. doi:10.1353/jod.2019.0039. Tjitske, A., S. L. de Lange, and M. Rooduijn. 2016. Radical Right-Wing Populist Parties in Western Europe. New York, NY:
+
+Routledge. Vachudova, M. A. 2021. “Populism, Democracy, and Party System Change in Europe.” Annual Review of Political Science
+
+24 (1): 471–498. doi:10.1146/annurev-polisci-041719-102711. World Development Indicators. 2020. GDP per capita, PPP (constant 2011 internartional $). World Bank. Zulianello, M. 2019. “Varieties of Populist Parties and Party Systems in Europe: From State-of-the-Art to the Application
+
+of a Novel Classification Scheme to 66 Parties in 33 Countries.” Government and Opposition 55 (2): 327–347. doi:10. 1017/gov.2019.21.
+
+1252 M. KOŁCZYŃSKA
+
+Appendices
+
+Table A1. List of countries and years.
+
+Country Round 1 Round 2 Round 3 Round 4 Round 5 Round 6 Round 7 Round 8 Round 9 Bulgaria 2006 2009 2011 2013 2018 Czechia 2002 2004 2009 2011 2013 2015 2016 2019 Greece 2003 2005 2011 Hungary 2002 2005 2006 2009 2010 2012 2015 2017 2019 Italy 2003 2013 2017 2019 Lithuania 2011 2013 2015 2017 2019 Poland 2002 2004 2006 2008 2010 2012 2015 2016 2018 Slovakia 2004 2007 2008 2010 2012 2019 Slovenia 2002 2004 2006 2008 2010 2012 2014 2016 2018
+
+Table A2. Descriptive statistics.
+
+Variable Mean SD Min Max Trust in parliament 3.76 2.53 0 10 Status of supported political party Senior government party 0.41 0 1 Junior government party 0.16 0 1 Opposition party 0.43 0 1 Populism 0.45 0.26 0.05 0.99 Liberal democracy 0.74 0.1 0.37 0.83 GDP per capita, 10,000 USD 2.91 0.68 1.59 4.38 Education years 12.29 3.52 0 20 Women 0.53 0 1 Age in years/10 5.15 1.69 1.7 10.2
+
+Note: Sample size: 52,763 observations, 58 country-years, 9 countries.
+
+JOURNAL OF CONTEMPORARY EUROPEAN STUDIES 1253

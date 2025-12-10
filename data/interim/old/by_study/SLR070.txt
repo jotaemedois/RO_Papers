@@ -1,0 +1,1299 @@
+RSCAS 2013/31 Robert Schuman Centre for Advanced Studies EUDO - European Union Democracy Observatory
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+European University Institute Robert Schuman Centre for Advanced Studies EUDO - EUROPEAN UNION DEMOCRACY OBSERVATORY
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+EUI Working Paper RSCAS 2013/31
+
+This text may be downloaded only for personal research purposes. Additional reproduction for other purposes, whether in hard copies or electronically, requires the consent of the author(s), editor(s). If cited or quoted, reference should be made to the full name of the author(s), editor(s), the title, the working paper, or other series, the year and the publisher.
+
+ISSN 1028-3625
+
+© Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter, 2013
+
+Printed in Italy, May 2013 European University Institute Badia Fiesolana I – 50014 San Domenico di Fiesole (FI) Italy www.eui.eu/RSCAS/Publications/ www.eui.eu cadmus.eui.eu
+
+Robert Schuman Centre for Advanced Studies
+
+The Robert Schuman Centre for Advanced Studies (RSCAS), created in 1992 and directed by Stefano Bartolini since September 2006, aims to develop inter-disciplinary and comparative research and to promote work on the major issues facing the process of integration and European society.
+
+The Centre is home to a large post-doctoral programme and hosts major research programmes and projects, and a range of working groups and ad hoc initiatives. The research agenda is organised around a set of core themes and is continuously evolving, reflecting the changing agenda of European integration and the expanding membership of the European Union.
+
+Details of the research of the Centre can be found on: http://www.eui.eu/RSCAS/Research/
+
+Research publications take the form of Working Papers, Policy Papers, Distinguished Lectures and books. Most of these are also available on the RSCAS website: http://www.eui.eu/RSCAS/Publications/
+
+The EUI and the RSCAS are not responsible for the opinion expressed by the author(s).
+
+European Union Democracy Observatory (EUDO) Working Paper Series
+
+The European Union Democracy Observatory (EUDO) was launched in the spring of 2006 as an independent and interdisciplinary academic organization. In 2008, EUDO became a fully-integrated part of the Robert Schuman Centre for Advanced Studies (RSCAS). Its declared goals are: to produce a permanent and periodic assessment of democratic practices within the EU; to serve as a forum to exchange ideas and good practices; and to be a resource for policy-makers, academics and EU citizens.
+
+EUDO focuses its activities around the themes of the four EUDO Observatories, which form the backbone of EUDO and constitute its main organizing principle. They are responsible for data and documentation gathering and are directed by EUI internal professors in conjunction with external EUDO experts. Each Observatory coordinates specific research projects. The four Observatories are: the Observatory on Public Opinion, Political Elites and the Media, the Observatory on Political Parties and Representation, the Observatory on Institutional Reform and Change, and the Observatory on Citizenship.
+
+The EUDO working paper series started in December 2009 and aims at disseminating high-quality research on the above-mentioned issues. Not only the directors of the Observatories, but as well EUDO fellows and external experts as well as other scholars and practitioners are welcome to submit their work to the series.
+
+For further information: www.eudo.eu Robert Schuman Centre for Advanced Studies European University Institute Via delle Fontanelle 19 50014 San Domenico di Fiesole Firenze, Italy EUDO.secretariat@eui.eu
+
+Abstract
+
+This paper analyses the effects of the crisis on trust in national and European Union institutions within an EU27 country sample from 1999 to 2012. The paper finds that the overall negative trends in trust throughout the crisis are driven by countries from the eurozone (EA12). However, whereas the crisis triggered only moderate declines of trust within eight core countries of the EA12, a significant decline of trust can be detected within four periphery countries, namely Spain, Greece, Portugal and Ireland. Econometric results reveal that, amongst others, the significant increase in unemployment rates in those four countries, especially in Spain, largely contributed to this pronounced fall in trust.
+
+Keywords
+
+Trust, Financial Crisis, Unemployment, Panel Analysis, EU
+
+JEL classification: C23, D72, E65, G01, J0, K0, O4, O52, Z13
+
+1
+
+Introduction*
+
+The recent (and ongoing) financial and economic crisis has been one of the most severe since the great depression in the 1930s for most advanced economies worldwide, including the economies of the European Union (EU) and especially the members of the euro area (EA) (EEAG 2010). Within the EA, the financial and economic crisis has evolved into a sovereign debt crisis from 2010 onwards (De Grauwe 2010). To overcome this sovereign debt crisis, fiscal austerity measures in many EA countries have been implemented throughout the crisis (Corsetti 2012). The severity of implementation of austerity measures has been particularly pronounced in the periphery countries of the EA, particularly in Greece, Ireland and Portugal (Theodoropoulou and Watt 2011) as well as Spain (Navarro 2012). Amongst others, these measures have led to a significant increase of unemployment levels in those four countries. Given the exceptional magnitude of the crisis, this paper analyses its impact on citizens’ trust in national and European Union institutions within an EU27 country sample and a 13year timeframe (1999 to 2012). More concretely, the paper analyses the impact of the crisis on citizens’ trust in their i) national government (NG), ii) national parliament (NP), iii) European Commission (EC) and iv) European Parliament (EP).
+
+As the impact of the crisis is the central thesis of the paper, when presenting the descriptive and econometric results, next to a full sample, a pre-crisis (1999-2008) will consequently be compared to a crisis sample (2008-2012).1 The paper will be organised into five sections. Section 1 of the paper will first embed the concept of citizens’ trust in national and EU institutions within the overall concept of systemic trust and will elaborate on the theoretical consequences of a potential decline of citizens’ trust throughout the crisis. It will also identify the main economic drivers for a potential decline in trust throughout the crisis. In section 2, the paper will discuss the underlying model specification, the chosen research design and the data utilised. In section 3, trends in trust in all four institutions will be discussed in detail. Section 4 will first discuss the methodological issues on the adequacy of the estimation strategy. Second, it will present the results of a fixed effects dynamic feasible generalised least squares (FE-DFGLS) estimation for the baseline equation utilising an EA12 country sample. Third, it will discuss the descriptive and econometric results in the light of the previous given empirical literature. Section 5 concludes and puts forward the main empirical findings.
+
+1. Theoretical links
+
+1.1 The consequences of citizens’ declining trust in national and EU institutions
+
+The literature on trust broadly groups the phenomenon into three distinct typologies: thick, interpersonal and systemic (Roth 2009). As this paper is interested in institutional trust, and more concretely trust in national and EU-level institutions, it will focus on the third classification, systemic trust.
+
+* The authors would like to thank the participants at the conference on “Mitigating Socio-economic Heterogeneity in the EU: How to Achieve the Lisbon Treaty Objective of a Highly Competitive Social Market Economy” (May 2011) and the 2012 EUDO Dissemination conference on “The Euro Crisis and the State of European Democracy” (November 2012) for their valuable comments. They would like to thank Lars Jonung for valuable comments. Felix Roth would like to thank the Bertelsmann Foundation for financial support in preparing an earlier version of this paper which has been published as CEPS Working Document No. 343 in February 2011. Correspondence to: Felix Roth, Centre for European Policy Studies, Place du Congrès 1, 1000 Brussels, Belgium (felix.roth@ceps.eu). 1 We identify the bankruptcy of Lehman Brothers in September 2008 as the peak of the financial crisis and the start of the real economic crisis. Although the financial and economic crisis started as early as 2007 (Stiglitz 2012: 1), the bankruptcy of Lehmann Brothers functioned as an important trigger, unleashing the full potential of the financial and economic crisis. The significant impact of the bankruptcy of Lehmann Brothers on financial stress has been highlighted by the literature from the discipline of international finance (see Figures 4 and 5 in Xin et al. 2009).
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+2
+
+The notion of systemic trust has been prominently used by the discipline of sociology. Within this discipline the important role of systemic trust has been stressed in stabilising the foundations and securing the functioning of modern societies (Giddens 1996; Luhmann 2000). In this context, Giddens (1996: 166) warns that a decreasing level of systemic trust has in some cases the potential to break apart institutional arrangements. With respect to the latter argument, political scientists such as Kaltenthaler et al. (2010: 1262) focus on trust in (policy-making) institutions. Alongside Kosfeld et al. (2005: 673), Kaltenthaler et al. (2010: 1262) argue that a certain level of citizens’ trust in a (policymaking) institution is crucial for the legitimacy of that institution and that in the absence of trust its legitimacy is endangered. In addition, without sufficient trust, citizens might begin to undermine the authority of the institution (Kaltenthaler et al. 2010: 1261), which might ultimately lead to its abolishment (Giddens 1996: 166).
+
+But at which i) levels of trust and at which ii) rate of decline of trust are institutions threatened with dissolution? Two arguments from the existing literature can be brought forward to shed light on these two questions.
+
+Concerning i), Kaltenthaler et al. (2010: 1262), in discussing the concept of trust in the ECB, clarify that it would be worrying once “large numbers” of citizens start to distrust the institution. Building upon this argumentation and applying it to the four (policy-making) institutions in question, we conclude that it would be worrying for the legitimacy and hence the very survival of national and European institutions once “large numbers” of citizens would mistrust them.
+
+Concerning ii), Newton clarifies, in the context of trust in national parliaments, that “a sudden or consistent decline in confidence in it is a serious matter” (Newton 2001: 205). Building upon Newton’s reasoning for the national parliament, we conclude that it should be regarded as worrying for the legitimacy and hence sustainability of national and European institutions if there were a steady decline of trust that departs from its long-term path.
+
+Before discussing potential driving factors behind the trend towards a decline in trust over time and throughout the crisis, a more general set of arguments concerning the consequences of low levels of trust in the government, as highlighted by political scientists such as Joseph Nye, should be mentioned. Nye (1997) identifies three distinct consequences of a lack of citizens’ trust in the government: i) citizens will try to hold back tax money, ii) young talented graduates will not be willing to work for the government and iii) the overall compliance with law will decrease.
+
+1.2 Driving factors of declining trust in national and European institutions
+
+Following the empirical approach by Stevenson and Wolfers (2011)2, when trying to explain the within variation of trust over the 13-year time period, and here in particular over the crisis period, this paper will primarily focus on the relationship between unemployment and trust. However, unemployment will be embedded within a model specification consisting of three macroeconomic base control variables: inflation, growth of GDP per capita and debt as a share of GDP.3 Among these three control variables, inflation and growth of GDP are well embedded within the literature on popularity functions (Nannestad and Paldam 1994: 215-16; Bellucci and Lewis-Beck 2011: 192-94).4.
+
+2 The empirical approach by Stevenson and Wolfers (2011) builds upon the concluding remarks by Lawrence (1997: 132) that “our understanding (…) between economic performance and trust leaves much to be desired”. 3 We do not worry about potential collinearity between growth of GDP per capita and unemployment as might be referred by Okun’s law (1962) as most EA (and EU) countries are characterized by rigid labor market systems. Thus unemployment rates should follow the growth of GDP per capita by a lagged effect of at least one year. Indeed the correlation between our variables growth of GDP per capita and unemployment is only -0.20 in the EA12 country sample. 4 As this paper’s foremost concern is in explaining systemic trust, it does not attempt to add any new evidence to the literature on popularity functions where at present there already exists substantial material (Bellucci and Lewis-Beck
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+3
+
+The variable of debt over GDP is more unusual but its inclusion as a control variable seems to be adequate in order to take the finding by Roth (2011) into consideration that an increase in debt over GDP, due to a bail-out of the financial sector by the government as e.g. in the Irish case in 2010, is associated with a significant decline of citizens’ trust in the national parliament. As recent empirical literature has depicted an increase in sovereign bond yields to be an important driver of trust in the European Commission throughout the crisis (Wälti, 2012), this indicator was included in the sensitivity analysis (see Table 5).
+
+2. Model specification, research design and data
+
+2.1 Model specification
+
+In the baseline model with an unbalanced panel, net trust in the NG/NP and EC/EP are estimated as a function of unemployment, inflation, growth of GDP per capita, debt per GDP and other important control variables. As this paper is first and foremost interested in explaining trust trends over time, in particular throughout the crisis period, and thus explaining the within-variation of the single trust trends (and not in explaining the cross-sectoral variance between countries), it utilises a fixed-effects estimation approach. The baseline model for the fixed-effects estimation, which holds in the long term when all adjustments have come to an end, would read as follows:
+
+Trust it = αi + β Unemployment it + Inflation it + Growth it + Debt it +  Z it + wit (1)
+
+where i represents each country and t represents each time period. Trust it is the net trust amount in national and EU institutions for country i during period t. Unemployment it, Inflation it, Growth it, Debt
+
+it and Z it are respectively unemployment, inflation, growth of GDP per capita and debt per GDP and important control variables, such as electorate dummy variables5 for the national institutions and the European Parliament for country i during period t or indicators of financial stress such as sovereign bond yields. The variable αi represents a country-specific constant term and wit is the error term. Since we utilise an FGLS estimation approach, our baseline estimation does not include time dummies as they are incompatible with FGLS.6
+
+2.2 Research design
+
+As the descriptive analysis in section 3 will show, the actual decrease in population-weighted trust in the national and EU institutions is strongly driven by the periphery countries of the original 12 member states of the euro area (Austria, Belgium, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal and Spain – the EA12) the econometric analysis in section 4 will utilise an EA12 country sample for its baseline estimation and will analyse various other country samples such as the EU15/27, and NMS12 country sample within its sensitivity analysis. Thus, the baseline econometric analysis will estimate equation (1) with the help of an EA12 country sample over the time period 1999 to 2012. Due to missing data from the control variable debt over GDP, however, the actual econometric estimation in section 4 starts as late as 2000 with overall 27 time periods (from 4-5/2000 to 11/2012) being included in the analysis.7 With given t=27 and n=12, thus with a ratio of
+
+(Contd.)
+
+2011:190). Nevertheless, drawing on the popularity function literature seems to be pragmatic in order to argue for the inclusion of inflation and growth of GDP per capita within this paper’s utilized model specification. 5 Electorate dummies were included to control for significant upswings after an electoral process. Those dummies are highly significant and show a strongly positive association with trust in the NG, NP and EP. Excluding the electoral dummy, however, does not alter the regression results in any significant manner. Results can be obtained from the authors upon request. 6 A more detailed explanation is given in section 4. 7 This leads to the loss of the two time periods of 3-4/1999 and 10-11/1999 within the econometric analysis.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+4
+
+t/n of 2.25 estimation of equation (1) with the help of time series econometrics seems to be an attractive option. As we have identified the events associated with the bankruptcy of Lehman Brothers in September 2008 (see reasoning above) as the start of the crisis, the depicted econometric results in section 4 will consequently differentiate a pre-crisis period (4-5/2000–3-5/2008) from a crisis period (10-11/2008–11/2012).
+
+2.3 Data
+
+Measures for trust in the NG, NP, the EC and the EP were based upon the biannual Standard Eurobarometer (hereafter referred to as EB) surveys8 from spring 1999 (EB51) to autumn 2012 (EB78) by asking respondents the following question: “I would like to ask you a question about how much trust you have in certain institutions. For each of the following institutions, please tell me if you tend to trust it or tend not to trust it”.9 10 11 The respondent is then presented a range of institutions. With respect to the answers “Tend to trust it” and “Tend not to trust it”, a third category, “Don’t know”, can be selected by the respondents. Following a concept as introduced by Gärtner (1997: 48889), we utilise a ‘net trust’ measure, which is obtained by subtracting the percentage of those who trust from those who do not trust the institution according to the following equation:
+
+Net trust =
+
+(2)12
+
+The trust data are matched to our macroeconomic data according to a procedure as proposed by Wälti (2012: 597).13
+
+ Monthly data on inflation (HICP), unemployment and sovereign debt yield rates were taken
+
+from Eurostat. The values for unemployment were seasonally adjusted.
+
+8 Standard EB surveys normally cover about 1,000 respondents per member country in the EU. The interviews are conducted face-to-face in the home of the respondents. For each Standard EB survey, new and independent samples are drawn. The basic sampling design in all EU member states is multi-stage and random (probability), thereby guaranteeing the polling of a representative sample of the population. 9 Standard EB 51 is the first Standard EB survey to include the four trust items as used in this paper. Furthermore, following the literature (Jones 2009; Ehrmann et al. 2013; c.f. Wälti 2012), to gain additional insights into the effect of the crisis on net trust, the observations from the Special EB 71.1 in January-February 2009 were also taken into consideration. Data from EB 71.1 are based on the precise same items as the standard EBs. As standard EBs embed the trust items in various alternating questionnaire frames, a rejection of data from Special EB71.1 due to framing effects seems unsound (c.f. Wälti 2012). In addition, the exclusion of data from EB71.1 within the sensitivity analysis in Table 5 does not alter the econometric results in any significant manner. 10 The raw data are available on CD-ROM from Gesis ZA Data Service for Standard EBs 51-62 (Gesis, 2005a,b) and were
+
+received on request from Gesis ZA Data Service for Standard EBs 63-69 (Gesis 2009). Data for the Standard EBs 70-78 and Special EB 71.1 were taken from the European Commission’s tables of results (2009a, 2009b, 2009c, 2010a, 2010b, 2011a, 2011b, 2011c, 2012a, 2012b). 11 For the two European institutions – European Commission and European Parliament – the question actually reads: “For
+
+each of the following European bodies, please tell me if you tend to trust it or not to trust it.” 12 As the “Don’t know” answers for the two European institutions reach values of 30 percentage points and higher and as
+
+these answers fluctuate over time a net measure of trust seems to be more adequate than a pure measure of trust to account for these fluctuations. However, it should be pointed out that net trust and trust measures correlate as high as 0.99 for the NG and NP and 0.93 for the EC and 0.94 for the EP. In addition, as the sensitivity results in Table 5 show, the use of trust instead of net trust has no significant influence on the econometric results except, as expected, that coefficients are approximately twice as high with net trust than trust. 13 Although Wälti’s (2012) monthly matching methodology correlates as high as 0.99 for the variables unemployment and
+
+inflation and 0.95 for the variable growth of GDP per capita in comparison to a semester matching methodology, a monthly methodological approach seems to be more adequate to prevent any potential overlap between the explanatory macroeconomic variables and the EB data. The precise polling for the EBs are depicted in the legend of the x-axis in Figures 1-4.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+5
+
+ Quarterly data on GDP,14 population size15 and debt over GDP16 were taken from Eurostat’s
+
+quarterly data. In order to apply the monthly matching approach, the quarterly data were interpolated to gain monthly observations.17
+
+ Data on national and European elections were taken from the electoral database on parliamentary
+
+elections from the Consortium for Elections and Political Process Strengthening (CEPPS 2011).
+
+3. Descriptive statistics
+
+3.1 Net trust in the national government and European Commission
+
+Figure 1 shows citizens’ net trust in the NG and the EC in an EU15/27 country sample from 1999 to 2012 (all single time trends are depicted in Figures A1 and A3 in the Appendix). In order to correctly depict the overall trend of the EU15/27, population-weighted trust trends are utilised in Figure 1, as well as the following Figures 2-4 and Tables 1 and 2.18 In analysing Figure 1, four important patterns are of direct relevance. First, a steady and marked decline in trust in the EC of -24/-23 percentage points in the EU15/27 throughout the crisis period can be detected. In comparison, a decline in trust in the NG by -10/-9 percentage points in the EU15/27 can be considered moderate. Second, when comparing the mean levels of the pre-crisis period with the crisis period in the EU15, the decline of trust in the EC was steeper, with a 18 percentage points decline in mean levels in the crisis period compared to the pre-crisis period, than trust in the NG at 12 percentage points. Third, levels of trust in the EC still remain well above those in the NG over the whole time frame. Whereas large numbers of citizens mistrust the NG (341 million citizens mistrust vs. 139 million who trust) in the EU27 in November 2012, trust in the EC is still relatively equally distributed (with 222 million mistrusting vs. 203 million trusting). Fourth, as there were no pronounced differences in standard deviations in the pre-crisis or crisis periods for either trust trends (3 and -1 percentage points), we conclude that both trends followed their long-term paths in the midst of the crisis.
+
+14 GDP data were seasonally adjusted and chain-linked with 2005 as the reference year. Data on GDP were missing for
+
+Greece, Malta and Romania for the first semester in 2000 and for Greece for the 2nd semester of 2011 and both semesters in 2012. 15 Due to inconsistencies and breaks in various country series within the official Eurostat dataset, values had to be replaced
+
+by means of interpolation whenever necessary. 16 Data on debt over GDP only starts from the 1st of the year of 2000 onwards. Data on Greece and Malta are missing for
+
+the 1st semester of 2000. 17 Potential measurement errors from the applied interpolation seem unlikely as the monthly constructed variables correlate
+
+with the semester data as high as 0.99 for debt over GDP and 0.95 for growth of GDP per capita. 18 Non-population weighted aggregates for the EU15 and EA12 only vary slightly from the population-weighted trends.
+
+However due to highly negative values in low populated countries such as Malta, Cyprus and Slovenia, the nonpopulation-weighted averages are slightly lower than the population-weighted averages in an EU27 country sample. As the descriptive analysis is foremost interested in trend measures that depict a relative measure concerning the absolute size of a country’s population, weighted trends were utilised. In order to spell out an overall European policy conclusion, it seems to be more important if a large majority in Spain with an overall population size of approximately 46 million starts to mistrust the national and EU institutions in comparison to a large majority in Cyprus with an overall population size of approximately 862,000 and thus representing 1/50 of Spanish citizens. In fact, Spanish citizens alone represent almost 1/10 of all EU27 citizens (approximately 504 million). Cypriot citizens represent only 1/600 of EU27 citizens.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+6
+
+Figure 1. Trust in the national government and European Commission in the EU15/27 (1999–2012)
+
+Notes: NG = national government, EC = European Commission. Values are population weighted for the respective country samples. In 1-2/2009, the special Standard EB 71.1 was used. As the survey item concerning trust in the NG was not included in Standard EBs 52, 53, 54 or 58, the data for these four observation points respectively are missing. The dashed line represents the start of the crisis in September 2008 and differentiates the pre-crisis from the crisis period. From 10-11/2004 to 9-10/2006, the EU-27 country sample consists of EU-25 countries excluding Romania and Bulgaria. From 4-5/2007 onwards, Romania and Bulgaria are included. As the figure depicts net trust, all values above 0 indicate trust by a majority of the respondents and all values below 0 show a lack of trust by the majority. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+3.2 Net trust in the national parliament and the European Parliament
+
+Figure 2 shows citizens’ net trust in the NP and the EP in an EU15/27 country sample from 1999 to 2012 (all single time trends are depicted in Figures A2 and A4 in the Appendix). In analysing Figure 1, four important patterns are of direct relevance for our analysis. First, a steady and pronounced decline of trust in the EP of -27/-24 percentage points in the EU15/27 throughout the crisis period can be seen. In comparison, decreasing trust in the NP of -16/-13 percentage points in the EU15/27 was less strong but still notable. Second, when comparing the mean levels of the pre-crisis period with the crisis period in the EU15, the fall in trust in the EP was sharper, at 22 percentage points, than trust in the NP at 16 percentage points. Third, levels of trust in the EP remained well above those in the NP over the whole time frame. Whereas large numbers of citizens mistrust the NP (331 million citizens mistrust compared to 140 million who trust) in the EU27 in November 2012, trust in the EP is still relatively equally distributed (with 226 million citizens mistrusting vs. 220 million trusting). Fourth, as there were no pronounced differences in standard deviations in the pre-crisis or crisis periods in either trust trends (3 and -1 percentage points), we conclude that both trends followed their long-term paths throughout the crisis.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+7
+
+Figure 2. Trust in national parliaments and the European Parliament in the EU15/27 (1999–2012)
+
+Notes: NP = national parliament, EP = European Parliament. Values are population weighted for the respective country samples. In 1-2/2009 the special Standard EB 71.1 was used. As the survey item concerning trust in the NP was not included in Standard EBs 52, 53 or 58, the data for these three observation points respectively are missing. The dashed line represents the start of the crisis in September 2008 and differentiates the pre-crisis from the crisis period. From 10-11/2004 to 910/2006, the EU-27 country sample consists of EU-25 countries excluding Romania and Bulgaria. From 4-5/2007 onwards, Romania and Bulgaria are included. As the figure depicts net trust, all values above 0 indicate trust by a majority of the respondents and all values below 0 show a lack of trust by the majority. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+3.3 Before and after comparison in an EA12, EU15, NMS12 and EU27 country sample
+
+Table 1 depicts the values for the changes in net trust from 3-5/2008 to 11/2012 for the EU15/27, the EA12 and the 12 new member states (NMS12) country samples. Although, all three samples EU15/27 and EA12 follow a similar pattern, with trust in the EC and EP declined significantly by around 25 percentage points and trust in the NG and NP declined by around 10 and 15 percentage points) trust declined most significantly in the EA12 country sample. In contrast in the NMS12 country sample trust has declined the least.19 Taking this pattern into consideration, it seems sound to conclude that countries in the EA12 country sample appear to be determining the overall trend.20
+
+19 The NMS12 country sample consists of the 12 new member states that acceded to the EU from 2004 onwards. They
+
+include Bulgaria, Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, Slovakia and Slovenia. As the trends are population-weighted, this is strongly due to Poland, which has not experienced any significant decline of trust. All four trust levels remained relatively stable concerning the before and after comparison (see also Tables A1-A4 in the Appendix). Cyprus faced a significant decline of trust in the NG and NP (see Figure 5 at the end of this section). 20 As the trends shown are population-weighted, this conclusion is not too surprising given that the EA12 countries
+
+comprise more than three-fifths (approximately 323 of 504 million citizens) of the overall population of the EU27. In addition, the three EU15 and non-EA12 countries – namely Denmark, Sweden and the UK – only experienced moderate declines in trust (see also Figures A1-A4 in the Appendix). Trust in the NG and NP actually increased in Sweden.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+8
+
+Table 1. Net trust levels and changes in net trust in the EA12, EU15, NMS12 and EU27 (2008–12)
+
+Sample Trust Level: 3-5/ 2008 Level: 11/ 2012 Changes: 11/ 2012 – 3-5/ 2008
+
+EA12 NG/NP -25/-16 -38/-34 -13/-18
+
+EU15 NG/NP -28/-17 -38/-33 -10/-16
+
+NMS12 NG/NP -44/-55 -51/-58 -7/-3
+
+EU27 NG/NP -31/-25 -40/-38 -9/-13
+
+EA12 EC/EP 21/27 -7/-3 -28/-30
+
+EU15 EC/EP 14/19 -10/-8 -24/-27
+
+NMS12 EC/EP 34/38 22/24 -12/-14
+
+EU27 EC/EP 19/23 -4/-1 -23/-24
+
+Notes: EA = Euro Area, EU = European Union, NMS = New Member States, NG = National Government, NP = National Parliament, EC = European Commission, EP = European Parliament. Values are population-weighted for the respective country samples. As the table presents data on net trust, all values above 0 indicate trust by a majority of the respondents and all values below 0 show a lack of trust by the majority. The periods still reflecting trust by a majority of citizens are shaded in light grey. Values reflecting the strongest decline are shaded in dark grey. Sources: Standard EBs 69 and 78.
+
+3.4 Net trust levels and changes in the EA4, EA8 and selected EA12 countries
+
+With the presumptions that countries from the EA12 might be responsible for the overall decline in population-weighted trust trends in the EU15/27 sample, Table 2 shows the values for the changes in net trust for selected countries in the EA12 (namely Spain, Greece, Portugal, Ireland, Italy, Germany and France) along with a sample of periphery countries, the EA-4 (Spain, Greece, Portugal and Ireland) and a core country sample, the EA8 (Germany, France, Italy, Austria, Finland, Belgium, the Netherlands and Luxembourg). After differentiating the trends of the EA8 and EA4 countries, the most interesting patterns appear.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+9
+
+Table 2. Net trust levels and changes in net trust in the EA8 and EA4 and across selected EA12 countries
+
+(2008–12)
+
+Sample/ Country Trust Levels: 3-5/2008 Levels: 11/2012 Changes: 11/2012 – 3-5/2008
+
+EA4 NG/NP 3/10 -72/-72 -75/-82 EA8 NG/NP -33/-23 -28/-24 5/-1 Spain NG/NP 20/20 -75/-76 -95/-96 Greece NG/NP -31/-2 -84/-80 -53/-78 Portugal NG/NP -29/-3 -52/-50 -23/-47 Ireland NG/NP -14/-15 -58/-57 -44/-42 Italy NG/NP -59/-57 -60/-71 -1/-14 France NG/NP -38/-21 -35/-26 3/-5 Germany NG/NP -25/-15 -12/-1 13/14 EA4 EC/EP 38/37 -35/-30 -73/-67 EA8 EC/EP 16/22 1/6 -15/-16 Spain EC/EP 42/46 -41/-41 -83/-87 Greece EC/EP 13/21 -57/-42 -70/-63 Portugal EC/EP 42/46 -1/1 -43/-45 Ireland EC/EP 43/51 3/3 -40/-48 Italy EC/EP 29/29 -2/1 -31/-28 France EC/EP 11/19 4/9 -7/-10 Germany EC/EP 6/18 -4/2 -10/-16
+
+Notes: EA = euro area, NG = national government, NP = national parliament, EC = European Commission, EP = European Parliament. The EA8 and EA4 country samples are population-weighted. The pronounced differences between the EA8 and EA4, as well as the minimum and maximum values are shaded. Darker shading represents maximum values. Lighter shading represents minimum values. As the table presents data on net trust, all values above 0 indicate trust by a majority of the respondents and all values below 0 show a lack of trust by the majority. Sources: Standard EBs 69 and 78.
+
+First, whereas in the EA4, trust in the NG declined by -75/-82 percentage points, it actually increased by 5 percentage points in the EA8 and trust in the NP remained nearly unchanged with a mere decrease of 1 percentage points. In the EA4, the pronounced declines were driven by Spain, where trust in the NG/NP fell by 95/96 percentage points respectively (from 20/20 to -75/-76%).21 In Greece, Portugal and Ireland, trust in the NG/NP fell by 53/78, 23/47 and 44/42 percentage points.22 In the EA8 country sample, the positive and unchanged trend was largely driven by Germany, which enjoyed increases of 13/14. In France trust remained nearly constant with 3/-5 percentage points, respectively. Although the levels of trust in Italy were significantly lower than those in Germany and France, falls of -1/-14 percentage points were moderate compared with the decreases in the EA4.
+
+Second, while in the EA4 the fall of 73/67 percentage points in the trust in the EC and EP was similar to the fall in trust of the NG/NP, in the EA8 trust in the EC/EP declined less sharply by 15/16 percentage points. The substantial decline in the EA4 countries was driven by Spain, where trust in the EC/EP fell by 83/87 percentage points.23 In Greece, Portugal and Ireland, trust in the EC/EP declined
+
+21 This was the most pronounced decline in the EU15/EA12. In spring 2012, only 11% of Spanish citizens still trusted the
+
+NG and 9% the NP. As can be seen from Figures A1 and A2, however, one country, the new euro area member Cyprus (from 2008 onwards) encountered even steeper declines in trust of 113% and 115% in the NG and NP, respectively. 22 Only 7% of citizens still trusted the NG in Greece in autumn 2012. 23 Both declines were the most pronounced in the EU27.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+10
+
+by 70/63, 43/45 and 40/48 percentage points, respectively.24 The decrease in the EA8 countries was driven by moderate declines in France and Germany and a more pronounced one in Italy.
+
+3.5 Net trust trends in the EA4
+
+Figure 3 shows citizens’ net trust in the NG, NP, EC and EP in the countries of the periphery (EA-4 country sample) from 1999 to 2012. In the pre-crisis period, all four trust trends were very stable around the mean values of 0% for the NG and NP and 35% for the EC and EP, with standard deviations of around 6-8%. In the crisis period, all four trust trends fell steadily, with standard deviations rising to 18-20% and the mean levels dropping to approximately -40% for the NG and NP and to around 0% for the EC and EP, resulting in an overall decline in mean levels of around 30% to 40% in trust in all four institutions. Given these values, we conclude that trust trends in the crisis period deviated from their long-term paths in the midst of the crisis.
+
+Figure 3. Trust in national and EU institutions in the EA4 (1999–2012)
+
+Notes: The EA4 comprises Spain, Greece, Portugal and Ireland. NG = national government, NP = national parliament, EC = European Commission, EP = European Parliament. Values are population-weighted. In 1-2/2009 the special Standard EB 71.1 was utilised. As the survey item concerning trust in the NP was not included in Standard EBs 52, 53 or 58, the data for these three observation points respectively are missing. As the survey item concerning trust in the NG was not included in Standard EBs 52, 53, 54 or 58, the data for these four observation points respectively are missing. The dashed line represents the start of the crisis in September 2008 and differentiates the pre-crisis and crisis periods. As the figure depicts net trust, all values above 0 indicate trust by a majority of the respondents and all values below 0 show a lack of trust by the majority. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+3.6 Net trust trends in the EA8
+
+Figure 4 shows citizens’ net trust in the NG, NP, EC and EP in the EA8 country sample from 1999 to 2012. With no significant difference appearing in the standard deviations in the pre-crisis or crisis periods, all four trust trends followed their pre-crisis paths. In addition, the mean levels of trust in the NG and NP only moderately declined by 4 and 7 percentage points, respectively. The mean levels of trust in the EC and EP showed steeper falls, by 15 and 20 percentage points. Given these values, we conclude that whereas trust in the NG and NP was not affected at all by the crisis, trust in the EC and EP declined significantly in the course of the crisis. This declining trend, however, still followed its long-term path in the midst of the crisis.
+
+24 For Greece it has to be pointed out that in autumn 2012, trust in the EC (-57%) reached the lowest level in the EU27 over
+
+the 13-year period.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+11
+
+Figure 4. Trust in national and EU institutions in the EA-8 (1999–2012)
+
+Notes: The EA8 comprises Germany, France, Italy, Austria, Finland, Belgium, the Netherlands and Luxembourg. NG = national government, NP = national parliament, EC = European Commission, EP = European Parliament. Values are population weighted. In 1-2/2009 the special Standard EB 71.1 was used. As the survey item concerning trust in the NP was not included in Standard EBs 52, 53 or 58, the data for these three observation points respectively are missing. As the survey item concerning trust in the NG was not included in Standard EBs 52, 53, 54 or 58, the data for these four observation points respectively are missing. The dashed line represents the start of the crisis in September 2008 and differentiates the pre-crisis and crisis periods. As the figure depicts net trust, all values above 0 indicate trust by a majority of the respondents and all values below 0 show a lack of trust by the majority. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+3.7 Unemployment and Trust – A before and after comparison
+
+Having shown in Table 2 and Figures 3 and 4 that the EA4 and EA8 country samples follow very different trust trends throughout the crisis period, it now seems to be of interest to identify the driving factor behind the diverging trends. Figure 5 shows a scatter plot between the changes of the unemployment rate (∆ur) from 3-5/2008 to 11/2012 and the changes for trust (∆Trust) from 3-5/2008 to 11/2012, as depicted for selected EA12 countries in Table 2 (Before and After Comparison). In all four figures there is a significant negative association between ∆ur and ∆Trust with the most pronounced association between ∆ur and ∆Trust in the NP with a correlation of -0.97. The correlations between ∆ur and ∆Trust in the EP is -0.92, ∆Trust in the EC is -0.93 and ∆Trust in the NG is -0.94. When analysing the EA12, Greece and Spain faced the largest increase in unemployment in all four scatterplots and the most pronounced decline in trust. In Greece and Spain unemployment increased by 17.5 percentage points and 16.6 percentage points, respectively. Greece and Spain are followed by Ireland with an increase in the unemployment rate of 10 percentage points and Portugal with 7.5 percentage points. As pointed out in the figure, within an EU27 country sample, Cyprus acts as an outlier, as the trust decline in the NG and NP should be less pronounced when considering its unemployment rate.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+12
+
+Figure 5. Scatter plot between delta unemployment and delta trust
+
+Notes: Fitted regression line only for EA12 country sample. Sources: Standard EB 69 & 78 and Eurobarometer data.
+
+In order to corroborate these first descriptive findings, the following section 4 will now estimate the association between an increase in unemployment and a decrease of trust via an econometric estimation.
+
+4. Econometric analysis
+
+4.1 Discussion on the adequacy of the estimation procedure
+
+The issue of endogeneity
+
+When running regressions such as in equation (1), one must be aware of the possibility that the righthand side variables (unemployment, inflation, growth and debt) might be endogenous (affected by a common event) or stand in a bi-directional relationship with trust (a low level of trust might lead to a self-fulfilling prophecy and might speed up and worsen an already existing downturn). Therefore, we estimated equation (1) by means of dynamic ordinary least squares (DOLS), a method that controls for endogeneity of the regressors (Stock and Watson 1993; Wooldridge 2009).25 It can be shown that by
+
+25 A prerequisite for using the DOLS approach is that the variables entering the model are non-stationary and that all the
+
+series are in a long-run relationship (cointegrated). As can be depicted from the results in Table A2 and A3 in the Appendix, in our case all series are integrated of order 1, i.e. they are I(1) (and thus non-stationary) and they are cointegrated. Results in Tables A2 and A3 only depict EA12 country samples. Results for an EU15 and EU27 country sample can be received from the authors upon request.
+
+de
+
+es
+
+fr
+
+gr ie
+
+it
+
+pt
+
+cy
+
+de
+
+es
+
+fr
+
+gr ie
+
+it
+
+pt
+
+cy
+
+de
+
+es
+
+fr
+
+gr
+
+ie it pt
+
+cy
+
+de
+
+es
+
+fr
+
+gr ie it
+
+pt
+
+cy
+
+-100 -50 0 50 -100 -50 0 50
+
+-10 0 10 20 -10 0 10 20
+
+Trust NG Trust NP
+
+Trust EC Trust EP
+
+EA-12 Fitted Values EA-12 + Non-EA-12
+
+Delta Trust (2012-2008)
+
+Delta Unemployment (2012-2008)
+
+Graphs by Trust
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+13
+
+decomposing the error term and inserting the leads and lags of the right-hand side variables in first differences, the explanatory variables become (super-) exogenous and the regression results thus become unbiased. The baseline regression, which does not control for endogeneity and which reflects a situation whereby all adjustments have come to an end, has already been depicted in equation (1) in section 2. Within equation (1) wit is the iid-N error term with the properties of the classical linear regression model. Controlling for endogeneity requires the decomposition of the error term wit into the endogenous changes of the right-hand side variables, which are correlated with wit (the changes in the variables) and the exogenous part of the error term it ; with
+
+it p it p p
+
+p p it p p
+
+p p it p p
+
+p
+
+p it p p
+
+p p it p p
+
+p it
+
+Z Debt Growth
+
+Inflation nt Unemployme
+
+   
+
+ 
+
+       
+
+   
+
+  
+
+    
+
+    
+
+ 
+
+  
+
+    
+
+ 
+
+  
+
+ 
+
+2 1
+
+1 2 1
+
+1 2 1
+
+1
+
+2 1
+
+1 2 1
+
+1
+
+w
+
+(3)
+
+Inserting equation (3) into equation (1) leads to the following equation (4) in which all explanatory variables from the baseline model can be considered as exogenous:
+
+it p it p p
+
+p p it p p
+
+p
+
+p it p p
+
+p p it p p
+
+p p it p p
+
+p
+
+it it it it it i it
+
+Z Debt
+
+Growth Inflation nt Unemployme
+
+Z Debt Growth Inflation nt Unemployme Trust
+
+  
+
+  
+
+     
+
+    
+
+     
+
+     
+
+  
+
+    
+
+ 
+
+  
+
+   
+
+    
+
+ 
+
+ 
+
+  
+
+2 1
+
+1 2 1
+
+1
+
+2 1
+
+1 2 1 0
+
+1 2 1
+
+1
+
+1 1 1 1 1
+
+(4)
+
+with i  representing country fixed effects and  indicating that the variables are in first differences;
+
+the error term it  should fulfil the requirements of the classical linear regression model.
+
+Unemployment, inflation, growth and debt becomes exogenous and the coefficients 1 , 1 , 1 , 1 
+
+and 1 follow a t-distribution. This property allows us to draw statistical inferences on the impact of unemployment, inflation, growth and debt on trust.26
+
+Omitted variables and autocorrelation
+
+Having found that trust and the economic variables (unemployment, inflation, growth and debt) are non-stationary and cointegrated (see Tables A2 and A3 in the Appendix), we can be sure that omitted variables (which are lumped together in the error term) do not systematically influence our long-run relationship between trust and our macroeconomic variables. Omitted variables could be political factors (such as disappointment with politics in general) but also other economic factors (public expenditure per GDP, financial market distress, etc.). Even though the error term is stationary [I(0)], a characteristic of cointegration, autocorrelation might still be a problem that must be fixed.27 We do so by applying a Feasible Generalised Least Square (FGLS) procedure. Correcting for swings in the error term leads to the following equation:
+
+it p it p
+
+p
+
+p p it p
+
+p
+
+p
+
+p it p
+
+p
+
+p p it p
+
+p
+
+p p it p
+
+p
+
+p
+
+it it it it it i it
+
+u Z Debt
+
+Growth Inflation nt Unemployme
+
+Z Debt Growth Inflation nt Unemployme Trust
+
+    
+
+     
+
+     
+
+
+
+ 
+
+  
+
+ 
+
+ 
+
+
+
+ 
+
+  
+
+
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+* 2
+
+1
+
+1 * 2
+
+1
+
+1
+
+* 2
+
+1
+
+1 * 2
+
+1 0
+
+1 * 2
+
+1
+
+1
+
+* 1 * 1 * 1 * 1 * 1 *
+
+ 
+
+  
+
+     
+
+(5)
+
+26 2 , 2 , 2 , 2  and 2  are coefficients that belong to the endogenous part of the explanatory variables and do not follow a t-distribution. Since we are not interested in the influence of these ‘differenced variables’ on trust, they will not be depicted. 27 We found first order autocorrelation to be present.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+14
+
+with i being the country fixed effect and  indicating that the variables are in first differences; * indicating that the variables have been transformed (purged from autoregressive processes) and that the error term it u fulfils the requirements of the classical linear regression model (it is free from autocorrelation). Equation (5), which is an improved version of equation (4), represents the fixed effects dynamic feasible generalised least squares (FE-DFGLS) approach. The transformation of the variables take the following form as described in the following equation (6):
+
+, 1 1 *
+
+   it it it Trust Trust Trust  , 1 1 *
+
+   it it it nt Unemployme nt Unemployme nt Unemployme 
+
+, 1 1 *
+
+   it it it Inflation Inflation Inflation  , 1 *
+
+it it it Growth Growth Growth   
+
+, 1 1 *
+
+   it it it Debt Debt Debt  1 1 *
+
+   it it it Z Z Z  and 1 1    it it it v v u  , (6)
+
+where the differences of the explanatory variables are transformed in exactly the same way as the variables in levels. One should note that the new error terms it u are free of autocorrelation and that swings in the error term are eradicated by transforming the variables. Since the coefficient 1  is usually unknown (as in our case), it has been estimated by means of, e.g. the Cochrane-Orcutt method, an FGLS procedure.28
+
+4.2 Econometric results
+
+Estimating equation (5), Regression 1 in Table 3 reports the results for the full sample for the link between unemployment and trust in the NG. Trust in the NG is negatively and significantly (99% level) associated with unemployment with a coefficient of -3.9. Given that we would expect a structural break caused by the crisis,29 regressions 2 and 3 report the results for a pre-crisis (from 45/2000 to 3-5/2008) and a crisis sample (from 10-11/2008 to 11/2012). In the pre-crisis period regression 2, the relationship is only significant at the 90% level and the coefficient is smaller with 3.5. In the crisis sample, in regression 3, the relationship is negative and highly significant with a coefficient of -8.0. With a coefficient of this size, one can conclude that in times of crisis a 1 percentage point increase of unemployment is related to a decrease of 8.0 percentage points in net trust in the national government. In addition, it becomes apparent that the highly significant association in the full sample is strongly driven by the crisis period. Regressions 4 to 6 in Table 3 show the same estimation results, although this time for trust in the NP. A similar picture can be detected. The negative and highly significant coefficient of -3.2 in the full sample, regression 4, is strongly driven by the crisis period, regression 6. In times of crisis a 1 percentage point increase of unemployment is associated with a decrease of 7.3 percentage points in net trust in the NP.
+
+28 FGLS is not compatible with time fixed effects but picks up shocks and their influence over short-to medium term
+
+periods. As we have reasons to believe that the countries within our sample are usually affected very differently by the same ‘general’ event, we do not favour the use of time dummies within this paper. The crisis has especially affected those countries having commercial and investment banks with considerable international exposure and tight financial markets do more harm to countries with a housing bubble, such as Spain and Ireland. By plugging in time dummies one would mimic the same exposure to an unspecified risk in all EA12 and EU15/27 countries under investigation. In addition, the potential inclusion of time dummies would not alter our results (see results in row 22 in Table 5), and it could be shown that time-fixed effects do not tackle the problem of autocorrelation of the error term. 29 In addition to the theoretical validity of differentiating a pre-crisis from a crisis period, empirically, a Chow-test showed a
+
+structural break between the pre-crisis period (3-4/1999 to 3-5/2008) and the crisis period (10-11/2008 to 11/2012). Results can be obtained from the authors upon request.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+15
+
+Table 3. Unemployment and trust in the NG and NP, fixed-effects DFGLS estimations, EA12
+
+1 2 3 4 5 6
+
+Dependent variable NG NG NG NP NP NP Period FS BC C FS BC C
+
+Unemployment -3.9*** -3.5* -8.0*** -3.2*** -2.5* -7.3***
+
+(0.93) (1.78) (1.82) (0.75) (1.40) (1.28)
+
+Inflation Yes Yes Yes Yes Yes Yes
+
+Growth Yes Yes Yes Yes Yes Yes
+
+Government debt Yes Yes Yes Yes Yes Yes
+
+Election dummy Yes Yes Yes Yes Yes Yes
+
+Durbin-Watson statistic 2.11 1.82 2.03 2.10 1.84 2.08
+
+Adjusted R-squared 0.82 0.81 0.86 0.81 0.77 0.88
+
+Country fixed effects Yes Yes Yes Yes Yes Yes
+
+Control for endogeneity Yes Yes Yes Yes Yes Yes
+
+Elimination of first order autocorrelation Yes Yes Yes Yes Yes Yes
+
+Observations 248 143 105 248 143 105 Number of countries 12 12 12 12 12 12 Notes: FS=Full Sample; BC=Before Crisis; C=Crisis; NG=National Government; NP= National Parliament. ***p<0.01, **p<0.05 and *p<0.1. Data on growth of GDP per capita are missing for Greece from the 2nd semester of 2011 onwards. Thus, instead of 108, only 105 observations can be depicted. Data on the lagged first differences for debt over GDP are missing for the four time periods 1999-2000 and for Greece and Malta for the first semester of 2001.
+
+Regression 1 in Table 4 reports the results for the full sample for the association between unemployment and trust in the EC. Trust in the EC is negatively and significantly (95% level) associated with unemployment with a small-sized coefficient of -1.4. In the pre-crisis period, regression 2, the relationship is insignificant, indicating that in this specific time period in an EA12 country sample changes in trust in the EC are not associated with changes in unemployment. In the crisis sample, in regression 3, the relationship is negative and significant (95% level) with a coefficient of -3.1 With a coefficient of this size, one can conclude that in times of crisis a 1 percentage point increase of unemployment is related to a decrease of 3.1 percentage points in net trust in the EC. In addition, it becomes apparent that the negative association in the full sample is driven by the crisis period. Regressions 4 to 6 in Table 4 show the same estimation results, although this time for trust in EP. A similar picture can be detected. The negative and significant (95% level) coefficient of -1.5 in the full sample, regression 4, is driven by the crisis period, regression 6. In times of crisis, a 1 percentage point increase of unemployment is associated with a decrease of 3.4 percentage points in net trust in the EP.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+16
+
+Table 4. Unemployment and trust in the EC and EP, fixed-effects DFGLS estimations, EA12
+
+1 2 3 4 5 6
+
+Dependent variable EC EC EC EP EP EP
+
+Period FS BC C FS BC C
+
+Unemployment -1.4*** 0.5 -3.1*** -1.5** 0.15 -3.4***
+
+(0.55) (0.94) (1.04) (0.60) (1.14) (0.94)
+
+Inflation Yes Yes Yes Yes Yes Yes
+
+Growth Yes Yes Yes Yes Yes Yes
+
+Government debt Yes Yes Yes Yes Yes Yes
+
+Election dummy No No No Yes Yes Yes
+
+Durbin-Watson statistic 2.14 2.05 2.04 2.17 2.10 2.03
+
+Adjusted R-squared 0.82 0.78 0.84 0.81 0.72 0.83
+
+Country fixed effects Yes Yes Yes Yes Yes Yes
+
+Control for endogeneity Yes Yes Yes Yes Yes Yes
+
+Elimination of first order autocorrelation Yes Yes Yes Yes Yes Yes
+
+Observations 272 167 105 272 167 105
+
+Number of countries 12 12 12 12 12 12
+
+Notes: FS=Full Sample; BC=Before Crisis; C=Crisis; EC= European Commission; EP=European Parliament. ***p<0.01, **p<0.05 and *p<0.1. Data on growth of GDP per capita are missing for Greece from the 2nd semester of 2011 onwards. Thus, instead of 108, only 105 observations can be depicted. Data on the lagged first differences for debt over GDP are missing for the four time periods 1999-2000 and for Greece and Malta for the first semester of 2001.
+
+4.3 Sensitivity of results
+
+As in particular the relationship between unemployment and trust throughout the crisis period would bear relevant policy implications, Table 5 reports the results of a sensitivity analysis for the crisis period. Row 1 in Table 5 depicts the four coefficients of the regressions 3 and 6 in Tables 3 and 4. Rows 2-4 exclude potential influential cases from the country sample. As can be inferred from Figure 5, Spain, Greece and the EA4 function as influential cases for the negative association. When excluding Spain in row 2, trust in the NG, EC and EP lose their significance. The negative significant association between unemployment and trust in an EA12 country sample thus seems to be strongly driven by the Spanish case in which a significant increase in the unemployment rate has led to a significant decrease in trust. After the exclusion of Spain, trust in the NP, however, remains highly significant and the size of the coefficient unchanged (-7.3). When excluding Spain and Greece in row 3, the coefficient of trust in the NP remains robust, although losing some significance (95% level) and strength (-6.3). Even when excluding three countries (Spain, Greece and Portugal) or all four periphery countries (Spain, Greece, Portugal and Ireland) in rows 4 and 5, the size of the coefficient and 95-percent level of significance for trust in the NP are not altered, indicating the overall robustness of the negative relationship between unemployment and trust in the NP over the entire sample of the EA12.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+17
+
+Table 5. Sensitivity analysis for the baseline fixed-effects DFGLS model, EA12
+
+Row Specification change NG NP EC EP Obs. Cou.
+
+Baseline regression
+
+1 No change -8.0*** -7.3*** -3.1** -3.4*** 105 12
+
+Exclusion of outliers 2 Spain -4.4 -7.3*** 0.8 0.7 96 11 3 Spain+Greece -2.5 -6.3** 1.2 1.2 90 10 4 Spain+Greece+Portugal -1.9 -6.1** 1.7 1.3 81 9 5 EA4 -2.8 -6.4** 0.1 0.1 72 8
+
+Restruc. of country sample
+
+6 EU15 -7.1*** -6.4*** -2.7*** -3.2*** 132 15
+
+7 EU27 -1.1 -1.1 -2.1*** -2.3*** 240 27
+
+8 EU27 - Spain 0.2 -0.1 -1.6** -1.7** 231 26
+
+9 EU27 - EA4 -0.6 -0.1 -1.5** -1.6** 207 23
+
+10 NMS12 0.8 2.3 -1.6* -1.7* 108 12 Restruc. of time sample
+
+11 9-11/2007-11/2012 -6.0*** -5.4*** -2.4*** -2.8*** 129 12 12 10-11/2008-5/2012 -6.2*** -5.8*** -1.6 -1.7 94 12
+
+13 10-11/2008-11/2011 -6.7** -6.3*** -2.4 -2.8** 83 12 14 10-11/2008-5/2011 -5.5 -5.8** -2.3 -3.0* 72 12
+
+15 10-11/2008-11-12/2010 -9.1** -8.5*** -1.7 -2.0 60 12
+
+Incl. of additional variables 16 Sov. bond yields -8.9*** -7.4*** -3.0*** -3.6*** 105 12
+
+Alt. estimation strategies 17 OLS+TD -6.4*** -5.8*** -3.3** -3.7*** 117 12
+
+18 OLS+TD+SBY -6.4*** -5.7*** -3.1** -3.5** 117 12 19 OLS+TD+SBY+EB74 -5.6*** -4.9*** -1.8 -2.3 72 12
+
+Various alterations
+
+20 Excl. special EB 71.1 -6.7*** -6.2*** -2.5*** -3.1*** 93 12 21 Net trust vs. trust -3.9*** -3.5*** -1.3** -1.6*** 105 12
+
+22 Inclusion of TD -7.6*** -6.7*** -3.4*** -3.4*** 105 12 Notes: EU=European Union, NMS=New Member States; NG=National Government; NP=National Parliament; EC=European Commission; EP=European Parliament; EA=Euro Area; TD=Time Dummies; SBY=Sovereign Bond Yields. EA-4 comprises Spain, Greece, Portugal and Ireland. ***p<0.01, **p<0.05 and *p<0.1.
+
+Rows 6-10 depict the results for different country samples. As expected in the EU15 (row 6), the results are very similar to that of the EA12.30 In the EU27 (row 7), unemployment is not significantly associated with trust in the NG and NP but is associated with trust in the EC and EP even when excluding Spain (row 8) and all four EA4 countries (row 9). In the NMS12 country sample (row 10), there is weak significance (90% level) for trust in the EC and EP. Rows 11 to 15 analyse the robustness of the coefficient when altering the time periods utilised. Since the beginning of the financial and economic crisis can be located as early as 2007 (Stiglitz 2012: 1), row 11 analyses a
+
+30 As elaborated above, the three EU-15 and non-EA-12 countries Denmark, Sweden and UK only experienced moderate
+
+declines of trust. Once excluding Spain from an EU-15 country sample, the negative relationship between unemployment and trust in the NG and NP remains robust, but the relationship between unemployment and trust in the EC and EP loses significance. Results can be obtained from the authors upon request.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+18
+
+crisis sample starting from 9-11/2007. All four trust coefficients remain unaltered and have the same size. Reducing one time period after another and starting with the observation in 11/2012, in rows 12 to 15, trust in the NG and NP remains highly robust throughout the crisis.31 The negative relationship between unemployment and trust in the EC and EP turns out to be highly dependent on the observations from the year 2012, the second year of the sovereign debt crisis.32 Although we can be sure that our econometric analysis has not omitted any important variables, having shown that our time series are cointegrated as depicted in Tables A2 and A3 in the Appendix, row 16 includes the additional variable sovereign bond yields as most recent empirical results have stressed their importance for trust in the EC (Wälti 2012: 600-2). Once one includes the additional variable sovereign debt yields, all coefficients remain unchanged.33 To further compare our findings against those of the existing empirical literature concerning trust in the EC (Wälti 2012), rows 17 to 18 estimate equation 1 with the help of ordinary least squares estimation with country and time fixed effects and cluster robust standard errors with and without the inclusion of sovereign debt yields. Coefficient for the NG and NP are slightly smaller with approximately -6 but overall all results remain robust. Once analysing a time frame from 2008 to 2010-2, in row 19, similar results as in row 15 can be detected. Whereas trust in the NG and NP remain highly significant in appropriate size, trust in the EC and EP lose their significance. It thus seems sound to conclude that the negative relationship between unemployment and trust in the EC is driven by the outcome of the 2nd year of the sovereign debt crisis, which started in 2010, in the year 2012. Rows 20 to 22 perform three additional robustness tests. Once excluding the special EB71.1 in row 20, the results remain unchanged. Once estimating trust values instead of net trust values, in row 21, none of the coefficients loses significance although as expected the coefficients are now only half the size.34 The inclusion of time fixed effects instead of utilising the FGLS approach in row 22 does not alter the results, but leaves us with a poor DurbinWatson statistic of about 1.
+
+4.4 Coherence with previous empirical results
+
+Our econometric findings are in line with the empirical findings of Stevenson and Wolfers (2011) who find that unemployment has a significant and negative effect on trust in public institutions. When analysing the impact of an increase of unemployment on trust in the U.S. congress from 1972 to 2010 the authors find a significant and negative effect of unemployment on trust with the size of the coefficient ranging from -0.89 to -1.36 depending upon the different types of data sources utilised. Although the authors utilise data for a non-European case, the U.S., and a longer time series (39 years vs. 13 years), the range of size of the reported coefficient is only slightly smaller than our estimated coefficient for trust in the national parliament of -1.4 when estimating the full sample over the 13-year time period.35 This coefficient range is however significantly smaller compared to our coefficient of 3.5 throughout the crisis period, as depicted in row 20 in Table 5.
+
+Second, our results concerning the impact of the crisis on trust in the EC are ambivalent: they confirm and contradict the findings by Wälti (2012). When replicating his estimation and estimating a crisis time period until 11-12/2010, we confirm the non-significant relationship between unemployment and trust in the EC. However, when estimating a longer crisis time period until 11/2012, we are able to reject his empirical findings that a decline in trust in the EC is not significantly
+
+31 Trust in the NP is more robust than trust in the NG, as trust in the NG turns out to insignificant when analysing the time
+
+period from October/November 2008 to May 2011 in row 16. 32 As has been mentioned above, the sovereign debt crisis started in 2010 (De Grauwe 2010). 33 This is not very astonishing as the descriptive part of this paper has shown, e.g. that trust in Spain has steadily decreased
+
+from 2008 onwards. The increase in sovereign bond yields in Spain, however, has been moderate throughout the crisis. 34 The net measure accounts for both: the movements in trust and mistrust, whereas trust only accounts for movements in
+
+trust. Thus changes in net trust will be approximately twice the value than changes in trust. 35 The coefficient is -1.4 when utilising trust instead of net trust. If estimating net trust, the coefficient is -3.2 as depicted in
+
+regression 4 in Table 3.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+19
+
+related to an increase in unemployment. Our analysis finds that when estimating a time period until 11/2012 unemployment is significantly (99% level) and negatively (-3.1) related to net trust in the EC. This result is strongly driven by the Spanish case.
+
+5. Conclusions
+
+This paper has analysed the impact of the crisis on trust in national and EU institutions. Two empirical conclusions can be drawn:
+
+First, concerning trust in the NG and NP, the crisis has not led to a universal decline of trust.36 The core countries from the EA12 such as Germany, Austria and Finland37 have actually higher trust levels in 11/2012 than before the crisis in 3-5/2008. The opposite is true for the periphery countries for the EA12. In countries such as Spain, Greece, Portugal and Ireland,38 trust in the NG and NP declined significantly. These countries have left their long-term trust trends. Thus the alleged trust crisis in the NG and NP is not an EU-scale crisis, but primarily manifests in the periphery countries of the EA12.
+
+Second, concerning trust in the EU institutions, although an overall moderate decline in trust in the EC and EP can be detected among most EU27 countries,39 trust declines in the four periphery countries of the EA12 Spain, Greece, Portugal and Ireland40 have been more pronounced than in all other countries, particularly in Spain and Greece. These countries have departed from their long-term trust trends. Thus, the alleged trust crisis in the EC and EP has registered at only a modest scale throughout all member states of the EU; it is primarily in the periphery countries of the eurozone, that the loss of trust has reached crisis proportions.
+
+In more detail the following ten empirical findings emerge within our analysis. i) In analysing the effects of the crisis on citizens’ population weighted trust in the national and EU institutions for an EU15/27 country sample, one detects moderate declines in trust in the national government and parliament, but more pronounced declines in relation to the European Commission and European Parliament since the start of the crisis. This overall decline in population-weighted trust in all four trust trends has strongly been driven by the countries of the EA12. ii) Whereas in the core of the EA12 trust in the national government and parliament has actually increased or remained unchanged, in its periphery trust in the national government and parliament has fallen significantly and steadily since the start of the crisis. This sharp and steady fall in the periphery explains the overall moderate decrease of population weighted trust in the national government and parliament in the EA12, EU15 and EU27. iii) While trust in the European Commission and European Parliament has declined in the core of EA12, in the periphery it has done so to a greater extent. Thus, the overall pronounced fall of population-weighted trust in the European Commission and European Parliament in the EA12, EU15 and EU27 is to a strong extent driven by those four periphery countries.
+
+36 This interpretation concerning European citizens’ trust in NG is shared by other scholars who come to the conclusion that
+
+“in the vast majority of countries the aggregate level trust did not change dramatically” (Armingeon and Guthmann 2012: 22). 37 The EU-15 and non EA-12 country Sweden and the NMS-12 country Poland have also registered increases in trust in the
+
+NG and NP. 38 As mentioned above, Cyprus faced the most significant decline in trust. 39 The two Scandinavian countries Denmark and Finland are opposite examples. In both countries trust in the EC and EP
+
+has actually increased throughout the crisis. 40 As mentioned above, also Cyprus.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+20
+
+iv) Whereas the population-weighted trust trends in the core countries of the EA12 have followed their pre-crisis paths throughout the crisis, the population-weighted trends in the periphery countries have departed from their pre-crisis paths since the start of the crisis. This phenomenon applies in particular to the case of Spain. v) When analysing the drivers of trust with the help of a FE-DFGLS estimation within an EA12 country sample and timeframe from 1999-2012, an increase of unemployment turns out to be significantly and negatively associated with trust in the national and EU institutions. vi) The highly significant and negative relationship between unemployment and trust is strongly driven within the crisis period (2008-2012). The coefficients for trust in the NG and NP are twice as high in the crisis period as in the pre-crisis period. The relationship between unemployment and trust in the EC and EP is not even significant in the precrisis period but highly significant in the crisis period. vii) Within the EA12, whereas this highly significant and negative relationship between
+
+unemployment and trust the NG, EC and EP throughout the crisis is strongly driven by the country case of Spain, in which a significant increase in the unemployment rate is strongly associated with a decrease of trust, the relationship between unemployment and trust in the NP remains highly robust even after the exclusion of Spain from the EA12 country sample. viii) Whereas this highly significant and negative relationship between unemployment and
+
+trust in the NG and NP remains robust throughout the whole crisis period, the significant relationship between unemployment and trust in the EC and EP is strongly driven by the time period from the year 2012, and thus seems to be related to an increase of unemployment as an outcome of the 2nd year of the sovereign debt crisis in the euro area which started in 2010. ix) The relationship between unemployment and trust in the NP holds strongly for an EA12 country sample. Within the EA12, in times of crisis, a 1 percent increase in unemployment rates is associated with a decrease of net trust of -7.3 percentage points (a decrease of trust of -3.5 percentage points). x) With Spain and Greece being EA12 countries and having reached levels of -76 and -80 percentage points of net trust in the NP in November 2012, respectively, a further increase of three percentage points of unemployment would lead to a complete loss of trust in the NP in those two countries.
+
+Overall, on the basis of all patterns analysed in this paper, it is the steady decline of trust in the national parliaments in Spain and Greece that are the most worrying, as both countries can be characterised as young democracies.41 If one takes sociological and political theory seriously, a complete loss of citizens’ trust in the NP in Spain and Greece might ultimately lead to an abolition of this kind of institutional arrangement.
+
+41 In 11/2012 (EC2012b), although “satisfaction with democracy” in Spain is still at 32%, it is as low as 11% in Greece.
+
+Comparable figures for Germany and Finland are 70% and 78%, respectively.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+21
+
+References
+
+Armingeon, K. and K. Guthmann (2012), “Democracy in Crisis? The declining support for national
+
+democracy in European countries 2006-2011”, manuscript, University of Berne, Switzerland, June.
+
+Bellucci, P. and M.S. Lewis-Beck (2011), “A stable popularity function? Cross-national analysis”,
+
+European Journal of Political Research 50: 190-211.
+
+Consortium for Elections and Political Process Strengthening (CEPPS) (2011), “Data on
+
+Parliamentary Elections”, Resource document ( http://www.electionguide.org/ ).
+
+Corsetti, G. (2012), Austerity: Too Much of a Good Thing?, Centre for Economic Policy Research,
+
+London.
+
+De Grauwe, P. (2010), “The Greek Crisis and the Future of the Eurozone”, Intereconomics 45: 89-93.
+
+EEAG (2010), The EEAG report on the European Economy. European Economic Advisory Group,
+
+CESifo.
+
+Ehrmann, M., M. Soudan, M. and L. Stracca (2013), “Explaining EU Citizen’s Trust in the ECB in
+
+Normal and Crisis Times”, forthcoming Scandinavian Journal of Economics.
+
+European Commission (2009a). The Europeans in 2009 – Special Eurobarometer 308/Wave 71.1.
+
+European Commission DG Communication, Brussels.
+
+__________ (2009b). Standard Eurobarometer 71, Spring 2009. European Commission DG
+
+Communication, Brussels.
+
+__________ (2009c). Standard Eurobarometer 72, Autumn 2009, European Commission, DG
+
+Communication, Brussels.
+
+__________ (2010a). Standard Eurobarometer 73, Spring 2010, European Commission, DG
+
+Communication, Brussels.
+
+__________ (2010b). Standard Eurobarometer 74, Autumn 2010, European Commission, DG
+
+Communication, Brussels.
+
+__________ (2011a). Standard Eurobarometer 75, Spring 2011, European Commission, DG
+
+Communication, Brussels.
+
+__________ (2011b). Standard Eurobarometer 76, Autumn 2011, European Commission, DG
+
+Communication, Brussels.
+
+__________ (2012a). Standard Eurobarometer 77, Spring 2011, European Commission, DG
+
+Communication, Brussels.
+
+__________ (2012b). Standard Eurobarometer 78, Autumn 2011, European Commission, DG
+
+Communication, Brussels.
+
+Gärtner, M. (1997), “Who wants the Euro - and why? Economic explanations of public attitudes
+
+towards a single European currency”, Public Choice 93: 487-510.
+
+Gesis ZA Data Service (2005a). Eurobarometer 1970-2004. CD-Rom 2, EB 42 – EB 51.
+
+Gesis ZA Data Service (2005b). Eurobarometer 1970-2004. CD-Rom 3, EB 52 – EB 62.
+
+Gesis ZA Data Service (2009) (http://www.gesis.org/en/services/data/survey-data/eurobarometer-data service/data-access/).
+
+Giddens, A. (1996), “Risiko, Vertrauen und Reflexivität”, in: Beck, U., A. Giddens and S. Lash,
+
+Reflexive Modernisierung. Frankfurt am Main: Suhrkamp.
+
+Jones, E. (2009), “Output legitimacy and the global financial crisis: Perceptions matter”,
+
+Journal of Common Market Studies 47: 1085-1105.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+22
+
+Kaltenthaler, K., C.J. Anderson, and W.J. Miller (2010), “Accountability and Independent Central
+
+Banks: Europeans and Distrust of the European Central Bank”, Journal of Common Market Studies 48: 1261-1281.
+
+Kosfeld, M., M. Heinrichs, P.J. Zak, U. Fischbacher and E. Fehr (2005), “Oxytocin increases trust in
+
+humans”, Nature 435: 673-676.
+
+Lawrence, R.Z. (1997), “Is it really the economy, stupid?”. in: Nye, J.S. Jr., P.D. Zelikow and D.C.
+
+King (eds), Why people don’t trust the government. Cambridge, MA: Harvard University Press: 111-132.
+
+Luhmann, N. (2000), Vertrauen, Stuttgart: Lucius and Lucius.
+
+Nye, S. Joseph Jr. (1997). Introduction: The Decline of Confidence in Government, in: Nye, J. S. JR.,
+
+P.D. Zelikow and D.C. King (eds), Why people don’t trust the government, Cambridge, MA: Harvard University Press: 1-18.
+
+Nannestad, P. and M. Paldam (1994), “The VP-function: A survey of the literature on vote and
+
+popularity functions after 25 years”, Public Choice 79: 213-245.
+
+Navarro, V. (2012), Spain is experiencing a period of intense social crisis, (http://blogs.lse.ac.uk/europpblog/2012/11/12/spain-is-experiencing-a-period-of-intense-socialcrisis/#more-8256).
+
+Newton, K. (2001), “Trust, Social Capital, Civil Society, and Democracy”, International Political
+
+Science Review 22: 201.
+
+Okun, A.M. (1962). Potential GNP: Its Measurement and Significance, Cowles Foundation paper 190,
+
+cowles.econ.yale.edu/P/cp/p01b/p0190.pdf .
+
+Roth, F. (2011), “The Eurozone crisis and its effects on citizens’ trust in the national parliament”,
+
+FMA Bulletin 34: 29-30.
+
+Stevenson, B. and J. Wolfers (2011), “Trust in Public Institutions over the Business Cycle”, American
+
+Economic Review 101: 281-287.
+
+Stiglitz, J.E. (2012), The Price of Inequality. Allen Lane, USA.
+
+Stock, J.H. and M.W. Watson (1993), “A Simple Estimator of Cointegrating Vectors in Higher Order
+
+Integrated Systems”, Econometrica 61: 783-820.
+
+Theodoropoulou, S. and A. Watt (2011), “Withdrawal symptoms: an assessment of the austerity
+
+measures in Europe”, ETUI Working Paper 2011.02.
+
+Wälti, S. (2012), “Trust no more? The impact of the crisis on citizens’ trust in central banks”, Journal
+
+of International Money and Finance 31: 593-605.
+
+Wooldridge, J.M. (2009), Introductory Econometrics: A Modern Approach, OH: South-Western
+
+Cengage Learning Mason.
+
+Xin, H., H. Zhou and H. Zhu (2009), “A framework for assessing the systemic risk of major financial
+
+institutions”, Journal of Banking and Finance 33: 2036-49.
+
+23
+
+Appendices
+
+Appendix 1. Time series for the all individual countries
+
+Figure A1. Net trust in the national government, by EU27 country (1999–2012)
+
+Notes: Y-axis displays a range from -100 to +50. For the EU-15 countries, the data commence in spring 1999 (EB 51). For the 12 new member states, the data commence in 10-11/2004 (EB 62), even for Romania and Bulgaria. Data for EBs 52-54 and EB 58 are missing and have been automatically been interpolated by Stata. As the figure depicts net trust, all values below 0 indicate a lack of trust by the majority of respondents. In the case of Great Britain, data from EBs 51-69 are for Great Britain, whereas data from EB 70 onwards are for the UK. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+-100
+
+-50
+
+0 50
+
+-100
+
+-50
+
+0 50
+
+-100
+
+-50
+
+0 50
+
+-100
+
+-50
+
+0 50
+
+2000 2005 2010
+
+2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010
+
+Austria Belgium Bulgaria Cyprus Czech Rep Denmark Estonia
+
+Finland France Germany Great Britain Greece Hungary Ireland
+
+Italy Latvia Lithuania Luxembourg Malta Netherlands Poland
+
+Portugal Romania Slovakia Slovenia Spain Sweden
+
+Year
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+24
+
+Figure A2. Net trust in the national parliament, by EU27 country (1999–2012)
+
+Notes: Y-axis displays a range from -100 to +50. For the EU-15 countries, the data commence in spring 1999 (EB 51). For the 12 new member states, the data commence in 10-11/2004 (EB 62), even for Romania and Bulgaria. Data for EBs 52-53 and EB 58 are missing and have been automatically been interpolated by Stata. As the figure depicts net trust, all values below 0 indicate a lack of trust by the majority of respondents. In the case of Great Britain, data from EBs 51-69 are for Great Britain, whereas data from EB 70 onwards are for the UK. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+-100
+
+-50
+
+0 50
+
+-100
+
+-50
+
+0 50
+
+-100
+
+-50
+
+0 50
+
+-100
+
+-50
+
+0 50
+
+2000 2005 2010
+
+2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010
+
+Austria Belgium Bulgaria Cyprus Czech Rep Denmark Estonia
+
+Finland France Germany Great Britain Greece Hungary Ireland
+
+Italy Latvia Lithuania Luxembourg Malta Netherlands Poland
+
+Portugal Romania Slovakia Slovenia Spain Sweden
+
+Year
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+25
+
+Figure A3. Net trust in the European Commission, by EU27 country (1999–2012)
+
+Notes: Y-axis displays a range from -50 to +50. For the EU-15 countries, the data commence in spring 1999 (EB 51). For the 12 new member states, the data commence in 10-11/2004 (EB 62), even for Romania and Bulgaria. As the figure depicts net trust, all values below 0 indicate a lack of trust by the majority of respondents. In the case of Great Britain, data from EBs 51-69 are for Great Britain, whereas data from EB 70 onwards are for the UK. Sources: Standard EBs 51-77 and Special EB 71.1.
+
+-50
+
+0 50 -50
+
+0 50 -50
+
+0 50 -50
+
+0 50
+
+2000 2005 2010
+
+2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010
+
+Austria Belgium Bulgaria Cyprus Czech Rep Denmark Estonia
+
+Finland France Germany Great Britain Greece Hungary Ireland
+
+Italy Latvia Lithuania Luxembourg Malta Netherlands Poland
+
+Portugal Romania Slovakia Slovenia Spain Sweden
+
+Year
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+26
+
+Figure A4. Net trust in the European Parliament, by EU27 country (1999–2012)
+
+Notes: Y-axis displays a range from -50 to +50. For the EU-15 countries, the data commence in spring 1999 (EB 51). For the 12 new member states, the data commence in 10-11/2004 (EB 62), even for Romania and Bulgaria. As the figure depicts net trust, all values below 0 indicate a lack of trust by the majority of respondents. In the case of Great Britain, data from EBs 51-69 are for Great Britain, whereas data from EB 70 onwards are for the UK. Sources: Standard EBs 51-78 and Special EB 71.1.
+
+-50
+
+0 50 -50
+
+0 50 -50
+
+0 50 -50
+
+0 50
+
+2000 2005 2010
+
+2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010 2000 2005 2010
+
+Austria Belgium Bulgaria Cyprus Czech Rep Denmark Estonia
+
+Finland France Germany Great Britain Greece Hungary Ireland
+
+Italy Latvia Lithuania Luxembourg Malta Netherlands Poland
+
+Portugal Romania Slovakia Slovenia Spain Sweden
+
+Year
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+27
+
+Appendix 2. Background Statistics
+
+Table A1. Summary statistics EA12, EU15, EU27
+
+Variable Obs Time Periods Mean Std. Dev. Min Max
+
+EA12
+
+Net trust in national governments 300 25 -10.8 30.2 -85 61
+
+Net trust in national parliaments 312 26 -3.6 27.2 -80 57
+
+Net trust in the European Commission 348 29 21.7 19.1 -57 57
+
+Net trust in the European Parliament 348 29 27.1 18.5 -43 62
+
+Unemployment 348 29 7.9 3.7 1.9 25.4
+
+Inflation 348 29 100.9 9.6 78.9 122.7
+
+Growth of GDP per Capita 342 29 0.6 1.5 -6.6 6.4
+
+Government debt over GDP 323 27 67.7 31.7 5.6 167.2
+
+Sovereign bond yields 348 29 4.5 2 1.4 23.4
+
+EU15
+
+Net trust in national governments 375 25 -10.1 29.6 -85 61
+
+Net trust in national parliaments 390 26 -0.2 29.5 -80 71
+
+Net trust in the European Commission 435 29 18.0 21.1 -57 57
+
+Net trust in the European Parliament 435 29 23.5 21.2 -50 62
+
+Unemployment 435 29 7.5 3.5 1.9 25.4
+
+Inflation 435 29 101.1 9.4 78.9 123.1
+
+Growth of GDP per capita 429 29 0.6 1.5 -6.6 6.4
+
+Government debt over GDP 404 27 63.6 30.1 5.6 167.2
+
+Sovereign bond yields 435 29 4.5 1.9 1.2 23.4
+
+EU27
+
+Net trust in national governments 486 18 -21.1 32.2 -85 61
+
+Net trust in national parliaments 486 18 -19.5 36.9 -90 71
+
+Net trust in the European Commission 486 18 21.0 19.8 -57 56
+
+Net trust in the European Parliament 486 18 24.4 20.1 -50 63
+
+Unemployment 486 18 8.4 3.8 3.0 25.4
+
+Inflation 486 18 110.5 10.9 90.9 148.3
+
+Growth of GDP per capita 483 18 0.7 2.2 -11.5 5.9
+
+Government debt to GDP 486 18 53.1 30.8 3.4 167.2
+
+Sovereign bond yields 467 18 4.8 2.3 1.2 23.4 Notes: EU27 country sample starts from 10-11/2004, even for Bulgaria and Romania.
+
+Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter
+
+28
+
+Table A2. ADF-panel unit root tests, EA12
+
+Variable Observations ADF-Fisher Chi-square Probability
+
+Trust NG 192 17.1 0.85
+
+Trust NP 192 9.9 0.99
+
+Trust EC 288 20.2 0.68
+
+Trust EP 288 11.9 0.98
+
+Unemployment 288 27.1 0.3
+
+Inflation 288 6.3 0.99
+
+Growth 270 24.6 0.43
+
+Debt 263 9.2 0.99
+
+SBY 288 12.8 0.97 Note: H0: Series has a unit root (individual unit root process).
+
+Table A3. Kao residual cointegration test, EA12
+
+Cointegration between the following set of variables Observations ADF-t-statistic Probability
+
+Trust NG and explanatory variables 348 4.6 0.00
+
+Trust NP and explanatory variables 348 4.7 0.00
+
+Trust EC and explanatory variables 348 2.0 0.02
+
+Trust EP and explanatory variables 348 2.3 0.01 Note: H0: No cointegration.
+
+Crisis and Trust in National and European Union Institutions — Panel Evidence for the EU, 1999 to 2012
+
+29
+
+Author contacts:
+
+Felix Roth (Correspondence author)
+
+Centre for European Policy Studies
+
+Place du Congrès 1,
+
+1000 Brussels
+
+Belgium
+
+Email: felix.roth@ceps.eu

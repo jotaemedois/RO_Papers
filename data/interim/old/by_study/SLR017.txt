@@ -1,0 +1,599 @@
+1
+
+A TOOLKIT FOR EVALUATING THE EFFECTIVENESS
+
+OF PARLIAMENTARY PUBLIC ENGAGEMENT
+
+DR SARAH MOULDS*
+
+There is a growing acceptance among Australian parliaments that enhancing the quality and diversity of engagement between the public and Australian parliaments is essential to preserving trust in democratic institutions and managing community expectations of transparency and accountability for parliamentary lawmaking and government decision-making. In the wake of the COVID-19 pandemic, digital engagement techniques became increasingly attractive to parliaments with the potential to improve both the quality and efficiency of public engagement in lawmaking, savings, and possible improvements in democratic participation. To capitalise on these potential benefits, and to avoid any unjustifiable risks, parliaments must understand the importance of connecting the people to their parliaments and which practices and technologies could be used to improve the quality and diversity of public engagement with parliaments in Australia. Drawing upon insights shared during a series of international workshops on public engagement by the International Parliamentary Engagement Network (‘IPEN’), this article aims to describe the key ingredients for effective evaluation of public engagement by parliaments and share the toolkit developed by the IPEN workshops.
+
+CONTENTS I Introduction ............................................................................................ 2 II Understanding Public Engagement ........................................................ 4 III The Importance of Connecting People to Parliaments ........................... 6 IV Innovations Designed to Enhance the Diversity and Quality of Public Engagement .................................................................................................... 10
+
+A E-petitions ................................................................................... 10 B Partnership-hosted Consultations ................................................ 11 C Citizens’ Juries ............................................................................ 12 D Mini Publics ................................................................................ 13 E Deliberative Software ................................................................. 14 F Voice to Parliament ..................................................................... 15 Evaluating Public Engagement Mechanisms Employed by Australian Parliaments ..................................................................................................... 16 V Conclusion ............................................................................................ 19 VI Appendix: Questions for a Public Engagement Evaluation Toolkit ..... 20
+
+* BIS, LLB, LLM (Adelaide), PhD (Adelaide); Senior Lecturer, School of Law, University of
+
+South Australia.
+
+2 University of South Australia Law Review Vol 5
+
+I INTRODUCTION
+
+August 2020 marked the first time the Australian Parliament relied exclusively on digital means to connect parliamentarians to the communities they represent. This shift towards digital engagement has become increasingly important in the context of the COVID-19 pandemic, where parliaments have been forced to embrace technology to continue their democratic functions. Some parliaments, such as those in Brazil and Spain,1 were able to draw upon past experiences to digitally connect parliamentarians with each other and their constituents. Other parliaments, including in Australia, took longer to ‘move online’,2 diluting their capacity to connect meaningfully with each other and the Australian people. The pandemic is not the only pressure on parliaments to change the way members interact with one another and their constituencies. Distrust in traditional political processes, increasing travel costs and other accessibility factors are causing parliaments around the world to experiment with new ways of connecting.3
+
+There are many reasons why public engagement is beneficial for parliaments, parliamentarians, and the community. Above all, public engagement supports a parliament’s main functions by giving access to the breadth and depth of information and ideas that are needed for representation, lawmaking, public policy formulation, and oversight to meet a society’s expectations and aspirations.4
+
+Fostering a strong and meaningful connection between people and their elected representatives is the central work of any functioning democracy, particularly
+
+1 European Parliament, ‘Remote voting in the European Parliament and national parliaments’ (Research Note, 25 March 2020) <https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/649348/EPRS_ATA(2020)649348_EN.pdf> (‘Remote Voting in the European Parliament’).
+
+2 Interparliamentary Union, ‘Preserving parliament’s functionality during the COVID-19 pandemic: Brazil’s experience’ (Innovation Tracker Issue, 20 July 2020) <https://www.ipu.org/innovation-tracker/story/preserving-parliaments-func-tionality-duringcovid-19-pandemic-brazils-experience>.
+
+3 See generally Mark Evans and Gerry Stoker, Saving Democracy (Bloomsbury, 2021); Electoral Reform Society, ‘Share your views on the success of the Virtual Parliament’, Electoral Reform Organisation (Website) <https://www.electoral-reform.org.uk-/share-yourviews-on-the-virtual-parliaments-success>; Remote Voting in the European Parliament (n 1); Michelle Grattan, ‘View from The Hill: 'Virtual' participants and border restrictions will make for a bespoke parliamentary sitting’, The Conversation (Web Page) 17 August 2020; Carolyn M Hendriks, Sue Regan and Adrian Kay, ‘Participatory Adaptation in Contemporary Parliamentary Committees in Australia’ (2019) 72(2) Parliamentary Affairs 267; Phil Parvin, ‘Is Deliberative Democracy Feasible? Political Disengagement and Trust in Liberal Democratic States’ (2015) 98(4) The Monist 407.
+
+4 Inter-Parliamentary Union, Public engagement in the work of parliament, InterParliamentary Union and United Nations Development Programme (Global Parliamentary Report, 2022) 8 (‘IPU Report’).
+
+Vol 5 Sarah Moulds 3
+
+in times of crisis.5 When this connection is effective and meaningful, deliberation can occur, and public lawmaking is informed by the insights and experiences of the people.6
+
+Over the past decade, Westminster-inspired parliaments in Australia, New Zealand (‘NZ’), Ireland, and the United Kingdom (‘UK’) have been experimenting with new ways of connecting with the people they represent. This includes through the work of parliamentary committees, which have been active sites of public lawmaking in Westminster-inspired parliaments.7
+
+During the COVID-19 pandemic, digital engagement techniques such as secure video conferencing and legislation tracking apps, have become increasingly attractive to parliaments with the potential to improve both the quality and efficiency of public engagement in lawmaking. These improvements, in turn, have led to cost savings and possible improvements in democratic participation.8 To capitalise on these potential benefits, and to avoid any unjustifiable risks, society must better understand why it is important for people to be connected to the parliamentary lawmaking process. This could be supported by increased awareness as to which strategies and tools could be used to improve the quality and legislative impact of public engagement with parliaments. While there are some promising case studies of individual experiences with innovative parliamentary public engagement strategies,9
+
+5 Evans and Stoker (n 3) i-v. See also David Beetham, The Legitimation of Power (Palgrave, 2002).
+
+6 Cristina Leston-Bandeira, ‘The Public Engagement Journey’ Centre for Democratic Politics (Blog Post, 25 May 2021) <https://cde.leeds.ac.uk/ 2021/03/24/the-public-engagement-journey/>
+
+7 Hendriks, Regan and Kay (n 3); Parvin (n 3) 407–23.
+
+8 Sarah Moulds, ‘Democratic Scrutiny of COVID-19 Laws: Are Parliamentary Committees Up to the Job?’ (2021) 2 European Journal of Law Reform, 264.
+
+9 See, eg, Nick Vlahos, ‘Power to the people: How Canada can build a more connected and responsive parliament’, The Conversation, Online, 8 November 2022 <https://theconversation.com/power-to-the-people-how-canada-can-build-a-moreconnected-and-responsive-parliament-193687>; Ellie Laing and Iain Walker, ‘New Options for Parliamentary Committees’ (Options Paper, newDemocracy Foundation, 2021); Joint Standing Committee on the Commissioner for Children and Young People Paper, In Their Own Voice, (Discussion Paper, Parliament of Western Australia, 2020) <https://www. parliament.wa.gov.au/parliament/commit.nsf/(Report+Lookup+by+Com+ID)/DCCC517977 1AE5064825862A002A2C78/$file/20201116+-+Discussion+Paper++In+their+own+voice+-++Final+-+with+signature+FOR+WEB.pdf> (‘In Their Own Voice’); Parliament of New South Wales, ‘Parliament Unpacked Program’, (Website Resource) <https://www.parliament.nsw.gov.au/news/Pages/Parliament-Unpacke-d-Acrossthe-Aisles.aspx>; Emma Banyer, ‘The Franking Credits Controversy: House of Representatives Committees, Public Engagement and the Role of the Parliamentary Service’ (2020) 35(1) Australasian Parliamentary Review 1; Nick Vlahos, ‘Prioritizing Opportunities to Enhance Civic Engagement’ Medium (Blog Post, 9 April 2019) <https://cxitoronto.medium.com/inclusive-civic-engagement-in-focus-37670ac7b36>.
+
+4 University of South Australia Law Review Vol 5
+
+there is currently a lack of systematic analysis concerning the evaluation of different parliamentary engagement strategies in Australian parliaments.
+
+This article aims to initiate a conversation on how parliaments might utilise IPEN’s Toolkit for Evaluating the Effectiveness of Parliamentary Public Engagement (‘IPEN Toolkit’).10 The indicators of ‘good’ public engagement will also be considered in light of the recently released Global Parliamentary Report 2022: Public engagement in the work of parliament.11
+
+II UNDERSTANDING PUBLIC ENG AGEMENT
+
+The broad idea of public engagement is about ‘empowering people in relation to their surroundings’12 to make a difference to the decisions and actions that affect their lives.13 In their typology, Rowe and Frewer break down the concept of public engagement into three elements: public communication; public consultation; and public participation.14 Each of these elements is defined in relation to the direction of flows of information according to who initiates understanding and relevance and how those flows of information are received. Leston-Bandeira adds that the step of identification involves citizens perceiving the relevance of parliaments to their own lives and experiences.15 This can lead to participation, but also deliberation, which is a process in which citizens not only participate, but also engage with parliamentarians to lead or significantly shape an activity that contributes to a parliamentary decision.
+
+The idea of deliberation requires that decision-makers have access to accurate and relevant information, consider a diversity of voices and positions, reflect on information received, and reach conclusions based on evidence.16 When applied to lawmaking, this requires lawmakers to go beyond the idea of
+
+10 Note that IPEN was created in 2020 to bring together academics, parliamentary officials and third sector representatives from all over the world who work on public engagement and parliament. IPEN currently has 219 members from over 30 countries. IPEN aims to share good practice, identify key challenges and ways to address these, promote the exchange of information between practitioners and academics and lead to the enhancement of practices. See ‘Toolkit for Parliamentary Public Engagement’ International Parliamentary Engagement Network (Web Page, 2021) <https://ipen-network.org/> (‘IPEN Toolkit’).
+
+11 IPU Report (n 4) Annex: Case studies and practical guides.
+
+12 Leston-Bandeira (n 6).
+
+13 Ian M Devonshire and Gareth J Hathway, ‘Overcoming the Barriers to Greater Public
+
+Engagement’ (2014) 12(1) Plos Biol 12.
+
+14 Gene Rowe and Lynn Frewer, ‘A Typology of Public Engagement Mechanisms’ (2005) 30(2) Science, Technology and Human Values 255.
+
+15 Leston-Bandeira (n 6).
+
+16 James Fishkin, When the People Speak: Deliberative Democracy and Public Consultation (Oxford University Press, 2009) 39.
+
+Vol 5 Sarah Moulds 5
+
+‘trading off’ values or interests of one group against another, and instead engage in an active search for a common ground between different values or interests.17 This, in turn, sees decision-makers engaging in reflection which may lead them to change their views on important matters.
+
+During a 2021 international workshop on public engagement and parliaments, scholars and practitioners from around the world devised the following metrics of public engagement: inclusivity; diversity of participation; empowerment; flexibility; meaningfulness; openness and transparency and collaboration.18
+
+These themes are also reflected in the findings of the Inter-Parliamentary Union’s the IPU Report which described effective engagement as being:
+
+1. Strategic: Embed a culture of engagement across parliament for a united and concerted effort towards broader and better public participation.
+
+2. Inclusive: Make inclusion a priority so that parliament is accessible to all community members.
+
+3. Participatory: Encourage people to participate in setting the agenda through opportunities to influence the issues taken up by parliament.
+
+4. Innovative: Lead with bold and creative approaches that involve and inspire the community to engage with parliament now and into the future.
+
+5. Responsive: Focus on meeting public expectations by listening to community feedback and continually improving.19
+
+Participants also explained that facilitating good quality engagement did not mean ‘asking everyone all the time’ but rather ensuring quality encounters, allowing time for meaningful dialogues, and openness to changing positions. While this is a challenge for some highly politicised environments like Parliaments, there are many recent and local examples of efforts to develop and implement public engagement strategies with these features.20 Participants from the Australasian region, who gathered online to discuss their public parliamentary engagement experiences, were keen to note that when undertaking ‘public engagement’ in Australia, it must be recognised that the Australian public is not one homogenous group, but rather a complex and
+
+17 Ron Levy and Graeme Orr, The Law of Deliberative Democracy (Routledge, 2016).
+
+18 IPEN Toolkit (n 10).
+
+19 IPU Report (n 4) 8.
+
+20 See, eg, In Their Own Voice (n 9); Emma Banyer, ‘The Franking Credits Controversy: House
+
+of Representatives Committees, Public Engagement and the Role of the Parliamentary Service’ (2020) 35(1) Australasian Parliamentary Review 1; Vlahos (n 9).
+
+6 University of South Australia Law Review Vol 5
+
+dynamic intersection of many different ‘publics’, each demanding careful attention when considering engagement strategies and methods.21
+
+Those at the IPEN workshop identified some of the qualities of good public engagement as connecting to the idea of empowering those who have previously been disengaged through inclusive, meaningful communication and building relationships based on listening and trust. This, in turn, demands positive action on behalf of the institution or body seeking to engage another group to not just share information and invite participation, but to relinquish some control over the substantive agenda and the process of engagement. This can be challenging in the case of parliamentary engagement where often both the substantive agenda and the process are intrinsically connected to the institution of a parliament. It can also give rise to mismatches in expectations between parliamentarians, parliamentary staff, and public participants. Stoker and Evans find that citizens prefer measures that make politicians more accountable over getting directly involved themselves.22 This is where learning from digital and other innovations employed by parliaments around the world can offer Australia a pathway forward to improving the quality of its engagement between society and parliaments.
+
+III THE IMPORTANCE OF CONNECTING PEOPLE TO
+
+PARLIAMENTS
+
+As Evans and Stoker explore in Saving Democracy, Australia is at a critical juncture when it comes to public trust and satisfaction with democratic institutions and practices.23 In the last decade, a significant decline has been
+
+seen in public trust for parliaments and other public institutions,24 but the recent COVID-19 experience has seen a shift in the way citizens are viewing and interacting with their elected representatives. This has led Evans and
+
+Stoker, Hendriks and Kay25 and Laing and Walker,26 to:
+
+21 See, eg, Gabrielle Appleby and Eddie Synot ‘A First Nations Voice: Institutionalising
+
+Political Listening’ (2020) 48(4) Federal Law Review 529, 529-42; Dani Larkin, ‘Membership Models for an Indigenous Voice: What does representation mean for First Nations?’ Indigenous Constitutional Law Blog (Blog Post, 11 March 2021) <https://www.indigconlaw.org/home/membership-models-for-an-indigenous-voice-whatdoes-representation-mean-for-first-nations>.
+
+22 Evans and Stoker (n 3) 130–1.
+
+23 Mark Evans and Gerry Stoker, Saving Democracy (Bloomsbury, 2021) i-v.
+
+24 See Robert Foa et al, The Global Satisfaction with Democracy Report 2020 (Report, January
+
+2020) <https://www.bennettinstitute.cam.ac.uk/publications/-global-sati sfaction-democracy-report-2020/>.
+
+25 Hendriks, Regan and Kay (n 3).
+
+26 Laing and Walker (n 9).
+
+Vol 5 Sarah Moulds 7
+
+[I]gnite a national conversation on how we can bridge the trust divide between government and citizen, strengthen democratic practice, and restore the confidence of Australians in the performance of their political institutions.27
+
+It is not just Australia that needs to ignite this type of national conversation. As the IPU Report provides:
+
+Since parliaments derive their legitimacy from the people, public disenchantment threatens their authority. As representative institutions, parliaments are duty-bound to listen to the community and to meet public expectations when making laws, investigating public policy issues and holding the government to account. For decades now, parliaments have been working on ways to better engage with the communities they represent. Public engagement can take many forms and can be conducted either directly with individual community members or through organized groups. It encompasses the various processes and activities through which parliament connects with the community – to inform, educate, communicate, consult and involve. Declining trust in public institutions means that parliaments cannot simply continue with business as usual. It challenges parliaments to assess the progress they have made and to step up their efforts at engagement. Reversing the trend of disenchantment requires concerted action going forward.28
+
+Identifying different tools and strategies for public engagement, and the reasons they are effective is a critical component of the national parliamentary engagement conversation and is essential to improve the quality of deliberation and connection that citizens feel for Australian parliaments.29 This type of citizen connection to parliaments can also improve the quality of the laws and policies made by elected representatives by incentivizing and encouraging deliberative lawmaking based on ‘decision-making through discussion among free and equal citizens [rather than] simply the aggregation of [political] preferences.’30
+
+By engaging with the public, parliaments and parliamentarians deliver their fundamental democratic duty ‘to uncover and publicise issues of public concern’. When parliaments make efforts to consult with the public, they provide effective representation both to majority and minority views and serve the public interest.31
+
+27 Evans and Stoker (n 3) i.
+
+28 IPU Report (n 4) 10.
+
+29 John Dryzek and Simon Niemeyer, ‘What is deliberative democracy?’ (Deliberative
+
+Democracy Webblogs, 15 February 2021) <https://deldem.weblogs.anu.edu.au/2012/02/15/what-is-deliberative-democracy/>
+
+30 Jon Elster, Deliberative Democracy (Cambridge University Press, 1st ed, 1999) 1.
+
+31 Patrick Dunleavy, Alice Park and Ros Taylor, The UK's Changing Democracy : the 2018
+
+Democratic Audit (LSE Press, 1st ed, 2018).
+
+8 University of South Australia Law Review Vol 5
+
+In Laing and Walker’s recent work, New Options for Parliamentary Committees, which was prepared for committee chairs within the NSW Parliament, the authors described some of the benefits of deliberative approaches to parliamentary decision-making as follows:32
+
+❖ Better policy outcomes because deliberation results in considered public judgements rather than public opinions.
+
+❖ Greater legitimacy to make hard choices.
+
+❖ Enhance[d] public trust in government and democratic institutions by giving citizens an effective role in public decision-making.
+
+❖ Make[s] governance more inclusive by opening the door to a much more diverse group of people.
+
+❖ Help[s] counteract polarisation and disinformation.33
+
+❖ Similar benefits of effective parliamentary public engagement have also been identified by the NZ Parliament when it evaluated the effectiveness of its 2018– 2021 public engagement strategy.34 It found that during the 2019 and 2020, when explicit public engagement strategies were employed:
+
+➢ Parliament’s reputation improved (up from 53.9 to 61.2 points, on a scale from 10 to 100).
+
+➢ New Zealanders were more likely to advocate for Parliament (up from 10 per cent to 15 per cent).
+
+➢ People were less likely to be critical of Parliament (down from 22 per cent to 15 per cent).
+
+➢ Commitment to voting increased sharply (up from 18 per cent to 32 per cent).
+
+➢ Refusal to vote decreased (down from 17 per cent to 8 per cent).35
+
+The IPU Report stated that:
+
+Public engagement matters because it is mutually beneficial for communities, for parliaments as institutions and for individual members of parliament (MPs). It enables parliaments to create better laws and policies by tapping into wider sources of information. It cultivates knowledge in communities and improves the quality of decision-making. It also allows closer monitoring of policy implementation. And in doing so, it sustains representative democracy in a rapidly changing world.36
+
+Flow-on benefits associated with improving the quality of public engagement with parliamentary lawmaking include improving Australia’s international
+
+32 Laing and Walker (n 9) 11.
+
+33 Ibid.
+
+34 New Zealand Parliament, Survey of the New Zealand Public: January 2021 (Report, January
+
+2021).
+
+35 IPU Report (n 4) 15.
+
+36 Ibid.
+
+Vol 5 Sarah Moulds 9
+
+standing with respect to a range of heuristics employed by the UN Human Rights. This aligns with Australia’s international law obligations, including article 21 of the United Nations Declaration on Human Rights which protects the right of all persons to participate in public affairs. Exploring and experimenting with new ways of connecting the people to parliaments may also have a range of practical benefits for parliamentarians themselves. For example, early studies suggest parliaments that adopt new technology can have benefits in terms of promoting diversity in parliamentary processes. Early data from the House of Lords suggests that there were more debates and more contributions from female MPs when technology is used to promote public engagement with parliamentary processes. Scottish National Party MP, Kirsty Blackman, has noted that remote parliamentary engagement provisions have made it easier for MPs with disabilities to participate in decision-making processes.37 Other research suggests that digital forms of public engagement with parliaments can improve the diversity and quality of public engagement through reducing travel time and related costs for MPs and their staff, improve participation for underrepresented groups (including women, carers, and persons with disabilities), and improve the deliberative quality of democratic lawmaking.38
+
+The need for a deliberative approach to parliamentary lawmaking and to public engagement was also recognised as a high priority by those working within Australian parliaments at the Australian Hub of the IPEN workshops hosted on 26 March 2021. These discussions generated a common view that improving parliamentary public engagement is not an option but a necessity for modern democracies like Australia, and that Australian parliamentarians should make this a key priority to engage young people, First Nations people, and other vulnerable groups.39 There was also an agreement at the IPEN workshops to commit to improving the quality of public engagement and deliberation within Australian parliaments. This should not be misunderstood as ‘asking everyone all the time’, but rather ensuring quality encounters, time for meaningful dialogues and exchanges and openness to changing positions. It was also considered important to recognise that, as Hendriks, Regan and Kay opine, there is not one ‘public’ but many ‘publics’ and each public demands careful attention when considering engagement strategies and methods.40 For
+
+37 Electoral Reform Society, ‘Share your views on the success of the Virtual Parliament’,
+
+Electoral Reform Org (Web Page, 28 May 2020) <https://www. electoral-reform.org.uk/share-your-views-on-the-virtual-parliaments-success/>.
+
+38 See, eg, Remote Voting in the European Parliament (n 1).
+
+39 Sarah Moulds, ‘Connected Parliaments: An International Conversation on Public Engagement
+
+and its Impact on Parliaments’ (2021) 36(1) Australasian Parliamentary Review 109.
+
+40 Hendriks, Regan and Kay (n 3).
+
+10 University of South Australia Law Review Vol 5
+
+example, First Nations peoples must have the opportunity not just to be listened to in response to parliamentary activity, but to have an active voice in the way that Australian parliaments work, engage with, and exercise legal and political sovereignty over First Nations peoples.41
+
+In this context, evaluating engagement strategies and looking for impact beyond the immediate success or failure of a particular technique or inquiry is critical to ensure that Australian parliaments accurately capture the resources required to do things better in the future, and to make the case for more investment in the right engagement activities.42
+
+IV INNOVATIONS DESIGNED TO ENHANCE THE DIVERSITY
+
+AND QUALITY OF PUBLIC ENGAGEMENT
+
+There are a wide range of tools and strategies that can be employed by parliaments to improve the quality and diversity of public engagement.43 The suitability of each of these tools and strategies for any parliament or group within a parliament will depend on a range of factors including institutional context and the key attributes of the public or publics that the parliament is trying to reach.44 However, before introducing the factors that might help a parliament select or evaluate a particular tool or strategy, it is useful to provide a snapshot of some of the different innovations currently being explored or employed in Australia or in comparable jurisdictions to help illustrate the continuum of possibilities and experiences that can be drawn upon when developing local options.
+
+A E-petitions
+
+Petitioning the Parliament is a long-established, direct, and lineal form of public engagement initiated by a citizen or group who asks the a parliament to take specific policy or legislative action. Historically, petitions have needed to be presented in writing and adhere to a specific physical form; however, since 2016, the Australian Parliament has accepted ‘e-petitions’ which has resulted in an exponential increase in petitions being considered by the House Petitions’
+
+41 See, eg, Appleby and Synot (n 21); Larkin (n 21).
+
+42 See, eg, Sarah Moulds Committees of Influence (Springer, 2020) ch 10.
+
+43 A range of other examples are summarised in this video produced by the Inter-Parliamentary
+
+Union’s Centre for Innovation in Parliament (Website, July 2021) Inter-Parliamentary Union, ‘Innovation in Parliament’ (Youtube, 21 July 2021 AEST) <https://www.youtube.com/watch?v=ZFeqcl828wQ&list=PLLwJpE_Efv M49JX-xS8mrPjnp-Au7ZtaY&index=6>.
+
+44 See, eg, Ryan Kennedy et al, ‘Demographics and (Equal?) Voice: Assessing Participation in
+
+Online Deliberative Sessions’ (2021) 69(1) Political Studies, 66-88; Simone Chambers and John Gastil, ‘Deliberation, Democracy, and the Digital Landscape’ (2021) 69(1) Political Studies 2021 3, 3-6.
+
+Vol 5 Sarah Moulds 11
+
+Committee and referred to Australian Government ministers each year.45 The e-petitions system enables members of the public to submit and sign petitions online, and to track the progress of petitions as they are presented.46 This form of digital public engagement aligns strongly with conventional parliamentary practices and cultures and is well-suited to already activated individuals or organisations seeking to shape the legislative or policy agenda. However, it lacks many of the deliberative features present in other forms of public engagement.47 For this reason, it is often used as a supplement (or sometimes a so-called ‘trigger point’) for other public engagement strategies.48
+
+B Partnership-hosted Consultations
+
+Parliamentary committees have long been the site of engagement between citizens and members of parliament, particularly committees with broad powers of inquiry.49 While these groups of parliamentarians have traditionally called for written submissions through print media or direct written invitation, parliamentary committees have been experimenting with innovative new ways to reach different or more diverse audiences. This includes using digital communication tools (including websites, social media, and video conference technology) to receive input from the community, facilitate public hearings, and share information about outcomes.50 Some parliamentary committees, including those within the Scottish Parliament, have also engaged with community-based partners to facilitate the collection of evidence from ‘hard
+
+45 See UK Parliament Committees (Website) <https://committees.parliament.uk/ committee/326/petitions-committee/>.
+
+46 See Australian Parliament ‘House of Representatives Powers, Practice and Procedure
+
+InfoSheet 11 Petitions’ South Australian Parliament: Petitions (Web Page, 2022) <https://www.aph.gov.au/About_Parliament/House_of_Representat ives/Powers_practice_and_procedure/00_-_Infosheets/Infosheet_11_-_Petitions>. See also Josephine Moa ‘Conduits Between Parliament and People: Does Referring Petitions to Committees Improve Citizen Participation’ (2021) 36(1) Australasian Parliamentary Review 87.
+
+47 House of Commons ‘House of Commons Petitions Committee’ House of Commons
+
+Committees (Website, 2018) <https://committees.parliament.uk/committee/326/ petitions-committee/>.
+
+48 Josephine Moa ‘Conduits Between Parliament and People: Does Referring Petitions to
+
+Committees Improve Citizen Participation’ (2021) 36(1) Australasian Parliamentary Review 87.
+
+49 For an example of a recent discussion of this interface between parliamentary committees and
+
+the public, see John Aliferis and Anita Mackay ‘Disrupting Consensus in Parliamentary Committees? Minority Reports and a Taxonomy for Classifying Them’ (2021) 36(1) Australasian Parliamentary Review 61.
+
+50 Sarah Moulds, ‘As the First ‘Remote’ Sitting Starts in Canberra, Virtual Parliaments Should
+
+be the New Norm, Not a COVID Bandaid’, The Conversation (Web Page, 24 August 2020) <https://theconversation.com/as-the-first-remote-sitting-starts-in-canberra-virtualparliaments-should-be-the-new-norm-not-a-covid-bandaid-144737>.
+
+12 University of South Australia Law Review Vol 5
+
+to reach’ audiences and to help inform committee processes. For example, the Scottish Health and Sports Committee partnered with community organisations to hear from a group with a wide range of disabilities (both learning and physical) to ensure that different perspectives were included.51 This included using venues provided by the partner organisations to ensure that a safe and familiar space was created which was fully accessible for all participants. It also meant that the event was carefully planned and tailored to the needs of the participants using staff knowledge to ensure that all the participants would be able to access and deliberate the information being presented to them, and that support was readily available from experienced, well-trained staff.52 Following the four consultation events across the UK, participants were asked to complete feedback. Out of the respondents, 89% rated the event as ‘good’ or ‘excellent’ and 83% felt that their views would assist in shaping the committee’s inquiry.53
+
+C Citizens’ Juries
+
+A more deliberative, cyclical form of public engagement is the use of citizens’ juries either as a supplement to conventional parliamentary committee inquiries, or as a pre-legislative or post-legislative form of engagement on a particular policy issue or question. Citizens’ juries typically include a process where a selected group of individuals work together to find an agreement on recommendations that answer their given remit and settle on who they trust to inform, agree regarding themes and priorities, and develop key evaluation criteria for used to judge government, experts, and their own proposals. This involves ‘having everyday citizens identify and explain critical trade-offs with the aim of increasing public trust in potentially controversial recommendations.54
+
+When used in a parliamentary setting, this option has the potential to engage citizens and members of a parliament in a long-form deliberative process. For this reason, some consider citizens’ juries to be the international gold standard for deliberative processes. For example, citizens’ juries have been recommended by the Organisation for Economic Co-operation and
+
+51 Scottish Parliament, Health and Sport Committee, ‘Phase 1 Report: What should primary care
+
+look like for the next generation?’ (SP Paper 570, 3 July 2019), <https://sp-bpr-en-prodcdnep.azureedge.net/published/HS/2019/7/3/What-should -primary-care-look-like-for-the-next-generation-/HSS052019R9.pdf>.
+
+52 Ibid.
+
+53 Ibid.
+
+54 Laing and Walker (n 9) 10.
+
+Vol 5 Sarah Moulds 13
+
+Development and supported by the United Nations Democracy Fund.55 Citizens’ juries have been employed by several local councils and governments within Australia to explore contentious policy issues or policy choices that involve significant trade-offs.56 When used in conjunction with conventional parliamentary committee processes, citizens’ juries provide parliamentary committees with what could be described as an ‘insider view’ as to how citizens may answer the complex policy questions parliamentarians regularly face.
+
+D Mini Publics
+
+An alternative way to conceptualise citizens’ juries is the idea of a mini-public which is the process of having small groups of randomly selected citizens becoming informed about and deliberating on policy issues. Under this model, witnesses provide evidence to inform participants about the issue, then the participants engage in facilitated deliberation and make recommendations.57 This model was used by six separate House of Commons select committees to develop the Climate Assembly of UK (‘Assembly’),58 which is a citizens’ assembly tasked with ‘providing recommendations on how the UK can achieve the Government’s legally binding target of achieving Net-Zero greenhouse gas emissions by 2050’.59 The 108-person Assembly was ‘guided through a process of learning, deliberation, and voting by a team of external experts, advocates, and facilitators’.60 An independent evaluation of the Assembly concluded that it was a ‘highly valuable process that enabled a diverse group of UK citizens to engage in parliamentary scrutiny of government on climate
+
+55 See, eg, Organisation for Economic Co-operation and Development, Working Party on Open
+
+Government ‘Bringing public judgement to democracy: Eight models of representative public deliberation implemented across OECD Member countries’ OECD (OECD Report, GOV/PGC/OG6).
+
+56 See, eg, Nicole Moretto et al, ‘Yes, the government should tax soft drinks: findings from a
+
+citizens' jury in Australia’, (2014) 11(3) International Journal of Environmental Research and Public Health 2456; Adriana Parrella et al, ‘Prioritizing government funding of adolescent vaccinations: recommendations from young people on a citizens’ jury’, (2016) 34(31) Vaccine, 3592–3597.
+
+57 See, eg, Chris Riedy and Jenny Kent, ‘Systemic Impacts of Mini-publics. Report prepared for
+
+new Democracy Foundation’ (Report, Institute for Sustainable Futures, 2017); Claudia Chwalisz, The People's Verdict: Adding Informed Citizen Voices to Public Decision-Making (Rowman & Littlefield Publishers, 2017).
+
+58 Note that the committees referred to are: the House of Commons; the Business Energy and
+
+Industrial Strategy (BEIS); Environmental Audit; Housing, Communities and Local Government, Science and Technology; Transport; and Treasury.
+
+59 See Stephen Elstub et al, ‘Evaluation of Climate Assembly UK’ (Report, Newcastle
+
+University, 2021).
+
+60 Ibid.
+
+14 University of South Australia Law Review Vol 5
+
+policy in an informed and meaningful manner’. For the evaluators, the UK Parliament ‘should seek to establish more citizens’ assemblies in the future to feed into the scrutiny work of their select committee system’.61 Mini-publics have also been used by the Scottish Parliament,62 including the Citizens’ Jury on Land Use and Management and the Citizens’ Assembly on Social Care which was commissioned by select committees from the House of Commons. When these experiences were evaluated, the following key recommendations were made about the future use of the mini-public in the parliamentary context:
+
+❖ Provide for a steering group to support the organisation and management of the mini-public to provide diverse evidence and perspectives as well as process independence.
+
+❖ Ensure that evidence is provided to the ‘mini-public' provided by a diverse range of expert witnesses in a diverse range of formats.
+
+❖ Support participants by a neutral expert lead, who can provide training in critical thinking and neutral background information.
+
+❖ Encourage participation by committee members and where appropriate welcome
+
+members of the ‘mini-public’ into committee meeting to enhance their sense of value in the process.63
+
+As with many other deliberative experiments and innovations, mini-publics face many challenges and have been subject to robust evaluation, including by scholars such as Lafont who warns against their use except in very specific circumstances and conditions, arguing that if they are employed more broadly as a form of political decision-making they could diminish, rather than increase, the legitimacy of the deliberative system as a whole.64
+
+E Deliberative Software
+
+Numerous parliaments around the world have employed deliberative software to support more conventional forms of public engagement including parliamentary committee inquiries in conjunction with other deliberative techniques such as citizens’ juries and mini-publics.
+
+Liquidfeedback is an example of deliberative software that was developed in Germany and has been used around Europe by public and private organisations. It is designed to facilitate direct citizen participation in
+
+61 Ibid.
+
+62 Nick Bland, ‘Local solutions to local problems: innovation in public participation’ What
+
+Works Scotland (Report, May 2017). See also Chwalisz (n 57).
+
+63 See Elstub et al (n 59).
+
+64 Lafont, Cristina, ‘Deliberation, Participation, and Democratic Legitimacy: Should Deliberative
+
+Mini-Publics Shape Public Policy?’ (2015) 23(1) The journal of political philosophy 40, 41.
+
+Vol 5 Sarah Moulds 15
+
+democratic decisions without the need for a parliamentary staff member being a facilitator of online contributions. Liquidfeedback can be used by citizens or parliaments to disseminate information about an idea, policy, or legislative proposal and to test its popularity or merit through a system of feedback and voting.65 It can also be used to generate alternative options as participants can determine whether suggestions from other participants should be implemented into the initiative. Based on these suggestions, Liquidfeedback provides quantified feedback that gives the initiator an idea of how to gain more support.66 Liquidfeedback offers a preferential voting system that allows users to not only vote ‘yes’ or ‘no’, but also to indicate preferences such as favourites and second choices.67 The voting process determines the collective preference of the participants. The software also enables participants to choose to delegate their vote to someone else that they trust.
+
+Deliberative software like LiquidFeedback has the potential to incorporate elements of direct and representative democracy. Every member can make, comment, and vote on proposals, or delegate their vote to another member who is assumed to be qualified in the respective subject area. The more delegating votes a member gains, the greater the weight of their vote. Some have described deliberative software like Liquidfeedback as contributing to a trend known as the ‘gamification’ of online public engagement strategies.68 In other words, these digital innovations provide participants with the type of visual and psychological rewards that come from other forms of online interactions (such as video gaming), but in the context of deliberative decision-making.
+
+F Voice to Parliament
+
+When reflecting on public engagement strategies, Australian parliaments must also reflect on whether they are providing space for self-determined or codesigned engagement to occur, particularly in relation to First Nations peoples.
+
+The Uluru Statement from the Heart (‘Uluru Statement’) provides the House of Representatives and the Senate with a unique opportunity to explore how to facilitate self-determined engagement with the culture of First Nations people and could prompt experimentation with other ways of
+
+65 Alice K Pieper and Michael Pieper, ‘Political Participation via Social Media: A Case Study
+
+of Deliberative Quality in the Public Online Budgeting Process of Frankfurt/Main, Germany 2013’ (2014) 14(4) Universal access in the information society 487; Christian Blum and Christina I Zuber, ‘Liquid Democracy: Potentials, Problems, and Perspectives’ (2016) 24(2) The Journal of Political Philosophy 162.
+
+66 Ibid.
+
+67 Ibid.
+
+68 See, eg, Ibid.
+
+16 University of South Australia Law Review Vol 5
+
+improving diversity of membership by creating a more demographically representative Australian Parliament.69
+
+The Uluru Statement calls for a constitutionally enshrined First Nations Voice to Parliament (‘Voice’) and a Makarrata Commission to supervise a process of agreement-making and truth-telling. The idea of the Voice is a common reform adopted around the world by liberal democracies to improve democratic participation for Indigenous populations. In Australia, the Voice has the potential to empower First Nations people politically. If implemented in the manner set out in the Uluru Statement, it would be a permanent institution for expressing First Nations’ views to the Australian Parliament on important issues affecting First Nations people.70 However, the effectiveness of this type of engagement strategy depends on ensuring its implementation honours the spirit of the Uluru Statement.71 As Appleby and Synot explain, ‘institutional listening relationships that can continue and replicate previous tools of colonial domination’ where the dominant group can give the appearance of listening, but in fact replicate pre-existing power relationships (instead of challenging them) must be avoided if the Voice is to be implemented meaningfully.72
+
+EVALUATING PU BLIC ENGAGEMENT MECHANISMS
+
+EMPLOYED BY AUSTRALIAN PARLIAMENTS
+
+If Australian parliaments are serious about improving the quality and diversity of their public engagement strategies, it is essential that they ask questions about what works, when, and why. This type of evaluation is important even if the assessment is not holistic or suffers from weaknesses in methodology or data inputs because the act of assessing public engagement is an important outward and inward sign that public engagement is valued by a parliament and its staff. Assessing engagement also means that staff members who are actively involved in engagement activities are seen as undertaking a legitimate and
+
+69 See, eg, Gabrielle Appleby and Gemma McKinnon, ‘Indigenous Recognition: The Uluru
+
+Statement’ (2017) 37 Law Society of NSW Journal 36.
+
+70 See, eg, Gabrielle Appleby and Eddie Synot, ‘Constitutional conversation, institutional
+
+listening and the First Nations Voice’ on AUSPUBLAW (4 March 2021).
+
+71 See, eg, John Parkinson, Núria Franco-Guillén and Sebastian de Laile, ‘Did Australia Listen
+
+to Indigenous People on Constitutional Recognition? A Big Data Analysis’ (2022) 57(1) Australian Journal of Political Science 17; Shireen Morris, ‘The Torment of Our Powerlessness: Addressing Indigenous Constitutional Vulnerability through the Uluru Statement’s Call for a First Nations Voice in Their Affairs’ (2018) 41(3) University of New South Wales Law Journal 629; Appleby and Synot (n 21) 529-42; Dani Larkin, ‘Membership Models for an Indigenous Voice: What does representation mean for First Nations?’, (Blog Post, 11 March 2021) <https://www.indigconlaw.org/home/membership-models-for-anindigenou s-voice-what-does-representation-mean-for-first-nations>.
+
+72 Appleby and Synot (n 21). See also Andrew Dobson, Listening for Democracy – Recognition, Representation, Reconciliation (Oxford University Press, 2014).
+
+Vol 5 Sarah Moulds 17
+
+important task and are given the space needed to voice reflections, celebrate success, and raise concerns. Evaluating engagement tools and strategies is also critical to maintaining best practices through embracing innovation. Quantitative and qualitative data around community engagement is becoming increasingly important for institutional and individual performance within parliaments.
+
+While the need for evaluation may be clear, the complex and dynamic nature of parliaments means that evaluating their performance is not always straightforward.73 Many scholars have grappled with these challenges when seeking to evaluate the performance of parliamentary committees in a range of different areas.74 A central complicating factor is how to measure the impact of any particular input or action at the parliamentary end when it comes to interactions by a member of the public with the parliamentary system. For example, if a young person decides to respond to a social media post shared by a parliamentary committee, how can it be determined whether the young person was motivated to respond through social media engagement strategies employed by the committee or other factors (such as the nature of the substantive issue or the young person's lived experience of advocacy)? Similarly, if an e-petition generates 1,000 signatures in favour of legislative change and that legislative change is later enacted by a parliament, how can that parliament measure whether (or to what extent) the e-petition influenced the legislative outcome, rather than some other factor such as a political deal between the government and the crossbench?
+
+73 Meg Russell and Meghan Benton, ‘Assessing the Policy Impact of Parliament:
+
+Methodological Challenges and Possible Future Approaches’ (Conference Paper, Public Service Association Legislative Studies Specialist Group Conference, 24 June 2009), cited in Aileen Kavanagh, ‘The Joint Committee on Human Rights: A Hybrid Breed of Constitutional Watchdog’ in Murray Hunt, Hayley J Hooper and Paul Yowell, Parliaments and Human Rights: Redressing the Democratic Deficit (Hart Publishing, 2015) 131; Michael C Tolley, ‘Parliamentary Scrutiny of Rights in the United Kingdom: Assessing the Work of the Joint Committee on Human Rights’ (2009) 44(1) Australian Journal of Political Science 41; Carolyn Evans and Simon Evans, ‘Legislative Scrutiny Committees and Parliamentary Conceptions of Human Rights’ (2006) 4 Public Law 785; Jennifer Smookler, ‘Making a Difference? The Effectiveness of Pre-Legislative Scrutiny’ (2006) 59(3) Parliamentary Affairs 522. See also George Williams and Daniel Reynolds, ‘The Operation and Impact of Australia’s Parliamentary Scrutiny Regime for Human Rights’ (2016) 41(2) Monash University Law Review 469.
+
+74 See, eg, Aileen Kavanagh, ‘The Joint Committee on Human Rights: A Hybrid Breed of
+
+Constitutional Watchdog’ in Murray Hunt, Hayley Jane Hooper and Paul Yowell, Parliaments and Human Rights: Redressing the Democratic Deficit (Hart Publishing, 2015) 111; Gareth Griffith, ‘Parliament and Accountability: The Role of Parliamentary Oversight Committes’ (Briefing Paper No 12/05, Parliamentary Library Research Service, New South Wales, 2005); John Halligan, ‘Parliamentary Committee Roles in Facilitating Public Policy at the Commonwealth Level’ (2008) 23(2) Australasian Parliamentary Review 135; Michael C Tolley, ‘Parliamentary Scrutiny of Rights in the United Kingdom: Assessing the Work of the Joint Committee on Human Rights’ (2009) 44(1) Australian Journal of Political Science 41.
+
+18 University of South Australia Law Review Vol 5
+
+In many ways, these challenges of evaluation cannot be overcome by using a simple toolkit. By drawing upon the key elements of past frameworks developed in the context of measuring different aspects of parliamentary performance, it is possible to forge a pathway through some of the seemingly intractable barriers to meaningful measurement.
+
+By maintaining steady focus on the institutional context and culture in which the engagement takes place, it is possible to generate a risk profile for a particular engagement strategy that is responsive to the past experiences and current resources of a particular parliament or group within the parliament. In addition, through carefully identifying the role, functions, and objectives of the group being sought to engage, it is possible to begin to identify key publics that should form the focus of the engagement strategy, as well as practical limitations such as timeframes and access to digital tools. Then, by explicitly identifying and understanding the key participants within the publics that are the focus on the engagement (including their cultural background and lived experiences relevant to the parliament and the topic of engagement), it is possible to anticipate and reflect upon what engagement strategies will be seen as legitimate,75 accessible, and meaningful by a diverse range of relevant participants.76
+
+With this context in mind, it is possible to begin to isolate and evaluate different ‘impacts’ arising from the engagement strategy that was employed. The precise nature of these impacts can be refined to respond to the institutional context and purpose of the engagement but may typically include:77 (i) legislative impact (whether the engagement has directly changed the content of a law); (ii) public impact (whether the engagement has influenced public or parliamentary debate on a particular issue or decision); and (iii) hidden impact (whether those working behind the scenes developing or planning laws have changed their practice or approach).
+
+75 See Cristina Leston-Bandeira, ‘The Pursuit of Legitimacy as a Key Driver for Public
+
+Engagement: The European Parliament Case’ (2014) 67(2) Parliamentary Affairs 437. See also David Beetham, The Legitimation of Power (Palgrave Macmillan, 2002); Allan Buchanan, ‘Political Legitimacy and Democracy’ (2002) 112(4) Ethics 689; Immanuel Kant, Practical Philosophy (Cambridge University Press, Mary J Gregor ed, 1999); Jack Knight and James Johnson, ‘Aggregation and Deliberation: On the Possibility of Democratic Legitimacy’ (1994) 22 Political Theory 277; Bernard Manin, ‘On Legitimacy and Political Deliberation’ (1987) 15 Political Theory 338.
+
+76 Pauline Painter, ‘New Kids on the Block or the Usual Suspects?: Is Public Engagement with
+
+Committees Changing or is Participation in Committee Inquires Still Dominated by a Handful of Organisations and Academics?’ (2016) 31(2) Australasian Parliamentary Review 67.
+
+77 Philippa Webb and Kirsten Roberts, ‘Effective Parliamentary Oversight of Human Rights: A
+
+Framework for Designing and Determining Effectiveness’ (Seminar Paper, Dickson Poon School of Law, King’s College London, University of London, June 2014) 3 <https://www.kcl.ac.uk/sspp/policy-institute/projects/gove rnment/assets/Human-Rights-Policy-DocumentV5.pdf>.
+
+Vol 5 Sarah Moulds 19
+
+This tiered approach to evaluating public engagement also aligns with the feedback received from practitioners and academics during the IPEN workshops in March 2021 which highlighted the need to integrate evaluation into each stage of any engagement strategy, beginning with the planning stage. This is essential to ensure that the appropriate data is collected to enable meaningful evaluation to take place.
+
+Some key questions that should form part of an evaluation toolkit for public engagement with parliaments are set out in the appendix below.
+
+V CONCLUSION
+
+Australian parliaments have an institutional duty to facilitate representative democracy and preserve the rights of the Australian people to communicate directly with their elected representatives.78 This means embracing techniques that enable parliaments to reach beyond the well-resourced, politically-savvy ‘usual suspects’ when it comes to engaging with the Australian community on matters of public interest. This is critical for Australia’s diverse, modern democracy where geographical location, socio-economic status, and diverse lived experiences can work to marginalise or isolate individuals or communities from the work of parliaments.
+
+In this context, evaluating engagement strategies and looking for impact beyond the immediate success or failure of a specific technique in the context of a particular inquiry is critical to ensure that Australian parliaments accurately capture the resources required to improve in the future, and to make the case for more investment in the most effective engagement activities.79 This type of reflective practice is particularly important in the immediate aftermath of public crisis or emergency measures such as those employed in response to the COVID-19 pandemic.80
+
+Thinking outside the box is part of the solution. Parliaments should go out to the people instead of the people having to come into parliaments.81
+
+78 Elaine Thompson, ‘The Senate and Representative Democracy’ (Senate Brief No 10,
+
+Parliamentary Library, Parliament of Australia, 1998).
+
+79 Moulds (n 42) chs 8-9.
+
+80 Felix Butzlaff and Sören Messinger-Zimmer, ‘Undermining or Defending Democracy? The
+
+Consequences of Distrust for Democratic Attitudes and Participation’ (2019) 14(3) Critical Policy Studies 1, 1–18; Carolyn M Hendriks and Jennifer Lees-Marshment, ‘Political Leaders and Public Engagement: the Hidden World of Informal Elite–Citizen Interaction’ (2019) 67(3) Political Studies 539, 597-617.
+
+81 See, eg, Carolyn M Hendriks, S Ercan, and J Boswell Mending Democracy: Democratic
+
+Repair in Disconnected Times (Oxford University Press, 2020); Carolyn M Hendriks; The Politics of Public Deliberation: Citizen engagement and interest advocacy (Palgrave, 2011).
+
+20 University of South Australia Law Review Vol 5
+
+Empowering different groups of people to initiate their own forms of engagement to set agendas, define terms of reference, and identify key players may also assist in overcoming existing barriers to effective and diverse public engagement.
+
+In many conventional parliamentary engagement practices such as the processes employed by parliamentary committees, there is often a sense of rigid constraint on processes and procedures and stepping outside of these constraints can attract criticism for parliamentary staff about impartiality and independence. However, there is a pressing need to move beyond conventional modes of engagement to reach those who have been ignored or excluded from these processes.82 Developing separate teams of experts and clear strategies and evaluation toolkits can support parliamentary staff to develop appropriate strategies in these areas. By sharing examples of what works across jurisdictions through groups like IPEN and the Australasian Study of Parliament Group, Australian parliaments will continue to fine-tune and innovate their community engagement strategies to better represent the Australian people and their views.
+
+VI APPENDIX: QUESTIONS FOR A PUBLIC ENGAGEMENT
+
+EVALUATION TOOLKIT
+
+Planning – before engagement commences
+
+❖ Why are we doing this and how will we know if it ‘works’? ❖ Who wants to engage? ❖ Why are we engaging? What is our purpose? ❖ What resources do we have? ❖ What timeframes are we working under? ❖ How will we know when we have achieved our purpose? ❖ What evidence will we be looking for to measure success? ❖ At what point in the decision-making process should we engage? ❖ At what point should we attempt to measure the impact or value of the
+
+engagement?
+
+Who are the key publics/groups with whom we wish to engage?
+
+❖ How did we select these publics or groups? ❖ How can we learn about their lived experience and their needs? ❖ What information do they already have about us and our institution? ❖ How do they currently access information about us?
+
+82 See, eg, Cristina Leston-Bandeira, David Bender ‘How Deeply Are Parliaments Engaging on
+
+Social Media?’ (2013) 18(4) Information Polity 281; Alex Prior and Cristina LestonBandeira, ‘Parliamentary storytelling: a new concept in public engagement with parliaments’ (2022) 28(1) The Journal of Legislative Studies 67; Moulds (n 50).
+
+Vol 5 Sarah Moulds 21
+
+❖ What are their past experiences of participation or engagement? ❖ How can we generate an environment of trust? ❖ How can we facilitate self-determined engagement? ❖ How will we collect demographic information about this group of
+
+participants to enable evaluation?
+
+Information
+
+❖ What information do we assume the public has? ❖ What types of information do we need to share to enable engagement on
+
+this issue? ❖ How are we going to share this information? ❖ How will we know if the right people have access to this information? ❖ What types of information will we collect from the public/groups? ❖ How will we rank or prioritise information collected from the
+
+public/group? ❖ How do we intend to use the information we get from public engagement
+
+activities? ❖ How do we intend to provide feedback about outcomes to those we engage
+
+with?
+
+Participation and Consultation
+
+❖ Identify the method or medium of participation. ❖ Test accessibility having regard to profile of publics/groups. ❖ Test legitimacy among relevant publics/groups. ❖ Whose voices are being left out and why? ❖ How will we track people’s engagement journey beyond this experience?
+
+Evaluation: during and after engagement occurs
+
+❖ Why did we engage? [institution-based inquiry and reflection] ❖ What was our original purpose for engaging? ❖ Has that purpose changed?
+
+What engagement techniques did we employ?
+
+❖ What information did we share? ❖ What information did we collect? ❖ How did we communicate? ❖ How did people participate? ❖ What preferences did those participating display for different modes of
+
+participation?
+
+Who engaged with us? [largely quantitative]
+
+❖ How many people/organisations participated? ❖ What demographic information did we collect?
+
+22 University of South Australia Law Review Vol 5
+
+❖ Did we reach the publics/groups we wanted to reach?
+
+What resources did we use (or save) when undertaking this engagement? [largely quantitative]
+
+❖ What human/staffing resources were deployed? ❖ What technical and other resources were deployed? ❖ What investments were made to facilitate future engagement? ❖ What cost savings or efficiencies were identified during the engagement?
+
+How long did the engagement take? [largely quantitative]
+
+❖ Is the engagement ongoing? ❖ Did we start and end the engagement at the right point in the process? ❖ How much time did we allocate to: (a) planning; (b) development and
+
+distribution of information; (c) supporting participation and consultation; and (d) evaluation? ❖ What other time frames were we subject to when undertaking this
+
+engagement?
+
+Was the engagement experience seen as legitimate and valuable by key participants? [largely qualitative]
+
+❖ What did those we engaged with think about the engagement experience? ❖ Did we seek or receive any feedback about whether they would interact
+
+with us again? ❖ Did we seek or receive any feedback about accessibility? ❖ What did people think about the outcome of the engagement? ❖ What reflections do our staff have on the value of this engagement
+
+strategy?
+
+What impact did the engagement have? [qualitative and quantitative]
+
+❖ Did we collect enough or the correct information about the engagement
+
+strategy to enable evaluation? ❖ Did we achieve our purpose? What evidence can we use to support this
+
+claim? ❖ What kinds of impacts did this engagement have? Issues to include are:
+
+➢ legislative impact (whether the engagement has directly changed the
+
+content of a law); ➢ public impact (whether the engagement has influenced public or
+
+parliamentary debate on a particular issue or decision); ➢ hidden impact (whether those working behind the scenes developing
+
+or planning laws have changed their practice or approach). ❖ Did this help facilitate engagement journeys for individuals or
+
+organisations?
+
+Vol 5 Sarah Moulds 23
+
+How does this experience compare to past engagement strategies? [comparative analysis]
+
+❖ The ability to undertake this comparative analysis will develop over time
+
+and can be supplemented by inter-institutional exchanges of experiences, including through sharing experiences and outcomes within existing parliamentary networks.
+
+What should we do differently next time? [institution-based reflection]
+
+❖ This prompts reflections on key priorities that can be incorporated into the
+
+planning stage for future engagements.

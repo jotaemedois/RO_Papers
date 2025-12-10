@@ -1,0 +1,573 @@
+1
+
+Marc Hooghe Ruth Dassonneville
+
+Explaining the Trump Vote: The Effect of Racism and Anti-Immigrant
+
+Sentiments
+
+Abstract The campaign leading to the 2016 presidential elections included a number of unconventional forms of campaign rhetoric. In some of the earlier analyses, it has been claimed that the Trump victory could be seen as a form of protest voting. In this paper we analyze the determinants of voters’ choices to investigate the validity of this claim. Based on a sample of the CCES 2016 (Cooperative Congressional Election Survey) survey, our analyses suggest that a Trump vote cannot be explained by a lack of trust in politics or low levels of satisfaction with democracy, as one would assume given the extant literature on protest voting. However, indicators of racist resentment and anti-immigrant sentiments prove to be important determinants of a Trump vote – even when controlling for some of the more traditional determinants of the vote choice. Despite the ongoing discussion about the empirical validity of the concepts of racist resentment and anti-immigrant sentiments, both prove to be roughly equally powerful in explaining a Trump vote. Keywords: presidential elections, Donald Trump, racism, anti-immigrant sentiments
+
+This is the accepted version of an article published in PS: Political Science and Politics. The publisher’s version can be found here: https://doi.org/10.1017/S1049096518000367
+
+Biographical notes
+
+Marc Hooghe is a professor of political science at the University of Leuven (Belgium), and he has published mainly on political participation and electoral behavior. He can be reached at Marc.Hooghe@kuleuven.be. Both authors are co-convenors of the Montreal-Leuven Winter School on Elections.
+
+Ruth Dassonneville is an Assistant Professor at the Department of Political Science at Université de Montréal where she holds the Canada Research Chair in Electoral Democracy. She is a member of the Centre for the Study of Democratic Citizenship and of the Montreal Centre for International Studies. Her main research interests are voting behavior, economic voting, and partisan dealignment. She can be reached at ruth.dassonneville@umontreal.ca.
+
+2
+
+Introduction
+
+The election of president Donald Trump in November 2016 marked an important transition for
+
+the American political system. The unconventional style and tactics of the newly elected
+
+president departed strongly from the more traditional campaign techniques that had been
+
+employed by both Republicans and Democrats thus far. For electoral scholars, the
+
+communication style of candidate Trump posed some fundamental challenges, as the
+
+antagonistic tone of his campaign rhetoric went far beyond what was hitherto deemed
+
+acceptable (Mutz 2015). Trump’s nomination as the Republican candidate was already
+
+considered a challenge to some of the core theories of political science (Azari 2016;
+
+MacWilliams 2016) and the same holds for his election as president.
+
+In this paper, our aim is to investigate what effect this rhetoric might have had on individual
+
+voters: was it associated with a different kind of voting behavior than the one that has been
+
+observed in earlier US electoral studies? More specifically, we build on European research on
+
+protest and extreme-right voting, that has shown that racist and anti-immigrant attitudes are an
+
+important voting motive (Lubbers, Gijsberts, and Scheepers 2002).
+
+Expanding the ‘Michigan’-model: protest voting, racist resentment and anti-immigrant
+
+sentiments
+
+Traditionally, vote choice models are based on the assumption that both long and short-term
+
+factors affect the vote choice. Models explaining voting behavior tend to include long-term
+
+variables such as sociodemographic factors, partisanship and ideology as well as short-term
+
+variables such as issues or candidate evaluations (Campbell et al. 1980; Miller and Shanks
+
+1996). It has been found that basic socio-demographic characteristics such as ethnicity, gender,
+
+age or religion are systematically associated with citizens’ party choices (Ansolabehere et al.
+
+2010). Furthermore, scholars of class voting have offered evidence of an association between
+
+3
+
+class position and electoral preferences (Brooks and Manza 1997). In addition, it is well known
+
+that voters’ ideological positions as well as their partisan identity guide their electoral choices
+
+(Bartels 2000; Jacoby 2009; Joesten and Stone 2014). Finally, there is abundant evidence that
+
+short-term factors such as economic evaluations, issue positions or candidates' characteristics
+
+significantly affect the choices that voters make (Fridkin and Kenney 2011; Nadeau and Lewis Beck 2001).
+
+While ideology and a broad set of issues have their place in a Michigan model of the vote
+
+choice, the focus of work in this tradition has mostly been on a single liberal-conservative
+
+ideological dimension (Joesten and Stone 2014, but see Klar (2014) for a multidimensional
+
+approach to studying ideology). However, the literature on protest voting and the increasing
+
+importance of what are referred to as ‘new electoral cleavages’ pose a challenge to this
+
+approach. Hernandez and Kriesi (2016), for example, claim that electoral behavior now is
+
+largely determined by new social cleavages, such as concerns about the social and cultural
+
+consequences of globalization. The main idea is that the cultural and psychological impact of
+
+the feeling of threat is so pervasive that more traditional socio-economic interests are dwarfed
+
+as voting motives, leading to a choice that is largely determined by anti-immigrant sentiments
+
+or racial resentment.
+
+Within the literature, there is an ongoing debate on how both attitudes should be conceptualized
+
+and operationalized. In most of the European-based literature, one can observe an emphasis on
+
+anti-immigrant sentiments (Cutts, Ford, and Goodwin 2011). For U.S. based research, most of
+
+the literature is traditionally focused on racist resentment toward ethnic minority groups, and
+
+this form of racism is considered to be most salient (Knuckey and Kim 2015). As is well known,
+
+during the 2016 presidential campaign, some virulent rhetoric was reserved for immigrant
+
+groups, that were conveniently summarized as ‘Mexicans’. Currently, we do not know whether
+
+4
+
+this rhetoric has had an impact on voting behavior. In order to investigate this, we include
+
+measurements for both racist resentment and anti-immigrant sentiments.
+
+Furthermore, across liberal democracies, there is a trend toward more protest voting (Hernandez
+
+and Kriesi 2016). The hostile attitudes toward the political elite are considered as a defining
+
+element of protest voting (Moffit 2016; Mudde and Kaltwasser 2012; Rooduijn 2014), and it
+
+could be assumed that the rhetoric of candidate Trump against the DC power elite is completely
+
+in line with this assumption. This attitude is generally considered to be one of the most defining
+
+elements of protest voting, and is captured most convincingly by including a measurement of
+
+trust in political institutions (Hooghe and Dassonneville, 2018).
+
+A recurring element of protest voting, however, is that the unity of the people is not only being
+
+threatened by the political elite, but also by the influx of minority groups. This negative attitude
+
+toward outsider groups, therefore, could have an important effect on protest voting. Previous
+
+research has shown that racist resentment remains an important voting motive which had a
+
+negative effect on the support for Obama in 2008 (Block and Onwunli 2010; Piston 2010).
+
+Looking at developments during the campaign, the virulent attacks that Trump directed against
+
+“Mexican immigrants” are an interesting development. It leads to the question whether
+
+traditional racism indicators can capture this specific sentiment that is directed not toward the
+
+current population of US citizens, but toward newly arriving immigrants. These attacks might
+
+suggest an appeal to anti-immigrant sentiments, rather than to the notion of racism. In European
+
+social science research, the concept of anti-immigrant sentiments is well established. In addition
+
+to being a very stable and cross-culturally equivalent measurement scale, anti-immigrant
+
+sentiments are also highly effective to explain an extreme-right vote (Cutts, Ford, and Goodwin
+
+2011; Semyonov, Raijman, and Gorodzeisky 2006). In this paper, we include a measurement
+
+of both racist resentment and anti-immigrant sentiments, in order to assess which one of these
+
+attitudes has had the strongest effect on a Trump vote.
+
+5
+
+The main goal of this paper is to determine how we can explain a vote for Trump, and to what
+
+extent traditional vote choice models help us to understand this preference. We also investigate
+
+the importance of these issues among different partisan groups. It is well known that partisan
+
+attachments strongly shape voting behavior (Bartels 2000). As a result, partisans tend to
+
+consistently vote for ‘their’ party as a form of loyalty. In contrast, independents can be thought
+
+to give more weight to the issue positions of parties and candidates. To obtain an accurate
+
+assessment of the impact of political trust or anti-immigrant sentiments on the outcome of
+
+elections, it is hence important that we verify their effect among independents and leaners.
+
+Distinguishing the effects of these variables among Democratic and Republican partisans
+
+allows verifying the extent to which protest attitudes and attitudes towards ethnic minorities
+
+and immigrants were wedge issues in this election (Hillygus and Shields 2014).
+
+Data and methods
+
+We investigate these questions by means of the 2016 Cooperative Congressional Election Study
+
+(CCES).1 While the core module of the CCES includes data on over 64,000 respondents, we
+
+focus on a subsample of 1,000 respondents who took part in a module including questions on
+
+political trust and anti-immigrant sentiments. The CCES 2016 survey consisted of a pre- as well
+
+as a post-election survey. As we are interested in the determinants of the vote choice, we restrict
+
+our analyses to respondents who participated in both survey waves.2
+
+Given our interest in explaining voting for Trump, we operationalize the vote choice as a
+
+dichotomous variable. We distinguish between respondents who indicate having voted for
+
+Trump and those having voted for another candidate.3 Given the small number of abstainers in
+
+the dataset, we exclude those who indicate they did not vote. We verified, however, whether
+
+1 The CCES is an online survey among registered voters, that is fielded by YouGov. For more information on the design of the CCES project, see Vavreck and Rivers (2008). 2 Attrition was limited, as 84% of the respondents participated in the post-electoral survey wave. 3 This could be Clinton, Johnston, Stein or another candidate.
+
+6
+
+our results are robust to estimating a multinomial logit model in which we distinguish voting
+
+for Trump, voting for another candidate, and abstaining from voting (see Appendix 1). These
+
+alternative operationalizations demonstrate that our findings are robust.
+
+For measuring attitudes leading to protest voting, we include political trust as well as
+
+satisfaction with democracy. Political trust was measured by means of three question items
+
+asking about the level of trust in Congress, politicians, and parties on a scale from 0 (= no trust
+
+at all) to 10 (= complete trust). As these three items load strongly on a single factor (Eigenvalue
+
+= 2.14, Cronbach’s α = 0.89), we include a single sum-scale of political trust, that ranges
+
+between 0 and 10. The upper left panel in Figure 1 clarifies that levels of political trust in the
+
+estimation sample are low (mean value of 2.57). Satisfaction with democracy is measured with
+
+a single question item, on how satisfied respondents are with the way democracy works in the
+
+United States. Respondents were asked to indicate their level of satisfaction on a scale from 0
+
+(extremely dissatisfied) to 10 (extremely satisfied). The mean reported level of satisfaction with
+
+democracy is 4.66 (upper right panel in Figure 1).
+
+7
+
+Figure 1. Distribution of key independent variables
+
+Distribution of political trust scale (upper left panel), satisfaction with democracy (upper right panel), anti-immigrant sentiment scale (lower left panel) and racist resentment (lower right panel) in estimation sample (N = 665). Black lines indicate the curve of a normal distribution. Source: CCES 2016 Survey.
+
+For measuring anti-immigrant sentiments, we rely on three survey items that ask respondents
+
+to indicate what the impact of immigration is for the economy, for cultural life, and for life in
+
+the United States in general (Semyonov, Raijman, and Gorodzeisky 2006). Each of these survey
+
+items is measured with a 0 to 10 scale, where higher values indicate more positive attitudes
+
+towards immigration.4 These three items proved to be one-dimensional (Eigenvalue = 2.34,
+
+Cronbach’s α = 0.93), allowing us to construct a single indicator of anti-immigrant sentiments.
+
+To that end, we constructed 0 to 10 sum-scale of the three items. To ease the interpretation of
+
+the results, we reversed the coding so that higher values correspond to stronger anti-immigrant
+
+4 The question wording is: ‘Would you say it is generally bad (=0) or good (=10) for the US economy that people come to live here from other countries?’ – ‘Would you say that US cultural life is generally undermined (=0) or enriched (=10) by people coming to live here from other countries?’ – ‘Is the US made a worse (=0) or a better (=10) place to live by people coming to live here from other countries?’. It has to be noted that the survey did not include questions about specific religious denominations.
+
+8
+
+sentiments. The lower left panel in Figure 1 shows that the variable is slightly skewed to the
+
+left (mean value is 4.20).
+
+In addition, we control for respondents’ racist resentment. Racial resentment scales tend to
+
+assess to what extent respondents minimize the occurrence of racist prejudice, and downplay
+
+the need for various forms of affirmative action. Kinder and Sanders (1996) proposed a much used scale, but this has also been criticized, because of its emphasis on the Afro-American
+
+community. Neville et al. (2000) therefore proposed a color-blind scale, that no longer refers to
+
+any specific group. This scale is routinely used in social psychology, and it was also included
+
+in the CCES questionnaire. We use this measure and include a sum-scale of respondents’
+
+answers to three question items: ‘I am angry that racism exists’, ‘White people in the U.S. have
+
+certain advantages because of the color of their skin’ and ‘Racial problems in the U.S. are rare,
+
+isolated situations’. Respondents could indicate on a 5-point scale the extent to which they
+
+agreed with these items (from strongly disagree to strongly agree). We coded answers to these
+
+question items in such a way that higher values signify more racist attitudes. The three items
+
+form a single dimension (Eigenvalue = 1.84, Cronbach’s α = 0.67). The factor analysis thus
+
+suggests a one-dimensional concept, and this is in line with other, routinely used
+
+operationalization of the concept of racial resentment. We acknowledge, however, that our
+
+reliance on somewhat different measures compared to previous work on racism in the US
+
+implies that some caution is needed when interpreting our findings
+
+We estimate multivariate models and add controls for age, gender, level of education, income
+
+and race. Furthermore, we include controls for reported ideological self-placement on a
+
+liberal/conservatism-scale as well as their partisanship (on a 7-point scale). Finally, we include
+
+respondents’ economic evaluations, for which we rely on a traditional retrospective and
+
+sociotropic item. To increase the comparability of the coefficient estimates, we have rescaled
+
+9
+
+all the independent variables (with the exception of age) to run from 0 to 1. More information
+
+on question wording and coding is included in Appendix 2.
+
+Results
+
+Table 1 summarizes the results from a series of multivariate logistic regression models
+
+explaining voting for Trump in 2016. In a first model, we only include the variables traditionally
+
+included for explaining voting behavior in US presidential elections. This model explains the
+
+vote choice quite well: partisanship, self-placement on the liberal-conservative dimension as
+
+well as the assessment of the state of the economy are important determinants. When taking
+
+into account these variables, voters’ socio-demographic characteristics do not appear to strongly
+
+affect the vote choice. The exception is race, as we find that black voters were significantly less
+
+likely to vote for Trump than whites. Interestingly, the same does not hold for Hispanic voters
+
+in our sample, although it should be noted that the included number of Latino voters was small.
+
+Gender too, does not have a significant effect, despite the various issues that have been brought
+
+up during the election campaign.5
+
+5 It should be acknowledged, however, that controlling for gender is only an indirect approach to accounting for the role of sexism. Unfortunately, the dataset did not include indicators of sexist attitudes, which is an important limitation of our data. It should also be noted that further analysis suggests that there is a significantly lower likelihood to vote Trump among non-white women, but given the limited presence of this demographic group in the sample, this finding should be interpreted with caution.
+
+10
+
+Table 1. Explaining the Trump Vote
+
+Model 1 --------------------------------------------------------------------------------------- Model 2 --------------------------------------------------------------------------------------- Model 3 --------------------------------------------------------------------------------------- Model 4 --------------------------------------------------------------------------------------- b (SE) b (SE) b (SE) b (SE) Age 0.009 (0.011) 0.012 (0.011) 0.005 (0.012) 0.016 (0.012) Female -0.175 (0.426) -0.197 (0.432) -0.303 (0.439) -0.052 (0.480) Education -1.031 (0.688) -1.068 (0.668) -0.727 (0.777) -0.852 (0.751) Income 0.168 (0.650) 0.061 (0.653) -0.030 (0.644) -0.398 (0.677) Race (ref: White) Black -2.023* (0.930) -2.089* (1.051) -1.973* (0.963) -1.685 (1.134) Hispanic 0.022 (0.966) 0.206 (0.922) 0.576 (0.945) 0.960 (0.895) Other non-white -0.794 (0.567) -0.871 (0.565) -0.576 (0.629) -0.760 (0.626) Republican partisanship (7-point) 4.912*** (0.695) 5.185*** (0.857) 5.120*** (0.813) 5.002*** (0.879) Conservative ideology 4.124*** (0.882) 4.237*** (0.886) 3.975*** (0.915) 3.388*** (0.885) Economic evaluation -4.512*** (1.028) -4.958*** (1.250) -3.709** (1.284) -4.275** (1.387) Political trust 1.631 (1.295) 1.967 (1.211) 2.111 (1.260) Satisfaction with democracy 0.147 (0.818) 0.475 (0.882) -0.054 (0.842) Anti-immigrant sentiment 3.869*** (0.878) Racist resentment 3.984*** (1.156) Constant -2.560** (0.979) -3.046** (1.059) -5.267*** (1.212) -4.393*** (1.114) --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- Pseudo R2 0.690 0.695 0.718 0.717 N observations 605 605 605 605 Estimates from logistic regression model explaining voting for Trump (=1) versus Clinton, Stein, Johnson or another candidate (=0). Abstainers are excluded from the analyses. Logistic regression coefficients and standard errors (in parentheses) are reported. Significance levels: * p < 0.05, ** p < 0.01, *** p < 0.001. Data are weighted to reflect the characteristics of the national electorate. Source: CCES 2016 Survey.
+
+11
+
+In Models 2 to 4, we include the variables crucial in the literature on protest voting and new
+
+social cleavages. In Model 2 we add the indicators of political trust and satisfaction with
+
+democracy. As is evident from the results in Table 1, neither trust in political institutions nor
+
+satisfaction with democracy are significant predictors of the vote choice.
+
+In Model 3 and 4 we add anti-immigrant sentiments and the racism indicators respectively.6 It
+
+can be observed that both of them are strong and highly significant predictors of the Trump
+
+vote. Both variables appear to have essentially the same effect, and they add about the same
+
+predictive power (in terms of the pseudo-R2) to the model Figure 2, that shows the estimated
+
+predicted probability of voting for Trump (vs. another candidate) for different values of the
+
+main independent variables in our analyses, further clarifies the comparable impact of both
+
+indicators. In addition, Figure 2 shows that the impact of these variables is fairly similar to the
+
+impact of respondents’ economic evaluations – a key indicator in most vote choice models in a
+
+US context.
+
+6 Given the high correlation between both indicators, they are not included in a single model. If we try to include both variables simultaneously, our main findings are confirmed, but there is a clear danger that the model is overspecified and hence unstable.
+
+12
+
+Figure 2. Predicted probability of voting for Trump by economic evaluation, anti-immigrant sentiment and racist attitudes
+
+Estimated probability of voting for Trump (vs. another candidate) at varying levels of economic evaluations (left panel), anti-immigrant sentiments (middle panel) and racist resentment (right panel). Estimates obtained from Model 3 (economic evaluations and anti-immigrant sentiment) and Model 4 (racist resentment) in Table 1.
+
+As we know from previous research that it is not always possible to measure racism or anti immigrant sentiments in a straightforward manner among respondents that are a member of an
+
+ethnic minority, we also estimated Models 3 and 4 on a subsample of non-Hispanic White
+
+respondents only. When doing so, we find the same results (see Appendix 3).
+
+In a next step we evaluate whether the impact of these values is conditional on partisanship. We
+
+expect that the effect of anti-immigrant sentiments and racist attitudes will be most pronounced
+
+among independents. To verify whether this is the case, we re-estimate Model 3 and Model 4
+
+in Table 1, but include the 7-point partisanship variable as a categorical variable (instead of
+
+treating it as a continuous variable). In addition, we add interaction terms between the
+
+partisanship-categories and anti-immigrant sentiments or racist attitudes respectively. The full
+
+results of these analyses are reported in Appendix 4. By way of summary, Figure 3 shows the
+
+average marginal effect of anti-immigrant sentiments (upper panel) and racist attitudes (lower
+
+panel) on voting for Trump for different partisan groups. Dividing respondents according to
+
+their level of partisanship, it becomes clear that anti-immigrant sentiments strongly affected the
+
+13
+
+choice of leaning Republicans while racist attitudes strongly influenced strong Republicans’
+
+vote choice. Overall, however, what is most noteworthy is the overall stability of the average
+
+marginal effects of anti-immigrant sentiments and racist attitudes among different partisan
+
+groups. The large similarities between different groups suggests that immigration and racism
+
+functioned to some extent as wedge issues in the 2016 election. Anti-immigrant sentiments
+
+and racist attitudes not only affected the choices of Republicans, but also those of Democratic
+
+identifiers. This suggests that if these voters were cross-pressured – feeling closer to the
+
+Democratic party but having more anti-immigrant sentiments or more racist attitudes – these
+
+attitudes might have led them to vote for Trump.
+
+Figure 3. Average marginal effects and 95% confidence intervals of anti-immigrant sentiment and racist attitudes on the probability to vote Trump by partisan identity (7-point scale)
+
+Estimates are average marginal effects. 95% confidence intervals are reported. Estimates obtained from Model 1 (upper panel) and Model 2 (lower panel) in Appendix 4. Source: CCES 2016 Survey.
+
+Discussion
+
+The results of our analyses demonstrate that it is too easy to consider Trump as an anti establishment candidate, at least with regard to the voting motives of his supporters. Although
+
+we operationalized political trust and political support in two different ways, in not a single
+
+model this was a significant voting motive. The rhetoric about ‘draining the swamp’ [of
+
+bureaucracy in Washington, D.C.] might have received ample media attention, our analysis
+
+suggests this was not a major voting motive for Trump voters. Theoretically, this is important
+
+14
+
+because the literature on protest voting (and populism) states that a hostile attitude toward the
+
+political elite functions as a major voting motive for populist parties (Moffit 2016; Rooduijn
+
+2014). Trump voters do not follow this pattern and therefore it would not be correct to state that
+
+the Trump election fits this general pattern of protest voting.
+
+Our analyses furthermore show evidence of the enduring strength of partisanship in US politics.
+
+Despite the fact that Donald Trump could be considered an ideologically extreme candidate,
+
+with personal positions that were often at odds with the official position of the Republican party,
+
+considerations of partisanship continued to play an important role as a voting motive. Even in
+
+these conditions, most partisans follow the lead of their party, although it has to be noted that
+
+even among Democratic supporters we have still observed a significant effect of racism and
+
+anti-immigrant sentiments.
+
+The most important finding of the analysis, however, is that racism, regardless of how it was
+
+measured, appears as an important voting motive for president Trump. By itself, this is not a
+
+new finding, as we know indeed that already in 2008 president Obama suffered from a lack of
+
+support among racist voters (Lewis-Beck, Tien, and Nadeau 2010). The 2016 campaign,
+
+however, shows that this effect of racism is not only present if voters receive a choice between
+
+candidates with different ethnic backgrounds. The ideological positions and the rhetoric of the
+
+candidate clearly matter as well. In this specific election, negative attitudes toward ethnic
+
+minorities and immigrants swayed Independents and some Democrats to opt for candidate
+
+Trump, thus considerably strengthening his electoral support base.
+
+Acknowledgements
+
+The authors wish to acknowledge the funding provided by the European Research Council,
+
+ERC Advanced Grant 295920, ‘Democratic Linkage’. Ruth Dassonneville acknowledges the
+
+support from the Canada Research Chairs program [grant number 950-231173].
+
+15
+
+References
+
+Ansolabehere, Stephen, Nathaniel Persily, and Charles Stewart III. 2010. “Race, Region, and
+
+Vote Choice in the 2008 Election: Implications for the Future of the Voting Rights Act.” Harvard Law Review 123 (6): 1385-1436. Azari, Julia R. 2016. “How the News Media Helped to Nominate Trump.” Political
+
+Communication 33 (4): 677-680. Bartels, Larry. 2000. “Partisanship and Voting Behavior, 1952-1996.” American Journal of
+
+Political Science 44 (1): 35-50. Block, Ray Jr., and Chinonye Onwunli. 2010. “Managing Monikers: The Role of Name
+
+Presentation in the 2008 Presidential Election.” Presidential Studies Quarterly 40 (3): 494-481. Brooks, Clem, and Jeff Manza. 1997. “Social Cleavages and Political Alignments: US
+
+Presidential Elections, 1960 to 1992.” American Sociological Review 62 (6): 937-946. Campbell, Angus, Philipp E. Converse, Warren E. Miller, and Donald E. Stokes. 1980. The
+
+American Voter. Unabridged Edition. Chicago: University of Chicago Press. Cutts, David, Robert Ford, and Matthew J. Goodwin. 2011. “Anti-Immigrant, Politically
+
+Disaffected or Still Racist After All? Examining the Attitudinal Drivers of Extreme Right Support in Britain in the 2009 European Elections.” European Journal of Political Research 50 (3): 418-440. Fridkin, Kim L., and Patrick J. Kenney. 2011. “The Role of Candidate Traits in Campaigns.”
+
+The Journal of Politics 73 (1): 61-73. Hernandez, Enrique, and Hanspeter Kriesi. 2016. “The Electoral Consequences of the Financial
+
+and Economic Crisis in Europe.” European Journal of Political Research 55 (2): 203224. Hillygus, D. Sunshine, and Todd G. Shields. 2014. The Persuadable Voter: Wedge Issues in
+
+Presidential Campaigns. Princeton: Princeton University Press. Hooghe, Marc, and Ruth Dassonneville. (2018). “A Spiral of Distrust: A Panel Study on the
+
+Relation between Political Distrust and Protest Voting in Belgium.” Government and Opposition 53 (1): 104-130. Jacoby, William. 2009. “Ideology and Vote Choice in the 2004 Election.” Electoral Studies 28
+
+(4): 584-594. Joesten, Danielle A., Walter J. Stone. 2014. “Reassessing Proximity Voting: Expertise, Party,
+
+and Choice in Congressional Elections.” Journal of Politics 76 (3): 740-753.
+
+16
+
+Kinder, Donald R., and Lynn M. Sanders. 1996. Divided by Color: Racial Politics and
+
+Democratic Ideals. Chicago: University of Chicago Press. Klar, Samara. 2014. “A Multidimensional Study of Ideological Preferences and Priorities
+
+among the American Public.” Public Opinion Quarterly 78 (1): 344-359. Knuckey, Jonathan, and Myunghee Kim. 2015. “Racial Resentment, Old-Fashioned Racism,
+
+and the Vote Choice of Southern and Nonsouthern Whites in the 2012 U.S. Presidential Election.” Social Science Quarterly 96 (4): 905-922. Lewis-Beck, Michael, Charles Tien, and Richard Nadeau. 2010. “Obama's Missed Landslide:
+
+A Racial Cost?” PS: Political Science & Politics 43 (1): 69-76. Lubbers, Marcel, Mérove Gijsberts, and Peer Scheepers. 2002. “Extreme Right-Wing Voting
+
+in Western Europe.” European Journal of Political Research 41 (3): 345-378. MacWilliams, Matthew C. 2016. “Who Decides When the Party Doesn’t? Authoritarian Voters
+
+and the Rise of Donald Trump.” PS: Political Science & Politics 49 (4): 716-721. Nadeau, Richard, and Michael S. Lewis-Beck. 2001. “National Economic Voting in US
+
+Presidential Elections.” Journal of Politics 63 (1): 159-181. Miller, Warren E., and J. Merrill Shanks. 1996. The New American Voter. Cambridge (MA):
+
+Harvard University Press. Moffit, Benjamin. 2016. The Global Rise of Populism. Performance, Political Style, and
+
+Representation. Stanford (CA): Stanford University Press. Mudde, Cas, and Cristobal Rovira Kaltwasser. 2012. Populism in Europe and the Americas.
+
+Threat or Corrective for Democracy? Cambridge: Cambridge University Press. Mutz, Diana. 2015. In-Your-Face Politics: The Consequences of Uncivil Media. Princeton:
+
+Princeton University Press. Neville, Helen A., Roderick L. Lilly, Georgia Duran, Richard M. Lee, and LaVonne Browne.
+
+2000. “Construction and initial validation of the Color-Blind Racial Attitudes Scale (CoBRAS).” Journal of Counseling Psychology 47 (1): 59-70. Piston, Spenser. 2010. “How Explicit Racial Prejudice Hurt Obama in the 2008 Election.”
+
+Political Behavior 32 (4): 431-451. Rooduijn, Matthijs. 2014. “The Nucleus of Populism: In Search of the Lowest Common
+
+Denominator.” Government and Opposition 49(4): 573-599. Semyonov, Mosje, Rebecca Raijman, and Anastasia Gorodzeisky. 2006. “The Rise of Anti Foreigner Sentiment in European Societies, 1988-2000.” American Sociological Review 71 (3): 426-449.
+
+17
+
+Vavreck, Lynn, and Douglas Rivers. 2008. “The 2006 Cooperative Congressional Election
+
+Study.” Journal of Elections, Public Opinion and Parties 18 (4): 355-366.

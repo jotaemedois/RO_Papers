@@ -1,0 +1,549 @@
+Regional Science and Urban Economics 99 (2023) 103864
+
+Available online 28 December 2022 0166-0462/© 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+Terrorism and political attitudes: Evidence from European social surveys☆
+
+Giovanni Peri a,b, Daniel I. Rees c,*, Brock Smith d
+
+a Department of Economics, University of California, Davis, USA b NBER, USA c Universidad Carlos III de Madrid, Spain d Department of Agricultural Economics and Economics, Montana State University, USA
+
+A R T I C L E I N F O
+
+Keywords: Terrorism Immigration Political attitudes
+
+A B S T R A C T
+
+Terror attacks in Europe have increased substantially since the turn of the last century. Using data from European Social Surveys (ESS), we examine their effects on political attitudes and orientation by comparing within-country survey responses shortly before and after terror attacks involving at least one fatality. At the national level, we find little support for the hypothesis that terror attacks influenced attitudes towards immigration or political orientation. By contrast, there is evidence of post-attack increases in satisfaction with the national government and trust in parliament among ESS respondents living in the region that was attacked.
+
+1. Introduction
+
+Terror attacks in Western Europe have been trending upwards since the mid-2000s, with a notable spike in the years 2014 and 2015 (Fig. 1). There were, for instance, an average of 70 terror attacks per year in Western Europe during the period 2004–2007 as compared to an average of 239 attacks per year during the period 2015–2018. Many observers have argued that the recent surge in terrorism has increased anti-immigrant sentiment among Europeans and increased support for right-wing parties and politicians (Smale and Castle 2016; Fekete 2018; Roth 2018; Turak 2018). In this study, we explore the effects of terror attacks in Europe on political attitudes and orientation. Drawing on data from the European Social Survey (ESS) for the period 2002–2018, our focus is on terror attacks that caused at least one fatality and, importantly, occurred when the ESS was in the field. Every two years, a new round of the ESS is conducted. The ESS interviews residents of more than 20 countries across Europe on a wide range of topics, including their attitudes to­ wards immigration, the degree to which they trust the institutions of government, their satisfaction with the current national government, and their political orientation on a left-right scale. Because we know the exact date each interview started, we can compare within-country re­ sponses to the ESS in the weeks before and after terrorist attacks, effectively accounting for the influences of economic conditions and
+
+other difficult-to-observe factors that could potentially bias naïve estimates. Previous quasi-experimental studies on terror attacks in Europe and political attitudes have produced decidedly mixed results. For instance, Finseraas et al. (2011) found that Europeans became more supportive of imposing restrictive immigration policies immediately after the murder of Dutch film-maker Theo van Gogh by a member of a radical Islamist group, while Silva (2018) found little evidence to suggest that attitudes towards immigrants among Europeans shifted in the aftermath of the Charlie Hebdo shootings. With the exception of Akay et al. (2020), previous quasi-experimental studies estimating the effects of terror at­ tacks in Europe on political attitudes and orientation have focused on a single event or country, limiting their generalizability and raising questions about external validity. We begin our empirical analysis by examining ESS interviews con­ ducted during the two weeks leading up to fatal terror attacks and the two weeks after. Identification is based on 16 pre-versus post-attack comparisons in 9 different countries (the Czech Republic, France, Ger­ many, Ireland, the Netherlands, Poland, Spain, Sweden, and the United Kingdom). Next, we adopt a 4-week bandwidth, which effectively means that identification is based on 12 pre-versus post-attack comparisons in 6 countries (France, Germany, the Netherlands, Spain, Sweden, and the United Kingdom). We find little support for the hypothesis that terror attacks in Europe
+
+☆We thank Jay Matonte for excellent research assistance and D. Mark Anderson for invaluable comments. Support came from the Comunidad de Madrid, grant EPUC3M11 (V PRICIT) and grant H2019/HUM-5891. * Corresponding author. E-mail addresses: gperi@ucdavis.edu (G. Peri), daniel.rees@uc3m.es (D.I. Rees), brock.smith1@montana.edu (B. Smith).
+
+Contents lists available at ScienceDirect
+
+Regional Science and Urban Economics
+
+journal homepage: www.elsevier.com/locate/regec
+
+https://doi.org/10.1016/j.regsciurbeco.2022.103864 Received 4 February 2022; Received in revised form 21 December 2022; Accepted 23 December 2022
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+2
+
+influenced attitudes towards immigration or political orientation: using either a two- or 4-week bandwidth, the estimated effect of terror attacks are generally small and statistically insignificant at conventional levels. By contrast, we observe sizeable post-attack increases in satisfaction with the national government and trust in parliament, but only among respondents living in the region of the country that was attacked and only when using a 4-week bandwidth. These post-attack increases in satisfaction with the national government and trust in parliament are consistent with “rally-around-the-flag effects” documented by political scientists (Mueller 1973; MacKuen 1983; Brody and Shapiro 1989; Brody 1991). Our results complement and extend those of Akay et al. (2020). Using data from Germany, the United Kingdom, and Switzerland for the period 1994–2013, these authors found a strong positive association between terror attacks and conservative voting intentions. However, because of data limitations, they did not consider other outcomes having to do with political orientation or opinions.1 If terror attacks do, in fact, lead to more conservative voting intentions, then our results suggest that this effect does not reflect increased animosity towards immigrants, nor does it necessarily mean that there was a rightward shift in political orientation.
+
+The remainder of this study is organized as follows. We briefly re­ view the quasi-experimental literature in the next section. In Section 3, we describe our data and methodology. In Section 4, report our principal results. Estimates at the regional level are reported in Section 5 and estimates for specific country-round pairs (e.g., estimates based on the responses of French participants immediately before and after the Charlie Hebdo shootings, which occurred while Round 7 of the ESS was in the field) are reported in Section 6. Section 7 concludes.
+
+2. Background
+
+2.1. Potential mechanisms
+
+Group-threat theory is often used by academics to explain why terror attacks and economic contractions might increase support for right-wing political parties and contribute to anti-immigrant sentiment (Blalock 1967; Quillian 1995; Legewie 2013; Lind´en et al., 2018; Vasilopoulos et al., 2019). According to group-threat theory, negative sentiment to­ wards an “outgroup” (for instance, members of a racial/ethnic minority or immigrants from non-European countries) increases when the dominant group feels that its privileges and position are being
+
+Fig. 1. Terror Attack Trends in Western Europe, 2000-2018 Notes: This figure shows the total number of terror attacks and the number of fatal terror attacks occurring in countries that participated in the European Social Survey, excluding Israel, Turkey and Russia. Data on terror attacks comes from the Global Terrorism Database (GTD) and pertain to the period 2000–2018.
+
+1 Using a broader set of countries, Akay et al. (2020) did, however, examine the effects of terror attacks on life satisfaction. See also B¨ohmelt et al. (2020), who used data from the Eurobarometer Survey on 29 European countries for the period 2003–2017 to examine whether terror attacks influenced the “public mood toward immigration salience” (p. 442). The results of B¨ohmelt et al. (2020) are described below.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+3
+
+threatened (Blumer 1958; Quillian 1995).2
+
+Political scientists have also observed that terror attacks can, under certain circumstances, have rally-around-the-flag effects, which refer to a rise in popular support for the national government or leaders following a crisis. According to Mueller (1973), rally-around-the-flag effects can be thought of as a “patriotic reflex” among both elites and non-elites in response to a sudden and dramatic crisis affecting the entire nation. Brody and Shapiro (1989) and Brody (1991) argue that rally-around-the-flag effects are more likely to occur when there is a lack of publicly available information about the nature of the crisis, obliging the opposition to withhold criticism. There is evidence that, if the terror attack is especially destructive, the rally-around-the-flag effect can be long-lasting. President George W. Bush’s sustained surge in approval ratings following the 9/11 attacks is perhaps the most notable example of a long-lasting rally-around-the flag effect (Chowanietz 2011).
+
+2.2. Previous quasi-experimental estimates
+
+Terror attacks are, by definition, designed to serve political ends (Thornton 1964; Kydd and Walter 2006), but their effectiveness is still being debated by researchers. Using data from opinion polls conducted in the lead up to parliamentary elections, Gould and Klor (2010) found that terror attacks increased Israelis’ willingness to grant territorial concessions to the Palestinians as part of a peace agreement. Gould and Klor (2010) also examined whether respondents intended to support the “right-wing bloc” in the upcoming elections. Consistent with the results of Akay et al. (2020), they found that terror attacks were associated with a rightward shift in the preferences of Israeli voters.3
+
+Gassebner et al. (2008) and Balcells and Torrats-Espinosa (2018) examined whether incumbents or challengers benefited from terror at­ tacks but came to opposite conclusions. After analyzing more than 800 elections taking place in 115 countries across the world, Gassebner et al. (2008) found “strong evidence that terrorist attacks increase the prob­ ability that the cabinet will be replaced after an election” (p. 129). By contrast, Balcells and Torrats-Espinosa (2018) found that attacks carried out by Euskadi Ta Askatasuna (ETA), a Basque terrorist organization, had no discernible impact on self-reported support for the incumbent party. Perhaps because they occurred just three days before an election, the 2004 Madrid train bombings have received a fair amount of atten­ tion from past researchers. Bali (2007) and Montalvo (2011, 2012) found that the bombings significantly contributed to the opposition’s victory over the incumbent party, while Lago and Montero (2006) concluded that the bombings “have not changed the electoral prefer­ ences of Spaniards” (p. 22).
+
+Silva (2018), who used data from the Round 7 of the ESS, found little evidence that the Charlie Hebdo shootings in 2015 shifted French atti­ tudes (or attitudes in other European countries) towards immigrants and refugees. By contrast, Finseraas et al. (2011) found that ESS respondents across Europe became more supportive of imposing restrictive immi­ gration policies immediately after the murder of Dutch film-maker Theo van Gogh by a member of a radical Islamist group in 2004. Several studies have examined the effects of the Paris attacks that occurred on
+
+November 13, 2015 (Nussio et al., 2019; Ferrín et al., 2020; Van Hau­ waert and Huber 2020). Neither Nussio et al. (2019) nor Van Hauwaert and Huber (2020) found that French attitudes towards immigrants shifted in the wake of these attacks, while Ferrín et al. (2020) found that these attacks negatively affected attitudes towards immigrants among Europeans.4 Finally, B¨ohmelt et al. (2020) used data from the Euro­ barometer Survey on 29 European countries for the period 2003–2017 to examine the association between terror attacks and the “public mood toward immigration salience” (B¨ohmelt et al., 2020, p. 442). These authors found a positive association between terror attacks and the percentage of respondents who indicated that immigration was one of the two most important issues facing their country.5
+
+3. Data and methods
+
+3.1. Data on terror attacks
+
+Data on terror attacks come from the Global Terrorism Database (GTD), which is housed at the National Consortium for the Study of Terrorism and Responses to Terrorism (START). These data are based on a wide variety of publicly available sources, including newspaper and journal articles, legal documents, and other existing datasets.6 They contain detailed information on each attack, including the date in which it occurred, its location, the number of casualties, and the responsible group. The GTD data have been used by dozens of researchers interested in exploring the causes and consequences of terrorism.7
+
+The GTD defines a terror attack as “aimed at attaining a political, economic, religious, or social goal.” Furthermore, there must be evi­ dence that the attack was intended to coerce or send a message to a broad audience (as opposed to the immediate victims). Finally, terror attacks are, according to the GTD, perpetrated by a non-state actor (or actors) and are therefore distinct from “legitimate” warfare activities conducted by national governments or military forces.
+
+Fig. 1 shows the number of terror attacks on European soil per year
+
+2 Blumer (1958, p. 4), who pioneered group-threat theory, described racial prejudice as stemming from “a fear or apprehension that the subordinate racial group is threatening, or will threaten, the position of the dominant group”.
+
+3 See also Kibris (2011), Larsen et al. (2020), and Nussio (2020). Kibris (2011) examined the effects terror attacks carried out by the PKK (i.e., the Kurdistan Workers’ Party) on the 1991 and 1995 Turkish general elections. She found a strong positive association between casualties suffered by security forces and the vote share of right-wing parties. Larsen et al. (2020) found that Germans’ attitudes towards the European Union improved after the 2016 Berlin Christmas Market attack, while Nussio (2020) found that this same attack had no effect on Germans’ trust in government, national identification, and views of Islam.
+
+4 Ferrín et al. (2020) used data on residents of 28 countries from the Euro­ barometer survey. Consistent with the results of Nussio et al. (2019) and Van Hauwaert and Huber (2020), Ferrín et al. (2020) found no evidence that these attacks affected attitudes towards immigrants among French Eurobarometer respondents. Jakobsson and Blom (2014) found that attitudes towards immi­ grants became more positive after the Oslo terror attacks committed by Anders Behring Breivik in 2011.
+
+5 See Godefroidt (forthcoming) for a meta-analysis of 325 studies examining the association between terrorism and political attitudes, most of which were correlational (as opposed to quasi-experimental). She finds that terror attacks are associated with “small” increases in outgroup hostility and political conservatism. However, she cautions that these associations “vary widely” depending upon the methodology used, where the terror attack took place, and the perpetrator. Although Godefroidt (forthcoming) includes studies of terror attacks that took place in Europe, she does not provide separate estimates of the association between terrorism and European political attitudes. See Finseraas and Listhaug (2013) and Legewie (2013) for quasi-experimental evidence on the relationship between terror attacks occurring outside of Europe on Euro­ pean attitudes towards immigrants and refugees. Finseraas and Listhaug (2013) examined the effects of the 2008 terror attacks in Mumbai, India using data from Round 4 of the ESS. Although Europeans were more fearful of terrorism after the attacks, there was no significant effect on support for liberal immi­ gration policies. Legewie (2013) examined the effects of the 2002 terrorist bombing in Bali, Indonesia on attitudes towards immigrants, which occurred while the ESS was in the field in 9 European countries. He found that attitudes towards immigrants deteriorated significantly in Finland, Poland and Portugal.
+
+6 START is a research center at the University of Maryland, College Park. It is dedicated to examining and understanding the causes and consequences of terrorism. See https://www.start.umd.edu/gtd/for more information on collection methods and the information available in the GDT data.
+
+7 See, for example, Choi (2010), Drakos (2010), Gaibulloev and Sandler (2011), Findley and Young (2012), and Ding et al. (2017).
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+4
+
+for the period 2000–2018. Since the mid-2000s, terror attacks have been trending upward, with a notable spike in 2014 and 2015 thought to be, at least in part, inspired by the rise of the Islamic State of Iraq and the Levant (ISIL) (Nesser et al., 2016). The number of fatal attacks, defined as attacks involving at least one death, are also shown in Fig. 1.8 After averaging fewer than 8 per year during the period 2004–2013, terror attacks involving at least one death peaked in 2014, when there were 233.
+
+3.2. Measuring political attitudes and orientation
+
+To explore the within-country effects of fatal terror attacks on po­ litical attitudes and orientation among Europeans, we use data from the European Social Survey (ESS). The ESS was launched in 2002. Since then, more than 430,000 respondents from 38 countries have been interviewed in person and asked a battery of questions about their at­ titudes, behaviors, and values. The ESS is a repeated cross-sectional survey that is conducted every two years, although there are changes to the mix of participating countries across rounds. It is considered to be a “model for international surveys” (Jagodzinski and Moschner 2008, p. 475) and has been used by previous researchers interested in estimating the various effects of terrorism (Finseraas and Listhaug 2013; Arvaniti­ dis et al., 2016; Ahern 2018; Silva 2018). The ESS strives for an overall 70 percent response rate, although the non-response rate is higher than 30 percent in several countries. We use post-stratification weights available from the ESS to correct for any differences in response rates. Our immigration-related outcomes are based on responses to two ESS questions. Specifically, the ESS asks respondents whether immi­ grants make their country “a worse or better place to live,” and how many immigrants from “poorer countries outside Europe” should be allowed in their country. Answers to the first question are on a 0–10 scale (where 0 is “worse place to live” and 10 is “better place to live”), while answers to the second question are on a 0–4 scale (where 0 is “allow many to come and live here” and 4 is “allow none”).9
+
+To gauge whether terror attacks affect attitudes towards government institutions, we use responses to three more ESS questions. Specifically, ESS respondents are asked how much trust they “personally” have in their country’s parliament and how much trust they have in the Euro­ pean Parliament.10 Answers to these questions are on a 0–10 scale, where 0 is “no trust at all” and 10 is “complete trust”. The ESS also asks respondents whether they are satisfied with the national government. Answers to this question are on a 0–10 scale, where 0 is “extremely dissatisfied” and 10 is “extremely satisfied”. Finally, political orientation is based on how ESS respondents placed themselves on a 0–10 left-right political scale, where 0 “means the far left and 10 means the far right. Previous studies using ESS data and this outcome include Thorisdottir et al. (2008), Piurko et al. (2011), and Aspelund et al. (2013). Descriptive statistics for all of the outcomes used
+
+in our analysis are provided in Appendix Table A1.
+
+3.3. Empirical approach
+
+We begin by restricting our attention to ESS interviews conducted during the two weeks leading up to a fatal terror attack and the two weeks after. Only ESS respondents from countries that were attacked are included in our analysis. Following Depetris-Chauvin et al. (2020), we report ordinary least squares (OLS) estimates of the following equation:
+
+yicmt = π0 + π1Post Attackicmt + Xicmtβ + θm + δct + εicmt. (1)
+
+where yicmt is one of several outcomes discussed above, i indexes re­ spondents, c indexes country, m indexes calendar month (i.e., Januar­ y–December), t indexes ESS rounds, and X represents a set of individual- level characteristics. The independent variable of interest is Post_Attack, equal to 1 if respondent i was interviewed after a fatal terror attack occurred and equal to 0 otherwise. Its coefficient, α1, measures the change in political attitudes from the pre-attack period (1–14 days before an attack) to the post-attack period (0–13 days after an attack).11
+
+If there were multiple attacks in country c during round t, then the pre- attack period is based on the date of the first attack while the post-attack period is based on the date of the last attack. Month fixed effects (θm) account for any seasonality in political at­ titudes. Country-by-round fixed effects (δct) ensure that identification comes from comparing within-country responses from interviews con­ ducted shortly before and after attacks. The identifying assumption is that, conditional on X, the timing of each interview was quasi-random, unrelated to the attack or unobserved characteristics of the respondent being interviewed. Regressions are weighted by the post-stratification weights provided by the ESS to correct for differences in selection probabilities. Standard errors clustered at the country-round level to allow for correlation of unobservable individual characteristics within a country-round. Appendix Table A2 contains descriptions of the terror attacks used in our analysis, when they occurred, and the pre-versus post-attack pe­ riods. Identification is based on 16 pre-versus post-attack within-country comparisons. Five of these 16 comparisons involve multiple attacks (in France, Germany, Spain, and the United Kingdom), and remainder are based on a single attack (in the Czech Republic, France, Ireland, the Netherlands, Poland, Spain, Sweden, and the United Kingdom).12
+
+Country-round pairs were included in the analysis only if ESS interviews
+
+8 Non-fatal attacks were either aimed at property or were unsuccessful at­ tacks with human targets.
+
+9 Appendix B shows these questions as they appear on the survey. 10 We include the question about the European Parliament because the Eu­ ropean Union is a frequent target of nationalist and anti-immigration politicians.
+
+11 The Post_Attack indicator is equal to 1 if the interview was conducted on the day of the attack, but it is not clear whether ESS interviews were in fact con­ ducted after the attack occurred. We have run an alternative specification where same-day interviews are dropped from the analysis and the results are qualitatively unchanged. These results are available upon request.
+
+12 For example, there were two fatal terror attacks on German soil when Round 8 of the ESS was in the field. The first of these occurred on October 16, 2016, and the second occurred on December 19, 2016. Using a two-week bandwidth, our sample includes respondents interviewed 1–14 days before the attack on October 16 and those interviewed 0–13 days after the attack on December 19. Respondents interviewed between these two attacks are not included in the analysis. To take another example, there were 5 fatal terror attacks on French soil when Round 7 of the ESS was in the field. The first of these attacks occurred on December 20, 2014 and the last occurred on January 9, 2015. Using a two-week bandwidth, our sample includes respondents interviewed 1–14 days before the attack on December 20 and those interviewed 0–13 days after the attack on January 9. Appendix Figures A1 and A2 report interview counts in the pre- and post-treatment periods for each of the 16 country-round pairs that comprise the two-week bandwidth sample.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+5
+
+were conducted in each of the two weeks leading up to the first attack and each of the two weeks after the last. Five country-round pairs in which a fatal terror attack occurred while the ESS was in the field were excluded from our analysis because interviews were not conducted in each of the two weeks leading up to an attack and each of the two weeks after the attack.13
+
+3.4. Respondent characteristics and balance tests
+
+Descriptive statistics for ESS respondent characteristics are provided in Panel An of Table 1. Following Mu˜noz et al. (2020), we conduct a balance test for several of these characteristics (age, gender, educational attainment, whether the respondent lives in an urban setting, minority status, and whether the respondent was “coping with their current level of income”) that, in theory, could be correlated with the outcomes under study.14 The results of regressing each of these characteristics on the post-attack dummy and country-by-round fixed effects are reported in the third column of Table 1 (Panel A). They suggest that the pre-versus post-attack samples are generally balanced, although two differences are statistically significant: experiencing a terror attack is associated with a 0.035 increase in the probability that the respondent lived in an urban area (compared to a mean of 0.627) and a 0.016 increase in the prob­ ability that the respondent self-identified as belonging to a minority group (compared to a mean of 0.047). Because it is possible that these
+
+associations are driven by post-attack concerns regarding ESS partici­ pation, we are careful to include a vector of individual-level character­ istics, X, in our regressions.15
+
+4. Main results
+
+Estimates of α1 from equation (1) are reported in Panel An of Table 2. They provide little evidence that terror attacks influence political atti­ tudes or orientation in Europe: without exception, the estimates of α1 are small and statistically insignificant at conventional levels. For instance, experiencing a fatal terror attack is associated with a (statistically insignificant) 0.093 increase (on a 0–10 scale) in whether respondents believed that immigrants made their country a better place, which is only 1.8 percent of the mean (5.188) and 4.0 percent of the standard deviation (2.277). The confidence 95% confidence interval for this es­ timate is −0.135 to 0.322, allowing to easily reject the hypothesis that fatal terror attacks had economically or socially meaningful effects. The other estimated coefficients reported in Panel An of Table 1 are smaller both in absolute value and relative to the mean and standard deviation.16
+
+In Panel B of Table 2, we examine ESS interviews conducted during the 4 weeks leading up to fatal terror attacks and the 4 weeks after, allowing for the possibility that the effects of terror attacks take more than two weeks to manifest. With a 4-week bandwidth, the pre-attack period is 1–28 days before the first terror attack while the post-attack
+
+Table 1 Balance in covariates.
+
+Covariate Observations Mean Estimated coefficient of Post Attack
+
+Panel A: Two-week bandwidth Age 7692 46.25 −1.444 (0.945) Male 7725 0.490 0.028 (0.016) Years of education 7544 12.63 0.206 (0.137) Urban 7725 0.627 0.035* (0.018) Minority 7725 0.047 0.016*** (0.004) Coping with current level of income 7725 0.785 0.004 (0.012) Panel B: Four-week bandwidth Age 11,513 46.80 −1.843** (0.718) Male 11,557 0.486 0.019* (0.010) Years of education 11,316 12.66 0.348** (0.118) Urban 11,557 0.639 0.042 (0.024) Minority 11,557 0.057 0.004 (0.005) Coping with current level of income 11,557 0.832 0.010 (0.010) F-test p-value: .085
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS). Each coefficient estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to the relevant covariate. The two-week bandwidth sample includes respondents interviewed 1–14 days before the first attack during the survey period and those interviewed 0–13 days after the last attack. The four-week bandwidth sample includes respondents interviewed 1–28 days before the first attack during the survey period and those interviewed 0–27 days after the last attack. In Panel A, the analysis is restricted to observations used in any of the 6 regressions reported in Panel An of Table 2. In Panel B, the analysis is restricted to observations used in any of the 6 regressions reported in Panel B of Table 2. Post attack is equal to 1 if the respondent was interviewed on or after the day of the attack (and is equal to 0 otherwise). Regressions include country-by-round fixed effects. We also regress the “Post Attack” variable on all listed covariates at once and report the p-value for the F-test of joint significance.
+
+13 For example, a terror attack occurred in Hungary on February 24, 2009, when the ESS was in the field. However, because ESS interviews were not conducted in each of the two weeks leading up to the attack, we did not include the Hungary-Round 4 in the analysis.
+
+14 Minority status is determined by the question, “Do you belong to a minority ethnic group in [country]?” We code the coping-with-income indicator as equal to 1 if the ESS respondent indicated that he or she was “Coping on present income” or “Living comfortably on present income” in response to the question, “Which of the descriptions comes closest to how you feel about your house­ hold’s income nowadays?” The coping-with-income indicator is otherwise equal to 0. Mu˜noz et al. (2020) recommended testing for post-treatment changes in the likelihood of respondents declining to answer survey ques­ tions. We found no evidence that fatal terror attacks were related to the like­ lihood of not responding to the outcomes used in this analysis. These results are available upon request.
+
+15 It is also possible that experiencing a terror attack is correlated with difficult-to-measure (i.e., unobservable) attributes of respondents. An ESS manual posted online instructs interviewers to make 4 contact attempts over a two-week period. Respondents who worked longer hours might have been more likely to require multiple contact attempts and therefore more likely to be contacted in the post-attack period. If these respondents who worked longer hours held systematically different beliefs about politics and government in­ stitutions, then the regression results reported below could be biased. While this is an important caveat, we experimented with restricting our sample to pre- attack interviews and, with this restriction in place, found no evidence that interview dates were systematically related to our outcome variables.
+
+16 In Appendix Table A3, we re-estimate equation (1) omitting the individual- level characteristics as controls. The results of this exercise are broadly consistent with those reported in Panel An of Table 2.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+6
+
+period is 0–27 days after the last. Because we require that ESS interviews were conducted in each of the 4 weeks leading up to the first attack and each of the 4 weeks after the last terror attack, identification is now based on 12 (as opposed to 16) pre-versus post-attack comparisons in 6 countries: France, Germany, the Netherlands, Spain, Sweden, and the United Kingdom.17 The estimates of α1 reported in Panel B of Table 2 remain small and statistically insignificant at conventional levels. Next, we explore whether the effects of terror attacks on political attitudes and orientation evolved over time using the 4-week bandwidth and a modified version of equation (1) in which the post-attack indicator is replaced with a series of mutually exclusive lead and lag indicators, allowing us to check for pre-treatment trends.18 Estimates for whether immigrants make the respondent’s country a better place to live are reported in Fig. 2. There is no evidence of pre-treatment trends (the estimated coefficients of the pre-event dummies are consistently small and statistically insignificant at conventional levels). One week after treatment, there is a modest 0.098 increase in how this question was answered, followed by a gradual decline of roughly equal magnitude,
+
+but none of the post-treatment coefficients are sufficiently precise to reject the hypothesis of zero effect. The event-study estimates for our other outcomes are reported in Figs. 3–7. In general, these estimates are small and statistically insig­ nificant, but there is evidence of reduced satisfaction with the national government two to 3 weeks after an attack (Fig. 5). To explore whether this reduction in satisfaction with the national government persists, we widened the bandwidth from 4 to 8 weeks. The results of this exercise, which are reported in Appendix Figure A6, provide no evidence of a sustained reduction in satisfaction with the national government in the post-attack period.19
+
+5. Regional effects of terror attacks
+
+Up to this point in the analysis, we have estimated average effects across ESS respondents living in country c, the country that was attacked. However, it is possible that attacks are more salient when they occur in the respondent’s own region of residence. ESS Rounds 4–9 provide “Nomenclature of Territorial Units for Statistics” (NUTS-1), which allow us to match where an attack occurred with each
+
+Table 2 The effects of fatal terror attacks on political attitudes and orientation.
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government Trust in European Parliament Political orientation on left-right scale
+
+Panel A: Two-week bandwidth Post attack .093 (.107) [7265] .032 (.018) [7295] .054 (.089) [7330] −.015 (.076) [7333] .033 (.102) [6867] .055 .113 [6760] Mean of DV 5.188 2.399 4.369 4.046 4.311 5.014 Standard deviation of DV 2.277 0.878 2.436 2.406 2.430 2.175
+
+Panel B: Four-week bandwidth Post attack .005 (.092) [11,056] .018 (.023) [10,995] .080 (.101) [11,000] −.040 (.120) [11,037] .069 (.064) [10,384] .082 (.104) [10,283]
+
+Mean of DV 5.139 2.378 4.615 4.120 4.203 4.897 Standard deviation of DV 2.260 0.886 2.383 2.357 2.377 2.082
+
+Country-by-round fixed effects yes yes yes yes yes yes
+
+Individual controls yes yes yes yes yes yes
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS). Each coefficient estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question. Standard errors are clustered at the country-round level. Sample sizes are reported in brackets. The two-week bandwidth sample includes respondents interviewed 1–14 days before the first attack during the survey period and those interviewed 0–13 days after the last attack. The four-week bandwidth sample includes respondents interviewed 1–28 days before the first attack during the survey period and those interviewed 0–27 days after the last attack. Post attack is equal to 1 if the respondent was interviewed on or after the day of the attack (and is equal to 0 otherwise). Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+17 Four of these 12 comparisons involve multiple attacks (in France, Germany, Spain, and the United Kingdom), and remainder are based on a single attack (in France, the Netherlands, Spain, Sweden, and the United Kingdom). Country- round pairs were included in the 4-week bandwidth analyses only if ESS in­ terviews were conducted in each of the 4 weeks leading up to the first attack and each of the 4 weeks after the last attack. The country-round pairs that are dropped when we go to from the two-to the 4-week bandwidth are: the Czech Republic-Round 6, Ireland-Round 8, Poland-Round 5, and Spain-Round 4 (Appendix Table A2). Descriptive statistics for ESS respondents in 4-week bandwidth sample are provided in Panel B of Table 1. The results of regress­ ing respondent characteristics on the post-attack dummy and country-by-round fixed effects are reported in the third column of Table 1, Panel B. They suggest that the pre-versus post-attack samples are generally balanced in the 4-week bandwidth sample, although two differences are statistically significant: expe­ riencing a terror attack is associated with an almost two-year reduction in re­ spondent’s age and a 0.35 increase in years of education.
+
+18 Specifically, the zero-week indicator in Figs. 2–7 is for interviews that were conducted 0–6 days after the last attack. The one-week indicator is for in­ terviews conducted 7–13 days after the last attack, and so forth. The negative one-week indicator is for interviews conducted 1–7 days before the first attack.
+
+19 When using an 8-week bandwidth, we do not require that ESS interviews were conducted in each of the 8 weeks leading up to a fatal attack and each of the 8 weeks after an attack. As a consequence, 4 additional country-round pairs are included in the analysis: Hungary-Round 4, Ireland-Round 3, and the United Kingdom-Rounds 1 and 7. Event-study analyses based on an 8-week bandwidth are reported in Appendix Figures A3-A8. The results of these analyses should, however, be viewed with caution because each event-study coefficient is based on different within-country pre-versus post-attack comparisons. Using an 8- week bandwidth, there are small but statistically significant increases in the belief that fewer immigrants from poor countries should be allowed 0, 2 and 3 weeks after an attack (Appendix Figure A4). These estimates range from 0.056 to 0.082 (with p-values of .021–.027). However, 5–7 weeks after an attack, there is a pronounced downward trend in how ESS respondents answered this question, suggesting that any effect of fatal terror attacks on attitudes toward immigrants from poor countries was not only small but impermanent.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+7
+
+respondent’s region.20 While fatal terror attacks typically receive na­ tional and even international attention, press coverage is more intense at the regional and local levels. To explore the effects of terror attacks on political attitudes and orientation at the regional level, we estimate the following regression model:
+
+yicrmt = π0 + π1Post Attackicmt + π2Post Attackicmt x Regionicrmt + Xicrmtβ + θm
+
++ δcrt + εicrmt,
+
+(2)
+
+where the post-attack indicator is interacted with the variable Region, equal to 1 if the respondent lived in the NUTS-1 region of the country that experienced the attack. In place of the country-by-round fixed ef­ fects used in equations (1) and (2), we include region-by-round fixed effects, δcrt. For this analysis we cluster the standard errors at the region- by-round level. Estimates of equation (2) based on two- and 4-week bandwidths are
+
+Fig. 2. Event Study Estimates: Fatal Terror Attacks and “Immigrants Make Country Better Place to Live” Notes: Based on individual-level data from the Euro­ pean Social Surveys (ESS). Figure plots coefficient estimates for weeks-since-attack indicators as described in the text, along with 90% confidence in­ tervals. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and respondents interviewed 0–27 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, and control for re­ spondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+Fig. 3. Event Study Estimates: Fatal Terror Attacks and “Allow Fewer Immigrants from Poorer Countries” Notes: Based on individual-level data from the Euro­ pean Social Surveys (ESS). Figure plots coefficient estimates for weeks-since-attack indicators as described in the text, along with 90% confidence in­ tervals. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and respondents interviewed 0–27 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, and control for re­ spondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+20 NUTS regions have three levels, with level 1 being the broadest. We use level 1 because a large portion of ESS observations do not contain information on levels 2 and 3. The GTD provides the latitude and longitude of terror attacks. Attacks were matched to regions using GIS software.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+8
+
+Fig. 4. Event Study Estimates: Fatal Terror Attacks and “Trust in Country’s Parliament” Notes: Based on individual-level data from the Euro­ pean Social Surveys (ESS). Figure plots coefficient estimates for weeks-since-attack indicators as described in the text, along with 90% confidence in­ tervals. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and respondents interviewed 0–27 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, and control for re­ spondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+Fig. 5. Event Study Estimates: Fatal Terror Attacks and “How Satisfied with National Government” Notes: Based on individual-level data from the Euro­ pean Social Surveys (ESS). Figure plots coefficient estimates for weeks-since-attack indicators as described in the text, along with 90% confidence in­ tervals. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and respondents interviewed 0–27 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, and control for re­ spondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+9
+
+Fig. 6. Event Study Estimates: Fatal Terror Attacks and “Trust in European Parliament” Notes: Based on individual-level data from the Euro­ pean Social Surveys (ESS). Figure plots coefficient estimates for weeks-since-attack indicators as described in the text, along with 90% confidence in­ tervals. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and respondents interviewed 0–27 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, and control for re­ spondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+Fig. 7. Event Study Estimates: Fatal Terror Attacks and Political Orientation Notes: Based on individual-level data from the Euro­ pean Social Surveys (ESS). Figure plots coefficient estimates for weeks-since-attack indicators as described in the text, along with 90% confidence in­ tervals. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and respondents interviewed 0–27 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, and control for re­ spondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+10
+
+reported in Tables 3 and 4, respectively.21 They provide evidence that terror attacks can affect political attitudes among residents of the region in which they occur. The direction of these estimated effects is, however, not consistent with the idea that the recent surge in terrorism has weakened faith in government and parliamentary institutions. Using a two-week bandwidth, experiencing a fatal terror attack is associated with a 0.322 increase (̂π1 + ̂π2 = 0.322) in whether re­ spondents in the affected region believed that immigrants made their country a better place (Table 3). Although the estimate of π2 appears to be statistically significant, the null (H0: π2 = 0) cannot be rejected if we
+
+adopt the Benjamini–Hochberg procedure for the false discovery rate (Benjamini and Hochberg 1995).22 Likewise, experiencing a fatal terror attack is associated with a 0.109 increase (̂π1 + ̂π2 = 0.109) in whether respondents believed that there should be fewer immigrants from poorer countries, but the null (H0: π2 = 0) cannot be rejected if we adopt the Benjamini–Hochberg procedure. The remaining estimates of π1 and π2 reported in Table 3 are statistically insignificant at conventional levels. When we adopt a 4-week bandwidth, there is evidence that terror attacks led to sizable rally-around-the-flag effects in the affected region (i.e., the region in which the attack occurred). A fatal terror attack is associated with a 0.462 increase in trust in the parliament (̂π1 + ̂π2 = 0.462) and a 0.470 increase in satisfaction with the national government (̂π1 + ̂π2 = 0.470) in the affected region (Table 4). The former estimate represents a 10 percent increase relative to the sample mean (4.530),
+
+Table 3 Post-attack attitudes and political orientation in the region of the attack using a two-week bandwidth.
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government Trust in European Parliament Political orientation
+
+Post attack −.016 (.098) .023 (.028) .001 (.100) −.077 (.085) −.059 (.098) −.018 (.107) Post attack * Region .338** (.170) .086** (.043) .085 (.135) .154 (.159) .197 (.143) .154 (.186) N 5890 5940 5980 5963 5963 5524 Mean of DV 5.267 2.376 4.263 3.972 4.178 5.072
+
+Standard deviation of DV 2.310 0.882 2.464 2.422 2.467 2.199
+
+Country-by-round fixed effects yes yes yes yes yes yes
+
+Individual controls yes yes yes yes yes yes
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS), Rounds 4–9. Each coefficient estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question. Standard errors are clustered at the region-round level. Sample sizes are reported in brackets. The sample includes respondents interviewed 1–14 days before the first attack during the survey period and those interviewed 0–13 days after the last attack. Post attack is equal to 1 if the respondent was interviewed on or after the day of the attack (and is equal to 0 otherwise). Region is equal to 1 if the respondent lived in a NUTS (level 1) region attacked during the survey period. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+Table 4 Post-attack attitudes and orientation in the region of the attack using a 4-week bandwidth.
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government Trust in European Parliament Political orientation on a left-right scale
+
+Post attack −.046 (.099) .040 (.031) .002 (.112) −.085 (.089) −.051 (.094) .108 (.114) Post attack * Region .133 (.140) .075 (.065) .460*** (.169) .555*** (.179) .373 (.243) −.076 (.146) N 8149 8113 8143 8136 7780 7654 Mean of DV 5.231 2.341 4.529 3.995 3.971 4.954
+
+Standard deviation of DV 2.319 0.885 2.412 2.376 2.389 2.010
+
+Country-by-round fixed effects yes yes yes yes yes yes
+
+Individual controls yes yes yes yes yes yes
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS), rounds 4–9. Each coefficient estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question. Standard errors are clustered at the region-round level. Sample sizes are reported in brackets. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and those interviewed 0–27 days after the last attack. Post attack is equal to 1 if the respondent was interviewed on or after the day of the attack (and is equal to 0 otherwise). Region is equal to 1 if the respondent lived in a NUTS (level 1) region attacked during the survey period. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+21 These results are not directly comparable to the results reported in Table 2 because ESS Rounds 1–3 are not included. However, the results reported in Table 2 and Figs. 2–7 are qualitatively unchanged when we exclude data from Rounds 1–3.
+
+22 Because we are examining 6 different outcomes, it is possible that the sta­ tistically significant estimate of π2 is simple due to chance. If the true effect for all 6 outcomes in Table 3 were zero, there would be a 23 percent chance (one minus 0.95 raised to the 6th power) that at least one estimate of π2 would nonetheless be statistically significant at conventional levels.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+11
+
+while the latter represents a 12 percent increase relative to the sample mean (3.995).23
+
+6. Separate estimates by country-round pair
+
+The estimates reported thus far have been based on a pooled sample, potentially masking important heterogeneity. For instance, 5 of the at­ tacks in our 4-week bandwidth sample involved only a single fatality, while 4 were mass-casualty events that garnered global attention; four of the attacks were perpetrated by Jihadi-inspired extremists, while at least 5 involved more domestic political conflicts (Appendix Table A2). In Table 5, we report separate estimates of π1 from equation (1) for each country-round pair in our 4-week bandwidth sample.24 Because this analysis involves testing multiple hypotheses and reduced sample sizes, spuriously significant estimates are a distinct possibility. None­ theless, producing estimates of π1 at the country-round level allows us to directly compare our results with those of previous studies that have focused on a single high-profile terror attack (Finseraas et al., 2011; Silva et al. 2018; Nussio 2020).
+
+6.1. Terror attacks in Spain
+
+Two small-scale terror attacks were carried out by the Basque Fatherland and Freedom (ETA) movement when Round 1 of the ESS was in the field. In the first attack occurred on December 17, 2002, and the second occurred on February 8, 2003. These attacks, each of which resulted in the death of a police officer, seem to have reduced trust in the parliament and satisfaction with the national government among Spanish ESS participants. The relevant estimates of π1 are statistically significant and sizeable.25
+
+ETA planted a bomb in the Terminal 4 parking area of the Madrid airport when Round 3 of the ESS was in the field, killing two bystanders and wounding 12. This attack does not seem to have affected trust in parliament or satisfaction with the national government, but it is asso­ ciated with a 0.159 increase in the belief that fewer immigrants from poorer countries should be allowed, which is 6 percent of the mean response (2.50).
+
+6.2. Terror attacks in France
+
+France experienced a series of terror attacks between December 20, 2014 and January 9, 2015, when Round 7 of the ESS was in the field. Among them, was the attack on the offices of the satirical weekly magazine Charlie Hebdo, in which 12 people were killed and 11 wounded. Trust in parliament increased by 0.707 in the post-attack period as compared to the pre-attack period; similarly, there was a 0.828 increase in satisfaction with the national government.26 Consis­ tent with the results of Silva (2018), who also used data from the ESS to examine the effects of the Charlie Hebdo shootings, we find little evi­ dence that the attack affected French attitudes towards immigrants. The attack on French soil during Round 8 was small-scale (only one person was killed) and the perpetrator is still unknown. We find no evidence that it appreciably altered political attitudes. By contrast, the mass shooting by jihadi-inspired extremists at the Strasbourg Christmas market on December 11, 2018 (while in Round 9 of the ESS was in the field) resulted in 5 deaths, received a great deal of press coverage, and anecdotally caused great anxiety among the French (Rubin and Breeden 2018). It does not appear to have affected attitudes towards immigrants or the national government, but there was a post-attack increase of 0.504 in left-right political orientation.
+
+6.3. Terror attacks in the United Kingdom
+
+Two small-scale attacks perpetrated by the New Irish Republican Army (IRA) took place while Round 6 of the ESS was in the field. The IRA carried out another small-scale attack while Round 8 was in the field, and the Irish National Liberation Army (INLA) carried out a fourth small-scale attack while Round 9 was in the field. There is no evidence of post-attack changes in political attitudes or orientation.
+
+6.4. Terror attacks in the Netherlands
+
+On November 2, 2004, the filmmaker Theo van Gogh was shot and decapitated by a member of a jihadist group while Round 2 of the ESS was in the field. This attack received worldwide attention and inspired a series of attacks on mosques in the Netherlands (Finseraas et al., 2011). We also have responses from Round 4 of the ESS before and after a car attack on the Dutch royal family. This latter attack occurred on May 1, 2009 and killed 5 festival-goers. The motives of the perpetrator are still unknown. Consistent with the results of Finseraas et al. (2011), there is a sta­ tistically significant decrease among Dutch respondents in the belief that immigrants make the country better after the murder of Theo van Gogh.27 Specifically, our estimate of π1 is −0.398, or 8 percent of the mean (4.974). The van Gogh murder also appears to have increased trust in the Dutch Parliament as well as trust in the European Parliament, a pattern of results that is suggestive of a rally-around-the-flag effect. There is no evidence that the May 1, 2009 attack affected political attitudes.28
+
+23 Again, if the true effect for all 6 outcomes examined in Table 4 were zero, there would be a 23 percent chance (one minus 0.95 raised to the 6th power) that at least one estimate of π2 would nonetheless be statistically significant. However, when trust in parliament is on the left-hand side of the regression, the rejection of the null hypotheses (H0: π2 = 0) is robust to the Benjami­ ni–Hochberg procedure for the false discovery rate (Benjamini and Hochberg 1995) and the more conservative Bonferroni method for controlling the fam­ ilywise error rate (FWER). Likewise, when satisfaction with the national gov­ ernment is on the left-hand side of the regression, the rejection of the null hypotheses (H0: π2 = 0) is robust to the Benjamini–Hochberg procedure for the false discovery rate (Benjamini and Hochberg 1995) and the more conservative Bonferroni method for controlling the FWER. The estimates of π1 and π2 in Table 4 are small and imprecise when political orientation or attitudes towards immigration is on the left-hand side of the regression. For instance, experi­ encing a fatal terror attack is associated with a statistically insignificant 0.087 increase (̂π1 + ̂π2 = 0.087) in whether respondents in the affected region believed that immigrants made their country a better place, which is less than 2 percent of the sample mean (5.231).
+
+24 The estimates reported in Table 5 are based on 4-week bandwidths. Using two-week bandwidths produces similar, although less precise, estimates. Month-of-year fixed effects are not included in these regressions due to lack of variation.
+
+25 Trust in the parliament was, on average, 0.770 lower in the post-attack period as compared to the pre-attack period (or 15 percent of the mean); satisfaction with the national government was 0.701 lower (or 15 percent of the mean).
+
+26 Perhaps because the Charlie Hebdo attack received intense national and international press coverage, the estimated effects are sizeable. Trust in parliament increased by 18 percent relative to the mean (0.707/3.972 = 0.178) after the attacks, and satisfaction with the national government increased by 28 percent relative to the mean (0.828/2.93 = 0.283). The attacks are also asso­ ciated with a 0.427 increase in how much trust French respondents had in the European Parliament and an increase of 0.345 in the left-right political orien­ tation outcome. These estimates are, however, only significant at the 10 percent level.
+
+27 Finseraas et al. (2011) found that Europeans became more supportive of imposing restrictive immigration policies immediately after the murder of Dutch film-maker Theo van Gogh.
+
+28 Using a two-week bandwidth, the May 1, 2009 attack is associated with an increase in the belief that immigrants make country better.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+12
+
+6.5. Terror attacks in Germany and Sweden
+
+Two attacks that took place in Germany while Round 8 of the ESS was in the field. On October 16 of 2016, a 16-year-old was stabbed to death in Hamburg. Approximately two months later, a truck was driven by a jihadi-inspired extremist into a Berlin Christmas market, leaving 12 bystanders dead and more than 50 injured. Despite the large number of fatalities and intense press coverage (Grieshaber 2016; Hjelmgaard 2016; Stack 2016), these attacks do not seem to have appreciably affected political attitudes among Germans.29
+
+Finally, a suicide bomber affiliated with Iraqi extremists attacked a shopping center in Stockholm while Round 5 of the ESS was in the field. Although nobody aside from the bomber was killed, there was a sizeable increase how much trust respondents had in parliament; there is also evidence of an increase in the belief that immigrants make the country a better place in the post-attack period.30
+
+7. Conclusion
+
+Comparing within-country responses to the European Social Survey in the weeks before and after terror attacks, we produce arguably causal estimates of their effects on political attitudes uncontaminated by secular trends, economic conditions, and other political/social move­ ments and events. Our results provide little support for the hypothesis that terror attacks involving at least one fatality appreciably shift atti­ tudes towards immigration or political orientation. Although we do find some evidence of post-attack changes in attitudes towards government institutions, these estimated effects are confined to the region in which the attack occurred and they are positive: i.e., experiencing a fatal terror attack is associated with increases in how much trust respondents have in their parliament and how much satisfaction they have with the na­ tional government. It is possible that these latter estimates reflect a rally- around-the-flag phenomenon, in which support for the current
+
+government surges in response to some sort of national crisis (Mueller 1973; MacKuen 1983; Brody and Shapiro 1989; Chowanietz 2011; Kuijpers 2019). Consistent with the results of Finseraas et al. (2011), we find evi­ dence that attitudes towards immigrants among Dutch ESS respondents hardened after the murder of Theo van Gogh by jihadi-inspired ex­ tremists. By contrast, other high-profile terror attacks do not seem to have appreciably affected attitudes towards immigrants, although there was a substantial increase in how much trust French respondents had in their parliament after the Charlie Hebdo shootings. While focusing on specific terror attacks allows us to compare our estimates to those of previous studies, it is difficult draw firm conclusions from our county-by-round analysis. Neither high-profile attacks committed by jihadi-inspired extremists nor small-scale attacks committed by ETA or the IRA appear to have elicited systematic responses from ESS re­ spondents, a pattern of results that clearly illustrates the value of analyzing pre- and post-survey data from as many terror attacks as possible. There is an ongoing debate as to the effectiveness of terrorism. Studies including those by Berrebi and Klor (2008), Gould and Klor (2010), Montalvo (2011, 2012), and Akaya et al. (2020) provide evi­ dence that terror attacks can influence political opinions and alter choices at the ballot box. Other researchers, however, have concluded that terrorism has little, if any, impact on political attitudes and election outcomes (Abrahms 2006, 2007, 2012; Lago and Montero 2006; Arva­ nitidis et al., 2016; Balcells and Torrats-Espinosa 2018; Silva 2018). We view our results, described above, as directly contributing to this debate. Although popular support in Europe for right-wing anti-immigration parties has undoubtedly been on the rise (Holleran 2018; Roth 2018; Anderson and Kwai, 2022), our results are not consistent with the hy­ pothesis that terror attacks systematically influence political orientation and attitudes towards immigrants, at least in the short run.
+
+Author statement
+
+Brock Smith: Conceptualization, Data curation, Estimation, Writing, Daniel Rees: Visualization, Investigation, Writing, Giovanni Peri: Visu­ alization, Investigation, Writing.
+
+Table 5 Country-by-round results (4-week bandwidth).
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government \ Trust in European Parliament
+
+Political orientation
+
+Spain Round 1 0.121 (−0.21) 0.046 (−0.087) −.770*** (−0.278) −.701*** (−0.249) −0.372 (−0.268) −.033 (.214) Spain Round 3 −0.052 (−0.167) .159** (−0.066) −0.036 (−0.191) −0.277 (−0.184) 0.041 (−0.188) .074 (.148) France Round 7 0.14 (−0.19) −0.079 (−0.07) .707*** (−0.205) .828*** (−0.192) .427* (−0.232) .345* (.196) France Round 8 −0.111 (−0.137) 0.042 (−0.056) 0.200 (−0.158) 0.055 (−0.141) 0.017 (−0.15) .108 (.154) France Round 9 −0.029 (−0.169) 0.101 (−0.075) −0.056 (−0.216) 0.297 (−0.237) 0.282 (−0.217) .504*** (.189) UK Round 6 0.096 (−0.168) 0.012 (−0.066) 0.19 (−0.173) 0.174 (−0.172) −0.044 (−0.17) .080 (.143) UK Round 8 −0.164 (−0.135) 0.052 (−0.052) −0.135 (−0.152) −0.228 (−0.148) −0.098 (−0.151) .123 (.113) UK Round 9 −0.049 (−0.33) 0.114 (−0.103) −0.213 (−0.313) −0.324 (−0.341) −0.121 (−0.347) .020 (.262) Netherlands Round 2 −.398** (−0.161) 0.008 (−0.069) .252* (−0.151) 0.071 (−0.156) .261* (−0.158) .060 (.171)
+
+Netherlands Round 4 0.159 (−0.308) −0.07 (−0.121) 0.401 (−0.285) 0.166 (−0.277) −0.201 (−0.36) .392 (.311)
+
+Germany Round 8 −0.092 (−0.162) 0.031 (−0.067) −0.077 (−0.196) 0.209 (−0.164) −0.23 (−0.175) −.110 (.163)
+
+Sweden Round 5 .435* (−0.25) −0.026 (−0.082) .497** (−0.211) −0.076 (−0.257) −0.014 (−0.254) −.230 (.263)
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS). Each coefficient estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question, limiting the sample to re­ spondents from the indicated country-round pair. Standard errors are corrected for heteroskedasticity. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and those interviewed 0–27 days after the last attack. Regressions include country-by-round fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+29 Likewise, Nussio (2020) found that German’s trust in government, national identification, and views towards Islam were unchanged after the Berlin Christmas market attack.
+
+30 In Appendix Tables A4 and A5, we report estimates of equation (2) for each country-round pair. Because sample sizes are smaller at the regional level, the estimates of π2 should be interpreted cautiously.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+13
+
+Declaration of competing interest
+
+Support for this research came from the Comunidad de Madrid, grant EPUC3M11 (V PRICIT) and grant H2019/HUM-5891. The authors declare that they have no conflicts of interest.
+
+Data availability
+
+Data will be made available on request.
+
+Appendix A. Additional Tables and Figures
+
+Table A1 Descriptive Statistics for ESS Outcomes
+
+Mean (SD) Description
+
+Immigrants make country better place to live 5.07 (2.25) [11,056] Integer responses from 0 to 10.0 = “Worse place to live.” 10 = “Better place to live.” Should allow fewer immigrants from poorer countries 2.41 (.885) [10,995] 1 = “Allow many to come and live here.” 2 = “Allow some.” 3 = “Allow a few.” 4 = “Allow none.” Trust in country’s parliament 4.59 (2.38) [11,000] Integer responses from 0 to 10.0 = “No trust at all.” 10 = “Complete Trust.” How satisfied with the national government 4.09 (2.36) [11,037] Integer responses from 0 to 10.0 = “Extremely dissatisfied.” 10 = “Extremely satisfied.” Trust in the European Parliament 4.13 (2.39) [10,384] Integer responses from 0 to 10.0 = “No trust at all.” 10 = “Complete Trust.”
+
+Political orientation on a left-right scale 4.90 (2.11) [10,283] 0 = “the far left” and 10 = “the far right”.
+
+Notes: Unweighted means are reported (with standard deviations in parentheses and sample size in brackets). Includes observations from the relevant regression in our preferred four-week bandwidth specification results from Table 2. Based on individual-level data from the European Social Surveys (ESS), 2002–2019.
+
+Table A2 Terror Attacks
+
+Country ESS Round In four-week bandwidth analysis?
+
+In Regional Analysis? Number of attacks Number of fatalities Date of first attack
+
+Date of last attack
+
+Perpetrators Description
+
+France 7 yes yes 5 21 12/20/ 2014 1/9/ 2015 Al-Qaida, other Jihadi-inspired extremists
+
+Series of attacks including the Charlie Hebdo attack.
+
+France 8 yes yes 1 1 12/16/ 2016 12/16/ 2016 unknown Arson attack on migrant shelter in which 13 were wounded. France 9 yes yes 1 5 12/11/ 2018 12/11/ 2018 Jihadi-inspired extremists Mass shooting at Strasbourg Christmas market. Germany 8 yes yes 2 14 10/16/ 2016 12/19/ 2016 Two by Jihadi- inspired extremists, one unknown
+
+16-year-old boy stabbed to death in Hamburg and a truck attack at a Berlin Christmas market. Netherlands 2 yes No 1 1 11/2/ 2004 11/2/ 2004 Hofstad Network (Jihadist group) Murder of filmmaker Theo van Gogh. Netherlands 4 yes Yes 1 7 5/1/ 2009 5/1/ 2009 Unknown Car attack on festival for Dutch royal family. Spain 1 yes No 2 2 12/17/ 2002 2/8/ 2003 Basque Fatherland and Freedom (ETA) Police officer killed in a failed bombing attack near Madrid and police officer killed in Andoain. Spain 3 yes No 1 2 12/30/ 2006 12/30/ 2006 Basque Fatherland and Freedom (ETA) Bombing at Madrid airport in which 12 were wounded. Sweden 5 yes Yes 1 1 12/11/ 2010 12/11/ 2010 Iraqi extremists Suicide bomber in Stockholm in which only the bomber was killed. Two bystanders were wounded. UK 6 yes Yes 2 2 10/25/ 2012 11/1/ 2012 The New Irish Republican Army Murder of a drug dealer and murder of a police officer, both in Northern Ireland. UK 8 yes Yes 1 1 10/20/ 2016 10/20/ 2016 The New Irish Republican Army Murder of a suspected drug dealer in Northern Ireland. UK 9 yes Yes 1 1 12/4/ 2018 12/4/ 2018 Irish National Liberation Army (INLA)
+
+Civilian murdered in Northern Ireland.
+
+Czech Republic 6 no Yes 1 1 1/19/ 2013 1/19/ 2013 unknown Suicide bomb attack in Ceske Velenice. Only the bomber was killed Ireland 8 no Yes 1 1 12/7/ 2016 12/7/ 2016 Dissident Irish Republicans Rival dissident Irish Republican Aidan O’Driscoll murdered. Poland 5 no Yes 1 1 10/19/ 2010 10/19/ 2010 Anti-Government extremists Murder of politician Marek Rosiak. Spain 4 no Yes 2 2 9/22/ 2008 12/3/ 2008 Basque Fatherland and Freedom (ETA) Car bombing in Santo˜na and murder of businessman Ignacio Uría Mendiz´abal.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+14
+
+Table A3 The Effects of Fatal Terror Attacks: No Individual-Level Controls
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government Trust in European Parliament Political orientation
+
+Panel A: Two-week bandwidth Post attack .160 (.104) [7445] .008 (.024) [7472] .068 (.089) [7515] −.007 (.086) [7524] .093 (.114) [7039] .026 (.102) [6920] Mean of DV 5.171 2.402 4.356 4.049 4.304 5.014 Standard deviation of DV 2.278 0.879 2.439 2.407 2.430 2.177
+
+Panel B: Four-week bandwidth Post attack .102 (.110) [11,298] −.028 (.025) [11,235] .115 (.115) [11,251] −.030 (.126) [11,292] .151* (.126) [10,616] .016 (.875) [10,492] Mean of DV 5.131 2.379 4.605 4.126 4.202 4.889 Standard deviation of DV 2.256 0.886 2.384 2.352 2.376 (2.088)
+
+Country-by-round fixed effects yes Yes yes yes yes yes
+
+Individual controls no No no no no no
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS). Each coefficient estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question. Standard errors are clustered at the country-round level. Sample sizes are reported in brackets. The two-week bandwidth sample includes respondents interviewed 1–14 days before the first attack during the survey period and those interviewed 0–13 days after the last attack. The four-week bandwidth sample includes respondents interviewed 1–28 days before the first attack during the survey period and those interviewed 0–27 days after the last attack. Post attack is equal to 1 if the respondent was interviewed on or after the day of the attack (and is equal to 0 otherwise). Regressions include country-by-round fixed effects and month-of-year fixed effects.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+15
+
+Appendix Table A4 Country-by-Round Results: Effects in Region that was Attacked (Two-Week Bandwidth)
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government Trust in European Parliament Political orientation
+
+France Round 7 .095 (.600) −.019 (.195) .285 (.606) .089 (.582) .194 (.639) .933* (.555) France Round 8 .311 (.527) .196 (.177) .426 (.552) 1.287** (.582) .688 (.629) .375 (.559) France Round 9 −.731 (.943) .147 (.357) −.311 (.867) −1.367 (.889) −.182 (.978) −2.026** (.850) UK Round 6 .585 (1.483) .274 (.645) −.359 (1.689) .022 (1.035) −.346 (1.296) −.770 (.747) UK Round 8 −1.145** (.510) .646* (.340) −1.087 (.961) −.874 (.984) −1.739** (.834) −.547 (1.206) Netherlands Round 4 .243 (.766) −.556* (.313) .048 (.763) .088 (.658) .213 (.725) −.360 (.923)
+
+Germany Round 8 1.504 (2.078) .264 (.645) −1.440 (.925) 1.631* (.889) .121 (.933) −.987 (1.185) Sweden Round 5 −.342 (.610) .040 (.204) .530 (.577) −1.091 (.662) −.595 (.686) .093 (.698)
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS). The table reports the coefficient estimate for π2 from Equation (3). Each estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question, limiting the sample to respondents from the indicated country-round pair. Standard errors are corrected for heteroskedasticity. The sample includes respondents interviewed 1–14 days before the first attack during the survey period and those interviewed 0–13 days after the last attack. Regressions include region fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+Appendix Table A5 Country-by-Round Results: Effects in Region that was Attacked (4-Week Bandwidth)
+
+Immigrants make country better Fewer immigrants from poorer countries Trust in country’s parliament Satisfied with national government Trust in European Parliament Political orientation
+
+France Round 7 −.025 (.390) .110 (.147) .096 (.401) −.571 (.482) .230 (.373) .131 (.400) France Round 8 .230 (.373) .166 (.134) .897** (.381) .993** (.389) 1.081** (.423) −.052 (.381) France Round 9 −.478 (.557) −.174 (.245) .062 (.887) .731 (1.186) 1.546** (.732) −.842 (.769) UK Round 6 .564 (.707) −.109 (.373) .479 (.869) .932 (.793) .571 (.882) .393 (.541) UK Round 8 −1.222** (.477) .620* (.326) −1.093 (.956) −.571 (.987) −1.779** (.785) −.800 (1.295) Netherlands Round 4 .502 (.606) −.487** (.243) .636 (.551) .302 (.581) 1.044* (.599) −.479 (.808)
+
+Germany Round 8 .717 (.788) .014 (.266) −1.587* (.850) .589 (.573) .635 (.734) −.694 (.661) Sweden Round 5 −.712 (.520) 236 (.170) .471 (.431) −.111 (.526) −.319 (.511) .585 (..533)
+
+*Statistically significant at 10% level; ** at 5% level; *** at 1% level. Notes: Based on individual-level data from the European Social Surveys (ESS). The table reports the coefficient estimate for π2 from Equation (3). Each estimate (and its standard error, which is reported in parentheses) is from a separate OLS regression where the dependent variable is equal to respondent i’s level of agreement with the relevant question, limiting the sample to respondents from the indicated country-round pair. Standard errors are corrected for heteroskedasticity. The sample includes respondents interviewed 1–28 days before the first attack during the survey period and those interviewed 0–27 days after the last attack. Regressions include region fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+16
+
+Fig. A1. Pre- and Post-Attack Interview Counts for Country-Round Pairs (4-Week Bandwidth Sample) Notes: Figures show interview counts by weeks since the first/last attack. The zero-week indicator is for interviews that were conducted 0–6 days after the last attack. The one-week indicator is for interviews conducted 7–13 days after the last attack, and so forth. Interview counts are shown for the 12 country-round pairs comprising our four-week bandwidth sample.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+17
+
+Fig. A1. (continued).
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+18
+
+Fig. A2. Pre- and Post-Attack Interview Counts for Country-Round Pairs (Two-Week Bandwidth Sample) Notes: Figures show interview counts by weeks since the first/last attack. The zero-week indicator is for interviews that were conducted 0–6 days after the last attack. The one-week indicator is for interviews conducted 7–13 days after the last attack, and so forth. Interview counts are shown for the 4 country-round pairs that are included in the two-week bandwidth sample but not the four-week bandwidth sample. .
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+19
+
+Fig. A3. Event Study Estimates: Fatal Terror Attacks and “Immigrants Make Country Better Place to Live” (8-Week Bandwidth) Notes: Based on individual-level data from the European Social Surveys (ESS). Figure plots the coefficient estimates for the weeks-since-attack indicators as described in the text, along with 90% confidence intervals. The sample includes respondents interviewed 1–56 days before the first attack during the survey period and those interviewed 0–55 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level. .
+
+Fig. A4. Event Study Estimates: Fatal Terror Attacks and “Allow Fewer Immigrants from Poorer Countries” (8-Week Bandwidth) Notes: Based on individual-level data from the European Social Surveys (ESS). Figure plots the coefficient estimates for the weeks-since-attack indicators as described in the text, along with 90% confidence intervals. The sample includes respondents interviewed 1–56 days before the first attack during the survey period and those interviewed 0–55 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level. .
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+20
+
+Fig. A5. Event Study Estimates: Fatal Terror Attacks and “Trust in Country’s Parliament” (8-Week Bandwidth) Notes: Based on individual-level data from the European Social Surveys (ESS). Figure plots the coefficient estimates for the weeks-since-attack indicators as described in the text, along with 90% confidence intervals. The sample includes respondents interviewed 1–56 days before the first attack during the survey period and those interviewed 0–55 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level. .
+
+Fig. A6. Event Study Estimates: Fatal Terror Attacks and “How Satisfied with National Government” (8-Week Bandwidth) Notes: Based on individual-level data from the European Social Surveys (ESS). Figure plots the coefficient estimates for the weeks-since-attack indicators as described in the text, along with 90% confidence intervals. The sample includes respondents interviewed 1–56 days before the first attack during the survey period and those interviewed 0–55 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level. .
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+21
+
+Fig. A7. Event Study Estimates: Fatal Terror Attacks and “Trust in European Parliament” (8-Week Bandwidth) Notes: Based on individual-level data from the European Social Surveys (ESS). Figure plots the coefficient estimates for the weeks-since-attack indicators as described in the text, along with 90% confidence intervals. The sample includes respondents interviewed 1–56 days before the first attack during the survey period and those interviewed 0–55 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level. .
+
+Fig. A8. Event Study Estimates: Fatal Terror Attacks and Political Orientation (8-Week Bandwidth) Notes: Based on individual-level data from the European Social Surveys (ESS). Figure plots the coefficient estimates for the weeks-since-attack indicators as described in the text, along with 90% confidence intervals. The sample includes respondents interviewed 1–56 days before the first attack during the survey period and those interviewed 0–55 days after the last attack. Regressions include country-by-round and month-of-year fixed effects, respondents’ age, gender, years education, an indicator for living in an urban area, an indicator for minority status, and an indicator for respondent coping at current income level. .
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+22
+
+Appendix B. Text of EES questions as they appear in survey
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+23
+
+References
+
+Abrahms, Max, 2006. Why terrorism does not work. Int. Secur. 31 (2), 42–78. Abrahms, Max, 2007. Why democracies make superior counterterrorists. Secur. Stud. 16 (2), 223–253. Abrahms, Max, 2012. The political effectiveness of terrorism revisited. Comp. Polit. Stud. 45 (3), 366–393. Ahern, Kenneth R., 2018. The importance of psychology in economic activity: evidence from terrorist attacks. NBER Working Paper 24331. Akaya, Alpaslan, Olivier, Bargain, Ahmed, Elsayed, 2020. Global terror, well-being and political attitudes. Eur. Econ. Rev. 123 (April), 103394. Anderson, Christina, Kwai, Isabella, 2022. In: Dramatic Shift, Right-Wing Bloc Wins Slim Majority in Sweden” New York Times. Sept. 14. Arvanitidis, Paschalis, Economou, Athina, Kollias, Christos, 2016. Terrorism’s effects on social capital in European countries. Publ. Choice 169 (3–4), 231–250. Aspelund, Anna, Lindeman, Marjaana, Verkasalo, Markku, 2013. Political conservatism and left–right orientation in 28 eastern and western European countries. Polit. Psychol. 34 (3), 409–417. Balcells, Laia, Torrats-Espinosa, Gerard, 2018. Using a natural experiment to estimate the electoral consequences of terrorist attacks. Proc. Natl. Acad. Sci. USA 115 (42), 10624–10629. Bali, Valentina, 2007. Terror and elections: lessons from Spain. Elect. Stud. 26 (3), 669–687.
+
+Berrebi, Claude, Klor, Esteban F., 2008. Are voters sensitive to terrorism? Direct evidence from the Israeli electorate. Am. Polit. Sci. Rev. 102 (3), 279–301. Benjamini, Yoav, Yosef Hochberg, Y., 1995. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J. Roy. Stat. Soc. B 57 (1), 289–300. Blalock, Hubert M., 1967. Toward a Theory of Minority-Group Relations. Capricorn, New York. Blumer, Herbert, 1958. Race prejudice as a sense of group position. Pac. Socio Rev. 1 (1), 3–7. B¨ohmelt, Tobias, Bove, Vincenzo, Nussio, Enzo, 2020. Can terrorism abroad influence migration attitudes at home? Am. J. Polit. Sci. 64 (3), 437–451. Brody, Richard A., 1991. Assessing the President: the Media, Elite Opinion, and Public Support. Stanford University Press, Stanford, CA. Brody, Richard A., Shapiro, Catherine R., 1989. Policy failure and public support: the Iran-contra affair and public assessment of president reagan. Polit. Behav. 11 (4), 353–369. Choi, Seung-Whan, 2010. Fighting terrorism through the rule of law? J. Conflict Resolut. 54 (6), 940–966. Chowanietz, Christophe, 2011. Rallying around the flag or railing against the government? Political parties’ reactions to terrorist acts. Party Polit. 17 (5), 673–698. Depetris-Chauvin, Emilio, Durante, Ruben, Campante, Filipe, 2020. Building nations through shared experiences: evidence from african football. Am. Econ. Rev. 110 (5), 1572–1602.
+
+G. Peri et al.
+
+Regional Science and Urban Economics 99 (2023) 103864
+
+24
+
+Ding, Fangyu, Ge, Quansheng, Jiang, Dong, Fu, Jingying, Hao, Mengmeng, 2017. Understanding the dynamics of terrorism events with multiple-discipline datasets and machine learning approach. PLoS One 12 (6), e0179057. Drakos, Konstantinos, 2010. Terrorism activity, investor sentiment, and stock returns. Rev. Financ. Econ. 19 (3), 128–135. Fekete, Liz, 2018. Europe’s Fault Lines: Racism and the Rise of the Right. Verso, New York. Ferrín, M´onica, Moreno, Mancosu, Teresa, M., Cappiali, 2020. Terrorist attacks and Europeans’ attitudes towards immigrants: an experimental approach. Eur. J. Polit. Res. 59 (3), 491–516. Finseraas, Henning, Jakobsson, Niklas, Kotsadam, Andreas, 2011. Did the murder of Theo van Gogh change Europeans’ immigration policy preferences? Kyklos 64 (3), 396–409. Finseraas, Henning, Listhaug, Ola, 2013. It can happen here: the impact of the Mumbai terror attacks on public opinion in western Europe. Publ. Choice 156 (1–2), 213–228. Findley, Michael G., Young, Joseph K., 2012. More combatant groups, more terror?: empirical tests of an outbidding logic. Terrorism Polit. Violence 24 (5), 706–721. Gaibulloev, Khusrav, Todd, Sandler, 2011. The adverse effect of transnational and domestic terrorism on growth in africa. J. Peace Res. 48 (3), 355–371. Gassebner, Martin, Jong-A-Pin, Richard, Mierau, Jochen O., 2008. Terrorism and electoral accountability: one strike, you’re out. Econ. Lett. 100 (1), 126–129. Godefroidt, Am´elie, 2022. Forthcoming. “How terrorism does (and does not) affect citizens’ political attitudes: a meta-analysis. Am. J. Polit. Sci. Gould, Eric D., Klor, Esteban F., 2010. Does terrorism work? Q. J. Econ. 125 (4), 1459–1510. Grieshaber, Kirsten, 2016. Germany checking if fatal hamburg stabbing was IS-related. Seattle Times, October 30. Available at: https://www.seattletimes.com/nation-world /germany-checking-if-fatal-hamburg-stabbing-was-is-related/. Hjelmgaard, Kim, 2016. Berlin Christmas market attack suspect was monitored by security services. USA Today. December 22. Available at: https://www.usatoday.co m/story/news/world/2016/12/22/berlin-truck-attack-investigation/95740162/. Holleran, Max, 2018. The Opportunistic Rise of Europe’s Far Right. The New Republic, February 16. Available at: https://newrepublic.com/article/147102/opportunistic-r ise-europes-far-right. Jagodzinski, Wolfgang, Moschner, Meinhard, 2008. Archiving poll data. In: Traugott (Ed.), Wolfgang Donsbach and Michael W, The Sage Handbook of Public Opinion Research. Sage Publications, Ltd., London, pp. 468–476. Jakobsson, Niklas, Blom, Svein, 2014. Did the 2011 terror attacks in Norway change citizens’ attitudes toward immigrants? Int. J. Publ. Opin. Res. 26 (4), 475–486. Kibris, Arzu, 2011. Funerals and elections: the effects of terrorism on voting behavior in Turkey. J. Conflict Resolut. 55 (2), 220–247. Kuijpers, Dieuwertje, 2019. Rally around all the flags: the effect of military casualties on incumbent popularity in ten countries 1990–2014. Foreign Pol. Anal. 15 (3), 392–412. Kydd, Andrew H., Walter, Barbara F., 2006. The strategies of terrorism. Int. Secur. 31 (1), 49–80. Lago, Ignacio, Jos´e Ram´on Montero, 2006. The 2004 election in Spain: terrorism, accountability, and voting. Taiwan Journal of Democracy 2.1, 13–36. Larsen, Erik Gahner, Cutts, David, Goodwin, Matthew J., 2020. Do terrorist attacks feed populist eurosceptics? Evidence from two comparative quasi-experiments. Eur. J. Polit. Res. 59 (1), 182–205. Legewie, Joscha, 2013. Terrorist events and attitudes toward immigrants: a natural experiment. Am. J. Sociol. 118 (5), 1199–1245.
+
+Lind´en, Magnus, Bj¨orklund, Fredrik, B¨ackstr¨om, Martin, 2018. How a terror attack affects right-wing authoritarianism, social dominance orientation, and their relationship to torture attitudes. Scand. J. Psychol. 59 (5), 547–552. MacKuen, Michael B., 1983. Political drama, economic conditions, and the dynamics of presidential popularity. Am. J. Polit. Sci. 27 (2), 165–192. Montalvo, Jose G., 2011. Voting after the bombings: a natural experiment on the effect of terrorist attacks on democratic elections. Rev. Econ. Stat. 93 (4), 1146–1154. Montalvo, Jose G., 2012. Re-examining the evidence on the electoral impact of terrorist attacks: the Spanish election of 2004. Elect. Stud. 31 (1), 96–106. Mueller, John E., 1973. War, Presidents, and Public Opinion. John Wiley & Sons, New York. Mu˜noz, Jordi, Falc´o-Gimeno, Albert, Enrique, Hern´andez, 2020. Unexpected Event during Survey Design: Promise and Pitfalls for Causal Inference. Political Analysis 28 (2), 186–206. Nesser, Peter, Stenersen, Anne, Oftedal, Emilie, 2016. Jihadi terrorism in Europe: the IS- effect. Perspectives on Terrorism 10 (6), 3–24. Nussio, Enzo, 2020. Attitudinal and emotional consequences of islamist terrorism. Evidence from the Berlin attack. Polit. Psychol. 41 (6), 1151–1171. Nussio, Enzo, Bove, Vincenzo, Steele, Bridget, 2019. The consequences of terrorism on migration attitudes across Europe. Polit. Geogr. 75, 102047. Piurko, Yuval, Schwartz, Shalom H., Davidov, Eldad, 2011. Basic personal values and the meaning of left-right political orientations in 20 countries. Polit. Psychol. 32 (4), 537–561. Quillian, Lincoln, 1995. Prejudice as a response to perceived group threat: population composition and anti-immigrant and racial prejudice in Europe. Am. Socio. Rev. 60 (4), 586–611. Roth, Kenneth, 2018. How to stand up for human rights in the age of trump. Foreign Pol. January 18. Available at: https://foreignpolicy.com/2018/01/18/how-to-stand-up- for-human-rights-in-the-age-of-trump/. Rubin, Alissa J., Breeden, Aurelien, 2018. Gunman Traumatizes Strasbourg, Killing at Least 3 in Possible Terror Attack. New York Times. Dec. 11. Available at: https ://www.nytimes.com/2018/12/11/world/europe/strasbourg-shooting-france.html. Silva, Bruno Castanho, 2018. The (Non)Impact of the 2015 Paris terrorist attacks on political attitudes. Pers. Soc. Psychol. Bull. 44 (6), 838–850. Smale, Alison, Castle, Stephen, 2016. Attack in France Fuels Anti-immigrant Parties on Europe’s Right. The New York Times. July 16, 2016. Available at: https://www.nyti mes.com/2016/07/17/world/europe/attack-in-france-fuels-anti-immigrant-parties- on-europes-right.html. Stack, Liam, 2016. Deadly Berlin Christmas market episode is latest in Europe. N. Y. Times. Dec. 19. Available at: https://www.nytimes.com/2016/12/19/world/euro pe/europe-terror-attacks-2016.html. Thorisdottir, Hulda, Jost, John T., Ido, Liviatan, Shrout, Patrick E., 2008. Psychological needs and values underlying left-right political orientation: cross-national evidence from eastern and western Europe. Publ. Opin. Q. 71 (2), 175–203. Thornton, Thomas Perry, 1964. Terror as a weapon of political agitation. In: Eckstein, Harry (Ed.), Internal War: Problems and Approaches. Free Press, New York, pp. 71–99. Turak, Natasha, 2018. The Future of Europe’s Elections Will Be All about Migration. Foreign Minister Says.” CNBC, June 1. Available at: https://www.cnbc.com/2018/0 6/01/the-future-of-europes-elections-will-be-all-about-migration.html. Van, Hauwaert, Steven, M., Huber, Robert A., 2020. In- group solidarity or out- group hostility in response to terrorism in France? Evidence from a regression discontinuity design. Eur. J. Polit. Res. 59 (4), 936–995. Vasilopoulos, Pavlos, Marcus, George E., Valentino, Nicholas A., Foucault, Martial, 2019. Fear, anger, and voting for the far right: evidence from the november 13, 2015 Paris terror attacks. Polit. Psychol. 40 (4), 679–704.
+
+G. Peri et al.

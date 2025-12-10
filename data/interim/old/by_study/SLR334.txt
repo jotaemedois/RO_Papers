@@ -1,0 +1,1481 @@
+Bachelor's thesis
+
+SWAM PYAE PAING
+
+Brno 2025
+
+FACULTY OF SOCIAL STUDIES
+
+THE TRUST DIVIDE: Decoding the Roots of Political Trust in Germany
+
+- Institutional Performance, Civic Culture and Regional
+
+Differences
+
+Supervisor: Zuzana Ringlerová, Ph.D.
+
+Department of International Relations and European Studies
+
+Programme International Relations and European Politics
+
+(Eng.)
+
+THE TRUST DIVIDE: DECODING THE ROOTS OF POLITICAL TRUST IN GERMANY - INSTITUTIONAL PERFORMANCE, CIVIC CULTURE AND REGIONAL DIFFERENCES
+
+2
+
+Bibliographic record
+
+Author: Swam Pyae Paing Faculty of Social Studies Masaryk University
+
+Department of International Relations and European Studies
+
+Title of Thesis: THE TRUST DIVIDE: Decoding the Roots of Political Trust in Germany - Institutional Performance, Civic Culture and Regional Differences
+
+Degree Programme: International Relations and European Politics (Eng.)
+
+Supervisor: Zuzana Ringlerová, Ph.D.
+
+Year: 2025
+
+Number of Pages: 69
+
+Keywords: Political Trust, Institutional Performance, Civic Culture, EastWest Germany Differences, Domestic Trust Index, Principal Component Analysis (PCA), Weighted Least Squares (WLS) Regression, European Social Survey (ESS)
+
+THE TRUST DIVIDE: DECODING THE ROOTS OF POLITICAL TRUST IN GERMANY INSTITUTIONAL PERFORMANCE, CIVIC CULTURE AND REGIONAL DIFFERENCES
+
+3
+
+Abstract
+
+Trust in political institutions is a crucial foundation for social cohesion and the functioning of representative democracy. Recent trends in Western democracies, including Germany, reveal a steady decline in political trust and the rise of antiestablishment movements. Relatively few studies have directly compared the effects of institutional performance (government, democracy, economy) and cultural norms (fairness, interpersonal trust) in East and West Germany, even though these factors are highlighted in the literature as important determinants of trust. This thesis fills that gap by using Principal Component Analysis to create a Domestic Trust Index and investigates trust formation both nationally and separately in East and West Germany using Weighted Least Squares (WLS) regression on data from Round 11 of the European Social Survey (ESS. The results show that political trust is largely influenced by satisfaction with government performance, with West Germans also appreciating fairness rules and East Germans placing more value on government deliverables. According to these findings, political trust can be explained by both performance and cultural elements, however they show up in different ways depending on social settings and historical trajectories. The study contributes to our understanding of how trust is formed in unified Germany by offering fresh, regionally specific insights. It also provides policymakers with recommendations on how to strengthen institutional legitimacy in a variety of political contexts.
+
+THE TRUST DIVIDE: DECODING THE ROOTS OF POLITICAL TRUST IN GERMANY INSTITUTIONAL PERFORMANCE, CIVIC CULTURE AND REGIONAL DIFFERENCES
+
+5
+
+Declaration
+
+I hereby declare that I have written and submitted the THE TRUST DIVIDE: Decoding the Roots of Political Trust in Germany - Institutional Performance, Civic Culture and Regional Differencesindependently. All the sources used for the purposed of finishing this thesis have been adequately referenced and listed in the bibliography.
+
+Brno May 11, 2025 ....................................... Swam Pyae Paing
+
+THE TRUST DIVIDE: DECODING THE ROOTS OF POLITICAL TRUST IN GERMANY INSTITUTIONAL PERFORMANCE, CIVIC CULTURE AND REGIONAL DIFFERENCES
+
+Šablona DP 3.4.2-FSS-english (2022-11-28) © 2014, 2016, 2018–2021 Masarykova univerzita 7
+
+Acknowledgements
+
+I am particularly indebted to my thesis supervisor, Zuzana Ringlerová, Ph.D., whose patience and guidance proved indispensable to the development and refinement of this thesis. Here, I would like to express my heartfelt gratitude to my parents—my late father, U Tin Myo Tun, and my mother, Daw Aye Aye Nwe—for all their invaluable support throughout my life. I extend my appreciation to Phyu Sin Chan Thar for her steadfast support, and I am equally grateful to my close friends—Saw Thihan Oo, Kaung Khant Oo, Nyi Phone Htet, Kaung Set Lin Htike, Yan Naung Htut, Bhavesh Sight Bisht and Aung May Htein —for their unwavering encouragement throughout my student life and the thesis-writing process.
+
+TABLE OF CONTENTS
+
+9
+
+Table of Contents
+
+List of Figures 11
+
+List of Tables 12
+
+Glossary 13
+
+List of Appendices 14
+
+1 Introduction 15
+
+2 Literature Review 19
+
+2.1 Defining Political Trust ..................................................................................... 19
+
+2.2 Determinants of Political Trust ......................................................................... 20
+
+2.3 Why Germany ................................................................................................... 22
+
+2.3.1 A Divided Historical Legacy: East vs. West ............................................ 22
+
+2.3.2 Political Fragmentation and Electoral Shifts ............................................ 22
+
+2.4 Cultural and Institutional Foundations of Political Trust in Transitional Democracies ...................................................................................................... 23
+
+2.5 Culturialist vs. Rationalist Theories of Insitutional Trust ................................. 25
+
+2.5.1 Culturalist Theory of Institutional Trust ................................................... 25
+
+2.5.2 Rationalist / Performance-Based Theory .................................................. 26
+
+2.5.3 Dual Framework and Regional Implications ............................................ 26
+
+3 Methodology 28
+
+3.1 Research Design ................................................................................................ 28
+
+3.2 Overview of Analytical Workflow .................................................................... 29
+
+3.3 Key Variables .................................................................................................... 30
+
+3.4 East–West Classification ................................................................................... 32
+
+3.5 Weighted Least Squares Regressions ................................................................ 32
+
+3.6 Hypotheses ........................................................................................................ 32
+
+3.7 Software and Reproducibility ............................................................................ 33
+
+4 Findings and Analysis 34
+
+4.1 Exploratory Analysis ......................................................................................... 34
+
+TABLE OF CONTENTS
+
+10
+
+4.1.1 Exploratory Analysis using Principal Component Analysis (PCA)......... 34
+
+4.1.2 Descriptive Statistical Analysis of Key Variables ................................... 38
+
+4.2 National Level Determinants of Political Trust ................................................ 42
+
+4.3 Comparative Analysis: East–West Differences in Trust Formation ................. 46
+
+4.3.1 Weighted Least Squares (WLS) Regression - East Germany Model ....... 46
+
+4.3.2 Weighted Least Squares (WLS) Regression - West Germany Model ..... 51
+
+4.3.3 Relevance to the hypothesis ..................................................................... 55
+
+5 Conclusion and Discussion 57
+
+6 Bibliography 59
+
+Appendix A Regional Classification of German States 65
+
+Appendix B Survey Questions for Variables used 67
+
+LIST OF FIGURES
+
+11
+
+List of Figures
+
+Figure 1: AFD’s vote share in election 2013 - 2025 ........................................................... 23
+
+Figure 2: Distribution of Domestic Trust Index .................................................................. 36
+
+Figure 3: PCA on national trust index ................................................................................. 37
+
+Figure 4: Weighted Trust Index by Region in Germany ..................................................... 38
+
+LIST OF TABLES
+
+12
+
+List of Tables
+
+Table 1: PCA on national trust index .................................................................................. 29
+
+Table 2: Overview of Independent Variables Used in the Regression Analysis ................ 31
+
+Table 3: Descriptive Statistics of Domestic Trust Index (PCA1) ....................................... 35
+
+Table 4: PCA on national trust index .................................................................................. 37
+
+Table 5: Descriptive Statistics for key variables used ........................................................ 40
+
+Table 6: Weighted Least Squares (WLS) regression - National Level ............................... 42
+
+Table 7: Weighted Least Squares Regression Results using Unstandardized Coefficient
+
+(National Level) .......................................................................................................... 43
+
+Table 8: Weighted Least Squares Regression Results using Beta Coefficient (National
+
+Level) .......................................................................................................................... 45
+
+Table 9: Weighted Least Squares (WLS) regression - East Germany Model .................... 46
+
+Table 10: Weighted Least Squares Regression Results using Unstandardized Coefficient
+
+(East Germany) ........................................................................................................... 48
+
+Table 11: Weighted Least Squares Regression Results using Beta Coefficient (East
+
+Germany) .................................................................................................................... 50
+
+Table 12: Weighted Least Squares (WLS) regression - West Germany Model ................. 51
+
+Table 13: Weighted Least Squares Regression Results using Unstandardized Coefficient
+
+(West Germany) .......................................................................................................... 52
+
+Table 14: Weighted Least Squares Regression Results using Beta Coefficient (West
+
+Germany) .................................................................................................................... 54
+
+GLOSSARY
+
+13
+
+Glossary
+
+AfD – Alternative für Deutschland (Alternative for Germany)
+
+ESS – European Social Survey
+
+EU – European Union
+
+FRG – Federal Republic of Germany: The official name of West
+
+Germany before reunification in 1990.
+
+GDR – German Democratic Republic: The official name of East
+
+Germany before reunification in 1990..
+
+PCA – Principal Component Analysis
+
+PC1 – First Principal Component
+
+WLS – Weighted Least Squares
+
+KDE – Kernel Density Estimation: A non-parametric way to estimate
+
+the probability density function of a random variable.
+
+SPD – Sozialdemokratische Partei Deutschlands (Social Democratic
+
+Party of Germany)
+
+CDU/CSU – Christlich Demokratische Union Deutschlands / Christlich Soziale Union in Bayern
+
+LIST OF APPENDICES
+
+14
+
+List of Appendices
+
+Text Appendices
+
+Appendix A Regional Classification of German States 65
+
+Appendix B Survey Questions for Variables used 67
+
+INTRODUCTION
+
+15
+
+1 Introduction
+
+Populist parties have become more prevalent in a number of nations. An instructive example is the fact that the far-right Freedom Party of Austria received 28.8% of the vote in the 2024 Austrian legislative election, the highest percentage in the party's history. As the first far-right party to win a state election since World War 2, the farright Alternative for Germany (AfD) achieved notable progress in Germany. Furthermore, since 2012, the Swedish Democrats, the U.K. independence party, the Five Star movement in Italy, the Law and Justice movement in Poland, Jobbik in Hungary, and Golden Dawn in Greece have all made significant progress (Bell, 2024). These election outcomes have been regarded by academics as a sign of a more widespread political ailment and disillusionment with liberal democracy. The way political parties and decision-makers operate is said to be unrelated to the political inclinations of the populace (Hooghe & Zmerli, 2011). As early as the 1960s, several writers made the case that Western political institutions no longer fairly reflect popular preferences, which makes people lose trust in them. There are significant social and political repercussions when political trust declines. In this context, understanding what shapes citizens' trust in democratic institutions has become both a theoretical challenge and a practical necessity. According to Confucius, the three Political powers, according to John Locke, is predicated on the public's trust in their leaders to act in the public interest and safeguard their property (Locke, 1988). Nonetheless, a substantial amount of recent research indicates that trust is essential to democratic governance and that its decline is a significant issue for many modern democracies. According to Easton, no organization of authority in big societies can work effectively without trust, and few institutions can endure for very long without it (Easton, 1975). Miller (1974) asserts that the most significant issues brought on by declining trust cannot be resolved by simply switching leaders. A key component of democratic legitimacy is political trust, which influences voter turnout, policy compliance, and crisis management (Citrin & Stoker, 2018; Easton, 1975; Bobzien, 2023). By encouraging voluntary cooperation and lowering enforcement costs, it reflects public trust that institutions operate effectively and fairly (Tao et al., 2014). In contrast, as seen in the US and the UK, a decline in trust is associated with risk-taking, political disengagement, and support for antiestablishment parties (Lindstrom, 2008; Marien & Hooghe, 2011). Trust is a "reservoir of support" (Easton, 1975), according to scholars, and its depletion indicates a withdrawal from democratic participation (Norris, 2011; Hirschman, 1970). With the
+
+INTRODUCTION
+
+16
+
+global trust crisis (Levitsky & Ziblatt, 2019; Eurofound, 2018), particularly considering growing populism and eroded institutional legitimacy (Kriesi et al., 2012; Muro & Vidal, 2016), understanding the factors that influence trust has become crucial for preserving democratic stability. Scholarly research has identified two main sorts of explanations for political trust. On the one hand, rationalist or performance-based theories contend that the basis of trust is the public's evaluation of the government's efficacy, the status of the economy, and the provision of public goods. Conversely, culturalist theories emphasize the significance of socialization, shared norms, and interpersonal trust and attribute political trust to deeper social and cultural attitudes. Although each strategy has advantages, very little study has fully examined these mechanisms in the context of Germany's historical division. Despite the large amount of research on political trust, few studies have explicitly investigated how institutional performance and cultural norms function together—or in opposition—across different geographic contexts within a single democratic nation. Germany offers a unique empirical opportunity due to its long-standing East-West separation, which has its roots in disparate political histories and institutional experiences. Even though numerous researchers have looked at trust in East or West Germany or evaluated performance-based or cultural variables separately, few—if any—have systematically examined both cultural and performance-based determinants using the most recent data. This thesis contributes new insights by analysing up-to-date data in a period when political dynamics, particularly the rise of the AfD, have intensified the relevance of political trust in shaping Germany’s democratic landscape. This thesis addresses that gap by analysing the disparities in explanatory power between the rationalist and culturalist logics of trust throughout the former GDR and FRG using current survey data and a consistent methodological approach. In particular, the following are the goals of this study:
+
+1. To determine and examine the main factors that influence political trust in
+
+Germany, considering the contributions of cultural elements (such as social norms, political socialisation, and interpersonal trust) and institutional performance indicators (such as satisfaction with government, democracy, and economic conditions).
+
+2. To identify and investigate the primary determinants of political trust in
+
+Germany, considering the roles of institutional performance indicators (such as satisfaction with government, democracy, and economic conditions) and
+
+INTRODUCTION
+
+17
+
+cultural components (such as social norms, political socialisation, and interpersonal trust).
+
+3. To compare the effects of cultural dynamics and communal trust on political
+
+trust in various regions, with an emphasis on possible distinctions between former East and West Germany. This thesis is guided by following research question:
+
+1. What are the main factors influencing political trust in Germany.
+
+a. How do cultural and institutional elements affect trust in the German
+
+context differently? In the thesis, I employ Principal Component Analysis to develop a Domestic Trust Index based on data from Round 11 of the European Social Survey. Next, I use Weighted Least Squares (WLS) regression models to assess the relative relevance of performancebased and cultural variables in the two regions. These findings provide credence to the coexistence of culturalist and rationalist beliefs. The argument bolsters rationalist viewpoints by demonstrating that institutional performance, particularly satisfaction with government and democracy, has a major influence on political trust in Germany. However, the impact of cultural factors, such as views of justice and interpersonal trust, differs by region, being more significant in West Germany and less so in East Germany. This supports the dual-framework approach, which explains trust using both culturalist and rationalist theories, however the situation will determine which is most appropriate.
+
+The legacy of socialism and the distinct political development trajectory in East Germany appear to have strengthened a more instrumental logic of trust. However, West Germany's longer democratic experience seems to support a trust model that is founded on both common civic values and performance. The results indicate that while good governance is important worldwide, building trust in East Germany may require performance-driven strategies, whereas in the West, advancing democratic principles and perspectives on fairness may have a bigger impact. These findings highlight how important it is to adapt trust-building programs to regional traditions and social norms.
+
+INTRODUCTION
+
+18
+
+This thesis begins by introducing the research question and establishing Germany as a compelling case due to its East–West divide and contemporary political shifts. It then reviews literature contrasting culturalist and performance-based theories of political trust and identifies a research gap. The methodology chapter details the use of Principal Component Analysis and Weighted Least Squares regression to evaluate trust determinants across national and regional levels. The findings chapter presents how institutional and cultural factors differently influence political trust in East and West Germany. Finally, the conclusion discusses the results’ theoretical and policy implications, offering directions for future research while continually addressing how political trust is shaped across the two regions. Three main contributions to the existing literature are the focus of this thesis. It begins by methodically contrasting how political trust is affected by institutional performance and cultural norms in the framework of a single, historically divided democratic state. Second, it adds a historical and spatial dimension to theories of political trust by highlighting the ways in which regional legacies in East and West Germany still influence citizens' views of institutions today. Third, by using a strong methodological framework—Weighted Least Squares regressions for the analysis and Principal Component Analysis for building the Domestic Trust Index—this study provides a transparent and repeatable empirical approach. By addressing a critical gap in comparative political trust research, this thesis contributes to theoretical discussions and offers useful insights into how trust in democratic institutions can be reinforced in various sociopolitical circumstances.
+
+LITERATURE REVIEW
+
+19
+
+2 Literature Review
+
+2.1 Defining Political Trust
+
+A complicated concept, trust is a necessary component of successful social cohesiveness and a proper manifestation of representative democracy's tenets. Trust can be defined as an anticipation that the object of trust (a person, an organisation, etc.) will be able to achieve favourable results (Levi & Stoker, 2000). It is a state of mind, a perspective that shapes behaviours and dispositions to act or think in particular ways. It is also an attitude, encompassing a permanent view (regarding some item, event, or person) (Hosking, 2014). Political trust, however, is a more specific version of this broad theory. It refers to the trust that people have in political actors, institutions, and procedures to make choices and fulfil obligations in a way that is just, capable, and in line with the general welfare. In contrast to generalised trust, which is influenced by face-to-face social contacts, political trust is frequently predicated on opinions about institutional performance, democratic values, and accepted standards. Political trust serves as a sort of social glue in democracies. It supports the maintenance of legitimacy, promotes public collaboration with policies, and permits institutions to operate effectively without solely depending on coercion. Citizens who lack trust may stop participating in formal politics, doubt the authority of elected officials, or become more receptive to populist and anti-establishment movements. Levi M. (2004) states that we should differentiate between three different kinds of trust. The relationship between two or more people is referred to as personal trust. Trust towards a bigger group of individuals (such as neighbours, friends, or strangers) or even larger groups (such as members of the same nationality) is known as social trust. A key component of social capital, which is a type of social relationship built on past and future experiences, is social trust (Putnam R. D., 1993). One way to think about political trust is as trust in governmental institutions or organisations. In sum, trust is a vital social resource that affects political system stability, democratic legitimacy, and civic engagement. It is not just a psychological state. To explain how and why citizens choose to have trust in the institutions that govern them, it is crucial to comprehend its underpinnings, whether they be institutional or cultural.
+
+LITERATURE REVIEW
+
+20
+
+2.2 Determinants of Political Trust
+
+There has been discussion over the nature of political trust. Both one-dimensional and multidimensional attitudes have been used to conceptualise and study political trust. On the one hand, it has been maintained that citizens assess the reliability of various organisations using various standards (Fisher, van Heerde, & Tucker, 2010). It is not appropriate to merely combine the various trust judgements that citizens form into a single measurement scale. However, institutions are a part of a political system with a specific dominant political culture and do not function in a vacuum (Almond & Verba, 1963). As a result, we can anticipate that citizens would acquire a single, allencompassing mindset known as "Political Trust," which is influenced by their nation's political culture. According to Putnam, Pharr, and Dalton (2000), and Uslaner (2002), the most educated members of society are typically the most trusting (Paxton, 2007). This could be because people with greater levels of education tend to have higher incomes, statuses, and classes, all of which are linked to trust, or it could be because they are better able to generalise and abstract their experiences with known and similar people to unknown and different ones. Unemployment is frequently linked to low trust for the same kinds of reasons (Brehm & Rahn, 1997). So also is membership of minority groups that experiences prejudice (Hero, 2003; Patterson, 1999). Higher levels of subjective satisfaction, happiness, and health are typically linked to trust (Pelligra, 2006; Kawachi, Kennedy, Lochner, & Prothrow-Stith, 1997; Inglehart, 1999). Although political trust is frequently linked to the social and economic factors mentioned above, it is also linked to a distinct set of political factors, particularly affiliation with the ruling party and political interest and expertise (Newton, 2001). Because the law enforcement system is the social institution primarily in charge of upholding the trustworthy behaviour of populations, there is a strong correlation between general social trust and trust in the police and judicial systems (Rothstein, 1998; B. & Stolle, 2003).
+
+Zmerli and Newton claim that political trust is the trait of winners. People who succeed socially and politically are more likely to express it because they identify with the party or parties in power. Consequently, they are more inclined to trust the system of government that creates it as well as the specific government in power (the home team effect) (Anderson & LoTempio, 2002); (Anderson, Blais, T., & Listhaug, 2005). One version on this issue is that those with radical political beliefs who make up small minorities and may have paranoid tendencies are the ones who are most likely to have political distrust. Their lack of political achievement validates their mistrust of the political system, and their extreme beliefs condemn them to the political periphery that seldom prevails in elections or conflicts (MsClosky & Chong, 1985). According to the
+
+LITERATURE REVIEW
+
+21
+
+winner hypothesis, people who have achieved success in social, economic, and political spheres exhibit higher levels of political trust than those who have failed in society. Although some studies claim that low levels of trust are a problem in societies with mixed ethnic, religious, linguistic, national, and cultural subgroups, others counter that this isn't always the case (Glaeser, Laibson, Scheinkman, & Soutter, 2000). A combination of institutional, cultural, and political elements influence the complex and context-dependent drivers of political trust. There is a constant correlation between different levels of trust and sociodemographic traits such education, income, employment status, and membership in minority groups (Paxton, 2007; Uslaner, 2002; Hero, 2003). Additionally, there seems to be a positive correlation between trust in institutions and psychological and subjective well-being indices, such as life satisfaction and personal health (Inglehart, 1999); (Pelligra, 2006). Additionally, institutional trust is greatly impacted by political participation, party identity, and alignment with governing parties; these factors frequently support the "winner-loser" hypothesis (Newton, 2001); Anderson & LoTempio, 2002).
+
+However, a universal understanding of trust requires consideration of larger cultural and political structures. According to Zmerli and Newton (2008) and Almond and Verba (1963), political trust is influenced by historical experience and national political culture. The importance of civic norms and interpersonal experiences in forming institutional confidence is particularly highlighted by the distinction between general social trust and institutional trust, as well as their mutual reinforcement (B. & Stolle, 2003). These observations highlight the interaction between rationalist (performance-based) and cultural explanations of trust, laying the groundwork for future comparative studies. In nations that are going through political upheavals or where historical divisions still exist, as East and West Germany, this dual framework becomes particularly relevant. Testing whether institutional trust is more firmly anchored in cultural legacies or motivated by modern performance evaluations is made possible by the German environment, which is distinguished by its post-reunification socio-political diversity. A more sophisticated understanding of political trust in contemporary democracies is thus made possible by the empirical testing of opposing ideas through a comparative study of Germany.
+
+The production and maintenance of institutional trust in various societies must be explained by a larger framework, even when sociodemographic and political involvement elements play a significant role in forming trust at the individual level. The importance of systemic sources of trust—those rooted in enduring cultural norms
+
+LITERATURE REVIEW
+
+22
+
+and institutional performance—is becoming more and more highlighted in the research. These perspectives provide complimentary lenses for comprehending how citizens gradually grow to trust political systems, rather than necessarily contradicting micro-level drivers. These arguments offer important insight into geographical and temporal diversity in trust levels, especially in nations like Germany that have a history of political change. Therefore, moving from individual-level correlates to macro-level theoretical frameworks is necessary to comprehend trust.
+
+2.3 Why Germany
+
+Germany offers a compelling and relevant example for analysing the pillars of political trust in an established democracy going through social and political transformations. Germany's political stability has long been regarded as a pillar of democratic legitimacy on the continent, as it is the continent's largest economy and a key member of the European Union. However, recent events—such as escalating economic instability, political polarisation, and populist sentiment—have brought up significant issues regarding the origins and durability of institutional trust. Because of these dynamics, Germany is a perfect place to study how cultural norms and institutional performance interact to influence voters' political trust.
+
+2.3.1 A Divided Historical Legacy: East vs. West
+
+Germany's two postwar histories present a singular chance to investigate how context may influence institutional trust in various ways. East and West Germany still have different political cultures even thirty years after reunification. According to earlier studies, West Germans, who have had more time in democratic institutions, display trust patterns based more on social capital and interpersonal norms, whereas East Germans, who were influenced by socialist legacies and post-1990 transitions, prefer to display performance-orientated (instrumental) trust (Campbell, 2004); (Rohrschneider R. , 1999).
+
+2.3.2 Political Fragmentation and Electoral Shifts
+
+Significant changes are occurring in Germany's political scene. Newer or more radical parties, especially the right-wing Alternative for Germany (AfD), have gained support, while support for more established parties, including the CDU/CSU and SPD, has decreased. The AfD, which was first founded as a Eurosceptic party, received 4.7 percent of the vote in its first federal elections in 2013, which was less than the 5 percent threshold needed to join the Bundestag. The party received 12.6% of the vote in the 2017 federal elections and was elected to the Bundestag with 94 MPs. Because of then-Chancellor Angela Merkel's 2015 refugee policy, which permitted over a
+
+LITERATURE REVIEW
+
+23
+
+million asylum seekers to enter Germany, it was the third-largest party in the German parliament. The AfD's vote percentage fell to 10.3 percent in the 2021 elections, making it the fifth largest party in the Bundestag, despite the party's continued good performance in eastern Germany. With concerns at the time centred primarily on managing the COVID19 outbreak, the party found it difficult to sustain its anti-immigration stance. However, as the election campaign concentrated on immigration and the economy, the AfD doubled its vote share from 2021 in the most recent elections (Federal Returning Officer, 2025).
+
+Figure 1: AFD’s vote share in election 2013 - 2025
+
+Examining whether political trust has changed in line with electoral preferences is a key focus. Given these historical and political factors, the next step is to firmly establish our comprehension in the theoretical frameworks that explain trust, such as cultural and performance-based models,
+
+2.4 Cultural and Institutional Foundations of Political Trust in Transitional Democracies
+
+While substantial research exists on political trust across democratic contexts few studies directly compare East and West Germany and specifically examine how
+
+LITERATURE REVIEW
+
+24
+
+institutional performance and cultural factors interact. Most of the current research either looks at Germany as a whole or does not simultaneously take performancebased and culturalist interpretations into account.
+
+Previous research on the foundations of political trust paints a picture that is comparable to studies conducted in other nations: political trust is determined by institutional and cultural factors. While the institutional approach is impacted by rational-choice theories, the cultural approach, which is based on a groundbreaking study by Almond and Verba (1963), assumes that socialisation processes, shared experiences, societal norms, and values shape citizens' attitudes. To put it briefly, if citizens are happy with the society they live in, they will trust themselves. These two primary sources of political trust in emerging democracies have been experimentally identified by several studies: cultural variables, in conjunction with institutional, performance-based indicators, dominate the overall picture (Mishler & Rose , 2005). The study of political trust in new democracies has undoubtedly drawn a lot of attention since the well-known third wave of democratisation that occurred in the second half of the 20th century (Huntington, 1991). According to empirical research, people in more established democracies tend to be more trustworthy than those in more recent ones (Denters, Gabriel, & Torcal., 2007). After the so-called honeymoon period, trust appears to sharply diminish, despite being relatively strong in the immediately following of regime changes. A secure and trustworthy connection between the state and its citizens can only be built after this (Catterberg, 2005). In the specific cases of Eastern Europe after 1990 (e.g., Rose & Mishler, 2011; Loewenberg, Mishler, & Sanborn, 2010); and Eastern Germany (e.g., Rohrschneider R., 1999; Rohrschneider & Schmitt-Beck, 2002); (Rohrschneider R., 1996), we have a fair amount of knowledge regarding the levels and factors of political trust during this democratic transition. However, in the ensuing pivotal phase of democratic consolidation, this interest in political trust in emerging democracies has diminished.
+
+Compared to most other international entities, international institutions are more trusted. Compared to their national political parties or politicians, citizens have greater trust in the European parliament. Furthermore, the European Parliament is trusted more by respondents in half of the countries than their national parliament. There is also an exceptionally high level of trust in the United Nations. International institutions are trusted more than national institutions, especially in emerging democracies. It is reasonable to suppose that most citizens do not interact directly with these international organisations. Very few responders can assess the reliability of international organisations as opposed to domestic ones. Ten to fifteen percent of respondents in each wave of the European Social Survey said they were unsure whether they should trust or distrust the United Nations or the European Parliament.
+
+LITERATURE REVIEW
+
+25
+
+Conversely, fewer than 4% of the population is unsure on whether to have trust in or mistrust domestic institutions. The police are the organisation that respondents were most likely to have interacted with, and nearly all of them (89%) had an opinion about how trustworthy they are.
+
+2.5 Culturialist vs. Rationalist Theories of Insitutional Trust
+
+The culturalist and rationalist (performance-based) viewpoints are two main schools of thought that are at odds in the study of institutional trust. One of the most thorough empirical evaluations of these conflicting theories is provided by Ross Campbell's (2004) groundbreaking study on institutional trust in East and West Germany. His study offers important insights that directly feed the present research on political trust in Germany, utilising data from the European Values Survey (EVS).
+
+2.5.1 Culturalist Theory of Institutional Trust
+
+According to the culturalist tradition, institutional trust is ingrained in interpersonal socialisation and long-standing cultural norms, making it exogenous to the political system. This perspective holds that early social encounters and shared values—often referred to as communal trust—are what create trust in institutions rather than political performance. According to Campbell (2004), this school of thought contends that interpersonal trust—which is shaped by social experiences and cultural conditioning—is the basis for institutional trust. Therefore, interpersonal trust serves as a stand-in for more general social standards of collaboration, reciprocity, and civic morality. Social capital, particularly through voluntary associations and civic engagement, is one of the primary factors that produce this type of trust. These networks are thought to reinforce civic ideals and promote institutional legitimacy by teaching democratic principles, cooperation, and compromise (Putnam R., Making Democracy Work: Civic Traditions in Modern Italy, 1993).
+
+However, Campbell (2004) also raises critical challenges to this paradigm:
+
+1. The idea of social capital is not precisely defined and is frequently applied
+
+inconsistently throughout the literature. 2. There are ongoing discussions on the operationalisation of social capital,
+
+including whether commonly used variables accurately represent the concept. 3. The model is indifferent to institutional performance or output since it assumes
+
+that trust moves "bottom-up," from social networks to institutions.
+
+LITERATURE REVIEW
+
+26
+
+This approach supports theories that highlight cultural factors including social engagement, norm-based involvement, and interpersonal trust as important indicators of institutional trust.
+
+2.5.2 Rationalist / Performance-Based Theory
+
+On the other hand, the rationalist paradigm, which has its roots in Downs (1957) and Easton (1963), views political trust as intrinsic to the functioning of institutions. It views people as logical beings who assess organisations according to their perceived usefulness—whether or not their demands, expectations, or needs are satisfied. Easton's idea of "specific support," in which trust is conditioned on contentment with political outcomes, reflects this.
+
+"Institutional trust is generated from the 'top down': it is the weighted sum of the perception of the institutions' performance," as Campbell (2004) puts it. According to this viewpoint, political trust is like a performance review, and it can be damaged by discontent with state services, democratic functioning, or economic performance. This model backs up theories that relate assessments of the economy, government, and democratic satisfaction to trust.
+
+2.5.3 Dual Framework and Regional Implications
+
+These two theoretical schools—performance-based and culturalist—provide opposing but complementary accounts of trust. Additionally, Campbell (2004) contends that each's applicability may differ depending on the locale, especially in post-authoritarian settings like East Germany. According to his findings, West Germans have greater inclinations towards culturally anchored (communal) trust, whereas East Germans display more performance-based (instrumental) trust. The intellectual underpinning for the formulation of testable hypotheses in this study is provided by the dual framework of culturalist and rationalist methods. According to the literature, institutional trust may have its roots in assessments of institutional performance (Easton, 1965); (Mishler & Rose, 2001); or in ingrained cultural norms (Almond & Verba, 1963); (Putnam R. D., 1993). In the German context, where historical, regional, and sociopolitical divisions—particularly between East and West Germany—offer a suitable setting for comparing the relative importance of different trust determinants, this dichotomy is especially pertinent (Campbell, 2004). The following theories are developed to direct the empirical study considering these theoretical insights:
+
+LITERATURE REVIEW
+
+27
+
+H1. Institutional performance is a stronger predictor of political trust than cultural
+
+factors in Germany. H2. Cultural factors will have positive effect on trust.
+
+H3. Perception of fairness will have positive effect on trust.
+
+H4. The determinants of political trust differ by region; East Germany and West
+
+Germany H5. Higher political interest is positively associated with political trust. In the following empirical analysis, these hypotheses will be systematically tested using a combination of Principal Component Analysis (PCA) and Weighted Least Squares (WLS) regression techniques.
+
+METHODOLOGY
+
+28
+
+3 Methodology
+
+3.1 Research Design
+
+A quantitative cross-sectional design is used in this study to examine the factors that influence political trust in Germany. It specifically looks at how cultural elements and institutional performance affect trust, as well as how these impacts differ across East and West Germany. Data from Round 11 of the European Social Survey (ESS), a biannual, cross-national survey that uses probability-based sampling to examine the attitudes, beliefs, and behavioural patterns of varied populations in Europe, are used in the empirical analysis (ESS, 2023). The ESS Round 11 dataset, which was restricted to German respondents, provided the data used in this research. The ESS's verified measures on social capital, political views, and institutional performance make it especially appropriate for research on political trust. It uses rigorous, probability-based sampling methods across countries, ensuring national representativeness (European Social Survey, 2023). A final sample of 2,420 people is obtained by limiting the study to respondents who provided valid answers on all important factors. Since all of the variables used to measure domestic trust in institutions are elevenpoint rating scales ranging from 0 to 10, and since our goal was to create synthetic indicators that account for the correlation between observed variables, two separate applications of Principal Component Analysis (PCA) were conducted, one for each trust dimension, to determine whether the items loaded strongly on a single synthetic factor. To turn a set of observations of potentially correlated variables into a set of values of linearly uncorrelated variables, PCA employs an orthogonal transformation. This ensures that the first principal component has the highest variance feasible (Hotelling, 1933). Three basic indicators—confidence in the national parliament, politicians, and political parties—were taken into consideration by PCA in relation to trust in national political institutions. These indicators showed positive correlations with the original variables (0.63, 0.57, and 0.51, respectively). This finding can be viewed as a synthetic index of this conceptual dimension (TNPI) since it is in line with other research that found trust in national political institutions to be one-dimensional, explaining over 84% of variance (Marien 2011).
+
+METHODOLOGY
+
+29
+
+PC1 PC2 PC3
+
+trstprl 0.636305 0.763411 -0.110995
+
+trstplt 0.573595 -0.371984 0.729806
+
+trstprt 0.515853 -0.528046 -0.674584
+
+Table 1: PCA on national trust index
+
+3.2 Overview of Analytical Workflow
+
+Python (via a Jupyter Notebook) was used for all data preparation, variable generation, and statistical modelling processes. This study used a five-step analytical approach. First, the ESS Round 11 dataset was loaded, and only German respondents were kept for data import and sub-setting. In the second step of data cleaning, invalid codes (such as "not applicable," "refusal," and "don't know") were identified and set to missing. Mean imputation was then used to fill in any gaps that remained. Third, the first principal component (PC1) was extracted and rescaled to a range of 0–10 as the Domestic Trust Index. This process used Principal Component Analysis to integrate three domestic institutional trust components into a single factor. Weighted Least Squares (WLS) regression models were fitted to examine institutional and cultural determinants of trust; separate analyses were conducted for East and West German respondents, and interaction models were tested. Fourth, weighting and regression modelling used the ESS-provided analysis weight (anweight) to account for complex sampling. Fifth, to ensure the robustness of the results, output and diagnostics generated regression tables, diagnostic charts, and summary statistics (e.g., for assessing PCA loadings and residuals). In accordance with accepted practices in trust research (Zmerli & Newton, 2008; Hooghe et al., 2017), three ESS survey items are used to gauge trust in national institutions: Trust in the national parliament (trstprl) Trust in politicians (trstplt) Trust in political parties (trstprt)
+
+METHODOLOGY
+
+30
+
+The three associated trust variables—trust in parliament, trust in politicians, and trust in political parties —were subjected to Principal Component Analysis (PCA) in Python (using the scikit-learn module) to produce a unidimensional factor (Jolliffe, 2002). Across all items, the first principal component (PC1), which accounts for almost 84% of the variance, displayed strong positive loadings (0.52-0.64), suggesting that there is just one latent dimension of political trust. Two circumstances make PCA especially appropriate: (1) when there is a high degree of correlation between several variables, and (2) when it is thought that a single latent factor explains most of the shared variance between them (Jolliffe, 2002). This study uses it to increase regression efficiency by minimising multicollinearity, decrease redundancy among the three trust indicators, and capture the underlying construct of domestic institutional trust in a single score. From a conceptual standpoint, PCA computes the input variables' covariance or correlation matrix and then extracts eigenvalues and eigenvectors that indicate main components, or directions of maximum variance. These elements are mutually orthogonal and arranged according to the variance they explain. In this study, the three institutional trust measures (trust in parliament: ~0.64; , trust in politicians: ~0.57; trust in political parties: ~0.52) are tightly aligned with the first principal component (PC1), which accumulates the highest shared variance. To improve comparability with other ESS trust measures, the resultant scores are rescaled onto a 0–10 scale, and only PC1 is kept creating the Domestic Trust Index. In the ensuing regression models, this one composite metric serves as the dependent variable. A composite index of confidence in national institutions is used to operationalise political trust. It is based on response to three items: politicians, political parties, and the national parliament. After putting these items through Principal Component Analysis (PCA), the Domestic Trust Index is created by extracting and standardising the first principal component, which accounts for more than 84% of the variance (see also Hooghe et al., 2017; Zmerli & Newton, 2008). To make interpretation and comparability easier, the PC1 scores were first standardised and then rescaled onto a 0–10 scale. The primary outcome variable in the regression models that follow is the resulting Domestic Trust Index.
+
+3.3 Key Variables
+
+The Domestic Trust Index, a composite measure of trust in the national parliament, politicians, and political parties developed by Principal Component Analysis (PCA), serves as the study's dependent variable.
+
+METHODOLOGY
+
+31
+
+Three primary categories of independent variables are included in the analysis: institutional performance indicators, cultural factors, and demographic controls (see Table 2). Satisfaction with important aspects of governance, such as the national government, democracy, and the economy, is measured by institutional performance metrics. Attitudes such as generalized trust, fairness perception, political interest, and social engagement are examples of cultural variables. Control factors take into consideration demographic traits such as age, ideological orientation, and years of education. Appendix B Survey Questions for Variables used describes the exact survey questions from the European Social Survey (ESS Round 11, 2023) used to construct the variables included in the analysis.
+
+Variable Description Type
+
+Satisfaction with the national government Institutional Performance
+
+Satisfaction with democracy Institutional Performance
+
+Satisfaction with the economy Institutional Performance
+
+Belief that most people can be trusted Cultural Factor
+
+Belief that most people are fair Cultural Factor
+
+Self-reported political interest Cultural Factor
+
+Frequency of social meetings Cultural Factor
+
+Years of education Control Variable
+
+Age of respondent Control Variable
+
+Ideological self-placement (left–right scale) Control Variable
+
+Table 2: Overview of Independent Variables Used in the Regression Analysis
+
+METHODOLOGY
+
+32
+
+Variables are Z-scored in Python for consistent coefficient comparisons when calculating the standardized coefficient (Gelman, 2008).
+
+3.4 East–West Classification
+
+The federal state of residence served as the basis for the creation of an indicator variable (EastWest). While states of the former FRG are referred to as Western Germany, states of the former GDR are included in Eastern Germany. According to historical participation, Berlin was assigned to both East and West categories due to its unique historical division (Campbell, 2004). Testing for geographical variations in trust development is made possible by dividing the sample into separate analyses for the East and the West.
+
+3.5 Weighted Least Squares Regressions
+
+All analyses were based on Weighted Least Squares (WLS) regression, which was applied using a weight from the ESS dataset. This ensured that the selection probability of each respondent was taken into consideration and helped to mitigate biases caused by non-response or over-sampling (Pfeffermann, 1993). Initially, WLS regressions were performed using the original, unstandardized variables to obtain the unstandardized coefficients. Subsequently, all variables were standardized (z-scored), and the WLS regressions were re-estimated to derive standardized (beta) coefficients, enabling easier interpretation and comparison of effect sizes. To determine how institutional and cultural factors affect political trust generally, a single regression model was first estimated for the whole German sample. Two distinct sub-models were then run for East and West Germany to identify any patterns of trust formation unique to each region. Finally, to examine whether the impact of government satisfaction on political trust changes depending on ideological self-placement or other moderating factors, interaction terms (such as stfgov × lrscale) were incorporated.
+
+3.6 Hypotheses
+
+The code addresses four primary hypotheses:
+
+H1. Institutional performance is a stronger predictor of political trust than cultural
+
+factors in Germany.
+
+H2. Cultural factors will have positive effect on trust.
+
+METHODOLOGY
+
+33
+
+H3. Perception of fairness will have positive effect on trust.
+
+H4. The determinants of political trust differ by region, East Germany and West
+
+Germany
+
+H5. Higher political interest is positively associated with political trust. Adjusted R2 was used to evaluate model fit, and p-values with standard thresholds (p < 0.05, p < 0.01, p < 0.001) were used to evaluate the statistical significance of each predictor. Hypotheses are assessed by looking at each model's unstandardized coefficient, standardized beta coefficients, p-values (< 0.05), and effect sizes. Regionspecific differences are assessed by comparing the East-West regressions and investigating relevant interaction effects.
+
+3.7 Software and Reproducibility
+
+Python 3.13.2 was used for all studies, specifically with: Pandas performed the wrangling, cleaning, and restructuring of the ESS dataset in this investigation, and scikit-learn created the Domes-tic Trust Index by using principal component analysis (PCA). Weighted Least Squares (WLS) and survey weights were used in the statsmodels used for the regressions, while geopandas enabled regional mapping and spatial operations. Matplotlib and Seaborn were used for visual diagnostics and exploratory data visualisation. Finally, z-score standardisation for all pertinent predictor variables was supplied via SciPy Stats.
+
+FINDINGS AND ANALYSIS
+
+34
+
+4 Findings and Analysis
+
+4.1 Exploratory Analysis
+
+4.1.1 Exploratory Analysis using Principal Component Analysis (PCA)
+
+To ascertain whether the items loaded strongly on a single synthetic factor, two distinct Principal Component Analysis (PCA) applications were carried out, one for each of the two dimensions of trust, since all variables related to the two dimensions under consideration are eleven-point rating scales that range from 0 to 10. Our objective was to create synthetic indicators that account for the correlation between observed variables. Principal Component Analysis (PCA) is a well-known statistical technique for identifying underlying patterns in datasets and decreasing dimensional complexity. PCA generates uncorrelated components called Principal Components (PCs), each of which contributes a fraction of the original dataset's variance.
+
+PCA was employed in the initial exploratory analysis of this investigation. The first principal component (PC1) accounts for most of the variance in the variables associated to trust. The descriptive statistics for PC1 scores, which are displayed in table 2, are necessary to comprehend the central tendency, dispersion, and general distribution characteristics of the principal latent construct derived from our PCA.
+
+FINDINGS AND ANALYSIS
+
+35
+
+Statistic Value
+
+Count 2,420
+
+Mean 4.38
+
+Standard Deviation 2.22
+
+Minimum 0.00
+
+25th Percentile (Q1) 2.74
+
+Median (Q2) 4.58
+
+75th Percentile (Q3) 6.07
+
+Maximum 10.00
+
+Table 3: Descriptive Statistics of Domestic Trust Index (PCA1)
+
+Table 2 displays the PC1 score distribution, which ranges from 0 to 10 with an average of 4.38 (SD = 2.22). Given that the median number (4.58) is close to the mean, there doesn't seem to be much skewness. This data provides an initial indication of a welldistributed component suitable for more examination. A histogram supplemented by Kernel Density Estimation (KDE) was used to further evaluate the distribution of PCA Component 1 scores, as shown in Figure 1.
+
+FINDINGS AND ANALYSIS
+
+36
+
+Figure 2: Distribution of Domestic Trust Index
+
+FINDINGS AND ANALYSIS
+
+37
+
+Figure 3: PCA on national trust index
+
+Factor Loadings:
+
+PC1 PC2 PC3
+
+trstprl 0.636305 0.763411 -0.110995
+
+trstplt 0.573595 -0.371984 0.729806
+
+trstprt 0.515853 -0.528046 -0.674584
+
+Table 4: PCA on national trust index
+
+This visual analysis provides useful information on the distribution of trust-related variables as aggregated into the PCA, and it suggests that the generated principal component well captures the underlying variability and centrality within the data. These results enable more methodological robustness and the potential for sophisticated analytical modelling.
+
+FINDINGS AND ANALYSIS
+
+38
+
+Overall, the PCA exploratory analysis successfully establishes an empirical basis for the subsequent analytical phases of the thesis, which specifically focus on the dynamics of political trust.
+
+4.1.2 Descriptive Statistical Analysis of Key Variables
+
+This thesis also looked at the regional variations in political trust levels among Germany's several federal states. The levels of trust were measured using a weighted trust index, which made it possible to compare different locations in a relevant way.
+
+Figure 4: Weighted Trust Index by Region in Germany
+
+Figure 4 shows that levels of political trust vary significantly by area. The city-state of Hamburg has the highest level of trust, scoring 5.47. Conversely, Sachsen-Anhalt has
+
+FINDINGS AND ANALYSIS
+
+39
+
+the lowest level of confidence, with a score of 3.19, indicating a notable discrepancy in the perceived reliability of the institution. Regions such as Berlin (4.46), Schleswig-Holstein (4.50), and Niedersachsen (4.67) record somewhat higher scores, indicating higher levels of public trust in local governmental institutions. On the other hand, federal states in the former East Germany consistently had lower trust indices, particularly Bran-denburg (3.51), Mecklenburg-Vorpommern (3.69), and Thüringen (3.30). These disparities draw attention to persistent historical, cultural, and economic injustices that have been thoroughly examined in previous research (Campbell, 2004). All things considered, these results highlight the significance of regional contexts in shaping public trust in political institutions and the necessity for policymakers to take local socioeconomic and cultural factors into account when addressing issues related to political trust and institutional legitimacy. This study thoroughly examined key factors that are important for understanding political trust, including economic conditions, interpersonal trust, fairness, media engagement, political interest, education, age, and ideological positioning, as well as satisfaction with governance and democracy. The descriptive statistics, which are summarised in Table 4, serve as the foundation for the subsequent investigation and offer essential information about the distribution and key trends of these variables.
+
+Variabl
+
+e
+
+N Mean Std. Dev.
+
+Min Q1 (25%)
+
+Median
+
+(Q2)
+
+Q3 (75%)
+
+Max
+
+Domes tic_Tr ust_In dex
+
+2,420 4.3808 2.2237 0.00 2.7396 4.5810 6.0698 10.00
+
+stfgov 2,373 3.8222 2.3562 0.00 2.0000 4.0000 6.0000 10.00
+
+stfdem 2,399 5.6965 2.5503 0.00 4.0000 6.0000 8.0000 10.00
+
+FINDINGS AND ANALYSIS
+
+40
+
+Variabl
+
+e
+
+N Mean Std. Dev.
+
+Min Q1 (25%)
+
+Median
+
+(Q2)
+
+Q3 (75%)
+
+Max
+
+stfeco 2,404 4.7616 2.2784 0.00 3.0000 5.0000 7.0000 10.00
+
+ppltrst 2,420 5.1897 2.2313 0.00 4.0000 5.0000 7.0000 10.00
+
+pplfair 2,418 6.1770 2.0329 0.00 5.0000 7.0000 8.0000 10.00
+
+nwspol 2,417 234.66 40
+
+341.64 78
+
+0.00 30.000 0
+
+60.000 0
+
+210.00 00
+
+1200.0 0
+
+polintr 2,419 2.1600 0.8778 1.00 1.0000 2.0000 3.0000 4.00
+
+eduyrs 2,413 14.466 6
+
+3.4260 0.00 12.000 0
+
+14.000 0
+
+17.000 0
+
+33.00
+
+agea 2,415 50.383 9
+
+18.997 3
+
+15.00 35.000 0
+
+52.000 0
+
+65.000 0
+
+90.00
+
+lrscale 2,317 4.5481 1.7705 0.00 3.0000 5.0000 5.0000 10.00
+
+anweig ht
+
+2,420 2.9930 3.4778 0.3550 0.7757 1.8482 3.1564 12.997 4
+
+Table 5: Descriptive Statistics for key variables used
+
+FINDINGS AND ANALYSIS
+
+41
+
+Summary data for the primary factors supporting this study's investigation of political trust in Germany are shown in Table 4. Unless specified, each metric is evaluated across 2,420 observations. The counts account for any slight difference in sample size brought on by non-response particular to an item. The descriptive statistics provide a comprehensive overview of the key variables used in this study. Satisfaction with the national government is relatively low, with a mean score of 3.82, suggesting widespread ambivalence or dissatisfaction among respondents. In contrast, satisfaction with democracy is substantially higher (M = 5.70), indicating that while citizens may be critical of current governmental performance, they largely continue to endorse democratic principles. Economic satisfaction appears more neutral (M ≈ 5.00), reflecting a divided public opinion on economic conditions. Interpersonal trust (M = 5.19) and perceptions of fairness (Median = 7.00) are moderately high, aligning with broader European trends and suggesting that social capital remains an important reservoir of support for political institutions. Political interest is moderate (M = 2.16 on a four-point scale - 1being lowest political interest and 4 being the highest), while political news engagement reveals considerable variability, reflecting varying levels of media consumption across individuals, political interest. Crucially, this significant variation in media consumption may indicate that regional exposure to political information and institutional narratives varies significantly, which may have an impact on the processes by which trust is formed. Regarding demographic characteristics, respondents report an average of approximately 14 to 15 years of education, and the sample includes a broad age range (15–90 years), allowing the analysis to capture potential generational effects. Ideologically, respondents tend to cluster around the centre of the left–right spectrum (M ≈ 4.5), suggesting that extreme political views are relatively rare. Analytical weights provided by the ESS are applied throughout to ensure the sample remains representative of the broader German population. Overall, these distributions set a robust foundation for examining the determinants of political trust, particularly the interplay between institutional performance, social trust, and political engagement.
+
+When combined, these descriptive findings support the idea that cultural orientations and institutional performance won't be the only factors influencing political trust. They also hint at the possibility of effect moderation by political characteristics like interest or ideological alignment, as well as by demographic factors like age or education. These considerations will direct future multivariate analyses that examine the hypotheses of whether political trust is more strongly influenced by cultural cues or performance, and whether these relationships are influenced by geographical or demographic differences.
+
+FINDINGS AND ANALYSIS
+
+42
+
+4.2 National Level Determinants of Political Trust
+
+To examine the factors that influence political trust in Germany, a Weighted Least Squares (WLS) regression was conducted on the Domestic Trust Index, a composite measure obtained by Principal Component Analysis (PCA). In this study, both unstandardized (raw) coefficients and standardized beta coefficients were calculated. When all other variables are held constant, the unstandardized coefficients show how the Domestic Trust Index changes in response to a one-unit change in each predictor variable. Standardized beta coefficients were then calculated to enable meaningful comparison between predictors evaluated on various scales. By expressing each relationship's strength in standard deviation units, these beta values enable a direct comparison of impact sizes across all independent variables.
+
+Sample Size (N) 2420
+
+R-Squared 0.624
+
+Adjusted R-Squared 0.623
+
+F-Statistic 400.3 (p < 0.0001)
+
+Table 6: Weighted Least Squares (WLS) regression - National Level
+
+The model, based on 2,420 observations, explains 62.4% of the variance in political trust (Adjusted R² = 0.623, F = 400.3, p < 0.0001), indicating strong explanatory power.
+
+4.2.1.1 Results from WLS regression with unstandardized coefficient (National Level)
+
+Variable Coefficient Std. Error Significant level
+
+Constant -0.4888 0.192 *
+
+FINDINGS AND ANALYSIS
+
+43
+
+Variable Coefficient Std. Error Significant level
+
+Satisfaction with Government 0.3525 0.017 ***
+
+Satisfaction with Democracy 0.2860 0.015 ***
+
+Satisfaction with Economy 0.1011 0.017 ***
+
+Interpersonal Trust 0.0668 0.014 ***
+
+Fairness Perception 0.0674 0.016 ***
+
+Years of Education 0.0093 0.009 n.s.
+
+Left–Right Scale -0.0099 0.016 n.s.
+
+News Political Engagement 0.0470 0.017 **
+
+Political Interest 0.2496 0.035 ***
+
+Age -0.0087 0.002 ***
+
+Table 7: Weighted Least Squares Regression Results using Unstandardized Coefficient (National
+
+Level)
+
+p-values: *** p<0.001, ** p<0.01, * p<0.05, n.s. = non-significant. As Table 6 illustrates, Government satisfaction is a significant determinant (B = 0.3525, SE = 0.017, p < 0.001). The Domestic Trust Index is predicted to increase by 0.3525 points for every unit increase in government satisfaction. Similarly, there is a positive
+
+FINDINGS AND ANALYSIS
+
+44
+
+correlation between contentment with democracy (B = 0.2860, SE = 0.015, p < 0.001) and political trust, with a one-unit increase in the former being associated with a 0.2860-point gain in the latter. Although the effect magnitude is less, trust is also positively predicted by economic satisfaction (B = 0.1011, SE = 0.017, p < 0.001). There are other, statistically significant influences from cultural factors. A 0.0668point increase in political trust is associated with a one-unit increase in interpersonal trust (B = 0.0668, SE = 0.014, p < 0.001), and a 0.0674-point increase is predicted by a one-unit increase in perception of fairness (B = 0.0674, SE = 0.016, p < 0.001). Furthermore, there is a significant positive correlation between political interest and political trust (B = 0.2496, SE = 0.035, p < 0.001); for every unit increase in political interest, political trust increases by 0.2496 points. Trust and media involvement are positively correlated (B = 0.0470, SE = 0.017, p < 0.01), suggesting that higher levels of political trust are marginally raised by increased intake of political news. Among demographic controls, age has a negative correlation with political trust (B = 0.0087, SE = 0.002, p < 0.001), meaning that political trust drops by about 0.0087 points for every year of age. Ideological self-placement on the left-right scale (B = 0.0099, SE = 0.016, p > 0.05) and years of education (B = 0.0093, SE = 0.009, p > 0.05) did not exhibit significant impacts.
+
+4.2.1.2 Results from WLS regression with standardized (beta) coefficient (National Level)
+
+Variable β Coefficient Std. Error Significant level
+
+Constant 4.2977 0.029 ***
+
+Satisfaction with Government 0.8222 0.041 ***
+
+Satisfaction with Democracy 0.7262 0.037 ***
+
+FINDINGS AND ANALYSIS
+
+45
+
+Variable β Coefficient Std. Error Significant level
+
+Satisfaction with Economy 0.2296 0.038 ***
+
+Interpersonal Trust 0.1491 0.032 ***
+
+Fairness Perception 0.1370 0.032 ***
+
+Years of Education 0.0318 0.029 n.s
+
+Left–Right Scale -0.0172 0.028 n.s
+
+News Political Engagement 0.0765 0.027 **
+
+Political Interest 0.2190 0.030 ***
+
+Age -0.1641 0.029 ***
+
+Table 8: Weighted Least Squares Regression Results using Beta Coefficient (National Level)
+
+p-values: *** p<0.001, ** p<0.01, * p<0.05, n.s. = non-significant. The results of the WLS regression using the beta coefficient confirms that the main factor influencing trust is institutional performance. The most significant factor is found to be contentment with the government (β = 0.8222, p < 0.001), which is closely followed by satisfaction with democracy (β = 0.7262, p < 0.001) and, to a lesser degree, with the economy (β = 0.2296, p < 0.001). These results are in line with rationalist theories, which stress that trust is derived from citizens' assessments of institutional efficacy (Easton, 1965; Mishler & Rose, 2001). Though to a lesser extent, cultural characteristics including political interest (β = 0.2190, p < 0.001), fairness perception (β = 0.1370, p < 0.001), and interpersonal trust (β = 0.1491, p < 0.001) also play a major role. Notably, news engagement has a slight but statistically significant positive effect
+
+FINDINGS AND ANALYSIS
+
+46
+
+(β = 0.0765, p = 0.005), indicating a potential link between political information exposure and trust. On the other hand, political trust does not significantly correlate with years of education (β = 0.0318, p = 0.276) or ideological orientation (β = –0.0172, p = 0.536). This suggests that, when performance and cultural factors are present, sociodemographic positioning and ideological alignment are not key predictors. There is a negative correlation between age and scepticism toward institutions (β = –0.1641, p < 0.001), indicating a generational influence. Collectively, these findings demonstrate how crucial policy outcomes and governance quality are to fostering public trust, with social opinions and involvement bolstering but not overshadowing the role of institutional performance.
+
+4.3 Comparative Analysis: East–West Differences in Trust Formation
+
+Separate Weighted Least Squares (WLS) regression models were executed for East and West Germany to look more closely at regional differences in the factors that influence political trust. A thorough comparison of the strength, direction, and importance of institutional and cultural predictors across regional settings is made possible by the presentation of both unstandardized and standardized (beta) coefficients for each location.
+
+4.3.1 Weighted Least Squares (WLS) Regression - East Germany Model
+
+This section displays the Weighted Least Squares (WLS) regression results specific to East Germany. The East Germany-specific regression model, drawing on 449 observations, reveals that institutional performance remains the dominant explanatory dimension of trust.
+
+Sample Size (N) 449
+
+R-Squared 0.621
+
+Adjusted R-Squared 0.613
+
+F-Statistic 71.87 (p < 0.001)
+
+Table 9: Weighted Least Squares (WLS) regression - East Germany Model
+
+FINDINGS AND ANALYSIS
+
+47
+
+These measures show that roughly 62% of the variation in East German respondents' political trust can be explained by the model. The findings, with additional contributions from specific cultural and demographic factors, often understate the importance of institutional performance reviews.
+
+4.3.1.1 Results from WLS regression with unstandardized coefficient (East Germany Model)
+
+Predictor Coefficient Std. Error Significant level
+
+Constant 0.0816 0.453 n.s.
+
+Satisfaction with Government 0.3827 0.044 ***
+
+Satisfaction with Democracy 0.2134 0.036 ***
+
+Satisfaction with Economy 0.1270 0.042 **
+
+Interpersonal Trust 0.0918 0.036 **
+
+Fairness Perception -0.0086 0.037 n.s.
+
+Years of Education 0.0501 0.021 *
+
+FINDINGS AND ANALYSIS
+
+48
+
+Predictor Coefficient Std. Error Significant level
+
+Left–Right Scale -0.0609 0.037 n.s.
+
+News Engagement -0.0196 0.038 n.s.
+
+Political Interest 0.2403 0.078 **
+
+Age -0.0107 0.003 **
+
+Table 10: Weighted Least Squares Regression Results using Unstandardized Coefficient (East
+
+Germany)
+
+The strongest institutional component, according to Table 9's individual predictors, is government satisfaction (B = 0.3827, SE = 0.044, p < 0.001). There is a 0.3827-point increase in the Domestic Trust Index for every unit increase in government satisfaction. Comparably, but to a lesser extent, pleasure with democracy (B = 0.2134, SE = 0.036, p < 0.001) demonstrates a substantial and positive association. Though not as strongly as direct assessments of political institutions, economic pleasure also positively predicts political trust (B = 0.1270, SE = 0.042, p < 0.01), indicating that views of economic well-being play a role in the development of trust. Political trust and interpersonal trust are substantially correlated among cultural factors (B = 0.0918, SE = 0.036, p < 0.01). Institutional trust rises by about 0.0918 points for every unit increase in trust toward fellow citizens. However, political trust and fairness views are not significantly correlated (B = -0.0086, SE = 0.037, p > 0.05), suggesting that trust assessments in the East German context are not considerably influenced by broader normative expectations of societal fairness. Political interest exerts a substantial and significant positive effect (B = 0.2403, SE = 0.078, p < 0.01). Higher levels of political engagement are associated with greater trust in institutions, reinforcing the idea that politically attentive individuals tend to maintain higher levels of institutional support. Additionally, there is a minor but
+
+FINDINGS AND ANALYSIS
+
+49
+
+significant positive correlation between educational attainment and political trust (B = 0.0501, SE = 0.021, p < 0.05), suggesting that more years of education somewhat increase political trust. Age is a negative predictor of trust among control factors (B = -0.0107, SE = 0.003, p < 0.01), indicating that older people in East Germany have a tendency to have lower levels of political trust. Both news involvement (B = -0.0196, SE = 0.038, p > 0.05) and ideological orientation (B = -0.0609, SE = 0.037, p > 0.05) fall short of statistical significance.
+
+4.3.1.2 Results from WLS regression with standardized (beta) coefficient (East Germany Model)
+
+Predictor β Coefficient Std. Error Significant level
+
+Constant 4.2928 0.076 ***
+
+Satisfaction with Government 0.8926 0.102 ***
+
+Satisfaction with Democracy 0.5417 0.091 ***
+
+Satisfaction with Economy 0.2884 0.096 **
+
+Interpersonal Trust 0.2048 0.079 **
+
+FINDINGS AND ANALYSIS
+
+50
+
+Predictor β Coefficient Std. Error Significant level
+
+Fairness Perception -0.0175 0.076 n.s
+
+Years of Education 0.1713 0.074 *
+
+Left–Right Scale -0.1055 0.064 n.s
+
+News Engagement -0.0318 0.062 n.s
+
+Political Interest 0.2108 0.069 **
+
+Age -0.2037 0.066 **
+
+Table 11: Weighted Least Squares Regression Results using Beta Coefficient (East Germany)
+
+p-values: *** p<0.001, ** p<0.01, * p<0.05, n.s. = non-significant.
+
+Contentment with democracy (β = 0.5417, p < 0.001), the government (β = 0.8926, p < 0.001), and the economy (β = 0.2884, p = 0.003) have the most effects. These results illustrate the significance of quick governance achievements in building trust among East German individuals and corroborate previous studies on post-authoritarian performance-driven trust (Campbell, 2004; Rohrschneider, 1999). Since only interpersonal trust has a significant positive influence among cultural components (β = 0.2048, p = 0.010) and fairness perception is statistically negligible (β = –0.0175, p = 0.817), distributive justice is a weak predictor of institutional confidence in this region.
+
+FINDINGS AND ANALYSIS
+
+51
+
+Political interest strongly predicts higher trust (β = 0.2108, p = 0.002), underscoring the importance of political engagement even in situations when trust is performanceoriented. Trust and age are negatively correlated (β = -0.2037, p = 0.002), but education and trust are marginally significantly correlated (β = 0.1713, p = 0.020). Neither news engagement nor ideological orientation had any appreciable effect. These findings support the notion that, rather than being driven by normative opinions, the growth of trust in East Germany is more instrumental and outcomedependent, based on real experiences with state performance.
+
+4.3.2 Weighted Least Squares (WLS) Regression - West Germany Model
+
+Sample Size (N) 1,971
+
+R-Squared 0.629
+
+Adjusted R-Squared 0.627
+
+F-Statistic 332.1, p < 0.001
+
+Table 12: Weighted Least Squares (WLS) regression - West Germany Model
+
+These measures show a strong fit, with the West Germany model explaining over 63% of the variation in political trust. The elements that best predict how West Germans view their political institutions are determined by evaluating each explanatory factor in turn.
+
+4.3.2.1 Results from WLS regression with unstandardized coefficient (West Germany Model)
+
+FINDINGS AND ANALYSIS
+
+52
+
+Predictor Coefficient Std. Error Significant level
+
+Constant -0.6580 0.212 **
+
+Satisfaction with Government 0.3481 0.019 ***
+
+Satisfaction with Democracy 0.3071 0.016 ***
+
+Satisfaction with Economy 0.0913 0.018 ***
+
+Interpersonal Trust 0.0566 0.016 ***
+
+Fairness Perception 0.0947 0.017 ***
+
+Years of Education -0.0006 0.009 n.s.
+
+Left–Right Scale 0.0040 0.018 n.s.
+
+News Engagement 0.0655 0.019 **
+
+Political Interest 0.2356 0.039 ***
+
+Age -0.0082 0.002 ***
+
+Table 13: Weighted Least Squares Regression Results using Unstandardized Coefficient (West
+
+Germany)
+
+FINDINGS AND ANALYSIS
+
+53
+
+p-values: *** p<0.001, ** p<0.01, * p<0.05, n.s. = non-significant.
+
+Examining the individual predictors (see Table 12), satisfaction with government is a key institutional factor (B = 0.3481, SE = 0.019, p < 0.001). A one-unit increase in satisfaction with government is associated with a 0.3481-point increase in the Domestic Trust Index. Satisfaction with democracy also exerts a significant positive influence (B = 0.3071, SE = 0.016, p < 0.001), suggesting that evaluations of democratic processes are closely tied to political trust. Economic satisfaction positively predicts trust (B = 0.0913, SE = 0.018, p < 0.001), although the effect is smaller than those of governance and democratic satisfaction.
+
+Turning to cultural indicators, both interpersonal trust (B = 0.0566, SE = 0.016, p < 0.001) and fairness perception (B = 0.0947, SE = 0.017, p < 0.001) are significantly associated with political trust. A one-unit increase in perceived fairness, in particular, results in a 0.0947-point increase in institutional trust, underscoring the relevance of normative societal evaluations in the West German context.
+
+Political interest also shows a strong positive association with political trust (B = 0.2356, SE = 0.039, p < 0.001). Individuals with higher political engagement report notably greater trust in political institutions. Additionally, media engagement significantly predicts trust levels (B = 0.0655, SE = 0.019, p < 0.01), suggesting that frequent exposure to political news correlates with higher institutional trust in the West. In contrast, demographic variables such as years of education (B = -0.0006, SE = 0.009, p > 0.05) and ideological self-placement (B = 0.0040, SE = 0.018, p > 0.05) do not exhibit significant effects on political trust. Age, however, negatively influences trust (B = 0.0082, SE = 0.002, p < 0.001), indicating that older individuals tend to be less trusting of political institutions, a pattern consistent with findings from East Germany.
+
+FINDINGS AND ANALYSIS
+
+54
+
+4.3.2.2 Results from WLS regression with standardized (beta) coefficient (West Germany Model)
+
+Predictor β Coefficient Std. Error Significant level
+
+Constant 4.2829 0.032 ***
+
+Satisfaction with Government 0.8120 0.044 ***
+
+Satisfaction with Democracy 0.7797 0.041 ***
+
+Satisfaction with Economy 0.2073 0.041 ***
+
+Interpersonal Trust 0.1263 0.035 ***
+
+Fairness Perception 0.1924 0.035 ***
+
+Years of Education -0.0020 0.032 n.s
+
+Left–Right Scale 0.0070 0.031 n.s
+
+News Engagement 0.1065 0.031 ***
+
+Political Interest 0.2068 0.034 ***
+
+Age -0.1559 0.032 ***
+
+Table 14: Weighted Least Squares Regression Results using Beta Coefficient (West Germany)
+
+FINDINGS AND ANALYSIS
+
+55
+
+p-values: *** p<0.001, ** p<0.01, * p<0.05, n.s. = non-significant. The regression model for West Germany highlights a more balanced integration of cultural and performance-based components than those of East Germany. Once more, the performance logic seen nationwide is reinforced by the top predictors of democracy (β = 0.7797, p < 0.001) and government satisfaction (β = 0.8120, p < 0.001). In contrast to its insignificance in the East, fairness perception (β = 0.1924, p < 0.001) shows up as a significant factor in this region, underscoring the importance of perceived social justice and cultural standards in the development of Western trust. Additionally significant are news engagement (β = 0.1065, p = 0.001), political interest (β = 0.2068, p < 0.001), and interpersonal trust (β = 0.1263, p < 0.001), suggesting a more comprehensive and normatively based view of trust. Following the national pattern, neither ideological placement nor education are statistically significant. The negative effect of age is once again evident (β = –0.1559, p < 0.001). These patterns imply that normative views regarding justice, involvement, and civic duty serve as a foundation for political trust in West Germany in addition to institutional results.
+
+4.3.3 Relevance to the hypothesis
+
+H1. Institutional performance is a stronger predictor of political trust than cultural factors in Germany. Supported. The most reliable and statistically significant determinants of political trust were found to be satisfaction with institutional performance measures, specifically contentment with government and democracy, across all models—national, East, and West. Notably, contentment with government consistently outperformed cultural characteristics, with the greatest β coefficients in both East (β = 0.8926) and West Germany (β = 0.8120) as well as at the national level (β = 0.8222). This supports rationalist theory by demonstrating the importance of performance-based trust building.
+
+H2. Cultural factors will have positive effect on trust. Partially supported. In all models, cultural factors including political interest and interpersonal trust demonstrated significant positive correlations with political trust, suggesting that they play a significant role in the development of trust. They did, however, consistently have smaller effects than institutional performance variables. Additionally, a more complex and context-dependent link was suggested by the lack of
+
+FINDINGS AND ANALYSIS
+
+56
+
+significance for certain cultural variables, such as media participation (in the East) and fairness perception (also in the East). H3. Perception of fairness will have positive effect on trust. Partially supported. In both the West German (β = 0.1924, p < 0.001) and national (β = 0.1370, p < 0.001) models, fairness assessment significantly improved. The effect, however, was not significant in East Germany (β = -0.0175, p = 0.817). This regional difference implies that performance evaluations predominate in the East, whereas fairness judgments are more important in environments with culturally rooted trust, like the West.
+
+H4. The determinants of political trust differ by region, East Germany and West Germany. Supported. The comparison analysis makes it abundantly evident that the factors influencing political trust vary by area. East Germans are less influenced by fairness or media involvement and more dependent on direct government performance indications. West Germans, on the other hand, exhibit a more balanced model in which trust is significantly influenced by both institutional performance and cultural values (such as fairness, interpersonal trust, and news involvement). These results support your thesis's dual theoretical framework and regional contextualization. H5. Higher political interest is positively associated with political trust. Supported. In all three models—national (β = 0.2190), East (β = 0.2108), and West (β = 0.2068)—political interest was a statistically significant predictor, with p < 0.001 or p < 0.01. These recurring outcomes support the claims made by participatory and social capital theories by highlighting the need of political consciousness and civic involvement in building institutional trust.
+
+CONCLUSION AND DISCUSSION
+
+57
+
+5 Conclusion and Discussion
+
+This thesis examined the determinants of political trust in Germany, with a particular emphasis on the ways that cultural elements and institutional performance affect trust in both the East and the West. Given the declining political confidence in developed democracies and the rising unpredictability of election behaviour, the topic is urgently relevant. Few studies have systematically investigated the relative strength of social trust and performance evaluations across Germany's historically split regions, even though they have been recognized as significant factors in previous study. Using data from the most recent ESS survey, this study fills this knowledge vacuum by providing fresh, empirically supported insights into the regional dynamics of political trust. While other research (e.g., Newton, 2001; Zmerli & Newton, 2008) showed the importance of these factors separately, this thesis illustrates how the explanatory power of institutional and cultural variables varies by geographical context within a single nation. It illustrates how West Germans consider both performance metrics and normative evaluations like fairness, whereas East Germans place a higher priority on immediate governance outcomes. By emphasizing the enduring significance of historical-political trajectories, this dual-pathway model contributes to our theoretical understanding of trust. The findings provide credence to a dual-framework theory of trust building, according to which cultural influences significantly enhance performance ratings in the West while institutional performance is still crucial, particularly in East Germany. As a result, trust in Germany now reflects both deeply ingrained social standards influenced by historical experiences as well as present-day satisfaction. Rationalist viewpoints are supported by the national and regional models, which show that political trust is consistently best predicted by satisfaction with democracy and government. The applicability of culturalist ideas in developed democracies is confirmed by the favourable effects of cultural variables including interpersonal trust, political interest, and fairness perceptions, especially in the West. This regional variation emphasizes how important it is for trust models to take historical and sociopolitical factors into account. Despite the strength of the findings, this study has some limitations. The models may have been enhanced by the inclusion of several potentially significant variables, such as partisanship strength, views of corruption, and media trust. Moreover, even though
+
+CONCLUSION AND DISCUSSION
+
+58
+
+Germany provides a perfect example, more extensive cross-national comparisons would be required to evaluate how broadly applicable these results are.
+
+The study's conclusions have clear practical relevance: policymakers aiming to restore or enhance institutional confidence need to pay close attention to regional dynamics. Policies that observably enhance governance outcomes—particularly economic policies—may have a greater influence in East Germany. Strategies in West Germany must strike a balance between policy performance and ongoing consideration of democratic principles and social justice. Visibly successful economic initiatives could help East Germany, but fairness-driven citizen engagement programs might be more successful in West Germany. If the reasoning in this study were extended globally, we may hypothesize that, areas with post-authoritarian histories would show comparable trends, giving more weight to immediate governmental achievements than to indicators of cultural legitimacy. Understanding political trends in Central and Eastern Europe, or even outside of them, in areas undergoing the shift from centralized to democratic rule, may be affected by this. Longitudinal designs may be useful in future research to examine how trust changes in reaction to shocks such as elections or crises. Understanding could be further enhanced by including additional variables including corruption perception, media trust, and political efficacy. Studies comparing Germany to other post-division societies (like South Korea) may show commonalities or differences in the processes that lead to the formation of trust. In conclusion, this thesis offers a thorough and regionally specific analysis of political trust in Germany. It demonstrates that while institutional performance and cultural legacies matter, historical context mediates their impact. Understanding these pillars of trust will continue to be essential for strengthening democratic resilience as Germany navigates ongoing political, economic, and social changes.
+
+LIST OF APPENDICES
+
+59
+
+6 Bibliography
+
+Hooghe, M., & Zmerli, S. (2011). introduction: the context of political trust. In S.
+
+Zmerli, & M. Hooghe, political trust : why context matters (pp. 1-11). ECPR - Studies in European Political Science.
+
+Bell, B. (2024, September 28). BBC News. From Austria's far right eyes unprecedented
+
+election win: https://www.bbc.com/news/articles/cr4xz013zx7o
+
+O’Neill, B. O. (2002). University of Cambridge. From Trust & Technology Initiative:
+
+https://www.trusttech.cam.ac.uk/perspectives/technology-humanity-societydemocracy/without-trust-we-cannot-stand
+
+Luhmann, N. (1979). Trust: A mechanism for the reduction of social complexity. Trust
+
+and Power , 50-56.
+
+Locke, J. (1988). Two Treatises of Government, (Peter Laslett (ed.). Student Edition
+
+Cambridge : Cambridge University Press.
+
+Easton, D. (1975). A re-assessment of the concept of political support. British Journal
+
+of Political Science, 435–457.
+
+Miller, A. H. (1974). Political issues and trust in government: 1964–1970. The
+
+American Political Science Review, 951–972.
+
+Citrin, J., & Stoker, L. (2018). Political trust in a cynical age. Annual Review of Political
+
+Science, 49–70.
+
+Cole, R. L. (1973). Toward as model of political trust: A causal analysis. American
+
+Journal of Political Science, 809.
+
+Dalton, R. J. (2004). Democratic challenges, democratic choices: The erosion of
+
+political support in advanced industrial democracies. . Oxford University Press.
+
+Hetherington, M. (2005). Why trust matters. Princeton University Press.
+
+Norris, P. (2011). Democratic deficit: Critical citizens revisited. . Cambridge University
+
+Press.
+
+Zmerli, S., & Meer, v. d. (2017). Handbook on political trust. Edward Elgar Publishing.
+
+Tao, R., Yang, D. L., Li, M., & Lu, X. (2014). How does political trust affect social trust?
+
+An analysis of survey data from rural China using an instrumental variables approach. International Political Science Review, 237–253.
+
+LIST OF APPENDICES
+
+60
+
+Bobzien, L. (2023). Income Inequality and Political Trust: Do Fairness Perceptions
+
+Matter? Social Indicators Research, 505–528.
+
+Lindstrom, M. (2008). Social Capital, political trust and experience of cannabis
+
+smoking. Preventive Medicine, 599-604.
+
+Marien, S., & Hooghe, M. (2011). Does political trust matter? An empirical
+
+investigation into the relation between political trust and support for law compliance. European Journal of Political Research, 267-91.
+
+Hirschman, A. O. (1970). Exit, voice, and loyalty: Responses to decline in firms,
+
+organizations, and states. Harvard University Press.
+
+Eurofound. (2018). Living and working in Europe 2015-2018. Dublin.
+
+Kriesi, H., & al., e. (2012). Political conflict in Western Europe. Cambridge: Cambridge
+
+University Press.
+
+Kriesi, H., & Pappas, T. S. (2015). European populism in the shadow of the great
+
+recession. Colchester: ECPR Press.
+
+Morlino, L., & Quaranta, M. (2016). What is the impact of economic crisis on
+
+democracy? Evidence from Europe. International Political Science Review, 618–633.
+
+Martinelli, A. (2016). Beyond Trump. Populism on the rise. Novi Ligure: Epoké.
+
+Muro, D., & Vidal, G. (2016). Political mistrust in Southern Europe since the Great
+
+Recession. Mediterranean Politics, 197–217.
+
+Morlino, L., & Raniolo, F. (2017). The impact of the economic crisis on South
+
+European democracies. Palgrave McMillan.
+
+Dalton, R. J. (2019). Citizen politics. Public opinion and political parties in advanced
+
+industrial democracies. Thousand Oaks: Sage Publications.
+
+Perloff, R. M. (2014). The dynamics of political communication. Media and politics in a
+
+digital age. New York: Routledge.
+
+Frame, A., & Brachotte, G. (. (2015). Citizen participation and political communication
+
+in a digital world. New York: Routledge.
+
+Chadwick, A. (2013). The hybrid media system: Politics and power. Oxford: Oxford
+
+University Press.
+
+LIST OF APPENDICES
+
+61
+
+Gillespie, T. (2018). Custodians of the internet: Platforms, content moderation, and
+
+the hidden decisions that shape social media. New Haven: Yale University Press.
+
+Mazzoleni, G., & Bracciale, R. (2018). Socially mediated populism: the communicative
+
+strategies of political leaders on Facebook. Palgrave Communications, 50.
+
+Levi, M., & Stoker, L. (2000). Political trust and trustworthiness. Annual Review of
+
+Political Science, 475–507.
+
+Hosking, G. (2014). Trust: A history. Oxford: Oxford University Press.
+
+Levi, M., & Stoker, L. (2000). POLITICAL TRUST AND TRUSTWORTHINESS. Annu. Rev.
+
+Polit. Sci., 475–507.
+
+Levi, M. (2004). Sociology of Trust. International Encyclopedia of the Social &
+
+Behavioral Sciences, edited by Neil J. Smelser, and Paul B. Baltes, 15922–6. Amsterdam [u. a.]:.
+
+Putnam, R. D. (1993). Making Democracy Work. Civic Traditions in Modern Italy.
+
+Princeton, N.J.: Princeton University Press.
+
+Fisher, J., van Heerde, j., & Tucker, A. (2010). Does one trust judgement fit all? Linking
+
+theory and empirics. British Journal of Politics and International Relations , 88161.
+
+Almond, G., & Verba, S. (1963). The Civic Culture: Political attitudes and democracy in
+
+five nations. Princeton: Princeton University Press.
+
+Paxton, P. (2007). Association memberships and generalized trust: A multilevel
+
+model across 31 countries . Social Forces, 47-76.
+
+Putnam, R., Pharr, S., & Dalton, R. (2000). Introduction: What's troubling the trilateral
+
+democracies' in S.J. Pharr and R.D. Putnam (eds) Disaffected Democracies: What's troubling the trilateral countries? Princeton: Princeton University Press.
+
+Uslaner, E. (2002). The Moral Foundations of Trust. Cambridge: Cambridge Univeristy
+
+Press.
+
+Brehm, J., & Rahn, W. (1997). Individual-level evidence for the causes and
+
+consequences of social capital. American Journal of Political Science, 999-1023.
+
+Hero, R. (2003). Social capital and racial inequality in America: Perspectives on
+
+Politics. Oxford: Oxford University Press, 113-122.
+
+LIST OF APPENDICES
+
+62
+
+Patterson, O. (1999). Liberty against the democratic state: On the historical and
+
+contemporary sources of American distrust in M.E. Warren (ed.) Democracy and Trust. Cambridge: Cambridge University Press.
+
+Pelligra, V. (2006). The not-so-fragile fragility of goodness: The responsive quality of
+
+fiduciary relationships in L. Bruni and P.L. Porta (eds) . Handbook on the Economics of Happiness, Cheltenham: Edward Elgar.
+
+Kawachi, I., Kennedy, B., Lochner, K., & Prothrow-Stith, D. (1997). Social capital,
+
+income inequality, and morality. American Journal of Public Health, 1491-1498.
+
+Inglehart, R. (1999). Trust, well-being and democracy, in M.E.Warren (ed.)
+
+Democracy and Trust. Cambridge: Cambridge Univeristy Press.
+
+Newton, K. (2001). Social trust and political disaffection: Social capital and
+
+democracy , Paper prepared for the EURESCO Conference on Social Capital. Interdisciplinary Perspectives, Exeter, 15-20.
+
+Rothstein, B. (1998). Just Institutions Matter: The moral and political logic of the
+
+universal welfare state. Cambridge: Cambridge University Press.
+
+B., R., & Stolle, D. (2003). Social capital, impartiality, and the welfare state : An
+
+institutional approach, in M. Hooghe and D. Stolle (eds) Generating Social Capital: Civil society and institutions in comparative perspective. Basingstoke: Palgrave.
+
+Anderson, C., & LoTempio, A. (2002). Winning, Losing and political trust in America.
+
+British Journal of Political Science, 355-351.
+
+Anderson, C., Blais, A. ,., T., D., & Listhaug, O. (2005). Losers' Consent: Elections and
+
+Democratic Legitimacy. Oxford: Oxford University Press.
+
+MsClosky, H., & Chong, D. (1985). Similarities and differences between left-wing and
+
+right-wing radicals. British Journal of Political Science, 329-363.
+
+Glaeser, E., Laibson, D., Scheinkman, J., & Soutter, C. (2000). Measuring trust. The
+
+Quarterly Journal of Economics, 811-846.
+
+Zmerli, S., & Newton, K. (2008). Social trust and attitudes toward democracy. Public
+
+Opinion Quarterly, 706-724.
+
+B., R., & Stolle, D. (2003). Social capital, impartiality and the welfare state: An
+
+institutional appraoch, in M.hooghe and D. Stolle (eds) . Generating Social Capital: Civil society and institutions in comparative perspective, Basingstoke: Palgrave.
+
+LIST OF APPENDICES
+
+63
+
+Mishler, W., & Rose, R. (2005). What are the consequences of political trust: A test of
+
+cultural and institutional theories in Russia . Comparative Political Studies, 413-436.
+
+Huntington, S. P. (1991). The Third Wave. Democratization in the Late Twentieth
+
+Century. Norman: University of Oklahoma Press.
+
+Denters, B., Gabriel, O. W., & Torcal., M. (2007). Political Confidence in Representative
+
+Democracies: Socio-Cultural vs. Political Explanations. In Citizenship and Involvement in European Democracies. A Comparative Analysis, edited by Jan W. van Deth, José Ramón Montero, and Anders Westholm,. London/New York: Routledge., 66-87.
+
+Catterberg, G. a. (2005). The Individual Base of Political Trust: Trends in New and
+
+Established Democracies. International Journal of Public Opinion Research, 3248.
+
+Rose, R., & Mishler., W. (2011). Political Trust and Distrust in PostAuthoritarian
+
+Contexts. In Political Trust: Why Context Matters, edited by Sonja Zmerli, and Marc Hooghe,. Colchester: ECPR Press., 117-140.
+
+Loewenberg, G., Mishler, W., & Sanborn., H. (2010). Developing Attachments to new
+
+Political Institutions: A Multi-Level Model of Attitude Formation in PostCommunist Europe. European Political Science Review, 475-494.
+
+Rohrschneider, R. (1999). Learning Democracy. Democratic and Economic Values in
+
+Unified Germany. Oxford Univeristy Press.
+
+Rohrschneider, R., & Schmitt-Beck., R. (2002). Trust in Democratic Institutions in
+
+Germany: Theory and Evidence Ten Years After Unification. German Politics, 35-58.
+
+Rohrschneider, R. (1996). Institutional Learning Versus Value Diffusion: The
+
+Evolution of Democratic Values among Parliamentarians in Eastern and Western Germany. The Journal of Politics, 422-446.
+
+Campbell, R. (2004). The Sources of Institutional Trust in East and West Germany:
+
+Civic Culture or Economic Performance? German Politics, 401-418.
+
+Putnam, R. (1993). Making Democracy Work: Civic Traditions in Modern Italy.
+
+Princeton, NJ: Princeton University Press.
+
+Downs, A. (1957). An Economic theory of Democracy. New York: Harper.
+
+Easton, D. (1963). A Systems Analysis of Political Life. New York: John Wiley and Sons.
+
+LIST OF APPENDICES
+
+64
+
+Easton. (1965). A Re-Assessment of the Concept of Political Support.
+
+Mishler, W., & Rose, R. (2001). What are the Origins of Political Trust? Testing
+
+Institutional and Cultural Theories in Post-Communist Societies. Comparative Political Studies, 30–62.
+
+Federal Returning Officer. (2025). Bundestag election. Federal Returning Officer.
+
+Bundesbank 2024. (n.d.). Annual accounts for 2024: Statement at the press conference
+
+presenting the Deutsche Bundesbank’s Annual Report for 2024.
+
+University of Southampton. (2025, February 19). Democracy in crisis: Trust in
+
+democratic institutions declining around the world. From University of Southampton - News: https://www.southampton.ac.uk/news/2025/02/democracy-in-crisis-trustin-democratic-institutions-declining-around-the-world.page
+
+Levitsky, S., & Ziblatt, D. (2019). How democracies die. Crown.
+
+(n.d.).
+
+REGIONAL CLASSIFICATION OF GERMAN STATES
+
+65
+
+Appendix A Regional Classification of German
+
+States
+
+During the Cold War, the federal states were categorized according to historical division to facilitate geographical comparisons between East and West Germany. The assignment adheres to common practice in study on post-reunification trust (Campbell, 2004; Rohrschneider, 1999).
+
+State Code State Name Region
+
+DE1 Baden-Württemberg West Germany
+
+DE2 Bayern (Bavaria) West Germany
+
+DE3 Berlin East and West Germany
+
+DE4 Brandenburg East Germany
+
+DE5 Bremen West Germany
+
+DE6 Hamburg West Germany
+
+DE7 Hessen West Germany
+
+DE8 MecklenburgVorpommern
+
+East Germany
+
+DE9 Niedersachsen (Lower Saxony)
+
+West Germany
+
+DEA Nordrhein-Westfalen West Germany
+
+DEB Rheinland-Pfalz (Rhineland-Palatinate)
+
+West Germany
+
+DEC Saarland East Germany
+
+DED Sachsen (Saxony) East Germany
+
+DEE Sachsen-Anhalt East Germany
+
+REGIONAL CLASSIFICATION OF GERMAN STATES
+
+66
+
+State Code State Name Region
+
+DEF Schleswig-Holstein West Germany
+
+DEG Thüringen (Thuringia) East Germany
+
+Note: Historically, Berlin (DE3) was separated into East and West Berlin. Respondents from Berlin were taken into consideration for both east and west Germany in this survey. Berlin's twin historical and political identities are acknowledged by this approach.
+
+LIST OF APPENDICES
+
+67
+
+Appendix B Survey Questions for Variables used
+
+This appendix lists the exact survey questions from the European Social Survey (ESS Round 11, 2023) used to construct the variables included in the analysis. Variable types are grouped into institutional performance indicators, cultural factors, and control variables. Variable Name Survey Question (ESS Round 11)
+
+stfgov (Satisfaction with government) "Now thinking about the [country] government, how satisfied are you with the way it is doing its job?" (Scale 0–10)
+
+stfdem (Satisfaction with democracy) "And on the whole, how satisfied are you with the way democracy works in [country]? (Scale 0–10)
+
+stfeco (Satisfaction with the economy) "On the whole how satisfied are you with the present state of the economy in [country]? (Scale 0–10)
+
+ppltrst (Interpersonal trust) "Using this card, generally speaking, would you say that most people can be trusted, or that you can't be too careful in dealing with people? Please tell me on a score of 0 to 10, where 0 means you can't be too careful and 10 means that most people can be trusted.?" (Scale 0–10)
+
+LIST OF APPENDICES
+
+68
+
+Variable Name Survey Question (ESS Round 11)
+
+pplfair (Fairness perception) "Using this card, do you think that most people would try to take advantage of you if they got the chance, or would they try to be fair?" (Scale 0–10)
+
+polintr (Political interest) "How interested would you say you are in politics - are you... “(1 = Very interested; 4 = Not at all interested)
+
+sclmeet (Social meeting frequency) "Using this card, how often do you meet socially with friends, relatives or work colleagues?” (1 = Never; 7 = Every day)
+
+eduyrs (Years of education) "About how many years of education have you completed, whether full-time or part-time? Please report these in full-time equivalents and include compulsory years of schooling”
+
+agea (Age) Age of respondent, calculated
+
+LIST OF APPENDICES
+
+69
+
+Variable Name Survey Question (ESS Round 11)
+
+lrscale (Left-right self-placement) "In politics people sometimes talk of 'left' and 'right'. Using this card, where would you place yourself on this scale, where 0 means the left and 10 means the right?”

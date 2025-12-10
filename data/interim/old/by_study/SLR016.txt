@@ -1,0 +1,1399 @@
+Marc Hooghe 2016
+
+Ruth Dassonneville
+
+A Spiral of Distrust
+
+A Panel Study on the Relation between Political Distrust and Protest Voting
+
+in Belgium
+
+Government & Opposition, accepted for publication.
+
+ABSTRACT
+
+Low levels of political trust are associated with a preference for protest parties. Some authors
+
+have argued that protest parties in this manner indirectly contribute to the stability of electoral
+
+democracy, functioning as ‘safety valve’ for political discontent. In this paper, we investigate
+
+the relation between protest voting and political trust in a dynamic perspective, relying on a
+
+five year long Belgian panel study. We confirm that citizens with low levels of political trust
+
+are more likely to vote for protest parties. Additionally, we point out that decreasing levels of
+
+trust significantly increase the probability of voting for a protest party, even controlling for
+
+absolute levels of trust. Most importantly, having voted for a protest party in 2009 explains a
+
+subsequent further drop in political trust during the 2009-2014 observation period. The panel
+
+analysis suggests that distrust and protest voting reinforce one another, leading to a potential
+
+spiral of distrust.
+
+KEYWORDS
+
+Political trust; spiral of distrust; change in trust; Belgian Election Panel (BEP)
+
+1
+
+1. INTRODUCTION
+
+The literature on the relation between political trust and electoral behaviour shows that
+
+dissatisfied voters are more likely to abstain from voting (Bélanger & Nadeau, 2005;
+
+Hetherington, 1999; Gabriel, 2015). In a context of compulsory voting, however, abstaining is
+
+not a valid option and in that case blank and invalid voting are strongly related to low levels
+
+of political trust (Hooghe, Marien & Pauwels, 2011). Furthermore, previous research offers
+
+convincing evidence that some parties succeed in attracting the ‘disgruntled’ voters (Van der
+
+Brug, 2003). By voting for third parties, protest parties, extremist or populist parties, citizens
+
+have a possibility to voice their discontent (Miller & Listhaug, 1990).
+
+The relation between distrust and protest voting has been well established. Van der Brug and
+
+Fennema (2003: 58) define protest voting as “a vote primarily cast to scare the elite that is
+
+not policy driven”. Accordingly, a party preference that is mainly driven by distrust in
+
+political institutions qualifies as a protest vote. In the literature, there is more disagreement
+
+about the long-term consequences of this form of protest voting. While most of the previous
+
+studies have investigated the relation between political (dis)trust and voting behaviour in a
+
+cross-sectional manner, the purpose of the current study is to investigate the dynamic relation
+
+between trust and voting. If a protest party succeeds in gaining appeal, this might partly
+
+restore a citizen’s faith in the electoral process. In that case, voting for an anti-establishment
+
+party might have a positive effect on democratic legitimacy as this vote functions as a kind of
+
+safety valve to stabilize levels of discontent. However, a number of scholars have also argued
+
+that voting behaviour might fuel discontent, and spread negative feelings across the
+
+population (Rooduijn, de Lange & Van der Brug, 2014).
+
+With respect to the relation between protest voting and distrust, different expectations emerge
+
+from the literature. A first expectation is that protest parties merely benefit from pre-existing
+
+attitudes of dissatisfaction and register the attitudes that are already present. A second
+
+expectation is that protest and populist parties not only mobilize dissatisfied voters but that
+
+they also fuel a sense of dissatisfaction in the electorate (Van der Brug, 2003). Third, it has
+
+been argued that particular protest parties succeed in channelling dissatisfaction and stop an
+
+over-time decline of political trust (Miller & Listhaug, 1990). The cross-sectional data that
+
+have previously been used to shed light on this question allow speculating about the
+
+directionality of this link, but panel data are needed for drawing strong inferences.
+
+2
+
+In this paper, we investigate the dynamic relation between political trust and voting behaviour
+
+by means of a panel design. This allows studying how the trust level of protest voters evolves
+
+following their vote decision. We make use of the data from the Belgian Election Panel (2009 2014), in which a representative sample of voters has been surveyed in the context of both the
+
+2009 and the 2014 Belgian elections. Previous research has already shown a strong relation
+
+between political trust and voting for populist and extreme-right parties in Belgium (Hooghe
+
+et al., 2011), rendering the Belgian context an interesting case for investigating this research
+
+puzzle on dynamic patterns as well. Furthermore, the general decline of trust in Belgium, as a
+
+result of long political crisis (Hooghe, 2012) introduces considerable variation in our data
+
+during the observation period.
+
+The Belgian context consists of two separate party systems; one of Dutch-language parties
+
+and one of French-language parties. As protest parties are mainly present in the Dutch
+
+language area of the country (Deschouwer et al., 2015), we expect protest voting to be present
+
+mainly in the Dutch language region of Flanders, while we expect a more diffuse pattern
+
+among Francophone voters. If voting has a subsequent effect on political trust, this effect
+
+therefore should be limited to the Flemish region, and be absent in the French language
+
+region.
+
+We first review the literature on the relation between political trust and voting behaviour with
+
+specific attention for the discussion on how attitudes not only affect vote choices, but how
+
+vote choices can affect attitudes as well. We provide more information on the Belgian
+
+electoral context, before presenting data and methods. After discussing the results from our
+
+analyses we add some remarks on the implications of our findings for the role of protest
+
+voting in electoral democracy.
+
+2. POLITICAL TRUST AND VOTE CHOICES
+
+It is by now readily accepted in the literature that levels of political trust affect voters’ party
+
+preferences. The first studies on this topic originated in the context of two-party systems and
+
+highlighted that low levels of political trust might be beneficial for the opposition party
+
+(Citrin, 1974). When more than two candidates or parties compete for election, however,
+
+3
+
+dynamics are different. Hetherington (1999) has shown that if there is a viable third party, this
+
+party attracts the distrusting – breaking the dominance of the two major parties in the United
+
+States. Similarly, political distrust has been found to be an important determinant of third
+
+party voting in the Canadian context (Bélanger & Nadeau, 2005). According to Miller and
+
+Listhaug (1990), how the distrusting citizen votes depends on how flexible the party system
+
+is. If a party system is sufficiently open, protest parties can rise and attract votes among the
+
+low trusting. In their view, this form of responsiveness could subsequently have a positive
+
+effect on the level of legitimacy of electoral politics because the disgruntled find an effective
+
+instrument to voice their discontent.
+
+The relation between distrust and protest voting has also been investigated in the literature
+
+that establishes at an individual level the link between the aggregate level trends of an alleged
+
+decline of political trust on the one hand (Hetherington, 1998; Norris, 1999) and a surge of
+
+populist and protest parties across Western democracies on the other (Arzheimer, 2009;
+
+Mudde, 2007; van Kessel, 2011). Attitudes of dissatisfaction and political distrust are indeed a
+
+recurrent theme in research analysing the determinants of choosing protest or populist parties.
+
+A prime example is the Netherlands, where voting for the populist party List Pim Fortuyn
+
+clearly was an expression of anti-partyism, political cynicism, low levels of political efficacy
+
+and political distrust (Bélanger & Aarts, 2006; Schumacher & Rooduijn, 2013; Van der Brug,
+
+2003). Even though all these authors stress the relevance of policy positions and leader effects
+
+in voting for populist parties (either on the left or on the right), it is clear that a vote for one of
+
+these parties is to some extent a protest vote (Ivarsflaten, 2007). Our first hypothesis is thus
+
+that there will be a relation between distrust and protest voting:
+
+H1: There is a negative relation between levels of political trust in 2014, and the
+
+probability of voting for protest parties.
+
+The impact of political trust on voting behaviour is generally investigated in a static way, i.e.,
+
+the effect of levels of trust on vote choices are looked at. A case could be made, however, for
+
+taking into account changes in trust levels. A first reason to think so is that voters can vote in a
+
+directional manner (Rabinowitz & Macdonald, 1989). For political trust, what matters for
+
+their vote choice would then not be the overall level of trust, but how the assessment of the
+
+political system has changed over time. If voters have become less trusting in politics, the
+
+direction of how their attitudes changed would lead them to choose a party mobilizing on
+
+4
+
+distrust. Second, research in the field of economic voting shows that voters act retrospectively
+
+and take into account past performances of the incumbent (Fiorina, 1978; Lewis-Beck &
+
+Stegmaier, 2013). With respect to political trust as well, voters could be retrospective and be
+
+guided by their assessment of change over an electoral cycle. Our second hypothesis therefore
+
+reads that change in political trust, rather than the absolute level of trust, would be associated
+
+with protest voting.
+
+H2: An overtime decline in political trust, is positively related to the probability of voting
+
+for protest parties, even controlling for absolute levels of political trust.
+
+Most research on the relation between political trust and voting for protest parties is based on
+
+single or repeated cross-sectional studies. Such designs provide evidence on the presence of a
+
+relation between political trust and voting behaviour, but they do not shed light on
+
+directionality. In terms of the role of political parties themselves, three different perspectives
+
+can be distinguished. First, protest parties could merely attract dissatisfied voters and offer an
+
+option for representation for the low trusting voters present in the electorate (Bélanger &
+
+Aarts, 2006). As such, we would not expect any effect of protest voting on the subsequent
+
+development of political trust. Second, protest parties can – by channelling feelings of distrust
+
+within the electoral system – reduce political discontent, as pointed out by Miller and
+
+Listhaug (1990). From a comparative analysis of the impact of trust and efficacy on voting
+
+behaviour in the United States, Sweden and Norway, they concluded that “in the flexible
+
+multi-party system of Norway, distrust was channelled back into the electoral arena as
+
+support for the opposition and protest parties of the right” (Miller & Listhaug, 1990: 382 383). The theoretical relevance of this claim is that protest voting can be considered as a
+
+‘healthy’ sign for the vitality of electoral politics. If citizens can express their distrust in the
+
+voting booth, this might restore their faith in the electoral process. If the protest party is
+
+successful, it might even moderate its party program and join a new governing coalition
+
+(Dandoy, 2014). A third, and opposite claim is that protest parties can act to ‘fuel’ political
+
+discontent. From his study of determinants of voting for List Pim Fortuyn (LPF) in the
+
+Netherlands Van der Brug (2003) concludes that a preference for LPF aroused discontent
+
+rather than being driven by it. Bélanger and Aarts (2006: 16), however, make use of panel data and disagree with this point of view. Their analyses lead them to stress that a ‘reservoir of
+
+discontent’ already existed in the Netherlands, where the LPF successfully tapped into. Still,
+
+they as well find LPF supporters to become more cynical over time. For the Belgian case,
+
+5
+
+using panel data Thijssen (2001) has shown that voting for the extreme-right in Flanders is
+
+associated with a growing sense of political alienation. The causal mechanism for this effect
+
+might be that once one has voted for a specific party, this behaviour affects a voter’s attitudes
+
+and is incorporated into the political identity of the voter (Boonen & Hooghe, 2014; Dinas,
+
+2014). As Dinas (2014) has shown with regard to the development of party identification,
+
+voters’ attitudes can change to match more closely their previous voting behaviour.
+
+Mechanisms of cognitive dissonance and self-perception help us explain why voters – perhaps
+
+unconsciously – change their attitudes and bring them in line with the attitudinal pattern that
+
+is associated with a specific political party (Dinas, 2014). This kind of causal logic is well
+
+grounded in the social psychological literature. Cognitive dissonance theory, but also the
+
+research tradition on minimal group effects assumes that actors have a tendency to adapt their
+
+attitudes to their assigned or selected group identity. Self-perception theory assumes that
+
+actors actively interpret their own behaviour, and develop attitudes and preferences that are
+
+compatible with their behaviour. Selection and adaptation mechanisms, finally, part from the
+
+notion that individuals might self-select into a group identity or an interaction context, but
+
+later on adapt to the prevailing value pattern within that group. So there are various social
+
+psychological traditions that argue in favour of investigating the relation from behaviour to
+
+attitudes. Applying these insights to having voted for a protest party would mean that
+
+subsequently levels of dissatisfaction become more salient, as this offers a stronger
+
+congruence between one’s own attitudes and the attitudinal pattern associated with this
+
+specific party. Following this logic, we hypothesize that in the Belgian context protest parties
+
+not only mobilize distrust, but additionally fuel distrust among their voters.
+
+H3: Citizens who voted for a protest party will subsequently become more distrusting over
+
+time than those who did not vote for protest parties.
+
+In sum, while it is an established fact that political distrust is associated with voting for protest
+
+parties, questions remain on the evolution of trust over time and how this is related to voting
+
+behaviour. We address this research puzzle, because it is highly relevant for the general debate
+
+about the effects of protest and populist parties on the stability of electoral democracy in
+
+Europe.
+
+We investigate this relation in Belgium, as this country offers an ideal setting, both for the
+
+study of political trust as for the study on protest voting. Because of a system of compulsory
+
+6
+
+voting, abstaining from voting is not a valid exit option, and therefore it can be expected that
+
+low levels of political trust are strongly linked to voting for populist parties. In the context of
+
+the 2009 regional elections in the Flemish region, distrusting citizens were found to have a
+
+higher probability of voting for the populist List Dedecker (LDD), the extreme right Vlaams
+
+Belang (VB) or the Flemish nationalist party (N-VA). If we follow the definition of Van der
+
+Brug and Fennema (2003), the significant role of political distrust as a vote determinant
+
+would qualify these parties as protest parties. It seems, therefore, that a number of parties in
+
+the Flemish party system succeeded in “providing the disaffected with a means of
+
+representation” (Miller & Listhaug, 1990: 357). It has to be noted that all these parties are
+
+active in the Dutch language party system, while in the French language party system no
+
+effects of political trust could be documented (Hooghe et al., 2011; Pauwels, 2011). This by
+
+itself renders Belgium an interesting case for a comparison between a system with protest
+
+parties (i.e., the Dutch language party system) and a system without protest parties (i.e., the
+
+French language party system). If protest parties indeed “fuel” discontent, as Van der Brug
+
+(2003) has argued, this effect should be present only in the Dutch language region (Dandoy,
+
+2014).
+
+The standard definition of a protest vote is a vote for a party that fundamentally challenges the
+
+established status quo of the political system (McAllister, 1982). Given the ongoing debate
+
+about what party exactly should be considered as a protest party, we opt for a broad
+
+comparison by investigating the vote motives for all parties (Van der Brug, Fennema & Tillie,
+
+2000; Van Spanje, 2011) and analyse the relation between political trust and each political
+
+party. For the Flemish region, we build further on previous research that has shown that
+
+protest voting in this party system is clearly discernible (Hooghe et al., 2011). For the 2014
+
+elections, we assume to find the same voting patterns as observed for the 2009 elections and
+
+expect higher levels of political trust to decrease the probability of voting Vlaams Belang or
+
+N-VA.1 Interestingly, the nationalist party N-VA was considered to be the great winner of the
+
+2009 elections, gaining 13.1 per cent of the vote. The party subsequently entered the Flemish
+
+regional government, and in the Belgian federal system this is a very important power
+
+position. The nationalists thus quickly made the transition from an anti-establishment party to
+
+a governing party, and it remains to be investigated how their voters reacted to this
+
+1. List Dedecker (LDD), that obtained 7.6% of the votes in the 2009 regional elections, only ran in one electoral district in 2014 and is therefore not taken into account in the analyses predicting respondents’ 2014 vote intention.
+
+7
+
+transformation: did they continue to develop a distrusting attitude, or did the entry of their
+
+preferred party reconcile them with the functioning of the political system in the country?
+
+Because the regional level in Belgium has extensive authorities, we could assume that most
+
+voters will be familiar with the distinction between the federal and the regional level and will
+
+be knowledgeable of the fact that the N-VA was in government at the regional level. In fact,
+
+research on media attention for members of Parliament in Belgium shows that the regional
+
+and federal parliaments receive almost equal attention in television news broadcasts (Hooghe,
+
+Jacobs & Claes, 2015). For the French language party system, by contrast, given that there is
+
+not a clear protest party participating in the elections, we do not have a strong hypothesis on
+
+how political trust affects voting behaviour.
+
+3.DATA AND METHODS
+
+As we aim to shed light on the dynamic relation between political trust and protest voting, we
+
+should have access to data about the evolution over time. Therefore, we rely on data with a
+
+panel structure for our analyses. We employ the data from the Belgian Election Panel (BEP,
+
+2009-2014), a representative survey of voters in the two main regions of Belgium (Flanders
+
+and Wallonia), based on a sample from the National Register of the citizens of Belgium. The
+
+2009 part of the panel survey consisted of three survey waves, two of which were before the
+
+2009 regional elections of 7 June 2009 and one that was in the field shortly after.2 1,698
+
+respondents took part in this post-electoral survey wave and were interviewed by phone,
+
+which is 35% of the original sample (PartiRep 2009). In the run-up to the elections of 25 May
+
+2014, these respondents were contacted again to participate in the 2014 part of the panel
+
+study. A total of 792 respondents who took part in the 2009 wave 3-survey sent back a paper
+
+questionnaire, which is 46.7% of the population of interest (Dassonneville, Falk Pedersen,
+
+Grieb & Hooghe, 2014). The data thus suffer from attrition, and as this is not a random
+
+phenomenon it likely biases our results (Frankel & Hillygus, 2014; Vandecasteele & Debels,
+
+2007). We partly account for attrition effects by weighting our data by socio-demographic
+
+characteristics. Even though the panel-data are not perfect, for the purpose of our analyses
+
+they are to be preferred over cross-sectional surveys – as recall questions on the previous vote
+
+are known to result in large errors (van der Eijk & Niemöller, 2008).
+
+2. Post-electoral interviews took place between the end of June 2009 and the end of August 2009.
+
+8
+
+As a measure for political trust, we use respondents’ indicated level of trust in the following
+
+institutions; political parties, the regional government, the regional parliament, the federal
+
+government, the federal parliament and politicians. For each of these institutions, respondents
+
+reported their level of trust on a scale from 0 (no trust at all) tot 10 (complete trust). As clear
+
+from the results in Table 1, for Flemish and Walloon panel-respondents, both in 2009 as well
+
+as in 2014 these six items load solidly on a one-dimensional scale, which is in line with earlier
+
+research (Hooghe et al., 2011; Marien, 2011).3 The mean values for political trust in Table 1
+
+additionally point out a decline in political trust between 2009 and 2014. This decline, from
+
+an average of 5.36 in 2009 to 4.84 in 2014 in the Flemish region and from 5.05 to 4.01 in
+
+Wallonia, is observable for every item included, but is especially pronounced for the regional
+
+institutions. Even though this is a marked decline, it is unsurprising, given the major political
+
+crisis the country went through between 2007 and 2012 (Hooghe, 2012). Other studies too,
+
+suggest that this long lasting governmental crisis had a negative impact on political trust
+
+levels in Belgium (Deschouwer et al., 2015). In terms of the differences between both regions,
+
+we observe that levels of political trust are somewhat lower in the Walloon region than in the
+
+Flemish region and the decrease of political trust over the 2009-2014 electoral cycle is more
+
+pronounced among Walloon respondents as well (-1.04, compared to -0.53 for Flemish
+
+respondents).
+
+Although the scale is by itself one-dimensional and as such will be used in the analysis, for
+
+some analyses we will also use a distinction between federal and regional institutions. For
+
+these subscales only two items in each case could be used, referring to the regional or federal
+
+parliament and government respectively. The reasons for making this distinction is that the N VA in 2009 entered the regional government but not the federal government after the 2010
+
+elections (Deschouwer & Reuchamps, 2013). It could be expected that dissatisfied N-VA
+
+voters after 2009 would develop higher levels of trust in the regional institutions, while they
+
+would continue to lose trust in the federal institutions of Belgium.
+
+3. The one-dimensionality is stronger in 2014 than in 2009, with an Eigen value rising from 3.8 to 4.7 in Flanders and from 4.4 to 5.0 in Wallonia and Cronbach’s α rising from .88 to .95 in the Flemish region and from 0.73 to 0.83 in Wallonia.
+
+9
+
+Table 1. Measuring political trust
+
+Flemish region Walloon region 2009 (0-10)
+
+2014 (0-10)
+
+Trend 2009-14
+
+2009 (0-10)
+
+2014 (0-10)
+
+Trend 2009-14 Political parties 4.73 4.31 -0.42*** 4.39 3.64 -0.93***
+
+Regional government 6.28 5.30 -0.98*** 5.28 3.94 -1.35***
+
+Regional parliament 6.09 5.27 -0.82*** 5.07 3.97 -1.10***
+
+Belgian government 5.09 4.84 -0.25* 5.41 4.47 -0.94***
+
+Belgian parliament 5.06 4.84 -0.22* 5.41 4.46 -0.95***
+
+Politicians 4.71 4.24 -0.47*** 4.73 3.79 -0.95***
+
+Average 5.33 4.80 -0.53**** 5.05 4.01 -1.04***
+
+Cronbach’s α 0.88 0.95 0.93 0.96 Eigenvalue 3.78 4.73 4.40 4.97 Explained variance 62.97% 78.88% 0.73% 0.83% Source: Belgian Election Panel 2009-2014, N Flemish region =500 and N Walloon region = 364. Entries are average scores on a 0-10 scale. Significance: * p < 0.05; ** p < 0.01; *** p < 0.001.
+
+Our first two hypotheses deal with how trust affects voters’ electoral choices. Investigating the
+
+vote choice implies that our dependent variable has a categorical nature, distinguishing
+
+between different vote choice options in the 2014 elections. Therefore, we present the results
+
+of a series of multinomial logistic regression models and we examine voting in the two party
+
+systems separately. For the Flemish region we take a vote for the Christian Democratic party
+
+CD&V as the reference category. We do so, because this is the major mainstream party. The
+
+other outcome options are a vote for the green party (Groen!), a vote for the Flemish
+
+nationalist party (N-VA), a vote for the liberal party (Open VLD), a vote for the social democrats (SP.a), a vote for the extreme-right party (Vlaams Belang), a vote for another party
+
+and a blank or invalid vote. Similarly, for the French language parties, we take a vote for the
+
+Christian Democrats (cdH) as a reference category. In the Walloon region, the other options
+
+are a vote for the green party (Ecolo), the liberals (MR), the socialists (PS), the extreme left
+
+party (PTB Go!), a vote for another small party and casting a blank or invalid vote.
+
+We investigate the impact of political trust on vote choices while controlling for a number of
+
+socio-demographic control variables. We control for respondents’ gender, age and level of
+
+education – distinguishing between low levels of education (with no or less than a high school
+
+degree), middle levels (with only a high school degree) and high levels of education (with a
+
+higher education degree). We additionally control for respondents’ level of political interest
+
+and their self-placement on an ideological left-right scale (both measured on a 0-10-scale).
+
+10
+
+We also investigate how attitudes of political trust evolve after voting for a populist or protest
+
+party. To test our third hypothesis, we first descriptively analyse the evolution of levels of
+
+political trust for voters of different parties. Subsequently, we perform a multivariate analysis
+
+explaining the impact of the vote choice in 2009 on levels of political trust in 2014, while
+
+controlling for the 2009 level of political trust. For doing so, we run an OLS regression, in
+
+which we control for the same set of socio-demographic characteristics as included in the vote
+
+choice model as well.
+
+4.RESULTS
+
+Before investigating the over-time effects of political trust and voting for protest parties, we
+
+assess whether in the Flemish region – as was the case in 2009 (Hooghe et al., 2011) – levels
+
+of political trust are strongly correlated to preferring particular parties in 2014. For the French
+
+language party system, we expect that – as in 2009 – there is no clear pattern of distrusting
+
+voters choosing specific parties. We control for the effect of gender, age, levels of education,
+
+political interest and left-right self-placement. The full results of this multinomial regression
+
+analysis for the Flemish region are included in Appendix 1 and suggest that political trust is
+
+indeed significantly related to respondents’ party preferences. Higher levels of political trust
+
+significantly decrease the probability of intending to vote for the liberal party Open VLD, the
+
+Flemish nationalist party N-VA, the extreme-right Vlaams Belang, another party and
+
+intending to cast a blank or invalid vote compared to intending to vote for the Christian
+
+Democrats.
+
+As the coefficients obtained from a multinomial logit model are relative to the reference
+
+category and hence hard to interpret, in Figure 1 we present the average adjusted predictions
+
+of intending to vote for each of the parties by different levels of political trust. The results are
+
+in line with what was observed in 2009. Low levels of political trust are associated with
+
+higher probabilities of voting N-VA, Vlaams Belang or casting a blank or invalid vote. The
+
+results offer support for our first hypothesis, as lower levels of political trust are associated
+
+with higher probabilities of voting for protest parties. Even though the Flemish-nationalist
+
+party N-VA is not generally characterized as a protest party (Hooghe et al., 2011; Boonen &
+
+Hooghe, 2014), the impact of distrust is strongest for this party. For the other parties, there is
+
+hardly any impact of political trust at all, with the notable exception of CD&V. A higher level
+
+of political trust strongly and significantly increases the probability to intend to vote for the
+
+11
+
+Christian Democratic party in 2014. A possible explanation for this finding is that the party is
+
+perceived by Flemish voters as the main historical incumbent (Hooghe & Dassonneville,
+
+2012).
+
+12
+
+Figure 1. Average adjusted predictions of intending to vote for each of the parties by political trust (2014) – Flemish region
+
+Source: Belgian Election Panel, BEP 2009-2014. Data are weighted by socio-demographics (gender, age and level of education). Average adjusted predictions and 95%-confidence intervals based on the model in Appendix 1.
+
+Next, we investigate the effect of political trust in 2014 on the vote intentions of Walloon
+
+respondents. As we have done for the Flemish case as well, we estimate a multinomial logit
+
+model and specify the Christian Democratic party (cdH) as the reference group. As there are
+
+no real protest parties among the French-speaking political parties, we do not expect one
+
+specific party to attract distrusting voters. The full results of this estimation are reported in
+
+Appendix 2 and indicate that for the main parties (i.e., Greens, Liberals or Socialists) there are
+
+no significant effects of political trust on the voters’ likelihood of voting for one of these
+
+parties rather than choosing cdH, the reference category in our analyses. We do observe,
+
+however, that those who voted for the extreme-left party PTB-Go!, those who voted for one of
+
+the smaller parties (e.g., FDF and FN) or those who casted a blank or invalid vote are
+
+significantly less trusting than those who intended to vote for cdH in 2014.
+
+To ease the interpretation of these results, in Figure 2 we present the average adjusted
+
+predictions of intending to vote for each of the parties by different levels of political trust.
+
+While the effect of political trust to vote PTB Go!, another small party or to cast a
+
+blank/invalid vote is clearly negative, confidence intervals are rather wide – which is due to
+
+the small number of respondents in each of these categories. Furthermore, plotting the
+
+estimated effect of political trust on vote intention clarifies that having a higher level of trust
+
+in politics in 2014 is significantly increasing the probability of intending to vote for the
+
+socialist party PS. In line with the observation that high levels of political trust increased the
+
+probability of voting CD&V in the Flemish region, we observe that in the Walloon region as
+
+well the party that is generally and historically conceived of as the main incumbent is
+
+attracting the most trusting voters (Dassonneville & Hooghe, 2012).
+
+Figure 2. Average adjusted predictions of intending to vote for each of the parties by political trust (2014) – Walloon region
+
+Source: Belgian Election Panel, BEP 2009-2014. Data are weighted by gender, age and level of education. Average adjusted predictions and 95%-confidence intervals based on the model in Appendix 2.
+
+The descriptive statistics for political trust in Table 1 already clarified that there was a decline
+
+in levels of political trust between 2009 and 2014. In a next step, we assess how these changes
+
+in trust levels between 2009 and 2014 affect what parties voters prefer. Therefore, we add to
+
+the models presented in Appendix 1 and Appendix 2 respondents’ evolution of political trust
+
+between 2009 and 2014 (Δ political trust). This indicator takes a positive value if respondents
+
+are becoming more trusting in politics between 2009 and 2014 and a negative value if their
+
+level of trust in politics decreases. The predominant pattern among panel respondents is one
+
+of decreasing levels of trust in politics. For the Flemish case in particular, we can also
+
+introduce a distinction between trust in the regional institutions (with N-VA in the governing
+
+coalition) and the federal institutions of Belgium (without N-VA in the governing coalition) as
+
+this allows us to observe whether the participation of N-VA in the regional governmental
+
+coalition actually makes a difference for Flemish respondents.
+
+The full results of these multinomial logistic regression analyses are presented in Appendix 3
+
+(Flemish region) and Appendix 4 (Walloon region). First, for the Flemish region, results
+
+indicate that besides respondents’ level of political trust, the evolution of this attitude as well
+
+is correlated to vote intentions. As levels of trust increased between 2009 and 2014, panel
+
+respondents became significantly less likely to intend voting for the N-VA, Vlaams Belang or
+
+to cast a blank or invalid vote compared to voting for the Christian Democratic party CD&V.
+
+We graphically present the estimated effect of Δ political trust on intending to vote for each of
+
+the parties in Figure 3. The graphs clarify that similarly to what holds for levels of political
+
+trust in the Flemish region as well, for change in trust-levels, effects are strongest for CD&V
+
+on the one hand and N-VA on the other. First, as voters become more trusting between 2009
+
+and 2014, this significantly increases their probability of voting for the Christian Democratic
+
+party. The reverse is true for voting Vlaams Belang or casting a blank/invalid vote, although
+
+these effects are only marginally significant. For the Flemish nationalist party, we observe that
+
+improving trust levels significantly decrease the probability that respondents intend to vote N VA.
+
+Figure 3. Average adjusted predictions of intending to vote for each of the parties by Δ political trust (2009-2014)
+
+Source: Belgian Election Panel 2009-2014. Data are weighted by gender, age and level of education. Average adjusted predictions and 95%-confidence intervals based on the model presented in Appendix 3
+
+For the Walloon region as well, focusing on the evolution of political trust over the electoral
+
+cycle results in similar conclusions. From the full results in Appendix 4 it can be observed that
+
+there are no significant differences in the impact of Δ trust on choosing any of the main parties
+
+over cdH. We note, however, that a higher Δ-value is significantly decreasing the probability
+
+of choosing PTB Go!, another party or of casting a blank/invalid voter over cdH. The
+
+graphical representation of these effects (Figure 4) illustrates that variations in Δ trust have
+
+virtually no impact on the likelihood of voting cdH, Ecolo or MR, while we also note that
+
+higher Δ values are significantly increasing the probability of voting for the PS. For choosing
+
+the extreme-left PTB Go!, another small party or for casting a blank/invalid vote, finally, the
+
+estimated effect of Δ trust is negative, but highly uncertain.
+
+Figure 4. Average adjusted predictions of intending to vote for each of the parties by Δ political trust (2009-2014)
+
+Source: Belgian Election Panel 2009-2014. Data are weighted by gender, age and level of education. Average adjusted predictions and 95%-confidence intervals based on the model presented in Appendix 4.
+
+Combined, the results offer support for our second hypothesis: protest parties succeed in
+
+attracting voters who are becoming more distrustful. The analyses thus indicate that low levels
+
+of political trust as well as a decline of trust increase the probability of voting for protest
+
+parties. The contrast between the Flemish and Walloon region furthermore highlights the key
+
+role played by protest parties: in Wallonia, where there are no clear protest parties running for
+
+election, patterns of protest voting remain more diffuse.
+
+In the Flemish region, the Flemish nationalist party N-VA in particular succeeds in attracting
+
+voters who are becoming more distrusting over time. Since 2009, however, this party was part
+
+of the governing coalition at the regional level.4 Therefore the N-VA could no longer be
+
+considered a pure protest party at the regional level – in contrast to what holds at the federal
+
+level, where the party was in opposition. As an additional test, we therefore investigate how
+
+evolutions in regional political trust5 and federal political trust6 respectively affect voting
+
+behaviour in the 2014 elections. The results of these analyses are presented in Appendix 5 and
+
+Appendix 6 and indicate that for both levels of governance decreasing levels of political trust
+
+significantly increase the probability of choosing N-VA, Vlaams Belang or casting a
+
+blank/invalid vote over choosing CD&V, confirming what we observed for a general sense of
+
+political trust. Even though the estimated impact of decreasing levels of federal political trust
+
+on choosing the N-VA is somewhat stronger compared to the effect of decreasing levels of
+
+regional political trust – the status of the Flemish Nationalist party as an incumbent at the
+
+regional level does not seem to inhibit it from attracting voters who have become more
+
+distrusting towards that specific level of government.
+
+The question that remains is what subsequently happens to voters who have voted for a protest
+
+party? Does voting for a protest party suffice as a way to channel dissatisfaction, as Miller and
+
+Listhaug (1990) assume? Or do protest parties further ‘fuel’ distrust, as we hypothesized? We
+
+first descriptively assess changes in levels of political trust between 2009 and 2014 for the
+
+electorates of different parties. As evident from mean levels of change in political trust, on
+
+average, voters have become less trusting in political institutions, with a decrease of about 0.5
+
+among Flemish respondents and a 1-point decrease on the 0-10 trust scale among Walloon
+
+4. The regional government in Flanders between 2009 and 2014 was a coalition between Christian Democrats, Nationalists and Socialists, with two Nationalist ministers (out of a total of nine). 5 . A sum-scale of trust in the regional parliament and the regional government. 6 . A sum-scale of trust in the federal parliament and the federal government.
+
+respondents. Furthermore, for both groups levels of trust in the regional institutions
+
+(parliament and government) have decreased somewhat more than levels of trust in the federal
+
+institutions. In terms of the differences between parties, among the Dutch language parties,
+
+we note the strongest decrease in levels of political trust among those who voted Vlaams
+
+Belang, N-VA or Open VLD in 2009. Table 2 also offers indications that N-VA voters are
+
+distinguishing between different levels of government. Their decrease of trust at the regional
+
+level – where the party was in the governing coalition – is less pronounced (-1.10) than what
+
+holds for the federal level (-1.41), where the party still was in opposition. It is remarkable,
+
+though, that having entered the regional coalition did not have a beneficial effect on the level
+
+of trust of N-VA voters in that level of government. For the electorates of the French language
+
+parties, levels of political trust have decreased in all groups, but quite markedly so among
+
+those who voted for the socialist party in 2009.
+
+Table 2. Δ political trust (2009-2014) by vote choice in the 2009 regional elections
+
+Δ political trust Δ regional political trust
+
+Δ federal political trust CD&V -0.43 -0.66 -0.80 Groen -0.35 -1.16 -0.03 N-VA -0.73 -1.10 -1.41 SP.a -0.48 -0.90 -0.10 Vlaams Belang -0.79 -1.41 -1.12 Open VLD -0.71 -1.12 -0.84 Flemish respondents total -0.54 -0.90 -0.78 cdH -0.99 -1.08 -0.59 Ecolo -0.92 -0.94 -0.61 MR -0.92 -1.06 -0.50 PS -1.37 -1.69 -1.31 Walloon respondents total -1.03 -1.22 -0.76 Source: Belgian Election Panel 2009-2014. N Flemish respondents =500 and N Walloon respondents = 364. Mean values are reported. Values for groups <20 are not shown.
+
+While indicative, descriptive statistics are not sufficient for drawing strong conclusions on the
+
+impact of having voted for a particular party. We therefore proceed with the estimation of
+
+OLS regressions, explaining respondents’ change in political trust levels between 2009 and
+
+2014.7 Besides the socio-demographic variables gender, age and level of education, we also
+
+control for voters’ level of political trust in 2009, which takes into account potential ceiling
+
+effects when investigating the evolution of trust over time. For assessing the impact of voting
+
+7. The reliance on a panel design implies that the data suffer from attrition. As a way to account for this, we analysed the data weighted by vote choice as well. The results of these analyses are not substantially different from the results reported here.
+
+for a protest party on change in political trust, we add a series of dummy variables on
+
+respondents’ reported vote in 2009. For both language groups, we present three models, one
+
+explaining the evolution in general levels of political trust, a second model focusing on
+
+regional institutions, and a third on federal institutions.
+
+The results for the Dutch language parties are presented in Table 3. First, it has to be noted
+
+that it is indeed important to control for the 2009 level of political trust, as the level of trust is
+
+significantly related to the subsequent change in trust levels. Most importantly, the results
+
+offer evidence for the thesis that protest parties are fuelling dissatisfaction. Respondents who
+
+voted for either the Flemish nationalist party N-VA or for Vlaams Belang in 2009 had a
+
+significantly stronger decrease in trust between 2009 and 2014 compared to those who voted
+
+CD&V in 2009. Additionally, even though the previous analyses indicated that lower levels of
+
+trust as well as a strong decrease of political trust are significantly correlated to casting a
+
+blank or invalid vote, the results in Table 3 do not indicate a similar ‘strengthening’ of distrust
+
+for those voters as what holds for those who voted for a protest party. This offers support for
+
+the causal mechanism suggested by Dinas (2014). When focusing on trust in the regional or
+
+federal levels of government only, differences are minor and those who voted for N-VA and
+
+Vlaams Belang in 2009 are consistently more distrusting over time. Focusing on having voted
+
+N-VA in 2009, the effect is somewhat smaller for regional political trust than for federal trust,
+
+but we note a significant decrease in both cases. The fact that among the 2009 N-VA voters,
+
+the trust in the regional institutions (in which the N-VA participated) further declined, shows
+
+an interesting dynamic. While Miller and Listhaug (1990) assumed that giving protest parties
+
+a say in government could restore political trust among their supporters, the opposite seems to
+
+occur, as protest parties ‘contaminate’ the level they participate in. The fact that we do not
+
+observe all that much difference between Vlaams Belang and N-VA voters is highly relevant.
+
+While the Vlaams Belang remained stuck in the opposition, the N-VA joined the coalition at
+
+the regional level. Opposition or government, however, does not seem to have an effect on the
+
+development of trust levels among their supporters. Both groups of the electorate firmly
+
+continue to display all the characteristics of a protest vote.
+
+The results indicate that the N-VA effectively is associated with low levels of political trust.
+
+Not only the party attracts voters with lower levels of political trust, it has also been found
+
+that N-VA voters subsequently are more likely to develop even lower levels of political trust.
+
+These findings are all the more remarkable, since in reality, during the 2010-2014 period, the
+
+N-VA occupied a rather ambiguous position in the Belgian federal system, by being in
+
+opposition on the federal level, while joining the governing coalition on the regional level. It
+
+falls outside the scope of the current article to explain this finding, but two potential
+
+explanations come to mind. First, it is possible that Belgian voters consider the federal level to
+
+be the most important level of government, with as a result that the N-VA for them was first of
+
+all an opposition party. A second possibility is that the party itself stressed in its campaign
+
+rhetoric its opposition to the federal government, while it downplayed its accomplishments
+
+within the regional government. Further research is needed to assess which explanation is
+
+most plausible.
+
+For voters in Wallonia, the descriptive results in Table 2 indicated that especially those who
+
+voted for the PS in 2009 became more distrusting over the 2009-2014 electoral cycle. In Table
+
+4, we assess whether a vote for the socialist (or any other electoral choice in 2009) has
+
+significantly affected the subsequent evolution of political trust in general, regional political
+
+trust or federal political trust. Unlike what we observed for Flemish respondents, none of the
+
+2009-vote options significantly affects the evolution of respondents’ attitudes of political trust
+
+over time. In the Walloon electoral context – a context that is marked by the absence of
+
+clearly identifiable protest parties – we find no evidence that particular parties would be
+
+fueling political distrust.
+
+Table 3. Explaining Δ political trust (2009-2014)
+
+Model 1 Model 2 Model 3
+
+Political trust Regional trust Federal trust
+
+b (s.e.)
+
+b (s.e.)
+
+b (s.e.)
+
+Political trust 2009 -0.513***
+
+(0.068)
+
+Regional political trust 2009 -0.538***
+
+(0.065)
+
+Federal political trust 2009 -0.607***
+
+(0.069)
+
+Female (ref: male) 0.031 0.006 0.123
+
+(0.163) (0.183) (0.184)
+
+Age 0.001 -0.001 0.002
+
+(0.005) (0.006) (0.006)
+
+Lower educated (ref: middle) -0.689* -0.514 -0.714*
+
+(0.272) (0.299) (0.294)
+
+Higher educated (ref: middle) 0.366* 0.259 0.400*
+
+(0.160) (0.182) (0.184)
+
+Party voted for 2009 (ref: CD&V)
+
+Groen -0.318 -0.840* 0.326
+
+(0.283) (0.332) (0.344)
+
+N-VA -0.781*** -0.687** -1.121***
+
+(0.229) (0.257) (0.265)
+
+SP.a -0.203 -0.519 0.397
+
+(0.285) (0.316) (0.320)
+
+Vlaams Belang -1.146** -1.531*** -1.093*
+
+(0.405) (0.433) (0.427)
+
+Open VLD -0.391 -0.645* -0.127
+
+(0.289) (0.301) (0.326)
+
+Lijst Dedecker -0.721 -0.490 -1.163*
+
+(0.518) (0.597) (0.511)
+
+Other 0.171 -0.262 0.744
+
+(0.431) (0.537) (0.487)
+
+Blank/invalid -1.182 -1.752 -0.262
+
+(0.631) (0.908) (0.621)
+
+Constant 2.579*** 3.045*** 2.823***
+
+(0.583) (0.640) (0.615)
+
+N 404 422 412
+
+R2 0.196 0.211 0.265 Source: Belgian Election Panel 2009-2014. Data weighted by socio-demographics (gender, age and level of education). Unstandardized regression coefficients, standard errors in parentheses. Significance: * p < 0.05, ** p < 0.01, *** p < 0.001.
+
+Table 4. Explaining Δ political trust (2009-2014)
+
+Model 1 Model 2 Model 3
+
+Political trust Regional trust Federal trust
+
+b (s.e.)
+
+b (s.e.)
+
+b (s.e.)
+
+Political trust 2009 -0.353***
+
+(0.067)
+
+Regional political trust 2009 -0.490***
+
+(0.071)
+
+Federal political trust 2009 -0.419***
+
+(0.069)
+
+Female (ref: male) -0.041 -0.023 -0.342
+
+(0.230) (0.257) (0.247)
+
+Age 0.006 0.007 0.015
+
+(0.008) (0.009) (0.009)
+
+Lower educated (ref: middle) 0.068 -0.027 0.208
+
+(0.326) (0.366) (0.347)
+
+Higher educated (ref: middle) 0.453 0.169 0.482
+
+(0.248) (0.281) (0.275)
+
+Party voted for 2009 (ref: cdH)
+
+Ecolo -0.126 -0.094 -0.301
+
+(0.337) (0.405) (0.359)
+
+MR -0.178 -0.401 -0.310
+
+(0.303) (0.390) (0.347)
+
+PS -0.269 -0.251 -0.487
+
+(0.358) (0.436) (0.374)
+
+Other -0.324 -1.113 -0.086
+
+(0.780) (0.943) (0.937)
+
+Blank/invalid -0.706 -0.937 -0.955
+
+(0.534) (0.676) (0.712)
+
+Constant 0.471 1.168 0.971
+
+(0.585) (0.677) (0.625)
+
+N 273 290 285
+
+R2 0.110 0.157 0.168 Source: Belgian Election Panel 2009-2014. Data weighted by socio-demographics (gender, age and level of education). Unstandardized regression coefficients, standard errors in parentheses. Significance: * p < 0.05, ** p < 0.01, *** p < 0.001.
+
+5.DISCUSSION
+
+Confirming previous research, we find that low levels of political trust are associated with a
+
+preference for a protest party. Furthermore, becoming more distrustful in between two
+
+elections as well increases the probability of voting for a protest party. As levels of political
+
+trust are deteriorating, protest parties not only electorally benefit from the fact that the pool of
+
+low trusting voters is growing, the voters who are becoming less trusting are also more likely
+
+to vote for protest parties. If we want to understand how attitudes as political trust affect
+
+political behaviour, it is hence important not only to look at levels but also to take into
+
+account changing attitudes. Longer panel data could shed light on fluctuations over a more
+
+extended period of time and provide insights in what happens if respondents vote for an anti establishment party for a longer period of time. Interestingly, whether the protest party joins a
+
+government coalition (N-VA) or not (Vlaams Belang), does not seem to change this fuelling
+
+effect. For mainstream parties it is therefore not clear at all how they can react to the
+
+challenge of protest parties. Following a ‘damned if you do, damned if you don’t’ logic, both
+
+ignoring and incorporating protest parties seem to have exactly the same effect
+
+Our findings hint at a ‘spiral of distrust’.8 Low levels of trust as well as decreasing levels of
+
+political trust increase the probability of voting for a protest party. Having chosen such a party
+
+subsequently acts to decrease one’s level of trust in politics even further. The result is a spiral
+
+of distrust, where distrust and protest voting enforce each other. Miller and Listhaug (1990)
+
+were quite optimistic on how flexible party systems would allow protest parties to rise. Such
+
+parties, according to Miller and Listhaug, could channel dissatisfaction and stop the
+
+accumulation of discontent. What we observe in the Belgian multiparty system, is more in
+
+line with what van der Brug suggested to hold in the Netherlands; protest parties can ‘fuel’
+
+discontent and this discontent even rises further when the protest party is integrated in the
+
+8. This concept is of course derived from the seminal concept of a ‘spiral of silence’, coined by Noelle-Neumann (1982).
+
+governing coalition. In line with the argument by Dinas, casting a protest vote apparently
+
+leads to the consolidation of a specific political identity, and voters further develop the
+
+attitudes that are congruent with their party preference. The key role that protest parties play
+
+in this ‘spiral of distrust’ is evident from the contrast between voting behaviour in the Flemish
+
+and Walloon regions of Belgium. Among Flemish voters, those who voted for protest parties
+
+are becoming significantly less trusting over time. In the French language party system, that is
+
+marked by the absence of a clear protest party, we do not observe a pattern in which having
+
+voted for a particular party leads voters to become even less trusting over time.
+
+Obviously, this study comes with a number of important limitations. First, the analysis is
+
+restricted to one particular case: the Belgian electoral context in the 2009-2014 period. Future
+
+research should hence clarify whether our observations can be generalized more broadly, and
+
+to political systems without compulsory voting. The fact however, that for List Pim Fortuyn in
+
+the Netherlands as well previous research has pointed out a pattern of ‘fuelling’ discontent,
+
+suggests that what we observe is not a particularity of Belgian electoral politics. Second, it has
+
+to be remembered that we only have data for one electoral cycle of five years. It is possible
+
+that this is not sufficient as an observation period to document the transformation from a
+
+protest party toward a ‘party in government’. For convincingly showing the presence of a
+
+‘spiral of distrust’ we would ideally make use of a panel study that covers a more extended
+
+period of time. Third, the use of panel data also comes with disadvantages, of which panel attrition is an essential one. Four, our results point out that those who voted for a protest party
+
+subsequently become more distrusting, but we can only speculate about the mechanism
+
+causing this pattern. More research, linking individual-level data with data on campaign
+
+coverage, is needed to enhance our knowledge of whether and how parties actively contribute
+
+to the spiral of distrust. Better insight in the exact causal mechanisms determining the spiral
+
+of distrust might also provide more specific suggestions on how the spiral could be reversed.
+
+REFERENCES
+
+Arzheimer, K. (2009). Contextual Factors and the Extreme Right Vote in Western Europe,
+
+1980-2002. American Journal of Political Science, 53(2), 259–275.
+
+Bélanger, É., & Aarts, K. (2006). Explaining the Rise of the LPF: Issues, Discontent, and the
+
+2002 Dutch Election. Acta Politica, 41(1), 4–20.
+
+Bélanger, É., & Nadeau, R. (2005). Political Trust and the Vote in Multiparty Elections: The
+
+Canadian Case. European Journal of Political Research, 44(1), 121–146.
+
+Boonen, J. & Hooghe, M. (2014). Do Nationalist Parties Shape or Follow Sub-national
+
+Identities? A Panel Analysis on the Rise of the Nationalist Party in Flanders (Belgium), 2006-2011. Nations and Nationalism, 20(1), 56-79.
+
+Citrin, J. (1974). The Political Relevance of Trust in Government. American Political Science
+
+Review, 68(3), 973–988.
+
+Dandoy, R. (2014). The Impact of Government Participation and Prospects on Party Policy
+
+Preferences in Belgium. Government and Opposition, 49(4), 630-657.
+
+Dassonneville, R., Falk Pedersen, E., Grieb, A. & Hooghe, M. (2014). Belgian Election Panel
+
+2009-2014. Technical Report. Leuven: University of Leuven.
+
+Dassonneville, R. & Hooghe, M. (2012). Election Forecasting under Opaque Conditions: A
+
+Model for Francophone Belgium, 1981-2010. International Journal of Forecasting 28(4): 777-788. Deschouwer, K., & Reuchamps, M. (2013). The Belgian Federation at a Crossroad. Regional
+
+and Federal Studies, 23(3), 261–270.
+
+Deschouwer, K., Delwit, P., Hooghe, M., Baudewyns, P. & Walgrave, S. (eds., 2015),
+
+Décrypter l'électeur. Le comportement électoral et les motivations de vote. Louvain: Lannoo.
+
+Dinas, E. (2014). Does Choice Bring Loyalty? Electoral Participation and the Development of
+
+Party Identification. American Journal of Political Science, 25(2), 449–465.
+
+Fiorina, M. P. (1978). Economic Retrospective Voting in American National Elections: A
+
+Micro-Analysis. American Journal of Political Science, 22(2), 426–443.
+
+Frankel, L.L. & Hillygus, D.S. (2013). Lookig Beyond Demographics: Panel Attrition in the
+
+ANES and GSS. Political Analysis, 22(3): 363-353. Gabriel, O. (2015). When Representation Fails. Behavioural Reactions to Perceived Failure of
+
+Political Representation in France and Germany, in T.Poguntke, S. Roßteutscher, R. Schmitt-Beck & S. Zmerli (eds.), Citizenship and Democracy in an Era of Crisis. London: Routledge.
+
+Hetherington, M. J. (1998). The Political Relevance of Political Trust. American Political
+
+Science Review, 92(4), 791–808.
+
+Hetherington, M. J. (1999). The Effect of Political Trust on the Presidential Vote, 1968-1996.
+
+American Political Science Review, 93(2), 311-326.
+
+Hooghe, M. (2012). The Political Crisis in Belgium (2007-2011): A Federal System without
+
+Federal Loyalty. Representation, 48(1), 131–138.
+
+Hooghe, M., & Dassonneville, R. (2014). Party Members as an Electoral Linking Mechanism.
+
+An Election Forecasting Model for Political Parties in Belgium, 1981-2010. Party Politics, 20(3), 368–380.
+
+Hooghe, M., Jacobs, L. & Claes, E. (2015). Enduring Gender Bias in Reporting on Political
+
+Elite Positions. Media Coverage of Female MPs in Belgian News Broadcasts (20032011). International Journal of Press/Politics,20(4), 395-414.
+
+Hooghe, M., Marien, S., & Pauwels, T. (2011). Where Do Distrusting Voters Turn if There is
+
+No Viable Exit or Voice Option ? The Impact of Political Trust on Electoral Behaviour in   the Belgian Regional Elections of June 2009. Government and Opposition, 46(2), 245– 273.
+
+Ivarsflaten, E. (2007). What Unites Right-Wing Populists in Western Europe?: Re-Examining
+
+Grievance Mobilization Models in Seven Successful Cases. Comparative Political Studies, 41(1), 3–23.
+
+Lewis-Beck, M. S., & Stegmaier, M. (2013). The VP-Function Revisited: A Survey of the
+
+Literature on Vote and Popularity Functions after over 40 Years. Public Choice, 157(3-4), 367–385.
+
+McAllister, I. (1982). The Australian democrats: Protest vote or portent of realignment?
+
+Politics, 17(1), 68-73.
+
+Marien, S. (2011). Measuring Political Trust across Time and Space. In S. Zmerli & M.
+
+Hooghe (Eds.), Political Trust. Why Context Matters (pp. 13–46). Colchester: ECPR Press.
+
+Miller, A. H., & Listhaug, O. (1990). Political Parties and Confidence in Government: A
+
+Comparison of Norway, Sweden and the United States. British Journal of Political Science, 20(3), 357–386.
+
+Mudde, C. (2007). Populist Radical Right Parties in Europe. Cambridge (UK): Cambridge
+
+University Press.
+
+Noelle-Neumann, E. (1982). Die Schweigespirale. Öffentliche Meinung, unsere soziale Haut.
+
+Frankfurt: Ullstein.
+
+Norris, P. (Ed.). (1999). Critical Citizens: Global Support for Democratic Government.
+
+Oxford: Oxford University Press.
+
+Pauwels, T. (2011). Explaining the Strange Decline of the Populist Radical Right Vlaams
+
+Belang in Belgium. The impact of permanent opposition. Acta Politica, 46(1), 60-82.
+
+Rabinowitz, G., & Macdonald, S. E. (1989). A Directional theory of Issue Voting. American
+
+Political Science Review, 83(1), 93–121.
+
+Rooduijn, M., S. de Lange & W. van der Brug (2014). A Populist Zeitgeist? Programmatic
+
+Contagion by Populist Parties in Western Europe. Party Politics, 20(4), 563-575.
+
+Schumacher, G., & Rooduijn, M. (2013). Sympathy for the “Devil”? Voting for Populists in
+
+the 2006 and 2010 Dutch General Elections. Electoral Studies, 32(1), 124–133.
+
+Thijssen, P. (2001). Extreem-rechts en politieke aliënatie: een causaal mysterie? Case-study:
+
+Het Vlaams Blok. Tijdschrift voor Sociologie, 22(3): 243-273.
+
+Vandecasteele, L. & Debels, A. (2007). Attrition in Panel Data: The Effectiveness of
+
+Weighting. European Sociological Review, 23(1): 81-97. Van der Brug, W. (2003). How the LPF Fuelled Discontent: Empirical Tests of Explanations
+
+of LPF Support. Acta Politica, 38(1), 89–106.
+
+Van der Brug, W. & Fennema, M. (2003). Protest or mainstream? How the European anti immigrant parties developed into two separate groups by 1999. European Journal of Political Research, 42(1), 55-76. Van der Brug, W., Fennema, M. & Tillie, J. (2000). Anti-immigrant parties in Europe:
+
+Ideological or Protest Vote? European Journal of Political Research, 37(1), 77-102.
+
+Van der Eijk, C. & Niemöller, B. (2008). Recall Accuracy and its Determinants. In: K.
+
+Arzheimer & J. Evans (eds.) Electoral Behavior. Volume 4: Debates and Methodology. Los Angeles: Sage (pp. 232-280). Van Kessel, S. (2011). Explaining the Electoral Performance of Populist Parties: The
+
+Netherlands as a Case Study. Perspectives on European Politics and Society, 12(1), 68– 88.
+
+Van Spanje, J. (2011). The Wrong and the Right: A Comparative Analysis of ‘Anti Immigration’ and ‘Far Right’ Parties. Government and Opposition, 46(3), 293-320.

@@ -1,0 +1,511 @@
+Representation
+
+Journal of Representative Democracy
+
+ISSN: 0034-4893 (Print) 1749-4001 (Online) Journal homepage: www.tandfonline.com/journals/rrep20
+
+Does it Matter if You’re Left or Right? Studying Left- and Right-Wing Populist Citizens’ Support for Deliberative Mini-Publics
+
+Rosa Kindt
+
+To cite this article: Rosa Kindt (11 May 2025): Does it Matter if You’re Left or Right? Studying Left- and Right-Wing Populist Citizens’ Support for Deliberative Mini-Publics, Representation, DOI: 10.1080/00344893.2025.2501680
+
+To link to this article: https://doi.org/10.1080/00344893.2025.2501680
+
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+
+Published online: 11 May 2025.
+
+Submit your article to this journal
+
+Article views: 372
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rrep20
+
+Does it Matter if You’re Left or Right? Studying Left- and Right-Wing Populist Citizens’ Support for Deliberative Mini-Publics
+
+Rosa Kindt
+
+Department of Political Science, IMR, Radboud University, Nijmegen, Netherlands
+
+ABSTRACT Populist citizens have a remarkable democratic profile: they are democratic idealists that are dissatisfied with how democracy works in practice. It stands to reason that they would be supportive of decision-making procedures that take power away from the elite and give it back to the people. This paper seeks to establish whether this is the case by examining populist citizens’ support for a highly people-centrist democratic innovation: deliberative mini-publics (DMPs). It furthermore seeks to establish whether left – and right-wing populist citizens have different attitudes towards DMPs. In doing so, this paper extends the research on the differences between left-wing and right-wing populism from the study of political parties to individuals and shows that mechanisms found at the party level do not necessarily travel well to the individual level. Specifically, using a unique dataset explicitly tailored to measuring support for DMPs (N = 996; case: the Netherlands), this research finds that populist citizens are more likely to support DMPs, but finds no evidence that host-ideologies moderate this relationship.
+
+KEYWORDS Populist attitudes; deliberation; left-wing; right-wing
+
+Introduction
+
+Populism has been put forward as thriving where the gap between democratic practice and democratic principle becomes too wide (Canovan, 1999; Mény & Surel, 2002). A growing body of research indeed shows that populist citizens are highly critical of repre­ sentative democratic decision-making because they feel it does not do justice to the prin­ ciple of popular sovereignty (Rovira Kaltwasser & Van Hauwaert, 2020; Zaslove & Meijers, 2024).
+
+Democratic innovations, in turn, have been proposed as means to bring the demo­ cratic principle and democratic practice closer together by ‘[reimagining] and [deepen­ ing] the role of citizens in governance processes by increasing opportunities for participation, deliberation and influence’ (Elstub & Escobar, 2019, p. 11; Geissel & Newton, 2012; Smith, 2009). A deliberative mini-public (hereinafter: DMP) is such a
+
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/ licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+CONTACT Rosa Kindt rosa.kindt@ru.nl
+
+REPRESENTATION https://doi.org/10.1080/00344893.2025.2501680
+
+democratic innovation that centres on increasing citizen influence in democracy. DMPs can be defined as ‘forums where a representative subset of the wider population […] come together to engage in open, inclusive, informed and consequential discussions on one or more issues’ (Curato et al., 2021, p. 3).
+
+One would thus expect that populist citizens, in their desire for a larger influence of the people in democracy, strongly support the implementation of DMPs. The little research available indeed finds that populist citizens are favourable towards DMPs, despite DMPs not being a natural ‘fit’ with populist ideology (Heinisch & Wegscheider, 2020; Zaslove et al., 2021). However, this research into populist citizens’ support for DMPs does not use the latest knowledge of how to best operationalise support for DMPs, thus meriting replication research to re-establish this relationship.
+
+Secondly, the discovered populist support for DMPs might not be the whole story. Research into populist parties has consistently shown that – especially when it comes to assessing populism’s relationship with democracy – one should differentiate between left-wing and right-wing populism (e.g., Huber & Schimpf, 2017). Similarly, populist citizens’ political behaviour and attitudes have consistently been found to be the result of a combination of populism and host-ideology (Akkerman et al., 2017; Cas­ tanho Hawkins et al., 2020; Marcos-Marne, 2021; Silva et al., 2022). However, research into populist citizens’ attitudes towards democratic innovations has so far not taken into account whether different ‘types’ of populist citizens have different attitudes.
+
+Especially in relation to DMPs, that have been considered the most ‘people-centred’ of democratic innovations (Zaslove et al., 2021), that distinction can be expected to matter. Given the fundamentally pluralistic nature of DMPs and the more inclusionary con­ ception of the people of left-wing populism (Mudde & Rovira Kaltwasser, 2013), one would expect DMPs to be a more natural match with left-wing populism, thus leading to higher levels of support among left-wing populists; and one would expect the exclu­ sionary nature of right-wing populism along with its animosity towards ‘dangerous others’ to lead to lower levels of support for DMPs.
+
+The objectives of this paper are thus twofold: first, it seeks to re-establish whether populist citizens support DMPs as democratic decision-making procedures using survey questions that meet the state of the field. Secondly and importantly, this study seeks to empirically establish if there is a difference between left– and right-wing populist individuals’ attitudes towards DMPs.
+
+This research’s findings first of all corroborate that the higher one’s populist attitudes are, the more strongly one supports DMPs (Heinisch & Wegscheider, 2020; Zaslove et al., 2021). Secondly and surprisingly, it finds no evidence for difference in support for DMPs between left– and right-wing populist individuals. This is an important finding that suggests that populist attitudes may well correlate with support for DMPs irrespective of ideology. That is: support for DMPs among populist individuals is the result of popu­ list ideology’s ‘empty signifiers’ (Laclau, 2005) rather than their host-ideologies.
+
+In having established this, this research makes several contribution to our knowledge of populism. First, it extends the research on the differences between left-wing and right- wing populism from the study of political parties to individuals and shows that mechan­ isms found at the party level do not necessarily travel well to the individual level. It after all finds that populist individuals are contrary to populist parties. Second, it shows that, contrary to what some populism scholars have found (e.g., Castanho Silva et al., 2022),
+
+2 R. KINDT
+
+populist attitudes are a meaningful explanans of political attitudes and behaviour irre­ spective of their host-ideologies. Finally, the finding that populist citizens across the board support DMPs as decision-making mechanisms bodes well for DMPs potential to actually bring democratic principle and practice together.
+
+In the following I first briefly outline general explanations of support for DMPs before outlining why populist citizens would support DMPs. I then explain why one would expect left– and right-wing citizens to have different attitudes towards DMPs. Then the case and method are explained before the results are presented.
+
+Theoretical Framework
+
+Explaining Support for Deliberative Mini-publics
+
+Individuals’ support for any type of democratic innovation is most commonly thought to be connected to dissatisfaction with politics (Goldberg et al., 2020; Werner, 2020). Theor­ etical explanations largely fall into two categories. The first explanation can be summarised as ‘stealth-democrat’ (Goldberg et al., 2020; Werner et al., 2020). It proposes that citizens are dissatisfied with their representatives because they perceive them as acting on behalf of special interests. The outcomes they produce are thus not in line with what citizens want (Mohrenberg et al., 2021). This dissatisfaction leads to support for democratic innovations because these provide them with the means to ‘correct’ their representatives’ decision- making. Importantly, these citizens would not prefer more participation if they did not feel their representatives were letting them down (Hibbing & Theiss-Morse, 2002; Mohren­ berg et al., 2021; Werner, 2020). The second explanation can be summarised as ‘post-mate­ rialist’.1 It proposes that citizens’ dissatisfaction stems from their higher normative expectations of democracy. As a result, citizens demand more opportunities to actively par­ ticipate in democratic decision-making because they feel that existing opportunities to par­ ticipate do not meet their democratic desires. The perceived lack of opportunity to participate translates into frustration with what is seen as an unresponsive political elite (Dalton, 2004; Inglehart, 1977; Norris, 1999, 2011).
+
+Recent empirical research into support for DMPs largely corroborates these two cat­ egories of explanations. Citizens that are dissatisfied – be it with democracy, with their government, or with politicians and political parties – are more likely to support DMPs (Bedock & Pilet, 2023; Goldberg & Bächtiger, 2023; Pilet et al., 2023; Walsh & Elkink, 2021). In fact, this has been found to be the strongest driver of support (Pilet et al., 2023). Alternatively, citizens that can be expected to want to engage more have also been found more likely to support DMPs. Thus, there is a positive relationship between being politically efficacious and politically interested, and being more supportive of DMPs (Bedock & Pilet, 2023; Walsh & Elkink, 2021). Bedock and Pilet (2023) have moreover shown that in some instances, these two explanations – or these two mechan­ isms – should be taken in conjunction. They find that citizens who are more politically efficacious and more dissatisfied with politics are more likely to support the use of binding DMPs. This specific combination thus leads to a preference of decision- making through sortition over decision-making by politicians.2
+
+Pilet et al. (2024) have additionally shown that perceived underrepresentation leads to greater levels of support for DMPs among citizens. They find that citizens with a lower
+
+REPRESENTATION 3
+
+income and a lower level of education, who might perceive their descriptive representation in parliament as lacking, are more supportive of DMPs; and they find that citizens who experience issue incongruence with parliament and with government, who might perceive their substantive representation as lacking, are more supportive of DMPs.
+
+This leads them to conclude that support for DMPs might also be driven by instru­ mental considerations, that is: their dissatisfaction with representative democracy causes them to support DMPs because they hope that this instrument provides them with greater voice and influence (Pilet et al., 2024, p. 308). Pilet et al. (2023) find further evidence for the idea that support for DMPs might also be instrumental in that support for DMPs is greater when citizens are more sure of a favourable outcome. This is in line with research into explanations for support of other democratic innovations that finds that instrumental considerations play a large role (e.g., Beiser- McGrath et al., 2022; Werner, 2020).
+
+Populists’ Support for Deliberative Mini-publics
+
+Having described general explanations for support for DMPs, this paragraph seeks to outline to what extent one can expect these to hold regarding populist individuals’ support for DMPs, or whether there may be particular reasons why populist individuals might or might not support DMPs. I first briefly describe populist ideology and how that manifests in individuals, before outlining how populism might affect an individual’s support for DMPs.
+
+I define populism using the ideational approach, which considers populism to be a set of ideas (e.g., Mudde, 2004; Stanley, 2008) centred around three subdimensions: people- centrism, or a celebration of the people as being morally pure, with a singular will, and possessing common sense; anti-elitism, or an opposition to the elite who disregard the singular general will of the people (e,g, Mudde, 2004; Müller, 2014); and Manichaeism, or the perception of moral antagonism between the good people and the corrupt elite (e.g., Mudde, 2004; Stanley, 2008).3
+
+Taking the ideational approach towards populism means one accepts that populism cannot just be found in political supply-side actors, but also in individuals. Relatively recently, scholars studying populist individuals have found that populist ideology mani­ fests in individuals as populist attitudes (Akkerman et al., 2014; Hawkins et al., 2012; Schulz et al., 2018).4 These attitudes are expressions of the above described core dimen­ sions of populism (Akkerman et al., 2014, p. 1330). An individual with higher levels of populist attitudes sees politics and society through a populist ‘lens’ (Mudde & Rovira Kaltwasser, 2013, p. 97).
+
+Seeing the world through a populist lens means populist individuals are notoriously dis­ satisfied. They are dissatisfied with a political elite they see as corrupt and unresponsive to the people’s needs, they are dissatisfied with the level of popular sovereignty in representative democracy, they are dissatisfied with mediated representation through political parties and politicians (Rovira Kaltwasser & Van Hauwaert, 2020; Zaslove & Meijers, 2024). They thus feel inherently politically dissatisfied and underrepresented, both of which senti­ ments lead to greater support for democratic innovations such as referendums and DMPs.
+
+Importantly though, as Geurkink et al. (2020) have stressed, populism is about more than simple dissatisfaction with the way democracy works. What makes populism
+
+4 R. KINDT
+
+different is that it not only focuses on what it is against (politics as usual), but also high­ lights what it is for, namely that politics should be an expression of the general will. Or as Spruyt et al. (2016, p. 336) put it:
+
+what distinguishes the support for populism from simple political discontent and frustra­ tions is that populism remains a politics of hope, that is, the hope that where established parties and elites have failed, ordinary folks, common sense, and the politicians who give them a voice can find solutions.
+
+This is also what distinguishes populist individuals from so-called stealth democrats. While stealth democrats prefer democratic innovations such as referendums as a way to hold politicians accountable in case of government failure, populist individuals support them because they want the people’s will to inform policy-making directly (Moh­ renberg et al., 2021, p. 531).
+
+While referendums ‘fit’ particularly well with populism as such instruments align well with more homogenous conceptions of the people, DMPs nevertheless can also be expected to be prefered by populists. Indeed, while they do assume a more pluralist notion of the people, they nevertheless (at least somewhat) empower citizens and are built on ‘the wisdom’ of ‘ordinary folks’. As Jacobs (2024, p. 516) puts it,
+
+by definition, deliberation is a way to involve citizens in decision-making and take (some) power back from the elites. It can give them a genuine voice (…), something that is likely to be appreciated by populists. After all, populists feel their voice is the voice of the silent majority, a voice that is not listened to. As such, deliberative processes may well have the potential to counter the feeling of the lack of responsiveness.
+
+Indeed, empirical research has already shown that populist individuals are more likely to support deliberative forms of democratic innovations (Heinisch & Wegscheider, 2020; Zaslove et al., 2021) and more willing to participate if they take place (Zaslove et al., 2021). Despite the fact that DMPs are a poor fit with the populist ideal of the homo­ geneous, unified people, and despite the fact that they are often advisory, populist indi­ viduals still see them as a way of empowering ‘the people’ at the expense of ‘the elite’ (Van Dijk et al., 2020). Zaslove et al. (2021) have referred to this explanation as ‘a case of the grass is greener’: populist individuals’ ‘overwhelming’ rejection to being represented by a political elite (Zaslove & Meijers, 2024) leads them to prefer any alternative to represen­ tative democracy that empowers ordinary citizens (Zaslove et al., 2021, p. 743). This leads to the following hypothesis:
+
+H1: An individual with higher populist attitudes is more likely to support DMPs than an individual with lower populist attitudes.
+
+Why Different ‘Types’ of Populists Might Have Different Attitudes Towards DMPs
+
+This explanation for greater support for DMPs among populist individuals does not take into account the role that host-ideologies can play in determining a populist individual’s opinion of DMPs. I expect that the particular definition a populist individual gives to ‘the people’ – who one considers to have legitimate opinions and who one considers to be a threat – moderates support for DMPs among populist citizens. I propose that, similar to
+
+REPRESENTATION 5
+
+populist supply-side actors, for different populist individuals these groups can be com­ posed very differently. This is due to the fact that a populist concept like ‘the people’ is an ‘empty signifier’ (Laclau, 1977), which means that populist actors need to use their particular context to give meaning to populist ideology that fits their situation.
+
+Research into populist supply-side actors has revealed a clear distinction between right– and left-wing populism. Right-wing populism combines populism with nativism and authoritarianism5 (Mudde, 2007; Otjes, 2021). Nativism proclaims that members of the nation should exclusively inhabit the territory of the nation (Mudde, 2007; Otjes, 2021). Right-wing populism is therefore first and foremost thought to be focused on ethnic identity (March, 2017). Contemporary left-wing populism combines populist ideology with ‘democratic socialism’ (March, 2017; Pauwels, 2014). Democratic socialists position themselves to the ‘left’ of social democracy, calling for state welfarism, public ownership, equality and redistribution. They also adhere to ‘new left’ issues such as feminism and environmentalism (March, 2011; Pauwels, 2014). Left-wing populism is thus characterised by an emphasis on social justice, economic redistribution, and egali­ tarianism (e.g., Ivaldi et al., 2017; March, 2017; Mudde & Rovira Kaltwasser, 2013).
+
+Research into left– and right-wing populist parties has found that host-ideologies have a particularly profound effect on ‘the people’. As a result, left – and right-wing populist conceptions of ‘the people’ are very distinct (Ivaldi et al., 2017). Left-wing populism has a primarily ‘inclusive economic’ conception (March, 2017; Mudde & Rovira Kaltwasser, 2013), that is based on class: left-wing populists appeal to ‘the poor’ or to ‘ordinary people’ to stand up against the ‘bourgeois’ elite (Pauwels, 2014). In its definition of the people, left-wing populism gives precedence to economic criteria over cultural criteria. Thus, left-wing populist parties like Podemos, SYRIZA, SSP, and Respect have explicitly appealed to other ‘excluded’ constituencies such as immigrants and LGBT-groups to equally stand up against the bourgeoisie (March, 2017; Stavrakakis & Katsambekis, 2014). Moreover, they usually consider ethnic minorities to be part of ‘the people’ (Guinjoan, 2023; Heinisch & Wegscheider, 2020; Huber & Schimpf, 2017).
+
+On the other hand, right-wing populism is thought to have a primarily ‘exclusionary cultural’ conception of ‘the people’ that is based on its nativist host-ideology: only those deemed native to the country are part of ‘the people’ (e.g., Mudde, 2007; Mudde & Rovira Kaltwasser, 2013). Its xenophobia moreover often leads right-wing populism to not only identify a ‘people’, but also a group of ‘dangerous others’ consisting of immigrants and other ‘non-indigenous’ (Mény & Surel, 2002). It should be noted that no populist party should be considered completely inclusionary or exclusionary, since all populists are exclu­ sionary towards who they consider to be part of ‘the elite’. However, only right-wing popu­ lism also experiences conflict with ‘dangerous others’ (see also Judis, 2016, pp. 82–83).
+
+Research into the relationship between populist parties and populist voters suggest that these political host-ideologies are equally important to populist individuals. Left- wing populist individuals are much more likely to vote for a left-wing populist party than right-wing populist individuals (Marcos-Marne, 2021; Van Hauwaert & Van Kessel, 2018). Similarly, populist individuals are more likely to vote for a populist party only when that populist party also shares their issue positions (Hawkins et al., 2020). Research into the differences between populists who vote for right-wing and left-wing populist parties moreover unequivocally finds that individuals with populist attitudes who vote for right-wing populist parties share a strong aversion towards
+
+6 R. KINDT
+
+immigrants (Akkerman et al., 2017; Dunn, 2015; Heinisch & Wegscheider, 2020). This would certainly suggest that right-wing populist individuals share their parties’ more exclusionary, cultural conception of ‘the people’.
+
+Based on the differences in conceptions of ‘the people’ between left-wing and right- wing populism, I here propose that support for DMPs will be moderated by host-ideol­ ogy, that is: who one considers to be part of the people. The inclusivity that is so impor­ tant in DMPs is a value with which right-wing populists have less affinity, because it means accepting the presence in a decision-making forum of people actively perceived as threats. The aversion they feel towards these outgroups is of an equally ‘moral’ nature as the aversion they feel towards ‘the elite’. Left-wing populists – while of course not completely inclusionary in the sense that they too identify and ‘out-group’, i.e., the bourgeois elite – are much less exclusionary: their aversion remains limited to the 1%. Everyone else does belong, as the above described left-wing populist parties have been seen to stress. Therefore, the misfit between DMPs and the left-wing populist conception of ‘the people’ is much less pronounced. Furthermore, I expect that the nati­ vism– and/or xenophobia-inspired fear of the ‘dangerous other’ is such an important part of the right-wing populist ‘lens’ that even if right-wing populist individuals dissatisfac­ tion inspires support for DMPs, they still embrace DMPs with less enthusiasm than left-wing populist individuals. I therefore hypothesise that:
+
+H2: The positive effect of populism on support for DMPs is stronger for left-wing populist citizens than for right-wing populist citizens.
+
+Methodology
+
+Case
+
+I use survey data from the Netherlands to test the hypotheses formulated above. Argu­ ably, for the study of the relationship between populist attitudes and attitudes towards DMPs, the Netherlands is a ‘typical’ or representative case (Gerring, 2017). Firstly, popu­ lism as a phenomenon can be said to have been integrated into the Dutch political land­ scape and Dutch citizens have been found to consistently demonstrate populist attitudes, but not at an unusually high level (Akkerman et al., 2014; Zaslove et al., 2021). Second, the Netherlands has both left– and right-wing populist parties (Akkerman et al., 2014, 2017), and if there is variation on the supply-side, there could be a bigger chance that this variation is also present among individuals. In 2021, the time the survey data I use to test my hypotheses was collected, the Dutch political landscape arguably housed four populist parties: the right-wing populist parties Party for Freedom (PVV), Forum for Democracy (FvD), and Right Answer 21 (JA21) and the left-wing populist party Socialist Party (SP) (Rooduijn et al., 2019). Third, there is a ‘normal’ level of experience with DMPs. Since 2014, more than 100 DMPs have been or are set to be organised at the local or provincial level (Bureau Burgerberaad, 2024). Additionally one national DMP has taken place (in 2006), while one is being prepared as of 2024. As a result, Dutch citi­ zens have some experience with the concept; but they are not institutionalised to such an extent that populist attitudes no longer play a role in the evaluation of such instruments (see also Jacobs et al., 2018, p. 523). These three elements combined ensure meaningful findings, that are generalisable to similar countries, although perhaps not so to
+
+REPRESENTATION 7
+
+majoritarian political systems or countries with very different levels of populism among the population or experience with DMPs.
+
+Data
+
+The models were run using survey data from the LISS Panel administered by CentERdata (Tilburg University, The Netherlands). The LISS panel is a high-quality panel that is based on a true probability sample of households drawn from the population register by Statistics Netherlands (CBS) (Zaslove & Meijers, 2024). I used the dataset Burgerfora en democra­ tische vernieuwing (Deliberative mini-publics and democratic innovations) which contained questions on democratic innovations such as DMPs and referendums (LISS, 2021a). It which was fielded in July 2021 and was commissioned by the REDRESS-consortium and financed by the Dutch Ministry of the Interior and Kingdom Relations (den Ridder et al., 2021). 1489 respondents filled out the survey completely, with a response rate of 70.5%. This dataset was selected because it contains Akkerman et al. (2014) items that measure populist attitudes in individuals, and more importantly contains items measuring attitudes towards DMPs, formulated according to the latest standards.
+
+The LISS-panel moreover collects data on ‘standard’ questions from its panel. Because the Deliberative mini-publics and democratic innovations dataset itself did not include information on left – or right-wing orientation or other political attitudes of respondents, I merged the this dataset with a recurring questionnaire containing statements on politics and values, more specifically Politics and Values Wave 13 (LISS, 2021b). This question­ naire was fielded between December 2020 and March 2021, thus preceding the dataset containing the dependent variable. An overview of the variables used in this analysis and the datasets they were derived from can be found in appendix A.
+
+Measures
+
+Dependent Variable: Support for DMPs The dependent variable used to measure support for DMPs was A deliberative mini- public is a good way of letting citizens advise on important issues. Research into demo­ cratic innovations posits that internal validity of such measures is increased when the concept of DMPs is first briefly explained (e.g., Pilet et al., 2023, 2024). Before asking respondents the above question, they were thus first shown the following description:
+
+Before, we talked about referendums, representative democracy, decision-making by experts and citizen participation. One of the ways citizens can have a say is through a so-called delib­ erative mini-public. We would like to ask you a few questions below about what you think of a deliberative mini-public. Because a deliberative mini-public has not been used very often in the Netherlands, we will first clarify what it is. A deliberative mini-public has the follow­ ing characteristics:
+
+(1) A group of citizens (e.g., 150) is selected through sortition to participate in discussions about an important social issue, such as migration or climate policy. That group is repre­ sentative of society. (2) These citizens meet several times to discuss this issue. The discussions are moderated by independent moderators. (3) The citizens receive information and they can hear experts and ask questions.
+
+Finally, the group of citizens comes to an opinion on the social issue.
+
+8 R. KINDT
+
+The respondents were then asked to indicate on a scale from 1 (disagree completely) to 5 (agree completely) the extent to which they agree with the statement that a deliberative mini-public is a good way of letting citizens advise on important issues. The item also includes a ‘don’t know’ response option. This item thus operationalises support for DMPs as the level of agreement with statement that a DMP is a good way of organising citizen involvement. Importantly, it does not make explicit whether the advise the DMP comes up with is advisory or binding. This has several advantages: first, it more closely reflects the average design of a deliberative mini-public, that is often advisory rather than binding. And second, it does not trigger populist citizens the way a description of a binding DMP might (see Pilet et al., 2023; 2024).
+
+Independent Variable: Populist Attitudes Populist attitudes are measured using five items developed by Akkerman et al. (2014) to measure the level of populist attitudes in an individual. Importantly, the Akkerman et al. (2014) item The people, and not the politicians, should make the most important political decisions was not included in the questionnaire. When studying support for democratic innovations this item is typically not included in the analyses as ‘[t]here may be concep­ tual similarity between this item and support for the (…) dependent variables’ (Werner & Jacobs, 2022, p. 1412). Additionally, the phrasing of the item Pop4 in this questionnaire (see Table 1 below) is slightly different from the original statement ‘Elected officials talk too much and take too little action’ (Akkerman et al., 2014, p. 1331). The other four items are the same as in the Akkerman et al. (2014) study.
+
+For each of the five statements (see Table 1 below) respondents were asked to indicate their agreement on a scale from 1 (completely disagree) to 5 (completely agree). Each item included a ‘don’t know’ answer category.
+
+As is common when using the Akkerman et al. (2014) items in statistical analysis (e.g., Geurkink et al., 2020; Zaslove et al., 2021), principal axis factor analysis was used to compute an aggregate populist attitudes variable. The analysis indicated a one-factor structure with an eigenvalue of 2.4 of the first factor and factor loadings for all items above 0.5. Crohnbach’s alpha is above 0.7 indicating acceptable internal consistency (See Appendix B). A low score on this variable indicates low levels of populist attitudes, a high score on this variable indicates high levels of populist attitudes.
+
+I additionally ran a robustness check using populist attitudes statements from yet another dataset, the Populisme Barometer wave 6 (LISS, 2021c). This questionnaire was fielded in May 2021 and contains the six original Akkerman et al. (2014) statements measuring populist attitudes. However, using these statements greatly reduces the number of observations, which is why their use is limited to a robustness check. This analysis can be found in Appendix D and shows that results remain largely the same.
+
+Table 1. Items measuring populist attitudes.
+
+Pop1 The politicians in the Dutch Parliament need to follow the will of the people. Pop2 I would rather be represented by an ordinary citizen than by a professional politician. Pop3 The political differences between the elite and the people are larger than the differences among the people. Pop4 It would be better for the country if politicians stopped talking and started truly addressing problems instead. Pop5 What people call ‘compromise’ is really just selling out on one’s principles.
+
+REPRESENTATION 9
+
+Interaction Effect The interaction effect of host-ideology on the relationship between populist attitudes and support for deliberation is modelled using left-right self-placement. Respondents were asked to place themselves on an 11-point scale where 0 is left and 10 is right. To ensure robust interaction models, left-right self-placement is included in the analysis as a categorical variable (Hainmueller et al., 2019). For this categorical variable, the continuous left-right self- placement scale was recoded into ‘Left’, being 0–3; ‘Moderate’, being 4–6; and ‘Right’, being 7– 10. I also ran a robustness check with a continuous variable. The models using the continuous variable can be found in Appendix D and show that results remain largely the same.
+
+Control Variables Previous research into support for DMPs has shown that satisfaction with democracy, political efficacy and political interest can explain support for DMPs, so these are included in the models as controls (Bedock & Pilet, 2023; Heinisch & Wegscheider, 2020; Pilet et al., 2024; Zaslove et al., 2021). I additionally control for education level, age and gender. The descriptive statistics of the variables included in the main analysis can be found in appendix C.
+
+Results
+
+Figure 1 below shows the average support for DMPs for four categories of populist attitudes: low (2 standard deviations below the mean), medium low (one standard deviation below the mean); medium high (one standard deviation above the mean) and high (two standard devi­ ation above the mean). This figures shows that on average, support for DMPs is quite strong among populist citizens. It also shows that support increases per category, already suggesting a relationship between populist attitudes and support for DMPs.
+
+To test this relationship, I ran OLS regression models with the factor scores of populist attitudes as main independent variable, support for DMPs as dependent variable, and a categorical left-right self-placement as interaction variable. The results of these models are displayed in Table 2.
+
+The first thing to be noted is that in every single model, the factor score for populist attitudes has a stable, strong and significant positive effect on support for DMPs. This means that the stronger an individual’s populist attitudes are, the more likely they are to support DMPs. This is very clear evidence in support of hypothesis 1, confirming that populist individuals are more likely to support DMPs.
+
+Models 1 and 2 show a significant negative direct effect of being right-wing as opposed to left-wing. So a right-wing person is less likely to support DMPs than a left-wing person. Model 2 shows a borderline significant negative direct effect of being moderate as opposed to being left-wing. Model 2 furthermore includes the interaction effect of host-ideology on the relationship between populist attitudes and support for DMPs. The analysis in Table 2 suggests a borderline significant difference in the strength of the positive relation between populist attitudes and support for DMPs between left- wing citizens and moderate citizens. Importantly, there is no evidence for such a differ­ ence between left-wing citizens and right-wing citizens. Moreover, the interaction effect is also plotted in a marginal effects graph in Figure 2 below. This figure shows that there is no significant moderation of the effect of populist attitudes on support for DMPs for any of the left-right self-placement categories: the confidence intervals overlap with the
+
+10 R. KINDT
+
+possibility of a flat line, corroborating the non-significant effect in Table 2. This figure does hint at the possibility of a non-linear effect.6
+
+Overall these analyses provide no evidence that populist individuals’ host-ideologies play a role in shaping their support for DMPs, and thus do not support hypothesis 2 that right-wing populist individuals are less likely to support DMPs than left-wing populist individuals.
+
+Figure 1. Means and 95% CIs of support for DMPs across populist attitudes.
+
+Table 2. Regression models on the relationship between populist attitudes and support for DMPs, moderated by left – and right-wing host-ideology.
+
+Model 0 Model 1 Model 2 B B B
+
+Populist attitudes 0.259 (.034)*** 0.261 (.035)*** 0.367 (.063)*** Left-right self-placement Moderate (ref: left-wing) −0.129 (.068) −0.140 (.068)* Right-wing (ref: left-wing) −0.230 (.072)*** −0.239 (.072)*** Populist attitudes*Moderate (ref: left-wing) −0.166 (.076)* Populist attitudes*Right-wing (ref: left-wing) −0.116 (.081) Satisfaction with democracy – 0.062 (.040) −0.053 (.041) −0.051 (.041) Political efficacy 0.055 (.027)* 0.058 (.028)* 0.063 (.028)* Political interest Fairly interested (ref: very interested) 0.085 (.060) 0.086 (.062) 0.087 (.062) Not interested (ref: very interested) 0.149 (.109) 0.198 (.117) 0.205 (.117) Age 0.001 (.002) 0.001 (.002) 0.001 (.002) Gender Female (ref. male) 0.076 (.054) 0.052 (.056) 0.051 (.056) Education level Higher education (ref: lower education) 0.035 (.055) 0.017 (.057) 0.015 (.057) Constant 3.492 (.181)*** 3.605 (.194)*** 3.594 (.194)*** Adjusted R2 0.060 0.067 0.070 N 1053 996 996 * = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses.
+
+REPRESENTATION 11
+
+This is surprising given the importance of host-ideologies in determining the relation­ ship between populism and democracy in populist parties (Huber et al., 2022; Huber & Schimpf, 2017). The above findings suggest that, contrarily, when it comes to assessing DMPs, populist attitudes determine populist citizens’ outlook and not their left– or right-wing host-ideology. Or: support for DMPs among populist individuals may be the result of populist ideology’s ‘empty signifiers’ (Laclau, 2005), rather than their host-ideologies.
+
+Robustness Checks
+
+I ran several additional analyses to check the robustness of these findings. I ran (1) the same analysis with a continuous left-right variable (Appendix D, sub A); (2) analyses with an anti-immigration statement, a social equality statement and an authoritarian statement as measures for host-ideology, rather than left-right self-placement, to see whether a more topical operationalisation of host-ideology produces an effect (Appendix D, sub B; sub E; and sub F respectively); (3) an analysis using the six exact populist atti­ tudes items of the Akkerman et al. (2014) scale (Appendix D, sub C); and (4) an analysis including a squared interaction term to delve deeper into the possibility of a non-linear effect (Appendix D, sub D).7
+
+In all these models, the effects that were found in the original analysis remain the same: populist attitudes have a strongly significant positive direct effect on support for DMPs, and there is no evidence of a difference support for DMPs between left – and right-wing populist citizens. The robustness checks do merit a slight nuancing of these findings.
+
+Figure 2. Average marginal effects plot of Populist attitudes over Left-right self-placement categories with 95% confidence intervals.
+
+12 R. KINDT
+
+First of all, other operationalizations of host-ideology instead of left-right self-place­ ment corroborate our findings above (Appendix D, sub B; sub E; and sub F). Indeed, the effect of populist attitudes remains significant and of similar effect size when includ­ ing the three other operationalizations of host ideology, namely social equality attitudes, anti-immigration attitudes and authoritarianism, as control variables alongside populist attitudes. Moreover, the interaction effects of anti-immigration and social equality atti­ tudes are not significant and the confidence intervals overlap. Only in the case of authoritarianism is the evidence for an interaction effect more mixed: the interaction term is borderline significant in the model, but the margins plots show overlapping confi­ dence intervals. Taken together, these robustness checks strongly suggest that the effect of populist attitudes is not an artefact of the effect of the host-ideology.
+
+Secondly, it should be noted that in the analysis using the populist attitudes statements from the Populisme Barometer dataset (LISS, 2021c), the number of observations included in the analysis was greatly reduced due to missings,8 somewhat compromising the reliability of the results. The reduced statistical power is probably why in model 2 in this analysis, the direct effect of populist attitudes is no longer significant even though the coefficients point into a similar direction as the other robustness checks (Appendix D, sub C: Table A6 and Figure A3).
+
+Thirdly, the model including a squared interaction term does not provide evidence for a non-linear effect. Although the marginal effects graph again suggests a non-linear effect, the coefficient for the squared interaction term is not significant at any level, and the confidence intervals of the marginal effects overlap completely.
+
+Taken together, these robustness checks corroborate the initial null finding regarding the insignificant interaction effect.
+
+Discussion and Conclusion
+
+Populist citizens have an extraordinary democratic profile: they are democratic idealists that are deeply dissatisfied with how democracy works out in practice. They are particu­ larly unhappy with representative democratic decision-making (Zaslove & Meijers, 2024), that they feel unjustly reduces popular sovereignty in a democracy. A recent body of research has started to investigate how populist citizens perceive alternative forms of democratic decision-making that might meet their desire for more popular sovereignty (Heinisch & Wegscheider, 2020; Jacobs et al., 2018; Mohrenberg et al., 2021; Trüdinger & Bächtiger, 2023; Werner & Jacobs, 2022; Zaslove et al., 2021). One such decision-making procedure is the deliberative mini-public. Populist citizens were thought to reject the idea of deliberation because it does not fit their idea of a hom­ ogenous people with a unified will. I sought to further examine whether populist individ­ uals nevertheless support DMPs as means to achieve greater popular sovereignty, and, more importantly, whether left– and right-wing populist citizens, who have such different ideas of who the people are, in turn also think differently of a deliberative decision-making process.
+
+I first of all find that individuals with higher populist attitudes are consistently more likely to be supportive of DMPs. The relationship that was found in previous research (Heinisch & Wegscheider, 2020; Zaslove et al., 2021) thus holds up when using a measure of support for DMPs with stronger internal validity.
+
+REPRESENTATION 13
+
+Additionally, I found no evidence that left– and right-wing populist individuals differ in their support for DMPs. This means that, contrary to my expectations, contrary to the research into the importance of host-ideology for populist parties, and contrary to the research into the importance of host-ideology in explaining populist citizens’ political attitudes and behaviour, host-ideology seems to play next to no role in determining populist citizens’ attitudes towards democratic reform.
+
+These findings combined suggest that, when evaluating democratic innovation initiatives, populist individuals act as ‘true democrats’ (Canovan, 1999). Although DMPs might not ‘fit’ certain aspects of populist ideology, populist individuals support them nevertheless, appar­ ently attaching greater importance to the populist democratic ideal of power to the people (Canovan, 1999; Mény & Surel, 2002). I argue that the fact that host-ideology did not mod­ erate the relationship between populist attitudes and support for DMPs is indicative of the importance populist individuals put into the democratic promise of popular sovereignty that is inherent to populist ideology (Canovan, 1999; Mény & Surel, 2002). The desire for popular sovereignty is one of the few, if not the only, aspects of the populist ‘lens’ that is shared among left – and right-wing populists: people-centrism, anti-elitism, and Manichean­ ism all need host-ideology to give body to the actors it concerns, leading to differences between different populist actors. Dissatisfaction with how democracy works out in practice and the level of popular sovereignty that is achieved is universal among populists, possibly leading to the universal support evidenced in this and previous research.
+
+Important to note too is that in its main analysis and in most of the robustness checks, this research found a consistently significant negative direct effect of left-right self-placement on support for DMPs. This means that more right-wing individuals are less likely to support DMPs than more left-wing individuals. This effect is contrary to the one found by Pilet et al. (2023) in their cross-national study covering data from 15 countries – including the Netherlands – who find a positive effect of left-right self-placement on support for DMPs. I argue that this difference is most likely the result of the difference in formulation of the dependent variable. This research used a statement measuring only whether citizens thought DMPs were a good way of letting them advise on important measures; whereas Pilet and colleagues used a statement that explicitly opposed DMPs to decision-taking by poli­ ticians. The fact that they find an opposite effect to the one found here indicates that right- wing citizens are probably more negative towards politicians as a whole and leaves unsure whether their results are an effect of citizens’ support for DMPs or an effect of their dismissal of the status quo. It repeats the importance of careful consideration of the formulation of the statement measuring support for democratic reform.
+
+The limitations of this research do merit further examination of what was found here. To begin with, as already hinted at, this research only concerned the support for ‘hypothetical’ DMPs. Firstly, it could very well be that populist individuals’ level of support for an actual DMP regarding a real policy issue is triggered by other mechanisms than the ‘popular sovereignty’ mechanism found in this paper. Secondly, support for a hypothetical DMP gives no indication of whether a populist individual is similarly posi­ tive when actually participating in a DMP. It tells us nothing of how they perceive their fellow participants and evaluate the legitimacy of such an event. Another limitation con­ cerns the operationalisation. I used the Akkerman et al. scale (2014) to operationalise populist attitudes. While this was in line with the goal of this study to capture the joint effect the interrelated subdimensions of populism, by using different scales future
+
+14 R. KINDT
+
+research can delve more deeply into certain aspects of populism, such as the element of the homogeneity of the people to examine how that affects support for DMPs (for instance compared to support for referendums). On a more conceptual level, I used the ideational approach to populism, but a Laclauan perspective focusing on how the key empty signifiers in populism (the people, the elite) relate themselves to DMPs is a worthwhile venue for future research, especially in the realm of actual real-life DMPs.
+
+All in all though, my two findings combined bode well for the potential of DMPs to reconcile populist individuals with democracy and liberal democratic values. Populist individuals, at least hypothetically, see DMPs as a means to bring democratic practice and the democratic ideal closer together. Moreover, they seem to be willing to overlook the fact that DMPs highly inclusive nature means granting decision-making power to individuals outside ‘the people’, and that DMPs desired outcome is compromise. If their positive attitude travels from the hypothetical realm of ‘support’ to actual delibera­ tive democratic events, this could very well serve to soothe part of the dissatisfaction they feel with representative democracy and satisfy their desire for more popular sovereignty.
+
+Notes
+
+1. Or as the ‘cognitive mobilization thesis’ (Werner et al., 2020) or the ‘new politics thesis’ (Goldberg et al., 2020). 2. Whereas the overall preference among citizens is for consultative DMPs (see Goldberg & Bächtiger, 2023). 3. To be fair, while this is the dominant approach in empirical studies on populism among citi­
+
+zens, other approaches are possible. Specifically, the Laclauan approach can be applied to populism as well. From this angle, populism can help achieve radical democracy by reintro­ ducing conflict into politics (Mudde & Rovira Kaltwasser, 2013, p. 3). Deliberation and DMPs can be seen as a means by the elite to mediate conflict. Indeed, this also seems to be the approach taken by Bachtiger and Dryzek (2024) when they propose deliberation as a means to counter populism and respond to it. Another way the Laclauan approach to populism can be useful to the study of support for DMPs is by its emphasis on empty sign­ ifiers such as the people and the elite. This is specifically relevant when citizens actually par­ ticipate in DMPs and the emptiness is filled in by actual politicians present and actual citizens with whom participants deliberate. We will return to this in the conclusion when we discuss directions for future research. 4. In this paper we measure populist attitudes using the Akkerman et al. (2014) scale. This scale has been found to perform excellently in terms of external validity and internal coherence (Castanho Silva et al., 2020, p. 420). It is here important to explicate that this scale is chosen because it best captures the ideational conceptualization of populism as consisting of strongly interrelated subdimensions because the Akkerman et al. scale seeks to approach populist attitudes as an attitudinal syndrome (Castanho Silva et al., 2020; Wuttke et al., 2020). In practice, this means that each item taps into at least two of populism’s subdimen­ sions. For this paper, that characteristic gives this scale the highest concept-measure consist­ ency. Other operationalisations, such as the Schulz et al. (2018) scale or Castanho Silva et al. (2020) scale are for instance better suited for analysing the sub-dimensions separately or to carry out cross-country comparisons (cf. Castanho Silva et al., 2020), but those are not the aim of the present study. 5. The definition of authoritarianism is less relevant to the argument developed above, and therefore only mentioned here. Authoritarianism is generally thought to entail a belief in a strictly ordered society in which obedience prevails over personal autonomy (Napier & Jost, 2008). In practice, it is expressed through advocation of more law and order and a return to traditional values (Pauwels, 2014).
+
+REPRESENTATION 15
+
+6. This is researched further in the model in Appendix D sub D, which includes a squared interaction term. This analysis does not provide evidence of a non-linear effect. 7. Where robustness checks use a continuous variable for host-ideology, the same analysis was performed using a binned variable for host-ideology. This did not result in different findings. 8. This is because these items were from a different data collection using only partially over­
+
+lapping panel members.
+
+Acknowledgements
+
+Earlier versions of this paper were presented at the NEXT GDC Symposium and the Politicologen­ etmaal in June 2021 and the ECPR General Conference in September 2021. I thank all discussants for their valuable input. Special thanks to Kristof Jacobs, Carolien van Ham, Josje den Ridder and Robert Huber.
+
+Disclosure Statement
+
+No potential conflict of interest was reported by the author(s).
+
+Funding
+
+This research is funded by the Dutch Research Council (NWO), NWO-VIDI 195.085; Sociale en Geesteswetenschappen, NWO.
+
+Notes on contributor
+
+Rosa Kindt obtained her PhD at the Department of Political Science at Radboud University Nij­ megen. This article is part of her doctoral research into democratic innovations and populism. She currently works as a researcher at the Netherlands Court of Audits.
+
+References
+
+Akkerman, A., Mudde, C., & Zaslove, A. (2014). How populist are the people? Measuring populist attitudes in voters. Comparative Political Studies, 47(9), 1324–1353. https://doi.org/10.1177/ 0010414013512600 Akkerman, A., Zaslove, A., & Spruyt, B. (2017). We the people’ or ‘we the peoples’? A comparison of support for the populist radical right and populist radical left in The Netherlands. Swiss Political Science Review, 23(4), 377–403. https://doi.org/10.1111/spsr.12275 Bächtiger, A., & Dryzek, J. S. 2024. Deliberative democracy for diabolical times: Confronting popu­
+
+lism, extremism, denial, and authoritarianism. Cambridge University Press. Bedock, C., & Pilet, J.-B. (2023). Enraged, engaged, or both? A study of the determinants of support for consultative vs. binding mini-publics. Representation, 59(1), 33–53. https://doi. org/10.1080/00344893.2020.1778511 Beiser-McGrath, L. F., Huber, R. A., Bernauer, T., & Koubi, V. (2022). Parliament, people or tech­
+
+nocrats? Explaining mass public preferences on delegation of policymaking authority. Comparative Political Studies, 55(4), 527–554. https://doi.org/10.1177/00104140211024284 Bureau Burgerberaad. (2024). Bureau Burgerberaad | In kaart: Burgerberaad maakt stevige opmars in Nederland. https://www.bureauburgerberaad.nl/articles/in-kaart-burgerberaad-maakt- stevige-opmars-in-nederland. Canovan, M. (1999). Trust the people! populism and the two faces of democracy. Political Studies, 47(1), 2–16. https://doi.org/10.1111/1467-9248.00184
+
+16 R. KINDT
+
+Castanho Silva, B., Jungkunz, S., Helbling, M., & Littvay, L. (2020). An empirical comparison of seven populist attitudes scales. Political Research Quarterly, 73(2), 409–424. https://doi.org/ 10.1177/1065912919833176 Curato, N., Farrell, D. M., Geissel, B., Grönlund, K., Mockler, P., Pilet, J.-B., Renwick, A., Rose, J., Setälä, M., & Suiter, J. (2021). Deliberative mini-publics: Core design features (1st ed.). Bristol University Press. https://doi.org/10.2307/j.ctv1sr6gw9 Dalton, R. J. (2004). Democratic challenges, democratic choices: The erosion of political support in advanced industrial democracies. Oxford University Press. https://doi.org/10.1093/acprof:oso/ 9780199268436.001.0001 den Ridder, J., Fiselier, T., & van Ham, C. (2021). Draagvlak voor het burgerforum. Een verkenning van de Nederlandse publieke opinie. https://www.scp.nl/publicaties/publicaties/2021/11/04/ draagvlak-voor-het-burgerforum. Dunn, K. (2015). Preference for radical right-wing populist parties among exclusive-nationalists and authoritarians. Party Politics, 21(3), 367–380. https://doi.org/10.1177/1354068812472587 Elstub, S., & Escobar, O. (2019). Defining and typologising democratic innovations. In S. Elstub & O. Escobar (Eds.), Handbook of democratic innovation and governance (pp. 11–31). Edward Elgar Publishing. Geissel, B., & Newton, K. (2012). Evaluating democratic innovations: Curing the democratic malaise? Routledge. Gerring, J. (2017). Case study research: Principles and practices (2nd ed.). Cambridge University Press. Geurkink, B., Zaslove, A., Sluiter, R., & Jacobs, K. (2020). Populist attitudes, political trust, and external political efficacy: Old wine in new bottles? Political Studies, 68(1), 247–267. https:// doi.org/10.1177/0032321719842768 Goldberg, S., & Bächtiger, A. (2023). Catching the ‘deliberative wave’? How (disaffected) citizens assess deliberative citizen forums. British Journal of Political Science, 53(1), 239–247. https://doi. org/10.1017/S0007123422000059 Goldberg, S., Wyss, D., & Bächtiger, A. (2020). Deliberating or thinking (twice) about democratic preferences: What German citizens want from democracy. Political Studies, 68(2), 311–331. https://doi.org/10.1177/0032321719843967 Guinjoan, M. (2023). How ideology shapes the relationship between populist attitudes and support for liberal democratic values. Evidence from Spain. Acta Politica, 58(2), 401–423. https://doi. org/10.1057/s41269-022-00252-9 Hainmueller, J., Mummolo, J., & Xu, Y. (2019). How much should we trust estimates from multi­
+
+plicative interaction models? Simple tools to improve empirical practice. Political Analysis, 27(2), 163–192. https://doi.org/10.1017/pan.2018.46 Hawkins, K. A., Kaltwasser, C. R., & Andreadis, I. (2020). The activation of populist attitudes. Government and Opposition, 55(2), 283–307. https://doi.org/10.1017/gov.2018.23 Hawkins, K. A., Riding, S., & Mudde, C. (2012). Measuring populist attitudes. International Political Science Association. Heinisch, R., & Wegscheider, C. (2020). Disentangling how populism and radical host ideologies shape citizens’ conceptions of democratic decision-making. Politics and Governance, 8(3), 32–44.. https://doi.org/10.17645/pag.v8i3.2915 Hibbing, J. R., & Theiss-Morse, E. (2002). Stealth democracy: Americans’ beliefs about How govern­
+
+ment should work. Cambridge University Press. Huber, R. A., Jankowski, M., & Juen, C.-M. (2022). Populist parties and the two-dimensional policy space. European Journal of Political Research, n/a(n/a). https://doi.org/10.1111/1475- 6765.12569 Huber, R. A., & Schimpf, C. H. (2017). On the distinct effects of left-wing and right-wing populism on democratic quality. Politics and Governance, 5(4), 146–165. https://doi.org/10.17645/pag. v5i4.919 Inglehart, R. (1977). The silent revolution: Changing values and political styles Among western publics. Princeton University Press. https://press.princeton.edu/books/hardcover/ 9780691641515/the-silent-revolution.
+
+REPRESENTATION 17
+
+Ivaldi, G., Lanzone, M. E., & Woods, D. (2017). Varieties of populism across a left-right spectrum: The case of the front national, the northern league, Podemos and five star movement. Swiss Political Science Review, 23(4), 354–376. https://doi.org/10.1111/spsr.12278 Jacobs, K. (2024). Have a little faith in deliberation? Examining the effect of participation in a citi­
+
+zens’ assembly on populist attitudes. Contemporary Politics 30(4), 512–533. http://doi.org/10. 1080/13569775.2023.2296725. Jacobs, K., Akkerman, A., & Zaslove, A. (2018). The voice of populist people? Referendum prefer­
+
+ences, practices and populist attitudes. Acta Politica, 53(4), 517–541. https://doi.org/10.1057/ s41269-018-0105-1 Judis, J. B. (2016). The populist explosion: How the great recession transformed American and European politics. Columbia Global Reports. Kaltwasser, R., & Van Hauwaert, S. M. (2020). The populist citizen: Empirical evidence from Europe and Latin America. European Political Science Review, 12(1), 1–18. https://doi.org/10. 1017/S1755773919000262 Laclau, E. (1977). Politics and ideology in Marxist theory: Capitalism, fascism, populism. New Left Books. Laclau, E. (2005). On populist reason. Verso. LISS. (2021a). Burgerfora en democratische vernieuwing. CentERdata. LISS. (2021b). Politics and values wave 13. CentERdata. https://doi.org/10.17026/dans-xkc-x8sz. LISS. (2021c). Populisme barometer wave 6. CentERdata. March, L. (2011). Radical left parties in Europe. Routledge. March, L. (2017). Left and right populism compared: The British case. The British Journal of Politics and International Relations, 19(2), 282–303. https://doi.org/10.1177/1369148117701753 Marcos-Marne, H. (2021). A tale of populism? The determinants of voting for left-wing populist parties in Spain. Political Studies, 69(4), 1053–1071. https://doi.org/10.1177/0032321720950215 Mény, Y., & Surel, Y. (2002). The constitutive ambiguity of populism. In Y. Mény & Y. Surel (Eds.), Democracies and the populist challenge (pp. 1–21). Palgrave Macmillan UK. Mohrenberg, S., Huber, R. A., & Freyburg, T. (2021). Love at first sight? Populist attitudes and support for direct democracy. Party Politics, 27(3), 528–539. https://doi.org/10.1177/ 1354068819868908 Mudde, C. (2004). The populist Zeitgeist. Government and Opposition, 39(4), 541–563. https://doi. org/10.1111/j.1477-7053.2004.00135.x Mudde, C. (2007). Populist radical right parties in Europe. Cambridge University Press. https://doi. org/10.1017/CBO9780511492037 Mudde, C., & Rovira Kaltwasser, C. R. (2013). Exclusionary vs. Inclusionary populism: Comparing contemporary Europe and Latin America. Government and Opposition, 48(2), 147–174. https:// doi.org/10.1017/gov.2012.11 Müller, J.-W. (2014). “The people must be extracted from within the people”: Reflections on popu­
+
+lism. Constellations 21(4), 483–493. http://doi.org/10.1111/cons.2014.21.issue-4. Napier, J. L., & Jost, J. T. (2008). The “antidemocratic personality” revisited: A cross-national investigation of working-class authoritarianism. Journal of Social Issues, 64(3), 595–617. https://doi.org/10.1111/j.1540-4560.2008.00579.x Norris, P. (Ed.) (1999). Critical citizens: Global support for democratic government (1st ed.). Oxford University Press. Norris, P. (2011). Democratic deficit: Critical citizens revisited. Cambridge University Press. https:// doi.org/10.1017/CBO9780511973383 Otjes, S. (2021). The fight on the right: What drives voting for the Dutch freedom party and for the forum for democracy? Acta Politica, 56(1), 130–162. https://doi.org/10.1057/s41269-020-00150-y Pauwels, T. (2014). Populism in Western Europe: Comparing Belgium, Germany and The Netherlands. Routledge. Pilet, J.-B., Bedock, C., Talukder, D., & Rangoni, S. (2024). Support for deliberative mini-publics among the losers of representative democracy. British Journal of Political Science, 54(2), 295–312. https://doi.org/10.1017/S0007123423000479
+
+18 R. KINDT
+
+Pilet, J.-B., Bol, D., Vittori, D., & Paulis, E. (2023). Public support for deliberative citizens’ assem­
+
+blies selected through sortition: Evidence from 15 countries. European Journal of Political Research, 62(3), 873–902. https://doi.org/10.1111/1475-6765.12541 Rooduijn, M., Van Kessel, S., Froio, C., Pirro, A., de Lange, S. L., Halikiopoulou, D., Lewis, P., Mudde, C., & Taggart, P. (2019). The PopuList. The PopuList: An Overview of Populist, Far Right, Far Left and Eurosceptic Parties in Europe. https://popu-list.org/. Schulz, A., Müller, P., Schemer, C., Wirz, D. S., Wettstein, M., & Wirth, W. (2018). Measuring populist attitudes on three dimensions. International Journal of Public Opinion Research, 30(2), 316–326. https://doi.org/10.1093/ijpor/edw037 Silva, C., Fuks, B., & Tamaki, M. (2022). So thin it’s almost invisible: Populist attitudes and voting behavior in Brazil. Electoral Studies, 75, 102434. https://doi.org/10.1016/j.electstud.2021.102434 Smith, G. (2009). Democratic innovations: Designing institutions for citizen participation. Cambridge University Press. https://doi.org/10.1017/CBO9780511609848 Spruyt, B., Keppens, G., & Van Droogenbroeck, F. (2016). Who supports populism and what attracts people to It? Political Research Quarterly, 69(2), 335–346. https://doi.org/10.1177/ 1065912916639138 Stanley, B. (2008). The thin ideology of populism. Journal of Political Ideologies, 13(1), 95–110.
+
+https://doi.org/10.1080/13569310701822289 Stavrakakis, Y., & Katsambekis, G. (2014). Left-wing populism in the European periphery: The case of SYRIZA. Journal of Political Ideologies, 19(2), 119–142. https://doi.org/10.1080/ 13569317.2014.909266 Trüdinger, E.-M., & Bächtiger, A. (2023). Attitudes vs. Actions? Direct-democratic preferences and participation of populist citizens. West European Politics, 46(1), 241–254. https://doi.org/ 10.1080/01402382.2021.2023435 Van Dijk, L., Legein, T., Pilet, J.-B., & Marien, S. (2020). Explaining vote choices in the 2019 Belgian elections: Democratic, populist and emotional drivers. Politics of the Low Countries, 2(3), 289–318. https://doi.org/10.5553/PLC/258999292020002003004 Van Hauwaert, S. M., & Van Kessel, S. (2018). Beyond protest and discontent: A cross-national analysis of the effect of populist attitudes and issue positions on populist party support. European Journal of Political Research, 57(1), 68–92. https://doi.org/10.1111/1475-6765.12216 Walsh, C. D., & Elkink, J. A. (2021). The dissatisfied and the engaged: Citizen support for citizens’ assemblies and their willingness to participate. Irish Political Studies, 36(4), 647–666. https://doi. org/10.1080/07907184.2021.1974717 Werner, H. (2020). If I’ll win it, I want it: The role of instrumental considerations in explaining public support for referendums. European Journal of Political Research, 59(2), 312–330. https://doi.org/10.1111/1475-6765.12358 Werner, H., & Jacobs, K. (2022). Are populists sore losers? Explaining populist citizens’ prefer­
+
+ences for and reactions to referendums. British Journal of Political Science, 52(3), 1409–1417. https://doi.org/10.1017/S0007123421000314 Werner, H., Marien, S., & Felicetti, A. (2020). A problem-based approach to understanding public support for referendums. European Journal of Political Research, 59(3), 538–554. https://doi. org/10.1111/1475-6765.12368 Wuttke, A., Schimpf, C., & Schoen, H. (2020). When the whole Is greater than the sum of its parts: On the conceptualization and measurement of populist attitudes and other multidimensional constructs. American Political Science Review, 114(2), 356–374. https://doi.org/10.1017/ S0003055419000807 Zaslove, A., Geurkink, B., Jacobs, K., & Akkerman, A. (2021). Power to the people? Populism, democracy, and political participation: A citizen’s perspective. West European Politics, 44(4), 727–751. https://doi.org/10.1080/01402382.2020.1776490 Zaslove, A., & Meijers, M. (2024). Populist democrats? Unpacking the relationship between popu­
+
+list and democratic attitudes at the citizen level. Political Studies, 72(3), 1133–1159. https://doi. org/10.1177/00323217231173800
+
+REPRESENTATION 19
+
+Appendices
+
+Appendix A. Variable overview
+
+Table A1. Overview of variables in main analysis.
+
+Item Formulation Scale Dataset Support for DMPs
+
+It would be best for important decisions to be taken by a group of citizens who have heard all the various opinions, for instance through a G1000 citizens’ summit.
+
+1 = Completely disagree; 2 = Disagree; 3 = Neither; 4 = Agree; 5 = Completely agree + Don’t know
+
+Deliberative mini- publics and democratic innovations (LISS, 2021a) Populist attitudes
+
+The politicians in the Dutch parliament need to follow the will of the people. I would rather be represented by an ordinary citizen than by a professional politician. The political differences between the elite and the people are larger than the differences among the people. It would be better for the country if politicians stopped talking and started truly addressing problems instead. What people call compromise is really just selling out on one’s principles.
+
+1 = Strongly disagree; 2 = Disagree; 3 = Neither; 4 = Agree; 5 = Strongly agree + Don’t know
+
+Deliberative mini- publics and democratic innovations (LISS, 2021a)
+
+Left-right self- placement
+
+In politics, a distinction is often made between ‘the left’ and ‘the right’. Where would you place yourself on the scale below, where 0 means left and 10 means right?
+
+0 = left; 10 = right + Don’t know Politics and Values Wave 13 (LISS, 2021c)
+
+Satisfaction with democracy
+
+Are you overall satisfied or dissatisfied with the way democracy functions in the Netherlands?
+
+1 = Very satisfied; 2 = fairly satisfied; 3 = fairly dissatisfied; 4 = very dissatisfied + Don’t know + Don’t want to say
+
+Deliberative mini- publics and democratic innovations (LISS, 2021a) Political efficacy
+
+I am well capable of playing an active role in politics.
+
+1 = Strongly disagree; 2 = Disagree; 3 = Neither; 4 = Agree; 5 = Strongly agree + Don’t know
+
+Deliberative mini- publics and democratic innovations (LISS, 2021a) Political interest
+
+Are you very interested in political topics, fairly interested or not interested?
+
+1 = very interested; 2 = fairly interested; 3 = not interested
+
+Politics and Values Wave 13 (LISS, 2021c)
+
+Gender Gender 0 = Male; 1 = Female Deliberative mini- publics and democratic innovations (LISS, 2021a) Age Age of household member Numeric Deliberative mini- publics and democratic innovations (LISS, 2021a) Education level Highest completed level of education in CBS categories
+
+Recoded into 0 = No higher education [Primary; VMBO; HAVO / VWO; MBO]; 1 = Higher education [HBO; WO]
+
+Deliberative mini- publics and democratic innovations (LISS, 2021a)
+
+20 R. KINDT
+
+Appendix B. Principal Axis Factor Analysis Populist Attitudes
+
+Table A2. Principal axis factor analysis populist attitudes.
+
+Items
+
+Dimension loading Politicians in the Dutch Parliament need to follow the will of the people. 0.632 I would rather be represented by an ordinary citizen than by a professional politician. 0.599 The political differences between the elite and the people are larger than the differences among the people.
+
+0.608
+
+It would be better for the country if politicians stopped talking and started truly addressing problems instead.
+
+0.591
+
+What people call ‘compromise’ is really just selling out on one’s principles. 0.499 Crohnbach’s alpha based on standardised items 0.723
+
+Appendix C. Descriptive Statistics of the Variables of Interest Table A3. Descriptive statistics.
+
+Variable N* Minimum Maximum Mean Std. deviation Support for DMPs 1173 1 5 3.67 0.852 Populist attitudes 1219 −2.54 2.18 0.00 0.853 Pop1 1219 1 5 3.44 0.905 Pop2 1219 1 5 2.65 0.948 Pop3 1219 1 5 3.52 0.932 Pop4 1219 1 5 3.96 0.937 Pop5 1219 1 5 3.04 0.966 Left-right self-placement 1117 0 10 5.17 2.151 Satisfaction with democracy 1159 1 4 2.32 0.724 Political efficacy 1176 1 5 2.74 1.030 Political interest 1191 1 3 1.77 0.604 Gender 1219 1 2 1.49 0.500 Age 1219 16 95 56.95 17.60 Education level 1218 1 6 3.92 1.513 Valid N 996
+
+*Sample is limited to those with a valid score on all populist attitudes items.
+
+Appendix D. Robustness Checks
+
+A. Results of Regression Models with a Continuous Left-right Self-placement Variable.
+
+Table A4. Regression models on the relationship between populist attitudes and support for DMPs, moderated by a continuous left – and right-wing host-ideology.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes 0.259 (.034)*** 0.262 (.035)*** 0.320 (.079)*** Left-right self-placement −0.040 (.012)*** −0.040 (.012)*** Populist attitudes*Left-right self-placement −0.011 (.014) Satisfaction with democracy – 0.062 (.040) −0.051 (.041) −0.052 (.041) Political efficacy 0.055 (.027)* 0.057 (.026)* 0.058 (.028)* Political interest Fairly interested (ref: very interested) 0.085 (.060) 0.088 (.062) 0.087 (.062) Not interested (ref: very interested) 0.149 (.109) 0.197 (.117) 0.196 (.117) Age 0.001 (.002) 0.001 (.002) 0.001 (.002) Gender Female (ref. male) 0.076 (.054) 0.050 (.053) 0.050 (.056) Education level
+
+(Continued)
+
+REPRESENTATION 21
+
+Table A4. Continued.
+
+Model 0 Model 1 Model 2 B B B Higher education (ref: lower education) 0.035 (.055) 0.018 (.056) 0.019 (.056) Constant 3.492 (.181)*** 3.690 (.200)*** 3.688(.200)*** Adjusted R2 0.060 0.068 0.068 N 1053 996 996
+
+* = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses.
+
+B. Results of Regression Models with an Anti-immigration Statement as Operationalisation of Host-ideology.
+
+In the analysis below, left-right self-placement has been replaced by a statement on whether immi­ grants have the right to retain their own culture or should adapt entirely to Dutch culture. This variable has been derived from the Politics and Values dataset (LISS, 2021b). Its wording is as follows:
+
+In the Netherlands, some people believe that immigrants are entitled to live here while retaining their own culture. Others feel that they should adapt entirely to Dutch culture? Where would you place your­ self on a scale of 1–5, where 1 means that immigrants can retain their own culture and 5 means that they should adapt entirely?’
+
+This item was selected because it mirrors the wording of the left-right self-placement statement.
+
+Figure A1. Average marginal effects plot of Populist attitudes over continuous Left-right self-place­ ment with 95% confidence intervals.
+
+22 R. KINDT
+
+Table A5. Regression models on the relationship between populist attitudes and support for DMPs, moderated by anti-immigration sentiments.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes 0.259 (.034)*** 0.261 (.035)*** 0.384 (.113)*** Anti-immigration sentiments −0.024 (.029) −0.022 (.029)*** Populist attitudes*Anti-immigration sentiments −0.036 (.032) Satisfaction with democracy – 0.062 (.040) −0.059 (.040) −0.055 (.040) Political efficacy 0.055 (.027)* 0.053 (.028) 0.055 (.028)* Political interest
+
+Fairly interested (ref: very interested) 0.085 (.060) 0.071 (.062) 0.071 (.061) Not interested (ref: very interested) 0.149 (.109) 0.137 (.110) 0.139 (.110) Age 0.001 (.002) 0.001 (.002) 0.001 (.002) Gender
+
+Female (ref. male) 0.076 (.054) 0.079 (.053) 0.076 (.055) Education level
+
+Higher education (ref: lower education) 0.035 (.055) 0.025 (.056) 0.027 (.056) Constant 3.492 (.181)*** 3.574 (.203)*** 3.553(.204)*** Adjusted R2 0.060 0.058 0.058 N 1053 1032 1032
+
+* = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses
+
+Figure A2. Average marginal effects plot of Populist attitudes over Anti-immigration sentiments with 95% confidence intervals.
+
+REPRESENTATION 23
+
+C. Results of Regression Models with Data from Populist Attitudes Statements from LISS Dataset Populisme Barometer Wave 6.
+
+Table A6. Regression models on the relationship between populist attitudes and support for DMPs, moderated by left – and right-wing host-ideology, using populism attitudes statements from Populisme Dataset wave 6.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes Populisme Barometer 0.182 (.049)*** 0.196 (.050)*** 0.165 (.120) Left-right self-placement −0.045 (.019)* −0.045 (.019)* Populist attitudes*Left-right self-placement 0.005 (.019) Satisfaction with democracy – 0.018 (.064) −0.009 (.065) −0.006 (.066) Political efficacy 0.114 (.042)** 0.124 (.043)** 0.123 (.044)** Political interest Fairly interested (ref: very interested) 0.142 (.092) 0.134 (.093) 0.133 (.093) Not interested (ref: very interested) 0.245 (.184) 0.322 (.198) 0.322 (.199) Age −0.000 (.002) −0.001 (.003) −0.001 (.003) Gender Female (ref. male) 0.081 (.082) 0.057 (.084) 0.057 (.085) Education level Higher education (ref: lower education) −0.200 (.087)* −0.211 (.089)* −0.210 (.089)* Constant 3.411 (.286)*** 3.655 (.312)*** 3.654 (.313)*** Adjusted R2 0.065 0.082 0.079 N 408 393 393 * = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses.
+
+The analysis below uses populist attitudes items from the 6th wave of the Populisme Barometer dataset collected in May 2021 (LISS, 2021c). These items are the 6 original items that were devel­ oped by Akkerman et al. (2014). For each of these statements, respondents were asked to indicate their agreement on a 5-point scale.
+
+The six items were again aggregated into a single variable using principal axis factor analysis. Limit­ ing the sample to those respondents that have a valid observation on the dependent variable, the analy­ sis indicated a one-factor structure with an eigenvalue of 3.5 of the first factor and factor loadings for all items above 0.6. Crohnbach’s alpha is above 0.85. This indicates that these 6 populist attitudes items
+
+Figure A3. Average marginal effects plot of Populist attitudes over Left-right self-placement with 95% confidence intervals.
+
+24 R. KINDT
+
+load better on one dimension and result in a more internally consistent variable than the 5 populist attitudes items used in the main analysis. However, the low number of observations have as a conse­ quence that there is not enough statistical power to conduct the relatively complex interaction analysis. The large confidence intervals in figure A3 show that there are too few observations per category to reliably estimate the effects, especially in the extreme-left populist categories. Nevertheless, the overall image is similar to that in the main analysis.
+
+D. Results of Regression Models with Squared Interaction Term.
+
+Table A7. Regression models on the relationship between populist attitudes and support for DMPs, moderated by a squared left – and right-wing host-ideology variable.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes 0.259 (.034)*** 0.262 (.035)*** 0.382 (.124)*** Left-right self-placement −0.040 (.012)*** −0.062 (.049) Populist attitudes*Left-right self-placement −0.044 (.053) Left-right self-placement squared 0.002 (.005) Populist attitudes*Left-right self-placement squared 0.003 (.005) Satisfaction with democracy – 0.062 (.040) −0.051 (.041) −0.052 (.041) Political efficacy 0.055 (.027)* 0.057 (.026)* 0.058 (.028)* Political interest
+
+Fairly interested (ref: very interested) 0.085 (.060) 0.088 (.062) 0.091 (.062) Not interested (ref: very interested) 0.149 (.109) 0.197 (.117) 0.203 (.118) Age 0.001 (.002) 0.001 (.002) 0.001 (.002) Gender Female (ref. male) 0.076 (.054) 0.050 (.053) 0.051 (.056) Education level Higher education (ref: lower education) 0.035 (.055) 0.018 (.056) 0.019 (.056) Constant 3.492 (.181)*** 3.690 (.200)*** 3.729 (.222)*** Adjusted R2 0.060 0.068 0.067 N 1053 996 996 * = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses.
+
+Figure A4. Average marginal effects plot of Populist attitudes over Left-right self-placement with 95% confidence intervals, based on model with squared interaction term.
+
+REPRESENTATION 25
+
+E. Results of Regression Models with Social Equality Statement
+
+Table A8. Regression models on the relationship between populist attitudes and support for DMPs, moderated by social equality sentiments.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes 0.259 (.034)*** 0.245 (.034)*** 0.130 (.125) Social equality sentiments 0.106 (.028)*** 0.106 (.028)*** Populist attitudes*Social equality sentiments 0.029 (.031) Satisfaction with democracy – 0.062 (.040) −0.068 (.040) −0.070 (.040) Political efficacy 0.055 (.027)* 0.058 (.027)* 0.058 (.027)* Political interest Fairly interested (ref: very interested) 0.085 (.060) 0.092 (.060) 0.093 (.060) Not interested (ref: very interested) 0.149 (.109) 0.197 (.110) 0.198 (.110) Age 0.001 (.002) 0.000 (.002) 0.000 (.002) Gender Female (ref. male) 0.076 (.054) 0.078 (.054) 0.076 (.054) Education level Higher education (ref: lower education) 0.035 (.055) 0.038 (.055) 0.040 (.055) Constant 3.492 (.181)*** 3.113 (.208)*** 3.107(.209)*** Adjusted R2 0.060 0.073 0.073 N 1053 1032 1032 * = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses
+
+In the analysis below, left-right self-placement has been replaced by a statement on whether differ­ ences in income should increase or decrease in this country. This variable has been derived from the Politics and Values dataset (LISS, 2021b). Its wording is as follows:
+
+Some people believe that differences in income should increase in our country. Others feel that they should decrease. Still others hold an opinion that lies somewhere in between. Where would you place yourself on a scale from 1 to 5, where 1 means that differences in income should increase and 5 means that these should decrease?
+
+This item was selected because it mirrors the wording of the left-right self-placement statement.
+
+Figure A5. Average marginal effects plot of Populist attitudes over social equality statement with 95% confidence intervals.
+
+26 R. KINDT
+
+F. Results of Regression Models with Authoritarian Statement
+
+Table A9. Regression models on the relationship between populist attitudes and support for DMPs, moderated by authoritarian statement.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes 0.259 (.034)*** 0.226 (.034)*** 0.086 (.083) Authoritarianism – 0.019 (.024) −0.016 (.025)*** Populist attitudes*Authoritarianism 0.069 (.025)* Satisfaction with democracy – 0.062 (.040) −0.067 (.040) −0.056 (.040) Political efficacy 0.055 (.027)* 0.055 (.027)* 0.054 (.027)* Political interest Fairly interested (ref: very interested) 0.085 (.060) 0.087 (.060) 0.087 (.060) Not interested (ref: very interested) 0.149 (.109) 0.151 (.110) 0.141 (.109) Age 0.001 (.002) 0.001 (.002) 0.001 (.002) Gender Female (ref. male) 0.076 (.054) 0.077 (.054) 0.081 (.054) Education level Higher education (ref: lower education) 0.035 (.055) 0.030 (.055) 0.026 (.054) Constant 3.492 (.181)*** 3.568 (.208)*** 3.542 (.207)*** Adjusted R2 0.060 0.061 0.065 N 1053 1046 1046
+
+* = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses
+
+In the analysis below, left-right self-placement has been replaced by an authoritarian statement on the merits of a strong leader who bends the rules. It was part of the Burgerfora en democratische vernieuwing (Deliberative mini-publics and democratic innovations) dataset (LISS, 2021a). Its wording is as follows: A strong leader is good for the Netherlands, even if this leader bends the rules a little. Respondents were asked to indicate their agreement on a scale from 1 (disagree com­ pletely) to 5 (Agree completely).
+
+Figure A6. Average marginal effects plot of Populist attitudes over social equality statement with 95% confidence intervals.
+
+REPRESENTATION 27
+
+G. Results of Analysis Without Item on Compromise
+
+Table A10. Regression models on the relationship between populist attitudes and support for DMPs, moderated by left – and right-wing host-ideology, using populism attitudes scale without compromise item.
+
+Model 0 Model 1 Model 2 B B B Populist attitudes without compromise item 0.251 (.034)*** 0.249 (.035)*** 0.359 (.064)*** Left-right self-placement Moderate (ref: left-wing) −0.128 (.068) −0.136 (.068)* Right-wing (ref: left-wing) −0.215 (.072)** −0.221 (.072)** Populist attitudes*Moderate (ref: left-wing) −0.170 (.078)* Populist attitudes*Right-wing (ref: left-wing) −0.124 (.082) Satisfaction with democracy – 0.055 (.039) −0.044 (.041) −0.042 (.041) Political efficacy 0.049 (.027) 0.051 (.028) 0.056 (.028) Political interest Fairly interested (ref: very interested) 0.084 (.060) 0.086 (.062) 0.087 (.061) Not interested (ref: very interested) 0.152 (.108) 0.199 (.117) 0.205 (.117) Age 0.001 (.002) 0.001 (.002) 0.001 (.002) Gender Female (ref. male) 0.079 (.053) 0.056 (.056) 0.056 (.056) Education level Higher education (ref: lower education) 0.023 (.054) 0.005 (.056) 0.003 (.056) Constant 3.485 (.180)*** 3.583 (.193)*** 3.571 (.193)*** Adjusted R2 0.056 0.062 0.065 N 1058 1000 1000 * = <0.05, ** = <0.01, *** = <0.001. Standard errors are between parentheses.
+
+Figure A7. Average marginal effects plot of Populist attitudes without compromise item left-right self-placement categories.
+
+28 R. KINDT

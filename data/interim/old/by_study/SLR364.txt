@@ -1,0 +1,239 @@
+JCMS 2003 Volume 41. Number 4. pp. 757–70
+
+© Blackwell Publishing Ltd 2003, 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA
+
+Introduction
+
+An examination of the peculiarities of mass political behaviour in Europe has shown that a number of novel patterns in electoral participation have emerged during the past few decades. One of these curiosities is a considerable disparity in European Parliament (EP) and national parliament (NP) voter turnout. Since its first election in 1979, turnout has been consistently lower in EP than in NP elections. Scholars have devoted a tremendous amount of attention to the causes of declining participation in both European Union (EU) and national elections, reflecting on implications for the legitimacy of democratic institutions. Less attention, however, has been devoted to studying the EP and NP turnout gap itself, and even less attention to the role of political trust in explaining that gap. This study suggests that there are new avenues to explore in the role that social capital may play in European voting behaviour. Generally neglected in voting literature is attention to two important elements of social capital – interpersonal trust and institutional trust. A significant link between social capital and political participation may suggest ways in which civic society fosters or impedes the democratic process. A growing body of cross-national analyses now traces the theoretical footsteps of Putnam’s 1993 study of civic engagement and government quality, but there is little consensus among schol When Trust Matters: Explaining Differences in Voter Turnout*
+
+MICHAELENE COX Brescia University
+
+* The author would like to acknowledge helpful comments by the journal’s anonymous reviewers and the particularly insightful contributions of Terry J. Royed at the University of Alabama.
+
+European Agenda European Agenda provides a location for the publication of more specialized research notes, or short articles to promote scientific debate, on matters falling within the Journal's domain (see inside front cover). Additionally, it will provide occasional reviews of important policy developments. Prospective contributors should consult the notes on the last text page of this issue.
+
+758 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+ars about the appropriate measures of social capital, what generates it, or what role it plays in governance. Further, there is mixed evidence whether interpersonal trust and institutional confidence have important effects on citizen involvement. Most notably, there is a gap in cross-national studies comparing turnout in national parliament and European Parliament elections in the light of trust. Is there a significant association between trust and voter turnout among advanced industrial countries, particularly among Member States of the European Union? If so, does that association hold for both EP and NP elections? This study examines turnout in 13 member countries of the EU in which voting was effectively voluntary during the last EP and NP elections. It tests separately for the effect of interpersonal trust and institutional confidence on EP and NP voter turnout, using bivariate analyses to suggest direction and strength of the relationships. While simple correlations prevent examining absolute causality, they can nevertheless indicate how well these models follow patterns predicted by social capital theory.
+
+I. Social Capital and Political Participation: Theoretical Arguments
+
+Soon after Putnam and his associates emerged from the Italian regions with evidence that trust and social networks abet civic engagement and government quality (Putnam et al., 1993), the concept of social capital began surfacing in a myriad of cross-country analyses. Certainly, scholars did not altogether receive the Italian report without misgivings, but the study did provoke an unprecedented rush to examine social capital within the field of comparative politics. A substantial body of quantitative research now follows the theoretical footsteps of Putnam’s pioneering work. As a result, there is yet another instrument to test prevailing wisdom that robust civil societies bear considerable implications for democratic development. Many writers agree that social capital in its various guises is a useful indicator when exploring the complex relationship between political behaviour and political environment (Fukuyama, 1995; La Porta Lopez-de-Silanes et al., 1996; Knack and Keefer, 1997; Minkoff, 1997; Paraskevopoulos, 1998; Lijphart, 1999). Still, while a corpus of research suggests that social capital has important effects on political matters, there is little agreement among scholars about the appropriate measures of social capital, what generates it, or what role it plays in governance. In recent times, however, resourceful scholars propitiously have fine-tuned serviceable criteria for defining, measuring and employing the abstraction. Unlike forms of physical capital such as income or equipment, and unlike other kinds of human capital such as education or skills, social capital com 759
+
+© Blackwell Publishing Ltd 2003
+
+WHEN TRUST MATTERS: EXPLAINING DIFFERENCES IN VOTER TURNOUT
+
+monly refers to the extent and quality of relationships between people or groups. These relationships nurture trust and mutual obligations, and facilitate effective action by and/or between the participants. Interpersonal trust and confidence in institutions are frequent indicators of social capital. Careful treatment of the matter reveals different forms, functions, and consequences of social capital. In large part, Putnam et al. (1993) provide the catalyst for further investigation into the relationship between social capital and civic activism. To explain significant differences in democratic governance between Italy’s 20 regions since the 1970s, they conducted statistical tests using an extensive collection of political, social, and economic data from each region. Their findings suggest that it is civic community and civic traditions, not variables such as economic development that account for wide variation in regional government performance. Putnam argues that a vibrant associational life is the stuff of civic society; that, in effect, membership of bird-watching societies, soccer clubs, bowling leagues and the like produces exemplary citizens. Dense networks of civic engagement build social capital, empowering participants to engage in collective action and to demand and elicit government responsiveness. A fundamental element of social capital is trust, which Putnam generally refers to as interpersonal relationships and expectations that individuals will follow the rules. Putnam argues that trust facilitates collective action through networks of civic engagement. In this vein, too, other scholars note that social groups help members develop political skills and orientations (Almond and Verba, 1989; Verba et al., 1995). Social capital is a fashionable, though complex concept, interpreted among a wide range of disciplines in sundry ways. However, serious theoretical challenges face the phenomenon. Studies such as those of Putnam generally rely on cultural theories to explain the how and why of social capital. Essentially, cultural theories suggest that certain prevailing and enduring societal norms and values are conducive to particular forms of participation and to the provision of public goods, while others are not (La Porta et al., 1996). Yet, Jackman and Miller (1996) are critical of cultural explanations for political processes and, in particular, for democratic performance. They argue that the political cultural approach makes several unsupported assumptions; for example, they say that cultural arguments assume that societal attitudes are coherent and found only in the aggregate. Cultural arguments also assume that these attitudes are durable, having effects that persist for centuries. Debunking theoretical justification for Putnam’s argument, Jackman and Miller then use Putnam’s data and measurements to retest the proposition that political culture or civic life determines institutional performance. They report little statistical justification, and essentially reject the social capital argu 760 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+ment. While Levi (1996) praises Putnam’s empirical forays, she also expresses theoretical concerns about his claim. She finds most troubling Putnam’s failure to explain adequately the mechanism by which social capital leads to civic engagement. Levi says of civic associations formed by trust that, ‘this may be a description of what is, but it is not a theory that identifies the mechanisms of production, maintenance, and growth of social capital’ (Levy, 1996, p. 46). It is not evident, she adds, that the norms of co-operation and reciprocity created in associations carry over to the political community at large. Putnam needs a more specific definition of trust, argues Levi. Brehm and Rahn (1997) respond to some of the theoretical challenges put forward to social capital. They agree that the effect of trust on social interactions is an aggregate property of communities, exhibited by a sense of the collective well being. However, they propose that manifestations of social capital are also observable in individual members of those communities. For example, confidence in political institutions is an offshoot of generalized trust and has implications for individual behaviour and government performance. Brehm and Rahn argue that individuals have more confidence in political institutions if those individuals trust other people. By expecting others to comply, people will more easily accept the decisions of political authorities as well. The authors say that the concept of social capital represents the closelyknit or ‘tight’ reciprocal relationship between interpersonal trust and social interactions. Like La Porta et al. before them, Brehm and Rahn find the theoretical mechanism for reciprocity grounded in game literature where, in single-shot prisoner dilemma games, trusting players are more likely to co-operate (Kreps et al., 1982; Axelrod, 1984; Camerer and Thaler, 1995). In sum, political scientists can borrow from economic game theorists and network analysts to advance the theoretical development of social capital. Theories of reciprocity can also substantiate the ‘virtuous circle’ that Putnam describes, in which trust facilitates co-operation and co-operation, in turn, reinforces trust. Based on these theoretical roots, a number of recent analyses test the related proposition that high levels of social capital in its various forms correlate with greater political participation.
+
+Determinants of Voting
+
+The effect of institutional trust and confidence on political participation is a controversial topic in American politics alone. An intense debate between scholars in the 1970s revealed disagreements about the role of political trust. Contrary to claims by Miller (1974), Citrin (1974) argues that there is no positive relationship between political trust and political participation. Citrin finds that political activism in the United States declined between 1968 and 1972 while political cynicism actually increased. It is important to remember
+
+761
+
+© Blackwell Publishing Ltd 2003
+
+WHEN TRUST MATTERS: EXPLAINING DIFFERENCES IN VOTER TURNOUT
+
+that the Miller–Citrin debate centres on political trust and not on the interpersonal trust to which Putnam refers. The Miller–Citrin trust indicators are survey responses to questions about government efficacy, honesty and correctness. However, political trust in this fashion translates to similar measures of political institutional confidence, often considered a facet of social capital, and so is useful in anticipating the comparative study in hand. International observers have witnessed a general decline in conventional political participation, such as voting turnout, since the 1950s (Jennings and van Deth, 1989; Dalton, 1996). Distrust of political institutions is also the norm in some countries, particularly in those with a communist legacy. Where the state does not rule by law but by repression, state control of all major social institutions produces scepticism, fear and, where possible, disengagement from formal political channels (Rose et al., 1997). Based on interpersonal trust between friends and families, informal networks permit members to obtain goods and services without state intervention and even allow them to ‘exploit the exploiters’ by using social capital directly against the state (Rose et al., 1997, 1988). The analyses by Rose et al. primarily concern the genesis and endurance of political distrust in nine post-communist countries, and do not test the effect of institutional trust on voting behaviour. However, the authors prepare the groundwork for doing so by carefully distinguishing levels of trust for different categories of institutions. The ambiguities of social capital also challenge Kaase (1999) to examine statistical relationships between interpersonal trust, political trust and unconventional political action in nine western European countries between 1981 and 1996. He finds a small positive correlation between interpersonal trust and political trust, although the relationship is too weak to suggest that interpersonal trust is an antecedent. Also inconclusive are correlations between political trust and legal non-institutionalized political participation. Nevertheless, the relationship is negative, leading Kaase to suggest cautiously that an individual who is less trusting of political institutions may be more likely to engage in unconventional political activity. More telling, however, are correlations between interpersonal trust and direct action. Kaase finds that, in all nine countries over time, generalized trust and unconventional political behaviour are strongly and positively related. High levels of interpersonal trust apparently contribute to greater participation in protest politics. Kaase offers his findings as tentative statistical support for the social capital argument, and suggests that more empirical research must be conducted on the complex relationships between components of social capital, and between those components and political action.
+
+762 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+II. Testing Alternative Models: Methodology and Data
+
+Trust certainly cannot fully explain variation in political participation. In reviewing theories to explain why western Europeans vote, scholars note that particular institutional factors generally account for turnout variation between countries, while some social-psychological characteristics best explain individual turnout within a country (Lewis-Beck and Lockerbie 1989, pp. 156– 7). Recent analyses suggest that the same institutional variables such as compulsory or weekend voting, explain most of the cross-national variation in both EP and NP elections (Mattila, 2002). On the other hand, the influence of European attitudes is less certain. Some studies find that EU and EP-related attitudes play only a negligible part in electoral participation (Schmitt and Mannheimer, 1991; Franklin et al., 1996). Others find that political distrust is the second most important reason why people do not vote in EP elections, and that perceived reliability in the EP is significantly related to voting abstention (Blondel et al., 1998).
+
+Voter Turnout
+
+To narrow ongoing empirical investigations regarding the impact of social capital on political action, we focus on recent European elections. Social capital theory suggests that high levels of interpersonal and political trust should be associated with greater civic activism. Thus, we might expect a statistically significant relationship between trust and voter turnout in European Parliament and national parliamentary elections. In testing that hypothesis, this study controls for one rarely disputed determinant of turnout in European elections – compulsory voting – by excluding from the analyses two EU Member States (Belgium and Luxembourg) in which compulsory voting is strictly enforced. While constitutions of four other Member States provide for compulsory voting (Austria, Finland, Italy and Sweden), the practice is weakly enforced or not at all. Thus, this study examines turnout in 13 members of the EU in which EP and NP voting is effectively voluntary. Turnout data for the most recent EP election is taken from ’99 European Parliament Elections Summary Results. Turnout figures for the most recent NP elections come from the International Institute for Democracy and Electoral Assistance (Idea).1
+
+1 Idea reports turnout percentages for voting age population (VAP) and for number of registered voters. Since registering to vote suggests that citizens, if not legally required to do so, are already predisposed to political participation, this analysis chooses to use VAP turnout percentages to reflect trends in the overall population. Percentage of registered voters for each of the countries studied is: Austria, 80.4; Denmark, 86.0; Finland, 65.3; France, 68.0; Germany, 82.2; Greece, 75.0; Ireland, 66.1; Italy, 81.4; Netherlands, 73.2; Portugal, 61.0; Spain, 68.7; Sweden, 81.4; UK, 59.4. Significant correlations between the two turnout figures suggest that analyses conducted with each will be similar, as indeed is the case. Only results based on VAP turnout figures are thus reported in this study.
+
+763
+
+© Blackwell Publishing Ltd 2003
+
+WHEN TRUST MATTERS: EXPLAINING DIFFERENCES IN VOTER TURNOUT
+
+Measures of Trust
+
+Nearly all researchers express concern with using overly simplistic measures of social capital, as they recognize the multidimensional character of the concept. They frequently lament that there is no standardized and comprehensive measure of social capital, but settle on one or several innovative ‘proxies’ to capture the effect of its components. In the absence of a single measure, however, this study cannot avoid using multiple indicators of social capital to explain variation in voter turnout, and so employs two widely used proxies of social capital: interpersonal trust and institutional trust.
+
+Interpersonal Trust. This analysis uses a fairly standard construct of interpersonal trust. A country’s trust level is the mean response of all those who answer the following question: ‘Generally speaking, would you say that most people can be trusted or that you can’t be too careful in dealing with people?’. A value of 1 is given for the answer that most people can be trusted, and a value of 2 given for the answer that they cannot be trusted. The 1990–93 and 1995–97 World Values Surveys (WVS) provide survey results for constructing this measure in 12 of the European countries under study; interpersonal trust data are missing for Greece as WVS surveys were not conducted in that country.
+
+Political Trust. This study constructs a generalized measure of political institutional trust as well as a more specific measure of parliamentary trust.
+
+General institutional trust. WVS participants rank answers on a scale of 1–4 to the following question: ‘I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence, or none at all?’. The organizations include: churches, armed forces, legal system, press, television, trades unions, police, government in the country’s capital, political parties, parliament and the civil service. Factor analysis suggests that these institutions fall into one of two categories that can be considered as generating political or non-political institutional confidence. Political institutional trust comprises average confidence levels in the armed forces, legal system, police, capital government, political parties, parliament and civil service.
+
+Parliamentary trust. Specific measures for EU and national parliamentary trust are taken from the Eurobarometer public opinion polls of March and April 1999. Participants are asked, ‘For each of the following European institutions, please tell me if you tend to trust it or tend not to trust it?’. EP trust
+
+764 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+for each country is thus derived from the percentage of respondents reporting that they trust the European Parliament. Similarly, NP trust for each country is derived from the percentage of respondents reporting that they trust their national parliament when asked the following question: ‘For each of the following institutions, please tell me if you tend to trust it or tend not to trust it?’.
+
+III. Trust and Turnout: Findings
+
+Before assessing links between trust and voter turnout, it is important to remind ourselves of the disparity in EP and NP voting among EU members, as well as the difference in trust levels. It is also worthwhile then to examine simple correlations between the various indicators of social capital. The relationship between interpersonal trust and institutional confidence depicts the multidimensional character of social capital, and provides reasons for separately testing effects of these indicators on turnout.
+
+Extent of Turnout and Trust
+
+Table 1 reports voter turnout in the most recent EP election and in each member country’s most recent national parliamentary election. While voters in all
+
+Table 1: Voter Turnout
+
+Year NP 1999 EP NP/EP Gap
+
+Austria 1999 72.6 49.0 23.6
+
+Denmark 1998 83.1 49.9 33.2
+
+Finland 1999 65.2 30.1 35.1
+
+France 1997 59.9 47.0 12.9
+
+Germany 1998 75.3 45.2 30.1
+
+Greece 2000 89.0 70.1 18.9
+
+Ireland 1997 66.7 50.8 15.9
+
+Italy 2001 84.9 70.6 14.3
+
+Netherlands 1998 70.1 29.2 40.2
+
+Portugal 1999 69.3 40.4 28.9
+
+Spain 2000 73.8 64.3 9.5
+
+Sweden 1998 77.7 38.3 39.4
+
+UK 2001 57.6 24.0 33.6
+
+EU mean 72.7 46.8 25.9
+
+765
+
+© Blackwell Publishing Ltd 2003
+
+WHEN TRUST MATTERS: EXPLAINING DIFFERENCES IN VOTER TURNOUT
+
+Table 2: Trust Levels
+
+Interpersonal Political NP EP NP/EP Gap Trust Institutions
+
+Austria 1.68 2.52 47 48 1
+
+Denmark 1.42 2.29 54 48 6
+
+Finland 1.46 2.49 55 58 3
+
+France 1.77 2.51 37 54 17
+
+Germany 1.67 2.67 45 43 2
+
+Greece – – 51 55 4
+
+Ireland 1.53 2.27 36 55 19
+
+Italy 1.65 2.73 30 65 35
+
+Netherlands 1.47 2.50 62 51 11
+
+Portugal 1.78 2.63 56 56 0
+
+Spain 1.67 2.71 45 59 14
+
+Sweden 1.37 2.48 42 38 4
+
+UK 1.62 2.29 36 32 4
+
+EU mean 1.59 2.51 46 51 9
+
+countries turn out in greater numbers in their own national election than in the European election, note that there is considerable variation between countries at both election levels. Of special interest to this analysis is the gap between NP and EP turnout levels. Eight of the Member States show nearly one-quarter or more turnout in NP elections than in the EP election. In general, the greatest differences in turnout are seen in northern countries such as Finland, the Netherlands and Sweden. On the other hand, turnout differences are relatively slight in southern countries, most notably in France, Italy and Spain. Table 2 reports social capital, or trust, levels for member countries. Interpersonal trust figures show that Swedes and Danes generally trust people more, while the Portuguese and French are least trusting. Respondents from the same WVS surveys also report varying trust levels in all political institutions. The Irish, British and Danes indicate more trust in political institutions as a whole while the Italians and Spanish report least generalized institutional trust. When examining specific institutional trust levels, Eurobarometer surveys show that the most trusted national parliament is in the Netherlands, while the least trusted national parliament is in Italy. There is an interesting reversal in reported trust levels in the European Parliament among northern and southern countries. Contrary to less trust reported towards people in general, in political institutions, and in the national parliament, southern citizens
+
+766 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+report more than average trust in the EP. Italy is notable in this respect. Countries with the lowest EP trust levels are the UK and Sweden. Looking at the difference between NP and EP trust levels, we see that eight of the 13 countries report greater EP trust than NP trust (although only slightly higher, Portugal’s actual EP level is 56.1 before rounding). There is greater variation in the NP/EP gap levels among northern and southern countries, unlike that of the voting turnout gap. The largest NP/EP gap by far is in Italy, while NP and EP trust levels are most similar in Portugal, Austria and France.
+
+Correlations among Trust Indicators
+
+In Table 3, we find that for western European countries, interpersonal trust and general political institutional confidence relate positively with one another, and have a correlation significant at the 0.048 level. That is, the more trusting that these citizens are of people in general, the more they trust political institutions overall. Although interpersonal trust is also positively associated with trust in the European Parliament, the correlation is too weak to be meaningful. The association between general political institutional confidence and trust in the EP, however, is both positive and significant at the 0.054
+
+Table 3: Correlations between Trust Indicators
+
+Interpersonal Political NP EP NP/EP Gap Trust Institutions
+
+IP 0.501 –0.273 0.263 0.117 (0.048)** (0.196) (0.205) (0.359) 12 12 12 12
+
+PI 0.501 –0.004 0.487 0.225 (0.048)** (0.495) (0.054)* (0.241) 12 12 12 12
+
+NP –0.273 –0.004 0.055 (0.196) (0.495) (0.429) 12 12 13
+
+EP 0.263 0.487 0.055 (0.205) (0.054)* (0.429) 12 12 13
+
+NP/EP Gap 0.117 0.225 (0.359) (0.241) 12 12
+
+Notes: Pearson r followed by statistical significance in parentheses and N. *p<.10, **p<.05, ***p<.01 (one-tailed tests).
+
+767
+
+© Blackwell Publishing Ltd 2003
+
+WHEN TRUST MATTERS: EXPLAINING DIFFERENCES IN VOTER TURNOUT
+
+Table 4: Correlations between Trust and Turnout
+
+NP turnout –0.285 0.363 0.120 0.277 (0.185) (0.123) (0.348) (0.180) 12 12 13 13
+
+EP turnout 0.308 0.488 –0.306 0.603 (0.165) (0.054)* (0.155) (0.015)** 12 12 13 13
+
+NP/EP –0.592 turnout gap (0.016)** 13
+
+Notes: Pearson r followed by statistical significance in parentheses and N. *p<.10, **p<.05, ***p<.01 (one-tailed tests)
+
+level. The more trusting people are of their country’s political institutions as a whole, such as the legal system and political parties, the more trusting they are of the EP as well. Yet we find no significant correlation between trust in the national parliament alone and any other trust variable.
+
+Correlations between Trust and Turnout
+
+Table 4 reports correlations among trust measures and voting turnout. While the directions between interpersonal trust and turnout are interesting – turnout is lower in national parliament elections and higher in EP elections when individuals are more trusting – neither association is statistically significant. However, EP election turnout is significantly and positively related to the level of political institutional trust that people have. It seems that a general sense of confidence in political organizations carries over into greater participation at the supranational level. Even more strongly associated with EP voting is trust in the European Parliament itself. With a significance level of 0.015, the positive correlation suggests that higher levels of EP trust foster greater turnout in EP elections. Of special interest to this study is the gap between NP and EP turnout. Why do some countries experience a greater difference in voting at these two levels than do other countries? It appears that a difference in parliamentary trust levels may account for the variation. The NP and EP trust gap is significantly and negatively associated with the NP and EP turnout gap at the 0.016 level.
+
+768 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+Summary
+
+This study pursues a relatively narrow area of inquiry into the role of social capital in European political behaviour. Analyses find that voting turnout in the 1999 European Parliament election is strongly and significantly correlated with general confidence in political institutions and in particular with trust in the EP. More importantly, this study uniquely addresses the turnout gap in national and supranational parliamentary elections for 13 countries, and finds that voting turnout is significantly associated with a difference in parliamentary trust levels. Trust-based social capital persists as a strong predictor in contemporary voting among European citizens. But how much total variance in turnout can be explained by trust? Presenting simple correlations here is the first step in assessing social capital theory as it relates to civic activism in western Europe. The next step is to control for other related factors, while regressing trust measures against voting turnout. Multivariate regressions might use individual-level data so that a greater N will permit more meaningful analyses. What is needed, too, is closer inspection – case studies – of those populations showing abnormally large and small gaps in national parliament and European Parliament election turnouts over time. Thus, implications for civil society and democratic rule at both the national and European Union level may be explored further in the light of political attitudes and participation. These exploratory analyses suggest that trust-based social capital is indeed an important link to voting behaviour, and that trust-building mechanisms, such as greater participation in fraternal organizations at the local, national, and even supranational level, may be required to reverse declining turnout rates and any resulting loss of civic identity and solidarity among western European citizens.
+
+Correspondence: Michaelene D. Cox Brescia University 717 Frederica Street Owensboro, Kentucky 42301-3023, USA Tel: 00 1 270 686 4261 Fax: 00 1 270 686 6422 email: michaelenec@brescia.edu
+
+References
+
+Almond, G.A. and Verba, S. (1989) The Civic Culture: Political Attitudes and Democracy in Five Nations (Newbury Park: Sage).
+
+769
+
+© Blackwell Publishing Ltd 2003
+
+WHEN TRUST MATTERS: EXPLAINING DIFFERENCES IN VOTER TURNOUT
+
+Axelrod, R. (1984) The Evolution of Cooperation (New York: Basic Books). Blondel, J., Sinnott, R. and Svensson, P. (1998) People and Parliament in the European Union: Participation, Democracy, and Legitimacy (Oxford: Clarendon Press). Brehm, J. and Rahn W. (1997) ‘Individual-Level Evidence for the Causes and Consequences of Social Capital’. American Journal of Political Science, Vol. 41, No. 3, pp. 999–23. Camerer, C. and Thaler, R.H. (1995) ‘Anomalies: Ultimatums, Dictators, and Manners’. Journal of Economic Perspectives, Vol. 9, No. 2, pp. 209–20. Citrin, J. (1974) ‘Comment: The Political Relevance of Trust in Government’. American Political Science Review, Vol. 68, No. 3, pp. 973–88. Dalton, R.J. (1996) Citizen Politics: Public Opinion and Political Parties in Advanced Western Democracies (Chatham: Chatham House Publishers). Eurobarometer (1999) Public Opinion in the European Union. Report No. 51, available at «http://www.europa.eu.int/comm/dg10/epo/eb.html». Franklin, M., van der Eijk, C. and Oppenhuis, E. (1996) ‘The Institutional Context: Turnout’. In van der Eijk, C. and Franklin, M. (eds) Choosing Europe? The European Electorate and National Politics in the Face of Union (Ann Arbor: Michigan University Press). Fukuyama, F. (1995) Trust: The Social Virtues and the Creation of Prosperity (New York: Free Press). International Institute for Democracy and Electoral Assistance Voter Turnout from 1945 to Date: A Global Report on Political Participation. Available at «http:// www. Idea.int/ voter_turnout.html». Jackman, R.W. and Miller, R.A. (1996) ‘Renaissance of Political Culture?’. American Journal of Political Science, Vol. 40, No. 3, pp. 632–59. Jennings, M.K. and van Deth, J. (eds) Continuities in Political Action (Berlin: de Gruyter). Kaase, M. (1999) ‘Interpersonal Trust, Political Trust and Non-Institutionalised Political Participation in Western Europe’. West European Politics, Vol. 22, No. 3, pp. 1–21. Knack, S. and Keefer, P. (1997) ‘Does Social Capital Have an Economic Payoff? A Cross-Country Investigation’. Quarterly Journal of Economics, Vol. 52, No. 4, pp. 1251–87. Kreps, D., Milgrom, P., Roberts, J. and Wilson, R. (1982) ‘Rational Cooperation in a Finitely Repeated Prisoners’ Dilemma’. Journal of Economic Theory, Vol. 27, No. 2, pp. 245–52. La Porta, R., Lopez-de-Silanes, F., Shleifer, A. and Vishney, R.W. (1996) ‘Trust in Large Organizations’. Working Paper No. 5864 of the National Bureau of Economic Research, Cambridge, December. Levi, M. (1996) ‘Social and Unsocial Capital: A Review of Robert Putnam’s Making Democracy Work’. Politics and Society, Vol. 24, No. 1, pp. 45–56. Lewis-Beck, M.S. and Lockerbie, B. (1989) ‘Economics, Votes, Protests: Western European Cases’. Comparative Political Studies, Vol. 22, No. 2, pp. 155–77.
+
+770 MICHAELENE COX
+
+© Blackwell Publishing Ltd 2003
+
+Lijphart, A. (1999) Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries (New Haven: Yale University Press). Mattila, M. (2002) ‘Why Bother? Determinants of Turnout in the European Elections’. Available at «http://www.valt.helsinki.fi/staff/mmattila/ep/rev4.pdf». Miller, A.H. (1974) ‘Political Issues and Trust in Government: 1964–1970’. American Political Science Review, Vol. 68, No. 3, pp. 951–72. Minkoff, D.C. (1997) ‘Producing Social Capital: National Social Movements and Civil Society’. American Behavioral Scientist, Vol. 40, No. 5, pp. 606–20. 1999 European Parliament Elections Summary Results. Available at «http://www. psr.keele.ac.uk/area/uk/eu/euother.htm». Paraskevopoulos, C.J. (1998) ‘Social Capital and the Public–Private Divide in Greek Regions’. West European Politics, Vol. 21, No. 2, pp. 154–76. Putnam, R.D., Leonardi, R.and Nanetti, R.Y. (1993) Making Democracy Work: Civic Traditions in Modern Italy (Princeton: Princeton University Press). Rose, R., Mishler, W. and Haerpfer, C. (1997) ‘Social Capital in Civic and Stressful Societies’. Studies in Comparative International Development, Vol. 32, No. 3, pp. 85–111. Schmitt, H. and Mannheimer, R. (1991) ‘About Voting and Non-Voting in the European Elections of June 1989’. European Journal of Political Research, Vol. 19, No. 1, pp. 31–54. Verba, S., Schlozman, K. and Brady, H. (1995) Voice and Equality: Civic Voluntarism in American Politics (Cambridge, MA: Harvard University Press). World Values Surveys (1990–93, 1995–97) Collection of data set under direction of Ronald Inglehart, Institute for Social Research (Ann Arbor: University of Michigan).

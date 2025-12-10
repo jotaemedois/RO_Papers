@@ -11,21 +11,15 @@ from models import StudyRecord
 
 
 def build_prompt(study: StudyRecord, codebook_text: str, rigor_rules: str) -> str:
-    sections = study.sections
-    body = "\n\n".join(
-        [
-            f"ABSTRACT:\n{sections.abstract}",
-            f"METHODS:\n{sections.methods}",
-            f"RESULTS:\n{sections.results}",
-            f"CONCLUSION:\n{sections.conclusion}",
-        ]
-    )
+    # Usar o texto completo (full_text) para evitar perda de evidências em seções não detectadas.
+    body = study.full_text
     return f"""
 You are an academic coding assistant. Follow the Codebook and Rigor Script exactly.
 - Do NOT infer; quote literal evidence for every code.
 - Use code 99 (Not Reported) if absent; 98 (Unclear) if ambiguous or contradictory.
+- CRITICAL: The 'code' field MUST be an INTEGER (number), not a string. Use the numeric code from the Codebook.
 - Respond only with JSON matching the schema: list of objects with fields
-  [variable (string), code (int), label (string), evidence (string literal from article)].
+  [variable (string), code (int - MUST be a number), label (string), evidence (string literal from article)].
 - Maintain semantic equivalences defined in the Codebook (e.g., "confidence in parliament" -> Trust).
 
 CODEBOOK:

@@ -1,0 +1,1699 @@
+Electronic copy available at: http://ssrn.com/abstract=1585759
+
+Conditional Trust: The Role of Individual- and System-Level
+
+Features for Trust and Confidence in Institutions
+
+Peter Kotzian
+
+University of Mannheim
+
+Email : Peter.Kotzian@mzes.uni-mannheim.de
+
+March 2010
+
+1
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Electronic copy available at: http://ssrn.com/abstract=1585759
+
+Abstract
+
+This paper analyzes the role of individual- and system-level factors and the interaction between
+
+both levels for citizen’s trust in the moral integrity of institutions and confidence in the capabilities
+
+of institutions. Starting from the culturalist framework, we argue that generalized trust is sometimes
+
+transferred to institutions, but this transfer is conditional on the institutions’ trustworthiness. This
+
+explanation is supplemented with performance based approaches to confidence in institutions,
+
+because the impact of institutional performance differs for citizens and might be conditional on their
+
+preferences and vulnerability to institutional failure. Because institutions are in charge of different
+
+tasks, the criteria for evaluating them can be expected to differ.
+
+Our analysis confirms the hypothesis that generalized trust is transferred only to trustworthy
+
+institutions, which explains why a relationship between social and institutional trust is found only in
+
+some countries. While different criteria are of varying relevance for different institutions, there is no
+
+clear cut distinction between political and non-political institutions. The impact of an institution’s
+
+performance on institutional confidence is usually not conditional on citizen’s properties.
+
+2
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+1. Introduction
+
+Societal institutions regulate and alleviate individual cooperation and allow a society to solve
+
+problems, to make and to implement collective decisions. They cannot work if they are generally
+
+neither accepted nor trusted in; cf. Tyler (1990), but also Putnam (1993), Brehm/Rahn (1997: 1003)
+
+and Levi/Stoker (2000: 491-493). Citizens’ trust is important for legitimizing and stabilizing social
+
+institutions, in particular in times of hardship, Easton (1965), and for giving political actors the
+
+leeway required to act, Warren (1999). This importance created a substantial body of research into
+
+its determinants. However a substantial share of cross-country and individual-level variation
+
+remains unexplained and the mechanisms by which individual and country-level features interact
+
+are unclear.
+
+Institutional, respectively political trust is defined at this stage as trust in societal institutions, as
+
+opposed to “generalized” or “social” trust in other people, cf. Lipset/Schneider (1983) and Kaase
+
+(1999). What determines institutional trust? One can distinguish between socio-cultural causes and
+
+causes originating in the political sphere; cf. Mishler/Rose (2001: 31), see also Denters et al.
+
+(2007a: 71pp) and Norris (1999b: 217-220).
+
+The Institutional Performance approach argues that performing institutions generate confidence;
+
+cf. Miller/Listhaug (1999), Newton (2006) and Kelleher/Wolak (2007). While this argument can
+
+explain declining institutional confidence in countries with poor economic performance, Newton
+
+(2006), it has difficulties to explain the long-term decrease in institutional confidence observed in
+
+many countries where overall performance is high, cf. Crozier et al. (1975), Pharr/Putnam (2000),
+
+and Chanley et al. (2000), but see Alesina/Wacziarg (2000) for an alternative evaluation. One
+
+possible argument is that the citizens’ expectations have changed, and the institutional setting is
+
+unable to deliver; cf. Inglehart (1999).
+
+3
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+The Political Performance approach rests on the idea that citizens want certain political outcomes,
+
+and are more confident in a government which is delivering the policies they want, cf.
+
+Anderson/LoTempio (2002). Ideological proximity should increase trust, and trust is expected to be
+
+higher if the respondent’s favored party is in government, cf. Kaase/Newton (1995: 92pp),
+
+Anderson/Guillory (1997), Criado/Herreros (2007) and Herreros/Criado (2008). The argument has
+
+little to say about trust in impartial (non-elected, non-political) institutions, about differences
+
+between countries, or about the long-term decline in trust.
+
+Located conceptually between institutional and political performance are approaches which study
+
+the impact of corruption on political trust. Case studies such as Pharr (2000) and della Porta (2000),
+
+show that corruption decreases political trust. On the other hand, Anderson/Tverdova (2003) argue
+
+that the effect of corruption on trust is not that straightforward but is conditional on properties of
+
+individuals, in particular their political affiliation.
+
+The Cultural Approach argues that there are certain values conducive to political trust, which are
+
+deeply ingrained into society and transmitted within social institutions, such as families and the
+
+educational system, cf. Almond/Verba (1963). The social-psychological oriented strain, e.g.
+
+Mishler/Rose (2001), sees trust as an individual-level property, based on the person’s background
+
+(e.g. education, income) and experiences with others. This property is the input to a transfer process
+
+(see Putnam 1993 and 1995), which starts in the personal environment and extends stepwise from
+
+the local or communal level and “(…) then “spills up” to create a nationwide network of institutions
+
+necessary for representative government. In this sense, interpersonal trust is projected onto political
+
+institutions”; Mishler/Rose (2001: 34). Critics of cultural theories, such as Foley/Edwards (1996) or
+
+Fukuyama (1999), raise the counter argument that stable (and thus: trustworthy) political
+
+institutions also exist in low-trust societies while in other countries, close social networks are
+
+installed to defend the individual against distrusted political institutions. As for instance Norris
+
+(1999b: 217) summarizes, cultural values are appropriate to explain the long-term cross-national
+
+differences but are of limited explanatory when explaining fluctuation, change, or decline.
+
+4
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Social Capital Approaches assume a “virtuous circle” in which social capital, in particular social
+
+engagement, increases social trust by installing norms of generalized reciprocity; cf. Putnam (1993:
+
+173/174) and Putnam (2000). This trust may then be transferred to political institutions;
+
+Brehm/Rahn (1997: 1003) and Keele (2007). The mechanisms basically rests on the Tocquevillian
+
+argument that people engaged in civic associations learn about democracy, acquire first hand
+
+knowledge about the way politics (or collective decision making in general) works, about the
+
+necessity (but also the legitimacy) of conflict and compromise, all of which increases trust; cf.
+
+Denters et al. (2007a: 66/67). Theis-Morse/Hibbing (2005) counter this argument by stating that
+
+voluntary associations do not (necessarily) have these effects: voluntary associations are in
+
+Putnam’s terms more bonding than bridging (Putnam 2000). They create an in-group vs. out-group
+
+distinction, focus loyalty and trust on group-members, shifting trust away from politics.
+
+Empirically, differences in social capital were found to be relevant for differences in institutional
+
+trust at the cross-national level, but the evidence within countries is inconclusive; cf. Newton
+
+(2006), Keele (2007), and Denters (2007a: 75-78).
+
+In particular the hypothesis, that social trust is generated outside of the political sphere, at the
+
+personal and inter-personal level, and then transferred to institutions is highly suggestive:
+
+“institutional trust is an extension of interpersonal trust, learned early in life and, much later,
+
+projected onto political institutions”; Mischler/Rose (2001: 31), cf. also Rosenberg (1956). As
+
+Brehm/Rahn (1997: 1003) argue, trusting people put trust in institutions because these are staffed
+
+with trustworthy people.
+
+While the “projection” argument is straightforward, the empirical evidence is much less so. Most
+
+studies on the relationship between social and political trust didn’t find stable relationships or only
+
+in some countries, see Putnam (1995: 665), Kaase (1999), Newton (1999), Uslaner (2002) and
+
+Delhey/Newton (2003). On the other hand recent studies, Zmerli et al. (2007), Denters et al. (2007a)
+
+and Zmerli/Newton (2008), found consistent correlations between social and political trust.
+
+5
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Moreover findings made at the aggregate level at times differ from findings at the individual-level,
+
+see Norris (1999b) and Uslaner (2008). Seemingly, in countries, where many people trust others
+
+many people also trust political institutions – but these are maybe not the same people.
+
+The “projection” argument does not imply that social and political trust are the same thing. There is
+
+a body of social and psychological theories on social trust distinguish it in its nature and sources
+
+from institutional trust, cf. Nannestad (2008), Hardin (2002), Newton (1999: 180), Kaase (1999)
+
+and Zmerli et al. (2007: 40). Consequentially, trust in institutions is more often conceptualized as
+
+confidence, a guess about capabilities, competence, transparency and the abidance to rules; see
+
+Levi/Stoker (2000: 484-485). Neither does this imply that social trust is fully exogenous, and
+
+studies like Rothstein/Stolle (2002), Rothstein/Uslaner (2005) or Herreros/Criado (2008) show how
+
+institutions can create or destroy social trust. As Brehm/Rahn (1997: 1002) put it, the causality
+
+works in both ways.
+
+Any analysis of trust should include elements of all approaches. These elements can be localized at
+
+the system-level (such as economic performance) and at the individual level (such as social trust)
+
+The questions we want to study are: What is the explanatory contribution of system-level features
+
+for the level of institutional trust in various countries?; What is the contribution of individual-level
+
+features?; and in particular, Why does the role of individual-level social trust for political trust
+
+differ among countries - is there a cross-level interaction in sense that social trust is only transferred
+
+to institutions under certain conditions?
+
+2. Components of Institutional Trust: Senders and Receivers, Confidence and Trust
+
+In the following, we argue that there is a conditional role of social trust for institutional trust. Our
+
+approach uses country-level features to explain the degree to which individuals project their trust
+
+6
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+onto this country‘s institutions. An equivalent conditional role of individual features is presumed
+
+for performance-related factors of institutional trust.
+
+Bringing in the actual institutions can account for varying levels of institutional trust in different
+
+countries. But it can also explain, why social trust sometimes “spills over” to institutions, and
+
+sometimes not. A share of the cross-national variation, in particular in the issue of whether social
+
+trust is projected onto the government, is due to the fact that we are talking about something
+
+different when we talk about the government of Nigeria compared to the government of Denmark.
+
+And we argue further that the citizens in Nigeria and Denmark are aware of this when asked about
+
+trust in institutions. A trusting individual will project her trust onto the government in Denmark, but
+
+not in Nigeria. Our main hypothesis is that these differences in the properties of institutions explain
+
+a part of the difference in the trust put in institutions by a cross-level interaction effect: Institutional
+
+trust and the relevance of social trust for institutional trust differ among countries, because
+
+institutions in these countries differ in their trustworthiness. Even people with a high level of social
+
+trust will not put trust in corrupt institutions. Thus, social trust will in some countries have a
+
+positive effect on institutional trust, whereas in others it will have no such effect.
+
+The same argument holds for “objective” performance. Elements of institutional performance
+
+matter to different degrees for different persons. For someone in a secure employment, the
+
+unemployment rate may be irrelevant as a criterion for evaluating political institutions, while for
+
+someone who is or was unemployed, it might be the most important.
+
+To investigate the sources of institutional trust in a more encompassing way and in particular to
+
+reconcile the diverging findings reported in the literature, it is necessary to differentiate
+
+“institutional trust”.
+
+On the one hand, institutional trust can be differentiated according to its objects: first, there are
+
+“representative” or political institutions, like parliament, government and politicians. Second, there
+
+7
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+are “impartial” institutions, which are public but “non-political”, like the judiciary and the police,
+
+cf. Klingemann (1999: 33/34) and Dalton (1999: 58). This distinction is reflected in citizen’s
+
+attitudes and corresponds empirically to distinct dimensions of institutional trust; see Denters et al.
+
+(2007a: 69). As we will argue later on, institutions differ in their functions and thus in the criteria,
+
+by which they are evaluated by citizens.
+
+On the other hand, it makes sense to differentiate the nature of institutional trust. Firstly, there is
+
+trust in a moral sense: trust in the honesty, rectitude, and open decisions, e.g. in court, and also trust
+
+that holders of public offices are honest and law abiding; see Levi/Stoker (2000: 477). Secondly,
+
+there is the confidence in the institutions’ capabilities, which is conceptually independent; Lipset
+
+(1959). A honest government might perform poorly, while even a corrupt government might
+
+perform well in terms of overall economic performance.
+
+Our basic argument is that what goes under “institutional trust” has two components, trust and
+
+confidences, and both are to some degree conditional. Our argument underlying this conditionality
+
+is that 1) the performance and trustworthiness differs systematically between countries, 2) the
+
+performance and the trustworthiness of a country’s institutions is common knowledge, and 3)
+
+individuals with different properties will respond to the same degree of performance and
+
+trustworthiness in different ways. This explains differences in levels of trust and confidence, but
+
+also, whether social trust is projected on institutions.
+
+a) Trust in Institutions: Honesty and Trustworthiness
+
+Trust is a two-sided phenomenon – it takes certain features on both sides to establish a trust
+
+relationship. It takes someone willing and able to trust, and someone worthy of being trusted.
+
+Relevant for trust in a country’s institutions is their trustworthiness; cf. Pharr (2000), della Porta
+
+(2000), and Anderson/Tverdova (2003). All citizens in the country are basically confronted with the
+
+same set of institutions, which are trustworthy to a certain degree. And all citizens in this country
+
+are – to some degree – aware of this degree of trustworthiness, which is common knowledge. If you
+
+8
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+have to bribe officials to obtain something, this is commonly known as the way things work
+
+hereabout. The trustworthiness of a country’s institutions is a common factor in the attitude of all
+
+citizens towards these institutions, explaining – ceteris paribus – different levels of trust in different
+
+countries.
+
+But a trust relationship needs a willingness to trust on the side of the sender to begin with. A person
+
+with little social trust will not put trust in institutions, even trustworthy ones, because this person is
+
+unable to trust for whatever personal reasons. You may generally trust other persons, but still not
+
+trust the political institutions, because they are – even by objective criteria – not trustworthy.
+
+Putting trust in them would be foolish, because you are not in doubt (as you may be if you deal with
+
+a stranger), but know that you should not trust them. Under what conditions is social trust projected
+
+or transferred to institutions? Only, if the addressee is known to be trustworthy. Thus we predict
+
+that depending on the trustworthiness of the political institutions in the country, a person’s social
+
+trust insofar as it exists, is transferred to social institutions.
+
+b) Confidence in Institutions: Performance
+
+The second component relevant for “institutional trust” is the confidence in institutions which arises
+
+from their performance. You may not be a trusting person, but still have confidence in the
+
+government, even in a non-democratic/corrupt government, because it is objectively doing a good
+
+job. Following the institutional performance approach, we predict that high performance of a
+
+country’s institutions generally increases the level of confidence citizens have in these institutions
+
+and institutional confidence will on average be higher. This does not concern trust in their honesty,
+
+but confidence in their abilities.
+
+But two modifications are required: first, the performance evaluation is itself also conditional.
+
+While performance is common knowledge (the figures for inflation and unemployment are the same
+
+for all) there are reasons to assume that some aspects of performance are of different relevance for
+
+different people; see Mischler/Rose (2001: 37) and Herreros/Criado (2008). For instance, people
+
+9
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+who are unemployed or have been unemployed for some time, are more sensitive to the
+
+unemployment rate than are people in a secure employment.
+
+Second, while there are general criteria and properties of the institutions, which will affect the level
+
+of trust/confidence an individual has in them, institutions differ in their function: It is not the
+
+function of the police, to make a sound economic policy, nor is it the function of the parliament to
+
+make the streets safe at night. Thus we would expect that different criteria matter for evaluating
+
+different institutions.
+
+After discussing individual- and system-level features relevant for institutional trust and confidence,
+
+the empirical sections will analyze the impact of properties of the institutions on individual level
+
+trust in these institutions, political as well as non-political ones. The core question is, whether there
+
+is an explanatory “value added” by including conditionality effects in the sense that properties of
+
+the institutions affect people differently.
+
+Individual-Level Factors for Trust and Confidence in Institutions
+
+Much research has been conducted in the factors determining institutional trust, and there is a set of
+
+variables influencing institutional trust, which need to be taken into account, albeit their effects are
+
+neither stable nor universal, cf. Newton (1999: 180-181).
+
+Persons with certain socioeconomic properties, e.g. higher levels of education, have higher levels of
+
+“political trust”; see Kaase/Newton (1995), Newton (1999), Newton/Norris (2000), Mishler/Rose
+
+(2001), Zmerli et al. (2007), and Denters et al. (2007a).
+
+Regarding individual values, Dalton (2004, 2008) argues that trust in “hierarchical”, power
+
+wielding institutions like the law and the police declines as people get more post-materialistic, cf.
+
+also Inglehart (1999), but also Denters et al. (2007a) and Segatti (2008) who find no supporting
+
+evidence.
+
+10
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Political involvement comes in two types: First, “intellectual” involvement: politics is difficult and
+
+political sophistication, an understanding of politics and policy turn out the way they do, should go
+
+together with more trust; cf. Boix/Posner (1998). The opposite is distrust created by resignation and
+
+alienation. Second, political involvement comes in the form of direct involvement, e.g. party
+
+membership, which also should increase trust; cf. Finkel/Opp (1991).
+
+The main argument of the “social capitalists”, most notably Putnam (1993, 2000), is that social
+
+engagement foster mutual trust, by practicing grass root level democracy, and therefore might
+
+increase the trust in the political institutions. While some authors presume this effect to be
+
+conditional on properties of associations (e.g. hierarchical vs. egalitarian), cf. Theiss Morse/Hibbing (2005) and Warren (2000), others argue that only the memberships per se matters;
+
+see Maloney et al. (2008). The empirical evidence is inconclusive, cf. Denters et al. (2007a: 80/81).
+
+There is also the argument, that being member in associations increases the chances for discussing
+
+politics, which in turn increases political sophistication which may increase institutional confidence;
+
+cf. Claibourn/Martin (2007). On can also argue that associational membership is actually working
+
+against institutional trust by enclosing people in bonding groups, see Theis-Morse/Hibbing (2005:
+
+227) for a discussion of the mechanisms, and Zmerli et al. (2007: 58) or Denters et al. (2007a:
+
+71pp) for empirical findings, which are often significant.
+
+Media consumption is a double-edged sword regarding trust. On the one hand consuming
+
+information is an expression of interest and involvement in the political life of a country. But some
+
+authors argue that the media, in their present form, undermine trust in more or less everything,
+
+political institutions, politicians, but just as well as in people in general, cf. Patterson (1993) or
+
+Norris (1996).
+
+Further individual level factors discussed are the incumbency effect, i.e. the fact that a government
+
+receives more trust from those who voted for it; see Citrin (1974), Anderson/Guillory (1997), and
+
+Criado/Herreros (2007), and the alienation argument which states that citizens holding extreme
+
+11
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+views – and thus never receive the policy they want, loose trust in the system, see Miller (1974a,b)
+
+but see also Craig (1996) for the opposite argument.
+
+System-Level Factors for Trust and Confidence in Institutions
+
+Trust and confidence in political institutions depend on their properties.
+
+Regarding the trust component of institutional trust, a general indicator of trustworthiness is the
+
+degree to which the “system” is corrupt or not, which was found to be relevant for levels of trust; cf.
+
+della Porta (2000) and Anderson/Tverdova (2003). An alternative indicator might be the incidence
+
+of scandals; see e.g. Paxton (1999) and Chanley et al. (2000) for the US and Bowler/Karp (2004)
+
+for the UK. While surely of interest, it is hard to say as an outsider, what incidents qualify as
+
+scandal in the eyes of the citizens.
+
+The confidence component is created by performance, but performance is evaluated with respect to
+
+the function of an institution. Here, political and non-political ones should be distinguished.
+
+Following the performance approach, we argue that the confidence in the political institutions is
+
+affected by what they produce and how they work.
+
+Economic performance matters, because politics is strongly about producing welfare for the
+
+citizens. No institutional setting can hope for confidence if it neglects this output. We focus on
+
+GDP, inflation and unemployment because these three are, in our view, most important for the
+
+material well-being of the citizens. Inflation and unemployment are threat to current personal
+
+welfare, GDP is a overall measure of the level of welfare the political system has reached.
+
+Apart from outputs, political processes matter. Citizens like consensus and stability while disliking
+
+open quarrels, see Hibbing/Theis-Morse (1995, 2002). Thus a factor for confidence might be the
+
+stability of the political system: if the government’s composition (and thereby the government’s
+
+policy) changes often and unpredictable, this might reduce confidence.
+
+While it can be debated whether it is a genuine political output, social equality may be relevant for
+
+the trust in societal institutions. If the society is a fairly equal one, not fragmented and without large
+
+12
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+differences between “classes”, institutional trust will presumably be higher; cf. Uslaner/Brown
+
+(2003) and Rothstein/Uslaner (2005: 43).
+
+While it is clear what legal institutions as the most important non political institutions are presumed
+
+to do, i.e. grant legal and personal security, getting an indicator of how well they are doing this is
+
+difficult. Unfortunately, comparative data on the incidence of crime as an indicator of performance
+
+of the legal system, is not available in a consistent way.
+
+Conditionality of Effects: Cross-Level Interactions
+
+The perception of performance depends on the personal situation of the respondent, her properties
+
+and expectations; cf. Miller/Listhaug (1999: pp212). Usually, this is modeled by including personal
+
+properties and attitudes in the explanation. We would argue that both system-level features,
+
+institutional performance and trustworthiness, exercise their effect intermediated by individual
+
+properties and are thus to be modeled by cross-level interaction effects.
+
+An institution’s performance is an objective fact, but the impact on the individual and thus on the
+
+individual’s confidence in the institution’s capability differs, because of the individual’s situation
+
+and vulnerability. For persons working in the public administration, the risk of actually becoming
+
+unemployed is quite low and thus the unemployment rate is less relevant as an performance
+
+indicator compared to people with higher risk of unemployment. As a consequence, we would
+
+expect that the unemployment level is more important as a criterion for performance for people who
+
+are or were unemployed.
+
+An institution’s trustworthiness is also the same for all citizens: if the government and the
+
+bureaucracy are corrupt, trusting as well as non-trusting citizens are confronted with it. But if a
+
+trusting individual is embedded in an institutional environment which is trustworthy, our argument
+
+of the conditionality of trust predicts that this trust will be transferred to the institutions.
+
+13
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+3. Statistical Implementation and Data
+
+The explanation proposed is basically a multilevel explanation and the method chosen reflects this.
+
+At the individual-level, individuals differ in personal attitudes, some of which have fixed effects on
+
+institutional trust independent from the context. For instance, better educated persons might put
+
+more trust in institutions, because they better understand how they work.
+
+System-level features affect the average institutional trust: All individuals in a country are
+
+confronted with the same capable or incompetent institutions. Individuals in country A put – on
+
+average – less trust in institutions because their institutions are less trustworthy than in country B.
+
+But we predict several cross-level interaction effects covering the conditionality, i.e. that the impact
+
+of an individual feature depends on features of the country.
+
+The appropriate method for this approach is the multilevel regression; see Snijders/Bosker (1999)
+
+and Steenbergen/Jones (2002), which allows to estimate the effect of system-level features,
+
+individual-level features as well as cross-level interactions, i.e. individual-level effects depending in
+
+their magnitude on system-level features.
+
+The basic data set is the 2002 edition of the European Social Survey, which was supplemented with
+
+system-level data. The net sample size is about 40.000 cases at the individual-level, nested into 21
+
+countries which are heterogeneous in many regards.
+
+In the following we will briefly enumerate the system and individual-level factors for confidence
+
+which are needed for control then discuss the construction of the variables which cover the
+
+conditionality of effects.
+
+System-Level Data
+
+Given the limitations imposed by the available data, we restrained ourselves to a basic model
+
+containing the system-level explanatory variables most interesting from the theoretical point of
+
+view, i.e. indicators of trustworthiness and performance.
+
+14
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+The corruption perception index, CPI, compiled by Transparency International as a measure of the
+
+trustworthiness of the country’s political and social institutions. The CPI is compiled from both
+
+surveys and ratings, done by citizens and country experts. The CPI is designed to capture the overall
+
+extent of corruption, taking into account the frequency and the magnitude of corruption. With
+
+regard to the evaluation of institutions which are the subject of the study, the CPI covers the public
+
+sector (judiciary and police) but also the political system; cf. Transparency International. The
+
+sample’s range of the CPI goes from 4.1 (Poland) to 10 (Finland).
+
+This is supplemented by three economic performance indicators: GDP, unemployment and inflation
+
+rate. As a complementary indicator of a genuinely political output we included the equality of
+
+society measured by the Gini index. The indicator was chosen for pragmatic as well as substantive
+
+reasons. There is evidence that equality of society it is related to the trust put into the society’s
+
+institutions. It is also a political goal, held in high regard by many citizens and is thus an aspect of
+
+political performance. Moreover, there is also a survey question about the importance of inequality
+
+for the individual. These four system-level indicators are taken from the UN Human Development
+
+Report.
+
+As a system-level variable covering procedural aspects of politics, we have included government
+
+stability. The idea is that short lived governments are an indicator of political instability, reducing
+
+trustworthiness, but also the confidence, because it is less sure that the current policy of the
+
+government will continue and an individual’s decisions made on the basis of the government’s
+
+policy are still optimal. The indicator measures the average cabinet duration in months, whereby
+
+cabinet changes are defined as changes in party composition. The data was compiled from the
+
+European Journal of Political Research Annual Databooks, and Ismayr (2004).
+
+Individual-Level Data
+
+The explanatory individual-level variables tests firstly, whether there actually remains an effect of
+
+social trust on trust in institutions, after other factors are controlled. Second, whether the predicted
+
+conditionality of the impact of social trust on trust in institutions holds true.
+
+15
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+The first variable is the SocialTrust, measured by the response to the “Most people can be trusted” question, ranging from 0 “You can’t be to careful” to 10, “Most people can be trusted”.
+
+Institutional performance is also reflected in the respondent’s overall satisfaction, and constitutes a
+
+subjective evaluation of institutional performance. The ESS contains five items relating to
+
+satisfaction with public issues: satisfaction with the economy, the government, democracy, the
+
+educational and the health system. The variable Satisfaction is the score obtained by conducting a
+
+factor analysis of these five items.
+
+Trust also depends on the subjective feeling of how much control one has over the institutions. The
+
+argument is, that one won’t trust something, which is beyond one’s comprehension and control;
+
+Craig et al. (1990). Political institutions are under control of the citizens, which is not true for the
+
+police or the legal system. The feeling of efficacy, captured by internal and external efficacy, should
+
+thus matter for political but not for non-political institutions. “ExternalEfficacy” is covers whether
+
+the respondent thinks that politicians care about people like her. “InternalEfficacy” is the
+
+disagreement to “politics is sometimes to difficult to understand”.
+
+The variable “Incumbency” is a proxy of political outcomes. It has a value of 1, if the respondent
+
+states she feels close to a party currently in government. The argument is first, that the respondent
+
+believes to obtain a policy closer to her preferences, and second, that trust is higher, if the
+
+respondent feels ideologically close to the parties in government - irrespective of the actual political
+
+outcomes and the performance; cf. Anderson/Tverdova (2003). The impact of political performance
+
+may however depend on the importance the respondent assigns to politics. If you do care about
+
+politics you may be particularly confident if “your” party rules the country. To test for this
+
+argument, we generated an interaction effect between being close to a party and the incumbency
+
+variable; ImpactIncumbency. Again, this should be particularly relevant for political institutions.
+
+The ESS asks regarding a battery of several voluntary associations, whether the respondent is a
+
+member. SocialMemberships is the sum of memberships in associations such as sport clubs, human
+
+16
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+rights organizations, trade unions, professional organizations, consumer associations, human rights
+
+organizations, environment and religious associations.
+
+We included whether the respondent feels close to any particular party as an indicator of
+
+involvement in the political process; “PartyClose”. While active party membership might be the
+
+better indicator, but this is too rare an event.
+
+Further, we included indicators of media usage. With Patterson (1993) and Norris (1996) one could
+
+presume that consuming media diminishes trust, because of the predominance of bad news. Equally,
+
+one can argue that different types of media affect trust differently. Different types of media are, by
+
+their very layout and format, prone to report different news and moreover to report it in a different
+
+way. Thus, a more refined hypothesis would be that media consumption per se has a positive effect
+
+on trust in those institutions which protect the individual from the “risky world”, e.g. the police and
+
+the legal system. We would also expect that consuming political news increases trust in political
+
+institutions, because it gives the respondent a better understanding of what is going on. The four
+
+media variables cover the daily time spent consuming political contents (in TV or newspapers) and
+
+the daily time spent consuming non-political contents. Because the media usage was measured on a
+
+half-hour scale we were able to calculate a measure of the political and non-political news
+
+consumption.
+
+Personal safety is an important output of the society’s institutions, thus influencing the confidence
+
+in them; see Chanley et al. (2000). If a respondent feels unsafe walking the streets, the institutions
+
+are not providing safety to a degree sufficient for this respondent. While creating a peaceful society
+
+is also a political output, we would expect that it is most relevant for evaluation the institutions in
+
+charge of providing safety (police and legal system). The ESS asked respondents about their
+
+“Feeling of safety of walking in a local area after dark”, ranging from 1 feeling safe, to 4, feeling
+
+unsafe; AfraidDark.
+
+If the respondent is from a minority this might decrease the trust in the institutions of the country.
+
+Herreros/Criado (2008) find evidence for the argument that being member of a minority, and in
+
+17
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+particular the feeling of being discriminated against decreases the trust in institutions, which are
+
+staffed by “natives” and work for the “natives”; Minority
+
+To cover the importance attached to a certain political outcome, social equality, we included the
+
+respondent’s preference for equality, proxied by the agreement with the statement that the
+
+government should engage in reducing income differences; EqualityValue.
+
+Unemployment – the confidence put in the country’s institutions and also the evaluation of an
+
+output (viz. the unemployment rate) might depend on the personal experience with unemployment.
+
+The variable Unemployed is a dummy indicating that the respondent was unemployed, is currently
+
+unemployed or the respondents partner is currently unemployed. Further socioeconomic variables
+
+are household income in deciles, the years of education, age and a dummy variable designating
+
+females.
+
+Cross-Level Interaction Variables
+
+This study wants in particular capture the conditionality of trust and confidence in institutions.
+
+Regarding the conditionality of trust, we generated an interaction term between the respondent’s
+
+social trust and the country’s CPI; CondTrust. It captures the link between the individual’s social
+
+trust and the country’s institutions as more or less trustworthy recipients of trust. Only in societies
+
+with trustworthy institutions, social trust is transferred from individuals to institutions. And only
+
+here, we expect a strong and positive relationship between social and institutional trust. From
+
+studies like Rothstein/Stolle, (2002), it is clear that perceived trustworthiness is also a result of
+
+subjective experiences with institutions. If one has the personal experience of trustworthiness of an
+
+institution, but there is no such data in the ESS.
+
+Regarding the conditionality of confidence, we generated interaction terms between objective
+
+indicators of performance and individual level features affecting the relevance of this performance
+
+indicator. The variable ImpactUnemployment is the cross-level interaction between individual level
+
+unemployment experience as constructed above and the country’s unemployment rate. The idea is
+
+18
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+that unemployment rate as a performance indicator is more relevant, if the respondent views herself
+
+as vulnerable to unemployment.
+
+The argument that different citizens perceive the relevance of a certain system output differently
+
+also applies to the Gini index. Social inequality is only relevant as a criterion to evaluate the
+
+political system, if the issue is of relevance for the citizens. Using the Gini index per se implies that
+
+everyone cares to the same degree about income inequality, which may or may not be the case.
+
+Thus a cross-level interaction term was constructed between the Gini index and the importance the
+
+respondent attaches to inequality; ImpactGini.
+
+Another potentially interesting interaction term would look for a cross-level effect of inflation rate
+
+the income, implementing the popular hypothesis, that respondents with lower income are more
+
+hurt by inflation than more wealthier respondents, but the income variable was not asked in all
+
+countries.
+
+Dependent Variables
+
+Often institutional trust is measured by summary indicators (indices or factor scores) combining the
+
+respondent’s trust into a range of institutions, see e.g. Zmerli et al. (2007) or Denters et al. (2007a).
+
+Contrary to this approach, we will analyze trust in each institution separately. Moreover, we see
+
+each dependent variables as a composite of trust (created by trustworthiness) and confidence
+
+(created by performance). The first round of the European Social Survey asked for trust in four
+
+national institutions. First in politicians and parliament, which we see as genuinely political
+
+institutions. Then in the legal system and the police, as non-political or “order” institutions.
+
+Different institutions are installed for different functions, and have a different standing in the
+
+population, in particular because they actually differ in their performance regarding their function.
+
+Each dependent variable is measured in a scale ranging from 0, indicating no trust, to 10, indicating
+
+complete trust in this institution.
+
+19
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+4. Results
+
+Summarizing our hypotheses, we expect that trust and confidence in the two political institutions is
+
+strongly dependent on those elements of performance amenable to political control and
+
+trustworthiness. For the two non-political institutions, we expect trust to be affected by the general
+
+trustworthiness, but to be less affected by indicators of system performance, like economic welfare,
+
+which are clearly not their responsibility. For all four institutions, we predict that social trust is
+
+transformed into institutional trust only if the target institution is trustworthy.
+
+20
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Table 1 Factors for Trust in Institutions
+
+Variable Parliament Politicians Police Legal System Macro Level Features CPI -0.034* -0.092*** 0.091*** 0.045** GDP -0.047*** 0.022* 0.025** 0.023* GINI -0.003 0.001 -0.041* -0.079*** Unemployment -0.035*** 0.016* 0.154*** 0.025** Inflation -0.025** 0.015* -0.118*** -0.025** Cabinet Stability 0.003 0.070*** -0.032*** -0.052*** Individual Level Features SocialTrust 0.042 -0.017 0.060* 0.019 Satisfaction 0.426*** 0.427*** 0.318*** 0.355*** InternalEfficacy 0.053*** 0.045*** 0.006 0.038*** ExternalEfficacy 0.203*** 0.297*** 0.057*** 0.091*** Incumbency 0.01 -0.003 0.001 -0.033*** ImpactIncumbency 0.01 -0.002 -0.023** -0.016* TVPolitical 0.002 0.015** -0.008 -0.019** NewspaperPolitical 0.031*** 0.022*** 0.004 0.029*** TVNonPolitical -0.024*** 0.003 0.008 -0.004 NewspaperNonPolit -0.004 -0.012* 0.001 -0.011 PartyClose 0.038*** 0.055*** 0.025*** 0.043*** ValueEquality -0.031 0.007 -0.07 -0.257*** AfraidDark -0.014* 0.009 -0.043*** -0.049*** Minority -0.028*** -0.006 -0.038*** -0.026*** Female -0.006 0.039*** 0.035*** 0.012* Age -0.023*** 0.007 0.058*** -0.024*** Education 0.032*** -0.012* -0.01 0.066*** Unemployed 0.007 0.01 0.006 0.005 Cross Level Interactions ImpactUnemployment -0.014* -0.014* -0.021** -0.016* ImpactGINI 0.065 0.014 0.090* 0.331*** CondTrust 0.068* 0.154*** 0.038 0.095** Model Fit σ(e) 0.748 0.707 0.806 0.78 R2 within 0.337 0.391 0.165 0.228 R2 between 0.827 0.913 0.762 0.528 R2 Overall 0.383 0.451 0.249 0.272 N 24779 24893 24931 24837 N(Groups) 21 21 21 21
+
+Remark:
+
+Entries are beta-coefficients
+
+Significance Levels: *: p<.05, **: p<.01, ***: p<.001
+
+Table 1 gives the results indicating the relevance of system- and individual-level factors influencing
+
+trust in the four institutions. Some of the explanatory variables can easily be assigned to either
+
+trustworthiness or performance. For instance, the CPI measures trustworthiness, the unemployment
+
+21
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+rate measures performance. For others, the assignment to one type is not that clear, so we will refer
+
+to “trust”.
+
+First of all the effects found for the general social trust respectively conditional trust variables
+
+confirm the hypothesis that trust is only put into trustworthy institutions. Regarding the magnitude
+
+of the effect, its beta-coefficient ranks third or second after satisfaction and external efficacy. Only
+
+for the police, there is a significant effect of “social trust” per se and a smaller and insignificant
+
+effect of conditional trust.
+
+The mechanism is confirmed: a person may be trusting, but if the institutional setting is not
+
+trustworthy, she will not put any trust into the institutions. Consider a fictive country where the CPI
+
+has a value of zero: the CondTrust term will be zero too, irrespective of the level of social trust.
+
+And there is no contribution of social trust per se. Analyzing the relationship between social trust
+
+and institutional trust in this country will find no effect. Consequentially, one would conclude that
+
+in this country, social trust and institutional trust are uncorrelated. In a country with trustworthy
+
+institutions, social trust will be transferred to the institutions. In countries with institutions of some
+
+trustworthiness, the effect will be present but weak, while in countries with high levels of
+
+trustworthiness, the effect will be substantial. So without looking at the system-level, at the
+
+institutions and their features, i.e. without looking at the second element of a trust relationship, one
+
+will find various effects, which is what one observes in the existing literature. Figure 1 illustrates
+
+this mechanism by showing the rates by which social trust is projected onto politicians in countries
+
+with different levels of the CPI. The vertical axis gives the additional contribution of the conditional
+
+trust to the level of overall institutional trust which is due to the other independent variables, like
+
+performance.
+
+22
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Figure 1: Contribution of the Conditional Trust Component to Trust in Politicians
+
+Remark:
+
+The country’s CPI score is given in the brackets
+
+The correlation between aggregated levels of trust and corruption found in macro-level studies are
+
+supported, and are no ecological fallacy. If a country’s institutions, for instance in a transition
+
+country, become more trustworthy, e.g. more transparent and more subject to the “rule of law”, the
+
+level of institutional trust will increase, even though the attitudes at the individual-level did not
+
+change. The second element of the trust-relationship improved, and trust is now also transferred
+
+towards institutions. If social trust decreases in a country, for whatever reason, this will decrease
+
+institutional trust, as found by Keele (2007). But a decline in social trust can be compensated by a
+
+higher belief in the competencies of institutions. Overall institutional trust then depends on whether
+
+the institutions can compensate this by performing better; see Chanley (2002). The link may also be
+
+subject to short run fluctuations. For instance, a corruption scandal, might weaken the link. Not
+
+because persons loose trust in their fellow citizen, but because institutions loose trustworthiness.
+
+23
+
+0 1 2 3 4 5 6 7 8 9 10 0
+
+0,2
+
+0,4
+
+0,6
+
+0,8
+
+1
+
+1,2
+
+1,4
+
+1,6
+
+Poland (4.1) Belgium (6.1) Austria (7.7) Luxemburg (8.6) Norway (9.1) Finland (10)
+
+Respondent's Social Trust
+
+Respondent's Trust in Politicians
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+For those cross-level effects which test whether the relevance of an institution’s performance for a
+
+person’s institutional confidence depends on the respondent’s economic situation and preference,
+
+the evidence is mixed. Knowing unemployment from first hand makes the unemployment rate
+
+slightly more relevant for confidence in all institutions. The level of social inequality (measured by
+
+the Gini Index) is not always a more important criterion for people who believe equality to be an
+
+important political output. On the contrary, the only institution for which this attitude is context dependent is the legal system, not the political institutions which are ultimately in charge of this
+
+output.
+
+So to summarize one can say that the performance-component is much less conditional on personal
+
+properties and more influenced by “objective” performance.
+
+The individual-level factors were found to have similar effects as in previous studies: Satisfaction
+
+with the way things work in the country, the subjectively perceived performance of societal
+
+subsystems, increases the confidence put in the institutions and is the single most important factor.
+
+We use the term confidence because we would argue that, this is an indicator of the performance
+
+component of institutional trust rather than the “honesty”-component.
+
+Internal efficacy, the feeling that one understands politics increases the trust put into the political
+
+institutions. Its effect is strongest for the parliament, somewhat weaker for politicians. As expected,
+
+its impact decreases when the legal system is concerned and vanishes completely for the police. The
+
+effect of external efficacy, the perception that politicians actually care about people like oneself, is
+
+positive and much stronger. The mechanism becomes clearer, when one keeps in mind what low
+
+values indicate, which is apathy and alienation. Just as with internal efficacy, the effect is found for
+
+all four institutions, but it is much stronger for the political ones. Satisfaction and external efficacy
+
+are the strongest predictors for institutional trust. While satisfaction can be seen as a proxy of
+
+24
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+performance (the respondent’s subjective perception of it), the perceived control (the subjective
+
+perception of influence over those in charge of ruling the country) is not performance related.
+
+Whether the party one has voted for is holding the government, proxied by the Incumbency
+
+variable, does not increase trust in political institutions. There is no additional effect in the sense
+
+that higher importance of politics, proxied by the feeling of being close to a particular party, would
+
+increase this effect.
+
+Being close to a party increases the trust put into all of a country’s institutions, maybe by being a
+
+simple proxy for a feeling of identification with the political establishment. Again, interpreting the
+
+content of the effect becomes easier when considering persons who don’t feel close to any party,
+
+who are also likely to be alienated from “the system“.
+
+The respondent’s media consumption has divergent effects on the trust put into institutions. Overall,
+
+the effects are only small in magnitude, the strongest effects occur for the political newspaper
+
+consumption, which usually increases trust.
+
+The feeling of being at risk, proxied by AfraidDark, decreases confidence in institutions, in
+
+particular in those institutions which are in charge of providing personal safety, the police and the
+
+legal system. Members of minorities have significantly less institutional trust. If one feels
+
+discriminated against, e.g. in personal experience with “natives”, this perception will also apply to
+
+the country’s institutions. As for the socioeconomic variables, the effects are mixed. Women show
+
+higher levels of trust in politicians and the police, while older respondents have more trust in the
+
+police. Education increases trust in the parliament and the legal system. Unemployed persons do not
+
+have lower levels of confidence and trust. The attitude that the state should reduce economic
+
+inequality matters only for the trust in the legal system, which is much lower for respondents
+
+thinking that the state should engage more equalizing income.
+
+Contrary to our expectations, a range of individual-level variables were found to be of no impact:
+
+The income variable was found to be insignificant for evaluating institutions with the exemption of
+
+the legal system where it exerted a small positive effect. It was omitted in the analyses presented,
+
+25
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+because the question was not asked in all countries. In the case of the social memberships variable
+
+the same problem pertained. When included, the variable was found to be insignificant for all trust
+
+variables, the only effect found – weakly significant (5% level) – concerned the trust in the legal
+
+system.
+
+System-level variables affect trust and confidence in a way which is confirming some expectations
+
+while rejecting others. Higher levels of the CPI – which objectively indicate less corruption –
+
+increase trust in non-political institutions but decrease the trust in the political institutions. Citizens
+
+in a country in which corruption is less virulent put actually less trust in their political institutions
+
+than do citizens in countries in which corruption is a more serious issue. The CPI might not be the
+
+best indicator for capturing corruption in political domain, because the “perceived corruption” –
+
+what citizens perceive as an illegitimate behavior in the political arena might be legal and as such
+
+might be a violation of decency rather than law. Successful lobbying by a highly visible industry
+
+might count for citizens as corruption, while it is surely not illegal, and thus not covered by the CPI.
+
+The effect on the parliament is similar, albeit smaller in magnitude, and we think that the same
+
+reasoning applies.
+
+The level of wealth in the society affects the institutions differently and to a different degree.
+
+Overall, higher levels of wealth (GDP) increase trust in non-political institutions. The parliament is
+
+seen as less trustworthy in richer societies, where, interestingly, trust in politicians is slightly
+
+higher. Poor economic performance with regard to unemployment reduces in particular the trust in
+
+the parliament, while it weakly increases the trust put into politicians, and strongly increases trust in
+
+the police and the legal system. High levels of inflation decrease trust in all institutions apart from
+
+politicians. Political stability increases the confidence put in politicians, leaves trust in parliament
+
+unchanged, but reduces the levels of confidence put in the non-political ones. While the first
+
+observation is in line with the argument, the mechanism underlying the latter one is unclear. The
+
+country’s achievement with regard to the political aim of an “equal society” (low values of the Gini
+
+26
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+index) does not matter for trust in political institutions. But in a highly unequal society with a high
+
+Gini index, trust in the police and the legal system is significantly lower.
+
+How well does the standard model explain the variation in the trust individuals in different
+
+countries put into their country’s institutions? The statistical model differentiates the overall
+
+variation in trust into two components: the variation between countries and the variation within
+
+countries. The between R2 is the explained variation at the level of the countries, i.e. how good the
+
+average trust in the countries can be explained by system-level variables used in the model. The
+
+within R2 is the explained variation among citizens of the country, i.e. the variation of individuals
+
+around the country’s mean. The overall R2 is the combined explained variation, the divergence of
+
+the individual from the overall mean of the whole survey; see Snijders/Bosker (1999: 16-22). All
+
+three R2 are reported in the lower rows of table 1.
+
+Looking at the between R2 in table 1, the variation between the countries can to a high degree be
+
+explained by the system-level variables, while the variation among citizen of the same country can
+
+be explained only to a lesser degree. The explained variation differs systematically between the
+
+political and the non-political institutions, the system-level features, i.e. the trustworthiness, but also
+
+the macro economic performance affects strongest the two political institutions. The system-level
+
+features determine the cross-national variation in the trust in the institution which is the “most
+
+political“ one, namely the politicians themselves. The parliament follows closely but so does the
+
+police, as a non-political institution. The legal system, as the least political institution, is least
+
+affected by the overall economic situation in the country. The high level of explained variation
+
+between the countries does not increase the level of explained overall variation by a large amount.
+
+The reason is that while the countries differ sufficiently in the system-level data, in particular in the
+
+CPI, and the differences between countries can be explained very well, most of the variation occurs
+
+between individuals. Two individuals from two countries might differ to some degree, because the
+
+27
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+properties of the country they are living differ. But the major share of the difference between the
+
+two individuals has individual-level reasons.
+
+5. Conclusions
+
+The paper’s central hypothesis is that institutional trust is an interaction between the trusting
+
+individual and the trustworthy institution receiving this trust. This hypothesis is supported. For the
+
+political institutions and the legal system, the cross-level interaction between the trustworthiness of
+
+the institutions and trust as a personal trait of the citizen, is a significant positive determinant of
+
+“institutional trust”, while social trust per se is not.
+
+Regarding the question whether the relevance of performance is conditional on properties of the
+
+respondent, depending on her economic situation and her political preferences, the evidence
+
+indicates a conditionality. Having personally experienced unemployment makes the unemployment
+
+rate more relevant for the confidence in the institutions. Social inequality matters significantly more
+
+for the respondent’s trust in the legal system and the police. This effect is significantly stronger if
+
+this person holds the opinion that the state should engage in reducing social inequality.
+
+On the individual-level, the most important factor for confidence in institutions is the (subjective)
+
+satisfaction with the institutional performance, followed by the (subjective) perception that people
+
+like oneself matter for politicians. Political affiliation – feeling close to any party respectively a
+
+party in government – increases trust in all institutions. The effects are plausible and usually in line
+
+with the arguments made in the literature. System-level performance indicators matter for
+
+institutional confidence, but not always in a straightforward way. Performance indicators matter for
+
+different institutions in very different ways, and it is not easy to understand why a certain indicator
+
+matters for the trust put in a certain institution, which may or may not be responsible for this aspect
+
+of performance. For instance, given the media-presence of politicians who are members of the
+
+cabinet it is perfectly clear, that politicians are held responsible for the stability of the cabinet. If
+
+they fail and the cabinet breaks up, this is seen as low performance which in turn lowers the
+
+28
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+confidence in politicians. The strong positive effect of cabinet stability on confidence in politicians
+
+is not surprising. But why higher cabinet stability should lower confidence in the police and the
+
+legal system, is not explainable that easy.
+
+The overall explanatory power of system-level features, in particular economic indicators, for trust
+
+in non-political institutions is much lower than for political institutions. So, while all institutions are
+
+affected by low performance, this matters more for the political ones.
+
+A frequent pattern is that trust in politicians is not affected to the same degree as trust in other
+
+institutions. We think this is due to two reasons. First, when asked about politicians, the respondent
+
+might have certain politicians in mind. So, trust might be affected by the personality of the
+
+politician the respondent is thinking of. Second, politicians are generally held in low regard (the
+
+variable has the lowest mean and the smallest standard deviation).
+
+One important task for the future would be to capture the “objective” trustworthiness of the
+
+institutions with better indicators, which are more specific to the individual institutions. Following
+
+the more detailed work on trust in US state-level institutions by Kelleher/Wolak (2007), we would
+
+agree that there are different sets of variables which are the most important factors for explaining
+
+the trust in a specific institution. In cross national research this quickly runs into obstacles of having
+
+comparable system-level data. Regarding the levels of political trust, the implications are that
+
+making institutions more trustworthy (e.g. in transitional countries) or by increasing performance
+
+(e.g. higher levels of wealth) are necessary, but not sufficient for the state to acquire and retain the
+
+citizens’ trust. If – for societal reasons – the general trust of citizens declines, this will also decrease
+
+the trust put into institutions.
+
+29
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+6. References
+
+Alesina, Alberto/Wacziarg, Romain (2000): The economics of civil trust. in: Pharr, Susan
+
+J./Putnam, Robert D. (eds.) : Disaffected democracies: What's troubling the trilateral countries? Princeton: Princeton University Press: 149-170
+
+Almond, Gabriel A./Verba, Sidney (1963): The civic culture. Princeton: Princeton University Press.
+
+Anderson, Christopher J./Guillory, Christine A. (1997): Political Institutions and Satisfaction with
+
+Democracy: A Cross-National Analysis of Consensus and Majoritarian Systems. American Political Science Review; vol. 91: 66-81.
+
+Anderson, Christopher J./LoTempio, Andrew J. (2002): Winning, Losing and Political Trust in
+
+America. British Journal of Political Science; vol. 32: 335-351.
+
+Anderson, Christopher J./Tverdova, Yuliya V. (2003): Corruption, political allegiances, and
+
+attitudes toward government in contemporary democracies. American Journal of Political Science; vol. 47: 91–109.
+
+Boix, Carles/Posner, Daniel N. (1998): Social Capital: Explaining Its Origins and Effects on
+
+Government Performance. British Journal of Political Science; vol. 28: 686-693.
+
+Bowler, Shaun/Karp, Jeffrey A. (2004): Politicians, Scandals, and Trust in Government. Political
+
+Behavior; vol. 26: 271-287.
+
+Brehm, John/Rahn, Wendy M. (1997): Individual-Level Evidence for the Causes and Consequences
+
+of Social Capital. American Journal of Political Science; vol. 41: 999-1023.
+
+Chanley, Virginia A. (2002): Trust in Government in the Aftermath of 9/11: Determinants and
+
+Consequences. Political Psychology; vol. 23: 469-483.
+
+Chanley, Virginia A./Rudolph, Thomas J./Rahn, Wendy M. (2000): The origin and consequences of
+
+public trust in government: a times series analysis. Public Opinion Quarterly; vol. 64: 239257 .
+
+Citrin, Jack (1974): Comment: The Political Relevance of Trust in Government. American Political
+
+Science Review; vol. 68: 973-988 .
+
+Claibourn, Michele P./Martin, Paul S. (2007): The Third Face of Social Capital. How Membership
+
+in Voluntary Associations Improves Policy Accountability. Political Research Quarterly; vol. 60: 192-201.
+
+Craig, Stephen C. (1996): The angry voter: politics and popular discontent in the 1990s. in: Craig,
+
+Stephen C. (ed.): Broken Contract?: changing relationships between Americans and their government. Boulder: Westview Press : 46-66
+
+Craig, Stephen C./Niemi, Richard G./Silver, Glenn E. (1990): Political Efficacy and Trust: A
+
+Report on the NES Pilot Study Items. Political Behavior; vol. 12: 289-314 .
+
+Criado, Henar/Herreros, Francisco (2007): Political support taking into account the institutional
+
+context. Comparative Political Studies; vol. 40: 1511-1532.
+
+30
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Crozier, Michel/Huntington, Samuel/Watanuki, Joji (1975): The crisis of democracy: report on the
+
+governability of democracies to the trilateral commission. New York: New York University Press.
+
+Dalton, Russell J. (2004 ): Democratic Challenges, Democratic Choices. The erosion of political
+
+support in advanced industrial democracies. Oxford: Oxford University Press.
+
+--- (2008b): The good citizen. How a younger generation is reshaping American politics.
+
+Washington: CQ Press.
+
+--- (1999): Political support in advanced industrial democracies. in: Norris, Pippa (ed.): Critical
+
+citizens. Global support for democratic government. Oxford: Oxford University Press: 5777
+
+Delhey, Jan/Newton, Kenneth (2003): Who trusts? The origins of social trust in seven societies.
+
+European Societies; vol. 5: 93-137.
+
+della Porta, Donatella (2000): Social capital, beliefs in government, and political corruption . in:
+
+Pharr, Susan J./Putnam, Robert D. (eds.): Disaffected democracies: What's troubling the trilateral countries? Princeton: Princeton University Press: 202-228
+
+Denters, Bas/Gabriel, Oscar/Torcal, Mariano (2007a): Political confidence in representative
+
+democracies: socio-cultural vs. political explanations. in: van Deth, Jan W./Montero, José Ramón/Westholm, Anders (ed.): Citizenship and Involvement among the Populations of European Democracies. A Comparative Analysis. London: Routledge: 66-87
+
+Easton, David (1965): A system analysis of political life. New York: Wiley.
+
+European Social Survey Round 1 (2003): R Jowell and the Central Co-ordinating Team, European
+
+Social Survey 2002/2003: Technical Report. London: Centre for Comparative Social Surveys, City University / Distributed by the Norwegian Social Science Data Services (NSD).
+
+Finkel, Steven E./Opp, Karl-Dieter (1991): Party Identification and Participation in Collective
+
+Political Action. Journal of Politics; vol. 53: 339-371.
+
+Foley, Michael W./Edwards, Bob (1996): The Paradox of Civil Society . Journal of Democracy;
+
+vol. 7: 38-52 .
+
+Fukuyama, Francis (1999): The great disruption: human nature and the reconstitution of social
+
+order. New York: Free Press.
+
+Hardin, Russel (2002): Trust and Trustworthiness. New York: Russell Sage Foundation.
+
+Herreros, Francisco/Criado, Henar (2008): The state and the development of social trust.
+
+International Political Science Review; vol. 29: 53-71.
+
+Hibbing, John R./Theis-Morse, Elizabeth (1995): Congress as public enemy: public attitudes toward
+
+American political institutions. New York/ Cambridge: Cambridge University Press.
+
+--- (2002): Stealth democracy: Americans’ beliefs about how government should work. New York/
+
+Cambridge: Cambridge University Press.
+
+Inglehart, Ronald F. (1999): Postmodernization erodes respect for authority, but increases support
+
+31
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+for democracy. in: Norris, Pippa (ed.): Critical citizens. Oxford: Oxford University Press: 236-256
+
+Ismayr, Wolfgang (ed.) (2004): Die politischen Systeme Osteuropas. Opladen: Leske+Budrich.
+
+Kaase, Max (1999): Interpersonal trust, political trust and non-institutionalised political
+
+participation in Western Europe. West European Politics; vol. 22: 1-21.
+
+Kaase, Max/Newton, Kenneth (1995): Beliefs in Government. New York/Oxford: Oxford
+
+University Press.
+
+Keele, Luke (2007): Social Capital and the Dynamics of Trust in Government. American Journal of
+
+Political Science; vol. 51: 241-254.
+
+Kelleher, Christine A./Wolak, Jennifer (2007): Explaining Public Confidence in the Branches of
+
+State Government. Political Research Quarterly; vol. 60: 707-721.
+
+Klingemann, Hans-Dieter (1999): Mapping political support in the 1990s: a global analysis. in:
+
+Norris, Pippa (ed.): Critical citizens. Global support for democratic government. Oxford: Oxford University Press: 31-56
+
+Levi, Margaret/Stoker, Laura (2000): Political trust and trustworthiness. Annual Review of Political
+
+Science; vol. 3: 475-508.
+
+Lipset, Seymour Martin (1959): Some social requisites of democracy: Economic development and
+
+political legitimacy. American Political Science Review ; vol. 53: 69-105.
+
+Lipset, Seymour Martin/Schneider, William (1983): The confidence gap. New York: The Free
+
+Press.
+
+Maloney, William A./van Deth, Jan W./Roßteutscher, Sigrid (2008): Civic orientations: Does
+
+associational type matter? Political Studies; vol. 56: 261-287.
+
+Miller, Arthur H. (1974a ): Political issues and trust in government: 1964-1970. American Political
+
+Science Review ; vol. 68: 951-72.
+
+--- (1974b): Rejoinder to "Comment" by Jack Citrin: Political Discontent or Ritualism? American
+
+Political Science Review ; vol. 68: 989-1001.
+
+Miller, Arthur H./Listhaug, Ola (1999): Political performance and institutional trust. in: Norris,
+
+Pippa (ed.): Critical citizens. Global support for democratic government. . Oxford: Oxford University Press: 204-216
+
+Mishler, William/Rose, Richard (2001a): What Are the Origins of Political Trust? Testing
+
+Institutional and Cultural Theories in Post-communist Societies. Comparative Political Studies; vol. 34: 30-62.
+
+Nannestad, Peter (2008): What have we learned about generalized trust, if anything? Annual
+
+Review of Political Science; vol. 11: 413-436.
+
+Newton, Kenneth (2006): Political support: Social capital, civil society and political and economic
+
+performance. Political Studies; vol. 54: 846-864.
+
+--- (1999): Social and political trust in established democracies. in: Norris, Pippa (ed.): Critical
+
+citizens: global support for democratic government. New York/Oxford: Oxford University
+
+32
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Press: 169-187
+
+Norris, Pippa (1996): Does Television erode social capital? A Reply to Putnam. PS: Political
+
+Science and Politics; vol. 29: 474-480.
+
+--- (1999b): Institutional explanations for political support. in: Norris, Pippa (ed.): Critical citizens.
+
+Global support for democratic government. Oxford: Oxford University Press: 217-235
+
+Patterson, Thomas E. (1993): Out of Order. New York: Free Press.
+
+Paxton, Pamela (1999): Is Social Capital Declining in the United States? A Multiple Indicator
+
+Assessment. American Journal of Sociology; vol. 105: 88-127.
+
+Pharr, Susan J. (2000): Official’s Misconduct and public Distrust: Japan and the trilateral
+
+democracies. in: Pharr, Susan J./Putnam, Robert D. (eds.) : Disaffected democracies: What's troubling the trilateral countries? Princeton: Princeton University Press: 173-201
+
+Pharr, Susan J./Putnam, Robert D. (eds.) (2000): Disaffected Democracies. What's troubling the
+
+Trilateral Countries? Princeton: Princeton University Press.
+
+Putnam, Robert D. (2000): Bowling alone. The collapse and revival of American community. New
+
+York: Simon&Schuster.
+
+--- (1993): Making democracy work: civic traditions in modern Italy. Princeton: Princeton
+
+University Press.
+
+--- (1995b): Tuning in, tuning out: The strange disappearance of social capital in America. PS:
+
+Political Science and Politics ; vol. 28: 664-683.
+
+Rosenberg, Morris (1956): Misanthropy and political ideology. American Sociological Review; vol.
+
+21: 690–695.
+
+Rothstein, Bo/Stolle, Dietlind (2002): How Political Institutions Create and Destroy Social Capital:
+
+An Institutional Theory of Generalized Trust. Paper prepared for the 98th Meeting of the American Political Science Association in Boston, MA, August 29-September 2, 2002.
+
+Rothstein, Bo/Uslaner, Eric M. (2005): All for all. Equality, Corruption, and Social Trust. World
+
+Politics; vol. 58: 41–72.
+
+Segatti, Paolo (2008): Why are political institutions less trustworthy than order institutions? An
+
+exploration across European countries 1999-2005. Milano: Dipartimento di Studi Sociali e Politici; Universitŕ degli Studi di Milano: Working Paper 2/08.
+
+Snijders, Thomas A./Bosker, Roelof J. (1999): Multilevel analysis: an introduction to basic and
+
+advanced multilevel modeling. London: Sage.
+
+Steenbergen, Marco R./Jones, Bradford S. (2002): Modeling multilevel data structures. American
+
+Journal of Political Science; vol. 46: 218-237.
+
+Theiss-Morse, Elizabeth/ Hibbing, John. R. (2005): Citizenship and civic engagement. Annual
+
+Review of Political Science; vol. 8: 227-249.
+
+Tyler, Tom R. (1990): Why people obey the law. New Haven: Yale University Press.
+
+Uslaner, Eric M. (2008): The foundations of trust: macro and micro. Cambridge Journal of
+
+33
+
+Electronic copy available at: https://ssrn.com/abstract=1585759
+
+Economics; vol. 32: 289-294.
+
+--- (2002): The Moral Foundations of Trust. New York/Cambridge: Cambridge University Press.
+
+Uslaner, Eric M./Brown, Mitchell (2003): Inequality, trust, and civic engagement. American
+
+Politics Research; vol. 31: 1-28.
+
+Warren, Mark E. (2000): Democracy and Association. Princeton: Princeton University Press.
+
+--- (1999b): Introduction. in: Warren, Mark E. (ed.): Democracy and Trust. Cambridge: Cambridge
+
+University Press: 1-21
+
+Zmerli, Sonja/Newton, Kenneth (2008): Social Trust and Attitudes Toward Democracy. Public
+
+Opinion Quarterly; vol. 72: 706-724.
+
+Zmerli, Sonja/Newton, Kenneth/Montero, José Ramón (2007): Trust in people, confidence in
+
+political institutions, and satisfaction with democracy. in: van Deth, Jan W./Montero, José Ramón/Westholm, Anders (ed.): Citizenship and Involvement among the Populations of European Democracies. A Comparative Analysis. London: Routledge: 35-65
+
+34
+
+Electronic copy available at: https://ssrn.com/abstract=1585759

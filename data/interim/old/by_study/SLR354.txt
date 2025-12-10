@@ -1,0 +1,2173 @@
+Understanding Parliamentary Trust in Italy
+
+Between 2008-2012
+
+Sebastian Pinstrup Jørgensen
+
+Cristian Andres Castro
+
+Sungpyo Hong
+
+Nayara Helena Tambosi
+
+Introduction 3
+
+Methodology 5 Ontology 5 Research Design 6 Introduction - state of the art 6 Data Collection 8 Delimitations and Limitations 9
+
+Theory Chapter 11 Parliamentary trust 11 Trust 11 Parliamentary trust 11 Eurobarometer: Sample and fieldwork data collection 12 Sampling 12 Interview 13 Operationalisation of the concept 13 Mediterranean Social Model 14
+
+Literature review 19 State of the art 19 Division of power 2008 in Italy 19 Determinants of political and parliamentary trust. 20 Italian Historical review until 2008 23 Parliamentary history 23 Economic Crisis 27 Corruption 28
+
+Analysis 30 Content Analysis 30 Document Analysis 33 New parliamentary election 34 Italy declared to be in Recession 34 A new Government - Berlusconi 35
+
+Conclusion 38
+
+2
+
+Introduction
+
+Many countries, particularly in Europe, are losing trust in established politicians and that
+
+is why it is very relevant to do research into the consequences of a lack of trust. Mistrust is a
+
+slippery concept which suggests very different things to different people. Social scientists are not
+
+in agreement on the definition of mistrust, nor on what might be undermining it. Yet according to
+
+Brosius, Erika and Vreese (2018) most people would agree that some kind of trust in the political
+
+process is essential to a stable and prosperous society.
+
+Our project is trying to find out how public trust in the parliament can effects society.
+
+Trust in institutions is an important component of democratic societies, as it is essential for the
+
+smooth operations of all interactions between governmental institutions and citizens. (Delhey
+
+and Newton, 2003) ​Based on the Tripartition of power, the most fundamental institutions of state
+
+are Parliament (legislative), Government (executive) and Judiciary. (Montesquieu, 1748)
+
+Parliament is a decision-making body that plays a key role in a democratic society. From
+
+legislation to policy and the national budget, they become representatives of citizens and
+
+represent their positions. Trust in parliament reduces the overall cost of national governance and
+
+increases efficiency. Therefore, Parliament itself and trust in it, are an indispensable component
+
+of democracy. (Soren Holmberg et al, 2017). For that reason the institution which this project
+
+will focus on, is this key actor of democracy: the parliament.
+
+The recession in 2007/8 spurred on a deep downturn in parliamentary trust in many EU
+
+countries, especially countries from southern Europe such as Spain and Greece were hit hard.
+
+(Felix Roth, Sep 2015) These are countries which are often compared to Italy since they are
+
+regional neighbours, and some would say they share the Mediterranean social model. (André
+
+Sapir, 2006). Yet from 2008 to 2012 Italy parliamentary trust did not fall like other EU countries.
+
+Actually they had a slight upturn in parliamentary trust between 2008 till 2010. (Felix Roth, Sep
+
+2015). This makes the specifics of italian case very interesting, how come they did not
+
+3
+
+experience the same downturn in that time period? This is why this research will focus on the
+
+time period spanning from the economic crisis 2007/2008 until 2012.
+
+Italy has long been one of the EU countries with the lowest parliamentary trust, and
+
+maybe not coincidentally also with a very low satisfaction in democracy. (Oecd insights, 1. Feb
+
+2018). This makes Italy an interesting case for this project. There are also several recent political
+
+choices on the international stage such as Italy choosing to join the silk road as the first G7
+
+nation (BBC, 23 of March 2019) and internal politics, the fact that Italy has just chosen to reduce
+
+the number of elected lawmakers by hundreds (Reuters Oct 8, 2019). All of these factors makes
+
+parliamentary trust in Italy a very interesting case to research.
+
+This project will through the ontology of constructivism look at how the citizens relation
+
+with the parliament could have changed in those years, and try to answer the question:
+
+“How has parliamentary trust been effected in Italy after the financial recession in 2007/08 till
+
+2012?”
+
+The way this research will try to answer this question is first through a literature review,
+
+which will have the goal to understand which relations are important when understanding
+
+parliamentary trust, and also to understand what is important when understanding Italy in regard
+
+to parliamentary trust. After that a content analysis of relevant factors will be made, simply
+
+trying to find which factors correlate with the 2008-2010 surge in parliamentary trust, and then a
+
+document analysis/exploratory analysis trying to find which events could be related to the
+
+changes in parliamentary trust, and which events best explain the differences. In the end a
+
+conclusion will sum up our findings and show which further research is needed.
+
+4
+
+Methodology
+
+Ontology
+
+In order to establish from which point of view we will approach and research in this
+
+project, we will do it from an empirical realism view of facts and reality (Bryman, 2012 pp
+
+28-31). We are going to do it in this specific way because we choose to work upon cause-effect
+
+ideas, particularly related to the causes of a specific reaction to the levels of parliamentary trust
+
+from italian citizens between 2008 and 2012. Therefore we choose to work with the idea that
+
+trust in the institutions in general and the possible causes for producing it, are able to analyse and
+
+measure as facts.
+
+This approach means that we will work assuming that the truth exists, and doesn't change
+
+regarding who and how observes it. In addition to this, from this approach is expected to work
+
+as the measurements are objective, and the expectation is to collect the information as accurate as
+
+possible to what is out there in ‘the reality’. With all of this, it should be possible to be able to
+
+generalize any kind of founding we will make here, because it should not be strongly effected by
+
+this particular researchers. (Bryman, 2012 pp 28-31)
+
+On the scale from objectivism to constructionism our project can be said to be
+
+constructivist. This means that our ontology does not see cultures and institutions as being the
+
+most important factor, or the “actor” that sets constraints which the social actors internalize. We
+
+see social actors, such as citizens, as being active actors who create and recreate the culture and
+
+institutions which they are a part of, in accordance with the writings of Bryman. (2016, pp
+
+28-29). In actuality this means for our project that we are looking at the individuals, meaning in
+
+this project the citizens, and not the culture in itself to understand what has effected
+
+parliamentary trust.
+
+5
+
+Research Design
+
+Introduction - state of the art
+
+Bryman (2016, p 60) describes a case study as being focused on a single ‘thing’. In our
+
+case the basis of our case study started with being “how and why has parliamentary trust fallen in
+
+Italy?” and as a possible helping question “And how has it effected Italy?”. During our research
+
+we found that this was too wide, and we specified it a lot during our research, so it ended up
+
+being “​How has parliamentary trust been effected in Italy after the financial recession in
+
+2007/08 till 2012”
+
+As can be noticed by our starting point being completely devoid of base assumptions, we
+
+simply see that there is a consensus, on the fact that trust to the parliament was mostly falling in
+
+Italy after the financial crisis. This means that we do not base our project as so many others on a
+
+grand theory, but instead we found minor theories/concepts which are relevant to our research
+
+through or literature review to analyse and understand our specific findings. The problem with
+
+this is; that we can be accused of choosing the theories which supports our hypothesis. As an
+
+answer to this situation, we must say that the review of the literature and concepts in this project,
+
+has been made in alignment with the facts our literature review has uncovered, and based on
+
+general agreement in the literature, and that any choices made based on less than complete
+
+agreement in the literature always are described and critically examined.
+
+One of the first findings from our state of the art was the fact that through a thorough
+
+review, parliamentary trust is not simply falling but there is a small surge in Italy shortly after the
+
+financial crisis. This is interesting because we found that in most countries in the EU this trust
+
+has been falling. We therefore choose to do a short comparison with Italy and countries which
+
+the literature told us should be economically and socially alike, to understand if it was something
+
+that only existed in Italy. This was where we found the Mediterranean social model, and did a
+
+short comparison to see if the surge in parliamentary trust really is an outlier for italy, or it might
+
+6
+
+be something to do with the social model. Since we found that this surge is a special thing for
+
+Italy, and not for the social model, and since we could not find any research that explained this
+
+outlier. This period of time and the surge in parliamentary trust became the focus of our research.
+
+We choose to do an analysis of which factors could be the reason for this surge, all the
+
+factors that the state of the art told us should be able to effects parliamentary trust short term.
+
+Through this analysis we found that there seem to be an inverse relation between parliamentary
+
+trust and perception of corruption. This is the opposite of the direct causal relation our state of
+
+the art had told there should be. Therefore this specific case seemed even more interesting.
+
+We therefore decided to look for a possible intervening variable. If it is expected that the
+
+two should have a direct causal link, what could then shortly reverse the relation. We therefore
+
+started an analysis of specific events in Italy, which has happened around the time of the
+
+inversion of the relation, and we found that there are several events which possibly could explain
+
+the inversion of the relation. We therefore started an analysis of specific events in Italy, which
+
+has happened around the time of the inversion of the relation, and we found that there are several
+
+events which possibly could explain this particular behaviour from in Italy.
+
+This project will analyse the graphs that Diego and Guilem (2016) has made, based on
+
+Eurobarometer data and compare that with different raw data from World Bank and
+
+Transparency International. The first graph in Appendix A shows parliamentary trust in Italy,
+
+Portugal, Spain and Greece. It is relevant to show all four because we have found these four
+
+countries are comparable, since they have the Mediterranean social model (see theory section).
+
+The first part of our analysis, will be an analysis of the parliamentary trust in the four countries
+
+compared with data from the three factors which should influence parliamentary trust in short
+
+term, unemployment, government debt and perception of corruption. We do this to show that
+
+even the countries that are the most like Italy does not have the surge in parliamentary trust right
+
+after the financial crisis, and therefore the surge in Italy must be an outlier.
+
+7
+
+After our first analysis found that the most correlative factor in parliamentary trust in
+
+Italy seems to be perception of corruption, and since we found an inverse relation for several
+
+years instead of the expected correlation, we choose to do an exploratory analysis to find
+
+possible intervening variables which could facilitate this unexpected relation. This exploratory
+
+analysis will start from looking at a timeline made by BBC (7 February 2019) of events in Italy.
+
+The goal of that is to find out if a specific event could have been the cause of the increase in
+
+parliamentary trust, and decrease in perception of corruption right after the 2007/2008 financial
+
+crisis.
+
+Data Collection
+
+There are several factors which should be mentioned about the choices made regarding
+
+the data in our analysis. First the choice of BBC timeline could at first glance seem invalid. Any
+
+analysis is no better than the sources used, and one has to be careful when using sources from
+
+what is basically a media firm, which in spite of its good reputation is not held to academic
+
+objectivity. On the other hand our goal is exactly to understand which stories the Italian people
+
+have been exposed to during this exact period of time. Where better to find that, than from a
+
+broadcasting company itself. Since parliamentary trust is a question of perception, and
+
+perception is shaped by the media, it makes perfect sense to use this source. There will always be
+
+a risk, that the events chosen by the BBC might be the events which effects their readers more
+
+than the average Italian, which could hurt the objectivity of the whole project, but in lack of a
+
+perfect objective source BBC timeline can help show us which events happened at the same time
+
+as the surge in parliamentary trust in Italy, as we deemed British broadcasting corporation to be a
+
+reputable reliable source.
+
+Second the choice of quantitative data point from the World Bank and Transparency
+
+International was more simple. We used the most reputable sources we could find and both have
+
+a track record, and methods that makes them a very solid foundation of research, the most
+
+important data on parliamentary trust has been reviewed as a concept in our theory section.
+
+8
+
+Delimitations and Limitations
+
+It is important for the purpose of this project, to consider the boundaries that we will find
+
+in our research, the different delimitations and limitations.
+
+The first one is that any of the participants of this project either speak or understand Italian,
+
+which means that all the literature and data collected will be from English material only. Here is
+
+a clear limitation because as we have shown, this will be a case study research about Italy, so in
+
+order to go deeper into the best possible way, it seems relevant to have the chance to study the
+
+different materials made by themselves, in their own language. Even if this could have opened
+
+more data and local point of views, working on an English based material is still important and
+
+useful, mainly because there are several Italian and foreign knowledge made in English.
+
+Another one is the limitation of the concept of trust. This is a broad topic analysed in a
+
+broad perspective and research areas, from psychology to political analysis. It is for this reason
+
+that we choose a specific frame of what we will understand for trust, leaving outside other
+
+definitions and approaches to this concept. As we will describe in the theory chapter, the
+
+measurements of trust here will be related with the one used by the Eurobarometer survey, where
+
+they ask themselves to the participants of the survey if they tend to trust or not to the different
+
+institutions. On top of this view point, we choose to use the definition of Van de Meer (2010)
+
+that sees the trust in institutions as something mainly related with the perception of how
+
+competent they see the parliament in this case.
+
+The second delimitation that we can see in this project is that the period of analysis. We
+
+won’t work in a longitudinal view of the behavior of parliamentary trust in Italy, which could
+
+have provided a wider analysis. In a more specific way, we will discuss a short period of their
+
+history, from 2008 to 2012, the years right after the economic crisis. Even if it could have
+
+brought more information to explore a longer period, seems relevant to focus on a particular
+
+period where we found in the literature review, was a different behaviour in Italy than their
+
+neighbours, where they behaved in a similar way between themselves. Those are the other
+
+Southern European countries that shares the Mediterranean social model (Spain, Greece and
+
+9
+
+Portugal) as we choose to consider part of the same system sharing this view point from several
+
+authors that will be shown in the theoretical chapter as well.
+
+A third delimitation is the fact that we use central government debt in our content
+
+analysis. Local government debt can have an equally large effect on parliamentary trust, and this
+
+is not a factor which this project have accounted for.
+
+A fourth delimitation is our choice of GDP number. The reason for our numbers of GDP
+
+fluctuation a lot is not just the economic crisis, but the fact that it is not measured in PPP, which
+
+means the exchange rate from euro to the dollars in which it is measured matters to the result.
+
+10
+
+Theory Chapter
+
+Parliamentary trust
+
+Parliamentary trust will be defined in this project from two different and complementary
+
+authors, where one is attempting to talk about trust in general, and the second one connecting the
+
+concept of trust with institutions like the Parliament, specifically around the concept of
+
+competent​. The first one is made by Kasperson et al. (1992), and the second one byVan der Meer
+
+(2010).
+
+Trust
+
+One definition of trust in relation to this project is the one established by Kasperson et
+
+al’s in 1992. They see the concept of trust as a multidimensional one, which includes: emotional,
+
+cognitive and behaviour dimensions. These areas at the same time, are involved with the
+
+expectations about others, awareness of taking risks and the subjective perceptions of situations.
+
+In addition to what has already been said, this author talks about “Four key dimensions of trust”:
+
+perceptions of commitment, competence, caring, and predictability” (​Kasperson et al.’s, 1992).
+
+Parliamentary trust
+
+In order to find a more precise definition of parliamentary trust specifically, it seems
+
+relevant to quote Van der Meer (2010). These authors recognize the four dimensions of trust
+
+made by Kasperson et al’s (1992) as a relevant definition, but mainly to frame it in the
+
+relationship between persons. In order to talk about trust in national institutions, it needs to be
+
+developed: Parliaments may be judged to be competent when the policy output is successful
+
+socially, economically and/or politically. Which means in the eyes of this author, the main
+
+change is related to the concept of seeing it as a competent institution. In this area, the trust to the
+
+institution may be considered committed when they are supported by a larger share of the
+
+11
+
+electorate. Parliamentary behaviour may be encouraged when citizens are able to dismiss
+
+politicians who do not function well.” (Van der Meer, 2010)
+
+Eurobarometer: Sample and fieldwork data collection
+
+In order to better understand how we are going to use the concept of ​Parliamentary trust,
+
+it is important to talk about the Eurobarometer. In terms of this project, this survey and their data
+
+collection, will be the main guide to make our statements and analysis. In the next part it will be
+
+explained how they collect the data and understand the concept of trust. (Eurobarometer, 2019)
+
+Sampling
+
+In each wave the Eurobarometer Survey starts collecting data, the samples used are
+
+different and independent every time. The design of the sampling as they call it, in all the
+
+countries is a ​multi-stage, random ​(probability) one. First, they make stratification according to
+
+the distribution of the national, resident population. This is done taking in consideration the
+
+metropolitans, urban and rural areas, and proportional to the population size and density. After
+
+this process, the survey uses random selection of this samples, calling them ​primary sampling
+
+units ​(PSU). They have to be selected from each of the administrative regions in the different
+
+countries. (Eurobarometer, 2019)
+
+After this mechanism starts the process of the second stage where a cluster of places
+
+(addresses) are selected from the Primary Sampling Units (PSU) that were randomly chosen to
+
+be part of the sample. This happens in a systematically procedure, which starts with an initial
+
+address selected in a random procedure. In each household a respondent is chosen, again in a
+
+random way which could be for example, the birthday method. The people who are trying to
+
+obtain the information from the respondent, should try to reach him/her in no more than two
+
+opportunities and conduct no more than one interview per household. This could differ in special
+
+target groups or oversamples, for example, with a quota sampling. (Eurobarometer, 2019)
+
+12
+
+Interview
+
+Specifically the moment of collecting data, is made by an interview either in special or
+
+standard topics. For this particular survey, the questions are conducted in a face to face
+
+procedure in the respondents homes using a specific system, the Computer Assisted Personal
+
+Interview (CAPI), which has been used at least from the Eurobarometer 62 in the countries
+
+where this technique was able to be used. (Eurobarometer, 2019)
+
+As the main question in this project is related with the people levels of trust in general but
+
+specifically about the parliament, is relevant to consider which question is made by the
+
+Eurobarometer to collect the data of this specific topic: ​“I would like to ask you a question about
+
+how much trust you have in certain institutions. For each of the following institutions, please tell
+
+me if you ​tend to trust it or tend not to trust it.​”​ ​(Eurobarometer, 2019).
+
+Operationalisation of the concept
+
+After showing how it will be understood in this project the concept of political trust and
+
+where and how the data is collected by the Survey we will use (Eurobarometer), since it is
+
+relevant to see how this particular point of view will effect our statements.
+
+The main idea is that the concept of trust in institutions, and particularly in the parliament, is
+
+related with the idea of how competent it is seen from the citizens. Therefore, it will be
+
+connected with the main factors that seems to effect political trust. According to Diego and
+
+Guilem (2016), political trust in Southern Europe is related with three factors: unemployment
+
+rate, public debt and perception of corruption.
+
+Therefore in this project it will be understood that these factors and what will be shown in
+
+the analysys, will be based on the concept and opinion of how competent (trusted), the
+
+Parliament is seen to be. It is to be expected that research made on a different basis and
+
+definitions will result in different findings. Therefore our choice of concept is important to keep
+
+in mind when one reads our research.
+
+13
+
+Mediterranean Social Model
+
+Mediterranean social model (Greece, Italy, Portugal and Spain), concentrate their social
+
+spending on old-age pensions and allow for a high segmentation of entitlements and status. Their
+
+social welfare systems generally draw on protecting employment and early retirement provisions
+
+to exempt portions of the working age population from taking part in the labour market. The
+
+wage structure is, at least in the formal sector, covered by collective bargaining and strongly
+
+compressed (​Sapir, André, 2006​).
+
+In southern Europe and Mediterranean countries, there are sometimes mentioned more
+
+countries such as Cyprus and Malta. This paper, however, was mainly inspired by the social
+
+model classification of Sapir, André. (2006) and the paper of Muro and Vidal (2016) which is
+
+concerning trust in institutions of southern European countries in the context of the economic
+
+crisis. Both papers limit the country to Greece, Italy, Portugal and Spain. The four countries are
+
+also called PIIGS, which includes Ireland when it comes to the countries with severe hit by
+
+Eurozone crisis (Petropoulos, N., & Tsobanoglou, G. O., 2014). Therefore, these countries
+
+appeared in common in a number of studies of southern Europe. (Gunther R, Diamondouros PN,
+
+& Sotiropoulos DA, 2006), (Hadjimichalis, C, 2018), (Rosefielde, S., Kuboniwa, M., &
+
+Mizobata, S., 2013). The search for data concerning other countries was also very limited.
+
+Therefore, the Mediterranean countries or southern European countries mentioned in this paper
+
+are limited to Greece, Italy, Portugal and Spain.
+
+First the Mediterranean countries started from similar circumstances. The southern
+
+European countries had similar historical situations when the Southern European social model
+
+was formed. After the influence of Napoleon in the 19th century, each country showed a strong
+
+concentration of power in the center. Italy was worried that the provinces that recently united
+
+would be separated, Spain had control over regionalism arising from left-wing and right-wing
+
+extremism, Greece had a long struggle for independence against the Ottoman Empire and
+
+Portugal had a rivalry between Porto and Lisbon. The emergency situation in the four countries
+
+14
+
+strengthened centralized tendencies, which soon became the backdrop for the emergence of
+
+dictatorships in the 20th century. Entering the 20th century, each country was seen exercising
+
+physical authority, such as police action and martial law, for the benefit of the socioeconomic
+
+elite. As a result, social integration of the poor has failed (Gunther R, Diamondouros PN, &
+
+Sotiropoulos DA, 2006).
+
+On the economic front, the policy was based on interventionism. Government-led
+
+economic development and state-run companies have prevented the market mechanism while
+
+protecting economic elite. In Italy, Spain and Portugal, corporate protectionism prevailed and
+
+formed favorable regulations, labor market conditions (Gunther R, Diamondouros PN, &
+
+Sotiropoulos DA, 2006). The economic crisis of 2007/08 had different levels of consequences
+
+among the EU countries. But seems more relevant to analyse the specific case of Italy, because
+
+of the particular characteristic of this country and their political world, and the recent
+
+development of the parliamentary democracy in the country. (Marangoni and Verzichelli, 2014)
+
+It is not hard to say that the political system in Italy was strongly effected after the
+
+economic crisis. Contrary to the reality of many other countries, the main decisions in Italy about
+
+how to confront the crisis, were made by a non electorally legitimate government. The ones in
+
+position to take the different actions, were the new ‘technocratic’ government, the executive led
+
+by Mario Monti and a broad coalition of parliamentary parties. Therefore is possible to say that
+
+the ‘inclusion’ of the opposition in this new technocratic government is the more remarkable
+
+consequence of the economic crisis in the country. (Marangoni and Verzichelli, 2014).
+
+This new coalition could be seen as a type of government that aims to include and collect
+
+different points of view, but on the contrary, it wasn ́t so much about cooperation. Actually was
+
+more related with the idea of a transitional process which involved the dismantling of the
+
+previous parliamentary model. This turn in the way of ruling the country seems relevant in all the
+
+decisions made by this country to cope with the crisis. This is another reason to analyse how the
+
+crisis effected the country, where the system of parliamentary model changed to a new one full
+
+of uncertainty. (Marangoni and Verzichelli, 2014).
+
+15
+
+As has been said, the economic crisis in Italy changed the way of understanding the
+
+political world, where the italian had finally thought that a long period of unclear and
+
+disorganized politics, had ended. But this switch from the parliamentary model to a more
+
+increasing ‘presidential’ one, resulted as the opposite of clarity and inclusion, even seen as a
+
+more authoritative regime. This consequences, goes actually in a more deep and regular way than
+
+is easy to see, they actually effected the day to day life of italian during this period. (Marangoni
+
+and Verzichelli, 2014)
+
+The Southern European countries showed similar characteristics when it came to
+
+government providing jobs, which was best for middle-class people who were educated but had
+
+no assets. As a result, the post-office system of giving employment to public offices or
+
+institutions was open to the public in return for political sponsorship. This trend did not
+
+disappear in southern Europe and increased even though it was in the 20th century. National
+
+institutions did not have the capacity to satisfy citizens, and political patronage and clientelism
+
+prevailed. Unbalance and instability due to power and manpower biased in certain departments
+
+were also a problem (Gunther R, Diamondouros PN, & Sotiropoulos DA, 2006).
+
+Both Southern European social models had dictatorships until the 20th century and were
+
+not interested in welfare programs such as social security and social insurance compared to
+
+northern or central Europe. Interest in inequality resolution and redistribution began relatively
+
+late. Italy was the fastest democratized of the four countries and was the first to join the
+
+European Community. At this time, already Italy's social security system had developed like a
+
+model in Northern and Western Europe. Spain and Portugal ended their dictatorships 30 years
+
+later and joined the EU, followed by Greece. As a result, they met the preconditions for reducing
+
+government debt, and implemented various social policies under the EU policy (Gunther R,
+
+Diamondouros PN, & Sotiropoulos DA, 2006).
+
+Economic development in southern Europe in the 1980s has the following in common:
+
+The rural areas combined agriculture with small businesses and tourism at the family level to
+
+make progress. In manufacturing, the home country's working population decreased and the
+
+number of immigrants increased. Political patronage and clientelism which was mentioned
+
+16
+
+before still existed, and with disproportionate development among regions, we chose inflation
+
+economic policy. In the '90s, mergers and acquisitions of specific areas of large and foreign
+
+capital followed (Hadjimichalis, C, 2018).
+
+The success of the neo-liberal system and entry into the eurozone has been a major
+
+challenge for less competitive companies that could have survived under government
+
+intervention. The economic situation in southern Europe, which had been unprepared, worsened.
+
+(Hadjimichalis, C, 2018).
+
+In sum, similar historical backgrounds and social situations in the four countries and the
+
+process of economic opening by capitalism and neoliberalism resulted in common structural and
+
+social problems appearing in the following paragraphs.
+
+Common problems for southern European countries are the high unemployment,
+
+women's economic participation below the EU average, low social mobility, persistent or worse
+
+imbalance between regions, and a higher probability of corporate closures. (Rossi, U. 2012) In
+
+this context, countries have experienced two political crises due to the global economic crisis and
+
+government policies. In return for financial aid from Troika, austerity was implemented and the
+
+role of the state in the economy was reduced. The originally high unemployment rate has risen
+
+again, and attempts to maintain the euro's dollar index have adversely effected primary and
+
+secondary industries. That has led to a decline in both economic activity and consumption.
+
+Income inequality, social unrest and weakening of public institutions have made southern
+
+European countries challenged by democratic legitimacy. (Zamora-Kapoor, A, & Collier, X,
+
+2014)
+
+As shown Southern European countries have some common ground to connect with each
+
+other in terms of historical trends and social models ​(​Sapir, André, 2006​), (Gunther R,
+
+Diamondouros PN, & Sotiropoulos DA, 2006), (Hadjimichalis, C, 2018) and are the countries hit
+
+hard by the global economic crisis and the ensuing eurozone debt crisis. (​Petropoulos, N., &
+
+Tsobanoglou, G. O., 2014). In this paper, we try to find out why Italy's trust in parliament among
+
+17
+
+the four countries with these similarities has shown different aspects and what factors have
+
+influence to them.
+
+18
+
+Literature review
+
+This literature review include first a part called state of the art where we will go through
+
+our findings on causal relations of parliamentary trust, and relevant facts about italy. In the
+
+second part called Italian historical review until 2008, we will try to go through the latest most
+
+relevant events and history of italy in relation to parliamentary trust, since nothing happens in a
+
+vacuum, and understanding which historical events goes before, this will be a key to unlocking
+
+an understanding of what happened in the years, which we are trying to understand 2008-2012.
+
+State of the art
+
+Division of power 2008 in Italy
+
+In italy the people vote on 4 different levels: municipal, regional, provincial and national.
+
+These local parliaments has a lot of influence on local laws, and at times also national functions,
+
+such as choice of president. There also exist different degrees of autonomy in the local
+
+governments (Britannica, Last Updated: nov 6, 2019). The italian parliamentary system is in
+
+general very influenced by the US bicameral system. It has a completely proportional system in
+
+the chamber of deputies and a close to proportional system in the senate. It has to be noted that in
+
+the senate the minimum voting age is 25 unlike many european countries and the chamber of
+
+deputies where it is 18 (Britannica, Last Updated: nov 6, 2019). Another feature that the italian
+
+parliament has like the US is standing committees which means that the parliament itself does
+
+not vote on all matters, at times only standing committees votes. This also means that the
+
+government agenda setting power is limited, since the committees has the ability to suggest and
+
+interfere; standing committees could also decrease the accountability of members of parliament
+
+(Britannica, Last Updated:Nov 6, 2019). In general the italian national parliamentary system has
+
+a lot of influence on other branches of government. They choose the president together with
+
+19
+
+regional representatives and they choose a third of the judges of the constitutional court
+
+(Britannica, Last Updated:Nov 6, 2019).
+
+Finally in italy as so many other places the parliament has to approve the budget, but in
+
+italy the parliament does not have the right to know the budget details of many public bodies
+
+giving the executive unchecked decision power on these matters (Britannica, Last Updated:Nov
+
+6, 2019).
+
+Determinants of political and parliamentary trust.
+
+For this paper, we tried to find determinants of political and parliamentary trust. There
+
+are several factors which have an effect on both of trust. There were other factors that were
+
+totally different from the general expectation, and there were conflicting results for each paper.
+
+This chapter will introduce you to the determinants found.
+
+The first factor is corruption. In all its studies, corruption has been found to have a
+
+significant causal relationship with parliamentary trust and political trust (Van der Meer, T.,
+
+2010), (Van der Meer, T., & Hakhverdian, A., 2017), and (Diego Muro & Guillem Vidal 2017).
+
+Van der meer (2010) study found that corruption has a negative and lasting effect on
+
+parliamentary trust, and that people with higher levels of education are more effected by it
+
+because they have greater understanding and awareness of corruption. Subsequent studies also
+
+showed negative effects of corruption as well. (Van der Meer, T., & Hakhverdian, A., 2017). The
+
+paper of Diego Muro & Guillem Vidal (2017) further narrowed the subject of the study and set it
+
+up as four countries in southern Europe, Greece, Italy, Portugal and Spain to explore the decisive
+
+factors effecting political trust. In this study, corruption was also judged to have an adverse
+
+effect on political trust. In sum, the effect of corruption is negative for trust and more effective
+
+for the higher educated people.
+
+The following are indicators of the country's economic performance. First, the study by
+
+Van der meer (2010) found that objective economic indicators do not have a significant impact
+
+on confidence in Congress. Rather than objective performance, it is associated with subjective
+
+20
+
+perceptions resulting from the feelings of citizens, such as individual income levels. And in
+
+subsequent studies, macroeconomic performance was uneffected by the well-controlled
+
+circumstances of the above-mentioned elements of corruption, but it was correlated with trust in
+
+Congress to those who had high levels of education enough to recognize economic performance.
+
+(Van der Meer, T., & Hakhverdian, A., 2017). The study of southern Europe yielded slightly
+
+different results, though on large stems it was the same. The macroeconomic indicators of
+
+unemployment and public debt turned out to be important factors in political trust. Real
+
+economic performance is not significant, but rather unemployment and public debt allow citizens
+
+to feel directly what the national economy is like and form subjective perceptions of the
+
+economy. (Diego Muro & Guillem Vidal 2017). Combining the above three studies, all practical
+
+economic achievements do not effect trust in parliament, political confidence, and subjective
+
+perceptions felt in different views and circumstances of each person are more important.
+
+However, in the research of DiPietro, W. (2013), the opposite result came out. Objective
+
+economic performance, especially the standard of living, economic growth and proper spending
+
+of government is important for political trust.
+
+According to Cristina Leston-Bandeira (2012) parliament is at the center of politics, and
+
+citizens can easily observe institutions through advanced information and communication
+
+technologies, and parliament strives to enhance its visibility through tools such as social network
+
+services. Parliament is also a political bridge between citizens and the government and a
+
+mediator. (Cristina Leston-Bandeira, 2012)
+
+As described earlier, the acts of Parliament itself does not necessarily play a decisive role
+
+in confidence in Parliament. Rather, external factors, such as corruption, citizens' subjective
+
+perceptions of economic performance, have greater influence on trust. Given the characteristics
+
+of parliament, which cannot represent every individual's value or interest, it is impossible for
+
+parliament to give any voter a lasting political satisfaction. Finally, the main challenge to address
+
+in the relationship between parliament and citizens is that they feel distanced from parliament.
+
+To enhance the trust in parliament and its citizens, it is important to first establish a relationship
+
+in which citizens can feel no stranger to parliament. (Cristina Leston-Bandeira, 2012)
+
+21
+
+In Italy, constituency services are not considered an important task for parliament.
+
+Members of parliament which are trying to communicate directly through the electronic
+
+communication is the minority. Italian citizens have used petitions and public legislation
+
+policies, but no changes have been made without the political backing of influential figures or
+
+groups. The distance that the general public feels about parliamentary work has not diminished
+
+since the early 90s. In the case of government, its utility is increasing, but parliament has failed
+
+to show a new face. Citizens see parliament as a speculation ground for selfish politicians. Many
+
+politicians in Italy are using public resources for personal gain, being criticized by the media and
+
+focusing on surviving rather than being responsible or acting for reform. The relationship
+
+between Italy's parliament and its citizens is low in trust and very unstable. (Federico Russo &
+
+Luca Verzichelli, 2012)
+
+When it comes to political trust, the role of the media cannot be omitted and there are two
+
+types of online media. Traditional media such as online news articles and social media. In the
+
+former case, it was found to have a positive effect on political trust. The balance is relatively
+
+stable, as they introduce opposition from a positive perspective at the same time, even if negative
+
+reports such as political scandals are reported. But for social media, it is hard to find a positive
+
+message compared to traditional media when delivering negative news, as it contains a lot of
+
+biased information. Thus, distrust continues to continue and, contrary to traditional media, has a
+
+negative impact on political trust. (​Andrea Ceron​, 2015)
+
+After analyzing Italy's content in 2012, Italy has a remarkably high degree of negativity
+
+in social media and delivers content that goes against politics and system. On the other hand,
+
+neutrality is higher than that of social media because traditional media outlets also report the
+
+position of political elite as well as rebuttal on negative issues. These results suggest that online
+
+media and political trust are not causal. but they are likely to effect citizens who get information
+
+from online media. (​Andrea Ceron​, 2015)
+
+Social capital is a very important indicator for how high parliamentary trust is in different
+
+italian regions (Putnam, Leonardi and Nanetti 1993). Even though the relation between
+
+parliamentary trust and social capital can is not uniformly agreed to have a causal relation, (Mark
+
+22
+
+Hooghe and Dietlind Stolle, 2003) the correlation is very strong in Italy, very likely because of
+
+its history. In Italy there is a division which is based on the different civic traditions of the south
+
+and the north of Italy. (Putnam, Leonardi and Nanetti 1993). These civic traditions have in the
+
+north created strong vertical cooperation, where as it hasn’t in the south. (Putnam, Leonardi and
+
+Nanetti 1993) vertical cooperation through associations and other memberships of groups is the
+
+basis of what social capital is according to most definitions of social capital. (Julia Häuberer
+
+2011) Said in other words social capital is a perfect indicator for how much institutional trust
+
+there will be in a region in italy (Putnam, Leonardi and Nanetti 1993).
+
+There are three more factors related with political trust. Perceived judicial independence
+
+and extent of democracy. Independence of Judiciary has positive effect for political trust and
+
+democracy has a negative effect. Growth of democracy make diffusion of power, which ​increase
+
+the chances of the government falling into a deadlock. Therefore, citizens may feel political
+
+insensibility and skepticism because of democracy. And public trust in politicians become lower.
+
+(DiPietro, W., 2013). Finally, the proportional electoral system has a positive effect on trust in
+
+parliament. ​The proportional electoral system reflects the political preferences of more
+
+individuals than disproportional electoral system, enabling the parliament to represent and care
+
+for the positions of various people.​ (Van der Meer, T., 2010).
+
+Italian Historical review until 2008
+
+Parliamentary history
+
+In order to become the Republic of Italy, by the year of 1946, after the decision of a
+
+referendum in favor of a republic by 54 percent of the votes cast, the royal family was forced to
+
+leave the country for supporting Mussolini during the WWII. Many southerners voted for the
+
+monarchy but the centre and north of the country voted for the republic. There was three largest
+
+parties: the Christian Democrats – the most powerful party among the three, Socialists and
+
+Communists. In 1947 the Cold War began to influence the Italian politics. After a visit to the
+
+USA, the Christian Democratic leader, Alcide De Gasperi, returned with $150 million aid and to
+
+ensure that much-needed US continued, he had excluded the communists and their allies, the
+
+23
+
+Socialists from his government. That decision was made after the US Secretary of the State
+
+George Marshall, threatened that the aid would be cancelled if the Communists and Socialists
+
+came to power. In some areas, Communists supporters started to put into practice a plan for
+
+revolution, taking over tram lines and occupying key communication centres. The Christian
+
+Democrats accused the Communists of preparing a ​coup d’état ​over Italian politics. (Britannica,
+
+last updated: nov 6, 2019)
+
+The main effect of the 1948 elections was the division of the trade union movement, into
+
+three competing federations: the “red” (Communists and Socialists), the “white” (Catholic and
+
+Christian Democratic) and the moderate (Italian Labour Union). The Christian Democrats had
+
+the support of the US military and financial sources, and also they had a strong social and
+
+religious base in northern regions counting on an anti-communist sentiment among the
+
+southerners. In the late 1950’s the Socialist Party broke off its alliance with the Communists and
+
+began to cooperate with the Christian Democrats. (Britannica, last updated: nov 6, 2019)
+
+All the major Italian parties had large memberships recruited from organizations such as
+
+Catholic Action, cooperatives, and trade unions. These organizations often provided tangible
+
+benefits, such as jobs, disability pensions, and cheap holidays to their members. Most parties
+
+were groupings of organized factions, each with its own leaders, deputies, ideological base,
+
+sources of finance, and journals. Within each party – particularly the Christian Democratic Party,
+
+these factions contended for power and for control of lucrative firms and agencies in the public
+
+sector to secure financial backing and jobs for supporters. During the postwar, the Christian
+
+Democratic Party remain in power, but after 1953 they lost their absolute majority in parliament,
+
+that made them pursue coalition partners, what led them to bring the Italian Social Movement
+
+into the coalition, but that made them face mass demonstrations, so they decided to give up that
+
+idea (Britannica, last updated: nov 6, 2019).
+
+During the parliament elections, the voters could select the party and particular
+
+candidates from that selected party. The state sector of the economy and the welfare services
+
+were both expanded after the war, and that made party members or sympathizers got themselves
+
+new jobs, also the parties were financed by state firms or particular factions. In many areas of the
+
+country, especially in the south – at that time it was dominated by the Christian Democratic
+
+24
+
+Party, that made the southerners increase their predominance in governments posts. State
+
+employees received generous benefits and some public pensions that allowed the members
+
+retirement after 20 years of service. This provided a huge drain on public finances, it was a
+
+corrupt system called ‘patryocracy’, which built links between organized crime, political
+
+patronage and government contracts. Under that Mafia-Christian Democratic control, parties and
+
+their clients siphoned amounts of money and resources meant to aid victims of natural disasters.
+
+(Britannica, last updated: nov 6, 2019)
+
+The most postwar change was the land reform, and the major economic problem for that
+
+to happen in the whole Italy, was the relatively underdeveloped south of the country with
+
+massive landlords and the State, on behalf of them, intervened to end the reform. That made
+
+millions of young men and women to migrate to the north. Despite that, there was a special
+
+Southern Development Fund which financed roads, schools, electrification, health services,
+
+water provision and industrial development. The fund spent $20 billion between 1950 and 1980,
+
+but it did not industrialize the southern Italy, the unemployment wages were 40 percent below
+
+the national average. (Britannica, last updated: nov 6, 2019)
+
+In the beginning of the 1960’s Italy had its bigger transformation from a largely agrarian
+
+poor country into one of the most economically and socially advanced countries of the world,
+
+due to some social changes, the birth rates fell sharply after 1964, after 1971 contraceptive
+
+methods became available and by the 1990’s the Italians had one of the lowest birth rates of any
+
+industrial country, with families opting to have only one child and adults remaining single
+
+(Britannica, last updated: nov 6, 2019). Most Italians were now urbanites living in apartments
+
+and the girls in general began going to secondary schools in the 1960’s and by the 1970’s there
+
+was a great amount of female graduates. Those facts brought to Italian citizens a new political
+
+point of view, where the Chriatian Democrats parties has no longer the majority votes.
+
+The Italian economy began to develop during the 1980’s in the central and northeastern
+
+part of the country – collectively known at that time as the ‘third Italy’. Family-run firms, and
+
+fashion industries began to replace traditional businesses in the northern cities (Britannica, last
+
+updated: nov 6, 2019). A key political fact during that time was the diversification of the media
+
+25
+
+at the end of the 1970’s which brought to the lens of the media a dynamic entrepreneur, Silvio
+
+Berlusconi.
+
+Due to Corruptions investigations in the early 1990’s several remaining figures of the
+
+Mafia was arrested in the beginning of 1993 by the authorities. In the late 1990’s a new party
+
+called Forza Italia (Go Italy) led by Silvio Berlusconi – one of the richest in the country, who
+
+was in control of a vast media empire, such as three national commercial television channels,
+
+much of the press, and the highly successful A.C. Milan football club; emerged attaching
+
+continuously the most prominent anti-Mafia judge, Giancarlo Casselli. These attacks resulted in
+
+his wrongful dispossession, in 1999 (Della Porta and Andretta, 2013).
+
+The decline of Italy’s major political parties as a result of corruption scandals of the early
+
+1990’s created a political vacuum, where the citizens had lost their faith in the politicians, and by
+
+1994, the media entrepreneur Berlusconi, came with a political campaign backgrounded by a
+
+populist message of anti-communism. He got the attention of the great public after joining a
+
+federation, called “Northern League”, which had developed in 1992 securing almost 20 percent
+
+of the northern vote in the parliamentary elections.
+
+When Silvio Berlusconi became prime minister, in March 1994 he promised to cut taxes,
+
+low the public spending, decentralize government, and generate a million new jobs. In July 1994
+
+he was in the center of anti-corruption investigations, consequently, in December 1994 the
+
+Northern League ended its alliance with Berlusconi, that was when his government fell. He went
+
+back into the 1996 elections supported by some Catholic parties, at that time the Northern
+
+League was starting to lose ground, once it has not the media power of Berlusconi. Since then
+
+the country has had only weakened centre-left governments; by the end of 1998 until 2000
+
+Massimo D’alema, leader of the Democrats of the Left was the Italian prime minister, when
+
+Giuliano Amato assumed but also fell in 2001. Is important to mention that during those
+
+happenings, a new law regulated television time for all parties, while Berlusconi was the
+
+opposition leader with his centre-right coalition - even though he has a huge media advantage,
+
+that led him back into power beginning prime minister for the second and longest time in recent
+
+history, from 2001 to 2006. He was replaced in the elections of 2006 by Romano Prodi - leader
+
+of the centre-left coalition, but he resigned due to a loose of a vote of confidence in the Senate in
+
+26
+
+2008. During the national elections, in the same year, Berlusconi came up again with a new party
+
+named People of Freedom and settled his third term as prime minister (Britannica, last updated:
+
+nov 6, 2019).
+
+Economic Crisis
+
+In the early stages of the Lehman Brothers crisis and the financial crisis, Italy suffered
+
+little. Italian institutions had relatively small holdings of subprime bonds. But like banks in other
+
+countries, they have joined in increasing liquidity and limiting credit. In fact, the factor that led
+
+to the Italian bank's risk was the creation of an alliance network connecting with Central and
+
+Eastern European countries. There was a good chance that it would collapse. Unicredit, which is
+
+the biggest financial group and bank in Italy, avoided a crisis thanks to government support,
+
+while smaller banks limited credit and raised their collateral Small and medium-sized enterprises
+
+have become more difficult to survive, and people's consumption has also decreased. In the end,
+
+small and medium enterprises resulted in a reduction in profits and costs and a reduction in
+
+full-time employment, with large corporations taking action to internalize processes or
+
+renegotiate prices. In the case of the government, the fiscal deficit was averted due to a drop in
+
+tax revenues and a response to the financial crisis, and public debt increased by a large margin
+
+(Quirico 2010).
+
+In Italy, the 2008 economic crisis did not have a huge impact on finance compared to
+
+other southern European countries. Italy's banks were less developed and less sophisticated, so
+
+they did not deal well with high-risk products such as derivatives. Also, the regulations and
+
+supervision of the authorities were relatively stricter. The effects of the crisis were not direct for
+
+these two reasons. Italy's economy, however, tended to rely on exports and was indirectly
+
+adversely effected by the global economy's downturn. It was a serious, even if not direct, blow to
+
+Italy, which has suffered from low growth and has been hard to take active measures due to high
+
+levels of government debt. (Quaglia, L, 2009)
+
+In the secondary aftermath of the global economic crisis, a debt crisis has arrived in
+
+southern Europe. These countries, in turn, were rescued and their economies were placed under
+
+27
+
+direct EU scrutiny. Greece, which had been the greatest hit, collapsed first, followed by Portugal,
+
+which was the third country to be bailed out. Spain, which seemed unlikely before, also broke its
+
+bubble and borrowed 100 billion euros from ESM. But things were quite different in Italy, they
+
+have always been a country with a lot of public debt and good management of it. ​This experience
+
+helped Italy cope with the crisis. The less developed banking system which was mentioned also
+
+allowed Italy to be in a better position than other southern European countries. (Morlino, L &
+
+Sotilotta, C, 2019)
+
+Corruption
+
+As found in the state of the art, corruption undermines trust in political institutions such
+
+as the parliament (Francesco Merloni 2019 p 1), (​Donatella Della Porta & Alberto Vannucci
+
+2007). This project will then map corruption in Italy before the analysis, so that the analysis can
+
+be funded on the facts at hand.
+
+Italy has seen a bigger increase in corruption than other developed countries (​Donatella
+
+Della Porta & Alberto Vannucci 2007). To start understanding the situation in italy in 2008, a
+
+good place to start is in the 1990s where two investigation took place. The investigation called
+
+‘clean hands’ and an event called ‘the revolution of the judges. Here the judges made an inquire
+
+into corruption, and seven ministers of Amato’s government had to resign in 1992 when they
+
+came under investigation (​Donatella Della Porta & Alberto Vannucci 2007). The basis of this
+
+was the very independent judiciary in Italy at the time, which against expectations started an
+
+enquiry into corruption and ended up imprisoning corrupt politicians. Despite the fact that
+
+several incidences of corrupt judges can be found in the same time frame. The judges functioned
+
+as a curbing factor to the high political corruption at the time (Donatella Della Porta 2001). The
+
+incidence also showed a strong will against corruption in the Italian citizens. The citizens
+
+supported the ‘revolution of the judges’ against the corrupt politicians (​Donatella Della Porta &
+
+Alberto Vannucci​ 2007).
+
+28
+
+In the follow up to the investigations, the parliament made progress towards a less
+
+corrupt Italy through several law changes made by the parliament. For example the parliament
+
+changed a constitutional articles on immunity from prosecution for members of parliament.
+
+(​Donatella Della Porta​ &​ Alberto Vannucci​ 2007)
+
+The first berlusconi government was from january 1994, shortly after berlusconi first
+
+announced himself in politics. Berlusconi himself came under investigation only months after in
+
+1994 when prosecuting judges became aware that the financial police in Lombardia had taken
+
+bribes from companies, among them som owned by Berlusconi. Berlusconi ended his first term
+
+shortly after. starting it when the northern league withdrew its support for the government in
+
+december 1994. (​Donatella Della Porta​ &​ Alberto Vannucci​ 2007)
+
+The investigations of the 90s where not entirely successful. Several needed reforms never
+
+came through, and others where later blocked by the Berlusconi government from 2001-2006.
+
+The Berlusconi government for example chose to limit the independence of the judges, which
+
+not many years ago had helped lead inquiries into corruption. In fact the Berlusconi government
+
+lead several reforms which where denounced by experts and judges, for undoing the work that
+
+had been started in the 1990s toward a less corrupt country. Under the Berlusconi government
+
+corruption in italy kept steady at a high rate, as supported by numbers on perception of
+
+corruption from transparency international. The corruption rate might even have increased
+
+caused by the lack of effective political solutions, and as denunciations of corruption fell after
+
+the 1990, corruption went back to be profitable and relatively safe. One could even say that the
+
+“fight” between the political class and the judiciary on corruption, was lost by the judges, which
+
+in the Berlusconi years lost more of their independence, and did not reach any goals of non
+
+corruption, they set out to achieve in 1990. In fact the Berlusconi government systematically
+
+loosened corruption laws, and made sure that the still existing charges and investigations into
+
+berlusconi where either outside the new shorter statue of constraint, or simply made non illegal
+
+anymore through amongst other things legalizing unexplainable money kept overseas. (​Donatella
+
+Della Porta​ &​ Alberto Vannucci​ 2007)
+
+29
+
+Analysis
+
+According to our literature review we have found that unemployment, government debt,
+
+and perception of corruption in the public sector are the three most important things effecting
+
+parliamentary trust in the short term. We expect all four to be positively correlated meaning that
+
+if any of the factors gets “worse”, so should parliamentary trust. We will therefore do a content
+
+analysis to see if any one of these factors could be the reason for the surge in parliamentary trust.
+
+You can see the different important factors in Appendices A-C.
+
+Content Analysis
+
+This analysis tries to determine the relation between parliamentary trust in Italy (seen in
+
+appendix A), and all the factors which according to Diego and Guilem (2016) should have an
+
+effect on parliamentary trust in countries from the southern european countries with
+
+Mediterranean social model detailed in our theory chapter. As have been discovered in our
+
+literature review, Diego and Guilem (2016) finds that there is a relation between parliamentary
+
+trust and unemployment (Appendix B), government debt (Appendix C) and perception of
+
+corruption (Appendix D). The literature review has also found that there seems to be a surge in
+
+parliamentary trust in italy right after the economic crisis. This analysis will first try to see if this
+
+surge can be seen in any of the other Mediterranean social model countries, and after that we will
+
+see if any of the aforementioned factors could be of help to explain this surge in parliamentary
+
+trust.
+
+Starting by taking a look at Appendix A. This shows us parliamentary trust based on
+
+Eurobarometer data in the Mediterranean social model countries. In this Appendix it is visible
+
+that that Italy has a short surge in parliamentary trust right after the economic crisis in 2007/2008
+
+unlike any of the other countries from the Mediterranean social model. After 2012 the graph of
+
+parliamentary trust in Italy starts to look more like the other Mediterranean social model
+
+countries. This means that the surge in parliamentary trust is an outlier in this group of countries.
+
+We must therefore expect that the surge is caused by a factor that only effects Italy, since it is
+
+30
+
+only italy that has this surge. The fact that it is a relatively short time the surge is apparent, we
+
+must also expect that it is a factor that can effects parliamentary trust in short term.
+
+Since Diego and Guilems (2016) factors are short-term effect, maybe we can find the
+
+explanation between one of those.
+
+First we start by looking at Unemployment in Appendix B. Here it is visible that at no
+
+time before 2014 is there a positive development in unemployment rate in Italy. This means that
+
+the unemployment gives us no reason to believe it could be the reason for any increase in
+
+parliamentary trust.
+
+Looking at the next factor, government debt in Appendix C, the blue graph shows that the
+
+government debt climbs uninterruptedly with irregularities from 2007-2019. The black graph
+
+show that the Italian GDP climbs rapidly until 2009 and then it goes up and down but on a
+
+downward trajectory until 2016, when it seems to become more steady and build upwards. These
+
+two factors are interesting to analyse together because the central government debt number in
+
+itself isn't enough to understand. The debt has to be put in relation to the GDP or other economic
+
+indicators. In this analysis gdp is used.
+
+The rapid increase in gdp in 2008 and 2009 does correlate with the surge of
+
+parliamentary trust, which means it is possible that it could be a relevant factor on parliamentary
+
+trust. The fact that according to DiPietro, W. (2013) economic performance is detrimental to all
+
+types of political trust, parliamentary trust being a type of political trust and also underbuilds this
+
+idea. On the other hand GDP does not seem to have a very direct relation with parliamentary
+
+trust in the other years (2010-2019) when gdp is going up and down on a downward trajectory.
+
+At least the GDP by itself cannot be an explanation, but the correlation in 2008+2009 could be
+
+relevant.
+
+Regarding central government debt the blue graph shows us an almost constant increase
+
+only with small irregularities. It is also very obvious that when compared to GDP the central
+
+government debt is rising most of the time, but not in the last couple of years. We expect
+
+according to Diego and Guliem (2016) that an increase in government debt should decrease
+
+parliamentary trust. Such a steady decrease cannot be found in the parliamentary trust, but
+
+31
+
+parliamentary trust is found to be mostly decreasing throughout until the last couple of years
+
+where it slightly increases just like the relation between gdp and government debt. The one factor
+
+the central government debt does not seem to correlate with is the short surge in Italy in
+
+2008-2009.
+
+In Appendix D, we can see that from 2007 the perception of corruption decreased very
+
+rapidly. It goes from 52 in 2007 to 48 in 2008 and 39 in 2010. This seems to coincide with an
+
+increase in parliamentary trust. The increase in parliamentary trust happens at the same time as
+
+the decrease in perception of corruption in the public sector. This inverse relation continues as
+
+the amount of parliamentary trust flatlines from 2009 to 2010 and then starts to decrease rapidly
+
+again in 2011. In 2011 the amount of corruption perception increases again, just as the
+
+parliamentary trust decreases. This is the findings our state of the art expects us to find,
+
+according to Diego and Guilem (2016). It is also underbuild by Van der meer (2010) who found
+
+that perception is what matters to parliamentary trust.
+
+What we have found in this analysis is therefore that parliamentary trust in italy has an
+
+unexpected surge in 2008-2009, followed by a plato in 2009-2011 where after it continuously
+
+goes downward, until the latest couple of years.
+
+This analysis then continued to see if any of the factors which according to Guliem and Diego
+
+(2016) should be the ones that effect parliamentary trust short term, since we wanted central
+
+government debt to be in relation to GDP, we choose to also analyse gdp in itself and in relation
+
+to central government debt.
+
+This analysis found that there is not a strict correlation between parliamentary trust in italy and
+
+unemployment. It found that there does seem to be a bit of a correlation with central government
+
+debt, and that the two best explanations for the surge in parliamentary trust is gdp growth and
+
+reduced perception of corruption.
+
+Since our only conclusion so far is that there is a correlation, and that correlations can be caused
+
+by simple coincidence or intervening variables. Our goal will be to explain these correlations.
+
+32
+
+We hope to find an explanation, and from that come to a more specific conclusion to what causes
+
+these two correlations.
+
+Document Analysis
+
+In this second part of our analysis we will now try to find which event happened in
+
+2008-2012 which could have caused the swing in parliamentary trust, and which might have
+
+been related to the swing in perception of corruption. We will here need to be more exact with
+
+our the dates of the surveys since it matters which month our data is from when comparing with
+
+single events. See chart underneath.
+
+Survey Period Sep
+
+2007
+
+Mar – May
+
+2008
+
+Jan – Feb
+
+2009
+
+Sep
+
+2009
+
+May
+
+2010
+
+Tend to trust (%) 25% 16% 30% 27% 26%
+
+Nov - Dec
+
+2010
+
+May
+
+2011
+
+Nov
+
+2011
+
+May
+
+2012
+
+Nov
+
+2012
+
+May
+
+2013
+
+Nov
+
+2013
+
+26% 26% 14% 8% 11% 12% 10%
+
+(Standard Eurobarometer Report 68 - 80, Publication 2007, 2008, 2009, 2010, 2011, 2012 and
+
+2013)
+
+Since the increase in parliamentary trust happens somewhere between marts 2008 and
+
+february 2009, we expect the event that might have caused it to happen sometime in 2008.
+
+According to BBC timeline (7 February 2019) there where 3 big events in the year 2008 in italy.
+
+The three events in the BBC timeline could primae facie all be relevant to effect both perception
+
+of corruption and parliamentary trust in Italy. The three events are a no confidence vote in Prodi,
+
+New parliamentary election, and the fact that italy is officially declared to be in recession. We
+
+will now look at all of these events separately to see if they could be the cause of the changes.
+
+33
+
+No Confidence Vote (Corruption)
+
+The first event is a no confidence vote in prime minister Prodis government in January
+
+2008 by the parliament (BBC 7 February 2019). Justice Minister Mastella and his wife, who had
+
+adhered to Catholic values, resigned over several corruption scandals and, therefore, the Prodi
+
+Cabinet was unable to maintain its majority. A no-confidence vote was conducted, resulting in
+
+the resignation of the Cabinet. In this situation, it failed to persuade Berlusconi and to form an
+
+interim government. The resignation of the Cabinet led to the dissolution of parliament. (Rinaldo
+
+Vignati and Gregory Bull, 2009). As mentioned in the previous chapter, the perception of
+
+corruption undermines citizens' trust in the parliament, coupled with corruption scandals and a
+
+seriously unstable Cabinet and the parliament, would have greatly reduced citizens' confidence in
+
+parliament. Since this event happens right before the low measurement of parliamentary trust in
+
+2008, it could very well be the reason for the low measurement.
+
+New parliamentary election
+
+The second event is a new parliamentary election, and the fact that Berlusconi secures a
+
+third term in office as prime minister (BBC 7 February 2019). With the dissolution of
+
+parliament, early general elections were decided in April of that year. As a result, the majority in
+
+the Senate were occupied by the center-right, and local elections were no different. (Rinaldo
+
+Vignati and Gregory Bull, 2009). It may have been the result of disappointment with the
+
+previous left-wing regime and expectations for solving the economic crisis. But the election itself
+
+seems to have had no significant impact, considering that the level of trust in the parliament was
+
+very low even after the election.
+
+Italy declared to be in Recession
+
+Economic indicators are crucial to citizens' political trust. The economic crisis, such as
+
+the 2008 financial crisis, effected the country's use of policies such as economic performance
+
+indicators and austerity measures, which soon led to a fall in people's confidence. The extent of
+
+its impact varies, but the financial crisis has negatively effected the political trust of citizens of
+
+34
+
+each country, and this has become more apparent in the case of countries hit hard. (Veronica
+
+Fagerland Kroknes, Tor Georg Jakobsen & Lisa-Marie Grønning, 2015). For economic
+
+indicators, citizens change their level of trust through comparison with the nation's past
+
+performance, rather than applying objective and absolute criteria to reflect them in parliament
+
+trust (Van Erkel, P.F. and Van Der Meer, T.W., 2016).
+
+Therefore, Italy declared a recession of economy, but the economic indicators were not
+
+as much effected as before, so the declaration of recession most likely did not have a significant
+
+effect on parliamentary trust, and any it would have had, was most likely negative..
+
+A new Government - Berlusconi
+
+According to our walkthrough of events from BBC in 2008, they themselves does not
+
+seem to lend a sufficient answer to why the parliamentary trust has been changed. Yet one thing
+
+that havent been sufficiently studied is the change in parliament/government. A new parliament
+
+can of course have a different relationship with the citizens, so understanding the new parliament
+
+and government is the next step in our analysis, for trying to find a sufficient answer.
+
+As we have shown before there is a tremendous change of parliamentary trust levels in
+
+Italy from the survey made in 2008 to the one in 2009 (See table). And in the same way as the
+
+previous factors, the new government and parliament takes their seats in between those surveys,
+
+therefore, we will analyse the new parliament and government in order to check if it could be a
+
+feasible explanation of this particular surge. The most interesting findings revolve around the
+
+relationship between the government leader, Berlusconi, and his strong propaganda machine.
+
+In April of 2008 Silvio Berlusconi managed to get elected for the third time and a new
+
+parliament was established. In this year, there were only five parties in the parliament, which
+
+respond to the idea of fighting against the usual fragmentation of the political parties system.
+
+(Pasquino, 2008). After this parliamentary election the italian party system shows the least
+
+fragmented one among the other european countries, what could lead to shape the picture of new
+
+stable system (Fabbrini, 2009). Only four groups are part of the senate and five in the deputies
+
+chamera after April of 2008. It is a different behaviour among the other european countries like
+
+35
+
+Spain where they had nine parties groups in the ‘congreso de los diputados’ and six in the
+
+‘senado’. Therefore it is possible to say that fragmentation was strongly reduced in this election
+
+in italy, and two main parties agroupations worked on their own; centre left and centre right, with
+
+no more cooperation with smaller parties (Fabbrini, 2009). This less fragmented parliament
+
+could therefore be a reason for increase in parliamentary trust.
+
+Beside this fact, most of the political decisions in the country at this time depended on the
+
+willing and actions of the two major leaders, and the charismatic “new” prime minister, Silvio
+
+Berlusconi. (Pasquino, 2008)
+
+In order to talk about the possible relationship between the charismatic Silvio Berlusconi
+
+and the surge of political trust during his period in power, he will be analysed. The first aspect
+
+we found, is that he is the richest person in Italy and with that power he controlled a large part of
+
+the mass media industry. He used his media influence to pursue his own interests, for example
+
+create a general public fear of crime. (Ragnedda and Muschert, 2010)
+
+This anomaly is particular to Italy in the shape of almost a monopoly controlled mass
+
+media compared with any other liberal and democratic society. So in Italy the richest person,
+
+Silvio Berlusconi either in a direct or indirect way controlled ninety percent of italian national
+
+produced television, two newspapers and some news-magazines. On top of this, he owned at that
+
+time the copyright of twenty five percent of italian’s books, the main distribution for the majority
+
+of italian’s magazines and movies; and sixty percent of television advertising. (Ragnedda and
+
+Muschert, 2010). This clear control of the majority mass media and creation of content, gives
+
+berlusconi immense power of perception. It is obvious that the media can effect perception, and
+
+therefore he who controls the media also has it within his grasp to control perception which as
+
+explained is a key ingredient in understanding parliamentary trust. This is supported by the fact
+
+that tv news in Italy and I particularity the ones he owned, almost didn't cover the economic
+
+crisis during his time as prime minister. ​(Marangoni and Verzichelli, 2014) this would have
+
+given the italian public a more positive perception of the economy, which then again gives more
+
+parliamentary trust in the period he is in power.
+
+36
+
+This statement could be supported not just with the element of the centralization level in
+
+media control, in addition to it, Berlusconi also had several economic operations in different
+
+sectors like insurance industry, banks, sports and construction (Ragnedda and Muschert, 2010).
+
+Actually Italy shared the lowest levels of press freedom in Europe with Turkey. This fact is
+
+corroborated by the organization of reporters without borders, who ranked Italy into the worst
+
+western country levels of press-freedom. (Freedom house, 2009)
+
+37
+
+Conclusion
+
+“How has parliamentary trust been effected in Italy after the financial recession in
+
+2007/08 till 2012?”
+
+Our findings suggest that there are several factors which are related to parliamentary
+
+trust. Generally the trust in political institutions, and specifically parliament tend to be
+
+determined by the perception of the citizens, (Van der Meer, T., 2010) and (Van der Meer, T., &
+
+Hakhverdian, A., 2017), especially corruption (Van der Meer, T., 2010), (Van der Meer, T., &
+
+Hakhverdian, A., 2017), and (Diego Muro & Guillem Vidal 2017) and the economic wellbeing
+
+of the country (Diego Muro & Guillem Vidal 2017), (DiPietro, W., 2013) are factors that in the
+
+short term effects parliamentary trust in a given country. Other factors that has an effect on
+
+parliamentary trust is independence of the judiciary (DiPietro, W., 2013) and extent of
+
+democracy (DiPietro, W., 2013). These two factors we did not look further into since they are
+
+not likely to be the factors that has changed the parliamentary trust in the short span of time
+
+where we looked at. Inside this field there are still discussions about the specific relations
+
+between parliamentary trust and other indicators, which is something more research could help
+
+clarify, yet it might very well be depend on the specific circumstances of the country which
+
+factors decide parliamentary trust.
+
+Our content analysis showed us that unemployment and central government debt did not
+
+correlate in the years 2008-2012 but that it very likely had a negative impact on parliamentary
+
+trust since it was growing steadily in all those years and are indicators of a bad economy. The
+
+central government debt is also in general compared to gdp more often than it is not, but since
+
+the GDP is fluctuating because of the changing exchange rate, every year changes might not be
+
+too relevant.
+
+The most interesting finding in our content analysis was that perception of corruption is
+
+the factor that is the most correlated with parliamentary trust in Italy. That means, that extent of
+
+perception of corruption is most likely to be the cause of Italy's surge in parliamentary trust. Yet
+
+38
+
+it did not explain why or under which circumstances. That is why we continued to make an
+
+exploratory document analysis to find which events could expand our knowledge.
+
+The exploratory analysis we found three events which could have started the surge in
+
+parliamentary trust in 2008. Those three was and a no confidence vote in prime minister Prodis
+
+government, Italy declared to be in recession and a new election. None of these factors in
+
+themselves seemed to be sufficient explanation to the surge. A no confidence vote could of
+
+course create a bigger trust in the parliament, but it is more likely that since it is a crisis in the
+
+parliament, it would create less trust to the parliament, since they do not themselves have control
+
+of the country and for months italy did not have a government. To be declared to be in recession
+
+could not possibly do anything else but give a bad perception of economic situation in the
+
+country which as explained effects parliamentary trust negatively. Lastly elections can give a
+
+boost, since you replace former parliamentarians to once people more recently have chosen, but
+
+the other Mediterranean countries also have had elections in the period, and they did not
+
+experience any significant surges in parliamentary trust caused by that.
+
+During a further study of event we found that the increase in parliamentary trust seems to
+
+fit with the exact time this new government was in power since the surge ends in 2011 when the
+
+government has to step down, which made us dig further and find two very relevant
+
+events/reasons for the increase in parliamentary trust in 2008-2009. The parliament becomes less
+
+fractured which could give it a more confident and less divided look, and therefore make the
+
+citizens more confident in it. The second, and maybe more important, being that. Berlusconi is
+
+not just any prime minister but a man that owns half of italy's media firms, through which he has
+
+had the ability to shape the perception of amongst other things economic performance of the
+
+country, and perception of corruption, which then gives increase in parliamentary trust. This is of
+
+course a research topic that should be further explored to make a complete conclusion on the
+
+topic. All we can surely conclude, is that there are a lot of “coincidences” pointing towards, that
+
+the most important factor in parliamentary trust in 2008-2012, is Berlusconi controlling people's
+
+perception through his control of the italian media.
+
+39
+
+Bibliography
+
+"Book Reviews." ​European Societies​ 5, no. 3 (2003): 327-45. doi:10.1080/1461669032000111333.
+
+Delhey, Jan, and Kenneth Newton. "Who Trusts?: The Origins of Social Trust in Seven Societies."
+
+European Societies​ 5, no. 2 (2003): 93-137. doi:10.1080/1461669032000072256.
+
+Erkel, Patrick F.a. Van, and Tom W.g. Van Der Meer. "Macroeconomic Performance, Political Trust and
+
+the Great Recession: A Multilevel Analysis of the Effects of Within-country Fluctuations in
+
+Macroeconomic Performance on Political Trust in 15 EU Countries, 1999-2011." ​European
+
+Journal of Political Research​ 55, no. 1 (2015): 177-97. doi:10.1111/1475-6765.12115.
+
+"Europe | Italian Justice Minister Resigns." BBC News. January 16, 2008.
+
+http://news.bbc.co.uk/2/hi/europe/7191413.stm.
+
+Favretto, Ilaria. "Italy from Crisis to Crisis. Political Economy, Security and Society in the 21st Century."
+
+Journal of Modern Italian Studies​ 24, no. 1 (2019): 200-02. doi:10.1080/1354571x.2019.1550883.
+
+"Freedom of the Press 2009." Freedom House. September 12, 2013.
+
+https://freedomhouse.org/report/freedom-press/freedom-press-2009.
+
+"GESIS - Leibniz-Institut Für Sozialwissenschaften." Eurobarometer: Sampling and Fieldwork.
+
+https://www.gesis.org/eurobarometer-data-service/survey-series/standard-special-eb/sampling-and fieldwork.
+
+Gunther, Richard, P. Nikiforos. Diamandouros, and Dimitri A. Sotiropoulos. ​Democracy and the State in
+
+the New Southern Europe​. Oxford University Press, 2006.
+
+HADJIMICHALIS, COSTIS. ​CRISIS SPACES: Structures, Struggles and Solidarity in Southern Europe​.
+
+ROUTLEDGE, 2019.
+
+Holmberg, Soren, Staffan Lindberg, and Richard Svensson. "Trust in Parliament." ​Journal of Public
+
+Affairs​ 17, no. 1-2 (2017). doi:10.1002/pa.1647.
+
+40
+
+Holmberg, Soren, Staffan Lindberg, and Richard Svensson. "Trust in Parliament." ​Journal of Public
+
+Affairs​ 17, no. 1-2 (2017). doi:10.1002/pa.1647.
+
+Hooghe, Marc, and Dietlind Stolle. ​Generating Social Capital: Civil Society and Institutions in
+
+Comparative Perspective​. Palgrave Macmillan, 2003.
+
+Hooghe, Marc, and Dietlind Stolle. "Introduction: Generating Social Capital." ​Generating Social Capital​,
+
+2003, 1-18. doi:10.1057/9781403979544_1.
+
+Häuberer, Julia. "Introducing the Civic Perspective on Social Capital – Robert D. Putnam’s Concept of
+
+Social Capital." ​Social Capital Theory​, 2011, 53-86. doi:10.1007/978-3-531-92646-9_3.
+
+"Italian Politics in an Era of Recession: The End of Bipolarism?" Taylor & Francis.
+
+https://www.tandfonline.com/doi/full/10.1080/13608746.2018.1436493?src=recsys.
+
+"Italy General Government Debt." Italy General Government Debt | 2019 | Data | Chart | Calendar |
+
+Forecast. https://tradingeconomics.com/italy/government-debt.
+
+"Italy Joins China's New Silk Road Project." BBC News. March 23, 2019.
+
+https://www.bbc.com/news/world-europe-47679760.
+
+"Italy Joins China's New Silk Road Project." BBC News. March 23, 2019.
+
+https://www.bbc.com/news/world-europe-47679760.
+
+Kasperson, Roger E., Dominic Golding, and Seth Tuler. "Social Distrust as a Factor in Siting Hazardous
+
+Facilities and Communicating Risks." ​Journal of Social Issues​ 48, no. 4 (1992): 161-87.
+
+doi:10.1111/j.1540-4560.1992.tb01950.x.
+
+Kroknes, Veronica Fagerland, Tor Georg Jakobsen, and Lisa-Marie Grønning. "Economic Performance
+
+and Political Trust: The Impact of the Financial Crisis on European Citizens." ​European Societies
+
+17, no. 5 (2015): 700-23. doi:10.1080/14616696.2015.1124902.
+
+Marangoni, Francesco, and Luca Verzichelli. "From a Technocratic Solution to a Fragile Grand Coalition:
+
+The Impact of the Economic Crisis on Parliamentary Government in Italy."
+
+41
+
+Government-Opposition in Southern European Countries during the Economic Crisis​, 2017,
+
+35-53. doi:10.4324/9781315683829-3.
+
+Meer, Tom Van Der, and Armen Hakhverdian. "Political Trust as the Evaluation of Process and
+
+Performance: A Cross-National Study of 42 European Countries." ​Political Studies​ 65, no. 1
+
+(2016): 81-102. doi:10.1177/0032321715607514.
+
+Merler, Silvia, and Bruegel. "How Do Europeans Feel about the EU?" World Economic Forum.
+
+https://www.weforum.org/agenda/2015/06/how-do-europeans-feel-about-the-eu/.
+
+Montesquieu, Charles De Secondat. ​Du Principe De La Democratie: Extraits De L'esprit Des Lois​.
+
+Librairie De Médicis, 1948.
+
+Morlino, Leonardo, and Cecilia Emma Sottilotta. "Southern Europe and the Eurozone Crisis Negotiations:
+
+Preference Formation and Contested Issues." ​South European Society and Politics​ 24, no. 1 (2019):
+
+1-28. doi:10.1080/13608746.2019.1603697.
+
+Muro, Diego, and Guillem Vidal. "Political Mistrust in Southern Europe since the Great Recession."
+
+Mediterranean Politics​ 22, no. 2 (2016): 197-217. doi:10.1080/13629395.2016.1168962.
+
+Muro, Diego, and Guillem Vidal. "Political Mistrust in Southern Europe since the Great Recession."
+
+Mediterranean Politics​ 22, no. 2 (2016): 197-217. doi:10.1080/13629395.2016.1168962.
+
+Papacostas, Antonis. "Eurobarometer 67.2: European Union Enlargement, Personal Data Privacy, the
+
+National Economy, and Scientific Research, April-May 2007." ​ICPSR Data Holdings​, 2007.
+
+doi:10.3886/icpsr21160.
+
+Pasquino, Gianfranco. "The 2008 Italian National Elections: Berlusconi's Third Victory." ​South European
+
+Society and Politics​ 13, no. 3 (2008): 345-62. doi:10.1080/13608740802349241.
+
+"Political Economy of EMU. Rebuilding Systemic Trust in the Euro Area in Times of Crisis." European
+
+Commission - European Commission. August 01, 2018.
+
+https://ec.europa.eu/info/publications/economy-finance/political-economy-emu-rebuilding-systemi
+
+42
+
+c-trust-euro-area-times-crisis_en.
+
+Putnam, Robert D., Robert Leonardi, and Raffaella Y. Nanetti. "Making Democracy Work." 1994.
+
+doi:10.1515/9781400820740.
+
+Putnam, Robert D., Robert Leonardi, and Raffaella Nanetti. ​Making Democracy Work: Civic Traditions
+
+in Modern Italy​. Princeton Univ. Press, 1993.
+
+Robson, Colin. ​Real World Research: A Resource for Social Scientists and Practitioner-researchers​.
+
+Braille Jymico, 2005.
+
+Rosefielde, Steven, Masaaki Kuboniwa, and Satoshi Mizobata. "Prevention and Crisis Management."
+
+2011. doi:10.1142/8299.
+
+Rossi, Ugo. "There’s No Hope : The Global Economic Crisis and the Politics of Resistance in Southern
+
+Europe1." ​Belgeo​, no. 1-2 (2012). doi:10.4000/belgeo.7071.
+
+Sapir, Andre. "Globalization and the Reform of European Social Models*." ​JCMS: Journal of Common
+
+Market Studies​ 44, no. 2 (2006): 369-90. doi:10.1111/j.1468-5965.2006.00627.x.
+
+"Trust in Parliament." OECD Insights Blog. February 01, 2018.
+
+http://oecdinsights.org/2018/02/01/trust-in-parliament/.
+
+"Trust in Parliament." OECD Insights Blog. February 01, 2018.
+
+http://oecdinsights.org/2018/02/01/trust-in-parliament/.
+
+"Trust in Parliament." OECD Insights Blog. February 01, 2018.
+
+http://oecdinsights.org/2018/02/01/trust-in-parliament/.
+
+"Unemployment, Total (% of Total Labor Force) (modeled ILO Estimate) - Spain, Greece, Italy,
+
+Portugal." Data.
+
+https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?end=2015&locations=ES-GR-IT-PT&star
+
+t=2005.
+
+Vignati, Rinaldo. "Chronology of Italian Political Events, 2008." ​Italian Politics​ 24, no. 1 (2009): 1-40.
+
+43
+
+doi:10.3167/ip.2008.240102.
+
+Zamora-Kapoor, Anna, and Xavier Coller. "The Effects of the Crisis." ​American Behavioral Scientist​ 58,
+
+no. 12 (2014): 1511-516. doi:10.1177/0002764214530649.
+
+E.V., Transparency International. "Overview." Research - CPI - Overview.
+
+https://www.transparency.org/research/cpi/overview.
+
+E.V., Transparency International. "Overview." Research - CPI - Overview.
+
+https://www.transparency.org/research/cpi/overview.
+
+E.V., Transparency International. "Overview." Research - CPI - Overview.
+
+https://www.transparency.org/research/cpi/overview.
+
+Di Quirico, Roberto. "Italy and the global economic crisis." ​Bulletin of Italian Politics​ 2.2 (2010): 3-19.
+
+Della Porta, Donatella, Herbert Reiter, and the collaboration of Massimiliano Andretta, Stefania Milan,
+
+and Federico Rossi". "Desperately seeking politics: political attitudes of participants in three
+
+demonstrations for worker's rights in Italy." ​Mobiliza​tion: An international quarterly​ 17.3 (2012):
+
+349-361
+
+Baron de Montesquieu: 1948 ​The Spirit of the Laws
+
+Massio Ragnedda and Glenn Muschert: “The political use of fear and news reporting in Italy: The case of
+
+berlusconi’s media control” (2010)
+
+Sergio Fabbrini: “The transformation of italian democracy” (2009)
+
+44

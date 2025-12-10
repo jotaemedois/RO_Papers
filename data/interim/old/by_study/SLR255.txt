@@ -1,0 +1,399 @@
+Political Trust by Individuals of low Socioeconomic Status: The Key Role of Anomie
+
+Thierry Bornand 1,2, Olivier Klein 1
+
+[1] Faculté des Sciences psychologiques et de l'Éducation, Université Libre de Bruxelles, Brussels, Belgium. [2] Institut
+
+Wallon de l’Évaluation de la Prospective et de la Statistique, Namur, Belgium.
+
+Social Psychological Bulletin, 2022, Vol. 17, Article e6897, https://doi.org/10.32872/spb.6897
+
+Received: 2021-06-11 • Accepted: 2022-02-01 • Published (VoR): 2022-05-05
+
+Handling Editor: Jarosław Klebaniuk, Institute of Psychology, University of Wrocław, Wrocław, Poland
+
+Corresponding Author: Thierry Bornand, Center for Social and Cultural Psychology CeSCuP, Université Libre de Bruxelles, 50 avenue F. D. Roosevelt CP122, 1050 Bruxelles, Belgium. E-mail: thierry.bornand@ulb.be
+
+Supplementary Materials: Data [see Index of Supplementary Materials]
+
+Abstract
+
+The socioeconomic status (SES) of individuals is related to their political trust. The higher their status, the more they trust the political system. This well-known relation is generally explained in terms of socialisation. The higher the SES, the more people are exposed to democratic values or interact with trustworthy institutions. This increases political interest, which increases political trust. In this study, we propose a complementary explanation: lower SES enhances the perception that the social fabric is breaking down (anomie), and this reduces political trust. We test this hypothesis by using structural equation modeling (SEM) on a representative survey (n = 1203) conducted in the Wallonia region of Belgium. That region appeared suited to explore our hypothesis because of its long-term economic difficulties. The results reveal that those of low SES have less political trust because they perceive more anomie in society. These results are consistent even when the alternative explanation is taken into account (the socialisation hypothesis). Moreover, the results also showed that a higher level of anomie reduced interpersonal trust which reduced political trust (serial mediation). These results highlight the key role of anomie when considering the relation of SES with political trust.
+
+Keywords
+
+political trust, socioeconomic status, anomie, representative survey, SEM
+
+Research Article
+
+This is an open access article distributed under the terms of the Creative Commons Attribution 4.0 International License, CC BY 4.0, which permits unrestricted use, distribution, and reproduction, provided the original work is properly cited.
+
+Highlights
+
+• Generally, the fact that low SES individuals have lower political trust is explained by lower socialization to political functioning. • We put forward a complementary explanation that low SES individuals perceive society as more anomic (disintegrated by the absence of moral norms) which goes hand in hand with lower political trust. • Furthermore, the perception of anomie is associated with lower interpersonal trust which also goes with lower political trust. • The perception of anomie thus appears to be a central element in understanding the difference in political trust between low and high SES individuals.
+
+Individuals with low socioeconomic status (SES) tend to have less political trust than in­ dividuals with high socioeconomic status (Dotti Sani & Magistro, 2016; Foster & Frieden, 2017; Kim et al., 2022; Turper & Aarts, 2017). This is a major concern because the level of trust is directly linked to political participation and to the means individuals use to express their protest (Hooghe & Marien, 2013). This raises the peril of disaffection with the political system and of an increase in negative attitude against it by a part of the population. For instance, people who have a lower level of trust toward political elites (Rooduijn, 2018) or political institutions (Fieschi & Heywood, 2004) are more likely to support populist parties. Why is SES related to political trust? The most common explanations appeal either to differences in values or in access to public policies. In political science, for example, many authors have pointed out the importance of demo­ cratic values or culture (Almond & Verba, 1965; Dalton & Welzel, 2014; Newton, 2001) for political trust. Other authors have stressed the role of social capital (Putnam, 2000; Putnam et al., 1993) or social resources (Schoon & Cheng, 2011) to access public policies and develop political trust. In this paper, we propose an alternative explanation based on social perceptions of the state of society. We test whether the fact that those of low SES perceive more anomie, as postulated by Merton (1938), explains the link between SES and political trust. Moreover, we test this by using structural equation analysis (SEM) which, to our knowledge, has not been widely used in the literature on political trust. We test this by using a representative survey of the population of Wallonia (Belgium), a region that has endured economic hardship for decades. We posit that, particularly in this context, those of low SES will perceive more anomie than those of high SES, and this explains their lower trust in the political system.
+
+Socioeconomic Status and Political Trust
+
+Political trust, which broadly refers to the confidence that citizens have in their political institutions and in the regime they represent, is considered an important indicator of
+
+The Role of Anomie in Political Trust of low SES 2
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+political legitimacy (Turper & Aarts, 2017). Political trust is important, at a national level, because it is associated with the willingness of the citizens to follow governmental regulations. The greater the political trust, the more a citizen will consider behaviour that does not accord with the law, committed by others or by himself, as unacceptable (Marien & Hooghe, 2011).
+
+At the individual level, political trust also influences the way people make their voices heard. For example, people with high political trust tend to engage in more institutionalised forms of participation (civil society, participation in elections), whereas people with low political trust tend to engage in more challenging forms of participation vis-à-vis the political system (Hooghe & Marien, 2013). As has already been said, people who have less trust in elites or institutions are more keen to vote for populist parties. Therefore, the more the gap in political trust widens between those of low and high SES, the greater the risk of polarization within a society, and the use of different modes of expression and participation by different categories of people.
+
+Widespread accounts point out the difference in political trust between those of low and high SES (Foster & Frieden, 2017; Goubin & Hooghe, 2020; Turper & Aarts, 2017). Researchers have identified three broad explanations for this difference. The first involves socialisation with democratic values. This explanation has been used to understand differences between countries (see for exemple: Mishler & Rose, 2001) or to explain differences between individuals within a country (Mayne & Hakhverdian, 2016). The assumption is that education is a vector of democratic values that can be measured through its impact on political interest (Maurissen, 2020; Mingo & Faggiano, 2020) and that it will eventually increase trust in political institutions (Almond & Verba, 1965; Inglehart, 1997; Putnam et al., 1993). The second explanation comes from social capital theory (Putnam, 2000; Putnam et al., 1993). According to this theory, the more individu­ als are engaged in social life, which is associated with socioeconomic status, the greater their interpersonal and political trust. The third explanation is based on utilitarianism. To illustrate this, a study by Schoon and Cheng (2011) showed that the higher the SES, the more people have positive experiences with institutions throughout their lives, whether in high school or their professional environment. This, in turn, influences political trust. Another illustration comes from Newton (2007) who showed that people with higher SES have more power to influence the decisions made by the government and therefore will benefit more from it than people with lower status. Having more resources to influence political decisions and/or having more impact on the political agenda then fosters trust in the political system (Goubin & Hooghe, 2020; Verba et al., 1995).
+
+All these explanations of the link between SES and political trust are based on differences between those of low and high SES. However, the position of individuals in society may also create a more general perception of the state of the society (i.e., anomie) which is also a determinant of political trust. In the next section, we discuss recent work
+
+Bornand & Klein 3
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+that suggests that societal anomie can be a predictor of political trust and how this perception is related to SES.
+
+Anomie, its Effect on Political Behaviour and its Relation to SES
+
+The concept of anomie was first developed by the French sociologist Emile Durkheim (1897) who was interested in the role of the social context to explain individual behav­ iour. In his view, a behaviour like suicide could be the consequence of social deregulation in the environment of the individual. When new societal norms conflict with those that had regulated the behaviour of individuals and the structure of society, individuals may have a sense of despair. And if no solution is found to this sense of despair this could lead the individual to what Durkheim called anomic suicide. More recently, in social psychology, Teymoori et al. (2016, 2017) developed a scale to measure the extent to which individuals perceived their society as anomic. They define anomie “as the perception that a particular society has become disintegrated and disregulated” (Teymoori et al., 2016, p. 3). The scale they developed assesses these two sub-dimensions 1) social disintegration (i.e.: lack of trust and moral standards of the society), and 2) social disregulation (i.e.: lack of legitimacy and efficiency of the decision makers). According to the authors, the two dimensions are strongly interrelated. This means that the perception of breakdown on one subdimension will also put more weight on the other and result in fine anomie. For example, if a breakdown of moral standards is perceived in a society, then expectations towards decision makers will be higher, and if not encountered, will increase anomie.
+
+What is important in that social psychological perspective is that anomie is defined as the perceived state of the society by individuals and not as the objective state of the society. For that reason, this conception can be seen to be close to the concept of “social unease” developed in sociology by Steenvoorden (2015) who defines it as “a latent concern among citizens in contemporary western countries about the precarious state of society” (p. 86). The difference is that social unease has been constructed as a latent variable of contemporary concerns. It is thus constructed as the result of concerns in five domains: distrust of human capability, loss of ideology, decline of political power, decline of community, socioeconomic vulnerability. These concerns thus include those related to anomie (through loss of ideology, decline of political power, and decline of community) but also include broader concerns such as fear of socio-economic vulnerability.
+
+Another distinction should also be made between the concept of anomie and the con­ cept of interpersonal trust. Although there seems to be some overlap between the two, we believe it is important to distinguish them for conceptual and operational reasons. Conceptually, interpersonal trust is an attitude toward others (do I trust other people?), whereas anomie (in its social fabric subdimension) is the perception of a generalized loss of interpersonal trust viewed here as a social phenomenon (do I perceive that people are not trusting each other anymore?). This distinction is highlighted by Teymoori et al. (2017) who write: “anomie cannot be experienced by lone individuals but rather arises
+
+The Role of Anomie in Political Trust of low SES 4
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+to the extent that anomie-producing perceptions seep into the collective consciousness” (p. 3). Operationally, the two constructs are also measured differently. For interpersonal trust, people are asked directly whether they think that people can be trusted, whereas for anomie they are asked whether they agree that “people do not know who they can trust and rely on”. For that reason, we believe that it is justified to distinguish the constructs and to evaluate their relationship in our model.
+
+The interest in studying anomie on political variables lies in the fact that it can be linked to the socio-economic context but also to less tangible fears or anxieties. Anomie hence focuses on the perception that individuals have of society (Teymoori et al., 2016) rather than on the objective state of society. For example, Sprong et al. (2019) showed that a context of social inequalities leads to political reaction in terms of preferences for a strong leader. This concerns the objective effect of inequality. Regarding the subjective effect, they also showed that the more the context is perceived as unequal by individuals, the more they perceive it as anomic, which leads them to prefer an even stronger leader. Therefore, regarding the concept of anomie, it is important to focus on the subjective perception of the context than merely on the objective context.
+
+The objective conditions that increase anomie have been the focus of several studies. Those conditions are marked by rapid changes that can be political (Zhao & Cao, 2010) or economic (Bygnes, 2017). In terms of economic change, Dotti Sani and Magistro (2016) found an interaction between broad economic conditions and the economic situations of individuals when they investigated the effect of the 2008 financial crisis on the trust of European citizens in the European parliament. They found that trust had declined more in peripheral countries that were more affected by the crisis and also that this decline was stronger among people with lower SES in those countries. All these results lead us to believe that the effect of situational change is accentuated by the position of the individual in society.
+
+Regarding the subjective conditions for the perception of anomie, Merton (1938) was the first to emphasise the importance of social position in the individual's social regulation and perception of anomie, whereas Durkheim (1897) only emphasised the role of social regulation in general. He first observed that in Western countries, people of low SES perceive more anomie than people of high SES. This observation has since been confirmed by more recent observations (Heydari et al., 2014, 2012; Zhao & Cao, 2010). Merton explains this association by the fact that low SES people are more exposed than high SES people to the contradiction between the shared Western norm of 'achieving life goals solely by personal means' and a lack of structural resources that allow that goal to be achieved.
+
+The question then is how the social context may interact with the perception that people have of the state of the society due to their social position and how this affects political trust. Firstly, we have already mentioned that Teymoori et al.’s (2016) anomie scale has two sub-dimensions. The first being the breakdown of the social fabric, used
+
+Bornand & Klein 5
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+in this study to measure anomie, the second being the breakdown of leadership. As mentioned, the two sub-dimensions appear to be closely related, so that a decline in one may lead to a decline in the other by overloading the latter. The second sub-dimension, however, includes the notion of political trust since it implies that leaders are no longer seen as representing and protecting all members of society. Thus, conceptually, political trust is interdependent with the notion of anomie. Concerning the effect of the context, we already discussed that the more people perceive their society as inequal, the more they perceive their society as anomic (Sprong et al., 2019). In another study, Hartwich and Becker (2019) manipulated the context of neoliberalism which induced political reac­ tion. They exposed participants to a situation of a deregulated society (i.e., emblematic neoliberalism) that increased anomie which leads to resentment towards the elite. Zhao and Cao (2010) compared 30 nations by using a multilevel analysis to take into account both the political context (democratic transition) and the social position of individuals. First, they found that anomie is strongly linked to social position as postulated by Merton. Second, they found that political transition impacted the perception of anomie (by increasing it) compared to a non-transitional context. Finally, they found that in a a context of democratic transition, the link between political trust and anomie was stronger than in a context of established democracy. In other words, in such a context the difference between individuals in perceiving their society as anomic is more directly linked to their trust in politics. These studies point out that in times of hardship the link between anomie and political trust seems to be stronger among those people who already have a higher perception of anomie due to their social position in society.
+
+Hypotheses
+
+The evidence presented so far leads us to formulate the hypotheses that are summarised in a model (Figure 1).
+
+H1: A context of structural economic difficulties, as in Wallonia, increases the perception of the vulnerability of those of low SES. Therefore, we expect that SES is positively linked to political trust. This means that the higher the SES, the higher the trust.
+
+H2: We assume that the perception of anomie explains the relation between SES and political trust. Therefore, we expect that it mediates the relation between the two, meaning that the higher the SES, the lower the anomie and the higher the political trust. However, we also surmise that the perception of anomie is independent of and complementary to political interests, which varies between those of low and high SES because of differences in democratic values (the socialisation hypothesis). Therefore, we expect that both anomie and political interest mediate the relation between SES and political trust.
+
+H3: In a more exploratory perspective, we investigate the relation of anomie and in­ terpersonal trust to explain the link between SES and political trust. Indeed, as has been
+
+The Role of Anomie in Political Trust of low SES 6
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+documented, anomie implies social withdrawal and interpersonal distrust (Teymoori et al., 2017; Wolfe, 1976). This means that anomie might decrease interpersonal trust and then political trust in a sequential mediation. The alternative would be that interpersonal trust mediates the relation between SES and political trust. To determine which explana­ tion fits the data better, we compare the two models.
+
+Figure 1
+
+General Model and Hypothesis
+
+Context of the Study
+
+This study was carried out in Wallonia, one of the three regions of Belgium. Its popu­ lation speaks French1. The choice of this region was based on (1) the ease of access to data regarding all the main constructs of interest, data that were obtained with a highly representative sample and (2) the socio-economic situation of the region, which is expected to reinforce the link between SES and anomie. Indeed, Wallonia’s economic development has been structurally weaker than that of Flanders and Brussels for several decades.
+
+1) There is also a German speaking community in Wallonia. This community lives in municipalities close to Germany and has a population of around 80,000 people (around 2% of the Walloon population). However, this community was not interviewed in the survey.
+
+Bornand & Klein 7
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Method
+
+Procedure
+
+The survey was conducted by the Institut Wallon de l’Évaluation de la Prospective et de la Statistique (IWEPS) which is the Walloon regional institute of statistics in Belgium. This institute performs a social survey every 3–4 years with core questions that are recurrent, and peripheral questions that change from wave to wave. In 2018, when the data were collected, the main theme of the survey was about political opinion and political trust.
+
+The data2 were collected face-to-face by computer-assisted personal interviewing (CAPI) of a representative sample of adult citizens living in Wallonia. The field survey was conducted between February 27 and July 2, 2018, in French. These data are therefore of much higher quality than in surveys realised on convenience samples.
+
+Sample
+
+There were 1304 completed questionnaires drawn from a sample of 2600 addresses that were drawn at random3 from the national registry, which lists all the inhabitants living in Belgium. The response rate was 50.15%, meaning that half of the contacted participants actually completed the questionnaire. This rate is in line with results from previous sur­ veys. The socio-demographic characteristics of the sample (based on sex, age category, level of education and place of residence) were very similar to the overall population. This confirms the representativeness of the sample of the Walloon population of Belgium (3.6 million residents).
+
+Measures
+
+Because of the length of the survey, each construct could be measured with only a few items (typically fewer than four).
+
+Political Trust (Dependent Measure)
+
+To measure political trust we followed the proposition given by Dalton (2004) that political trust should be measured by focusing on key institutions of representative democracy. For that reason, we chose the most commonly used representative institu­ tions: national parliament, politicians and political parties. These three representative
+
+2) Only the variables used in this study are publicly available in the supplementary materials. All the variables of the survey are not publicly available due to the GDPR. However, they can be made available for research purposes by contacting the first author and signing a confidentiality agreement.
+
+3) The random selection was made at two levels: a first random drawing of 130 postal codes among the French-speak­ ing municipalities of Wallonia then a random drawing of 20 addresses for each of the postal codes.
+
+The Role of Anomie in Political Trust of low SES 8
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+institutions are known to load on a single factor independently of the interest and knowledge about politicians (see Turper & Aarts, 2017). Trust in these three institutions was measured on a scale from 1 to 5 (1 = no trust al all; 5 = complete trust). The reliability of the construct with the three items can be considered good (α = .77).
+
+Socioeconomic Status (SES)
+
+This was measured by two indices. The first was the highest level of education into 11 categories (1 = not completed primary education; 2 = primary education; 3 = lower secondary education; 4 = higher secondary vocational education 5 = higher secondary technical education; 6 = higher secondary general education 7 = seventh year of voca­ tional education and apprenticeship; 8 = higher education, short type; 9 = higher educa­ tion, long type; 10 = university education; 11 = doctoral and post-doctoral education). The second index was the net income per month of the household into 11 categories (1 = less than 1000 euros; 2 = 1000–1499 euros; 3 = 1500–1999 euros; 4 = 2000–2499 euros; 5 = 2500–2999 euros; 6 = 3000–3499 euros; 7 = 3500–3999 euros; 8 = 4000–4999 euros; 9 = 5000–5999 euros; 10 = 6000–6999 euros; 11 = 7000 euros and above). The correlation between the two was high (r(1253) = .447, p < .001) and the reliability of the construct can be qualified as acceptable (α = .62).
+
+Anomie: Breakdown of the Social Fabric
+
+The anomie scale developed by Teymoori et al. (2016) included 12 items in two subdi­ mensions: ‘Breakdown of social fabric’ and ‘Breakdown of leadership’. Only items of the first subdimension were included in the survey because items of the second were too close to those measuring political trust. For reasons of time, the first subdimension was measured with only four items of the original six. They were: ‘People do not know who they can trust and rely on’, ‘Everyone thinks of himself/herself and does not help others in need’, ‘Most people think that if something works, it doesn’t really matter whether it is right or wrong’, ‘Generally speaking, people are cooperative’. Participants responded on a 5-point Likert scale ranging from 1 = completely agree to 5 = completely disagree. The response modalities for the first three items were reversed in order so a higher value would correspond to greater anomie on an index. The reliability of the construct with the four items can be qualified as poor (α = .46) but as shown in the following factor analysis it is preferable to keep only two items which has the effect of making the reliability more acceptable (α = .51).
+
+Interpersonal Trust
+
+This was measured with a single item, adapted from the European Social Survey (e.g., Reeskens & Hooghe, 2008). In our questionnaire, people had to answer the question ‘Even today I find most people can still be trusted’4 (1 = totally agree to 4 = totally
+
+Bornand & Klein 9
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+disagree). These response modalities were also reversed to ensure that a higher value corresponded to greater trust.
+
+Political Interest
+
+This was measured with a single item: ‘Some people are very interested in politics, others not at all. For you, how interested are you’? (1 = not at all interested to 4 = very interested). This single item has become a standard measure in research on political atti­ tudes. It is preferred to other more behavioural measures (e.g., related to the frequency of interpersonal discussions on political topics) that can be viewed as consequences of political interest.
+
+Results
+
+Method of Analysis
+
+Structural equation modeling (SEM) was chosen for the analysis for two reasons. It permits assessing the validity of the constructs and it allows the construction of different models of the relations between the variables. The first part of this discussion presents the results from analysing the constructs. The second part identifies the model that best fits our hypotheses. A third part will compare alternative models. All analyses were done with the lavaan package in R (Rosseel, 2012). The criteria used to evaluate the models were: the ratio between chi-square and the degrees of freedom (χ2/df), the stand­ ardised root-mean-square residual (SRMR), the root-mean-square error of approximation (RMSEA) and the comparative fit index (CFI). The ratio χ2/df showed a good fit for values between 1 and 3 and a very good fit for values between 1 and 2 (Byrne, 1998; Schumacker & Lomax, 2004). RMSEA and SRMR must be equal to or less than .08, and CFI should be equal to or greater than .95 (see Hu & Bentler, 1999).
+
+Distinctions Between Measures
+
+To assess the validity of the constructs, we first ran an exploratory factor analysis5 (EFA) by introducing all the items of the model (see Table 5 in the Appendix for EFA result). The result showed that the items of each construct saturated on a different factor. This meant that each factor corresponded to a different construct, except for the item on interpersonal trust and the fourth item on anomie (i.e., ‘Generally speaking, people are
+
+4) Original item in European Social Survey is: ‘Generally speaking, would you say that most people can be trusted or that you can’t be too careful in life?’
+
+5) For this analysis the minimum residuals were used for the method of extraction and Oblimin was used for the rotation.
+
+The Role of Anomie in Political Trust of low SES 10
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+cooperative’). This analysis concluded that the constructs were well measured except for one item under anomie that seems to be closer to interpersonal trust.
+
+To assess the independence of the constructs, we then ran four confirmatory factor analyses (CFA1 to CFA4). We did so to establish whether the constructs of anomie and interpersonal trust were independent and whether items should be removed to improve measurability. In the first model (CFA1), all the items loaded on the construct they were supposed to measure. In the second model (CFA2), only the first three anomie items loaded on it, and the fourth item under anomie and the single item of trust loaded on interpersonal trust (as suggested by the EFA). In the third model (CFA3), only the first three items were considered and loaded on anomie. The single trust item loaded on interpersonal trust. Finally, in the fourth model (CFA4), only the first two items were considered and loaded on anomie because the analysis of the previous models revealed that the third item still had residuals (> .100) with one item of political trust. The single trust item loaded on interpersonal trust. The comparison of these four models is presented in Table 1.
+
+Table 1
+
+Summary of the CFA Models
+
+Model χ
+
+2 df χ
+
+2/df p TLI CFI RMSEA SRMR AIC
+
+CFA1 273 36 7.58 < .001 .836 .893 .074 .053 36539.799 CFA2 187 35 5.34 < .001 .892 .931 .060 .042 36456.222 CFA3 110 27 4.07 < .001 .930 .958 .050 .035 33388.805 CFA4 52.9 19 2.78 < .001 .965 .982 .038 .022 29943.203
+
+Note. TLI = Tucker Lewis index; CFI = comparative fit index; RMSEA = root-mean-square error of approxima­ tion; SRMR = standardized root-mean-square residual; AIC = Akaike’s information criteria.
+
+Only the last model (CFA4) reached all the criteria of the fit indices. For instance, CFA3 reached all the criteria except the χ2/df ratio (should be < 3.0) and the TLI (should be > .95). Therefore, in CFA4, we can consider that anomie and interpersonal trust are independent constructs. However, to improve our ability to measure anomie we had to keep only two of the four items. Table 2 presents the correlation coefficients between the latent variables based on this model.
+
+Bornand & Klein 11
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Table 2
+
+Correlation Coefficients Between Latent Variables After the Confirmatory Factor Analysis (N = 1304)
+
+Measure 1 2 3 4
+
+1. SES (2 items) —
+
+2. Political trust (3 items) .165*** — 3. Anomie (2 items) –.330*** –.364*** — 4. Interpersonal trust (1 item) .130*** .290*** –.332*** — 5. Political interest (1 item) .314*** .234*** –.092* .114***
+
+*p < .05. ***p < .001.
+
+First, if we look at the link between SES (our independent variable) and political trust (our dependent variable) we see a positive correlation even if the coefficient is not very high. This suggests that SES is nevertheless linked to political trust.
+
+When we look then at the link between these two variables and anomie (the medi­ ator), we see that SES is highly (negatively) correlated with anomie. This means that the higher the SES, the less people perceive society as anomic. Moreover, we see that anomie is also highly (negatively) correlated with political trust. This means that the more people perceive society as anomic, the less they trust politics. Because the two correlations are significant, this fulfils the criteria to test a mediation between SES and political trust by anomie.
+
+When we consider interpersonal trust, we see that it is much less highly correlated with SES, however, it is highly correlated with political trust and with anomie. The fact that interpersonal trust is more highly correlated with the second also fulfils the criteria to test a mediation between anomie and political trust by interpersonal trust (serial mediation).
+
+Finally, when we consider political interest as an alternative mediator of the relation between SES and political trust, we see that anomie is quite highly correlated with SES and with political trust. This makes it a potentially good candidate to be a mediator.
+
+Whether these different mediators are competing or alternative explanations of the relation between SES and political trust is the focus of the following section.
+
+Structural Equation Modelling
+
+The model in Figure 2 represents the relationships we tested using SEM and the strength of these relationships. In line with our hypotheses, we analysed whether the link be­ tween SES and political trust could be explained by two independent mediators: political interest and anomie. For the latter, we also analysed whether the mediator influenced political trust directly or through interpersonal trust. In that case, the model would
+
+The Role of Anomie in Political Trust of low SES 12
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+include a serial mediation that goes first through anomie and then through interpersonal trust.
+
+Figure 2
+
+Standardised Coefficients of Latent Variables for the Serial Mediation Model
+
+The fit indices indicate that the model fits the data well. Although χ2 is significant: χ2(22) = 61.64, p < .001, which is known to be related to sample size; the other indices that are robust to sample size show good fit: χ2/df = 2.80; TLI = .965; CFI = .979; RMSEA = .038; SRMR =.026. The effect size6 calculated for the whole model can be quali­ fied as small (θ = .063) but is in the range of what is expected for the link between SES and political trust (see for example, Kim et al., 2022). The effect size of each mediation is then a part of this overall effect size. Concerning the simple mediation by anomie, both coefficients between SES and anomie and between anomie and political trust are significant, and the indirect effect, that is the cumulative effect of these two coefficients, is also significant (β = .101, z = 3.54, p < .010) with an effect size of θ = .039. We also observe that besides the link between SES and anomie, the coefficients between anomie and interpersonal trust and between the latter and political trust are significant. The cumulative effect of these three, that is the serial mediation effect, is also significant (β = .020, z = 3.38, p < .010) with an effect size of θ = .008. Concerning the mediation by political interest, the coefficients between SES and political interest and the latter and
+
+6) It was calculated by using the metaSEM package on R developed by Cheung (2018) to calculate the effect size of SEM.
+
+Bornand & Klein 13
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+political trust are significant, as well as the cumulative coefficient (β = .059, z = 4.46, p < .001) with an effect size of θ = .023. Finally, the remaining effect, the direct effect of SES on political trust, is no longer significant (β = –.016, z = –0.35, ns) whereas the total effect is significant (β = .164, z = 4.01, p < .001). Hence, the relation between SES and political trust is fully mediated by the two paths: the first path that goes through anomie and interpersonal trust, and the second path that goes through political interest. In terms of effect size, mediation through anomie, whether direct or through interpersonal trust, has a larger effect size (cumulative of both θ = .047) than mediation through political interest (θ = .023).
+
+Alternative Models
+
+Although the proposed model (see Figure 2 and Table 2) fits the data well, other models could account for data. In this section, we evaluate three alternative models.
+
+In the first alternative model (M2), we tested the hypothesis that interpersonal trust would be the first mediator in the serial mediation between SES and political trust, and anomie would be the second mediator. As in Model 1, political interest was set as an in­ dependent mediator of the serial mediation. The second model, thus, corresponds exactly to the graphical representation of the first model if we invert anomie and interpersonal trust. As shown in Table 3, this model does not fit the data as well as the first model.
+
+Table 3
+
+Summary of the Different Models of CFA
+
+Model χ
+
+2 df χ
+
+2/df p TLI CFI RMSEA SRMR
+
+M1 61.64 22 2.80 p < .001 .965 .979 .038 .026 M2 84.28 22 3.83 p < .001 .945 .966 .048 .036 M3 113.21 22 5.15 p < .001 .920 .951 .058 .045 M4 60.17 21 2.87 p < .001 .963 .979 .039 .025
+
+Note. TLI = Tucker Lewis index; CFI = comparative fit index; RMSEA = root-mean-square error of approxima­ tion; SRMR = standardized root-mean-square residual.
+
+In the second alternative model (M3), we tested the hypothesis of three independent paths of mediation instead of two paths (one with a serial mediation) as in Models 1 and 2. As shown in Table 3, this model also fails to fit the data as well as the first model.
+
+The last alternative model (M4) is a combination of the two previous ones. As in M3, we tested the hypothesis of three independent indirect paths, but in this model, we set a covariate path between anomie and interpersonal trust. In this way, an increase in one construct implies an increase in the other one, but with a bidirectional link between them. As shown in Table 3, this model fits almost as well as the first model. However, for
+
+The Role of Anomie in Political Trust of low SES 14
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+some criteria, the indices are not quite as good. This shows that the data are compatible with a serial mediation with anomie and interpersonal trust, as stipulated in the first model.
+
+Discussion
+
+The primary objective of this study was to assess the extent to which anomie could be a mediator of the link between SES and political trust with data that are known to be representative of the general population of a well-defined context. The results showed that anomie indeed mediated the relation between SES and political trust. Further, it mediated the effect independently of the mediating effect of political interest. In other words, the perception of anomie complements political interest in explaining the link between SES and political trust. Moreover, in the context of the economic difficulties in Wallonia, anomie was a better explanation of this link than political interest, as the comparison of the effect size has shown. This suggests that the explanatory power of anomie should not be underestimated compared to other classical explanations based on individual differences in socialisation patterns. Whether anomie is a better mediator only during general economic difficulties has yet to be tested in other conditions. One can indeed imagine that a better economic situation, if it is linked to the greater social mobility of individuals, could reduce the link between SES and anomie. This shows that anomie, the perception of the state of society by individuals, is an important predictor of trust in the political system, and it deserves to be studied.
+
+Other studies have shown that anomie is not only related to the position of individu­ als in society but is also influenced by the social context. Social inequality, for example, increases a feeling of anomie in the whole population regardless of whether individuals are of low or high SES (Hartwich & Becker, 2019; Sprong et al., 2019; Zhao & Cao, 2010). This invites us to reflect on the role of anomie in political trust. As we have seen, anomie explains the link between SES and political trust during relative economic difficulties but in a context (Wallonia) where objective inequalities are not particularly exacerbated. But what if the inequalities were greater? Will the difference in anomie between those of low SES and high SES increase or will it fade in favour of a general increase in anomie within the whole population? A recent study seems to support the latter hypothesis. Goubin (2020) and Goubin and Hooghe (2020) showed that the gap in political trust between people of low and high SES is larger in countries with greater economic equality than where status is more unequal. They explain the difference by noting ‘in the most unequal European societies, the levels of trust of the well-off and the less well-off are more alike, as endemic inequality seems to erode political trust for all groups within society, including the most privileged ones. This may suggest that a moral mechanism might be at play instead’ (Goubin & Hooghe, 2020, pp. 24–25). The idea is that the more unequal society is, the more people are affected, regardless of whether they are
+
+Bornand & Klein 15
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+of low or high socio-economic status. In line with this hypothesis, it would be worth examining whether that more general effect is underpinned by the perception of anomie. It is possible that in a more unequal society, anomie is no longer related to SES due to the general increase in anomie within the whole population. Above all, these results suggest that anomie seems to be an important, yet underestimated, determinant of political trust.
+
+The second set of findings regards the role of interpersonal trust in explaining the relation between SES and political trust. This view of interpersonal trust comes from the literature on social capital (Newton, 2001; Putnam, 2000; Putnam et al., 1993; Rothstein & Stolle, 2008) where interpersonal trust is seen as a prerequisite for political trust. The comparison of our model with the different alternatives allows us to conclude the following about the role of interpersonal trust. First, it appears, at least in the context of this study, that interpersonal trust is a much weaker mediator of that relationship than anomie when we compare the effect size of each. If people low in SES experience less political trust than those with higher SES, it has less to do with their level of interpersonal trust but rather with their perception of society as anomic. Second, anom­ ie and interpersonal trust appear to be two related phenomena that explain the link between SES and political trust. Indeed, by comparing the model that establishes that these two phenomena are independent with the one that establishes that anomie reduces interpersonal trust, it is clearly the second that wins. And third, interpersonal trust appears to explain the relation somewhat, but only when it comes after anomie in the model. This means that it is the perception of anomie that reduces interpersonal trust and not the reverse, as the comparison of the fits reveals. It is interesting to consider this result in light of the theorising of Rothstein et al. (Rothstein, 2013; Rothstein & Stolle, 2002, 2008) who emphasise the role of the quality of the institutions, and the probity of the elites, on social ties. In this study, it also appears that a perceived disruption of the state of the society reduces interpersonal trust and decreases political trust.
+
+Limitations and Extensions
+
+To the best of our knowledge, the present study is the first to consider the role of anomie as a potential mediator of the link between SES and political trust. Moreover, the representativeness of the data within the general population allows generalising the results with a reasonable degree of confidence. It should be noted, however, that this study is cross-sectional. That means that all variables are measured at the same time. It is therefore difficult to establish strict causal links between them. Nonetheless, this study emphasises that the perception of anomie is a crucial mechanism for understanding the differences in political trust between people of low and high SES. It would be interesting in further research to test what increases the gap in anomie between those of low and high SES. Is the inequality of society likely to increase or decrease this gap? Is the effect the same when the inequality is structural or when it appeared recently? The answers
+
+The Role of Anomie in Political Trust of low SES 16
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+to these questions would reveal the importance of the perception of anomie and its consequences for political trust for individuals with low SES in different contexts.
+
+Funding: The authors have no funding to report.
+
+Acknowledgments: The authors have no additional (i.e., non-financial) support to report.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+Data Availability: For this article data is freely available (see Index of Supplementary Materials).
+
+Supplementary Materials
+
+For this article, the following supplementary materials are available (for access see Index of Supplementary Materials below):
+
+• The database with the variables used in the study • The codebook of the database
+
+Index of Supplementary Materials
+
+Bornand, T., & Klein, O. (2022). Supplementary materials to "Political trust by individuals of low socioeconomic status: The key role of anomie" [Data, codebook]. PsychOpen GOLD. https://doi.org/10.23668/psycharchives.6526
+
+References
+
+Almond, G. A., & Verba, S. (1965). The civic culture: Political attitudes and democracy in five nations. Princeton University Press. Bygnes, S. (2017). Are they leaving because of the crisis? The sociological significance of anomie as a motivation for migration. Sociology, 51(2), 258–273. https://doi.org/10.1177/0038038515589300 Byrne, B. M. (1998). Structural equation modeling with LISREL, PRELIS, and SIMPLIS: Basic concepts, applications, and programming. Lawrence Erlbaum Associates Publishers. Cheung, M. W.-L. (2018). Computing multivariate effect sizes and their sampling covariance matrices with structural equation modeling: Theory, examples, and computer simulations. Frontiers in Psychology, 9, Article 1387. https://doi.org/10.3389/fpsyg.2018.01387 Dalton, R. J. (2004). Democratic challenges, democratic choices: The erosion of political support in advanced industrial democracies. Oxford University Press. Dalton, R. J., & Welzel, C. (2014). The civic culture transformed. From allegiant to assertive citizens. Cambridge University Press.
+
+Bornand & Klein 17
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Dotti Sani, G. M., & Magistro, B. (2016). Increasingly unequal? The economic crisis, social inequalities and trust in the European Parliament in 20 European countries. European Journal of Political Research, 55(2), 246–264. https://doi.org/10.1111/1475-6765.12126 Durkheim, E. (1897). Le suicide: étude de sociologie. F. Alcan. Fieschi, C., & Heywood, P. (2004). Trust, cynicism and populist anti‐politics. Journal of Political Ideologies, 9(3), 289–309. https://doi.org/10.1080/1356931042000263537 Foster, C., & Frieden, J. (2017). Crisis of trust: Socio-economic determinants of Europeans’
+
+confidence in government. European Union Politics, 18(4), 511–535. https://doi.org/10.1177/1465116517723499 Goubin, S. (2020). Economic inequality, perceived responsiveness and political trust. Acta Politica, 55(2), 267–304. https://doi.org/10.1057/s41269-018-0115-z Goubin, S., & Hooghe, M. (2020). The effect of inequality on the relation between socioeconomic
+
+stratification and political trust in Europe. Social Justice Research, 33, 219–247. https://doi.org/10.1007/s11211-020-00350-z Hartwich, L., & Becker, J. C. (2019). Exposure to neoliberalism increases resentment of the elite via feelings of anomie and negative psychological reactions. The Journal of Social Issues, 75(1), 113– 133. https://doi.org/10.1111/josi.12311 Heydari, A., Teymoori, A., Haghish, E. F., & Mohamadi, B. (2014). Influential factors on ethnocentrism: The effect of socioeconomic status, anomie, and authoritarianism. Social Sciences Information. Information Sur les Sciences Sociales, 53(2), 240–254. https://doi.org/10.1177/0539018413517521 Heydari, A., Teymoori, A., Nasiri, H., & Fardzadeh, H. E. (2012). Relationship between socioeconomic status, anomie, and authoritarianism. E-Bangi, 9(1). http://ejournal.ukm.my/ebangi/article/view/11262 Hooghe, M., & Marien, S. (2013). A comparative analysis of the relation between political trust and forms of political participation in Europe. European Societies, 15(1), 131–152. https://doi.org/10.1080/14616696.2012.692807 Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6(1), 1–55. https://doi.org/10.1080/10705519909540118 Inglehart, R. (1997). Modernization and postmodernization: Cultural, economic, and political change in 43 societies (Vol. 19). Cambridge University Press. Kim, Y., Sommet, N., Na, J., & Spini, D. (2022). Social class—not income inequality—predicts social and institutional trust. Social Psychological & Personality Science, 13(1), 186–198. Marien, S., & Hooghe, M. (2011). Does political trust matter? An empirical investigation into the relation between political trust and support for law compliance: Does political trust matter? European Journal of Political Research, 50(2), 267–291. https://doi.org/10.1111/j.1475-6765.2010.01930.x
+
+The Role of Anomie in Political Trust of low SES 18
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Maurissen, L. (2020). Political efficacy and interest as mediators of expected political participation among Belgian adolescents. Applied Developmental Science, 24(4), 339–353. https://doi.org/10.1080/10888691.2018.1507744 Mayne, Q., & Hakhverdian, A. (2016). Education, socialization, and political trust. In S. Zmerli & T. van der Meer (Eds.), Handbook on Political Trust (pp. 176–196). Edward Elgar. Merton, R. K. (1938). Social structure and anomie. American Sociological Review, 3(5), 672–682.
+
+https://doi.org/10.2307/2084686 Mingo, I., & Faggiano, M. P. (2020). Trust in institutions between objective and subjective determinants: a multilevel analysis in European countries. Social Indicators Research, 151(3), 815–839. https://doi.org/10.1007/s11205-020-02400-0 Mishler, W., & Rose, R. (2001). What are the origins of political trust?: Testing institutional and cultural theories in post-communist societies. Comparative Political Studies, 34(1), 30–62. https://doi.org/10.1177/0010414001034001002 Newton, K. (2001). Trust, social capital, civil society, and democracy. International Political Science Review, 22(2), 201–214. https://doi.org/10.1177/0192512101222004 Newton, K. (2007). Social and political trust. In R. J. Dalton & H.-D. Klingemann (Eds.), The Oxford handbook of political behavior (pp. 342–361). Oxford University Press. Putnam, R. D. (2000). Bowling alone: America’s declining social capital. In L. Crothers & C. Lockhart (Eds.), Culture and Politics (pp. 223–234). Palgrave Macmillan. Putnam, R. D., Leonardi, R., & Nanetti, R. Y. (1993). Making democracy work: Civic traditions in modern Italy. Princeton University Press. Reeskens, T., & Hooghe, M. (2008). Cross-cultural measurement equivalence of generalized trust. Evidence from the European Social Survey (2002 and 2004). Social Indicators Research, 85(3), 515–532. https://doi.org/10.1007/s11205-007-9100-z Rooduijn, M. (2018). What unites the voter bases of populist parties? Comparing the electorates of 15 populist parties. European Political Science Review, 10(3), 351–368. https://doi.org/10.1017/S1755773917000145 Rosseel, Y. (2012). lavaan: An R Package for structural equation modeling. Journal of Statistical Software, 48(2), 1–36. https://doi.org/10.18637/jss.v048.i02 Rothstein, B. (2013). Corruption and social trust: Why the fish rots from the head down. Social Research, 80(4), 1009–1032. https://doi.org/10.1353/sor.2013.0040 Rothstein, B., & Stolle, D. (2002, August 29–September 2). How political institutions create and destroy social capital: An institutional theory of generalized trust [Conference session]. Annual Meeting of the American Political Science Association, Boston, MA, USA. Rothstein, B., & Stolle, D. (2008). The state and social capital: An institutional theory of generalized trust. Comparative Politics, 40(4), 441–459. https://doi.org/10.5129/001041508X12911362383354 Schoon, I., & Cheng, H. (2011). Determinants of political trust: A lifetime learning model. Developmental Psychology, 47(3), 619–631. https://doi.org/10.1037/a0021817 Schumacker, R. E., & Lomax, R. G. (2004). A beginner’s guide to structural equation modeling. Psychology Press.
+
+Bornand & Klein 19
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Sprong, S., Jetten, J., Wang, Z., Peters, K., Mols, F., Verkuyten, M., Bastian, B., Ariyanto, A., Autin, F., Ayub, N., Badea, C., Besta, T., Butera, F., Costa-Lopes, R., Cui, L., Fantini, C., Finchilescu, G., Gaertner, L., Gollwitzer, M., . . .Wohl, M. J. A. (2019). “Our country needs a strong leader right now”: Economic inequality enhances the wish for a strong leader. Psychological Science, 30(11), 1625–1637. https://doi.org/10.1177/0956797619875472 Steenvoorden, E. H. (2015). A general discontent disentangled: A conceptual and empirical framework for societal unease. Social Indicators Research, 124(1), 85–110. https://doi.org/10.1007/s11205-014-0786-4 Teymoori, A., Bastian, B., & Jetten, J. (2017). Towards a psychological analysis of anomie. Political Psychology, 38(6), 1009–1023. https://doi.org/10.1111/pops.12377 Teymoori, A., Jetten, J., Bastian, B., Ariyanto, A., Autin, F., Ayub, N., Badea, C., Besta, T., Butera, F., Costa-Lopes, R., Cui, L., Fantini, C., Finchilescu, G., Gaertner, L., Gollwitzer, M., Gómez, Á., González, R., Hong, Y. Y., Jensen, D. H., . . .Wohl, M. (2016). Revisiting the measurement of anomie. PLoS One, 11(7), Article e0158370. https://doi.org/10.1371/journal.pone.0158370 Turper, S., & Aarts, K. (2017). Political trust and sophistication: Taking measurement seriously. Social Indicators Research, 130(1), 415–434. https://doi.org/10.1007/s11205-015-1182-4 Verba, S., Schlozman, K. L., Brady, H. E., & Brady, H. E. (1995). Voice and equality: Civic voluntarism in American politics (Vol. 4). Cambridge University Press. Wolfe, R. N. (1976). Trust, anomia, and locus of control: Alienation in U. S. college students in 1964, 1969, and 1974. The Journal of Social Psychology, 100(1), 151–152. https://doi.org/10.1080/00224545.1976.9711920 Zhao, R., & Cao, L. (2010). Social change and anomie: A cross-national study. Social Forces, 88(3), 1209–1229. https://doi.org/10.1353/sof.0.0312
+
+The Role of Anomie in Political Trust of low SES 20
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Appendix
+
+Table 4
+
+Sociodemographic Characteristics of Survey Participants
+
+Variables n %
+
+Gender Female 651 49.92 Male 653 50.08
+
+Age 18–24 139 10.66 25–34 198 15.18 35–44 185 14.19 45–54 241 18.48 55–64 235 18.02 65–74 190 14.59
+
+74 and over 116 8.90
+
+Education 1) Not completed primary education 25 1.92 2) Primary education 120 9.20 3) Lower secondary education 217 16.64 4) Higher secondary vocational education 192 14.72 5) Higher secondary technical education 159 12.19 6) Higher secondary general education 162 12.42 7) Seventh year of vocational education and apprenticeship 45 3.45 8) Higher education, short type 214 16.41 9) Higher education, long type 49 3.76 10) University education 115 8.82 11) Doctoral and post-doctoral education 6 0.46
+
+Net income of the household (per month) 1) Less than 1000 euros 31 2.47 2) 1000–1499 euros 173 13.81 3) 1500–1999 euros 190 15.16 4) 2000–2499 euros 173 13.81 5) 2500–2999 euros 168 13.41 6) 3000–3499 euros 139 11.09 7) 3500–3999 euros 140 11.17 8) 4000–4999 euros 134 10.69 9) 5000–5999 euros 54 4.31 10) 6000–6999 euros 28 2.23 11) 7000 euros and above 23 1.84
+
+Bornand & Klein 21
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897
+
+Table 5
+
+Factor Loadings to the Exploratory Factor Analysis
+
+Items 1 2 3 4 Uniqueness
+
+Anomie1 0.4109554 0.7504106 Anomie2 0.6655523 0.5082891 Anomie3 0.5063626 0.7134035 Anomie4 -0.6281567 0.5873221 Politics Trust 0.6675961 0.5125697 Parliament Trust 0.5191841 0.6081248 Political partis Trust 0.9322166 0.1608329 Interpersonal Trust 0.4216283 0.7355935 Political Interest 0.8649471 Household Income 0.6045833 0.6393975 Education 0.7322666 0.4564000
+
+Note. 'Minimum residual' extraction method was used in combination with a 'oblimin' rotation.
+
+Social Psychological Bulletin (SPB) is an official journal of the Polish Social Psychological Society (PSPS).
+
+PsychOpen GOLD is a publishing service by Leibniz Institute for Psychology (ZPID), Germany.
+
+The Role of Anomie in Political Trust of low SES 22
+
+Social Psychological Bulletin | 2569-653X https://doi.org/10.32872/spb.6897

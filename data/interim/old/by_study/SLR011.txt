@@ -1,0 +1,579 @@
+A Matter of Life or Death: A Survey Experiment on the Perceived Legitimacy of Political Decision-Making on Euthanasia
+
+Henrik Serup Christensen 1,*, Staffan Himmelroos2, Maija Seta¨la¨ 3
+
+1A˚ bo Akademi University, Social Science Research Institute, Turku, Finland; 2Department of Political and Economic Studies, University of Helsinki, Helsinki, Finland; 3Department of Philosophy, Contemporary History and Political Science, University of Turku, Turku, Finland
+
+* Correspondence: henrik.christensen@abo.ﬁ
+
+Most representative democracies seem to experience dwindling levels of legitimacy in the eyes of citizens. Nevertheless, it remains unclear what people want from parliamentary decision-making. In this study, we test the impact of outcome favourability, actor involvement and justiﬁcations on the perceived legitimacy of a parliamentary decision-making process on euthanasia in Finland. We do so with the help of a survey experiment (n ¼ 1243), where respondents were exposed to a vignette where the treatments varied randomly. The results suggest that outcome favourability is of primary importance, but the involvement of experts and citizens also boost legitimacy in the eyes of citizens. Justiﬁcations, or presenting arguments for the decisions, does not enhance legitimacy and may even cause a backﬁre mechanism where the difference between getting and not getting the preferred outcome is ampliﬁed.
+
+Keywords: Decision-making, Legitimacy, Parliament, Representation, Survey experiment, Euthanasia
+
+There is widespread agreement that citizenries are growing increasingly dissatisﬁed with traditional political forms of representative decision-making. However, different bodies of literature point in somewhat different directions regarding the potential sources of this dissatisfaction and what can be done about it. While few suggest abandoning representative democracy altogether, there is increasingly a sensation that the traditional patterns of parliamentary decision-making need to be updated to accommodate the changing demands of citizens. Nevertheless, it remains unclear what democratic decision-making processes citizens want.
+
+# The Author(s) 2019. Published by Oxford University Press on behalf of the Hansard Society; all rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+
+Parliamentary Affairs (2019) 0, 1–24 doi:10.1093/pa/gsz014
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+In this article, we will contribute to resolving this puzzle by exploring what factors affect how people evaluate the legitimacy of parliamentary decision-making on a speciﬁc policy issue. Legitimacy may be deﬁned broadly as the capacity of a political system to engender and maintain the belief that existing institutions are the most appropriate or proper ones for the society’ (Lipset, 1959, p. 86). Legitimacy not only serves to grant authorities the right to make decisions, but also has instrumental value by reducing costs of enforcing compliance (Parkinson, 2006, p. 22). When citizens believe a system to be legitimate, people are for example more willing to accept decisions of authorities (Levi et al., 2009). We examine the effect of three characteristics of the decision-making process on perceived legitimacy. Empirical studies indicate the overall importance of outcome favourability when it comes to the perceived legitimacy of decision-making (Arnesen, 2017; Esaiasson et al., 2017). In systems where decision-making powers are delegated, it should also matter what political actors are involved in the decision-making process (Gro¨nlund and Seta¨la¨, 2012; Warren and Gastil, 2015). And even when political decisions do not meet the expectations, decision-makers can soften the blow by carefully justifying why a speciﬁc decision was taken (Pitkin, 1967; Chambers, 2003; Levendusky and Horowitz, 2012; Robison, 2017; Banducci et al., 2018). We here examine how outcome favourability, actors and justiﬁcation affect perceived decision-making legitimacy with the help of a population-based survey experiment linked to a citizen initiative on the issue of euthanasia delivered to the Finnish parliament. Perceived decision legitimacy is measured with the help of four measures: process approval, an index of perceived legitimacy, conﬁdence in political decision-making and support for the introduction of the measure. Our ﬁndings suggest that outcome favourability has a strong impact on perceived decision legitimacy. Moreover, we ﬁnd that citizens favour processes that involve experts, and to some extent ordinary citizens, over elected representatives making decisions independently. Interestingly, it also seems that giving a justiﬁcation for an outcome fails to enhance perceived legitimacy, and may even generate a backﬁre effect, whereby it increases the impact of outcome favourability on perceived legitimacy rather than cushions disappointment with an unfavourable outcome.
+
+1. Explaining perceived legitimacy of parliamentary decision-making
+
+In this article, we examine various factors that can be expected to inﬂuence perceived legitimacy of parliamentary decision-making. Legitimacy is both a normative and an empirical concept. As a normative concept, it is often understood in terms of procedures and discourses used in making decisions and exercising power. According to this idea, a political system is legitimate when it conforms to
+
+2 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+certain notions of how a system ought to function, for example following the models of liberal or deliberative democracy (Beetham, 1991; Habermas, 1996). When understood in empirical terms, legitimacy is expected to hinge on citizens’ beliefs and perceptions of political systems, processes or decisions rather than on independent criteria for legitimate procedures. In this article, we are interested in legitimacy in this empirical sense. Admittedly, the normative and empirical interpretations are likely to be connected since a system with normatively desirable features is also more likely to be considered legitimate in the eyes of citizens. The starting point is the idea that citizens want decision-makers to deliver outcomes that are in line with the stated preferences of citizens. According to Beetham (1991, p. 138), a political system can be justiﬁed by the ruled based on its ability to provide citizens with what they need or want from a society, e.g. security and welfare. When governments fail to do so, this will invariably affect judgments about legitimacy. In more narrow terms, outcome favourability may be understood as a correspondence between political decisions and the stated preference of an individual, which is likely to be a central factor inﬂuencing perceived legitimacy of parliamentary decision-making. Unsurprisingly, it is a recurring ﬁnding that those who are among the ‘winners’ tend to have more positive evaluations of the functioning of the democratic system, however conceived (Holmberg et al., 2017). Recent studies suggest that outcome favourability inﬂuences whether people ﬁnd decisions or procedures acceptable (Arnesen, 2017; Esaiasson et al., 2017). Using a panel survey to study reactions to a proposed restructuring of the local school system, Esaiasson et al. (2017) ﬁnd that the importance citizens ascribe to receiving a favourable outcome limits the signiﬁcance of a responsive process. Arnesen (2017) reports a similar ﬁnding from two population-based survey experiments, where he ﬁnds that preferred outcomes matter to respondents whereas inﬂuence over decision-making has little impact on outcome acceptability. A potential explanation for the impact of outcome favourability can be found in the research on cognitive biases such as motivated reasoning (Ford, 2012). According to this literature, humans are goal-directed information processors who tend to evaluate information with a directional bias toward reinforcing their pre-existing views (Molden and Higgins, 2005). The central component to motivated reasoning is hot cognition, i.e. whenever people are expected to react to some political stimuli for which they have prior impression, the brain automatically responds with the appropriate affective marker, be it positive or negative (Morrell, 2010, p. 132). In relation to decision legitimacy this would mean that if a policy outcome suits prior preferences, it generates a strong positive reaction, whereas a negative outcome leads to a negative reaction (Arvai and Froschauer, 2010). Based on this, our ﬁrst hypothesis is that:
+
+Perceived Legitimacy of Political Decision-Making 3
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+H1: Perceived legitimacy is higher when a decision is in line with the preferred outcome.
+
+Other factors may also inﬂuence how people evaluate political decision-making. We here focus on how two aspects of the process leading up to a political decision affect the perceived legitimacy of decision-making: the actors involved and the provision of justiﬁcations. According to some authors (Saward, 2000; Geissel and Newton, 2012), people are more likely to consider decisions as legitimate when the decision-making process includes different actors. Accordingly, a legitimate political process must ensure that there are adequate possibilities for a variety of political actors to provide input into the decision-making to ensure legitimacy. For parliamentary decision-making, the role of scientiﬁc advice has been debated (Maasen and Weingart, 2005), while others stress the importance of input from ordinary citizens (Leston-Bandeira and Thompson, 2017; Hendriks and Kay, 2017). This discussion is also central in the literature that examines process preferences (Font et al., 2015; Bengtsson and Christensen, 2016), which ﬁnd a persistent pattern of process preferences across Europe whereby people distinguish between preferences for representative, participatory and expert1 decisionmaking. It is therefore important to examine how perceived legitimacy varies depending on the inclusion of different actors in parliamentary decision-making. People are not only making judgements regarding policy outcomes, but also about the actors involved in the decision-making process as well as their trustworthiness. While political trust and legitimacy are theoretically separate concepts, they are empirically closely linked (Johnson et al., 2014). Perceived legitimacy of decisionmaking can therefore be expected to be higher when people have trust in actors involved in the process.
+
+Warren and Gastil (2015) contend that different political actors, such as experts, elected representatives and fellow citizens, are trusted on different grounds. Trust in elected representatives is selective because citizens tend to have in Warren’s and Gastil’s (2015, p. 566) terms ‘[. . .] warranted distrust of representatives who hold opposing interests’. In addition to partisanship, representatives are driven by electoral motivations, which give citizens further reasons for distrust. Empirical studies show that citizens tend to have less trust in elected representatives than public ofﬁcials that are expected to be
+
+1Building on the work of Hibbing and Theiss-Morse (2002), the stealth model consists of two disparate decision-makers: business leaders and experts. However, in a European context is has been argued that it is more important to consider the role of experts (Font et al., 2015), which we do here.
+
+4 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+impartial (e.g. courts) or provide public goods (e.g. the police) (Gro¨nlund and Seta¨la¨, 2012). According to Warren and Gastil (2015), trust in experts is based on their competence and professional practices and ethics maintaining norms such as impartiality. Because citizens are willing to defer their judgements to experts, trusting these entails rather low cognitive demands on citizens. Warren and Gastil (2015) also discuss trust in decision-making by fellow citizens. Citizen deliberative bodies such as deliberative mini-publics are likely to be trusted because they are descriptively representative and include non-partisan citizens, or ‘people like you’. In a similar vein, Arnesen and Peters (2017) ﬁnd that descriptive representation promotes decision acceptability. In addition, the deliberative processes in minipublics are designed to facilitate balanced and good-quality judgements, and empirical studies on the Citizens’ Initiative Review in Oregon show that minipublics were regarded as trustworthy as impartial bodies such as courts and more so than elected representative bodies (Warren and Gastil, 2015: 571). Since this suggests that citizens prefer other actors than elected representatives to be involved in decision-making, we examine the following two hypotheses:
+
+H2a: Perceived legitimacy is higher when experts are involved in decisionmaking compared to when elected representatives make decisions themselves. H2b: Perceived legitimacy is higher when citizens are involved in decisionmaking compared to when elected representatives make decisions themselves.
+
+The actors involved is not the only relevant factor for how the process affects perceived legitimacy. There is a substantial literature on procedural justice argues that perceived legitimacy depends on people’s experience on fairness of decisionmaking procedures (Tyler and Caine, 1981; Tyler, 2001). This usually not only refers to the fairness of decision-making process used by public authorities, but may also concern other aspects such as fair consideration of all the relevant information on the issue and impartiality of public administration. Previous studies have examined how the provision of justiﬁcations affect the perception of political actors (Levendusky and Horowitz, 2012; Robison, 2017; Banducci et al., 2018). According to this line of research, justiﬁcations can help alleviate negative reactions from changing opinion or going back on campaign pledges. A speciﬁc interpretation of justiﬁcations is given in the literature on deliberative democracy where different policy alternatives are judged by the merits of the arguments supporting them. In theories of deliberative democracy, accountability is primarily understood in terms of ‘giving an account’, that is, publicly articulating, explaining and most importantly justifying public policy (Cohen, 1997, pp. 76–77; Chambers, 2003). Hanna Pitkin (1967) argues similarly that elected
+
+Perceived Legitimacy of Political Decision-Making 5
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+representatives are free to deﬁne the actions that are in the best interest of the represented if they present ‘good reasons in terms of their interest of why their views are not in accord with their interest’ (Pitkin, 1967, pp. 209–210). The publicity principle almost always involves a claim about the salutary effects of going public with the reasons and arguments backing up a policy, proposal or claim (Gutmann and Thompson, 1996, pp. 97–101). Even if the arguments fail to convince citizens that an outcome is superior, the provision of reasons can serve to convince them that decision-makers have made their decisions based on careful consideration of different viewpoints, which is important since few, if any, decisions will please everyone they affect. According to this line of reasoning, justiﬁcations should enhance decision-making legitimacy. Contrary to this, some empirical studies have found that people have difﬁculties unpacking the quality of decision-making from their outcomes, meaning that the deliberativeness of the process makes little difference in terms of perceived legitimacy (Arvai and Froschauer, 2010). Nevertheless, our H3 is:
+
+H3: Perceived legitimacy is higher when the decision is justiﬁed by provision of arguments
+
+Hence, we examine the direct effects of outcome favourability, actor involvement and justiﬁcations. However, there may also be an intricate interplay between them. For one, justiﬁcation from experts may have a stronger positive effect whereas arguments from politicians are less likely to be taken at face value. Trust in actors may be important here. While it is established that people seek out for information conﬁrming their pre-dispositions, the reception of incongruent information or arguments could be facilitated by respondents’ trust in political actors who present it. We examine this proposition in H4:
+
+H4: The effect of justiﬁcations on perceived legitimacy is stronger when experts deliver the arguments compared to when other actors do so.
+
+Another possible interaction concerns the interplay between outcomes and justiﬁcations, which entails that it is insufﬁcient to consider only whether decisionmakers provide justiﬁcations. Instead, it is imperative to consider whether these are in line with or contradict individual preferences to grasp the impact of justiﬁcation. For example, some argue that justiﬁcations for a measure may help soften the blow among those who from the outset were not in favour of that decision (Pitkin, 1967; Chambers, 2003; Towﬁgh et al., 2016). Contrary to this, a growing body of research imply that providing justiﬁcations may have adverse effects on legitimacy. Not only do people disparage information that undercuts their beliefs or worldview (Molden and Higgins, 2005), information or justiﬁcations for an adverse outcome may produce a backﬁre effect, which entails that justiﬁcations decrease rather than increase perceived legitimacy (Nyhan and Reiﬂer, 2010;
+
+6 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+Guess and Coppock, 2018). Accordingly, people who receive a verbal justiﬁcation for an unfavourable outcome would not react to it as a validation of the decision, but rather as further politicisation of the outcome. Being exposed to an argument that contradicts an initial opinion can therefore have a delegitimising effect. These conﬂicting expectations for the interplay between outcome and justiﬁcations are the topic for our ﬁnal hypothesis:
+
+H5: The effect of outcome favourability on perceived legitimacy is moderated by justiﬁcations.
+
+In the following, we explain how we examine these hypotheses.
+
+2. Data, variables and methods
+
+In this section, we ﬁrst describe the background for the experiment, before moving on to explaining the structure of our survey experiment and the main variables used in the empirical examination.
+
+2.1 The survey experiment
+
+A population-based survey experiment is an experiment that is administered to a representative population sample (Mutz, 2011, p. 2). While the intention is to produce experimental subjects that are representative of the population, other studies demonstrate that treatment effects from convenience samples are similar to those obtained from representative samples (Mullinix et al., 2015). Survey experiments make it possible to administer randomized treatments to larger and more diverse samples, thereby alleviating some of the concerns with external validity of the experimental approach (Mutz, 2011, pp. 8–20). For our purposes, the main advantage is that it is possible to discern what aspects of parliamentary decision-making respondents ﬁnd particularly important when evaluating legitimacy. Our data come from a survey experiment conducted during December 2017 in Finland. The background for the study is a real citizens’ initiative that proposed to legalize euthanasia in Finland. We chose to focus on this discussion for three reasons. The ﬁrst two are methodological. First, it was highly topical at the time, meaning the experiment is tied to an on-going public discussion. Survey experiments often rely on hypothetical scenarios, which is a potential problem for the validity of the answers when respondents fail to connect the scenario to realistic decisions. Secondly, euthanasia may be regarded an example of an ‘easy issue’ (Carmines and Stimson, 1980), which means that it is more likely possible to elicit a ‘gut response’ from respondents even when they do not have a profound understanding of the issue. This makes it more likely that we can examine the mechanisms at play in shaping decision-making legitimacy. The third reason is substantive. By relying on a
+
+Perceived Legitimacy of Political Decision-Making 7
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+process involving a citizens’ initiative, we tie the experiment to the on-going discussion on how to involve the public in the legislative process (Leston-Bandeira, 2012; Leston-Bandeira and Thompson, 2017). The citizens’ initiative forms part of efforts to improve relationships between parliament and citizens (Su Seo and Raunio 2017). We add to this discussion by examining what procedures citizens want parliament to adapt when scrutinising input from citizens. Since 1 March 2012, 50,000 Finnish citizens eligible to vote have had the right to make legislative proposals to the Finnish parliament (Eduskunta). The Finnish citizens’ initiative (CI) is a so-called ‘indirect’ or ‘agenda’ initiative because it does not lead to a popular vote. It is in the parliamentary discretion to decide whether to approve, amend or reject any initiative. After submission to parliament, each initiative goes to a relevant committee, which discusses and gives a report on the initiative before it is voted on in plenary (Christensen et al., 2017). The initiative ‘On behalf of a good death’, which aimed to legalize euthanasia, gathered more than 63,000 signatures and was delivered to Finnish parliament in February 2017 (Yle News, 2017, 2 February). The process gathered interest in national media, not least because a coalition of senior parliamentarians from several political parties were behind launching the citizens’ initiative (Yle News, 2016, 19 December). Hearings on the initiative by the Social Affairs and Health committee commenced in November 2017. In the end, Parliament on 4 May 2018 decided to reject the initiative with a plenary vote where a comfortable majority of 12,860 backed the decision. Our experiment was conducted in a survey distributed via Qualtrics and responses collected 7–15 December 2017 during the hearings in the committee. The survey comprised an online sample including 1243 respondents2 stratiﬁed to reﬂect the general population structure when it comes to gender and age and reﬂects the general population when it comes to the proportion with higher educational qualiﬁcations (See Supplementary Material). Nevertheless, the respondents come from an online panel assembled by data providers through nonprobability methods, meaning we cannot exclude that there is an element of self-selection. However, since estimates from convenience samples as mentioned are similar to purely random samples, this should not be a major cause for concern (Mullinix et al., 2015).
+
+2The sample originally comprised 1251 respondents but to ensure data quality, we deleted ﬁve respondents who took more than an hour to complete the survey and three respondents who completed it in less than 60 seconds. This did not affect the composition of the sample.
+
+8 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+2.2 Vignette
+
+In the vignette for our survey experiment, we describe a decision-making process on euthanasia where we randomly vary components to examine the importance of:
+
+(1) ACTORS: Whether the decision-making involves politicians, experts or ordinary citizens.
+
+(2) OUTCOME FAVOURABILITY: Whether recommendation for a ﬁnal decision is favourable or unfavourable compared to peoples’ preferences.
+
+(3) JUSTIFICATION: Whether or not the decision was justiﬁed by presenting arguments in support of the decision.
+
+We phrased the vignette as follows (Randomized elements in capital; TREATMENT NAME BOLDED: ITALICS: PHRASING 1/PHRASING 2):
+
+There is currently a debate in Finland on whether euthanasia (actively ending life) should be allowed, and Parliament decides on a citizens’ initiative proposing this during this parliamentary term. Before deciding, the matter is debated thoroughly. Imagine that the preparations are made in the following manner: A group of [ACTORS: EXPERTS/ORDINARY CITIZENS/ PARLIAMENTARY REPRESENTATIVES] discusses the issue of euthanasia. Many different points of views are presented during the discussions. The [ACTORS: EXPERTS/ORDINARY CITIZENS/ PARLIAMENTARY REPRESENTATIVES] produce a recommendation based on deliberation. The recommendation is that euthanasia should [OUTCOME FAVOURABILITY: BE ALLOWED/NOT BE ALLOWED]. [JUSTIFICATION: [NO JUSTIFICATION: EMPTY]/ [ARGUMENT FOR WHEN RECOMMENDATION IN FAVOUR] EUTHANASIA IS ALWAYS BASED ON THE FREE WILL OF A LEGAL ADULT. PATIENTS SUFFERING FROM AN INCURABLE ILLNESS AND INTOLERABLE PAIN SHOULD NOT BE FORCED TO ENDURE AGAINST THEIR WILL/[ARGUMENT AGAINST WHEN RECOMMENDATION NEGATIVE] EUTHANASIA IS A SLIPPERY SLOPE AND WEAKENS THE RESPECT FOR HUMAN LIFE IN SOCIETY. QUESTIONING THE VALUE OF LIFE MAY LEAD TO CASES WHERE EUTHANASIA IS CARRIED OUT AGAINST THE WILL OF THE PATIENT.]
+
+Perceived Legitimacy of Political Decision-Making 9
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+2.3 Treatment variables
+
+For actors, a categorical variable distinguish three groups that correspond to whether elected politicians made the decisions singlehandedly, or involved expert or a group of citizens. Previous studies ﬁnd that the distinction between politicians, experts and citizens is well entrenched in the Finnish population (Bengtsson and Christensen, 2016) and we therefore expect that respondents should have clear perceptions of these actors. We do not examine any combinations of actors, which would best reﬂect the empirical reality of policy-making in Finland, but instead focus on the distinctive impact of each set of actors. For outcome favourability, we combine prior preferences with the outcome recommended in the vignette. To measure prior preferences, we before the vignette ask respondents to indicate their attitudes towards the introduction of euthanasia on a ﬁve-point Likert scale (Strongly in favour-strongly opposed).3 The answers were recoded into three categories: For euthanasia (70.7%)/Neutral (19.5%)/Against Euthanasia (9.8%). We subsequently combined this with whether the recommendation presented in the vignette was to introduce euthanasia or not (49% exposed to recommendation to not introduce and 51% to a positive recommendation). The ﬁnal measure of outcome favourability divides respondents into Unfavourable outcome when the recommendation for or against euthanasia contradicted the preference of the respondent (39.8%), Neutral when no preference was indicated (19.5%) and Favourable outcome when the recommendation and the stated preference for euthanasia were aligned (40.7%).4
+
+For justiﬁcations, we include a variable that measure whether the recommendation for or against was accompanied by arguments justifying the recommendation. Euthanasia is a controversial issue with a long-standing debate where several different arguments from ethical, medical and economical standpoints have been presented both for and against (Rietjens et al., 2009). Our aim here was not to construct sophisticated arguments able to convince respondents about the merits of the proposal. Instead, we merely seek to examine how offering an argument to justify a decision affects the perception of legitimacy. To this end, we relied on two classical arguments for and against that should be familiar to the respondents when phrasing our arguments. The argument in favour emphasises the free will of the individual (right to die), whereas the argument against emphasises the possible negative effects on moral in society
+
+3We asked this question before the vignette to ensure that the results were unaffected by the experimental design. To avoid unintentionally priming the respondents to be either for or against euthanasia we asked for their attitudes towards several issues that have been the topic of citizens’ initiatives.
+
+4We also tested a simpler dichotomous version where we combined the neutral category with the opposing category and the substantial results were similar.
+
+10 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+(slippery slope) (Devettere, 2016). These are obviously simplistic arguments that fail to capture the richness of the possible scientiﬁc or ethical arguments for or against euthanasia. Nevertheless, they are typical of the type of arguments used in the public debate on euthanasia and should therefore be recognisable as such to the respondents. Hence, even if they may not be the most convincing arguments, the respondents should recognise them as actual arguments for or against the issue, which is what we aim for here.
+
+2.4 Outcome measures
+
+We use four different variables to capture the perceived legitimacy of the decision-making; i.e. how respondents evaluate the legitimacy of the decisionmaking process. The ﬁrst two are directly related to the perceived legitimacy of the process whereas the two others indicate whether the decision-making had broader consequences for conﬁdence in political decision-making and policy support:
+
+(1) Process satisfaction: A single measure indicating whether respondents felt that this way of making political decisions was satisfactory (To what extent do you ﬁnd this way of making political decisions on the issue acceptable? 7-point Likert scale Extremely acceptable–Extremely unacceptable).
+
+(2) Legitimacy index: Sum index based on six items measuring attitudes to aspects of input, throughput and output process legitimacy (Based on the decision-making process described before, please indicate the extent to which you agree with each of the following statements. This way of making political decisions. . .: (i). does not include all relevant interests [Reversed], (ii). Is made in an inclusive manner, (iii) is biased to favour certain interests [Reversed], (iv) is made in an appropriate manner, (v) ensures a fair outcome and (vi) fails to ensure an outcome that beneﬁts society [Reversed]. Five-point Likert scale Strongly agree–Strongly disagree; Cronbach’s alpha ¼ 0.79).5
+
+(3) Conﬁdence in political decision-making: A single measure indicating whether respondents felt that their conﬁdence in political decision-making
+
+5We initially wanted to capture the distinction between input, throughput and output legitimacy presented by Schmidt (2013), but this distinction is not empirically viable in this case. A principal component analysis suggests that a two-dimensional solution is most appropriate where all reversed items load onto a separate dimension while a principal factors analysis suggests that a one-dimensional solution is more appropriate. Since the two-factor solution is most likely an artefact of the reversed coding (Weijters and Baumgartner, 2012), we proceed with a one-dimensional measure of process legitimacy. Preliminary analyses show similar substantial results for separate indexes measuring input, throughput and output legitimacy, which further indicates that process legitimacy is adequately captured by a single index in this case.
+
+Perceived Legitimacy of Political Decision-Making 11
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+increased as a result of the process (Based on the decision-making process described before, please indicate the extent to which you agree with each of the following statements. This way of making political decisions increased my conﬁdence in political decision-making. Five-point Likert scale Strongly agree– Strongly disagree).
+
+(4) Support for introduction of Euthanasia: A measure of how strongly respondents support approving the citizens’ initiative to allow euthanasia following the vignette, thereby measuring whether the decision-making affected policy support (To what extent do you support the approval of the citizens’ initiative to introduce euthanasia? Seven-point Likert scale Support a great deal–Oppose a great deal).
+
+All outcome variables are coded to vary between 0 and 1 to make results comparable. Table 1 shows descriptive statistics for all variables.
+
+Table 1 Descriptive statistics
+
+Variable n Mean SD Min Max Description
+
+Actor 1243 1.00 0.82 0.00 2.00 Categorical variable with 3 categories (0¼Politicians, 1¼Citizens, 2¼Experts)
+
+Outcome favourability 1243 1.01 0.90 0.00 2.00 Categorical variable with 3 categories (0¼Unfavourable, 1¼Neutral 1¼Favourable)
+
+Justiﬁcation 1243 0.49 0.50 0.00 1.00 Categorical variable with 2 categories (0¼No justiﬁcation, 1¼Justiﬁcation provided)
+
+Process approval 1243 0.65 0.23 0.00 1.00 7-point Likert scale recoded 0–1 (1¼High process approval)
+
+Legitimacy index 1243 0.50 0.17 0.00 1.00 Index 0–24 recoded 0–1 (1¼High legitimacy)
+
+Conﬁdence in decision-making 1243 0.54 0.24 0.00 1.00 5-point Likert scale recoded 0–1 (1¼High positive inﬂuence on conﬁdence)
+
+Support introduction 1243 0.72 0.25 0.00 1.00 7-point Likert scale recoded 0–1 (1¼High support for introduction)
+
+12 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+The main method of analysis is three way ANOVA where we examine the impact of our three factors including their interactions for each outcome measure. The analyses do not include control variables since randomisation of respondents should ensure that all characteristics are evenly distributed between treatments and therefore cannot affect differences in outcomes (Mutz, 2011).6
+
+3. Analysis
+
+First, we display mean scores and standard deviations for all cells in Table 2. There are clear differences in mean scores between the cells. In particular, it seems like respondents presented with a favourable outcome perceive decisionmaking as more legitimate. The subsequent question concerns which of the differences are signiﬁcant? We examine this with three-way ANOVA for the four outcome measures in Table 3. The results conﬁrm the ﬁrst impression for H1 since the most persistent effect is found for outcome favourability. There are signiﬁcant differences in mean scores for process approval [F(2, 1225) ¼ 68.64, p < 0.000], legitimacy index [F(2, 1225) ¼ 58.75, p < 0.000], conﬁdence in decision-making [F(2, 1225) ¼ 23.73, p < 0.000] and support for introduction [F(2, 1225) ¼ 84.65, p < 0.000]. This shows that the respondents give signiﬁcantly higher approval of the process when the recommendation is in line with their preferred outcome, which corroborates H1. To illustrate what the signiﬁcant differences entail for perceived legitimacy, Figure 1 shows displays differences in predicated values of the outcome measures. The expected mean scores are about 0.1 higher on the 0–1 scale when there is a favourable recommendation compared to an unfavourable one. The only exception is support for the introduction, where it is only the neutral category that clearly deviates from the two others. This is evidence of the pervasive support for the introduction of euthanasia in Finland. Nevertheless, the results clearly show that perceived legitimacy depends on the outcome of the process, as H1 suggests. The second noticeable main effect concerns H2 and involvement of actors. Here there are signiﬁcant effects for the legitimacy index [F(2, 1225) ¼ 7.35, p < 0.001] and conﬁdence in decision-making [F(2, 1225) ¼ 4.52, p < 0.05]. Figure 2 shows how the mean scores are affected by what actor is involved.
+
+6Since one of our treatments includes an observed variable we checked that the respondents are evenly divided between the cells for the individual characteristics age, gender, education, religiosity and prior use of the citizens’ initiative. The results of the ANOVA analyses suggested no signiﬁcant differences and we therefore refrain from presenting results including these characteristics as control variables. ANCOVA analyses including age, gender, and education as control variables showed that their inclusion does not affect the substantial results, as shown in the supplementary material.
+
+Perceived Legitimacy of Political Decision-Making 13
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+Table 2 Mean scores and standard deviations
+
+Actor involved Outcome measure Unfavourable Neutral Favourable
+
+No justiﬁcation Justiﬁcation presented No justiﬁcation Justiﬁcation presented No justiﬁcation Justiﬁcation presented
+
+Politicians Process approval 0.58 (0.26) 0.58 (0.23) 0.61 (0.13) 0.58 (0.22) 0.70 (0.15) 0.77 (0.21) Legitimacy index 0.43 (0.17) 0.43 (0.16) 0.47 (0.14) 0.47 (0.16) 0.50 (0.14) 0.55 (0.18) Conﬁdence in decision-making 0.48 (0.25) 0.45 (0.26) 0.49 (0.20) 0.49 (0.26) 0.55 (0.20) 0.59 (0.22) Support introduction 0.78 (0.21) 0.77 (0.25) 0.58 (0.14) 0.54 (0.21) 0.73 (0.25) 0.83 (0.21) Citizens Process approval 0.60 (0.24) 0.56 (0.24) 0.62 (0.16) 0.59 (0.19) 0.69 (0.21) 0.74 (0.24) Legitimacy index 0.45 (0.16) 0.43 (0.17) 0.49 (0.11) 0.49 (0.15) 0.57 (0.17) 0.57 (0.18) Conﬁdence in decision-making 0.48 (0.24) 0.47 (0.23) 0.50 (0.19) 0.51 (0.25) 0.58 (0.24) 0.63 (0.26) Support introduction 0.78 (0.23) 0.71 (0.30) 0.54 (0.16) 0.57 (0.16) 0.79 (0.23) 0.75 (0.28) Expert Process approval 0.61 (0.24) 0.59 (0.24) 0.67 (0.14) 0.58 (0.21) 0.73 (0.20) 0.79 (0.17) Legitimacy index 0.45 (0.17) 0.49 (0.16) 0.52 (0.11) 0.51 (0.14) 0.57 (0.15) 0.59 (0.14) Conﬁdence in decision-making 0.52 (0.27) 0.56 (0.26) 0.56 (0.19) 0.51 (0.21) 0.60 (0.24) 0.61 (0.17) Support introduction 0.78 (0.22) 0.72 (0.27) 0.54 (0.17) 0.54 (0.19) 0.77 (0.23) 0.80 (0.22)
+
+Note: Entries are mean values with standard deviations in parentheses.
+
+14 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+Table 3 Three-way ANOVA analyses
+
+Process approval Legitimacy index Conﬁdence in decision-making Support introduction
+
+Source (df) F p Effect size F p Effect size F p Effect size F p Effect size
+
+Model (17) 9.36 0.000 0.12 8.47 0.000 0.11 4.02 0.000 0.05 11.09 0.000 0.13 Actor (2) 1.64 0.195 0.00 7.35 0.001 0.01 4.52 0.011 0.01 0.48 0.620 0.00 Outcome favourability (2) 68.64 0.000 0.10 58.75 0.000 0.09 23.73 0.000 0.04 84.65 0.000 0.12 Justiﬁcation (1) 0.20 0.658 0.00 0.56 0.453 0.00 0.95 0.666 0.00 0.27 0.439 0.00 Actor # Outcome fav. (4) 0.42 0.795 0.00 0.32 0.864 0.00 0.19 0.433 0.00 0.34 0.896 0.00 Actor # Justiﬁcation (2) 0.84 0.434 0.00 0.63 0.533 0.00 0.15 0.335 0.00 0.82 0.439 0.00 Outcome fav # Justiﬁcation (2) 7.86 0.000 0.01 0.79 0.454 0.00 1.09 0.335 0.00 3.51 0.030 0.01 Actor # Outcome fav. # Justiﬁcation (4) 0.39 0.818 0.00 0.72 0.579 0.00 0.76 0.552 0.00 1.64 0.163 0.01
+
+Partial SS MS Partial SS MS Partial SS MS Partial SS MS Residual (1225) 56.05 0.05 30.91 0.03 67.53 0.06 66.55 0.05 Total (1242) 63.33 0.05 34.55 0.03 71.30 0.06 76.80 0.06
+
+Note: Entries are F-values from three-way ANOVA analyses and level of signiﬁcance. Effects sizes are partial eta2.
+
+Perceived Legitimacy of Political Decision-Making 15
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+For both measures, it results in higher mean scores when experts make the recommendation whereas they are lower when politicians do it. The contrasts show that the differences between politicians and experts are statistically signiﬁcant (p < 0.05) for both measures, whereas the differences between citizens and politicians are only signiﬁcant for the legitimacy index. This shows that people prefer experts, and to at least some extent also citizens, to be involved in the decisionmaking when it comes to euthanasia. These results corroborate H2a and H2b. The main effects of justiﬁcation are less pronounced since there are no signiﬁcant main effects, which means H3 is not supported. However, this does not entail that this aspect is inconsequential. While there is no support for H4 which
+
+.4
+
+.5
+
+.6
+
+.7
+
+.8
+
+Linear Prediction
+
+Unfavourable Neutral Favourable
+
+Process approval
+
+.4
+
+.5
+
+.6
+
+.7
+
+.8
+
+Linear Prediction
+
+Unfavourable Neutral Favourable
+
+Legitimacy index
+
+.4
+
+.5
+
+.6
+
+.7
+
+.8
+
+Linear Prediction
+
+Unfavourable Neutral Favourable
+
+Confidence decision−making
+
+.4
+
+.5
+
+.6
+
+.7
+
+.8
+
+Linear Prediction
+
+Unfavourable Neutral Favourable
+
+Support euthanasia
+
+Predictive margins with 95% CIs Outcome favourability and perceived legitimacy
+
+(a) (b)
+
+(c) (d)
+
+Figure 1. Impact of outcome favourability on process approval, legitimacy index and conﬁdence in decision-making.
+
+.45
+
+.5
+
+.55
+
+.6
+
+Linear Prediction
+
+Politicians Citizens Experts Actor involved
+
+Legitimacy index
+
+.45
+
+.5
+
+.55
+
+.6
+
+Linear Prediction
+
+Politicians Citizens Experts Actor involved
+
+Confidence decision−making Predictive margins of Actor with 95% CIs
+
+−.02
+
+0
+
+.02
+
+.04
+
+.06
+
+.08
+
+Contrasts of Linear Prediction
+
+Citizens vs Politicians Experts vs Politicians
+
+Legitimacy index
+
+−.02
+
+0
+
+.02
+
+.04
+
+.06
+
+.08
+
+Contrasts of Linear Prediction
+
+Citizens vs Politicians Experts vs Politicians
+
+Confidence decision−making
+
+Contrasts of predictive margins of Actor with 95% CIs
+
+Note: Based on results from three−way ANOVA analyses presented in Table above
+
+Actors and perceived legitimacy
+
+(a) (b)
+
+(c) (d)
+
+Figure 2. Impact of actor on legitimacy index and conﬁdence in decision-making.
+
+16 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+suggests a stronger effect of justiﬁcations when experts deliver the arguments, there are signiﬁcant interaction effects for outcome favourability and justiﬁcation in the ANOVA models examining process approval [F(2, 1225) ¼ 7.86, p < 0.000] and support for introduction [F(2, 1225) ¼ 3.51, p < 0.05], which corroborates H5. The implications of this are shown in Figure 3. The results are again uniform for both measures and show that while justiﬁcations do not have a signiﬁcant main effect on perceived legitimacy, delivering arguments in favour of the recommendation serves to boost the differences in perceived legitimacy depending on outcome favourability. When no justiﬁcation is given for the recommendation, the differences in mean scores between favourable and unfavourable outcomes are less pronounced, and the mean score is even slightly higher for an unfavourable outcome when it comes to supporting the introduction of euthanasia (albeit non-signiﬁcant). However, when justiﬁcation is given in the form of arguments, it serves to increase the differences between favourable and unfavourable outcomes by increasing legitimacy among those who get their preferred outcome and decreasing it among those who do not.
+
+4. Discussion of results
+
+Our results have several implications for the prospects of reforming representative democracy and parliamentary decision-making in particular. The clearest result was that people perceive decisions as more legitimate when they get their preferred outcome (H1) since the results show that the most
+
+.55
+
+.6
+
+.65
+
+.7
+
+.75
+
+.8
+
+Linear Prediction
+
+No justification Justification presented
+
+Process approval
+
+.55
+
+.6
+
+.65
+
+.7
+
+.75
+
+.8
+
+Linear Prediction
+
+No justification Justification presented
+
+Support introduction
+
+Note: Based on results from three−way ANOVA analyses presented in Table above
+
+Predictive margins of Outcome favourability # Justification
+
+Unfavourable Neutral Favourable
+
+(a) (b)
+
+Figure 3. Impact of interaction between outcome favourability and justiﬁcation on process approval and support for introduction.
+
+Perceived Legitimacy of Political Decision-Making 17
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+important determinant of process legitimacy is that people get the outcome that they prefer. This ﬁnding is in line with several previous studies (Arnesen, 2017, Arnesen and Peters, 2017; Esaiasson et al., 2017). It may appear unsurprising that people prefer decision-making that delivers policy outputs in line with their preferences, but the pervasiveness of the effect is nonetheless remarkable. The effect here is not limited to outcome acceptability, as Arnesen and Peters (2017) ﬁnd, but also people’s perception of the quality of decision-making. That people tend to think that the decision-making is of high quality when the outcome matches their initial preferences conﬁrms the ﬁndings by Arvai and Froschauer (2010) and suggests that people have difﬁculties separating outcomes from other characteristics of decision-making. From a democratic perspective, the strong impact of outcome satisfaction on legitimacy beliefs is somewhat discomforting, since political decisions hardly ever please everyone. This ﬁnding conﬁrms the conventional wisdom that political decision-makers need to be responsive to citizens’ demands to preserve legitimacy. However, our other ﬁndings show that perceived legitimacy is not only affected by outcomes. Based on previous research we hypothesized (H2aþH2b) that perceived legitimacy is higher when experts or citizens, rather than elected representatives, are involved in preparing decisions. The results suggest that, regardless of both outcomes and arguments, people favour decision-making processes that involve ordinary citizens and experts over elected representatives deciding on their own. While we do not directly test the effect of trust on the perceived legitimacy of decision-making, this ﬁnding may be interpreted to support the claim that people distrust representatives, which goes beyond what Warren and Gastil (2015: 566) call ‘warranted distrust’ in representatives of opposing interests. It is noteworthy that experts seem to be particularly favoured in this case. People tend to value issue knowledge over accountability for the issue of euthanasia, which is not only medical, but also a moral in its nature. While we do not believe that our results indicate a general preference for expert decision-making, they show that people are sometimes willing to let people who they believe have the proper competences decide on complicated matters such as euthanasia. It is worth recalling the argument by Warren and Gastil (2015) that trust in experts and professionals may lead people to defer their own judgements. Moreover, it should be noted that we did not specify what kind of experts were involved in the decision-making. When it comes to euthanasia, this could include philosophers, medical experts and people with terminal diseases. Nevertheless, the results suggest that involvement of expertise as well as ordinary citizens increase legitimacy of decision-making in the eyes of citizens. The direct effect of justiﬁcations (H3) was negligible, meaning respondents seemed to care little about whether decision-makers present arguments to justify
+
+18 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+their decisions. This result seems to contradict the position of deliberative democrats who emphasise the importance of reason giving and argumentation for the legitimacy of decisions. In this way, our results indicate a mismatch between normative conceptions and empirical measurements of legitimacy, previously pointed out by Johnson et al. (2014), for example. The reason for the lack of direct impact of justiﬁcation may be that the arguments presented failed to match those put forward in public debate on euthanasia, in the media and so on. Even so, the results imply that not any justiﬁcation will do, and the quality of the arguments matters as well. However, justiﬁcations had an indirect effect since we found that they can serve to increase the gap in perceived legitimacy between those who get their preferred outcome and those who fail to do so (H5). It seems that rather than cushion the blow (Towﬁgh et al., 2016), justiﬁcations here serve to intensify the differences. These ﬁndings are in line with research suggesting that arguments and information contradicting prior opinions can produce a backﬁre effect since contradicting arguments activate a negative response in people who do not agree with the outcome (Nyhan and Reiﬂer, 2010). Here it is again important to note that the justiﬁcations we used were not intended to be particularly sophisticated, as explained in the research design. Research focusing on backlash effects suggest that how information is delivered is important for peoples’ reaction to it. For example, Nyhan and Reiﬂer (2018) ﬁnd that graphical evidence is more powerful than textual evidence for correcting misperceptions. Similarly, Guess and Coppock (2018) show that an academic sterile description of facta is less likely to generate a backlash. It is possible that our arguments triggered a backﬁre effect since they restated common pro and con arguments in the debate on euthanasia rather than provide responses to speciﬁc concerns. Nevertheless, while our results by no means constitute irrevocable evidence for the existence of a backlash effect, they at least indicate that providing general arguments that do not address citizens’ concerns may be counterproductive for decision-making legitimacy. To this end, decision-makers should aim to speciﬁcally address the concerns of citizens rather than provide general statements. While these results produce several insights concerning factors that affect decision-making legitimacy, they come with some limitations. It is unclear whether similar results would be obtained for other types of decisions. Future studies ought to examine whether similar results are obtained in other policy areas since it is likely that both the intensity of outcome favourability and preferences for actor involvement differ systematically across policy areas. It should also be recognised that the experimental approach entails certain limitations when it comes to external validity. Our results may be partly due to fact that our experimental design did not vary the process of exchanging different
+
+Perceived Legitimacy of Political Decision-Making 19
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+arguments in the preparation of a decision, nor did it examine the impact of combinations of actors or different types of arguments. It is noteworthy that several studies that ﬁnd that outcomes shape legitimacy are survey experiments (Arvai and Froschauer, 2010; Arnesen, 2017; Arnesen and Peters, 2017). Although Hainmueller et al. (2015) ﬁnd that hypothetical choices in survey experiments successfully capture actual behaviour when it comes to voting behaviour in referendums, it should be acknowledged that this method creates an artiﬁcial scenario that does not necessarily capture actual preferences. In our experiment, respondents were presented with a single hypothetical situation for a decision-making procedure, which may fail to do justice to many of the procedural and discursive aspects of legitimacy stated in normative theories of democracy. In real life, political decision-making occurs in a context multiple and repeated processes and here the importance of receiving a favourable outcome in single case might diminish, while the appreciation of proper justiﬁcations and accountability of representatives might turn out to be crucial. More research is therefore needed to settle these issues conclusively.
+
+Supplementary Data
+
+Supplementary Data are available at Parliamentary Affairs Online.
+
+Acknowledgements
+
+A previous version of this article was presented at the 2018 ECPR Joint Sessions in Nicosia, Cyprus, workshop ‘Can Participatory Reforms save Representative Democracy?’ The authors would like to thank all participants for helpful comments.
+
+Funding
+
+This research was funded by Academy of Finland [grant number 274305 (Democratic Reasoning) and 285167 (Democratic innovations in Finland and political legitimacy)].
+
+Conﬂict of Interest
+
+The authors have no conﬂicts of interest to report.
+
+20 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+References
+
+Arnesen, S. (2017) ‘Legitimacy from Decision-Making Inﬂuence and Outcome Favourability: Results from General Population Survey Experiments’, Political Studies, 65, 146–161.
+
+Arnesen, S. and Peters, Y. (2017) ‘The Legitimacy of Representation: How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions’, Comparative Political Studies, 51, 868–899.
+
+Arvai, J. L. and Froschauer, A. (2010) ‘Good Decisions, Bad Decisions: The Interaction of Process and Outcome in Evaluations of Decision Quality’, Journal of Risk Research, 13, 845–859.
+
+Banducci, S., Katz, G., Thomson, C., Stevens, D. and Coan, T. (2018) ‘A Little Justiﬁcation goes a Long Way: Audience Costs and the EU Referendum’, Acta Politica, Advance Access published on 10 September 2018, doi: https://doi.org/10.1057/s41269018-0117-x.
+
+Beetham, D. (1991) The Legitimation of Power, London, Macmillan.
+
+Bengtsson, a˚. and Christensen, H. S. (2016) ‘Ideals and Actions: Do Citizens’ Patterns of Political Participation Correspond to Their Conceptions of Democracy?’, Government and Opposition, 51, 234–260.
+
+Carmines, E. G. and Stimson, J. A. (1980) ‘The Two Faces of Issue Voting’, American Political Science Review, 74, 78–91.
+
+Chambers, S. (2003) ‘Deliberative Democratic Theory’, Annual Review of Political Science, 6, 307–326. )
+
+Christensen, H. S., Ja¨ske, M., Seta¨la¨, M. and Laitinen, E. (2017) ‘The Finnish Citizens’ Initiative: Towards Inclusive Agenda-Setting?’, Scandinavian Political Studies, 40, 411–433.
+
+Cohen, J. (1997) ‘Deliberation and Democratic Legitimacy’, In: Bohman, J. and Rehg, W. (eds) Deliberative Democracy: Essays on Reason and Politics, Cambridge MA, MIT Press, pp. 67–92.
+
+Mullinix, K. J., Leeper, T. J., Druckman, J. N. and Freese, J. (2015) ‘The Generalizability of Survey Experiments’, Journal of Experimental Political Science, 2, 109–138.
+
+Devettere, R. J. (2016) Practical Decision Making in Health Care Ethics: Cases, Concepts, and Virtue of Prudence, Washington DC, Georgetown University Press.
+
+Esaiasson, P., Gilljam, M. and Persson, M. (2017) ‘Responsiveness beyond Policy Satisfaction: Does It Matter to Citizens?’, Comparative Political Studies, 50, 739–765.
+
+Font, J., Wojcieszak, M., and Navarro, C. J. (2015) ‘Participation, Representation and Expertise: Citizen Preferences for Political Decision-Making Processes’, Political Studies, 63, 153–172.
+
+Ford, S. (2012) ‘A Social Psychology Model of the Perceived Legitimacy of International Criminal Courts: Implications for the Success of Transitional Justice Mechanisms’, Vanderbilt Journal of Transactional Law, 45, 405–476.
+
+Perceived Legitimacy of Political Decision-Making 21
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+Geissel, B. and Newton, K. (eds.) (2012) Evaluating Democratic Innovations: Curing the Democratic Malaise?, London, Routledge.
+
+Gro¨nlund, K. and Seta¨la¨, M. (2012) ‘In Honest Ofﬁcials We Trust: Institutional Conﬁdence in Europe’, American Review of Public Administration, 42, 523–542.
+
+Guess, A. and Coppock, A. (2018) ‘Does Counter-Attitudinal Information Cause Backlash? Results from Three Large Survey Experiments’, British Journal of Political Science, Advance Access published on 5 November 2018, DOI: https://doi.org/10.1017/ S0007123418000327.
+
+Gutmann, A. and Thompson, D. F. (1996) Democracy and Disagreement, Cambridge, MA, Harvard University Press.
+
+Habermas, J. (1996) Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy, Cambridge, MA, MIT Press.
+
+Hainmueller, J., Hangartner, D. and Yamamoto, T. (2015) ‘Validating Vignette and Conjoint Survey Experiments against Real-World Behaviour’, Proceedings of the National Academy of Sciences, 112, 2395–2400.
+
+Hendriks, C. M. and Kay, A. (2017) ‘From ‘Opening Up’ to Democratic Renewal: Deepening Public Engagement in Legislative Committees’, Government and Opposition, Advance Access published on 7 August 2017, DOI: https://doi.org/10.1017/gov.2017. 20.
+
+Hibbing, J. R. and Theiss-Morse, E. (2002) Stealth Democracy: Americans’ Beliefs about How Government Should Work, Cambridge, MA: Cambridge University Press.
+
+Holmberg, S., Lindberg, S. and Svensson, R. (2017) ‘Trust in Parliament’, Journal of Public Affairs, 17, e1647.
+
+Johnson, D., Maguire, E. R. and Kuhns, J. B. (2014) ‘Public Perceptions of the Legitimacy of Law and Legal Authorities: Evidence from the Carribbean’, Law & Society Review, 48, 947–977.
+
+Leston-Bandeira, C. (2012) ‘Studying the Relationship between Parliament and Citizens’, The Journal of Legislative Studies, 18, 265–274.
+
+Leston-Bandeira, C. and Thompson, L. (2017) ‘Integrating the View of the Public into the Formal Legislative Process: Public Reading Stage in the UK House of Commons’, The Journal of Legislative Studies, 23, 508–528.
+
+Levendusky, M. S. and Horowitz, M. C. (2012) ‘When Backing down Is the Right Decision: Partisanship, New Information, and Audience Costs’, Journal of Politics, 74, 323–338.
+
+Levi, M., Sacks, A. and Tyler, T. (2009) ‘Conceptualizing Legitimacy, Measuring Legitimating Beliefs’, American Behavioral Scientist, 53, 354–375.
+
+Lipset, S. M. (1959) ‘Some Social Requisites of Democracy: Economic Development and Political Legitimacy’, American Political Science Review, 53, 69–105.
+
+Maasen, S. and Weingart, P. (eds). (2005) Democratization of Expertise? - Exploring Novel Forms of Scientiﬁc Advice in Political Decision-Making. Dordrecht: Springer.
+
+22 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+Molden, D. C. and Higgins, E. T. (2005) ‘Motivated Thinking’, In: Holyoak, K.J. and Morrison, R.G. (eds) The Cambridge Handbook of Thinking and Reasoning, Cambridge MA: Cambridge University Press, pp. 295–320.
+
+Morrell, M. E. (2010) Empathy and Democracy: Feeling Thinking, and Deliberation, University Park, PA, Pennsylvania University Press.
+
+Mutz, D. C. (2011) Population-Based Survey Experiments, Princeton, NJ: Princeton University Press.
+
+Nyhan, B. and Reiﬂer, J. (2010) ‘When Corrections Fail: The Persistence of Political Misperceptions’, Political Behavior, 32, 303–330.
+
+Nyhan, B. and Reiﬂer, J. (2018) ‘The Roles of Information Deﬁcits and Identity Threat in The Prevalence of Misperceptions’, Journal of Elections, Public Opinion and Parties, Advance Access published on 6 May 2018, DOI: https://doi.org/10.1080/17457289. 2018.1465061.
+
+Parkinson, J. (2006) Deliberating in the Real World: Problems of Legitimacy in Deliberative Democracy, Oxford, Oxford University Press.
+
+Pitkin, H. F. (1967) The Concept of Representation, Berkeley, University of California Press.
+
+Rietjens, J. A., van der Maas, P. J., Onwuteaka-Philipsen, B. D., van Delden, J. J. and van der Heide, A. (2009) ‘Two Decades of Research on Euthanasia from the Netherlands. What Have We Learnt and What Questions Remain?’, Journal of Bioethical Inquiry, 6, 271–283.
+
+Robison, J. (2017) ‘The Role of Elite Accounts in Mitigating the Negative Effects of Repositioning’, Political Behavior, 39, 609–628.
+
+Saward, M. (ed.) (2000) Democratic Innovation: Deliberation, Representation and Association, London, Routledge.
+
+Schmidt, V. A. (2013) ‘Democracy and Legitimacy in the European Union Revisited: Input, Output and ‘Throughput’, Political Studies, 61, 2–22.
+
+Su Seo, H. and Raunio, T. (2017) ‘Reaching out to the People? Assessing the Relationship between Parliament and Citizens in Finland’, The Journal of Legislative Studies, 23, 614–634.
+
+Towﬁgh, E. V., Goerg, S. J., Glo¨ckner, A., Leifeld, P., Llorente-Saguer, A., Bade, S. and Kurschilgen, C. (2016) ‘Do Direct-Democratic Procedures Lead to Higher Acceptance than Political Representation?: Experimental Survey Evidence from Germany’, Public Choice, 167, 47–65.
+
+Tyler, T. R. (2001) ‘The Legitimacy of Institutions and Authorities’, In: Jost, J. T. and Major, B. (eds) The Psychology of Legitimacy: Emerging Perspectives on Ideology, Justice, and Intergroup Relations, Cambridge, MA, Cambridge University Press, pp. 416–436.
+
+Tyler, T. R. and Caine, A. (1981) ‘The Inﬂuence of Outcomes and Procedures on Satisfaction with Formal Leaders’, Journal of Personality and Social Psychology, 41, 642–655.
+
+Perceived Legitimacy of Political Decision-Making 23
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019
+
+Warren, M. E. and Gastil, J. (2015) ‘Can Deliberative Minipublics Address the Cognitive Challenges of Democratic Citizenship?’, Journal of Politics, 77, 562–574.
+
+Weijters, B. and Baumgartner, H. (2012) ‘Misresponse to Reversed and Negated Items in Surveys: A Review’, Journal of Marketing Research, 49, 737–747.
+
+Yle News. (2017) ‘Speaker receives citizens’ initiative on legalisation of euthanasia’, accessed at https://yle.ﬁ/uutiset/osasto/news/speaker_receives_citizens_initiative_on_ legalisation_of_euthanasia/9459860 on 4 December 2018.
+
+Yle News. (2016) ‘Citizens’ initiative on euthanasia proceeds to Parliament’, accessed at https://yle.ﬁ/uutiset/osasto/news/citizens_initiative_on_euthanasia_proceeds_to_parlia ment/9360850 on 4 December 2018.
+
+24 Parliamentary Affairs
+
+Downloaded from https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz014/5443270 by Lancaster University user on 12 April 2019

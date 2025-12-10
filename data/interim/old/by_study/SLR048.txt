@@ -1,0 +1,495 @@
+University of Utah, Western Political Science Association and Sage Publications, Inc. are collaborating with JSTOR to
+
+digitize, preserve and extend access to The Western Political Quarterly.
+
+http://www.jstor.org
+
+University of Utah Western Political Science Association
+
+Citizens' Orientations toward Legislatures: Congress and the State Legislature Author(s): Samuel C. Patterson, Randall B. Ripley and Stephen V. Quinlan Source: The Western Political Quarterly, Vol. 45, No. 2 (Jun., 1992), pp. 315-338 Published by: on behalf of the University of Utah Western Political Science Association Stable URL: http://www.jstor.org/stable/448714 Accessed: 20-11-2015 08:30 UTC
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+
+info/about/policies/terms.jsp
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+CITIZENS' ORIENTATIONS TOWARD LEGISLATURES: CONGRESS AND THE STATE LEGISLATURE
+
+SAMUEL C. PATTERSON, RANDALL B. RIPLEY, AND STEPHEN V. QUINLAN Ohio State University
+
+wo decades ago, Wahlke argued forcefully that research on
+
+legislative representation should focus more effort on investi gating patterns of public orientations toward representative institutions, mapping "the incidence and variations of support in spe- cific systems," and formulating "hypotheses about its conditions and correlates" (Wahlke 1978: 83). He advocated inquiry about "the role of the represented." Citizens' orientations toward legislatures have, in fact, been inves tigated to some extent. Davidson and Parker (1972) opened up research on support for Congress more than twenty years ago (also see Davidson, Kovenock, and O'Leary 1966: 38-66); and the state of such research was synthesized ten years ago by Dennis (1981). Similar research was conducted with the state legislatures in mind during the 1970s (e.g., Patterson, Hedlund, and Boynton 1975). Most commonly, the thrust of research has gone to the extent of constituents' supportive or unsup- portive evaluations of the legislature and its work. Do citizens gener- ally approve or disapprove of the job the legislature does? Such inquiry about legislative performance is an effective, widely understood, and
+
+"probably the simplest and most direct" indicator of public support for the legislature (see Dennis 1981: 324; Ripley 1988). Why should support, or lack of support, for the legislature be
+
+investigated? Public support for Congress oscillates over time without apparent dire consequences for the political system. At the same time,
+
+Received: April 17, 1990 Revision Received: January 8, 1991 Accepted for Publication: February 12, 1991 NOTE: We are indebted to the Polimetrics Laboratory for Political and Social Research, Ohio State University, and especially to Dr. Kathleen Carr, Senior Research Associate, for gathering the Ohio survey data that we have analyzed. We thank Taehyun Kim and Ki-Inn Lee, graduate students at Ohio State University, for their help at various stages of the research process. Comments and suggestions from our colleagues Paul Allen Beck, Gregory A. Caldeira, and Aage R. Clausen are much appreciated.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+316 The Western Political Quarterly
+
+there is general worry about the low esteem in which Americans some- times hold their representative institutions (see Muller and Jukam 1977). This worry may be based upon the belief that (1) some minimal "reservoir of good will" is essential to long-term institutional effective- ness (Easton 1966: 273); (2) low esteem for congressional performance indicates a low level of felt responsiveness to citizens' needs; (3) disdain for and distrust of the legislature discourages good potential candi- dates from running for legislative office; and (4) unless constituents "hold Congress in high regard . . . it will be unable . . . to put a
+
+stamp of legitimacy on public policy" (Dennis 1981: 320). The existing research on supportive or unsupportive public apprais- als of Congress and state legislatures is flawed mainly by simplistic analysis, taking into account too few explanatory variables, and failing to control for multiple effects. Much of the early work relied on bivariate or partial correlations, and the few multivariate studies embody only a limited number of variables. We aim to estimate a more inclusive ana lytical model with both national and state legislatures in view. We made observations of citizens' attitudes toward two legisla- tures, Congress, and a state legislature. We gathered our data in one state, Ohio, where we interviewed a sample of citizens. Our analysis is, therefore, focused upon Ohio citizens' orientations toward Congress and the Ohio legislature. Our purpose is to establish the significant variables or conditions influencing the degree of citizens' support for the legislature. Additionally, we wanted to ascertain how the evalua- tions of the national legislature and a state legislature differed. Most
+
+important, we sought to determine if the explanations for what pro- duces support for legislatures varies between the two governmental levels.
+
+CITIZENS' LEGISLATIVE ORIENTATIONS
+
+Our data come from a random public opinion telephone survey of 1,013 individual households, conducted in Ohio in mid-1988. Ohioans were asked a number of questions concerning their orientations toward Congress, their U.S. senators and representatives, the Ohio General Assembly, and Ohio legislators. The key question dealt with percep- tions of how well Congress and the state legislature were performing. We asked, "How strongly do you approve or disapprove of the way Congress [the Ohio legislature] is handling its job?" Responses to this question were distinctively tilted in the positive direction, somewhat more so than has been true for national samples
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 317
+
+in recent years (see Patterson and Caldeira 1990).1 Nearly two-thirds of Ohioans approved or strongly approved of the way Congress is han dling its job; slightly more than one-fourth disapproved or strongly disapproved; and 11 percent were unable to venture an assessment. A 1989 national survey showed that 73 percent were favorable toward
+
+Congress and 20 percent were negative (Makinson 1990: 13). Positive evaluation of the Ohio legislature was about the same as for Congress - more than 60 percent approved or strongly approved. A smaller
+
+proportion expressed negative assessments, and one respondent in four could not evaluate the state legislature at all.
+
+Interestingly, Ohioans are inclined to assess the performance of their state legislature more approvingly than they rate Congress. More- over, when we asked our respondents to compare the performance of
+
+Congress and the Ohio legislature directly, the state legislature won out. The question was: "Comparing the state legislature meeting in Columbus with the U.S. Congress meeting in Washington, D.C., when it comes to making laws which do you think does the best job?" Very nearly half--47 percent--felt the state legislature does a better
+
+job than Congress; 30 percent rated Congress better; 8 percent called it a draw; and 16 percent could not make this comparison at all.
+
+Approval or disapproval of the performance of Congress and the Ohio legislature is substantially correlated (taub = .33). Indeed, nearly half of our respondents approve of the job done by both Congress and the state legislature, and about a fifth disapprove of both. But 13 per- cent approve of the state legislature's performance and disapprove of
+
+congressional performance. Conversely, 16 percent approve the job Congress does, but disapprove of the state legislature's performance. Because citizens may have divergent appraisals of the performance of
+
+Congress and their state legislature, it behooves us to investigate and model these two objects of evaluation individually.
+
+ACCOUNTING FOR VARIATIONS IN LEGISLATIVE SUPPORT
+
+We draw upon the earlier research for the purpose of identifying independent variables that should be incorporated into our own expla 1 There is a well-known "positivity bias" in eliciting opinions from Americans about people. Americans tend to give favorable responses. Such a bias may be present in responses to questions about the performance of political authorities and insti- tutions. See Lau, Sears, and Centers 1979 for an analysis of the extent to which positivity bias may derive from the research instrument.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+318 The Western Political Quarterly
+
+nation of variations in constituents' support for the legislature. More- over, we rely upon the few subsequent studies where investigators worked primarily with legislative performance evaluation as their depen- dent variable (see Cook 1979; Mezey 1976; Parker 1977, 1981; Patterson and Caldeira 1990). Nine sets of independent variables constitute our explanatory effort: socioeconomic status, respondents' feelings about their own represen- tatives, political involvement, political efficacy, political ideology, party identification, legislator relations, evaluation of the executive, and eco- nomic conditions. Because many of these variables are commonplace in political behavior research, we defer elaboration of explicit mea- sures to the Appendix. Table 1 shows the ranges, means, and standard deviations for the major variables in our analysis. We include standard indicators of socioeconomic status (SES) in our calculations because, hypothetically, affluent and educated citizens might
+
+TABLE 1
+
+MEANS AND STANDARD DEVIATIONS FOR SELECTED VARIABLES FOR CONGRESS
+
+AND THE OHIO LEGISLATURE
+
+U.S. Congress Ohio General Assembly Variables Range Mean Standard Range Mean Standard Deviation Deviation
+
+Job Approval 1-4 2.71 .59 1-4 2.85 .46 Confidence in Leaders 1-4 2.84 .58 1-4 2.91 .52
+
+Registration & Voting 0-2 1.27 .80 0-2 1.27 .80 Political Knowledge 0-6 2.68 2.15 0-4 .50 .95 Contact with Legislators 0-9 4.97 2.16 0-9 4.92 2.19 Satisfaction -1- +1 .11 .43 -1- +1 .05 .32 Evaluation of Executive 1-4 2.59 .87 1-4 2.62 .67 State Efficacy - - - 0-12 5.77 3.43 National Efficacy 0-12 5.06 3.10 - - - State Representative Feeling Thermometer - - - 0-100 59.60 19.21 State Senator Feeling Thermometer - - - 0-100 59.87 18.77 U.S. Representative Feeling Thermometer 0-100 64.02 22.36 - - 
+
+Senator Glenn Feeling Thermometer 0-100 61.02 20.63 - - - Senator Metzenbaum
+
+Feeling Thermometer 0-100 59.68 23.50 - - 
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 319
+
+be more supportive of institutions than the immiserated and unwashed. In reality, research findings vary, with one state legislative study show ing SES positively related to legislative support, and a study of support for Congress indicating no bivariate relationship (Patterson, Hedlund and Boynton 1975; 56-74; Davidson and Parker 1972; 606-7). Racial differences might be expected to affect appraisals of the leg- islature if it is assumed that racial minorities are more likely than whites to be generally alienated from the white-dominated political system as a whole. It is true that white-nonwhite differences in support for Congress did not materialize in data drawn from the late 1960s
+
+(Davidson and Parker 1972: 606). Nevertheless, because increased racial polarization conceivably had occurred by the 1980s, we looked for different appraisals by the two major racial groups in our sample - about 10 percent of which was nonwhite. In addition, our explanatory scheme embraces two indicators of
+
+respondents' economic condition, one objective and the other subjective. The objective, or external, economic variable is the extent of unem- ployment in the county in which respondents live, measured as the
+
+change in county unemployment rates between 1984 and 1988. The
+
+subjective, or internal, indicator taps the respondents' perceptions of their own economic situation. We asked whether or not they felt eco nomically better or worse off than four years previously. Incorporating these two measures of economic conditions into our model draws directly upon the research on presidential popularity, where a heavy explanatory burden is shouldered by economic vari- ables (a good summary with profuse citations is in Edwards 1983:
+
+226-67). Although the results of the presidential research are mixed, it is fair to say that the impact of economic variables on citizens' sup- port for political authorities has not been strong (see Peffley 1984). Accordingly, we should perhaps anticipate an even weaker influence upon congressional popularity. We assume that citizens are less prone to blame Congress than they are the president for economic problems. There is little reason to think that Ohioans blame their state legisla- ture for economic woes precipitated by forces from well beyond the state's borders. It is plausible to believe that people deeply involved in politics view political institutions more favorably than the politically uninvolved. A minimal form of political involvement is party identification. We asked our Ohio respondents the standard form of the party identification question, eliciting both the direction of their attachment (Republican,
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+320 The Western Political Quarterly
+
+Independent, or Democrat), and the strength of their identification with party. Although Ohio tips in the direction of Democratic party identification, both parties have a substantial proportion of adherents
+
+(48 percent said they were Democrats, 42 percent identified as Repub- licans, and about 10 percent declared themselves Independents). We
+
+thought that Democrats would be more supportive of a Democrat- controlled legislature, and that Republicans would be more favorable to a Republican-controlled legislature. We also hypothesized that this
+
+general connection would be intensified if strength of party identifica- tion were added. Although the weight of the evidence on this point from the few existing studies is mixed (see Davidson and Parker 1972: 606), there is at least some warrant to believe that evaluation of legis- lative performance is affected by partisan attachment. We asked respondents to characterize their own political ideology as conservative or liberal and to indicate the strength of their ideological orientation. Ohioans tend to think of themselves as politically conser- vative. Nearly 59 percent identified themselves as conservative; only 33 percent thought of themselves as liberal; 8 percent were neutral
+
+ideologically. We surmised that conservatives might be more sympa- thetic toward the established legislative institutions, and that liberals
+
+might be more critical.
+
+Moreover, we scored our respondents' immersion in politics by inquiring directly about their political involvement. We asked about their political activity: had they registered to vote and had they voted in the 1988 primary election? We inquired whether or not respondents knew the names and party affiliations of their representatives. We could check responses about members of Congress for correctness because it was possible to identify the congressional districts in which our respon- dents lived. The names and party affiliations our respondents offered us for state legislators had to be taken at face value, inasmuch as it was practically impossible to identify many respondents' state legislative district. Only 26 percent of our sample were unable to give the correct name of an Ohio U.S. senator or their congressman, or provide the correct party affiliation of these national representatives. Most Ohioans know at least one member of Congress. But nearly 72 percent could not name their state representative or the legislator's party affiliation. Finally, we investigated our respondents' immersion in politics by asking them about their relations with legislators. We asked about their contacts with their members of Congress and state legislators - whether or not they had initiated a contact, received communications from
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 321
+
+their representatives, or followed news about their representatives. Ohio- ans report a fair amount of contact with congressmen and state legis- lators, and in about equal measure. Then, we asked how satisfied our respondents were with help from their representatives. Americans expect their representatives to provide helpful service to them (Parker 1989:
+
+178-79). Ohioans report more satisfaction than dissatisfaction with
+
+help provided by both national and state legislators. That fewer Ohio- ans request help from state legislators than from members of Congress is perhaps partly due to the more strenuous efforts of congressmen to advertise constituency services (see Cain, Ferejohn, and Fiorina 1987:
+
+54-57), and partly to their perception that Congress is more important than the state legislature. We thought support for the legislature would be strongest among those who had contact with representatives, espe- cially those who were pleased with the help they received.
+
+Feelings of political effectiveness, or political efficacy, have been mea- sured in many studies over more than three decades (see Abramson 1983: 135-89). We include three interview items capturing respondents' sense of their influence on government. Hypothetically, citizens who believe the government will be responsive to them are likely to evalu- ate political institutions more favorably than those who lack a sense of effectiveness in politics.2 Davidson and Parker found modest correla- tions between political efficacy and congressional job performance (1972: 607-8; Parker 1981: 37-38). Their findings dictate including a politi- cal efficacy scale in our analysis (the specific items in the scale are
+
+presented in the Appendix). Accordingly, we measure both national- and state-level political efficacy, tapping what has come to be called "external" efficacy -"the individual's belief that means of influence are available to him" (Balch 1974: 24). There is a body of literature and lore tying citizens' orientations toward the legislature to appraisals of the chief executive. Davidson and his associates spoke of public attitudes toward Congress as lying
+
+2 A considerable amount of work has been done on the items included in indices of political efficacy. In constructing our index, we relied upon the methodological work of Acock, Clarke, and Stewart 1985; Asher 1974; Balch 1974; Craig 1979; Craig and Maggiotto 1982; and McPherson, Welch, and Clark 1977. Our origi- nal political efficacy scale included an additional item, the so-called "voting" item--"Voting is the only way that people like me can have any say about how the federal government in Washington runs things" (and a parallel item for the state government in Columbus). As the methodological work has demonstrated, this item can present difficulties of scalability. In working with these efficacy items, we found it advisable to exclude the "voting" item from our scale.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+322 The Western Political Quarterly
+
+in "the shadow of the president," saying that "assessments of Congress are heavily colored by the image of the President" (Davidson, Kovenock and O'Leary 1966: 59; Davidson and Parker 1972: 608). Scholars
+
+studying fluctuations in support for Congress over the post-World War II years concluded that, "ceteris paribus, when the public evaluates the
+
+president in a positive light, there is a strong tendency for Congress to be popular, as well" (Patterson and Caldeira 1990; but see Parker 1977: 102-4). No analysis of evaluations of legislative performance can fail to include evaluation of the executive- presidential or gubernatorial popular- ity. For our analysis, this means the popularity of President Ronald
+
+Reagan and Ohio Governor Richard F. Celeste. In July 1988 a national
+
+Gallup Poll showed that 51 percent of Americans approved of the way Ronald Reagan was doing his job as president (Congressional Quarterly Weekly Report, Vol. 46, August 13, 1988, p. 2247). In the same month 60 percent of Ohioans approved both the Reagan presidency and the
+
+job performance of Governor Celeste. Our aim is to assess how much the popularity of the chief executives affects citizens' appraisals of
+
+Congress and the state legislature. Much has been made of the disparity in public assessments of
+
+Congress on the one hand, and individual congressmen on the other. Citizens may feel favorable toward their own representative because of his or her personal style or perceived responsiveness, while assessing the legislature as a whole on other criteria such as perceived inability to resolve national problems, scandals, failure to support the presi- dent, or negative media coverage (see Parker and Davidson 1979). But for us the question is not focused upon this disparity. Rather, we seek to estimate the contribution made by feelings about individual representa- tives to evaluation of the performance of the legislative institution as a whole. We surmised that favorability toward citizens' own representa- tive might be transferred to the legislature of which the representative is part (for a different approach, see Born 1990). We employed the standard thermometer scale for this purpose, where ratings range from 0 to 100 in "warmth" or "favorability." There is good reason to suspect that citizens' images of and feelings about the state's U.S. senators will have a more potent impact upon appraisals of the legislative institution than evaluations of U.S. House members or state legislators. After all, U.S. senators represent the entire state, and they are much more visible to a wider audience than House members, and certainly more so than state legislators (see Parker
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 323
+
+1989: 181-82). Accordingly, we may find that Ohioans' feelings about Senators John Glenn and Howard Metzenbaum carry special weight in accounting for their supportive orientations toward the legislature.
+
+FINDINGS
+
+We use a multivariate model to explain the public's evaluation of the performance of Congress and the Ohio General Assembly that
+
+incorporates nine independent variables or sets of independent vari- ables (eighteen individual variables at the national level and seventeen at the state level). We have estimated the effects of these independent variables on evaluation of legislative job performance with ordinary least squares regression. The fruits of these estimations are shown in Table 2, where the results are shown first for the U.S. Congress and then for the Ohio legislature. It is abundantly clear that three lines of explanation for variations in specific support for the legislature - national or state - can quickly be eliminated. First, socioeconomic status has virtually no bearing on citizens' orientations toward legislative performance. Constituents' more diffuse orientations toward the legislature as an institution may be touched by their social status, but performance evaluation is not (see Patterson et al. 1975: 56-74). The finding from research conducted in the 1960s (Davidson and Parker 1972: 606-7) that there existed almost no zero-order relationship between congres- sional job approval and indicators of socioeconomic status is confirmed. Racial differences in congressional support did not develop in the analysis of data for the 1960s. Neither do they emerge from the anal- ysis of our 1988 data. Second, ideological orientations do not independently shape citizens' approval or disapproval of legislative performance. Conservatives are not more inclined than liberals to feel supportive about the legislative institution, whether it be Congress or the Ohio legislature. Nor does strength of ideological self-identification bear a significant relationship to specific legislative support. Finally, economic conditions seem to have no direct impact upon how citizens assess legislative performance.3 Neither the objective eco 'Our interview schedule did not include items eliciting respondents' appraisal of future economic prospects, assessments of general business conditions, or judg- ments of the effectiveness of the two major political parties in managing economic problems. In an analysis of congressional elections between 1956 and 1976, vari- ables like those included in our analysis - measures of personal economic well This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+324 The Western Political Quarterly
+
+TABLE 2
+
+VARIABLES AFFECTING PUBLIC EVALUATION OF CONGRESSIONAL AND STATE LEGISLATIVE JOB PERFORMANCE
+
+U.S. Congress Ohio General Assembly Variables B Beta t-ratio sig. B Beta t-ratio sig.
+
+Constant 1.274 3.81 2.225 7.05
+
+Feeling Thermometers Sen. Glenn .004 .08 1.71 .09 Sen. Metzenbaum .005 .11 2.11 .04 U.S. Representative .002 .05 1.14 .26 State Senator -.002 -.05 -.65 .52 State Representative .003 .07 .96 .34 Socioeconomic Status Education .004 .00 .09 .93 -.046 -.06 -.93 .36 Income -.019 -.05 -1.14 .25 -.006 -.02 -.31 .75 Race .061 .02 .52 .60 .046 .02 .37 .71 Political Involvement
+
+Registration & Voting -.025 -.02 -.44 .66 -.045 -.05 -.77 .44 Political Knowledge -.038 -.08 -1.78 .08 .038 .05 .77 .44 Political Efficacy .066 .21 4.62 .01 .059 .27 4.15 .01 Political Party Identification
+
+Party ID .133 .13 2.55 .01 .014 .02 .27 .79
+
+Strength of ID -.020 -.02 -.46 .65 -.004 -.01 -.09 .93 Political Ideology Ideological ID .043 .04 .91 .37 .008 .01 .16 .88
+
+Strength of Ideology -.044 -.05 -1.11 .27 -.048 -.07 -1.16 .25 Relations with Legislators Contact -.048 -.11 -2.17 .03 -.011 -.03 -.52 .60 Satisfaction .076 .06 1.32 .19 -.007 -.01 -.09 .93 Evaluation of Executive .074 .07 1.49 .14 .116 .15 2.52 .01 Economic Conditions
+
+Change in Unemployment .003 .00 .10 .92 -.051 -.08 -1.34 .18 Better or Worse Off .038 .03 .72 .47 .012 .01 .23 .82 R2 = .13; Minimum N = 536* R2 = .12; Minimum N = 302*
+
+*Some survey items produced considerable missing data. We employed pairwise deletion of cases to retain as many respondents as possible in our analysis. Income, ideological self-placement, and thermometer ratings produced the greatest nonresponse. The feeling thermometer ratings for state legislators developed the most serious nonresponse problem.
+
+being and unemployment--had little impact on voters' decisions to support or punish incumbents. See Kinder and Kiewiet 1979; and, Kuklinski and West 1981. Prospective economic indicators, or measures of governmental effectiveness in dealing with general economic problems, might have a stronger influence upon evaluation of congressional performance than the economic indicators we have included.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 325
+
+nomic conditions around them (measured in terms of unemployment) nor their perceptions of their own economic condition over time (whether they feel better or worse off than previously) bear any substantial rela tionship to citizens' orientations toward the legislature. The lack of an impact of these variables on assessment of legisla- tive performance is more clearcut than when executive or judicial institutions are considered. The impact of economic conditions on
+
+presidential popularity has been a matter of some debate (see Ostrom and Simon 1985, 1989 for recent treatments). Some scholars have
+
+argued that citizen's personal economic circumstances have, at best, only a weak effect on the popularity of political authorities, at least when the president is the authority considered (for a convenient sum mary, see Edwards 1983: 226-36). Analyses of presidential popularity and confidence in the U.S. Supreme Court over time find varying effects of inflation and unemployment (for example, see Caldeira 1986; Kernell 1978; MacKuen 1983; Ostrom and Simon, 1985).
+
+THE PERCEPTUAL FILTER OF PARTISAN ATTACHMENT
+
+That citizens tend to appraise political life through the filter of their own party identification is a commonplace. Party identification has been shown to be a very impressive determinant of presidential popularity. Democrats evaluate Democratic presidents much more favor ably than do Republicans, and vice versa (see Edwards 1983: 212-15; Hibbs 1982). The meager body of research on congressional popular- ity produces contradictory findings. The principal study of congres- sional support found no significant party effect (Davidson and Parker 1972: 606). Research on legislative performance in one state indicated a modest but important correlation (Patterson, Hedlund and Boynton 1975: 52-53). The coefficients in Table 2 for party identification plainly show that strength of partisan attachment plays no important role in account ing for variations in citizens' support for the legislature. But the direc- tion of party identification is significantly related to evaluation of con gressional performance. Democrats appraise the Democrat-controlled
+
+Congress substantially more favorably than Republicans, with inde- pendents falling between them (see Figure 1). Given the growing partisanship of congressional behavior by mid-1988, and the sharp partisan exchanges between the Reagan White House and Democratic congressional leaders, it comes as no surprise that Ohioans tended to evaluate congressional performance in partisan terms.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+326 The Western Political Quarterly
+
+FIGURE 1
+
+PUBLIC EVALUATION OF THEJOB PERFORMANCE OF CONGRESS AND THE
+
+OHIO LEGISLATURE BY PARTY IDENTIFICATION, EVALUATION OF
+
+THE EXECUTIVE, AND POLITICAL EFFICACY
+
+POLITICAL PARTY IDENTIFICATION
+
+Republicans
+
+Independents
+
+Democrats
+
+PRESIDENT REAGAN - GOVERNOR CELESTE PERFORMANCE RATINGS
+
+Strongly Disapprove
+
+Disapprove
+
+Approve
+
+Strongly Approve
+
+POLITICAL EFFICACY
+
+Low 0-2 lll U.S.Congress 3-4 Lii Ohio Legislature
+
+5-6
+
+7-8 9-10
+
+High 11-12 1111- I . I I 1 I I I I 1 0 20 40 60 80 100 Percent who "Approve" or "Strongly Approve"
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 327
+
+At the same time, the direction of party identification had no
+
+important bearing on Ohioans' orientations toward their state legisla- ture. This finding is understandable in light of the context of partisan- ship in the Ohio legislature --partisan cleavage is minimal, and prob- ably not very salient to the average Ohioan. Moreover, partisan perceptions of the legislature probably were blurred by the fact that Democrats held the majority in the state House of Representatives, while Republicans controlled the state Senate.
+
+PRESIDENT REAGAN AND GOVERNOR CELESTE
+
+The tail of congressional popularity is not wagged with much vigor by the dog of presidential approval or disapproval. For data gathered in the 1960s, Davidson and Parker (1972) showed a sizable zero order correlation (r = .27) between citizens' ratings of President Lyndon Johnson and their assessment of the Democratically controlled Congress. In our data, the bivariate correlation is very faint indeed.
+
+Among Ohioans in 1988, the zero order relationship between ratings of President Ronald Reagan and evaluation of the Democratically controlled Congress is r = -.02. The impact of presidential popularity on congressional perfor- mance evaluation is more robust in the multivariate context, when party identification and other confounding variables are taken into the fold (and where b = .074, p <.14). The direct effect of Reagan pop- ularity is nonlinear, as Figure 1 indicates. Ohioans who strongly approve of President Reagan were, in fact, much less approving of the perfor- mance of a Democratic Congress than those who disapprove or merely approve. But the relatively weak influence of presidential popularity on congressional performance evaluation here underscores both the confounding effects that divided party control of the major govern- mental executive and legislative institutions can have on citizens' ori- entations (see Davidson et al. 1966: 59-61), and the cross-sectional impact of rather unusual patterns of presidential popularity (during the Reagan years denoted the "teflon presidency"; see Ostrom and Simon 1989). Positive evaluations of Congress and the president may run together principally when the congressional majority and the chief magistrate are of the same political party. If so, successive cross- sectional analyses may show us that we cannot safely conclude that
+
+"support for Congress is a function of an individual's positive feelings toward the presidency" (Davidson and Parker 1972: 608).
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+328 The Western Political Quarterly
+
+Ohioans' orientations toward the state legislature are influenced
+
+substantially by their appraisal of the governor's performance. The zero order relationship between assessment of Governor Celeste's and the Ohio legislature's performance is strong (r = .21) and the impact of gubernatorial popularity is robust (p <.01) in the multivariate model. Figure 1 shows the clear monotonic relationship between guber- natorial and legislative evaluation. This contrast in the effects of the
+
+popularity of President Reagan versus Governor Celeste suggests the
+
+interplay of partisan orientations and positive or negative judgments of executive performance as these factors impinge upon evaluation of the
+
+legislature. In the context of a Republican in the White House and a Democratic Congress, President Reagan's popularity played a rather
+
+tepid role in shaping citizens' orientations toward Congress. But party identification has a strong shaping influence. In the context of a Democratic governor with a legislature in which one house is strongly Democratic and the other has a small Republi- can majority, party identification played no significant role in citizens' evaluations. Gubernatorial popularity carries the day. Citizens' assess- ments of legislative performance hinge upon the partisan matrix, but, depending on changing party fortunes in majority control of institu- tions, that matrix will vary in the way in which it impinges.
+
+THE PRIMACY OF POLITICAL EFFICACY
+
+The forays into analysis of support for Congress, conducted with data gathered in 1968, 1974, and 1976, were limited to bivariate rela tionships or to inclusion of a very few independent variables (Davidson and Parker 1972; Parker 1981). Measures of political efficacy were included in these analyses. In the 1968 study, the zero order correla- tion of a political efficacy index and positive support for Congress was quite modest (r = .17). Because the magnitude of this simple relation- ship was smaller than the correlations for other variables (media atten- tion, evaluation of the president, level of campaign interest), political efficacy was not given a major place in the interpretation (Davidson and Parker 1972: 607). In the analyses of the mid-1970s, a political efficacy scale was found to have a significant relationship to congres- sional "unpopularity," but because of the nature of the estimations its effect was deemed statistically significant but relatively unimportant (Parker 1981: 37-38). In contrast, our analysis indicates a very powerful effect of feelings of political efficacy on evaluations of legislative performance. Our inter This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 329
+
+view schedule included two distinct political efficacy scales, one refer ring to the responsiveness of the national government in Washington and the other to the state government in the Ohio capital. National
+
+efficacy is strongly associated with the appraisal of congressional per- formance, and state efficacy is equally strongly related to support for the state legislature (for both coefficients, p <.01). If people think they have little say in what the government does, that government officials don't much care what people like them think, and that elected representatives quickly lose touch with their constitu- ents, they are, ceteris paribus, very likely to think of Congress or their state legislature as performing poorly. Positive feelings of personal political effectiveness, a sense that officials in Washington and in the state capital are responsive, independently conduce approval of the
+
+legislature's performance. Specific support for the legislature is pro- foundly a function of how responsive people consider the government to be. The monotonicity and strength of this effect is dramatically exemplified in Figure 1.
+
+U.S. SENATORS HELP SHAPE SUPPORT
+
+We contrived estimations so as to show how much attachment to the individual representative helps to shape positive evaluation of the
+
+legislative institution. The data reveal that the only affective orienta- tions that matter are those toward the state's two U.S. senators. Mem- bers of the U.S. House of Representatives may be more beloved of their constituents than U.S. senators, but only the feelings people have for their U.S. senators substantially affect their evaluation of Congress (see Figure 2). U.S. senators are, after all, highly visible, and their actions and activities are relatively well covered by the media. Senator Glenn has been a national hero, a famous astronaut and widely recognized celeb- rity. Senator Metzenbaum, a feisty champion of liberal causes who
+
+assiduously attends to his standing with the Ohio public was, in July 1988, in the midst of a vigorous campaign for reelection. Attitudes toward these high profile U.S. senators helped significantly to shape specific support for Congress among Ohioans. That warmth or favorability toward respondents' congressman should be only weakly related to an assessment of the entire legislative insti- tution is, it seems, consistent with the paradox that Americans love their congressman more than they love Congress. Our results suggest
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+330 The Western Political Quarterly
+
+FIGURE 2
+
+PUBLIC EVALUATION OF THE JOB PERFORMANCE OF CONGRESS AND THE OHIO
+
+LEGISLATURE BY THERMOMETER RATINGS OF REPRESENTATIVES
+
+100
+
+80 Sen. John Glenn
+
+40 6 6 - .-.- / - - - State Representative
+
+0) CL
+
+40 a- a 0-20 State 21-40 41-60 61-80 81-100Senator
+
+Unfavorable -. Feeling Thermometer O Favorable
+
+the likelihood that favorable constituency appraisal of a member of
+
+Congress is quite independent of approval or disapproval of Congress itself. In like manner, we find that favorability ratings of state senators and representatives have little independent influence on approval of the performance of the state legislature, suggesting the paradoxical independence of these objects of affective orientation at the state level, as well. Favorable feelings toward a representative do not easily rub off on the legislative institution. They only seem to do so for U.S. sena- tors, where high visibility and celebrity seem to cast a shadow on the institution of their membership.
+
+POLITICAL INVOLVEMENT AND SUPPORT
+
+Davidson and Parker thought of support for the Congress of the 1960s as flowing importantly from political participation: involved cit- izens would be more supportive. But they came to believe that "passive"
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 331
+
+participation - campaign interest and attention to media reporting of
+
+politics--was driving support for Congress more than "overt" partici- pation in the form of campaign and election activities. Our measure of overt political involvement, drawn from the activities of registration and voting, suggests that in the multivariate framework the early spec- ulations were correct. Registration and voting activities have no signif- icant impact on support for Congress or the state legislature. At the same time, political knowledge - the extent to which respon- dents know the political actors- has a remarkable and unexpected independent bearing on support for Congress. When the effects of a
+
+range of variables are taken into account, our political knowledge vari- able is negatively related to congressional support. Once the effects of the thermometer ratings are controlled --and these have already con- stituted an exit for respondents who did not know the representative well enough to rate them- to know legislators' names and party affili- ations is associated with negative evaluations of congressional perfor- mance. Familiarity, it seems, can breed contempt. This effect is not observable for evaluation of state legislative performance, perhaps because the state legislators are much less well known than are the national legislators.
+
+CONTACT AND SATISFACTION
+
+We hypothesized that if constituents had substantial contact with their representative, and especially if they were satisfied with the results of their requests for assistance from their legislator, they would be more prone to approve the performance of the legislature. Plausible as this expectation may seem, the results of our analysis pan out unex- pectedly. The relationship between contact and congressional support is negative. Constituents who write their congressmen, receive commu- nications from the member, or pay attention to news stories featuring their representative arrive at negative assessments of Congress when other influences are controlled. Relatively extensive knowledge about members of Congress and communication with them do not build confidence or engender supportive orientations toward Congress. Per- haps this helps to explain why constituents love their congressman so much more than they approve Congress: awareness and familiarity with its members, far from establishing sympathetic understanding, is associated with weaker, not stronger, support for the institution. At the same time, citizens who contact congressmen tend to be satisfied (the simple r = .28). Most important, satisfaction with help
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+332 The Western Political Quarterly
+
+from an individual member contributes, albeit modestly, to specific support for Congress (b = .976, p <.19). Good "casework" on the
+
+part of individual members of Congress surely helps make them more
+
+popular and more reelectable (Cain, Ferejohn and Fiorina 1987; see also Johannes 1984). It seems that good casework also moves public evaluation of the general performance of Congress as an institution in a favorable direction. The expected relationships between contact and satisfaction on the one hand, and support for Congress on the other are simply absent for the state legislature. Ohioans report contacts with congressmen and state legislators in about the same measure, but contact is not signifi- cantly related to support for the state legislature (although the coeffi- cients do, interestingly, carry the same negative sign as in the congres- sional analysis), and satisfaction has no bearing on state legislative support. In the case of satisfaction a null relationship is not so surpris- ing, given the fact that few Ohioans reported actually seeking help from their state legislator. Representation at the grass roots has its limitations for establishing a supportive environment for the legisla- ture as a whole.
+
+CONCLUSIONS
+
+Three broad conclusions stand out from our analysis. First, citizens' affective orientations to Congress and to their state legislature differ. Second, the explanations for these orientations vary. Third, the link between feelings of efficacy and evaluation of legislative institutions leaps out as especially powerful at both territorial levels. Ohioans accord their state legislature widespread confidence and give hearty approval of its performance. Variations in constituents' specific support for the state legislature are preeminently a function of their political efficacy - their sense that the state government is respon- sive to them--and their evaluations of the performance of the state's chief executive. State political efficacy is the independent variable in our state analysis carrying the heaviest weight (beta = .27). The pop- ularity of Governor Celeste comes next (beta = .15). Specific support for Congress is more complex. To be sure, national political efficacy plays a major part (with the largest standardized coefficient; beta = .21), and presidential popularity carries some weight. But warm and favorable feelings toward members of Congress (espe- cially the state's U.S. senators), awareness of who the members are,
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 333
+
+partisan attachment, and contact are associated with citizens' assess- ment of congressional performance, as well. Our analysis has delineated the bases of specific support for the
+
+legislature more thoroughly than any of its predecessors, although we have learned much from the earlier work and built upon it. But much is left to learn. Despite our exhaustive effort to construct and estimate variables bearing upon legislative support, our models leave a great deal to explain (indicated by R2 = .13 and R2 = .12 for the congres- sional and state legislative models respectively). We originally expected that a common explanatory system would be adequate for explaining support both for Congress and for the state legislature. We now see that there are important differences in the impact of explanatory vari- ables. Nevertheless, the most potent independent variable in both the national and state models - political efficacy - underscores the impor- tance of responsiveness in representative political systems. "In an era of cynicism about the functioning of representative institutions," writes Heinz Eulau, "the ways in which representatives manipulate political symbols in order to generate and maintain trust or support become critical aspects of responsiveness" (1986: 465). If the represented believe the government will respond to their preferences and concerns, they will give representative institutions their support.
+
+APPENDIX
+
+The dependent variable in the model is measured as job perfor- mance ratings for the U.S. Congress and the Ohio General Assembly. Scores range from 1 (strongly disapprove) to 4 (strongly approve). We have derived and measured the independent variables included in the analysis as follows:
+
+Feeling thermometers: Respondents' ratings of their U.S. Representa- tives, State Representatives, State Senators, as well as Senators John Glenn and Howard Metzenbaum. The scores range from 0 (lowest) to 100 (highest). Education: Highest grade of school or year of college completed, recoded as follows: 1 = grade school; 2 = some high school; 3 =
+
+high school graduate; 4 = some college; and 5 = college graduate. Income: Total household income before taxes, recoded as follows: 1 = $10,000 or less; 2 = $10,001 to $15,000; 3 = $15,001 to $20,000; 4 = $20,001 to $25,000; 5 = $25,001 to $30,000; 6 = $30,001 to $35,000; 7 = $35,001 to $40,000; 8 = $40,001 to $45,000; 9 =
+
+$45,001 to $50,000; and 10 = $50,001 and above.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+334 The Western Political Quarterly
+
+Race: Respondents' race, coded 1 if white, 2 if black, and 3 if other.
+
+Registration and voting: Scale constructed to indicate if respondents (a) were registered to vote in Ohio at the time of the survey, and (b) reported that they had voted in the Democratic or Republican primary elections held earlier in the year. Scores range from 0 (not registered to vote) to 2 (registered and participated in primary election). Political knowledge: Respondents' ability to recall basic facts about their elected representatives at the national and state levels. Two scales were constructed, one for knowledge regarding Congress, the other for
+
+knowledge regarding the Ohio General Assembly. Congressional-level knowledge scores were based upon respondents' ability to provide correct names and party affiliations for their con gressman and for Ohio's senators (Glenn and Metzenbaum). Verifica- tion of responses was based upon respondents' area code, county of residence, and zip code. Scores for this variable range from 0 (respon- dent could not provide any information) to 6 (all responses correct). State-level knowledge scores were determined on the basis of
+
+respondent's ability to provide names and party affiliations for their state representative and senator. No verification of these responses was
+
+possible. Scores for this variable range from 0 (respondent could not
+
+provide any information) to 4 (respondent offered names and associ- ated party affiliations for state representative and senator). Political efficacy: Summary of respondents' reactions to three state- ments describing the relationship between citizens and government. The items were: "People like me don't have any say about what the federal government in Washington (state government in Columbus) does"; "I don't think federal officials in Washington (state officials in
+
+Columbus) care much what people like me think"; and "Generally speaking, those we elect to Congress in Washington (the state legisla- ture in Columbus) lose touch with the people pretty quickly." Two scales were constructed, one measuring national, and the other state, political efficacy. Scores range from 0 (least efficacious) to 12 (most efficacious). Political party identification: Respondents' self-reported party affilia- tion, coded 1 if Republican, 2 if Independent, and 3 if Democrat. Strength of party identification: Strength of respondents' party affili- ation. Scores range from 0 (weakest) to 4 (strongest). Political ideology: Respondents' self-reported placement on liberal- conservative spectrum, coded 1 if conservative, 2 if "middle-of-the- road," and 3 if liberal.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 335
+
+Strength of ideology: Strength of respondents' ideological identifica- tion. Scores range from 0 (weakest) to 4 (strongest). Contact: Scale reporting frequency of contact between respondents and elected representatives. Two variables were created, the first deal ing with members of Congress, the second with members of the Ohio General Assembly. Three distinct types of constituent contact with elected officials were evaluated: sending a letter, telegram or petition to a congressman or state legislator; receiving mail, newsletters or some other communication from congressmen or state legislators; and
+
+reading a newspaper story or hearing a television news story about a
+
+congressman or state legislator. Reported frequencies for each type of contact were scored 3 if frequently, 2 if occasionally, 1 if rarely, and 0 if never. Scores on these three types of contact were then added. Final scores range from 0 to 9.
+
+Satisfaction: Respondents' satisfaction with results of requests for
+
+help from elected representatives. Separate indices were created for
+
+requests to members of Congress and the Ohio General Assembly. Both were coded 1 if satisfied, -1 if not satisfied, and 0 if no help had been requested. Evaluation of executive: Respondents' evaluation of on-the-job perfor- mances of President Ronald Reagan and Governor Richard Celeste. Scores range from -2 (strongly disapprove) to 2 (strongly approve). Change in unemployment: Scale based on unemployment rates in respondents' county of residence for June 1988 and June 1984. The 1988 unemployment figures were subtracted from the 1984 figures. Data were taken from Ohio Bureau of Labor Statistics monthly labor force estimates. Better or worse off: Respondents' comparison of his or her current financial status with that of four years ago. Coded as -1 if worse off, O if same, and 1 if better off. The sampling and interviewing were conducted through the facil- ities of The Ohio Political Survey (TOPS), the survey research arm of the Polimetrics Laboratory for Political and Social Research, Depart- ment of Political Science, Ohio State University. The sample was cho- sen using a variation of the Wakesburg technique. State telephone directories are coded by number of pages, columns, and resident phone number density, and entered into a program called STATESAM to randomly choose the specified number of telephone numbers. All tele phone numbers, including unlisted numbers, in a specified geograph- ical location are given an equal chance of inclusion in the sample.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+336 The Western Political Quarterly
+
+Conducted during June, July, and August 1988, the interviewing reached 1,013 respondents who were interviewed by trained interview- ers. Six attempts were made at different times and days to complete an interview. Computer data entry and verification were accomplished using a data entry program especially designed by Polimetrics Labo- ratory research staff.
+
+REFERENCES
+
+Abramson, Paul R. 1983. Political Attitudes in America. San Francisco: W. H. Freeman. Acock, Alan, Harold D. Clarke, and Marianne C. Stewart. 1985. "A New Model for Old Measures: A Covariance Structure Analysis of Political Efficacy." Journal of Politics 47: 1062-84. Asher, Herbert B. 1974. "The Reliability of the Political Efficacy Items." Political Methodology 1: 45-72. Balch, George I. 1974. "Multiple Indicators in Survey Research: The Con- cept 'Sense of Political Efficacy'." Political Methodology 1: 1043. Born, Richard. 1990. "The Shared Fortunes of Congress and Congressmen: Members May Run from Congress, but They Can't Hide." Journal of Politics 52: 1223-41. Cain, Bruce, John Ferejohn, and Morris Fiorina. 1987. The Personal Vote: Con- stituency Service and Electoral Independence. Cambridge, MA: Harvard Uni- versity Press. Caldeira, Gregory A. 1986. "Neither the Purse Nor the Sword: Dynamics of Public Confidence in the Supreme Court." American Political Science Review 80: 1209-26. -- . 1987. "Public Opinion and the U.S. Supreme Court: FDR's Court- Packing Plan." American Political Science Review 81: 1139-53. Cook, Timothy E. 1979. "Legislature vs. Legislator: A Note on the Paradox of Congressional Support." Legislative Studies Quarterly 4: 43-52. Craig, Stephen C. 1979. "Efficacy, Trust, and Political Behavior: An Attempt to Resolve a Lingering Conceptual Dilemma." American Politics Quarterly 7: 225-39. Craig, Stephen C., and Michael A. Maggiotto. 1982. "Measuring Political Efficacy." Political Methodology 8: 85-109. Davidson, Roger H., and Glenn R. Parker. 1972. "Positive Support for Polit- ical Institutions: The Case of Congress." Western Political Quarterly 25: 600-12. Davidson, Roger H., David M. Kovenock, and Michael K. O'Leary. 1966. Congress in Crisis: Politics and Congressional Reform. Belmont, CA: Wadsworth. Dennis, Jack. 1981. "Public Support for Congress." Political Behavior 3: 319-50. Easton, David. 1966. A Systems Analysis of Political Life. New York: Wiley. Edwards, George C. III. 1983. The Public Presidency: The Pursuit of Popular Support. New York: St. Martin's. Eulau, Heinz. 1986. Politics, Self, and Society: A Theme and Variations. Cambridge,
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+Citizens' Orientations Toward Legislatures 337
+
+MA: Harvard University Press. Fenno, Richard F., Jr. 1975. "If, as Ralph Nader Says, Congress is 'The Broken Branch,' How Come we Love our Congressmen so Much?" In Norman J. Ornstein, ed., Congress in Change: Evolution and Reform, pp. 277-87. New York: Praeger. Hibbs, Douglas A., Jr. 1982. "The Dynamics of Political Support for Amer- ican Presidents among Occupational and Partisan Groups." American Journal of Political Science 26: 312-32. Johannes, John R. 1984. To Serve the People. Congress and Constituency Service. Lincoln, NB: University of Nebraska Press. Kernell, Samuel. 1978. "Explaining Presidential Popularity." American Politi- cal Science Review 72: 506-22. Kinder, Donald R., and D. Roderick Kiewiet. 1979. "Economic Discontent and Political Behavior: The Role of Personal Grievances and Collective Economic Judgments in Congressional Voting." American Journal of Politi- cal Science 23: 495-527. Kuklinski, James H., and Darrell M. West. 1981. "Economic Expectations and Voting Behavior in United States House and Senate Elections." Amer- ican Political Science Review 75: 436-47. Lau, Richard R., David O. Sears, and Richard Centers. 1979. "The 'Posi- tivity Bias' in Evaluations of Public Figures: Evidence Against Instru- ment Artifacts." Public Opinion Quarterly 43: 347-58. MacKuen, Michael B. 1983. "Political Drama, Economic Conditions, and the Dynamics of Presidential Popularity." American Journal of Political Sci- ence 27: 165-92. Makinson, Larry. 1990. Dateline: Capitol Hill: Congress, the Public, and the News Media. Washington, DC: Center for Responsive Politics. McPherson, J. Miller, Susan Welch, and Cal Clark. 1977. "The Stability and Reliability of Political Efficacy: Using Path Analysis to Test Alterna- tive Models." American Political Science Review 71: 509-21. Mezey, Michael L. 1976. "Constituency Demands and Legislative Support: An Experiment." Legislative Studies Quarterly 1: 101-28. Muller, Edward N., and Thomas O. Jukam. 1977. "On the Meaning of Political Support." American Political Science Review 71: 1561-95. Ostrom, Charles W., Jr., and Dennis M. Simon. 1985. "Promise and Per- formance: A Dynamic Model of Presidential Popularity." American Politi- cal Science Review 79: 334-58. -- . 1989. "The Man in the Teflon Suit: The Environmental Connection, Political Drama, and Popular Support for the Reagan Presidency." Public Opinion Quarterly 53: 353-87. Parker, Glenn R. 1977. "Some Themes in Congressional Unpopularity." American Journal of Political Science 21: 93-109. -. 1981. "Can Congress Ever Be a Popular Institution?" In Joseph Coo- per and G. Calvin Mackenzie, eds., The House at Work, pp. 31-55. Aus- tin, TX: University of Texas Press. . 1989. "Members of Congress and Their Constituents: The Home- Style Connection." In Lawrence C. Dodd and Bruce I. Oppenheimer,
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions
+
+338 The Western Political Quarterly
+
+eds., Congress Reconsidered, 4th ed., pp. 171-93. Washington, DC: Con- gressional Quarterly Press. Parker, Glenn R., and Roger H. Davidson. 1979. "Why do Americans Love Their Congressmen so Much More Than Their Congress?" Legislative Studies Quarterly 4: 53-61. Patterson, Samuel C., and Gregory A. Caldeira. 1990. "Standing Up for Congress: Variations in Public Esteem Since the 1960s." Legislative Studies Quarterly 15: 25-47. Patterson, Samuel C., Ronald D. Hedlund, and G. Robert Boynton. 1975. Representatives and Represented. New York: Wiley. Peffley, Mark. 1984. "The Voter as Juror: Attributing Responsibility for Eco- nomic Conditions." Political Behavior 6: 275-94. Ripley, Randall B. 1988. Congress.: Process and Policy, 4th ed. New York: Norton. Wahlke, John C. 1978. "Policy Demands and System Support: The Role of the Represented." In Heinz Eulau and John C. Wahlke, eds., The Politics of Representation, pp. 73-90. Beverly Hills, CA: Sage.
+
+This content downloaded from 132.174.255.116 on Fri, 20 Nov 2015 08:30:57 UTC
+
+All use subject to JSTOR Terms and Conditions

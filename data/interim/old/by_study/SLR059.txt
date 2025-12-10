@@ -1,0 +1,1861 @@
+Confianza social, confianza política y satisfacción con la democracia*
+
+Social trust, political confidence, and satisfaction with democracy
+
+Palabras clave: Confianza Social, Confianza Políti ca, Satisfacción con la Democracia, Capital Social.
+
+RESUMEN
+
+Este artículo analiza las relaciones entre tres varia bles fundamentales dentro de la literatura sobre ca pital social. En él se discuten la conceptualización y
+
+operacionalización empírica de cada una de ellas y
+
+se examinan sus relaciones mutuas y el papel de al gunas variables básicas, como el asociacionismo, en
+
+sus orígenes. Los datos utilizados proceden de las
+
+José Ramón Montero
+
+Universidad Autónoma de Madrid
+
+joseramon.montero@uam.es Sonja Zmerli
+
+Technische Universität Darmstadt
+
+zmerli@pg.tu-darmstadt.de Ken Newton
+
+University of Southampton
+
+knewton@soton.ac.uk
+
+Keywords: Social Trust, Political Confidence,
+
+Satisfaction with Democracy, Social Capital.
+
+ABSTRACT
+
+This article examines the relations among three
+
+crucial variables within the literature o social capital. It
+
+discusses the conceptualization of each of them and
+
+how to make them operational, and analyzes their
+
+mutual interactions and the role of other classical
+
+variables, such as voluntary associations, in their
+
+origins. The survey data come from the Citizenship,
+
+* Este artículo es una versión más amplia del capítulo incluido en el libro de Jan W. van Deth, J. R. Montero y Anders Westholm (eds.), Citizenship and Involvement in European Democracies: A Comparative Analysis (Londres: Routledge, 2007). Queremos agradecer a J. W. van Deth y a A. Westholm sus valiosas observaciones; a Harriet Brinton, de Routledege, las facilidades concedidas para su traducción, y a dos anónimos evaluadores de esta Revista sus comentarios y sugerencias. Debemos expresar también nuestro agradecimiento a Josep Ventura por su traducción; al Ministerio de Educación y Ciencia (SEC20000758-C02-01) y a la Comunidad de Madrid y a la Universidad Autónoma de Madrid (2006-9/SMD/001) por su apoyo económico; al Centro de Investigaciones Sociológicas por su colaboración para la realización de la encuesta, y al Centro de Estudios Avanzados en Ciencias Sociales, del Instituto Juan March, por sus extraordinarias facilidades para la investigación.
+
+Revista Española de Investigaciones Sociológicas (Reis) N.º 122, 2008, pp. 11-54
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+12
+
+encuestas del proyecto Citizenship, Involvement,
+
+and Democracy (CID), realizadas en 12 países euro peos entre 1999 y 2002. Los hallazgos empíricos ca minan en dirección contraria a los de buena parte de
+
+la literatura en lo que hace a las relaciones entre
+
+confianza social y confianza política, entre confianza
+
+social y satisfacción con la democracia y sobre el pa pel de las asociaciones voluntarias para la creación
+
+de confianza social y política. Las implicaciones de
+
+estos hallazgos son metodológicas y sustantivas.
+
+Involvement, and Democracy project, undertaken in
+
+12 European countries between 1999 and 2002. The
+
+empirical findings run in the opposite direction to the
+
+patterns established in most of the literature regarding
+
+the relationships between social trust and political
+
+confidence, between social trust and satisfaction with
+
+democracy, and the arguments supporting the idea
+
+that voluntary associations create both social trust
+
+and political confidence. The implications of these
+
+findings are both methodological and substantive.
+
+José Ramón Montero Doctor en Derecho por la Universidad de Santiago de Compostela. Actualmente es Catedrático de Ciencia Política en la Universidad Autónoma de Madrid y en el Centro de Estudios Avanzados en Ciencias Sociales, del Instituto Juan March, también en Madrid.
+
+He gained his doctorate in law at the University of Santiago de Compostela, and is currently Professor of Political Science at the Autonomous University of Madrid and at the Center for Advanced Studies in the Social Sciences at the Juan March Institute, also in Madrid.
+
+Departamento de Ciencia Política y Relaciones Internacionales. Edificio de Ciencias Jurídicas, Políticas y Económicas. 1.ª planta. C/ Marie Curie, n.º 1. 28049 Cantoblanco. Madrid (Spain).
+
+Sonja Zmerli Doctora en Ciencia Política por la Universidad de Mannheim. Actualmente es Investigadora en Ciencia Política y Sociología en la Universidad de Tecnología de Darmstadt y en la Universidad Johann WolfgangGoethe de Francfort (Alemania).
+
+She gained her doctorate in political science at the University of Mannheim, and is currently Research Fellow in Political Science and Sociology at the Darmstadt University of Technology and the Johann Wolfgang-Goethe University in Frankfurt (Germany).
+
+Ken Newton Doctor en Sociología por la Universidad de Cambridge, es Profesor Emérito de Ciencia Política y Relaciones Internacionales en la Universidad de Southampton (Reino Unido) y Profesor Visitante en el Wissenschaftszentrum Berlin für Sozialforschung (WZB) de Berlín (Alemania).
+
+He gained his doctorate in sociology at the University of Cambridge, and is currently Professor Emeritus of Political Science and International Relations at the University of Southampton (United Kingdom) and Visiting Professor at the Wissenschaftszentrum Berlin für Sozialforschung (WZB), in Berlin (Germany).
+
+LA CONFIANZA Y LA POLÍTICA
+
+Cuando el filósofo político John Dunn (1993: 641) afirmaba que «la confianza mutua se en cuentra en el núcleo de todos los procesos políticos», reiteraba un tema que se remonta, al
+
+menos, a Thomas Hobbes y a John Locke, y que nos ha llegado a través de los escritos de
+
+Tocqueville, Simmel, Tönnies, Durkheim, Weber, Parsons, Coleman y Luhmann1. En fechas re cientes, el tema ha sido reformulado con fuerza por los autores de la escuela del capital social.
+
+De acuerdo con ellos, la confianza social (social trust) es el elemento central en un complejo
+
+círculo virtuoso en el cual un conjunto de actitudes, como la mutualidad, la reciprocidad y la
+
+confianza, se asocian con la participación social y la implicación en asuntos comunitarios y cí vicos; éstos contribuyen a construir las instituciones sociales y políticas necesarias para unos
+
+gobiernos democráticos y eficientes; y éstos, a su vez, crean las condiciones en las cuales
+
+pueden florecer la confianza social y política.En el nivel individual, la confianza es la piedra an gular, la respuesta directa que se encuentra asociada a un clima de confianza social que per mite a los ciudadanos cooperar entre sí, construir una identidad común y perseguir objetivos
+
+comunes. En el nivel estructural, unas organizaciones comunitarias efectivas, y en especial las
+
+asociaciones voluntarias, constituyen un presupuesto esencial y necesario para construir las
+
+instituciones sociales, económicas y políticas de la sociedad democrática moderna.
+
+En este artículo nos centraremos en tres elementos cruciales de este amplio y complejo
+
+conjunto de afirmaciones: la confianza social, la confianza en las instituciones políticas y la
+
+satisfacción con la democracia2. Dentro de los objetivos exploratorios en los que queremos
+
+mantenernos, nuestra meta es doble. En primer lugar, investigaremos las relaciones entre
+
+la confianza social y la confianza política, por un lado, y entre la confianza social y la satis facción con la democracia, por el otro. Si la confianza social es un fundamento importante
+
+de la política, quienes confían deberían ser más proclives a expresar confianza en sus ins tituciones políticas, los Parlamentos, los tribunales, los gobiernos, los ayuntamientos, las
+
+policías y los partidos políticos.Y si la confianza social es también un cimiento relevante del
+
+gobierno democrático, quienes confían socialmente deberían ser proclives a expresar sa tisfacción con los rendimientos de la democracia en su país. ¿En qué medida la confianza
+
+social, la confianza en las instituciones políticas y la satisfacción con la democracia están
+
+relacionadas? O, por el contrario, ¿es el ciudadano socialmente desconfiado también un
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+13
+
+1 No es necesario ni posible citar el creciente volumen de trabajos sobre la confianza social. Para trabajos recientes de carácter general, véanse Luhmann (1979); Gambetta (1988a); Hardin (1991, 1993, 1996, 1998, 2002); Putnam (1995, 2000, 2002); Misztal (1996); Seligman (1997); Braithwaite y Levi (1998); Hollis (1998); Van Deth y otros (1999); Warren (1999); Sztompka (2000); Dasgupta y Serageldin (2000); Edwards, Foley y Diani (2001); Dekker y Uslaner (2001); O’Neill (2002), y Uslaner (2002).
+
+2 Dado que en castellano existe sólo una palabra, confianza, para recoger las inglesas trust y confidence, en lo sucesivo adjetivaremos confianza con los términos social (para trust) y política (para confidence); a veces, para evitar confusiones, recogeremos también los términos anglosajones entre paréntesis.
+
+ciudadano políticamente desafecto y crítico, receloso de los líderes políticos, desencanta do con las instituciones políticas e insatisfecho con el funcionamiento de la democracia
+
+(Norris, 1999; Putnam, Pharr y Dalton, 2000)? En segundo lugar, examinaremos las aso ciaciones entre esos tres elementos y algunas variables individuales básicas. Aunque las
+
+relaciones causales no están claras, la teoría también afirma que la confianza social, la
+
+confianza política y la satisfacción con la democracia tienen orígenes comunes en el apego
+
+a la comunidad local y en la implicación en sus asuntos, sobre todo en la participación en
+
+las asociaciones y organizaciones voluntarias3. Por lo tanto, en la última parte del artículo
+
+revisaremos asimismo los orígenes de esos tres elementos. ¿Tienen vínculos comunes
+
+con el compromiso con la comunidad local y la participación en ésta y sus organizaciones
+
+voluntarias, o se desarrollan a partir de circunstancias diferentes?
+
+Las investigaciones anteriores sobre estos temas sugieren que nuestros dos objetivos no
+
+son en absoluto sencillos. A pesar de su larga y distinguida historia, la teoría que vincula
+
+confianza social, implicación en la comunidad, pertenencia a organizaciones voluntarias,
+
+confianza política y satisfacción con la democracia ha recibido un apoyo empírico sólo par cial e insuficiente, al menos en el nivel individual. Existen numerosos trabajos que conclu yen que la confianza social no está relacionada de forma intensa o consistente con la con fianza política o con la satisfacción con la democracia4. Estos trabajos ratifican la
+
+conclusión de Kaase (1999: 13) de que «la relación estadística entre la confianza interper sonal (o social) y la confianza política es realmente pequeña». Por otra parte, ningún estu dio basado en encuestas recientes ha desvelado una asociación fuerte entre la confianza
+
+social y la implicación cívica, o entre la confianza social y la pertenencia a asociaciones vo luntarias. Uslaner (2000-2001: 572 y 575), por ejemplo, no ha encontrado «ningún vínculo
+
+entre la confianza social y la mayoría de formas de implicación cívica (...). A través de una
+
+amplia variedad de encuestas, el mensaje es el mismo: en casi todos los casos, la confianza
+
+social no es importante para la mayoría de formas de implicación cívica». Asimismo, Hooghe
+
+(2003: 91-93) ha rechazado la idea de que la interacción con otros en una asociación vo luntaria lleve a niveles crecientes de confianza social generalizada. Algunos señalan que la
+
+gente suele unirse a organizaciones porque, para empezar, confía en la organización
+
+(Newton, 2001: 207; pero para un punto de vista diferente, véanse Putnam, 1993: 171-176,
+
+y 1995: 666), mientras que otros sostienen que la participación en una organización puede
+
+reforzar la confianza particularizada en gente como ellos mismos que se une a la organiza ción, pero no confianza generalizada en diferentes tipos sociales (Stolle, 2001).
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+14
+
+3 Véanse Uslaner (1999: 128); Putnam (1995); Brehm y Rahn (1997); Stolle y Rochon (2001); Van Deth (1996); Torcal y Montero (1999: 182); Newton (1999a: 171-174), y Minkoff (2001).
+
+4 Véanse Wright (1976: 104-110); Craig (1993: 27); Putnam (1995: 665); Orren (1997); Hall (1999); Newton (1999a: 179-180); Newton y Norris (2000: 62-66); Newton (2001), y Delhey y Newton (2003).
+
+Existe una cierta evidencia sobre la relación entre confianza social y pertenencia a una or ganización voluntaria. Pero es débil y desigual, significativa en algunos países, pero no en
+
+otros; entre algunos grupos sociales, pero no entre otros, y para algunos tipos de organiza ciones, pero no para otros. La evidencia empírica no es tan robusta como para sostener los
+
+argumentos de la teoría del capital social5. La evidencia es mayor, sin embargo, en lo rela tivo a la vinculación de la confianza social con las variables individuales que suele caracte rizar a los «triunfadores sociales», es decir, con la renta, el estatus social, la satisfacción
+
+con el trabajo y la pertenencia a los grupos de la mayoría (Newton, 1999a; Delhey y New ton, 2003). Como escribe Putnam (2000: 138), «en prácticamente todas las sociedades, los
+
+grupos desfavorecidos confían menos que los privilegiados, dado que probablemente los
+
+últimos son tratados con mayor equidad y respeto». En este artículo, por lo tanto, espera mos encontrar que la confianza social esté asociada a indicadores de éxito y de bienestar.
+
+Llegados a este punto, conviene formular una advertencia metodológica importante. Debe ríamos ser cuidadosos en distinguir entre investigación «de abajo arriba» en el nivel indivi dual, que tiene al individuo como unidad de análisis, e investigación «de arriba abajo»,
+
+agregada, institucional o transversal, que compara países. La «hipótesis del “hacedor de
+
+lluvia”» (Putnam, Pharr y Dalton, 2000: 26-27; Newton, 2001) sostiene que la confianza so cial y la confianza política deberían estar asociadas al menos en el nivel agregado de los
+
+países, aunque puedan no estarlo en el nivel individual. En este artículo no tenemos espa cio para desentrañar todas sus interacciones, bien que debamos lidiar con las consecuen cias empíricas de la presencia o ausencia de una relación en el nivel individual o agregado
+
+entre la confianza social y la política. De modo similar a como la lluvia cae tanto sobre los
+
+justos como sobre los injustos, al margen de sus características individuales, un clima ge neral de confianza social puede beneficiar a todos los ciudadanos, con independencia de
+
+que cada uno de ellos confíe socialmente o no. La confianza social es un recurso social o
+
+colectivo y, hasta cierto punto, todos pueden beneficiarse de él, independientemente de
+
+sus características individuales y de si en realidad confían o no.
+
+La investigación «de arriba abajo» relativa a sociedades, instituciones o comparaciones
+
+entre países subraya la importancia de la confianza social para la democracia en tanto en
+
+cuanto encuentra una asociación con la confianza política6. Pese a ello, los estudios empí ricos basados en encuestas han podido hasta el momento hallar sólo relaciones débiles e
+
+irregulares entre la confianza social y la confianza política. Aunque no hay razón para que
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+15
+
+5 Véanse, por ejemplo, Van Deth (1996); Dekker y Van den Broek (1995); Brehm y Rahn (1997); Knack y Keefer (1997: 12811283); Stolle y Rochon (2001); Torcal y Montero (1999); Newton (1999b y 2001); Whiteley (1999: 40-41); Booth y Richard (2001: 50); Paxton (2002), y Uslaner (2002: 128-135).
+
+6 Véanse Putnam (1993: 111-115); Knack y Keefer (1997); Inglehart (1997); Newton y Norris (2000); Newton (2001); Paxton (2002); Uslaner (2002: 217-248); Rothstein y Stolle (2003), y Delhey y Newton (2003).
+
+en las ciencias sociales los resultados deban ser necesariamente verificados en el nivel in dividual, la ausencia de una fuerte asociación individual tiende a debilitar, más que a refor zar, la teoría del capital social. Dado que la base de datos que utilizaremos contiene indica dores más sensibles y fiables de confianza social que la mayoría de los estudios
+
+anteriores7, investigaremos su asociación con la confianza política y la satisfacción con la
+
+democracia para confirmar o descartar aquellos hallazgos previos. Pero, antes de hacerlo,
+
+debemos comenzar con la presentación básica de los conceptos y medidas de la confian za social, de la confianza política y de la satisfacción con la democracia. Como destacare mos más adelante, una buena parte del problema depende de los detalles de conceptuali zación y medición de estos tres elementos.
+
+LA CONFIANZA SOCIAL
+
+La enorme importancia otorgada a la confianza social se corresponde con el desacuerdo
+
+existente sobre su significado (Lewis y Weigert, 1985: 975; Misztal, 1996: 9). Después de
+
+casi tres décadas de un trabajo teórico y empírico bastante intenso, el concepto continúa
+
+impreciso y sigue estando confuso. Pretendemos mejorar esa situación proponiendo, en
+
+primer lugar, una definición operativa de la confianza social; distinguiendo, en segundo lu gar, tres tipos distintos de confianza social y centrándonos en el que pensamos es más im portante en una sociedad moderna; y mostrando, por último, que las medidas que emplea remos son razonablemente fiables y válidas.
+
+Russell Hardin (1999: 24) ha escrito que «no tiene mucho sentido discutir sobre el signifi cado esencial de la confianza: carece de un significado esencial. En su lugar, tiene una va riedad de significados que a menudo entran en conflicto». El mismo Hardin (1999: 26; cur sivas en el original) define la confianza social del modo siguiente: «Decir que yo confío en
+
+ti en lo relativo a algún asunto significa que tengo razones para esperar que tú actúes de
+
+acuerdo con mi interés respecto a dicho asunto, porque tienes buenas razones para ha cerlo, razones que se basan en mi interés... Tus intereses contienen mi interés». Por lo tan to, la confianza es «interés encapsulado» (véanse también Hardin, 1998: 12-15, y 2002:
+
+cap. 1). En este sentido, puede decirse que existe confianza cuando A cree que B no le da ñará consciente o intencionadamente, en el peor de los casos, y que tratará de actuar en
+
+su interés y protegerlo, en el mejor de los casos. Aquel enfoque y esta definición tienen el
+
+mérito de estar cerca de la noción clásica de confianza como fidelidad y cumplimiento de
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+16
+
+7 Hemos trabajado con las trece encuestas contenidas en el proyecto de investigación sobre Citizenship, Involvement, and Democracy (CID), dirigido por Jan W. van Deth; para examinar las características de esas encuestas, realizadas en doce países europeos entre 1999 y 2002, así como los objetivos o resultados de dicho proyecto, puede verse Westholm, Montero y Van Deth (2007).
+
+las promesas, y con su uso moderno como tener confianza o fe en los demás, y ser capaz
+
+de depender de ellos: confío en las personas cuando creo que cumplirán su palabra y no
+
+me asaltarán, engañarán, dañarán, mentirán o se aprovecharán de mí. Confiar significa
+
+arriesgar mis intereses en manos de los demás. Esta concepción se acerca a la ya men cionada definición de Hardin (1998: 12-15) de confianza como «interés encapsulado», a la
+
+sugerencia de Gambetta (1988b: 217) de que la confianza se construye sobre la creencia
+
+de que los demás actuarán hacia nosotros de forma beneficiosa y no maliciosa, y a la su posición de Warren (1999: 311) de que la confianza implica intereses comunes y carencia
+
+de malicia.
+
+Existen tipos o dimensiones de la confianza social claramente diferentes (Uslaner, 2002:
+
+52-56). La confianza particularizada en personas que conocemos es diferente de la gene ralizada, que se da en gente que nos es ajena. La confianza social es distinta de la con fianza política (Putnam, 1995; Newton, 1999a: 179-180; Uslaner, 2002: 54), y la confianza
+
+en la gente es diferente de la confianza en las instituciones (Seligman, 1997). En este ar tículo prestaremos especial atención a la confianza generalizada, esto es, a la confianza
+
+tenue (o thin) en personas a las que no conocemos, o no conocemos bien o puede que no
+
+sean como nosotros. Éste es el tipo de confianza mejor adaptado a las circunstancias de
+
+la ciudadanía en las heterogéneas e impersonales sociedades modernas, en las que los
+
+vínculos débiles son importantes (Granovetter, 1973)8. La confianza particularizada, a ve ces conocida como confianza intensa (o thick), es más susceptible de hallarse en peque ñas comunidades, con contactos cara a cara.
+
+A pesar de las controversias sobre la naturaleza y el significado de la confianza social, la
+
+mayoría de estudios de encuesta ha solido utilizar la misma pregunta, o preguntas, para
+
+medirla. La pregunta estándar es la siguiente:
+
+«En general, ¿diría usted que se puede confiar en la mayoría de la gente o que nun ca se es lo bastante prudente cuando trata uno con los demás?».
+
+Formulada por Elisabeth Noelle-Neumann y utilizada por primera vez en Alemania en
+
+1948, esta pregunta ha sido empleada todos los años desde entonces, convirtiendo a Ale mania en el país con la serie temporal sobre confianza social más larga del mundo. La pre gunta fue adoptada por investigadores estadounidenses (incluyendo a Almond y Verba
+
+[1963] en su trabajo sobre Civic Culture y en la encuesta sobre las elecciones presidencia les de 1960), y se ha extendido a todos los continentes como un indicador de confianza ge CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+17
+
+8 Para dos análisis distintos pero complementarios de las variedades de confianza, véanse Newton (1999b: 14-20) y Offe y Fuchs (2002: 191-194).
+
+neral. Pese a ello, existe un cierto desacuerdo sobre si se trata de una pregunta acertada,
+
+bien como medida de confianza particular o como medida de confianza generalizada. No
+
+obstante, la evidencia muestra que funciona razonablemente bien. Analizando una encues ta que contenía más de una docena de preguntas sobre en quién o en qué confía la gente,
+
+Uslaner (2000-2001: 575 y 2002: 54) descubrió que la pregunta de Noelle-Neumann apun taba a la confianza en extraños, y concluía que la pregunta mide de hecho la confianza ge neralizada9.
+
+En muchas encuestas comparadas (como las World Values Surveys o los Eurobaróme tros), la cuestión estándar de confianza general es la única que se utiliza. Pero, en realidad,
+
+Rosenberg (1956) había ideado un indicador de tres preguntas, consistente en la pregunta
+
+original de Noelle-Neumann más otras dos (que abordaban, respectivamente, la disposi ción a ayudar y la justicia). Su formulación literal es la siguiente:
+
+«¿Diría usted que la mayoría de las personas mira exclusivamente por su propio in terés o procura ayudar a los demás?».
+
+«¿Cree usted que la mayoría de la gente se aprovecharía de usted si tuviera la
+
+oportunidad o sería honrada?».
+
+Rosenberg y otros han demostrado que las tres preguntas de este indicador forman una
+
+sola medida de confianza y que sus resultados son razonablemente válidos y fiables10. De
+
+ahí que hayamos empleado la escala de tres preguntas de Rosenberg en las encuestas del
+
+proyecto CID, y pedido a los encuestados que valoren su confianza, o la falta de ella, en
+
+una escala de once puntos (0-10) para cada una de esas preguntas11.
+
+El análisis de componentes principales de las tres preguntas sobre confianza social reali zadas en los doce países y trece sociedades (con Alemania del Este como decimotercera
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+18
+
+9 Existe alguna evidencia, aunque desde luego inconcluyente, de que la medida de confianza social se corresponde con la probabilidad de que los ciudadanos actúen de un modo confiable. Un pequeño experimento, por el que se «perdieron varios monederos con dinero» en distintas ciudades del mundo, mostró que los monederos eran más susceptibles de ser devueltos a la policía en ciudades con un mayor nivel de confianza social, medido a través de la pregunta estándar; cf. Knack y Keefer (1997: 1257). De forma similar, el experimento conducido por Yamagishi (1988) descubrió una acusada correspondencia entre actitudes de confianza y un comportamiento acorde con éstas.
+
+10 Aunque Rosenberg la denominó como «escala de misantropía», es claro que depende en gran medida de la confianza y que hubiera podido también ser conocida como «escala de confianza». De hecho, el propio Rosenberg la llamó escala de la «fe en la gente» en sus artículos de 1956 y 1957. Por otra parte, hay que mencionar que, en Estados Unidos, la General Social Survey ha estado también utilizando el indicador con tres preguntas de Rosenberg, pero sólo con dos posibilidades de respuesta (Sí/No); véanse Brehm y Rahn (1997: 1008) y Uslaner (2002: 68-74).
+
+11 Para un indicador diferente, que emplea cinco ítems como indicadores de creencias sobre confianza, fe en la cooperación y reglas o normas de interacciones sociales, cf. Evans y Letki (2006: 133 ss.).
+
+sociedad) cubiertos en nuestro proyecto revela que el indicador es relevante en todos ellos
+
+(tabla 1). El componente único —conocido aquí como «confianza general»— explica entre
+
+un 59 y un 78 por ciento de la varianza, mostrando la existencia de una dimensión subya cente única y robusta. Por consiguiente, a pesar del argumento teórico sobre el concepto de
+
+confianza social generalizada, el componente único que emerge de este análisis de las tres
+
+preguntas de la escala de Rosenberg es un indicador apropiado y sencillo. La tabla 2 clasifi ca nuestras trece sociedades en términos de su puntuación media para las tres preguntas
+
+de confianza. No presenta sorpresas. Los tres países nórdicos la encabezan, y los tres paí ses del Este de Europa, junto a España, Alemania Oriental y Eslovenia, se encuentran al fi nal, con Holanda, Suiza, Portugal y Alemania Occidental en la parte media de la tabla.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+19
+
+TABLA 1
+
+Análisis de componentes principales de la confianza social en doce países europeos, 1999-2002a
+
+Porcentaje Confianza Disposición de la varianza País general a ayudar Justicia Eigenvalue explicado
+
+Alemania Occidental 0,86 0,90 0,88 2,33 78 Alemania Oriental 0,87 0,90 0,89 2,35 78 Dinamarca 0,80 0,82 0,83 2,01 67 Eslovenia 0,79 0,80 0,80 1,90 63 España 0,81 0,80 0,79 1,92 64 Holanda 0,76 0,79 0,81 1,86 62 Moldavia 0,76 0,87 0,86 2,08 69 Noruega 0,82 0,86 0,86 2,17 72 Portugal 0,87 0,87 0,85 2,23 74 Rumanía 0,79 0,84 0,84 2,03 68 Rusia 0,79 0,80 0,80 1,91 64 Suecia 0,80 0,82 0,81 1,98 66 Suiza 0,66 0,82 0,81 1,77 59
+
+a Tanto en ésta como en las restantes tablas de este artículo, los datos proceden del proyecto sobre Citizenship, Involvement, and Democracy; cf. Westholm, Montero y Van Deth (2007). Más particularmente, los datos españoles proceden de la encuesta 2450 del Centro de Investigaciones Sociológicas, realizada en marzo-abril de 2002 y en colaboración con la Universidad Autónoma de Madrid, a una muestra nacional de 4.252 entrevistas como parte del proyecto sobre Ciudadanía, implicación y democracia en España (CIDE); puede verse al respecto el libro de Montero, Font y Torcal (2006).
+
+LA CONFIANZA EN LAS INSTITUCIONES POLÍTICAS
+
+Estamos de acuerdo con los investigadores que sostienen que el término trust debería
+
+reservarse para las actitudes hacia los individuos, y que el de confidence debería ser apli cado a las instituciones12. Mientras que la confianza social (trust) pertenece a la esfera pri vada y es una característica de las relaciones personales basadas en las experiencias y
+
+los conocimientos de primera mano, la confianza política (confidence) pertenece a la esfe ra pública y política y se construye en base a fuentes secundarias, en especial a los me dios de comunicación de masas (Newton, 1999a: 179). En lo que queda del artículo segui remos, pues, ese criterio diferenciador entre la confianza (social) en la gente y la confianza
+
+(política) en las instituciones.
+
+En comparación con las incontables discusiones sobre el significado de la confianza social,
+
+pocos analistas se han preocupado por el de la confianza política. En su sentido más am plio, se refiere a las valoraciones de las instituciones centrales del sistema político por par te de los ciudadanos (Lipset y Schneider, 1983; Magalhães, 2006; Denters, Gabriel y Tor cal, 2007). Parafraseando a Levi y Stoker (2000: 484-485), la confianza política supone una
+
+evaluación positiva de los atributos más relevantes que hacen a cada institución digna de
+
+confianza, como credibilidad, justicia, competencia, transparencia y apertura ante puntos
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+20
+
+TABLA 2.
+
+Nivel medio y dispersión de la confianza social en doce países europeos, 1999-2002a
+
+País Media Desviación típica N
+
+Noruega 0,64 0,17 2.286 Dinamarca 0,64 0,17 1.639 Suecia 0,64 0,20 1.265 Holanda 0,63 0,15 1.639 Suiza 0,61 0,18 1.647 Portugal 0,54 0,19 1.003 Alemania Occidental 0,52 0,21 1.989 Eslovenia 0,45 0,19 989 Alemania Oriental 0,45 0,23 1.013 España 0,43 0,17 4.218 Moldavia 0,36 0,21 1.215 Rumanía 0,36 0,23 1.208
+
+a La medida consiste en un índice aditivo (la media de valores válidos) basado en las tres preguntas sobre confianza social; el índice va de 0 a 1. Los países están ordenados de acuerdo a su media de confianza social.
+
+12 Véanse, por ejemplo, Luhmann (1979: 39, y 1988); Giddens (1990: 114); Seligman (1997: 16-22); Offe (1999: 44-45), y Hardin (2000: 33-35). Para una posición contraria, Paxton (1999: 105-106).
+
+de vista distintos. Y, extrapolando nuestro anterior tratamiento de la confianza social, la
+
+confianza política en una institución conlleva la creencia de que ésta no actuará de una for ma arbitraria o discriminatoria que resulte dañina para nuestros intereses o los del país,
+
+sino que nos tratará, a nosotros y a los demás ciudadanos, de una forma igualitaria, justa y
+
+correcta. Como dispositivo conceptual, la confianza política ha sido diseñada como un indi cador de alcance medio del apoyo de los actores políticos responsables de cada institución
+
+y los principios generales de la democracia en los que están basadas ciertas instituciones
+
+en un sistema político específico (Listhaug y Wiberg, 1995: 299-302; Gabriel, 1995: 361).
+
+Como han escrito Newton y Norris (2000: 53), «la confianza en las instituciones [es] el indi cador central del sentimiento básico de los ciudadanos sobre su sistema político».
+
+Como indicador empírico, casi todos los estudios se suman a la práctica de las World
+
+Values Surveys y del Eurobarómetro cuando utilizan la siguiente pregunta:
+
+«Por favor, mire esta tarjeta y dígame, para cada una de estas instituciones, en qué
+
+medida confía usted en cada una de ellas».
+
+Los ítems varían de un cuestionario a otro. El del CID preguntaba sobre un conjunto de
+
+diez instituciones públicas: la policía, los funcionarios, los tribunales, los ayuntamientos, los
+
+partidos políticos, los políticos, el Parlamento, el gobierno y dos organismos internaciona les como la Unión Europea (UE) y la Organización de Naciones Unidas (ONU). Como
+
+nuestro principal objetivo es la política nacional, hemos descartado la UE y la ONU y nos
+
+hemos concentrado en las ocho instituciones políticas internas13. De modo similar a las
+
+preguntas sobre confianza social, el cuestionario CID pedía a los encuestados que respon dieran a las preguntas sobre confianza política en una escala de once puntos, mientras
+
+que las World Values Surveys y el Eurobarómetro utilizan una escala de cuatro puntos.
+
+Un análisis de componentes principales de las respuestas a las ocho preguntas revela una
+
+única dimensión en la mayoría de países (tabla 3)14. Parece, pues, que la confianza política
+
+se encuentra completamente interrelacionada, de forma que la confianza en cualquiera de
+
+las instituciones se repite en todas las demás15. En general, las cargas factoriales son rele CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+21
+
+13 Un análisis de componentes principales de todas y cada una de las diez instituciones (nacionales e internacionales) produce o bien un solo factor de confianza política, o dos de ellos, uno de los cuales depende intensamente de las instituciones internas y el otro de las internacionales; véase también Denters, Gabriel y Torcal (2007).
+
+14 Suiza, Portugal y Alemania Occidental presentan resultados diferentes, puesto que surgen dos factores que se dividen claramente entre confianza en las instituciones políticas y el gobierno (los políticos, los partidos y el gabinete) y en las instituciones públicas no políticas (tribunales, funcionarios, policía y ayuntamientos). Pero, dado que esos tres casos desviados se encuentran en la línea fronteriza basada en el criterio de Kaiser (el primer factor explica entre un 52 y un 59% de la varianza y el segundo sólo entre un 13 y un 1%), en este artículo trabajaremos con un solo factor.
+
+15 Este hallazgo es coherente con los resultados de otras investigaciones; véanse, por ejemplo, Listhaug (1998); Norris (1999: 222); Bouckhaert y Van de Walle (2001), y Christensen y Laegreid (2002).
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+22
+
+TABLA 3
+
+Análisis de componentes principales de la confianza en las instituciones en doce países europeos, 1999-2002a
+
+Alemania Alemania DinaEslo Confianza en instituciones Occidental Oriental marca venia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Los políticos 0,76 0,72 0,84 0,84 0,81 0,88 0,83 0,83 0,79 0,83 0,80 0,86 0,77 El gobierno 0,82 0,88 0,85 0,83 0,77 0,86 0,86 0,85 0,75 0,85 0,73 0,85 0,79 Los partidos 0,78 0,81 0,81 0,84 0,81 0,87 0,85 0,82 0,80 0,86 0,71 0,82 0,74 El Parlamento 0,85 0,88 0,87 0,86 0,86 0,87 0,89 0,88 0,81 0,89 0,81 0,87 0,83 Los tribunales 0,70 0,76 0,69 0,78 0,75 0,70 0,87 0,74 0,72 0,83 0,75 0,71 0,72 Los funcionarios 0,79 0,83 0,73 0,79 0,81 0,80 0,86 0,81 0,75 0,86 0,82 0,76 0,76 La policía 0,60 0,72 0,57 0,72 0,64 0,65 0,73 0,64 0,57 0,73 0,74 0,62 0,66 Los ayuntamientos 0,71 0,70 0,71 0,70 0,62 0,69 0,75 0,74 0,56 0,74 0,68 0,72 0,69
+
+Eigenvalue 4,56 4,98 4,64 5,08 4,65 5,06 5,53 5,04 4,19 5,46 4,59 4,87 4,43 Porcentaje de varianza explicado 57,00 62,00 58,00 64,00 58,00 63,00 69,00 63,00 52,00 68,00 57,00 61,00 55,00
+
+KMO 0,88 0,90 0,87 0,89 0,88 0,91 0,91 0,90 0,85 0,91 0,90 0,90 0,87
+
+a Las cifras son cargas sobre el primer componente. El criterio de Kaiser produce una solución unidimensional en todos los países excepto en Dinamarca. KMO es la medida Kaiser-Mayer-Olkin, que indica hasta qué punto las variables incluidas en el modelo se ajustan a los criterios subyacentes. Los valores de KMO van de 1,0 (ajuste excelente) hasta 0,5 o menos (ajuste pobre).
+
+vantes y tienen el signo correcto, el porcentaje de varianza explicada es sistemáticamente
+
+elevado y las medidas KMO muestran un excelente nivel de ajuste de las interrelaciones
+
+entre las distintas instituciones. Es decir, los ciudadanos son consistentes y predecibles en
+
+la confianza que manifiestan en diferentes tipos de instituciones públicas. Además, los ni veles de confianza en los diferentes países son en gran medida los esperados (tabla 4): los
+
+más altos se encuentran en las democracias establecidas, especialmente en Holanda, Ale mania Occidental y Dinamarca, y los más bajos en las nuevas democracias, sobre todo en
+
+Rumanía, Moldavia y Rusia. Ello otorga crédito a nuestras medidas de confianza política.
+
+LA SATISFACCIÓN CON LA DEMOCRACIA
+
+La tabla 5 muestra la clasificación de los países incluidos en el proyecto CID en relación a
+
+en nuestro tercer concepto, la satisfacción con la democracia. Existe un consenso general
+
+sobre el mejor indicador para medir esta variable. La encuesta CID utiliza la pregunta habi tualmente empleada en las encuestas del Eurobarómetro, del International Social Survey
+
+Programme (ISSP) y de las World Values Surveys, también en una escala de medida de
+
+cuatro puntos. La pregunta dice así:
+
+«En general, ¿está usted muy satisfecho, bastante satisfecho, no muy satisfecho o
+
+nada satisfecho con el funcionamiento de la democracia en [nombre del país]?».
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+23
+
+TABLA 4
+
+Nivel medio y dispersión de la confianza política en doce países europeos, 1999-2002a
+
+País Media Desviación típica N
+
+Holanda 0,61 0,14 1.631 Alemania Occidental 0,60 0,15 1.989 Dinamarca 0,59 0,16 1.637 Suecia 0,55 0,17 1.257 Suiza 0,55 0,18 1.591 Noruega 0,52 0,17 2.273 Alemania Oriental 0,52 0,18 1.011 Eslovenia 0,49 0,21 983 España 0,47 0,18 4.101 Portugal 0,46 0,17 986 Rumanía 0,44 0,25 1.194 Moldavia 0,34 0,22 1.215 Rusia 0,33 0,21 1.723
+
+a La medida consiste en un índice aditivo (la media de los valores válidos) basado en las ocho preguntas sobre confianza en las instituciones. El índice va de 0 a 1. Los países se encuentran ordenados de acuerdo a su confianza política media.
+
+Los resultados son los que cabría esperar. Dinamarca, Holanda, Suecia y Alemania Occi dental encabezan la tabla, y Portugal, Eslovenia, Rumanía, Rusia y Moldavia la cierran; las
+
+democracias consolidadas están al principio de la lista, mientras que las más jóvenes se
+
+encuentran al final. Esta distribución no es sorprendente: la misma pauta está recogida en
+
+muchos estudios a lo largo de las dos últimas décadas (Schmitt, 1983; Kuechler, 1991;
+
+Klingemann, 1999). No obstante, frente al consenso general sobre la construcción de la
+
+pregunta y la coherencia de los resultados, existe un cierto debate acerca de la relación de
+
+esos resultados con el apoyo a la democracia. Muchos académicos han puesto en cuestión
+
+la clásica distinción de Easton (1965: 267-268) entre apoyo específico y difuso, argumen tando que los ciudadanos no perciben la diferencia entre ambos tipos de apoyo y que no
+
+distinguen entre el apoyo básico a la democracia y la evaluación del gobierno de turno, lo
+
+que en términos empíricos significa que lo segundo puede ser interpretado como una ma nifestación de lo primero.
+
+La confusión entre el apoyo a la democracia y la satisfacción con el rendimiento del gobier no ha llevado a algunos a utilizar indicadores inapropiados o a realizar inferencias erróneas
+
+de los datos. De ahí que creamos importante distinguir entre la satisfacción con la demo cracia y las medidas de legitimidad (Gunther y Montero, 2004). La legitimidad puede ser
+
+considerada como «la creencia de que las instituciones políticas existentes, a pesar de sus
+
+defectos y fallos, son mejores que otras que pudieran haber sido establecidas» (Linz, 1988:
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+24
+
+TABLA 5
+
+Nivel medio y dispersión de la satisfacción con la democracia en doce países europeos, 1999-2002a
+
+País Media Desviación típica N
+
+Dinamarca 0,68 0,21 1.615 Holanda 0,65 0,20 1.598 Suecia 0,63 0,20 1.241 Alemania Occidental 0,62 0,22 1.964 Noruega 0,57 0,19 2.186 Suiza 0,57 0,22 2.103 España 0,55 0,22 4.072 Alemania Oriental 0,45 0,24 989 Portugal 0,44 0,24 965 Eslovenia 0,42 0,22 942 Rumanía 0,32 0,24 1.161 Rusia 0,31 0,25 1.441 Moldavia 0,23 0,20 1.104
+
+a La satisfacción con la democracia se mide en un escala de cuatro puntos con valores entre 0 y 1. Los países están ordenados de acuerdo con su media de satisfacción con la democracia.
+
+65). Por otra parte, la satisfacción política (Easton, 1965: 406) o, en el sentido negativo, el
+
+descontento político se encuentran en otra dimensión, consistente en los juicios de los ciu dadanos sobre el comportamiento diario de los líderes políticos y el funcionamiento de los
+
+procesos e instituciones gubernamentales (Kornberg y Clarke, 1992: 20). La satisfacción
+
+con la democracia, por lo tanto, comprende el conjunto de percepciones relativas a la ca pacidad de un determinado sistema político para solucionar problemas considerados espe cialmente importantes. La satisfacción política, o su contrario, nace de la evaluación por
+
+parte de los ciudadanos del rendimiento del régimen o de las autoridades, así como de sus
+
+resultados políticos, y expresa su desagrado hacia un objeto social o político significativo.
+
+En otras palabras, la insatisfacción política es un rechazo general de los objetos políticos
+
+que no cumplen los estándares que los ciudadanos establecen para ellos (Di Palma, 1970:
+
+30; Farah, Barnes y Heunks, 1979; Norris, 1999).
+
+Mientras que la legitimidad democrática (o el apoyo difuso a la democracia) tiende a ser es table a lo largo del tiempo, la insatisfacción fluctúa de acuerdo con las políticas guberna mentales, la situación de la sociedad, el estado de la economía y el rendimiento de las
+
+principales instituciones políticas.Y dado que se centra en los líderes políticos partidistas y
+
+en los gobiernos que lideran, no es sorprendente descubrir que, manteniendo inalterados
+
+el resto de factores, los ciudadanos que apoyan al partido que gobierna son más positivos
+
+en sus valoraciones que quienes lo hacen a los partidos de la oposición.
+
+CONFIANZA SOCIAL Y CONFIANZA POLÍTICA
+
+Para examinar la asociación entre confianza social y confianza política, hemos realizado
+
+correlaciones entre el factor extraído de la escala de confianza social de las tres preguntas
+
+de Rosenberg y el factor obtenido de las ocho preguntas de confianza en las instituciones
+
+públicas. Los resultados son tan inusuales como sorprendentes (tabla 6). En contraste con
+
+prácticamente todos los numerosos estudios publicados hasta la fecha, y en contra de
+
+nuestras propias expectativas, existe una correlación significativa entre la confianza social
+
+y la confianza en las instituciones políticas. Estos resultados son, además, consistentes y
+
+robustos: todas las correlaciones son significativas al 0,001, y son también elevadas en
+
+casi todos los países, excepto en Alemania Oriental. Dada la falta de precedentes, estos
+
+resultados son intrigantes.Y dada su potencial importancia teórica para la teoría del capital
+
+social, vale la pena analizarlos en mayor profundidad.
+
+¿Son estos resultados simplemente un artefacto estadístico originado por nuestro indica dor de confianza? Para eliminar esta posibilidad, hemos llevado a cabo un segundo con junto de correlaciones simples, esta vez entre el indicador de confianza social y la confian CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+25
+
+za en cada una de las diferentes instituciones políticas. Dado que ello arroja un total de 104
+
+correlaciones simples (ocho instituciones en trece sociedades), no hemos reproducido
+
+aquí los resultados por la falta de espacio. Pero basta decir que 97 de las correlaciones son
+
+significativas al 0,001, cuatro lo son al 0,01, dos al 0,05 y sólo una no es significativa. Los
+
+resultados difícilmente podrían ser más claros o más coherentes: parece existir una fuerte
+
+asociación entre la confianza social y la confianza en las instituciones políticas en todas y
+
+cada una de las trece sociedades cubiertas por el proyecto CID.
+
+Tenemos ante nosotros, pues, una contradicción. Reiteremos una vez más que, contraria mente a los estudios anteriores, hemos encontrado una asociación estadísticamente signi ficativa y a menudo sustancial en el nivel individual entre la confianza social y la confianza
+
+política. ¿Cómo cabe explicarla? La respuesta no parece encontrarse en la secuencia de
+
+preguntas de los distintos cuestionarios CID. Aunque el orden de las preguntas puede afec tar en cierta medida a los resultados, es difícil creer que tenga un efecto tan fuerte16. Exis ten dos posibles explicaciones metodológicas para estos inusuales hallazgos.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+26
+
+TABLA 6
+
+Correlaciones entre confianza social y confianza política en doce países europeos, 1999-2002a
+
+País R de Pearson N
+
+Noruega 0,39 2.151 Holanda 0,38 1.471 Rumanía 0,38 1.034 Dinamarca 0,37 1.519 Suecia 0,36 1.104 Suiza 0,32 1.185 Moldavia 0,29 1.040 Portugal 0,29 909 Alemania Occidental 0,28 1.916 Eslovenia 0,25 891 España 0,24 3.505 Rusia 0,23 1.298 Alemania Oriental 0,18 913
+
+a Las medidas correlacionadas son los factores únicos obtenidos del análisis de componentes principales de confianza social y de confianza en las instituciones. Todas las correlaciones son estadísticamente significativas a un nivel de 0,001. Los países están ordenados por los coeficientes de correlación.
+
+16 El orden de las preguntas es generalmente consistente en el núcleo común de los cuestionarios de las 13 encuestas del CID, bien que en algunos países varía de una encuesta a otra, y en algunas encuestas de una recogida de datos a otra. Pero no es probable que dicha variabilidad entre encuestas y entre países explique los resultados sistemáticamente débiles y estadísticamente no significativos de las asociaciones entre confianza social y confianza política en casi todas las demás encuestas realizadas con anterioridad a las de nuestro proyecto.
+
+1. El número de indicadores. El cuestionario de las encuestas CID emplea, como ya sa bemos, la escala de confianza con tres preguntas de Rosenberg, de la cual hemos obteni do un solo factor. ¿Es ésta quizás una medida de confianza social generalizada mejor y
+
+más sensible que la pregunta única de Noelle-Neumann utilizada en muchos otros estu dios? Además, hemos empleado cifras factoriales para las ocho preguntas sobre confianza
+
+política, mientras que otros estudios han recurrido a un solo ítem del cuestionario, general mente la confianza en el Parlamento. Es probable, por lo tanto, que nuestras medidas sean
+
+más refinadas y sensibles que otras.
+
+2. La precisión de los indicadores. El cuestionario de las encuestas CID pedía a los en cuestados que expresaran sus respuestas sobre confianza social mediante una escala de
+
+once puntos. Es probable que ello ofrezca una medida de confianza más precisa que las
+
+habituales escalas de valoración, mucho más reducidas17. Como han escrito Krosnick y Fa brigar (1997: 144), «hay varias razones para creer que más puntos en la escala serán ge neralmente más efectivos que menos puntos. (...) Más puntos en la escala permiten al in vestigador hacer distinciones más sutiles entre las actitudes de los individuos hacia un
+
+mismo objeto. Así, las escalas más amplias tienen el potencial de aportar información más
+
+útil».
+
+Aunque la falta de espacio nos impide investigar a fondo estas posibilidades, podemos al
+
+menos efectuar algunas sugerencias sobre el número y la precisión de los indicadores. Al gunas encuestas (como las World Values Surveys, por ejemplo) emplean una sola pregun ta sobre confianza social y ofrecen a los encuestados la opción dicotómica «Sí/No» para
+
+contestar18. Esas mismas encuestas codifican las respuestas a la preguntas sobre confian za política en una escala de cuatro puntos («mucho», «bastante», «poco» y «nada») y sue len limitarse a seleccionar como indicador de confianza política la relativa a la existente en
+
+el Parlamento. ¿Es posible que la escala de puntuación de once puntos discrimine de for ma más sensible los distintos grados de ambos tipos de confianza, y que quizás el factor
+
+de confianza social de tres preguntas y el factor de confianza política de ocho preguntas
+
+sean mejores medidas que las preguntas únicas utilizadas en otros estudios?
+
+Para comprobar esta posibilidad hemos reanalizado nuestros datos, pero ahora tratando
+
+de que se aproximaran a los tipos de medidas y escalas de medición empleados en otras
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+27
+
+17 Existe una explicación adicional. Dada la propensión natural de las escalas de once puntos, es concebible que los encuestados que se consideren a sí mismos tipos «promedio», o se vean como radicales en los límites de la sociedad y en la política, hayan marcado los mismos puntos de forma sistemática en las distintas escalas y que, por consiguiente, hayan proporcionado un cierto grado de asociación espuria a sus respuestas. Estamos agradecidos a Willem Saris por plantearnos esta posibilidad.
+
+18 Como ya hemos indicado, la pregunta demandaba en qué medida puede confiarse en la mayoría de las personas o, por el contrario, «nunca se es lo bastante prudente cuando se trata con los demás»
+
+encuestas. Hemos cambiado una variable cada vez, para así identificar mejor qué cambios
+
+tienen qué tipo de efectos en los resultados. En primer lugar, hemos empleado la usual pre gunta de confianza social de Noelle-Neumann (en lugar del factor derivado de la escala de
+
+tres preguntas) y la hemos correlacionado con el factor de la confianza política en las insti tuciones derivado de nuestras ocho preguntas, ambas con una escala de medición de
+
+once puntos. En segundo lugar, hemos correlacionado la pregunta única de confianza so cial en una escala de once puntos y una única pregunta de confianza en el Parlamento,
+
+también en una escala de once puntos. En tercer lugar, hemos recodificado nuestras esca las empleando la pregunta de confianza social en forma dicotómica y reduciendo la pre gunta única de confianza en el Parlamento a una escala de cuatro puntos similar a la usa da por las World Values Surveys19. Si es cierto que los indicadores y las escalas explican la
+
+diferencia entre nuestros resultados y los otros, entonces cabría esperar que las correlacio nes entre confianza social y confianza política se fueran reduciendo cuanto más nos apro ximemos a las medidas menos refinadas y a las escalas de medición más reducidas de
+
+otros estudios.
+
+La tabla 7 muestra que eso es exactamente lo que pasa. Las correlaciones se reducen
+
+de forma constante al desplazarnos desde las medidas más refinadas de la encuesta
+
+CID (incluidas en la primera columna) hasta las menos refinadas (mostradas en la últi ma columna). Alemania Oriental es la única excepción a esta pauta. Aunque las correla ciones siguen siendo estadísticamente significativas en todos los casos de la última co lumna, en ocho de las trece sociedades cae hasta la mitad o menos de su tamaño
+
+original.
+
+Para comprobar nuestros resultados de modo diferente, hemos repetido finalmente el
+
+análisis de los datos españoles, moldavos y rumanos. En estos países se recogieron da tos de confianza tanto de acuerdo con el formato completo del proyecto CID (la escala de
+
+confianza de tres preguntas de Rosenberg y las ocho cuestiones sobre confianza en las
+
+instituciones políticas, ambas en una escala del 0 al 10) como según el formato simplifica do de las World Values Surveys (una sola pregunta de confianza social, codificada
+
+«Sí/No», y una pregunta de confianza política, codificada en cuatro puntos). Ello nos per mitirá comprobar los resultados de los dos conjuntos de indicadores contenidos en las
+
+mismas encuestas y aplicados a los mismos encuestados, y hará también posible compa rar los respectivos resultados de cada una sin hacer demasiadas suposiciones acerca de
+
+cómo aproximarnos a los resultados de las World Values Surveys simplificando las esca las de medición de la del CID.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+28
+
+19 Estamos agradecidos a Michael Braun (del Zentrum für Umfragen, Methoden und Analisen [ZUMA], de la Universidad de Mannheim) por habernos proporcionado una importante ayuda en este aspecto.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+29
+
+TABLA 7
+
+Correlaciones entre diferentes medidas de confianza social y confianza política en doce países europeos, 1999-2002a
+
+Pregunta única de confianza Preguntas únicas de confianza Preguntas únicas y simplificadas social y factor de confianza social y de confianza de confianza social y de
+
+Escalas completasb políticac en el Parlamentod confianza en el Parlamentoe
+
+País r de Pearson N r de Pearson N r de Pearson N r de Pearson N
+
+Noruega 0,39 2.151 0,32 2.155 0,26 2.8231 0,21 2.231 Holanda 0,38 1.471 0,35 1.484 0,28 1.589 0,19 1.589 Rumanía 0,38 1.034 0,32 1.058 0,27 1.138 0,21 1.138 Dinamarca 0,37 1.519 0,34 1.542 0,30 1.620 0,24 1.620 Suecia 0,36 1.104 0,30 1.116 0,27 1.212 0,21 1.212 Suiza 0,32 1.185 0,25 1.241 0,18 1.432 0,14 1.432 Moldavia 0,29 1.040 0,25 1.079 0,20 1.162 0,18 1.162 Portugal 0,29 909 0,26 916 0,17 955 0,12 955 Alemania Occidental 0,28 1.916 0,22 1.919 0,21 1.965 0,14 1.965 Eslovenia 0,25 891 0,19 905 0,18 967 0,17 967 España 0,25 3.435 0,16 3.496 0,16 3.743 0,12 3.743 Rusia 0,23 1.298 0,15 1.323 0,15 1.636 0,11 1.636 Alemania Oriental 0,18 913 0,18 920 0,19 981 0,20 981
+
+Correlaciones medias ponderadasf 0,31 18.866 0,25 19.154 0,21 20.631 0,17 20.631
+
+a Todas las correlaciones son estadísticamente significativas a un nivel de 0,001. Los países se encuentran ordenados de acuerdo a sus coeficientes en la columna de escalas completas.
+
+b Las escalas completas se refieren a las cifras presentadas en la tabla 6, esto es, el factor de confianza social obtenido del indicador de tres preguntas de Rosenberg, basado en escalas de once puntos, y el factor obtenido de las ocho preguntas sobre instituciones públicas, también basado en escalas de once puntos.
+
+c La pregunta única de confianza social y factor de confianza política se refiere a una sola pregunta sobre confianza social, con escalas de once puntos, y el factor obtenido de las ocho preguntas sobre confianza, basado también en escalas de once puntos.
+
+d Las preguntas únicas de confianza social y de confianza en el Parlamento se refieren a una sola pregunta de confianza social, con una escala de once puntos, y una única pregunta sobre confianza en el Parlamento, también con una escala de once puntos.
+
+e Las preguntas únicas y simplificadas de confianza social y de confianza en el Parlamento se refieren a las medidas descritas en la nota (c) anterior, pero con la primera dicotomizada y la segunda transformada en escala de cuatro puntos para asemejarse así a los indicadores contenidos en las World Values Surveys. En la pregunta sobre confianza social, los valores del 0 al 6 fueron contados como 0, y los de 7 a 10 como 1. En la pregunta sobre confianza en el Parlamento, los valores entre 0 y 2 fueron contados como 1, entre 3 y 5 como 2, entre 6 y 8 como 3, y entre 9 y 10 como 4.
+
+f Las correlaciones medias ponderadas consisten en la suma de los coeficientes de cada país multiplicada por sus números de casos y dividida por el número total de casos.
+
+Las correlaciones mostradas en la tabla 8 confirman nuestras expectativas. Aquéllas de caen de forma constante a medida que descendemos desde las cifras de confianza más
+
+refinadas y sensibles de la primera fila, hasta las más agregadas y menos matizadas mos tradas en la última fila. Por ejemplo, en el caso moldavo (primera columna), los datos del
+
+CID muestran una correlación de 0,29 entre la confianza social y la confianza política; pero
+
+la misma encuesta, utilizando una única pregunta y una escala de «Sí/No» para la confian za social y una escala de cuatro puntos para la confianza política en el Parlamento, mues tra una correlación de 0,15. De forma análoga, los resultados españoles caen desde un
+
+0,25 a un 0,11. En el caso de España, vale también la pena subrayar que la recodificación
+
+de los datos del CID para ajustarlos a las medidas de las World Values Surveys produce
+
+unos resultados idénticos a los obtenidos por estas últimas encuestas en 1999, y son muy
+
+similares a los de 1990 (tabla 9). Por consiguiente, es difícil evitar la conclusión de que
+
+cuanto mejores sean los indicadores y las escalas empleados para medir los dos tipos de
+
+confianza, más probable será que muestren una asociación más robusta20. Asimismo, el
+
+hecho de que investigaciones previas no hayan mostrado una asociación consistentemen te fuerte entre ambos tipos de confianza parece ser debido a la combinación de indicado res pobres y de escalas de medición limitadas21.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+30
+
+20 En experimentos que emplean el enfoque Multi-Trait, Multi-Method en las preguntas sobre confianza social del CID, llevados a cabo para las encuestas piloto de la European Social Survey de 2002 en Gran Bretaña y en Holanda (que resultaron tener exactamente los mismos indicadores), Saris y Gallhofer (2003: 10) descubrieron que en ambos países «la elección limitada a una escala de dos puntos es definitivamente peor (…) que la escala de once puntos en lo relativo a la validez».
+
+21 Rothstein (2002: 320) informa de un experimento similar en cuatro encuestas suecas llevadas a cabo anualmente desde 1996, y con similares resultados positivos. Y Jagodzinski y Manabe (2004) dan cuenta de una comparación entre la pregunta habitual de confianza social y la incluida en un módulo sobre religión del ISSP en 1998, en el que la pregunta contenía cuatro ítems, que iban desde el positivo de «Casi siempre puede confiarse en la gente» hasta el negativo de «Nunca se es lo bastante prudente cuando se trata con los demás»; sus resultados no son, sin embargo, concluyentes.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+31
+
+TABLA 8
+
+Correlaciones entre diferentes medidas de confianza social y de confianza política en Moldavia, Rumanía y España, 2001-2002a
+
+España Moldavia Rumanía
+
+Medidas correlacionadas r N r N r N
+
+Puntuación factorial de confianza social (tres ítems) y puntuación factorial de confianza política (ocho ítems) 0,25 3.435 0,29 1.040 0,38 1.034 Sólo una pregunta de confianza social (con una escala de once puntos) y puntuación factorial de confianza política (ocho ítems) 0,16 3.496 0,25 1.079 0,32 1.058 Sólo una pregunta de confianza social (con una escala de once puntos) y una sola pregunta de confianza en el Parlamento (con una escala de once puntos) 0,16 3.743 0,20 1.162 0,27 1.138 Sólo una pregunta única de confianza social (con una escala de once puntos) y pregunta única de confianza en el Parlamento (con una escala de cuatro puntos)b 0,15 3.743 0,20 1.162 0,25 1.138 Pregunta única de confianza social (en forma dicotómica) y puntuación factorial de confianza política (ocho ítems) 0,11 3.400 0,17 1.056 0,23 1.052 Pregunta única de confianza social (en forma dicotómica) y sólo una pregunta de confianza en el Parlamento (con una escala de once puntos) 0,12 3.634 0,15 1.136 0,18 1.132 Pregunta única de confianza social (en forma dicotómica) y sólo una pregunta de confianza en el Parlamento (con una escala de cuatro puntos)b 0,11 3.634 0,15 1.136 0,17 1.132
+
+a Todas las correlaciones son estadísticamente significativas a un nivel de 0,001.
+
+b La pregunta de confianza en el Parlamento con una escala de once puntos fue reducida a cuatro puntos, según se describe en la nota (e) de la tabla 7.
+
+CONFIANZA SOCIAL Y SATISFACCIÓN CON LA DEMOCRACIA
+
+Si la confianza social se encuentra asociada a la confianza política, ¿es posible enton ces que también lo esté con la satisfacción con la democracia?22. Los datos incluidos en
+
+la tabla 10 confirman esta asociación en el nivel individual. De forma nada sorprendente,
+
+existe una fuerte correlación entre la confianza política y la satisfacción con la democra cia, dado que se trata de aspectos del mismo tipo de apoyo político general. Pero los
+
+coeficientes muestran también que quienes confían socialmente se sienten también más
+
+satisfechos con la democracia. Aunque las cifras varían de forma sustancial de un país a
+
+otro, son altamente significativas en todos los casos, excepto en Alemania Oriental23. Es
+
+destacable, no obstante, que la asociación entre confianza social y satisfacción con la
+
+democracia sea menor y menos consistente (un resultado que podría deberse en parte
+
+al hecho de que la última se mide con una escala de cuatro puntos) que entre confianza
+
+social y confianza política, y que además sus coeficientes sean menos homogéneos en tre países.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+32
+
+TABLA 9
+
+Correlaciones entre confianza social y confianza en el Parlamento en España,
+
+según las encuestas del proyecto CID y las World Values Surveys, 1981-2002a
+
+Encuesta r de Pearsonb Tau de Kendallb N
+
+Encuestas CID 2002 0,11** 0,10** 3.634 World Values Surveys 1999 0,11* 0,11* 1.109 1990 0,07* 0,06* 3.925 1981 –0,01 –0,00 2.106
+
+a En todas las encuestas, la confianza social ha sido medida a través de la misma pregunta dicotómica. En las World Values Surveys, la confianza en el Parlamento ha sido medida mediante una única pregunta, que emplea una escala de cuatro puntos. En la del CID, la confianza en el Parlamento fue medida a través de una pregunta que emplea una escala de once puntos, simplificada a una escala de cuatro puntos, según lo indicado en la nota (e) de la tabla 7.
+
+b Los niveles de significatividad estadística son los siguientes: ** = 0,001; * = 0,01.
+
+22 Véanse Putnam (1993) e Inglehart (1997: 180-187). Sin embargo, Uslaner (2002: 218) se pregunta si «las sociedades democráticas son sociedades que confían». Hay que destacar que tanto Uslaner como Inglehart basan sus conclusiones en datos agregados comparados de varios países, no en el tipo de datos individuales de los que nos estamos ocupando en este artículo.
+
+23 En España, donde el coeficiente (r de Pearson) alcanza el mismo valor que en Alemania Oriental, el elevado nivel de significatividad estadística se debe probablemente al gran número de casos de su encuesta.
+
+Las conclusiones a esta parte del artículo son tan simples y directas como estadísticamen te claras. Las mejores medidas, por más fiables y refinadas, que tenemos sobre confianza
+
+social, confianza política y satisfacción con la democracia muestran una estrecha relación
+
+entre ellas en el nivel individual, y además de forma estadísticamente significativa. Hasta
+
+este punto, nuestros resultados son coherentes con los argumentos de la teoría del capital
+
+social, al menos en lo que hace al nivel individual de los ciudadanos.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN
+
+CON LA DEMOCRACIA: UN ANÁLISIS MULTIVARIADO
+
+Hasta ahora hemos presentado sólo correlaciones bivariadas. ¿Hasta qué punto resisten
+
+nuestros hallazgos la prueba más exigente de las regresiones multivariadas? ¿Y qué nos
+
+dicen éstas acerca de los orígenes de nuestras variables dependientes? En la última sec ción de este artículo trataremos de dar respuesta a estas preguntas con tres regresiones
+
+multivariadas básicas sobre confianza social, confianza política y satisfacción con la demo cracia. Para la selección de variables independientes hemos combinado consideraciones
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+33
+
+TABLA 10
+
+Correlaciones de confianza social y confianza política con satisfacción con la democracia
+
+en doce países europeos, 1999-2002a
+
+Confianza social y satisfacción Confianza política y satisfacción con la democracia con la democracia
+
+País r de Pearson N r de Pearson N
+
+Alemania Occidental 0,16 1.957 0,48 1.922 Alemania Oriental 0,10 974 0,49 901 Dinamarca 0,23 1.586 0,45 1.529 Eslovenia 0,14 931 0,39 862 España 0,10 3.924 0,39 3.404 Holanda 0,20 1.581 0,44 1.467 Moldavia 0,13 1.039 0,36 1.023 Noruega 0,21 2.162 0,45 2.079 Portugal 0,13 951 0,35 896 Rumanía 0,26 1.107 0,42 1.045 Rusia 0,11 1.358 0,35 1.131 Suecia 0,22 1.215 0,50 1.108 Suiza 0,19 1.482 0,40 1.236
+
+a Todas las correlaciones son estadísticamente significativas en el nivel de 0,01 y, con la excepción de Alemania Oriental en lo relativo a confianza social, también en el 0,001. La información sobre las medidas empleadas está recogida en las notas (a) de las tablas 5 y 6.
+
+teóricas, empíricas y pragmáticas. Para empezar, hemos tenido en cuenta algunas explica ciones empíricas recientes de cualquiera de nuestras tres variables dependientes, la mayo ría haciendo uso de datos de encuesta en el nivel individual y analizando sólo esporádica mente todo el conjunto completo de relaciones recíprocas que estas variables pueden
+
+tener entre ellas. Aunque los tipos de modelos y de variables operativas de esos estudios
+
+son bastante dispares, muchos contienen un núcleo común para explicar las fuentes de
+
+confianza social en el que al menos están incluidas las características de la personalidad y
+
+de las experiencias vitales de los individuos. Entre ellas se encuentran las de la renta, el
+
+estatus social, la pertenencia a un grupo mayoritario, la satisfacción con el trabajo, el opti mismo y los indicadores de felicidad subjetiva, bienestar económico, confianza económica
+
+y satisfacción vital. Todas ellas conforman un síndrome habitualmente interconectado de
+
+variables individuales, por lo que hemos seleccionado la satisfacción vital como un indica dor suficientemente expresivo de ellas. La participación en asociaciones voluntarias (la
+
+pertenencia, el activismo o una medida compuesta) es también una variable individual de
+
+la que frecuentemente se señala su estrecha relación con la confianza social, al igual que
+
+los vínculos e identificaciones con un tipo determinado de comunidad24.
+
+Respecto a los orígenes de la confianza política, los estudios recientes han solido centrar se en explicaciones basadas en el capital social o en la psicología social (incluida la con fianza social), de una parte, o en teorías políticas o institucionales (incluyendo variables in dividuales o agregadas, como la satisfacción con la democracia), de otra25. Finalmente, las
+
+fuentes de satisfacción con la democracia han sido analizadas a través de una mezcla de
+
+variables que han medido el voto y las preferencias partidistas, la confianza en el gobierno
+
+y en los líderes políticos, las actitudes políticas de los ciudadanos y las características ins titucionales de sus países, el rendimiento económico y la valoración de las políticas públi cas, las expectativas de los ciudadanos y los años de democracia26.
+
+En la selección de nuestras variables independientes también nos hemos mantenido en lí nea con la naturaleza exploratoria de este artículo. Dada la imposibilidad de realizar aquí
+
+una explicación sistemática de las fuentes de la confianza social, la confianza política y la
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+34
+
+24 Véanse, por ejemplo, Whiteley (1999), que añade algunas creencias normativas y códigos morales de los individuos; Delhey y Newton (2003), que añaden satisfacción con la democracia, otros rasgos de la personalidad y redes de amigos; y Freitag (2003), que añade valores morales y confianza en las instituciones políticas.
+
+25 Véanse, por ejemplo, Listhaug y Wiberg (1995), que también añaden ideología, interés político, posmaterialismo y una medida subjetiva de satisfacción con la propia vida; Newton y Norris (2000), que añaden activismo voluntario; Rohrschneider y Schmitt-Beck (2003), que añaden valores políticos; y Brehm y Rahn (1997), que presentan un modelo estructural de confianza en el gobierno, confianza social e implicación cívica.
+
+26 Véanse, por ejemplo, Clarke, Dutt y Kornberg (1993); Anderson (1998), que también tiene en cuenta la confianza social; Anderson y Guillory (1997); Anderson y Tverdova (2001); y, desde un punto de vista complementario, Mishler y Rose (2001).
+
+satisfacción con la democracia, nos hemos limitado a confirmar si en el análisis multivaria do se mantienen las relaciones excepcionalmente fuertes y consistentes entre esos indica dores que hemos encontrado antes, cuando examinamos las correlaciones bivariadas.
+
+Para ello hemos recogido una selección de variables que cubren diferentes grados de im plicación en asociaciones, satisfacción con la vida, apego a la comunidad local (barrio o
+
+pueblo) y al municipio, tamaño de la población en la que vive el encuestado y exposición a
+
+la televisión. Como variables sociodemográficas hemos seleccionado educación, género y
+
+confesión religiosa. Se trata, creemos, de variables que no necesitan de mayores precisio nes; sus valores medios están recogidos en la tabla 1127.
+
+La tabla 12 muestra los coeficientes de la regresión de mínimos cuadrados ordinarios (Or dinary Least Squares [OLS]) sobre confianza social. Los resultados confirman nuestro ha llazgo previo de que la confianza social se encuentra asociada fuerte y consistentemente
+
+con la confianza en las instituciones políticas en el nivel individual en todos los países del
+
+proyecto CID28. Pero, contrariamente a lo que sostiene la teoría del capital social, la perte nencia a las asociaciones voluntarias aparece raramente de forma significativa, confir mando así los resultados de muchos otros estudios29. Sin embargo, la satisfacción con la
+
+vida, el apego a la comunidad y la educación están asociados a la confianza social en la
+
+mayoría de países. Parece claro que la gente educada, satisfecha y socialmente integrada
+
+tiene mayores probabilidades de confiar y que, en consecuencia, tanto la confianza como
+
+la satisfacción con la propia vida tienden a estar vinculadas a la educación y al estatus so cial30.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+35
+
+27 En las tablas 12, 13 y 14 hemos explorado, entre otras cosas, el efecto de tres aspectos distintos de la implicación social. La tabla 12 representa la influencia de ser miembro en cualquiera de las asociaciones voluntarias incluidas en los cuestionarios del CID. El impacto de la afiliación a distintos tipos de organizaciones es analizado en la tabla 13; cf. al respecto Badescu y Neller (2007). Finalmente, en la tabla 14 presentamos los efectos de distintos componentes de la participación asociativa, a saber, si el encuestado es miembro, ha participado en alguna actividad, ha donado dinero, ha llevado a cabo trabajo voluntario y si tiene amigos personales dentro de una organización; cf. Morales y Geurts (2007). La satisfacción con la propia vida consiste en una escala de once puntos que indica hasta qué punto el encuestado se encuentra, en general, satisfecho con su vida. El apego a la comunidad y el apego al municipio consisten en escalas de once puntos que indican hasta qué punto el encuestado siente apego hacia su vecindario o pueblo (una entidad social), por un lado, y hacia su municipio o localidad (una entidad política), por el otro. El tamaño de la localidad abarca desde la rural hasta la gran ciudad (más de 500.000 habitantes). La exposición a la televisión se basa en el número medio de horas por día que el encuestado dedica a ver la televisión.
+
+28 Para un análisis más amplio, que incluye a los 21 países de la primera ola de la European Social Survey, realizada en 2003, y que confirma esta fuerte y sistemática relación entre confianza social y confianza política en los niveles individuales, pueden verse los trabajos de Zmerli (2004) y de Zmerli y Newton (2007).
+
+29 Véanse, por ejemplo, entre muchos otros, Newton (1999a: 179-184; 2001: 211-212), y Newton y Norris (2000: 65) para la falta de relación entre confianza social y confianza política; y Putnam (1995: 73), Stolle (1998: 522), Stolle y Rochon (2001: 131) y Torcal y Montero (1999: 184) para la asociación entre confianza social y pertenencia a organizaciones voluntarias; véanse asimismo Freitag (2003: 957-958) y Whiteley (1999: 39) para hallazgos similares a los nuestros.
+
+30 Sobre estos puntos, véanse Brehm y Rahn (1997: 1019); Uslaner (2002: 84-86); Whiteley (1999: 39); Wuthnow (2002: 86), y Delhey y Newton (2003: 110-111).
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+36
+
+TABLA 11
+
+Estadísticos descriptivosa
+
+Alemania Alemania Dina Occidental Oriental marca Eslovenia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Variables M Dt M Dt M Dt M Dt M Dt M Dt M Dt M Dt M Dt M Dt
+
+Confianza socialb 5,0 2,3 4,2 2,8 6,7 2,1 5,0 2,6 4,7 2,1 6,2 1,9 4,2 2,3 6,5 2,1 5,5 2,2 4,2 2,8 Confianza políticac 6,0 1,5 5,3 1,8 5,9 1,5 4,9 2,1 4,5 1,8 5,9 1,4 3,4 2,2 5,2 1,7 4,6 1,7 4,4 2,5 Satisfacción con democraciad 2,9 0,7 2,4 0,7 3,1 0,6 2,3 0,7 2,6 0,7 3,0 0,6 1,7 0,6 2,7 0,6 2,3 0,7 2,0 0,7 Satisfacción con vidad 7,9 1,7 7,1 2,0 8,1 1,8 7,7 1,8 7,5 1,8 8,0 1,3 4,7 2,6 7,6 1,9 7,5 1,5 5,3 2,8 Apego a la comunidade 7,5 2,3 7,3 2,4 6,7 2,7 7,4 2,8 7,7 2,3 6,6 2,3 7,9 2,6 6,4 2,8 7,9 2,2 8,4 2,5 Apego a la localidade 7,4 2,2 7,3 2,3 6,5 2,6 7,2 2,7 8,1 2,1 6,4 2,3 8,0 2,4 6,6 2,6 7,8 2,2 8,5 2,3 Tamaño de la localidadf 4,8 2,2 5,4 2,0 5,3 2,3 6,5 1,6 4,5 2,2 5,9 1,2 6,3 2,8 5,1 2,9 5,3 2,4 5,8 3,0 Nivel de educacióng 0,3 0,3 0,4 0,2 0,5 03 0,4 0,2 0,3 0,2 0,6 ,02 0,5 0,3 0,5 0,3 0,5 0,3 0,4 0,2 Exposición a la televisión 2,8 1,4 3,2 1,7 2,5 1,5 2,9 2,0 2,8 1,7 4,1 2,8 2,8 1,9 3,0 1,9 2,9 1,6 2,9 2,0 Edad 49,9 17,6 48,9 17,1 43,2 15,1 42,5 18,1 46,0 18,1 47,4 15,7 44,3 17,0 46,3 16,2 39,8 13,8 48,7 17,7
+
+Pertenencia a asociaciones 65 51 93 53 42 86 20 88 43 20 Clubes deportivos y de tiempo libre 38 23 51 22 16 45 5 45 20 3 Organizaciones de interés 36 29 87 33 25 75 14 78 15 16 Organizaciones socioculturales 21 9 26 15 15 25 4 16 8 3 Organizaciones religiosas 10 6 5 2 3 28 2 11 9 2 Implicación 68 54 94 63 49 90 20 96 58 20 Actividad 57 42 71 33 32 55 14 58 34 15 Donación 27 20 42 39 23 42 8 66 35 9 Trabajo voluntario 39 26 47 22 15 34 12 45 22 9 Amigos 58 42 56 36 30 35 14 49 43 15 Género (femenino) 56 53 49,8 61 52 53 54 51 53 51 Religión protestante 42 24 89 0 0 25 1 58 1 3 Religión católica 43 6 1 60 83 36 0 2 91 4 Religión ortodoxa 1 0 0 0 0 0 87 2 0 85 Religión musulmana 2 0 1 0 0 2 0 0 0 2 Otra religión 2 4 2 9 3 9 10 13 6 6 Ninguna religión 10 66 7 31 14 28 2 25 2 0
+
+N máximo (no ponderado) 1.991 1.013 1.640 990 4.252 1.649 1.219 2.297 1.010 1.217
+
+a Hasta la del tamaño de la localidad, las variables están expresadas en medias; la de la exposición a la televisión, en horas por día; la edad, en años; todas las demás, en porcentajes. b De 0 (muy desconfiado) a 1 (muy confiado). c De 0 (ninguna confianza) a 10 (mucha confianza). d De 0 (muy insatisfecho) a 10 (muy satisfecho). e De 0 (ningún apego) a 10 (mucho apego). f De 1 (gran ciudad) a 9 (área rural). g De 0 (mínimo) a 10 (máximo).
+
+M Dt M Dt M Dt
+
+3,9 3,1 6,4 2,6 5,8 2,7 3,3 2,1 5,5 1,7 5,5 1,8 1,9 0,8 2,9 0,6 2,7 0,7 4,5 2,7 8,1 1,8 8,2 1,7 6,6 3,3 7,0 2,7 6,5 2,7 6,4 3,3 7,0 2,6 6,3 2,7 4,1 2,7 5,4 2,3 5,7 1,4 0,5 0,3 0,5 0,3 0,4 0,3 3,1 2,0 1,9 1,3 1,8 3,7 44,9 17,2 48,4 17,6 47,5 17,2
+
+25 90 65
+
+3 43 38 21 85 36 3 21 21 1 6 10 28 92 68 16 68 57 6 46 27 11 50 39 17 74 58 55 51 56 0 79 42 0 2 43 69 1 5 2 3 8 2 23 11 10
+
+1.733 1.271 1.991
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+37
+
+TABLA 12
+
+Análisis de regresión múltiple de la confianza social en doce países europeos, 1999-2002a
+
+Alemania Alemania DinaEslo Predictor Occidental Oriental marca venia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Confianza política 0,30*** 0,23*** 0,31*** 0,16*** 0,20*** 0,32*** 0,21*** 0,28*** 0,28*** 0,25*** 0,23*** 0,30*** 0,23*** Satisfacción con la democracia 0,02*** 0,00*** 0,05*** 0,04*** 0,01*** 0,02*** –0,07*** 0,04*** 0,02*** 0,10*** –0,02*** 0,09*** 0,06***
+
+Pertenencia a asociaciones 0,06*** 0,02*** 0,01*** 0,01*** 0,03*** –0,02*** 0,04*** 0,00*** –0,02*** –0,02*** 0,02*** 0,01*** 0,02***
+
+Satisfacción con la vida 0,17*** 0,11*** 0,12*** 0,17*** 0,08*** 0,14*** 0,26*** 0,11*** 0,16*** 0,14*** 0,13*** 0,08*** 0,21*** Apego a la comunidad 0,08*** 0,01*** 0,03*** 0,04*** 0,04*** 0,11*** 0,09*** 0,07*** 0,12*** –0,01*** 0,08*** 0,07*** 0,11*** Tamaño de la localidad 0,05*** –0,09*** –0,01*** 0,01*** 0,06*** –0,02*** 0,02*** –0,01*** –0,04*** –0,01*** –0,02*** –0,04*** –0,03***
+
+Exposición a la televisión –0,13*** –0,03*** –0,12*** 0,02*** –0,07*** 0,01*** –0,01*** –0,13*** 0,05*** 0,02*** 0,02*** –0,06*** –0,77***
+
+Educación 0,09*** 0,08*** 0,05*** 0,13*** 0,09*** 0,08*** –0,04*** 0,06*** –0,01*** 0,05*** 0,08*** 0,10*** 0,05***
+
+Edad 0,08*** –0,10*** –0,14*** –0,10*** –0,02*** –0,10*** –0,07*** –0,13*** 0,04*** –0,10*** 0,01*** –0,16*** –0,06***
+
+Género (femenino) –0,01*** –0,03*** 0,03*** 0,03*** 0,01*** –0,00*** –0,01*** 0,04*** –0,03*** –0,01*** 0,04*** 0,04*** 0,02***
+
+Confesión religiosab
+
+Protestante –0,02*** –0,09*** R*** —*** —*** 0,00*** —*** R*** —*** –0,03*** —*** R*** 0,02***
+
+Católica R*** –0,11*** —*** R*** R*** R*** —*** –0,04*** R*** 0,01*** —*** –0,06*** R***
+
+Ortodoxa —*** —*** —*** —*** —*** —*** R*** –0,07*** —*** R*** R*** —*** —***
+
+Musulmana 0,00*** —*** –0,02*** —*** —*** 0,01*** —*** —*** —*** –0,04*** 0,05*** —*** —***
+
+Otra religión 0,02*** 0,06*** –0,00*** –0,03*** –0,06*** –0,00*** –0,04*** –0,03*** 0,00*** –0,15*** –0,00*** –0,05*** –0,00***
+
+No religioso –0,01*** R*** 0,01*** 0,02*** 0,03*** –0,02*** –0,03*** –0,02*** 0,09*** —*** –0,01*** –0,01*** 0,00***
+
+R 2 ajustado 0,166*** 0,079*** 0,191*** 0,118*** 0,120*** 0,212*** 0,174*** 0,246*** 0,125*** 0,177*** 0,109*** 0,179*** 0,214***
+
+N 1.853*** 879*** 1.488*** 836*** 3.135*** 1.220*** 770*** 1.812*** 803*** 914*** 1.040*** 1.081*** 1.126***
+
+a Las cifras son coeficientes de regresión no estandarizados. Los niveles de significatividad estadística son los siguientes: *** = 0,001; ** = 0,01; * = 0,05.
+
+b En cada país, la categoría de referencia (R) está formada por la principal confesión religiosa. Las confesiones que carecían de casos suficientes han sido agrupadas bajo la denominación de «otra religión».
+
+Ninguna otra variable tiene una presencia tan fuerte o tan consistente en todos los países. La
+
+satisfacción con la democracia, la edad, el género y el continuo urbano-rural hacen aparicio nes esporádicas, y en ocasiones los signos cambian, subrayando la débil e irregular naturale za de los resultados.También hay que destacar que las regresiones explican sólo una parte de
+
+la varianza de la confianza social: raramente consiguen dar cuenta de una quinta parte, y la
+
+mayoría de veces el R 2 ajustado se encuentra entre un 12 y un 18 por ciento. Existen aso ciaciones estadísticas consistentemente fuertes entre confianza social, por un lado, y confian za política, satisfacción con la vida y apego a la comunidad, por otro, pero no resultan espe cialmente exitosas a la hora de explicar una parte significativa de la variación en la confianza
+
+social. Pero estos resultados no son peores, y en muchos casos son algo mejores, que los ob tenidos por un buen número de los investigadores en este campo (Whiteley, 1999: 42).
+
+Dada su relevancia en la literatura sobre el capital social, podemos echar ahora un segun do vistazo al papel desempeñado por las organizaciones voluntarias en la generación de
+
+confianza social. Debe tenerse en cuenta para ello, en primer lugar, que hay muchos tipos
+
+distintos de asociaciones voluntarias; como apuntan Stolle y Rochon (2001: 144), «espera mos que las asociaciones dirigidas a diferentes objetivos tengan efectos diferentes en el
+
+desarrollo de capital social público».Y que, en segundo lugar, la afiliación es sólo una me dida de actividad voluntaria, por lo que quizás otros indicadores, como la participación en
+
+actividades voluntarias o el desempeño de un trabajo voluntario en asociaciones, puedan
+
+mostrarse más productivos en lo que a confianza social se refiere.
+
+¿Hasta qué punto tienen las diferentes organizaciones y otras formas de implicación aso ciativa un impacto en la confianza social? Las tablas 13 y 14 proporcionan dos respuestas
+
+más bien elocuentes31. En la tabla 13 hemos distinguido cuatro tipos de asociaciones vo luntarias (Badescu y Neller, 2007) según diferentes criterios. De acuerdo con Offe y Fuchs
+
+(2002: 192-199), las organizaciones religiosas, socioculturales y de tiempo libre pertene cen a lo que ellos denominan «asociaciones secundarias o cívicas»; por consiguiente, de beríamos esperar que fueran mejores para generar confianza que las asociaciones «tercia rias» o de interés. De acuerdo con Stolle y Rochon (2001: 154-55), las asociaciones
+
+culturales y de interés, por sus objetivos y su nivel de inclusividad, deberían ser especial mente efectivas produciendo confianza social. Además, las organizaciones religiosas son
+
+tratadas de forma separada por quienes defienden que la confianza social se encuentra
+
+asociada a los valores morales (Uslaner, 2002). Y, de acuerdo con Putnam (2000) y Stolle
+
+(1998: 502), podríamos también esperar que las asociaciones que promueven las interac ciones cara a cara generaran confianza social en mayor medida que las formas de partici pación pasivas o mediadas.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+38
+
+31 Véase Morales y Geurts (2007) para un análisis más detallado.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+39
+
+TABLA 13
+
+Análisis de regresión múltiple de la confianza social, incluyendo la pertenencia a diferentes tipos de asociaciones,
+
+en doce países europeos, 1999-2002a
+
+Alemania Alemania DinaEslo Predictor Occidental Oriental marca venia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Confianza política 0,31*** 0,25*** 0,30*** 0,17*** 0,20*** 0,32*** 0,21*** 0,28*** 0,29*** 0,25*** 0,23*** 0,30*** 0,22*** Satisfacción con la democracia 0,01*** 0,02*** 0,05*** 0,04*** 0,02*** 0,02*** –0,07*** 0,04*** 0,02*** 0,10*** –0,01*** 0,09*** 0,07***
+
+Pertenencia a Clubes deportivos y de tiempo libre 0,03*** 0,01*** 0,01*** 0,02*** 0,02*** 0,02*** 0,00*** 0,01*** 0,00*** 0,02*** –0,04*** 0,00*** 0,00***
+
+Organizaciones de interés 0,00*** 0,01*** 0,01*** 0,00*** 0,03*** –0,02*** 0,04*** 0,00*** –0,02*** –0,01*** 0,02*** 0,00*** 0,00***
+
+Organizaciones socioculturales 0,07*** 0,03*** 0,02*** 0,02*** 0,02*** 0,01*** –0,01*** 0,02*** –0,01*** 0,01*** 0,03*** 0,04*** 0,02***
+
+Organizaciones religiosas 0,03*** 0,06*** 0,01*** –0,04*** 0,07*** –0,00*** 0,03*** 0,02*** 0,03*** –0,04*** –0,04*** 0,02*** –0,02***
+
+Satisfacción con la vida 0,18*** 0,08*** 0,12*** 0,17*** 0,07*** 0,13*** 0,26*** 0,10*** 0,15*** 0,14*** 0,13*** 0,07*** 0,20*** Apego a la comunidad 0,06*** 0,02*** 0,03*** 0,04*** 0,04*** 0,10*** 0,08*** 0,05*** 0,12*** –0,01*** 0,08*** 0,07*** 0,11*** Tamaño de la localidad 0,07*** –0,11*** –0,01*** 0,01*** 0,06*** –0,02*** 0,02*** –0,00*** –0,03*** –0,00*** –0,02*** –0,03*** –0,04***
+
+Exposición a la televisión –0,21*** –0,05*** –0,09*** 0,02*** –0,07*** 0,02*** –0,01*** –0,14*** 0,05*** 0,03*** 0,02*** –0,04*** –0,92***
+
+Educación 0,04*** 0,21*** 0,13*** 0,12*** 0,10*** 0,08*** –0,05*** 0,09*** –0,01*** 0,02*** 0,18*** 0,16*** 0,10***
+
+Edad 0,06*** –0,15*** –0,12*** –0,10*** –0,03*** –0,11*** –0,07*** –0,13*** 0,04*** –0,10*** –0,00*** –0,15*** –0,07***
+
+Género (femenino) –0,02*** –0,02*** 0,03*** 0,03*** 0,01*** –0,00*** –0,01*** 0,04*** –0,02*** –0,01*** 0,04*** 0,03*** 0,02***
+
+Afiliación religiosab
+
+Protestante –0,01*** –0,10*** R*** —*** —*** 0,01*** —*** R*** —*** –0,03*** —*** R*** 0,02***
+
+Católica R*** –0,14*** —*** —*** R*** R*** —*** –0,04*** R*** 0,01*** —*** –0,06*** R***
+
+Ortodoxa —*** —*** —*** R*** —*** —*** R*** –0,08*** —*** R*** R*** —*** —***
+
+Musulmana 0,00*** —*** –0,00*** —*** —*** 0,01*** —*** —*** —*** –0,04*** 0,05*** —*** —***
+
+Otra religión 0,03*** 0,04*** –0,02*** –0,02*** –0,07*** 0,00*** –0,04*** –0,04*** 0,00*** –0,16*** –0,01*** –0,05*** –0,01***
+
+No religioso 0,01*** R*** 0,01*** 0,02*** 0,03*** –0,02*** –0,04*** –0,02*** 0,08*** —*** –0,01*** –0,01*** –0,00***
+
+R 2 ajustado 0,159*** 0,104*** 0,204*** 0,118*** 0,134*** 0,203*** 0,172*** 0,235*** 0,122*** 0,175*** 0,110*** 0,180*** 0,203***
+
+N 1.706*** 814*** 1.468*** 836*** 2.997*** 1.208*** 770*** 1.669*** 803*** 919*** 1.040*** 1.083*** 1.112***
+
+a Las entradas son coeficientes de regresión no estandarizados. Los niveles de significatividad estadística son los siguientes: *** = 0,001; ** = 0,01; * = 0,05.
+
+b En cada país, la categoría de referencia (R) está formada por la principal confesión religiosa. Las confesiones que carecían de casos suficientes han sido agrupadas bajo la denominación de «otra religión».
+
+Sin embargo, ninguna de estas hipótesis es corroborada por coeficiente alguno en la tabla
+
+13. Para cada organización y para cada país, los coeficientes son aproximadamente los
+
+mismos que en la anterior tabla 12 —y, además, la mayor parte de ellos no son significati vos (excepto para España y Alemania Occidental). Con la excepción parcial del apego a la
+
+comunidad, los efectos de otras variables no cambian de forma apreciable. Algo similar
+
+ocurre con la tabla 14, que muestra los efectos de distintas formas de participación asocia tiva sobre la confianza social, desde la afiliación al trabajo voluntario, pasando por la pre sencia de amigos en asociaciones voluntarias. Con la excepción, de nuevo, de España y
+
+Alemania Occidental, la contribución de estas formas de participación a la confianza social
+
+es normalmente pequeña o insignificante. Sólo en esos dos países, Alemania Occidental y
+
+España, la participación en asociaciones predice de forma considerable la confianza so cial. En el resto de los casos, no existe pauta alguna que sugiera que la interacción cara a
+
+cara en diferentes tipos de asociaciones o mediante distintas formas de participación aso ciativa produzca o refuerce la confianza social.
+
+Podemos ahora desplazarnos de la confianza social a la confianza política como variable
+
+dependiente, y realizar con esta última el mismo análisis de regresión. Como puede com probarse en la tabla 15, la confianza social, la satisfacción con la democracia y el apego al
+
+municipio aparecen en las ecuaciones de todos los países, pero la confianza social es
+
+siempre significativa en el máximo nivel32. La fuerte asociación entre confianza social y
+
+confianza en las instituciones políticas queda una vez más confirmada. La satisfacción con
+
+la democracia es todavía más importante; pero sus elevados coeficientes no son más que
+
+algo esperado, dado que, conceptualmente, ambas cuestiones se encuentran íntimamente
+
+relacionadas33. El apego al municipio es la tercera variable con una presencia relevante en
+
+las ecuaciones de todos los países. Resulta interesante el hecho de que, en lo relativo a la
+
+confianza social, lo importante es el apego a la unidad social, la comunidad; pero, para el
+
+indicador político de confianza, lo que cuenta es el apego a la unidad política, el municipio.
+
+Ello sugiere que las variables sociales son sumamente importantes para la confianza so cial, mientras que las variables políticas lo son para la confianza política (Newton, 2001;
+
+Anderson y LoTempio, 2002). Como Denters, Gabriel y Torcal (2007) dejan claro en un ex tenso análisis empírico de esta última, las explicaciones tanto socioculturales como políti cas de la confianza política tienen cierta capacidad explicativa, y deberían ser considera das complementarias en lugar de rivales; pero la fuerza explicativa del enfoque político es
+
+considerablemente mayor.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+40
+
+32 Por razones de espacio, no presentamos la regresión sobre la confianza política, que muestra que su asociación con el apego a la comunidad es más débil que el apego al municipio.
+
+33 Aunque Holmberg (1999: 113) ha argumentado que la relación entre la confianza en las instituciones políticas y la satisfacción con la democracia es espuria, no parece ser el caso a pesar de su cercanía conceptual.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+41
+
+TABLA 14
+
+Análisis de regresión múltiple de la confianza social, incluyendo diversas formas de implicación asociativa,
+
+en doce países europeos, 1999-2002a
+
+Alemania Alemania DinaEslo Forma de participación Occidental Oriental marca venia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Implicación 0,06*** 0,02 0,03*** 0,02 0,04*** –0,03* 0,03* –0,02*** –0,02 –0,01 0,02 –0,01* 0,06**
+
+Pertenencia 0,05*** 0,02 0,01*** 0,01 0,03*** –0,01* 0,03* 0,01*** –0,02 –0,01 0,02 0,01* 0,02**
+
+Actividad 0,07*** 0,02 0,03*** 0,01 0,04*** 0,00* 0,03* 0,01*** 0,02 –0,02 0,01 0,01* 0,02** Donación 0,06*** 0,04 0,03*** 0,01 0,03*** 0,01* 0,02* 0,02*** –0,01 –0,01 0,01 0,02* 0,02**
+
+Trabajo voluntario 0,07*** 0,02 0,01*** 0,02 0,03*** 0,01* 0,01* 0,01*** 0,00 –0,02 0,02 0,03* 0,02**
+
+Amigos 0,07*** 0,02 0,01*** 0,02 0,03*** 0,02* 0,02* 0,03*** –0,02 –0,02 0,01 0,02* 0,03**
+
+a Estos resultados han sido obtenidos mediante análisis de regresión múltiple en los que las variables independientes restantes corresponden a las incluidas en las tablas 12 y 13. Las cifras son coeficientes de regresión no estandarizados. Los niveles de significatividad estadística son los siguientes: *** = 0,001; ** = 0,01; * = 0,05.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+42
+
+TABLA 15
+
+Análisis de regresión múltiple de la confianza en las instituciones políticas en doce países europeos, 2000-2004a
+
+Alemania Alemania DinaEslo Predictor Occidental Oriental marca venia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Confianza social 0,13*** 0,10*** 0,24*** 0,16*** 0,20*** 0,25*** 0,22*** 0,25*** 0,20*** 0,27*** 0,15*** 0,17*** 0,19*** Satisfacción con la democracia 0,25*** 0,29*** 0,27*** 0,31*** 0,26*** 0,25*** 0,34*** 0,31*** 0,22*** 0,29*** 0,25*** 0,35*** 0,25*** Pertenencia a asociaciones 0,02*** –0,00*** 0,02*** 0,01*** 0,01*** 0,02*** 0,03*** 0,02*** –0,00*** 0,02*** –0,01*** –0,01*** 0,01***
+
+Satisfacción con la vida 0,03*** 0,03*** 0,03*** 0,03*** 0,05*** 0,02*** 0,08*** 0,08*** 0,03*** 0,10*** 0,08*** 0,06*** 0,00***
+
+Apego a la comunidad 0,13*** 0,17*** 0,06*** 0,15*** 0,09*** 0,07*** 0,09*** 0,05*** 0,09*** 0,11*** 0,06*** 0,06*** 0,13*** Tamaño de la localidad –0,05*** –0,05*** 0,02*** –0,01*** –0,02*** –0,05*** 0,01*** –0,02*** 0,02*** –0,03*** –0,05*** –0,00*** –0,00***
+
+Exposición a la televisión 0,10*** 0,07*** –0,06*** 0,05*** –0,02*** 0,00*** –0,11*** –0,03*** 0,13*** 0,10*** 0,03*** 0,01*** 0,01***
+
+Educación 0,01*** –0,00*** 0,04*** 0,05*** 0,03*** 0,04*** 0,05*** 0,04*** 0,06*** –0,09*** –0,02*** 0,04*** 0,06***
+
+Edad –0,07*** 0,07*** 0,05*** –0,13*** –0,05*** 0,00*** 0,02*** –0,03*** –0,06*** –0,06*** –0,14*** –0,04*** 0,03***
+
+Género (femenino) 0,02*** 0,02*** –0,00*** –0,01*** 0,01*** 0,01*** –0,04*** –0,01*** 0,01*** 0,01*** 0,01*** –0,00*** –0,00***
+
+Confesión religiosab
+
+Protestante 0,01*** 0,05*** R*** —*** —*** 0,01*** —*** R*** –0,08*** –0,03*** —*** R*** –0,01***
+
+Católica R*** 0,04*** —*** R*** R*** R*** —*** 0,01*** R*** 0,01*** —*** –0,00*** R***
+
+Ortodoxa —*** —*** —*** —*** —*** —*** R*** –0,05*** —*** R*** R*** —*** —***
+
+Musulmana 0,00*** —*** –0,01*** —*** —*** 0,03*** —*** —*** —*** –0,04*** 0,01*** —*** —***
+
+Otra religión –0,02*** 0,01*** –0,03*** 0,01*** –0,03*** –0,01*** –0,01*** –0,00*** –0,05*** –0,12*** –0,03*** 0,00*** 0,03***
+
+No religioso –0,02*** R*** –0,02*** –0,01*** –0,06*** –0,01*** 0,02*** –0,02*** 0,05*** —*** 0,01*** –0,02*** –0,04***
+
+R 2 ajustado 0,349*** 0,313*** 0,298*** 0,243*** 0,225*** 0,306*** 0,219*** 0,316*** 0,217*** 0,273*** 0,211*** 0,321*** 0,270***
+
+N 1.853*** 879*** 1.487*** 835*** 3.144*** 1.222*** 801*** 1.805*** 804*** 927*** 1.052*** 1.084*** 1.123***
+
+a Las entradas son coeficientes de regresión no estandarizados. Los niveles de significatividad estadística son los siguientes: *** = 0,001; ** = 0,01; * = 0,05.
+
+b En cada país, la categoría de referencia (R) está formada por la principal confesión religiosa. Las confesiones que carecían de casos suficientes han sido agrupadas bajo la denominación de «otra religión».
+
+Las regresiones de confianza social y de confianza política también difieren en que la sa tisfacción con la propia vida está íntimamente relacionada con la primera, pero no tanto
+
+con la segunda. Donde Listhaug y Wiberg (1995: 319) encuentran un impacto positivo, aun que tenue, de la satisfacción vital en los niveles de confianza política, nosotros encontra mos una relación limitada a sólo la mitad de los países. Como en el caso de la confianza
+
+social, la pertenencia a asociaciones voluntarias no está relacionada con la confianza.
+
+El tercer conjunto de regresiones trata de la satisfacción con la democracia (tabla 16). Los
+
+coeficientes vienen a contar la misma historia de resultados desiguales y dispersos, pero
+
+con una diferencia significativa. Cuando son ejecutados diferentes modelos estadísticos de
+
+satisfacción con la democracia (no mostrados por falta de espacio), tanto la confianza so cial como la confianza política aparecen en las ecuaciones como variables robustas si son
+
+introducidas por separado. Pero cuando son incluidas en la misma ecuación (como en la
+
+tabla 16), la confianza política es la única variable que retiene su fuerte asociación con la
+
+satisfacción. De este modo, la confianza social está asociada con la confianza política, y la
+
+confianza política se encuentra fuertemente vinculada a la satisfacción con la democracia.
+
+Pero la confianza social no se encuentra asociada con la satisfacción con la democracia de
+
+forma independiente de la confianza política. Ello sugiere que el efecto de la confianza so cial sobre la satisfacción con la democracia tiene lugar a través de la confianza en las insti tuciones políticas.
+
+Las regresiones de satisfacción con la democracia muestran también otra diferencia intere sante. Mientras que la confianza social y el apego al municipio desaparecen en gran medi da, la satisfacción con la propia vida reaparece en diez de las trece ecuaciones. Los resul tados de las otras variables son, en general, dispersos e irregulares; y, de nuevo, el impacto
+
+de las asociaciones voluntarias es insignificante (excepto en Portugal). Entre un 15 y un 30
+
+por ciento de la varianza es explicado en cada país, y la mayor parte del mérito pertenece
+
+al indicador de confianza política.
+
+La asociación entre las tres variables queda resumida en el gráfico 1. Aunque las líneas
+
+son meramente indicativas de asociaciones que son consistentemente significativas en to dos o en la mayoría de países incluidos en el proyecto CID, la imagen presenta una intere sante pauta de relaciones entre la confianza social y la confianza política, por un lado, y la
+
+confianza política y la satisfacción democrática, por el otro. Las tres variables se encuen tran relacionadas, pero de diferentes formas directas e indirectas, y tienen sus orígenes en
+
+combinaciones distintivas de circunstancias sociales y políticas. Confirmando las correla ciones analizadas en secciones previas de este artículo, el análisis multivariado muestra
+
+que la confianza política es el indicador más importante para predecir la confianza social
+
+en todos nuestros países. Mientras que la confianza política también tiene una relación sis CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+43
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+44
+
+TABLA 16
+
+Análisis de regresión múltiple de la satisfacción con la democracia en doce países europeos, 1999-2002a
+
+Alemania Alemania DinaEslo Predictor Occidental Oriental marca venia España Holanda Moldavia Noruega Portugal Rumanía Rusia Suecia Suiza
+
+Confianza social 0,0*** 0,00*** 0,08*** 0,05*** 0,02*** 0,05*** –0,05*** 0,05*** 0,04*** 0,10*** –0,02*** 0,08*** 0,11***
+
+Confianza política 0,65*** 0,55*** 0,55*** 0,41*** 0,47*** 0,64*** 0,29*** 0,49*** 0,51*** 0,31*** 0,43*** 0,55*** 0,50*** Pertenencia a asociaciones –0,022** 0,00*** 0,01*** 0,00*** –0,01*** –0,03*** –0,01*** –0,00*** 0,04*** 0,03*** 0,00*** –0,02*** –0,00***
+
+Satisfacción con la vida 0,13*** 0,26*** 0,14*** 0,06*** 0,02*** 0,11*** 0,16*** 0,09*** 0,06*** 0,18*** 0,11*** 0,10*** 0,11***
+
+Apego a la comunidad 0,09*** 0,01*** –0,02*** 0,05*** 0,04*** 0,02*** 0,04*** 0,00*** –0,03*** 0,03*** 0,02*** 0,00*** –0,02***
+
+Tamaño de la localidad 0,022** 0,01*** 0,01*** 0,08*** 0,01*** 0,00*** –0,04*** 0,03*** –0,12*** 0,03*** –0,01*** 0,03*** 0,04***
+
+Exposición a la televisión –0,092** 0,01*** 0,00*** –0,04*** 0,05*** –0,06*** 0,04*** 0,02*** –0,05*** 0,03*** –0,02*** 0,02*** –0,03***
+
+Educación 0,032** –0,00*** 0,06*** –0,01*** 0,05*** 0,03*** –0,02*** –0,02*** 0,05*** 0,04*** 0,04*** 0,05*** –0,00***
+
+Edad 0,022** 0,06*** –0,06*** 0,12*** –0,01*** 0,08*** –0,04*** 0,09*** –0,02*** –0,12*** 0,28*** 0,12*** 0,08***
+
+Género (femenino) –0,012** –0,03*** –0,06*** –0,00*** –0,02*** 0,00*** 0,04*** –0,01*** –0,03*** –0,01*** –0,00*** –0,02*** –0,00***
+
+Confesión religiosab
+
+Protestante 0,01*** 0,08*** R*** —*** —*** –0,01*** —*** R*** 0,05*** –0,07*** —*** R*** –0,01***
+
+Católica R*** 0,08*** —*** R*** R*** R*** —*** –0,08*** R*** 0,01*** —*** 0,07*** R***
+
+Ortodoxa —2** —*** —*** —*** —*** —*** R*** –0,00*** —*** R*** R*** —*** —***
+
+Musulmana –0,012** —*** 0,03*** —*** —*** –0,02*** —*** —*** —*** 0,03*** 0,01*** —*** —***
+
+Otra religión –0,012** 0,02*** 0,02*** –0,01*** 0,00*** 0,02*** –0,03*** –0,03*** 0,02*** 0,13*** –0,02*** 0,02*** 0,01***
+
+No religioso –0,012** R*** –0,01*** –0,00*** –0,04*** –0,01*** –0,04*** –0,01*** 0,01*** —*** –0,02*** –0,01*** –0,04***
+
+R 2 ajustado 0,2462** 0,297*** 0,234*** 0,175*** 0,152*** 0,209*** 0,175*** 0,220*** 0,148*** 0,218*** 0,181*** 0,281*** 0,179***
+
+N 1.8532** 879*** 1.487*** 835*** 3.144*** 1.222*** 801*** 1.805*** 804*** 927*** 1.052*** 1.084*** 1.123***
+
+a Las entradas son coeficientes de regresión no estandarizados. Los niveles de significatividad estadística son los siguientes: *** = 0,001; ** = 0,01; * = 0,05.
+
+b En cada país, la categoría de referencia (R) está formada por la principal confesión religiosa. Las confesiones que carecían de casos suficientes han sido agrupadas bajo la denominación de «otra religión».
+
+temática, consistente y robusta con la satisfacción con la democracia, la confianza social
+
+está vinculada con esta última sólo a través de su asociación con la satisfacción vital, que a
+
+su vez está asociada con nuestras tres variables dependientes (aunque mucho menos en
+
+el caso de la confianza política).
+
+En otras palabras, parece que la confianza social se encuentra fuertemente asociada a la
+
+confianza política, y que la confianza política lo está con la satisfacción con la democracia;
+
+pero la confianza social no está asociada con la satisfacción con la democracia indepen dientemente de la confianza política.Y mientras que el apego a la comunidad está relacio nado con la confianza social, es el apego al municipio el que acompaña a la confianza po lítica. Ninguno de nuestros indicadores de implicación en asociaciones voluntarias
+
+desempeña un papel significativo o consistente en los modelos. Ni la pertenencia, ni la par ticipación, ni la donación de dinero, ni el desempeño de trabajo voluntario, ni el contar con
+
+amigos en una organización voluntaria tienen impacto alguno en la confianza social (ex cepto en España y Alemania Occidental). La variable compuesta de participación asociati va, que combina todas estas medidas, funciona todavía menos (aunque de nuevo con las
+
+excepciones española y alemana)34.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+45
+
+GRAFICO 1
+
+Confianza social, confianza política y satisfacción con la democracia
+
+34 La excepcionalidad de los coeficientes de pertenencia a las asociaciones en Alemania Occidental y en España, incluidos en las de las tablas 12, 13 y 14, puede deberse a distintos motivos. Los españoles pueden ser principalmente atribuidos a la considerable amplitud de la muestra de la población. Los alemanes de la tabla 14 podrían estar originados por su menor tasa de asociacionismo en comparación con la muy elevada existente entre los países occidentales (Morales y Geurts, 2007), lo que habría impedido la aparición en ellos de efectos significativos.Y con respecto a los coeficientes relativos al impacto del tamaño de la localidad sobre confianza social de las tablas 12 y 13, podría ocurrir que las muestras de sus respectivas encuestas validen las expectativas de los supuestos teóricos del tamaño de la localidad, es decir, que la confianza particularizada es mayor entre quienes viven en pueblos pequeños y más o menos aislados, mientras tiende a disminuir a medida que crece el tamaño del hábitat urbano.
+
+Apego a la comunidad Confianza social
+
+Satisfacción con la propia vida Confianza política
+
+Apego al municipio Satisfacción con la democracia
+
+CONCLUSIONES
+
+La confianza social es considerada el elemento central en un complejo círculo virtuoso en
+
+el cual un conjunto de actitudes, que incluyen la mutualidad, la reciprocidad y la confianza,
+
+se encontrarían asociados con la participación en la comunidad y, especialmente, con la
+
+pertenencia a asociaciones y clubes voluntarios, que, a su vez, estarían vinculados a la im plicación cívica y a la participación política democrática, lo que por su parte ayudaría a
+
+construir las instituciones sociales y políticas necesarias para un gobierno democrático y
+
+efectivo. La democracia y el buen gobierno crearían a continuación las condiciones en las
+
+que la confianza social y la confianza política puedan florecer, permitiendo a los ciudada nos desarrollar su sentido de ciudadanía, promoviendo la implicación en la comunidad, el
+
+compromiso cívico y la participación democrática, y completando así el círculo virtuoso.
+
+Pero este círculo virtuoso presenta al menos dos problemas importantes. En primer lugar,
+
+los numerosos estudios realizados en base a encuestas muestran que la participación en
+
+organizaciones voluntarias está débilmente conectada con la confianza social generaliza da. Los mismos estudios señalan que, por lo general, la actividad voluntaria tiene una débil
+
+relación con las actitudes y el comportamiento políticos, incluyendo la confianza en las ins tituciones políticas y la satisfacción con la democracia. Los resultados son prácticamente
+
+los mismos si se adopta como medida de actividad voluntaria la pertenencia pasiva a una o
+
+a varias asociaciones o si se selecciona un indicador más robusto de trabajo o de implica ción en ellas. Y aunque parece encontrarse evidencia a favor de los anteriores supuestos
+
+teóricos, es normalmente débil, incompleta y ni de lejos lo suficientemente robusta como
+
+para resultar convincente.
+
+Los resultados de nuestra investigación confirman esta conclusión. Otorgan poco apoyo a
+
+la afirmación de que la pertenencia a las asociaciones voluntarias crea confianza social
+
+generalizada en los demás, y proporcionan una evidencia sólo mínima del vínculo entre di cha pertenencia y el apoyo a las instituciones políticas y la satisfacción con la democracia.
+
+En este sentido, la pertenencia a las asociaciones voluntarias parece ser irrelevante para la
+
+ciudadanía, la implicación política y la democracia. Pero ello no significa, desde luego, que
+
+esas asociaciones sean irrelevantes para la democracia. Pueden tener un efecto reducido
+
+sobre las actitudes sociales y políticas de los ciudadanos, así como en su comportamiento,
+
+pero, en cuanto grupos organizados y capaces de movilizarse políticamente, pueden tener
+
+un impacto considerable en la vida política, especialmente en las cuestiones políticas y en
+
+las políticas públicas que afectan a sus intereses. De hecho, los estudios sobre las políticas
+
+públicas y los grupos de presión sugieren que las asociaciones voluntarias tienen, efectiva mente, ese impacto y que desempeñan un papel enormemente importante en el gobierno
+
+democrático, pero ésa es una historia diferente.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+46
+
+El segundo problema con la teoría que relaciona la confianza social con la confianza políti ca es que, casi sin excepciones y según numerosas investigaciones, una y otra carecen de
+
+relaciones en el nivel individual. Muchos estudios, y hay una buena cantidad de ellos, han
+
+concluido que es incierto que quienes confíen en sus conciudadanos sean también procli ves a confiar en las instituciones del gobierno democrático.
+
+A este respecto, nuestros resultados son sorprendentes. Contrariamente a numerosos ha llazgos empíricos previos, hemos descubierto que la confianza social y la confianza políti cas están asociadas. El vínculo entre ellas es fuerte en todas nuestras trece sociedades y
+
+mantiene su capacidad estadística y sustantiva cuando se incorporan otras variables en el
+
+análisis de regresión. De hecho, en las regresiones sobre la confianza social de la tabla 11,
+
+la confianza en las instituciones políticas es, con mucho, la variable más robusta en cada
+
+ecuación en doce de las trece sociedades. Es un hallazgo sorprendente.
+
+Dado que ningún estudio había mostrado con anterioridad una asociación fuerte o con sistente entre la confianza social y la confianza en las instituciones políticas, debemos ser
+
+cautos al extraer conclusiones de nuestros excepcionales resultados. Existen algunas ra zones válidas, sin embargo, para tomarlos en serio. Es probable que los indicadores de
+
+confianza empleados aquí sean más precisos, sensibles y fiables que la mayoría de los de más, en parte porque hemos utilizado una escala de medición de once puntos en todas las
+
+preguntas.
+
+Nuestros hallazgos tienen dos implicaciones. Metodológicamente, parece ventajoso em plear baterías escalables de preguntas y escalas de medición de once puntos (al menos
+
+para la confianza social y la confianza política), aunque ello pueda hacer a las encuestas
+
+más caras y costosas en términos de tiempo. En términos sustantivos, parece claro que la
+
+confianza social y la confianza política se encuentran ciertamente asociadas en el nivel
+
+individual, lo que es consistente con las hipótesis presentadas por los teóricos del capital
+
+social, que esperan encontrar una asociación tanto en el nivel individual como en el nivel
+
+agregado.
+
+La existencia de un vínculo en el nivel individual entre confianza social y actitudes políticas
+
+tiene también importantes implicaciones para los orígenes sociales de la ciudadanía y de
+
+la democracia, pero no resultan del todo coherentes con la teoría expuesta al principio de
+
+este artículo. Dicha teoría sostiene que la presencia de pautas agrupadas de actitudes so ciales y de comportamiento (como la confianza social generalizada, la pertenencia a aso ciaciones voluntarias y el apego a la comunidad) estará, a su vez, asociada con otro grupo
+
+de actitudes y comportamientos políticos (como la solidaridad y la implicación cívica, la
+
+confianza en las instituciones políticas y la satisfacción con la democracia). Aunque hemos
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+47
+
+encontrado algunas de esas asociaciones, las pautas no son ni tan ajustadas ni tan sim ples como predice la teoría. La evidencia sugiere que existen diferentes vías, aunque sola padas, que conducen a la confianza social generalizada, por un lado, y a las actitudes de
+
+confianza hacia las instituciones democráticas, por el otro.
+
+Básicamente, esas vías son tres. En primer lugar, la confianza social está sobre todo ligada
+
+a la satisfacción con la vida y al apego a la comunidad local, pero también lo está a la con fianza en las instituciones políticas. A su vez, el apego a la comunidad y la confianza social
+
+carecen de relación directa con la satisfacción con la democracia. En segundo lugar, la sa tisfacción con la democracia está íntimamente relacionada con la confianza política, la
+
+cual, por su parte, no está vinculada con el apego a la comunidad, sino con el apego al mu nicipio. Y, finalmente, la satisfacción con la democracia no se encuentra directamente vin culada con la confianza social o el apego a la comunidad, aunque sí con un tercer factor en
+
+común, la satisfacción con la vida, que parece yacer en el corazón de la red causal.
+
+Por el momento, las implicaciones de estos hallazgos para los análisis empíricos sobre la
+
+ciudadanía, la participación y la democracia deben ser establecidas con cautela. La conclu sión parece ser que las actitudes y comportamientos sociales forman un grupo de varia bles, mientras que las orientaciones y comportamientos políticos forman otro, con la satis facción con la propia vida relacionando a ambos. La teoría clásica tiene razón en algún
+
+sentido, pero en otro está equivocada. La satisfacción con la democracia se encuentra prin cipalmente arraigada en condiciones políticas, mientras que la confianza social lo está en
+
+condiciones sociales, con la satisfacción con la vida siendo una fuente común de ambas.
+
+Después de todo, la confianza social no es la variable crucial que vincula la vida social con
+
+la satisfacción con la democracia, aunque se encuentra íntimamente asociada con la con fianza en las instituciones políticas. La pertenencia a las asociaciones voluntarias no tiene
+
+ninguna presencia en los modelos de confianza social o de confianza política.
+
+El papel de la satisfacción con la vida como correlato tanto de la confianza social y de la
+
+satisfacción con el funcionamiento de la democracia es la vez importante e interesante. Su
+
+vinculación con la confianza estaba ya establecida en la literatura, pero no así sus correla ciones simultáneas con la confianza social y con la satisfacción con la democracia. La sa tisfacción con la vida puede ser tratada como una variable individual relacionada con otras
+
+características individuales como la renta, un buen trabajo, una excelente educación y un
+
+elevado estatus. Pero su vinculación con la satisfacción con la democracia sugiere que
+
+puede ser también producto de variables sistémicas como las instituciones democráticas,
+
+la estabilidad política, las políticas públicas, la ausencia de corrupción en los servicios pú blicos y la efectividad del Estado de Derecho. Una interpretación individual apunta a una
+
+explicación ascendente, de abajo arriba, de la confianza social y de la satisfacción con la
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+48
+
+democracia, mientras que una interpretación sistémica sugiere una explicación descen dente, de arriba abajo, y en términos de estructuras e instituciones sociales y políticas.
+
+En este artículo no podemos responder si se trata de una explicación ascendente o des cendente (o de una mezcla de ambas), pero podemos al menos señalar con alguna segu ridad que las condiciones del funcionamiento y estabilidad de la democracia no parecen
+
+estar tan íntimamente ligadas a las circunstancias de la vida comunitaria como sugiere la
+
+teoría clásica. La implicación y la participación en la comunidad local pueden resultar su mamente beneficiosas tanto para la propia comunidad como para sus miembros indivi duales, pero su impacto en la democracia y en sus instituciones parece ser indirecto y
+
+comparativamente débil.
+
+(Traducción de Josep Ventura.)
+
+REFERENCIAS
+
+ALMOND, Gabriel, y VERBA, Sydney (1963): The Civic Culture. Political Attitudes and Democracy in Five Nations, Princeton: Princeton University Press.
+
+ANDERSON, Christopher J. (1998): «Political Satisfaction in Old and New Democracies», Institute for European Studies Working Paper 98.4, Cornell University.
+
+ANDERSON, Christopher J., y GUILLORY, Christine A. (1997): «Political Institutions and Satisfaction with Democracy: A Cross-national Analysis of Consensus and Majoritarian Systems», American Political Science Review, 91: 66-81.
+
+ANDERSON, Christopher J., y TVERDOVA, Yuliya V. (2001): «Winners, Losers, and Attitudes about Government in Contemporary Democracies», International Political Science Review, 22 (4): 321-333.
+
+ANDERSON, Christopher J., y LoTEMPIO, Andrew J. (2002): «Winning, Losing, and Political Trust in America», British Journal of Political Science, 32 (2): 335-351.
+
+BADESCU, Gabriel, y NELLER, Katja (2007): «Explaining Associational Involvement», en Citizenship and Involvement in European Democracies: A Comparative Analysis, eds. Jan W. van Deth, José Ramón Montero y Anders Westholm, Londres: Routledge.
+
+BOOTH, John A., y RICHARD, Patricia Bayer (2001): «Civil Society and Political Context in Central America», en Beyond Tocqueville: Civil Society and the Social Capital Debate in Comparative Perspective, eds. Bob Edwards, Michael W. Foley y Mario Diani, Hanover: Tufts University/University Press of New England.
+
+BOUCKAERT, Geert, y VAN DE WALLE, Steven (2001): «Government Performance and Trust in Government», Ponencia presentada en la Annual Conference of the European Group on Public Administration, Vaasa (Finlandia).
+
+BRAITHWAITE, Valerie, y LEVI, Margaret (1998): Trust and Governance, Nueva York: Russell Sage Foundation.
+
+BREHM, John, y RAHN, Wendy (1997): «Individual-Level Evidence for the Causes and Consequences of Social Capital», American Journal of Political Science, 41 (3): 999-1023.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+49
+
+CHRISTENSEN, Tom, y LAEGREID, Per (2002): «Trust in Government – the Relative Importance of Service Satisfaction, Political Factors and Demography», Ponencia presentada en la Annual Conference of the European Group on Public Administration, Potsdam (Alemania).
+
+CLARKE, Harold D.; DUTT, Nitish, y KORNBERG, Allan (1993): «The Political Economy of Attitudes toward Polity and Society in Western European Democracies», Journal of Politics, 55: 998-1021.
+
+CRAIG, Stephen (1993): The Malevolent Leaders: Popular Discontent in America, Boulder, Col.: Westview Press.
+
+DASGUPTA, Partha, y SERAGELDIN, Ismail (eds.) (2000): Social Capital. A Multifaceted Perspective, Washington, DC: The World Bank.
+
+DEKKER, Paul, y VAN DEN BROEK, Andries (1995): «Citizen Participation in Civil Societies», Ponencia presentada en el 18 International Society of Political Psychology, Washington, DC.
+
+DEKKER, Paul, y USLANER, Eric M. (eds.) (2001): Social Capital and Participation in Everyday Life, London: Routledge.
+
+DELHEY, Jan, y NEWTON, Kenneth (2003): «Who Trusts? The Origins of Social Trust in Seven Societies», European Societies, 5 (2): 93-137.
+
+DENTERS, Bas; GABRIEL, Oscar, y TORCAL, Mariano (2007): «Political Confidence in Representative Democracies: Socio-cultural vs. Political Explanations», en Citizenship and Involvement in European Democracies: A Comparative Analysis, eds. Jan W. van Deth, José Ramón Montero y Anders Westholm, Londres:Routledge.
+
+DI PALMA, Giuseppe (1970): Apathy and Participation. Mass Politics in Western Societies, Nueva York: Free Press.
+
+DUNN, John (1993): «Trust», en A Companion to Contemporary Political Philosophy, eds. Robert E. Goodin y Philip Pettit, Oxford: Blackwell.
+
+EASTON, David (1965): A Systems Analysis of Political Life, Chicago: University of Chicago Press.
+
+EDWARDS, Bob; FOLEY, Michael W., y DIANI, Mario (eds.) (2001): Beyond Tocqueville: Civil Society and the Social Capital Debate in Comparative Perspective, Hanover: Tufts University/University Press of New England.
+
+EVANS, Geoffrey, y LETKI, Natalia (2006): «Understanding the Relationship Between Social Capital and Political Disaffection in the New Post-communist Democracies», en Political Disaffection in Western Europe. Social Capital Institutions, and Politics, eds. Mariano Torcal y José Ramón Montero, Londres: Routledge.
+
+FARAH, Barbara G.; BARNES, Samuel H., y HEUNKS, Felix (1979): «Political Dissatisfaction», en Political Action. Mass Participation in Five Western Democracies, eds. Samuel H. Barnes, Max Kaase y otros, Beverly Hills: Sage.
+
+FREITAG, Markus (2003): «Social Capital in (Dis)similar Democracies. The Development of Generalized Trust in Japan and Switzerland», Comparative Political Studies, 36 (8): 936-966.
+
+GABRIEL, Oscar (1995): «Political Efficacy and Trust», en The Impact of Values, eds. Jan W. van Deth y Elinor Scarbrough, Oxford: Oxford University Press.
+
+GAMBETTA, Diego (ed.) (1988a): Trust: Making and Breaking Cooperative Relations, Oxford: Blackwell.
+
+— (1988b): «Can we Trust Trust?», en Trust: Making and Breaking Cooperative Relations, ed. Diego Gambetta, Oxford: Blackwell.
+
+GIDDENS, Anthony (1990): The Consequences of Modernity, Stanford: Stanford University Press.
+
+GRANOVETTER, Mark S. (1973): «The Strength of Weak Ties», American Journal of Sociology, 78: 1360-1380.
+
+GUNTHER, Richard, y MONTERO, José Ramón (2004): «Attitudes toward Democracy in Seven Countries: Dimensional Structure and Behavioral Correlates», Studies in Public Policy, 385, Glasgow: University of Strathclyde.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+50
+
+HALL, Peter (1999): «Social Capital in Britain», British Journal of Political Science, 29: 417-459.
+
+HARDIN, Russell (1991): «Trusting Persons, Trusting Institutions», en The Strategy of Choice, ed. Richard J. Zeckhauser, Cambridge, Mass.: MIT Press.
+
+— (1993): «The Street-Level Epistemology of Trust», Politics and Society, 21 (December): 505-529.
+
+— (1996): «Trustworthiness», Ethics, 107: 26-42.
+
+— (1998): «Trust in Government», en Trust and Governance, eds. Valerie Braithwaite y Margaret Levi, Nueva York: Russell Sage Foundation.
+
+— (1999): «Do we Want Trust in Government?», en Democracy and Trust, ed. Mark E. Warren, Cambridge: Cambridge University Press.
+
+— (2000): «The Public Trust», en Disaffected Democracies: What’s Troubling the Trilateral Countries?, ed. Susan J. Pharr y Robert D. Putnam, Princeton: Princeton University Press.
+
+— (2002): Trust and Trustworthiness, Nueva York: Russell Sage Foundation.
+
+HOLLIS, Martin (1998): Trust within Reason, Cambridge: Cambridge University Press.
+
+HOLMBERG, Sören (1999): «Down and Down We Go: Political Trust in Sweden», en Critical Citizens. Global Support for Democratic Government, ed. Pippa Norris, Oxford: Oxford University Press.
+
+HOOGHE, Marc (2003): «Voluntary Associations and Democratic Attitudes: Value Congruence as a Causal Mechanism», en Generating Social Capital: Civil Society and Institutions in Comparative Perspective, eds. Marc Hooghe y Dietlind Stolle, Basingstoke: Palgrave.
+
+INGLEHART, Ronald (1997): Modernization and Postmodernization, Princeton: Princeton University Press.
+
+JAGODZINSKI, Wolfgang, y MANABE, Kazufumi (2004): «How to Measure Interpersonal Trust? A Comparison of Two Different Measures», ZA-Information, 55: 85-98.
+
+KAASE, Max (1999): «Interpersonal Trust, Political Trust and Non-institutionalised Political Participation in Western Europe», West European Politics, 22 (3): 1-23.
+
+KLINGEMANN, Hans-Dieter (1999): «Mapping Political Support in the 1990s: A Global Analysis», en Critical Citizens. Global Support for Democratic Government, ed. Pippa Norris, Oxford: Oxford University Press.
+
+KNACK, Stephen, y KEEFER, Philip (1997): «Does Social Capital Have an Economic Payoff? A Cross-country Investigation», Quarterly Journal of Economics, 112 (4): 1251-1288.
+
+KORNBERG, Allan, y CLARKE, Harold D. (1992): Citizens and Community. Political Support in a Representative Democracy, Cambridge: Cambridge University Press.
+
+KROSNICK, Jon A., y FABRIGAR, Leandre R. (1997): «Designing Rating Scales for Effective Measurement in Surveys», en Survey Measurement and Process Quality, eds. Lars E. Lyberg y otros, Nueva York: Wiley.
+
+KUECHLER, Manfred (1991): «The Dynamics of Mass Political Support in Western Europe: Methodological Problems and Preliminary Findings», en Eurobarometer. The Dynamics of European Public Opinion, eds. Karlheinz Reif y Ronald Inglehart, Londres: Macmillan.
+
+LEVI, Margaret, y STOKER, Laura (2000): «Political Trust and Trustworthiness», Annual Review of Political Science, 3: 475-508.
+
+LEWIS, J. David, y WEIGERT, Andrew (1985): «Trust as a Social Reality», Social Forces, 63: 967-985.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+51
+
+LINZ, Juan J. (1988): «Legitimacy of Democracy and the Socioeconomic System», en Comparing Pluralist Democracies, ed. Mattei Dogan, Boulder: Westview Press.
+
+LIPSET, Seymour M., y SCHNEIDER, William (1983): The Confidence Gap, Nueva York: Free Press.
+
+LISTHAUG, Ola (1998): «Confidence in Political Institutions: Norway 1982-96». Manuscrito inédito.
+
+LISTHAUG, Ola, y WIBERG, Matti (1995): «Confidence in Political and Private Institutions», en Citizens and the State, eds. Hans-Dieter Klingemann y Dieter Fuchs, Oxford: Oxford University Press.
+
+LUHMANN, Niklas (1979): Trust and Power, New York: Wiley.
+
+— (1988): «Familiarity, Confidence, Trust: Problems and Perspectives», en Trust: Making and Breaking Cooperative Relations, ed. Diego Gambetta, Oxford: Blackwell.
+
+MAGALHÃES, Pedro C. (2006): «Confidence in Parliament: Performance, Representation and Accountability», en Political Disaffection in Western Europe. Social Capital, Institutions, and Politics, eds. Mariano Torcal y José Ramón Montero, Londres: Routledge.
+
+MINKOFF, Debra C. (2001): «Producing Social Capital: National Social Movements and Civil Society», en Beyond Tocqueville: Civil Society and the Social Capital Debate in Comparative Perspective, eds. Bob Edwards, Michael W. Foley y Mario Diani, Hanover: Tufts University/University Press of New England.
+
+MISHLER, William, y ROSE, Richard (2001): «Political Support for Incomplete Democracies: Realist vs. Idealist Theories and Measures», International Political Science Review, 22 (4): 303-320.
+
+MISZTAL, Barbara A. (1996): Trust in Modern Societies, Oxford: Blackwell.
+
+MONTERO, José Ramón; FONT, Joan, y TORCAL, Mariano (eds.) (2006): Ciudadanos, asociaciones y participación en España, Madrid: Centro de Investigaciones Sociológicas.
+
+MORALES, Laura, y GEURTS, Peter (2007): «Associational Involvement», en Citizenship and Involvement in European Democracies: A Comparative Analysis, eds. Jan van Deth, José Ramón Montero y Anders Westholm, Londres: Routlege.
+
+NEWTON, Kenneth (1999a): «Social and Political Trust in Established Democracies», en Critical Citizens. Global Support for Democratic Government, ed. Pippa Norris, Oxford: Oxford University Press.
+
+— (1999b): «Social Capital and Democracy in Modern Europe», en Social Capital and European Democracy, eds. Jan van Deth, Mario Maraffi, K. Newton y Paul Whiteley, Londres: Routledge.
+
+— (2001): «Trust, Social Capital, Civil Society, and Democracy», International Political Science Review, 22 (2): 201-214.
+
+NEWTON, Kenneth, y NORRIS, Pippa (2000): «Confidence in Public Institutions: Faith, Culture, or Performance?», en Disaffected Democracies: What’s Troubling the Trilateral Countries?, eds. Susan J. Pharr y Robert D. Putnam, Princeton: Princeton University Press.
+
+NORRIS, Pippa (1999): «Institutional Explanations for Political Support», en Critical Citizens. Global Support for Democratic Government, ed. Pippa Norris, Oxford: Oxford University Press.
+
+OFFE, Claus (1999): «How can we trust our fellow citizens», en Democracy and Trust, ed. Mark E. Warren, Cambridge: Cambridge University Press.
+
+OFFE, Claus, y FUCHS, Susanne (2002): «A Decline of Social Capital? The German Case», en Democracies in Flux. The Evolution of Social Capital in Contemporary Society, ed. Robert D. Putnam, Oxford: Oxford University Press.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+52
+
+O’NEILL, Onora (2002): A Question of Trust: The BBC Reith Lectures 2002, Cambridge: Cambridge University Press.
+
+ORREN, Gary (1997): «Fall from Grace: The Public’s Loss of Faith in Government», en Why People Don’t Trust Government, eds. Joseph S. Nye, Philip D. Zelikow y David C. King, Cambridge: Harvard University Press.
+
+PAXTON, Pamela (1999): «Is Social Capital Declining in the United States? A Multiple Indicator Assessment», American Journal of Sociology, 105 (1): 88-127.
+
+— (2002): «Social Capital and Democracy: An Inter-dependent Relationship», American Sociological Review, 67: 254-277.
+
+PUTNAM, Robert D. (1993): Making Democracy Work: Civic Traditions in Modern Italy, Princeton: Princeton University Press.
+
+— (1995): «Tuning in, Tuning Out. The Strange Disappearance of Social Capital in America», PS: Political Science and Politics, 29: 664-683.
+
+— (2000): Bowling Alone: The Collapse and Revival of American Community, Nueva York: Simon and Schuster.
+
+— (ed.) (2002): Democracies in Flux. The Evolution of Social Capital in Contemporary Society, Oxford: Oxford University Press.
+
+PUTNAM, Robert D.; PHARR, Susan J., y DALTON, Russell J. (2000): «Introduction: What’s Troubling the Trilateral Democracies?», en Disaffected Democracies: What’s Troubling the Trilateral Countries?, eds. S. J. Pharr y R. D. Putnam, Princeton: Princeton University Press.
+
+ROHRSCHNEIDER, Robert, y SCHMITT-BECK, Rüdiger (2003): «Trust in Democratic Institutions in Germany: Theory and Evidence Ten Years After Unification», German Politics, 11: 35-58.
+
+ROSENBERG, Morris (1956): «Misanthropy and Political Ideology», American Sociological Review, 21 (6): 690-695.
+
+— (1957): «Misanthropy and attitudes toward international affairs», Journal of Conflict Resolution, 1 (4): 340-345.
+
+ROTHSTEIN, Bo (2002): «Social Capital in the Social Democratic State», en Democracies in Flux. The Evolution of Social Capital in Contemporary Society, ed. Robert D. Putnam, Oxford: Oxford University Press.
+
+ROTHSTEIN, Bo, y STOLLE, Dietlind (2003): «Social Capital, Impartiality, and the Welfare State: An Institutional Approach», en Generating Social Capital: Civil Society and Institutions in Comparative Perspective, eds. Marc Hooghe y D. Stolle, Basingstoke: Palgrave.
+
+SARIS, William E., y GALLHOFER, Irmtraud (2003): «Report on the MTMM Experiments in the Pilot Studies and Proposals for Round 1 of the ESS», en www.europeansocialsurvey.org y en naticent2.uuhost.uk.uu.net/methodology/ quality-measurement.htm.
+
+SCHMITT, Hermann (1983): «Party Government in Public Opinion: A European Cross-national Comparison», European Journal of Political Research, 11: 353-375.
+
+SELIGMAN, Adam B. (1997): The Problem of Trust, Princeton: Princeton University Press.
+
+STOLLE, Dietlind (1998): «Bowling Alone, Bowling Together: Group Characteristics, Membership and Social Capital», Political Psychology, 19 (3): 497-526.
+
+— (2001): «Getting to Trust: An Analysis of the Importance of Institutions, Families, Personal Experiences, and Group Membership», en Social Capital and Participation in Everyday Life, eds. Paul Dekker y Eric M. Uslaner, London: Routledge.
+
+STOLLE, Dietlind, y ROCHON, Thomas R. (2001): «Are All Associations Alike?», en Beyond Tocqueville: Civil Society and the Social Capital Debate in Comparative Perspective, eds. Bob Edwards, Michael W. Foley y Mario Diani, Hanover: Tufts University/University Press of New England.
+
+CONFIANZA SOCIAL, CONFIANZA POLÍTICA Y SATISFACCIÓN CON LA DEMOCRACIA
+
+53
+
+SZTOMPKA, Piotr (2000): Trust: A Sociological Theory, Cambridge: Cambridge University Press.
+
+TORCAL, Mariano, y MONTERO, José Ramón (1999): «Facets of Social Capital in New Democracies: The Formation and Consequences of Social Capital in Spain», en Social Capital and European Democracy, eds. Jan van Deth, Mario Maraffi, Kenneth Newton y Paul Whiteley, Londres: Routledge.
+
+USLANER, Eric M. (1999): «Democracy and Social Capital», en Democracy and Trust, ed. Mark E. Warren, Cambridge: Cambridge University Press.
+
+— (2000-2001): «Producing and Consuming Trust», Political Science Quarterly, 115 (4): 569-590.
+
+— (2002): The Moral Foundations of Trust, Cambridge: Cambridge University Press.
+
+VAN DETH, Jan (1996): «Voluntary Associations and Political Participation», en Wahlen und Politische Einstellungen in westlichen Demokratien, eds. Oscar W. Gabriel y Jürgen W. Falter, Frankfurt a.M.: Peter Lang.
+
+VAN DETH, Jan; MARAFFI, Marco; NEWTON, Kenneth, y WHITELEY, Paul (eds.) (1999): Social Capital and European Democracy, Londres: Routledge.
+
+VAN DETH, Jan; MONTERO, José Ramón, y WESTHOLM, Anders (eds.) (2007): Citizenship and Involvement in European Democracies: A Comparative Analysis, Londres: Routledge.
+
+WARREN, Mark E. (1999): «Democratic Theory and Trust», en Democracy and Trust, ed. M. E. Warren, Cambridge: Cambridge University Press.
+
+WESTHOLM, Anders; MONTERO, José Ramón, y VAN DETH, Jan (2007): «Introduction: Citizenship, Involvement, and Democracy», en Citizenship and Involvement in European Democracies: A Comparative Analysis, eds. J. W. van Deth, J. R. Montero y A. Westholm, Londres: Routledge.
+
+WHITELEY, Paul F. (1999): «The Origins of Social Capital», en Social Capital and European Democracy, eds. Jan van Deth, Mario Maraffi, Kenneth Newton y Paul Whiteley, Londres: Routledge.
+
+WRIGHT, James D. (1976): The Dissent of the Governed, New York: Academic Press.
+
+WUTHNOW, Robert (2002): «United States. Bridging the Privileged and the Marginalized?», en Democracies in Flux. The Evolution of Social Capital in Contemporary Society, ed. Robert D. Putnam, Oxford: Oxford University Press.
+
+YAMAGISHI, Toshio (1988): «The Provision of a Sanctioning System in the United States and Japan», Social Psychology Quarterly, 51 (3): 265-271.
+
+ZMERLI, Sonja (2004): «Politisches Vertrauen und Unterstützung», en Deutschland in Europa, ed. Jan W. van Deth, Wiesbaden: vs. Verlag für Sozialwissenschaften.
+
+ZMERLI, Sonja, y NEWTON, Kenneth (2007): «Social Trust and Attitudes Towards Democracy». Manuscrito.
+
+JOSÉ RAMÓN MONTERO, SONJA ZMERLI Y KEN NEWTON
+
+54

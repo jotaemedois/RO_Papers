@@ -1,0 +1,249 @@
+European Journal of Political Research 33: 347–361, 1998. © 1998 Kluwer Academic Publishers. Printed in the Netherlands. 347
+
+Popularity functions for the Portuguese Prime Minister, Government, Parliament and President
+
+LINDA ROSA FONSECA GONÇALVES VEIGA Department of Economics, College of Business Administration, University of South Carolina, Columbia, SC, USA
+
+Abstract. The purpose of this paper is to estimate popularity functions for the Portuguese Prime Minister, Government, Parliament and President using the ordinary least squares (OLS) and seemingly unrelated regressions (SUR) methods. The results indicate that: (1) popularity polls for the Prime Minister and Government are better explained by economic conditions than are similar polls for the Parliament and President; (2) unemployment is a signiﬁcant variable determining popularity while inﬂation is not; (3) honeymoon effects are signiﬁcant; (4) popularity deteriorates over consecutive terms.
+
+Introduction
+
+The importance of analyzing interactions between economic and political systems has long been recognized.1 The ﬁrst papers dealing with the inﬂuence of economic variables on election outcomes and on Government popularity appeared twenty-ﬁve years ago, with the pioneering works of Mueller (1970), Goodhart & Bhansali (1970), and Kramer (1971). Recently, interest in this matter has increased, as numbers of publications indicate. An important question in political economy is how, if at all, economic events affect voting behavior. The theory starts from the responsibility hypothesis: voters hold the Government responsible for economic conditions. Policymakers are rewarded (punished) for good(bad) economic performance. This relationship is reﬂected in popularity functions, which explain poll support for the Government with variables measuring economic and political conditions. A good review of the early literature on this question can be found in Nannestad & Paldam (1994). The main purpose of this paper is (1) to estimate popularity functions for the Portuguese Prime Minister, Government, Parliament and President using the ordinary least squares (OLS) and seemingly unrelated regressions (SUR) methods, (2) to ﬁnd out if unemployment, inﬂation, honeymoon effects, and number of terms in ofﬁce are signiﬁcant in explaining popularity, and (3) to determine which political entity the electorate considers more responsible for
+
+348 LINDA R.F. GONÇALVES VEIGA
+
+economic performance. To that end, Section 1 presents a short description of the Portuguese political system. Section 2 explains the model to be tested. The data used in the paper are described in Section 3. In Section 4 the empirical results are discussed. The last section summarizes the results, presents a critique, and suggests possible extensions.
+
+Portuguese political system: Brief explanation
+
+In order to provide some background concerning the Portuguese political system, we shall start with a short summary of its political history, highlighting the 1986–95 period covered in this paper (including Cavaco Silva’s terms as Prime Minister and Mário Soares’s terms as President of the Republic). A description of the political entities covered in the paper and their roles follows. The military coup of April 1974 ended 48 years of dictatorship in Portugal and created the conditions for the re-establishment of democracy. A new constitution, still in effect today with some revisions, was promulgated in April 1976. The ﬁrst legislative election, held in April 1976, was followed by a period of political instability with a series of minority Governments falling before the ends of their terms. Starting in 1985 with a minority Government, Cavaco Silva served as Prime Minister for 10 consecutive years, the longest time in ofﬁce for a Prime Minister since the end of the dictatorship in 1974. After 13 years of frequently changing administrations, in 1987 he headed the ﬁrst single-party majority Government, and was reelected for a second term in 1991, again with an overall majority. While Cavaco Silva served as Prime Minister (1985–87; 87–91; 91–95), Mário Soares served as President of the Republic (1986–91; 91–96). He was the ﬁrst civilian head of state in 60 years, following the two terms of former President António Ramalho Eanes (a non-party military candidate ﬁrst elected in 1976). The political entities covered in the paper are the President of the Republic, the Government, the Prime Minister and the Parliament. The President of the Portuguese Republic serves as the head of the state, as military chief of staff, and represents the nation internationally. His main powers consist of: (1) the authority to ask the head of the party receiving most votes in legislative elections to form the Government and become Prime Minister, (2) the power to veto laws and decrees, or send them to the Constitutional Tribunal for consideration, and (3) the authority to dissolve the Parliament and call for future elections.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 349
+
+Presidential candidates must be Portuguese citizens, 35 or older, who can either run as independents or as the appointed candidate of a political party. They are elected by adult universal suffrage, using a majoritarian system with a second round runoff between the two leading contenders if no candidate receives more than 50% of the votes in the ﬁrst round. Presidents cannot serve more than two consecutive ﬁve-year terms. The Portuguese Government consists of the Prime Minister, the ministers, and the secretaries of state. The Prime Minister is the head of Government, and is usually the leader of the party receiving most votes in the legislative elections. He chooses his ministers who in turn appoint their secretaries of state. The Government performs the executive function, which allows it to control ﬁscal policy2 and have an inﬂuence on monetary policy. The latter comes from the fact that the Governor of the Bank of Portugal is appointed by the Minister of Finance, who can replace him before the end of his term. The Government also performs part of the legislative function by issuing decrees. Legislative authority is vested in a unicameral Parliament, which can also precipitate elections by a vote of no conﬁdence on the Government. Since the 1991 elections, the Portuguese Parliament (Assembleia da República) has been composed of 230 deputies (before there were 250). Elections are held every four years, with political parties presenting lists of candidates in the eighteen districts. The number of deputies per district depends on its population and the number of seats obtained by parties is proportional to the number of votes obtained. Among the four political entities studied, the Government has most power over economic policies. Therefore, this article will argue that Government’s popularity is more likely to be affected by economic conditions than any of the others.
+
+The empirical model
+
+This study proposes a simple theoretical hypothesis concerning the nature of the relationship between the economy and poll support for incumbent politicians. Following Kramer (1971) and Downs (1957) it is hypothesized that voters assess expected future utilities under competing candidates, and that popularity of the incumbent is a positive function of assessments of his performance. We further assume that there are only two macroeconomic variables, unemployment and inﬂation, in the individual’s utility function. In the popularity functions, the independent variables (unemployment and inﬂation)3 are included in the form of levels, since Nelson and Plosser (1982), Perron (1989), and Zivot and Andrews (1992) present evidence that the un 14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+350 LINDA R.F. GONÇALVES VEIGA
+
+employment rate is stationary and the last two also ﬁnd evidence that the inﬂation rate is stationary.4 If the independent variables are stationary, then cointegration is not an issue even if the dependent variable is integrated.5 A once-lagged dependent variable was included in the popularity functions to capture the inertia in the support process. Two speciﬁcations of our empirical model are given in the following equations:
+
+POPt = β0+β1POPt−1+β2H +β3T 2+β4T 3+β5Ut−1+β6AIt−2+ϵt (1)
+
+POPt = α0 + α1POPt−1 + α2H + α3T 2 + α4Ut−1 + α5AIt−2 + δt, (2)
+
+where POPt is the popularity index in month t; POPt−1 is the lagged dependent variable; H is a dummy variable reﬂecting the honeymoon effects, taking the value of 6 in the ﬁrst month of each term, declining to 1 in the sixth month and taking a value of 0 for all remaining months; T 2 is a dummy variable for the second term in ofﬁce; T 3 is a dummy variable for the third term in ofﬁce; Ut−1 is the one-month lagged unemployment; AIt−2 is the two-month lagged average inﬂation; βi, αi are parameters; ϵt and δt are the random error terms. Equation (1) will be employed to model the popularity of the Prime Minister, Government and Parliament, and equation (2) will be employed for the President. It is hypothesized that policymakers lose popularity if the rate of unemployment rises and/or the rate of inﬂation rises. Both variables are included with lags under the assumption that individuals need some time to recognize changes in economic conditions.6 Inﬂation is deﬁned as the average of the inﬂation rate of the second, third, fourth and ﬁfth previous months7
+
+(AIt−2 = (It−2 + It−3 + It−4 + It−5)/4). Since popularity does not depend exclusively upon economic conditions, other factors are also taken into account. The model includes three dummy variables designed to capture the effects of non-economic variables on popularity levels. Following Smyth et al. (1989) we assume that the public recognizes that the economic conditions which persist during the ﬁrst few months of term are not attributable to the new administration’s economic policies. The honeymoon dummy variable, H, is introduced to measure this phenomenon. Dummy variables were also introduced for each term, T 2 and T 3 (Ti is equal to one in the ith term in ofﬁce), to permit the possibility that popularity levels are negatively related to the number of terms in ofﬁce. The erosion of popularity over consecutive terms in ofﬁce is sometimes referred as the cost of ruling. It is assumed that all other factors are random and are included in ϵt. The theoretically expected signs of the coefﬁcients are β0 > 0, α0 > 0, β1
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 351
+
+Figure 1. Popularity index. Notes: Vertical hatched lines represent election dates.
+
+> 0, α1 > 0, β2 > 0, α2 > 0, β3 < 0, α3 < 0, β4 < 0, α4 < 0, β5 < 0, α5 < 0 and β6 < 0.
+
+The data
+
+The data used for the dependent variable, POPt, were obtained from monthly polls conducted by Euroexpansão (published by Jornal Expresso) beginning in May 1986. This poll shows the percentage share of the population responding that the job performance of policymaker ‘X’ is very good/good, fairly good, bad/very bad. The dependent variable, POPt, was calculated as a weighted average of the proportion of individuals rating the policymaker as very good/good or fairly good. POPt is calculated according to: POPt = (2∗very good/good + 1 ∗fairly good)/3. The basis for the popularity function is the responsibility hypothesis, which assumes that the Government has some control over economic policies and outcomes. However, it is not clear that voters will hold an unstable minority Government responsible for economic conditions, since such a Government is not able to rule on its own. This is usually not a problem in the sample
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+352 LINDA R.F. GONÇALVES VEIGA
+
+Table 1. Legislative elections and parties in government
+
+Dates Party Share in Parliament Prime Minister
+
+25 April 1983 Socialist 40% M´ario Soares 6 October 1985 Social Democratic 34% Cavaco Silva 19 July 1987 Social Democratic 59% Cavaco Silva 6 October 1991 Social Democratic 58% Cavaco Silva 1 October 1995 Socialist 48% Ant´onio Guterres
+
+Table 2. Presidential elections
+
+Dates President (Major opponent)
+
+26 January 1986 M´ario Soares (Freitas do Amaral) 13 January 1991 M´ario Soares (Bas´ılio Horta) 13 January 1996 Jorge Sampaio (Cavaco Silva)
+
+period employed in this paper. Although the sample starts with a short period during which there was a minority Government, most data points were obtained during two terms of majority Governments. A dummy for the majority Government was also tested but it proved not to be signiﬁcant. The period analyzed starts in May 1986, when a Social Democratic minority Government led by Prof. Cavaco Silva was in power. In the following elections (July 1987 and October 1991), under the leadership of Cavaco Silva, the Social Democrats achieved an overall majority. In January 1995, Cavaco Silva resigned the PSD leadership, although still remaining as Prime Minister until the next legislative election.8 The October 1995 elections were won by the socialists, headed by António Guterres, although with a minority. The analysis ends in September 1995, meaning that the popularity function for the Prime Minister only considers Cavaco Silva, and the popularity functions for the Government and Parliament only covers a period when the Social Democratic party was in power The President’s popularity data goes from May 1986 to December 1995. This period covers most of the ﬁrst term and the entire second term of President Mário Soares. The inﬂation rate monthly series were obtained from INE (National Institute of Statistics) and include all items except housing. The unemployment rate monthly data were obtained from EUROSTAT; they are not seasonally adjusted series.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 353
+
+Figure 2. Unemployment and inﬂation rates.
+
+Empirical results
+
+The popularity functions were estimated using OLS and SUR methods, with monthly data for the periods from May 1986 to October 1995 for the Prime Minister, Government and Parliament, and from May 1986 to December 1995 for the President. The OLS estimates are reported in Table 3. The results show that all regressions are signiﬁcant at the 1% level and the Ljung-Box Q statistic is not signiﬁcant up to 24 lags. All coefﬁcients have the expected signs and are statistically signiﬁcant at the 5% level, with exception of the dummy regarding the second term for the Parliament and the inﬂation variable in all equations. To assess the robustness of the results to alternative speciﬁcations, several other formulations of the variables were explored in preliminary research, with results similar to those reported here. Alternative speciﬁcations for the dependent variable9 were considered, such as the simple average of the proportion of individuals who consider the performance of the political entity in question very good or fairly good (POP = (VG + FG)/2), or just the percentage of voters who consider it very good (POP = VG). The choice of the speciﬁcation is always subjective, but the weighted average is arguably the most reasonable in theory, and is also the one that performs better empirically. Results for alternative speciﬁcations can be found in Appendix A. Concerning the independent variables, a dummy for the majority Government was tested but turned out not to be signiﬁcant; other speciﬁcations for inﬂation (Appendix B), as well as separate dummies for each honeymoon period were also tested, but the results were qualitatively unchanged. Because the popularity of the Prime Minister, Government, Parliament, and President are likely to be related, a seemingly unrelated regression (SUR)
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+354 LINDA R.F. GONÇALVES VEIGA
+
+Table 3. Popularity functions: OLS method
+
+Prime Minister Government Parliament President
+
+Coefﬁcients Constant 18.77∗∗∗ 17.79∗∗∗ 19.52∗∗∗ 35.17∗∗∗
+
+β0 (4.42) (4.91) (5.21) (5.79) Lagged dependent variable 0.72∗∗∗ 0.67∗∗∗ 0.54∗∗∗ 0.45∗∗∗
+
+POPt−1 (12.91) (11.43) (7.22) (5.18) Honeymoon 0.75∗∗∗ 0.75∗∗∗ 0.55∗∗∗ 0.49∗∗
+
+H (3.21) (3.59) (3.43) (1.95) Second term −3.59∗∗∗ −2.94∗∗ −0.65 −3.01∗∗∗
+
+T 2 (−3.35) (−3.19) (−0.90) (−4.26) Third term −4.99∗∗∗ −4.45∗∗∗ −1.72∗∗
+
+T 3 (−4.03) (−4.18) (−2.19) Unemployment −0.65∗∗ −0.55∗∗ −0.52∗∗ −0.90∗∗
+
+Ut−1 (−2.48) (−2.43) (−2.41) (−3.46) Inﬂation −0.73 −1.08 −0.27 0.23 AIt−2 (−0.87) (−1.43) (−0.39) (0.30)
+
+Adjusted R-squared 0.87 0.84 0.60 0.69 F-statistic 127.411∗∗∗ 101.681∗∗ 29.192∗∗∗ 50.412∗∗∗
+
+Ljung-Box Q statistic 14.16 14.99 26.17 24.73
+
+Ljung-Box Q statistic to 24 df: insigniﬁcant in each case. T-statistics at in parentheses. ∗Signiﬁcant at the 0.10 level; ∗∗Signiﬁcant at the 0.05 level; ∗∗∗Signiﬁcant at the 0.01 level.
+
+model (Zellner 1962), which treats the equations as a system, was also estimated. The SUR estimates are presented in Table 4. The gains in efﬁciency resulting by the SUR estimator over OLS increase directly with the correlation between disturbances from the different equations. Looking at the estimated cross-equation errors correlations reported in Table 4, we can conclude that efﬁciency is gained by estimating the equations jointly as a generalized regression. Thus, most of our comments will be based on the results of SUR estimations. Like in the OLS estimates, SUR’s estimated coefﬁcients have the expected signs, except the one associated with inﬂation in the President’s popularity function. Unlike OLS, the inﬂation variable now becomes signiﬁcant for the Government and the variable measuring honeymoon effects for the President is not signiﬁcant.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 355
+
+Table 4. Popularity functions: SUR method
+
+Prime Minister Government Parliament President
+
+Coefﬁcients Constant 25.52∗∗∗ 22.48∗∗∗ 19.98∗∗∗ 35.13∗∗∗
+
+β0 (6.92) (7.26) (6.06) (6.14) Lagged dependent variable 0.63∗∗∗ 0.59∗∗∗ 0.53∗∗∗ 0.45∗∗∗
+
+POPt−1 (13.39) (12.44) (8.40) (5.57) Honeymoon 0.91∗∗∗ 0.87∗∗∗ 0.51∗∗∗ 0.35 H (4.32) (4.63) (3.35) (1.48) Second term −4.93∗∗ −3.82∗∗∗ −0.78 −3.07∗∗∗
+
+T 2 (−5.10) (−4.56) (−1.12) (−4.57) Third term −6.61∗∗∗ −5.54∗∗∗ −1.81∗∗
+
+T 3 (−5.97) (−5.84) (−2.43) Unemployment −0.90∗∗∗ −0.71∗∗∗ −0.55∗∗∗ −0.92∗∗∗
+
+Ut−1 (−3.66) (−3.29) (−2.70) (−3.72) Inﬂation −0.91 −1.21∗ −0.31 0.21 AIt−2 (−1.13) (−1.66) (−0.46) (0.28)
+
+Log-likelihood function 438.03∗∗∗
+
+Estimated cross-equation error correlations Prime Minister 1.0 Government 0.65 1.0 Parliament 0.36 0.53 1.0 President 0.26 0.23 0.18 1.0
+
+T-statistics at in parentheses. ∗Signiﬁcant at the 0.10 level; ∗∗Signiﬁcant at the 0.05 level; ∗∗∗Signiﬁcant at the 0.01 level.
+
+Economic conditions
+
+The analysis shows that policymakers’ popularity is signiﬁcantly reduced when the rate of unemployment rises. A one percentage point decrease in the unemployment rate is estimated to increase the popularity of the Prime Minister by 0.90 percentage points; the Government by 0.71; the Parliament by 0.55; and the President by 0.92. The inﬂation rate is only signiﬁcant for the Government and only at the 10% level, implying that Portuguese voters either don’t hold the other entities responsible for this economic indicator or that they are relatively unconcerned with it. The fact that Portuguese voters were accustomed to high levels of inﬂation in the previous two decades makes the second alternative more plausible.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+356 LINDA R.F. GONÇALVES VEIGA
+
+According to Nannestad and Paldam (1994: 216) unemployment and inﬂation rates normally give signiﬁcant coefﬁcients in popularity functions, the typical orders of magnitude are between −0.4 and −0.8 in developed lowinﬂation countries. The results found in this paper show that unemployment is a signiﬁcant variable, but inﬂation does not seem to be an important variable in Portuguese popularity functions, excepting the Government. The responsibility hypothesis may be more important for the Prime Minister and Government than for the Parliament, since these two entities have higher estimated coefﬁcients associated with unemployment and inﬂation than the Parliament.10 Portuguese people seem to have a less clear image of the Parliament than of the Government and Prime Minister. Members of the Parliament may be seen as instruments of the Prime Minister and Government, who set the party’s agenda and determine its goals.11
+
+The President’s popularity is signiﬁcantly affected by the unemployment rate, but the low R2 of the OLS regression suggests that his popularity is also more affected by personality factors and other non-economic events not considered in the model.
+
+Popularity deterioration over consecutive terms and honeymoon effects
+
+Figure 3 shows that the Prime Minister’s popularity always exceeds that of the Government and Parliament. Changes in his popularity seem to precede changes in that of the Government. The popularity of the Prime Minister is highly correlated with that of the Government (96%), but less correlated with that of the Parliament (76%).12 These facts lead us to conclude that Cavaco Silva’s strong personality made him the image of the Government.
+
+Figure 3. Popularity index.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 357
+
+It is important to notice the popularity depreciation associated with each term. Comparing with the ﬁrst term the popularity of the Prime Minister (Government) is estimated to have decreased on average by 4.93 (3.82) in the second term and by 6.61 (5.54) in the third term. Recalling Figure 1, we can see that the President’s popularity is the highest of all entities analyzed and is quite stable during the ﬁrst term, declining in the second. This is probably explained by the increasing tension between the President and the Government during the second term. We should note that Mário Soares had been the president of the Socialist Party for several years and that Portuguese law does not allow the reelection of a President for 3 consecutive terms. With the exception of the President, the results also suggest that popularity is signiﬁcantly affected by honeymoon effects. The coefﬁcients associated with this variable are lower for the Parliament than those associated with the Prime Minister and Government.
+
+Conclusion
+
+The period covered in this paper concerns the leadership of Cavaco Silva as Prime Minister and Mario Soares as President of the Republic. Undoubtedly, these two leaders played a major role in the short history of post-1974 Portuguese democracy, presenting an interesting case study. The popularity functions presented in this paper are extremely simple. They can at best be considered a ﬁrst step towards the formulation of a more complete approach to politico-economic interdependence. Currently the data series available are short, and more variables might be included in the popularity functions, namely those associated with social and political factors. Taking into account the simplicity of the model, the econometric results are quite compelling. The popularity functions are able to explain a large share of the variance, particularly for the Prime Minister and the Government. Our results conﬁrm previous studies in showing that unemployment has a signiﬁcant impact on popularity levels. Therefore, for the period analyzed in the paper (the three consecutive terms of Social Democratic Governments, with Cavaco Silva as Prime Minister) it appears that the responsibility hypothesis holds. The results also conﬁrm the existence of honeymoon effects and the deterioration of popularity over consecutive terms in ofﬁce, however they show little or no impact of inﬂation on popularity. Another possible link between the economy and politics is suggested by the political business cycle, according to which incumbent politicians manipulate the economy in order to maximize its reelection probabilities, by
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+358 LINDA R.F. GONÇALVES VEIGA
+
+stimulating the economy before elections and creating post-election stagﬂation. The inspection of the data presented in the paper (recall Figures 1 and 2), suggests that unemployment decreases before elections and increases afterwards (specially for the October 1991 election), which is in accordance with the political business cycle theory. This point certainly deserves a more detailed analysis. The linkages between the popularity of the Prime Minister and the popularity of his party, also suggests an interesting direction of research.
+
+Acknowledgments
+
+I acknowledge the helpful comments of Professor Henry W. Chappell, Professor Janice B. Breuer and Francisco Veiga, and the ﬁnancial support of the Program PRAXIS XXI.
+
+Notes
+
+1. See Mueller (1989: 280–84) and Nannestad & Paldam (1994). 2. It should be mentioned that the Government’s proposal for the national budget has to be approved by the Parliament. 3. The other independent variables are dummy variables. 4. Although these authors use US data, it is argued that the results can be extended to Portugal. Unit root tests (Dickey & Fuller 1979) were performed in our sample and the results indicate that the average inﬂation rate is stationary while unemployment is nonstationary. However, these results are not reliable since unit root tests, especially using a short span of data, are not powerful enough to distinguish between values close to one that are truly equal to one or not. 5. Cointegration is only an issue when the dependent and independent variables are nonstationary (Engle & Granger 1987). 6. The unemployment rate is included with one lag, while inﬂation has two lags, because inﬂation statistics are released with a longer lag than unemployment. 7. Other speciﬁcations for inﬂation were tested but the results did not change signiﬁcantly. 8. Although Cavaco Silva did not seek reappointment, he contested the Presidency in the January 1996 elections, and was defeated by Jorge Sampaio, a former leader of the Socialist Party. 9. The dependent variable, POP, was calculated as a weighted average of the proportion of individuals thinking the way policy maker ‘X’ handles his job is Very Good (VG) or Fairly Good (FG) (POP = 2∗VG + 1∗FG). 10. A Wald-test was performed for the hypothesis that the coefﬁcients on unemployment and inﬂation are the same for the four political entities. The results do not allow us to reject the null hypothesis. 11. Most of the period covered in this paper is characterized by a majority Government and party rules strongly discourage deputies from voting against party positions. 12. These are simple correlations between the variables.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 359
+
+Appendix A. Popularity functions (OLS method) using alternative measures for the dependent variable (POPt). (1) POPt = (2∗V G + 1∗FG)/3 (adopted in the paper); (2) POPt = (V G + FG)/2; (3) POPt = V G
+
+Prime Minister Government Parliament President
+
+(2VG + FG)/3 (V G + FG)/2 V G (2V G + FG)/3 (V G + FG)/2 V G (2V G + FG)/3 (V G + FG)/2 V G (2V G + FG)/3 (VG + FG)/2 V G
+
+Coefﬁcients Constant 18.77∗∗∗ 15.47∗∗∗ 28.37∗∗∗ 17.79∗∗∗ 19.57∗∗∗ 18.88∗∗∗ 19.52∗∗∗ 18.93∗∗∗ 17.79∗∗∗ 35.17∗∗∗ 39.66∗∗∗ 34.39∗∗∗
+
+β0 (4.42) (4.15) (4.58) (4.91) (4.97) (4.32) (5.21) (5.15) (4.08) (5.79) (7.65) (4.23) Lagged dep. variable 0.72∗∗∗ 0.73∗∗∗ 0.68∗∗∗ 0.67∗∗∗ 0.64∗∗∗ 0.64∗∗∗ 0.54∗∗∗ 0.58∗∗∗ 0.51∗∗∗ 0.45∗∗∗ 0.24∗∗ 0.60∗∗∗
+
+POPt−1 (12.91) (12.38) (11.38) (11.43) (9.89) (10.37) (7.22) (8.05) (6.44) (5.18) (2.58) (7.59) Honeymoon 0.75∗∗∗ 0.44∗∗ 1.59∗∗∗ 0.75∗∗∗ 0.60∗∗∗ 1.26∗∗∗ 0.55∗∗∗ 0.38∗∗∗ 0.89∗∗∗ 0.49∗ 0.31∗ 0.81 H (3.21) (2.60) (3.71) (3.59) (3.45) (3.54) (3.43) (3.07) (3.14) (1.95) (1.88) (1.53) Second term −3.59∗∗∗ −2.13∗∗∗ −7.31∗∗∗ −2.94∗∗∗ −2.53∗∗∗ −4.53∗∗∗ −0.65 0.50 −3.21∗∗ −3.01∗∗∗ −2.02∗∗∗ −4.53∗∗∗
+
+T 2 (−3.35) (−2.66) (−3.89) (−3.19) (−3.12) (−3.06) (−0.90) (1.86) (−2.39) (−4.26) (−4.63) (−3.25) Third term −4.99∗∗∗ −3.06∗∗∗ −9.96∗∗∗ −4.45∗∗∗ −3.81∗∗∗ −6.80∗∗∗ −1.72∗∗ −0.90 −3.38∗∗
+
+T 3 (−4.03) (−3.40) (−4.51) (−4.18) (−4.04) (−4.07) (−2.19) (−1.46) (−2.46) Unemployment −0.65∗∗ −0.42 −1.25∗∗∗ −0.55∗∗ −0.52∗∗ −0.75∗∗ −0.52∗∗ −0.27 −1.01∗∗∗ −0.90∗∗∗ -0.41∗∗∗ −1.43∗∗
+
+Ut−1 (−2.48) (−2.06) (−2.76) (−2.43) (−2.54) (−2.03) (−2.41) (−1.59) (−2.71) (−3.46) (−2.91) (−2.58) Inﬂation −0.73 −0.57 −1.16 −1.08 −0.60 −2.12∗ −0.27 −0.19 −0.48 0.23 −0.06 0.67 I (−0.87) (−0.87) (−0.79) (−1.43) (−0.92) (−1.67) (−0.39) (−0.34) (−0.40) (0.30) (−0.13) (0.41)
+
+Adjusted R-squared 0.87 0.82 0.87 0.84 0.81 0.81 0.60 0.67 0.54 0.69 0.43 0.72 F-statistic 127.4∗∗∗ 88.7∗∗∗ 125.4∗∗∗ 101.6∗∗∗ 80.3∗∗∗ 79.7∗∗∗ 29.1∗∗∗ 39.2∗∗∗ 23.1∗∗∗ 50.41∗∗∗ 20.02∗∗∗ 58.6∗∗∗
+
+Ljung-Box Q statistic 14.16 20.73 20.88 14.99 18.22 27.07 26.17 43.56 20.05 24.73 26.44 24.03
+
+Ljung-Box Q statistic to 24 df; insigniﬁcant in each case. T-statistics at in parentheses. ∗∗∗Signiﬁcant at the 0.01 level; ∗∗Signiﬁcant at the 0.05 level; ∗Signiﬁcant at the 0.10 level.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+360 LINDA R.F. GONÇALVES VEIGA
+
+Appendix B. Popularity functions (OLS) alternative measures for inﬂation (I). (1) I = (It−2 + It−3 + It−4 + It−5)/4 (used in the paper); (2) I = It−1; (3) I = (It−1 + It−2 + It−3 + It−4)/4; (4) I = (It−1 + It−2 + It−3 + It−4 + It−5)/5
+
+Prime Minister Government Parliament President
+
+(It−2 + · · · It−1 (It−1 + · · · (It−1 + · · · (It−2 + · · · It−1 (It−1 + · · · (It−1 + · · · (It−2 + · · · It−1 (It−1 + · · · (It−1 + · · · (It−2 + · · · It−1 (It−1 + · · · (It−1 + · · · +It−5)/4 +It−4)/4 +It−5)/5 +It−5)/4 +It−4)/4 +It−5)/5 +It−5)/4 +It−4)/4 +It−5)/5 +It−5)/4 +It−4)/4 +It−5)/5
+
+Coefﬁcients Constant 18.77∗∗∗ 17.51∗∗∗ 18.22∗∗∗ 18.85∗∗∗ 17.79∗∗∗ 15.48∗∗∗ 16.40∗∗∗ 17.58∗∗∗ 19.52∗∗∗ 19.15∗∗∗ 19.12∗∗∗ 19.62∗∗∗ 35.17∗∗∗ 36.19∗∗∗ 35.20∗∗∗ 35.32∗∗∗
+
+β0 (4.42) (4.34) (4.37) (4.38) (4.91) (4.44) (4.57) (4.73) (5.21) (5.35) (5.20) (5.21) (5.79) (5.89) (5.70) (5.70) Lagged dep. 0.72∗∗∗ 0.73∗∗∗ 0.73∗∗∗ 0.72∗∗∗ 0.67∗∗∗ 0.68∗∗∗ 0.68∗∗∗ 0.67∗∗∗ 0.54∗∗∗ 0.54∗∗∗ 0.54∗∗∗ 0.54∗∗∗ 0.45∗∗∗ 0.44∗∗∗ 0.45∗∗∗ 0.45∗∗∗
+
+variable POPt−1 (12.91) (12.96) (12.97) (12.90) (11.43) (11.46) (11.42) (11.36) (7.22) (7.24) (7.23) (7.23) (5.18) (5.08) (5.17) (5.17) Honeymoon 0.75∗∗∗ 0.80∗∗∗ 0.76∗∗∗ 0.76∗∗∗ 0.75∗∗∗ 0.82∗∗∗ 0.79∗∗∗ 0.77∗∗∗ 0.55∗∗∗ 0.57∗∗∗ 0.57∗∗∗ 0.55∗∗∗ 0.49∗ 0.52∗∗ 0.49∗ 0.50∗
+
+H (3.21) (3.44) (3.21) (3.21) (3.59) (3.96) (3.74) (3.66) (3.43) (3.66) (3.50) (3.39) (1.95) (2.13) (1.97) (1.96) Second term −3.59∗∗∗ −3.48∗∗∗−3.50∗∗∗ −3.56∗∗∗ −2.94∗∗∗ −2.81∗∗∗−2.81∗∗∗ −2.89∗∗∗ −0.65 −0.61 −0.63 −0.64 −3.01∗∗∗ −3.21∗∗∗−3.03∗∗∗ −3.05∗∗∗
+
+T 2 (−3.35) (−3.25) (−3.28) (−3.33) (−3.19) (−3.04) (−3.04) (−3.12) (−0.90) (−0.84) (−0.87) (−0.89) (−4.26) (−4.64) (−4.14) (−4.09) Third term −4.99∗∗∗ −4.64∗∗∗−4.82∗∗∗ −5.00∗∗∗ −4.45∗∗∗ −3.83∗∗∗−4.08∗∗∗ −4.37∗∗∗ −1.72∗∗ −1.62∗∗ −1.62∗∗ −1.75∗∗
+
+T 3 (−4.03) (−3.94) (−3.98) (−4.01) (−4.18) (−3.76) (−3.87) (−4.04) (−2.19) (−2.23) (−2.11) (−2.21) Unemployment −0.65∗∗ −0.58∗∗ −0.62∗∗ −0.66∗∗ −0.55∗∗ −0.43∗ −0.49∗∗ −0.54∗∗ −0.52∗∗ −0.50∗∗ −0.50∗∗ −0.53∗∗ −0.90∗∗∗ −0.95∗∗∗−0.90∗∗∗ −0.91∗∗∗
+
+Ut−1 (−2.48) (−2.30) (2.40) (−2.47) (−2.43) (−1.93) (−2.13) (−2.34) (−2.41) (−2.41) (−2.33) (−2.42) (−3.46) (−3.62) (−3.37) (−3.37) Inﬂation −0.73 −0.04 −0.52 −0.81 −1.08 0.23 −0.39 −0.99 −0.27 −0.09 −0.04 −0.36 0.23 −0.19 0.16 0.11 I (−0.87) (−0.10) (−0.61) (−0.84) (−1.43) (0.52) (−0.51) (−1.11) (−0.39) (−0.23) (−0.07) (−0.45) (0.30) (−0.41) (0.20) (0.12)
+
+Adjusted 0.87 0.87 0.87 0.87 0.84 0.84 0.84 0.84 0.60 0.60 0.60 0.60 0.69 0.69 0.69 0.69 R-squared F-statistic 127.4∗∗∗ 126.3∗∗∗ 126.8∗∗∗ 127.3∗∗∗ 101.6∗∗∗ 99.6∗∗∗ 99.6∗∗∗ 100.7∗∗∗ 29.1∗∗∗ 29.1∗∗∗ 29.1∗∗∗ 29.2∗∗∗ 50.4∗∗∗ 50.4∗∗∗ 50.3∗∗∗ 50.3∗∗∗
+
+Ljung-Box 14.16 14.51 14.28 14.23 14.99 15.47 14.82 14.77 26.17 26.01 25.74 26.48 24.73 24.32 24.58 24.55 Q statistic
+
+Ljung-Box Q statistic to 24 df; insigniﬁcant in each case. T-statistics at in parentheses. ∗∗∗Signiﬁcant at the 0.01 level; ∗∗Signiﬁcant at the 0.01 level; ∗Signiﬁcant at the 0.01 level.
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POPULARITY FUNCTIONS FOR PORTUGAL 361
+
+References
+
+Chappell, H. W. (1983). Presidential popularity and macroeconomic performance: Are voters really so naíve?, Review of Economics and Statistics, 65: 385–392. Chappell, H. W. (1990). Economic performance, voting, and political support: A uniﬁed approach, Review of Economics and Statistics 72: 313–320. Chappell, H. W. & Suzuki, M. (1993). Aggregate vote functions for the US Presidency, Senate, and House, The Journal of Politics 55(1): 207–217. Dickey, D. A. & Fuller, W. A. (1979). Distribution of the estimators for autoregressive time series with a unit root, Journal of the American Statistical Association 74: 427–431. Downs, A. (1957). An economic theory of democracy. New York: Harper and Row. Engle, R. F. & Granger, C. W. J. (1987). Cointegration and error correction: Representation, estimation, and testing, Econometrica 55: 251–276. Fair, R. C. (1978). The effect of economic events on votes for President, The Review of Economics and Statistics 60(2): 159–173. Frey, B. S. & Friedrich, S. (1978). An empirical study of politico-economic interaction in the United States, Review of Economics and Statistics 60: 174–183. Goodhart, C. A. E. & Bhansali, R. J. (1970). Political economy, Political Studies 18: 43–106. Kramer, G. H. (1971). Short-term ﬂuctuations in US voting behavior, 1896–1964, American Political Science Review 65: 131–143. Lanoue, D. J. & Headrick, B. (1994). Prime Minister, parties, and the public: the dynamics of Government popularity in Great Britain, Public Opinion Quarterly 58: 191–209. Mueller, J. E. (1970). Presidential popularity from Truman to Johnson, American Political Science Review 64: 18–23. Mueller, D. C. (1989). Public Choice, Vol. 2, Cambridge: Cambridge University Press. Nannestad, P. & Paldam, M. (1994). The VP-function: A survey of the literature on vote and popularity functions after 25 years, Public Choice 79: 213–245. Nelson, C. R. & Plosser, C. I. (1982). Trends and random walks in macroeconomics time series: some evidence and implications, Journal of Monetary Economics 10(2): 139–162. Perron, P. (1989). The Great Crash, the oil price shock, and the unit root hypothesis, Econometrica, November: 1361–1401. Smyth, D. J., Washburn, S. K. & Dua, P. (1989). Social preferences, inﬂation, unemployment, and political business cycles: econometric evidence for the Reagan Presidency, Southern Economic Journal 56(2): 336–348. Suzuki, M. (1994). Evolutionary voter sophistication and political business cycles, Public Choice 81: 241–261. Zellner, A. (1962). An efﬁcient method of estimating seemingly unrelated regressions and tests for aggregation bias, Journal of American Statistical Association 57: 348–368. Zivot, E. and Andrews, D. W. K. (1992). Further evidence on the Great Crash, the oil-price shock, and the unit root hypothesis, Journal of Business and Economic Statistics 10: 251– 270.
+
+Address for correspondence: Ms Linda R. F. Gonçalves Veiga, Department of Economics, College of Business Administration, University of South Carolina, Columbia, SC 29208, USA Phone: (803) 748-9634; Fax: (803) 777-6976; E-mail: goncalp0@spanky.badm.sc.edu
+
+14756765, 1998, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.00386 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

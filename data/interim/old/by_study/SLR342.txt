@@ -1,0 +1,489 @@
+Journal of Trust Research
+
+ISSN: 2151-5581 (Print) 2151-559X (Online) Journal homepage: www.tandfonline.com/journals/rjtr20
+
+Trust, social movements, and the state
+
+Malcolm Fairbrother, Matthias Penker & Markus Hadler
+
+To cite this article: Malcolm Fairbrother, Matthias Penker & Markus Hadler (2024) Trust, social movements, and the state, Journal of Trust Research, 14:2, 157-187, DOI: 10.1080/21515581.2024.2391385
+
+To link to this article: https://doi.org/10.1080/21515581.2024.2391385
+
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+
+Published online: 16 Sep 2024.
+
+Submit your article to this journal
+
+Article views: 1522
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rjtr20
+
+Trust, social movements, and the state
+
+Malcolm Fairbrother a,b,c, Matthias Penkera and Markus Hadler a,d
+
+aDepartment of Sociology, University of Graz, Graz, Austria; bDepartment of Sociology, Uppsala University, Uppsala, Sweden; cInstitute for Futures Studies, Stockholm, Sweden; dDepartment of Sociology, Macquarie University, Sydney, Australia
+
+ABSTRACT A large literature has developed around the concept of political trust, but what exactly political trust is remains ambiguous. Some studies present it as a narrower evaluation of the current government’s performance, while others treat it as a broader orientation towards the entire political system. This paper speaks to this question by examining the relationship between political trust and people’s views of two social movements: the environmental and women’s movements. If political trust is a narrower evaluation, then people who are critical of the state should be more positive towards actors challenging the state to perform better, and political trust should correlate negatively with trust in social movements. If political trust is a broader orientation, then trust should encompass all actors in the political system, which includes social movements, and views of diﬀerent actors should correlate positively. Using data from multiple waves of the World Values Surveys, we ﬁnd the latter view to be correct, and in three ways: across individuals within given societies, across societies, and over time within societies. We conclude that attitudes towards social movements reﬂect individuals’ broader orientations towards the political system, and that this broader orientation is what we should understand political trust to be.
+
+ARTICLE HISTORY Received 4 December 2023 Accepted 7 August 2024
+
+ACTION EDITOR Ben Seyd
+
+KEYWORDS Environmental movement; women’s movement; political trust; multilevel models; World Values Survey
+
+Introduction
+
+A large literature has developed around the concept of political trust. Political trust is often valued, as the OECD (2023) suggests, as it ‘leads to greater compliance with policies, nurtures political participation, strengthens social cohesion and builds institutional legitimacy.’ A recent meta-analysis suggests political trust contributes to voter turnout, and inﬂuences both who people vote for and what policies they want to see (Devine, 2024). But what exactly is political trust? Its meaning remains ambiguous. This paper therefore speaks to the question of what political trust is, or at least what responses to survey items commonly taken to measure political trust are truly capturing.
+
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+CONTACT Malcolm Fairbrother malcolm.fairbrother@uu.se Department of Sociology, Uppsala University, Box 624, Uppsala 751 26, Sweden
+
+JOURNAL OF TRUST RESEARCH 2024, VOL. 14, NO. 2, 157–187 https://doi.org/10.1080/21515581.2024.2391385
+
+On the one hand, much of the literature presents political trust as primarily an evaluation of the current government’s performance (see van der Meer & Hakhverdian, 2017 for a discussion). On the other hand, other studies treat political trust as a more general orientation towards the entire political system, including a wide range of public institutions and the political and bureaucratic elites that run them (Wu & Wilkes, 2018). This ambiguity in the meaning of political trust is reﬂected even in some deﬁnitions provided for it. Hetherington and Rudolph (2022, p. 356) for example call political trust ‘a global aﬀective orientation toward government, one that reﬂects citizens’ feelings about government performance, processes, and probity.’ König and Siewert (2020, p. 3) similarly suggest that: ‘policymakers in liberal democracies are ﬁghting an uphill battle to engender broader citizen support for themselves as well as trust in democratic institutions and the political system as a whole.’ And, as Wu and Wilkes (2018) point out, diﬀerent scholars use the very same items in surveys as measures of trust either in speciﬁc incumbents (and perhaps their performance) or the entire system (and perhaps its overall functioning). When people answer standard questions about political trust in surveys, then, which of these things are they thinking about? This paper uses a novel approach to speak to this question: We examine the relationship between political trust, as captured with commonly used survey items, and people’s views of social movements challenging the state. Our core empirical analysis assesses whether individuals with diﬀerent levels of trust in public institutions are more or less trusting in two major social movements: the environmental and women’s movements. This analysis departs from the premise that, when people are dissatisﬁed with the political authorities governing their society, one potential response is to mobilise and form social movements. Presenting challenges to the state and/or to other institutions is thus a deﬁning feature of social movements (e.g. Armstrong & Bernstein, 2008), who are often critical of established authorities and focus on the latter’s shortcomings if not oppressiveness. Only individuals with signiﬁcant grievances may be motivated enough to mobilise, or even perceive social movements’ claims as legitimate. Many movements are seen, and see or present themselves, as very critical or anti-systemic – as shown by the fact that states often challenge them back, or even repress them (Chenoweth et al., 2017). From this perspective, individuals who are more sceptical and less trusting in the functioning of political, administrative, and many other social institutions should support or at least look favourably upon social movements and their agendas. In short, if political trust is a relatively speciﬁc response to government performance, with low trust reﬂecting poor performance, there should be a negative relationship with trust in challenger movements. On the other hand, according to one inﬂuential theory of political trust, people’s interactions with public oﬃcials and institutions are fundamental to their overall outlooks on society (Rothstein & Stolle, 2008). From this institutionalist perspective, political trust, though based on the quality of people’s interactions speciﬁcally with state institutions and oﬃcials, shapes their trust in the rest of society also (Dinesen & Sønderskov, 2021). That includes social or generalised trust, as some studies have found using panel data that, longitudinally, changes in political trust tend to lead to corresponding changes in social trust (Fairbrother et al., 2022; Sønderskov & Dinesen, 2016). But it includes other institutions also. Political trust is primordial, in short, and so has many broader consequences. If correct, this perspective suggests that individuals who are more trusting in
+
+158 M. FAIRBROTHER ET AL.
+
+core political institutions and leaders should also be more trusting in social movements. That is also true given that social movements frequently ally with political insiders of various kinds, and in striving to achieve their goals they may seek to win over public authorities (Amenta & Polletta, 2019, p. 288). Consequently, social movements organisations, leaders, and even participants may be seen by the public at large more as parts of the political system than outside challengers to it. So people who are more trusting in the system should be more trusting in social movements. To preview our main result, we ﬁnd that the second of these two perspectives is correct: trust in the environmental and women’s movements correlates not negatively but positively with trust in major political institutions. In fact, we ﬁnd that individuals who trust any one institution and movement tend also to express more trust in a wide range of other institutions and movements as well. What is all the more striking about our ﬁndings is that we ﬁnd the relationship between political trust and trust in the environmental and women’s movements holds in three diﬀerent ways: across countries, across individuals within a given country at a given time, and within countries over time. We use data from multiple waves of the World Values Survey, and three-level models of individuals nested in 132 country-years and 37 countries, to test for relationships at all three levels simultaneously. The fact that we ﬁnd much the same relationship at all levels of analysis provides reason to think our main result is not a methodological artifact. And we argue that the ﬁnding of a positive relationship between political trust and trust in the two movements suggests that most people think of social movements as more part of the political ﬁeld than a threat to it. Scholars surprised by this ﬁnding might consider giving more weight to social movements as a mainstream component part of the wider political process. Much prior research has investigated the determinants of participation in protest events and social movements. For example, research by Van Stekelenburg and Klandermans (2018) has shown that active participants in protests can possess either high or low political trust. We see our study as speaking to the complementary issue of how political trust shapes public attitudes towards social movements. Such attitudes, not just active participation, are worth studying, as they can have important implications for the fates of social movements, and their chances of achieving their aims (Andrews et al., 2016). Arguably, a suﬃciently positive proﬁle among the many people who do not participate directly is a necessary condition for a given movement to succeed in its struggle (Barker et al., 2021). Movements themselves therefore generally care about how the public perceives them, with public attitudes shaping mobilisation processes, and many forms of mobilisation also being performances clearly intended for broader public viewing (Baggetta & Myers, 2022). Nevertheless, as noted by McCright and Dunlap (2008, p. 843) more than a decade ago, ‘public opinion toward [social] movements … has been largely ignored’ in the literature. We begin this paper with a discussion of the relationships among social movements, states, and the public, articulating reasons for expecting political trust to predict either less or more trust in social movements. We then discuss the data we use, and our analytical approach. We present descriptive results, correlations among individuals’ reported trust in diﬀerent institutions, and then our multilevel analysis. We conclude by discussing some implications of our results, limitations of our study, and possible directions for further research.
+
+JOURNAL OF TRUST RESEARCH 159
+
+Contradictory trust in diﬀerent institutions
+
+Some research suggests that political trust is a relatively speciﬁc response to government performance, with low trust reﬂecting poor performance. If so, people who see the state failing to address values they hold dear, or social problems that worry them, should have negative views of the state and positive views of actors acting on those values and problems. As political actors, social movements speciﬁcally take aim at the failings of states as a whole and speciﬁc public institutions (and sometimes non-state institutions such as corporations). They seek to transform the status quo, sending a message to these sorts of actors plus the general public (Van Dyke et al., 2004; Walker et al., 2008). In this paper, we focus on two social movements in particular: the environmental and women’s movements. (In the data we use, as described below, we ﬁnd that trust in the environmental and women’s movements describe a single dimension in a conﬁrmatory factor analysis. We nevertheless decided to analyse them separately, as these two movements have diﬀerent political goals, and the data indicated diﬀering trends in public attitudes towards the two movements over time.) Both of these movements pursue a diversity of social reforms (environmental protection laws, maternity rights, better representation), and states that have failed previously to provide such reforms could be seen to have performed poorly. When considering why social movements exist, it is important to recognise that ‘at the heart of every protest are grievances’ (Van Stekelenburg & Klandermans, 2013, p. 888), though movements are more than just protests. Movements challenge elites and dominant attitudes, because of frustrations with the elites’ decisions and with existing social arrangements. For example, in a variety of ways, the women’s movement seeks to challenge that the ruling elite in control of major private and state institutions in virtually every country consists overwhelmingly of men (Feagin & Ducey, 2017; Feagin & Elias, 2020). Giving women access to such positions, and thereby in turn opportunities to govern society in ways that are fairer to women, is a core goal of the women’s movement – and criticising women’s exclusion is a means of achieving that goal. If state institutions run overwhelmingly by men could be trusted to serve women’s interests as well as if they were run by women, there would be less reason for women to try to get more control of them, by becoming their leaders. The environmental movement also challenges the status quo. It particularly criticises states’ failures to protect nature and to limit the impacts of industrial activities on human health – including in some cases the disproportionate impacts on marginalised groups – and the integrity of various natural entities (species, ecosystems, etc.). When environmental sociology ﬁrst emerged as a ﬁeld, early writers focused on a ‘New Ecological Paradigm’ (see Dunlap et al., 2000). The NEP speciﬁcally contradicted the ‘dominant social paradigm’ (DSP), and environmental sociologists took environmentalism to represent a fundamental challenge to existing views of nature and humans’ relationship to the natural world (Dunlap et al., 2000, p. 427). Environmental activism threatens the priorities of many states, such that there is a ‘widespread and growing trend to repress and criminalize peaceful environmental protest and civil disobedience in an increasing number of countries,’ as a recent report by the UN notes (Forst, 2024). From these perspectives, as per a classic statement of Gamson (1968, p. 48), ‘a combination of high sense of political eﬃcacy and low political trust is the optimum
+
+160 M. FAIRBROTHER ET AL.
+
+combination for mobilization.’ Braun and Hutter (2016) conﬁrm this view in ﬁnding that people who engage in political activities like signing petitions or participating in demonstrations report less trust in the national parliament. Other research, such as by Dalton et al. (2010), suggests little relationship between political distrust and protest behaviours, while Hooghe and Marien (2013) found that politically distrusting respondents to the 25nation 2006 European Social Survey were less likely to participate in non-institutionalized forms of political action. From this perspective, individuals who are less convinced about the merits of existing political authorities and institutions should be more positive about movements that challenge them. Consistent with such a view, empirically, in some instances, individuals with more political trust are less supportive of challenges to the state, such as civil disobedience (Wang et al., 2022). And movements in some cases actively work to undermine public trust in state institutions and actors (Rhodes, 2021), such that individuals listening to what a movement says should lose political trust. In short, there are reasons to think of both the women’s and environmental protection movements, and people who believe in their causes and agendas, as anti-systemic: more hostile than supportive of core political and social institutions. As Hooghe and Marien (2013, p. 131) emphasise, ‘distrust can be a motivating factor for participation in noninstitutionalized forms of participation.’ If that is correct, then people with more negative views of the state and other major social institutions might also have more positive views of social movements that challenge the state.
+
+Consistent trust in diﬀerent institutions
+
+On the other hand, there are two reasons for thinking the reverse: that individuals with more (less) positive views of the state might also see social movements more (less) positively, i.e. that their trust in diﬀerent institutions is aligned. The ﬁrst reason comes from an inﬂuential perspective on the source of people’s diﬀering levels of political and social trust. Associated above all with the work of Rothstein, the institutional theory of trust holds that the experiences underlying political trust also shape people’s trust in everything else, as people generalise what they learn from their interactions with public institutions (see Rothstein & Stolle, 2008). Experiences of corruption or partial treatment by public agents, for example, lead people to expect other individuals and institutions in society also to be corrupt and partial. The same goes for ineﬃciency or unfairness. Conversely, people who have positive interactions with public institutions have reason to think well of them, trust them, and adopt a broadly positive orientation and underlying feeling towards government (Citrin & Stoker, 2018; Newton & Norris, 2000). In sum, based on their experiences, and acknowledging that perceptions of institutions’ performance may be biased, people form beliefs about the likely future behaviour of political institutions and oﬃceholders (Brezzi et al., 2021; Van der Meer & Zmerli, 2017). If those expectations are negative, such that people anticipate harmful outcomes, they can be said to be distrusting (Bertsou, 2019). Consistent with this view, prior empirical work has found positive correlations across measures of trust in a variety of diﬀerent institutions. Pechar et al. (2018), for example, ﬁnd that individuals who are more trusting in corporations are also more trusting in science. And many studies have found positive correlations across public sector institutions. For example, Newton and Zmerli (2011) ﬁnd positive correlations across trust
+
+JOURNAL OF TRUST RESEARCH 161
+
+in parliament, the government, political parties, the justice system, the civil service, and the police. Hanitzsch et al. (2018) ﬁnd that political trust changes over time together with trust in the press. Even just within the state, Hooghe (2011) ﬁnds that people ‘do not distinguish between the functioning of various political institutions. … Political trust judgements reﬂect the prevailing political culture within a political system.’ Moreover, Devine and Valgarðsson (2024) ﬁnd that political trust tends to be persistent over time, rather than variable over a given individual’s life course, suggesting it is not a response to performance. From this perspective, the general public’s trust in diﬀerent movements and state actors should be linked. People are more likely to join movements and participate in protests if they believe that doing so will have some positive impact on meaningful political outcomes, or, in other words, a sense of political eﬃcacy (e.g. Van Stekelenburg & Klandermans, 2013). Such a sense, and political trust, may for example reﬂect state authorities’ willingness to listen to citizens’ concerns (Jung, 2023), and a recent study by Bienstman et al. (2024) ﬁnds eﬃcacy and political trust are strongly correlated. The second reason for expecting a positive relationship between political trust and trust in movements in is that, while ‘movements may target a diverse array of institutions,’ it is also the case that movements sometimes ‘use one institution as a base from which to challenge others’ (Armstrong & Bernstein, 2008, p. 92, 87). In other words, social movements often pursue their goals in alliance with some kind of political insiders, and they strike a balance between challenging and seeking to win over authorities (Amenta & Polletta, 2019, p. 288). Such authorities include policymakers, the judiciary, public agencies, and non-state actors like science, corporations, and the media. Even supra-nationally, while social movements have sought to disrupt some global intergovernmental institutions and summits through protests, some such institutions have also served as platforms and resources for social movements (Erin & Chase-Dunn, 2020). Because of such alliances, as time goes by movements may even be incorporated into a political regime (Oliver et al., 2003). Women’s movements have succeeded in getting many states to establish new agencies and institutions tasked with responding to the demands of women and their organisational advocates (McBride & Mazur, 2010). The environmental movement has also been incorporated into the conventional party system, with social protests in the 1970s leading to the formation of Green parties that are now present in many national parliaments. Such parties in many cases initially rejected mainstream political projects, such as some forms of international cooperation, but later reversed their positions in seeking to make themselves more acceptable to the electorate (Dolezal, 2016). Though movement participants certainly diﬀer from non-participants, the latter may perceive these sorts of connections between social movements and other institutions. Consequently, they may think well of movements insofar as they think well of movements’ allies in those other institutions – or insofar as they see movements as part of a broader political system they trust. In short, people may be more trusting in movements insofar as they have learned from their interactions with state oﬃcials and institutions that corruption is rare in their society, and that organisations and associations generally do what they say. They could also think of social movements more as a part of their country’s general political system, rather than outside critics of it. For either reason, political trust should correlate positively with trust in social movements.
+
+162 M. FAIRBROTHER ET AL.
+
+Data and methods
+
+Data and measures
+
+To test these two possibilities, we conduct a multilevel analysis with data from the World Value Survey (WVS). We use data from waves three through seven, covering the period from 1995 to 2020 and a total of 37 countries in our ﬁnal models. We measure trust in the environmental and women’s movements using responses to the following: ‘I am going to name a number of organizations. For each one, could you tell me how much conﬁdence you have in them: The Environmental Protection Movement / Women’s Movement.’ Respondents could answer on four-point scales from ‘A great deal’ to ‘None at all’. We recoded both variables, and all other trust/conﬁdence items so that high values correspond to a high level of trust/conﬁdence. We take reports of conﬁdence to mean that a survey respondent has a generally more positive view of a movement or institution. Prior research has also used questions about ‘conﬁdence’ in the World Values Survey to measure various kinds of trust – including political trust (Newton & Zmerli, 2011), trust in the UN (Dellmuth & Tallberg, 2015), and trust in science (Gauchat, 2012). Dellmuth and Tallberg (2015) call responses to these questions ‘a conventional indicator of the social legitimacy of political institutions’ (Norris, 2017 expresses a similar view). From wave ﬁve onwards, the term ‘movement’ was changed to ‘organizations,’ such that respondents indicated their conﬁdence towards ‘environmental organizations’ and ‘women’s organizations.’ While acknowledging that movements are more than the sum of their formal components (Diani, 1992), we believe the correspondence of movements and organisations is suﬃciently strong so as to treat these items as a consistent measure. This view is also supported in our analysis, in which we control for any potential nonlinearities in the time series. We found no signs that the changed wording induced any interruption in the trends. To measure political trust, we use an index consisting of items asking about people’s conﬁdence in three political institutions: the respondent’s country’s parliament, government, and political parties. As above, we recoded the three variables so that higher scores indicate more trust, and we obtained scores by taking the arithmetic mean across as many answers as possible. Respondents received scores if they provided at least one valid response. Questions about conﬁdence in the women’s and environmental movements were included in ﬁve waves (wave three through seven of the WVS) in the period from 1995 to 2020. We use only countries with data available for at least three occasions/waves, and that participated at least in one of the ﬁrst two relevant waves. The purpose of these two criteria is to ensure that any longitudinal relationships we ﬁnd are not due to changes in the set of countries included in the analysis, or the addition of new countries. Applying these criteria yielded a pooled dataset of 249,787 respondents from a total of 41 countries. Several control variables are included at all three levels. At the individual level we use a set of sociodemographic variables (sex; age; and level of education) and also self-identiﬁed position on a left vs. right political spectrum from the WVS. Based on past studies in the literature on political and institutional trust (e.g. Clausen et al., 2011; Newton & Zmerli, 2011), at the country and country-year levels we also control for economic
+
+JOURNAL OF TRUST RESEARCH 163
+
+development (operationalised as GDP per capita) and the level of corruption (using the control of corruption component of the Worldwide Governance Indicator). We include a control for democracy particularly as, perhaps counter-intuitively, political trust is surprisingly high in non-democratic, authoritarian regimes (Rivetti & Cavatorta, 2017; Zhong & Vivian Zhan, 2021). (We operationalise democracy using the polity2 index from the Polity IV dataset.) And we use dummies for Muslim-majority and post-socialist countries. A list of all variables including information on their sources is in the appendix (Table A1).
+
+Analytical approach
+
+The WVS can be characterised as comparative longitudinal survey data, with individuals nested in country-years, which are in turn nested within countries. This three-level structure allows for the simultaneous estimation of cross-sectional – and longitudinal relationships of time-varying covariates at the societal level (Fairbrother, 2014). Random eﬀects within and between models (REWB) can be used to decompose the diﬀerent relationships. For this purpose, time-varying country-level covariates are included twice in the model – ﬁrst as country means (pooling across all available years), and second as year-speciﬁc diﬀerences from those means for each country. The former capture diﬀerences between countries, and the latter a longitudinal component capturing the relationship between the outcome and the covariates across time within countries. In the models we present below political trust is therefore included three times: First, as individual scores centred at the country-year mean to test for within-country relationships at the individual level. Second, as vector of country means which we use to test for diﬀerences between countries. Third, as country-mean centred longitudinal component which we use to capture variation over time within countries. The same decomposition is applied to all time-varying societal controls. The models include random slopes for the longitudinal component, following Bell et al. (2019). We ﬁt our models in a Bayesian framework. Given the ordinal measurement of both outcomes, we use threshold normal distributions as likelihood part of the models and apply ordered probit regressions. Posterior distributions are described using the mean and a 95% credible interval. Additionally, we include the probability of direction (pd) for every coeﬃcient. The pd indicates the probability that a parameter is strictly positive or negative (Makowski et al., 2019). We use posterior predictive checks to ensure that our models can reproduce the observed data (Kruschke, 2021; McElreath, 2020).1
+
+We only include complete cases in the models. Due to this listwise deletion, the individual level sample size is reduced from 249,797 to 149,544 and 146,913 respondents respectively. One factor for this is the high proportion of missing observations (29%) for the left-right political self-positioning variable. Beyond that, not all macro controls are available for each country. Consequently, we excluded four countries (China, Puerto Rico, Egypt, Kyrgyzstan) entirely from the multilevel models, resulting in a sample of 37 countries and 132 country-years. Despite this loss of observations, our sample continues to be large enough to test our key relationships at all three levels and moreover our results remain stable even for a smaller sample of 35 countries and 127 country-years as we show as part of our robustness checks.
+
+164 M. FAIRBROTHER ET AL.
+
+Results
+
+We beginby showingpooled – as wellascountry-yearspeciﬁcaveragesoftrust in bothmovements to illustrate time trends across and within countries. We also demonstrate visually that country averages cross-sectionally and trends within countries longitudinally are both highly correlated. Second, we report individual-level correlations between trust in both movements, politicaltrust,andtrustinavarietyofotherorganisations.Finally,weapplymultilevelorderedprobit regressions to quantify our key relationships at all three levels.
+
+Descriptive results
+
+Table 1 shows country-year averages from 1995 to 2020, using survey weights provided by the WVS. The ﬁrst row of Table 1 shows the pooled sample averages. We see that trust in the environmental movement decreased slightly between waves four and ﬁve and has remained almost constant since then. In contrast, trust in the women’s movement has steadily increased since 1995. Comparing the two initial pooled trust averages during wave three shows that trust in the women’s movement was lower than in the environmental movement. Therefore, trust levels have converged over the last 25 years. However, the trends cannot be generalised to all countries as we observe substantial diﬀerences in a few trajectories. For example, in New Zealand trust in the environmental movement has been steadily increasing since wave three. In the case of Ukraine, trust in the women’s movement has declined in contrast to the overall upwards trend. That there was no noticeable change in levels from Wave 5–6 suggests that the wording change from ‘movement’ to ‘organizations’ did not have any substantial impact. Mean levels of support overall are not low, suggesting that around the world many people view social movements as a legitimate and vital part of the political landscape and processes, such as because they represent perspectives and positions that might not otherwise be well represented politically, and so require alternative means of expression. Besides country-speciﬁc trajectories and the resulting deviations from the overall trend we observe a clear pattern for trust in both movements between and within societies. As shown in the left panel of Figure 1, trust in both movements’ correlates strongly (r = 0.86) at the country level. In countries with a high level of trust in the environmental movement there is the tendency to a high level of trust in the women’s movement. And this also applies to country-years, as shown in the right panel, where the correlation is 0.65. This panel shows the deviation of individual country-years from the respective country average. Though they have diﬀerent trajectories, then, levels of trust in the two movements are strongly correlated on the societal level. In the following, we extend this perspective and show single-level associations of both movements and a variety of other organisations/institutions.
+
+Correlation analysis
+
+Next, we assess the correlations among our measures of trust in all of the various organisations and institutions asked about in each of the last ﬁve WVS waves. To estimate the individual-level relationships we calculate Pearson’s correlation coeﬃcient for the pooled sample, and present the results in Figure 2. First, we can see that trust in the women’s and
+
+JOURNAL OF TRUST RESEARCH 165
+
+environmental movements correlates highly (r = 0.60). Individuals who trust (distrust) one movement tend to trust (distrust) the other as well. Additionally, Figure 2 shows that this pattern can be generalised to all organisations/institutions. The strictly positive relationships indicate that institutional trust is not limited to speciﬁc types of organisations or institutions, but rather operates across all of them (or at least those mentioned in the WVS). This involves not only relationships of related entities like social movements, but also less obvious associations such as between trust in the environmental movement and trust in major companies. It is noticeable that trust in churches appears to be the least strongly correlated with all others, but even for churches the correlations are all positive. Also, the correlations among trust in parliament, the government, and political parties are all quite strong – at least 0.58. We see that trust in both movements correlates moderately with diﬀerent political institutions. This allows for a ﬁrst assessment that perceptions/attitudes towards alleged antisystemic entities like social movements are not decoupled from individual perceptions/ attitudes towards the political ﬁeld and its central institutions. In the following, we deepen this analysis using multilevel models and show that political trust is a key predictor for understanding trust in in social movements across individuals, societies, and time.
+
+Table 1. Trust in Environmental and Women’s Movement across and within Countries
+
+Note: Mean national trust levels for environmental movement on the left, for the women’s movement on the right. Scale: 1 = no trust, 5 = great trust. Weighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+166 M. FAIRBROTHER ET AL.
+
+Multilevel analysis
+
+Table 2 presents two multilevel models treating trust in the environmental and women’s movement as a function of several variables at the country, country-year, and individual level. Both models include random intercepts at the country and country-year level as well as random slopes for the longitudinal component varying across countries. Point estimates for slope-coeﬃcients indicate the expected change in standard deviations of the standard normally distributed latent (outcome) variables assumed to underly both ordinal measurements. Numbers in square brackets correspond to the lower – and upper 95% credible interval and pd to the probability that a coeﬃcient strictly positive or negative (Makowski et al., 2019). Several of the individual-level control variables are statistically related to both outcomes as indicated by the pd, which is mainly due to the large sample size at the individual level and the resulting narrow credible intervals. However, given the scale of the variables and the small estimates most of the relationships are negligible. In the case of the environmental movement model, only the diﬀerence between the three education categories should be emphasised, with individuals with higher levels of education tending to have higher levels of trust. For the women’s movement, we see a substantial diﬀerence between men and women, with women’s trust in the movement far exceeding men’s. Turning to the key relationship at the individual level, the coeﬃcient for political trust is clearly positive in both models. (The posterior density is almost entirely greater than zero.)
+
+Figure 1. Country and country-wave level relationship of trust in social movements.
+
+Note: Mean national trust levels for the women’s movement and the environmental movement. Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+JOURNAL OF TRUST RESEARCH 167
+
+The 95% credible intervals are 0.51–0.53 for the environmental women and 0.49–0.51 for the women’s movement. As we centred this variable, the estimated coeﬃcient implies that individuals with more political trust than the average for their country-year tend also to report higher trust in both movements. Posterior estimates statistically support the existence of positive relationships between country-level political trust and trust in both social movements at the country level. This relationship, represented in the upper panel of Figure 3, shows that countries with a high level of political trust tend to have a high level of trust in both movements. Moreover, we ﬁnd positive longitudinal relationships between political trust and trust in both movements. These can be seen in the lower panel of Figure 3, which represents the relationship between the demeaned longitudinal components of political trust and trust in each movement, on the original measurement scale. In the case of the environmental movement, the lower limit of the 95% credible interval (−0.00; 0.66) shown in Table 2 slightly overlaps 0. By converting the pd (97.46%) into a conventional frequentist p-value the relationship is not statistically signiﬁcant (p = 0.058). There is therefore a small
+
+Figure 2. Individual level correlations of trust in many institutions.
+
+Note: Correlations based on respondents’ trust levels for the women’s movement and the environmental movement Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+168 M. FAIRBROTHER ET AL.
+
+Table 2. Multilevel ordered probit models of trust in social movements.
+
+Environmental Movement Women’s Movement
+
+Estimates pd (%) Estimates pd (%)
+
+Individual Level Political Trust 0.52 (0.51; 0.53) >99.99 0.50 (0.49; 0.51) >99.99
+
+Self-position political scale (left – right) −0.02 (−0.02; −0.02) ->99.99 −0.03 (−0.03; −0.02) >99.99
+
+Female 0.06 (0.05; 0.07) >99.99 0.26 (0.25; 0.27) >99.99
+
+Age −0.00 (−0.00; −0.00) >99.99 −0.00 (−0.00; −0.00) >99.99
+
+Education (Lower-Upper)
+
+Middle-Education 0.09 (0.07; 0.10) >99.99 0.05 (0.04; 0.07) >99.99
+
+Upper-Education 0.15 (0.14; 0.17) >99.99 0.06 (0.05; 0.08) >99.99
+
+Country/Country-Year Level Political Trust (Between) 0.54 (0.24; 0.83) 99.99 0.81 (0.54; 1.08) >99.99
+
+Political Trust (Within) 0.33 (−0.00; 0.66) 97.46 0.38 (0.08; 0.71) 99.39
+
+Log GDP/Capita (Between) 0.08 (−0.06; 0.22) 86.86 0.03 (−0.09; 0.16) 70.46
+
+Log GDP/Capita (Within) 0.06 (−0.10; 0.21) 76.98 0.07 (−0.09; 0.23) 82.91
+
+Level of Corruption hi-lo (Between) −0.11 (−0.27; 0.06) 90.10 −0.10 (−0.25; 0.05) 90.89
+
+Level of Corruption hi-lo (Within) −0.08 (−0.30; 0.14) 76.98 −0.16 (−0.38; 0.05) 93.05
+
+Polity Score Autocracy-Democracy (Between) −0.01 (−0.04; 0.01) 83.36 0.00 (−0.02; 0.03) 52.21
+
+Polity Score Autocracy-Democracy (Within) 0.01 (−0.01;0.03) 86.84 0.02 (0.00; 0.04) 98.65
+
+Muslim Countries −0.22 (−0.47; 0.02) 96.55 −0.27 (−0.50; −0.04) 98.94
+
+Communist Countries (Past and Present) −0.23 (−0.42; −0.03) 98.62 −0.14 (−0.33; 0.04) 93.69
+
+Time −0.06 (−0.11; −0.01) 98.35 0.04 (−0.01; 0.09) 93.26
+
+Random Eﬀects (SD) Country-Intercepts 0.18 (0.12; 0.27) 0.17 (0.10; 0.25) Country-year Intercepts 0.19 (0.16; 0.23) 0.20 (0.17; 0.24) Political Trust (Within) – Slopes 0.51 (0.05; 0.99) 0.32 (0.02; 0.80) Thresholds −0.14 (−1.75; 1.54) 0.84 (−0.71; 2.36) 0.95 (−0.66; 2.63) 1.93 (0.37; 3.45) 2.36 (0.75; 4.03) 3.30 (1.75; 4.82) N countries 37 37 N country – years 132 132 N individuals 149,544 146,913
+
+Note: Dependent variables are the respondents’ trust in the women’s movement and the environmental movement. Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+JOURNAL OF TRUST RESEARCH 169
+
+chance that the relationship is negative. However, as most of the posterior density is on the positive side of the parameter space, the model results generally suggest there is a positive relationship at the country-year level.
+
+Robustness checks
+
+To reduce the risk of biases in our inferential results and conclusions we performed several additional robustness checks. Detailed results are included in the appendix (Tables A3– A5). First, we re-estimated the models without the left-right political self-positioning variable, which resulted in a substantial higher sample size at the individual level (N = 202,165 and 198,179) as well as a higher number of countries (N = 39) and country-years (N = 145). This was a consequence of the fact that the left-right item was not available for two countries (China and Egypt), for any of the ﬁve relevant waves, and so both countries were excluded from the original models. While the individual-level political trust relationships remain stable, the country-level relationship for the women’s movement model weakens slightly (0.81 vs. 0.74), but both longitudinal relationships increase (environmental movement: 0.33 vs. 0.46; women’s movement: 0.38 vs. 0.51) (see Table A3). Second, instead of the left-right political self-positioning variable, we tried adding a set of diﬀerent socio-economic and attitudinal variables, as well as social trust. Including these additional covariates did not yield any substantively diﬀerent results at either the individual or higher levels (see Table A4).
+
+Figure 3. Political trust and trust in social movements.
+
+Note: Based on respondents’ trust levels for the women’s movement and the environmental movement. Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+170 M. FAIRBROTHER ET AL.
+
+Third, to rule out that our results could be driven by the use of a Bayesian approach and ordered probit models, we re-estimated both models again in a frequentist framework using multilevel linear regression. While coeﬃcients are not directly comparable, substantive results are unchanged (see Table A5). Fourth, since three Asian countries (Bangladesh, China, and Vietnam) show unusually high mean values on both outcomes and political trust, we tried conducting the analysis without them. (Due to incomplete country-level data China was already excluded from the original models.) Re-estimating both models using data from just the remaining 35 countries, we ﬁnd that, in the case of trust in the environmental movement, the coeﬃcients for both between – and within-country political trust shrink, but the results still strongly indicate positive parameter values (96% of the posterior densities are on the positive side of zero in both cases). The latter also applies to the women’s movement model. Here, the between relationship weakens, while the magnitude of the within relationship remains stable. All in all, our robustness checks reconﬁrm the relationships between political trust and trust in social movements at all three levels of analysis.
+
+Discussion and conclusions
+
+We have found that individuals who trust one major organisation or institution are more likely to trust many others as well. In particular, individuals reporting more trust in key political institutions are also likelier to report positive views of two major social movements. These results are consistent with the inﬂuential institutional theory of political trust, which holds that people’s experiences with state institutions and oﬃceholders shape their trust in other (non-state) institutions as well. From this perspective, political trust is more about people’s broader perceptions of the functioning of the entire political system than about their narrower satisfaction with incumbent policymakers’ and administrators’ performance. What people are expressing, when they respond to survey items about political trust, is their overall belief in the political system’s general integrity and benevolence, rather than primarily their satisfaction with the performance of incumbent oﬃce-holders. Our empirical results are particularly striking given that, in many ways, social movements challenge the powers-that-be in society. They reﬂect a sense that something in society should change, probably because the authorities have failed to address (or have themselves exacerbated) some social problem or injustice. Without such a sense, there would be little reason for anyone to spend time and energy on building such movements or the organisations tied to them. Anger about the status quo and the authorities defending it is often an important movement motivator. Nevertheless, we have shown that, comparing across members of the general adult population, people who report greater trust in their societies’ core political institutions also have more positive views of two speciﬁc social movements. Some literature suggests that social movements should be understood as part of the political ﬁeld, not as outsiders. Our results suggest that public attitudes in a sense reﬂect such a view, with the general public seeing social movements as closely linked to other major social and political institutions. This could even help explain the backlashes that these movements have often encountered (see Faludi, 1991; Tindall et al., 2022). Just as many people feel alienated from and distrustful of the halls of government, so may they feel alienated and distrustful of movements that they take to be allied with, or even part of, the political establishment. Van Stekelenburg and Klandermans (2018)
+
+JOURNAL OF TRUST RESEARCH 171
+
+have documented that active participants in protests may be motivated by low political trust, as protests may substitute for mainstream political activities and channels that have disappointed them. But our results suggest that among the general public, overall, individuals with low political trust are less, not more, likely to believe in social movements. Potentially the eﬀects of the sense of eﬃcacy that comes with political trust outweigh the motivating power of disappointment with public oﬃcials. Low political trust may lead people to conclude political engagement is not worth the eﬀort (Devine, 2024), and social movements are wasting their time, if not themselves dishonest or corrupt. Eﬃcacy may lead to participation in social movements, or even just trust in them, as a generalised belief that the political system is fair and responsive will make engagement worthwhile, and suggest that politically engaged people are sincere and well-intentioned. It could be the case that political distrust contributes to protest behaviour and active participation in social movements, while positive political trust leads individuals who are non-participants in such movements to hold favourable views of them. And our results from studying the general population may be less driven by the attitudes of activists than the many more people who have – justiﬁably or not – very cynical views of both the state and social movements. The present study comes with limitations and potential avenues for further research. While our results are suggestive of a causal relationship at the societal level, insofar as we have found a clear correlation over time, the relationship we have found at the individual level remains strictly cross-sectional. Future research would therefore do well to exploit panel data or experimental methods to determine whether a change in individual political trust leads to a change in trust in social movements or other institutions. Such additional work could help rule out the possibility that the individual-level relationships we have found are to some extent due to diﬀerences in individuals’ response patterns (for example, variable tendencies towards acquiescence). The correlations we have highlighted among individuals’ self-reported trust in diﬀerent groups or institutions are likely to some extent due to the fact that these attitudes were all measured in a single battery, and some impatient or bored survey respondents may have saved time by ticking the same box on each row. Simple survey experiments could re-assess the degree to which this was the case. Additionally, we can still wonder what respondents take survey questions about trust to mean. Qualitative interviews conducted in diﬀerent cultural settings could be useful for exploring individual interpretations of widely used survey items, as well as the underlying factors inﬂuencing people’s responses. For example, some individuals may feel more trusting out of a greater sense of entitlement to participate in politics and form political opinions, others less so out of alienation from the political ﬁeld, as suggested by the work of Laurison (2015). The survey items we have used are quite general, and may evoke less critical or anti-systemic stances or actions (such as by referring to ‘organizations’ in later waves). Moreover, in aggregating data across many years and countries, our analysis is rather decontextualising. We are averaging across many locally speciﬁc patterns, and cannot say anything about them. Further research would do well to investigate local speciﬁcs, perhaps even how the consequences of political trust may be conditional on local conditions. Future studies could also examine attitudes towards other social movements, including movements that are more militant and even dangerous to the authorities. And future research could use new measures distinguishing among trust, mistrust, and
+
+172 M. FAIRBROTHER ET AL.
+
+distrust, which some studies suggest have diﬀerent implications for public attitudes (e.g. Bertsou, 2019; Jennings et al., 2021). In closing, we would note one potentially important practical implication that follows from our main result. Speciﬁcally, social movements, and their supporters, face the dilemma of what to focus on in their public discourse. Do they emphasise above all the failure of the state to address certain problems or injustices? (Here one can think of Greta Thunberg’s dismissal of any suggestion that policymakers have done anything to address climate change, as mere ‘blah, blah, blah.’) Or do they emphasise the as-yetunrealised capacity of the state, if given an appropriate push, to address those problems or injustices? Our results suggest that social movement campaigns that serve to undermine public trust in the state could be less useful to those movements themselves than campaigns focused on positive messages about the feasibility of solutions. Emphasising past public policy successes might be a better way of building public trust in movements looking for more successes – even successes that would embody successful challenges to trusted political institutions. Prior research has emphasised that social movements face dilemmas in choosing their tactics, and how much to employ insider strategies like lawsuits and lobbying versus disruptive protests. Our article points to the importance of a similar dilemma: how much movements stand to gain or lose from criticising the trustworthiness of the institutions they target in their campaigns.
+
+Notes
+
+1. We estimated models using the R package brms which is based on the probabilistic language Stan (Bürkner, 2017). Stan uses a Hamiltonian Monte Carlo algorithm (No-UTurn Sampler) to sample from the posterior distribution (Carpenter et al., 2017). Posterior estimates are based on four simultaneously running chains using 3000 iterations each with a 1000 iterations warmup phase. We used weakly informative prior distributions for all regression coeﬃcients (a normal distribution with a mean of 0 and a standard deviation of 3). Because of the large number of units at the lowest level, the priors had very little inﬂuence (McElreath, 2020). Nonetheless, as we aim to test relationships at the higher levels, where the numbers of units are smaller, we re-estimated the models using diﬀuse priors, and found no notable diﬀerences (Table A2). Following Vehtari et al. (2021) we evaluate convergence using the potential scale reduction factor which is < 1.01 for all parameters across both models and visually inspect MCMC-trace plots. As also recommended by Vehtari et al., (2021) we check the bulk eﬀective sample size to show that our estimates include enough information on point estimates as well as tail eﬀective size for the lower and upper limit of credible intervals. In both cases, the eﬀective sample size is clearly above the recommended minimum size of 400, so we have suﬃcient information to describe the marginal distribution of all parameters.
+
+Acknowledgements
+
+Helpful comments were received from audiences at the Higher School of Economics (11th LCSR International Workshop, HSE); Uppsala University Department of Government; and Nuﬃeld College, Oxford.
+
+Disclosure statement
+
+No potential conﬂict of interest was reported by the author(s).
+
+JOURNAL OF TRUST RESEARCH 173
+
+Funding
+
+This work was supported by Marianne and Marcus Wallenberg Foundation [grant number 2019.0196].
+
+Data availability statement
+
+The survey data used in the article are publicly available from the World Values Survey, at https:// www.worldvaluessurvey.org/wvs.jsp. The data underlying this article are available from the World Values Survey, at https://www. worldvaluessurvey.org/wvs.jsp.
+
+ORCID
+
+Malcolm Fairbrother http://orcid.org/0000-0002-1400-2141 Markus Hadler http://orcid.org/0000-0002-0359-5789
+
+Notes on contributors
+
+Malcolm Fairbrother is professor of sociology at the University of Graz and Uppsala University, and a researcher at the Institute for Future Studies in Stockholm. His research mostly concerns environmental politics, including public attitudes towards environmental policies, and social and political trust.
+
+Matthias Penker is a researcher and doctoral student in sociology at the University of Graz, where he is working on a dissertation about public support for environmental movements, as well as the methodological challenge of how to make valid measurements and inferences when combining diﬀerent survey modes. Markus Hadler is a professor in the sociology department at the University of Graz, where he also directs the Center for Social Research. He is also a member of the Austrian Social Science Data Archive and the International Social Survey Programme. His research interests include survey research on work orientations, environmental attitudes, and related behaviors.
+
+References
+
+Amenta, E., & Polletta, F. (2019). The cultural impacts of social movements. Annual Review of Sociology, 45(1), 279–299. https://doi.org/10.1146/annurev-soc-073018-022342 Andrews, K. T., Beyerlein, K., & Farnum, T. T. (2016). The legitimacy of protest: Explaining white southerners’ attitudes toward the civil rights movement. Social Forces, 94(3), 1021–1044. https://doi. org/10.1093/sf/sov097 Armstrong, E. A., & Bernstein, M. (2008). Culture, power, and institutions: A multi-institutional politics approach to social movements. Sociological Theory, 26(1), 74–99. https://doi.org/10.1111/j.14679558.2008.00319.x Baggetta, M., & Myers, D. J. (2022). Interpreting unrest: How violence changes public opinions about social movements. Social Movement Studies, 21(4), 469–492. https://doi.org/10.1080/14742837. 2021.1920385 Barker, D., Nalder, K., & Newham, J. (2021). Clarifying the ideological asymmetry in public attitudes toward political protest. American Politics Research, 49(2), 157–170. https://doi.org/10.1177/ 1532673X20975329 Bell, A., Fairbrother, M., & Jones, K. (2019). Fixed and random eﬀects models: Making an informed choice. Quality & Quantity, 53(2), 1051–1074. https://doi.org/10.1007/s11135-018-0802-x Bertsou, E. (2019). Rethinking political distrust. European Political Science Review, 11(2), 213–230.
+
+https://doi.org/10.1017/S1755773919000080
+
+174 M. FAIRBROTHER ET AL.
+
+Bienstman, S., Hense, S., & Gangl, M. (2024). Explaining the ‘democratic malaise’ in unequal societies: Inequality, external eﬃcacy and political trust. European Journal of Political Research, 63(1), 172– 191. https://doi.org/10.1111/1475-6765.12611 Braun, D., & Hutter, S. (2016). Political trust, extra-representational participation and the openness of political systems. International Political Science Review, 37(2), 151–165. https://doi.org/10.1177/ 0192512114559108 Brezzi, M., González, S., Nguyen, D., & Prats, M. (2021). An updated OECD framework on drivers of trust in public institutions to meet current and future challenges. OECD Working Papers on Public Governance, 48. https://doi.org/10.1787/b6c5478c-en. Bürkner, P.-C. (2017). brms: An R package for Bayesian multilevel models using Stan. Journal of Statistical Software, 80(1), 1–28. Carpenter, B., Gelman, A., Hoﬀman, M. D., Lee, D., Goodrich, B., Betancourt, M., Brubaker, M., Guo, J., Li, P., & Riddell, A. (2017). Stan: A probabilistic programming language. Journal of Statistical Software, 76(1), 1–32. https://doi.org/10.18637/jss.v076.i01 Chenoweth, E., Perkoski, E., & Kang, S. (2017). State repression and nonviolent resistance. Journal of Conﬂict Resolution, 61(9), 1950–1969. https://doi.org/10.1177/0022002717721390 Citrin, J., & Stoker, L. (2018). Political trust in a cynical age. Annual Review of Political Science, 21(1), 49–70. https://doi.org/10.1146/annurev-polisci-050316-092550 Clausen, B., Kraay, A., & Nyiri, Z. (2011). Corruption and conﬁdence in public institutions: Evidence from a global survey. The World Bank Economic Review, 25(2), 212–249. https://doi.org/10.1093/ wber/lhr018 Dalton, R., Van Sickle, A., & Weldon, S. (2010). The individual–institutional nexus of protest behaviour. British Journal of Political Science, 40(1), 51–73. https://doi.org/10.1017/S000712340999038X Dellmuth, L. M., & Tallberg, J. (2015). The social legitimacy of international organisations: Interest representation, institutional performance, and conﬁdence extrapolation in the united nations. Review of International Studies, 41(3), 451–475. https://doi.org/10.1017/S0260210514000230 Devine, D. (2024). Does political trust matter? A meta-analysis on the consequences of trust. Political Behavior, https://doi.org/10.1007/s11109-024-09916-y Devine, D., & Valgarðsson, V. O. (2024). Stability and change in political trust: Evidence and implications from six panel studies. European Journal of Political Research, 63(2), 478–497. https:// doi.org/10.1111/1475-6765.12606 Diani, M. (1992). The concept of social movement. The Sociological Review, 40(1), 1–25. https://doi. org/10.1111/j.1467-954X.1992.tb02943.x Dinesen, P. T., & Sønderskov, K. M. (2021). Quality of government and social trust. In A. Bågenholm, M. Bauhr, M. Grimes, & B. Rothstein (Eds.), The Oxford handbook of the quality of government (pp. 539–558). Oxford University Press. Dolezal, M. (2016). The greens in Austria and Switzerland: Two successful opposition parties. In E. van Haute (Ed.), Green parties in Europe (pp. 15–41). Routledge. Dunlap, R. E., Van Liere, K. D., Mertig, A. G., & Jones, R. E. (2000). Measuring endorsement of the new ecological paradigm: A revised NEP scale. Social Science Quarterly, 56(3), 425–442. Erin, S., & Chase-Dunn, C. (2020). Global political sociology and world-systems. In T. Janoski, C. de Leon, J. Misra, & I. W. Martin (Eds.), The new handbook of political sociology (pp. 953–972). Cambridge University Press. Fairbrother, M. (2014). Two multilevel modeling techniques for analyzing comparative longitudinal survey datasets. Political Science Research and Methods, 2(1), 119–140. https://doi.org/10.1017/ psrm.2013.24 Fairbrother, M., Mewes, J., Wilkes, R., Wu, C., & Giordano, G. N. (2022). Can bureaucrats break trust? Testing cultural and institutional theories of trust with Chinese panel data. Socius 8. https://doi. org/10.1177/23780231221126879. Faludi, S. (1991). Backlash: The undeclared war against American women. Crown. Feagin, J. R., & Ducey, K. (2017). Elite white men ruling: Who, what, when, where, and how. Routledge. Feagin, J. R., & Elias, S. (2020). Theories of race, ethnicity, and the racial state. In T. Janoski, C. de Leon, J. Misra, & I. W. Martin (Eds.), The new handbook of political sociology (pp. 191–215). Cambridge University Press.
+
+JOURNAL OF TRUST RESEARCH 175
+
+Forst, M. (2024). State repression of environmental protest and civil disobedience: A major threat to human rights and democracy. Position Paper by the UN Special Rapporteur on Environmental Defenders under the Aarhus Convention. https://unece.org/sites/default/ﬁles/2024-02/UNSR_ EnvDefenders_Aarhus_Position_Paper_Civil_Disobedience_EN.pdf Gamson, W. A. (1968). Power and discontent. Dorsey Press. Gauchat, G. (2012). Politicization of science in the public sphere: A study of public trust in the United States, 1974 to 2010. American Sociological Review, 77(2), 167–187. https://doi.org/10.1177/ 0003122412438225 Hanitzsch, T., Van Dalen, A., & Steindl, N. (2018). Caught in the nexus: A comparative and longitudinal analysis of public trust in the press. The International Journal of Press/Politics, 23(1), 3–23. https://doi.org/10.1177/1940161217740695 Hetherington, M. J., & Rudolph, T. (2022). The nature of political trust in mass publics. In T. J. Rudolph (Ed.), Handbook on politics and public opinion (pp. 356–369). Edward Elgar. Hooghe, M. (2011). Why there is basically only one form of political trust. British Journal of Politics and International Relations, 13(2), 269–275. Hooghe, M., & Marien, S. (2013). A comparative analysis of the relation between political trust and forms of political participation in Europe. European Societies, 15(1), 131–152. https://doi.org/10. 1080/14616696.2012.692807 Jennings, W., Stoker, G., Valgarðsson, V., Devine, D., & Gaskell, J. (2021). How trust, mistrust and distrust shape the governance of the COVID-19 crisis. Journal of European Public Policy, 28(8), 1174– 1196. https://doi.org/10.1080/13501763.2021.1942151 Jung, C. (2023). Breaking the cycle: Producing trust out of thin air and resentment. Social Movement Studies, 2(2), 147–175. https://doi.org/10.1080/1474283032000139751 König, P. D., & Siewert, M. B. (2020). Why don’t citizens give governments credit when they deliver on electoral pledges? Policy & Politics, 48(3), 503–519. https://doi.org/10.1332/030557320X15786201228120 Kruschke, J. K. (2021). Bayesian analysis reporting guidelines. Nature Human Behaviour, 5(10), 1282– 1291. https://doi.org/10.1038/s41562-021-01177-7 Laurison, D. (2015). The willingness to state an opinion: Inequality, don’t know responses, and political participation. Sociological Forum, 30(4), 925–948. https://doi.org/10.1111/socf.12202 Makowski, D., Ben-Shachar, M. S., Chen, S. H. A., & Lüdecke, D. (2019). Indices of eﬀect existence and signiﬁcance in the Bayesian framework. Frontiers in Psychology, 10, 2767. https://doi.org/10.3389/ fpsyg.2019.02767 McBride, D. E., & Mazur, A. G. (2010). The politics of state feminism: Innovation in comparative research. Temple University Press. McCright, A. M., & Dunlap, R. E. (2008). The nature and social bases of progressive social movement ideology: Examining public opinion toward social movements. The Sociological Quarterly, 49(4), 825–848. https://doi.org/10.1111/j.1533-8525.2008.00137.x McElreath, R. (2020). Statistical rethinking. A Bayesian course with examples in R and Stan. Chapman and Hall/CRC. Newton, K., & Norris, P. (2000). Conﬁdence in public institutions: Faith, culture, or performance? In S. J. Pharr, & R. D. Putnam (Eds.), Disaﬀected democracies: What’s troubling the trilateral countries? (pp. 52–73). Princeton University Press. Newton, K., & Zmerli, S. (2011). Three forms of trust and their association. European Political Science Review, 3(2), 169–200. https://doi.org/10.1017/S1755773910000330 Norris, P. (2017). Conceptualizing political trust. In S. Zmerli, & T. van der Meer (Eds.), Handbook on political trust (pp. 19–32). Edward Elgar. OECD .(2023). Drivers of trust in public institutions in brazil, building trust in public institutions. OECD Publishing. https://doi.org/10.1787/fb0e1896–en Oliver, P. E., Cadena-Roa, J., & Strawn, K. D. (2003). “Emerging trends in the study of protest and social movements.” Political sociology for the 21st century. Research in Political Sociology, 12, 213–244. https://doi.org/10.1016/S0895-9935(03)12009-8 Pechar, E., Bernauer, T., & Mayer, F. (2018). Beyond political ideology: The impact of attitudes towards government and corporations on trust in science. Science Communication, 40(3), 291– 313. https://doi.org/10.1177/1075547018763970
+
+176 M. FAIRBROTHER ET AL.
+
+Rhodes, A. (2021). Social movement–voter interaction: A case study of electoral communication by the people’s assembly against austerity in the UK. Social Movement Studies, 20(6), 705–721. https://doi.org/10.1080/14742837.2020.1837103 Rivetti, P., & Cavatorta, F. (2017). Functions of political trust in authoritarian settings. In S. Zmerli & T. W. G. van der Meer (Eds.), Handbook on political trust (pp. 53–68). Edward Elgar. Rothstein, B., & Stolle, D. (2008). The state and social capital: An institutional theory of generalized trust. Comparative Politics, 40(4), 441–459. https://doi.org/10.5129/001041508X12911362383354 Sønderskov, K. M., & Dinesen, P. T. (2016). Trusting the state, trusting each other? The eﬀect of institutional trust on social trust. Political Behavior, 38(1), 179–202. https://doi.org/10.1007/s11109015-9322-8 Tindall, D., Stoddart, M. C. J., & Dunlap, R. E. (Eds.). (2022). Handbook of anti-environmentalism. Edward Elgar. van der Meer, T., & Hakhverdian, A. (2017). Political trust as the evaluation of process and performance: A cross-national study of 42 European countries. Political Studies, 65(1), 81–102. https://doi. org/10.1177/0032321715607514 Van der Meer, T. W. G., & Zmerli, S. (2017). The deeply rooted concern with political trust. In S. Zmerli & T. W.G. van der Meer (Eds.), Handbook on political trust (pp. 1–16). Edward Elgar. Van Dyke, N., Soule, S. A., & Taylor, V. A. (2004). The targets of social movements: Beyond a focus on the state. In D. J. Myers & D. M. Cress (Eds.), Authority in contention (research in social movements, conﬂicts and change, Vol. 25) (pp. 27–51). Emerald. Van Stekelenburg, J., & Klandermans, B. (2013). The social psychology of protest. Current Sociology, 61(5-6), 886–905. https://doi.org/10.1177/0011392113479314 Van Stekelenburg, J., & Klandermans, B. (2018). In politics we trust … or not? Trusting and distrusting demonstrators compared. Political Psychology, 39(4), 775–792. https://doi.org/10.1111/pops. 12464 Vehtari, A., Gelman, A., Simpson, D., Carpenter, B., & Bürkner, P.-C. (2021). Rank-normalization, folding, and localization: An improved R^ for assessing convergence of MCMC (with discussion). Bayesian Analysis, 16(2), 667–718. https://doi.org/10.1214/20-BA1221 Walker, E. T., Martin, A. W., & McCarthy, J. D. (2008). Confronting the state, the corporation, and the academy: The inﬂuence of institutional targets on social movement repertoires. American Journal of Sociology, 114(1), 35–76. https://doi.org/10.1086/588737 Wang, C.-H., Lin, T.-J., Hsiao, Y.-c., Chang, Y.-B., & Weng, D. L. C. (2022). Political trust and attitudes toward civil disobedience: Evidence from Taiwan. Democratization, 29(7), 1346–1366. https://doi. org/10.1080/13510347.2022.2056592 Wu, C., & Wilkes, R. (2018). Finding critical trusters: A response pattern model of political trust. International Journal of Comparative Sociology, 59(2), 110–138. https://doi.org/10.1177/ 0020715218761520 Zhong, P., & Vivian Zhan, J. (2021). Authoritarian critical citizens and declining political trust in China. China Review, 21(2), 117–151.
+
+JOURNAL OF TRUST RESEARCH 177
+
+Appendix. Trust, social movements, and the state
+
+Variable Source GDP/Capita https://data.worldbank.org Level of corruption (Control of Corruption indicator) http://info.worldbank.org/governance/wgi/ Polity Score Autocracy-Democracy (Between) https://www.systemicpeace.org/inscrdata.html
+
+Figure A1. Posterior predictive check: multilevel ordered probit models of trust in environmental movement.
+
+178 M. FAIRBROTHER ET AL.
+
+Figure A2. Posterior predictive check: multilevel ordered probit models of trust in women’s movement.
+
+JOURNAL OF TRUST RESEARCH 179
+
+Table A1. Country-level variables.
+
+Country
+
+Communist Country (Past and Present) Muslim Country
+
+Country-Mean Trust: Environmental Movement
+
+CountryMean Trust: Women’s Movement
+
+CountryMean Trust: Political Institutions GDP/ Capita
+
+Polity Score (Autocracy – Democracy)
+
+Level of Corruption (hi-lo) Argentina 0 0 2.65 2.26 1.84 8209.38 8.00 −0.31 Australia 0 0 2.59 2.61 2.11 46875.28 10.00 1.93 Bangladesh 0 1 2.93 2.95 3.02 890.11 2.00 −1.05 Brazil 0 0 2.81 2.74 1.85 8429.31 8.00 −0.07 Chile 0 0 2.80 2.61 2.07 10188.39 9.40 1.34 China 1 0 2.90 2.96 3.28 4231.55 −7.00 −0.38 Taiwan ROC 0 0 2.78 2.81 2.19 19849.00 9.75 0.73
+
+Colombia 0 0 2.75 2.52 1.90 5505.10 7.00 −0.34 Georgia 1 0 2.39 2.36 2.09 2621.40 5.33 −0.22 Germany 0 0 2.67 2.63 2.12 39713.72 10.00 1.89 India 0 0 2.74 2.85 2.51 839.67 9.00 −0.38 Indonesia 0 1 2.80 2.87 2.48 2298.58 7.67 −0.66 Iran 0 1 2.69 2.50 2.53 4122.12 −3.33 −0.70 Japan 0 0 2.53 2.34 2.10 38287.33 10.00 1.35 Jordan 0 1 2.64 2.52 2.37 3213.21 −2.75 0.21 South Korea 0 0 2.81 2.73 2.13 21392.59 8.00 0.53
+
+Kyrgyzstan 1 1 2.55 2.63 2.29 936.36 4.00 Mexico 0 0 2.57 2.56 1.97 8542.55 7.60 −0.42 Moldova 1 0 2.40 2.35 2.07 920.05 8.00 −0.63 Morocco 0 1 2.80 2.52 2.30 2276.14 −5.33 −0.36 New Zealand 0 0 2.54 2.48 2.17 33013.11 10.00 2.25
+
+Nigeria 0 1 2.66 2.62 2.20 1543.85 5.00 −1.20 Pakistan 0 1 2.36 2.36 2.33 873.37 3.75 −0.94 Peru 0 0 2.48 2.45 1.73 4288.08 7.00 −0.29 Philippines 0 0 3.04 3.07 2.65 2085.77 8.00 −0.50 Poland 1 0 2.72 2.55 1.92 9491.64 9.67 0.65 Puerto Rico 0 0 2.97 2.80 2.01 21474.27 0.62 Romania 1 0 2.35 2.37 1.79 7841.03 8.75 −0.31 Russia 1 0 2.65 2.60 2.13 9711.18 3.75 −0.99 Serbia 1 0 2.38 2.22 1.92 4731.05 8.00 −0.60 Vietnam 1 0 3.17 3.33 3.53 1350.54 −7.00 −0.58 Slovenia 1 0 2.48 2.38 1.88 18961.91 10.00 1.01 South Africa 0 0 2.64 2.65 2.50 4912.24 9.00 0.28
+
+Zimbabwe 0 0 2.81 2.80 2.34 1099.83 0.33 −1.29 Spain 0 0 2.62 2.44 2.18 23157.68 10.00 1.29 Sweden 0 0 2.81 2.55 2.44 42987.38 10.00 2.24 Turkey 0 1 2.71 2.73 2.40 7509.16 5.20 −0.10 Ukraine 1 0 2.48 2.52 1.94 2892.82 6.00 −0.99 Egypt 0 1 2.26 2.46 2.07 2276.83 −4.33 −0.65 United States 0 0 2.55 2.55 2.11 46873.28 9.60 1.49
+
+Uruguay 0 0 2.77 2.68 2.30 9842.65 10.00 1.25
+
+180 M. FAIRBROTHER ET AL.
+
+Table A2. Multilevel ordered probit models of trust in social movements: diﬀuse priors.
+
+Environmental Movement Women’s Movement Estimates pd (%) Estimates pd (%) Individual Level Self-position political scale (left – right) −0.02 (−0.02; −0.02) >99.99 −0.03 (−0.03; −0.02) >99.99
+
+Female 0.06 (0.05; 0.07) >99.99 0.26 (0.25; 0.27) >99.99
+
+Age −0.00 (−0.00; −0.00) >99.99 −0.00 (−0.00; −0.00) >99.99
+
+Political Trust 0.52 (0.51; 0.53) >99.99 0.50 (0.49; 0.51) >99.99
+
+Education (Lower-Upper) 0.08 (0.07–0.08) >99.99 0.03 (0.02; 0.04) >99.99
+
+Country/ Country-Year Level Political Trust (Between) 0.54 (0.24; 0.84) 99.99 0.81 (0.54; 1.09) >99.99
+
+Political Trust (Within) 0.33 (0.01; 0.67) 97.46 0.39 (0.10; 0.72) 99.39
+
+Log GDP/Capita (Between) 0.08 (−0.05; 0.21) 86.86 0.03 (−0.10; 0.16) 70.46
+
+Log GDP/Capita (Within) 0.06 (−0.09; 0.22) 76.98 0.08 (−0.07; 0.23) 82.91
+
+Level of Corruption hi-lo (Between) −0.10 (−0.27; 0.05) 90.10 −0.10 (−0.26; 0.05) 90.89
+
+Level of Corruption hi-lo (Within) −0.08 (−0.29; 0.13) 76.98 −0.17 (−0.38; 0.04) 93.05
+
+Polity Score Autocracy-Democracy (Between) −0.01 (−0.04; 0.01) 83.36 0.00 (−0.02; 0.02) 52.21
+
+Polity Score Autocracy-Democracy (Within) 0.01 (−0.01;0.03) 86.84 0.02 (0.00; 0.05) 98.65
+
+Muslim Countries −0.22 (−0.48; 0.02) 96.55 −0.27 (−0.49; −0.05) 98.94
+
+Communist Countries (Past and Present) −0.23 (−0.41; −0.03) 98.62 −0.14 (−0.32; 0.05) 93.69
+
+Time −0.06 (−0.11; −0.01) 98.35 0.04 (−0.01; 0.09) 93.26
+
+Random Eﬀects (SD)
+
+Country-Intercepts 0.19 (0.12; 0.26) 0.17 (0.10; 0.25) Country-year Intercepts 0.20 (0.16; 0.23) 0.20 (0.17; 0.24) Political Trust (Within) – Slopes 0.51 (0.06; 0.97) 0.33 (0.02; 0.80) Thresholds −0.02 (−1.63; 1.59) 0111 (−0.40;2.64) 1.07 (−0.53; 2.70) 2.20 (0.69; 3.73) 2.48 (0.87; 4.10) 3.57 (206.; 5.10) N countries 37 37 N country – years 132 132 N individuals 149,544 146,913
+
+JOURNAL OF TRUST RESEARCH 181
+
+Table A3. Multilevel ordered probit models of trust in social movements without Left-Right self placement.
+
+Environmental Movement Women’s Movement Estimates Estimates Individual Level Political Trust (low-high) 0.54 (0.53–0.55) 0.52 (0.52–0.53) Female 0.05 (0.04–0.06) 0.27 (0.26–0.27) Age −0.00 (−0.00–−0.00) −0.00 (−0.00–−0.00) Education (Lower = ref.) Middle-Education 0.08 (0.07–0.10) 0.05 (0.04–0.07) Upper-Education 0.15 (0.14–0.16) 0.07 (0.06–0.09) Country/ Country-Year Level Political Trust (Between) 0.51 (0.28–0.73) 0.74 (0.51–0.96) Political Trust (Within) 0.45 (0.12–0.78) 0.50 (0.18–0.83) Log GDP/Capita (Between) 0.05 (−0.06–0.17) 0.03 (−0.07–0.15) Log GDP/Capita (Within) 0.04 (−0.10–0.17) 0.02 (−0.13–0.16) Level of Corruption hi-lo (Between) −0.09 (−0.22–0.05) −0.10 (−0.24–0.03) Level of Corruption hi-lo (Within) −0.10 (−0.32–0.11) −0.17 (−0.39–0.04) Polity Score Autocracy-Democracy (Between) −0.01 (−0.03–0.01) 0.01 (−0.01–0.03) Polity Score Autocracy-Democracy (Within) 0.01 (−0.01–0.03) 0.02 (0.00–0.04) Muslim Countries −0.18 (−0.37–0.02) −0.21 (−0.40–−0.02) Communist Countries (Past and Present) −0.23 (−0.40–−0.07) −0.17 (−0.33–−0.00) Time −0.04 (−0.09–0.01) 0.06 (0.01–0.11) Random Eﬀects (SD) Country-Intercepts 0.15 (0.09–0.22) 0.15 (0.09–0.22) Country-year Intercepts 0.19 (0.16–0.23) 0.20 (0.17–0.24) Political Trust (Within) – Slopes 0.61 (0.31–0.98) 0.54 (0.19–0.93) Thresholds −0.11 (−1.45–1.24) 1.03 (−0.33–2.38) 0.97 (−0.37–2.32) 2.09 (0.73–3.44) 2.38 (1.04–3.73) 3.46 (2.10–4.82) N Country’s 39 39 N Country-years 145 145 N individuals 202,165 198,179
+
+Note: Dependent variables are the respondents’ trust in the women’s movement and the environmental movement. Scale: 1 = no trust, 4 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+182 M. FAIRBROTHER ET AL.
+
+Table A4. Multilevel ordered probit models of trust in social movements with additional covariates.
+
+Environmental Movement Women’s Movement
+
+Estimates pd (%) Estimates pd (%) Individual Level Political Trust (low-high) 0.50 (0.49; 0.51) >99.99 0.48 (0.48–0.49) >99.99
+
+Female 0.06 (0.05; 0.07) >99.99 0.27 (0.26–0.28) >99.99
+
+Age −0.00 (−0.00; −0.00) >99.99 −0.00 (−0.00–0.00) >99.99
+
+Education (Lower = ref.) Middle-Education 0.04 (0.02; 0.05) >99.99 0.02 (0.00–0.03) >99.49
+
+Upper-Education 0.07 (0.05; 0.09) >99.99 0.01 (−0.01–0.03) 83.29
+
+Employment Status (Employed = ref.) Self-employed −0.02 (−0.04–−0.00) 97.64 −0.04 (−0.06–−0.02) >99.99
+
+Non-formal employment and others 0.00 (−0.01–0.02) 65.75 0.01 (−0.00–0.02) 95.31
+
+Subjective Social class −0.02 (−0.02–−0.01) >99.99 −0.00 (−0.01–0.01) 57.59
+
+Subjective Assessment of Financial situation Household (Dissatisﬁed – Satisﬁed) 0.01 (0.01–0.01) >99.99 0.01 (0.00–0.01) >99.99
+
+Social Trust 0.05 (0.04–0.07) 0.06 (0.04–0.07) >99.99
+
+Political Interest(high-low) −0.02 (−0.03–−0.02) >99.99 −0.03 (−0.03–−0.02) >99.99
+
+Having a democratic political system (Very good – Very bad) −0.13 (−0.13–−0.12) >99.99 −0.11 (−0.12–−0.10) >99.99
+
+Country/ Country-Year Level
+
+Political Trust (Between) 0.46 (0.23–0.69) 99.99 0.70 (0.47–0.94) >99.99
+
+Political Trust (Within) 0.49 (0.15–0.84) 97.70 0.58 (0.24–0.93) 99.90
+
+Log GDP/Capita (Between) 0.05 (−0.06–0.16) 80.75 0.03 (−0.09–0.15) 68.33
+
+Log GDP/Capita (Within) 0.04 (−0.10–0.18) 71.28 0.01 (−0.13–0.14) 54.54
+
+Level of Corruption hi-lo (Between) −0.12 (−0.25–0.02) 95.78 −0.13 (−0.27–0.01) 96.05
+
+Level of Corruption hi-lo (Within) −0.26 (−0.51–−0.01) 98.11 −0.26 (−0.49–−0.02) 98.42
+
+Polity Score Autocracy-Democracy (Between) −0.01 (−0.03–0.01) 70.24 0.01 (−0.01–0.03) 82.85
+
+Polity Score Autocracy-Democracy (Within) 0.01 (−0.01–0.03) 82.10 0.02 (−0.00–0.04) 97.31
+
+Muslim Countries −0.25 (−0.47–−0.04) 98.81 −0.25 (−0.46–−0.04) 98.94
+
+Communist Countries (Past and Present) −0.23 (−0.41–−0.05) 99.45 −0.14 (−0.32–0.04) 94.36
+
+Time −0.04 (−0.09–0.01) 94.60 0.07 (0.02–0.11) 99.29
+
+Random Eﬀects (SD) Country-Intercepts 0.15 (0.09–0.22) 0.16 (0.10–0.23) Country-year Intercepts 0.20 (0.16–0.32) 0.19 (0.16–0.23) Political Trust (Within) – Slopes 0.64 (0.32–1.03) 0.62 (0.27–1.03) Thresholds
+
+(Continued)
+
+JOURNAL OF TRUST RESEARCH 183
+
+Table A4. Continued.
+
+Environmental Movement Women’s Movement
+
+Estimates pd (%) Estimates pd (%) −0.67 (−2.03–0.66) 0.63 (−0.74–2.04) 0.43 (−0.93–1.76) 1.71 (0.34–3.13) 1.85 (0.49–3.19) 3.11 (1.73–4.52) N Countries 39 39 N Country-years 136 136 N individuals 162,871 159,943
+
+Note: Dependent variables are the respondents’ trust in the women’s movement and the environmental movement. Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+184 M. FAIRBROTHER ET AL.
+
+Table A5. Multilevel linear models of trust in social movements.
+
+Environmental Movement Women’s Movement
+
+Estimates p-value Estimates p-value Individual Level Political Trust (low-high) 0.36 (0.35–0.36) <0.001 0.35 (0.35–0.36) <0.001
+
+Female 0.05 (0.04–0.05) <0.001 0.20 (0.19–0.21) <0.001
+
+Age −0.00 (−0.00–−0.00) <0.001 −0.00 (−0.00–−0.00) <0.001
+
+Education (Lower = ref.) Middle-Education 0.03 (0.02–0.04) <0.001 0.02 (0.01–0.03) 0.002
+
+Upper-Education 0.05 (0.04–0.07) <0.001 0.01 (−0.00–0.02) 0.078
+
+Employment Status (Employed = ref.) Self-employed −0.01 (−0.03 – – 0.00) 0.038 −0.03 (−0.04 – – 0.01) <0.001
+
+Non-formal employment and others 0.00 (−0.01–0.01) 0.848 0.01 (−0.00–0.02) 0.131
+
+Subjective Social class −0.01 (−0.02 – – 0.01) <0.001 −0.00 (−0.01–0.00) 0.702
+
+Subjective Assessment of Financial situation Household (Dissatisﬁed – Satisﬁed) 0.01 (0.00–0.01) <0.001 0.00 (0.00–0.01) <0.001
+
+Social Trust 0.04 (0.03–0.05) <0.001 0.04 (0.03–0.05) <0.001
+
+Political Interest(high-low) −0.01 (−0.02 – – 0.01) <0.001 −0.02 (−0.02 – – 0.01) <0.001
+
+Having a democratic political system (Very good – Very bad) −0.09 (−0.10 – – 0.09) <0.001 −0.08 (−0.08 – – 0.07) <0.001
+
+Country/ Country-Year Level Political Trust (Between) 0.34 (0.18–0.49) <0.001 0.51 (0.35–0.68) <0.001
+
+Political Trust (Within) 0.35 (0.11–0.58) 0.004 0.41 (0.17–0.65) 0.001
+
+Log GDP/Capita (Between) 0.04 (−0.04–0.11) 0.299 0.02 (−0.05–0.10) 0.547
+
+Log GDP/Capita (Within) 0.03 (−0.07–0.13) 0.560 0.00 (−0.10–0.10) 0.960
+
+Level of Corruption hi-lo (Between) −0.08 (−0.18–0.01) 0.076 −0.09 (−0.19–0.00) 0.060
+
+Level of Corruption hi-lo (Within) −0.18 (−0.34 – – 0.02) 0.032 −0.18 (−0.34 – – 0.01) 0.034
+
+Polity Score Autocracy-Democracy (Between) −0.00 (−0.02–0.01) 0.631 0.01 (−0.01–0.02) 0.272
+
+Polity Score Autocracy-Democracy (Within) 0.01 (−0.01–0.02) 0.365 0.01 (−0.00–0.03) 0.053
+
+Muslim Countries −0.18 (−0.32 – – 0.04) 0.010 −0.18 (−0.32 – – 0.03) 0.017
+
+Communist Countries (Past and Present) −0.16 (−0.28 – – 0.04) 0.007 −0.10 (−0.22–0.02) 0.108
+
+Time −0.03 (−0.06–0.01) 0.099 0.05 (0.01–0.08) 0.006
+
+Random Eﬀects (SD)
+
+Country-Intercepts 0.01 0.01 Country-year Intercepts 0.02 0.02 Political Trust (Within) – Slopes 0.19 0.20 N individuals 162,871 159,943
+
+Note: Dependent variables are the respondents’ trust in the women’s movement and the environmental movement. Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+JOURNAL OF TRUST RESEARCH 185
+
+Table A6. Multilevel ordered probit models of trust in social movements for sub sample of protest participators.
+
+Environmental Movement Women’s Movement Individual Level Political Trust (low-high) 0.40 (0.38–0.42) 0.40 (0.38; 0.42) Female 0.05 (0.03–0.08) 0.28 (0.25; 0.31) Age −0.00 (−0.00 – – 0.00) −0.00 (−0.00; – 0.00) Education (Lower = ref.) Middle-Education 0.01 (−0.03–0.06) 0.06 (0.01; 0.10) Upper-Education 0.05 (0.00–0.10) 0.03 (−0.02; 0.07) Employment Status(Employed = ref.) Self-employed −0.04 (−0.09–0.00) −0.03 (−0.07–0.02) Non-formal employment and others 0.02 (−0.01–0.05) 0.05 (0.01–0.08) Subjective Social class 0.01 (−0.01–0.02) −0.00 (−0.01–0.01) Subjective Assessment of Financial situation Household (Dissatisﬁed – Satisﬁed) 0.00 (−0.00–0.01) 0.01 (0.00–0.01) Social Trust 0.10 (0.07–0.14) 0.08 (0.04–0.11) Political Interest(high-low) −0.02 (−0.03 – – 0.00) −0.04 (−0.06 – – 0.02) Having a democratic political system (Very good – Very bad) −0.11 (−0.13 – – 0.09) −0.08 (−0.10 – – 0.06) Country/ Country-Year Level Political Trust (Between) 0.38 (0.13–0.64) 0.60 (0.33–0.88) Political Trust (Within) 0.52 (0.15–0.89) 0.48 (0.10–0.87) Log GDP/Capita (Between) 0.07 (−0.05–0.20) 0.04 (−0.09–0.17) Log GDP/Capita (Within) 0.14 (−0.04–0.32) 0.11 (−0.08–0.29) Level of Corruption hi-lo (Between) −0.14 (−0.28–0.01) −0.13 (−0.08–0.29) Level of Corruption hi-lo (Within) −0.40 (−0.69 – – 0.12) −0.30 (−0.60 – – 0.01) Polity Score Autocracy-Democracy (Between) −0.01 (−0.03–0.01) 0.01 (−0.01–0.03) Polity Score Autocracy-Democracy (Within) 0.02 (−0.01–0.04) 0.04 (0.01–0.06) Muslim Countries −0.22 (−0.43 – – 0.00) −0.25 (−0.46 – – 0.04) Communist Countries (Past and Present) −0.27 (−0.45 – – 0.08) −0.21 (−0.45–0.02) Time −0.08 (−0.14 – – 0.02) 0.05 (−0.01–0.11) Random Eﬀects (SD) Country-Intercepts 0.14 (0.07; 0.22) 0.16 (0.09; 0.25) Country-year Intercepts 0.22 (0.18; 0.26) 0.23 (0.19; 0.28) Political Trust (Within) – Slopes 0.54 (0.10; 1.01) 0.54 (0.06; 1.09) Thresholds −0.80 (−2.23–0.69) 0.52 (−1.06–2.06)
+
+(Continued)
+
+186 M. FAIRBROTHER ET AL.
+
+Table A6. Continued.
+
+Environmental Movement Women’s Movement 0.23 (−1.20–1.71) 1.54 (−0.05–3.07) 1.66 (0.24–3.15) 2.94 (1.35–4.48) N Country’s 39 39 N Country-years 132 132 N individuals 22,859 22,287 Note: Dependent variables are the respondents’ trust in the women’s movement and the environmental movement. Scale: 1 = no trust, 5 = great trust. Unweighted samples. Source: World Values Survey, various waves. See data and methods section for details.
+
+JOURNAL OF TRUST RESEARCH 187

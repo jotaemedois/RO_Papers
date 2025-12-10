@@ -1,0 +1,489 @@
+478 European Journal of Political Research 63: 478–497, 2024
+
+doi: 10.1111/1475-6765.12606
+
+Stability and change in political trust: Evidence and implications from six panel studies
+
+DANIEL DEVINE1 & VIKTOR ORRI VALGARÐSSON2
+
+1St. Hilda’s College, University of Oxford, Oxford, UK; 2Department of Politics and International Relations,
+
+University of Southampton, Southampton, UK
+
+Abstract. Are political attitudes a stable feature of individuals or a rational response to changing circumstances and contexts? This question has long been a feature of political science and underpins our theories of how political attitudes are formed and what their consequences might be. In this paper, we explore this perennial question with a focus on the case of political trust, a fundamental indicator of democratic legitimacy and a long-standing topic of debate. Theoretically, we devise a framework that highlights how different theories of political trust assume different levels of stability or volatility and the implications that this has for those theories and their normative consequences. Empirically, we study within-individual stability of political trust using six panel studies that cover ﬁve countries between 1965 and 2020. Our results consistently point to trust being stable in the long term, with potential for short-term volatility in response to changing political contexts, and for substantial changes between people’s formative years and their adulthood. Even over a period of 19 years, most people’s responses to trust questions are remarkably similar between surveys and signiﬁcant life events such as unemployment and going to University do not signiﬁcantly inﬂuence trust. Changes in the political environment, like incumbent government turnover, have larger effects but these appear to return to equilibrium in a few years. The exception to this general ﬁnding is individuals who are ﬁrst surveyed when they are under the age of 18, who appear much more likely to change their trust levels in subsequent waves. Overall, our results complement previous research on attitude stability, indicating that trust is approximately as stable as other attitudes, such as towards immigration and redistribution. These ﬁndings have fundamental implications for our understanding of the nature of political trust and attitude formation more broadly.
+
+Keywords: political trust; public opinion; political attitudes
+
+Introduction
+
+In motivating a case for the instability of individuals’ attitudes, Zaller (1992, p. 53) recounts the story of a teacher interviewed as part of the 1987 American National Election Study. In one interview, the teacher passionately made a case for greater government spending, citing a crisis in education provision in the country. Being part of a panel study, the teacher was revisited 4 weeks later; they now argued that government was too big, too overbearing and advocated for substantial reductions in government spending. Zaller’s argument was that most respondents exhibit substantial volatility in their attitudes, even on quite core dimensions like government spending and even to the extent of being contradictory. From Lippmann (1922) to Converse (1962), the foundational public opinion literature shared this somewhat cynical view of individuals’ ability to hold consistent attitudes.
+
+The degree to which political attitudes are stable or volatile has long been considered one of their most important attributes: it sheds light on their nature, how they are shaped and how they evolve over time (Key, 1961; Robinson, 1964). In this paper, we contribute to that perennial
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+STABILITY AND CHANGE IN POLITICAL TRUST 479
+
+debate with a focus on the case of political trust. Part of the broader concept of political support, which refers generally to citizens’ attachment to their political regime and community (Easton, 1965), political trust refers more speciﬁcally to citizens’ feelings about the institutions and actors governing their polity (Citrin & Stoker, 2018); their ‘basic evaluative or affective orientation towards government’ (Miller, 1974, p. 952). The objects of political trust most commonly include the national legislature and executive as well as political parties and politicians – and sometimes related objects such as the judiciary, civil service and law enforcement (Uslaner, 2018; Zmerli & van der Meer, 2017). Trust is thought to be an inherently important legitimizing quality of democratic government and a cause of other important outcomes, such as policy and law compliance (Krupenkin, 2021; Marien & Hooghe, 2011), policy preferences (Macdonald, 2021) and political participation (Valgarðsson et al., 2021).
+
+Conceptually, one of the long-standing debates about political trust is the extent to which it is a stable trait reﬂecting a culturally entrenched orientation about the political system’s legitimacy (‘diffuse support’) (Easton, 1975, 1976) or a more volatile attitude which may be moved by the ebbs and ﬂows of political life (‘speciﬁc support’) (Dalton, 2004; Norris, 2011). This debate reﬂects broader debates about attitude formation, but it has speciﬁc theoretical and normative implications for the study of trust in particular. First, it tells us about the nature of trust and how we interpret it: whether it is an expression of system legitimacy or, instead, a rational assessment of government performance which enables more short-term mechanisms of democratic accountability. Second, if it is the latter, then stability is not necessarily a desirable trait as Zaller and others (e.g., Converse, 2006) posited for other attitudes: we would want trust to vary with performance and, ultimately, the trustworthiness of institutions and actors.
+
+Understanding the stability or otherwise of political trust therefore informs us about its nature, determinants and normative implications. Explanatory theories of political trust formation typically make an assumption about stability: theories that emphasise long-term, generational changes (Dalton, 2004; Inglehart, 1997) or dispositional determinants (Intawan & Nicholson, 2018) imply that political trust is stable, whilst those that emphasise government performance, scandals (Bowler & Karp, 2004), election results or negative media coverage (Norris, 2011), for instance, imply that trust is rather malleable. These are often described as ‘cultural’ versus ‘institutional’ theories (see Schoon & Cheng, 2011). If trust were stable, these latter theories likely have lower explanatory power, at least in the long term. If trust were very volatile, the former theories would lose credibility and we would need to revert to the latter – or perhaps even back to earlier concerns about the fundamental volatility of public opinion. These questions also have practical and normative implications: they help us understand what to make of the generally low or declining levels of trust in many established democracies (Citrin & Stoker, 2018) – is it a fundamental crisis of legitimacy, or a more innocuous temporary dissatisfaction with government?
+
+In this study, we provide the most comprehensive analysis of the (in)stability of political trust attitudes to date, using six long-term, nationally representative panel studies from the United States and four European countries – Britain, Germany, the Netherlands and Switzerland – between 1965 to 2020. Our core ﬁnding is that trust is characterised by medium-to-long-term stability with the potential for some short-term volatility in response to the political environment. We evidence this with two analyses. First, we show descriptively that individuals are remarkably stable in their survey responses. Even in our longest panel, covering 19 years (in Switzerland), 58% of respondents changed their trust responses by no more than one category on a 10-point scale over the entire period. We also show that this instability does not in general increase substantially over
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+480 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+time; the average change between the ﬁrst and second waves and the ﬁrst and last waves is quite similar in all of our panels. We also apply latent growth models to three of the most frequent panels which take into account (variation in) individuals’ different trajectories, and these results remain robust. Even in Britain, which experienced three elections, a referendum and considerable political volatility over the period covered, we observe more stability than volatility. However, we also show that those interviewed in their youth and early adulthood are substantially more volatile, providing support for socialisation theories of attitude formation.
+
+In our second set of analyses, we ask to what extent changing individual and political circumstances affect individuals’ political trust levels over time. Using within-between multilevel models, our results indicate that differences between people in terms of education, income, ideology and other qualities explain differences in trust, but that individuals changing on these qualities are almost entirely unrelated to changes in political trust. We then use impact functions to understand the potential effects of government turnover in the Netherlands, which indicates that incumbent turnover at elections has a sizeable effect on the trust levels of the winners and losers, respectively, but that these effects subside after a year or so. Thus both changing individual and political contexts, even in most-likely areas such as becoming unemployed or losing an election, have minimal consequences for political trust. Overall, our results suggest that (i) individuals’ trust attitudes are quite stable across long periods of time and in relatively tumultuous political environments and (ii) trust attitudes are minimally responsive to changing individual circumstances but do respond, albeit brieﬂy, to changing political circumstances. The data we use to reach these conclusions – six panels in ﬁve countries over 50 years – is unprecedented in the trust literature in its temporal and geographical coverage.
+
+Our contributions to the political trust literature are fundamental. Conceptually, our results suggest that trust is a more ‘diffuse’ than ‘speciﬁc’ attitude, formed in early adulthood and, for most people, consistent over the life course. Theoretically, this points to the primacy of relatively settled factors as determinants of political trust, such as dispositional traits and early-life socialisation, rather than relatively short-term factors like performance, scandal, media coverage or speciﬁc events. Whilst these are important in other ways and may matter for some people (especially in their formative years), long-term factors are likely the dominant explanation. An implication of this is that if trust is generally declining (an empirical conjecture still hotly debated, e.g., Zmerli & van der Meer, 2017), this is likely due to generational replacement and the differential socialisation of generations rather than long-term individual-level changes among the adult population. Empirically, our analysis brings together, to our knowledge, the largest range of panel data in terms of temporal and geographical coverage in analyses of political trust. Political trust research is dominated by cross-sectional analysis, which is necessarily limited in understanding or explaining within-person change and dynamics. Whilst a handful of other studies use panel analyses, these are typically based only on one country or limited time periods (e.g., Bauer, 2018; Boulianne, 2019; Sikorski et al., 2020). Our analysis provides important conceptual, theoretical and empirical contributions to the literature on political trust.
+
+This has implications for the literature on political attitude formation more broadly as well. Despite early concerns motivated by anecdotes like in the opening paragraph, recent research instead argues that attitudes ranging from those towards immigration (Kustov et al., 2021) and redistribution (O’Grady, 2019) to other qualities like political interest (Prior, 2010), political morality (Ansolabehere et al., 2008) and many others (Kiley & Vaisey, 2020), are remarkably stable. Our research contributes to this vein of literature by highlighting individuals’ capacity for
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 481
+
+Figure 1. Theories of political trust, from most stable to most volatile.
+
+stable, consistent attitudes and therefore adds evidence to the long-standing debate on the sources and meaningfulness of individuals’ political beliefs (Converse, 1974; Easton, 1965; Zaller, 1992).
+
+We begin the paper by discussing theories of political trust formation and how they assume some extent of stability or volatility, and we review the existing empirical evidence. We then describe our data and empirical strategy before presenting our results. We conclude by discussing the implications of our results for understanding attitude formation and the dynamics of political trust over time.
+
+Stability and ﬂuctuation in theories of political trust
+
+We organise theories of political trust formation depending on how stable they assume trust to be, arranging them along a continuum from most to least stable. The intention here is to show how most of the primary theories of political trust formation make (implicit) assumptions about its stability. We present these in Figure 1. At the most stable end, at the left side of the ﬁgure, are those theories that emphasise individual dispositions rooted in biology and psychology, ﬁnding that hereditary biological factors and personality traits such as agreeableness, neuroticism and extraversion play a role in political trust (e.g., Freitag & Ackermann, 2016). Given that these theories link trust to basic personality traits and that the latter are extremely stable, they would predict little change in trust.
+
+To the right of these are theories that focus on the role of long-term socialisation and generational differences. These refer to the gradual inﬂuence of individuals’ social environments, especially during their formative years, which shape their political trust orientations for the long term. These link to the early sociological literature in political culture research (Almond & Verba, 1963; Kiley & Vaisey, 2020; Putnam, 1995). Of these, Inglehart (1997)’s account of generational change is perhaps the most well known and has been signiﬁcantly expanded upon by Dalton (2004) and Norris (2011). Although these theories differ in terms of the precise mechanisms at work, all suggest that political trust is relatively stable, formed in the socialisation of new generations in early adulthood. For instance, with the growth of material afﬂuence, mass education and technology in developed countries, individuals tend to be more challenging of hierarchy and thus less willing to trust political elites (Inglehart, 1997). In a similar vein, the expansion of education may have led to a greater, more disparate range of demands on government which are more difﬁcult to meet, thus undermining political trust (Dalton, 2004; Norris, 2011).
+
+Moving along the spectrum from left to right, institutional theories instead argue that the primary driver of trust is the political institutional context. These emphasise qualities such as systemic corruption, historical regime change (such as post-communism), international integration and electoral systems in determining trust (e.g., Mishler & Rose, 2001; Mair, 2013; van der Meer & Hakhverdian, 2016; van der Meer, 2010).1 With the exception of the historical regime of the country, these do not logically entail stability of trust: indeed, if a political system were to suddenly
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+482 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+change radically, we might expect a change in political trust to follow. But this typically does not happen and in most circumstances political institutions are quite stable (such as the party system; Mair, 1998), and therefore so is political trust.
+
+One step further to the right, policy theories are perhaps the most well-studied. We refer here to those that focus on the impact of governments’ economic performance and policy performance more generally. Research has generally established a strong relationship between economic and non-economic performance and political trust (Armingeon & Guthmann, 2014; Chanley et al., 2000; Foster & Frieden, 2017; Haugsgjerd & Kumlin, 2020). This literature also makes a distinction between subjective economic performance (i.e., what the individual thinks about the economy) and objective economic performance (i.e. aggregate changes in GDP, unemployment, inequality and so on) (van der Meer, 2018). In both cases, a fundamental assumption is that individuals are able and willing to update their trust judgements depending on economic performance (perceived or objective), which is often volatile.
+
+Finally, what we call ‘political event theories’ are the most volatile, suggesting that trust judgements can be moved by individual scandals pertaining to politicians or political institutions (Bowler & Karp, 2004; Maier, 2011; Sikorski et al., 2020) and by short-term media framing of politics and politicians (Barton & Piston, 2022; Craig & Rippere, 2014; Newton, 2006). These are judged as the most volatile since they suggest that short-term factors such as individual politicians’ conduct and the media’s framing of political events may shift people’s trust judgements, which implies that trust is quite a malleable attitude. A salient example is the apparent consensus in political commentary in the United Kingdom that a series of scandals in 2021 and 2022 (especially ‘partygate’) has seriously undermined the public’s political trust.2
+
+Our basic claim here is that each theory of the determinants of political trust makes a judgement on the malleability of trust, and this applies to theories about perhaps any political attitude. We aim to establish the stability or volatility of trust on the individual level, which speaks to the relative potential explanatory power of each of these theories. Despite 50 years of research and a lot of progress made, it is still the case that the determinants of trust are seen as a ‘protean’ topic with little consensus (Citrin & Stoker, 2018). Discovering the relative stability of political trust will help us move this debate forward. To be clear, our intention is not to directly test each of these theories, nor that this is an absolute question: discovering that trust is stable or otherwise does not mean that theories which rely on one or the other assumption are consigned to the bin, but only that the variation they can plausibly explain is reduced.
+
+Existing empirical evidence
+
+The broader empirical literature generally suggests, quite unlike earlier theoretical work (Converse, 1974; Zaller, 1992), that political attitudes are more stable than not. Issue-speciﬁc attitudes, such as on redistribution, immigration and the European Union, show very little change even in response to economic shocks, university education and social mobility (Kustov et al., 2021; Kuhn et al., 2021; Langsæther et al., 2022; Margalit, 2013; O’Grady, 2019). In addition, some studies on social trust suggest that there is almost no movement in that attitude throughout the data used (Sturgis et al., 2010; van Ingen & Bekkers, 2015).
+
+With respect to political trust, there are a few studies using panel data. A set of studies by Claes and Hooghe (2017), Claes et al. (2012) and Hooghe et al. (2015), using 5-year panel data amongst 16–21 year olds in Belgium, indicates that whilst education in individuals’ early years
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 483
+
+can affect trust, the differences between individuals were essentially already present and stable by age 16, such that further education made no difference to levels of trust. This suggests that trust is relatively stable past middle adolescence. Reaching a similar conclusion using longer panel data from Switzerland, Bauer (2018) shows that becoming unemployed has no effect on political trust but does affect other attitudes like life satisfaction. In terms of short-term volatility, Boulianne (2019) shows using a four-wave panel study during a deliberative event that participants’ general political trust was not increased by participation, although trust in government’s decision-making in the speciﬁc domain discussed at the event (climate change) did improve. Similarly, van Elsas et al. (2020) and Sikorski et al. (2020) show that scandals negatively affect political trust through quite a sophisticated process: individuals distinguish between different institutions and individual politicians. Haugsgjerd & Kumlin (2020) show that evaluations of government performance do affect trust, though it is worth noting that it is based on a two-wave panel study which might only capture short-term impact or ﬂuctuations. The evidence from these studies is thus somewhat mixed. Finally, Schoon & Cheng (2011) study lifetime determinants of political trust using survey data and report high consistency between trust measures ﬁelded to the same panel in two panels with a 9-year interval.
+
+The existing literature leaves two gaps which we address. First, no existing study speciﬁcally analyses the within-individual stability of trust (rather than the potential effects of speciﬁc, isolated factors on trust), which is fundamental to understanding its determinants. Second, existing studies rely on a limited number of survey waves, data sources, or countries, which means results may be limited to particular countries, time periods or surveys and may only tell us whether trust is stable or not in the short term. We ﬁll both of these gaps, studying the stability of trust using data from six long-running panel studies in ﬁve countries.
+
+Data and methods
+
+Data
+
+Individual panel data are necessary to answer our question since our objective is to study whether individuals change their political trust judgements over time. Moreover, we need a long period of time and preferably different political contexts. To that end, we use six panel studies from ﬁve countries (the United States, Switzerland, the Netherlands, Germany and Britain) which extend from 1965 (the United States) to 2020 (the Netherlands). Our longest panel is the US Youth Panel (USYP), which begins in 1965 and ends in 1997 (32 years). Our shortest are the German Longitudinal Election Study (GLES) 2016–2020 Panel and US Voter Study Group (USVSG) (4 years).3 The length of time period covered by a panel is important for studying long-term stability, but the number of waves (i.e., observations for each individual) is also an important consideration for a robust analysis of stability. Whilst the USYP is 32 years long, it only has three waves, while the USVSG has four and the GLES has trust measures in six of its 15 waves. The strength of the USYP over other panels is its length of time, that it is the only one in the United States, and that it interviews respondents in their youth, to which we return to later. Our central analyses however focus on the three panels that include trust in the most waves as well as over a long period of time: the British Election Study (BES), the Swiss Household Panel (SHP) and the Dutch Longitudinal Internet Studies for the Social Sciences (LISS), which have trust measures in 16, 14 and 12 waves. We summarise our data sources in Table 1.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+484 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+Table 1. Data sources, questions and time coverage.
+
+Data Question wording Response Years Waves (with trust)
+
+BES (Britain) How much trust do you have in
+
+Members of Parliament in general? 1 (No trust)–7 (A great deal) 2014–2020 20 (16)
+
+SHP (Switzerland) How much conﬁdence do you have in
+
+the federal government, if 0 means ‘no
+
+conﬁdence’ and 10 means ”full
+
+conﬁdence”?
+
+0 (No conﬁdence)–10 (Full
+
+conﬁdence) 1999–2018 20 (14)
+
+LISS (the Netherlands) Can you indicate, on a scale from 0 to
+
+10, how much conﬁdence you
+
+personally have in each of the
+
+following institutions?
+
+Government/Parliament/Politicians
+
+0 (No conﬁdence)–10 (Full
+
+conﬁdence) 2007–2020 12 (12)
+
+GLES (Germany) Please state if you trust these institutions
+
+or not. The Bundestag? 1 (I do not trust at all)–5 (I
+
+fully trust) 2016–2019 15 (6)
+
+USYP (United States) How much of the time do you think you
+
+can trust the government in
+
+Washington to do what is right – just
+
+about always, most of the time, or
+
+only some of the time?
+
+([Just - W2-3] About always,
+
+Most of the time, Only
+
+some of the time
+
+1965–1997 4 (3)
+
+USVSG (United States) As above As above 2016–2019 4 (4)
+
+Abbreviations: BES, British Election Study; GLES, German Longitudinal Election Study; LISS, Dutch Longitudinal Internet Studies for the Social Sciences; SHP, Swiss
+
+Household Panel; USVSG, US Voter Study Group; USYP, US Youth Panel.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 485
+
+As such, we include a relatively diverse sample of Western democracies in our study: two majoritarian and relatively polarised anglophone countries (the United States and Britain) as well as three continental European countries with more consensual political cultures (Germany, Switzerland and the Netherlands). Nevertheless, our data selection is also driven by data availability. There is a relative paucity of long-term panel surveys which include measures of political trust; most are in wealthy countries and most tend to be in Western Europe. Since we are interested in the stability of trust in the medium-to-long term, we do not include studies such as The American Panel Survey, which has two waves of ‘trust’ variables over 18 months (and question wordings differ), or The Belgian Political Panel Study (2006–2011), which ﬁelded three waves over 5 years to a sample of adolescents. The strength of our panel selection is that we have variation in all of the most well-studied determinants of political trust: over time, individuals will change work status, income and education; the economic situation varies substantially in the period and countries covered; and there have been political scandals, shocks and changes in the media environment. Considering our overview of political trust theories in Figure 1, we are able to observe citizens’ trust throughout a period in which we would expect levels of trust to vary.
+
+The measures of trust used by each project are listed in Table 1; The BES asks about trust in ‘Members of Parliament in general’ and the SHP asks about the ‘federal government’. LISS has separate questions for government, parliament and politicians, and we use the latter in the main analyses.4 Finally, the GLES asks about trust in parliament, whereas the two US panel studies use the traditional American trust question, about ‘how much of the time’ respondents ‘trust the government in Washington to do what is right’. It is important to note that we rely on single-item measures here. This has drawbacks in terms of measurement error, which could be mitigated by multiple items ﬁelded within each panel wave. However, this means that our analysis is if anything a conservative estimate of stability since we would expect single-item measures to be less stable over time than multiple-item measures (and this is indeed the case in other similar studies (e.g., Kustov et al., 2021)).
+
+Empirical strategy
+
+Our analysis comes in two parts. Our ﬁrst strategy follows previous work (Ansolabehere et al., 2008; Kustov et al., 2021; Prior, 2010) with intuitive illustrations of descriptive stability over time. Here, we do this by showing the mean absolute change in individuals’ reported trust between the ﬁrst and subsequent waves of each panel study, and the percentage of respondents changing their response over time by one or more categories. In online Appendix B.1, we also provide Pearson’s correlations between individuals’ trust level in each wave5 and provide latent growth models which take into account individual variation in change. Collectively, these strategies provide a comprehensive, descriptive indication of how much individuals’ trust attitudes change over time.
+
+Our second strategy asks how changing individual and political factors affect political trust. Our intention is to explore to what extent trust is responsive to changing circumstances, rather than directly test theories of political trust as outlined in Figure 1; if trust is not responsive, it is likely more stable than volatile. First, we test the effects of key demographics – age, education, income and work status – as well as associations with left-right ideology and political interest. We do so using within-between models (Fairbrother, 2014) which decompose the effects into those that explain differences (a) between individuals in the whole period and (b) within the same individuals over time. This serves the purpose of identifying whether individuals’ changes over the life course,
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+486 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+Figure 2. Mean change between ﬁrst and subsequent waves in six panel studies, 1965–2020. BES, British Election Study; GLES, German Longitudinal Election Study; LISS, Dutch Longitudinal Internet Studies for the Social Sciences; SHP, Swiss Household Panel; USVSG, US Voter Study Group; USYP, US Youth Panel. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+such as education or work status, are correlated with changes in political trust; if they are not, trust is more likely to be stable. Finally, we ask whether political context affects trust. Given the large literature on the winner–loser gap and trust boost following elections (e.g., van der Meer & Steenvoorden, 2018), we study the impact of incumbent turnover on citizens who identify with the winning and losing parties, using impact functions which track the change in trust before and after an event.
+
+Results
+
+Analysis 1: Attitude stability over time
+
+In Figure 2, we show the absolute mean change within individuals from the ﬁrst wave to each subsequent wave over time. Response scales are standardised between 0 and 1. This shows a remarkable amount of stability in all panels, with the exception of the USYP. The average change between the ﬁrst and last waves in Switzerland (SHP), for instance, is just 0.15 over a period of 19 years (meaning an average change of 1.5 on the original 0–10 scale). The absolute change from the ﬁrst wave also does not increase considerably over the course of the panels: the difference between the ﬁrst and second waves is very similar to the ﬁrst and last waves. For instance, in the Netherlands
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 487
+
+(LISS), the mean change between the ﬁrst and second waves (13 months apart) is 0.11 and 0.15 between the ﬁrst and ﬁnal waves (145 months). Apart from the USYP, the greatest volatility is in Britain; the mean change from the ﬁrst to second wave (over 4 months) is 0.14, but from the ﬁrst to last (77 months) it is 0.17. This period was one of intense political turmoil in the United Kingdom (with the Brexit referendum, its aftermath and three general elections), indicating that trust is at least partly responsive to the changing political environment.
+
+The USYP displays signiﬁcant change, however. This panel is unique in that its ﬁrst wave was conducted when all but three respondents were 18 or 19 years old, following up with them 17 and 32 years later. The volatility between the ﬁrst and second waves is likely due to the ﬁrst interview being in youth or early adulthood: the mean absolute change between the second and third waves of the USYP (conducted when most respondents were 35 and 50 years old, respectively) is much lower and similar to the other panels. To explore this explanation, in online Appendix C, we disaggregate the sample of the SHP study (the only other dataset in our study that includes respondents under 18 years of age) into those under or over 16, 20 and 25 years old in the ﬁrst wave. These results, reported in online Appendix Figure A3, also show that the mean change is much larger for those who are young in their ﬁrst wave (i.e., under 16, 20 or 25) than for those who are over those ages, and this is especially true for those under 16. As such, these results seem to suggest that whilst trust is generally stable in adulthood, it may be quite malleable in individuals’ formative years, lending support to generational theories of political change. We suspect that the USYP values are to a large extent a product of the age sampling, the longer time period and the genuine change in trust levels in the United States during that period (from the 1965 to 1982).
+
+In Figure 3, we present the proportion of respondents that change their trust response and by how many categories between the ﬁrst, second and last waves, on the original scales of each panel study. This similarly shows remarkably high response stability. Even in the BES, the most volatile panel except for the USYP, 73% of respondents changed their response by 1 or fewer categories between the ﬁrst and last waves over a 6-year period (84% between the ﬁrst and second). Very few respondents in any of the panels changed by more than two categories on their respective scales, even when those scales ranged from 0 to 10. This does not seem to change considerably the longer time passes from the ﬁrst wave; 58% change one or fewer categories in Switzerland from the ﬁrst to last wave and 64% from the ﬁrst to second wave. In all of the panels, a majority of respondents change their response by 1 category at most between the ﬁrst and last waves of the panel.
+
+In online Appendix D, we also present the results of more complex latent growth models, which allows us to visualise and accommodate the (variation in) individuals’ trajectories. These models also decompose the general variation in political trust into within versus between individual variation and show that the variation within individuals is only about one third of the variation between individuals in each case. As our conclusions do not differ, we restrict the main text to the more intuitive presentations in Figures 2 and 3.
+
+Analysis 2: Individual and contextual changes are weakly related to changes in trust
+
+Changing individual circumstances. Whilst the descriptive analyses indicate stability, is trust responsive to changing circumstances? We ﬁrst study the effect of changing individual circumstances; for instance, is obtaining a university education or becoming more politically interested related to changes in trust?6 Our intention here is to understand if large changes to individuals’ lives are correlated with changing trust judgements, not necessarily to explain the
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+488 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+Figure 3. Percentage changing categories between ﬁrst and second and ﬁrst and last waves for each panel. BES, British Election Study; GLES, German Longitudinal Election Study; LISS, Dutch Longitudinal Internet Studies for the Social Sciences; SHP, Swiss Household Panel; USVSG, US Voter Study Group; USYP, US Youth Panel. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+sources of trust. If they are not, this is evidence against the malleability of trust (see O’Grady, 2019, for a similar analysis of redistribution preferences). Of course, other changes in personal circumstances may affect levels of political trust (e.g., individuals’ health; Mattila & Rapeli, 2018), but we are limited here by measures consistently available cross countries and over time in these data.7 To test this, we turn to multilevel within-between models for change. These decompose the effect of a predictor into explaining the variation in trust between individuals and the variation within individuals separately. To take into account the multilevel structure, we include random intercepts for each individual and, in the case of the SHP, for household (since respondents are sampled within households). We also include a random slope for survey wave to accommodate individuals changing differently over time. We provide more detailed discussion and defence of this modelling choice in online Appendix E.
+
+In these models, we include basic demographics – sex, age, income, education and work status – and two attitudinal variables – political interest and self-reported left-right ideology. We do not think this is an exhaustive account of what might affect trust. There is a huge range of potential individual-level causes of trust, such as (perceived) health (Mattila & Rapeli, 2018), which we do not take into account. We do think, however, that we include a range of variables that are
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 489
+
+Figure 4. The within and between effects on political trust in three panel studies. BES, British Election Study; LISS, Dutch Longitudinal Internet Studies for the Social Sciences; SHP, Swiss Household Panel. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+hypothesised to have substantial effects on trust – particularly left-right ideology, education and political interest. In summary, we claim simply that substantial changes in these variables, given their relevance, should be correlated with changes in trust levels if they were responsive to changing individual circumstances.
+
+The results of these models are presented in Figure 4. Note that sex has been removed from the plot as in our dataset there is very little variation over time. All outcomes are standardised to 0-1 for comparability. The individual panel datasets are separated by columns, with the red and blue coefﬁcients indicating between and within effects, respectively, for the variable on the Y axis.
+
+Our core result is that the within-effects of all our included variables are either insigniﬁcant or substantively small. In the majority of cases, the between-effect is substantively larger; the exceptions are for age in Britain and being unemployed in Switzerland. Still, signiﬁcant life events, such as obtaining a university education, are insigniﬁcant or only weakly related to changing levels of trust; in Britain, one may expect to become less than 2% more trusting when obtaining a university education or 5% less trusting when becoming unemployed.
+
+Only one within variable is consistently related to trust in signiﬁcance and direction: an individuals’ changing left-right ideology is positively related to trust in all countries to similar magnitudes (0.008, 0.006 and 0.003 in the BES, LISS and SHP, respectively). Thus becoming more right-wing is associated with an increase in trust, but a relatively small one. Becoming more politically interested is also consistently signiﬁcantly related, but with different effects in the three
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+490 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+countries: it is negatively related in Britain but positively in Switzerland and the Netherlands. This interesting result is likely a result of the political turmoil in Britain during the period covered.
+
+Altogether, we observe that substantial changes to individuals’ income, education, ideology or political interest, amongst others, result in minimal changes to their levels of political trust in these three countries. We do, however, observe differences between people. Our analysis here points to similar conclusions as in studies of other attitudes: speciﬁcally that differences between individuals are likely deeply rooted and relatively robust to changing individual circumstances (Margalit, 2013; O’Grady, 2019).
+
+Changing political context. Whilst changing individual circumstances seem to be only weakly correlated with changes in political trust, it may be that trust instead responds to changing political contexts. As has been noted, political trust is explicitly political and should therefore respond to changing political contexts (Citrin & Stoker, 2018). Our case is the effect of incumbent government turnover. Does losing incumbency status impact political trust? We test this in the Netherlands, as this offers the biggest variation in incumbency status available in our dataset.8
+
+Our independent variable indicates when respondents’ preferred party leaves or enters a majority coalition government after an election, which we call ‘changing incumbency status’.9 Elections are often followed by aggregate changes in trust, in general and conditional on winner–loser status. This is a most-likely situation in which to ﬁnd substantial, sudden changes in trust.
+
+We present the results of this impact analysis in Figure 5. They show that trust is on average reduced by approximately 1 point (on an 11-point scale) when incumbency status is lost. The gain in trust from acquiring incumbency status is both of a lower magnitude and declines over time. This leads to a short ‘winner–loser gap’ which persists for approximately a year, before closing again, and indeed reversing for a time.
+
+This evidence points to some short-term volatility and reactions to the changing political environment and is consistent with the evidence on the winner–loser gap in support following elections (e.g., van der Meer & Steenvoorden, 2018). Yet it also shows that these changes are still relatively small even in a most-likely situation, and appear to dissipate after a short time. Seen in light of our previous evidence, this is evidence of short-term volatility in the context of long-term stability. Whilst these small changes may have large political consequences, the overall variation in trust that sudden events can explain is minimal.
+
+Discussion
+
+Theories of political attitude formation assume some level of stability or volatility when making claims about the explanatory power of particular determinants. If one is to say that early-life socialisation is fundamental, that is to say that over the course of someone’s life we would not expect their levels of trust to change suddenly; if we believe in the potent effect of political scandal, we might expect that, on the contrary, a single event might fundamentally change someone’s trust judgements. The explanatory importance we should accord to these theories thus depends on an attitude’s stability: whilst scandalous political events, for instance, are important for many reasons, if they only affect attitudes temporarily, we might attach less explanatory importance to them when analysing the nature, implications and long-term dynamics of attitudes. For this reason and many others, understanding the consistency and stability of political attitudes has been a long-standing effort in political science (e.g., Key, 1961; Robinson, 1964).
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 491
+
+Figure 5. Impact function of losing an election on average levels of trust. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+The stability of political trust gets to the heart of the conceptual debate about whether trust is a ‘diffuse’ (Easton, 1975) or ‘speciﬁc’ (Dalton, 2004; Norris, 2011) type of support; whether it is a deep-seated reservoir of attachment or a ﬂeeting judgement of temporary outputs. It also helps us understand what to make of the generally low and, in many cases, declining levels of trust across most democracies. Does it signify a crisis of legitimacy for democratic systems, or a less fundamental dissatisfaction with its present outputs? Relatedly, it speaks to if, to what extent and how political trust might be rebuilt – a central policy objective of many governments and international bodies (Brezzi et al., 2021; Bouckaert, 2012; OECD, 2017).
+
+We have furthered that understanding in this paper using six panel studies in ﬁve countries conducted between 1965 and 2020; to our knowledge, the temporally and spatially widest range of data applied to this question. We ﬁnd that trust is stable in the medium-to-long term and largely unresponsive to changing individual circumstances, but somewhat responsive to changing political environments in the short-to-medium term. However, we do also ﬁnd that trust appears to be much more malleable in people’s formative years, evidenced by the drastically different results from the USYP study and the greater volatility amongst young respondents in Switzerland.
+
+What do these ﬁndings tell us about the nature of political trust and its role as an accountability mechanism in representative democracy? Our normative conclusions depend on whether we see trust as evaluative or instead as a deep-seated commitment to the political system. If trust is evaluative in nature, it is concerning that trust is so stable, because that would seem to suggest
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+492 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+that even if elected authorities do something scandalous or perform very badly, citizens might not respond by substantially altering their judgements of whether those authorities are trustworthy. Yet, our results suggest that overall, citizens do tend to adjust their trust in authorities to the political context in the short term. Perhaps such short-term adjustments are all that democracy needs for accountability: citizens may well throw the rascals out in elections after a scandal, even if their general trust judgements tend to recover in the following years. If trust is seen as a ‘diffuse’ indicator of democratic legitimacy, and if it has indeed been declining over time in many established democracies, our ﬁndings are rather troubling: they suggest that this may reﬂect a more fundamental decline of legitimacy than an ephemeral phase of dissatisfaction, and that rebuilding it will likely take a long time.10 Overall, we would suggest that trust reﬂects both a longterm ‘diffuse’ component of affective orientation towards the regime and a short-term ‘speciﬁc’ component of more rational evaluations of the authorities; whilst our ﬁndings show that the former dominates the latter, it does not mean that the ‘speciﬁc’, evaluative component is irrelevant, as we return to shortly. Overall, trust likely reﬂects both components, where its long-term trends and levels likely reﬂect developments in diffuse orientations, whereas short-term variations primarily reﬂect evaluations of contemporary authorities. The extent to which different measures of political trust may measure more and less diffuse components of trust would be a worthwhile topic for future research.
+
+Whilst our ﬁndings thus contribute to our fundamental understanding of political trust – one of the attitudes most studied in political science – our contention is that they also provide a fundamental insight into the nature of political attitudes more broadly. While earlier work suggested that attitudes were not only quite malleable but potentially meaningless (Zaller, 1992), we contribute to a spate of more recent work that suggests quite the opposite: that political attitudes are quite stable over a long period of time and the primary determinants of individual’s attitudes likely lie in either their disposition, early-life socialisation or both (Jennings et al., 2009). Indeed, our results are very similar to studies on attitudes towards immigration and redistribution (Kiley & Vaisey, 2020; Kustov et al., 2021; O’Grady, 2019). Although these attitudes are qualitatively different to political trust, these ﬁndings speak to how meaningful political judgements are and how they are formed. We have advanced these prior studies in terms of breadth – by including trust – but also in depth, by the range of data and empirical tests we have applied.
+
+Although our ﬁndings suggest that trust is more stable than malleable, this does not mean that contemporary factors – like policy delivery, scandals or elections – do not matter. Indeed, we have shown that elections do matter, and it might be that these relatively small changes can have large political consequences, at least in the short term. This may be the ‘speciﬁc’ component of trust, in which these short-term ﬂuctuations act to reinforce democratic accountability. Short-term shocks may also be very important for shaping the long-term trust judgements of citizens in their youth at the time of those events. We have also focused on averages: factors may have different impacts on different people and may have more permanent inﬂuences on a subset of people than others, not just depending on age. For instance, while overall levels of trust may be recovering in Britain, they appear to be considerably higher among Leave supporters than before – and lower for Remainers (see online Appendix Figure A5). We do not think that these factors should be disregarded, only that their effects should be seen in the context of longer-term overall stability (see, for instance, Margalit, 2013).
+
+We think that there is enormous potential for future research to build on this and others’ studies. In our view, the ﬁrst priority should be to identify the factors which determine whether
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 493
+
+an individual is likely to change their trust judgement. Figure 3 indicates that some respondents do change substantially. What determines the variation? Are those more interested in politics more likely to alter their views, or are they more ideologically constrained? Do socially marginalized groups have less stable trust levels than others? Second, future work should study the longer term implications of short-term changes in trust; for instance, do small changes in political trust lead individuals to shift party allegiance, perhaps to anti-establishment parties? For now, however, this paper has provided insights into the normative standing and theoretical determinants of political trust – a quality seen as fundamental for good governance and social cooperation – with broader implications for understanding political attitude formation.
+
+Acknowledgements
+
+We thank Professor Laura Stoker for providing us with the Youth Panel data and for extensive comments on an earlier version. We also thank Jessica Smith, Stuart Turnbull-Dugarte, Gerry Stoker, Silke Goubin and participants at a seminar at the University of Montreal for their comments. Finally, we appreciate the time and effort the three reviewers put into helping us ﬁnalise the paper.
+
+Data availability statement
+
+We have provided the code required to merge the raw data and conduct the analyses in the paper. However, we cannot share the underlying raw data due to user agreements.
+
+Online Appendix
+
+Additional supporting information may be found in the Online Appendix section at the end of the article:
+
+Table A1: Summary statistics: BES Table A2: Summary statistics: LISS Table A3: Summary statistics: SHP Figure A1: Correlation between ﬁrst and subsequent waves in 6 panel studies, 1965 - 2020 Table A4: Correlations across waves: BES Table A5: Correlations across waves: SHP Table A6: Correlations across waves: LISS Table A7: Correlations across waves: GLES Table A8: Correlations across waves: USVSG Table A9: Correlations across waves: USYP Table A10: Political interest correlations across waves: LISS Table A11: Political interest correlations across waves: BES Table A12: Political interest correlations across waves: SHP Figure A2: Mean change between ﬁrst and subsequent waves for different conﬁdence variables in LISS Figure A3: Mean change over time by age in ﬁrst survey (SHP) Table A13: Decomposed variation of trust variables in three panels
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+494 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+Figure A4: The rate of change in three panel studies Table A14: Pooled and ﬁxed-effects OLS models predicting political trust Table A15: Comparing models with a random slope for time and without Figure A5: Impact of Brexit on political trust Data S1
+
+Notes
+
+1. Of course, some institutional theories focus more on informal institutions and/or subjective evaluations of
+
+institutions, but here we refer to those that focus on the objective effects of formal institutions. 2. For instance, see coverage in the Financial Times ⟨https://www.ft.com/content/b50bc1cd-8de4-4a88-b444 c7f5913000c8⟩. 3. For the GLES, see ⟨https://gles.eu⟩; for the USVSG, see ⟨https://www.voterstudygroup.org⟩; for the LISS,
+
+see ⟨https://www.lissdata.nl⟩; for the BES, see ⟨https://www.britishelectionstudy.com/data/⟩; for the SHP, see ⟨https://forscenter.ch/projects/swiss-household-panel/⟩; the USYP is not publicly available. 4. In online Appendix B.3, we use the LISS data to conﬁrm that, at least in the Netherlands, results are consistent
+
+across these different objects of trust – the one slight difference is that trust in government is a bit more volatile in the short term, but the difference is small and dissipates over time 5. We focus on absolute changes here because the calculation of correlations is based on deviations from the mean
+
+within each wave, which means that potential overall changes in trust levels within each country over time are concealed in those calculations. 6. Note that in online Appendix A.2, we provide within and between individual variation for education and
+
+income in our data, to indicate that there is variation within individuals on these predictors. For instance, in the BES, whilst the standard deviation of education is much higher between individuals (0.65), it is 0.18 within individuals. In terms of income, the within standard deviation is half that of the between standard deviation. 7. Our variable selection does still correspond to the ‘stable’ end of Figure 1, as they pertain to basic and relatively
+
+slow-changing demographics; variables measuring more ﬂuctuating factors are unfortunately not consistently available in our datasets. 8. The executive in Switzerland operates with a grand coalition government of all parties whereas the Conservative
+
+Party has led the UK government in the entire period covered by the data. In online Appendix F, we show trends in trust by Brexit identity in the United Kingdom, where supporters of ‘Remain’ had been considerably more trusting than supporters of ‘Leave’ before the 2016 Brexit referendum, but that dynamic had reversed by June 2020, with a sharp decline among both groups in the interim. Another obvious event to explore is the 2008 ﬁnancial recession. The SHP is the only one of our datasets that covers a period before and after that event: there, overall trust levels did decline slightly from 5.67 (on a 0–10 scale) in 2008 to 5.40 in 2009, but they had recovered in 2011, to 5.76. 9. Because the LISS data does not have party ID, we use recalled national vote. The data covers the general
+
+elections of 2010, 2012 and 2017, with some incumbency change following each election. Finally, to isolate the effect of the political context, we do not count those respondents who change their partisanship to or from an incumbent party as gaining or losing incumbency status here, only those who gained or lost it through a change in government. 10. It is worth noting that the trust measures that we use (in line with other studies) are mostly measures of trust in
+
+politicians, government or parliament broadly speaking: it is still plausible that citizens adjust their evaluations of incumbent authorities even if their broader trust in political institutions is more stable.
+
+References
+
+Almond, G., & Verba, S. (1963). The civic culture: Political attitudes and democracy in ﬁve nations. Princeton
+
+University Press.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 495
+
+Ansolabehere, S., Rodden, J., & Snyder, J. M. (2008). The strength of issues: Using multiple measures to gauge
+
+preference stability, ideological constraint, and issue voting. American Political Science Review, 102(2), 215– 232. Armingeon, K., & Guthmann, K. (2014). Democracy in crisis? The declining support for national democracy in
+
+European countries, 2007-2011. European Journal of Political Research, 53(3), 423–442. Barton, R., & Piston, S. (2022). Undeserving rich or untrustworthy government? How elite rhetoric erodes support
+
+for soaking the rich. Politics, Groups, and Identities, 10(5), 729-753. Bauer, P. C. (2018). Unemployment, trust in government, and satisfaction with democracy: An empirical
+
+investigation. Socius 4. https://doi.org/10.1177/2378023117750533 Bouckaert, G. (2012). Trust and public administration. Administration, 60(1), 91–115. Boulianne, S. (2019). Building faith in democracy: Deliberative events, political trust and efﬁcacy. Political Studies,
+
+67(1), 4–30. Bowler, S., & Karp, J. A. (2004). Politicians, scandals, and trust in government. Political Behavior, 26(3), 271–287. Brezzi, M., Gonzalez, S., Nguyen, D., & Prats, M. (2021). An updated OECD framework on drivers of trust in public
+
+institutions to meet current and future challenges (OECD Working Papers on Public Governance 48). OECD. Chanley, V. A., Rudolph, T. J., & Rahn, W. M. (2000). The origins and consequences of public trust in government:
+
+A time series analysis. Public Opinion Quarterly, 64(3), 239–256. Citrin, J., & Stoker, L. (2018). Political trust in a cynical age. Annual Review of Political Science, 21(1), 49–70. Claes, E., & Hooghe, M. (2017). The effect of political science education on political trust and interest: Results
+
+from a 5-year panel study. Journal of Political Science Education, 13(1), 33–45. Claes, E., Hooghe, M., & Marien, S. (2012). A two-year panel study among Belgian late adolescents on the impact
+
+of school environment characteristics on political trust. International Journal of Public Opinion Research, 24(2), 208–224. Converse, P. E. (1974). Comment: The status of nonattitudes. American Political Science Review, 68(2), 650–660. Converse, P. E. (1962). Information ﬂow and the stability of partisan attitudes. The Public Opinion Quarterly, 26(4),
+
+578–599. Converse, P. E. (2006). The nature of belief systems in mass publics (1964). Critical Review, 18(1), 1–74. Craig, S. C., & Rippere, P. S. (2014). Political trust and negative campaigns: Two tests of the ﬁgure-ground
+
+hypothesis. Politics & Policy, 42(5), 693–743. Dalton, R. J. (2004). Democratic challenges, democratic choices: The erosion of political support in advanced
+
+industrial democracies. Oxford University Press. Easton, D. (1965). A framework for political analysis. Prentice Hall. Easton, D. (1975). A re-assessment of the concept of political support. British Journal of Political Science, 5(4),
+
+435–457. Easton, D. (1976). Theoretical approaches to political support. Canadian Journal of Political Science / Revue
+
+canadienne de science politique, 9(3), 431–448. Fairbrother, M. (2014). Two multilevel modeling techniques for analyzing comparative longitudinal survey datasets.
+
+Political Science Research and Methods, 2(1), 119–140. Foster, C., & Frieden, J. (2017). Crisis of trust: Socio-economic determinants of Europeans’ conﬁdence in
+
+government. European Union Politics, 18(4), 511–535. Freitag, M., & Ackermann, K. (2016). Direct democracy and institutional trust: Relationships and differences across
+
+personality traits. Political Psychology, 37(5), 707–723. Haugsgjerd, A., & Kumlin, S. (2020). Downbound spiral? Economic grievances, perceived social protection and
+
+political distrust. West European Politics, 43(4), 969–990. Hooghe, M., Dassonneville, R., & Marien, S. (2015). The impact of education on the development of political trust:
+
+Results from a ﬁve-year panel study among late adolescents and young adults in Belgium. Political Studies, 63(1), 123–141. Inglehart, R. (1997). Modernization and postmodernization: Cultural, economic and political change in 43 societies.
+
+Princeton University Press. Intawan, C., & Nicholson, S. P. (2018). My trust in government is implicit: Automatic trust in government and
+
+system support. The Journal of Politics, 80(2), 601–614. Jennings, M. K., Stoker, L., & Bowers, J. (2009). Politics across generations: Family transmission reexamined. The
+
+Journal of Politics, 71(3), 782–799.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+496 DANIEL DEVINE & VIKTOR ORRI VALGARÐSSON
+
+Key, V. (1961). Public opinion and American democracy. Knopf. Kiley, K. & Vaisey, S. (2020). Measuring stability and change in personal culture using panel data. American
+
+Sociological Review, 85(3), 477–506. Krupenkin, M. (2021). Does partisanship affect compliance with government recommendations? Political Behavior,
+
+43(1), 451–472. Kuhn, T., Lancee, B., & Sarrasin, O. (2021). Growing up as a European? parental socialization and the educational
+
+divide in Euroskepticism. Political Psychology, 42(6), 957–975. Kustov, A., Laaker, D., & Reller, C. (2021). The stability of immigration attitudes: Evidence and implications.
+
+Journal of Politics, 83(4), 1478–1494. Langsæther, P. E., Evans, G., & O’Grady, T. (2022). Explaining the relationship between class position and political
+
+preferences: A long-term panel analysis of intra-generational class mobility. British Journal of Political Science, 52(2), 958–967. Lippmann, W. (1922). Public opinion. Harcourt, Brace and Co. Macdonald, D. (2021). Political trust and support for immigration in the American mass public. British Journal of
+
+Political Science, 51(4), 1402–1420. Maier, J. (2011). The impact of political scandals on political support: An experimental test of two theories.
+
+International Political Science Review, 32(3), 283–302. Mair, P. (1998). Party system change: Approaches and interpretations. Oxford University Press. Mair, P. (2013). Ruling the void: The hollowing of Western democracy. Verso Books. Margalit, Y. (2013). Explaining social policy preferences: Evidence from the great recession. American Political
+
+Science Review, 107(1), 80–103. Marien, S., & Hooghe, M. (2011). Does political trust matter? An empirical investigation into the relation between
+
+political trust and support for law compliance. European Journal of Political Research, 50(2), 267–291. Mattila, M., & Rapeli, L. (2018). Just sick of it? Health and political trust in Western Europe. European Journal of
+
+Political Research, 57(1), 116–134. Miller, A. H. (1974). Political issues and trust in government: 1964-1970. American Political Science Review, 68(3),
+
+951–972. Mishler, W. & Rose, R. (2001). What are the origins of political trust?: Testing institutional and cultural theories in
+
+post-communist societies. Comparative Political Studies, 34(1), 30–62. Newton, K. (2006). May the weak force be with you: The power of the mass media in modern politics. European
+
+Journal of Political Research, 45(2), 209–234. Norris, P. (2011). Democratic deﬁcit: Critical citizens revisited. Cambridge University Press. OECD. (2017). Trust and public policy: How better governance can help rebuild public trust. OECD Public
+
+Governance Reviews. Paris. O’Grady, T. (2019). How do economic circumstances determine preferences? evidence from long-run panel data.
+
+British Journal of Political Science, 49(4), 1381–1406. Prior, M. (2010). You’ve either got it or you don’t? The stability of political interest over the life cycle. Journal of
+
+Politics, 72(3), 747–766. Putnam, R. D. (1995). Bowling alone: America’s declining social capital. Journal of Democracy, 6(1), 65–78. Robinson, J. A. (1964). Public opinion in Lasswell’s future of political science. Public Opinion Quarterly, 28(3),
+
+395. Schoon, I., & Cheng, H. (2011). Determinants of political trust: A lifetime learning model. Developmental
+
+Psychology, 47(3), 619–631. Sikorski, C., Heiss, R. & Matthes, J. (2020). How political scandals affect the electorate. Tracing the eroding and
+
+spillover effects of scandals with a panel study. Political Psychology, 41(3), 549–568. Sturgis, P., Read, S., Hatemi, P. K., Zhu, G., Trull, T., Wright, M. J. & Martin, N. G. (2010). A genetic basis for
+
+social trust? Political Behavior, 32(2), 205–230. Uslaner, E. M. (2018). The study of trust. In E. M. Uslaner (Ed. ), The Oxford handbook of social and political trust
+
+(pp. 1–12). Oxford University Press. Valgarðsson, V. O., Stoker, G., Devine, D., Gaskell, J.. & Jennings, W. (2021). Political Disengagement. In M. T.
+
+Grasso & M. Giugni (Eds.), Oxford handbook of political participation (pp. 744–762). Oxford University Press. van der Meer, T. (2010). In what we trust? A multi-level study into trust in parliament as an evaluation of state
+
+characteristics. International Review of Administrative Sciences, 76(3), 517–536.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+STABILITY AND CHANGE IN POLITICAL TRUST 497
+
+van der Meer, T., & Hakhverdian, A. (2016). Political trust as the evaluation of process and performance: A cross national study of 42 European countries. Political Studies, 65(1), 81–102. van der Meer, T., & Steenvoorden, E. H. (2018). Going back to the well: A panel study into the election boost of
+
+political support among electoral winners and losers. Electoral Studies, 55, 40–53. van der Meer, T. W. (2018). Economic performance and political trust. In E. M. Uslaner (Ed.), The Oxford handbook
+
+of social and political trust (pp. 599–616). Oxford University Press. van Elsas, E. J., Brosius, A., Marquart, F., & De Vreese, C. H. (2020). How political malpractice affects trust in EU
+
+institutions. West European Politics, 43(4), 944–968. van Ingen, E., & Bekkers, R. (2015). Generalized trust through civic engagement? Evidence from ﬁve national panel
+
+studies: Generalized trust through civic engagement? Political Psychology, 36(3), 277–294. Zaller, J. (1992). The nature and origins of mass opinion. Cambridge University Press. Zmerli, S., & van der Meer, T. (Eds.). (2017). Handbook on political trust. Edward Elgar Publishing.
+
+Address for correspondence: Daniel Devine, St Hilda’s College, University of Oxford, Cowley Place, Oxford, OX4 1DY, UK. Email: Daniel.devine@st-hildas.ox.ac.uk
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12606 by Cochrane Portugal, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

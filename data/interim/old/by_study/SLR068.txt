@@ -1,0 +1,539 @@
+Countryside champions or urban allies? What rural and urban citizens want from elected representatives
+
+Lawrence McKay a,* , Christopher Claassen b, Petar Bankov b, Christopher Carman b
+
+a Department of Politics and International Relations, University of Southampton, United Kingdom b School of Social and Political Sciences, University of Glasgow, United Kingdom
+
+A B S T R A C T
+
+The rural-urban divide plays an increasingly clear role in many democracies. Theories suggest institutions and politicians are judged partially based on how people perceive them to represent their kinds of communities. However, the criteria they use for rural/urban representation, and the weight they give it in political choice, remain obscure. What do rural and urban citizens want from their elected representatives? Do rural voters prefer rural ‘champions’ as their representatives? Are urbanites equally drawn to ‘pro-urban’ politicians? We use a pre-registered candidate choice conjoint experiment in Britain with a large rural oversample (n = 3270), varying politicians’ residential history, engagement with rural/urban interest groups, affective stance towards rural/urban areas, and advocacy on behalf of rural/ urban areas beyond the constituency. Consistent with theory, ruralites generally place greater emphasis on place-based representation. They reward candidates with histories of rural residence (while urbanites do not value urban residence), and for advocating for similar areas outside the locality. They place greater value on politicians working with interest groups representing their area type. Ruralites are also more rewarding of positive in-group affect and unlike urbanites, do not punish candidates for negative, resentful affect about outgroup areas. These effects are pronounced among resentful ruralites, as they tend to favour candidates with an explicitly rural focus of representation.
+
+1. Introduction
+
+The rural-urban divide has been firmly re-established as a significant political cleavage in 21st century politics. Recent studies have demon­ strated substantial political divides between urban and rural areas in Western democracies, marked by rural discontent (Mitsch et al., 2021; Kenny and Luca, 2021), divergences in worldviews (Maxwell, 2019), and support for different kinds of political parties (Taylor et al., 2024), with urbanites shifting towards ‘new left’ (especially Green) parties and ruralites towards ‘new right’ (largely, populist radical right) parties (Huijsmans and Rodden, 2025). Beyond these attitudinal and partisan divides, there is growing evidence that place itself shapes political judgments: citizens evaluate politicians and institutions based on their perceived connection to rural or urban communities (Cramer, 2016). Yet, while much of the literature focuses on rural resentment and a perceived lack of representation, we know far less about the underlying demand for representation of rural and urban identities in the first place.
+
+This study investigates whether voters actively seek representation tied to their rural or urban identity – what we term place-based repre­ sentation. While existing work highlights expressions of rural discontent (Cramer, 2016) and political actors’ strategic appeals to rural areas (Stoll, 2010; Dolinsky, 2023; Haffert et al., 2024), we lack systematic
+
+evidence on what rural and urban voters expect from their representa­ tives beyond traditional forms of local representation (e.g., Campbell et al., 2019a,b). Given that rural and urban identities extend beyond geographic constituencies, how do voters expect their representatives to embody or advocate for these identities?
+
+We address this oversight by examining both the nature and intensity of demand for place-based representation. We argue that, like any other constituency for representation, such as ethnic groups, political actors can find different bases for their ‘representative claims’ (Saward, 2010), from descriptive commonalities to interest-based appeals. We propose that there are at least four ways that voters can be represented as rural or urban residents: when representatives share their rural or urban iden­ tities (descriptive representation), engage with relevant interest groups (organised representation), advocate for the interests of rural or urban areas beyond the constituency (surrogate representation), or take af­ fective stances towards their communities (affective representation). Given the relative strength of rural as opposed to urban identities, we argue that representatives for more rural districts are faced with stron­ ger expectations for place-based representation.
+
+We test these expectations using a pre-registered conjoint experi­ ment fielded in a British survey, including a large rural oversample. We find that candidate support is significantly influenced by place-based
+
+* Corresponding author. Department of Politics & International Relations, Social Sciences, University of Southampton, Southampton, SO17 1BJ, United Kingdom.
+
+E-mail address: l.a.mckay@soton.ac.uk (L. McKay).
+
+Contents lists available at ScienceDirect
+
+Electoral Studies
+
+journal homepage: www.elsevier.com/locate/electstud
+
+https://doi.org/10.1016/j.electstud.2025.102937 Received 9 September 2024; Received in revised form 14 February 2025; Accepted 17 April 2025
+
+Electoral Studies 95 (2025) 102937
+
+Available online 28 April 2025 0261-3794/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).
+
+representation, even when cues about candidate party, constituency service and localness are given. Specifically, ruralites prefer represen­ tatives who have lived in rural areas, who promise to work for all rural areas (not just those in the constituency), who engage with rural interest groups, and who make positive affective appeals about rural areas, although they do not respond to negative affective appeals about the urban outgroup. By contrast, urbanites respond positively only to the interest group appeal, and favour a positive over a negative affect to­ wards the rural outgroup. These results are substantially moderated by the two dimensions of place-consciousness - identity and resentment. Specifically, as predicted, place consciousness fuels demand for rural representation, but has a more variable role in demand for urban rep­ resentation. In this respect, we complement literature regarding the different sources and consequences of rural and urban place identity (Borwein and Lucas, 2023; Munis, 2022; Dawkins et al., 2023).
+
+The results have two main implications. First, they indicate a latent demand for rural and, to a lesser extent, urban representation, which supports the interpretation of urban-rural divides as a meaningful po­ litical cleavage rather than a second-order effect of other cleavages. Second, candidates in rural districts can benefit from place-based ap­ peals or, indeed, potentially lose out if constituents gain knowledge suggesting low willingness or ability to represent rural areas. This cre­ ates a more complex challenge, sitting alongside and sometimes in tension with other external demands and internal preferences of who and how to represent. In the conclusion, we unpack both observations in greater depth.
+
+2. Literature and theory
+
+2.1. Urban-rural divides: an overview
+
+There is a growing awareness that place matters in contemporary politics, with the gap between rural and urban places arguably the most salient geographic divide. Gethin et al. (2022) find that rural areas across 21 Western democracies are more likely to vote for con­ servatives/nationalists, while left/green parties do better in cities. In the US in particular the divide has been growing (Rodden, 2019; Gimpel et al., 2020). In Europe, too, various elections reveal this cleavage, as discussed by Ford and Jennings (2020). The advances made by right-wing populists, such as those of the National Rally in France, have often been in rural/peripheral areas. Divergence in behaviours is tied to a values divide between cosmopolitans and nationalists, with immi­ gration the primary issue at hand (Maxwell, 2019, 2020). There is evi­ dence that rural areas of Europe may lack trust in government and satisfaction with democracy compared to urban ones (Mitsch et al., 2021; Lago, 2022).
+
+Cramer (2016) argues, in the US context, that the discontent expe­ rienced in rural areas in particular is rooted in the beliefs that ruralites hold about rural and urban areas. Rural areas, she argues, are charac­ terised by a place-based political ‘consciousness’, which encompasses a strong sense of in-group identity with a resentment based on perceived spatial injustice. This consists of three elements: a sense of cultural distance from (and disrespect by) urbanites, a perception that resources are unfairly shared, and a belief that rural areas are ignored and discriminated against by those in positions of political authority. This is, as Shea and Jacobs (2023) discuss, a nationalised phenomenon, rooted in rural depopulation, economic and social crises (such as opioids), a more nationalized media environment, and conservative political messaging. Concerns that once would have been understood as local and particular are now perceived in terms of a struggle over wider society and politics.
+
+The political or representational dimension discussed by Cramer is most relevant here. Empirically, Munis (2022) shows that many rural Americans feel that ‘politicians are unconcerned with problems affecting rural areas’, while ‘some urbanites resent electoral rules that advantage rural areas and diminish their voice’ (2022: 1058). He finds that place resentment encompasses views such as ‘urban areas have too much say
+
+in [R state] politics’ (2022: 1065), and that such resentments are stronger in rural areas, with urbanites’ resentment of rural areas being considerably weaker. Similar findings have emerged from a five-country European study (Claassen et al., 2025). In the Netherlands, place resentment has furthermore been demonstrated to be the key link be­ tween geography and populist/anti-immigration attitudes (Huijsmans, 2023; De Lange et al., 2023). In the US context, place-based resentment has been associated with vote choice and partisan identification (Jacobs and Munis, 2023; Trujillo and Crowley, 2022).
+
+The emergence of place resentment as a theoretical link between place and politics has deepened our insight into urban-rural divides in politics, and clearly speak to a perceived lack of representation felt especially in rural areas. What is much less clear is the extent of demand for representation on the basis of place (and the relative level of demand among urbanites and ruralites), and specifically how urbanites and ruralites want to be represented. Only by answering these questions can we begin to anticipate how politicians might gain an electoral advantage from acting as rural or urban representatives.
+
+2.2. Why place-based representation?
+
+The classic group consciousness literature predicts that a ‘commit­ ment to collective action’ would arise from group consciousness, resulting in various ‘pressure tactics’ (voting, lobbying, demonstrations, etc.) becoming an accepted means for political action (Miller et al., 1981). In terms of effects on voting, the ‘politics of presence’ literature highlights that group consciousness (particularly ‘linked fate’), is a powerful motivator for minority ethnic groups and women to choose candidates with the same traits (e.g. McConnaughy et al., 2010; Schildkraut, 2013). This does not imply that group consciousness mo­ tivates demand for descriptive representation alone: rather, it drives expectations that politicians should promote group interests, be responsive to the group, and counter cultural threats, among other things (Reher and Evans, 2024).
+
+Existing research demonstrates that the rural-urban divide is a case of asymmetric polarisation. Rural areas have a stronger ‘place con­ sciousness’, which is found for both identity and resentment: rural res­ idents are more attached to their rural identity than urbanites are to an urban one, while place resentments are stronger in rural than urban areas (Munis, 2022; Huijsmans, 2023; De Lange et al., 2023; Claassen et al., 2023, 2025). Rural consciousness is likely to have similar causes across many advanced democracies, including continued depopulation trends which, as well as creating a sense of decline, leave ruralites with less political power. As Haffert et al. (2024) discuss, the respective strength of rural/urban group consciousness fits the pattern of other ‘dominant’ and ‘subordinate’ groups, in which members of subordinate groups draw sharp ingroup-outgroup distinctions while members of dominant groups reject antagonistic framings. Urban group conscious­ ness may also be weaker on account of greater social diversity and neighbourhood segregation (Enos, 2017), lower trust in local commu­ nities (Sørensen, 2016; McKay et al. 2024), divides between cities/towns (Jennings and Stoker, 2018) or suburbs/urban centres (Borwein and Lucas, 2023), and individualistic ‘self-enhancement’ values among ur­ banites (Weckroth and Kemppainen, 2023).
+
+Aligned with this asymmetric polarisation, our expectation is that ruralites will show a higher latent demand for place-based representa­ tion. We now set out what, specifically, they might be expected to de­ mand from their representatives.
+
+2.3. Representing rural and urban areas
+
+How might ruralites and urbanites differ in their preferences for how they are represented? In this section we explore four ways that place- based representation might manifest in group-based theories of politi­ cal representation: descriptive representation, where representatives shared characteristics or experiences with those represented, i.e.,
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+2
+
+ruralites or urbanites; surrogate representation, where representatives broadly represent the interests of, e.g., ruralites in the national arena rather than strictly their own constituency; organized representation, where representatives work with civil society groups that champion the interests of rural or urban areas; and affective representation, where representatives appeal to the identities and emotions of rural or urban residents.
+
+While other dimensions of representation discussed in the wider literature could potentially be examined, we focus on these for two main reasons. First, these dimensions involve (or, at least, can imply) the representation of specific social groups (including geographically defined groups, such as urban/rural) in a way that not all dimensions of representation do. For example, we do not assess the extent to which respondents might favour Mansbridge’s ‘’gyroscopic’ representatives (2003) - namely those who favour their own judgment (over that of their constituents) and are simultaneously not responsive to constituents’ sanctions. Whilst certainly a useful formulation of how some MPs may conceive of the representational relationship, it is less clearly linked to the concept of social group representation we are assessing in this paper. Second, these dimensions are of particular interest given the underlying ‘place consciousness’ that we expect to motivate desire for place-based representation; this especially applies to affective stances.
+
+Descriptive representation refers to the idea that individuals with a shared group identity tend to prefer to be represented by someone who mirrors the group in experience or characteristics (Pitkin, 1967). Mansbridge has argued that descriptive representation may particularly enhance substantive representation in the context of mistrust and/or unarticulated interests, and in those contexts demand for descriptive representation may be particularly pronounced (Mansbridge, 2003: 628). Fisher and colleagues have shown demand for descriptive repre­ sentation amongst some racial ethnic groups in the UK through evidence of candidates over-performing with co-ethnic voters (Fisher et al., 2015). Others have tested causality via mechanisms such as conjoint experiments, finding female candidates are preferred by 3 pts among women and just 1 pt among men (Schwarz and Coppock, 2022). Importantly for our work, Childs and Cowley (2011) have demonstrated evidence of place-based demand for descriptive representation. They find that people tend to prefer their parliamentary representatives to be local to the area, something that has been shown both in experimental and real-world settings (Evans et al., 2017; Campbell et al., 2019a,b; Schulte-Cloos and Bauer, 2023) and may be more decisive for rural than urban voters (Blais et al., 2003). We therefore propose the following descriptive representation hypothesis.
+
+H1. Rural residents will prefer representatives with a history of rural living.
+
+Some of the classic work on political representation posited that voters may also demand a geographic ‘representational focus,’ where representation can be conceptualised as focusing on local, constituency, regional or national levels (Wahlke, 1962; Eulau and Karps, 1977). A wide array of empirical research discusses what elected representatives should focus on from both the elite and public perspective (Wahlke, 1971; Eulau and Karps, 1977; Jewell, 1985; for UK see Norton and Wood, 1993; Judge, 1999; Carman, 2006), although rarely deals with the urban-rural dimension. There is however much research showing that voters prefer a local focus (Bengtsson and Wass, 2011; Andr´e et al., 2018; Hansard Society, 2010; Campbell and Lovenduski, 2015; Vivyan and Wagner, 2015) and that MPs can benefit when they adopt this focus (Grant and Rudolph, 2004; Box-Steffensmeier et al., 2003; Martin, 2010; Chiru, 2018). However, MPs’ actions may not only be focused on their constituency, particularly if they can identify policy areas that have a substantial impact on other constituencies like theirs. For example, Kerby and Blidook, 2011 and Papp (2021a) find that MPs in Canadian and Hungarian rural districts are more likely to ask questions about agriculture. Furthermore, there is evidence that such strategies matter. Papp (2021b) relates these specific behaviours to electoral outcomes, finding that voters in rural areas reward MPs for agriculture questions
+
+(while those in urban areas actually punish them).
+
+There are two distinct ways such a representational focus might play out when it comes to representing rural or urban areas. First, rural voters might expect MPs to not just fight for rural areas in their constituency, but also for rural areas across the country (and similarly for urban voters). We refer to this as ‘surrogate representation’, following Man­ sbridge’s description of surrogate legislators as ones who ‘represent constituents outside their own districts’ (2003: 515).1 We therefore propose the following hypothesis.
+
+H2. Rural residents will prefer representatives who will act as a surrogate representative for rural areas nationally.
+
+Representational focus is not only shown through Parliamentary activities, but through MPs’ decisions about who to engage with and respond to. The second way to demonstrate focus is to engage with specific interest groups that are themselves seen as representing the group in question (see, e.g., the discussion of group-based representation in Eulau and Karps (1977: 248)). As Grossmann (2012: 8) discusses, these organisations offer organized representation to groups of all sizes and types (though with varying levels of success), and may become ‘taken for granted as surrogates for public groups and perspectives’. In so doing, they influence not only decision-makers, but the general public too. The research on interest group endorsements is relevant: individuals can use an endorsement ‘as a heuristic for whether the candidate would be a good representative for their interests’ (Arceneaux and Kolodny, 2009: 757). Examples include the American National Rifle Association, who signal to voters about whether Congressional candidates will make good representatives for gun-owners (Gimpel, 1998). Such endorse­ ments have the capacity to affect election results (Arceneaux and Kolodny, 2009; Weber et al., 2012; Neddenriep and Nownes, 2014). Place-based interest groups (for example, the UK’s Countryside Alliance) have not been so extensively studied, but may provide a similar sig­ nalling function for rural voters. We thus expect that how responsive MPs are to rural interest groups signals their desire to represent the interests of rural or urban areas, and thereby may be a source of appeal to voters. We propose the following corresponding hypothesis.
+
+H3. Rural residents will prefer representatives who work with a rural in­ terest group.
+
+Finally, we discuss affective representation, which has evolved from symbolic representation as a newer addition to the literature. Affective representation is ‘understood as performed with emotional gestures and acts’ (Celis and Childs, 2020: 80): its theoretical appeal, as Costa (2021: 342) describes, is rooted in ‘affirmational’ and ‘negational’ identities, or appealing to ‘who one is’ and ‘who one is not’. It is recognised that people experience emotions on behalf of groups with which they iden­ tify, ‘such as anxiety if the group is perceived to be threatened, anger if the group is treated unfairly by others, or hope if the group is seen as potentially making gains’ (Smith and Mackie, 2016: 15). Politicians can therefore ‘affectively represent’ voters by appealing to the emotions that voters experience about their ingroups and outgroups, and may some­ times present their ability to emotionally connect with the group as a personal quality (Tepe, 2022). Under this theory, affective representa­ tion depends on the response invoked in those the politician is claiming to represent, as with classic symbolic representation theory (Dovi, 2018).
+
+In representing rural areas, we expect that there is a clear repertoire of emotions that politicians can draw on. For instance, they can express
+
+1 Our definition of surrogate representation here is from the MP’s perspec­ tive; from the perspective of the represented, a surrogate would be someone in another district whom they perceive to represent them (Wolkenstein and Wratil, 2021). However, attempts by one’s own representative to be a surrogate for people in other places may be valued by constituents insofar as it signals focus on a group (here, rural people).
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+3
+
+emotions of pride in the rural ingroup, drawing on its key role in rural group consciousness. Alternatively, they might express a sense of envy at the relative advantages that urban areas are perceived to have. How­ ever, we do not carry specific expectations about appeals drawing on qualitatively different emotions, and use affect to denote the broader positive or negative feelings invoked about the group (Brader and Marcus, 2013; Gadarian and Brader, 2023). As such, we propose hy­ potheses regarding two stylized attempts at affective representation.
+
+H4. Rural residents will prefer representatives with a positive affect towards rural areas.
+
+H5. Rural residents will prefer representatives with a negative affect to­ wards urban areas.
+
+To conclude our theoretical section, we restate the expectations presented in the previous section, as testable statements. H6 (pre- registered) presumes that we will find differences in levels of group- consciousness between urban and rural areas, which will be reflected in their respective levels of demand for representation. H7 (not pre- registered, but a core assumption underlying the pre-registered hy­ potheses) directly tests the applicability of group-consciousness theories to urban-rural divides.
+
+H6. Urban residents will show weaker preference for urban representation than rural areas do for rural representation.
+
+H7. Urban/rural residents stronger in place consciousness will show stronger preference for urban/rural representation.
+
+2.4. Data and method
+
+We test these theories using a candidate choice conjoint experiment, presenting each respondent with pairs of hypothetical candidates and asking which they would rather have as their Member of Parliament. The profiles of candidates are randomly generated from a series of at­ tributes, with alternate levels for each attribute which vary (among other things) how candidates would act as urban or rural representatives.
+
+2.4.1. Sample
+
+The experiment was fielded in the UK (excluding Northern Ireland) from 23 November – December 22, 2022 by YouGov, as part of an online recontact survey (n = 3270) from a survey conducted 3 October – October 19, 2022 (n = 4069). One distinct challenge in understanding the urban-rural divide in highly developed democracies is that ruralites tend to represent a minority of the population: for example, commonly- used World Bank estimates place the UK’s rural population at 16 %. As such, most nationally-representative surveys contain only small rural samples, which is a problem for both descriptive and inferential analysis: in these studies, differences in sample size could make it much harder to find any effect of representation attributes for rural places compared to urban ones. We therefore set quotas, based on Office for National Sta­ tistics (ONS) classifications, to obtain a large rural oversample. Urban/ rural context is measured at a highly granular level: ONS Output Areas (OAs), which depending on UK nation contain a minimum of 25 and a maximum of 250 households. Roughly 44 % of our sample falls in rural OAs and 56 % in urban ones.
+
+While case selection was largely driven by convenience, we believe it is also justified by the fact that the UK is a case where place-based ap­ peals can - and do - occur. It has a prototypical candidate-centred electoral system and it is in such systems where the candidates’ own electoral appeals (including place-based appeals) are most relevant. Although central party organisations provide templates, candidates have considerable leverage to shape election material (Milazzo and Townsley, 2020) and define their ‘home style’ (Fenno, 1978). From our own review of campaigning material in five randomly selected rural and urban constituencies (Appendix A), using open data on election leaflets,
+
+we find evidence that candidates engage in place-based appeals com­ parable to prior studies of the US (Jacobs and Munis, 2019).
+
+In four out of five rural constituencies, rural appeals were found. Notable examples of rural appeals were in the campaigning material of Geoffrey Cox MP, who pledged to ‘back our rural communities’, and provided quotes from supporters as proof: one from a farmer saying he ‘backs the rural community’ and had helped with managing their cattle movements, and another from a rural community transport group dis­ cussing his efforts lobbying ministers over rural transport issues. Another candidate mentions living in a ‘beautiful rural village … with her family’. Equally, 4/5 urban constituencies saw some form of urban appeal to towns, with several mentioning protecting and regenerating town centres - ‘the heart of our community’ according to one candidate, who also stated that ‘for too long, Labour has neglected these areas’. There were no appeals to urban areas in the abstract, however, sug­ gesting there is less political mobilisation of urban identities compared to rural identities. Even within these constituencies, this exercise is limited (as the database of leaflets is incomplete), but provides some illustrative evidence that candidates engage in place-based appeals.
+
+Within our survey, respondents are routed to either an urban or a rural version of the conjoint experiment depending on their responses to a filter question. The filter question, which appears first in the survey, asks people how they would describe the place they live in: ‘Very urban; somewhat urban; more urban than rural; more rural than urban; somewhat rural; very rural’. Respondents describing their area as ‘very/ somewhat/more rural’ are routed to the rural version, and those describing it as ‘very/somewhat/more urban’ to the urban version. This yielded a sample of 1578 urban respondents and 1692 rural re­ spondents. The distribution of respondents is shown in Fig. C1 (Ap­ pendix). While over 4 in 5 respondents match the official classifications of their place type, we find more urbanites self-defining as rural (26 %) than ruralites self-defining as urban (11 %), in line with other research (Nemerever and Rogers, 2021Nemerever and Rogers, 2021).
+
+We set respondents four tasks (repetitions of a forced-choice ques­ tion), asking respondents to evaluate hypothetical parliamentary can­ didates. Combined with the large sample size, this gives a high level of power for detecting effects of the conjoint attributes within the full rural and urban samples. However, we lose some power in testing for inter­ action between rural/urban and conjoint attributes, as required for H6.2
+
+2.4.2. Conjoint design
+
+The attribute levels assigned are used to populate a description of each of the hypothetical candidates, written out in bullet points. Candidate information is constructed such that it can apply to either incumbent or challenger MPs (since candidate choices for any seat will never involve two incumbents). The structure is as follows:
+
+Candidate A is a [PARTY] candidate.
+
+• [GENDER1] is generally considered to be [POSITION]. • [GENDER1] recently moved to the constituency. Before moving, [GENDER1] says [GENDER1] [DESCRIPTIVE]
+
+2 In a choice-based conjoint, statistical power (to detect a given effect at a given level of confidence) depends on the number of levels for a given attribute. Given four tasks and up to five levels (the maximum for any of our variables of interest), for a 5 percentage point effect size at p < 0.05, the rural sample has 96 % power and the urban sample 95 %. Power for other attributes, such as the binary ‘interest group’ attributes, will naturally be even higher. (Calculations from https://m-freitag.github.io/cjpowR_shiny/).We also ran power calcula­ tions with respect to the interaction of attributes with urban/rural, given the post-hoc observed distribution of the subgrouping variable. Given a 0.05 effect size, we have 98 % power for the interest group attribute, 91 % for ingroup/ outgroup, 82 % for surrogacy, and 73 % for descriptive representation. This suggests that we are modestly underpowered for detecting interaction effects on descriptive representation; however, power for all other attributes of interest is acceptable.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+4
+
+• In a recent newspaper interview, [GENDER1] said [AFFECTI­
+
+VE_INGROUP], while [AFFECTIVE_OUTGROUP]. • [GENDER1] said that if elected, as well as meeting and helping in­
+
+dividual constituents, [GENDER1] would use [GENDER2] speeches in parliament to [SURROGACY]. • [INTEREST_GROUP].
+
+Fig. 1 presents an example of a profile pair that was encountered during testing, whilst Table B1 (Appendix) documents the attributes and levels utilised in each version of the conjoint.
+
+This approach builds on several successful innovations in recent literature on representation. Most of the attributes of interest are pre­ sented as quotes or paraphrases from the candidate rather than factual and objective traits. In this respect we draw from literature on populism (Dai and Kustov, 2022; Casiraghi et al., 2024; Ferrari, 2024) and polarisation (Costa, 2021), in which candidate populism and out-party affect are manipulated via their statements. These approaches focus on candidate self-presentation, but we add to this by using statements from a third party (an interest group) which, as we have argued, can in the real world have some sway over how far the candidate is credible as a group representative.
+
+Furthermore, the information is not conveyed through a standard conjoint table, where the ‘levels’ of each attribute are clarified through a description of the attribute in the table’s leftmost column, but through a short vignette, following the approach of Vivyan and Wagner (2015, 2016) and Campbell et al. (2019a, 2019b). This makes the complex information in the attribute levels more understandable. We also took steps to address the problem, described by Dafoe et al. (2018), that survey respondents may infer unintended information from experi­ mental manipulations. In particular, we took steps to mitigate two potentially problematic inferences of this sort. The first is that describing a candidate as either urban or rural might suggest a local (or non-local) representative, in which case the perceived localness would likely be a strong driver of candidate preference (Campbell et al., 2019a) as opposed to their perceived ruralness or urban-ness. We therefore state that all candidates ‘recently moved to the constituency’ as a fixed feature of the account. Second, respondents might infer different degrees of constituency service effort from candidates’ characteristics and state­ ments, another substantial driver of candidate preferences (Vivyan and Wagner, 2015, 2016). As such, we fixed all accounts to include para­ phrased statements that candidates would meet and help individual constituents if elected.
+
+At the point of designing the experiment we were unaware of other conjoint experiments on place-based representation and, as such, attri­ butes and levels are of our own design. To manipulate descriptive rep­ resentation, we vary a representative’s ‘history’ of rural or urban living, which likely corresponds with the extent of their shared experiences with ruralites/urbanites. Using multiple levels (‘only’/’mostly’ urban, ‘only’/’mostly’ rural, and half-and-half) moreover allows us to under­ stand how demanding voters’ preferences are in the dimension of rural vs urban descriptive representation.
+
+We independently manipulated affect towards the ingroup and affect towards the outgroup, which allows us to separately examine the effects of each. To develop ingroup and outgroup affect statements, we drew on the work of Cramer (2016) on rural resentment. Specifically, regarding outgroup statements, we used a ‘resentful’ statement about outgroup areas as the ‘negative’ outgroup affect treatment, with an empathetic or inclusive statement being the positive treatment (a third, neutral state­ ment is also included). For the ‘ingroup’ statements, we used the notion of a given area’s importance for the country at large (‘this country only succeeds when [ingroup] areas succeed’) as the positive statement, with a relatively ‘soft’ internal criticism (‘[ingroup] areas need to face up to how society is changing’) used as the negative statement. This is intentionally moderate for realism.
+
+For the surrogacy dimension, which refers to the idea of a repre­ sentational focus on ingroup areas in general (beyond the constituency),
+
+we manipulated how the MP says they would use their speeches in Parliament, which is a substantial part of how MPs signal a represen­ tative focus (Killermann and Proksch, 2013; Kellermann, 2016). We present four alternatives: in one, the candidate is presented as focusing exclusively on their constituency, while the other three include a focus on either ingroup areas, women, or ethnic minorities – all in addition to a constituency focus. These alternative foci were selected for their relevance in the broader literature on representation. In addition, add­ ing an ethnic minority level helps isolate the effect of place type rep­ resentation, as rural/urban areas are possibly racially coded in the UK, as they are in the United States (Cramer, 2016).
+
+Finally, we manipulate candidate group-based representation asso­ ciated with the respondent’s (rural/urban) ingroup. This, we argue, can be a compelling signal of the candidate’s representational focus on the ingroup.3 We therefore supplied information on whether the candidate had chosen to meet with the group as a signal of responsiveness to the concerns and communities the interest group purports to represent. The groups described here are invented, but are meant to evoke pressure groups such as, on the rural side, the Countryside Alliance and the CPRE (formerly Campaign to Protect Rural England), which have significant media presence and close links to many MPs (Brooks, 2020; Ward, 2002), and on the urban side, organisations like Key Cities, which claims to ‘reflect and represent urban living in the UK’ (Key Cities, 2024).
+
+We include a parsimonious list of control attributes: gender, party, and ideological position. Gender appears in almost all conjoints and, in the real world, almost always be inferred by voters from candidate name alone, meaning that gender can always be implicated in voter choices. Party is a powerful heuristic for voters and voter knowledge of candi­ date’s parties is assured in the real world through the ballot paper. We chose the two main parties (Labour/Conservatives), and in Wales and Scotland also included the main nationalist party. Position reflects the possibility of Downsian proximity voting as opposed to the more identity-driven mechanisms envisioned by our theory. However, to avoid unrealistic combinations, we constrained the levels to ‘left’ and ‘centre’ for Labour, Plaid Cymru and SNP candidates, and to ‘centre’ and ‘right’ for Conservative candidates.4 This approach follows that of Campbell et al. (2019b).
+
+2.4.3. Method of analysis
+
+We test our hypotheses using standard conjoint analysis techniques, following the guidance of Hainmueller et al. (2014) and Leeper et al. (2020). Using linear probability models, we regress the dependent var­ iable on dummy variables for each attribute level, clustered by respondent.
+
+The conjoint literature (until recently) treated average marginal component effects (AMCE) as the quantity of interest: ‘the degree to which a given value of a feature increases, or decreases, respondents’ favorability toward a packaged conjoint profile relative to a baseline’. However, as Leeper et al. (2020) discuss, comparison of subgroup preferences is sensitive to the base categories required for AMCEs. Since there is a substantial focus on estimating and comparing subgroup preferences (initially, urban as opposed to rural, then defining sub­ groups by attitudes), we rely on conditional marginal means (CMM), which show the marginal probability of profile selection when the specific attribute level is present for a given subgroup. We check the robustness of these results by ‘subjectively rural, objectively urban’ and ‘subjectively urban, objectively rural’ respondents who, despite describing their area as rural/urban, live in an Output Area classified in
+
+3 Note that an alternative approach of interest group endorsement is unreal­ istic in the UK context, where interest groups tend to endorse party policies, not parties or candidates.
+
+4 Further support for not including ‘right-wing’ Labour or ‘left-wing’ Con­ servatives comes from Hanretty et al. (2016) who find no Conservative MP to the left of a Labour MP (but wide within-party variance in implied ideology).
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+5
+
+the opposite way by the ONS.
+
+For comparisons of rural/urban effects, we apply three statistical tests. First, we estimate the difference in conditional marginal means for specific attribute levels. Second, we test that interactions between all levels of each attribute and the urban-rural dummies are not jointly zero (omnibus test). Third, we conduct a specific omnibus test (not pre- registered), using only the levels of each attribute that should have a positive effect on preferences, of whether the difference in marginal effects between rural and urban respondents is jointly significant and greater than zero.5
+
+We conduct further exploratory analysis of preferences across other subgroups, testing for several potential moderators of the conjoint at­ tributes (including all of those mentioned in the pre-analysis plan). Crucially, we examine the moderating effects of rural (or urban) identity and resentment. To do so, we use two continuous measures, derived using item-response theory analysis of a 16-item battery (Claassen et al., 2025). Since these measures have no natural dichotomy, we preserve the original ‘scores’ (rescaled between 0 and 1) and interact them with each conjoint attribute, with separate regressions for rural and urban sam­ ples. We test H7 specifically according to omnibus tests for interactions with resentment and identity.
+
+As a precursor to the analysis, we conduct several diagnostic tests as proposed by Hainmueller and Hopkins, testing for assumptions of ‘sta­ bility’ and a lack of ‘carry-over’ and ‘profile-order’ effects. We see few and relatively trivial violations and thus make no changes to standard analytic procedures.6
+
+3. Results
+
+First, we discuss the main treatment effects (Fig. 2). Then in the next section we consider the moderating role played by identity, resentment, and other factors. Fig. 2 also presents the effects of the gender and party position attributes, offering a benchmark to judge the substantive size of the effects.7 Figure C2 (Appendix) presents the same plot alongside differences in marginal means between rural and urban areas, an indi­ cator of significance.
+
+3.1. Treatment effects
+
+Descriptive representation. Our first hypothesis concerns descriptive representation, i.e., whether ruralites would favour a candidate who has mostly or exclusively lived in a rural area and disfavour a candidate who has lived in an urban area. We find evidence supporting H1. Ruralites are less likely to support a candidate who has exclusively (CMM = 0.460) or mostly (CMM = 0.476) lived in urban areas, and they are more likely (CMM = 0.538) to support a candidate who has mostly lived in rural areas. Surprisingly, they are not as favourably disposed (CMM = 0.515) to candidates who have only lived in rural areas. There are no significant differences for urban respondents.
+
+Representational focus. Our second hypothesis conjectured that MPs who focus on representing the interests of rural areas in general (not only the rural areas within their constituency) will be more attractive to rural residents. Indeed, we find that representatives promising to fight for rural areas receive more support from rural dwellers (CMM = 0.532), supporting H2, but no corresponding effect is observed for urban areas and urban residents (CMM = 0.499). In contrast, promising to fight for constituency issues does not affect respondents’ preferences either way; fighting for women boosts urban but not rural support; and fighting for ethnic minorities reduces rural and urban support (but more so the former).
+
+Interest group engagement. We see strong, positive effects for our tests of the interest group engagement hypothesis for rural areas, supporting H3, but in this case, the effect does also apply to urban areas. Rural and urban residents strongly prefer representatives who were described as having met interest groups that champion the interests of the ingroup
+
+Fig. 1. Example profile pair.
+
+5 Specifically, these are levels 4/5 for descriptive rep., 1 for affective- ingroup, 2 for affective outgroup, 2 for surrogacy, and 2 for interest group.
+
+6 First, we examined the assumption of ‘stability’ and no ‘carryover’ effects, i. e., ‘that potential outcomes remain stable across the choice tasks … and that treatments given to a respondent in her other choice tasks do not affect her response in the current task’. As suggested, we interact the task number with the attributes. There are only five significant task effects (of a possible 102). We also test the assumption of no ‘profile order’ effects, that ‘respondents ignore the order in which profiles are presented in a given task’. In this case there are four significant task effects (of a possible 34) – however, three of these apply to less crucial attribute levels (living in rural areas ‘about half the time’ – rather than the more important ‘mostly/only’ levels – and fighting for women).
+
+7 The coefficients for SNP/Plaid politicians are omitted due to low sample size in Scotland/Wales.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+6
+
+area, i.e., rural or urban areas. The urban effect (CMM = 0.546) is slightly (and significantly) weaker than the rural effect (CMM = 0.570). Nevertheless, among both groups of respondents, the interest group treatment is among the most powerful among all those we consider.
+
+Affective representation. We proposed that affective representation could take two forms, each corresponding with a distinct hypothesis. First, that rural areas may favour positive affective appeals about rural (ingroup) areas by representatives. Second, that ruralites also favour negative affective appeals about urban (outgroup) areas by representa­ tives. We find rather heterogenous results. Regarding the first affective representation hypothesis, ruralites clearly do favour (CMM = 0.545) positive statements about rural areas (e.g., “this country only succeeds when [rural] areas succeed”) and they clearly dislike (CMM = 0.432) negative statements about their areas (e.g., “[rural] areas need to face up to how society is changing”), supporting both H4 and H5. Urbanites in contrast are more muted in their evaluations of statements about urban areas: they are no more or less likely (CMM = 0.500) to support a candidate who states that “this country only succeeds when [urban] areas succeed”, and less opposed than ruralites to a candidate who states that “[urban] areas need to face up to how society is changing”, although such a statement still has a significant negative effect on urban respondents’ preferences (CMM = 0.480).
+
+Turning to the second affective representation hypothesis, we see no effect whatsoever for ruralites: they are unmoved by either positive (CMM = 0.498) or negative (CMM = 0.497) statements about urban areas, meaning that H5 is not supported. There are, in contrast, marked effects among urbanites. They are more likely to support a representa­ tive who states that “Britain’s [rural] areas deserve to be successful” (CMM = 0.540) and less likely to support a representative who claims that “some [rural] areas have had it too good for too long” (CMM =
+
+0.441). Negative, affectively-charged statements about outgroup areas either fail to impress voters (ruralites) or actively repel them (urbanites).
+
+In sum, we find support for our hypotheses among ruralites. Rural Britons prefer representatives who have lived in rural areas, who promise to work on behalf of all rural areas (not just those in the con­ stituency), who engage with rural interest groups, and who make af­ fective appeals about rural areas. Ruralites do not, however, show particular appreciation for representatives who make rhetorical attacks. As a robustness check, we re-run models isolating respondents who are ‘objectively’ rural based on local identifiers, finding relatively similar results (Fig. C5, Appendix).
+
+We also hypothesised that urban residents would show weaker preference for urban representation compared to ruralites preference for rural representation (H6). We find support for this in three respects. First, some attributes have no effect at all - they do not favour repre­ sentatives who live in urban areas or promise to work on behalf of all urban areas. Secondly, while some attributes have an effect – specif­ ically, they support representatives who engage with urban interest groups and do not appreciate representatives who criticise urban areas – each of these effects are smaller than the equivalent for rural areas. Finally, urbanites quite unexpectedly tend to favour representatives who make positive emotive appeals about rural areas. An omnibus test finds that the interaction of urban-rural dummies and all attribute levels is jointly significant (p < 0.001), and that, for levels with theoretically positive effects on candidate choice (see footnote 9), we find that the difference in marginal effects between rural and urban respondents (rural minus urban) is jointly significant and greater than zero (p < 0.001). Attribute effects (and null effects) are consistent when only ‘objectively’ urban respondents are isolated (Figure C6, Appendix).
+
+Fig. 2. Results of the experiment – marginal means.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+7
+
+3.2. Moderating effects
+
+We now delve deeper by examining possible interactions between subjective perceptions of place and preferences for representation. We should first note that – in line with Claassen et al. (2025) – we find substantial gaps between rural and urban dwellers in their relationship to their place of living (Fig. 3). Ruralites are more likely to identify closely with rural areas in general, to experience ‘place resentment’ directed at outgroup (urban) areas, and to feel belonging to their local area and their region. Thus, to some extent, the observed tendency of ruralites to demand rural representation could reflect this stronger relationship to place. However, it may also be that factors such as identity have different effects on the demand for representation in urban and rural areas. Thus, we examine the effects of moderators within urban and rural groups.
+
+Since the moderators have no natural dichotomy, we preserve the original scores (albeit rescaling them between zero and one). For simplicity of presentation, we construct graphs similar to Fig. 1 by calculating the conditional marginal mean (CMM) at the 5th and 95th percentile, treating these as ‘low’ and ‘high’ values of place conscious­ ness. In the Appendix, for specific attribute levels, we also present plots of interactions (Figures C7-C10, Appendix): conditional marginal means over the entire range of the moderator (and their confidence intervals), along with a p-value for the underlying effect (the marginal effect of a unit change in the moderator when the given attribute level is present).8
+
+Finally, for all attribute levels, we present a table containing the coef­ ficient and p-value for a marginal effect of a unit change in the moder­ ator (Appendix, Table C1-C4). In the following discussion, remarks regarding interaction effects are drawn from the results in these tables.
+
+3.2.1. Place consciousness
+
+We first examine the consequences of place identity, a dimension of place consciousness that expresses a strong identification with, and feeling of connection to, people and places in the ingroup. Results are shown in Fig. 4.
+
+The only attribute for which identity was not a significant moderator (p < .05 threshold), in either rural or urban samples, was interest group meetings, while for other attributes, it plays some role (often diverging in effects in urban and rural samples). Rural respondents with high rural identification express generally stronger views on the candidate’s places of residence than those with low rural identification: they are less likely to choose candidates who lived only in urban areas (interaction, p < .05). Place identity among urban respondents does not lead to clear support or opposition towards representatives with history of living in in-group or out-group places.
+
+Identity plays a mixed role when it comes to preferences over representational focus. There is no evidence that demand for a rural, or urban focus increases with identity (at the p < .05 threshold). Yet there is, surprisingly, a marked difference in preference for pure constituency focus: while people with low urban identification are more supportive (interaction, p < .05) of candidates that are willing to fight for their constituency (CMM = 0.533) than those with high identification (CMM = 0.476), it is exactly the reversed dynamics when it comes to rural respondents: high rural identification fuels stronger support (interac­ tion, p < .05) for representatives standing for their constituency (high ID: MM = 0.536; low ID: MM = 0.482). There is also a striking diver­ gence in how identity affects attitudes to ethnic minority focus: those with high rural identification are less favourable towards representa­ tives that support ethnic minorities (p < .01).
+
+Regarding affective appeals, substantial differences are found by level of identity. For ingroup statements, high identity ruralites are strongly favourable to the positive and unfavourable to the negative statement, more so than low identity ruralites (p < .01 for both in­ teractions). Urbanites, on the other hand, do not respond differently to
+
+Fig. 3. Place-related attitudes among rural and urban respondents.
+
+8 We do not present marginal effects for the level over the moderator (i.e. conditional AMCEs), since these rely on comparison with a base category which may itself differ in selection probability over the moderator.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+8
+
+Fig. 4. Subgroup effects and tests of moderation by high and low place identity.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+9
+
+any statement based on level of place identity. For outgroup statements, we see that ruralites respond in opposite ways to the negative statement based on their level of identity, cancelling each other out: high identity ruralites are more supportive of the candidate criticising outgroup areas, while low identity ruralites punish the candidate (interaction, p < .001). Even high identity urbanites, however, did not reward the negative outgroup statement and were more likely to support candidates making positive than negative statements. Low identity urbanites were highly punitive of candidates making the negative statement, driving the negative effect for urbanites as a whole (interaction, p < .001).
+
+For both groups, place resentment plays a similar role to that seen for place identity (Fig. 5). The main difference between these two subjective perceptions of place concerns response to the outgroup statements. While high identity urbanites still rewarded positive outgroup state­ ments (and punished negative ones), high resentment urbanites marginally preferred candidates making negative statements (interac­ tion, p < .001). Similarly, while both high and low identity ruralites showed a neutral response to the positive outgroup statement, high and low resentment ruralites diverge: high resentment groups punishing the statement and low resentment groups rewarding it (interaction, p <
+
+Fig. 5. Subgroup effects and tests of moderation by high and low place resentment.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+10
+
+.001). Additionally, resentment does not moderate urban preferences for candidate focus in the same way that we saw for identity.
+
+With minor exceptions, the results across levels of place conscious­ ness appear logical and largely consistent with existing theoretical frameworks. Within the umbrella of ‘consciousness’, there is substantial correlation between identity and resentment dimensions which, in itself, would lead to the prediction that many of their effects on representa­ tional preferences would be the same. However, as we might expect, outgroup denigration only appealed to high resentment and not high identity groups. Furthermore, the role of urban and rural place con­ sciousness is also broadly predictable with respect to its points of divergence. Rural consciousness motivates demand for descriptive rep­ resentation in a way that did not occur for urbanites (which perhaps matches with rural consciousness involving subjective political under­ representation by an urban ‘elite’). Furthermore, rural and urban con­ sciousness involves a different sense of ‘us’ and ‘them’, in which urban consciousness can easily include ethnic minorities within the ingroup and rural consciousness is likely to exclude them. Thus, we may see results as above, in which rural consciousness is associated with the rejection of ethnic minorities as a focus of representation, whereas urban consciousness is associated with accepting (if not embracing) a minority focus.
+
+To return to the overall moderation (rather than attribute-by- attribute findings), H7 stated that urban/rural residents stronger in place consciousness will show stronger preference for urban/rural rep­ resentation. We evaluate this through a series of omnibus tests. First, we test whether the interactions (i.e. product terms) of identity/resentment and all attribute levels (including levels that may have negative in­ teractions with identity/resentment) are jointly significant. We confirm that this is the case for identity and resentment both within rural and urban samples (p < .001). To ascertain that the moderation is consistent with theory, we conduct a second set of tests. Using only the levels of each attribute that should have a positive effect on preferences, we test whether the marginal effect of identity/resentment is jointly significant and greater than zero when the attribute is present for the candidate (naturally, the average marginal effect of identity/resentment for choosing a profile is near-zero).9 Among ruralites, the joint effect is positive and highly significant for identity and resentment (p < .001). Among urbanites, the joint effect is positive but not significant for identity (p = .087), yet for resentment the joint effect is positive and significant (p < .010). Therefore, H7 is largely supported: place con­ sciousness is associated with greater demand for representation. Furthermore, we find that the moderation is specific to feelings about rural/urban areas in general, rather than about one’s local area: thus, this is not merely an effect of local identity (Figure C11, Appendix).
+
+3.2.2. Parties and partisan preference
+
+We also conducted an exploratory analysis to test whether effects differed based on candidate party. One possibility is that the significance of offering rural/urban representation is greater for candidates of parties not typically associated with such areas; thus, we may see larger effects for Labour candidates from rural representation, and (more debatably) larger effects for Conservatives from urban representation.10 We find
+
+only one notable interaction: people are less likely to support a Con­ servative candidate who uses negative affect against urban areas, while Labour candidates are not punished (Appendix, Figure C12).
+
+We also tested effects based on the partisan match with the candidate (i.e., whether respondent party identification matches or conflicts, or whether the respondent has no party identification at all). It is possible that non-aligned voters respond more to the attributes (since they lack the strong heuristic of party preference for candidate choice). It is also possible that partisans respond to the attributes differently: given motivated reasoning, people may respond more to positive traits of their party’s candidates and to negative traits of opposing party candidates. We encounter some moderation effects for the ingroup affect and in­ terest group traits (Appendix, Figure C13). In rural areas, negative ingroup affective messages are associated with a greater decrease in candidate support among voters with no party preference (compared to those preferring the candidate’s party). Additionally, interest group meetings are associated with a smaller increase in support among voters preferring another party (as opposed to the candidate’s party). Both effects match with these expectations, but it is not clear why effects are not found over a broader range of attributes, nor why they occur in rural but not urban samples.
+
+4. Conclusion
+
+A growing body of literature has established, across many Western democracies, that rural and urban areas are politically divided; that people in rural areas possess stronger place-based identities and re­ sentments; and that ruralites perceive themselves to be poorly repre­ sented in the political system. However, we are unaware of prior literature dealing with what different types of places expect from their representatives. How far do people want rural or urban champions, and what specifically is expected of them? Based on a review of the literature on rural-urban divides and demands for group representation, we devise four desirable dimensions of rural/urban representation (with the last, affective representation, split into ingroup/outgroup sub-dimensions). Using an innovative, vignette-based candidate choice conjoint, we test revealed preferences among rural and urban populations in the UK (which is not the likeliest case to find substantial effects).
+
+To briefly summarise our findings, we find 1) rural but not urban demand for descriptive representation; 2) stronger rural than urban demand for candidates to focus on their area type; 3) rural but not urban demand for positive affective rhetoric towards their area type; 4) urban but not rural punishment of negative affective rhetoric towards ‘the other side’. We find that place consciousness moderates these effects in mostly predictable ways, tending to motivate higher demand for rural representation, with more limited effects on demand for urban repre­ sentation. Effects were largely similar between candidates of different parties as well as between party supporters, opponents and non-aligned voters.
+
+We highlight three significant implications of our study, as well as some limitations, and potential routes to build on our contribution.
+
+The main contribution of this study is to highlight this latent demand for rural representation in and of itself – leaving aside its external val­ idity to real electoral choices. The fact that rural representation is clearly desired, particularly by those higher in rural identity and resentment, is a substantial vindication of literature discussing perceptions of political deprivation in rural areas (despite rather debatable urban-rural gaps on conventional measures, such as political trust – see McKay et al., 2023). Likewise, the findings further validate urban-rural divides as a mean­ ingful political cleavage (Ford and Jennings, 2020), involving a perception of group identities and interests and a desire to see them politically represented.
+
+A further significant implication of this study (if some external val­ idity is assumed) is that, in rural areas, candidates can potentially gain from positioning themselves as representatives for rural areas more generally, rather than merely for their district. Here, ‘in rural areas’
+
+9 This approach, although somewhat unintuitive (since the categorical pre­ dictor variables – the attributes – are treated as if they were the moderator) avoids the problems of estimating (and comparing) the marginal effects of at­ tributes at specific values of the moderators, which is likely to increase the standard errors when a difference is taken.
+
+10 While Labour are likely to be highly associated with urban areas (given their reliance on urban voters), it is less likely for the Conservatives to be strongly associated with rural areas (to the expense of urban areas) – surveys conducted under a Conservative government suggested that a plurality of voters saw government as (mildly) urban-biased and few saw it as rural-biased. (McKay et al., 2024a,b).
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+11
+
+should be taken to mean areas where people predominantly conceive of themselves as rural, which may not precisely match a census definition; candidates (and their local parties) may thus have to discover or intuit the extent to which this fits for their district. By contrast, candidates for urban areas have less to gain from positioning as representatives of urban areas and interests. The exception is that both urbanites and ruralites consider it desirable for candidates to engage with organisa­ tions representing urban/rural interests (although here, still, urbanites reward it less). One scope condition to be noted is that the electoral benefits are more likely to apply in more candidate-focused systems, i.e., single-winner district, plurality/majority systems (and could not apply in closed-list proportional representation). However, these dynamics could apply even in mixed systems, judging by other literature on the rewards to representatives’ activity (Martin, 2010).
+
+On one level, this presents advantages and opportunities to candi­ dates for rural areas. In particular, this may be the case for candidates from economically and/or socially left-wing parties, since they may be more incongruent with the district’s median voters on policy/ideolog­ ical grounds (Claassen et al., 2025; Maxwell, 2019), and may thus be in greater need of non-policy appeals. It is also notable that anti-urban messages, which may be less viable for candidates of majority-urban parties, tend to be least effective. On another level, however, these re­ sults suggest candidates face significant challenges and dilemmas (apart, perhaps, from in the most urban districts). These may apply in particular to successfully elected representatives: it is possible that acting as a rural champion is not conducive with prestige or recognition among col­ leagues, party elites and leaders and that ministerial or other career goals are damaged as a result, much as we see for representatives very focused on their specific districts (Searing, 1994; Heppell and Crines, 2016; Leslie, 2018).
+
+Our findings contribute to a nascent (and mostly unpublished) experimental literature on urban-rural divides (which were unaware of when designing the experiment). Haffert et al. (2024) expose German and English respondents to either pro-urban or pro-rural appeals. They find that group appeals improve candidate evaluation among rural voters but trigger a negative reaction among urban voters, and find this is driven by dislike of antagonistic (anti-rural) appeals among the ur­ banites. Dassonneville et al. (2024) conduct vignette experiments among British voters, finding that rural/small town appeals increase support among the ingroup and produce no backlash in larger urban areas. Nadeau and Dassoneville (2024) extend this with experiments in France, testing moderating effects by perceived deservingness of rural/urban groups and the reputation of candidates’ parties for repre­ senting rural/urban areas. Lang (2024) tests for the effect of place-related cues, namely descriptive representation and substantive (issue-based) representation, finding that rural voters respond to both cues (especially when higher in rural resentment). Several of these studies include different types of urban/rural appeals, including eco­ nomic appeals, symbolic appeals (offering representation) and cultural appeals (offering respect and championing lifestyles of rural/urban areas). These directions are highly promising and, where findings are
+
+available and comparable, largely accord with our own: for instance, that ruralites responded more positively to being represented (in several of these studies) and that anti-rural framings invoked backlash among urban respondents (as in Haffert et al., 2024).
+
+Our study has certain limitations which future research could improve upon. There are some specific external validity issues: for example, we artificially situate all candidates as having non-local origins which is not the case in the real world. Additionally, while we aligned the rural and urban conjoint manipulations, to maximise comparability, it is likely that candidates would present their group representation differently in rural and urban areas. For instance, negative outgroup statements for a rural audience might present urbanites as out of touch liberal elites while for an urban audience, ruralites might be presented as parochial NIMBYs. Furthermore, while we deal strictly with candidate appeals, parties may have an important role in politicising place-based divides (as shown by Nadeau and Dassoneville, 2024).
+
+These limitations motivate two general recommendations for future research. First, it may be valuable to take a more inductive approach, developing a typology of candidates’ and parties’ place-based appeals via a study of their campaign materials, and experimentally testing their effectiveness in different settings. Second, future research should extend this to other country contexts, preferably differing on characteristics such as the size and direction of urban-rural economic inequalities.
+
+CRediT authorship contribution statement
+
+Lawrence McKay: Writing – review & editing, Writing – original draft, Validation, Project administration, Methodology, Investigation, Formal analysis, Conceptualization. Christopher Claassen: Writing – review & editing, Writing – original draft, Methodology, Investigation, Funding acquisition, Data curation, Conceptualization. Petar Bankov: Writing – review & editing, Writing – original draft, Validation, Meth­ odology, Investigation, Conceptualization. Christopher Carman: Writing – review & editing, Writing – original draft.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgements
+
+We would like to thank participants of the European Political Science Association 2023 Annual Conference and members of faculty at the University of Southampton who gave feedback on early presentations of the paper. Antonia Lang, Ruth Dassonneville, and the editors of this special issue provided valuable feedback on drafts. We received funding via the NORFACE Joint Research Programme “DemocraticGovernance in a Turbulent Age” which is co-funded by the European Commission through Horizon 2020 under grant agreement No 822166.
+
+Appendix
+
+A. Place-based appeals in election leaflets
+
+We took the following steps to find election leaflets.
+
+- Randomly select a sample of 10 constituencies of each of the following type for investigation, using a random number generator.
+
+o Rural = defined as ‘mainly rural’ by Office For National Statistics, meaning over 80 % of residents live in rural areas. o Urban = defined as ‘predominantly urban’ and with no significant rural presence. - Determine the combined number of leaflets by constituency available for Labour, Conservatives, Lib Dems, Greens, UKIP, and the Brexit Party across the 2015, 2017 and 2019 elections - Select the five constituencies with the most leaflets
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+12
+
+- Use Optical Character Recognition to search the images of leaflets as text - Using the following keywords:
+
+o Rural: ‘rural’, ‘village*’, ‘countryside’ o Urban: ‘urban’, ‘town’/’towns’, ‘city’/’cities’
+
+Table A1 Place-based appeals in election leaflets.
+
+Constituency type
+
+Constituency Place-based appeal?
+
+Example(s)
+
+Rural Saffron Walden Y ‘We must have transport which is fit for our rural communities’ South West Norfolk Y ‘Thriving Businesses, Rural Towns and Villages … helping farmers and food producers, cut red tape and a robust approach to local crime’. (Conservative) Candidate ‘lives in the beautiful rural village of Shouldham with her family’ (Green) Stone N ​Suffolk Coastal Y ’I will continue to press for better services … in our rural, coastal community’ ‘I will continue to stand up for our rural communities … for farmers and fishermen’ (Conservative) ‘Improvements to public transport connections especially in rural communities’ (Labour) ‘Ensure … that our countryside is protected’ (Labour) Torridge and West Devon
+
+Y ‘halt pharmacy cuts … so that everyone has access to pharmacy services, particularly our rural communities’ (Labour) ‘Backing our rural communities’ (Conservative) ‘"We were having issues with cattle movements that were time sensitive and had serious consequences for the cattle and the business. We were genuinely surprised by how quickly, sensitively and efficiently the whole situation was dealt with. Geoffrey [Cox, MP] has a real understanding of issues affecting farmers and backs the rural community." R. L. Boyton.’ (Conservative) ‘"Community Transport is essential for those living in deeply rural areas … Geoffrey has been a strong supporter over the years, has lobbied ministers on our behalf when necessary and we are most grateful for his efforts." Martin Prentice, Holsworthy Rural Community Transport’ Urban Blackburn Y ‘The Government’s public spending cuts programme has been simply unfair with huge levels of cuts made to the budgets of Northern towns and cities whilst wealthier places in the South of England have hardly seen any cuts at all’ (Labour) Bury South Y ‘Support the regeneration of our local town centres’ (Labour) Lewisham East Y ‘Restoring local planning powers – protecting our town centres … ’ (Green) Richmond Park N ​Wallasey Y ‘Shopping areas such as Liscard and Moreton are the heart of our community. For too long, Labour has neglected these areas’ (Conservative)
+
+B. Design
+
+Table B1 Attributes and levels in the conjoint experiment.
+
+Attribute Rural version Urban version
+
+MANIPULATIONS DESCRIPTIVE 1 lived only in urban areas 2 mostly lived in urban areas 3 lived in rural areas about half the time 4 mostly lived in rural areas 5 lived only in rural areas
+
+1 lived only in urban areas 2 mostly lived in urban areas 3 lived in rural areas about half the time 4 mostly lived in rural areas 5 lived only in rural areas AFFECTIVE_ INGROUP
+
+1 “this country only succeeds when its rural areas succeed” 2 “rural areas need to face up to how society is changing” 3 “rural areas face many challenges, and many opportunities”
+
+1 “this country only succeeds when its urban areas succeed” 2 “urban areas need to face up to how society is changing” 3 “urban areas face many challenges, and many opportunities” AFFECTIVE_ OUTGROUP
+
+1 “Britain’s urban areas deserve to be successful” 2 “some urban areas have had it too good for too long” 3 “you can’t generalise too much about urban areas”
+
+1 “Britain’s rural areas deserve to be successful” 2 “some rural areas have had it too good for too long” 3 “you can’t generalise too much about rural areas” SURROGACY 1 fight for this constituency 2 fight for this constituency and for rural areas across the country 3 fight for this constituency and for women across the country 4 fight for this constituency and for ethnic minorities across the country
+
+1 fight for this constituency 2 fight for this constituency and for urban areas across the country 3 fight for this constituency and for women across the country 4 fight for this constituency and for ethnic minorities across the country INTEREST_ GROUP
+
+1 Representatives of the Rural Partnership, an organisation that represents rural areas, expressed their disappointment that [GENDER2] had not yet met with them in Parliament. 2 Representatives of the Rural Partnership, an organisation that represents rural areas, expressed their satisfaction that [GENDER2] had taken the time to meet with them in Parliament.
+
+1 Representatives of the Urban Partnership, an organisation that represents urban areas, expressed their disappointment that [GENDER2] had not yet met with them in Parliament. 2 Representatives of the Urban Partnership, an organisation that represents urban areas, expressed their satisfaction that [GENDER2] had taken the time to meet with them in Parliament. CONTROLS GENDER1 1 He 2 She
+
+1 He 2 She GENDER2 1 his (if GENDER1 = = 1) 2 her (if GENDER1 = = 2)
+
+1 his (if GENDER1 = = 1) 2 her (if GENDER = = 2) PARTY 1 Labour 1 Labour
+
+(continued on next page)
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+13
+
+Table B1 (continued)
+
+Attribute Rural version Urban version
+
+2 Conservative 3 SNP [IF COUNTRY = = Scotland] 4 Plaid [IF COUNTRY = = Wales]
+
+2 Conservative 3 SNP [IF COUNTRY = = Scotland] 4 Plaid [IF COUNTRY = = Wales] POSITION 1 on the left of the Labour party [IF PARTY = = 1] 2 in the centre of the Labour party [IF PARTY = = 1] 3 on the right of the Conservative party [IF PARTY = = 2] 4 in the centre of the Conservative party [IF PARTY = = 2] 5 on the left of the SNP [Scotland] [IF PARTY = = 3] 6 in the centre of the SNP [Scotland] [IF PARTY = = 3] 7 on the left of Plaid Cymru [Wales] [IF PARTY = = 4] 8 in the centre of Plaid Cymru [Wales] [IF PARTY = = 4]
+
+1 on the left of the Labour party [IF PARTY = = 1] 2 in the centre of the Labour party [IF PARTY = = 1] 3 on the right of the Conservative party [IF PARTY = = 2] 4 in the centre of the Conservative party [IF PARTY = = 2] 5 on the left of the SNP [Scotland] [IF PARTY = = 3] 6 in the centre of the SNP [Scotland] [IF PARTY = = 3] 7 on the left of Plaid Cymru [Wales] [IF PARTY = = 4] 8 in the centre of Plaid Cymru [Wales] [IF PARTY = = 4]
+
+Appendix C. Additional results
+
+Fig. C1. Distribution of self-defined rural/urban status.
+
+Fig. C2. Main treatment effects with difference in marginal means by rural/urban status.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+14
+
+Fig. C3. Main treatment effects according to specific self-placement: rural respondents.
+
+Fig. C4. Main treatment effects according to specific self-placement: urban respondents.
+
+Sensitivity check: ‘objective’ urban-rural definition. As discussed in the article, we find that around 25 % of those self-defining as ‘rural’ are ‘urban’ and around 11 % of self-defining urbanites are rural, according to an objective criteria (the official classification for the Output Area they live in). As a pre-registered test, we test whether our findings hold when isolating respondents whose subjective and objective rurality matches and we present findings for mismatched respondents alongside these. We present the results in Figures C4-C5. Note that, naturally, results for the small mismatched groups, especially for the subjectively urban, objectively rural group, are imprecisely estimated due to a low effective sample size. Thus, we recommend not over-interpreting point estimates for the mis­ matched group as compared to the matched group.
+
+With regard first to subjectively rural respondents, the effects after isolating objectively rural respondents are similar to those in Fig. 2. Rural respondents prefer candidates who have mostly lived in rural areas, who fight for rural areas in Parliament, and who meet a rural interest group; they prefer candidates with positive ingroup affect and dislike candidates with negative ingroup affect. They are similarly indifferent to outgroup affect. The sole exception is that isolating objectively rural respondents, we now see a significant positive effect of candidates living only in rural areas, which was non-significant with the whole subjectively rural sample.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+15
+
+With regard to subjectively urban respondents, after isolating objectively urban respondents, results appear identical for the key attribute levels. Urban respondents do not reward descriptive representation and fighting for urban areas in Parliament, do reward positive ingroup affect and interest group engagement, and unexpectedly also reward positive outgroup affect. Thus, it appears that the main results are robust to any potential mea­ surement error deriving from the use of a subjective measure of rural-urban.
+
+Fig. C5. ‘Subjectively rural’ respondents – comparison of effects by ‘objective’ place type (official classification).
+
+Fig. C6. ‘Subjectively urban’ respondents – comparison of effects by ‘objective’ place type (official classification).
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+16
+
+Fig. C7. Moderation by place identity: rural respondents.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+17
+
+Fig. C8. Moderation by place identity: urban respondents.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+18
+
+Fig. C9. Moderation by place resentment: rural respondents.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+19
+
+Fig. C10. Moderation by place resentment: urban respondents.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+20
+
+Fig. C11. Effects by belonging to a specific place. Note: the larger error bars are related to the belonging questions being asked only to half the sample.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+21
+
+Moderation by place consciousness
+
+Coefficients represent the marginal effect of a unit change in the moderator when the given attribute level is present.
+
+Table C1 Identity interactions, rural sample.
+
+Coef. p-val
+
+Male 0.018 0.486 Female 0.008 0.749 Labour left −0.187 0.000 Labour centre −0.089 0.056 Conservative right 0.154 0.003 Conservative centre 0.189 0.000 lived only in [OUT] areas (base) −0.109 0.022 lived mostly in [OUT] areas 0.010 0.841 lived in [IN] areas about half the time 0.032 0.530 mostly lived in [IN] areas 0.077 0.113 lived only in [IN] areas 0.055 0.279 this country only succeeds when [IN] areas succeed 0.102 0.007 [IN] areas need to face up to how society is changing −0.100 0.006 [IN] areas face many challenges, and many opportunities (base) 0.039 0.257 Britain’s [OUT] areas deserve to be successful −0.054 0.119 Some [OUT] areas have had it too good for too long 0.142 0.000 You can’t generalise too much about [OUT] areas (base) −0.049 0.140 Fight for constituency (base) 0.085 0.047 and for [IN] areas 0.045 0.297 and for women 0.063 0.145 and for ethnic minorities −0.144 0.002 Did not meet interest group (base) −0.018 0.501 Met interest group 0.045 0.111
+
+Table C2 Identity interactions, urban sample.
+
+Urban - identity Coef. p-val
+
+Male −0.009 0.752 Female −0.004 0.880 Labour left 0.068 0.228 Labour centre 0.109 0.037 Conservative right −0.051 0.381 Conservative centre −0.112 0.039 lived only in [OUT] areas (base) 0.082 0.128 lived mostly in [OUT] areas −0.061 0.232 lived in [IN] areas about half the time 0.004 0.937 mostly lived in [IN] areas −0.057 0.281 lived only in [IN] areas 0.003 0.964 this country only succeeds when [IN] areas succeed 0.015 0.683 [IN] areas need to face up to how society is changing −0.023 0.563 [IN] areas face many challenges, and many opportunities (base) −0.012 0.754 Britain’s [OUT] areas deserve to be successful −0.039 0.305 Some [OUT] areas have had it too good for too long 0.155 0.000 You can’t generalise too much about [OUT] areas (base) −0.135 0.000 Fight for constituency (base) −0.106 0.027 and for [IN] areas 0.067 0.174 and for women −0.037 0.442 and for ethnic minorities 0.050 0.315 Did not meet interest group (base) −0.022 0.437 Met interest group 0.009 0.755
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+22
+
+Table C3 Resentment interactions, urban sample.
+
+Rural - resentment Coef. p-val
+
+Male 0.036 0.162 Female −0.011 0.668 Labour left −0.012 0.806 Labour centre −0.045 0.349 Conservative right −0.012 0.824 Conservative centre 0.120 0.022 lived only in [OUT] areas (base) −0.095 0.065 lived mostly in [OUT] areas −0.013 0.800 lived in [IN] areas about half the time 0.054 0.309 mostly lived in [IN] areas 0.087 0.072 lived only in [IN] areas 0.028 0.575 this country only succeeds when [IN] areas succeed 0.101 0.008 [IN] areas need to face up to how society is changing −0.122 0.001 [IN] areas face many challenges, and many opportunities (base) 0.060 0.088 Britain’s [OUT] areas deserve to be successful −0.107 0.002 Some [OUT] areas have had it too good for too long 0.171 0.000 You can’t generalise too much about [OUT] areas (base) −0.027 0.444 Fight for constituency (base) 0.076 0.084 and for [IN] areas 0.041 0.340 and for women 0.032 0.454 and for ethnic minorities −0.103 0.023 Did not meet interest group (base) −0.023 0.382 Met interest group 0.049 0.082
+
+Table C4 Resentment interactions, urban sample.
+
+Urban - resentment Coef. p-val
+
+Male −0.010 0.673 Female 0.003 0.897 Labour left 0.082 0.095 Labour centre 0.051 0.272 Conservative right 0.015 0.762 Conservative centre −0.150 0.001 lived only in [OUT] areas (base) −0.011 0.822 lived mostly in [OUT] areas −0.052 0.241 lived in [IN] areas about half the time 0.039 0.419 mostly lived in [IN] areas −0.006 0.905 lived only in [IN] areas 0.014 0.762 this country only succeeds when [IN] areas succeed 0.000 0.991 [IN] areas need to face up to how society is changing −0.016 0.626 [IN] areas face many challenges, and many opportunities (base) 0.006 0.870 Britain’s [OUT] areas deserve to be successful −0.126 0.000 Some [OUT] areas have had it too good for too long 0.246 0.000 You can’t generalise too much about [OUT] areas (base) −0.127 0.000 Fight for constituency (base) 0.008 0.853 and for [IN] areas 0.021 0.628 and for women −0.040 0.345 and for ethnic minorities −0.003 0.936 Did not meet interest group (base) 0.011 0.672 Met interest group −0.018 0.481
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+23
+
+Fig. C12. Effects by candidate party. (Difference in AMCEs = Lab minus Con).
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+24
+
+Fig. C13. Effects by ‘partisan match’ with candidate.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+25
+
+Data availability
+
+Replication data and code is available at .https://osf.io/9ceu2/? view_only=0a74b4de8ec94044b6f738efd9fd1984
+
+References
+
+Andr´e, A., DePauw, S., Andeweg, R.B., 2018. Public and politicians’ preferences on priorities in political representation. Deschouwer K.(red.) Mind the Gap; Political Participation and Representation in Belgium. London: Rowman & Littlefield Int./ ECPR Press 12 (2), 51–73. Arceneaux, K., Kolodny, R., 2009. Educating the least informed: group endorsements in a grassroots campaign. Am. J. Polit. Sci. 53 (4), 755–770. Bengtsson, Å., Wass, H., 2011. The representative roles of MPs: a citizen perspective. Scand. Polit. Stud. 34 (2), 143–167. Blais, A., Gidengil, E., Dobrzynska, A., Nevitte, N., Adeau, R., 2003. Does the local candidate matter? Candidate effects in the Canadian election of 2000. Canadian Journal of Political Science/Revue canadienne de science politique 36 (3), 657–664. Borwein, S., Lucas, J., 2023. Asymmetries in urban, suburban, and rural place-based resentment. Polit. Geogr. 105, 102904. Box-Steffensmeier, J.M., Kimball, D.C., Meinke, S.R., Tate, K., 2003. The effects of political representation on the electoral advantages of House incumbents. Polit. Res. Q. 56 (3), 259–270. Brader, T., Marcus, G.E., 2013. Emotion and political psychology. In: Huddy, L., Sears, D. O., Levy, J.S. (Eds.), The Oxford Handbook of Political Psychology. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199760107.013.0006, 0. Brooks, S., 2020. Brexit and the Politics of the Rural. Sociologia Ruralis 60 (4), 790–809. Campbell, R., Cowley, P., Vivyan, N., Wagner, M., 2019a. Legislator dissent as a valence signal. Br. J. Polit. Sci. 49 (1), 105–128. Campbell, R., Cowley, P., Vivyan, N., Wagner, M., 2019b. Why friends and neighbors? Explaining the electoral appeal of local roots. J. Polit. 81 (3), 937–951. Campbell, R., Lovenduski, J., 2015. What should MPs do? Public and parliamentarians’ views compared. Parliam. Aff. 68 (4), 690–708. Carman, C.J., 2006. Public preferences for parliamentary representation in the UK: an overlooked link? Polit. Stud. 54 (1), 103–122. Casiraghi, M.C., Curini, L., Nai, A., 2024. Populism in the eye of the beholder? A conjoint experiment on citizens’ identification of populists. Eur. J. Polit. Res. 63 (1), 214–235. Celis, K., Childs, S., 2020. Feminist Democratic Representation. Oxford University Press. Chiru, M., 2018. The electoral value of constituency-oriented parliamentary questions in Hungary and Romania. Parliam. Aff. 71 (4), 950–969. Claassen, C., Carman, C., Bankov, P., 2023. Is There a Rural-Urban Political Divide in Britain?. Claassen, C., G¨obel, S., Lang, A., Ackermann, K., Bankov, P., Brookes, K., Zumbrunn, A., 2025. Measuring rural and urban consciousness in Europe. Electoral Studies 95, 102912. Costa, M., 2021. Ideology, not affect: what Americans want from political representation. Am. J. Polit. Sci. 65 (2), 342–358. Cramer, K.J., 2016. The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker. University of Chicago Press. Dafoe, A., Zhang, B., Caughey, D., 2018. Information equivalence in survey experiments. Political Analysis 26 (4), 399–416. Dai, Y., Kustov, A., 2022. The (in) effectiveness of populist rhetoric: a conjoint experiment of campaign messaging. Political Sci. Res. Methods 1–8. Dassonneville, R., Stubager, R., Thau, M., 2024. The Effectiveness of Group Appeals: Identity Strength and Perceptions of Deservingness. Dawkins, R., Nemerever, Z., Munis, B.K., Verville, F., 2023. Place, race, and the geographic politics of white grievance. Polit. Behav. 1–23. De Lange, S., van der Brug, W., Harteveld, E., 2023. Regional resentment in The Netherlands: a rural or peripheral phenomenon? Reg. Stud. 57 (3), 403–415. Dolinsky, A.O., 2023. Parties’ group appeals across time, countries, and communication channels—examining appeals to social groups via the Parties’ Group Appeals Dataset. Party Polit. 29 (6), 1130–1146. Enos, R.D., 2017. The Space between Us: Social Geography and Politics. Cambridge University Press. Eulau, H., Karps, P.D., 1977. The puzzle of representation: specifying components of responsiveness. Legis. Stud. Q. 233–254. Evans, J., Arzheimer, K., Campbell, R., Cowley, P., 2017. Candidate localness and voter choice in the 2015 General Election in England. Political Geography 59, 61–71. Fenno, R.F., 1978. Home style: House members in their districts. Little, Brown, Boston. Ferrari, D., 2024. The effect of combining a populist rhetoric into right-wing positions on candidates’ electoral support. Elect. Stud. 89, 102787. Fisher, S.D., Heath, A.F., Sanders, D., Sobolewska, M., 2015. Candidate ethnicity and vote choice in Britain. Br. J. Polit. Sci. 45 (4), 883–905. Ford, R., Jennings, W., 2020. The changing cleavage politics of Western Europe. Annu. Rev. Polit. Sci. 23, 295–314. Gadarian, S.K., Brader, T., 2023. Emotion and political psychology. The Oxford handbook of political psychology. Oxford University Press, Oxford, pp. 191–247. Gethin, A., Martínez-Toledano, C., Piketty, T., 2022. Political Cleavages and Social Inequalities in Fifty Democracies, 1948–2020. Harvard University Press, Cambridge, MA and London. Gimpel, J.G., 1998. Packing heat at the polls: gun ownership, interest group endorsements, and voting behavior in gubernatorial elections. Soc. Sci. Q. 634–648.
+
+Gimpel, J.G., Lovin, N., Moy, B., Reeves, A., 2020. The urban–rural gulf in American political behavior. Polit. Behav. 42, 1343–1368. Grant, J.T., Rudolph, T.J., 2004. The job of representation in Congress: public expectations and representative approval. Legis. Stud. Q. 29 (3), 431–445. Grossmann, M., 2012. The Not-So-Special Interests: Interest Groups, Public Representation, and American Governance. Stanford University Press. Haffert, L., Palmtag, T., Schraff, D., 2024. When Group Appeals Backfire: Explaining the Asymmetric Effects of Place-Based Appeals. British Journal of Political Science 54 (4), 1217–1238. Hainmueller, J., Hopkins, D.J., Yamamoto, T., 2014. Causal inference in conjoint analysis: understanding multidimensional choices via stated preference experiments. Polit. Anal. 22 (1), 1–30. Hansard Society, 2010. Audit of Political Engagement 7. Hansard Society, London. Heppell, T., Crines, A., 2016. Conservative ministers in the Coalition government of 2010–15: evidence of bias in the ministerial selections of David Cameron? J. Legis. Stud. 22 (3), 385–403. Huijsmans, T., 2023. Why some places don’t seem to matter: socioeconomic, cultural and political determinants of place resentment. Elect. Stud. 83, 102622. Jacobs, N., Munis, B.K., 2023. Place-based resentment in contemporary US elections: the individual sources of America’s urban-rural divide. Polit. Res. Q. 76 (3), 1102–1118. Huijsmans, T., Rodden, J., 2025. The great global divider? A comparison of urban-rural partisan polarization in western democracies. Comparative Political Studies 58 (2), 261–290. Jacobs, N.F., Munis, B.K., 2019. Place-based imagery and voter evaluations: experimental evidence on the politics of place. Polit. Res. Q. 72 (2), 263–277. Jennings, W., Stoker, G., 2018. The divergent dynamics of cities and towns: geographical polarisation after Brexit. Polit. Q. Jewell, M.E., 1985. Legislators and Constituents in the Representative Process. In: Lowenberg, G., Patterson, S.C., Jewell, M.E. (Eds.), The Handbook of Legislative Research. Harvard University Press, Cambridge MA. Judge, D., 1999. Representation in westminster in the 1990s: the ghost of Edmund Burke. J. Legis. Stud. 5 (1), 12–34. Kellermann, M., 2016. Electoral vulnerability, constituency focus, and parliamentary questions in the House of Commons. Br. J. Polit. Int. Relat. 18 (1), 90–106. Kenny, M., Luca, D., 2021. The urban-rural polarisation of political disenchantment: An investigation of social and political attitudes in 30 European countries. Cambridge Journal of Regions, Economy and Society 14 (3), 565–582. Kerby, M., Blidook, K., 2011. It’s not you, it’s me: determinants of voluntary legislative turnover in Canada. Legis. Stud. Q. 36 (4), 621–643. About Key Cities, 2024. https://keycities.uk/about/. URL: Killermann, K., Proksch, S.-O., 2013. Dynamic political rhetoric: electoral, economic, and partisan determinants of speech-making in the UK Parliament. In: 3rd Annual General Conference of the European Political Science Association 2013. Lago, I., 2022. Rural decline and satisfaction with democracy. Acta Politic. 57 (4), 753–771. Lang, A., 2024. The Interplay of Party Identity and Place-Based Consciousness in Determining Candidate Preferences of Rural Voters. Leeper, T.J., Hobolt, S.B., Tilley, J., 2020. Measuring subgroup preferences in conjoint experiments. Polit. Anal. 28 (2), 207–221. Leslie, P., 2018. Political Behaviour in the United Kingdom: an Examination of Members of Parliament and Voters. University of Essex. Mansbridge, J., 2003. Rethinking representation. Am. Polit. Sci. Rev. 97 (4), 515–528. Martin, S., 2010. Electoral rewards for personal vote cultivation under PR-STV. West Eur. Polit. 33 (2), 369–380. Maxwell, R., 2019. Cosmopolitan immigration attitudes in large European cities: Contextual or compositional effects? American Political Science Review 113 (2), 456–474. Maxwell, R., 2020. Geographic divides and cosmopolitanism: Evidence from Switzerland. Comparative Political Studies 53 (13), 2061–2090. McConnaughy, C.M., White, I.K., Leal, D.L., Casellas, J.P., 2010. A Latino on the ballot: explaining coethnic voting among Latinos and the response of White Americans. J. Polit. 72 (4), 1199–1211. McKay, L., Jennings, W., Stoker, G., 2023. What is the geography of trust? The urban- rural trust gap in global perspective. Political geography 102, 102863. McKay, L., Jennings, W., Stoker, G., 2024a. Social ties, trust and the geography of discontent. Camb. J. Reg. Econ. Soc. 17 (1), 17–36. McKay, L., Jennings, W., Stoker, G., 2024b. Understanding the geography of discontent: perceptions of government’s biases against left-behind places. J. Eur. Publ. Pol. 31 (6), 1719–1748. Milazzo, C., Townsley, J., 2020. Conceived in Harlesden: candidate-centred campaigning in British general elections. Parliam. Aff. 73 (1), 127–146. Miller, A.H., Gurin, P., Gurin, G., Malanchuk, O., 1981. Group consciousness and political participation. Am. J. Polit. Sci. 494–511. Mitsch, F., Lee, N., Morrow, E.R., 2021. Faith no more? The divergence of political trust between urban and rural Europe. Polit. Geogr. 89, 102426. Munis, B.K., 2022. Us over here versus them over there… literally: measuring place resentment in American politics. Polit. Behav. 44 (3), 1057–1078. Nadeau, R., Dassoneville, R., 2024. Revisiting Place-Based Appeals: Evidence from Experimental French Data. Neddenriep, G., Nownes, A.J., 2014. An experimental investigation of the effects of interest-group endorsements on poorly aligned partisans in the 2008 presidential election. Party Polit. 20 (4), 617–631. Nemerever, Z., Rogers, M., 2021. Measuring the rural continuum in political science. Political Analysis 29 (3), 267–286. Norton, P., Wood, D.M., 1993. Back from Westminster: British Members of Parliament and Their Constituents. University Press of Kentucky.
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+26
+
+Papp, Z., 2021a. Does issue alignment matter? The electoral cost and reward of agricultural representation in urban and rural areas. Polit. Stud. Rev. 19 (3), 376–392. Papp, Z., 2021b. The mandate divide in policy representation: the substantive representation of agricultural interests in the Hungarian parliament. Parliam. Aff. 74 (2), 276–295. Reher, S., Evans, E., 2024. Someone like me? Disability identity and representation perceptions. Polit. Behav. 1–21. Rodden, J.A., 2019. Why Cities Lose: the Deep Roots of the Urban-Rural Political Divide. Basic Books. Saward, M., 2010. The Representative Claim. Oxford University Press, USA. Schildkraut, D.J., 2013. Which birds of a feather flock together? Assessing attitudes about descriptive representation among Latinos and Asian Americans. Am. Polit. Res. 41 (4), 699–729. Schulte-Cloos, J., Bauer, P.C., 2023. Local candidates, place-based identities, and electoral success. Political Behavior 45 (2), 679–698. Schwarz, S., Coppock, A., 2022. What have we learned about gender from candidate choice experiments? A meta-analysis of sixty-seven factorial survey experiments. J. Polit. 84 (2), 655–668. Searing, D., 1994. Westminster’s World: Understanding Political Roles. Harvard University Press. Shea, D., Jacobs, N.F., 2023. The Rural Voter: the Politics of Place and the Disuniting of America. Columbia University Press. Smith, E.R., Mackie, D.M., 2016. Group-level emotions. Current Opinion in Psychology 11, 15–19. Sørensen, J.F., 2016. Rural–urban differences in bonding and bridging social capital. Reg. Stud. 50 (3), 391–410.
+
+Stoll, H., 2010. Elite-level conflict salience and dimensionality in Western Europe: concepts and empirical findings. West Eur. Polit. 33 (3), 445–473. Taylor, Z., Lucas, J., Armstrong, D.A., Bakker, R., 2024. The development of the urban- rural cleavage in Anglo-American democracies. Comparative Political Studies 57 (8), 1339–1374. Tepe, S., 2022. Populist party’s challenge to democracy: Institutional capture, performance and religion. Party Politics 28 (4), 651–665. Trujillo, K.L., Crowley, Z., 2022. Symbolic versus material concerns of rural consciousness in the United States. Polit. Geogr. 96, 102658. Vivyan, N., Wagner, M., 2015. What do voters want from their local MP? Polit. Q. 86 (1), 33–40. Vivyan, N., Wagner, M., 2016. House or home? Constituent preferences over legislator effort allocation. Eur. J. Polit. Res. 55 (1), 81–99. Wahlke, J.C., 1962. The Legislative System: Explorations in Legislative Behavior. Wiley & Sons. Wahlke, J.C., 1971. Policy demands and system support: the role of the represented. Br. J. Polit. Sci. 1 (3), 271–290. Ward, N., 2002. Representing rurality? New Labour and the electoral geography of rural Britain. Area 34 (2), 171–181. Weber, C., Dunaway, J., Johnson, T., 2012. It’s all in the name: source cue ambiguity and the persuasive appeal of campaign ads. Polit. Behav. 34, 561–584. Weckroth, M., Kemppainen, T., 2023. Rural conservatism and the urban spirit of capitalism? On the geography of human values. Reg. Stud. 57 (9), 1747–1768. Wolkenstein, F., Wratil, C., 2021. Multidimensional representation. Am. J. Polit. Sci. 65 (4), 862–876. Dovi, S. (2018). Political Representation. In The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.).
+
+L. McKay et al. Electoral Studies 95 (2025) 102937
+
+27

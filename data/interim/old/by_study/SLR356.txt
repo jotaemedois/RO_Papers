@@ -1,0 +1,409 @@
+VIEŠOJI POLITIKA IR ADMINISTRAVIMAS
+
+PUBLIC POLICY AND ADMINISTRATION
+
+2024, T 23, Nr. 4 / 2024, Vol. 23, Nr. 4
+
+ISSN 1648-2603 (print) ISSN 2029-2872 (online)
+
+UNLOCKING THE LINKS BETWEEN POLITICAL AND INSTITUTIONAL TRUST AND SUBJECTIVE WELL-BEING:
+
+INSIGHTS FROM THE 11TH EUROPEAN SOCIAL SURVEY
+
+Aistė Diržytė, Aleksandras Patapas
+
+Mykolas Romeris University 20 Ateities st., LT - 08303 Vilnius, Lithuania
+
+Krystine Adame National University 9388 Lightwave Ave, San Diego, California, 92123, USA
+
+DOI: 10.13165/VPA-24-23-4-03
+
+Abstract:
+
+The factors contributing to political and institutional trust in Europe are under-re­ searched. This study aims to explore the links between political and institutional trust, subjective well-being, and satisfaction with the economy, national government, and de­ mocracy by applying data from the 11th round of the European Social Survey, conducted in 2023–2024. The age of the participants (n = 22,039) ranged from 15 to 90 (M = 51.88, SD = 18.728). The results reveal that in European countries, trust in politicians and po­ litical parties is consistently lower than trust in institutions such as the police, the legal system, and international organizations like the United Nations. The findings show that subjective well-being is significantly correlated with all forms of political and institutional trust, including trust in the country’s parliament, legal system, politicians, political parties, the European Parliament, and the United Nations, suggesting that institutional trust is a foundational component of societal well-being. However, the strongest correlation is ob­ served between trust in the police and subjective well-being. Satisfaction with the econo­ my, national government, and democracy show the strongest correlations with trust in the country’s parliament and politicians, positing that economic conditions and governmental performance are the primary determinants of political trust. Structural equation modeling reveals that subjective well-being does not directly translate into political and institutional trust, but political and economic satisfaction acts as a critical mediating variable. High
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 458
+
+levels of life satisfaction and happiness can enhance positive perceptions of economic and governmental performance, which in turn foster political and institutional trust.
+
+Keywords: European Social Survey; political trust; institutional trust; subjective well-being; life satisfaction; economic satisfaction.
+
+Reikšminiai žodžiai: Europos socialinis tyrimas; politinis pasitikėjimas; institucinis pasitikėjimas; subjektyvi savijauta; pasitenkinimas gyvenimu; ekonominis pasitenkinimas.
+
+1. Introduction
+
+Political and institutional trust are important concepts in political science and public administration, indicating citizens’ confidence in their political systems and institutions (e.g., the country’s parliament, the legal system, the police, politicians, political parties, the European Parliament, or the United Nations) (Zmerli and Van Der Meer 2017). Political trust refers to citizens’ confidence in their political system, including the belief that gov­ ernment officials and institutions will act in the public’s best interest, and it encompasses trust in elected representatives, government bodies, and political processes. Political trust is critical for the stability and legitimacy of democratic systems, as high levels of political trust facilitate effective governance, compliance with laws, and citizens’ engagement in po­ litical processes (Levi and Stoker 2000). Conversely, low political trust can lead to political instability, apathy, and even civil unrest. Previous research has indicated that political trust increases when: citizens perceive that the government is performing well in areas such as the economy, public services, and national security (Hetherington, 1998); governments are open about their actions and hold officials accountable (Grimmelikhuijsen et al. 2013); corruption is low (Anderson and Tverdova 2003); and citizens have positive early experi­ ences with political institutions and processes (Easton 1975).
+
+Institutional trust refers to the confidence citizens have in public administration and formal institutions, such as the police. This concept is broader than political trust, as it also encompasses non-political institutions. Other researchers have established links between institutional trust and the effective functioning of societal systems, compliance with regulations, cooperation between citizens and institutions, and social cohesion (New­ ton and Norris 2000). Further studies have revealed that trust in institutions increases if they: are perceived as effective, fair, and responsive (Van de Walle and Bouckaert 2003); treat all citizens equally and fairly (Rothstein and Stolle 2008); and possess high levels of interpersonal trust, which translate to trust in institutions (Putnam 2000). Additionally, historical legacies and cultural norms positively affect institutional trust (Inglehart 1997). It is important to explore the analysis of political and institutional trust in order to enhance the effectiveness of governance.
+
+Previous research has suggested that political and institutional trust is linked to societal
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 459
+
+well-being – namely, citizen’s subjective well-being, which refers to various aspects of men­ tal health including emotional stability, life satisfaction, and overall happiness – and that these links might be bi-directional.
+
+Subjective well-being is broadly defined as individuals’ self-reported assessments of their life satisfaction, happiness, and emotional experiences (Helliwell and Barrington‐ Leigh 2010). Regarding the impact of subjective well-being on political and institutional trust, it has been demonstrated that individuals with high psychological well-being are more likely to perceive institutions as fair and competent. Positive mental states enhance the cognitive bias toward perceiving external entities, including institutions, in a favorable light (Diener, Lucas and Oishi 2009). It has also been revealed that individuals with higher levels of subjective well-being tend to be more optimistic and hopeful, which extends to their views on political and institutional structures (Seligman 2011). Furthermore, it has been found that positive emotions lead to greater social trust, which might spill into trust in political and institutional structures (Fredrickson 2001). Emotional stability has also been positively associated with political trust, as stable individuals are less likely to perceive governmental actions as threatening or unfair (Tyler 2006). Studies have shown that low stress and anxiety levels are linked to a lower likelihood of skepticism toward institutions (Pressman and Cohen 2005). Additionally, trust in parliament and politicians positively affect individuals’ private savings (Newton and Norris 2000; Facchini, Massin, and Brookes 2024).
+
+Researchers have also demonstrated that higher psychological well-being is linked to increased civic engagement and participation in community activities, as engaged citizens feel a part of the governance process and perceive institutions as responsive to their needs (Helliwell and Putnam 2004). Moreover, happy individuals tend to believe in the integrity and competence of governmental structures (Helliwell and Putnam 2004). Studies have also shown that individuals with better mental health report higher levels of trust in gov­ ernmental and other institutions, suggesting a significant link between mental health indi­ cators and institutional trust across different countries (Bjørnskov 2007).
+
+Regarding the impact of political and institutional trust on subjective well-being, it has been demonstrated that high levels of political and institutional trust contribute to a sense of security and predictability in society, which is essential for psychological well-being (Hudson 2006). Political and institutional trust enhance social cohesion, which is linked to improved mental health outcomes (Helliwell and Putnam 2004). People that believe in a just world are also more likely to perceive the political system as just (Hadarics 2024). When individuals believe that institutions are fair and just, they demonstrate higher levels of life satisfaction and lower levels of psychological distress (Tyler 2006). Trust might re­ duce uncertainty about the reliability of institutions, which, consequently, can lower stress levels and enhance overall well-being (Yamagishi and Yamagishi 1994). Trust in institu­ tions is linked to civic engagement, a greater sense of purpose, and well-being (Putnam 2000). Additionally, higher institutional trust might lead to better compliance with public
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 460
+
+policies and utilization of public services, which impact individual well-being (Sønderskov and Dinesen 2014).
+
+Prior studies have indicated that the link between political and institutional trust and subjective well-being might be bidirectional, and could be based on several theoretical per­ spectives. Based on the theory of cognitive dissonance, individuals strive for cognitive con­ sistency, and if they are generally satisfied with their lives, they seek consistency by main­ taining positive views towards various entities, including political and institutional ones (Festinger 1957). Based on the theory of attribution, individuals in a positive psychological state are more likely to attribute benevolent intentions to others, including institutions, and this positive attribution might enhance trust (Weiner 1985). Based on the theory of solidar­ ity, when individuals feel connected to a society (feelings of social cohesion and belonging might be a sign of well-being), they are more likely to trust its institutions (Durkheim 1897). Sohlberg, Agerberg, and Esaiassonet (2024) described the reduction of institutional and interpersonal trust within asylum seekers as processing times increased.
+
+Despite the abundance of studies demonstrating the possibility of links between polit­ ical and institutional trust and subjective well-being, some researchers suggest that these links are not direct, and might be mediated by various factors. This means that there may be non-subjective well-being variables strongly related to political and institutional trust. For example, some studies indicate that positive economic indicators such as low unem­ ployment, high GDP growth, and stable inflation rates bolster trust in political institutions (Rothstein and Stolle 2008), and that economic mismanagement can erode trust (Ander­ son and Guillory 1997). Furthermore, political trust significantly declines with increased economic inequality (Bienstamen, Hense and Gangl 2024).
+
+Some research suggests that satisfaction with the national government is closely linked to perceived governmental performance (Norris 1999). This leads to higher acceptance of policy outcomes, even if they are not entirely favorable to all citizens, as trust engenders a belief in the government’s overall levels of competence and fairness (Levi and Stoker 2000). High levels of political trust contribute to democratic stability, reduce the likeli­ hood of political unrest, and increase satisfaction with democracy (Newton 2001). Trust in institutions promotes civic engagement (Dalton 2004), and trust is strengthened when institutions are seen as acting with integrity, transparency, and accountability (Mishler and Rose 2001). Open and transparent communication from political institutions as well as constructive media coverage of governmental actions and economic performance helps build trust and enhances satisfaction (Cook, Hardin, and Levi 2005; Norris 2011). Trust in institutions fosters social cohesion, which positively impacts satisfaction with economic conditions, government, and democracy (Putnam 2000).
+
+These findings on the variables linked to political and institutional trust are in line with several theoretical perspectives. Based on performance theory, citizens’ trust in institutions is significantly impacted by the perceived performance of those institutions: when they perform well, trust in institutions tends to be higher, and vice versa (Hetherington 1998).
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 461
+
+Based on legitimacy theory, when citizens trust their government, they are more likely to view its actions as legitimate and are satisfied with its performance (Easton 1975).
+
+Based on the analysis of previous studies, it was hypothesized that satisfaction with the economy, national government, and democracy in the state is a mediating factor in the link between political and institutional trust and subjective well-being. This study aimed to explore the links between political and institutional trust, subjective well-being, and satis­ faction with the economy, national government, and democracy in the state. By leveraging subjective well-being data, the researchers sought to uncover how governance and eco­ nomic policies affect individuals’ lives, offering perspectives on the efficacy and outcomes of such policies (Helliwell and Barrington‐Leigh 2010). Regardless of the abundance of pri­ or research on the links between political and institutional trust and subjective well-being and other variables, the factors that most strongly contribute to political and institutional trust in Europe today are under-researched.
+
+2. Methodology
+
+This study applied data from the 11th round of the European Social Survey (hereinafter ESS 11), which was a multi-national, cross-sectional survey conducted in 2023–2024. The ESS intends to examine and depict the development and maintenance of social structures, conditions, and attitudes across Europe and to provide an understanding of the landscape in Europe’s social, political, and ethical dimensions. The survey includes questions on a variety of core topics repeated from previous rounds of the survey, along with two modules developed for ESS 11 specifically. These are “Gender in Contemporary Europe: Rethinking Equality and the Backlash” and “Social Inequalities in Health and their Determinants” (Sikt – Norwegian Agency for Shared Services in Education and Research., 2024). The data were retrieved from the ESS 11 database in August 2024 at https://doi.org/10.21338/ess11-2023, and details of the sample are depicted in Table 1.
+
+Table 1. Number of participants in total, by country, and by gender
+
+Total Males Females
+
+n % n % n %
+
+Austria 2,354 10.6 993 9.7 1361 11.4
+
+Switzerland 1,384 6.2 697 6.8 687 5.8
+
+Germany 2,420 10.9 1214 11.8 1206 10.1
+
+Finland 1,563 7.0 770 7.5 793 6.7
+
+United Kingdom 1,684 7.6 824 8.0 860 7.2
+
+Croatia 1,563 7.0 711 6.9 852 7.1
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 462
+
+Hungary 2,118 9.5 835 8.1 1283 10.8
+
+Ireland 2,017 9.1 906 8.8 1111 9.3
+
+Lithuania 1,365 6.2 526 5.1 839 7.0
+
+Netherlands 1,695 7.6 843 8.2 852 7.1
+
+Norway 1,337 6.0 673 6.6 664 5.6
+
+Slovenia 1,248 5.6 608 5.9 640 5.4
+
+Slovakia 1,442 6.5 671 6.5 771 6.5
+
+Total 22,190 100.0 10,271 100.0 11,919 100.0
+
+The age of the participants (n = 22,190) ranged from 15 to 90, and the mean age in the total sample was 51.88 (SD = 18.728). The interviews lasted roughly one hour, were administered in local languages, and were held face-to-face, with computer assistance, or on paper. Some variant of probability sampling (simple, stratified, or multistage) was used to collect the data.
+
+Several parts of the modules of ESS 11 were used to analyze the links between political and institutional trust, subjective well-being, and satisfaction with the economy, national government, and democracy in the state.
+
+Political and institutional trust was assessed using items from section B, via the fol­ lowing instruction: “Using this card, please tell me how much you trust each of the insti­ tutions: the country’s parliament, the legal system, the police, politicians, political parties, the European Parliament, the United Nations.” The respondents had to choose an answer on a 10-point Likert scale ranging from 0 (no trust at all) to 10 (complete trust). Cronbach’s alpha for these 7 items in the total study sample was 0.912.
+
+Subjective well-being was assessed using one item from section B, via the following in­ struction: “All things considered, how satisfied are you with your life as a whole nowadays?” The respondents were asked to choose one of the answers on a 10-point Likert scale from 0 (extremely dissatisfied) to 10 (extremely satisfied). Additionally, one item from section C was applied, with the following instruction: “Taking all things together, how happy would you say you are?” The respondents were asked to choose one of the answers on a 10-point Likert scale from 0 (extremely unhappy) to 10 (extremely happy). Cronbach’s alpha for these 2 items in the total study sample was 0.813.
+
+Political and economic satisfaction (satisfaction with the economy, national govern­ ment, and democracy in the state) was assessed using three items from section B, via the following instruction: “On the whole how satisfied are you with the present state of the economy in the country/the way the government is doing its job/the way democracy works in the country.” The respondents were asked to choose one of the answers on a 10-point Likert scale from 0 (extremely dissatisfied) to 10 (extremely satisfied). Cronbach’s alpha for these 3 items in the total study sample was 0.845.
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 463
+
+SPSS v.26.0 and AMOS v.26.0 software were used to calculate descriptives and Pearson correlations, and to perform structural equation modeling (SEM). In SEM, model fit was evaluated based on the Comparative Fit Index (CFI), Tucker-Lewis’s coefficient (TLI), the normed fit index (NFI), and Root Mean Square Error of Approximation (RMSEA).
+
+3. Results
+
+To gain some insights into the data, several key descriptive statistics were computed in the preliminary analysis: means, standard deviations, skewness, and kurtosis (Table 2). Based on the skewness and kurtosis results ranging within ± 2, it was considered that the data were distributed normally.
+
+Table 2. Means, standard deviations, and data distribution
+
+Variables n Mean Std. Deviation Skewness Kurtosis
+
+Trust in the country’s parliament 21,817 4.86 2.680 –.231 –.806
+
+Trust in the legal system 21,833 5.90 2.627 –.558 –.484
+
+Trust in the police 22,037 6.76 2.373 –.880 .322
+
+Trust in politicians 21,883 4.04 2.500 –.035 –.848
+
+Trust in political parties 21,773 4.04 2.441 –.037 –.800
+
+Trust in the European Parliament 20,880 4.76 2.551 –.273 –.685
+
+Trust in the United Nations 20,655 5.33 2.571 –.442 –.511
+
+Satisfaction with life as a whole 22,049 7.41 1.953 –1.080 1.265
+
+Happiness 22,120 7.63 1.776 –1.133 1.701
+
+Satisfaction with the present state of the economy in the country 21,868 4.90 2.408 –.253 –.635
+
+Satisfaction with the national government 21,666 4.32 2.553 –.065 –.843
+
+Satisfaction with the way democracy works in the country 21,562 5.53 2.582 –.426 –.612
+
+The preliminary analysis revealed that in European countries, trust in politicians and political parties is lower compared to trust in the police, the legal system, or the United Nations. To explore the links between political and institutional trust, subjective well-be­ ing, and satisfaction with the economy, national government, and democracy, correlation analysis was performed on the study variables (Table 3).
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 464
+
+Table 3. Pearson correlations of the study variables
+
+1 2 3 4 5 6 7 8 9 10 11 1. Trust in the country’s parliament 1 21,817 2. Trust in the legal system .685** 1 21,604 21,833 3. Trust in the police .519** .672** 1 21,728 21,756 22,037 4. Trust in politicians .772** .615** .498** 1 21,669 21,638 21,796 21,883 5. Trust in political parties .743** .598** .473** .877** 1 21,579 21,542 21,688 21,719 21,773 6. Trust in the European Parliament .575** .510** .423** .609** .625** 1 20,728 20,716 20,811 20,768 20,722 20,880 7. Trust in the United Nations .514** .497** .440** .526** .542** .758** 1 20,499 20,492 20,584 20,536 20,473 20,180 20,655 8. Satisfaction with life as a whole .246** .288** .312** .229** .217** .190** .188** 1 21,688 21,699 21,902 21,752 21,646 20,763 20,546 22,049 9. Happiness .206** .241** .275** .195** .188** .171** .171** .687** 1 21,751 21,767 21,971 21,816 21,708 20,819 20,599 22,004 22,120 10. Satisfaction with the present state of the economy in country
+
+.532** .446** .376** .515** .494** .367** .320** .359** .284** 1 21,563 21,568 21,737 21,616 21,517 20,686 20,464 21,756 21,806 21,868 11. Satisfaction with the national government
+
+.624** .448** .379** .629** .589** .436** .370** .248** .202** .648** 1 21,443 21,415 21,558 21,497 21,404 20,563 20,349 21,551 21,606 21,471 21,666 12. Satisfaction with the way democracy works in the country
+
+.645** .567** .464** .604** .580** .474** .442** .312** .249** .613** .676**
+
+21,317 21,324 21,453 21,370 21,281 20,520 20,341 21,451 21,499 21,355 21,265
+
+** Correlation is significant at the 0.01 level.
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 465
+
+Correlation analysis showed that political and institutional trust was positively linked to subjective well-being (life satisfaction and happiness) (p < 0.01). The strongest correla­ tion was observed between subjective well-being (life satisfaction/happiness) and trust in the police (p < 0.01). Generally, subjective well-being was significantly linked to all of the forms of political and economic trust surveyed, including trust in the country’s parliament, the legal system, politicians, political parties, the European Parliament, and the United Nations (p < 0.01). Satisfaction with the economy/national government/democracy in the country was most strongly correlated with trust in the country’s parliament and politicians (p < 0.01), although the findings showed significant positive links with other forms of po­ litical and institutional trust (p < 0.01). Similarly, satisfaction with the economy/national government/democracy in the country was significantly linked to subjective well-being, encompassing life satisfaction and happiness (p < 0.01). Overall, the preliminary analysis showed that political and institutional trust, subjective well-being, and satisfaction with the economy, national government, and democracy were interlinked variables.
+
+To explore the specifics and various aspects of the relationships between political and institutional trust, subjective well-being, and satisfaction with the economy, national government, and democracy in the state, SEM analysis – which offers several advantag­ es, including the assessment of the significance of the theoretical structural connections between the constructs – was conducted. The estimates of the model of associations are displayed in Table 4.
+
+Table 4. Scalar estimates of the model of associations between political and institutional trust, subjective well-being, and satisfaction with the economy, national government, and democracy
+
+Regression B S.E. C.R. β p
+
+Subjective well-being 
+
+Political and
+
+economic satisfaction
+
+.480 .011 43.157 .403 <0.001
+
+Political and econo­
+
+mic satisfaction  Political and institutional trust .616 .008 81.061 .814 <0.001
+
+Subjective well-being  Political and institutional trust –.019 .005 –3.603 –.022 <0.001
+
+Subjective well-being  Satisfied with life 1.000 .921 Subjective well-being  Happy .738 .013 56.315 .747 <0.001 Political and econo­
+
+mic satisfaction  Satisfied with
+
+democracy 1.000 .829
+
+Political and econo­
+
+mic satisfaction  Satisfied with
+
+government .985 .007 132.608 .826 <0.001
+
+Political and econo­
+
+mic satisfaction  Satisfied with
+
+economy .847 .007 119.070 .754 <0.001
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 466
+
+Regression B S.E. C.R. β p Political and institu­
+
+tional trust  Satisfied with United Nations 1.000 .630
+
+Political and institu­
+
+tional trust 
+
+Satisfied with
+
+European Parliament
+
+1.100 .013 87.086 .700 <0.001
+
+Political and institu­
+
+tional trust  Satisfied with political parties 1.356 .013 105.162 .901 <0.001
+
+Political and institu­
+
+tional trust  Satisfied with
+
+politicians 1.412 .013 106.292 .916 <0.001
+
+Political and institu­
+
+tional trust  Satisfied with
+
+police .867 .011 77.106 .592 <0.001
+
+Political and institu­
+
+tional trust  Satisfied with
+
+legal system 1.172 .013 90.089 .723 <0.001
+
+The standardized results of the model are presented in Figure 1. These findings revealed that the fit of the model was acceptable: χ2 = 21929.304; Df = 51; CFI = 0.875; TLI = 0.809; NFI = 0.875; RMSEA = 0.139 [0.137–0.141].
+
+Figure 1. Standardized results of the model of associations between political and institutional
+
+trust, subjective well-being, and satisfaction with the economy, national government, and
+
+democracy in the country
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 467
+
+SEM analysis revealed the specifics of the links between latent variables of subjective well-being, political and economic satisfaction, and political and institutional trust. The findings indicated that subjective well-being played no significant role in political and in­ stitutional trust compared to the impact of political and economic satisfaction. However, satisfaction with the economy, national government, and democracy in the country could be considered to have a mediating effect on political and institutional trust. The findings showed that subjective well-being was linked to political and economic satisfaction, which, in turn, was strongly linked to political and institutional trust.
+
+4. Discussion
+
+This study intended to examine the predictors of political and institutional trust, ex­ ploring the links between political and institutional trust, subjective well-being, and satis­ faction with the economy, the national government, and democracy in the state. This aim was pursued based on several theoretical perspectives and previous studies. The insights, grounded in data from more than 22,000 respondents to ESS 11, are as follows.
+
+Firstly, the results revealed that trust in politicians and political parties was lower than trust in institutions like the police, the legal system, or international bodies such as the United Nations. This observation aligns with existing literature suggesting a general skep­ ticism toward political actors compared to more consistent trust in law enforcement and judicial institutions (Newton 2001; Norris 2011). Next, the correlation analysis showed significant positive relationships between political and institutional trust and subjective well-being, defined as life satisfaction and happiness. A most robust correlation was found between subjective well-being and trust in the police. This finding suggests that trust in institutions perceived as protective and just is directly linked to subjective well-being. Pre­ vious research supports this, indicating that trust in the police might be associated with a sense of security, which is crucial for life satisfaction (Helliwell and Putnam 2004). More­ over, subjective well-being significantly correlated with all surveyed forms of political and institutional trust, including trust in the country’s parliament, the legal system, politicians, political parties, the European Parliament, and the United Nations. This link suggests that overall confidence in political and institutional frameworks contributes to subjective well-being and supports the idea that institutional trust forms a foundational element of societal well-being (Newton and Zmerli 2011). Furthermore, satisfaction with the econo­ my, national government, and democracy was most strongly correlated with trust in the country’s parliament and politicians. This relationship underscores the critical role of eco­ nomic performance and governmental effectiveness in fostering political trust. Citizens’ perceptions of economic stability and democratic integrity appear to significantly shape their trust in political institutions. This finding aligns with the political economy perspec­ tive, which posits that economic conditions and governmental performance are primary
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 468
+
+determinants of political trust (Mishler and Rose 2001).
+
+The SEM analysis showed that while subjective well-being is linked to political and economic satisfaction, it does not directly translate into political and institutional trust. Instead, political and economic satisfaction emerged as a critical mediating variable. This mediating role implies that individuals’ overall satisfaction with economic conditions, gov­ ernmental performance, and democratic processes significantly influences trust in political and institutional frameworks, and this mediation effect is consistent with theories sug­ gesting that economic performance and governmental effectiveness serve as benchmarks through which individuals assess the trustworthiness of political institutions (Inglehart 1997). When people are satisfied with the economic and political status quo, they are more likely to develop and sustain trust in the institutions governing them.
+
+Although subjective well-being alone does not have a significant direct impact on po­ litical and institutional trust, it influences trust indirectly through its effect on political and economic satisfaction. This finding highlights the complex interplay between subjec­ tive well-being and broader socio-political evaluations. High levels of life satisfaction and happiness can enhance positive perceptions of economic and governmental performance, which in turn foster trust in political institutions, as suggested by previous research.
+
+Overall, these findings underscore the importance of improving economic conditions and governmental performance to increase political and institutional trust. Policies aimed at economic stability, transparency in governance, and strengthening democratic processes can significantly contribute to higher levels of institutional trust. Governments and insti­ tutions need to be transparent, fair, and responsive to build and maintain trust, and this can involve implementing policies that promote accountability, reduce corruption, and ensure the equitable treatment of all citizens (Rothstein and Stolle 2008). Moreover, fos­ tering environments that enhance subjective well-being can indirectly reinforce political trust through improved perceptions of economic and political satisfaction. Programs that facilitate citizens’ involvement in decision-making processes can enhance both trust and well-being (Helliwell and Putnam 2004).
+
+Future research could explore the causal pathways between subjective well-being, eco­ nomic and political satisfaction, and political and institutional trust. Longitudinal studies could provide insights into how changes in one domain affect the others over time. Addi­ tionally, investigating cultural and regional differences within Europe could offer a more comprehensive understanding of these relationships.
+
+5. Conclusions
+
+1. This study confirms that in European countries, trust in politicians and political
+
+parties is consistently lower than trust in institutions. There are significant positi­ ve relationships between political and institutional trust and subjective well-being,
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 469
+
+and the strongest correlation is observed between trust in the police and subjec­ tive well-being. Subjective well-being is significantly correlated with all forms of political and institutional trust, including trust in the country’s parliament, legal system, politicians, political parties, the European Parliament, and the United Na­ tions, suggesting that institutional trust is a foundational component of societal well-being. Satisfaction with the economy, national government, and democracy show the strongest correlations with trust in the country’s parliament and politici­ ans, positing that economic conditions and governmental performance are primary determinants of political trust. 2. SEM analysis revealed that subjective well-being does not directly translate into
+
+political and institutional trust. Instead, political and economic satisfaction acts as a critical mediating variable. High levels of life satisfaction and happiness can enhance positive perceptions of economic and governmental performance, which in turn foster trust in political institutions. 3. In conclusion, this study revealed that political and economic satisfaction play a pi­
+
+votal mediating role, emphasizing the need for effective new public governance and economic management to foster citizens’ trust. The role of subjective well-being and its indirect pathway through political and economic satisfaction underscores the complexity of building and sustaining political and institutional trust. Futu­ re research should investigate the causal pathways between subjective well-being, economic and political satisfaction, and political and institutional trust. Examining political figures’ perceptions of trust and its impact on public decision-making could provide valuable insights (Weinberg 2023). Therefore, presumably, political and institutional trust is a foundational element of a healthy society, and fostering trust in political and institutional frameworks can lead to more stable, cohesive, and prosperous communities.
+
+Bibliography
+
+1. Anderson, C. J., and C. A. Guillory. 1997. “Political Institutions and Satisfaction with
+
+Democracy: A Cross-National Analysis of Consensus and Majoritarian Systems.” American Political Science Review 91 (1): 66–81. https://doi.org/10.2307/2952259. 2. Anderson, C. J., and Y. V. Tverdova. 2003. “Corruption, Political Allegiances, and
+
+Attitudes Toward Government in Contemporary Democracies.” American Journal of Political Science 47 (1): 91–109. https://doi.org/10.1111/1540-5907.00007. 3. Bienstman, S., S. Hense, and M. Gangl. 2024. “Explaining the ‘Democratic Ma­
+
+laise’ in Unequal Societies: Inequality, External Efficacy and Political Trust.” Eu­ ropean Journal of Political Research 63 (1): 172–191. https://doi.org/10.1111/14756765.12611.
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 470
+
+4. Bjørnskov, C. 2007. “Determinants of Generalized Trust: A Cross-Country Compa­
+
+rison.” Public Choice 130 (1–2): 1–21. https://doi.org/10.1007/s11127-006-9069-1. 5. Cook, K. S., R. Hardin, and M. Levi. 2005. Cooperation Without Trust? Russell Sage
+
+Foundation. 6. Dalton, R. J. 2004. Democratic Challenges, Democratic Choices: The Erosion of Politi­
+
+cal Support in Advanced Industrial Democracies. Oxford University Press. 7. Diener, E., R. E. Lucas, and S. Oishi. 2009. “Subjective Well-Being: The Science of
+
+urnal of Political Science 5 (4): 435–457. 10. European Social Survey European Research Infrastructure (ESS ERIC). 2024. “ESS
+
+round 11 – 2023. Social inequalities in health, Gender in contemporary Europe.” Sikt – Norwegian Agency for Shared Services in Education and Research. https:// doi.org/10.21338/ess11-2023. 11. Facchini, F., S. Massin, and K. Brookes. 2024. “The Relationship Between Instituti­
+
+The Broaden-and-Build Theory of Positive Emotions.” American Psychologist 56 (3): 218–226. 14. Grimmelikhuijsen, S. G., G. Porumbescu, B. Hong, and T. Im. 2013. “The Effect
+
+of Transparency on Trust in Government: A Cross-National Comparative Expe­ riment.” Public Administration Review 73 (4): 575–586. https://doi.org/10.1111/ puar.12047. 15. Hadarics, M. 2024. “Negative Contexts as Catalyzers: Belief in a Just World En­
+
+hances Political Trust via Perceived Procedural Justice, and Contextual Procedural Injustice Boosts It.” European Journal of Social Psychology 54 (1): 282–297. https:// doi.org/10.1002/ejsp.3011. 16. Helliwell, J. F., and C. P. Barrington‐Leigh. 2010. “Viewpoint: Measuring and Unders­
+
+tanding Subjective Well‐Being.” Canadian Journal of Economics/Revue Canadienne d’économique 43 (3): 729–753. https://doi.org/10.1111/j.1540-5982.2010.01592.x. 17. Helliwell, J. F., and R. D. Putnam. 2004. “The Social Context of Well-Being.” Philo­
+
+sophical Transactions of the Royal Society B: Biological Sciences 359 (1449): 1435– 1446. https://doi.org/10.1098/rstb.2004.1522. 18. Hetherington, M. J. 1998. “The Political Relevance of Political Trust.” American Po­
+
+litical Science Review 92 (4): 791–808. https://doi.org/10.2307/2586304.
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 471
+
+19. Hudson, J. 2006. “Institutional Trust and Subjective Well-Being Across the EU.”
+
+Kyklos 59 (1): 43–62. https://doi.org/10.1111/j.1467-6435.2006.00319.x. 20. Inglehart, R. 1997. Modernization and Postmodernization: Cultural, Economic, and
+
+Political Change in 43 Societies. Princeton University Press. 21. Levi, M., and L. Stoker. 2000. “Political Trust and Trustworthiness.” Annual Review
+
+of Political Science 3: 475–507. https://doi.org/10.1146/annurev.polisci.3.1.475. 22. Mishler, W., and R. Rose. 2001. “What Are the Origins of Political Trust? Testing
+
+Institutional and Cultural Theories in Post-Communist Societies.” Comparative Po­ litical Studies 34 (1): 30–62. https://doi.org/10.1177/0010414001034001002. 23. Newton, K. 2001. “Trust, Social Capital, Civil Society, and Democracy.” International
+
+Political Science Review 22 (2): 201–214. https://doi.org/10.1177/0192512101222004. 24. Newton, K., and P. Norris. 2000. “Confidence in Public Institutions: Faith, Culture
+
+or Performance?” In Disaffected Democracies: What’s Troubling the Trilateral Coun­ tries?, edited by S. Pharr and R. Putnam, 52–73. Princeton University Press. https:// doi.org/10.1515/9780691186849-007. 25. Newton, K., and S. Zmerli. 2011. “Three Forms of Trust and Their Associati­
+
+on.” European Political Science Review 3 (2): 169–200. https://doi.org/10.1017/ S1755773910000330. 26. Norris, P. 1999. “Introduction: The Growth of Critical Citizens?” In Critical Ci­
+
+tizens, edited by P. Norris, 1–28. Oxford: Oxford University Press. https://doi.org/1 0.1093/0198295685.003.0001. 27. Norris, P. 2011. Democratic Deficit: Critical Citizens Revisited. Cambridge Univer­
+
+sity Press. 28. Pressman, S. D., and S. Cohen. 2005. “Does Positive Affect Influence Health?” Psy­
+
+chological Bulletin 131 (6): 925–971. https://doi.org/10.1037/0033-2909.131.6.925. 29. Putnam, R. D. 2000. Bowling Alone: The Collapse and Revival of American Commu­
+
+nity. Simon and Schuster. 30. Rothstein, B., and D. Stolle. 2008. “The State and Social Capital: An Institutional
+
+Theory of Generalized Trust.” Comparative Politics 40 (4): 441–459. http://dx.doi. org/10.5129/001041508X12911362383354. 31. Seligman, M. E. P. 2011. Flourish: A Visionary New Understanding of Happiness and
+
+Well-Being. Free Press. 32. Sohlberg, J., M. Agerberg, and P. Esaiasson. 2024. “Waiting for Asylum: Reduced
+
+Institutional and Interpersonal Trust.” Political Studies 72 (1): 343–363. https://doi. org/10.1177/00323217221103728. 33. Sønderskov, K. M., and P. T. Dinesen. 2014. “Danish Exceptionalism: Explaining
+
+the Unique Increase in Social Trust Over the Past 30 Years.” European Sociological Review 30 (6): 782–795. http://dx.doi.org/10.1093/esr/jcu073. 34. Tyler, T. R. 2006. Why People Obey the Law. Princeton University Press.
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 472
+
+35. Van de Walle, S., and G. Bouckaert. 2003. “Public Service Performance and Trust in
+
+Government: The Problem of Causality.” International Journal of Public Administra­ tion 26 (8-9): 891–913. https://doi.org/10.1081/PAD-120019352. 36. Weinberg, J. 2023. “Feelings of Trust, Distrust and Risky Decision-Making
+
+in Political Office: An Experimental Study with National Politicians in Three Democracies.” Comparative Political Studies 56 (7): 935–967. https://doi. org/10.1177/00104140221139376. 37. Weiner, B. 1985. “An Attributional Theory of Achievement, Motivati­
+
+on and Emotion.” Psychological Review 92 (4): 548–573. http://dx.doi.or­ g/10.1037/0033-295X.92.4.548. 38. Yamagishi, T., and M. Yamagishi. 1994. “Trust and Commitment in the United Sta­
+
+tes and Japan.” Motivation and Emotion 18 (2): 129–166. https://doi.org/10.1007/ BF02249397. 39. Zmerli, S., and T. W. G. Van Der Meer, eds. 2017. Handbook on Political Trust. Ed­
+
+ward Elgar Publishing. https://doi.org/10.4337/9781782545118.
+
+Viešoji politika ir administravimas. 2024, T. 23, Nr. 4, p. 457–474. 473
+
+Aistė Diržytė, Aleksandras Patapas, Krystine Adame
+
+POLITINIO IR INSTITUCINIO PASITIKĖJIMO IR SUBJEKTYVIOS GEROVĖS
+
+RYŠIŲ ANALIZĖ: 11-OJO EUROPOS SOCIALINIO TYRIMO ETAPO
+
+ĮŽVALGOS
+
+Anotacija. Veiksniai, skatinantys politinį ir institucinį pasitikėjimą Europa, ištirti ne­ pakankamai. Šiuo tyrimu siekiama ištirti sąsajas tarp politinio ir institucinio pasitikėji­ mo, subjektyvios gerovės ir pasitenkinimo ekonomika, nacionaline valdžia ir demokratija. Šiame tyrime taikyti 11-ojo Europos socialinio tyrimo etapo (2023–2024 m.) duomenys. Dalyvių amžius (n = 22039) svyravo nuo 15 iki 90 metų (M = 51,88, SD = 18,728). Re­ zultatai atskleidė, kad Europos šalyse pasitikėjimas politikais ir politinėmis partijomis yra nuolat žemesnis nei pasitikėjimas tokiomis institucijomis kaip policija, teisinė sistema ir tarptautinės organizacijos, pavyzdžiui, Jungtinės Tautos. Išvados parodė, kad subjektyvi gerovė reikšmingai koreliuoja su visų formų politiniu ir instituciniu pasitikėjimu, taip pat pasitikėjimu šalies parlamentu, teisine sistema, politikais, politinėmis partijomis, Europos Parlamentu ir Jungtinėmis Tautomis. Tai rodo, kad institucinis pasitikėjimas yra pagrin­ dinis visuomenės gerovės komponentas. Tačiau stipriausia koreliacija nustatyta tarp pasi­ tikėjimo policija ir subjektyvios gerovės. Pasitenkinimas ekonomika, nacionaline valdžia ir demokratija atskleidžia stipriausias koreliacijas su pasitikėjimu šalies parlamentu ir po­ litikais. Tai reiškia, kad ekonominės sąlygos ir vyriausybės veikla yra pagrindiniai politi­ nio pasitikėjimo veiksniai. Struktūrinių lygčių modeliavimo (SEM) analizė atskleidė, kad subjektyvi gerovė tiesiogiai neperauga į politinį ir institucinį pasitikėjimą, tačiau politinis ir ekonominis pasitenkinimas veikia kaip kritinis tarpininkavimo kintamasis. Aukštas pa­ sitenkinimo gyvenimu ir laimės lygis gali sustiprinti teigiamą ekonomikos ir vyriausybės veiklos suvokimą, tai savo ruožtu skatina politinį ir institucinį pasitikėjimą.
+
+Aistė Diržytė, Mykolo Romerio universiteto Psichologijos instituto profesorė, Lietuva. E. paštas aiste.dirzyte@gmail.com
+
+Aleksandras Patapas, Mykolo Romerio universiteto Viešojo administravimo instituto profesorius, Lietuva. E. paštas patapas@mruni.eu
+
+Krystine Adame, magistrė, Nacionalinis universitetas San Diege, Kalifornijoje, JAV. E. paštas Adame.krystine@gmail.com
+
+A. Diržytė, A. Patapas, K. Adame. Unlocking the Links Between Political and Institutional Trust and Subjective .. 474
+
+Aistė Dirzytė, professor at the Institute of Psychology at Mykolas Romeris University, Li­ thuania. E-mail: aiste.dirzyte@gmail.com
+
+Aleksandras Patapas, professor at the Institute of Public Administration of Mykolas Ro­ meris University, Lithuania. E-mail: patapas@mruni.eu
+
+Krystine Adame, MSc, National University, San Diego, California, USA. E-mail: Adame.krystine@gmail.com
+
+This article is an Open Access article distributed under the terms and conditions of the Creative
+
+Commons Attribution 4.0 (CC BY 4.0) License (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,473 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/255608028
+
+Effects of Trust in Parliament
+
+Article · January 2008
+
+CITATIONS 0
+
+READS 569
+
+1 author:
+
+Sören Holmberg
+
+University of Gothenburg
+
+120 PUBLICATIONS   3,512 CITATIONS
+
+SEE PROFILE
+
+All content following this page was uploaded by Sören Holmberg on 14 February 2015.
+
+The user has requested enhancement of the downloaded file.
+
+= = = = = = = = Effects of Trust in Parliament
+
+Sören Holmberg
+
+= = = = = = = = = = = = QoG WORKING PAPER SERIES 2008:13=
+
+= THE QUALITY OF GOVERNMENT INSTITUTE
+
+Department of Political Science
+
+University of Gothenburg
+
+Box 711 SE 405 30 GÖTEBORG
+
+July 2008
+
+ISSN 1653-8919
+
+© 2008 by Sören Holmberg. All rights reserved. Paper originally presented at the QoG Institute’s Björkö Conference in June 2008.
+
+Effects of Trust in Parliament Sören Holmberg QoG Working Paper Series 2008:13 July 2008 ISSN 1653-8919 Sören Holmberg The Quality of Government Institute Department of Political Science, University of Gothenburg Box 711 SE 405 30 Göteborg, Sweden soren.holmberg@pol.gu.se =
+
+rust is not a hot quality of government variable. It belongs to the family but it is a distant
+
+cousin at most. Trust is more of a prerequisite or facilitating factor further back in the funnel
+
+of causality than an operative QoG variable closely impacting different societal outcomes.
+
+But even if trust is a distant causal factor in the background it should not be underestimated. Its
+
+importance derives from the fact that trust supposedly lowers all forms of transaction costs in a society.
+
+Most things become more efficient and take less time in a society where people trust each other and
+
+trust leading institutions (Luhmann 1989, Misztal 1996, Holmberg 1999). Consequently, trust up to an
+
+undefined level is grease not gravel in a society. Suspicion is harmful, but so is in all likelihood blind
+
+faith too. Trust on a “lagom” high level is best. And it should preferably be based more on knowledge
+
+and evaluative cognitions than on affects and preconceived notions.
+
+T
+
+Trust comes in all different forms (Bouckaert and van de Walle 2003). In our case the focus will be on
+
+trust in parliament. If we have to pick just one type of institutional trust, confidence in parliament is a
+
+rather obvious choice. Parliaments are – or should at least be - a central decision making institution in
+
+all (democratic) systems (O´Brien, Stapenhurst and Johnston 2008). Parliaments are rule makers and if
+
+you do not have faith in the rule maker it is difficult to live by the rules. Hence, trust in parliament is
+
+probably more important for the functioning of a society than trust in many other institutions (Rolef
+
+2006).
+
+Empirical political science research has since long realized the importance of trust in parliaments.
+
+Few other trust objects have been so extensively measured across time and across national systems as
+
+trust in parliament (Bratton et al 2005, Brothén 2008). Trust in parliament can also be viewed as a
+
+proxy for generalized confidence in one’s own country’s political system and/or democratic regime.
+
+In our case, we will rely on data from the World Value Surveys collected in the years 1999-2002 for
+
+some seventy countries.
+
+The potential importance of trust in parliament for good and desirable societal outcomes can be tested
+
+in many different areas. I have chosen to do a fairly extensive and broad examination involving some
+
+twenty different outcome areas; from health and ecological outcomes to economic and social outcomes.
+
+Two softer but not less relevant feel good outcomes are also included – the extent to which people feel
+
+happy and are satisfied with their lives.
+
+Trust in Parliament Rank Ordered Across Different Countries
+
+Measuring political trust in the WVS studies entails a special problem in authoritarian and non democratic systems. People are not free to speak their mind or might be afraid to be overtly critical of
+
+government institutions. It is probably easier to express low trust in parliament in United Kingdom than
+
+2
+
+in China or Pakistan. Consequently, the validity of the trust results from many authoritarian countries
+
+could be put in question. In many instances we suspect that trust estimates will be too high.
+
+In order to be able to control for this problem all of our analyses will be conducted
+
+two ways – first among all cases, including non-democratic nations, and second only among European
+
+and OECD countries where authoritarian regimes are less prevalent and where the quality of survey
+
+research results are more reliable.
+
+In Table 1 all seventy six countries who took part in WVS 1999-2002 are rank ordered according to
+
+the percentage of their citizens who express trust in the national parliament. At the top we find nations
+
+where high proportions of the citizenry express trust. Toward the bottom are countries where people
+
+have less confidence in their parliament.
+
+[Table 1 about here]
+
+Our suspicion that authoritarian countries would exhibit not believable high levels of parliamentary
+
+trust is vindicated by the results. At the top of the rank order in Table 1 we find countries such as
+
+Vietnam, China, Bangladesh, Tanzania, Uganda and Pakistan; all of them with more than 75 percent of
+
+their citizens “volunteering” a high degree of confidence in the parliament. In the extreme cases of
+
+Vietnam and China the proportion of people supposedly trusting the parliament is 97 and 95 percent,
+
+respectively. Obviously, these are not trustworthy results.
+
+The first democratic countries on the list appear on rank eight and ten with about 70 per cent of their
+
+citizens trusting the parliament. These most high ranking nations with believable estimates are Iceland
+
+and Norway.
+
+At the bottom of the list we find countries like Macedonia, Peru, Lithuania, South Korea and
+
+Argentina with only between 7 and 11 percent of their citizens expressing confidence in the parliament.
+
+As these results reveal, we can not complain about a lack of variance in the trust variable. Variability
+
+can not be much better than from a high of 97 percent (Vietnam), alternatively 72 percent (Iceland), to
+
+a low of 7 percent (Macedonia).
+
+In Table 2 many of the authoritarian countries with less trustworthy survey results are excluded. Now
+
+the rank order is restricted to forty five countries with higher quality in survey research and more
+
+credible results. Most non-democratic regimes are not present anymore. The trust list is now headed by
+
+a couple of small countries in Northern Europe – Iceland, Norway, Luxembourg and The Netherlands.
+
+United States is found on rank nineteen with United Kingdom in place twenty three. Russia is placed
+
+toward the bottom on rank forty. Lowest ranked is Lithuania, followed by South Korea and Czech
+
+3
+
+Republic. Among the low ranked is also New Zealand; a bit surprising or maybe we have discovered a
+
+measurement error?
+
+[Table 2 about here]
+
+Potential Trust Effects
+
+Given these rank orders in institutional trust across some seventy nations in total or across forty five
+
+countries with believable survey results, the interesting question becomes what kind of relationships
+
+there are between trust in parliament and a set of different societal outcome variables. The chosen
+
+outcome variables are about twenty and they represent a wide variety of areas from health and ecology
+
+to economics and social welfare. With one or two exceptions the normatively desirable outcomes is in
+
+most cases pretty unequivocal. Most of us agree that good health, low infant mortality, improved
+
+drinking water, low carbon emissions, high GDP per capita and a high Human Development Index
+
+rating are positive things. The opposite with bad health, dying infants, fouled water, lots of CO2 emissions and on average poor people with low HDI scores is worse. This is clearly more negative
+
+outcomes.
+
+However, for some of our outcome variables agreement on what is the most desirable outcome is less
+
+obvious. Should a society be characterized by equality or inequality, low or somewhat higher
+
+unemployment levels, generous or less generous welfare provisions? Being a Swede I have opted for
+
+the Swedish solution. In the analysis I have classified high equality, low unemployment and generous
+
+welfare benefits as something positive for a society. And I have as well defined as positive feel good
+
+outcomes like many people being subjectively happy and satisfied with their lives. Only misanthropes
+
+think unhappiness is preferable to happiness.
+
+Our study should be seen as a first rather crude benchmark. We restrict the investigation to a series of
+
+bivariate correlational and regression analyses with trust in parliament defined as the independent
+
+variable and the different outcome variables as the dependent variables. This is a rather original way of
+
+analyzing trust in parliament. In most other research on the subject trust in parliament is treated as a
+
+dependent variable, something to explain. And in that kind of research many of our societal outcomes
+
+are defined as independent explanatory variables (Hibbing and Pattersson 1994).
+
+In most cases I would think this to be the most sensible way of studying the subject. If trust and
+
+outcomes are related, the most likely causal flow would probably originate and stem from the outcome
+
+side, not from the trust side. Peoples´ perceptions of different forms of performance and outcomes
+
+impinge on trust more than trust and resulting lowered transaction costs have an effect on outcomes.
+
+4
+
+But even if - in the interplay between trust and outcomes - the former plays the minor role, it can have
+
+an independent role. Trust is not only a reflection of outcomes in society. To a degree, trust is also an
+
+active agent of its one. At least, that is the hypothesis that we will entertain in this paper.
+
+The results in the form of simple bivariat correlation coefficients and whether the potential effects of
+
+trust are positive or negative on the outcome variables are presented in Table 3. The direction of the
+
+effects (positive or negative) is determined by the leaning of the estimated regression lines. Two sets of
+
+results are presented in the table – one for all seventy six cases and a second for the limited number of
+
+forty five mostly European and OECD countries.
+
+[Table 3 about here]
+
+We can start by looking at the results from the analysis involving all countries, including many non democratic ones with dubious results when it comes to trust in parliament. Our hypothesis is to find at
+
+least medium sized correlations, and what we have defined as positive relations between trust in
+
+parliament and the outcome variables. Given this expectation, the results are a disappointment. A
+
+majority of the relationships are non-existent or have the wrong direction – potential effects are
+
+negative instead of positive. This is the case for no more than sixteen of our twenty two analyzed
+
+relationships.
+
+For example, in the full data set, high trust in parliament is related to short life expectancy, high
+
+infant mortality, bad water quality and low HDI scores. Hence, a conclusion could be that countries
+
+where people trust their parliament tend to be countries where life is pretty miserable. But that would
+
+be a wrongful conclusion. And the reason is that the measurement of trust is unreliable in many mostly
+
+authoritarian countries.
+
+When these countries with questionable measurements of trust in parliament are excluded the results
+
+look quite different and much more in accordance with what we expect. Now very few relationships are
+
+non-existent or negative (only three). Most potential effects are positive (nineteen) and some
+
+relationships indicate a respectable strength with correlations around .60. When we restrict the analysis
+
+to countries with trustworthy measures of trust in parliament it is very clear that the trust variable has a
+
+potential positive effect on many desirable societal outcomes. For instance, rather strong effects are
+
+found for outcomes like long life expectancy, sustainable environment, improved drinking water, high
+
+GDP per capita, generous social benefits and subjective feelings of happiness.
+
+The deviant cases where the relationships are non-existent or very weak or even negative are of course
+
+of a special interest. They indicate instances where the trust variable is irrelevant or where it has been
+
+overrun by other more potent variables. There are two outcomes with negative relationships with trust
+
+5
+
+in parliament – carbon emissions and GDP growth. Countries with high trust in parliament tend to emit
+
+more CO2 and to have a somewhat lower economic growth rate than nations with less trusting
+
+populations. However, the conclusion from these results should not be that trust in parliament somehow
+
+is a causal agent here, indirectly causing high carbon emissions and slow economic growth. A more
+
+accurate model would relegate the trust variable to a less prominent place in the background with
+
+spurious effects and highlight other causal factors having to do with, for example, production systems
+
+and the development of the economy. People trusting their parliament is not to be blamed.
+
+Trust in Parliament Matters
+
+If we only see through all the bad measurements of trust in many authoritarian systems, our simple
+
+benchmark study clearly indicates that trust in parliament matters for a whole host of desirable societal
+
+outcomes and for the good society. But, of course, this is only the beginning. Now comes the task of
+
+making the model more complicated by introducing additional variables and test whether trust in
+
+parliament truly has any independent effects after we have controlled for other potential causal
+
+variables.
+
+That is, however, an assignment for another day and for another paper. For now, we can appreciate
+
+that trust in parliament in most cases dances with the angels. When we started the analysis by looking
+
+at the results based on all available WVS data – including data from many authoritarian countries with
+
+dubious surveys – it first looked like trust in parliament danced with someone else. But now we know
+
+better. Trust in parliament matters on the positive side.
+
+References
+
+Bouckaert, Geert and van de Walle, Steven (2003). Comparing Measures of Citizen Trust and
+
+Satisfaction as Indicators of “Good Governance”: Difficulties in Linking Trust and Satsifaction
+
+Indicators. International Review of Administrative Sciences 2003: 329-343.
+
+Bratton, Michael, Chu, Yun-han, Lagos, Marta and Rose, Richard (2005). The People´s Voice: Trust in
+
+Political Institutions. In Ten Years of Supporting Democracy Worldwide.
+
+Stockholm: IDEA.
+
+Brothén, Martin (2008). Riksdagens besökare. I Holmberg, Sören and Weibull, Lennart (eds.) Skilda
+
+världar. Göteborg: The SOM Institute.
+
+6
+
+Hibbing, John and Patterson, Samuel (1994). Public Trust in the New Parliaments of Central and
+
+Eastern Europe. Political Studies 1994:570-592.
+
+Holmberg, Sören (1999). Down and Down We Go. Political trust in Sweden. In Norris, Pippa (ed.)
+
+Critical Citizens: Global Support for Democratic Governance. Oxford: Oxford University Press.
+
+Luhmann, Niklas (1989). Vertrauen. Ein Mechanismus der Reduktion Sozialer Komplexität. Stuttgart:
+
+Ferdinand Enke Verlag.
+
+Misztal, Barbara (1996). Trust in Modern Societies. Cambridge: Polity Press.
+
+O´Brien, Mitchell, Stapenhurst, Rick and Johnston, Niall (eds.) (2008). Parliaments as Peacebuilders
+
+in Conflict-Affected Countries. Washington, D.C.: World Bank institute.
+
+Rolef Hattis, Susan (2006). Public Trust in Parliament – A Comparative Study. Jerusalem: Knesset
+
+7
+
+Appendix
+
+Table 1. Trust in Parliament. Rank Ordering of 76 Countries (Percent and Mean)
+
+Rank
+
+Country
+
+Trust in parliament (%)
+
+Trust in parliament (mean)
+
+Rank
+
+Country
+
+Trust in parliament (%)
+
+Trust in parliament (mean)
+
+1 Vietnam 97 3.7 39 Belgium 36 2.2 2 China 95 3.3 40 Germany 36 2.2
+
+3 Bangladesh 89 3.3 41 United Kingdom 36 2.2
+
+4 Tanzania 79 3.2 42 Chile 35 2.2 5 Uganda 77 3.1 43 Moldova 35 2.1 6 Pakistan 76 3.0 44 Venezuela 34 2.1 7 Azerbaijan 74 2.9 45 Italy 34 2.2 8 Iceland 72 2.8 46 Hungary 34 2.2 9 Iran 70 2.9 47 Brazil 34 1.9 10 Norway 69 2.7 48 Algeria 33 2.0 11 Egypt 68 2.9 49 Poland 33 2.2 12 Jordan 65 2.8 50 Ireland 31 2.2 13 Luxembourg 63 2.6 51 El Salvador 31 2.1 14 Philippines 61 2.7 52 Australia 31 2.2 15 South Africa 60 2.7 53 Armenia 30 1.9 16 Netherlands 55 2.6 54 Latvia 27 2.0 17 India 55 2.6 55 Bulgaria 27 2.1 18 Malta 52 2.4 56 Estonia 27 2.1 19 Sweden 51 2.5 57 Ukraine 27 2.0 20 Zimbabwe 50 2.5 58 Slovenia 25 2.1 21 Portugal 49 2.4 59 Colombia 25 1.9 22 Denmark 49 2.5 60 Greece 24 2.0
+
+23 Spain 48 2.4 61 Serbia and Montenegro 24 2.0
+
+24 Taiwan 46 2.5 62 Mexico 23 1.9 25 Albania 45 2.3 63 Croatia 23 2.0 26 Nigeria 45 2.4 64 Morocco 22 1.8 27 Switzerland 44 2.3 65 Japan 22 2.0
+
+28 Finland 44 2.4 66 Bosnia and Herzegovina 20 2.0
+
+29 Turkey 43 2.2 67 Russian Federation 19 1.8
+
+30 Indonesia 43 2.4 68 Romania 19 1.8 31 Slovakia 43 2.3 69 New Zealand 15 1.9
+
+32 Uruguay 42 2.2 70 Dominican Republic 12 1.8
+
+33 Canada 41 2.3 71 Czech Republic 12 1.8 34 Austria 41 2.4 72 Argentina 11 1.7 35 France 41 2.2 73 Korea, South 11 1.7 36 Georgia 41 2.2 74 Lithuania 11 1.8 37 United States 38 2.3 75 Peru 10 1.8 38 Belarus 37 2.2 76 Macedonia 7 1.5
+
+Comment: The results come from World Values Survey 1999-2002 and the QoG dataset. The higher mean the more trust.
+
+8
+
+Table 2. Trust in Parliament Ranked Among 45 European and OECD Countries (Percent and Mean)
+
+Rank
+
+Country
+
+Trust in parliament (%)
+
+Trust in parliament (mean)
+
+Rank
+
+Country
+
+Trust in parliament (%)
+
+Trust in parliament (mean)
+
+1 Iceland 72 2.8 24 Moldova 35 2.1 2 Norway 69 2.7 25 Italy 34 2.2 3 Luxembourg 63 2.6 26 Hungary 34 2.2 4 Netherlands 55 2.6 27 Poland 33 2.2 5 Malta 52 2.4 28 Ireland 31 2.2 6 Sweden 51 2.5 29 Australia 31 2.2 7 Portugal 49 2.4 30 Armenia 30 1.9 8 Denmark 49 2.5 31 Latvia 27 2.0 9 Spain 48 2.4 32 Bulgaria 27 2.1 10 Albania 45 2.3 33 Estonia 27 2.1 11 Switzerland 44 2.3 34 Ukraine 27 2.0 12 Finland 44 2.4 35 Slovenia 25 2.1 13 Turkey 43 2.2 36 Greece 24 2.0
+
+14 Slovakia 43 2.3 37 Serbia and Montenegro 24 2.0
+
+15 Canada 41 2.3 38 Croatia 23 2.0 16 Austria 41 2.4 39 Japan 22 2.0
+
+17 France 41 2.2 40 Russian Federation 19 1.8
+
+18 Georgia 41 2.2 41 Romania 19 1.8 19 United States 38 2.3 42 New Zealand 15 1.9
+
+20 Belarus 37 2.2 43 Czech Republic 12 1.8
+
+21 Belgium 36 2.2 44 Korea, South 11 1.7 22 Germany 36 2.2 45 Lithuania 11 1.8
+
+23 United Kingdom 36 2.2
+
+Comment: The results come from World Values Surveys 1999-2002 and the QoG dataset. The higher mean the more trust.
+
+9
+
+Table 3. Correlates of Trust in parliament (r) All Available Countries in the QoG Data Bank
+
+Limited Number of Countries , mostly European and OECD Societal Outcome Variables r Effect of QoG n r Effect of QoG n Heath Outcomes Subjective Health .00 None 45 +.37 Positive 15 Life Expectancy at Birth -.33 Negative 74 +.51 Positive 45 Infant Mortality Rate +.41 Negative 70 -.28 Positive 40 Mortality Rate Children < 5 years +.39 Negative 75 -.30 Positive 45 Prevalence of HIV +.20 Negative 71 -.10 Positive 42 Ecological Outcomes Environmental Sustainability Index -.17 Negative 74 +.56 Positive 43 Air Quality -.33 Negative 74 ±.00 None 43 Water Quality -.14 Negative 74 +.36 Positive 43 Improved Drinking Water Source -.26 Negative 61 +.46 Positive 32 Carbon Emissions -.20 Positive 76 +.17 Negative 45 Forest Cover Change +.10 Positive 66 +.40 Positive 37 Economic Outcomes GDP per Capita ±.00 None 71 +.59 Positive 43 GDP Growth ±.00 None 71 -.14 Negative 43 Gini Index ±.00 None 75 -.37 Positive 1) 44 Unemployment -.14 Positive 30 -.22 Positive 1) 29 Social Outputs/Outcomes Social Security Laws -.36 Negative 61 +.10 Positive 37 Benefit Generosity Index +.68 2) Positive 18 +.68 Positive 18 Relative Poverty Rate -.45 Positive 29 -.36 Positive 27 Human Development Index -.36 Negative 74 +.47 Positive 44 Subjective Feel Good Outcomes Happiness +.24 Positive 75 +.59 Positive 44 Life Satisfaction ±.00 None 76 +.59 Positive 45 The Good Society Index (GSI) -.14 Negative 70 +.58 Positive 41 2) The same countries as in column 2
+
+1) less inequality and less unemployment
+
+Comment: Results come from the QoG data bank and WVS 1999 – 2002. Trust in parliament is seen as a QoG variable. “Effect of QoG” indicates whether trust in parliament is positively or negatively related to a “good” outcome in the societal outcome variables. The set of European and OECD countries include countries with more reliable and trustworthy survey research; countries where the trust in parliament results are plausible. n = number of countries.
+
+View publication stats

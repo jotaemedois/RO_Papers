@@ -1,0 +1,399 @@
+297 Legislative Studies Quarterly, 46, 2, May 2021 DOI: 10.1111/lsq.12275
+
+RUTH DASSONNEVILLE
+
+ANDRÉ BLAIS
+
+SEMRA SEVI Université de Montréal JEAN-FRANÇOIS DAOUST
+
+University of Edinburgh
+
+How Citizens Want Their Legislator to Vote
+
+Different people have different views about what elected representatives should do in a democracy. Some people think legislators should follow their own conscience (personal view), others think they should do what the majority of citizens in their constituency want (view of the constituency), and yet others think they should do what they promised during the election campaign (campaign promise). Sometimes, these considerations converge, that is, the legislator is personally in favor of a proposed legislation, he or she promised to vote for that legislation in the previous election campaign, and there is majority support for it in the legislator’s constituency. However, which of these consideration(s) should matter the most when there is a conflict? Using an experimental design, we ascertain how these principles of representation affect citizens’ views about how legislators should vote on a salient policy (immigration). Of the three styles of representation, we find that citizens pay the greatest attention to the state of public opinion in their constituency.
+
+Modern-day democracies are organized around the principle of representation, where citizens elect individuals who represent them in the legislature and in government (Manin 1997). While this is a general principle, there is substantial variation in how politicians and citizens view the role of a representative. The theoretical literature on representative democracy has distinguished different styles of representation. The most important distinction is arguably the contrast between trustee and mandate models of representation. While representatives who fulfill their role as a trustee follow their own judgment when taking decisions, the mandate model requires representatives to act according to the instructions of a principal (Burke 1774; Dudzinska et al. 2014; Eulau and Karps 1977).
+
+© 2020 Washington University in St. Louis
+
+298 Ruth Dassonneville et al.
+
+Mandate models of representation can take many forms, depending on whether representatives who act as delegates follow the instructions of their party or those of voters (Converse and Pierce 1979). Even when limiting the mandate approach to models in which representatives act as delegates of voters, there are different ways of doing so (Rehfeld 2009).
+
+In addition to a trustee model of representation, in this article we focus on two specific types of mandate representation that both focus on representation of the constituents, one that is promissory, and another that is anticipatory (Mansbridge 2003). The promissory-mandate style of representation holds that a legislator acts as a delegate of the constituents, with “the terms of agreement [being] set by the candidate or the party in the form of a campaign promise” (Rehfeld 2009, 220). In an anticipatory-mandate model, the representative has a different time perspective and “tries to please future voters” (Mansbridge 2003, 517). When public opinion changes in particular, a representative who wants to anticipate the evaluations of future voters will try to continuously monitor the public mood and follow public opinion. Our focus is on public opinion, and we hence refer to this model as an opinion-mandate model of representation.
+
+Each of these styles of representation provides some value to ensure the presence of a public-opinion policy nexus in democracies, and different legislators can fulfill their roles in different ways. However, a substantial literature has shown important differences—both within and between countries—in the ways in which elites conceive of their own role, with some acting more like trustees and others adhering to a mandate perspective (Converse and Pierce 1979; Deschouwer and Depauw 2014; Gross 1978; Miller and Stokes 1963). Others have taken a citizen-centered perspective and have analyzed what style of representation citizens want their legislators to adhere to (Bengtsson and Wass 2010, 2011; Carman 2006, 2007; Campbell et al. 2019; Méndez-Lago and Martinez 2002). In this article, we contribute to this latter strand of the literature. However, unlike most previous studies1  on citizens’ preferences for different styles of representation, we use an experimental design to analyze what citizens want. We present the results from a vignette experiment that was embedded in an online representative survey in Canada conducted in the summer of 2018. We make an important theoretical contribution to the literature on representation by comparing how much citizens value three different normative principles (trustee,
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+299 How Citizens Want Their Legislator to Vote
+
+promissory mandate. or opinion mandate) in comparison to their personal opinions regarding a salient issue on which a Member of Parliament (MP) is required to vote: reducing the number of immigrants coming to Canada by 10%. In doing so, we offer an exploratory study of citizens’ preferences for different representational styles in a context that has not previously been investigated. We find that all three aspects of representation matter but that the most important consideration is the majority opinion in the constituency.
+
+Previous Work and Expectations
+
+Our main goal is to determine which style of representation citizens prefer and to contrast this with how much citizens value seeing their own preferences turned into policy. As mentioned previously, we distinguish three important styles of representation, a trustee type of representation, a promissory-mandate form of representation, and an opinion-mandate model of representation. Many scholars have described the concept of representation (Burke 1774; Eulau et al. 1959; Eulau and Karps 1977; Mansbridge 2003; Pitkin 1967; Rehfeld 2009), and have studied it empirically (Carman 2006, 2007; Doherty et al. 2016, 2019; Miller and Stokes 1963; Werner 2019a, 2019b). Despite this wealth of work, a generally accepted typology of different styles of representation is missing from the literature. The most common and traditional way to distinguish between different styles of representation is to contrast a mandate and a trustee style of representation. Pitkin (1967, 145) summarizes this distinction—which she referred to as a mandateindependence controversy—by means of the following question: “Should (must) a representative do what his constituents want, and be bound by mandates or instructions from them; or should (must) he be free to act as seems best to him in pursuit of their welfare?”
+
+Given its impact in the field, we also rely on the distinction between trustee and mandate styles of representation. It should be acknowledged, however, that despite the strong focus on the trustee-mandate contrast, this distinction is not uncontested. Eulau et al. (1959, 750), for example, argue that this dichotomy is “unlikely to exhaust the possibilities of representational styles” and suggest thinking of trustee and mandate styles of representation as poles on a continuum of representation. Mansbridge (2003), for her part, found the mandate-trustee dichotomy unsatisfactory and
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+300 Ruth Dassonneville et al.
+
+proposed a fourfold typology of representation in which she distinguishes between promissory, anticipatory, gyroscopic, and surrogate representation. Rehfeld, however, argues that Mansbridge “simply trades one kind of complexity (the distinction collapsed in the “trustee/delegate” distinction) for another” (2009, 220). Instead, he argues that the trustee/delegate distinction in fact collapses three distinctions: different aims, a different source of judgment, and different levels of responsiveness. When taking these differences into account, Rehfeld (2009) argues, one can distinguish eight styles of representation that are all embedded in the original distinction between trustee and mandate styles of representation.
+
+Despite these conceptual debates, the trustee/mandate distinction is by far the most often studied dichotomy in work on politicians’ and voters’ perceptions of representation (Carman 2006, 2007; Méndez-Lago & Martínez 2002; Miller and Stokes 1963; Werner 2019a, 2019b). In general, the trustee-type label is used for referring to representatives who take decisions independently (Bengtsson and Wass 2011; Carman 2006; Miller and Stokes 1963), based on their own judgment for the common good (Carman 2007; Méndez-Lago and Martínez 2002). In contrast, representatives who act in accordance with a mandate conception take instructions from someone else (Burke 1774). Mandate representation can take many forms, as representatives can take instructions from different actors, such as their voters, their constituents, or the party they belong to. We examine two specific types of mandate representation that both focus on representation of the constituents: one that is promissory and another that is anticipatory (Mansbridge 2003).
+
+The idea of a promissory style of representation was originally introduced by Mansbridge (2003) as part of her fourfold typology of different styles of representation. With promissory representation, she referred to a style where the representative is responsible to the voter via the promises that she makes. Mansbridge’s goal was to move beyond the classic distinction between trustees and delegates. As a consequence, promissory representation does “not map well onto the traditional dichotomy of ‘mandate’ and ‘trustee’” (Mansbridge 2003, 515) and can be conceived of in both a mandate version and in a trustee version. In the former case, the representative “promises to follow the constituents’ instructions or expressed desires”; in the latter case, she “promises to further the constituency’s long-run interests and the interests of the nation as a whole” (Mansbridge 2003, 516). For the purposes of this article,
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+301 How Citizens Want Their Legislator to Vote
+
+we focus on a mandate version of promise keeping—distinguishing it clearly from a trustee model in which the representative follows his or her own conscience. In a mandate version, the promissory style of representation holds that the legislator acts as a delegate of the constituents, with “the terms of agreement [being] set by the candidate or the party in the form of a campaign promise” (Rehfeld 2009, 220). Democratic theorists attach great importance to this style of representation, and it is in fact thought of as one of the mechanisms that ensures representation of citizens’ interests (Pomper 1967). The binding character of election pledges is also a key ingredient to the Responsible Party Model (APSA 1950). Furthermore, empirical work has shown that citizens tend to react negatively to elected officials changing their positions (Croco 2016; Doherty et al. 2016, 2019; Tomz and Van Houweling 2016). Mansbridge (2003) contrasted a promissory style of representation with anticipatory representation, a style of representation for which the representative’s time frame is different. In short, Mansbridge describes anticipatory representation as a style in which “the representative tries to please future voters” (2003, 517). When public opinion changes in particular, a representative who wants to anticipate the evaluations of future voters will try to continuously monitor the public mood and follow public opinion. Given that re-election is what is assumed to motivate representatives to follow an anticipatory model (Mansbridge 2003), our analysis focuses on public opinion in the representative’s riding.2  We refer to this model as an opinion-mandate model of representation.
+
+Studies that have described legislators’ behavior are suggestive for these different styles of representation being actually at work. For example, Naurin et al. (2019) show that a large majority of the pledges that politicians make are indeed fulfilled when in office— implying that promises are being kept. Furthermore, the presence of a strong link between public opinion and policy—in-between elections (Soroka and Wlezien 2010; Stimson et al. 1995)—is also suggestive of a mechanism of anticipation being at work. Besides different styles of representation, the literature also distinguishes different foci of representation, that is, what group the legislator is seeking to represent. According to Eulau and Karps (1977), the focus of representation can refer to a certain geographical unit (e.g., the nation, region, or district), a group of people who share certain interests (e.g., an ethnic, religious, or ideological group), or an individual. Each style of representation can in principle be applied to different foci, making for a number
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+302 Ruth Dassonneville et al.
+
+of different style/focus combinations that is too large to be studied within the scope of a single article. As such, we restrict our analysis to a single focus of representation: the constituency. This is arguably the most natural “focus” of representation to be analyzed, as elected representatives formally represent their constituents in the legislative assembly. In addition, work that has compared the weight given to representing different geographical units—the constituency versus the nation as a whole in particular—suggests that both citizens and legislators value constituency representation more (Dudzinska et al. 2014; Eulau et al. 1959; Méndez-Lago and Martínez 2002).
+
+Existing research has mostly focused on how elites (i.e., legislators) conceive their representative roles (Converse and Pierce 1979; Studlar and McAllister 1996). In one of the first studies on the topic, Converse and Pierce (1979) asked representatives in France how they would vote in case of a conflict between their own conscience and either their party’s or voters’ views. They find that representatives value their party’s position more than their own conscience, suggesting that they think of their role as party delegates, not trustees. The views of French legislators appear to differ strongly from those in the Netherlands and the United States. In the latter two countries, Converse and Pierce (1979) find that legislators value their own conscience more. What legislators in these three countries have in common, however, is that they all rank the majority opinion of voters as the least important consideration in the case of conflict.
+
+A comparative analysis of representatives in 14 European countries reaches similar conclusions. Asked to indicate how they would behave when different representation roles are in conflict with each other, a plurality of legislators indicate that they would follow the party line (48%), followed by their own conscience (31%) and their voters’ opinion (16%) (Dudzinska et al. 2014). Importantly, even though Dudzinska et al. (2014) find substantial between-country variation, legislators in all 14 countries consistently rank the “voter delegate” conception last. Citizens’ priorities are rather different from those of representatives. When citizens in France were asked what representatives should do in case of a conflict between their own conscience, the party position, and that of the majority of voters, Converse and Pierce (1979) find that citizens think voters’ views should rank first, before the legislator’s conscience and the party line. Research along these lines in the United Kingdom (Carman 2006), the
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+303 How Citizens Want Their Legislator to Vote
+
+United States (Carman 2007), Spain (Méndez-Lago and Martínez 2002), and Finland (Bengtsson and Wass 2011; von Schoultz and Wass 2016) shows a similar pattern: citizens think that in case of a conflict between different styles of representation, the opinion of the constituency or of voters should be prioritized over the party line or the legislator’s own conscience. Most previous work on preferences among different styles of representation has, following Converse and Pierce (1979), asked respondents a sequence of questions in which two styles are contrasted each time (Bengtsson and Wass 2011; Carman 2006, 2007; Méndez-Lago and Martínez 2002). Others have asked citizens to rate different styles of representation, without contrasting them explicitly (Bengtsson and Wass 2010). Recent studies, however, have relied on an experimental design to evaluate citizens’ preferences (Campbell et al. 2019; Doherty et al. 2019; Werner 2019a, 2019b). More specifically, these studies have designed conjoint or vignette experiments to measure what representational styles citizens prefer. As Werner (2019a, 492) argues, embedding styles of representation in a series of vignettes that deal with concrete situations renders them less abstract. Respondents are then asked how they think the representative should respond to the situation that is presented in the vignette. We follow this approach and develop a set of vignettes to capture citizens’ preferences for three styles of representation: trustee, promissory-mandate, and opinion-mandate representation. In doing so, our experimental design consists of a vignette in which we provide respondents with information about: (1) the legislator’s personal opinion; (2) the promise the legislator made in the previous campaign; and (3) the majority opinion in their constituency.
+
+The main goal of vignette experiments is to mimic “the real world” (Hainmueller et al. 2015). Precisely for this reason, we have designed the vignette around a realistic and concrete policy proposal regarding a highly salient issue: immigration. The focus on a concrete and salient policy issue in the real world sets our experiment apart from the work of Werner (2019a), who asked respondents to evaluate vignettes in which legislators had to decide on the placement of a hypothetical new school, an issue on which respondents had no prior preferences. In doing so, Werner wanted to ensure that her measures did not capture respondents’ “policy preferences instead of attitudes towards party representation styles” (2019a, 492). That is a valuable first step to gauging citizens’ preferences. However, in real life, citizens form opinions
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+304 Ruth Dassonneville et al.
+
+on important policy issues, and these preferences as well can enter their calculus when asked to indicate how a legislator should vote. In particular, when a citizen’s personal preference does not correspond to the majority view of her constituency, will she still indicate that a legislator should prioritize the majority opinion? Current work does not provide a clear answer to this question.
+
+There are indications that the issues that are at stake indeed matter for citizens’ preferences for representation. The experimental work of Doherty at al. (2016, 2019) shows important differences between issues, while Barker and Carman (2012) argue that citizens’ preferences for different styles of representation change according to the issues being considered (for example, foreign vs. domestic). Interestingly, Barker and Carman (2012) also suggest that citizens’ preferences for different styles of representation vary based on their religion and other traditionalistic influences. For example, in the 2006 and 2008 US elections, citizens who preferred the trustee style of representation also tended to vote for Republican candidates. As such, they suggest that citizens’ preferences for different models of representation are closely tied with their ideology and values. By focusing on a salient policy issue—on which the vast majority of voters have a preference—we can evaluate the extent to which citizens’ personal preferences distort their principled preferences for a particular style of representation. In doing so, we make an important theoretical and empirical contribution to the literature on citizens’ preferences for different representational styles.
+
+Research Design and Data
+
+We conducted a vignette experiment among a national sample of Canadians voters. Canada is a Westminster democracy where Members of the Canadian House of Commons are elected through a first-past-the-post electoral system.3  Each constituency is represented by one seat in parliament. Our survey experiment was part of an online omnibus survey by Ipsos and was in the field between June 15 and 18, 2018. A total of 2,001 Canadians eligible to vote responded to the survey. Our survey is nationally representative according to age, sex, and region.
+
+As mentioned, we selected a concrete and specific issue that is high on the political agenda and about which people are likely to have formed prior opinions. That issue is immigration. We selected a specific proposal that could be easily described and understood,
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+305 How Citizens Want Their Legislator to Vote
+
+that is, to reduce the number of immigrants by 10%. The issue of immigration has been a topic of debate in Canadian politics for a long time, and Canadians are used to thinking about immigration in general terms. This is also evident from survey research on this topic. The Canadian Election Study has consistently included a question asking respondents to indicate whether they preferred more, fewer, or about the same number of immigrants since 1988,4  and very few respondents refuse to answer this question. We have used this question (the version used since 1997) to measure respondents’ personal opinions in our own survey.
+
+The issue of immigration is particularly relevant in the context of our study, as immigration has recently gained more salience. We believe that reducing immigration by 10% is a realistic proposal; it is far from trivial without being too radical. As a further testimony of the realism of this proposal, we note that shortly after we conducted our survey, a party that promised to cut the number of immigrants by 20% (the Coalition Avenir Quebec) won the Quebec provincial election.5  Finally, at the federal level, the People’s Party of Canada pledged to reduce the inflow of immigration by about 17% during the 2019 Canadian election (PPC 2019). Canadian citizens are by no means exceptional in their attention to the issue of immigration. It has become a prominent issue in both Europe and North America; it is being politicized (Grande et al. 2019); and views about immigration are one of the drivers of the success of populist, radical right-wing parties (Hooghe and Dassonneville 2018; Stockemer 2016). What we want to know is whether people think that the MP should behave differently depending on his or her personal opinion (trustee), on the position the MP took in the previous campaign (promissory mandate), and on the state of public opinion in his or her constituency (opinion mandate). Each of those considerations captures one specific style of representation, and for each of them, there are two options (“for” or “against”) and thus eight possible scenarios. The trustee style of representation is first introduced to respondents by means of a reference to MPs following their own conscience. In the vignette itself, we refer to the MP’s personal opinion on the proposal to reduce immigration by 10%. In this way, we stress the independence of the MP, as well as the role of his or her own judgment—which are key elements of a trustee conceptualization of representation (Burke 1774; Carman 2006; Miller and Stokes 1963).6
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+306 Ruth Dassonneville et al.
+
+In the vignette, we consistently focus on individual MPs and, to keep the treatments short and comparable, we did not include references to parties. This focus matches well with the way in which we measured citizens’ preferences for different styles of representation: by asking voters how representatives should vote in the Canadian House of Commons. It is indeed individual MPs who cast votes for or against laws in Parliament. In addition, by referring to MPs in the vignette, we introduce the trustee style of representation, which refers to individual conscience, in a straightforward manner. It should be acknowledged that the exclusion of a reference to parties is not ideal for capturing the role of promise keeping. Party discipline is strong in Canada, and the most visible campaign promises are made by parties (Pétry 2014). Even if there is strong party discipline, however, MPs do not always follow the party line (Godbout forthcoming; Kam 2006). Indeed, there are cases where MPs switch parties because they disagree with their party (Sevi et al. 2018; Snagovsky and Kerby 2018). In addition, even if the most visible promises are made by the parties, the fact is that the local candidates relay these promises in their local canvassing. Furthermore, some local candidates also make some additional specific promises of their own. In this regard, Stephenson et al., who study the 2015 Canadian election, conclude that “candidates often set out their own policy views during nomination campaigns and discuss these with voters during the general election” (2019, 74). For all these reasons, we think it is safe to focus on MPs rather than parties in the vignette. We should add that in a small pretest of our vignette, none of the respondents raised a concern about strong party unity in Canada.
+
+In summary, each respondent is presented with a brief introduction followed by one vignette. This vignette includes three crucial pieces of randomized information—relating to the MP’s personal view (for/against), the majority opinion (for/against), and the pre-electoral promises (for/against). Figure 1 presents the vignette. We subsequently asked respondents whether their MP should vote “for” or “against” reducing the number of immigrants by 10%. This serves as our dependent variable. By comparing respondents’ answers across the various scenarios, we can determine which consideration citizens think should weigh the most in the MP’s vote decision: personal view, the majority view in the constituency, or the promise made during the campaign.
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+307 How Citizens Want Their Legislator to Vote
+
+After respondents told us how they thought their MP should vote, we asked them about their personal opinion on the issue: that is, whether they think Canada should admit more immigrants, fewer immigrants, or about the same as now. This way we can examine whether the respondent’s position on what the MP should do is conditioned by his or her personal view on immigration.7  We are particularly interested to find out how many citizens concede that their MP should vote for (against) the proposal if the majority in the constituency is for (against) even if they are personally against (for). For all of the analyses in the article and in the online supporting information, our data are weighted to account for the under- and overrepresentation of sociodemographic groups in the sample.
+
+Results
+
+We aim to determine whether people think their MP should vote for or against the proposal to reduce the number of immigrants by 10% and to what extent their responses are affected by information about the MP’s own personal opinion, his or her stand in the previous campaign, and the majority view in the constituency. This is precisely what our vignette experiment is about. Before analyzing the data from the vignette experiment, we evaluate whether assignment to the different conditions in the
+
+FIGURE 1  The Vignette Experiment
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+308 Ruth Dassonneville et al.
+
+vignette was balanced across sociodemographic groups by means of a series of t-tests. More specifically, we compare the mean values on these sociodemographic variables between respondents in the “for” and “against” conditions for each of the three parts of the vignette (i.e., the MP’s personal view, the majority view, and the MP’s promise). As can be seen from Appendix 1 in the online supporting information, none of the p-values associated with these t-tests suggests an imbalance. Our dependent variable is a binary variable that captures whether, according to the respondent, the MP should vote for or against the proposal to reduce immigration. Among all respondents in our sample, 61% indicate that the MP should vote in favor of the reduction and 39% answer that he or she should vote against. The most important question is whether these percentages vary depending on whether the MP is personally opposed or favorable, whether the MP promised to vote for or against in the previous campaign, and whether the majority opinion in the constituency is for or against.
+
+To ease the interpretation of the effects, in Table 1 we present the results of a series of linear probability models where the dependent variable takes the value of 1 if the respondent thinks that the MP should vote in favor of the proposal (to reduce the number of immigrants) and 0 if she thinks that the MP should vote against. Similarly, a value of 1 on the independent variables means that the MP is personally favorable, that he or she promised to vote in favor of the proposal in the previous campaign, and that the majority opinion is in favor, while a value of 0 means the opposite (against). Model 1 of Table 1 shows that each of the three coefficients has an independent effect (p < 0.01) on respondents’ views about what the MP should do. In other words, at least some people subscribe to each of the three principles of representation that are considered in our vignette experiment. That is, people are more likely to say that the MP should vote for the proposal if she is personally favorable (rather than opposed), if she promised to vote for (rather than against) in the campaign, and if the majority of constituents support (rather than oppose) the proposal. Which of the three principles matters the most? To answer this question, we present the average marginal effect of each principle in Figure 2. We can see that respondents give the greatest weight to the majority view in the constituency and that the MP’s personal opinion is the least important consideration. More
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+309 How Citizens Want Their Legislator to Vote
+
+TABLE 1
+
+Explaining Whether the Respondent Thinks His or Her MP Should Vote in Favor of Reducing the Number of Immigrants by 10%
+
+Model 1 Model 2 Model 3 Model 4 Model 5
+
+MP Personally in Favor (Ref:
+
+Against) 0.065** 0.067** −0.013 0.065** 0.100** (0.025) (0.025) (0.053) (0.021) (0.033) Majority of Citizens in Favor (Ref:
+
+Against) 0.203*** 0.202*** 0.190*** 0.217*** 0.289*** (0.025) (0.025) (0.053) (0.020) (0.033) MP Promised Voting in Favor (Ref:
+
+Against) 0.137*** 0.138*** 0.126* 0.106*** 0.102** (0.025) (0.025) (0.053) (0.021) (0.033) MP Personally in Favor × Majority of Citizens in Favor     0.082         (0.072)     MP Personally in Favor × MP Promised Voting in Favor     0.081         (0.074)     MP Promised Voting in Favor × Majority of Citizens in Favor
+
+−0.055         (0.073)
+
+MP in Favor × Majority of Citizens in Favor × MP Promised
+
+Voting in Favor
+
+−0.010         (0.100)
+
+Respondent Wants Fewer
+
+Immigrants (Ref: Same/More)       0.529*** 0.631***       (0.021) (0.042)
+
+Respondent Wants Fewer
+
+Immigrants × MP Personally in Favor
+
+−0.062         (0.041)
+
+(Continues)
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+310 Ruth Dassonneville et al.
+
+Model 1 Model 2 Model 3 Model 4 Model 5
+
+Respondent Wants Fewer
+
+Immigrants × Majority of Citizens in Favor
+
+−0.140***         (0.040)
+
+Respondent Wants Fewer
+
+Immigrants × MP Promised
+
+Voting in Favor
+
+0.001         (0.041)
+
+Order Fixed Effects No Yes Yes Yes Yes
+
+Intercept 0.407*** 0.341*** 0.370*** 0.086* 0.034 (0.025) (0.040) (0.049) (0.035) (0.039) (N) 2001 2001 2001 2001 2001
+
+R2 0.067 0.073 0.077 0.365 0.371
+
+Note: Coefficients and standard errors from OLS models (where voting in favor = 1) are reported. Significance levels:
+
+*p < 0.05;**p < 0.01;***p < 0.001.
+
+TABLE 1 (Continued)
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+311 How Citizens Want Their Legislator to Vote
+
+precisely, the marginal effect of constituency opinion is 20 percentage points (the probability of saying that the MP should vote for the proposal increases from 51% when the majority opinion is against to 71% when it is in favor); the equivalent effect of an MP’s promise is 14 percentage points (the probability of responding that the MP should vote in favor of the proposal goes from 54% to 68% when the MP had promised to vote against or for), and that of the MP’s personal view is 7 percentage points (the same probability shifts from 58% to 64% depending on whether the MP is personally opposed or favorable).
+
+These are our main findings. Each of the three principles has some leverage, and there is a clear rank order in the weight given to these principles. The most meaningful is the opinion-mandate model, followed by the promissory-mandate one. The trustee model is the weakest representative style.
+
+As can be seen from Model 2, these effects are largely unaffected when we take into account the order in which the three considerations are presented to respondents. In Model 3, we test for potential interactions between the three considerations. None of
+
+FIGURE 2  Marginal Effects of the Three Considerations
+
+Note: Marginal effects and 95% confidence intervals are presented. Estimates obtained from Model 1 of Table 1.
+
+0
+
+.05
+
+.1
+
+.15
+
+.2
+
+.25
+
+.3
+
+Marginal effects
+
+MP is in favor Majority is in favor MP promised to vote in favor
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+312 Ruth Dassonneville et al.
+
+the interaction terms is significant. In Model 4, we add respondents’ personal opinion on immigration, which we dichotomized to fewer versus more/the same.8  The results show an important effect; the predicted probability of saying that the MP should vote for the proposal is only 34% among those who believe there should be more or as many immigrants, compared to 87% among those who think Canada should admit fewer immigrants, a difference of 53 percentage points. This is a strong effect, more than double the size of the closest competitor among the three experimental conditions. Hence, while citizens’ views on representation matter for explaining how they think MPs should vote, their own preferences matter much more.
+
+Respondents’ personal political preferences strongly affect their views of how an MP should vote, but do these preferences condition the effects of the three principles examined in this study? Model 5 answers this question. In this model, we add interactions between the three experimental conditions and the respondents’ personal views. As clear from the results in Table 1, and the plots in Figure 3, for the personal preference of the MP and the preelectoral promise made by the MP, their effect on a respondent’s likelihood of saying the MP should vote in favor of the law reducing immigration is similar regardless of the respondent’s personal
+
+FIGURE 3  Marginal Effects (ME) of MP’s Personal View, the Majority Opinion, and the MP’s Promise by Respondents’ Personal Views on Immigration
+
+Note: Marginal effects and 95% confidence intervals are presented. Estimates obtained from Model 5 of Table 1.
+
+0
+
+.1
+
+.2
+
+.3
+
+MP position
+
+Wants more/same
+
+immigrant
+
+Wants fewer
+
+immigrant
+
+0
+
+.1
+
+.2
+
+.3
+
+Majority position
+
+Wants more/same
+
+immigrant
+
+Wants fewer
+
+immigrant
+
+0
+
+.1
+
+.2
+
+.3
+
+Promise
+
+Wants more/same
+
+immigrant
+
+Wants fewer
+
+immigrant
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+313 How Citizens Want Their Legislator to Vote
+
+views on immigration. The effect of the majority opinion is also positive and significant regardless of respondents’ personal views. However, the size of this effect is conditioned by respondents’ personal views. Both citizens who want fewer immigrants as well as those wanting more or the same levels of immigration are significantly more likely to support the MP voting in favor of the reduction when the majority of citizens shares this opinion. The effect of the majority opinion on citizens wanting the MP to vote in favor of the law, however, is significantly larger when the majority view is consistent with their own opinions. That is, when respondents personally want fewer immigrants and the majority of citizens in their district is in favor of a reduction, they are significantly more likely to want the MP to vote in favor of the law than when their personal view is at odds with the majority opinion. Finally, it is important to note that the principles are not conditioned on respondents’ region, age, gender, or their vote intention (if there was a federal election). Respondents’ views on immigration differ only slightly across regions, age, gender, and education (see Appendix 2 in the online supporting information). Furthermore, these variables do not significantly affect the weight that they attach to different styles of representation. This is evident from supplementary analyses—reported in Appendix 3—that show no significant interactions between age, gender, or education and the three styles of representation.
+
+Discussion
+
+A vast literature studies how representation should work in a democracy and identifies different styles of representation. In this article, we distinguish three normative principles and evaluate their importance for citizens. The first is the trustee model according to which the MP should follow his or her own conscience. Against this view is the citizen-mandate model whereby the MP should follow instructions from her constituency. We focus on two kinds of mandate models, one that is promissory and another that is anticipatory. (i.e., an opinion-mandate model). There is an important debate about the pros and cons of these various approaches and extensive research on how elected representatives themselves view their roles. A growing body of work also studies citizens’ views on representation empirically. We contribute to the literature through an experimental design that allows us to ascertain the weight that people give to these principles when it comes
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+314 Ruth Dassonneville et al.
+
+to deciding how a legislator should vote on a concrete and salient issue (immigration). Of the three styles of representation, we find that citizens pay the greatest attention to the state of public opinion in the constituency. The probability of saying that the MP should vote for the proposal is 20 percentage points higher when the majority of constituents support rather than oppose the proposal. Citizens’ conception of representation is thus in sync with the dominant empirical approaches to ascertain the quality of representation. Such work has consistently used public opinion as a yardstick. For example, scholars have examined the concordance (or lack thereof) between the opinions of citizens on the one hand and the (perceived) position of parliaments or governments on the other, with respect to ideological orientations (Blais and Bodet 2006; Golder and Stramski 2010). Scholars focusing on responsiveness in terms of policy outcomes similarly seek to ascertain to what extent government policies are reflective of public opinion (Soroka and Wlezien 2010; Stimson et al. 1995).
+
+A large number of studies have argued that the majority opinion is citizens’ most important consideration for representation (Bengtsson and Wass 2011; Carman 2006, 2007; Converse and Pierce 1979; Méndez-Lago and Martínez 2002; von Schoultz and Wass 2016). However, the study that is perhaps closest to our own—Werner’s (2019a) analysis of representational styles in Australia—comes to a different conclusion and shows that citizens value the trustee style most. Like us, Werner employs a vignette experiment to evaluate the impact of different representational styles rather than asking citizens to rate their preferences for abstract principles. Furthermore, both our analysis and that of Werner contrasts a trustee style with promise keeping and following public opinion. Why do we find that public opinion matters most, while Werner (2019a) points to the trustee style as the most valued style of representation? The difference might be due to the different geographical focus of both studies, though we have no reason to believe that the preferences for representation of Australians and Canadians would be substantially different. More likely, elements of the designs explain these differences. First, Werner (2019a) focuses on an issue that is not politicized and where respondents do not have clear preferences prior to being exposed to the vignette. In contrast, our design focuses on the salient, contentious, and politicized issue of immigration. It is quite possible that citizens are more willing to rely on an MP’s or expert’s judgment when deciding
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+315 How Citizens Want Their Legislator to Vote
+
+on a nonpoliticized issue than when they have strong views on a topic—in which case public opinion is valued more. Previous work has indeed shown that citizens’ views of representation indeed vary depending on the issue at stake (Barker and Carman 2012; Doherty et al. 2016, 2019). Second, while we focus on the “independence” element of a trustee style, Werner (2019a) highlights the importance of pursuing the “common good” in a trustee style of decision-making by following experts’ advice. Perhaps the latter is the more important consideration, though referring to experts’ views might also backfire—in particular when ideological preferences are strong (Nyhan and Reifler 2010). More experimental research is needed to estimate the precise roles of issue saliency on the one hand and different elements of a trustee model on the other for explaining these differences. Our results add important insights on the functioning and legitimacy of decision-making in representative democracies. Citizens think that legislators should vote according to their conscience, should keep their promises, and should do what the majority of citizens want. The majority view clearly matters most, however, suggesting that to increase the legitimacy of decisionmaking, legislators should first and foremost take into account the majority opinion. While other studies have already shown that voters, in the abstract, want legislators to take the majority opinion into account, we show that this holds for issues that voters care deeply about—like immigration. Focusing on such a concrete and salient issue allows shedding light on how much citizens care about the majority view when their own opinions are at odds with those of the majority of citizens. On this point, informing citizens that the majority of citizens in their district is in favor of a reduction of immigration always increases their support for this law. Even if this message is significantly less effective among citizens whose personal opinions are at odds with the majority view, following the majority opinion will always increase support for the MP’s parliamentary behavior.
+
+These results, however, raise additional questions and interesting venues for future research. First, do people believe that a legislator should follow public opinion in their local constituency or public opinion in the whole country? Second, how should a legislator respond to the distribution of public opinion? In our experiment, we only referred to the majority view without indicating how strong or weak that majority is. It remains to be seen whether
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+316 Ruth Dassonneville et al.
+
+people react differently depending on whether the majority viewpoint is shared by 51%, 60%, 75%, and so on of the constituents.
+
+Another, less reassuring, finding emerges from our analyses. We find that many people think that the MP should do what he or she personally wants, irrespective of whether public opinion is in sync with the MP’s personal view or not. In fact, 79% of those who are personally in favor of reducing the number of immigrants still think that the MP should vote for the proposal even if the majority opinion is opposed, and 47% of those who are personally opposed to the proposal say that the MP should vote against even if the majority of constituents are favorable. In other words, people consider that their own personal views matter more than that of the majority opinion, at least on a salient and emotional issue such as immigration. In doing so, they are in fact signaling that they do not accept being part of a “losing” minority. These findings are consistent with the results of Rosset et al. (2017), who show that people are less supportive of the principle that governments should respond to the majority view when their policy preferences are close to those of the government. Given the importance of losers’ consent for democratic legitimacy (Anderson et al. 2005), the weight that citizens give to their personal opinion is a cause for concern. Why it is so remains to be investigated. One possibility is that many people assume that about everyone shares their own personal views on the major issues of the day (Hibbing and Theiss-Morse 2009), and they deem highly implausible the scenario in which majority opinion in their constituency differs from theirs, or they infer that the contrary opinion is based on lack of information or misinformation. It would be interesting to see how people react if/when they are explicitly faced with the objection that it is undemocratic for representatives not to follow the majority viewpoint.
+
+Ruth Dassonneville <ruth.dassonneville@umontreal.ca> is an Assistant Professor in the Department of Political Science at Université de Montréal where she holds a Canada Research Chair in Electoral Democracy. André Blais <andre.blais@umontreal.ca> is a Professor in the Department of Political Science at the Université de Montréal where he holds a Research Chair in Electoral Studies. Semra Sevi <semra.sevi@umontreal.ca> is a PhD Candidate in the Department of Political Science at the Université de Montréal.
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+317 How Citizens Want Their Legislator to Vote
+
+Jean-François Daoust <jf.daoust@ed.ac.uk> is a Lecturer at the University of Edinburgh in Politics and International Relations. His research interests include political behavior, public opinion, and research methods.
+
+NOTES
+
+We would like to thank the editors and the journal’s annonymous reviewers for their helpful comments and suggestions as well as participants of the weekly seminars co-hosted by the Research Chair in Electoral Studies and the Canada Research Chair in Electoral Democracy at the Université de Montréal, Bell Chair in Canadian Parliamentary Democracy, and the 2019 Canadian Political Science Conference in Vancouver. 1. See Campbell et al. (2019), Doherty et al. (2019), and Werner (2019a, 2019b) for some exceptions. 2. It should be pointed out that in that model, the representative attempts to anticipate constituents’ reactions at the next election on the basis of their present opinions. In theory, of course, the representative could attempt to anticipate constituents’ opinions at the time of the next election. We assume that present constituents’ opinions provide the best predictor of their opinions at the time of the next election. 3. Canadian voters are invited to cast a ballot for a given candidate in their riding. The candidate’s name is followed with the party name. We know that voters’ choices for candidates are strongly shaped by partisan considerations (Blais and Daoust 2017). 4. In 1988, the question was: “Some people think that the government of Canada should tighten up its immigration policy. Others think that Canada should welcome even more immigrants. How about you? Should Canada admit more immigrants or fewer immigrants than at present?” In 1993, the question wording was: “Do you think Canada should admit more immigrants or fewer immigrants than at present?” In both years, there was an option to indicate “Depend/stay the same.” Since 1997, the preferences for a status quo are explicitly mentioned in the question, by means of the following wording: “Do you think Canada should admit more immigrants, fewer immigrants or about the same as now?” 5. We conducted our survey in June 2018, and the Quebec provincial elections were held on October 1, 2018. 6. In referring to the MP’s personal opinion, and in priming—via the introduction—the role of the MP’s conscience in a trustee model of representation, our vignette captures the essence of this style of representation. However, it could be argued that a trustee model is more complex and entails the MP following his or her own judgment regarding the public good. We acknowledge that not including this nuance is a limitation of our experimental design. 7. Given that attitudes on immigration were surveyed after the treatment, there might be a concern that including these views in the models introduces a
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+318 Ruth Dassonneville et al.
+
+posttreatment bias in our analyses (Montgomery et al. 2018). Supplementary analyses, reported in Appendix 4 in the online supporting information, suggest that citizens’ views on immigration do not vary substantially by the different pieces of information they were exposed to in the vignette. While there is a significant difference in means for one of the three comparisons, it is substantively small. 8. Fifteen percent of our respondents indicated that Canada should have more immigrants, 46% that there should be fewer, and 39% that it should be the same as now.
+
+REFERENCES
+
+Anderson, Christopher J., André Blais, Shaun Bowler, Todd Donovan, and Ola Listhaug (ed.). 2005. Losers' Consent: Elections and Democratic Legitimacy. Oxford: Oxford University Press. APSA. 1950. “Toward a More Responsible Two-Party System.” American Political Science Review 44: Supplement. Barker, David C., and Christopher Jan Carman. 2012. Representing Red and Blue: How the Culture Wars Change the Way Citizens Speak and Politicians Listen. Oxford: Oxford University Press. Bengtsson, Asa, and Hanna Wass. 2010. “Styles of Political Representation: What Do Voters Expect?” Journal of Elections, Public Opinion and Parties 20: 55–81. Bengtsson, Asa, and Hanna Wass. 2011. “The Representative Roles of MPs: A Citizen Perspective.” Scandinavian Political Studies 34: 143–67. Blais, André, and Marc André Bodet. 2006. “Does Proportional Representation Foster Greater Congruence Between Citizens and Policymakers?” Comparative Political Studies 39: 1243–62. Blais, André, and Jean-François Daoust. 2017. “What Do Voters Do When
+
+They Like a Local Candidate from Another Party?” Canadian Journal of Political Science 50: 1103–09. Burke, Edmund.1774. “Speech to the Electors of Bristol.” Online Library of Liberty. https​://oll.liber​tyfund.org/title​s/burke-select-works-of-edmundburke-vol-4 (Accessed February 11, 2019). Campbell, Rosie, Philip Cowley, Nick Vivyan, Markus Wagner. 2019. “Legislature
+
+Dissent as a Valence Signal.” British Journal of Political Science 49: 105– 128. https​://doi.org/10.1017/S0007​12341​6000223 Carman, Christopher Jan. 2006. “Public Preferences for Parliamentary
+
+Representation in the UK: An Overlooked Link?” Political Studies 54: 103–22. Carman, Christopher Jan. 2007. “Assessing Preferences for Political
+
+Representation in the US.” Journal of Elections, Public Opinion and Parties 17: 1–19. Converse, Philip E., and Roy Pierce. 1979. “Representative Roles and Legislative Behaviour in France.” Legislative Studies Quarterly 4: 525–62.
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+319 How Citizens Want Their Legislator to Vote
+
+Croco, Sarah E. 2016. “The Flipside of Flip-Flopping: Leader Inconsistency, Citizen Preferences, and the War in Iraq.” Foreign Policy Analysis 12: 237–57. Deschouwer, Kris, and Sam Depauw (eds.). 2014. Representing the people: a survey among members of statewide and substate parliaments. Oxford: Oxford University Press. Doherty, David, Amanda Clare Bryan, Reid Willis, and Paul Witry. 2019. “Representation Imperatives in the Public Mind.” Social Science Quarterly 100: 1963–83. Doherty, David, Conor M. Dowling, and Michael Miller. 2016. “When Is Changing Policy Positions Costly for Politicians? Experimental Evidence.” Political Behaviour 38: 455–84. Dudzinska, Agnieszka, Corentin Poyet, Olivier Costa, and Bernhard Wessels. 2014. “Representation Roles.” In Representing the People: A Survey Among Members of Statewide and Substate Parliaments, ed. Kris Deschouwer and Sam Depauw. Oxford: Oxford University Press, 19–38. Eulau, Heinz, and Paul D. Karps. 1977. “The Puzzle of Representation: Specifying Components of Responsiveness.” Legislative Studies Quarterly 2: 233–54. Eulau, Heinz, John C. Wahlke, William Buchanan, and Leroy C. Ferguson. 1959. “The Role of the Representative: Some Empirical Observations on the Theory of Edmund Burke.” American Political Science Review 53: 742–56. Godbout, Jean-François. Forthcoming. Lost on Division: Party Unity in the Canadian Parliament. Toronto: Toronto University Press. Golder, Matt, and Jacek Stramski. 2010. “Ideological Congruence and Electoral
+
+Institutions.” American Journal of Political Science 54: 90–106. Grande, Edgar, Tobias Schwarzbözl, and Matthias Fatke. 2019. “Politicizing
+
+Immigration in Western Europe.” Journal of European Public Policy 26: 1444–63. Gross, Donald A. 1978. "Representative styles and legislative behavior." Western Political Quarterly 31: 359–371. Hainmueller, Jens, Dominik Hangartner, and Teppei Yamamoto. 2015. “Validating Vignette and Conjoint Survey Experiments Against RealWorld Behavior.” Proceedings of the National Academy of Sciences 112: 2395–2400. Hibbing, John, and Elisabeth Theiss-Morse. 2009. Stealth Democracy: Americans' Belief About How Government Should Work. Cambridge: Cambridge University Press. Hooghe, Marc, and Ruth Dassonneville. 2018. “Explaining the Trump Vote: The
+
+Effect of Racist Resentment and Anti-Immigrant Sentiments.” Political Science & Politics 51: 528–34. Kam, Christopher. 2006. “Demotion and Dissent in the Canadian Liberal Party.” British Journal of Political Science 36: 561–74. Manin, Bernard. 1997. The Principles of Representative Government. Cambridge: Cambridge University Press.
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+320 Ruth Dassonneville et al.
+
+Mansbridge, Jane. 2003. “Rethinking Representation.” American Political Science Review 97: 515–28. Méndez-Lago, Mónica, and Antonia Martínez. 2002. “Political Representation in Spain: An Empiricial Analysis of the Perception of Citizens and MPs.” Journal of Legislative Studies 8: 63–90. Miller, Warren E., and Donald E. Stokes. 1963. “Constituency Influence in Congress.” American Political Science Review 57: 45–56. Montgomery, Jacob M., Brendan Nyhan, and Michelle Torres. 2018. “How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do About It.” American Journal of Political Science 62: 760–75. Naurin, Elin, Terry J. Royed, and Robert Thomson (ed.). 2019. Party Mandates and Democracy: Making, Breaking, and Keeping Election Pledges in Twelve Countries. Ann Arbor: University of Michigan Press. Nyhan, Brendan, and Jason Reifler. 2010. “When Corrections Fail: The Persistence of Political Misperceptions.” Political Behavior 32: 303–30. People’s Party of Canada (PPC). 2019. “2019 Electoral Platform. Immigration:
+
+Reducing Overall Levels and Prioritizing Skilled Immigrants.” https​://www. peopl​espar​tyofc​anada.ca/immig​ration_reduc​ing_overa​ll_levels_and_prior​ itizi​ng_skill​ed_immig​rants​ (Accessed December 2019). Pétry, François. 2014. “A Tale of Two Perspectives: Election Promises and
+
+Government Actions in Canada.” In Canadian Democracy from the Ground Up: Perceptions and Performance, ed. Elisabeth Gidengil and Heather Bastedo. Vancouver: University of British Columbia Press, 231–254. Pitkin, Hanna F. 1967. The Concept of Representation. Berkeley: University of California Press. Pomper, Gerald. 1967. “If Elected, I Promise: American Party Platforms.” Midwest Journal of Political Science 11: 318–52. Rehfeld, Andrew. 2009. “Representation Rethought: On Trustees, Delegates, and Gyroscopes in the Study of Political Representation and Democracy.” American Political Science Review 103: 214–30. Rosset, Jan, Nathalie Giger, and Julian Bernauer. 2017. “I the People? Self Interest and Demand for Government Responsiveness.” Comparative Political Studies 50: 794–821. Sevi, Semra, Antoine Yoshinaka, and André Blais. 2018. “Legislative Party
+
+Switching and the Changing Nature of the Canadian Party System, 1867– 2015.” Canadian Journal of Political Science 51: 665–95. Snagovsky, Feodor, and Matthew Kerby. 2018. “The Electoral Consequences of Party Switching in Canada: 1945–2011.” Canadian Journal of Political Science 51: 425–45. Soroka, Stuart, and Christopher Wlezien. 2010. Degrees of Democracy: Politics, Public Opinion, and Policy. Cambridge, UK: Cambridge University Press. Stephenson, Laura, Andrea Lawlor, William P. Cross, André Blais, and Elisabeth
+
+Gidengil. 2019. Provincial Battles, National Prize? Elections in a Federal State. Montreal: McGill-Queen's University Press.
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+321 How Citizens Want Their Legislator to Vote
+
+Stimson, James A., Michael MacKuen, and Robert Erikson. 1995. “Dynamic
+
+Representation.” American Political Science Review 89: 543–65. Stockemer, Daniel. 2016. “Structural Data on Immigration or Immigration Perceptions? What Accounts for the Electoral Success of the Radical Right in Europe?” Journal of Common Market Studies 54: 999–1016. Studlar, Donley T., and Ian McAllister. 1996. “Constituency Activity and
+
+Representational Roles Among Australian Legislators.” Journal of Politics 58: 69–90. Tomz, Michael, and Robert P. Van Houweling. 2016. Political Repositioning: A Conjoint Analysis. Working Paper. Unpublished. Stanford, CA: Stanford University. von Schoultz, Åsa, and Hanna Wass. 2016. “Beating Issue Agreement: Congruence in the Representational Preferences of Candidates and Voters.” Parliamentary Affairs 69: 136–58. Werner, Annika. 2019a. “Voters' Preferences for Party Representation: PromiseKeeping, Responsiveness to Public Opinion or Enacting the Common Good.” International Political Science Review 40: 486–501. Werner, Annika. 2019b. “What Voters Want from Their Parties: Testing the Promise-Keeping Assumption.” Electoral Studies 57: 186–95.
+
+Supporting Information
+
+Additional supporting information may be found in the online version of this article at the publisher’s web site:
+
+Appendix 1: Balance Test Table A1: Balance of Sociodemographic Variables Across Treatments Appendix 2: Determinants of Immigration Preferences Table B1: Explaining Citizens’ Personal Preference for Less Immigration Figure B1: Average Marginal Effects (AME) on Preferring Less Immigration Appendix 3: Conditional Effects of Sociodemographic Variables and Vote Intentions Table C1: Explaining Whether the Respondent Thinks the MP Should Vote in Favor of Reducing the Number of Immigrants by 10%, the Conditional Effect of Education, Gender, Age and Vote Intention Appendix 4:Posttreatment Bias Table D1: Mean Scores for Views on Immigration (0 = same/more, 1 = fewer)
+
+19399162, 2021, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/lsq.12275 by Iscte, Wiley Online Library on [10/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

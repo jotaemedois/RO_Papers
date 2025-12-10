@@ -1,0 +1,1677 @@
+The economic foundations of democratic legitimacy: Exploring the
+
+relationship of macroeconomic inequality and trust in democratic
+
+institutions in Europe
+
+C. Giustozzi a*, M. Ganglb and S. Bienstmanc
+
+abcDepartment of sociology, Goethe University, Frankfurt am Main, Germany
+
+Carlotta Giustozzi: giustozzi@soz.uni-frankfurt.de *corresponding author
+
+Acknowledgements:
+
+We gratefully acknowledge the opportunity to discuss this work in the Politics and Society
+
+Workshop Series 2022. This study is part of the research project POLAR: Polarization and its
+
+discontents: does rising economic inequality undermine the foundations of liberal societies?
+
+that has received funding from the European Research Council (ERC) under the European
+
+Union’s Horizon 2020 research and innovation programme (Grant agreement No. 833196).
+
+1
+
+The economic foundations of democratic legitimacy: Exploring the
+
+relationship of macroeconomic inequality and trust in democratic
+
+institutions in Europe
+
+We use survey data from the European Social Survey to explore the implications
+
+of changing macroeconomic inequality for citizen’s trust in the main institution
+
+of democratic governance. We extend existing research on the role of economic
+
+inequality by examining an expansive set of indicators to capture increasing
+
+economic polarisation and we employ hybrid multilevel regression models to
+
+distinguish genuinely sociotropic effects of changing macroeconomic inequality
+
+from egocentric effects of citizens’ personal socio-economic status. We
+
+empirically confirm the influence of macroeconomic fundamentals, and find that
+
+after controlling for material prosperity and unemployment rates, the inequality
+
+of market incomes is the primary factor to create repercussions at the level of the
+
+basic democratic order of societies. Many other dimensions of economic
+
+inequality, from the degree of public redistribution to rising poverty levels and
+
+rising top income shares, may all constitute relevant policy issues and may relate
+
+to shifting party systems as well as shifting voter allegiances, but do not
+
+eventually call democratic fundamentals into question. Our analyses thus
+
+vindicate conjunctions from the modern classics of political sociology that have
+
+been seeing societal prosperity among the necessary conditions for sustaining
+
+democratic governance.
+
+Keywords: political trust; macroeconomic conditions; economic inequality;
+
+unemployment; prosperity; hybrid multilevel model
+
+2
+
+Introduction
+
+Democracy undeniably rests on principles and centuries of political philosophy, but also
+
+turns out to be an often shockingly materialist affair in practice. Economic conflict
+
+looms large among the bread-and-butter issues of day-to-day politics at every level of
+
+government, and the left-right dimension defined over economic preferences has long
+
+been considered as the backbone of traditional party systems prior to the emergence of
+
+Green parties after the 1980s, and the more recent surge of nativist right-wing populism
+
+after the 1990s and 2000s (Inglehart & Norris, 2017) . Likewise, economic voting is a
+
+well-documented feature of citizens’ political behaviour (Anderson, 2007; Lewis-Beck
+
+& Stegmaier, 2000). It has often also been documented that economic considerations
+
+and performance affect even the most basic democratic orientations like citizens’ sense
+
+of democratic legitimacy, their trust in the institutions of democratic governance, or
+
+their overall satisfaction with the democratic order of society (see for example Kumlin
+
+et al., 2018; Van Der Meer, 2018).
+
+Yet while there are probably few social scientists to disagree with these
+
+generalities, matters seem far less settled, the available evidence far from consistent,
+
+and the devil to be in the details once the relevant research is examined more
+
+concretely. In van der Meer’s recent survey of the literature, one actually finds the
+
+revealing statements that
+
+“[s]ome studies found significant effects of at least some objective macroeconomic
+
+performance …; others found none …, or even see evidence for inverse effects …”
+
+(2018: 600, emphasis added) and that “consistent evidence does not seem to exist
+
+when we shift our focus … to objective [macroeconomic] outcomes as
+
+determinants of political trust. There is serious diversity in the findings” (2018:
+
+604)
+
+While it is thus possible to point to a set of high-quality studies to support the assertion
+
+3
+
+that the functioning of democracies is, among other factors, also depending on adequate
+
+economic fundamentals, there is far less consensus as to what the relevant economic
+
+dimensions might be exactly. The scientific literature varies in the ways economic
+
+performance is conceptualised. Most research about the repercussions of
+
+macroeconomic performance for institutional trust conceive macroeconomic
+
+performance as the wealth of an economy, the distribution of household incomes, and
+
+the performance of the labour market measured as the GDP per capita, the Gini of
+
+(mostly) disposable household incomes, and the unemployment rate. While wealth
+
+levels or changes in economic prosperity are often examined, the distribution of
+
+incomes has been at the centre of attention in social science research since rising levels
+
+of inequality have been associated with all sorts of social and political consequences
+
+(see Pickett & Wilkinson, 2009; van de Werfhorst & Salverda, 2012). With levels of
+
+populism, support for radical parties, and political alienation rising in parallel to income
+
+inequality (Norris and Inglehart, 2019), the question arises whether economic inequality
+
+is at the roots of political turmoil in Western democracies. Against this backdrop, we
+
+seek to analyse how changes in country-level economic inequality trigger individual level political responses in the form of loss of trust in the political system.
+
+We seek to contribute a comprehensive empirical analysis on the democratic
+
+implications of economic inequality where we probe for a wide spectrum of candidate
+
+indicators and then aim to more concretely identify those dimensions of inequality that
+
+are of demonstrable relevance for political fundamentals. In this analysis, we
+
+specifically focus on citizens’ stated trust in the national parliament over the past two
+
+decades in Europe. Trust in democratic institutions evidently is one of those
+
+fundamental orientations that tap into what Easton (1975) saw as citizens’ “reservoir of
+
+goodwill” and their “diffuse support” of democracy that derives from agreement over
+
+4
+
+democratic principles rather than from evaluations of specific issues and policy
+
+proposals. The 23 older and newer European democracies included in our analysis of
+
+European Social Survey data (ESS) provide a rich and informative testing ground to
+
+evaluate hypotheses on the relationship between economic inequality and popular
+
+support of democratic order. The first two decades of the 21st century have brought both
+
+macroeconomic progress and increasing convergence between Western and Central and
+
+Eastern Europe, as well as the painful strain associated with the Financial Crisis of
+
+2008/09 and the subsequent Eurozone crisis, and thus represent a unique historical
+
+observation window that offers a set of wide-ranging economic experiences to learn
+
+from.
+
+For the past two decades, the nationally representative and cross-nationally
+
+comparable ESS has regularly fielded questions on respondents’ trust in the institutions
+
+of democratic governance and has thus produced a rich series of time-series cross sectional survey data from its repeated cross-sectional samples. In fact, the time-series
+
+component in the data is of particular analytical interest because this allows for the
+
+application of panel data estimators that exploit the longitudinal variation in the data
+
+when forming an estimate of the association between independent and dependent
+
+variables, and that therefore hold the promise of being able to more credibly
+
+approximate the causal effect of macroeconomic performance on citizens’ trust in
+
+democratic institutions by affording a straightforward, yet versatile statistical tool to
+
+safeguard respective inferences against an important class of potential confounders,
+
+namely any and all time-invariant causes of political trust in a particular country,
+
+however idiosyncratic or hard-to-define they might be, and completely irrespective of
+
+whether such persistent causes of citizens’ democratic trust are thought to be rooted in
+
+5
+
+national political or economic cultures, a particular national history or some particular
+
+type of national welfare regime.
+
+In the following, we use hybrid multilevel regression models to identify the
+
+plausibly causal effects of (changes in) macroeconomic inequality on (changes in)
+
+citizens’ levels of trust in one of the key institutions of democratic governance - the
+
+national parliament. Given that multilevel regression modelling enables us to condition
+
+estimates on respondents’ own socio-economic status (SES) as well as on other socio demographic characteristics, we specifically identify the sociotropic effects of
+
+macroeconomic inequality, i.e. that part of the association between inequality and
+
+democratic trust that does not operate via citizens’ personal socio-economic standing
+
+and any egocentric political motivation that may follow from it. From this starting point,
+
+we make it our task to not just examine the evidence for some relationship between
+
+inequality and citizens’ trust in institutions, but to more precisely identify which of the
+
+many dimensions of macroeconomic inequality are the ones to also assume importance
+
+for democratic fundamentals. To that end, we test for the political effects of a wide
+
+range of indicators intended to tap into, the tails of the income distribution such as
+
+poverty levels and the concentration of top incomes, as well as the level of public
+
+redistribution besides the more commonly used indicator like the Gini coefficient.
+
+While plausible political narratives might be construed for the relevance of these
+
+various indicators and while, empirically, almost all indicators show the expected
+
+bivariate correlation with levels of democratic trust, we find that the conventional
+
+indicator of macroeconomic inequality– the inequality of market incomes – has been the
+
+only indicator still significant after controlling for GDP per capita and national
+
+unemployment rates and hence an important driver of citizens’ fundamental trust in the
+
+institutions of democratic governance over the past two decades in Europe. This finding
+
+6
+
+does not deny a political role for other features of the macroeconomic environment, but
+
+rather indicates that while more specific questions of distribution, solidarity, and
+
+burden-sharing surely do inform citizens’ political preferences, they have not threatened
+
+the fundamental legitimacy of democratic order in recent years. We will briefly outline
+
+the theoretical background to our study to clarify our theoretical expectations and will
+
+then provide readers with an explanation of our data as well as our statistical modelling
+
+and identification strategy, before presenting and discussing our empirical evidence in
+
+detail.
+
+Theoretical framework
+
+The proposition that economic adversity can threaten democratic stability is a classical
+
+argument in political sociology (e.g., Lipset, 1960). It is reflected in standard
+
+explanations of the fall of the Weimar Republic as well as current accounts linking the
+
+economically “left behind” to the rise of the populist and far right (e.g., P. Norris &
+
+Inglehart, 2019). Contemporary studies address the question of whether adverse
+
+macroeconomic conditions pose a threat to democracy from within the conceptual
+
+framework of political support (Easton, 1975). From this perspective, political trust, or
+
+the "generalised confidence in democratic institutions" (Kumlin & Haugsgjerd, 2017) is
+
+a central indicator for public support for democracy and a proxy for (subjective)
+
+democratic legitimacy (Van Ham et al., 2017, Fuchs and Roller, 2019).
+
+Although our goal is not to test the causal mechanisms linking macroeconomic
+
+income inequality to political trust, we will briefly describe the four principal theoretical
+
+explanations that we deem most important from our reading of the literature. In the
+
+following, we will in turn discuss each of these approaches, which we label the social 7
+
+psychological, the substantive outcome evaluation, the process-based evaluation and
+
+the conflict perspective.
+
+The social-psychological mechanism was prominently proposed in Wilkinson
+
+and Pickett’s widely-known spirit-level thesis. While their thesis is rather broad, it
+
+provides a general theoretical framework for why rising inequality begets a range of
+
+“social dysfunctions”. The proposition is that inequality has negative consequences
+
+because societies with higher income inequality are more stratified. Increased social
+
+distances result in increased status anxiety and decreased social trust. This is also a
+
+plausible explanation for how inequality affects trust in political institutions. On the
+
+one hand, several scholars regard social trust as an important determinant of political
+
+trust (Zmerli and Newton, 2008; Newton et al., 2018). On the other hand, recent
+
+research argues that status anxiety is an important determinant of populist voting, which
+
+is in turn strongly determined by political trust (Gidron and Hall, 2017; Engler and
+
+Weisstanner, 2021; Stoetzer, Gisecke, and Klüver 2021). It follows that declining trust
+
+in institutions may thus be seen as just one sub-dimension of social dysfunction that is
+
+spurred by rising inequality due to its negative effects on individual psychological
+
+dispositions and social cohesion.
+
+The most common perspective in political science is that macroeconomic
+
+inequality affects trust through a mechanism of substantive outcome evaluation.
+
+According to the “trust-as-evaluation” approach, citizens observe or experience
+
+concrete political processes or policy outputs, evaluate these based on their own
+
+expectations and preferences, and extend or withhold trust on the basis of this
+
+evaluation. Macroeconomic inequality would thus depress trust because citizens have
+
+concrete political preferences regarding the desired level of inequality, and they hold the
+
+political system accountable for delivering on this outcome. The well-known study by
+
+8
+
+Anderson and Singer (2008) provides support for this view, as it has shown that
+
+inequality depresses trust and satisfaction with democracy primarily among left-wing
+
+respondents. This fits with an understanding that citizens with egalitarian preferences
+
+will expect inequality to be tackled politically, and will therefore also evaluate the
+
+political system on the basis of their substantive policy preferences. Most studies on the
+
+relationship between inequality and trust invoke this kind of argumentation when they
+
+assume that citizens hold the political system accountable not only for the country’s
+
+general economic performance, but also for the level of inequality (Anderson & Singer,
+
+2008; Donovan & Karp, 2017; Martini & Quaranta, 2020).
+
+A different perspective emphasises that inequality may affect trust not only via a
+
+mechanism of substantive output evaluation, but also via a more process-based
+
+evaluation that measures of external efficacy can capture (Bienstman, Hense, Gangl,
+
+2023). The basic reasoning can be summarised as follows: When economic inequality
+
+translates into unequal political resources and power, or when basic needs of large
+
+segments of the population are not met, people may perceive that not all interests are
+
+equally heeded and become cynical about their ability to influence the political process
+
+(see Goubin, 2020). Because representative democracy draws legitimacy from the idea
+
+that the political system is responsive to its citizens and that all have the ability to
+
+participate in and influence the political process, negative assessments of
+
+responsiveness and waning efficacy will ultimately erode confidence in its core political
+
+institutions. Importantly and in contrast to the mechanism via substantive outcome
+
+evaluation, this more process-based mechanism is independent of political preferences
+
+and may therefore explain why inequality affects trust also among those who do not
+
+regard inequality as a political problem (Kumlin et al, 2018).
+
+9
+
+Finally, the conflict perspective emphasises that income inequality may increase
+
+distributional conflicts, leading to political polarisation that limits the state’s capacity to
+
+solve social and political problems. This perception of reduced effectiveness in turn
+
+would depress trust in democratic institutions. This perspective draws on Lipset’s
+
+(1960) classical argument that both economic development and the distribution of
+
+economic resources determine the level of conflict in societies, as well as their ability to
+
+solve these conflicts politically. This view is supported by the finding that economic
+
+inequality appears - alongside economic recessions - to be the most important structural
+
+determinant of affective polarisation (Gidron et al., 2018).
+
+Through and beyond affective polarisation, intense distributional conflict may
+
+spill into and reflect in inter- and intra-party conflict. The scope of governmental action
+
+may be constrained as political compromise and concessions to either opposition or
+
+coalition parties become more challenging. As the capacity of governments to formulate
+
+and execute policy solutions gets restricted, citizen’s general assessment of the state's
+
+organisational capacity may suffer as well. In sum, to the extent that concrete economic
+
+inequality limits a state’s effectiveness and leads to a changed perception of the state's
+
+capacity to solve social and political conflict, this can result in a loss of confidence (cf.
+
+Magalhães, 2014). Importantly, when increased political (distributional) conflict
+
+induces the perception that democracy is not fit to solve problems and hence
+
+dysfunctional, this does not presuppose that citizens have specific preferences about the
+
+political outcome.
+
+In conclusion, there are a number of reasons to suspect that inequality would
+
+erode democratic support. And although we will not be able to test which of the above mentioned mechanisms is in operation, the different theoretical perspectives seem to
+
+10
+
+justify a closer empirical examination of the question whether macroeconomic
+
+inequality and trust are related.
+
+Which dimensions of macroeconomic inequality matter?
+
+Different measures of inequality capture different aspects of the income distribution,
+
+and these differences may have distinct political implications as well. In the following,
+
+we propose to conceptually distinguish the various indicators into three more or less
+
+distinct dimensions.We distinguish indicators that capture the general distribution of
+
+incomes from those that measure the tails of the income distribution such as poverty and
+
+top income shares from measures of redistribution or the welfare state.
+
+Throughout the literature, most studies have used the Gini coefficient to assess
+
+the effects of macroeconomic inequality on political trust. For the most, increasing
+
+inequality on the national and regional level erodes political trust (Lipps & Schraff,
+
+2021; Zhou & Jin, 2018) as well as external efficacy (M. Norris, 2015) and related
+
+indicators of democratic support (Krieckhaus et al., 2014). Others have argued that it is
+
+not the general level of inequality that matters but that changes in inequality affect trust
+
+in the political system (Goubin & Hooghe, 2020; Hutalagung et al., 2019). A third
+
+perspective specifies this relationship stating that the effects of increasing inequality on
+
+institutional trust depend on the general level of inequality in a country (Zmerli &
+
+Castillo, 2015) or the overall level of economic prosperity and institutional context. For
+
+example, post-soviet and developing countries seem to be a specific context where
+
+formerly very low levels of inequality accompanied by few chances of opportunity form
+
+a specific environment in which more inequality might be ambiguous rather than purely
+
+negative as it not only entails the unequal distribution of wealth but also the possibility
+
+of advancement and development. In their study, Medeve-Balint and Boda (2014) find
+
+11
+
+that low inequality levels in the Czech Republic, Hungary, Slovakia, and Slovenia go
+
+along with low levels of institutional trust and a study differentiating developed from
+
+developing and post-soviet countries find that for the latter, inequality of opportunity is
+
+more decisive than classical income inequality (Ovchinnikov, 2021).
+
+A few studies test more than the classical Gini coefficient, producing mostly
+
+negative but partly also mixed effects of inequality on political trust. Goubin and
+
+Hooghe find that the P90/P10 ratio, P90/50 ratio, P50/P10 ratio, and the risk of poverty
+
+as well as the social exclusion rate all reduce institutional trust only when inequality is
+
+increasing but not with respect to structural differences between countries (2020).
+
+However, others report negative effects for the Theil index and the poverty rate
+
+(Hutalagung et al., 2019). Testing the impact of national unemployment, corruption,
+
+GDP per capita, inflation, and income inequality in Asia, Lee, Chang, & Hur (2020)
+
+find that while national unemployment has a negative impact on trust, neither GDP and
+
+inflation nor income inequality directly affect political trust, but that individual
+
+perceptions of the macroeconomic performance are the relevant factors that matter.1 The
+
+authors further highlight the importance of the regime type, stating that economic
+
+performance was more important in authoritarian regimes (Lee et al., 2020). While
+
+these are primarily economic and labour market indicators, Mingo and Faggiano (2020)
+
+add to the economic perspective indicators aimed at security such as the homicide rate
+
+and corruption and social spending for students as a part of the welfare state. The results
+
+differ strongly across the different indicators, finding negative effects for economic
+
+1 The argument that individual perceptions are more important than objective macroeconomic
+
+indicators is prominent in the literature (see for example Goubin et al., 2020; Loveless,
+
+2013). Yet, as discussed above, we will follow a different approach for the current analysis
+
+and theoretical framework of this paper.
+
+12
+
+inequality but also for GDP growth, while reporting a positive effect on political trust of
+
+social spending, and surprisingly also for criminality and national unemployment
+
+(Mingo & Faggiano, 2020).
+
+Taken together, most studies use GDP per capita, the Gini of disposable
+
+household incomes (sometimes also market incomes) and more rarely include the
+
+unemployment rate as an indicator for labour market performance. Furthermore, while
+
+there are a few studies taking poverty into account, indicators capturing the
+
+redistribution of wealth are not tested to our knowledge, so far. The Gini coefficient as a
+
+general measure of the (un-) equal distribution of household incomes, that is most
+
+sensitive to changes in the middle of the income distribution and thus is an important
+
+measure for macroeconomic inequality. Yet, there are other relevant dimensions of
+
+inequality, which we argue should be taken into consideration. When speaking about
+
+the effects of a country’s economic inequality on an individual’s trust in political
+
+institutions, it can be useful to differentiate the disparate dimensions of the income
+
+distribution and make the conceptualisation of inequality explicit.
+
+From this perspective, we develop and test three concrete dimensions of
+
+macroeconomic inequality, which we suppose shape individual level institutional trust.
+
+The first consists of the distribution of incomes to assess how equal economic resources
+
+are spread across society, here the Gini of disposable or market incomes are important
+
+measures, but also the Palma ratio, which is more sensitive to changes at the top of the
+
+income distribution, we further differentiate between indicators that have the working
+
+age as well as the total population as basis. The second dimension entails other
+
+distributional indices such as the share of top and lowest incomes, which capture the
+
+tails of the income distribution and might have a distinct impact on institutional trust. A
+
+third dimension is that of economic redistribution accomplished by the welfare state,
+
+13
+
+which can be measured by the difference of market and disposable household incomes.
+
+A country’s ability to redistribute wealth and therefore attenuate sharp economic
+
+inequality might lead its citizens to positively evaluate political institutions
+
+independently of actual rises in market income inequality.
+
+Identification, data and statistical modelling
+
+In the following, we combine the representative survey data of the European Social
+
+Survey (ESS) and macroeconomic data obtained from Eurostat, OECD, and the World
+
+Income Database to evaluate the relationships between changing macroeconomic
+
+inequality and changes in citizens’ level of trust in the institutions of democratic
+
+governance in 23 European countries over the past two decades. As the ESS has
+
+regularly fielded questions on citizens’ trust in democratic institutions, this provides us
+
+with repeated cross-sectional, representative and cross-nationally comparable survey
+
+data that are ideally suited for the task at hand.
+
+More specifically, the resulting hierarchical (multilevel) time-series cross sectional data enable us to use a particular class of hybrid multilevel regression models
+
+that incorporate the principles of fixed-effects (FE) panel data modelling (see e.g.
+
+Gangl, 2010; Morgan & Winship, 2015; Woolridge, 2010) at the contextual (i.e.
+
+country) level, and that thereby help safeguard our subsequent inferences on the
+
+implications of macroeconomic conditions for democratic trust against important threats
+
+that are commonly encountered with alternative estimators. In particular, employing
+
+country fixed effects in the regression specification is a simple, but analytically
+
+powerful way of conditioning the estimates of primary interest, i.e. the estimates for the
+
+effects of macroeconomic inequality, on any and all time-invariant predictors of the
+
+level of political trust in a particular country. The country FE specification thus serves
+
+14
+
+to control for each and every possible country-level confounder, however idiosyncratic,
+
+whether observed or unobserved, whether economic, cultural, social or political, and
+
+including any patterns of mutually reinforcing and interlocking dynamics between the
+
+different elements of national society, as long as these create a persistent influence on
+
+citizens’ level of political trust during the study’s observation window.
+
+When set within the hierarchical structure of a multilevel regression
+
+specification, where survey respondents are being nested in survey waves and countries,
+
+we are not just able to control for important confounders at the country level, however,
+
+but also to condition the analysis on respondents’ own socio-economic status (SES) as
+
+well as other respondent-level predictors of trust. We therefore specifically identify the
+
+sociotropic (or contextual) effects of macroeconomic inequality on citizens’ democratic
+
+trust in the present analysis, i.e. we focus on the relationship between the
+
+macroeconomic environment and democratic fundamentals that operates independently
+
+of citizens’ own socio-economic standing and any political implications that may flow
+
+from correspondingly egocentric motivations. It is a direct statistical implication of the
+
+country FE model that we estimate this relationship only from the time-series (within country) component of the data, and are thus expressing how levels of trust respond to
+
+changes in the macroeconomic environment, whereas all between-country variation is
+
+considered to reflect potential confounders. Compared with other, more conventional
+
+forms of hybrid multilevel models that e.g. distinguish between the between-country
+
+and the within-country component of observed covariates (cf. Allison, 2009), our
+
+country FE specification offers the advantage of controlling for all sources of persistent
+
+cross-country differences in democratic trust rather than just for cross-country
+
+differences in observables, and is thus to be considered the decidedly more robust
+
+15
+
+approach to provide a plausibly valid approximation of the political effects of
+
+macroeconomic inequality.
+
+The basis of our empirical analysis is the European Social Survey Cumulative
+
+File, ESS 1-8 (2018), a biennial survey that provides information on respondents’
+
+political trust and socio-demographic background for 23 European countries covering
+
+the period from 2002 till 2018. The selection of countries over the covered time span
+
+includes variation in both macroeconomic performance as well as policy arrangements,
+
+which might affect respondents’ political trust. To test for the effects of country level
+
+variables on individual institutional trust, we augment the ESS with macroeconomic
+
+indicators. Equipped with this multilevel time-series cross-sectional database, we are
+
+able to make the country fixed-effects hierarchical probability model of
+
+𝑃𝑟(𝑌𝑖𝑡𝑘= 1) = 𝛽0 + 𝜹𝑴𝑬𝑷𝒕𝒌+ 𝜷𝟏𝒕𝒌𝑺𝑬𝑺𝒊𝒕𝒌+ 𝜷𝟐𝒕𝒌𝑿𝒊𝒕𝒌+ 𝒖𝒌+ 𝑣𝑡𝑘+ 𝜀𝑖𝑡𝑘
+
+with 𝜷𝟏𝒕𝒌= 𝜷𝟏+ 𝒗𝟏𝒕𝒌
+
+𝜷𝟐𝒕𝒌= 𝜷𝟐+ 𝒗𝟐𝒕𝒌 (1)
+
+the basis of our subsequent analysis. With this regression, we intend to predict the level
+
+of trust in the national democratic institutions as expressed by respondents i at the
+
+survey interview t in country k. To keep matters simple, we use a dichotomous outcome
+
+variable that records whether citizens are stating to have at least some (or principal)
+
+trust in the institutions of democratic governance. In the ESS, the original question asks:
+
+Using this card, please tell me on a score of 0-10 how much you personally trust each
+
+of the institutions I read out. 0 means you do not trust an institution at all, and 10
+
+means you have complete trust. Firstly... ...[country]'s parliament? In our analysis, we
+
+collapse the 11-point Likert scale from the ESS to a binary variable that distinguishes
+
+between respondents stating to have at least some trust (Y=1) and those respondents
+
+16
+
+who are expressing to have hardly any or no trust in parliament (Y=0) by taking a value
+
+of 4 as the relevant threshold on the ESS Likert scale. We are hence predicting the
+
+probability of obtaining a positive response on the right-hand side of the regression
+
+equation in practice. As a multilevel specification, the left-hand side of the regression
+
+equation features respondent-level as well as contextual-level predictors of citizens’
+
+trust. At the individual level, it is of obvious importance to control for the effects of
+
+citizens’ own socioeconomic position in order to identify the sociotropic (contextual)
+
+effects of macroeconomic inequality proper, but we of course also make use of the
+
+opportunity to account for the potential role of other socio-demographic predictors of
+
+trust. We do not wish to advocate any particular scalar measure of respondents’ SES,
+
+but instead treat it as a vector of citizens’ socio-economic attributes. To that end, we
+
+include variables measuring respondents’ age collapsed into five categories (16-24
+
+years, 25-34 years, 35-44 years, 45-54 years and 55 years and older), gender, the level
+
+of education in three distinct categories (less than secondary, secondary education, and
+
+tertiary education), and the respondent’s social class using the EGP class scheme
+
+compressed into seven categories (distinguishing high controllers from low controllers,
+
+from routine non manual workers, self employed individuals, skilled manual workers,
+
+semi-unskilled manual workers, and farm workers). Finally, to control for the
+
+respondent’s financial resources, we use the household’s monthly net equivalence
+
+income constructing a variable that places respondents into four percentiles by survey
+
+wave and country. Summary statistics for the individual-level variables are shown in
+
+Table A1 in the appendix. In view of our primary analytical interests, we augment this
+
+purely micro-level specification by a set of macroeconomic indicators that capture
+
+different aspects of national economic inequality at time point t in country k. The 18
+
+macroeconomic inequality indicators correspond each to one of the three dimensions of
+
+17
+
+economic inequality described above and are displayed in the table following this
+
+section. We are of course primarily interested in the estimates of the effects of
+
+inequality on democratic trust, and to ensure the appropriate causal order, we lag all
+
+macroeconomic indicators by one year in the analyses (i.e. we are using t-1 in the actual
+
+analyses, but prefer to keep formal notation as simple as possible for the sake of the
+
+present exposition). In addition to the observed macroeconomic covariates, the model
+
+assumes its multilevel character by incorporating a country-level fixed effect (i.e. set of
+
+country dummies) and a country-survey wave random effect in addition to the standard
+
+respondent-level error term, and we also allow the effects of all respondent-level
+
+covariates (i.e. the coefficient vectors) to randomly vary across survey waves and
+
+countries. All error terms are assumed to follow standard normal distributions, and
+
+multilevel estimation ensures that standard error computations reflect the clustered
+
+nature of observations. As we do not have any interest in performing a detailed variance
+
+decomposition at the higher levels of the model, we furthermore fit equation (1) as a
+
+two-level model with country-survey waves tk as the model’s contextual level to
+
+facilitate computation; given the presence of the country fixed effects in the equation,
+
+however, our model of course involves an implicit third level, and this also affects (i.e.
+
+is correct to inflate) the standard error estimates for the effects of the time-varying
+
+macroeconomic covariates of primary interest in the present context.
+
+Finally, due to its easier interpretation in terms of average marginal effects
+
+(AME) on the probability scale as well as the fact that its coefficient estimates may
+
+directly be compared across model specifications, we estimate equation (1) as a linear
+
+probability model, i.e. we employ a linear regression model despite its obvious
+
+statistical drawbacks in terms of out-of-range predictions and heteroskedasticity in the
+
+18
+
+bottom-level error terms (which, strictly speaking, are not of any substantive interest in
+
+the present application, however).
+
+To identify the politically relevant dimensions of inequality, we proceed with a
+
+sequential setup in our analyses. In a first series of models, we aim at exploring the
+
+‘bivariate’ relationships between trust and the covariates by including each in isolation
+
+with survey-year dummies as the only controls. The second series of models provides a
+
+baseline estimate of the sociotropic within-effects of the inequality indicators by
+
+including country fixed effects and the individual-level covariates. In the two final
+
+series of stepwise models, we include GDP per capita and the unemployment rate as
+
+controls for macroeconomic performance and the state of the labour market.
+
+We control for GDP as a general measure of economic prosperity because it is,
+
+at the country level, correlated with economic inequality and therefore frequently
+
+regarded as the primary alternative explanation for the association between inequality
+
+and social outcomes (Delhey & Steckermeier, 2020, Layte, 2012, Wilkinson & Pickett,
+
+2010, p. 285). A test for the effects of income inequality on political trust without
+
+controlling for economic prosperity would thus be a rather weak test of the hypothesised
+
+relationship. The unemployment rate, on the other hand, is a key indicator for economic
+
+performance, reflecting the state of the labour market and economic shocks. Measures
+
+of income inequality, in particular those that relate to, or capture specific aspects of the
+
+income distribution, such as the poverty rate or quintile share ratios, are sensitive to
+
+economic crises, recessions or labour market slumps. Without accounting for the
+
+unemployment rate and thus for the share of the population without labour market
+
+incomes, the effects of economic inequality may partly reflect such broader economic
+
+developments. The models controlling for the unemployment rate and thus for the
+
+bottom share of the population without labour market incomes certainly remove a
+
+19
+
+substantively meaningful portion of the potential effect of a macro-phenomenon such as
+
+country-level economic inequality on social outcomes. However, these models are
+
+substantively meaningful on their own terms, as the estimand becomes the effect of
+
+more secular changes in inequality, i.e. above and beyond those related to a labour
+
+market crisis.
+
+INSERT TABLE 1 ABOUT HERE
+
+Empirical results
+
+While the literature review pointed to the Gini coefficient of disposable incomes as the
+
+most frequently used indicator of macroeconomic inequality, our exploratory analyses
+
+reveal that most of the inequality indicators correlate, albeit with different strengths (see
+
+Table A2 in the Appendix). The strongest correlations are found mainly between
+
+indicators that can be considered measuring a similar dimension of inequality. It does
+
+not come as a surprise that the Gini coefficient of disposable household incomes has the
+
+strongest correlation with different measures of income inequality (e.g., the Palma ratio
+
+and the S80/20 quintile share ratio) and that it correlates stronger with the poverty rates
+
+than with the wealth shares. Moreover, wealth shares and poverty indicators correlate
+
+less strongly and the measures of redistribution even less so. This underlines our
+
+theoretical assumption of different dimensions of economic inequality. These
+
+intercorrelations imply that there are important aspects of economic inequality which
+
+are not captured by the more standard selection of indicators in the literature.
+
+INSERT FIGURE 1 ABOUT HERE
+
+In order to get a first impression of the bivariate relationships between political trust and
+
+some of the indicators of economic inequality, the Gini coefficient, the Palma ratio of
+
+disposable incomes, the poverty rate of the working age population and income shares
+
+20
+
+at the top 10 level, Figure 1 shows a scatterplot of the country-year averages of trust on
+
+the Y-axis and the macroeconomic indicator on the X-axis. All four plots show negative
+
+associations between trust and the indicators of economic inequality. Also, even though
+
+they do not vary greatly, the strongest decline in trust is visible when the Gini of market
+
+incomes rises followed by the poverty measure. The other two indicators show a
+
+somewhat weaker relationship. In general, these patterns are thus in line with the basic
+
+proposition that institutional trust declines when economic inequality rises. In order to
+
+more systematically assess the associations between our indicators and political trust,
+
+we now turn to the series of multivariate models that are summarised in Table 2.
+
+INSERT TABLE 2 ABOUT HERE
+
+In a first analytical step (M1), we fit a separate model for each inequality indicator
+
+while controlling for period fixed effects and the individual-level covariates described
+
+in our methodological section. This first series of models omits country fixed effects
+
+and thus serves solely to inspect the difference between cross-sectional and over-time
+
+variation, net of any secular trends in political trust in the sample. In this baseline
+
+model, where the parameter estimates are a mixture of within and between effects, all
+
+macroeconomic inequality indicators are significant. Apart from the wealth shares,
+
+which have a small but positive impact, all other measures of inequality negatively
+
+influence political trust. This means that in this basic model, rising inequality measured
+
+globally or more specifically with respect to top incomes and poverty levels negatively
+
+affects citizens’ trust in the political system. The negative effect of economic
+
+redistribution and household pooling, which are our measures tapping into the
+
+performance of welfare states and families, and their respective capacity to mitigate
+
+financial hardship, might seem counterintuitive at first. Yet, as will become apparent in
+
+models M4 and M5, these measures primarily capture the demand for social assistance
+
+21
+
+and social spending in the bivariate analysis, and therefore indicate that political trust is
+
+lower in countries and years where a higher share of households is in need of public
+
+support.
+
+However, when country fixed effects are included in order to obtain an estimate
+
+of the within-association (M2 in Table 2), only three of the 18 indicators remain
+
+statistically significant. In Model 2, the Gini coefficient of market incomes is the
+
+strongest remaining indicator that is significantly and negatively related to trust. The
+
+disposable income poverty rate as well as the degree of economic redistribution remain
+
+significant but have a smaller impact on citizens’ political trust. This points to
+
+considerable unobserved heterogeneity at the country level that result in large
+
+discrepancies regarding the between- and within-effects. Model 3 ads individual level
+
+controls and thus specifies a proper sociotropic effect. It shows that when the individual
+
+socio-economic position is accounted for, the effect of the Gini of market incomes
+
+hardly changes. Substantially, this indicates that the observed relationship between
+
+market income inequality and political trust does not result from compositional
+
+differences in individual economic situations. Models 2 and 3 thus show that, even
+
+without further macroeconomic controls, specifying a proper model for the
+
+identification of a sociotropic effect from within-variation only changes the substantive
+
+conclusions about the relevance of different dimensions of macroeconomic inequality.
+
+Model 4 in Table 2 summarises the results of our next modelling phase. Here,
+
+we add GDP per capita as a baseline control in order to assess the associations net of
+
+economic performance in the more narrow sense, for which GDP growth may be
+
+considered the prime indicator. In itself, the year-to-year change in economic growth
+
+captured by changes in GDP per capita has a positive effect on trust across the 18 fitted
+
+models. The resulting changes in estimates can be briefly summarised: The coefficient
+
+22
+
+of the Gini of market incomes is slightly reduced, but the effect remains otherwise
+
+unchanged. All other indicators of economic inequality remain statistically insignificant
+
+or lose their statistical significance. Hence, once we control for the performance of the
+
+economy, solely the Gini coefficient remains an important predictor of political trust.
+
+Neither poverty nor top incomes are relevant in determining political trust, once the
+
+overall performance of the economy is accounted for. Furthermore, it is specifically the
+
+Gini coefficient of market incomes that is relevant, not the Gini coefficient of household
+
+disposable incomes that has conventionally been used in most previous research.
+
+Expressed in substantive terms, this finding implies that changes in the distribution of
+
+labour market earnings are driving dissatisfaction with democracy, and that increasing
+
+public redistribution tends not to create any positive democratic payoffs directly.
+
+As a final step, we fit a series of models including the unemployment rate as an
+
+additional macro-level control and the primary indicator for economic shocks. This
+
+inclusion turned the effect of GDP per capita insignificant. This means that once we
+
+control for labour market performance, economic growth no longer predicts trust levels
+
+in the national parliament. While this is an interesting finding in and of itself, more
+
+interestingly, three of our measures of relative poverty are now also statistically
+
+significant. This points to poverty having an impact on political trust once
+
+unemployment is taken into account and when individuals might attribute the blame of
+
+poverty not to the labour market but to a dysfunctional political system. As an addition,
+
+we probed this interpretation by additionally controlling for market income inequality
+
+(Model 6). In these models, the poverty effects turn insignificant. Rather than poverty
+
+being impactful of itself, the observed effects seem to be driven by the association
+
+between poverty and unequal pre-redistribution incomes. While in Model 4 and more so
+
+Model 5, the coefficient estimate of the Gini coefficient of market incomes is further
+
+23
+
+reduced (as compared to M1. M2 and M3), it is the only indicator that remains
+
+statistically significant through all model specifications and consistently reduces
+
+individual’s trust in the political system. Or put in other words, rising inequality of
+
+labour market incomes thus systematically contributes to reduced trust in the national
+
+parliament even after controlling for national economic performance and the state of the
+
+labour market.
+
+Discussion and conclusion
+
+As many developed economies have seen increasing levels of macroeconomic
+
+inequality in recent decades, the potential implications of these developments for
+
+various social outcomes have come under increased social scientific scrutiny. In this
+
+study, we have addressed the question of which dimension of macroeconomic
+
+inequality matters for democratic orientations. We have done so by focusing on trust in
+
+parliament as the core institution of representative democracy and a prime indicator for
+
+citizen support for democratic governance.
+
+Our findings suggest that out of the various dimensions of macroeconomic
+
+inequality, the Gini coefficient of market incomes holds significant relevance even after
+
+controlling for a country's general economic prosperity and labour market performance.
+
+Indicators at the upper tails of the income distribution, such as top income shares and
+
+wealth shares, were not significant once GDP and unemployment rates were controlled
+
+for. This is also true for measures of public redistribution. While poverty rates initially
+
+appeared impactful for trust, further investigation suggests this is likely attributed to its
+
+association with market income inequality. Net of market income inequality, poverty
+
+rates are unrelated to trust. In sum, among the various measures of inequality we have
+
+tested, only market income inequality is consistently related to trust in parliament.
+
+24
+
+This emphasises the importance of changes in the middle of the income
+
+distribution, as the Gini is a relatively broad measure of inequality that is at the same
+
+time more sensitive to changes in the middle. The finding that market income inequality
+
+alongside the unemployment rate are the primary economic determinants of trust
+
+emphasizes the political relevance of changes in the labour market. Rather than post distribution income inequality, which links to inequality in consumption capacity, our
+
+findings highlight the importance of pre-distribution incomes and the negative impact of
+
+the increasingly differential valuation of labour. From this viewpoint, the widening
+
+disparities in labour income and income opportunities that are driven by factors such as
+
+skill-biased technological change and labour market polarization may signal a
+
+divergence in social recognition that is not remedied by redistribution. In the short term,
+
+the avoidance of labour market crises and the dispersion of pre-redistribution incomes is
+
+paramount for fostering trust in basic democratic institutions, whereas short-term
+
+alterations in the welfare state or the degree of redistribution seem to have limited
+
+immediate effects.
+
+It is crucial to point out that our research reflects the average impact of
+
+economic inequality on political trust over the past two decades. Our conclusions thus
+
+pertain to the overall effect of changes in inequality on shifts in political trust, observed
+
+across countries and individuals. Other forms or indicators of macroeconomic inequality
+
+might be consequential at distinct times or among specific subpopulations. As a case in
+
+point, poverty rates or the effectiveness of welfare state redistribution might have more
+
+pronounced implications for those with low socioeconomic status.
+
+There are, however, certain limitations to our study that point to future research
+
+directions. The effects of changes over time could potentially be better exploited with
+
+longer time-series, as changes in economic inequality have been more pronounced in
+
+25
+
+the 1980s and 1990s. Additionally, our focus on Western EU countries means that our
+
+findings may be more applicable to specific regions with more or less similar
+
+expectations towards the state performing at least some kind of economic redistribution.
+
+Future research could thus consider other groups of countries and political systems
+
+where inequality might relate to political trust in different ways. In countries with
+
+higher levels of inequality and more extreme poverty the effect of redistribution on
+
+democratic trust might be larger. Moreover, future studies may analyse the effect of
+
+economic inequality for a specific sub-sample such as Eastern European countries,
+
+which have undergone political and economic transformations, and where an increase in
+
+inequality may induce more and not less trust.
+
+Finally, our findings suggest that while the Gini coefficient of market incomes is
+
+an important determinant of trust in democratic institutions, national unemployment
+
+rates may be even more critical. Furthermore, even though the development of
+
+inequality in the past decades was marked by stark income and wealth gains at the top,
+
+and despite skyrocketing fortunes and executive pay feature prominently in public
+
+debates, it is the developments in the middle and lower ends of the income distribution
+
+that are most relevant for citizens’ trust in the political system.
+
+26
+
+References
+
+Allison, P. D. (2009). Fixed effects regression models. SAGE Publications.
+
+Anderson, C. (2007). The End of Economic Voting? Contingency Dilemmas and the
+
+Limits of Democratic Accountability. Annual Review of Political Science, 10.
+
+https://doi.org/10.1146/annurev.polisci.10.050806.155344
+
+Anderson, C. J., & Singer, M. M. (2008). The sensitive left and the impervious right.
+
+Multilevel models and the politics of inequality, ideology, and legitimacy in
+
+europe. Comparative Political Studies, 41(4), 564–599.
+
+https://doi.org/10.1177/0010414007313113
+
+Bartels, L. M. (2008). Unequal democracy. Princeton University Press.
+
+Bienstman, S., Hense, S., Gangl, M. (2023). Explaining the "democratic malaise":
+
+Inequality, external efficacy, and political trust. European Journal of Political
+
+Research. https://doi.org/10.1111/1475-6765.12611
+
+Campbell, A., Gurin, G., & Miller, W. E. (1954). The voter decides. Row, Peterson, and
+
+Co.
+
+Christmann, P. (2018). Economic performance, quality of democracy and satisfaction
+
+with democracy. Electoral Studies, 53, 79–89.
+
+https://doi.org/10.1016/j.electstud.2018.04.004
+
+Craig, S. C., Niemi, R. G., & Silver, G. E. (1990). Political efficacy and trust: A report
+
+on the NES pilot study items. Political Behavior, 12(3), 289–314.
+
+https://doi.org/10.1007/BF00992337
+
+Dahl, R. A. (1971). Polyarchy: Participation and opposition. Yale Univ. Press.
+
+Donovan, T., & Karp, J. (2017). Electoral rules, corruption, inequality and evaluations
+
+of democracy. European Journal of Political Research, 56(3), 469.
+
+https://doi.org/10.1111/1475-6765.12188
+
+Easton, D. (1975). A re-assessment of the concept of political support. British Journal of
+
+Political Science, 5(4), 435–457. https://doi.org/10.1017/S0007123400008309
+
+Elsässer, L., Hense, S., & Schäfer, A. (2021). Not just money: Unequal responsiveness
+
+in egalitarian democracies. Journal of European Public Policy, 28(12), 1890–
+
+1908. https://doi.org/10.1080/13501763.2020.1801804
+
+Esaiasson, P., Kölln, A.-K., & Turper, S. (2015). External Efficacy and Perceived
+
+Responsiveness—Similar but Distinct Concepts. International Journal of Public
+
+Opinion Research, 27(3), 432–445. https://doi.org/10.1093/ijpor/edv003
+
+27
+
+European Social Survey. (2018). Cumulative File, ESS 1-8: Data file edition 1.0 NSD Norwegian Centre for Research Data, Norway—Data Archive and distributer of
+
+ESS data for ESS ERIC.
+
+Fuchs, D., & Roller, E. (2019). Globalization and political legitimacy in western europe.
+
+In U. Van Beek (Ed.), Democracy under threat: A crisis of legitimacy? (pp. 221–
+
+254). Springer International Publishing.
+
+Gangl, M. (2010). Causal Inference in Sociological Research. Annual Review of
+
+Sociology, 36(1), 21–47. https://doi.org/10.1146/annurev.soc.012809.102702
+
+Gidron, N., Adams, J., & Horne, W. (2018). How ideology, economics and institutions
+
+shape affective polarization in democratic polities. Annual Conference of the
+
+American Political Science Association.
+
+Gilens, M. (2012). Affluence and influence. Princeton University Press.
+
+Goubin, S. (2018). Economic inequality, perceived responsiveness and political trust.
+
+Acta Politica, 55(1). https://doi.org/10.1057/s41269-018-0115-z
+
+Goubin, S., & Hooghe, M. (2020). The Effect of Inequality on the Relation Between
+
+Socioeconomic Stratification and Political Trust in Europe. Social Justice
+
+Research, 33(2), 219–247. https://doi.org/10.1007/s11211-020-00350-z
+
+Goubin, S., Hooghe, M., Okolikj, M., & Stiers, D. (2020). Economic inequality and
+
+electoral accountability: Inequality and differences in economic voting across
+
+Western democracies. Comparative European Politics, 18(5), 793–818.
+
+https://doi.org/10.1057/s41295-020-00209-2
+
+Hutalagung, E. N., Akita, T., & Fami, M. (2019). Inequality and Political Trust in
+
+Indonesia.
+
+Inglehart, R., & Norris, P. (2017). Trump and the Populist Authoritarian Parties: The
+
+Silent Revolution in Reverse. Perspectives on Politics, 15(2), 443–454.
+
+https://doi.org/10.1017/S1537592717000111
+
+Krieckhaus, J., Son, B., Bellinger, N. M., & Wells, J. M. (2014). Economic Inequality
+
+and Democratic Support. The Journal of Politics, 76(1), 139–151.
+
+https://doi.org/10.1017/S0022381613001229
+
+Kumlin, S. (2011). Dissatisfied democrats, policy feedback and European welfare
+
+states, 1976-2001. In S. Zmerli & M. Hooghe (Eds.), Political trust: Why
+
+context matters (pp. 163–186). ECPR Press.
+
+28
+
+Kumlin, S., & Haugsgjerd, A. (2017). The welfare state and political trust: Bringing
+
+performance back in. In S. Zmerli & T. W. G. Van Der Meer (Eds.), Handbook
+
+on political trust (pp. 285–301). Edward Elgar Publishing.
+
+Kumlin, S., Stadelmann-Steffen, I., & Haugsgjerd, A. (2018). Trust and the welfare
+
+state. In E. M. Uslaner (Ed.), The oxford handbook of social and political trust
+
+(pp. 385–408). Oxford University Press.
+
+Lee, D., Chang, C. Y., & Hur, H. (2020). Economic performance, income inequality
+
+and political trust: New evidence from a cross-national study of 14 Asian
+
+countries. Asia Pacific Journal of Public Administration, 42(2), 66–88.
+
+https://doi.org/10.1080/23276665.2020.1755873
+
+Lewis-Beck, M. S., & Stegmaier, M. (2000). Economic Determinants of Electoral
+
+Outcomes. Annual Review of Political Science, 3(1), 183–219.
+
+https://doi.org/10.1146/annurev.polisci.3.1.183
+
+Lipps, J., & Schraff, D. (2021). Regional inequality and institutional trust in Europe.
+
+European Journal of Political Research, 60(4), 892–913.
+
+https://doi.org/10.1111/1475-6765.12430
+
+Lipset, S. M. (1960). Political Man: The social bases of politics. Johns Hopkins Univ.
+
+Press.
+
+Lipset, S. M. (1994). The Social Requisites of Democracy Revisited: 1993 Presidential
+
+Address. American Sociological Review, 59(1), 1–22.
+
+https://doi.org/10.2307/2096130
+
+Loveless, M. (2013). The Deterioration of Democratic Political Culture: Consequences
+
+of the Perception of Inequality. Social Justice Research, 26(4), 471–491.
+
+https://doi.org/10.1007/s11211-013-0198-7
+
+Magalhães, P. C. (2014). Government effectiveness and support for democracy.
+
+European Journal of Political Research, 53(1), 77–97.
+
+https://doi.org/10.1111/1475-6765.12024
+
+Martini, S., & Quaranta, M. (2020). Citizens and democracy in europe: Contexts,
+
+changes and political support. In Citizens and democracy in europe. Springer
+
+International Publishing.
+
+Medve-Bálint, G., & Boda, Z. (2014). The Poorer You Are, the More You Trust? The
+
+Effect of Inequality and Income on Institutional Trust in East-Central Europe.
+
+29
+
+Czech Sociological Review, 50(3), 419–454.
+
+https://doi.org/10.13060/00380288.2014.50.3.104
+
+Mingo, I., & Faggiano, M. P. (2020). Trust in Institutions Between Objective and
+
+Subjective Determinants: A Multilevel Analysis in European Countries. Social
+
+Indicators Research, 151(3), 815–839. https://doi.org/10.1007/s11205-020 02400-0
+
+Morgan, S. L., & Winship, C. (2015). Counterfactuals and causal inference methods and
+
+principles for social research (Second Edition). Cambridge University Press.
+
+Norris, M. (2015). The economic roots of external efficacy: Assessing the relationship
+
+between external political efficacy and income inequality. Canadian Journal of
+
+Political Science, 48(4), 791–813. https://doi.org/10.1017/S0008423915001080
+
+Norris, P., & Inglehart, R. (2019). Cultural backlash: Trump, Brexit, and authoritarian
+
+populism. In Cultural backlash. Cambridge University Press.
+
+Ovchinnikov, V. (2021). “Unfair” Inequality and Political Trust. SSRN Electronic
+
+Journal. https://doi.org/10.2139/ssrn.3933809
+
+Pickett, K., & Wilkinson, R. (2010). The spirit level: Why equality is better for
+
+everyone. Penguin UK.
+
+Pitkin, H. F. (1967). The concept of representation. University of California Press.
+
+https://doi.org/10.1525/9780520340503
+
+Quaranta, M., & Martini, S. (2016). Does the economy really matter for satisfaction
+
+with democracy? Longitudinal and cross-country evidence from the European
+
+Union. Electoral Studies, 42, 164–174.
+
+https://doi.org/10.1016/j.electstud.2016.02.015
+
+Schattschneider, E. E. (1965). The semisovereign people: A realist’s view of democracy
+
+in America. Holt, Rinehart and Winston.
+
+Traber, D., Hänni, M., Giger, N., & Breunig, C. (2022). Social status, political priorities
+
+and unequal representation. European Journal of Political Research, 61(2), 351–
+
+373. https://doi.org/10.1111/1475-6765.12456
+
+van der Meer, T., & Hakhverdian, A. (2017). Political Trust as the Evaluation of
+
+Process and Performance: A Cross-National Study of 42 European Countries.
+
+Political Studies, 65(1), 81–102. https://doi.org/10.1177/0032321715607514
+
+Van Der Meer, T. W. G. (2018). Economic Performance and Political Trust. In The
+
+Oxford Handbook of Social and Political Trust (pp. 599–616). Oxford
+
+30
+
+University Press. https://academic.oup.com/edited volume/34638/chapter/295121379
+
+Van de Werfhorst, H. G., & Salverda, W. (2012). Consequences of economic
+
+inequality: Introduction to a special issue. Research in Social Stratification and
+
+Mobility, 30(4), 377–387. https://doi.org/10.1016/j.rssm.2012.08.001
+
+Van Erkel, P. F. a., & Van Der Meer, T. W. g. (2016). Macroeconomic performance,
+
+political trust and the Great Recession: A multilevel analysis of the effects of
+
+within-country fluctuations in macroeconomic performance on political trust in
+
+15 EU countries, 1999–2011. European Journal of Political Research, 55(1),
+
+177–197. https://doi.org/10.1111/1475-6765.12115
+
+Van Ham, C., Thomassen, J., Aarts, K., & Andeweg, R. (Eds.). (2017). Myth and
+
+Reality of the legitimacy crisis: Explaining trends and cross-national differences
+
+in established democracies. Oxford University Press.
+
+Weisstanner, D., & Armingeon, K. (2021). Redistributive preferences: Why actual
+
+income is ultimately more important than perceived income. Journal of
+
+European Social Policy, 095892872110379.
+
+https://doi.org/10.1177/09589287211037912
+
+Woolridge, J. M. (2010). Econometric Analysis of Cross Section and Panel Data
+
+(Second). The MIT Press.
+
+Zhou, Y. J., & Jin, S. (2018). Inequality and Political Trust in China: The Social
+
+Volcano Thesis Re-examined. The China Quarterly, 236, 1033–1062.
+
+https://doi.org/10.1017/S0305741018001297
+
+Zmerli, S., & Castillo, J. C. (2015). Income inequality, distributive fairness and political
+
+trust in Latin America. Social Science Research, 52, 179–192.
+
+https://doi.org/10.1016/j.ssresearch.2015.02.003
+
+31
+
+Appendix
+
+INSERT TABLE A1 ABOUT HERE
+
+INSERT TABLE A2 ABOUT HERE
+
+INSERT TABLE A3 ABOUT HERE
+
+32
+
+Tables and figures
+
+Table 1. Overview of macroeconomic inequality indicators
+
+Indicators Number of obs. Mean Min Max (Un)equal distribution of incomes
+
+Disposable incomes: Gini (total pop.) 125296 0.294 0.232 0.383 Market incomes: Gini (total pop.) 119306 0.476 0.367 0.58 Disposable incomes: Gini (working-age pop.) 125296 0.293 0.227 0.377 Market incomes: Gini (working-age pop.) 119306 0.419 0.32 0.544 Disposable incomes: Palma ratio (working-age pop.) 120010 1.080 0.75 1.65 Disposable incomes: Palma ratio (total pop.) 120010 1.086 0.77 1.7 Public redistribution
+
+redist 119558 0.137 0 0.267 hhpool 114823 0.143 0.071 0.255 The tails of the distribution
+
+Wealth share S95S100 (top 5%) 13031 36.959 21.754 55.498 Wealth share S99S100 (top 1%) 13031 17.845 7.723 31.834 Disposable incomes: income shares S80/S20 (total pop.) 120010 4.627 3.3 7.1 Disposable incomes: income shares S80/S20 (working-age pop.) 120010 4.751 3.3 7.2 Disposable incomes share S90S100 149393 0.287 0.228 0.418 Disposable incomes share S95S100 149393 0.195 0.137 0.320 Disposable incomes share S99S100 149393 0.084 0.043 0.178 Disposable incomes: Poverty rate, 60% median income (total pop.) 123622 14.654 8.6 22.2 Market incomes: Poverty rate, 60% median income (total pop.) 116401 20.916 12.3 34 Market incomes: Poverty rate, 60% median income (working-age pop.) 116401 18.799 11.7 28.8 Disposable incomes: Poverty rate, 60% median income (working-age pop.) 116401 13.794 7.6 22.8 Market incomes: Poverty rate, 40% median income (total pop.) 116401 6.527 2.8 14.7 Disposable incomes: Poverty rate, 40% median income (total pop.) 121908 4.481 1.9 11.2 Market incomes: Poverty rate, 40% median income (working-age pop.) 116401 6.683 3.2 14.6 Disposable incomes: Poverty rate, 40% median income (working-age pop.) 116401 4.828 2.1 11.9 Control: Labour market performance
+
+Unemployment rate 25-54 149393 7.020 1.954 24.465 Control: Wealth
+
+gdphd 138864 41304.9 16024.29 75845.05
+
+33
+
+Table 2. The income distribution and political trust, estimates from stepwise multilevel
+
+regression models
+
+M 1 M 2 M 3 M 4 M 5 M 6
+
+bivariate country FE's Ind. SES GDP/per cap
+
+unempl. rate Gini mkt inc.
+
+Macro-level controls Period fixed effects Yes Yes Yes Yes Yes Yes GDP per capita pos. n.s. n.s. Unemployment rate neg. neg. Mkt Inc.: Gini (work.-age pop.) neg. Economic inequality Disp. Inc.: Gini (tot. pop.) -1.799*** 0.208 0.169 0.681 0.368 1.385* Mkt Inc.: Gini (tot. pop.) -1.902*** -3.130*** -3.124*** -3.016*** -1.978** -1.104 Disp. Inc.: Gini (work.-age pop.) -1.914*** -0.755 -0.782 0.107 0.146 1.463* Mkt Inc.: Gini (work.-age pop.) -1.889*** -2.757*** -2.739*** -2.628*** -1.715** 0 Disp. Inc.: Palma ratio (work.-age pop.) -0.326*** -0.103 -0.108 -0.009 0.008 0.207 Disp. Inc.: Palma ratio (tot. pop.) -0.303*** 0.050 0.043 0.079 0.029 0.194 Redistribution Public redistribution (disp./mkt inc. Gini) -0.942*** -0.985 -0.96 -0.377 0.064 0.087 HH pooling -2.370*** 0.243 0.202 0.377 0.063 -0.019 Tails of the inc. distribution Wealth share S95S100 (top 5%) 0.004*** -0.005 -0.005 -0.006 -0.007 -0.006* Wealth share S99S100 (top 1%) 0.003*** -0.003 -0.003 -0.002 -0.005 -0.009*** Disp. Inc.: inc. shares S80/S20 (tot. pop.) -0.077*** -0.017 -0.018 0.010 0.006 0.038 Disp. Inc.: inc. shares S80/S20 (work.-age pop.) -0.073*** -0.045 -0.045 -0.017 -0.006 0.032 Disp. Inc. share S90S100 -1.661*** 1.135 1.133 0.896 0.206 0.594 Disp. Inc. share S95S100 -1.711*** 0.985 0.99 0.698 0.059 0.504 Disp. Inc. share S99S100 -1.128*** 0.926 0.946 0.504 -0.061 0.488 Disp. Inc.: pov. rate, 60% med. inc. (tot. pop.) -0.021*** 0.006 0.005 0.005 -0.007 -0.003 Mkt Inc.: pov. rate, 60% med. inc. (tot. pop.) -0.016*** 0.005 0.005 0.005 -0.001 0.001 Mkt Inc.: pov. rate, 60% med. inc. (work.-age p.) -0.020*** -0.007 -0.007 -0.004 -0.005 -0.002 Disp. Inc.: pov. rate, 60% med. inc. (work.-age p.) -0.026*** -0.012 -0.012 -0.005 -0.009 -0.006 Mkt Inc.: pov. rate, 40% med. inc. (tot. pop.) -0.029*** -0.001 -0.001 0.001 -0.008 -0.004 Disp. Inc.: pov. rate, 40% med. inc. (tot. pop.) -0.038*** -0.021 -0.020 -0.014 -0.017** -0.010 Mkt Inc.: pov. rate, 40% med. inc. (work.-age p.) -0.029*** -0.010 -0.01 -0.007 -0.010* -0.006 Disp. Inc.: pov. rate, 40% med. inc. (work.-age p.) -0.032*** -0.026 -0.025 -0.017 -0.017* -0.012 Note: Parameter and standard error estimates from stepwise multilevel regression models. Each reported result corresponds to the coefficient estimate for the specific inequality indicator in a regression model that includes the inequality indicator, period fixed effects, and additional macro-level controls as stated. All models furthermore control for respondent gender, age, education, EGP class position, and household income. Statistical significance levels indicated at* p<0.05, ** p<0.01, *** p<0.001.
+
+34
+
+Table A1: Summary statistics for individual-level variables
+
+Variable Number of obs. Mean Min Max Trust in country's parliament 149393 0.669 0 1 HH equivalence income - 4 percentiles by wave 149393 2.503 1 4 Gender 149393 1.512 1 2 Highest level of education 149393 2.191 1 3 Age of respondent 149393 3.270 1 5 EGP class scheme - compressed 149393 3.542 1 7 ESS round 149393 4.466 1 8
+
+35
+
+Table A2: Correlation matrix of inequality indicators
+
+Unemployment rate (25-64) 1 GDP per capita -0.131 1 Disp. Inc.: Gini (tot. pop.) 0.282 -0.054 1 Mkt. Inc.: Gini (tot. pop.) 0.718 -0.034 0.610 1 Disp. Inc.: Gini (working - age) 0.226 0.027 0.983 0.555 1 Mkt. Inc.: Gini (working - age) 0.867 0.078 0.580 0.873 0.555 1 Disp. Inc.: Palma ratio (working-age) 0.289 0.018 0.982 0.605 0.992 0.597 1 Disp. Inc.: Palma ratio (tot. pop.) 0.324 -0.044 0.991 0.627 0.976 0.612 0.989 1 Public redistribution (disp./mkt. inc. Gini) 0.776 0.274 0.328 0.582 0.358 0.863 0.385 0.364 1 HH pooling 0.336 -0.335 0.436 0.199 0.341 0.291 0.324 0.401 0.121 1 Wealth share S95S100 (top 5%) -0.288 0.319 0.452 0.120 0.432 -0.060 0.414 0.415 -0.288 0.122 1 Wealth share S99S100 (top 1%) -0.444 0.122 0.201 -0.193 0.185 -0.366 0.158 0.160 -0.534 0.092 0.903 1 Disp. Inc.: inc. shares S80/S20 (tot. pop.) 0.250 -0.048 0.974 0.533 0.966 0.535 0.960 0.966 0.304 0.464 0.411 0.184 1 Disp. Inc.: inc. shares S80/S20 (work.-age pop.) 0.155 0.083 0.914 0.410 0.946 0.462 0.928 0.905 0.310 0.357 0.382 0.167 0.968 Disp. Inc. share S90S100 -0.170 -0.330 0.477 0.356 0.460 -0.014 0.446 0.436 -0.298 0.143 0.220 0.127 0.459 Disp. Inc. share S95S100 -0.206 -0.316 0.479 0.329 0.480 -0.022 0.459 0.435 -0.292 0.104 0.213 0.128 0.470 Disp. Inc. share S99S100 -0.239 -0.238 0.450 0.297 0.477 -0.044 0.453 0.407 -0.288 -0.011 0.237 0.161 0.443 Disp. Inc.: pov. rate, 60% med. inc. (tot. pop.) 0.271 -0.382 0.625 0.542 0.556 0.326 0.546 0.571 0.028 0.626 0.231 0.128 0.631 Mkt Inc.: pov. rate, 60% med. inc. (tot. pop.) 0.493 -0.322 0.780 0.781 0.717 0.625 0.725 0.753 0.311 0.567 0.161 -0.052 0.753 Mkt Inc.: pov. rate, 60% med. inc. (work.-age p.) 0.384 -0.312 0.789 0.718 0.765 0.544 0.760 0.754 0.252 0.443 0.222 0.049 0.758 Disp. Inc.: pov. rate, 60% med. inc. (work.-age p.) 0.178 -0.334 0.652 0.510 0.637 0.281 0.618 0.600 0.007 0.424 0.278 0.197 0.650 Mkt Inc.: pov. rate, 40% med. inc. (tot. pop.) 0.055 -0.286 0.617 0.335 0.591 0.145 0.555 0.550 -0.086 0.571 0.313 0.264 0.654 Disp. Inc.: pov. rate, 40% med. inc. (tot. pop.) -0.079 -0.350 0.511 0.122 0.502 -0.011 0.446 0.433 -0.185 0.538 0.222 0.240 0.586 Mkt Inc.: pov. rate, 40% med. inc. (work.-age p.) -0.069 -0.201 0.555 0.243 0.570 0.035 0.530 0.494 -0.157 0.350 0.311 0.291 0.598 Disp. Inc.: pov. rate, 40% med. inc. (work.-age p.) -0.196 -0.235 0.429 0.011 0.477 -0.110 0.417 0.362 -0.221 0.262 0.186 0.235 0.517
+
+36
+
+Table A2 (continued)
+
+Unemployment rate (25-64)
+
+GDP per capita
+
+Disp. Inc.: Gini (tot. pop.)
+
+Mkt. Inc.: Gini (tot. pop.)
+
+Disp. Inc.: Gini (working - age)
+
+Mkt. Inc.: Gini (working - age)
+
+Disp. Inc.: Palma ratio (working-age)
+
+Disp. Inc.: Palma ratio (tot. pop.)
+
+Public redistribution (disp./mkt. inc. Gini)
+
+HH pooling
+
+Wealth share S95S100 (top 5%)
+
+Wealth share S99S100 (top 1%)
+
+Disp. Inc.: inc. shares S80/S20 (tot. pop.)
+
+Disp. Inc.: inc. shares S80/S20 (work.-age pop.) 1
+
+Disp. Inc. share S90S100 0.417 1
+
+Disp. Inc. share S95S100 0.450 0.991 1
+
+Disp. Inc. share S99S100 0.452 0.959 0.983 1
+
+Disp. Inc.: pov. rate, 60% med. inc. (tot. pop.) 0.534 0.754 0.728 0.662 1 Mkt Inc.: pov. rate, 60% med. inc. (tot. pop.) 0.640 0.684 0.660 0.592 0.921 1 Mkt Inc.: pov. rate, 60% med. inc. (work.-age p.) 0.684 0.751 0.751 0.725 0.892 0.955 1 Disp. Inc.: pov. rate, 60% med. inc. (work.-age p.) 0.605 0.823 0.828 0.817 0.929 0.866 0.945 1 Mkt Inc.: pov. rate, 40% med. inc. (tot. pop.) 0.623 0.770 0.770 0.736 0.937 0.804 0.849 0.945 1 Disp. Inc.: pov. rate, 40% med. inc. (tot. pop.) 0.589 0.689 0.711 0.686 0.828 0.654 0.715 0.844 0.945 1 Mkt Inc.: pov. rate, 40% med. inc. (work.-age p.) 0.619 0.799 0.818 0.826 0.829 0.690 0.802 0.935 0.953 0.904 1 Disp. Inc.: pov. rate, 40% med. inc. (work.-age p.) 0.594 0.680 0.731 0.762 0.660 0.495 0.641 0.799 0.854 0.927 0.925 1
+
+Figure 1. Bivariate association between political trust and indicators of economic
+
+inequality

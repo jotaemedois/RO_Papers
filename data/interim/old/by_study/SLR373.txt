@@ -1,0 +1,1005 @@
+ORIGINAL PAPER
+
+Does direct democracy make for better citizens? A cautionary warning based on cross-country evidence
+
+Stefan Voigt1 • Lorenz Blume2
+
+Published online: 2 June 2015  Springer Science+Business Media New York 2015
+
+Abstract It has been shown that both formal existence and actual use of direct democratic institutions have effects on a number of variables such as ﬁscal policies, quality of governance but also economic growth. Further, it has been argued that direct democratic institutions would not only have an impact on policy outcomes but inﬂuence citizen participation and attitudes toward politics. For the ﬁrst time, these conjectures are tested in a large cross-country sample here. Overall, we do not ﬁnd strong effects and some of the signiﬁcant correlations are rather small substantially. In contrast to previous studies, voter turnout is not higher when direct democracy is available or used. Further, and also in contrast to previous studies, citizens do not express a greater interest in politics in countries with direct democracy institutions. Finally, they display lower trust in government and parties but not in parliament. These results shed some doubt on the hope that direct democracy would make for better citizens.
+
+Keywords Direct democracy  Political process  Voter turnout  Trust in political system  Legitimacy
+
+JEL Classiﬁcation H1  H3  H5  H8
+
+& Stefan Voigt
+
+stefan.voigt@uni-hamburg.de
+
+Lorenz Blume lorenz.blume@wiwi.uni-marburg.de
+
+1 Institute of Law and Economics, University of Hamburg, Johnsallee 35, 20148 Hamburg, Germany
+
+2 Economics Department, Philipps University Marburg, Barfu¨ßer Tor 2, 35032 Marburg, Germany
+
+123
+
+Const Polit Econ (2015) 26:391–420 DOI 10.1007/s10602-015-9194-2
+
+1 Motivation
+
+Direct democratic institutions signiﬁcantly affect a number of economic outcomes such as government spending, government deﬁcits and even total factor productivity [see, e.g., the survey by Matsusaka (2005)]. These effects could be called the outcome effects of direct democracy. Here, we ask whether direct democratic institutions have signiﬁcant effects on political participation and attitudes toward politics. Voting on speciﬁc proposals regarding single issues could, e.g., lead citizen-voters to be better informed. It could further induce people to be more interested in politics and to spend more time discussing it with relatives, friends and workmates. We refer to these effects of direct democracy as participation—as opposed to outcome—effects. This is the ﬁrst paper that systematically searches for such effects on a broad cross-country level. The possibility that direct democratic institutions have an effect on various aspects of individuals’ participation in the political process has been alluded to by a number of authors. Butler and Ranney (1994, 18), e.g., conjecture: ‘‘Referendum voters, however ignorant and unsophisticated they may seem when measured against the theorist’s ideal citizens, seem nevertheless to be better informed and more sophisticated than voters in candidate elections.’’ Benz and Stutzer (2004) ﬁnd evidence in favor of the conjecture that citizens in states with direct-democratic institutions are better informed than citizens in purely representative states. Some European states used referendums to pass the Maastricht treaty whereas others did not. Relying on Eurobarometer data, Benz and Stutzer ﬁnd that citizens in countries with a referendum were indeed better informed both objectively (i.e. concerning their knowledge about the EU) as well as subjectively (i.e. concerning their feeling about how well they were informed). Their paper is one of very few papers that deals with the effects of direct-democratic institutions in a cross-country setting. More recently and based on 14 US elections that took place between 1978 and 2004, Schlozman and Yohai (2008) ﬁnd only very modest effects of initiatives on political knowledge. While Butler and Ranney expect referendum voters to be better informed than voters in candidate elections, they are pessimistic that direct democratic institutions will increase overall voter turnout (1994, 17): ‘‘In short, while the evidence is far from dispositive, little in recent experience supports the proposition that referendums increase voting turnout. There is no reason to suppose that the ready availability of referendums encourages other forms of participation.’’ A number of studies have since tested the relations between initiatives and voter turnout. Smith (2001) introduces a proxy for the salience of both initiatives and referendums and ﬁnds that more salient ballot choices are related with higher turnout. This would be particularly relevant in midterm elections. In their inﬂuential study, Smith and Tolbert (2004) compare initiative with non-initiative US states and ﬁnd that the frequent use of initiatives has positive effects on voting levels, but also on civic engagement and conﬁdence in government. In their study, Tolbert and Smith (2005) use what has been termed the ‘‘voter eligible population’’ as turnout measure. Drawing on that variable, they ﬁnd that
+
+392 S. Voigt, L. Blume
+
+123
+
+initiatives signiﬁcantly increase turnout not only in midterm but also in presidential elections. More recently, Donovan et al. (2009) ﬁnd that independent voters (as opposed to partisan ones) are more aware of and interested in ballot measures in the midterm elections; this is not the case with regard to presidential elections. Tolbert et al. (2003) ﬁnd that it is not only the sheer number of initiatives that increases turnout but also campaign spending. Again, Schlozman and Yohai (2008) pour some water into the wine by ﬁnding no effects of initiatives on voter turnout in presidential elections. Dyck and Seabrock (2010) ﬁnd that increased voter turnout in ballot initiatives is a short-term effect which is not caused by a more favorable attitude regarding participation. To sum up: Smith and Tolbert (2004) found positive effects of initiatives on voter turnout, political participation as well as conﬁdence in government. In a sense, they found that direct democracy makes for good citizens. Later studies, and in particular Schlozman and Yohai (2008), have poured lots of water into the wine. Using various ways to measure the number of initiatives and using different estimators, they are not able to ﬁnd any of the signiﬁcant effects that Smith and Tolbert found. In this paper, we are interested in taking this question beyond the US and ask whether direct democracy instruments are associated with higher voter turnout, more political participation and higher trust in government and other political actors in a cross-country setting. In one of the rare papers analyzing the effects of direct democracy on a cross country level, Hug (2005) ﬁnds for a cross-section of 15 transition countries in Central and Eastern Europe that direct democratic institutions cannot explain variation in the conﬁdence of various organizations such as government, parliament, the EU or the armed forces. In a panel for the years between 1990 and 1997 and covering the same set of countries, he does ﬁnd some evidence that citizens are more satisﬁed with democratic development given that they have direct democratic institutions at their disposal. Dyck (2009) argues that direct democratic institutions—and their frequent use—undermine the possibility of politicians to present themselves as trustworthy which implies that more frequent use should be correlated with lower levels of trust in government. This is exactly what he ﬁnds with regard to trust in US state governments. In summary, at least some papers have found a positive correlation between direct democratic institutions and (1) voter information, (2) voter turnout and civic engagement more broadly conceived, and (3) trust in government and other political actors. Almost all of these results have, however, been found with respect to single countries (mostly the United States) or, in case of cross-country settings, on the basis of a very limited number of countries. In this paper we ask whether any of these relations can be found in a cross-country dataset comprising up to 94 countries. In a previous paper on the economic effects of direct democratic institutions (Blume et al. 2009), we found that some of the effects are not due to the formal existence of direct democratic institutions but to their actual use. This is why we, here too, analyze both formal existence as well as actual use of direct democratic institutions. Our main ﬁndings can be easily summarized: First, in most cases there is no measurable connection between participation and direct democracy, and when connections do appear, they are fragile. In contrast to previous studies, voter turnout
+
+Does direct democracy make for better citizens?… 393
+
+123
+
+is not higher when direct democracy is available or used. Second, in countries with direct democracy institutions, citizens do not express greater interest in politics. Third, in countries with direct democracy institutions, citizens express lower trust in government and political parties but not in parliament. We thus conclude that direct democracy institutions are no panacea to making for better citizens. The rest of the paper is organized as follows. In Sect. 2, a number of conjectures on why direct democratic institutions could have an impact on various aspects of political participation are developed. Since our emphasis in this paper is clearly on the empirics, this section mainly surveys the main theoretical arguments discussed in previous papers. Section 3 describes the underlying data and the estimation approach employed. Section 4 contains the estimation results and offers possible interpretations thereof. Section 5 concludes and describes possible next steps.
+
+2 Some theoretical conjectures
+
+Instrumentally rational citizens would practically never bother to vote as the likelihood that they will cast the decisive vote is almost zero. Since, however, voter turnout is consistently signiﬁcantly higher than zero, this observation has also been coined ‘‘the paradox of voting’’ and has occupied public choice scholars for decades (Mueller 2003, Ch. 14 is a good overview over both the original result and the various strategies to mitigate it). But if it is irrational to vote, then it is also irrational to incur costs for being informed in the ﬁrst place. Therefore, public choice scholars postulate the rationally ignorant voter.1 If direct democracy is to increase voter turnout we need, hence, to establish two things: First, we need to show that more information makes it more likely—and rational—to vote. Second, we need to show that citizens are likely to acquire more information under direct democracy. Matsusaka (1995) is an ingenious approach to resurrect the rational choice model of voting. Based on two observations, the model chooses to explain abstentions rather than votes. First, according to surveys, an overwhelming majority of citizens believe they ought to vote even if their candidate is certain to lose. Second, some citizens abstain because they have insufﬁcient information to evaluate the candidates. The model now shows that it can be rational to abstain in case a citizen feels she has insufﬁcient information about the candidates or parties’ platforms. Now, if citizens feel better informed as a consequence of direct democracy and its consequences such as intense public debates on particular issues, higher voter turnout might be the result. It remains to be shown why citizens should be better informed under direct democracy in the ﬁrst place. Various conjectures have been discussed. One consideration posits that getting informed about politics does not exclusively serve as an input in the production of a pure public good (the election result) but has some private good components: people who are well-informed about politics are more interesting to talk to, will be listened to over lunch conversations and so forth. If my reputation as an interesting lunch conversation partner depends on my being
+
+1 It should really be the rationally ignorant citizen—as the theory also predicts that he will not vote.
+
+394 S. Voigt, L. Blume
+
+123
+
+politically informed, I might have a rational interest in not being politically ignorant. Comparing countries that use direct democratic institutions with those that rely exclusively on representative elections, the overall number of elections will be higher in the former—and the investment into political competence is likely to yield higher payoffs too. Smith (2001) argues that as ballot initiatives become more salient, the costs of acquiring information falls as citizens can gather it without much effort. He hypothesizes that turnout is positively correlated with the salience of both referendums and initiatives. But when salience is already high, the marginal effect is expected to be small. Smith (ibid.) expects this to be the case in presidential elections implying that—ceteris paribus—the effect of direct democratic institutions on voter turnout should be higher in midterm than in presidential elections. Further, if citizens frequently vote on policy issues, this might undermine the perceived importance of decisions taken by their representatives—and turnout might subsequently be lower. The possible connection between campaign spending and voter turnout has been investigated by Cox and Munger (1989). They show that campaign spending can increase the pressure to vote. Given that overall campaign spending increases in the use of direct democracy institutions, this could be a complementary transmission channel leading to higher overall turnout. Voting is only one form of political activity. Other forms include signing petitions, joining boycotts, participating in demonstrations and so forth. Quite generally, these forms of political activity are not easy to explain as they are subject to the problem of collective action ﬁrst described by Olson (1965). Speculating about the possible relationship between direct democratic institutions and these forms of civic engagement leads to contradictory conjectures: on the one hand, one can argue that the increased political interest and awareness induced by direct democratic institutions should make other forms of political activity more likely. There would, thus, be a complementary relationship between the two. On the other hand, one can argue that the availability of established and well-respected forms of political participation such as initiatives and referendums should decrease the likelihood that people resort to alternative forms of political activity. There should, hence, be a substitutive relationship. As the relationship between these two kinds of political action is difﬁcult to derive theoretically, an empirical test will be all the more important. All these arguments try to remain within the standard framework of economics. Admittedly, not all of them are entirely convincing. Some economists try to modify the standard framework. Frey et al. (2004), e.g., propose that utility should not be conﬁned to utility deriving from outcomes but should include utility deriving from (fair, good, adequate) procedures. People would not only value outcomes (what?) but also the process leading to outcomes (how?). Drawing on insights from psychology, Frey et al. argue that people have a sense of self and would value autonomy, relatedness, and competence. Being at the receiving end of hierarchies would produce procedural disutility, whereas voice, i.e. the capacity to stand up for one’s position, would be an element of a process that is perceived as fair just as
+
+Does direct democracy make for better citizens?… 395
+
+123
+
+participation increases (procedural) utility as it would enhance individuals’ perception of self-determination.2
+
+If direct democratic institutions give citizens a sense of ‘‘voice’’, their utility from politics is expected to be higher than under purely representative democracy. This, in turn, should come along with higher levels of legitimacy accredited to the political system and possibly also higher levels of reported life satisfaction (aka happiness). Based on ten policy issues, Matsusaka (2010) reports that US states with direct democracy are around 18 % more likely than states without direct democracy to implement the preference of the majority as their policy. Direct democracy could, hence, indeed be a strong tool to mitigate the principal-agent-problem between citizens and government. This might, in turn, increase the overall legitimacy attributed to government. Whether direct democratic institutions are indeed associated with higher levels of trust in political organizations such as government, parliament, and political parties is inquired into here. Theoretical predictions are, again, ambivalent. A straightforward argument claims that direct democratic institutions make governments more responsive to citizen preferences which could increase citizen trust in government. Dyck (2009) turns this argument on its head: every time an initiative is used, citizens become aware that politicians would shirk on them if they do not draw on initiatives. Dyck (2009, 6) argues that the mere existence of direct democratic institutions reminds citizens that politicians ought not to be trusted.3 Every time direct democratic institutions are actually used, this suppresses the possibility of politicians to fulﬁll their obligations and thus reduces the likelihood that citizens will trust them. Previously, Citrin (1996) had argued that the initiative undermines the authority of elected ofﬁcials, as they are constantly being questioned and circumvented. Further, successful initiatives are not equivalent with their faithful implementation. Initiatives need to be implemented by government. Given that their content is not in accordance with the preferences of government, it is likely that they will be ‘‘stolen’’ as Gerber et al. (2001) have coined the phenomenon. If citizens experience this, their trust in government might further erode. Finally, assume that direct democratic institutions are conducive to higher levels of information regarding the political process. It cannot be excluded that better informed citizens display less trust as the higher level of information gives them little reason to trust politicians. Matsusaka (2008) develops an argument to the contrary, hypothesizing that citizens, by removing contentious issues from their representatives, might perceive an improved ability to control them regarding the remaining issues. This could, in turn, be connected with a higher level of trust. Ex ante, the effects of direct democratic institutions on citizen trust in government are thus unclear and merit empirical analysis. Summing up, based on theoretical arguments, we do have
+
+2 Hibbing and Theiss-Morse (2001) analyze process preferences of US American voters empirically. They ﬁnd that those who support more direct involvement of citizens in decision making are simultaneously also more likely to support delegation of decision-making competence to non-elected technocrats (such as central bankers).
+
+3 Note the structural similarity to the argument that a constitution for knaves—as recommended by David Hume—crowds out mutual trust between citizens and politicians (Frey 1997).
+
+396 S. Voigt, L. Blume
+
+123
+
+reasons to expect direct democracy institutions to be associated with better informed citizens. Whether this translates into higher voter turnout, more frequent use of other forms of political participation and more trust in government is, however, not clear. An empirical test might, hence, shed light on these issues.
+
+3 Data and estimation approach
+
+In this section, we proceed in four steps. First, we present our data reﬂecting direct democratic institutions. Second, we discuss the variables proxying for various aspects of the political process. Third, we present bivariate correlations between our direct democratic variables and those variables proxying for the political process. Fourth, we propose our estimation approach.
+
+3.1 Variables reﬂecting direct democratic institutions
+
+The international IDEA handbook on direct democracy (2008) contains information on ten different aspects of direct democracy for up to 214 countries and territories. It reﬂects the situation as of January 2008. We use information for up to 94 countries only as other variables for the remaining countries are frequently lacking. The handbook distinguishes between four different institutions of direct democracy, namely (1) referendums, (2) citizens’ initiatives, (3) agenda initiatives and (4) recall. Regarding referendums, the survey distinguishes between mandatory and optional referendums. It does not make a distinction between referendums and plebiscites. But it does make a distinction between agenda initiatives on the one hand and citizens’ initiatives on the other. An agenda initiative is deﬁned as a direct democratic institution which ‘‘enables citizens to submit a proposal which must be considered by the legislature but is not necessarily put to a vote of the electorate’’ (IDEA 2008: 212). Hence, the citizen-voters are agenda-setters but not ﬁnal decision-makers. This is different under citizens’ initiatives which are direct
+
+Table 1 An overview over de jure institutions in sample of 94 countries
+
+Direct democratic institutions Percentage of countries having the institution at their disposal (%)
+
+Mandatory referendum 59.6
+
+Optional referendum 68.1
+
+Legal provisions at the regional levela 44.7
+
+Legal provisions at the local levela 59.6
+
+Are referendum results binding 46.8
+
+Any issues can be brought as a referendum 60.6
+
+Citizens’ initiatives on national level 27.0
+
+Agenda initiatives on national level 37.2
+
+Initiatives on national level (both forms) 41.5
+
+a Concerning referendums
+
+Does direct democracy make for better citizens?… 397
+
+123
+
+democratic institutions that allow ‘‘citizens to initiate a vote of the electorate on a proposal outlined by those citizens. The proposal may be for a new law, for a constitutional amendment, or to repeal or amend an existing law’’ (IDEA 2008: 213; italics in original). Under this institution, citizen-voters are, hence, both agendasetters and ﬁnal decision-makers. Table 1 provides an overview over the possibilities of direct democratic institutions in our universe of 94 countries. According to the Handbook, referendums are possible in more than 2/3 of all countries covered. This number strikes us as very high. It is clearly higher than the percentage that we found in our previous study which was based on 88 countries.4 We attribute the difference to the less restrictive deﬁnition employed by the authors of the Handbook. Yet, a couple of qualiﬁcations might be in order: Referendum results are binding in less than half of all countries (46.8 %. They are ‘‘partially binding’’ in another 21.3 %; not shown in the Table). In 10.6 % of all countries, referendums are restricted to proposed constitutional amendments. Interestingly—and nicely documenting the institutional heterogeneity regarding direct democracy—in another 8.5 % of all countries, referendums regarding constitutional amendments are not admissible. But in two out of three countries, referendums can apply to both constitutional and nonconstitutional legislation. Information on bivariate correlations between the various institutions rounds up our quick overview over direct democratic institutions. Only 27 of our 94 countries combine all direct democratic institutions (i.e. mandatory referendums, optional referendums, initiatives), 16 countries rely on a mix of mandatory and optional referendums, but do not provide initiatives, 7 countries rely on a mix of optional referendums and initiatives, but do not provide mandatory referendums. This implies that societies do not make an all or nothing choice regarding direct democracy institutions, but choose a highly varied menu of them. Our former study on the effects of direct democracy (Blume et al. 2009) shows that it is often the actual use of the various institutions—and not their legal foundation—that causes the effects. This is why we continue to group our variables into de jure variables on the one hand, and de facto variables on the other. Two databanks were used to construct the de facto indicators: the Search Engine for Direct Democracy and the databank provided by the Centre for Research on Direct Democracy in Aarau, Switzerland. Table 2 provides an overview over the frequency with which these institutions have been used between 1995 and 2006. The maxima of the ﬁrst three institutions are all due to Switzerland. Regarding presidential plebiscites, Belarus, the Kyrgyz Republic, and Madagascar all organized three of them. Parliamentary plebiscites were most often called by the Polish parliament in the relevant period.
+
+4 There, we ﬁnd that only 20.5 % have optional referendums. This huge difference is primarily due to plebiscites that are not distinguished from referendums here. In our earlier survey, we counted 64.8 % of all countries as allowing for plebiscites, a percentage fairly close to the 68.1 % reported here.
+
+398 S. Voigt, L. Blume
+
+123
+
+3.2 Variables reﬂecting the political process
+
+In Sect. 2, a number of variables that could potentially be inﬂuenced by direct democratic institutions were brieﬂy discussed, among them the degree of information that voters have, the degree to which they turn out at the election booth etc. Unfortunately, some of these variables are not readily available for a cross section. For our analysis, we rely overwhelmingly on results reported in the ﬁfth wave of the World Values Survey (2008) which covers numerous aspects that are of interest here. 10 out of our 12 variables used here are from the World Values Survey. Table 3 offers summary statistics for the key dependent and independent variables.5
+
+These ten variables can be grouped into three different areas, namely (1) voter turnout, (2) interest in politics and (3) institutional trust. Voter turnout is our ﬁrst dependent variable. Turnout information is also provided by IDEA (turnout data are
+
+5 Here is some information on the outliers in Table 3: Israel (37.1) is an outlier regarding ‘‘discuss political matters frequently’’, Sweden (31.0) one regarding ‘‘joining boycotts’’ and Bangladesh is an outlier with regard to all ‘‘great deal’’ questions (all answered with their possible maximum). Data from Bangladesh might, hence, be problematic and we include a country dummy for that country.
+
+Table 2 An overview over de facto institutions in sample of 94 countries
+
+Description of the variable Mean SD Max. Min.
+
+Number of mandatory ref. 1996–2005 0.55 2.05 17.00 0.00
+
+Number of optional ref. 1996–2005 0.36 2.46 23.00 0.00
+
+Number of initiatives 1996–2005 0.36 2.11 20.00 0.00
+
+Number of presidential plebiscites 1996–2005 0.21 0.65 3.00 0.00
+
+Number of parliament. plebiscites 1996–2005 0.22 0.53 3.00 0.00
+
+Table 3 Summary statistics for the key independent variables
+
+Description of the variable N Mean SD Max. Min.
+
+Voter turnout of registered voters 93 66.6 12.8 94.8 32.3
+
+Voter turnout of voting age population 92 62.8 15.6 142.9 32.2
+
+Political interest (% very ? somewhat interested) 58 47.1 15.4 83.5 20.9
+
+Discuss political matters (% frequently) 41 17.9 7.4 37.1 4.3
+
+Joining boycott (% have done) 52 9.0 7.1 31.0 1.0
+
+Demonstrate (% have done) 67 14.3 9.1 37.5 1.0
+
+Trust in government (% great deal) 50 8.7 10.2 47.7 1.0
+
+Trust in parties (% great deal) 50 4.5 5.0 24.9 0.6
+
+Trust in parliament (% great deal) 50 11.1 10.4 42.5 0.9
+
+Democracy 1–10 scale (mean, 10 = democratic) 39 6.6 0.93 8.5 4.2
+
+Does direct democracy make for better citizens?… 399
+
+123
+
+based on all elections that took place between 2000 and 2008). We use turnout either as a percentage of registered voters or, alternatively, as a percentage of the voting age population. Both measures have advantages and disadvantages. The variable registered voters automatically controls for the exclusion of entire groups from elections; on the other hand, having mastered the hurdle of being registered is likely to increase the probability to participate in elections. The bivariate correlation between the two variables is r = 0.65. We are interested in ascertaining whether countries with direct democratic institutions make citizen-voters more interested in politics. To test whether this is the case we rely on a question from the World Values Survey that asks ‘‘How interested would you say you are in politics?’’ To operationalize, we summed the percentages of those who answered ‘‘very interested’’ and ‘‘somewhat interested’’. It turns out that Argentines are least interested in politics whereas Thais are most interested. Direct democratic institutions might not only make people more interested in politics, but might also make them discuss political matters more frequently. The 1999–2002 wave of the World Values Survey contained a question ‘‘When you get together with your friends, would you say you discuss political matters frequently, occasionally or never?’’ Here, we took the percentage of those who answered ‘‘frequently’’. Political matters are discussed least frequently in Singapore and most frequently in Israel. But the effects of direct democratic institutions might be even more far-reaching. Compared to pure representative democracy, they allow for one additional kind of activity, namely voting on concrete issues (instead of on persons and/or parties alone). This might be accompanied with additional political activities such as joining boycotts, or attending peaceful demonstrations. The World Values Survey asks whether the surveyed have participated in any of these activities in the last 5 years. Romanians are least likely to participate in boycotts whereas Swedes are most likely to do so. Participation in demonstrations is least likely in Singapore and most likely in France. If direct democracy leads people to discuss political matters more frequently or even to participate in additional political activities, it could also have an impact on the level of trust that citizens have in their government, the political parties, or parliament. To test whether the conﬁdence in government, political parties or parliament is correlated with direct democratic institutions, we use the percentage of those who answered ‘‘a great deal’’. Now, people in Macedonia display the lowest level of trust in government, trust in parties is lowest in Germany, and trust in parliament lowest in the Netherlands. Interestingly, Bangladeshis are those who trust all of these most. Finally, having the possibility to rely on direct democratic institutions and (or) frequently resorting to them might have an impact on the citizens’ perception of how democratically their country is governed overall. The corresponding question from the World Values Survey reads: ‘‘And how democratically is this country being governed today?’’ The answers are on a scale from 1 (‘‘not at all democratic’’) to 10 (‘‘completely democratic’’). We use the arithmetic mean of the answers.
+
+400 S. Voigt, L. Blume
+
+123
+
+Table 4 Direct democracy and deliberation—bivariate correlations
+
+N Mandatory referen-dum (1 = yes)
+
+Optional referendum (1 = yes) Inititiative (1 = yes) Number of mandatory referendums 1995–2006 Number of optional referendums 1995–2006 Number of Initiatives 1995–2006 ‘‘De jure’’ variables ‘‘De facto’’ variables
+
+Voter turnout of registered voters 93 -0.079 -0.101 -0.173(*) -0.147 -0.122 -0.201(*)
+
+Voter turnout of voting age population 92 -0.187(*) 0.072 -0.001 -0.138 -0.124 -0.169
+
+Political interest (% very and somewhat interested) 58 0.093 -0.142 -0.338** 0.191 0.139 0.158
+
+Discuss political matters (% frequently) 41 -0.055 0.012 0.042 0.179 – -0.004
+
+Joining boycott (% have done) 52 -0.308* 0.076 -0.209 0.233(*) 0.287* 0.238(*)
+
+Demonstrate (% have done) 67 -0.341** 0.161 0.084 0.155 0.263* 0.196
+
+Trust in government (% great deal) 50 0.042 -0.297* -0.268(*) -0.070 -0.093 -0.101
+
+Trust in parties (% great deal) 50 0.046 -0.427** -0.308* -0.115 -0.122 -0.132
+
+Trust in parliament (% great deal) 50 0.130 -0.324* -0.180 -0.032 -0.070 -0.068
+
+How is democracy (mean of 1–10, 10 = democratic) 39 -0.086 -0.129 -0.183 0.195 0.156 0.156
+
+**, * and (*) show that the Bravais–Pearson correlation coefﬁcient is signiﬁcant on the 1, 5 or 10 % level, respectively
+
+Does direct democracy make for better citizens?… 401
+
+123
+
+According to the Survey, Ukranians feel least governed democratically whereas people from Ghana feel most democratically governed.
+
+3.3 A ﬁrst take at the data: bivariate correlations
+
+Bivariate correlations enable us to get a sense of the possible relationships between direct democratic institutions and the ten dependent variables that are described in 3.2. Again, we do not only have an eye on the correlations with the formal institutions, but also on their actual use over a dozen years. And again, the differences in the various correlation coefﬁcients are noteworthy. Out of 60 bivariate correlations between the political participation variables and those of direct democratic institutions, 15 are correlated at least on the 10 % level of signiﬁcance. The ﬁrst three columns reﬂect our de jure measures, the last three columns the frequency of their actual use. A couple of results stand out: (1) both the possibility of optional referendums and of initiatives is negatively correlated with our proxies for trust in politics. (2) Political activity (proxied for by ‘‘joining boycott’’ and ‘‘demonstration’’) is negatively correlated with the formal requirement for mandatory referendums but positively with the number of optional referendums that took place between 1995 and 2006. Both results appear robust in the sense that similar dependent variables display similar bivariate correlations with our direct democracy variables. This increases our conﬁdence in the proxies (Table 4). Bivariate correlations are interesting to get a sense of possible interdependencies. But they can also be misleading because effects are almost never monocausal. This is why we move on to multivariate regressions now.
+
+3.4 Toward multivariate correlations: choosing the covariates
+
+The estimation approach used is straightforward and follows directly from the theoretical part. We are interested in estimating the dependent variable Y that can stand for any of the political participation variables introduced in Sect. 3.2 above. The vector M is made up of the standard explanatory variables conventionally used to determine the respective dependent variable. Our general speciﬁcation thus takes the form
+
+Yi ¼ ai þ bMi þ cDIRi þ dZi þ ei ð1Þ
+
+where DIR is any of four direct democracy variables,6 Z is a vector of controls and e is the error term. The cross-section analysis is performed by OLS, inference is based on t-statistics computed on the basis of White heteroscedasticity-consistent standard errors.
+
+6 More speciﬁcally, we test both de jure and de facto mandatory referendums as well as the de jure and de facto initiatives. To save space, we refrain from reporting the results on optional referendums as they do not convey additional insights.
+
+402 S. Voigt, L. Blume
+
+123
+
+Now, to tease out as much information of the data as possible, we propose to take the various forms in which direct democracy institutions have been combined in a country explicitly into account. To do so, we estimate the following equation:
+
+Yi ¼ ai þ bMi þ c1DMANREFi þ c2DINIi þ c1DBOTHi þ dZi þ ei ð2Þ
+
+where DMANREF = 1 if mandatory referendum available; DINI = 1 if initiative available; and DBOTH = 1 if both referendum and initiative available. Generally speaking, any kind of political participation—no matter whether voting at a general election or attending a demonstration etc.—can be expected to be a function of a number of basic determinants such as income, education, the number of years a country has been democratic without interruption, the degree of democracy actually realized and ethnolinguistic fractionalization. We therefore always begin our estimates with these variables, usually complemented by a number of geographic dummy variables. The ﬁrst dependent variable we are interested in is voter turnout. Geys (2006) provides a meta-analysis of 83 aggregate-level studies that have analyzed the determinants of voter turnout and that comprise both national and sub-national elections as well as turnout for representative and direct democratic elections. In setting up our vector of standard explanatory variables, we largely follow Geys who distinguishes between institutional, socio-economic and political variables. Among the institutional variables, the electoral system has been found an important determinant for showing up at the election booth or not. Turnout is expected to be higher under proportional representation (PR) than under majority rule (MAJ) because there is a close correlation between the number of votes and the number of seats under PR (but not under MAJ), which could make potential voters believe in the importance of their vote. Further, districts are more likely to be competitive under PR than under MAJ. Powell (1980) argues that bonds between parties and groups are stronger under PR, inducing higher turnout. The most important counterargument seems to be that PR electoral systems frequently lead to coalition governments. Then, it is really party politicians who determine the government and not the voters which would reduce the incentive of turning up on election day.7
+
+Quite a few electoral systems know compulsory voting. It is straightforward to assume that it will increase voter turnout which is, according to Geys’ metaanalysis, indeed the case according to the overwhelming number of studies. We control for it by a simple dummy variable.8
+
+Socio-economic variables are the next group of variables that Geys (2006) analyzes. Population size is expected to be a determinant of voter turnout because the larger the population, the smaller the chance that any citizen will cast the decisive vote and hence the lower the incentives to go voting if one assumes voters
+
+7 In addition to the electoral system, we propose to control for the form of government, the question i.e. whether a country has a presidential or parliamentary system. This could have an inﬂuence on voter turnout regarding legislatures because under parliamentary systems, it is the legislature that determines the head of the executive. Also, presidential systems often have a form of direct citizen participation if the president is elected directly by the citizens.
+
+8 A reviewer suggested that we exclude countries with compulsory voting entirely—and not control for them with a dummy as we do. Exclusion of those countries leaves the results unaffected.
+
+Does direct democracy make for better citizens?… 403
+
+123
+
+to be instrumentally motivated. We use the logarithm of population size to take account of the huge variation in population size between countries. Next, population stability is found to be a signiﬁcant determinant of voter turnout. Population stability is high if identical persons interact over long periods of time. It has been measured by population mobility, population growth and homeownership. Here, we use the share of the urban population as a proxy for population instability on the assumption that urban citizens are more mobile and less likely to be part of established and long-lasting networks. Finally, two political variables have been identiﬁed by Geys (2006) as being signiﬁcant for explaining voter turnout, namely the closeness of the election and campaign expenditures. In a cross-country setting, it is not necessarily meaningful to compare campaign-expenditures which is why we do not include this variable. Closeness of the election can be reﬂected by a variable FRAC (for fractionalization) which is 100 minus the percentage of the votes secured by the largest party. The higher the value of the variable, the closer is electoral competition assumed to be. Regarding our second group of dependent variables—namely interest in politics—, we can be a lot shorter. We are not aware of any ‘‘canonical’’ M-vector used to explain the degree of political interest and civic engagement found in various societies. Beyond our ‘‘all purpose vector’’ shortly described above, it seems, however, plausible to rely on the following variables: ideological preferences (‘‘partisanship’’); at least two, partially contradictory, conjectures come to mind: First, left-leaning people could generally be more ready to actively participate by signing petitions or joining boycotts. Second, citizens at either end of the political spectrum could be more likely to become politically active (e.g. because their own preferences are not sufﬁciently represented in parliament etc.). Further, it seems that less populated rural areas are less attractive for political action. We hence include the number of inhabitants per hectare (population density) taken from the Banks-database (Banks 2004). Finally, regarding our third group of dependent variables—institutional trust— we rely on exactly the same explanatory variables as with regard to political interest and civic engagement.
+
+3.5 Causality?
+
+To be clear from the outset: Establishing causality based on a single cross-section is impossible. Properly speaking, we can only identify correlations. This is why we have been reluctant to talk of ‘‘effects’’ of direct democracy throughout the paper. But in the absence of any quasi-natural experiments and given the data limitations, establishing robust correlations seems the best we can do. And it might be worth noting that the previous literature surveyed above relies on exactly the same kind of correlations, so these results are also useful because they can be easily compared with previous research. Two problems usually loom large in such kind of exercises, namely omitted variable bias and endogeneity. We propose to implement a number of cautionary measures to rule out some possible sources of spurious correlations. Ex ante, we cannot exclude the possibility that both the respective dependent variable and the relevant proxy for direct democracy are driven by some third
+
+404 S. Voigt, L. Blume
+
+123
+
+variable. It could, e.g., be the case that social capital or civic engagement broadly conceived play such a role. To control for that possibility, we include proxies for both social capital and for civic engagement. Social capital is some combination between general trust and reliable networks (see, e.g., Fukuyama 1995 or Blume 2009). The general level of trust among citizens has important consequences for the development of entire societies (Knack and Keefer 1997). If trust is high, transaction costs are low and the number of transactions should correspondingly be higher. To ensure that we do not fall prey to omitted variable bias, we thus include the general level of trust in our control vector. A similar argument applies to civic engagement. It could further be that broad civic engagement does not only increase voter turnout (and some of the other left-hand-side variables) but also causes direct democratic institutions to be created in the ﬁrst place and to be used frequently later on. To control for that possibility, we rely on a variable which depicts the number of international non-government organizations active in a country which was created by Paxton (2002). We normalize the absolute number with population size and end up with a variable number of INGOs per 1.000 inhabitants. Simply including proxies for social capital and civic engagement into the regressions is insufﬁcient to rule out omitted variable bias. Rather, we want to be sure that the means of these variables do not signiﬁcantly differ between the ‘‘treatment’’ and the ‘‘control’’ groups. Table 5 documents the means for both social capital and civic engagement for countries with direct democracy (the treatment group) and those without (the control group). The means of the control group do not differ signiﬁcantly from the means of the treatment group.9
+
+As always when institutions serve as the independent variable, endogeneity is a potential problem. Here, it is particularly severe as we could deal with outright reversed causality: if the citizens put little trust in their politicians, they might be more inclined to introduce direct democratic institutions. The standard way to control for endogeneity problems is to draw on instrumental variables. To determine whether endogeneity is a problem, we run the Hausman test drawing on the age of the constitution, the percentage of the population speaking English or a European language as a broad instrument for the quality of institutions generally conceived, the ethnic fractionalization of society, the urban population as
+
+Table 5 Comparing countries with and without direct democracy institutions
+
+Countries … … With DD institutions (77 countries with referendum) … Without DD institutions (17 countries without referendum)
+
+Mean value for social capital (% of most people can be trusted) 0.25 (SD = 0.15) 0.21 (SD = 0.12)
+
+Mean value for civic engagement (INGOs per 1.000 inhabitants) 0.21 (SD = 0.49) 0.21 (SD = 0.27)
+
+9 With regard to MANDREF and INI, the mean for trust is even higher in the control group.
+
+Does direct democracy make for better citizens?… 405
+
+123
+
+a percentage of total population in 1950 as well as the share of the population that professed to be Catholic in 1980 and a dummy variable for Switzerland.10 These variables work quite well as instruments for the de facto use of direct democratic institutions, for their de jure counterpart, they are somewhat weaker. In order not to overburden the paper with tables, we refrain from documenting 2SLS results as long as the Hausman test indicates no problems. We do, however, document the p value of that test. There is only one case in which the Hausman test indicates an endogeneity problem, namely regarding direct democracy and trust in parliament. In that case, we explicitly had a look at 2SLS-estimates: it turns out that the correlation remains insigniﬁcant.
+
+4 Estimation results and their interpretation
+
+We present our ﬁndings regarding the ten dependent variables in seven Tables.11 To save space, we only document the estimation results of the direct democracy variables. All other variables included in the respective equation are mentioned in the notes below the tables. Switzerland is clearly the country with the most frequent use of direct democratic institutions on the federal level. To ensure that our results are not driven by Switzerland, we have also excluded her from all equations reported here. Our results are robust to the exclusion of Switzerland. We further tested the robustness of our results by adding partisanship, trust, the Ginicoefﬁcient, population density, the percentage of the population following Confucianism, and former British as well as former Spanish colonies. At times, the number of observations signiﬁcantly decreases but all our results are robust to the inclusion of these additional controls. Table 6 depicts the correlation between direct democracy and voter turnout. Regarding de jure institutions, no signiﬁcant association is found. Regarding de facto institutions, the number of initiatives is negatively correlated with turnout. If anything, calling citizens to the voting booth is associated with lower, rather than higher, voter turnout. This observation seems to be more severe regarding initiatives than referendums. It could mean that there might be ‘‘too much of a good thing.’’ If citizens often get the chance to vote, they might get tired of it.12 Alternatively, this could also mean that citizens prefer to vote on issues they deem as important and not on issues they perceive as less important (namely general elections). But this is a bold hypothesis that we cannot test with the available data. The voter turnout variable reﬂects turnout at general elections. To see whether there is something to the conjecture, we would need to know whether there is substitution going on between general election turnout and initiative turnout. Given the current data availability, we are not able to test that possibility. The result is only signiﬁcant at
+
+10 The choice of these variables as instruments is motivated in a little more detail in Blume et al. (2009).
+
+11 To save space, we report results on voter turnout only on the basis of the percentage of registered voters (and drop those based on voting population).
+
+12 We did run regressions with a quadratic term. The term never reached conventional signiﬁcance levels though.
+
+406 S. Voigt, L. Blume
+
+123
+
+the 10 %-level and not robust to the inclusion of a control variable on subnational referendums and should, thus, not be over-interpreted.13
+
+Moving on to our second group of variables, namely deliberation encompassing interest in politics as well as the propensity to discuss political matters, we ﬁnd that referendums and initiatives are never signiﬁcantly associated with them, no matter whether measured de jure (as a simple dummy variable) or de facto (number of
+
+Table 6 Direct democracy and voter turnout (% of registered voters)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0—dummy, 1 = yes)
+
+1.95 (0.85) 2.01 (0.82) 3.13 (1.42) 2.15 (0.69)
+
+Number of mandatory referendums 1995–2006
+
+-0.64* (1.74) 0.37 (0.56) 0.10 (0.13)
+
+Initiative (1,0— dummy, 1 = yes) -0.08 (0.03) -0.31 (0.11) 0.46 (0.17) 0.40 (0.11)
+
+Number of initiatives 1995–2006
+
+-0.88*** (2.92) -1.27* (1.90) -1.06 (1.39)
+
+Subnational referendum (1,0—dummy, 1 = yes)
+
+-5.29 (1.65)
+
+Referendum and initiative (1,0— dummy, 1 = yes)
+
+-0.24 (0.08)
+
+Constant -2.54 -2.17 -4.75 -9.67 -4.28
+
+Adjusted R2 0.49 0.50 0.49 0.51 0.48
+
+SER 9.22 9.13 9.20 9.05 9.34
+
+Hausman-Test (p value) 0.837 0.830 0.858 0.704 0.352
+
+Observations 89 89 89 89 89
+
+These OLS-regressions all include the following controls, not shown in the table: LYP, LPOP, URBAN, EDUGER, AGE, GASTIL, COMPVOT, MAJ, PRES, FRAC, ETHNIC, NGO, CATHO80, PROT80, PLEB, AFRICA, ASIAE, LAAM, OECD. The numbers in parentheses are White heteroscedasticityconsistent t statistics. ‘***’, ‘**’ or ‘*’ show that the estimated parameter is signiﬁcantly different from zero on the 1, 5, or 10 % level, respectively. The Hausman-Test draws on the instruments age of constitution, fraction of English speaking population, fraction of population with an European language, share of catholic population, urbanization, ethno-linguistic fractionalization and a dummy-variable for Switzerland
+
+13 Results of an alternative regression that draws on voter turnout as percent of the voting population are different in the sense that none of the variables proxying for direct democratic institutions is signiﬁcant.
+
+Does direct democracy make for better citizens?… 407
+
+123
+
+referendums/initiatives having taken place over a dozen years).14 This is why we refrain from describing the relationship between direct democracy and the frequency of political discussion separately and focus instead on the relationship between direct democracy and interest in politics (Table 7).15
+
+Analyzing the effects of direct democracy on the propensity to participate in political action, we ﬁnd some evidence that direct democracy in the form of referendums is signiﬁcantly correlated with fewer boycotts as a strong form of political protest (Table 8) but not weaker forms of protest such as demonstrations (Table 9). If this relationship was causal—which we do not know—it would indicate that political conﬂicts in societies having direct democracy instruments at their disposal are carried out in a less radical fashion than in those not having such instruments at their disposal. Again, the result is only signiﬁcant at the 10 %-level and should, thus, not be over-interpreted.
+
+Table 7 Direct democracy and political interest (% very and somewhat interested)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0—dummy, 1 = yes)
+
+6.13 (1.10) 6.20 (1.13) 5.80 (1.11) 13.10** (2.34)
+
+Number of mandatory referendums 1995–2006
+
+0.76 (1.03) 2.80 (1.07) 2.70 (0.99)
+
+Initiative (1,0—dummy, 1 = yes) 1.36 (0.21) 0.38 (0.06) -0.22 (0.04) 7.37 (0.97)
+
+Number of initiatives 1995–2006 0.88* (1.77) -1.81 (0.83) -1.73 (0.75)
+
+Subnational referendum (1,0—dummy, 1 = yes)
+
+2.38 (0.31)
+
+Referendum and initiative (1,0— dummy, 1 = yes)
+
+6.45 (0.87)
+
+Constant 6.19 17.43 -1.61 2.88 7.75
+
+Adjusted R2 0.35 0.32 0.32 0.30 0.37
+
+SER 12.40 12.77 12.71 12.88 12.29
+
+Hausman-Test (p value) 0.468 0.427 0.536 0.498 0.662
+
+Observations 56 56 56 56 56
+
+Legend: See Table 6
+
+14 This result remains unchanged when the dependent variable only includes the item ‘‘very interested’’ and not the aggregate of both ‘‘very’’ and ‘‘somewhat interested.’’ In this case, the R2 of the entire regression raises to more than 50 %.
+
+15 The signiﬁcant impact of MANDREF on political interest in column 5 is not robust to the inclusion of the de facto variables.
+
+408 S. Voigt, L. Blume
+
+123
+
+The results with regard to the last group of dependent variables, namely trust in political organizations, display yet another structure: we ﬁnd a strong and robust negative correlation between direct democracy institutions in the constitution and the trust in both governments and parties. Trust in parliaments and the democratic system as such remain, however, unaffected (Table 10).16
+
+How to make sense of that result? Three possibilities come to mind: First, it could be that the possibility of direct democracy was introduced as a consequence of citizens displaying low trust and conﬁdence in their political institutions. We might, hence, deal with a case of reversed causality. Second, it could be that direct democracy makes citizens more critical concerning the outcomes achieved by governments and political parties. In other words, political action is regarded more critically. This possibility ﬁts well with the observation that trust in democracy is unaffected by direct democratic elements. Third, it is noteworthy that the number of referendums and initiatives actually held is never signiﬁcantly correlated with trust in government and parties. It could, hence, be that it is the difﬁculty of successfully using these instruments that drives this result. It would be interesting to take the
+
+Table 8 Direct democracy and joining boycott (% have done)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0— dummy, 1 = yes)
+
+-2.95* (1.83) -3.09* (1.89) -2.93* (1.90) -3.06 (1.33)
+
+Number of mandatory referendums 1995–2006
+
+0.04 (0.18) -0.94 (0.84) -0.78 (0.67)
+
+Initiative (1,0— dummy, 1 = yes) -0.17 (0.05) -0.14 (0.04) 0.24 (0.07) -0.01 (0.00)
+
+Number of initiatives 1995–2006 -0.11 (0.66) 0.86 (0.89) 0.73 (0.73)
+
+Subnational referendum (1,0— dummy, 1 = yes)
+
+-1.39 (0.59)
+
+Referendum and initiative (1,0— dummy, 1 = yes)
+
+-2.65 (0.79)
+
+Constant 32.95 28.81 36.59 33.51 32.72
+
+Adjusted R2 0.60 0.56 0.57 0.56 0.58
+
+SER 4.52 4.72 4.65 4.71 4.60
+
+Hausman-Test (p value) 0.258 0.466 0.274 0.263 0.368
+
+Observations 50 50 50 50 50
+
+Legend: See Table 6
+
+16 In an exemplary fashion, Table 12 shows the relationship between direct democracy and trust in parliaments. The correlation between direct democracy and the variable ‘‘how is democracy’’ is also insigniﬁcant.
+
+Does direct democracy make for better citizens?… 409
+
+123
+
+costs (in terms of votes necessary for an initiative to take place e.g.) explicitly into account. On the basis of the available data we are, however, not able to do that. Since the Hausman test does not suggest that endogeneity is a problem we can rule out the ﬁrst option. It thus seems that the availability of direct democratic institutions induces citizens to be more critical concerning party politics—and to be less trustful in government (Table 11). Summing up our empirical results, two results stand out: Firstly, we do not ﬁnd a signiﬁcant positive impact of direct democracy institutions on deliberation in the form of higher voter turnout, increased interest in politics or an increased propensity to discuss politics. Secondly, direct democracy is negatively correlated with trust in parties and governments. Our ﬁndings challenge at least some of the results previously reported in the literature. How to make sense of this? First of all, it seems worth noting that none of the studies surveyed above remained uncontested. Almost every result ﬁnding that direct democracy institutions were signiﬁcantly correlated with various aspects of the political process has been challenged by at least one other study not ﬁnding a signiﬁcant correlation. Secondly, the overwhelming majority of studies analysing the relationship between direct democracy institutions and the political process deal exclusively with the US and more precisely with variation across US states. It appears plausible that results based on regional or even communal institutions are not identical with those reached on the nation-state level.
+
+Table 9 Direct democracy and demonstrate (% have done)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0—dummy, 1 = yes) -3.48 (1.28) -3.81 (1.26) -3.77 (1.12) -3.92 (1.42)
+
+Number of mandatory referendums 1995–2006 0.32 (0.73) -1.18 (0.73) -1.17 (0.73)
+
+Initiative (1,0—dummy, 1 = yes) 1.24 (0.57) 1.91 (0.79) 1.95 (0.78) 1.83 (0.44)
+
+Number of initiatives 1995–2006 0.14 (0.52) 1.33 (1.05) 1.32 (1.05)
+
+Subnational referendum (1,0—dummy, 1 = yes) -0.17 (0.05)
+
+Referendum and initiative (1,0—dummy, 1 = yes) -1.14 (0.44)
+
+Constant 55.43 52.03 54.81 54.55 53.99
+
+Adjusted R2 0.38 0.36 0.38 0.36 0.38
+
+SER 7.24 7.37 7.26 7.35 7.27
+
+Hausman-Test (p value) 0.363 0.669 0.492 0.498 0.625
+
+Observations 65 65 65 65 65
+
+Legend: See Table 6
+
+410 S. Voigt, L. Blume
+
+123
+
+Table 10 Direct democracy and trust in government (% great deal)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0—dummy, 1 = yes) -6.76** (2.12) -6.58** (2.12) -5.52** (2.20) -8.96** (2.28)
+
+Number of mandatory referendums 1995–2006 0.05 (0.11) 0.51 (0.28) 1.57 (0.99)
+
+Initiative (1,0—dummy, 1 = yes) -5.77 (1.39) -5.48 (1.44) -3.77 (1.20) -7.66* (2.01)
+
+Number of initiatives 1995–2006 0.36 (0.88) -0.35 (0.21) -1.27 (0.85)
+
+Subnational referendum (1,0—dummy, 1 = yes) -7.98* (2.11)
+
+Referendum and initiative (1,0—dummy, 1 = yes) -10.94*** (2.90)
+
+Constant 69.14 74.56 84.83 66.06 87.55
+
+Adjusted R2 0.55 0.50 0.55 0.60 0.58
+
+SER 6.96 7.34 7.00 6.56 6.75
+
+Hausman-Test (p value) 0.319 0.323 0.177 0.225 0.971
+
+Observations 48 48 48 8 48
+
+Legend: See Table 6
+
+Does direct democracy make for better citizens?… 411
+
+123
+
+Table 11 Direct democracy and trust in parties (% great deal)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0—dummy, 1 = yes)
+
+-2.68* (1.94) -2.68** (2.07) -2.11** (2.21) -3.45** (2.01)
+
+Number of mandatory referendums 1995–2006
+
+0.03 (0.16) -0.46 (0.67) 0.11 (0.22)
+
+Initiative (1,0— dummy, 1 = yes)
+
+-2.75 (1.41) -2.73 (1.49) -1.83 (1.21) -3.39* (1.84)
+
+Number of initiatives 1995–2006
+
+-0.09 (0.45) 0.45 (0.71) -0.03 (0.06)
+
+Subnational referendum (1,0—dummy, 1 = yes)
+
+-4.21*** (3.03)
+
+Referendum and initiative (1,0—dummy, 1 = yes)
+
+-4.72** (2.51)
+
+Constant 32.89 36.05 42.91 33.01 41.59
+
+Adjusted R2 0.63 0.61 0.64 0.71 0.65
+
+SER 3.09 3.21 3.09 2.77 3.01
+
+Hausman-Test (p value) 0.309 0.354 0.106 0.131 0.526
+
+Observations 48 48 48 48 48
+
+Legend: See Table 6
+
+Table 12 Direct democracy and trust in parliament (% great deal)
+
+Speciﬁcation 1 2 3 4 5
+
+Mandatory referendum (1,0dummy, 1 = yes)
+
+-4.29 (1.27) -4.01 (1.18) -3.01 (0.91) -4.11 (1.04)
+
+Number of mandatory referendums 1995–2006
+
+0.31 (0.68) 1.65 (1.00) 2.65 (1.48)
+
+Initiative (1,0— dummy, 1 = yes) -5.69 (1.44) -5.31 (1.39) -3.71 (1.08) -5.94 (1.35)
+
+Number of initiatives 1995–2006 -0.04 (0.10) -1.13 (0.72) -1.98 (1.22)
+
+Subnational referendum (1,0— dummy, 1 = yes)
+
+-7.47** (2.09)
+
+412 S. Voigt, L. Blume
+
+123
+
+5 Conclusions and outlook
+
+To the best of our knowledge, this is the ﬁrst paper that assesses the consequences of direct democratic institutions on various aspects of political participation in a broad cross country setting. There are three main results. First, voter turnout is not signiﬁcantly affected by direct democratic institutions. Second, interest in politics and participation in political action is not positively affected by direct democratic institutions either. Direct democracy institutions possibly serve as a substitute for some kinds of political participation such as boycotts. Third, institutional trust in parties and governments is negatively correlated with direct democracy. It seems that direct democratic institutions are no panacea to produce citizens that are genuinely interested in the res publica and therefore know more about it and participate more in the decision-making process. If one strives to realize such an ideal, the results reported in this study should serve as a cautionary warning. But the results reported here should not be overinterpreted either. The number of observations is frequently not very high and we cannot claim to have established causality. This is deﬁnitely a desideratum that future studies should aim at. In addition, it would seem desirable to include other variables that might be associated with direct democratic institutions. Desirable variables include the actual degree of information that citizens really have, but also the time they really spent on discussing politics and political activities. The World Values Survey has the obvious disadvantage of relying on the self-assessment of the surveyed. It is also desirable to rerun the current study on the basis of more exclusionary variables of direct democracy.
+
+Acknowledgments The authors thank Marc Berendsen and Andreas Block for extremely valuable research assistance and the participants of the panel ‘‘Effects of Direct Democracy on Representation and PolicyMaking’’ at the ECPR General Conference in Potsdam (2009) as well as Matthias Dauner and Sang Min Park for questions and suggestions. Two referees of this journal made very constructive and helpful suggestions.
+
+Appendix 1: Description of the variables
+
+See Table 13.
+
+Table 12 continued
+
+Speciﬁcation 1 2 3 4 5
+
+Referendum and Initiative (1,0— dummy, 1 = yes)
+
+-8.59* (1.78)
+
+Constant 35.25 46.93 47.67 30.10 55.16
+
+Adjusted R2 0.47 0.47 0.47 0.51 0.48
+
+SER 7.64 7.66 7.69 7.39 7.63
+
+Hausman-Test (p value) 0.131 0.224 0.083 0.117 0.262
+
+Observations 48 48 48 48 48
+
+Legend: See Table 6
+
+Does direct democracy make for better citizens?… 413
+
+123
+
+Table 13 Many variables used in this paper are based on Persson and Tabellini (2003, PT)
+
+AFRICA:
+
+Regional dummy variable, equal to 1 if a country is in Africa, 0 otherwise; source: CIA (2005)
+
+AGE:
+
+Age of democracy deﬁned as AGE = (2000 - DEM_AGE)/200, with values varying between 0 and 1
+
+ASIAE:
+
+Regional dummy variable, equal to 1 if a country is in East Asia, 0 otherwise; source: Golder (2005)
+
+AVELF:
+
+Index of ethnolinguistic fractionalization, ranging from 0 (homogeneous) to 1 (strongly fractionalized) averaging ﬁve sources; source: La Porta et al. (1999)
+
+CATHO80:
+
+Percentage of a country’s population belonging to the Roman Catholic religion in 1980 (younger states are counted based on their average from 1990 to 1995); source: La Porta et al. (1999) and CIA (2005) for Lithuania, Nauru, Marshall Islands and San Marino
+
+COL_ESPA:
+
+Spanish colonial origin, discounted by the number of years since independence (T_INDEP) and deﬁned as COL_ESPA = COL_ESP 9 (250 - T_INDEP)/250
+
+COL_OTHA:
+
+Deﬁned as COL_OTHA = COL_OTH 9 (250 - T_INDEP)/250; see also COL_ESPA
+
+COL_UKA:
+
+Deﬁned as COL_UKA = COL_UK 9 (250 - T_INDEP)/250; see also COL_ESPA
+
+COMPVOT:
+
+Dummy for compulsory voting on the national level, equal to 1 if yes, 0 otherwise; source: IDEA website
+
+CONFU:
+
+Dummy variable fort he religious tradition in a country, equal to 1 if the majority of the country’s population is Confucian/Buddhist/Zen, 0 otherwise; source: CIA (2005)
+
+DEM_AGE:
+
+First year of democratic rule in a country, corresponding to the ﬁrst year of a string of positive yearly values of the variable POLITY for that country that continues uninterrupted until the end of the sample, given that the country was also an independent nation during the entire time period. Does not count foreign occupation during WW II as an interruption of democracy; source: additions on the basis of the variable NEWDEM (Golder 2005) that identiﬁes the year of a ﬁrst democractic election in that country
+
+DEMONSTRATE:
+
+Percentage of respondents who claimed to have participated in a peaceful demonstration in the last 5 years; source: World Values Study Group (2008)
+
+DISCUSS POLITICS:
+
+Percentage of respondents who answered ‘‘frequently’’ to the question ‘‘When you get together with your friends, would you say you discuss political matters frequently, occasionally or never?’’; World Values Study Group (2008)
+
+EDUGER:
+
+Total enrollment in primary and secondary education as a percentage of the relevant age group in the country’s population; source: UNESCO (2006): Education statistics
+
+ETHNIC:
+
+Reﬂects probability that two randomly selected people from a given country will not belong to the same ethno linguistic group; source: Alesina et al. (2002)
+
+414 S. Voigt, L. Blume
+
+123
+
+Table 13 continued
+
+FRAC:
+
+The probability that two deputies picked at random from the legislature will be of different parties; source: Beck et al. (2000)
+
+GASTIL:
+
+Average of indexes for civil liberties and political rights, each index is measured on a 1-to-7 scale with 1 representing the highest degree of freedom. Countries whose averages are between 1 and 2.5 are called ‘‘free’’, those between 3 and 5.5 ‘‘partially free’’ and those between 5.5 and 7 as ‘‘not free’’; source: Freedom House (2005)
+
+GINI:
+
+Measures the Gini index of income inequality from observations with highest quality (quality = ‘‘accept’’) in the original Deininger and Squire (1996) dataset.
+
+HOW IS DEMOCRACY:
+
+Mean of respondents that answered to the question: ‘‘And how democratically is this country being governed today? on a scale from 1 to 10 where 1 means that is is ‘‘not at all democratic’’ and 10 means that it is ‘‘completely democratic’’; source: World Values Study Group (2008)
+
+JOINING BOYCOTTS:
+
+Percentage of respondents who claimed to have joined in boycotts in the last 5 years; source: World Values Study Group (2008)
+
+LAAM:
+
+Regional dummy variable, equal to 1 if a country is in Latin America, Central America, or the Caribbean, 0 otherwise; source: CIA (2005)
+
+LPOP:
+
+Natural logarithm of total population (in millions); sources: Penn World Tables, Center for International Comparisons at the University of Pennsylvania/CICUP (2006) and CIA (2005)
+
+LYP:
+
+Natural logarithm of real GDP per capita in constant dollars (chain index) expressed in international prices, base year 1985; average for the years 1990–1999; source: Column RGDPCH Penn World Tables, Center for International Comparisons at the University of Pennsylvania/CICUP (2006)
+
+MANDATORY REFERENDUM:
+
+A vote of the electorate which is required under circumstances deﬁned in the constitution or in legislation; source: IDEA (2008)
+
+MAJ:
+
+Dummy variable for electoral systems, equal to 1 if all the lower house in a country is elected under plurality rule, 0 otherwise. Only legislative elections (lower house) are considered. Macedonia switched during the observation period from MAJ to a mixed system and was coded MAJ = 0.5 and MIXED = 0.5; sources: variable ELECSYSTEM_TYPE from Golder (2005) as well as constitutions, electoral rules, election reports and other internet sources
+
+NGO:
+
+The number of International Non Governmental Organizations active in a country divided by the country’s population (in 000), source: Paxton (2002)
+
+OECD:
+
+Dummy variable, equal to 1 for all countries that were members of the OECD; source: OECD (2006)
+
+OPTIONAL REFERENDUM:
+
+A vote of the electorate which is not required by the constitution or by law; source: IDEA (2008)
+
+PARTISAN:
+
+Mean of respondents who answered to the question ‘‘In political matters, people talk of ‘‘the left’’ and ‘‘the right’’. How would you place your views on this scale, generally speaking?’’ on a scale from 1 to 10 where 1 = left source: World Values Study Group (2008)
+
+Does direct democracy make for better citizens?… 415
+
+123
+
+Table 13 continued
+
+PLEB:
+
+Dummy variable, equal to 1 for the occurrence of presidential or parliamentary plebiscites in the period 1996-2005, see Appendix 2 for more information
+
+POLITICAL INTEREST:
+
+Percentage of respondents who answered ‘‘frequently’’ to the question: ‘‘How interested would you say you are in politics?’’ source: World Values Study Group (2008)
+
+POPDENSITY:
+
+The number of inhabitants per hectare; source: Banks (2004)
+
+PRES:
+
+Dummy variable for government forms, equal to 1 in presidential regimes, 0 otherwise. Only regimes in which the conﬁdence of the assembly is not necessary for the executive to stay in power (even if an elected president is not chief executive, or if there is no elected president) are included among presidential regimes Most semipresidential and premier-presidential systems are classiﬁed as parliamentary source: constitutions and electoral laws
+
+PROT80:
+
+Percentage of the population in a country professing the Protestant religion in 1980 (younger states are counted based on their average from 1990 to 1995); source: La Porta et al. (1999) and CIA (2005) for Lithuania, Nauru, Marshall Islands and San Marino
+
+SIGNING PETITION:
+
+Percentage of respondents who claimed to have signed a petition in the last ﬁve years; source: World Values Study Group (2008)
+
+TRUST:
+
+Percentage of respondents that answered ‘‘most people can be trusted’’ to the question ‘‘Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?’’ source: World Values Study Group (2008)
+
+TRUST IN GOVERNMENT:
+
+Percentage of respondents who answered ‘‘a great deal’’ to the question: ‘‘could you tell me how much conﬁdence you have in the government (in your nation’s capital): is it a great deal of conﬁdence, quite a lot of conﬁdence, not very much conﬁdence or none at all?’’ source: World Values Study Group (2008)
+
+TRUST IN PARTIES:
+
+Percentage of respondents who answered ‘‘a great deal’’ to the question: ‘‘could you tell me how much conﬁdence you have in political parties: is it a great deal of conﬁdence, quite a lot of conﬁdence, not very much conﬁdence or none at all?’’ source: World Values Study Group (2008)
+
+TRUST IN PARLIAMENT:
+
+Percentage of respondents who answered ‘‘a great deal’’ to the question: ‘‘could you tell me how much conﬁdence you have in parliament: is it a great deal of conﬁdence, quite a lot of conﬁdence, not very much conﬁdence or none at all?’’ source: World Values Study Group (2008)
+
+URBAN:
+
+Urban population as a percentage of total population in 1950; source: Vanhanen (2000)
+
+VOTER TURNOUT REGISTERED:
+
+The total number of votes cast (valid or invalid) divided by the number of names on the voters’ register, expressed as a percentage; Average for all elections between 2000 and 2008; source: IDEA website: http://www.idea.int/vt/
+
+VOTER TURNOUT VOTING AGE:
+
+The total number of votes cast (valid or invalid) divided by the voting age population ﬁgure, expressed as a percentage; Average for all elections between 2000 and 2008; source: IDEA website: http://www.idea.int/vt/
+
+416 S. Voigt, L. Blume
+
+123
+
+Appendix 2
+
+See Table 14.
+
+Table 14 Individual Country Codings
+
+Country Manref Opref Initiative Subnatref Plebpres (N) Plebparl (N) Manref (N) Opref (N) Initiative (N)
+
+Albania 0 1 1 1 0 1 1 0 0
+
+Argentina 0 1 1 1 0 0 0 0 0
+
+Armenia 1 1 0 1 0 0 3 0 0
+
+Australia 1 1 0 1 0 0 2 0 0
+
+Austria 1 1 1 1 0 0 0 0 0
+
+Bangladesh 1 0 0 0 0 0 0 0 0
+
+Belarus 1 1 1 1 3 1 0 0 0
+
+Belgium 0 0 0 1 0 0 0 0 0
+
+Belize 0 0 0 0 0 0 0 0 0
+
+Benin 1 1 1 0 0 0 0 0 0
+
+Bolivia 1 1 1 1 2 0 0 0 0
+
+Botswana 1 0 0 0 0 0 2 0 0
+
+Brazil 0 1 1 1 0 1 0 0 0
+
+Bulgaria 0 1 0 1 0 0 0 0 0
+
+Canada 0 1 0 1 0 0 0 0 0
+
+Central Africa 1 1 0 0 0 0 0 0 0
+
+Chile 0 1 0 1 0 0 0 0 0
+
+Colombia 1 1 1 1 0 1 0 0 0
+
+Costa Rica 1 1 1 1 0 0 0 0 0
+
+Croatia 1 1 1 1 0 0 0 0 0
+
+Cyprus (Greek) 0 0 0 0 0 0 0 0 0
+
+Czech Republic 1 0 0 1 0 0 1 0 0
+
+Denmark 1 1 0 1 0 0 3 2 0
+
+Dominican Rep. 0 0 0 0 0 0 0 0 0
+
+Ecuador 1 1 1 1 2 0 0 0 0
+
+El Salvador 1 0 0 1 0 0 0 0 0
+
+Estonia 1 1 0 1 0 0 1 0 0
+
+Fiji 0 0 0 0 0 0 0 0 0
+
+Finland 0 1 0 1 0 0 0 0 0
+
+France 0 1 0 1 1 1 0 0 0
+
+Gambia 1 0 0 0 0 0 0 0 0
+
+Germany 0 0 0 1 0 0 0 0 0
+
+Ghana 1 0 0 1 0 0 0 0 0
+
+Greece 0 1 0 1 0 0 0 0 0
+
+Guatemala 1 1 1 1 0 0 1 0 0
+
+Guyana 1 0 0 0 0 0 0 0 0
+
+Does direct democracy make for better citizens?… 417
+
+123
+
+Table 14 continued
+
+Country Manref Opref Initiative Subnatref Plebpres (N) Plebparl (N) Manref (N) Opref (N) Initiative (N)
+
+Honduras 0 0 1 1 0 0 0 0 0
+
+Hungary 1 1 1 1 0 1 1 0 1
+
+Iceland 1 1 0 0 0 0 0 0 0
+
+India 0 0 0 0 0 0 0 0 0
+
+Ireland 1 1 0 0 0 1 9 0 0
+
+Israel 0 0 0 0 0 0 0 0 0
+
+Italy 0 1 1 1 0 0 0 6 0
+
+Jamaica 0 0 0 0 0 0 0 0 0
+
+Japan 1 0 0 1 0 0 0 0 0
+
+Korea, Rep. 1 1 0 1 0 0 0 0 0
+
+Kyrgyz Rep. 0 1 1 1 0 0 0 0 0
+
+Latvia 1 1 1 0 0 0 1 2 0
+
+Lithuania 1 1 1 0 0 0 3 0 1
+
+Luxembourg 0 1 0 0 0 1 0 0 0
+
+Macedonia 1 1 1 1 0 1 0 0 1
+
+Madagascar 1 1 0 0 3 0 0 0 0
+
+Malawi 1 0 0 1 0 0 0 0 0
+
+Malaysia 0 0 0 0 0 0 0 0 0
+
+Mali 1 1 0 0 0 0 0 0 0
+
+Mauritius 1 0 0 0 0 0 0 0 0
+
+Mexico 0 0 0 1 0 0 0 0 0
+
+Namibia 0 1 0 0 0 0 0 0 0
+
+Nepal 0 0 0 0 0 0 0 0 0
+
+Netherlands 0 1 1 1 0 1 0 0 0
+
+New Zealand 1 1 1 1 0 1 0 0 2
+
+Nicaragua 0 1 1 0 0 0 0 0 0
+
+Norway 0 1 0 1 0 0 0 0 0
+
+Pakistan 0 1 0 0 0 0 0 0 0
+
+Panama 1 0 0 1 0 0 2 0 0
+
+P. N. Guinea 0 0 0 1 0 0 0 0 0
+
+Paraguay 1 1 1 0 0 0 0 0 0
+
+Peru 1 1 1 1 0 0 0 0 0
+
+Philippines 1 1 1 1 0 0 0 0 0
+
+Poland 1 1 1 1 1 3 0 0 0
+
+Portugal 0 1 1 1 2 0 0 0 0
+
+Romania 1 1 1 1 0 0 1 0 0
+
+Russia 1 1 1 1 0 0 0 0 0
+
+Senegal 1 1 0 0 0 0 1 0 0
+
+Singapore 1 0 0 0 0 0 0 0 0
+
+Slovakia 1 1 1 1 0 2 0 0 3
+
+Slovenia 1 1 1 1 0 0 1 0 3
+
+South Africa 0 1 0 1 0 0 0 0 0
+
+Spain 1 1 1 1 0 2 0 0 0
+
+Sri Lanka 1 1 0 0 0 0 0 0 0
+
+418 S. Voigt, L. Blume
+
+123
+
+References
+
+Alesina, A., Devleeschauer, A., Easterly, W., Kurlat, S., & Wacziarg, R. (2002). Fractionalization, NBER working paper 9411. Banks, Arthur S. (2004). Banks’ Cross-National Time-Series Data Archive. Binghamton, NY: Databanks International [distributor]. Beck, Th., Clarke, G., Groff, A., Keefer, Ph., Walsh, P. (2000). New Tools and New Tests in Comparative Political Economy: The Database of Political Institutions. Washington: The World Bank. Benz, M., & Stutzer, A. (2004). Are voters better informed when they have a larger say in politics?— Evidence for the European Union and Switzerland. Public Choice, 119, 31–59. Blume, L. (2009). Regionale Institutionen und Wachstum: Sozialkapital, Kommunalverfassungen und interkommunale Kooperation aus regional- und institutioneno¨konomischer Sicht. Marburg: Metropolis. Blume, L., Mu¨ller, J., & Voigt, S. (2009). The economic effects of direct democracy—A ﬁrst global assessment. Public Choice, 140, 431–461. Butler, D., & Ranney, A. (1994). Theory. In D. Butler & A. Ranney (Eds.), Referendums around the world—The growing use of direct democracy, chapter 2. Washington, DC: AEI Press. CIA (2005). The World Factbook. https://www.cia.gov/cia/download2005.htm. Citrin, J. (1996). Who’s the boss? Direct democracy and popular control of government. In Stephen Craig (Ed.), Broken contract? Changing relationships between Americans and their government (pp. 268–293). Boulder: Westview Press. Cox, G., & Munger, M. (1989). Closeness, expenditures and turnout in the 1982 US house elections. American Political Science Review, 83(1), 217–231. Deininger, K., & Squire, L. (1996). A new data set measuring income inequality. World Bank Economic Review, 10(3), 565–591. Donovan, T., Tolbert, C., & Smith, D. (2009). Political engagement, mobilization, and direct democracy. Public Opinion Quarterly, 73(1), 98–118. Dyck, J. (2009). Initiated distrust. Direct democracy and trust in government. American Politics Research. doi:10.1177/1532673X08330635. Dyck, J., & Seabrock, N. (2010). Mobilized by direct democracy: Short-term versus long-term effects and the geography of turnout in ballot measure elections. Social Science Quarterly, 91(1), 188–208.
+
+Table 14 continued
+
+Country Manref Opref Initiative Subnatref Plebpres (N) Plebparl (N) Manref (N) Opref (N) Initiative (N)
+
+Sweden 0 1 0 1 0 1 0 0 0
+
+Switzerland 1 1 1 1 0 0 17 23 20
+
+Taiwan 1 1 1 1 1 0 0 0 0
+
+Thailand 1 1 1 1 0 0 0 0 0
+
+Trinidad 0 0 0 0 0 0 0 0 0
+
+Turkey 1 1 0 0 0 0 0 0 0
+
+Uganda 1 1 1 1 0 1 1 0 0
+
+Ukraine 1 1 1 1 0 0 0 0 1
+
+United Kingdom 0 1 0 1 0 0 0 0 0
+
+Uruguay 1 1 1 1 0 0 1 1 1
+
+United States 0 0 0 1 0 0 0 0 0
+
+Venezuela 1 1 1 1 1 1 0 0 1
+
+Zambia 1 0 0 0 0 0 0 0 0
+
+Zimbabwe 0 0 0 0 1 0 0 0 0
+
+Does direct democracy make for better citizens?… 419
+
+123
+
+Freedom House (2005). Freedom in the World Country Ratings 1973–2005. http://65.110.85.181/uploads/ FIWrank7305.xls. Frey, B. (1997). A constitution for knaves crowds out civic virtues. The Economic Journal, 107, 1043–1053. Frey, B., Benz, M., & Stutzer, A. (2004). Introducing procedural utility: Not Only what, but also how matters. Journal of Institutional and Theoretical Economics, 160, 377–401. Fukuyama, F. (1995). Trust: The social virtues and the creation of prosperity. New York: Free Press. Gerber, E., Lupia, A., McCubbins, M., & Kiewit, R. (2001). Stealing the initiative—How state government responds to direct democracy. Upper Saddle River (NJ): Prentice Hall. Geys, Benny. (2006). Explaining voter turnout: A review of aggregate-level research. Electoral Studies, 25, 637–663. Golder, M. (2005). Democratic electoral Systems Around the World, 1946–2000. Electoral Studies, 24, 103–121. Hibbing, John, & Theiss-Morse, E. (2001). Process preferences and American politics: What the people want government to be. American Political Science Review, 95, 145–153. Hug, Simon. (2005). The political effects of referendums: An analysis of institutional innovations in Eastern and Central Europe. Communist and Post-Communist Studies, 38, 475–499. IDEA (International Institute for Democracy and Electoral Assistance). (2008). Direct democracy: The international IDEA handbook. Stockholm: IDEA. Knack, S., & Keefer, P. (1997). Does social capital have an economic payoff? A cross-country investigation. Quarterly Journal of Economics, 112, 1251–1288. La Porta, R., Lopez-de-Silanes, F., Shleifer, A., Vishny, R. (1999). The Quality of Government. Journal of Law, Economics and Organization, 15(1), 222–279. Matsusaka, J. (1995). Explaining voter turnout patterns: An information theory. Public Choice, 84, 91–117. Matsusaka, J. (2005). The eclipse of legislatures: Direct democracy in the 21st century. Public Choice, 124, 157–177. Matsusaka, J. (2008). Direct democracy and the executive branch. In S. Bowler & A. Glazer (Eds.), Direct democracy’s impact on american political institutions (pp. 115–136). New York: Palgrave Macmillan. Matsusaka, J. (2010). Popular control of public policy: A quantitative approach. Quarterly Journal of Political Science, 5, 133–167. Mueller, D. (2003). Public Choice III. Cambridge: Cambridge University Press. Olson, M. (1965). The Logic of Collective Action. Cambridge, Mass: Harvard University Press. Paxton, P. (2002). Social capital and democracy: An interdependent relationship. American Sociological Review, 67(2), 254–277. Persson, T., & Tabellini, G. (2003). The Economic Effects of Constitutions. Cambridge, MA: The MIT Press. Powell, B. (1980). Voting turnout in 30 democracies: Partisan, legal and socio-economic inﬂuences. In R. Rose (Ed.), Electoral participation: A comparative analysis (pp. 5–34). London: Sage. Schlozman, D., & Yohai, I. (2008). How initiatives Don’t always make citizens: Ballot initiatives in the American states, 1978–2004. Political Behavior, 30, 469–489. Smith, M. (2001). The contingent effects of ballot initiatives and candidate races on turnout. American Journal of Political Science, 45(3), 700–706. Smith, D., & Tolbert, C. (2004). Educated by initiative. Ann Arbor: University of Michigan Press. Tolbert, C. J., McNeal, R. S., & Smith, D. A. (2003). Enhancing civic engagement: The effect of direct democracy on political participation and knowledge. State Politics and Policy Quarterly, 3, 23–41. Tolbert, C., & Smith, D. (2005). The educative effects of ballot initiatives on voter turnout. American Politics Research, 33(2), 283–309. Vanhanen, T. (2000). A New Dataset for Measuring Democracy, 1810–1998. Journal of Peace Research, 37, 252–265. World Values Study Group (2008). World Values Survey 1981-1984, 1990-1993, 1995-1997, 1999-2001, and 2005-2008. Ann Arbor: Inter-university Consortium for Political and Social Research.
+
+420 S. Voigt, L. Blume
+
+123

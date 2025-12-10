@@ -1,0 +1,851 @@
+Vol.:(0123456789)
+
+Social Justice Research (2020) 33:219–247 https://doi.org/10.1007/s11211-020-00350-z
+
+1 3
+
+The Effect of Inequality on the Relation Between Socioeconomic Stratification and Political Trust in Europe
+
+Silke Goubin1   · Marc Hooghe1
+
+Published online: 12 February 2020 © Springer Science+Business Media, LLC, part of Springer Nature 2020
+
+Abstract While the relation between inequality and levels of political trust has been intensely investigated, there is no consensus yet on the mechanism behind this relation. In this paper, we use multilevel models to analyse the diverging impact of economic inequality on political trust for different social groups within European countries. We observe that changes in inequality are associated with lower levels of political trust across all social strata, as operationalised through income level, education and employment status. In more unequal societies, differences in political trust between social strata are also smaller. In equal countries, on the other hand, well-off citizens are clearly more trusting than their less well-off counterparts. Altogether, the study contributes to discussions about the determinants of political support and how citizens are connected to their political system in an era of rising inequality, by suggesting the presence of a social justice frame. The analyses are based on the European Social Survey (2002–2016).
+
+Keywords  Economic inequality · Political trust · Socioeconomic status · Political legitimacy · Political support · European Social Survey
+
+Introduction
+
+Disparities between citizens in terms of economic and social position, political participation levels and policy influence remain an important stratification mechanism across Western societies (Stiglitz, 2012; Atkinson, 2015; OECD, 2015). While there are diverging normative views on what could be considered an acceptable degree of inequality within a society, research clearly demonstrates
+
+Electronic supplementary material  The online version of this article (https​://doi.org/10.1007/s1121​ 1-020-00350​-z) contains supplementary material, which is available to authorized users.
+
+* Silke Goubin silke.goubin@kuleuven.be
+
+1 KU Leuven, Parkstraat 45, B3602, 3000 Leuven, Belgium
+
+220 Social Justice Research (2020) 33:219–247
+
+1 3
+
+that elevated or rising levels of inequality have adverse effects on important social and political outcomes. Economic inequality puts a strain on the opportunities for upward social mobility and social cohesion and goes on pair with political polarisation, violence and corruption (Rothstein & Uslaner, 2005; Wilkinson & Pickett, 2010; Rothstein, 2011; Fairbrother & Martin, 2013). It is important to consider in this regard that the level of economic inequality within societies is at least partially dependent on political decisions that have been made (Piketty, 2014). There are numerous ways in which political institutions can have an effect on the level of inequality: through spending on public services, public or subsidised jobs, by setting and enforcing wage standards, or through implementing wage policies and curbing rent-seeking practices (Salverda, Nolan, & Smeeding, 2009; Stiglitz, 2012). Given these consequences of policy decisions, a straightforward assumption is that citizens will hold the political system at least partly responsible for the level of economic inequality they experience or observe in their country. In this study, we investigate whether political trust, as a proxy measurement for the broader latent concept of political legitimacy, indeed depends on the level of economic inequality within a society. In a majority of cases, studies investigating the relation between economic inequality and political trust use a rather narrow rationalist perspective. In this line of reasoning, citizens are expected to take into account mainly their own material interests when deciding whether or not to trust the political system. Within this perspective, it is assumed that as the higher social strata have more political influence to defend their interests, they will have more trust in political institutions (Gilens, 2005; Haugsgjerd, 2018; Loveless, 2013; Bovens & Wille, 2017). Applying this logic, in unequal societies the privileged groups would have even more reasons to trust the system as apparently it provides them with numerous material benefits (Anderson & Singer, 2008; Zmerli & Castillo, 2015). In this article, we supplement this view by arguing that other considerations could also play a role in the way citizens evaluate the functioning of their political system. More specifically, we assume that citizens also use a perspective on social justice as an additional boundary mechanism through which they evaluate the economic performance of their political system. Even when citizens themselves might profit from inequality, they could still feel that economic exclusion and inequality have a negative impact on their society as a whole and their living conditions. Analyses of the European Social Survey (2002–2016) data confirm that, while citizens from lower economic strata trust political institutions less than privileged citizens, the trust gap between socioeconomic strata is smaller in countries with high levels of inequality than in more inclusive societies. In other words, when inequality is pervasive, all citizens become more sceptical about their political institutions, even when they themselves are doing relatively well. We suggest that this effect cannot just be explained by evoking a self-interest causal mechanism, as we can assume that other considerations are at play. Building on theories on social justice preferences and system justification, our assumption is that all citizens, including the well-off, act according to moral standards about the level of equality that should be established (Etzioni, 1988). In more unequal countries, these moral standards seem to be violated, with as a result that all citizens become more alike in their
+
+221
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+levels of political trust. It has to be noted, however, that the ESS data do not allow us to test this mechanism directly, so this is clearly a hypothesis that should be tested in future research. This paper contributes to the literature on political legitimacy in three distinct ways. First, it provides additional support for the claim that levels of economic inequality are directly related to political support. We do so by combining information from a broad set of countries where we take both cross-sectional results and timetrends into account. Second, the article adds to the call for research that integrates both macro- and micro-perspectives on citizens’ political attitudes (Anderson, 2007) by disentangling how society-wide levels of inequality can be related to individual characteristics and their influence on political trust. We find evidence that the relation between an individual’s socioeconomic status and her/his level of political trust is dependent on the level of inequality. Finally, we show that it is important not to rely only on self-interest explanations when investigating the relation between economic performance and political trust.
+
+Utilitarian Perspectives on Political Trust
+
+A crucial task of a political system is to decide which policy outputs are delivered and who benefits from these outputs (Easton, 1965; Dahl, 2000). It is therefore routinely assumed that citizens base their judgement about the political system to a large extent on an evaluation of their own individual material interests. This utilitarian perspective implies that economic inequality will be a concern mainly for those who are most likely to benefit from efforts to ensure redistribution. These groups are dependent on public policies to provide fair and equal education and employment opportunities, as on protection against market exposure via welfare state policies and market regulations (Marshall, 1964; Stiglitz, 2012; Daenekindt, van der Waal, & de Koster, 2018). Providing social protection and limiting economic inequality are indeed major components of government action in Western societies (Salverda, Nolan, & Smeeding, 2009; Lühiste, 2014). If citizens would mainly take their own individual utility into account when deciding whether their political institutions are legitimate, it can be expected that especially the groups that are most economically vulnerable will rely on economic cues to asses whether the political system is trustworthy. In this regard, most of the literature assumes that political trust can function as a general proxy measurement for diffuse support for the political system (Easton, 1965; Hooghe, 2011; Norris, 2011). Political trust represents the fundamental element of the relation between citizens and the political system (Braithwaite & Levi, 1998). A number of authors have argued that political trust to a large extent is evaluation based as citizens base their trust judgment on an evaluation of the functioning of the political system (Zmerli & Hooghe, 2011; Torcal, 2014). As a measurement of the broader latent concept of political legitimacy, political trust is routinely used as a proxy indicator for diffuse support (Norris, 2011). A standard assumption in the literature therefore is that those who gain most from the decisions that are made by the political system, will also express higher levels of trust in that system (Newton,
+
+222 Social Justice Research (2020) 33:219–247
+
+1 3
+
+2007). Empirical research indeed shows that the privileged groups within society have more resources available to have an impact on the political agenda, and therefore it can be assumed that on average they will also be more satisfied with the political decisions that are being taken. As the privileged groups within society have more influence on the decision-making system, they have all the more reason to express trust in that system (Verba, Schlozman, & Brady, 1995; Bartels, 2008; Page, Bartels, & Seawright, 2013; Rosset, Giger, & Bernauer, 2013). Unemployment and a lack of economic security render citizens more vulnerable to market risks and more dependent on the state for income and social protection, which should have as an effect that these groups are more likely to distrust the governing political institutions (Schoon & Cheng, 2011; Wroe, 2016). Empirical studies indeed show that income (Torcal, 2014; Boda & Medve-Bálint, 2014), educational status (Schoon, Cheng, Gale, Batty, & Deary 2010; Hakhverdian & Mayne, 2012; van Erkel & van der Meer, 2016) and subjective social status (Zmerli & Castillo, 2015) are all positively related to political trust. On the other hand, economic insecurity (Wroe, 2016) and having an unemployment history (Mishler & Rose, 2001; Schoon & Cheng, 2011) have a strong negative effect on trust in political institutions. On the basis of this literature, a first background hypothesis for our further analysis is that:
+
+There is a positive relation between socioeconomic status and levels of political trust (Hypothesis 1).
+
+However, it is equally clear that citizens do not merely take into account their own economic position, but that they also include an assessment of society as a whole (Newton, 2007). The functioning of political institutions affects all members of society, such as whether politics are conducted in a fair and non-corrupt manner or whether an effective economic policy is being pursued. Bad government has an effect on all citizens, independent of their own economic status (Putnam, Pharr & Dalton, 2000). In other words, bad government equally influences all citizens’ individual utilities, and it can be assumed this subsequently has an effect on their level of political trust (Zmerli & Castillo, 2015; Gould & Hijzen, 2016; van Erkel & van der Meer, 2016). Following this logic, trust should not just be seen as the result of an individual assessment, but also takes into account social considerations. This line of the literature leads us to our second hypothesis:
+
+Economic inequality is negatively related to political trust (Hypothesis 2).
+
+The Moral Dimension
+
+Inequality typically exacerbates the differences between the less well-off and the well-off in society in terms of political engagement and representation. In unequal countries, an individual’s socioeconomic position matters more strongly for individual political participation (Solt, 2008, 2015; Lancee & Van de Werfhorst, 2012; Armingeon & Schädel, 2015). The lower educated and the poor vote and participate less (Goodin & Dryzek, 1980; Armingeon & Schädel, 2015). In these societies the wealthy and higher educated are more effective in influencing politics, because the
+
+223
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+less well-off tend to abstain from political life (Solt, 2008; Jensen & van Kersbergen, 2017). As a result, the underrepresentation of the policy views of the lower social strata is stronger in unequal countries (Rosset, Giger, & Bernauer, 2013). In addition, access to welfare services and infrastructure is also distributed more unequally (Van de Werfhorst & Salverda, 2012). This makes the pursuit of self-interest for the lower social strata more difficult, as citizens’ socioeconomic welfare becomes more dependent on chance than on merit. From such a self-interested utilitarian perspective, it could be expected that an increase in inequality would also increase the social gradient in political outcomes, with the less well-endowed becoming even more critical about their political system and the higher social classes becoming more satisfied. Neckerman & Torche (2007) label this as a mechanical effect of inequality. In a similar vein, when following a narrow utilitarian perspective, a well-to-do citizen should be more trusting when living in a high inequality context: his/her self-interest is maximised most since she/ he benefits strongly from the way in which society is organised (Krieckhaus, Son, Bellinger, & Wells, 2014). What this theoretical perspective lacks, however, is the insight that citizens can also be driven by moral standards, and not just by their own self-interest. In line with Etzioni’s seminal book on “The Moral Dimension” (1988), we assume that citizens are motivated by two sets of goals (or utilities): they try to balance the pursuit of their own self-interest utility with their moral standards (i.e. their moral utility). These motives can either reinforce each other, i.e. when the pursuit of self-interest is conducted in line with one’s moral standards; or conflicting, when morality considerations are at odds with self-interest. When citizens’ moral values are in conflict with their self-interest, they develop coping strategies to deal with this potential stress. The abundant literature on system justification theory conceptualises one of these coping strategies by showing that all classes will engage in system justification more strongly in a context of higher inequality (Jost, 2018). People, implicitly or explicitly, want to live in a system that they can accept as just and fair, and this holds for both the lower and higher social classes (Jost, Pelham, Sheldon, & Sullivan 2003; Bénabou & Tirole, 2006). When this is clearly not the case, people develop coping strategies, either actively, or subconsciously, to deal with this situation. This especially occurs in situations where inequality and injustices are endemic and when citizens feel powerless to change the system. Inequality is sticky, and changes relatively slowly over time. Hence, the situation of inequality could be seen as inevitable. As a consequence, citizens living in such conditions will be motivated to engage in system justification, either as a palliative function (to cope with the stress and negative externalities induced by inequality) or to justify the power position one enjoys (Jost, 2018). Such coping strategies can include believing more strongly in the occurrence of meritocracy in high inequality contexts (Mijs, 2019), underestimating the persistence of inequality (Curtis & Andersen, 2015), selective exposure to information and cognitive dissonance mechanisms more in general. In sum, when taking a moral perspective into account, it could be hypothesised that to a certain extent a convergence of inequality preferences occurs, as all socioeconomic strata engage in system justification.
+
+224 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Such a convergence of values surrounding inequality preferences can also be found in research on preferences for redistribution. This body of research points out that citizens who believe that their society is unequal (Fatke, 2018), or who objectively live in more unequal societies, have more similar levels of support for redistribution (Finseraas, 2009; Jaeger, 2013). Turning to the more privileged groups within society, these moral considerations could be equally important. There is empirical evidence that they are especially the middle classes and the richer echelons of society who demand more redistribution when inequality is (perceived to be) high (Andersen & Curtis, 2015; Fatke, 2018), and this preference is among other reasons being driven by their fear of crime (Rueda & Stegmueller, 2016). As inequality increases, more people become exposed to its negative externalities. This could lead to less differences between citizens’ preferences with regards to inequality, which could cause a convergence of political opinions across the different social strata, and more limited differences in levels of trust (Andersen & Curtis, 2015). Finally, psychological research has demonstrated that citizens record a lack of a feeling of social belonging when they are confronted with high levels of inequality, also among the well-off (Van de Werfhorst & Salverda, 2012). The absence of common values or feelings of cohesiveness due to more disparity between citizens has a negative effect on political legitimacy (Armingeon & Guthmann, 2014; Armingeon & Schädel, 2015). Every political system indeed needs a political culture that is congruent with the basic values of the system (Almond & Verba, 1963). Bringing in the moral perspective, it could be argued that in the long run, also the economic “winners” of a country will cease to feel that they can still support their political institutions, thereby jeopardising the long-term viability of such political systems. In summary, if moral standards are at play within the inequality-political trust nexus, we should find that there is less polarisation of trust across socioeconomic lines:
+
+Economic inequality moderates the impact of socioeconomic status on political trust: in high inequality societies, the effect of socioeconomic status is reduced (Hypothesis 3).
+
+Before moving towards the empirical section, it has to be noted that we cannot test the full causal chain explaining the association between the objective level of inequality within a society and levels of political trust. Rather, we draw two different potential theoretical mechanisms, or boundary conditions, that offer rivalling predictions on how inequality affects trust: a self-interest and a moral mechanism.
+
+Data
+
+In order to investigate the relation between economic inequality and political trust, we analyse pooled data from the European Social Survey (ESS) for the period 2002–2016 (European Social Survey, 2018). This is a high-quality survey on a range of social, political and cultural issues, and it includes all the questions on political attitudes that are necessary for our analysis. More specifically, this pooled data
+
+225
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+contains 366,708 individual level observations, which are nested in 8 ESS rounds, which are nested in 32 countries.1
+
+Dependent Variable
+
+The European Social Survey contains a battery of items measuring trust in political institutions. For a set of institutions, the following question was asked: “Please tell me on a score of 0–10 how much you personally trust each of the institutions. 0 means you do not trust an institution at all, and 10 means you have complete trust”. We focus on trust in representational institutions and actors that are actively engaged in formulating and negotiating new policies and representing citizens’ demands: trust in the country’s parliament, politicians and political parties. We combine the scores on these variables by constructing a sum-scale.2 This summarises answers into one single variable with a scale of 0 (no trust) to 10 (complete trust), applying equal weighting for all the variables. The political trust level is thus calculated on the basis of three items for every round, with the exception of round 1. There, only trust in parliament and politicians was included, and our trust measurement is constructed on the basis of these two questions.3
+
+Independent Variables
+
+Individual Level Independent Variables
+
+There is no single ideal way to measure an individual’s socioeconomic position, and therefore, we include five different indicators in the analysis: level of education, employment status, social class, economic satisfaction and household income. The education variable is a 5-point scale, ranging from (1) less than lower secondary education to (5) tertiary education completed (for full information on each variable and the answering categories, see Appendix A). Employment status is a dummy variable, with unemployed respondents receiving a code of 1, and all others 0. We operationalise social class using the typology developed by Oesch (2012). We make a distinction between respondents on the basis of different types of employment sectors: “higher service class”, “lower service class”, “skilled workers”, “unskilled workers”, and “small business owners”. Using the ESS net household income data to determine objective household income confronts us with one major challenge: the net income questions differ between round 1–3, where a 12-point scale is applied, and from round 4 onwards, where a decile approach is used. In both cases, categories depend on the income distribution of the ESS participant country (per round).
+
+1  We will study 28 countries, for which we have full information available in the main models of the article (i.e. Tables 1 and 2). The individual N depends on the models specifications. 2  Replicating the analyses with a broader indicator of institutional trust (with trust in the legal system and police included within the mean-score) does not alter the results given the strong internal coherence of the political trust scale. 3  The Cronbach’s alpha of the political trust scale for 2002 is 0.809 and for the 2004–2016 waves is 0.907.
+
+226 Social Justice Research (2020) 33:219–247
+
+1 3
+
+We decided to merge the net income variables, by first rescaling them to range from 0 (i.e. the lowest household income) to 1 (the highest household income). Thereafter, we merged these two indicators into one household income indicator. Economic satisfaction is measured with a question measuring subjective feelings about one’s household income, ranging from (1) it is very difficult to cope on one’s present income to (4) the respondent is living comfortably on his/her present income. We include this final, more subjective indicator of socioeconomic status, as it taps into citizens’ perceptions of economic security: Can this person, regardless of his/her objective income or employment status, say that she/he is able to cope financially on a day-to-day basis (Lühiste, 2014)?4
+
+We also control for several variables that have been connected in previous research to political trust. A first set of variables is related to the respondents’ general demographic characteristics: age and gender. Second, we include variables that are related to the cultural capital and socialisation experiences of the respondents: the extent to which they are religious and their place of residence. Typically, more religious citizens and urban dwellers are more trusting. (Catterberg & Moreno, 2006; Mishler & Rose, 2001; van der Meer & Hakhverdian, 2017). Third, we include two variables on the “political embeddedness” of the respondents: are they full citizens of the country in which they have been surveyed (De Vroome, Hooghe, & Marien, 2013), and are they interested in politics (Catterberg & Moreno 2006)? Political embeddedness should be positively related to trust. Finally, we control for the extent to which respondents care about inequality, by using a variable on whether respondents think that their governments should reduce differences in income levels. This variable can be seen as a proxy measurement for the salience of inequality (Janmaat, 2013).
+
+Time‑Variant Independent Variables Within and Between Countries
+
+Given our hypotheses, we do not just need information about the individual respondent, but also about the society she/he lives in. Economic inequality is operationalised via indicators relying on equivalised disposable household income: the Gini coefficient, the P90/P10 ratio, the P90/P50 ratio and the P50/P10 ratio. All of these are routinely used inequality indicators (Jensen & van Kersbergen, 2017; Atkinson, 2015; Schmidt-Catran, 2016). The Gini coefficient measures the distribution of income. A score of 0 would imply perfect equality, and a score of 100 means perfect inequality (Eurostat, 2018a). The P90/P10 percentile ratio is the ratio between the income of the richest 10% of households and the income of the poorest 10% of the households. The P90/P50 and P50/P10 ratios are calculated in a similar manner. The former compares the income of the richest 10% to the median income while the latter compares the income of the middle class (income of households within 50th percentile) with the poorest group within society (OECD, 2018). The Gini coefficient
+
+4  When interpreting the association between this indicator and political trust, it should be taken into account that other socio-psychological processes might be at play here, that define how economically satisfied an individual reports to be (e.g., because of diverging processes of social comparison or relative deprivation between countries). .
+
+227
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+is a summary and therefore very convenient measure of income inequality across all households, but it is sensitive with regard to changes in the middle-income category. The interdecile ratios we use, on the other hand, provide interesting insights in the income gap between different income groups (Jensen & van Kersbergen, 2017). Lastly, we also include an indicator for economic exclusion, by introducing Eurostat’s at-risk-of poverty and social exclusion rate in the analyses (Eurostat, 2018a).5 By including these different measurements of inequality, we obtain a comprehensive understanding of the prevalence of economic inequality and exclusion.6
+
+In addition, we control for the national state of the economy via the GDP per capita indicator7 as a general assessment of economic performance (Eurostat, 2018b).8 We also control for the level of perceived corruption via the World Bank’s Control of Corruption indicator (World Bank, 2018). In previous research, both economic performance and the extent of corruption have been related to political trust and inequality (Uslaner, 2008; van der Meer & Hakhverdian, 2017).
+
+Time‑Invariant Control Variable Between Countries
+
+Finally, we took into account whether the ESS participant countries had a communist past, in order to control for this historical legacy (Mishler & Rose, 2001; Catterberg & Moreno, 2006). This dummy variable, with (1) indicating having a communist past, varies across countries, but self-evidently it does not vary across time. In Tables 1 and 2, full descriptive information on all the dependent and independent variables can be found.
+
+Empirical Strategy
+
+Given the hierarchical structure of the dataset, that includes information on individuals within countries over several ESS rounds, we conduct multilevel regression analyses with three levels. As such, we avoid problems with heteroscedasticity (Gelman & Hill, 2007). We make a distinction between variables that vary across individuals within countries and rounds (first level), over the different ESS rounds within countries (second level) and which do vary between countries, but not over time (third level). We add a random intercept for both ESS rounds ( uct ) and countries ( vc )
+
+5  Eurostat operationalises this indicator in the following manner: “This indicator corresponds to the sum of persons who are: at risk of poverty after social transfers, severely materially deprived or living in households with very low work intensity. Persons are counted only once even if they are affected by more than one of these phenomena. Persons are considered to be at risk of poverty after social transfers, if they have an equivalised disposable income below the risk-of-poverty threshold, which is set at 60% of the national median equivalised disposable income” (Eurostat, 2018c). . 6  As we are using Eurostat data, we miss information for some non-EU member countries: Albania, Israel, Russia, Ukraine and Kosovo. Similarly, for the OECD data, some country level information is missing too: Bulgaria, Croatia, Cyprus, Kosovo, Romania, Russia, Switzerland and Ukraine. 7  Expressed in euros and controlled for purchasing power parity. 8  We have missing information for Israel, Kosovo, Russia, Turkey and Ukraine on the GDP per capita indicator.
+
+228 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Table 1   Individual level variables
+
+Level 1 Mean SD
+
+Political trust Using this card, please tell me on a score of 0–10 how much you personally trust each of the institutions 0: No trust at all 10: Complete trust
+
+3.82 2.26
+
+Education status Categories  1. Less than lower secondary education  2. Lower secondary education completed  3. Upper secondary education completed  4. Post-secondary non-tertiary education completed  5. Tertiary education completed
+
+3.14 1.34
+
+Economic satisfaction Categories  1. Very difficult on present income  2. Difficult on present income  3. Coping on present income  4. Living comfortably on present income
+
+2.93 0.89
+
+Unemployed Main activity over last 7 days 0: employed, or other activities (i.e. in education, permanently sick or disabled, retired, in community or military service, housework, looking after children or others, other) 1: unemployed
+
+0.06 0.23
+
+Net household income A 0–1 scale on the basis of net household income 0: Lowest household income 1: Highest household income
+
+0.47 1
+
+Social class Categories  1. High Service Class  2. Small Business Owner  3. Lower Service Class  4. Skilled Workers  5. Unskilled Workers
+
+3.26 1.39
+
+Political interest How interested would you say you are in politics?  1. Not at all interested  2. Hardly interested  3. Quite interested  4. Very interested
+
+2.38 0.91
+
+Gender Categories 0. Female, 1. Male 0.46 0.50
+
+Age Minimum: 13, maximum: 123 52.18 66.34
+
+Religiosity Regardless of whether you belong to a particular religion, how religious would you say you are? 0: Not at all religious 10: Very religious
+
+4.70 3.02
+
+Citizenship Are you a citizen of [country]? 0: No, 1: Yes 0.96 0.20
+
+Urbanisation Categories  1. A big city  2. The suburbs or outskirts of a big city  3. A town or a small city  4. A country village  5. A farm or home in the countryside
+
+2.86 1.23
+
+229
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+(Schmidt-Catran, 2016). The basic model of the paper therefore takes the following structure:
+
+The subscripts c, t and i represent the country, respectively, country-year and individual. The dependent variable ycti measures political trust at the first (i.e. individual) level of the analyses. The vector Xcti captures individual level explanatory variables, and 훽1 their corresponding coefficients. In line with previous research (Fairbrother, 2014; Schmidt-Catran, 2016; Bell, Fairbrother & Jones, 2019), we estimate hybrid models. To do so, we decompose the country level variables that have over time variance into two distinct variables. First, we compute a countrywide average for each of the macro-level indicators, which gives us a countrywide mean (that remains stable over the years)
+
+(̄Zc
+
+)
+
+. Second, we subtract that mean from the original macro-level indicators
+
+(Zct −̄Zc
+
+)
+
+. Following this procedure, we create two orthogonal variables that cover the structural differences between countries on the one hand
+
+(̄Zc
+
+)
+
+and the effect of the biennial change of the indicator, relative to the mean
+
+(Zct −̄Zc
+
+)
+
+, on the other hand (note that the calculation of
+
+(Zct −̄Zc
+
+)
+
+is similar to fixed effects transformations in panel data analysis). The result is an average level of the indicators for each country
+
+(̄Zc
+
+)
+
+that remains constant over the different ESS rounds, with 훾Between capturing these between-country effects on political trust. These “between-country” indicators will be included as predictors on the third level of the multilevel regression equations, as they do not vary over time and remain a stable characteristic of the country. For instance, we create a “between” Gini coefficient that captures the average level of inequality in that country over the period of 2002–2016. Regressing this indicator on trust will allow us to test whether citizens are on average less trusting in structurally more unequal countries. Second, we obtain the biennial deviations of each indicator (the within-country effects)
+
+(Zct −̄Zc
+
+)
+
+, which will be included at the second level of the analyses, with 훾Within capturing these within-country effects.9 We, for instance, create a “within” Gini coefficient, which captures the biennial deviations (i.e. per round) of the Gini coefficient for a given country, from the average level of inequality within that
+
+ycti = 𝛽0 + 𝛽1Xcti + 𝛾Within
+
+(Zct −̄Zc
+
+) + 𝛾Between ̄Zc + 𝛽2(t) + vc + uct + ecti
+
+Table 1   (continued)
+
+Level 1 Mean SD
+
+Government should reduce differences in income levels
+
+Categories  1. Agree strongly  2. Agree  3. Neither agree nor disagree  4. Disagree  5. Disagree strongly
+
+3.89 1.03
+
+9  Note that the within variation is always smaller than the between variation.
+
+230 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Table 2   Country level variables
+
+Level 2 Mean SD Min. Max.
+
+Gini coefficient of Equivalised Disposable Income
+
+Coefficient range 0: perfect equality, all households have the same income 100: perfect inequality, one household possesses the entire national income Source: Eurostat
+
+29.90 4.65 22.00 46.00
+
+P50/P10 The P50/P10 compares the median income (households within 50th percentile) with the upper bound of the poorest part of society (i.e. the 10th percentile) 1: perfect equality, ∞: highest level of inequality Source: OECD
+
+2.04 0.25 1.70 2.90
+
+P90/P10 The P90/P10 percentile ratio is the ratio of the income of the richest 10% of households (i.e. the 90th percentile) over the income of the poorest 10% of the households (i.e. the 10th percentile) 1: perfect equality, ∞: highest level of inequality Source: OECD
+
+3.93 0.88 2.80 6.20
+
+P90/P50 The P90/P50 percentile ratio is the ratio of the income of the richest 10% (i.e. the 90th percentile) to the median income. 1: perfect equality, ∞: highest level of inequality Source: OECD
+
+1.90 0.21 1.60 2.50
+
+At-risk-of poverty and social exclusion Percentage of population that is at risk of poverty or social exclusion Source: Eurostat 24.53 10.05 11.20 66.40
+
+GDP per capita GDP distribution per head of population, expressed in euros, controlled for PPP Source: Eurostat 26,012 18,326 1500 90,700
+
+Control of Corruption Coefficient range: − 2.5: weak 2.5: strong Source: World Bank
+
+0.90 0.98 − 1.11 2.47
+
+Communist past 0: Countries without communist past, i.e. Austria, Belgium, Cyprus, Denmark, Finland, France, Greece, Ireland, Israel, Iceland, Italy, Luxembourg, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, Turkey, United Kingdom 1: Countries with communist past, i.e. Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Lithuania, Poland, Romania, Russia, Slovakia, Slovenia, Ukraine Note: Germany is treated as one unit, and given a code of 0, despite the communist past of East Germany
+
+0.42 0.49 0 1
+
+231
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+country. This can be illustrated with the example of Belgium. If that country has a “between” Gini coefficient of 28, and in 2006 only has a Gini coefficient of 25, this would be a reduction of three, in comparison with the average for that country. By creating a “within” Gini coefficient, we can ascertain whether this reduction of inequality (i.e. a reduction of − 3 for that specific year) is associated with higher political trust in 2006. The advantage of this manner of modelling data is that it does not assume that the cross-sectional and longitudinal relationship between the independent variables and the dependent variables are the same (Fairbrother, 2014; Bell, Fairbrother & Jones, 2019). By directly modelling the between and within variation of inequality, we can ascertain whether these differences matter for citizens’ political trust. In further models, we test whether various socioeconomic groups react differently to the level of inequality
+
+(̄Zc
+
+)
+
+or the magnitude of its deviation
+
+(Zct −̄Zc
+
+)
+
+within their society. We add a random slope for socioeconomic status (education position, economic satisfaction, household income, social class or unemployment status), and we explain the variance in slope by adding a cross-level interaction effect with income inequality (i.e. with the within or between decomposition of our inequality indicators). A possible time trend is controlled for via 훽2(t) , which measures the effect of survey year dummies in all models. The individual level independent variables were centred at the country mean. Our modelling approach of the macro-level predictors inherently entails that the second level variables are group mean centred as well. The third level predictors were grand mean centred. We conduct a group mean centring of the individual predictors in order to ensure that the effect of the group mean centred variables is the “pure” effect of within group variance and is not confounded by information on variance between levels. This is important, since we investigate cross-level interaction effects (Enders & Tofighi, 2007). Given that most of our variables have different scales of measurement, we report standardised coefficients (by one standard deviation), to facilitate the interpretation of the models. In order to determine the extent to which the specified model is a good approximation of the parameters of our population, we used the Restricted Maximum Likelihood (REML) approach, which gives a more conservative estimate of the random effects. It is essential to note that the ESS countries do not form a random sample, and hence, can strictly speaking not be estimated via hierarchical modelling, which would require a random sample for each level of analysis. Throughout the analyses and the conclusions, we treat and describe our data as a population of countries, rather than “a random” or “representative” sample (Ebbinghaus, 2012). The results found in this article can, therefore, not be generalised beyond the 28 countries under study.10
+
+10  Before starting the analyses, we tested whether the errors of our country level variables were independently distributed (which we would expect if the data were drawn from a random sample). This was indeed the case (residual plots available on request): the residual pattern did not suggest any obvious reason to be concerned about the consequences of the fact that we rely on a non-random sample.
+
+232 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Results
+
+Before moving on to the hierarchical models, we briefly report some descriptive information. In Fig. 1, we plot the relation between income inequality (Gini coefficient) and political trust for every ESS participant country (average levels of inequality and trust for all rounds). A clear negative association between trust and inequality can be observed (supporting Hypothesis 2). Second, we plot the correlation between the individual level (Table 3) and macrolevel (Table 4) variables. In line with hypothesis 1, we find a positive association between socioeconomic status and political trust (histograms for the different categories of the socioeconomic status indicators and their association with trust are reported in Appendix B). Having reviewed the descriptive information, we move on to the more elaborate analyses. In Table 5, we present the results of six models: a direct effect only model (Model 1) and 5 models which include interaction effects between socioeconomic status and the “between” decomposition of the Gini coefficient (i.e. the country average of the Gini coefficient—included at the third level of the analyses). The main difference between the analyses is that for each of these models, a random slope is added for a different socioeconomic status indicator and that only this indicator is interacted with the “between” Gini coefficient: in model 2 we add a random slope for unemployment status and include an interaction term between unemployment status and the “between” Gini coefficient. In model 3 we do so for social class, in model 4 for objective household income, in model 5 for economic satisfaction and in model 6 for level of education.11 Standardised results are reported. When looking at the direct effects only, a first consistent observation is that a higher socioeconomic status is associated with a higher political trust score. For instance, a one standard deviation increase in economic satisfaction is associated with β = 0.23 (p < .001) increase in one’s trust score,12 when the effect of the other variables is kept constant. Only objective household income cannot significantly be
+
+Fig. 1   Average political trust and income inequality in Europe. Note: Mean scores of political trust and inequality of ESS participant countries (2002–2016)
+
+11  Analysing the different operationalisations of socioeconomic status together in one model does not lead to problems with multi-collinearity: the VIF-scores of the variables were never higher that 3 (tested on pooled data).
+
+12  Model 4, which includes the interaction term with and random slope for economic satisfaction reports a slightly different coefficient: (β = 0.22, p < .001).
+
+233
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+Table 3   Correlation matrix of individual level variables
+
+Data: European Social Survey (2002–2016)
+
+Political trust Unemployed (ref.: no) Objective household income
+
+Economic satisfaction Social class Education level Political interest Age Gender (ref. female)
+
+Citizenship Place of residency Religiousness Government should redistribute incomes
+
+Political Trust 1.00
+
+Unemployed (ref.: no) − 0.09 1.00
+
+Objective household income
+
+0.18 − 0.17 1.00
+
+Economic satisfaction 0.30 − 0.22 0.47 1.00
+
+Social class − 0.16 0.11 − 0.34 − 0.28 1.00
+
+Education level 0.15 − 0.06 0.37 0.25 − 0.53 1.00
+
+Political interest 0.28 − 0.06 0.17 0.21 − 0.26 0.26 1.00
+
+Age − 0.02 − 0.11 − 0.20 − 0.03 − 0.01 − 0.22 0.12 1.00
+
+Gender (ref. female) 0.03 0.02 0.08 0.07 − 0.06 − 0.01 0.14 0.00 1.00
+
+Citizenship − 0.04 − 0.04 0.03 0.04 − 0.03 − 0.03 0.02 0.08 − 0.01 1.00
+
+Place of residency 0.00 − 0.01 − 0.03 0.04 0.09 − 0.13 − 0.05 0.06 0.03 0.06 1.00
+
+Religiousness 0.06 − 0.02 − 0.10 − 0.07 0.04 − 0.10 0.00 0.17 − 0.15 − 0.05 0.04 1.00
+
+Government should redistribute incomes
+
+− 0.17 0.06 − 0.20 − 0.23 0.17 − 0.15 − 0.09 0.09 − 0.08 0.01 0.01 0.05 1.0
+
+234 Social Justice Research (2020) 33:219–247
+
+1 3
+
+related to trust. Second, when inequality went up within a given country between two ESS rounds, relative to the country’s average level of inequality (i.e. the “within decomposition” of inequality, which is analysed at the second level), respondents’ trust decreased. There is only one statistically significant direct effect of the “between” Gini coefficient (third level) on political trust (model 2). Do note that the coefficients are consistently negative and relatively high, and reach borderline statistical significance (p < .10). With regard to the control variables, we see that several of them have a positive effect on political trust when keeping the effect of the other variables at their average. Being interested in politics, an urban resident or religious is associated with higher levels of political trust. On the other hand, the elderly, rural dwellers and full citizens are more distrusting. Having a strong preference for income redistribution is also associated with higher levels of trust (the negative coefficient is due to an inverse scale). When looking at the country level controls, we note that countries with a strong control of corruption or a strong economy have citizens with higher levels of political trust (cfr. the association of the “between” indicators and trust). An increase in the control of corruption or GDP per capita within a country relative to their mean levels positively affects political trust too (cfr. the association of the “within” indicators and trust). Living in a country with a communist past does not affect these respondents’ political trust. Upon further inspection of the analyses, this is fully driven by including the indicators of GDP per capita and corruption. In line with previous research, this suggests that the lower levels of political trust in those countries can be explained by the lower levels of economic development and the persistence of corruption in these former authoritarian countries (Mishler & Rose, 2001). Turning to the interaction effects, an interesting pattern can be observed. The interaction effects for the “between” Gini coefficient and socioeconomic status each time hold the opposite sign of the main effects of socioeconomic status and are significant across almost all model specifications. For instance, in Model 3, we note that having a lower social class is negatively related to trust (e.g. unskilled workers report on average lower trust than the high service class, with β = − 0.10, p < .01), but its interaction term with the between decomposition of inequality is positive (β = 0.17, p < .001). This means that the positive effect of having a high socioeconomic position on political trust becomes smaller in countries that are on average more unequal. We find a similar pattern for economic satisfaction, objective
+
+Table 4   Correlation matrix of macro-level variables
+
+Data: European Social Survey (2002–2016)
+
+Gini coefficient GDP per capita Control on corruption Communist past (ref.: no)
+
+Gini coefficient 1.00
+
+GDP per capita − 0.37 1.00
+
+Control on corruption − 0.38 0.80 1.00
+
+Communist past (ref.: no) 0.05 − 0.71 − 0.72 1.00
+
+235
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+Table 5   Political trust for different specification of socioeconomic status, including interaction effects with the Gini coefficient (between)
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+Intercept 4.25*** 4.24 4.63*** 4.72* 4.25*** 4.00***
+
+(0.33) (2.18) (0.91) (2.28) (0.14) (0.27)
+
+Key variables (main effects)
+
+Unemployed (ref.: no) − 0.19*** − 0.20*** − 0.20*** − 0.20*** − 0.20*** − 0.20***
+
+(0.02) (0.02) (0.02) (0.02) (0.02) (0.02)
+
+Objective household income − 0.01 − 0.01 − 0.01 − 0.02 − 0.01 − 0.01
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Economic satisfaction 0.23*** 0.23*** 0.23*** 0.23*** 0.22*** 0.23***
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Social class (ref.: high service class)
+
+Small business owner − 0.08*** − 0.08*** − 0.07*** − 0.08*** − 0.08*** − 0.08***
+
+(0.02) (0.02) (0.02) (0.02) (0.02) (0.02)
+
+Lower service class − 0.18*** − 0.18*** − 0.08 − 0.18*** − 0.18*** − 0.18***
+
+(0.02) (0.02) (0.06) (0.02) (0.02) (0.02)
+
+Skilled workers − 0.15*** − 0.15*** − 0.08** − 0.15*** − 0.15*** − 0.15***
+
+(0.02) (0.02) (0.03) (0.02) (0.02) (0.02)
+
+Unskilled workers − 0.17*** − 0.17*** − 0.10** − 0.17*** − 0.17*** − 0.17***
+
+(0.02) (0.02) (0.03) (0.02) (0.02) (0.02)
+
+Education level 0.04*** 0.04*** 0.04*** 0.04*** 0.04*** 0.01
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Gini coefficient (between) − 0.22+ − 0.22+ − 0.33** − 0.22+ − 0.22+ − 0.21+
+
+(0.11) (0.11) (0.11) (0.11) (0.11) (0.11)
+
+Gini coefficient (within) − 0.02* − 0.02* − 0.02* − 0.02* − 0.02* − 0.02*
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Interactions
+
+Unemployment status * Gini (between) − 0.02
+
+(0.03)
+
+Small business owners *  Gini (between)
+
+0.03
+
+(0.02)
+
+Lower service class * Gini (between) 0.21***
+
+(0.02)
+
+Skilled workers * Gini (between) 0.15***
+
+(0.02)
+
+Unskilled workers * Gini (between) 0.17***
+
+(0.02)
+
+Objective household income * Gini (between)
+
+− 0.04***
+
+(0.01)
+
+Economic satisfaction * Gini (between) − 0.02***
+
+(0.01)
+
+236 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Table 5   (continued)
+
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+
+Education level * Gini (between) − 0.08***
+
+(0.01)
+
+Control variables
+
+Political interest 0.40*** 0.40*** 0.40*** 0.40*** 0.40*** 0.40***
+
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00)
+
+Gender (ref. female) − 0.02+ − 0.02+ − 0.02+ − 0.02+ − 0.02+ − 0.02+
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Age − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08***
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Holding citizenship (ref. no) − 0.34*** − 0.34*** − 0.34*** − 0.34*** − 0.34*** − 0.35***
+
+(0.02) (0.02) (0.02) (0.02) (0.02) (0.02)
+
+Place of residency (ref. living in a big city)
+
+Suburbs − 0.05*** − 0.05*** − 0.05*** − 0.06*** − 0.05** − 0.06***
+
+(0.02) (0.02) (0.02) (0.02) (0.02) (0.02)
+
+Town/small city − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08***
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+A country village − 0.08*** − 0.08*** − 0.08*** − 0.09*** − 0.08*** − 0.09***
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Farm or home in countryside − 0.14*** − 0.14*** − 0.14*** − 0.14*** − 0.14*** − 0.14***
+
+(0.02) (0.02) (0.02) (0.02) (0.02) (0.02)
+
+Religiousness 0.25*** 0.25*** 0.25*** 0.25*** 0.25*** 0.24***
+
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00)
+
+Government should redistribute incomes − 0.11*** − 0.11*** − 0.11*** − 0.11*** − 0.11*** − 0.11***
+
+(0.00) (0.00) (0.00) (0.00) (0.00) (0.00)
+
+Country level
+
+GDP per capita (between) 0.38** 0.38** 0.39** 0.38** 0.38** 0.38**
+
+(0.14) (0.14) (0.14) (0.14) (0.14) (0.14)
+
+GDP per capita (within) 0.19*** 0.19*** 0.19*** 0.19*** 0.19*** 0.19***
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Control of corruption (between) 0.79*** 0.79*** 0.80*** 0.79*** 0.79*** 0.79***
+
+(0.18) (0.18) (0.18) (0.18) (0.18) (0.18)
+
+Control of corruption (within) 0.13*** 0.13*** 0.13*** 0.13*** 0.13*** 0.13***
+
+(0.01) (0.01) (0.01) (0.01) (0.01) (0.01)
+
+Communist past (ref.: no) 0.24 0.24 0.26 0.24 0.24 0.24
+
+(0.25) (0.25) (0.26) (0.25) (0.25) (0.26)
+
+AIC 742,706.13 742,717 742,544 742,631 742,651 742,478
+
+Log likelihood − 371,316.06 − 371,319 − 371,217 − 371,276 − 371,286 − 371,199
+
+N observations 180,520 180,520 180,520 180,520 180,520 180,520
+
+N countries 28 28 28 28 28 28
+
+N rounds 8 8 8 8 8 8
+
+Note: dependent variable: political trust. Models controlled for a time trend via survey year dummies. Standardised estimates (one SD) reported. Models estimated via REML
+
++ p < .1; *p < .05; **p < .01; ***p < .001
+
+237
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+household income and education status. Only the interaction term between unemployment status and inequality is not significant. Before further discussing the implications of the interaction effects, we replicate the models for the “within decomposition” of inequality in Table 6. Here, we include interaction terms between the different operationalisations of socioeconomic status and the “within” decomposition of the Gini coefficient (second level). In these analyses, we find no moderation effect of the “within” inequality indicator on the effect of socioeconomic status on political trust, with the exception of a small positive interaction coefficient with education status (β = 0.01, p < .05) and between the “within” inequality coefficient and the term for the lower service class (β = − 0.05, p < .05). In other words, within-country changes of inequality (relative to the country-mean level of inequality) do not seem to drive socioeconomic strata closer towards (or further away from) each other in the extent to which they trust their political institutions. Next, we replicate the analyses for the other specifications of inequality and poverty. The results of these models are reported in Appendix C.13 The interaction and main effects are similar to those reported in Tables 5 and 6 with the Gini coefficient. In general, they are the countries that are on average the most equal where differences between trust levels of the various social strata are highest.14 The positive interaction term between the “within” decomposition of the Gini coefficient and education status or social class is not robust across different operationalisations of inequality. Furthermore, when the Gini coefficient, the at-riskof-poverty and social exclusion rate, the P50/P10 or the P90/P10 percentile ratio increase within a given country, relative to their country average, political trust, on average, is lower. Only one “between” inequality indicator reduces political trust in a statistically significant manner in most models (i.e. the “between” P90/P50 percentile ratio).15
+
+Finally, in line with the suggestion of Brambor, Clark, & Golder (2006), we visualise the interaction effects in order to get a better substantive grasp of the data, by plotting the marginal effect of economic satisfaction, objective household income and level of education on political trust (Figs. 2, 3 and 4). These marginal effects plots are based on standardised data. The histograms at the bottom of each figure help interpreting the substantive effects of the models, as they depict the actual spread of inequality between the countries. In these figures, it is clear that structurally high inequality levels reduce the positive impact of socioeconomic status on political trust. In the case of educational status, the positive effect even disappears in the most unequal countries in our dataset. In other words, the relevance of an individual’s socioeconomic position for political trust diminishes in societies with high levels of inequality.
+
+13  We checked for all inequality variables whether there was sufficient within variation (versus between variation) before constructing our orthogonal terms. In the case of the P90/P50 variable, there was hardly any within-country variation in the indicator. Therefore, we only analyse the countrywide average (cfr. the “between” variation) of this variable. 14  The interaction coefficients with the within inequality indicators were mostly non-significant. 15  This statement is applicable both when analysing models that include or exclude the interaction effects.
+
+238 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Table 6   Political trust for different specification of socioeconomic status, including interaction effects with the Gini coefficient (within)
+
+Model 1 Model 2 Model 3 Model 4 Model 5
+
+Intercept 4.24 4.65*** 4.84*** 4.29*** 2.60**
+
+(2.29) (0.35) (0.85) (0.29) (0.91)
+
+Key variables (main effects)
+
+Unemployed (ref.: no) − 0.19*** − 0.19*** − 0.19*** − 0.19*** − 0.19***
+
+(0.02) (0.02) (0.02) (0.02) (0.02)
+
+Objective household income − 0.01 − 0.01 − 0.00 − 0.01 − 0.01
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Economic satisfaction 0.23*** 0.23*** 0.23*** 0.23*** 0.23***
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Social class (ref.: high service class)
+
+Small business owner − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08***
+
+(0.02) (0.02) (0.02) (0.02) (0.02)
+
+Lower service class − 0.18*** − 0.16*** − 0.18*** − 0.18*** − 0.18***
+
+(0.02) (0.06) (0.02) (0.02) (0.02)
+
+Skilled workers − 0.15*** − 0.14*** − 0.15*** − 0.15*** − 0.15***
+
+(0.02) (0.03) (0.02) (0.02) (0.02)
+
+Unskilled workers − 0.17*** − 0.16*** − 0.17*** − 0.17*** − 0.17***
+
+(0.02) (0.03) (0.02) (0.02) (0.02)
+
+Education level 0.04*** 0.04*** 0.04*** 0.04*** 0.04**
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Gini coefficient (between) − 0.22+ − 0.22+ − 0.22+ − 0.22+ − 0.22+
+
+(0.11) (0.11) (0.11) (0.11) (0.11)
+
+Gini coefficient (within) − 0.02** − 0.01 − 0.02* − 0.02* − 0.02**
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Interactions
+
+Unemployment status * Gini (between) 0.03
+
+(0.03)
+
+Small business owners * Gini (between) − 0.02
+
+(0.02)
+
+Lower service class * Gini (between) − 0.05*
+
+(0.02)
+
+Skilled workers * Gini (between) − 0.01
+
+(0.02)
+
+Unskilled workers * Gini (between) 0.00
+
+(0.02)
+
+Objective household income * Gini (between) 0.00
+
+(0.01)
+
+Economic satisfaction * Gini (between) − 0.01
+
+(0.01)
+
+Education level * Gini (between) 0.01*
+
+(0.01)
+
+239
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+Table 6   (continued)
+
+Model 1 Model 2 Model 3 Model 4 Model 5
+
+Control variables
+
+Political interest 0.40*** 0.40*** 0.40*** 0.40*** 0.40***
+
+(0.00) (0.00) (0.00) (0.00) (0.00)
+
+Gender (ref. female) − 0.02+ − 0.02+ − 0.02+ − 0.02+ − 0.02+
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Age − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08***
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Holding citizenship (ref. no) − 0.34*** − 0.34*** − 0.34*** − 0.34*** − 0.34***
+
+(0.02) (0.02) (0.02) (0.02) (0.02)
+
+Place of residency (ref. living in a big city)
+
+Suburbs − 0.05*** − 0.05*** − 0.05** − 0.05** − 0.05***
+
+(0.02) (0.02) (0.02) (0.02) (0.02)
+
+Town/small city − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08***
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+A country village − 0.08*** − 0.08*** − 0.08*** − 0.08*** − 0.08***
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Farm or home in countryside − 0.14*** − 0.15*** − 0.14*** − 0.14*** − 0.14***
+
+(0.02) (0.02) (0.02) (0.02) (0.02)
+
+Religiousness 0.25*** 0.25*** 0.25*** 0.25*** 0.25***
+
+(0.00) (0.00) (0.00) (0.00) (0.00)
+
+Government should redistribute − 0.11*** − 0.11*** − 0.11*** − 0.11*** − 0.11***
+
+incomes (0.00) (0.00) (0.00) (0.00) (0.00)
+
+Country level
+
+GDP per capita (between) 0.38** 0.38** 0.38** 0.38** 0.38**
+
+(0.14) (0.14) (0.14) (0.14) (0.14)
+
+GDP per capita (within) 0.19*** 0.19*** 0.19*** 0.19*** 0.19***
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Control of corruption (between) 0.79*** 0.80*** 0.79*** 0.79*** 0.79***
+
+(0.18) (0.18) (0.18) (0.18) (0.18)
+
+Control of corruption (within) 0.13*** 0.13*** 0.13*** 0.13*** 0.13***
+
+(0.01) (0.01) (0.01) (0.01) (0.01)
+
+Communist past (ref.: no) 0.24 0.25 0.24 0.24 0.24
+
+(0.25) (0.26) (0.25) (0.25) (0.25)
+
+AIC 742,716.04 742,689.42 742,686.84 742,667.10 742,663.50
+
+Log Likelihood − 371,318 − 371,290 − 371,303 − 371,294 − 371,292
+
+N Observations 180,520 180,520 180,520 180,520 180,520
+
+N Countries 28 28 28 28 28
+
+N Rounds 8 8 8 8 8
+
+Dependent variable: political trust. Models controlled for a time trend via survey year dummies. Standardised estimates (one SD) reported. Models estimated via REML
+
++ p < .1; *p < .05; **p < .01; ***p < .001
+
+240 Social Justice Research (2020) 33:219–247
+
+1 3
+
+We conducted various sensitivity analyses to ensure that our findings are robust and not driven by the set-up of the multilevel models or the data selection. First, we estimated a set of models where the socioeconomic status indicators were analysed separately. Because these models were less strict (i.e. did only control for one socioeconomic attribute), all direct effects and interaction effects with the “between” decomposition of inequality were significant, and depicted similar relations to those
+
+Fig. 2   The marginal effect of economic satisfaction on political trust, on the level of the Gini coefficient (between). Note: This plot represents the marginal effect of economic satisfaction on political trust, controlling for the effect of the Gini coefficient (between). Grey areas represent the confidence bounds (95%), the distribution of country scores (between) is plotted at the bottom of the figure. Standardised measures are reported
+
+Fig. 3   The marginal effect of level of education on political trust, on the level of the Gini coefficient (between). Note: This plot represents the marginal effect of education status on political trust, controlling for the effect of the Gini coefficient (between). Grey areas represent the confidence bounds (95%); the distribution of country scores (between) is plotted at the bottom of the figure. Standardised measures are reported
+
+241
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+presented in this article. Second, we estimated models on the basis of pooled data, which included country level and year level dummies, but no random intercepts or slopes (i.e. a “fixed effects” design) (Möhring, 2012). These models are included in Appendix D. Third, we tested whether there was any undue influence of outlier cases on our coefficients by re-estimating the models, where we each time excluded a country (i.e. jackknifing). Fourth, we operationalised some of the macro-level indicators via alternative sources. More precisely, we estimated models that used Transparency International’s Corruption Perceptions Index, the World Bank’s GDP per capita (expressed in current dollars) and the Gini coefficient of disposable income as indicators. Fifth, we added social trust, ethnic fractionalisation, the human development index or the social expenditure rate as further covariates. All these analyses corroborated the models presented within the article and pointed towards a positive direct effect of socioeconomic status on political trust, which is moderated by the “between” level of inequality and a negative effect of changes of inequality on trust. Finally, we analysed an alternative pathway through which inequality could be connected to political trust, by investigating whether economic inequality might have an especially strong effect in those countries where corruption is also endemic (Uslaner, 2008). However, our analyses did not provide evidence for such an interaction mechanism (Appendix E).
+
+Discussion
+
+We started this article by asking whether citizens’ political trust depends on the level of economic inequality within their countries. Employing multilevel models on a pooled dataset of the European Social Survey (2002–2016), we analysed “within”
+
+Fig. 4   The marginal effect of objective household income on political trust, on the level of the Gini coefficient (between). Note: This plot represents the marginal effect of objective household income on political trust, controlling for the effect of the Gini coefficient (between). Grey areas represent the confidence bounds (95%); the distribution of country scores (between) is plotted at the bottom of the figure. Standardised measures are reported
+
+242 Social Justice Research (2020) 33:219–247
+
+1 3
+
+and “between” aspects of inequality, various specifications of socioeconomic status and their relation with political trust. First, we found that citizens who are more well-off, as defined by social class, educational or employment status and level of economic satisfaction, have higher levels of trust in political institutions. When inequality increases within ESS participant countries, relative to the mean level of inequality within these countries, respondents are more distrusting. Structural differences between countries on the other hand, i.e. the long-term differences between countries in terms of average levels of inequality, were not significantly related to citizens’ trust. Why do we find this difference with regard to the “between” and the “within” associations between inequality, socioeconomic status and trust? At first sight, we do not find, for most of the “between” inequality indicators, that in countries that are on average more/less unequal have on average more/less distrusting citizens. Nevertheless, the coefficients point at a negative relationship and are rather large (a one standard deviation increase in the Gini coefficient leads to a 0.22 drop of political trust, when not including any interaction terms in the main analyses). The statistical insignificance could be due to a lack of statistical power of these “between” coefficients. With only 28 units under analysis, only a limited amount of variance can be observed, which of course makes calculating precise statistical estimates more difficult. Some of the coefficients (e.g. the Gini coefficient or the P90/P10 ratio) do reach borderline significance. In other words, we have some tentative evidence that in structurally more unequal countries, citizens could be less trusting, but overall this finding is not very robust (especially when comparing its coefficients with the robust “between” effects of corruption and GDP per capita). Second, if political trust is structurally dependent on the analysis of how well a country is doing (i.e. on policy performance), citizens might care more about how inequality levels have developed in recent years. In other words, are citizens “myopic” in their policy evaluations, a claim which is often forwarded in electoral research (Healy & Lenz, 2014)? Within-country changes of inequality are typically small (e.g. a Gini coefficient that goes up/down with 1 point), so the fact that we do observe statistically significant associations between the “within” inequality indicators and political trust does seem to indicate that citizens care about changes of inequality. Future studies could in this light investigate whether such potential “myopic” tendencies go beyond the realm of inequality. Importantly, structural differences between countries with regard to the level of inequality moderate the impact of socioeconomic status on political trust. We do not find any evidence for a “mechanical effect” of inequality. Even though economic inequality exacerbates the differences between well-off and less welloff citizens within a given society, this is not translated into a higher trust gap, which would have been the prediction of utilitarian self-interest theories. This again strengthens our assumption that these theories should be supplemented by other approaches in order to explain the relation between inequality and political trust in a comprehensive manner. In contrast to the assumption of a mechanical effect, in the most unequal European societies, the levels of trust of the well-off and the less well-off are more alike as endemic inequality seems to erode political trust for all groups within society, including the most privileged ones. This
+
+243
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+might suggest that a moral mechanism might be at play instead. Short-term fluctuations of inequality do not seem to increase/decrease the fundamental associations between socioeconomic status and political trust. All socioeconomic groups react equally negatively when inequality goes up. One potential mechanism to explain our findings is that trust levels go down for the most privileged groups within society if they observe enduring levels of inequality. Partly this can be explained by the fact that these groups are confronted with the broader consequences of economic exclusion that tends to be associated with crime, visible manifestations of poverty and homelessness and a decay of the urban environment. This implies that even those citizens who do have access to abundant economic resources will enjoy fewer opportunities, e.g. leisure or cultural activities within the urban centres, or business activities (Wilkinson & Pickett, 2010). Apparently, all groups of society are confronted with a perceived lack of social justice when they are being confronted with poverty, exclusion or homelessness. The fact that we observe a clear relation with political trust suggests that the political system is being held responsible for this pattern of exclusion (Etzioni, 1988; Acemoglu & Robinson, 2012). Self-evidently, we cannot fully test how objective, countrywide levels and changes of inequality affect citizens’ political trust. Such a causal chain would also include citizens’ inequality preferences, perceptions of the extent of inequality within their society, one’s values and ideologies, the potential polarisation of political parties inequality can cause, the changing relevance of one’s political ideology in unequal versus equal contexts, changing electoral turnout patterns, how the inequality-trust nexus might depend on diverging levels of social mobilisation and social conflict caused by inequality, etc. (Beramendi & Anderson, 2008). This kind of information is not fully available within the European Social Survey. In addition, do note that our findings cannot be generalised beyond the ESS countries under study, as these were not selected randomly to participate in the survey. Future research should also investigate whether our analyses hold in a non-European context and across a wider time range.
+
+Conclusion
+
+On the basis of our research findings, we conclude that a likely scenario is that the functioning of political systems leads to a specific set of expectations among citizens. In well-ordered liberal societies, that are able to guarantee a high level of socioeconomic equality for their citizens, expectations also seem to be quite elevated. The downside of these expectations, of course, could be that if the political system fails to meet them, this results in a higher level of disappointment among citizens. For societies that are plagued by endemic high levels of exclusion and inequality, on the other hand, these expectations seem to be low to start with. Previous research has indeed established that political trust cannot just be explained by an evaluation of the functioning of the system, but that it is equally important to include the moral and political expectations citizens have towards politics, as they use these expectations as a yardstick to evaluate the actual functioning of the institutions (Hooghe,
+
+244 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Marien, & Oser, 2017). A rather cynical interpretation of these findings could therefore be that if expectations are lowered, and the disprivileged tend to blame themselves for their economic exclusion in a form of system justification, this would not have major consequences for the long-term legitimacy of the political system, as this might lead to what can be called a form of amoral apathy (Banfield, 1958). This lack of democratic legitimacy, rather ironically, also seems to lead to the situation that political institutions no longer seem to be held accountable if they fail to fight social and economic exclusion patterns. Or to phrase it differently: a cynical attitude towards the political system, at least to some extent, could function as a coping strategy to deal with disappointment about the functioning of the political system.
+
+References
+
+Acemoglu, D., & Robinson, J. (2012). Why nations fail. New York: Crown. Almond, G. A., & Verba, S. (1963). The civic culture. Political attitudes and democracy in five nations. Princeton: Princeton University Press. Andersen, R., & Curtis, J. (2015). Social class, economic inequality, and the convergence of policy preferences: Evidence from 24 modern democracies. Canadian Review of Sociology, 52(3), 267–288. Anderson, C. J. (2007). The interaction of structures and voting behavior. In R. J. Dalton & H.-D. Klingemann (Eds.), Oxford handbook of political behavior (pp. 589–609). Oxford: Oxford University Press. Anderson, C. J., & Singer, M. M. (2008). The sensitive left and the impervious right. Multilevel models and the politics of inequality, ideology, and legitimacy in Europe. Comparative Political Studies, 41(4/5), 564–599. Armingeon, K., & Guthmann, K. (2014). Democracy in crisis? The declining support for national democracy in European Countries, 2007–2011. European Journal of Political Research, 53(3), 423–442. Armingeon, K., & Schädel, L. (2015). Social inequality in political participation: The dark sides of individualisation. West European Politics, 38(1), 1–27. Atkinson, A. B. (2015). Inequality. What can be done?. Cambridge: Harvard University Press. Banfield, E. (1958). The moral basis of a backward society. Glencoe: Free Press. Bartels, L. M. (2008). Unequal democracy: The political economy of the new gilded age. Princeton: Princeton University Press. Bell, A., Fairbrother, M., & Jones, K. (2019). Fixed and random effects models: Making an informed choice. Quality & Quantity, 53(2), 1051–1074. Bénabou, R., & Tirole, J. (2006). Belief in a just world and redistributive politics. The Quarterly Journal of Economics, 121(2), 699–746. Beramendi, P., & Anderson, C. (Eds.). (2008). Democracy, inequality, and representation. New York: Russell Sage Foundation. Boda, Z., & Medve-Bálint, G. (2014). The poorer you are, the more you trust? The effect of inequality and income on institutional trust in East-Central Europe. Czech Sociological Review, 50(3), 419–453. Bovens, M., & Wille, A. (2017). Diplomacy democracy. The rise of political meritocracy. Oxford: Oxford University Press. Braithwaite, V., & Levi, M. (Eds.). (1998). Trust and governance. New York: Russell Sage Foundation. Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. Political Analysis, 14(1), 63–82. Catterberg, G., & Moreno, A. (2006). The individual bases of political trust: Trends in new and established democracies. International Journal of Public Opinion Research, 18(1), 31–48. Curtis, J., & Andersen, R. (2015). How social class shapes attitudes on economic inequality: The competing forces of self-interest and legitimation. International Review of Social Research, 5(1), 4–19. Daenekindt, S., van der Waal, J., & de Koster, W. (2018). Social mobility and political distrust: Cults of gratitude and resentment? Acta Politica, 53(2), 269–282.
+
+245
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+Dahl, R. (2000). On democracy. New Haven: Yale University Press. De Vroome, T., Hooghe, M., & Marien, S. (2013). The origins of generalized and political trust among immigrant minorities and the majority population in the Netherlands. European Sociological Review, 29(6), 1336–1350. Easton, D. (1965). A framework for political analysis. Englewood Cliffs: Prentice-Hall. Ebbinghaus, B. (2012). Comparing Welfare State Regimes: Are Typologies an Ideal or Realistic Strategy? In ESPAnet conference, Edinburgh, UK, 6–8 September. Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in cross-sectional multilevel models: A new look at an old issue. Psychological Methods, 12(2), 121–138. Etzioni, A. (1988). The moral dimension. New York: The Free Press. European Social Survey. (2018). Data and documentation. Retrieved January 25, 2018 from, http://www. europ​eanso​cials​urvey​.org/data/. Eurostat. (2018a). Income and living conditions. Retrieved January 25, 2018 from,http://ec.europ​a.eu/ euros​tat/web/incom​e-and-livin​g-condi​tions​/overv​iew Eurostat. (2018b). National Accounts (including GDP). Retrieved January 25, 2018 from, http://ec.europ​
+
+a.eu/euros​tat/web/natio​nal-accou​nts/overv​iew Eurostat. (2018c). People at risk of poverty or social exclusion. Retrieved January 25, 2018 from, https​:// ec.europ​a.eu/euros​tat/web/produ​cts-datas​ets/-/sdg_01_10 Fairbrother, M. (2014). Two multilevel modeling techniques for analyzing comparative longitudinal survey datasets. Political Science Research and Methods, 2(1), 119–140. Fairbrother, M., & Martin, I. W. (2013). Does inequality Erode Social Trust? Results from multilevel models of US States and counties. Social Science Research, 42(2), 347–360. Fatke, M. (2018). Inequality perceptions, preferences conducive to redistribution, and the conditioning role of social position. Societies, 8(4), 1–14. Finseraas, H. (2009). Income inequality and demand for redistribution: A multilevel analysis of European public opinion. Scandinavian Political Studies, 32(1), 94–119. Gelman, A., & Hill, J. (2007). Data analysis using regression and multilevel/hierarchical models. Cambridge: Cambridge University Press. Gilens, M. (2005). Inequality and democratic responsiveness. Public Opinion Quarterly, 69(5), 778–796. Goodin, R., & Dryzek, J. (1980). Rational participation: The politics of relative power. British Journal of Political Science, 10(3), 273–292. Gould, E. D., & Hijzen, A. (2016) Growing apart, losing trust? The impact of inequality on social capital. Available at: https​://paper​s.ssrn.com/sol3/paper​s.cfm?abstr​act_id=28826​14. Hakhverdian, A., & Mayne, Q. (2012). Institutional trust, education, and corruption: A micro–macro interactive approach. Journal of Politics, 74(3), 739–750. Haugsgjerd, A. (2018). Political distrust amidst The Great Recession: The mitigating effect of welfare state effort. Comparative European Politics, 16(4), 620–648. Healy, A., & Lenz, A. (2014). Substituting the end for the whole: Why voters respond primarily to the election-year economy. American Journal of Political Science, 58(1), 31–47. Hooghe, M. (2011). Why there is basically only one form of political trust. British Journal of Politics and International Relations, 13(2), 269–275. Hooghe, M., Marien, S., & Oser, J. (2017). Great expectations. The effect of democratic ideals on political trust in European democracies. Contemporary Politics, 23(2), 214–230. Jaeger, M. (2013). The effect of macroeconomic and social conditions on the demand for redistribution: A pseudo panel approach. Journal of European Social Policy, 23(2), 149–163. Janmaat, J. G. (2013). Subjective inequality: A review of international comparative studies on people’s views about inequality. European Journal of Sociology/Archives Européennes de Sociologie, 54(3), 357–389. Jensen, C., & van Kersbergen, K. (2017). The politics of inequality. Basingstoke: Palgrave. Jost, J. T. (2018). A quarter century of system justification theory: Questions, answers, criticisms, and societal applications. British Journal of Social Psychology, 58(2), 263–314. Jost, J., Pelham, B. W., Sheldon, O., & Sullivan, B. N. (2003). Social inequality and the reduction of ideological dissonance on behalf of the system: Evidence of enhanced system justification among the disadvantaged. European Journal of Social Psychology, 33(1), 13–36. Krieckhaus, J., Son, B., Bellinger, N. M., & Wells, J. M. (2014). Economic inequality and democratic support. The Journal of Politics, 76(1), 139–151. Lancee, B., & Van de Werfhorst, H. G. (2012). Income inequality and participation: A comparison of 24 European Countries. Social Science Research, 41(5), 1166–1178.
+
+246 Social Justice Research (2020) 33:219–247
+
+1 3
+
+Loveless, M. (2013). The deterioration of democratic political culture: Consequences of the perception of inequality. Social Justice Research, 26(4), 471–491. Lühiste, K. (2014). Social protection and satisfaction with democracy: A multi-level analysis. Political Studies, 62(4), 784–803. Marshall, T. H. (1964). Class, citizenship, and social development. Garden City: Doubleday. Mijs, J. B. (2019). The paradox of inequality: Income inequality and belief in meritocracy go hand in hand. Socio-Economic Review (online first) Mishler, W., & Rose, R. (2001). What are the origins of political trust? Testing institutional and cultural theories in post-communist societies. Comparative Political Studies, 34(1), 30–62. Möhring, K. (2012). The fixed effects approach as alternative to multilevel models for cross-national analyses. GK SOCLIFE working paper series, 16/2012. Neckerman, K. M., & Torche, F. (2007). Inequality: causes and consequences. Annual Review of Sociology, 33(1), 335–357. Newton, K. (2007). Social and political trust. In R. J. Dalton & H.-D. Klingemann (Eds.), The Oxford handbook of political behavior (pp. 342–361). Oxford: Oxford University Press. Norris, P. (2011). Democratic deficit. Critical citizens revisited. Cambridge: Cambridge University Press. OECD. (2015). In it together: Why less inequality benefits all. Paris: OECD Publishing. OECD. (2018). Income inequality. Retrieved January 25, 2018 from, https​://data.oecd.org/inequ​ality​/ incom​e-inequ​ality​.htm Oesch, D. (2012). The class basis of the cleavage between the new left and the radical right: An analysis for Austria, Denmark, Norway and Switzerland. In J. Rydgen (Ed.), Class politics and the radical right (pp. 31–52). Abingdon: Routledge. Page, B. I., Bartels, L. M., & Seawright, J. (2013). Democracy and the policy preferences of Wealthy Americans. Perspectives on Politics, 11(1), 51–73. Piketty, T. (2014). Capital in the twenty-first century. Cambridge: Harvard University Press. Putnam, R. D., Pharr, S. J., & Dalton, R. J. (2000). Introduction: What’s troubling the trilateral democracies? In S. J. Pharr & R. D. Putnam (Eds.), Disaffected democracies. What’s troubling the trilateral countries? (pp. 3–27). Princeton: Princeton University Press. Rosset, J., Giger, N., & Bernauer, J. (2013). More money, fewer problems? Cross-level effects of economic deprivation on political representation. West European Politics, 36(4), 817–835. Rothstein, B. (2011). The quality of government. Chicago: University of Chicago Press. Rothstein, B., & Uslaner, E. M. (2005). All for all: Equality, corruption, and social trust. World Politics, 58(1), 41–72. Rueda, D., & Stegmueller, D. (2016). The externalities of inequality: Fear of crime and preferences for redistribution in Western Europe. American Journal of Political Science, 60(2), 472–489. Salverda, W., Nolan, B., & Smeeding, T. M. (Eds.). (2009). The Oxford handbook of economic inequality. Oxford: Oxford University Press. Schmidt-Catran, A. W. (2016). Economic inequality and public demand for redistribution: Combining cross-sectional and longitudinal evidence. Socio-Economic Review, 14(1), 119–140. Schoon, I., & Cheng, H. (2011). Determinants of political trust: A lifetime learning model. Developmental Psychology, 47(3), 619–631. Schoon, I., Cheng, H., Gale, C. R., Batty, G. D. & Deary. I.J. (2010). Social status, cognitive ability, and educational attainment as predictors of liberal social attitudes and political trust. Intelligence, 38(1), 144–150. Solt, F. (2008). Economic inequality and democratic political engagement. American Journal of Political Science, 52(1), 48–60. Solt, F. (2015). Economic inequality and nonviolent protest. Social Science Quarterly, 96(5), 1314–1327. Stiglitz, J. E. (2012). The price of inequality. New York: Norton. Torcal, M. (2014). The decline of political trust in Spain and Portugal: Economic performance or political responsiveness? American Behavioral Scientist, 58(12), 1542–1567. Uslaner, E. M. (2008). Corruption, inequality and the rule of law: The bulging pocket makes the easy life. New York: Cambridge University Press. Van de Werfhorst, H. G., & Salverda, W. (2012). Consequences of economic inequality: Introduction to a special issue. Research in Social Stratification and Mobility, 30(4), 377–387. van der Meer, T., & Hakhverdian, A. (2017). Political trust as the evaluation of process and performance: A cross-national study of 42 European countries. Political Studies, 65(1), 81–102. Van Erkel, P., & van der Meer, T. (2016). Macroeconomic performance, political trust and the great recession. European Journal of Political Research, 55(1), 177–197.
+
+247
+
+1 3
+
+Social Justice Research (2020) 33:219–247
+
+Verba, S., Schlozman, K. L., & Brady, H. (1995). Voice and equality. Civic voluntarism in American Politics. Cambridge: Harvard University Press. Wilkinson, R. G., & Pickett, K. E. (2010). The spirit level: Why equality is better for everyone. London: Penguin Books. World Bank. (2018). Worldwide governance indicators. Retrieved January 25, 2018 from, http://datab​
+
+ank.world​bank.org/data/repor​ts.aspx?sourc​e=world​wide-gover​nance​-indic​ators​ Wroe, A. (2016). Economic insecurity and political trust in the United States. American Politics Research, 44(1), 131–163. Zmerli, S., & Castillo, J. C. (2015). Income inequality, distributive fairness and political trust in Latin America. Social Science Research, 52, 179–192. Zmerli, S., & Hooghe, M. (Eds.). (2011). Political trust. Why context matters. Colchester: ECPR Press.
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

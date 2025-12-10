@@ -1,0 +1,1717 @@
+This is a repository copy of Democratic Innovation in the Scottish Parliament: An Evaluation of Committee Mini-Publics.
+
+White Rose Research Online URL for this paper: https://eprints.whiterose.ac.uk/198171/
+
+Version: Accepted Version
+
+Article: Elstub, S., Carrick, J. orcid.org/0000-0002-2106-9643 and Khoban, Z. (2021) Democratic Innovation in the Scottish Parliament: An Evaluation of Committee Mini-Publics. Scottish Affairs, 30 (4). pp. 493-521. ISSN 0966-0356
+
+https://doi.org/10.3366/scot.2021.0386
+
+This is an Accepted Manuscript of an article published by Edinburgh University Press in Scottish Affairs. The Version of Record is available online at: http://www.euppublishing.com/doi/abs/ 10.3366/scot.2021.0386
+
+eprints@whiterose.ac.uk https://eprints.whiterose.ac.uk/
+
+Reuse Items deposited in White Rose Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws. The publisher or other rights holders may allow further reproduction and re-use of the full text version. This is indicated by the licence information on the White Rose Research Online record for the item.
+
+Takedown If you consider content in White Rose Research Online to be in breach of UK law, please notify us by emailing eprints@whiterose.ac.uk including the URL of the record and the reason for the withdrawal request.
+
+1
+
+This article has been accepted for publication by Edinburgh University Press in
+
+Scottish Affairs (https://www.euppublishing.com/loi/scot)
+
+Democratic Innovation in the Scottish Parliament: An Evaluation of Committee
+
+Mini-Publics
+
+Abstract
+
+When the Scottish Parliament was established the intention of the founders was to make it a more
+
+innovative, participatory, and deliberative legislature than the UK had experienced before (Hassan,
+
+2019). Research suggests that attempts to achieve these aspirations were short-lived (Davidson et al.,
+
+2011; Davidson & Stark, 2011; McLaverty & Macleod, 2012). Recently, a Commission on Parliamentary
+
+Reform (2017) was established to add fresh impetus to this mission. Its recommendations included
+
+the running of inhouse mini-publics to support the committee system. In 2019 the Scottish
+
+Parliament’s Citizen Engagement Unit ran their first mini-publics: a Citizens Jury on land management
+
+and the natural environment for the Environment, Climate Change and Land Reform Committee, and
+
+a series of Citizens’ Panels on the future of primary care for the Health and Sport Committee. This
+
+paper evaluates their design and implementation against key norms of deliberative democracy and
+
+the expectations of the reform committee, to establish whether the Scottish Parliament is now
+
+adopting a meaningful ‘new politics’. We analyse primary data collected from a mixed method study
+
+that included structured participant surveys, semi-structured interviews with parliamentary staff,
+
+committee members, and expert witnesses; supplemented with non-participant observations and
+
+secondary data sources. We conclude with suggestions to enable mini-publics to be embedded in the
+
+committee system more permanently.
+
+Keywords: Legislatures; New Politics; Mini-Publics; Deliberative Democracy; Democratic Innovation;
+
+Parliamentary Committees.
+
+Introduction
+
+When the Scottish Parliament was established the intention of the founders was for Holyrood to
+
+embrace a ‘new politics’ and be markedly different from Westminster. This ambition included several
+
+measures including making parliament an innovative, participatory and citizen focused legislature
+
+(Hassan, 2019). A new committee system, that enagegd with the public regularly, was considered the
+
+primary means to achieve these goals. However, after a promising start, the Scottish Parliament failed
+
+2
+
+to achieve these aspirations in a sustained manner. One of the reasons for this is that the participatory
+
+processes used, although not being particularly innovative, were thought to conflict with principles of
+
+representative democracy (Davidson et al., 2011; Davidson & Stark, 2011; McLaverty & Macleod,
+
+2012). Recently, a Commission on Parliamentary Reform (2017) was established to add fresh impetus
+
+to the original mission. Its recommendations included that a new citizen engagement unit be
+
+established and that their activities include the running of inhouse mini-publics to support the
+
+committee system.
+
+In 2019 the Scottish Parliament’s Citizen Engagement Unit (CEU) ran their first mini-publics: a Citizens’
+
+Jury on land management and the natural environment for the Environment, Climate Change and Land
+
+Reform Committee (ECCLR), and a series of Citizens’ Panels on the future of primary care for the Health
+
+and Sport Committee (H&S). While other parliaments have commissioned mini-publics, we
+
+understand this to be the first cases, anywhere in the world, of a parliament organising its own mini publics directly. On the face of it, they also appear to be more ambitious attempts at promoting public
+
+participation and deliberation than the Scottish Parliament has previously attempted. The cases
+
+therefore merit further investigation to see the extent they are helping the Scottish Parliament
+
+embrace democratic innovation.
+
+This paper evaluates their design and implementation to inform the future use of similar democratic
+
+innovations by the Scottish Parliament, and other legislatures. We analyse primary data collected from
+
+a mixed method study that included structured participant surveys, semi-structured interviews with
+
+parliamentary staff, committee members, and expert witnesses; supplemented with non-participant
+
+observations and secondary data analysis. We assess these first attempts to integrate mini-publics
+
+into the Scottish Parliament, considering the extent they met the expectations of the reform
+
+Commission (2017) and standard mini-public norms.
+
+The paper proceeds in five sections. Firstly, we review the literature on democratic innovation in the
+
+Scottish Parliament and the use of mini-publics by legislatures. We use this body of work as a platform
+
+to develop the criteria we will use to evaluate the cases. Secondly, we introduce the two cases from
+
+the Scottish Parliament. Thirdly, we provide the detail of our mixed methods study. In section four,
+
+we analyse the cases to address our research questions. We conclude with some note of caution about
+
+democratic innovation in the Scottish Parliament, but also some reasons for optimism and we provide
+
+suggestions to enable mini-publics to be embedded in the committee system more permanently.
+
+3
+
+Democratic Innovation in the Scottish Parliament
+
+When the Scottish Parliament was founded the aim was for it to be different from the Westminster
+
+model, to have a ‘new politics’ that was ultimately more accessible, consensual, citizen focused,
+
+bottom-up, participatory and deliberative (Mitchell, 2010; Arter, 2004; Davidson et al., 2011; Hassan,
+
+2019; Shephard, 2019). The committee system was to be at the forefront of enabling Parliament to
+
+achieve these goals and they were given significant powers to initiate and amend legislation, and
+
+required to engage the public regularly (Arter, 2004; McLaverty & Macleod, 2012; Shephard, 2019; St
+
+Denny, 2019; Bochel and Berthier 2021). Consequently, there was experimentation by the
+
+Committees in democratic innovation.1 Initially, the Committees were relatively successful in engaging
+
+with the public in deliberative processes such as roundtables, at least in terms of the number that
+
+were organised. However, the use of these declined markedly after the first parliamentary session as
+
+‘the urgency and motivation for establishing institutional legitimacy via innovative participatory
+
+practices’ waned as the Scottish Parliament became more established (Davidson & Stark, 2011: 183).
+
+The termination of the Scottish Civic Forum in 2005 being a case in point (Davidson et al., 2011).
+
+Moreover, the engagement processes were not very radical in design and consequently tended to
+
+engage the most politically active ‘usual suspects’ (McLaverty & Macleod, 2012; Bochel and Berthier
+
+2021). Committee engagement has also predominantly been with stakeholder groups rather than
+
+members of the public (Davidson & Stark, 2011) and there is a lack of diversity to the groups they
+
+engage with (Halpin et al., 2012; Shephard, 2019). Ultimately, the deliberative and participatory
+
+processes initially used by the committees clashed with the parliamentary culture and were seen as
+
+challenges to, rather than supplements of, representative democracy (McLaverty & Macleod, 2012;
+
+Davidson et al., 2011; Davidson & Stark, 2011). In sum, ‘evidence for a “new politics” has been sorely
+
+lacking’ (Shephard 2019).
+
+The Commission on Parliamentary Reform (2017) was established to enable the Scottish Parliament
+
+to return to its founding values. Based on its recommendations the CEU was established to ‘assist
+
+committees and witnesses in undertaking more innovative and meaningful engagement’ (Shephard,
+
+2019: 101). In 2019 they ran two mini-public style processes as pilots to enable the public to engage
+
+with the committees’ work. Mini-publics assemble randomly selected groups of citizens to reason
+
+together about an issue of public concern. Participants are provided with balanced information and
+
+1 Democratic innovations can be defined as ‘processes or institutions, that are new to a policy issue, policy role, or level of governance, and developed to reimagine and deepen the role of citizens in governance processes by increasing opportunities for participation, deliberation and influence’ (Elstub & Escobar, 2019: 11).
+
+4
+
+engage in facilitated deliberation before deciding on recommendations (Ryan & Smith, 2014; Elstub,
+
+2014; Setälä & Smith, 2018; Harris, 2019).
+
+It has been suggested that mini-publics are a particularly good approach to public engagement for
+
+parliamentary committees to adopt. They expose committees to the views of people they would not
+
+usually hear from (Hendriks et al., 2019; Bochel and Berthier 2021). As well as enhancing the
+
+procedural legitimacy of committee inquiries, this can bring epistemic benefits too (Beswick & Elstub,
+
+2019; Hendriks & Kay, 2019). Furthermore, by using mini-publics parliamentary committees can get
+
+an injection of deliberative norms that can otherwise be hard to promote in such a partisan
+
+environment (Steiner et al., 2004). Moreover, given the decline in trust amongst the public that
+
+legislatures in general have been experiencing, in recent years, including the Scottish Parliament, it is
+
+hoped that using mini-publics could help address this. In turn, one of the key problems of mini-publics
+
+is that they usually lack policy influence (Goodin & Dryzek, 2006; Böker & Elstub, 2015). However,
+
+mini-publics with institutional links to a parliamentary committee can potentially help overcome this
+
+and enable the public to engage in meaningful government scrutiny (Hendriks, 2016; Setälä, 2017). An
+
+analysis of these two Scottish Parliament cases helps us assess if Holyrood is returning to the ‘new
+
+politics’ agenda from its foundation.
+
+Evaluation Criteria
+
+Our criteria for evaluation draw on The Commission on Parliamentary Reform’s (2017: 81)
+
+justifications for parliamentary committees to use mini-publics, and the key benefits often associated
+
+with this type of democratic innovation, as set out below.
+
+Firstly, a key element of mini-publics is the diverse and representative samples of citizens they
+
+assemble. This is important as deliberation requires people being exposed to different viewpoints.
+
+Mini-publics are then routinely assessed on the extent they achieve this goal (Elstub, 2014) and it was
+
+also a characteristic that was important to the Commission: ‘The mini-public report would
+
+demonstrate to the committee what happens when people with different views are invited to
+
+deliberate’ (Commission on Parliamentary Reform, 2017: 65).
+
+Secondly, because mini-public participants are given information and evidence by expert witnesses,
+
+they are usually assessed on the extent that they become more informed on the issue (Elstub 2014).
+
+This factor was also highlighted by the Commission: ‘meaningful engagement is more likely to occur
+
+5
+
+when the participants are supported to be able to take an informed view about the issues under
+
+discussion’ (Commission on Parliamentary Reform, 2017: 63).
+
+Thirdly, a key aim of mini-publics is that they create conducive conditions for good deliberation. This
+
+means the discussions and decision-making process should be inclusive, reasoned and respectful, with
+
+all having an opportunity to speak and to influence the final recommendations. Deliberative quality is
+
+therefore a common aspect on which mini-publics are evaluated on (e.g. Caluwaerts and Reuchamps,
+
+2014; Himmelroos, 2017; Elstub & Pomatto, 2018). The deliberative characteristics of mini-publics was
+
+certainly valued by the Commission: ‘deliberative approaches would be well suited to bill scrutiny or
+
+to examining issues where it is important to understand the public’s views on a complex moral or
+
+social issue’ (Commission on Parliamentary Reform, 2017: 64).
+
+Fourthly, because mini-publics attempt to lower the barriers to political participation, they manage to
+
+engage citizens that are not politically active as well as those who have very low levels of trust in
+
+political institutions. Mini-publics are consequently often evaluated on the extent they change these
+
+characteristics and that participants increase both their internal and external efficacy (Nabatchi, 2010;
+
+Boulliane et al., 2020). This was also a factor highlighted by the Commission which suggested that
+
+mini-publics can ‘bring wider benefits such as encouraging long-term levels of civic engagement,
+
+developing the capacity of citizens… and can build trust and legitimacy in parliaments and their
+
+scrutiny outcomes’ (Commission on Parliamentary Reform, 2017: 64). The aim here is to enhance
+
+efficacy amongst the participants, but also the Scottish public. However, as these cases were pilots,
+
+they were not publicised. Consequently, we only assess efficacy changes in the participants.
+
+Fifthly, it is hoped that mini-publics will have an influence on policy, and they are increasingly assessed
+
+on this criterion (Goodin & Dryzek, 2006; Fan, 2013). It is clear that the Commission intended the mini publics organised by parliament to have an impact on committee inquiries: ‘law making process can
+
+benefit from the convergence of political representation and citizen participation, in a cycle where
+
+one model strengthens the other.’ While at the same time they did not want mini-publics to ‘replace
+
+the decision taking responsibility of members’ (Commission on Parliamentary Reform, 2017: 64).
+
+In summary, we assess the Scottish Parliament’s pilot mini-publics on the extent they recruited a
+
+diverse range of participants, the extent they became more informed about the issue being addressed,
+
+their deliberative quality, the effects on participants’ internal and external efficacy, and the overall
+
+impact that the mini-public had on the parliamentary committee.
+
+6
+
+The Scottish Parliament’s Mini-publics
+
+As we have a large number of variables (outlined above), we adopt a case study approach, to enable
+
+intensive and context dependent data collection that will enable our analysis to have depth, detail,
+
+richness, completeness and variance (Gomm et al., 2004). As no other legislature has run their own
+
+mini-public, the Scottish Parliament’s qualify as ‘revelatory cases’ (Yin, 2014). The Scottish Parliament
+
+piloted two types of mini-public style processes in 2019: a Citizens’ Jury (CJ) and a series of Citizens’
+
+Panels (CP). Both of these mini-publics consisted of small groups of randomly selected citizens.
+
+However, while the CJ was a one-off event, the CPs assembled different groups of people over a longer
+
+period of time. In this section we give an overview of these cases.
+
+The CJ on Land Management and the Natural Environment was sponsored by the ECCLR Committee.
+
+The CJ was held on the weekend of 29th-31st March 2019 at the Scottish Parliament. 3000 Scottish
+
+households were randomly selected to register their interest in participating in the CJ. Stratified
+
+sampling was then used to invite a representative sample of 22 jurors, one of whom dropped out just
+
+before the weekend started, leaving 21 participants. The Jury was tasked to come up with a set of
+
+principles that the ECCLR Committee should consider when exploring the issue of funding for land
+
+management. This task, and the witnesses that gave evidence to the jury, were determined by the
+
+steering group made up of land management and natural environment external experts. The jurors
+
+were guided and supported through the weekend activities by a team of five facilitators from the
+
+Parliament. A critical thinking session was delivered by a political scientist to stimulate the jurors to
+
+consider what makes good evidence. An academic lead provided background information about the
+
+topic and answered technical questions throughout the weekend. The jurors were also supported by
+
+a range of expert witnesses, including academics, land managers, and Government authorities in a
+
+variety of small group and plenary evidence and questions and answer sessions throughout Saturday
+
+and Sunday morning. In all these respects the CJ met standards of best practice (Roberts et al. 2020).
+
+Sunday afternoon was spent deliberating to reach consensus on the principles. These, as well as more
+
+information about the process, can be found in the Scottish Parliament report (Committee
+
+Engagement Unit, 2019a).
+
+The CPs on the future of primary care were held in three locations: Cambuslang, Dunfermline, and
+
+Inverurie, representing the west, east and north of Scotland. They were conducted over two Saturdays
+
+in each location in April to June 2019. The CPs aimed to address the question: What should primary
+
+care look like for the next generation? 2,500 Scottish households were randomly selected to register
+
+7
+
+their interest in participating in the CPs. Stratified sampling was then used to invite a representative
+
+sample of 35 participants (9 in Cambuslang, 14 in Dunfermline, and 11 in Inverurie). On the first day
+
+of the CP, the participants had the opportunity to learn about the domain of primary care and current
+
+policies. An expert witness and a researcher from the Scottish Parliament Information Centre (SPICe)
+
+provided information about the range of primary care services, funding, health and social care
+
+integration, and the Scottish Government’s vision for the future of primary care, as well as alternative
+
+ways of administrating primary health care (e.g. centralization of administrative tasks for GPs). The
+
+second day of the CPs was focused on small-group discussions. MSPs from the H&S Committee
+
+participated in some of the discussions. The participants were tasked to consider future services that
+
+could address community health and social care needs. They agreed on priority themes and questions
+
+that they would like to feed into the next phase of the committee’s inquiry. While each panel came
+
+up with its own themes and priorities, common themes and priorities were identified by the
+
+organizers, and reported in the Scottish Parliament report (Committee Engagement Unit, 2019b).
+
+A Mixed Method Study
+
+This study takes a mixed methods approach. Qualitative and quantitative data was obtained from four
+
+sources: surveys, interviews, ethnography and secondary data sources. The quantitative and
+
+qualitative data from these four sources was generated simultaneously to enable an assessment of
+
+the different evaluation criteria (Teddlie & Tashakkori, 2009). This parallel approach has been found
+
+to be particularly suitable for research on mini-publics, where multidimensional lines of inquiry are
+
+required (Escobar & Thompson, 2019). The parallel use of surveys, interviews, ethnography and
+
+secondary sources in this study provides triangulation, which ensures a robust assessment of each of
+
+the evaluation criteria. Each data source is described briefly below.
+
+Surveys
+
+We asked the participants of both the CJ on land management and the natural environment and CPs
+
+on primary care to complete surveys about themselves and their experiences as participants. For both
+
+mini-publics, the participant surveys were issued twice: a pre-survey at the start of the process (which
+
+acted as a baseline), and a post-survey that participants completed at the end of the process. This
+
+enabled us to conduct panel analysis to determine individual changes in views and knowledge over
+
+the process (Finkel, 1995).
+
+8
+
+The surveys were voluntary and anonymous.2 In the CJ on land management, 20 of the 21 jurors
+
+responded to the surveys and in the CPs on primary care, 34 of the 35 panellists responded. The
+
+participant surveys comprised a range of closed questions, including demographic information,
+
+knowledge and views on the topic of discussion (i.e. primary care or the environment and land use);
+
+knowledge and views of politics and government; and participatory habits. In the post survey the
+
+participants were also asked about their experience of participating in the mini-public. The
+
+quantitative data collected was analysed to assess participant diversity, participant learning, quality
+
+of the deliberation, and the effect of participation on the participants’ internal and external efficacy.
+
+In the CJ on land management, the expert witnesses completed a survey about their experience of
+
+being an expert witness. Their survey comprised a combination of closed and open questions, and was
+
+conducted online a few months after the end of the CJ. The survey was voluntary and anonymous. 6
+
+out of 11 expert witnesses completed the survey. The data obtained from the surveys was analysed
+
+to assess the following aspects of the research question: participant diversity; participant learning;
+
+quality of the deliberation; and participant efficacy.
+
+Interviews
+
+interviews were undertaken with members and staff of the respective committees and SPICe that
+
+contributed to the organisation and management of both mini-publics and the one expert witness for
+
+the CPs on primary care. 13 interviews were conducted in total, 5 from the land use and natural
+
+environment CJ and 7 from the primary care CP in 2019 after the completion of the mini-publics.
+
+Interviewees were asked about their experience of the specific case they were involved in, but also
+
+mini-publics and public engagement in parliament in general. The interviews were semi-structured,
+
+recorded and transcribed. A staged hybrid approach to thematic analysis was adopted whereby codes
+
+were deductively and inductively determined (Fereday & Muir-Cochrane, 2006; Swain, 2018) to
+
+address the following aspects of the research question, specifically; participant diversity; quality of the
+
+deliberations; participant learning; and the impact of the mini-publics on the parliamentary
+
+committees.
+
+Ethnography
+
+A member of the research team attended and observed both mini-publics. They were present for the
+
+whole weekend of the CJ on land management. The three Citizens’ Panels were held over two
+
+2 Each participant was issued with an anonymous ID code to use in both the pre and post surveys to enable us to compare results between survey without breaking their anonymity.
+
+9
+
+weekends at three locations. A researcher attended both weekends for one of the locations. Key
+
+observations, guided by a deductively designed observation protocol, were recorded in a field diary.
+
+We thematically analysed this qualitative data to triangulate and add depth to the evaluation of the
+
+following aspects of the research questions: participant diversity; participant learning; quality of
+
+deliberation; and the impact of the mini-publics on the parliamentary committees.
+
+Secondary data sources
+
+The CPs on primary care were discussed by the H&S Committee at their meeting held on 27 October
+
+2019. The meeting was attended by 7 of the panellists as well as committee members. We used the
+
+published minutes of the committee meeting (The Scottish Parliament, 2019) as a source of secondary
+
+data to supplement our analysis of the impact of the CPs on the Committee.
+
+Analysis of the Scottish Parliament’s Mini-Publics
+
+In this section we move to consider the extent the Scottish Parliament’s mini-publics achieved the
+
+above listed evaluation criteria. We address each of these in turn.
+
+Participant Diversity
+
+The surveys carried out with participants reveal that the Scottish mini-publics consisted of a diverse
+
+group of citizens. Key descriptive statistics are displayed in Table 1. As this table shows, both the CJ
+
+and the CPs included a quite equal number of women and men, and participants from different ages.
+
+This is unsurprising as these were criteria on which participants were stratified. Further, and in regard
+
+to political views, all parties in the Scottish Parliament had sympathizers both in the CJ and the CP,
+
+despite this not being stratified on this criteria. Apart from a few exceptions, the party identification
+
+of the participants was similar to the party vote share in the Scottish Parliament Election 2016 (see
+
+Appendix Table A1).
+
+Previous research has found that education and income are positively correlated with political
+
+participation (e.g. Verba et al., 1995). Thus, there is a risk that high-income and highly educated
+
+individuals are overrepresented in forums such as mini-publics. This does not seem to have been the
+
+case in these mini-publics. Table 1 shows that more than half of the participants reported a household
+
+income lower than £500 per week. Further, participants with a university degree only made up 30%
+
+of the mini-publics. These numbers demonstrate that those less likely to engage politically were
+
+included. This is supported by a survey question on participatory habits. Responses are displayed in
+
+Table 1, and shows that most of the participants in the mini-publics had not worked in a political
+
+10
+
+party/action group, contacted a politician/government official, or posted political content on social
+
+media during the last 12 months.
+
+INSERT TABLE 1 APPROXIMATELY HERE.
+
+The diversity of the mini-publics was confirmed, and appreciated, by parliamentary staff and
+
+committee members. They expressed that the land management CJ reached out to ‘people who would
+
+not normally engage or be relatively quiet’ (CJ Interviewee 3), and that the CP on primary health care
+
+included perspectives from those ‘that had never really engaged with parliament before’ (CP
+
+Interviewee 4). Further, the committee members and staff expressed an advantage of hearing from
+
+individuals who only have the public interest in mind, and who are the typical recipients of decisions.
+
+They stated that the mini-publics made it possible to reach beyond those who ‘obviously have an
+
+agenda’ (CJ Interviewee 3), to those ‘who have got no ulterior motives’ (CP Interviewee 1) and for
+
+whom ‘it [the topic] would impact on the ground’ (CJ Interviewee 2).
+
+Participant Learning
+
+The pre deliberation questionnaires show that most participants had limited information about the
+
+topic at hand prior to the events. 74% of the CJ participants, and 62% of the CP participants, reported
+
+that they had read or heard nothing or only a little about land management/primary care in
+
+newspapers, tv, radio or internet. Further, 79% of the CJ participants, and 50% of the CP participants,
+
+reported that they had no, or little, previous experience of discussing land management/primary care
+
+with family, friends and co-workers.
+
+The mini-publics were designed to contribute information from different sources, and through
+
+different modes of communication. The post-deliberation survey shows that this was an effective
+
+strategy. As can be seen in Table 2, a vast majority of the participants in both the CJ and CP responded
+
+that they learned considerably, or a great deal, from the expert witness presentations, the group work
+
+following each presentation, the question and answer sessions, and conversations with other
+
+participants during the breaks. Table 2 also shows that the participants were satisfied with the amount
+
+and complexity of the information provided. 87% of the participants in the two mini-publics (46/53)
+
+agreed that they had received enough information to participate effectively, and 94% (50/53) agreed
+
+that they had understood almost everything presented by the speakers. When asked to consider the
+
+overall experience of the mini-public, 92% of the participants of the two mini-publics (49/53) reported
+
+that they had learned a lot about land use and primary care, respectively.
+
+11
+
+INSERT TABLE 2 APPROXIMATELY HERE.
+
+The self-reported knowledge gain is confirmed by an objective knowledge measure consisting of
+
+multiple-choice questions on the topic of the mini-public. These questions were included in both the
+
+pre and post deliberation questionnaires. Results are shown in Appendix Table A2 and A3. A
+
+comparison between the two questionnaires among the participants in the CJ shows that the average
+
+score of correct answers to the questions on land use increased from 21% to 38%. This increase is
+
+statistically significant at the 5% level. The change in average score of correct answers to questions on
+
+primary health care among the participants of the CP was not as large. This estimate increased from
+
+18% to 27% and is not statistically significant. The reason for this difference could be that the CJ
+
+questionnaire included five knowledge questions, while the CP questionnaire only included three.3
+
+Given that the questions that measured subject knowledge were quite specific, the larger amount of
+
+knowledge questions in the CJ questionnaire may have increased the likelihood of registering an
+
+increased level of knowledge.
+
+The content of the information provided is also important in the process of forming considered
+
+opinions. As in most mini-publics, the experts in the CP and CJ were selected by the organizers,
+
+including the steering group in the CJ case. These choices are very likely to affect the type of
+
+information the participants access, process, and use. While the CJ was visited by a range of experts,
+
+the CP only invited one. Most of the information in the CP was instead delivered by SPICe. The
+
+committee members and staff stated neutrality as the reason for not inviting more experts to the CP.
+
+CP Interviewee 8 stated that ‘what they’re [SPICe] giving you, they give entirely without agenda’.
+
+Similarly, CP interviewee 7 expressed that ‘what we were after was not expert or informed opinion or
+
+vested interests….. you didn't, in my view, need expert opinion… didn't want the evidence from the
+
+public to reflect the views of GPs, for example’. As a consequence of this position, the participants in
+
+the CP were not as exposed to the diversity of perspectives on the issue as the participants in the CJ.
+
+Thus, they were to a greater extent dependent on the Government's own vision as a reference point
+
+for processing and using the facts and statistics provided.
+
+Deliberative Quality
+
+We analysed quantitative data from the participant surveys taken at the end of both mini-publics to
+
+evaluate the deliberations. This data is supplemented by qualitative data from the parliamentary
+
+3 Some of these questions were cut at the request of Health and Sport Committee staff.
+
+12
+
+interviews and our field observations, as well as survey data collected from the expert witnesses.
+
+There are limitations to subjective assessments of deliberative quality due to social desirability bias.
+
+However, recordings of the group discussions were not available to conduct more objective content
+
+analysis tests. Also, subjective assessments are still a recognised method for assessing deliberative
+
+quality (Caluwaerts and Reuchamps, 2014). Our results are still triangulated as we have multiple
+
+sources of subjective assessment of deliberative quality.
+
+The participants of each mini-public were asked about their experience and the process. At the end of
+
+the CJ all the jurors agreed, or strongly agreed, that others respected their views and that they had an
+
+opportunity to express their views. Similarly, at the end of the three CPs all the panellists agreed, or
+
+strongly agreed, that they had an opportunity to express their views. Most of the panellists (26) felt
+
+that others respected their views; the remainder (5) neither agreed nor disagreed. These results
+
+indicate that each process was inclusive, that the participants’ views were heard, and that the
+
+discussions were mostly respectful.
+
+These results were supported by the expert witnesses and researcher’s observations. At the end of
+
+the CJ the expert witnesses all agreed, or strongly agreed, that the facilitation was fair, and the debate
+
+was reasoned and focused (except 1 ‘don’t know’). The researcher’s observations of the CJ also noted
+
+that facilitators frequently encouraged quieter members to contribute, and at the Dunfermline CP the
+
+researcher observed that some panellists sharing personal experiences, indicating a safe and
+
+respectful space was created.
+
+Although, overall, each mini public was inclusive and respectful, there was evidence that some of the
+
+participants tried to dominate discussions. The results of the participant survey at the end of the CPs
+
+show that 9 panellists agreed, or strongly agreed, other participants had dominated discussions. The
+
+researcher’s observations from the Dunfermline panel supported this, noting that one of the panellists
+
+tried to dominate, however, the researcher did note that this was managed by the facilitators and did
+
+not impede others from contributing. Additionally, the researcher observed facilitators encouraging
+
+quieter panellists to contribute. During the CJ the researcher’s observations also noted that a few
+
+voices dominated the plenary session where jurors were agreeing the recommendations, and that 7
+
+of the jurors did not speak. The researcher’s observations noted that as the plenary session progressed
+
+the facilitators intervened less, and several jurors spoke at once; one juror was heard saying:
+
+‘everyone’s talking over each other’. As a result, it is also less clear if deliberative norms were fulfilled
+
+during the crucial deliberative phase leading up to decision-making, which affected the extent the
+
+13
+
+participants felt they agreed to, and influenced, the proposed recommendations. Figures 1 and 2 show
+
+that although most (95%) of the jurors agreed, or strongly agreed, with the proposed
+
+recommendations the jurors were less sure that they had influenced the recommendations. Almost
+
+half (45%) of the jurors neither agreed, or disagreed, that they had influenced the final
+
+recommendations. This indicates that the facilitation was inconsistent and could have been improved
+
+so that jurors felt they had influenced the process more equally.
+
+INSERT FIGURE 1 APPROXIMATELY HERE.
+
+Likewise, during the CPs, the deliberative process leading up to proposing recommendations (on the
+
+second day) adherence to deliberative norms was less adequate. The participant survey revealed that
+
+only 24 of the 35 (75%) panellists agreed, or strongly agreed, with the proposed recommendations,
+
+and only 21 (64%) panellists agreed or strongly agreed that they had influenced the recommendations
+
+(see figures 1 and 2). The parliamentary interviews indicate that the proposed recommendations were
+
+influenced by the presence and participation of MSPs. CP interviewee 2 revealed that contributions
+
+from the MSPs that ‘hadn’t come from any discussion… at any of the tables’ were included. The
+
+researcher observations from the Dunfermline panel confirmed that participants were highly
+
+receptive to statements made by MSPs. Thus, our findings confirm those from other studies on mini publics that have combined participation from members of the public with members of parliament
+
+that the professional politicians tend to lead the discussion and thereby lower the overall deliberative
+
+quality (Flinders et al., 2016; Farrell et al., 2020).
+
+INSERT FIGURE 2 APPROXIMATELY HERE.
+
+The interviews with parliamentary staff and researcher’s observations indicate that the deliberative
+
+quality was also adversely impacted by time constraints. The Researcher’s observations indicated that
+
+the deliberative phase was too short. CJ Interviewee 3 confirmed that ‘the deliberative part… was too
+
+short’ and they ‘didn’t have time to debate’.
+
+Efficacy
+
+We asked the participants how confident they are in their own ability to participate in politics (internal
+
+efficacy), how much they believe politicians care about what people like them think (external efficacy),
+
+14
+
+and to what extent they believe people elected to the Scottish Parliament are out of touch with
+
+Scottish citizens.
+
+As Figure 3 shows, there are no apparent differences pre and post deliberation in perceptions of
+
+whether MSPs are in touch with citizens, not even in the case of the CPs where MSPs participated in
+
+parts of the discussions. However, levels of external efficacy among the participants increased by 26%
+
+in both the CP and the CJ. These increases are statistically significant at the 5% level. The fact that
+
+opinions on whether MSPs are out of touch with citizens remain unchanged, while perceptions that
+
+politicians care about what ordinary people believe increase may seem contradictory at first glance.
+
+However, it is perfectly logical to increase the perception that politicians care about people’s opinions
+
+without believing to a greater extent that they are aware of ordinary people's living conditions.
+
+A high level of external efficacy was also observed among the CP participants who attended a H&S
+
+Committee meeting that was held after the CP. In interviews after the committee meeting, Panellist 2
+
+stated that the fact ‘that some of the things we have discussed have been brought to the table for
+
+possible implementation makes me feel very good about the whole process’. Panellist 3 expressed
+
+that ‘being involved has made me feel as if the Scottish Parliament is a parliament for me’. However,
+
+we note that only seven of 35 panellists attended the H&S Committee meeting. Attendance was
+
+through self-selection and therefore these may have been participants who had a high political
+
+efficacy prior to participating in the panels.
+
+Moving on to internal efficiency, Figure 3 shows that this variable increased by 12% among the jurors
+
+deliberating on land use, and 7% among the panellists deliberating on primary health care. These
+
+estimates are not as large as for external efficacy, and not statistically significant at the 5% level.
+
+However, we observe a similar increase in the reported level of comfortability to voice political
+
+opinions in political discussions (see Appendix table A4). A comparison between the pre and post
+
+surveys shows that this variable increases by 17% among participants in the CJ and 6% among those
+
+in the CP. As the question about feeling comfortable when voicing political opinions in political
+
+discussion can be regarded as a ‘situation-specific’ measure of internal political efficacy (Morell 2005),
+
+the fact that there is a similar increase in situation-specific and general internal efficacy indicates that
+
+an increase in internal efficacy occurred as a result of the deliberation. However, we cannot be certain
+
+as none of the estimates for internal efficacy are significantly different from zero.
+
+INSERT FIGURE 3 APPROXIMATELY HERE.
+
+15
+
+Influence on the Committee
+
+We analysed qualitative data from the interviews with parliamentary staff and members, as well as
+
+the minutes of the H&S Committee meeting held on 27 October 2019 (The Scottish Parliament, 2019),
+
+to evaluate the influence of the mini-publics on their commissioning parliamentary committees.
+
+The data indicates the extent the mini-publics influenced the committees was variable. The
+
+interviewees considered that the committee members valued and absorbed the participants’
+
+contributions which was changing the nature of the deliberation amongst the committee members:
+
+‘there’s definitely a couple of MSPs that have actually brought up…. the public panels and what was
+
+said …… in our formal committee meetings. So, they’ve very much taken that on board’ (CP
+
+Interviewee 3). Interestingly, CP interviewee 1 stated that the CPs had ‘changed the conversation in
+
+terms of the health boards, and the GPs…..and how they engage with the public…to the extent that
+
+they won't just blindly accept what the professionals tell them’. This indicates a change in attitude
+
+towards the value of expert and stakeholder evidence, specifically on this inquiry (e.g. from the ‘health
+
+board’ and ‘GPs’), which could have affected the course of the inquiry.
+
+The extent each mini-public influenced their respective commissioning committee depended on their
+
+design and institutional link. The H&S Committee commissioned the CPs on primary care to feed into
+
+a live inquiry. This institutional integration (Davidson & Stark, 2011) provided opportunities for the
+
+CPs to directly influence the work of the H&S committee. This influence was demonstrated to the
+
+seven panellists who attended a H&S committee meeting on 19th November 2019 where they heard
+
+the committee discuss the panels and the resulting recommendations. However, the committee
+
+report has yet to be published. So the extent of influence remains to be seen. Also, to date, the CJ on
+
+land use has had limited discernible influence on the ECCLR committee outputs. However, some
+
+research has been commissioned based on the CJ recommendations which shows promise of influence
+
+to come.
+
+The findings from the analysis of the interviews indicated a number of reasons as to why the mini publics might have influenced the committees. Recommendations from the mini-publics were
+
+considered to carry more value than those from vested interests, because there was less bias. This in
+
+turn could lead to greater committee influence over government: ‘you have a bit more of an evidence
+
+base to argue against the government, than you would have if you just had a stakeholder making that
+
+claim’ (CJ interviewee 3). Indeed, the hope that the mini-publics would increase the committees’
+
+16
+
+influence on government was a significant factor: ‘if the government can see all the things that come
+
+back from public panels, maybe they’ll take notice and make changes because it’s the people out there
+
+that are the voters’ (CP interviewee 4). CJ interviewee 3 agreed, noting that mini-publics give ‘more
+
+strength to the committee, pushing the government to scrutinise legislation effectively’ (CJ
+
+interviewee 3). As a result committee members claimed they find it difficult to ignore the mini-public
+
+recommendations and hope the government would too: ‘there’s something really powerful about the
+
+public saying something as opposed to…. individual stakeholders saying something. I think if you have
+
+a public consensus on something it’s much harder to ignore that, I think there’s some real weight in
+
+that’ (CJ Interviewee 1). In order to receive this executive influence, the committee would need to, at
+
+the very least, make it appear that the mini-public had influenced them. These instrumental reasons
+
+for valuing mini-publics were very similar to those identified across the committee system in House of
+
+Commons (Beswick & Elstub, 2019).
+
+Despite the potential of increased executive leverage, the interviewees indicated that the committee
+
+members were also nervous about the use of mini-publics and particularly affording them influence.
+
+Firstly, because the quality of the outcomes of mini-publics are unknown: ‘you go into this not knowing
+
+what the value of what you get out will be. Will it be useful? Will it be deliverable?’ (CP interviewee
+
+1). Considering that members ‘think it [the recommendations] compels them to do something’ (CJ
+
+interviewee 1) this unpredictability increased members’ concern. Secondly, and of a more
+
+fundamental threat to the prospect of further democratic innovation in the Scottish Parliament, the
+
+interviewees were also worried that the mini-publics could undermine the legitimacy of parliament:
+
+‘if we recognise that our representatives in parliament…… are there to represent the population, why
+
+are we undermining that process by having separate panels of individuals?’ (CP interviewee 2) and it
+
+is MSPs that ‘they have been elected to make decisions’ (CJ interviewee 1). This suggests that the
+
+frictions from trying to combine representative and deliberative models of democracy, that led to the
+
+end of previous democratic innovations in the Scottish Parliament (Davidson et al., 2011; Davidson &
+
+Stark, 2011; McLaverty & Macleod, 2012), are still present.
+
+Conclusion
+
+The Scottish Parliament has piloted two committee commissioned mini-publics in an attempt to bring
+
+democratic innovation to parliament. The results of our mixed-method research project indicate that
+
+both cases achieved many of the hopes of the Reform Commission (2017), that recommended their
+
+use, as well as many of the standard criteria mini-publics are expected to meet. Diverse samples of
+
+the population were assembled. The provision of information and evidence enabled the participants
+
+17
+
+to become more knowledgeable about the issues. Their discussions were facilitated in a manner
+
+largely commensurate with deliberative norms. This is impressive as these cases were the first to be
+
+organised directly by a parliament anywhere in the world.
+
+Internal and external efficacy of the participants did increase, however, the cases received so little
+
+publicity it is unlikely trust in parliament grew across the Scottish public as a result of these mini publics. However, it remains to be seen the extent these mini-publics have influenced the committees,
+
+despite some promising signals. Without at least some influence, these cases do not mark much
+
+progress in democratic innovation. Also concerning is that some MSPs and parliamentary staff see the
+
+mini-publics as a threat to, rather than an enhancement of, representative democracy. It was for
+
+precisely this reason that previous attempts to inject participatory and deliberative practice into
+
+Holyrood proved unsustainable (Davidson et al., 2011; Davidson & Stark, 2011; McLaverty & Macleod,
+
+2012). Ultimately, there was a clash of democratic cultures. Moreover, the committee system, and its
+
+various initiatives is unlikely to be a priority for many parties and MSPs who might see it as a distraction
+
+from their ‘real work.’4
+
+Despite this, we see three reasons for optimism. Firstly, the cases analysed in this paper were pilots.
+
+When new practices are introduced into an established institution, it is unsurprising that they meet
+
+some resistance. It is likely that the more the committees use mini-publics to support their work, the
+
+more they will be accepted. Secondly, in the early days of the Scottish parliament, the attempts at
+
+democratic innovation were rather unambitious from a participatory and deliberative democracy
+
+perspective (Davidson et al., 2011; Davidson & Stark, 2011; McLaverty & Macleod, 2012). While there
+
+were numerous events they did not meet the high standards of mini-publics. The fact that the two
+
+cases analysed here do, indicates that Holyrood’s commitment to democratic innovation could be
+
+greater than before, and that parliamentary culture is already starting to change to be more hospitable
+
+to participatory and deliberative values. Thirdly, more and more parliaments are using mini-publics.
+
+Every UK parliament has commissioned at least one (Involve, 2018; Involve, 2019a; Involve, 2019b).
+
+There are also some very ambitious cases of parliamentary mini-publics emerging elsewhere in the
+
+world (Niessen and Reuchamps, 2019). The Scottish Government have run two citizens’ assemblies in
+
+2020 on the future of Scotland, and climate change and made a manifesto pledge to do one annually.
+
+In recent years, numerous citizens’ assemblies have been held across the UK. The point being, if the
+
+Scottish Parliament’s latest foray into democratic innovation is as unsuccessful as its last, this will look
+
+worse now in the current environment where mini-publics are becoming increasingly common-place.
+
+4 We are grateful to the anonymous Scottish Affairs referee for this pertinent point.
+
+18
+
+Going forward, we believe that there are three key measures parliaments can adopt to make the use
+
+of mini-publics more sustainable and permanent. Firstly, training about the logic, rationale and
+
+practice of mini-publics should be made available to all committee staff; particularly Clerks and
+
+Assistant Clerks. One of the issues with embedding the CJ into the ECCLR Committee’s work was the
+
+novelty of the process. As they testified in the interviews, this meant their was uncertainty about what
+
+could be realistically delivered by a mini-public. Training could realign Committee expectations with
+
+achievable outcomes. The Committee Clerks are also best placed to inform Committee Convenors and
+
+members about this option for public engagement that is now available to the Scottish Parliament.
+
+Training would give them the resource to do this. Furthermore, it would mean awareness and
+
+understanding of mini-publics, and how they can be useful for committee inquiries, would become
+
+prevalent across the committee system, meaning that requests to CEU for this type of public
+
+engagement would be based on a better understanding of the advantages and limitations of the
+
+process.
+
+Secondly, a Review Group could be set up that holds and administers an annual budget for
+
+parliamentary mini-publics. Not all committee inquiries will be suitable for a mini-public and there will
+
+inevitably be a limited budget in parliament to fund them. As with the training, it would be a clear
+
+commitment to using mini-publics on a permanent basis. The Review Group could include members
+
+and parliamentary staff (not connected to any particular committee), academics with expertise on
+
+mini-publics, and/ or practitioners with experience of organising them and a representative from the
+
+citizen engagement team. Committees who would like to support their inquiries with a mini-public
+
+could then apply for funding to the Review Group. The requirement to apply would help ensure that
+
+there was the necessary commitment to considering the results of a mini-public as part of the inquiry
+
+and give the committee the opportunity to demonstrate cross party support for the forum. This would
+
+increase the chances of the mini-publics having influence on the committee and make best use of
+
+available budgets for mini-publics.
+
+Thirdly, the Scottish Parliament must publicise future mini-publics. Without this publicity there is little
+
+opportunity for the public to be aware of the Scottish Parliament’s use of mini-publics. Consequently,
+
+public trust in parliament cannot be raised, the government will not feel as much pressure to heed
+
+the parliamentary committee’s recommendations and debate, knowledge, and understanding of the
+
+issues under consideration will not be enhanced within the broader public. The Scottish Parliament
+
+19
+
+has a well- resourced and skilled communications team (as do most legislatures) that could be utilised.
+
+Taking this step also shows a greater commitment from the parliament to the use of mini-publics.
+
+Shephard (2019) notes it is easier for parliament to improve its record on public engagement than it
+
+is to address more partisan issues of power-sharing and consensual politics, that were also part of the
+
+‘new politics’ vision of its founders. This may be the case, but it does not mean better public
+
+engagement is not important and something that parliament should be taking seriously. In addition,
+
+improved public engagement could bolster an institutional discourse in which other parts of the ‘new
+
+politics’ vision become more prominent in the parliamentary agenda. It is hard to imagine Holyrood
+
+succeeding in being more deliberative and participatory without mini-publics being part of that
+
+strategy. It’s recent foray into this field has been promising, but this now needs to be backed up with
+
+more resources and greater institutional long-term commitment.
+
+References
+
+Arter, D. (2004). The Scottish Committees and the Goal of a “New Politics”: A Verdict on the First
+
+Four Years of the Devolved Scottish Parliament. Journal of Contemporary European Studies, Vol.
+
+12(1), 71-91.
+
+Beswick, D. and Elstub, S. (2019). Between Diversity, Representation and “Best Evidence”: Rethinking
+
+Select Committee Evidence-Gathering Practices. Parliamentary Affairs, Vol. 72(4), 945–964.
+
+Bochel, H. and Berthier, A. (2021). Committees and witnesses in the Scottish Parliament: Beyond the
+
+‘Usual Suspects’? Scottish Affairs, Vol. 30(3), 337-354.
+
+Böker, M. and Elstub, S. (2015). The Possibility of Critical Mini-Publics: Realpolitik and Normative
+
+Cycles in Democratic Theory. Representation, Vol. 51(1), 125-144.
+
+Boulianne, S., Chen, K. and Kahane, D. (2020). Mobilizing mini-publics: The causal impact of
+
+deliberation on civic engagement using panel data. Politics,
+
+https://doi.org/10.1177/0263395720902982.
+
+Caluwaerts, D. and Reuchamps, M. (2014). Does intergroup deliberation lead to intergroup
+
+appreciation? Evidence from two deliberative experiments in Belgium. Politics, Vol. 34(2), 101-115.
+
+Committee Engagement Unit (2019a). Scottish Parliament Citizens’ Jury on Land Management and the
+
+Natural Environment. Edinburgh: Scottish Parliament.
+
+Committee Engagement Unit (2019b). Report to the Health & Sport Committee from the Primary Care
+
+Public Panels. Edinburgh: Scottish Parliament.
+
+Commission on Parliamentary Reform (2017). Report on the Scottish Parliament. Edinburgh:
+
+Commission on Parliamentary Reform.
+
+20
+
+Davidson, S., Stark, A., and Heggie, G. (2011). Best laid plans: The institutionalisation of public
+
+deliberation in Scotland. Political Quarterly, Vol. 82(3), 379-388.
+
+Davidson, S. and Stark, A. (2011). Institutionalising public deliberation: Insights from the Scottish
+
+Parliament. British Politics, Vol. 6 (2), 155-186.
+
+Elstub, S. (2014). Mini-publics: Issues and Cases. In Elstub, S. & McLaverty, P. (eds.) Deliberative
+
+Democracy: Issues and Cases. Edinburgh: Edinburgh University Press.
+
+Elstub, S. and Escobar, O. (2019). Defining and typologising democratic innovations. In Elstub, S. &
+
+Escobar, O. (eds.) The Handbook of Democratic Innovation and Governance, pp. 11-31. Cheltenham,
+
+UK; Northampton, MA, USA: Edward Elgar.
+
+Elstub, S. and Pomatto, G. (2018). Mini-Publics and Deliberative Constitutionalism. In King, J., Kong, H.
+
+and Levy, R. (eds.) The Cambridge Handbook of Deliberative Constitutionalism. Cambridge: Cambridge
+
+University Press.
+
+Escobar, O. and Thompson, A. (2019). Mixed methods research in democratic innovation. In Elstub, S.
+
+and Escobar, O. (eds) The Handbook of Democratic Innovation and Governance, pp. 501–514.
+
+Cheltenham UK and Northampton, MA USA: Edward Elgar,
+
+Fan, M.F. (2013). Evaluating the 2008 consensus conference on genetically modified foods in
+
+Taiwan. Public Understanding of Science, Vol. 24(5), 533-546.
+
+Farrell, D.M., Suiter, J., Harris, C., and Cunningham, K. (2020). The Effects of Mixed Membership in a
+
+Deliberative Forum: The Irish Constitutional Convention of 2012–2014. Political Studies, Vol. 68(1), 54 73.
+
+Fereday, J., and Muir-Cochrane, E. (2006). Demonstrating rigor using thematic analysis: A hybrid
+
+approach of inductive and deductive coding and theme development. International Journal
+
+of Qualitative Methods, Vol. 5: 80-92.
+
+Finkel, S.E. (1995). Causal Analysis with Panel Data. London: Sage.
+
+Flinders, M. et al. (2016). Democracy Matters: Lessons from the 2015 Assembly on English Devolution.
+
+Sheffield: University of Sheffield.
+
+Gomm, R., Hammersley, M., and Foster, P. (eds.) (2004). Case Study Method : Key Issues, Key Texts.
+
+London: Sage.
+
+Goodin, R.E. and Dryzek, J.S. (2006). Deliberative impacts: the macro-political uptake of minipublics.
+
+Politics & Society, Vol. 34 (2), 219 –44.
+
+Halpin, D., MacLeod, I. and McLaverty, P. (2012). Committee Hearings of the Scottish Parliament:
+
+Evidence-Giving and Policy Learning. Journal of Legislative Studies, Vol. 18 (1), 1-20.
+
+21
+
+Harris, C. (2019). Deliberative Mini-publics: Defining and Designing. In Elstub, S. and Escobar, O. (eds.)
+
+The Handbook of Democratic Innovation and Governance. Cheltenham UK and Northampton, MA USA:
+
+Edward Elgar.
+
+Hassan, G. (2019). Introduction. In G. Hassan (ed.) The Story of the Scottish Parliament: The First Two
+
+Decades Explained. Edinburgh: Edinburgh University Press.
+
+Hendriks, C.M. (2016). Coupling Citizens and Elites in Deliberative Systems: the Role of Institutional
+
+Design. European Journal of Political Research, Vol. 55 (1), 43-60.
+
+Hendriks, C. M. and Kay, A. (2019). From “Opening Up” to Democratic Renewal: Deepening Public
+
+Engagement in Legislative Committees. Government and Opposition, Vol. 54(1), 25–51.
+
+Hendriks, C. M., Regan, S. and Kay, A. (2019). Participatory Adaptation in Contemporary Parliamentary
+
+Committees in Australia. Parliamentary Affairs, Vol. 72(2), 267–289.
+
+Himmelroos, S. (2017). Discourse quality in deliberative citizen forums: A comparison of four
+
+deliberative mini-publics. Journal of Public Deliberation, Vol. 13(1), Article 3.
+
+Involve (2018). Citizens’ Assembly on Social Care: Recommendations for Funding Adult Social Care.
+
+London: Involve.
+
+Involve (2019a). Recommendations For Reforming Social Care For Older People From The First Citizens’
+
+Assembly For Northern Ireland. London: Involve.
+
+Involve (2019b). National Assembly For Wales -Citizens’ Assembly. London: Involve.
+
+McLaverty, P. and MacLeod, I. (2012). Civic Participation in the Scottish Parliament Committees.
+
+International Journal of Public Administration, Vol. 35(7), 458-470.
+
+Mitchell, J. (2010). Narcissism of Small Differences: Scotland and Westminster. Parliamentary Affairs,
+
+Vol. 63(1), 98-116.
+
+Morrell, M.E. (2005). Deliberation, Democratic Decision-Making and Internal Political Efficacy.
+
+Political Behavior, Vol. 27(1), 49-69.
+
+Nabatchi, T. (2010). Deliberative democracy and citizenship: In search of the efficacy effect. Journal
+
+of Public Deliberation, Vol. 6(2), 8.
+
+Niessen, C. and Reuchamps, M. (2019). Designing A Permanent Deliberative Citizens’ Assembly: The
+
+Ostbelgien Model In Belgium. Canberra: The Centre for Deliberative Democracy & Global
+
+Governance.
+
+Roberts, J. J., Lightbody, R., Low, R., and Elstub, S. (2020). Deliberating Evidence in Deliberation:
+
+Scrutinising the Role of Witnesses and Evidence in Mini-Publics, a Case Study. Policy Sciences, Vol.
+
+53, 3–32.
+
+22
+
+Ryan, M., and Smith, G. (2014). Defining mini-publics. In K. Gronlund, A. Bachtiger, & M. Setala
+
+(eds.), Deliberative Mini-publics: Involving Citizens in the Democratic Process, pp. 9-26. Colchester,
+
+GB: ECPR Press.
+
+Setälä, M. (2017). Connecting Deliberative Mini-publics to Representative Decision Making.
+
+European Journal of Political Research, Vol. 56, 846–863.
+
+Shephard, M. (2019). The Committee System of the Scottish Parliament. In G. Hassan (ed.) The Story
+
+of the Scottish Parliament: The First Two Decades Explained. Edinburgh: Edinburgh University Press.
+
+Smith, G. and Setälä, M. (2018). Mini-Publics and Deliberative Democracy. In Bachtiger, A. et al.
+
+(eds.) The Oxford Handbook of Deliberative Democracy. Oxford: Oxford University Press.
+
+ST Denny, E. (2019). The Scottish Parliament and “New Politics” at Twenty. In G. Hassan (ed.) The Story
+
+of the Scottish Parliament: The First Two Decades Explained. Edinburgh: Edinburgh University Press.
+
+Steiner, J., A. Bächtiger, M. Spörndli and M. Steenbergen (2004). Deliberative Politics in Action:
+
+Analysing Parliamentary Discourse. Cambridge: Cambridge University Press.
+
+Swain, J. (2018). A Hybrid Approach to Thematic Analysis in Qualitative Research: Using a Practical
+
+Example. Sage research methods. doi:10.4135/9781526435477
+
+Teddlie, C. and A. Tashakkori (2009). Foundations of Mixed Methods Research: Integrating
+
+Quantitative and Qualitative Approaches in the Social and Behavioral Sciences. London: SAGE.
+
+Verba, S., Schlozman, K. L., and Brady, H. E. (1995) Voice and equality: Civic voluntarism in American
+
+politics. Cambridge, MA: Harvard University Press.
+
+Yin, R. K. (2014). Case Study Research Design and Methods. Thousand Oaks: Sage.
+
+23
+
+Tables and Figures
+
+Table 1. Composition of the mini-publics
+
+CJ CP Both
+
+Freq. % N Freq. % N Freq. % N
+
+Women 12 60 20 18 53 34 30 56 54
+
+Age <50 11 55 20 13 38 34 24 44 54
+
+Household income <£500/week 10 59 17 17 59 29 27 59 46
+
+Household income >£1000/week 2 12 17 5 17 29 7 15 46
+
+Education up to secondary school 9 45 20 10 29 34 19 35 54
+
+University degree 6 30 20 10 29 34 16 30 54
+
+Worked in political party/action group* 2 10 21 2 6 32 4 8 53
+
+Contacted politician/gov. official * 4 19 21 10 31 32 14 26 53
+
+Posted political content on social media* 8 38 21 9 29 31 17 33 52
+
+Notes: *During the last 12 months
+
+24
+
+Table 2. Self-reported knowledge gain among participants in the two mini-publics
+
+CJ CP
+
+Slightly*
+
+Moderately
+
+Considerably
+
+A great deal
+
+Total
+
+Slightly*
+
+Moderately
+
+Considerably
+
+A great deal
+
+Total
+
+Learned from the presentations
+
+0 1 10 10 21 1 6 15 8 30
+
+Learned from the group work
+
+0 4 7 10 21 0 6 16 8 30
+
+Learned from the Q&A sessions
+
+0 0 8 13 21 0 4 19 7 30
+
+Learned from conversations in breaks
+
+1 5 5 10 21 2 6 14 8 30
+
+Disagree**
+
+Neither
+
+Agree
+
+Strongly agree
+
+Total
+
+Disagree**
+
+Neither
+
+Agree
+
+Strongly agree
+
+Total
+
+Had enough information to participate effectively
+
+2 2 10 6 20 1 2 19 11 33
+
+Understood almost everything presented
+
+1 0 11 8 20 0 2 21 10 33
+
+I have learned a lot about the issue
+
+1 1 7 11 20 0 2 16 15 33
+
+Notes: *No one responded “Not at all”. **No one responded “Strongly disagree”.
+
+25
+
+0% 10% 20% 30% 40% 50% 60%
+
+Don't Know
+
+Strongly disagree
+
+Disagreed
+
+Neither agree nor disagree
+
+Agree
+
+Strongly agree
+
+Fig 1. Participants' agreement with recommendations
+
+Citizens' Panels Citizens' Jury
+
+26
+
+0% 10% 20% 30% 40% 50% 60%
+
+Don't Know
+
+Strongly disagree
+
+Disagreed
+
+Neither agree nor disagree
+
+Agree
+
+Strongly agree
+
+Fig 2. Participants' perception of having influenced the recommendations
+
+Citizens' Panels Citizens Jury
+
+27
+
+Notes: Variable were measured on a scale from 0 (strongly disagree) to 10 (strongly agree). Bars display means and standard errors for each survey. Tests of whether means in pre and post surveys are significantly different from each other are performed in Appendix Table 3.
+
+5.8
+
+4.7 5.4 6 5.9 6 5.3
+
+4.2
+
+6 5.4 5.3
+
+6.4
+
+0.00
+
+1.00
+
+2.00
+
+3.00
+
+4.00
+
+5.00
+
+6.00
+
+7.00
+
+8.00
+
+MSPs out of touch with citizens External efficacy Internal efficacy
+
+Fig 3. Levels of external and internal efficacy pre and post deliberation
+
+CJ Pre CJ Post CP Pre CP Post
+
+28
+
+Appendix
+
+Table A1. Participants’ party identification in the Citizens’ Jury and the Citizens’ Panels
+
+CJ CP Scottish Parliament 2016
+
+constituency vote share
+
+Freq. % Freq. % %
+
+Conservative and Unionist Party 3 14 8 24 22
+
+Labour Party 1 5 6 18 23
+
+Scottish Green Party 2 10 1 3 1
+
+Scottish Liberal Democrats 3 14 4 12 8
+
+Scottish National Party 12 57 13 39 47
+
+Other 0 0 1 3 1
+
+Total 21 100 33 100 100
+
+29
+
+Table A2. Mean correct answers to knowledge questions before and after the Citizens’ Jury
+
+Pre (1) Post (2) T-test
+
+N Mean/SE N Mean/SE (1)-(2)
+
+1. Percentage of population in rural areas 21 0.381 20 0.200 0.181
+
+[0.109] [0.092]
+
+2. Percentage used for agriculture 21 0.095 21 0.667 -0.571***
+
+[0.066] [0.105]
+
+3. Percentage of farm income from public funding 21 0.095 21 0.143 -0.048
+
+[0.066] [0.078]
+
+4. EU Common Agriculture Policy Funding 21 0.238 21 0.476 -0.238
+
+[0.095] [0.112]
+
+5. Percentage of forest and woodlands 21 0.238 21 0.476 -0.238
+
+[0.095] [0.112]
+
+Average score 21 0.210 20 0.380 -0.170**
+
+[0.047] [0.058]
+
+Note: The value displayed for t-tests are the differences in the means across the groups.
+
+***, **, and * indicate significance at the 1, 5, and 10 percent critical level
+
+30
+
+Table A3. Mean correct answers to knowledge questions, before and after the Citizens’ Panels
+
+Pre (1)
+
+Post (2) T-test
+
+N Mean/SE N Mean/SE (1)-(2)
+
+1. Percentage of the H&S budget spent on community care 34 0.176 33 0.303 -0.127
+
+[0.066] [0.081]
+
+2. Percentage difference in health care spending since 1999 34 0.088 33 0.061 0.028
+
+[0.049] [0.042]
+
+3. Largest group of staff in the primary care workforce 34 0.265 33 0.455 -0.190
+
+[0.077] [0.088]
+
+Average score 34 0.176 33 0.273 -0.096
+
+[0.043] [0.042]
+
+Note: The value displayed for t-tests are the differences in the means across the groups.
+
+***, **, and * indicate significance at the 1, 5, and 10 percent critical level
+
+31
+
+Table A4. Internal and external efficacy in the Citizens’ Jury and the Citizens’ Panels
+
+Pre (1) Post (2) T-test
+
+N Mean/SE N Mean/SE (1)-(2)
+
+CJ: Situation-specific internal efficacy: How comfortable do
+
+you feel when voicing your political opinion?
+
+20 2.950 21 3.429 -0.479*
+
+[0.185] [0.202]
+
+CP: Situation-specific internal efficacy: How comfortable do
+
+you feel when voicing your political opinion?
+
+32 3.250 32 3.438 -0.188
+
+[0.191] [0.179]
+
+CJ: General internal efficacy: How confident are you in your
+
+own ability to participate in politics?
+
+21 5.381 21 6.000 -0.619
+
+[0.417] [0.512]
+
+CP: General internal efficacy: How confident are you in your
+
+own ability to participate in politics?
+
+31 5.968 34 6.412 -0.444
+
+[0.416] [0.394]
+
+CJ: External efficacy: How much would you say that
+
+politicians care what people like you think?
+
+18 4.667 18 5.889 -1.222**
+
+[0.428] [0.387]
+
+CP: External efficacy: How much would you say that
+
+politicians care what people like you think?
+
+34 4.206 34 5.294 -1.088**
+
+[0.384]
+
+[0.355]
+
+CJ: To what extent are people elected to the Scottish
+
+Parliament out of touch with Scottish Citizens?
+
+18 5.833 20 6.000 -0.167
+
+32
+
+[0.506] [0.391]
+
+CP: To what extent are people elected to the Scottish
+
+Parliament out of touch with Scottish Citizens?
+
+32 5.344 33 5.394 -0.050
+
+[0.319] [0.317]
+
+Note: The value displayed for t-tests are the differences in the means across the groups.
+
+***, **, and * indicate significance at the 1, 5, and 10 percent critical level

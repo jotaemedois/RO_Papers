@@ -1,0 +1,795 @@
+Inequality of opportunities, institutional distrust, and beliefs about socio-economic outcomes in the Western Balkans
+
+Elvisa Drishti a,c,* , Idlir Duhanxhi a, Nevila Mehmetaj a,c, Drini Imami b,c, Edvin Zhllima b,c, Arjola Halluni a
+
+a University of Shkodra “Luigj Gurakuqi”, Albania b Agricultural University of Tirana, Albania c CERGE - EI, Prague, Czech Republic
+
+A R T I C L E I N F O
+
+Keywords: Inequality of opportunities Western Balkans Institutional distrust Economic outcomes
+
+A B S T R A C T
+
+This paper explores how inequality of opportunities (IOp) and institutional distrust shape beliefs about social and economic outcomes in the Western Balkans. Drawing on data from the Public Opinion Survey (2017–2021) conducted by the Regional Cooperation Council, we apply a robust multivariate regression framework to assess both the direct and interaction effects of these factors. Our findings demonstrate that higher levels of IOp are strongly associated with perceptions of social and economic unfairness, while institutional distrust amplifies these perceptions, revealing a dynamic interplay between socio-economic disparities and public confidence in institutions. The study highlights the critical need for targeted policy measures to mitigate IOp and rebuild institutional trust, which could fundamentally reshape public beliefs and foster equitable growth. Policymakers are urged to prioritise reducing socio-economic disparities and enhancing institutional transparency and accountability to promote trust and sustainable development in the region.
+
+1. Introduction
+
+All of us do not have equal talent, but all of us should have an equal opportunity to develop our talent.
+
+John F. Kennedy
+
+In the Western Balkans, perceptions of economic unfairness resonate deeply, with over 30 % of the population viewing opportunities as un­ equally distributed (World Bank, 2023). This widespread concern is not rooted in the inequality of socio-economic outcomes (i.e. labour market or general life success), but rather in the perceived inequality of op­ portunity that promotes fairness in these outcomes. When individuals believe that access to resources and chances for success are unfairly distributed due to factors beyond their control, their perceptions and beliefs of systemic unfairness are reinforced (Brock, 2020; Cojocaru, 2014). This shift in focus from inequality of outcomes to inequality opportunities profoundly influences beliefs about the fairness of eco­ nomic systems and the legitimacy of the resulting disparities (Alesina et al., 2012).
+
+Inequality of opportunity (IOp) refers to disparities in socio-economic
+
+outcomes attributable to circumstances beyond an individual’s control (Perez-Mayo, 2019; Rawls, 1971). These circumstances often limit in­ dividuals’ access to essential resources, amplifying inequities that are beyond personal effort (Lefranc et al., 2008; Roemer, 1998). These un­ controlled conditions are mostly a matter of luck and their distribution is often considered “morally arbitrary” (Rawls, 1971). Following this line of argument, the success of individuals in their entire lifespan (i.e. social and/or economic outcomes) emerges as being, on one hand determined by effort (i.e. investment in human capital, hard work, performance, etc., - factors that are within an individual’s control and responsibility), and on the other hand, circumstances, i.e. demographic (being born in a rural/urban area, ethnicity), biological endowments (gender, age) and the socio-economic origin (socio-economic status most commonly re­ flected by parental occupational status, education, and/or incom­ e/wealth) which are outside the control of the individual (Breen and Jonsson, 2005; Checchi et al., 2016; Duque et al., 2023; Marrero and Rodríguez, 2012; Palomino et al., 2019; Perez-Mayo, 2019).
+
+Beliefs about socio-economic outcomes reflect individuals’ perceptions of the fairness of the determinants of success in their socio-economic environment. These beliefs shape critical decisions, such as whether to
+
+* Correspondence to: Sheshi “Dugajte e Reja”, Faculty of Economy, University of Shkodra “Luigj Gurakuqi”, Shkoder 4001, Albania.
+
+E-mail address: elvisa.drishti@unishk.edu.al (E. Drishti).
+
+Contents lists available at ScienceDirect
+
+Regional Science Policy & Practice
+
+journal homepage: www.sciencedirect.com/journal/regional-science-policy-and-practice
+
+https://doi.org/10.1016/j.rspp.2025.100174 Received 20 March 2024; Received in revised form 1 January 2025; Accepted 2 January 2025
+
+Regional Science Policy & Practice 17 (2025) 100174
+
+Available online 4 January 2025 1757-7802/© 2025 The Author(s). Published by Elsevier B.V. on behalf of The Regional Science Association International. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).
+
+invest in education, participate in the labour market, or engage in civic activities, including voting. IOp profoundly influences these beliefs by framing the extent to which individuals perceive economic success as a result of merit, effort, or systemic unfairness. When economic outcomes are strongly determined by factors beyond individual control – the abovementioned circumstances – individuals are more likely to attribute disparities to an inherently unjust system and therefore reducing their steady-state level of effort (Alesina and Angeletos, 2005). This percep­ tion can erode trust in institutions and diminish motivation to engage in productive or civic behaviours. As Alesina et al. (2012) note, widespread beliefs in systemic unfairness can create a self-reinforcing cycle where under-investment in human capital and reduced socio-economic mobility perpetuate inequality. Thus, addressing IOp is essential not only for reducing disparities but also for reshaping public beliefs to­ wards a more equitable and meritocratic view of opportunities.
+
+Institutional distrust significantly shapes beliefs about socio-economic outcomes, particularly in contexts marked by high IOp. When in­ dividuals lack confidence in public institutions, they are more likely to view socio-economic disparities as systemic and unchangeable, further deepening perceptions of unfairness. Institutional distrust amplifies the adverse effects of IOp by diminishing the credibility of mechanisms meant to promote equality and mitigate disparities, such as transparent governance, fair judicial systems, or inclusive social policies. On the other hand, institutional trust/quality can offset the adverse effects of IOp on beliefs about economic outcomes and this way redirect them towards fair growth paths that ensure equitable opportunities and out­ comes for all segments of society (Maksimovi´c and Novakovi´c, 2020).
+
+The objective of this study is three-fold: (i) to evaluate the adverse effects of the ‘circumstances’ as a component of IOp as these are more easily measured in the available dataset. Therefore, the component of ‘efforts’ is not included; (ii) to determine whether higher levels of IOp are more likely to strengthen beliefs about unfair socio-economic out­ comes; and (iii) to examine the moderating effects of institutional distrust on IOp, generating additional adverse effects on beliefs about socio-economic outcomes.
+
+This study is based on the analyses of 2017–2021 waves of the Public Opinion Survey for the Western Balkans (Albania, Bosnia and Herze­ govina, Kosovo, Montenegro, North Macedonia, and Serbia - hereafter the WB6). This unique dataset enables research in an area with limited data and cross-national comparability. Significant degrees of IOp and institutional distrust have adversely impacted development in the WB6 region. This has resulted in persistent high unemployment rates, large- scale emigration, a vast outflow of educated and skilled workers and widespread poverty (Gani´c, 2019; Koczan, 2016).The majority of the WB6 countries aspire to join the European Union (EU) and high levels of IOp may result in disadvantages for the local population, potentially acting as an obstacle to the EU integration agenda (Jusi´c, 2018; Koczan, 2016). Therefore, understanding the adverse effects of IOp and institu­ tional distrust at the WB6 level is a pressing concern, similar to evidence from other post-communist economies (Brock, 2020; Cojocaru, 2014) it can affect significant economic decisions such as whether to participate in the voting process, invest in human capital, start a business, emigrate, etc. Indeed, any identification of the role of exogenous circumstances as compared to the legitimate role of the applied level of efforts, would be a motivation for decreased incentives for inter-generational mobility and by extension and lack of support for redistributive policies. Conse­ quently the findings of the study are of instrumental value for the WB6 region, as they highlight the critical need for policies promoting equi­ table growth and rebuilding institutional trust (Gani´c, 2019; Koczan, 2016).
+
+The rest of the paper is organized as follows: The next section de­ scribes the theoretical background and recent empirical developments in measuring IOp in the WB6 and discusses the variables drawn from this literature. Section 3 generates the paper’s testable hypotheses. Section 4 describes the data and the two-step model specification. Section 5 pre­ sents and interprets the main results. Section 6 discusses main practical
+
+and policy implications of the results.
+
+2. Theoretical and empirical background
+
+2.1. Definition and measurement of inequality of opportunity (IOp)
+
+IOp refers to the principle that current or future living conditions should not be dependent on past or present circumstances (Perez-Mayo, 2019). The idea of IOp is rooted in the philosophical principles intro­ duced by Rawls (1971), Dworkin (1981), and Sen (1985). Their theories highlight the difference between ethically acceptable and unacceptable sources of inequality. In his influential work, John Roemer (1998) dis­ tinguishes inequalities in socio-economic outcomes that arise from in­ dividual effort and merit (such as studying harder or working more) as fair and ethically acceptable, since those who exert more effort should receive better rewards (like higher-paying jobs). Conversely, in­ equalities that stem from an individual’s external circumstances (such as family background or rural upbringing) are seen as ethically unaccept­ able because they reflect the chance of being born into a more advan­ taged family with better socio-economic prospects. Using these two categories, he divides a population into types and tranches. Types refers to groups of individuals who share the same circumstances (e.g., family background, age, gender), meaning their outcomes are assumed to result solely from their efforts. Tranches, on the other hand, consist of in­ dividuals exerting the same level of effort, irrespective of their circum­ stances. According to Roemer, equality of opportunity is achieved when individuals within the same tranche have equal outcomes. This strong definition aligns with the ex-post approach to IOp (Brunori et al., 2019b; Ferreira and Gignoux, 2011a; Ferreira and Peragine, 2016; Roemer, 1998), where IOp is identified by comparing outcomes within tranches. However, the ex-post approach faces significant methodological chal­ lenges, particularly due to often insufficient sample sizes for accurately estimating distribution functions for specific types, especially when there are many types (Ferreira and Gignoux, 2011a, 2011b). To address this issue, a ’weak equality of opportunity’ criterion was introduced, leading to the ex-ante approach. This approach defines IOp as the inequality between types as groups that share the same circumstances (Brock, 2020; Palmisano et al., 2022; Stoilova and Haralampiev, 2022). This simplifies the measurement process, as it eliminates the need to measure individual efforts or compare effort percentiles across different types of circumstances (Ferreira and Gignoux, 2011a, 2011b). In this study we will use the ex-ante approach to measuring IOp since the concern is not the inequality of socio-economic outcomes per se, but whether those stem from unequal access to opportunities among in­ dividuals who exert similar levels of effort and merit (Mogila et al., 2022).
+
+Classically, IOp is an income-based estimation. Empirical evidence documents the usage of different definitions for the outcome variable: disposable equivalent household income (Marrero and Rodrıguez, 2012) or wealth asset called unfair inequality (Brock, 2020). However, Ferreira and Gignoux (2011a, 2011b) argue that it can also be a con­ sumption-based estimation. In this sense, from a consumption perspec­ tive, central to the concept of IOp is the notion of ‘capabilities’ (Nussbaum, 1997; Sen, 1999) which complies with Rawls (1971) idea of ‘primary goods’. These are understood as the ability to engage in “the central elements of truly human functioning”, derived straightforwardly from the idea of “a human worth or dignity” and which are “always rational to want them whatever else one wants” (Nelson, 2008). These ca­ pabilities have a special importance in making any plan of life possible and so they have a special claim to be supported for political purposes in a pluralistic society (Nelson, 2008). In particular, it is always desirable for one to exercise control over the environment in terms of consump­ tion. Primary goods are those inputs required for the success in life and work domains (Arneson, 2013; Brighouse and Robeyns, 2010; Cohen, 1990). In this study, we will use a weighted index for affordability/ac­ cess to a bundle of primary/basic goods. This is also due to the fact that
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+2
+
+we lack data on income and expenditures in the database we use, and this index is a best-fit approximation to the bundle of basic goods capturing this way a consumption-based aspect of IOp.
+
+Post-communist contexts typically reflect perceptions of unfair inequality and favourable non-competitive segments of individuals in different social-economic outcomes, i.e. labour market, life course, etc., and are characterized by a general lack of distributive justice (Checchi et al., 2016; Drishti et al., 2022; Efendic and Ledeneva, 2020; Guriev and Zhuravskaya, 2009). In these economies, IOp, along with corruption, has been identified as key determinants of societal support for future reforms (Douarin and Mickiewicz, 2022). Also, in terms of the EU integration agenda, higher levels of IOp persuade disadvantages for the local population, potentially acting as an obstacle to the EU integration process (Jusi´c, 2018; Koczan, 2016; Maksimovi´c and Novakovi´c, 2020). Therefore IOp plays also an instrumental role in terms for support for redistributive policies and future perspectives for development and EU integration of the WB6 countries.
+
+There have been few studies that attempt to evaluate the presence of IOp in post-communist countries (e.g. Cojocaru, 2014) and even fewer that focus on the WB6 countries as non-members of the EU (Bartlett and Oruc, 2021; Gani´c, 2019; Koczan, 2016). These studies were either limited to within-country estimations or cross-national comparisons for macro (aggregate) level indicators. Cross-national comparisons at the micro (individual) level are less frequent in the literature, mainly because of data limitations in this region (Breen and Jonsson, 2005; Checchi et al., 2016). To address this gap, we analyse five waves of harmonised data collected for each of the WB6 countries and compare the countries with each other while controlling for year and regional (intra-country) fixed effects. To the best of our knowledge this is the first comparative analysis of IOp in the WB6 at the micro (individual) level as the majority of the revised literature on IOp in the WB6 uses macro (aggregate) level indicators such as the Gini index (Jusi´c, 2018; Koczan, 2016; Maksimovi´c and Novakovi´c, 2020).
+
+2.2. Drivers of inequality of opportunity
+
+There is a consensus among social scientists that the most relevant factors in explaining IOp can be divided in three categories: (i) de­ mographic endowments (region of birth rural/urban area, ethnicity, etc.), (ii) biological endowments (gender, age, etc.) and (iii) social en­ dowments which stem from the socio-economic origins of individuals (most often indicated by parental occupational status, education, and/or wealth). Previous studies that have investigated IOp have used similar demographic and biological factors such as race and region of birth in comparative evidence on IOp over six Latin-American countries (Ferreira and Gignoux, 2011a), over 11 Sub-Saharan African countries (Brunori et al., 2019a, 2019b) or Europe (Palmisano et al., 2022). Regarding social origins, Marrero and Rodríguez (2012) use parental education and occupation (separately taken for each parent), family economic conditions when young and country of origin, however they do not take into account gender and age. Several studies highlight the critical role of family background in shaping IOp. According to Lefranc et al. (2008), parental income and education significantly influence children’s educational attainment and future earnings, creating persis­ tent cycles of inequality. Bj¨orklund and J¨antti (2012) emphasize that intergenerational transmission of economic status is a central mecha­ nism through which family background affects IOp. Similarly, studies have documented IOp based on the urban-rural divide in EU countries (Mogila et al., 2022; Perez-Mayo, 2019). Geographical disparities play a crucial role in IOp. As Kanbur and Venables (2003) point out, regional differences in infrastructure, social and economic opportunities, and access to services contribute to unequal starting points for individuals based on their place of birth. Lopez-Calva and Lustig (2010) show that urban-rural divides exacerbate inequalities, with rural residents often having less access to quality education, healthcare, and job opportu­ nities. Gender biases and discrimination are pervasive drivers of IOp.
+
+˜Nopo et al. (2011) find that gender gaps in education and employment opportunities persist in many regions, particularly affecting women’s economic prospects. Goldin (2014) discusses the "quiet revolution" in women’s labour market participation and highlights ongoing challenges related to gender equality in opportunities.
+
+Similar factors can be used also in the case of WB6. After the fall of communist regimes across the WB6, the privatization of enterprises, massive job losses, reduced rents and socio-economic rights of em­ ployees caused a deterioration of the morale of individuals and social groups (Maksimovi´c and Novakovi´c, 2020). Previous research empha­ size the fact that in WB6, the rapid fiscal and programmatic changes has widened the disparity between urban and rural areas (Koczan, 2016). Agriculture, once served as a safety net for the rural poor, has dimin­ ished in importance over the past two decades (Arandarenko et al., 2017; Müller and Munroe, 2008). Rural-urban disparities has widened across all WB6. In Serbia the significance of in-kind income has declined; in Albania, rural population remains disadvantaged, due to persistent infrastructure and service gaps, dating back to the centralized regime and continuing thereafter. Thus, we expect that, being of rural origin affects significantly IOp. In Albania, the discrimination of women has been reported by several studies with special focus on rural areas (Zhllima et al., 2021, 2023). Empirical evidence suggests that gender, age, education and geographical location of the household are signifi­ cant predictors of inequality in Kosovo, Bosnia and Herzegovina, Montenegro and Serbia (Arapi-Gjini et al., 2020; Bisogno and Chong, 2002; Stoilova and Haralampiev, 2022; Imami et al., 2017). The ma­ jority of studies in WB6, emphasize the role of labour market as a source of inequalities. The strong deregulation policies aiming to increase la­ bour market flexibility have turned into factors of inequality (Jusi´c, 2018; Maksimovi´c and Novakovi´c, 2020). Occupational status has also been a source of rising inequalities which has also affected the second generations of the WB6 societies. As a result, we expect that being a women, from rural upbringing, with a family from lower socio-economic status, and with unemployment members in the household, are drivers of higher IOp.
+
+2.3. IOp effects on beliefs about unfair socio-economic outcomes
+
+Individuals’ lack of beliefs on hard work, effort, performance and ambition as being critical for economic success often stems from expe­ riencing IOp, which is linked to initial demographic or biological con­ ditions at birth and social origins. As argued in the previous section, these are external factors that are not controlled by the individual. Ev­ idence suggests that strong and persistent IOp generate barriers pre­ venting entire groups from participating into social and economic life and can generate true inequality traps that may result in severe con­ straints to perspectives of future growth (Bourguignon et al., 2007; Mogila et al., 2022). Moreover, attributing poor personal socio-economic outcomes to an unfair system affects the steady state level of effort, hard work, performance and ambition levels —qualities that are generally seen as being rewarded by society (Alesina et al., 2012; Alesina and Angeletos, 2005). If people do not believe they can get rewarded for hard work and ability, there may be little incentive to “buy into the system” This lack of faith may discourage activities like investing in human capital (e.g., studying hard), building a business, refraining from emigration, or even participating in the voting process. This is particularly true for the less affluent WB6 economies (Arandarenko et al., 2017; Koczan, 2016; Maksimovi´c and Novakovi´c, 2020; Stoilova and Haralampiev, 2022) as this under-investment can impact growth (Brock, 2020; Marrero and Rodríguez, 2012). Therefore, beliefs about fairness of determinants of socio-economic outcomes are valuable to study because they can impact consequential social and economic decisions. For this study, all other things being equal, IOp is expected to have negative effects on beliefs about socio-economic outcomes.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+3
+
+2.4. The moderating role of institutional distrust
+
+In post-communist contexts in general and in the WB6 in particular, poor institutional quality and high corruption remain a major challenge (Maksimovi´c and Novakovi´c, 2020). Corruption is related to poor institutional trust and exacerbates IOp (Douarin and Mickiewicz, 2022). As mentioned above, while IOp can enter economies in inequality traps from which it is difficult to exit, better institutional quality/trust can absorb the adverse effects of inequality this way redirecting them to­ wards fair growth paths (Douarin and Mickiewicz, 2022; Maksimovi´c and Novakovi´c, 2020). Institutional distrust interacts with how people experience IOp in such fashion that it changes their perception of their experience (B´enabou and Tirole, 2006; Stoilova and Haralampiev, 2022). There are two possible underlying mechanisms through which IOp and institutional distrust interact to influence beliefs about unfair socio-economic outcomes. On one hand, direct personal exposure to institutional transactions can increase the information symmetry about institutional quality (Rodríguez-Pose, 2020). This revelation will either support or weaken ones judgments that have been previously formed as a consequence of their own experiences with what determines successful socio-economic outcomes (B´enabou and Tirole, 2011). Therefore, direct contact with institutions interacts with IOp experiences to shape beliefs about the fairness of economic outcomes. On the other hand, in more affluent and regulated contexts, the existence of well-functioning formal institutions and rule of law, can act like an insurance policy, such that the beliefs people hold about ex-ante inequality will be influenced by their ex-post ability to compensate for it, using the available formal institutions (Brock, 2020).
+
+Therefore, all other things being equal, in countries with the same level of IOp, higher institutional distrust will further exacerbate its adverse effects because formal institutions provide a system which helps to fuel the inequalities at start.
+
+3. Conceptual framework and hypotheses
+
+The two stages of the analysis are as follows: (i) first, we estimate a simplified model to assess the relationship between circumstances and a measure of IOp for each country including fixed year effects (2017–2021) and regional (within-country) effects. (ii) Then we use the model predictions as inputs to determine the relationship IOp and cur­ rent beliefs about the factors that determine socio-economic outcomes (Bayas and Grau, 2023; Brock, 2020). Therefore, we have con­ ceptualised the factors influencing IOp, which by extension affect the beliefs on socio-economic outcomes as illustrated in Fig. 1.
+
+Based on these assumptions which are illustrated in the conceptual framework in Fig. 1, a set of testable hypotheses can be derived. Stage 1 of the estimation reflected in the left-hand side of the conceptual framework:
+
+Hypothesis 1. Biological, demographic, and socio-economic origins at birth affect the levels of IOp in this direction:
+
+Hypothesis 1.1. Young people are more likely to report higher levels of inequality of opportunity (IOp) than other age groups
+
+Hypothesis 1.2. Women are more likely than men to report higher levels of IOp compared to men
+
+Hypothesis 1.3. Individuals born in rural areas are more likely to report higher levels of IOp compared to those in urban areas.
+
+Hypothesis 1.4. Those with lower socio-economic status are more likely to report higher levels of IOp compared to individuals with middle or higher levels of socio-economic status.
+
+Hypothesis 1.5. Individuals with unemployed members of the household (as a signal for lower family social origin) are more likely to report higher levels of IOp compared to others.
+
+In Stage 2 of the estimation, IOp is expected to influence the indi­ vidual beliefs about socio-economic outcomes. This relation is reflected in the right-hand side of the conceptual framework, therefore:
+
+Hypothesis 2. Individuals with higher levels of IOp will be more likely to report beliefs about unfair socio-economic outcomes (and vice versa).
+
+In addition, given the moderating role of institutional distrust for beliefs about socio-economic outcomes we expect that:
+
+Hypothesis 3. Those who report higher institutional distrust (as a proxy of low institutional quality) more likely to report beliefs about unfair economic outcomes (and vice versa). Moreover, institutional distrust interacts with IOp in a way that beliefs about unfair economic outcomes of those more deprived from opportunities will be particularly amplified if their institutional distrust is higher (and vice versa).
+
+4. Data and analytical strategy
+
+4.1. Data
+
+This study employs data from the Public Opinion Survey conducted within the framework of the Balkan Barometer (2017–2021), commis­ sioned by the Regional Cooperation Council.2 This dataset represents six Western Balkans economies and captures socio-economic, political, and regional integration trends.3
+
+Data collection occurred annually between January and March, using stratified random sampling to ensure representativeness at the national level. The survey includes over 6000 respondents annually, allowing for cross-country comparisons across various socio- demographic attributes. This provides a unique chance to analyse IOp, beliefs about economic outcomes, and institutional distrust across multiple waves and regions Table 1.
+
+4.2. Operationalization of the variables
+
+4.2.1. Inequality of opportunity (IOp)
+
+IOp is generally defined as the portion of income inequality that arises from factors beyond an individual’s control, such as demographic, biological, and socio-economic circumstances at birth. Building on this framework, Bourguignon et al. (2007) applied the concept to individual income inequality using survey data, while other researchers extended the approach to household wealth. Ferreira and Gignoux (2011a, 2011b) argue that it can also be a consumption-based estimation. In this sense, from a consumption perspective and due to lack of personal or house­ hold income data, in this study, IOp is estimated using participants’ concerns about their household’s inability to access or afford a bundle of primary goods. Following the approach of Ferreira and Gignoux (2011a, 2011b), an IOp index was constructed using Principal Component Analysis (PCA)4 on a set of survey items reflecting multidimensional poverty. The exact wording of the survey items is as follows: (i) “Is your household unable to pay rent or utility bills?” (ii) “Is your household unable to pay instalments on a loan?”, (iii) “Is your household unable to keep the home adequately warm?”, (iv) “Is your household unable to afford food, clothes, and other basic supplies?”, and (v) “Is your household unable to afford at least one week of holiday away from home (if wanted)?” Each item is binary coded (1 = “Yes,” 0 = “No”). This index serves as the depen­ dent variable in Stage 1 of the analysis, where IOp is disaggregated into: IOp generated the ‘circumstances’ component outside the individual’s
+
+2 https://www.rcc.int/balkanbarometer/results/2/public 3 Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, and Serbia
+
+4 The PCA-derived weights, presented in Table 2, produce a composite index that captures the variance in primary goods access attributable to respondents’ circumstances.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+4
+
+control as discussed above, and the residual term, comprised by factors under individual control, namely effort. This disaggregation allows for a clear separation of the impact of exogenous circumstances from indi­ vidual choices. The predicted values of IOp from Stage 1 are subse­ quently included as an independent variable in Stage 2 of the analysis, to assess their influence on beliefs about socio-economic outcomes Table 2.
+
+4.2.2. Beliefs about socio-economic outcomes
+
+Beliefs about the determinants of socio-economic outcomes are operationalised through survey items capturing respondents’ percep­ tions in three key domains: (i) public sector employment, (ii) life success in general, and (iii) labour market success. The items and their respec­ tive response scales are as follows: (i) For public sector employment items, “In the public sector, most people can succeed if they are willing to work hard.” Response scale: 1 = “Disagree,” 0 = “Agree.”; “Hard work is no guarantee of success in the public sector, as for most people it is more a matter of connections.” Response scale: 1 = “Agree,” 0 = “Disagree.” For (ii) life success outcomes, respondents were asked “What do you think is the most important for getting ahead in life?” and the selected responses included “Knowing the right people,” “Being lucky,” and “Belonging to a wealthy family” with response scale: 1 = “Yes,” 0 = “No.” Lastly, for (iii) For labour market success, respondents were asked “In your opinion, which two assets are most important for finding a job today?” and the selected responses included “Personal contacts,” and “Network of family and friends” with response scale: 1 = “Yes,” 0 = “No.” All items were coded consistently to reflect beliefs about unfair socio-economic out­ comes, where a response of 1 indicates a belief in unfairness (e.g., reli­ ance on connections, luck, or wealth) and 0 indicates the absence of such a belief. To capture the multidimensional nature of these socio- economic beliefs, a composite index was constructed using PCA5
+
+which offers a metrically scaled estimation that enables its use as a continuous dependent variable in the Stage 2 linear regression analysis. To estimate the effects of IOp on beliefs about socio-economic outcomes, we examine how changes in IOp correlate with beliefs about the fairness of socio-economic outcomes and how this relationship is moderated by institutional distrust.
+
+4.2.3. Moderating variable – institutional trust
+
+Institutional distrust is operationalised using a PCA-weighted mean derived from four survey items that capture respondents’ subjective evaluations of their trust in key public institutions. The specific survey question is: “How much trust do you have in certain institutions?” The institutions assessed include “Courts and judiciary,” “Parliament,” “Government,” and “Ombudsman.” Responses were collected on a four- point Likert scale: 1 = “Totally trust”, 2 = “Tend to trust”, 3 = “Tend not to trust”, 4 = “Totally distrust.” Higher values indicate greater institutional distrust. The PCA-derived weights ensure that the com­ posite index accurately reflects the multidimensional nature of institu­ tional distrust and allows for its inclusion as a continuous variable in the analysis Table 3.
+
+4.2.4. Control variables
+
+Control variables were included to account for potential confounding factors that may influence both IOp and beliefs about socio-economic outcomes. These variables vary slightly between Stage 1 and Stage 2.
+
+In Stage 1, we controlled for curvilinear effects of age (age and age squared), gender (male = 1, female = 0), rural residence (binary vari­ able: rural = 1, urban = 0), socio-economic class (lower, middle, upper), self-report response to the question “How would you estimate your current socio-economic status?” and household characteristics, including the presence of unemployed family members (based on the reply to the answer of “Has any of your family members lost their job recently”). Additionally, regional (area/city of residence: capital city, central re­ gion, southern region; with northern region as the reference category) fixed effects to account for intra-country variability, as regions within each country often exhibit distinct socio-economic and geographic characteristics (See Table 4). Similarly, year fixed effects (2017–2021) were included to control for temporal variations across survey waves (2017–2021), capturing potential changes.
+
+In Stage 2, the control variables were extended to include educa­ tional attainment (ISCED levels: primary = 1–2, secondary = 3–4, ter­ tiary = 5–6), employment status (dummy variable: employed/self- employed = 1, unemployed/other = 0), and household characteristics such as living with a partner (dummy variable). Expectations about one’s own financial situation and the national economy were also included with their respective wording being “What are your expectations for the next year? Do you think that in 12 months your financial situation will be?” and “What are your expectations for the national economy? Do you
+
+Fig. 1. Conceptual framework of IOp and institutional distrust.
+
+5 The PCA-derived weights in Table 3 ensure that the index reflects the un­ derlying structure of these beliefs across the three domains.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+5
+
+think that in 12 months the state of the economy will be?” with binary coded responses (worse = 1, same or better = 0). Regional and year fixed ef­ fects were similarly retained. See Table 1 for more details which de­ scribes variable definitions, sample means, and standard deviations.
+
+4.3. Statistical models
+
+In line with previous literature, we adopt a modelling strategy that accounts for employment and success in life as main socio-economic outcomes beliefs. We do so by including household access/affordance to a bundle of primary goods as a proxy for consumption inequality, given the absence of reliable personal or household income data.
+
+In the context of this study, the sample of WB6 countries does not meet the criteria for estimating pooled cross-national comparisons, which are typical of larger datasets. Instead, we rely on within-country estimations, which are directly comparable due to the standardised survey data collected across the WB6 countries. To address temporal and regional variations, we include year and regional fixed effects. Standard errors are bootstrapped to account for potential heteroscedasticity. Robustness checks were conducted for alternative specifications, namely for individual items comprising IOp, beliefs about socio-economic out­ comes, and institutional distrust and these results are available upon request from the corresponding author.
+
+4.3.1. Stage 1: determining inequality of opportunity (IOp)
+
+In this stage, IOp is estimated via a reduced-form regression model to individuals’ circumstances within each country. The aggregate measure of IOp is derived from the R2 value of the regression, which quantifies the proportion of variation in access to primary goods that can be explained by circumstances at birth. The model is specified as follows:
+
+IOpi = α + β1Agei + β2AgeSquarei + β3Rurali + β4Malei
+
++ β5Unemployedi + β6SESi + ∑ R
+
+r=2
+
+γrRr + ∑ 2021
+
+t=2018
+
+δtTt + ϵi
+
+(1)
+
+Where:IOpi: Inequality of opportunity for individual iAgei, AgeSquarei: Curvilinear effects of age.Rurali: Binary variable for rural birth.Malei: Binary variable for male respondents.Unemployedi: Binary variable for having unemployed family members.SESi: Lower socio-economic class (binary).Rr: Dummy variables for Capital City, Central Region, and Southern Region (Northern Regions the reference category).Tt: Year fixed effects (dummy variables for 2018, 2019, 2020, 2021, with 2017 as reference).ϵij: Residual error encapsulating effort.
+
+Table 1 Variable definitions, sample means, and standard deviations: analysis for pooled sample at the micro/individual level (N = 30,186).
+
+Variable Definition (Questionnaire question) Mean
+
+Stage 1 ​Dependent variable Primary goods index (IOp)
+
+PCA weighted mean of participants’ responses to (i) “Is your household unable to pay rent or utility bills?” (ii) “Is your household unable to pay instalments on a loan?”, (iii) “Is your household unable to keep the home adequately warm?”, (iv) “Is your household unable to afford food, clothes, and other basic supplies?”, and (v) “Is your household unable to afford at least one week of holiday away from home (if wanted)?” Response scale 1 if ‘yes’, 0 if ‘no’.
+
+0.14 (0.72)
+
+Independent variables
+
+​
+
+Age Respondent’s age in years 42.40 (16.30) Age square Respondent’s square of age in years 2069.2 (1507.2) Rural Binary variable place of birth, 1 for ‘rural’, 0 for ‘urban’
+
+0.59
+
+Male Binary variable, 1 for ’male’, 0 for ’female’ 0.48 Family job loss Someone from your family, a relative, or a friend lost their job
+
+0.37
+
+Higher class Binary variable if the respondent’s subjective social status is, 1 for ‘Above the average’, 0 for ‘other’.
+
+0.04
+
+Middle class Binary variable if the respondent’s subjective social status is, 1 for ‘As the average (majority)’, 0 for ‘other’.
+
+0.72
+
+Lower class Binary variable if the respondent’s subjective social status is, 1 for ‘Below the average’, 0 for ‘other’.
+
+0.21
+
+Stage 2 ​Dependent variable Beliefs about circumstances index
+
+PCA weighted mean of participants’ agreements on the circumstances role in life and labour market outcomes - Public sector employment Item 1 “In public sector most people can succeed if they are willing to work hard.” Response scale 1 if ‘Disagree’, 0 if ‘Agree’. Item 2 “Hard work is no guarantee of success in public sector as for most people it is more a matter of connections.” Response scale 1 if ‘Agree’, 0 if ‘Disagree’. - Getting ahead in life Question “What do you think is the most important for getting ahead in life?” Item 1: “Knowing the right people” 1 if ‘yes’, 0 if ‘no’ Item 2: “Being lucky” 1 if ‘yes’, 0 if ‘no’ Item 3: “Belonging in a wealthy family” 1 if ‘yes’, 0 if ‘no’ - About labour market success Question: “In your opinion, which two assets are most important for finding a job today?” Item 1: “Personal contacts” 1 if ‘yes’, 0 if ‘no’ Item 2: “Network of family and friends” 1 if ‘yes’, 0 if ‘no’
+
+0.34 (0.60)
+
+Independent variables
+
+​
+
+Predicted values IOp
+
+Predicted values of the primary goods index in Stage 1
+
+0.21 (0.38) Institutional distrust index
+
+PCA weighted mean about how much trust do participants have in certain institutions: 1 ‘Courts and judiciary’, 2 ‘Parliament’, 3 ‘Government’, 4 ‘Ombudsman’. Response scale 1 if ‘Totally trust’, 2 ‘Tend to trust’, 3 ‘Tend not to trust, 4‘Totally distrust’.
+
+0.29 (0.47)
+
+Own financial situation
+
+What are your expectations for the next year? Do you think that in 12 months your financial situation will be? Recoded to binary as 1 for ‘worse’, and 0 for ‘same’ or ‘better’.
+
+0.71
+
+National economy What are your expectations for the national economy? Do you think that in 12 months the state
+
+0.97
+
+Table 1 (continued)
+
+Variable Definition (Questionnaire question) Mean
+
+of the economy will be? Recoded to binary as 1 for ‘worse’, and 0 for ‘same’ or ‘better’. Primary or less education
+
+Binary variable for highest level of education completed successfully, 1 for ‘Primary or less’, 0 for ‘other’.
+
+0.12
+
+Secondary education
+
+Binary variable for highest level of education completed successfully, 1 for ‘Secondary education’, 0 for ‘other’.
+
+0.58
+
+Tertiary education
+
+Binary variable for highest level of education completed successfully, 1 for ‘Tertiary education’, 0 for ‘other’.
+
+0.26
+
+Employed or self employed
+
+Binary variable if the respondent’s current working status is, 1 for ‘Employed’, 0 for ‘other’.
+
+0.41
+
+Couple Binary variable if the respondent’s current civil status is, 1 for ‘Married’ or ‘Lives with a partner’, 0 for ‘other’.
+
+0.58
+
+Notes: Estimates based on the full sample of six WB countries for years 2017–2021. Standard deviations are reported in parentheses only for continuous variables.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+6
+
+4.3.2. Stage 2: linking IOp and beliefs about socio-economic outcomes
+
+In the second stage of analysis, we employ linear regression models to estimate the relationship between IOp and indexed individuals’ be­ liefs about unfair socio-economic outcomes. This stage builds on Stage 1 by exploring how structural inequalities, captured through IOp, influ­ ence perceptions of fairness and determinants of social and economic success. Additionally, we examine how institutional distrust moderates this relationship, providing insights into how the quality of governance interacts with structural inequality to shape beliefs. The linear regres­ sion model is specified as follows:
+
+Beliefs Indexi = α + β1IOpi + β2InsDistrusti + β3(IOp
+
+× InsTrust)i + ∑ P
+
+p=4
+
+βpXpi + ∑ R
+
+r=2
+
+γrRr + ∑ 2021
+
+t=2018
+
+δtTt + ϵi (2)
+
+Where:Beliefs Indexi: Beliefs Index for individual i.IOpi: Inequality of Opportunity for individual i.InsTrusti: Institutional distrust index (higher values = lower trust in institutions).(IOp × InsDistrust)i: Interaction term
+
+to capture how the relationship between IOp and Beliefs Index changes at different levels of institutional distrust.Xpi: Set of additional covariates (e.g., SES, rural/urban residence, demographic controls).Rr: Regional fixed effects (e.g., Capital City, Central Region, Southern Region, Northern Region as reference).Tt: Year fixed effects (dummy variables for 2018–2021, with 2017 as reference).ϵi: Residual error term.
+
+The inclusion of the interaction term (IOp × InsDistrust)i allows us to assess whether the impact of IOp on beliefs is stronger or weaker depending on levels of institutional distrust. For example, when trust in institutions is low, individuals may be more likely to attribute economic outcomes to systemic unfairness, thereby amplifying the effect of IOp on beliefs. To ensure the robustness of the findings, the model includes a rich set of control variables covering individual demographics (e.g., age, gender, education, employment status) and contextual factors (e.g., regional and year fixed effects). These controls minimise the risk of omitted variable bias and provide a clearer picture of the direct and interaction effects of IOp and institutional distrust.
+
+This stage provides empirical evidence on how structural inequalities influence individuals’ beliefs about social-economic fairness and the role of governance. By highlighting the moderating role of institutional distrust, the findings offer policy-relevant insights into how trust in in­ stitutions can mitigate or exacerbate the effects of IOp on perceptions of fairness.
+
+5. Results and discussion
+
+The study aimed to achieve the following research objectives: (i) to evaluate how external circumstances contribute to the IOp (ii) to investigate whether higher levels of IOp are more likely to generate beliefs about unfair socio-economic outcomes; and (iii) to examine how institutional distrust interacts with IOp, resulting in additional adverse effects on beliefs about economic outcomes.
+
+Regarding the first objective, the analysis in Table 5 demonstrates that socio-demographic circumstances significantly contribute to IOp across the WB6 countries. The results indicate that age has a significant reversed-U shaped effect on IOp in Bosnia and Herzegovina (βlinear=0.014***, βquadratic = −0.000***), North Macedonia (βlinear=0.016***, βquadratic = −0.000***), Serbia (βlinear=0.013***, βquadratic = −0.000**) and to a lower significance in Montenegro (βlinear=0.011**, βquadratic = −0.000*). This finding challenges Hypoth­ esis 1.1, which states that younger people are more likely to report higher levels of IOp than other age groups. The results instead reflect a nuanced relationship where middle-aged respondents are likely more exposed to systemic inequality due to their active participation in the labour market and societal roles. Hence, the hypothesis is not supported by the evidence presented in the analysis.
+
+The negative and mostly significant coefficients support the hy­ pothesis that women report higher levels of IOp compared to men, aligning with Hypothesis 1.2. This finding partially supports Hypothesis 1.2, indicating that women are more likely to experience systemic dis­ advantages that translate into higher levels of perceived IOp. These re­ sults highlight the persistence of gender inequalities in access to opportunities within the WB6 countries.
+
+Being born in a rural area is a consistent and strong predictor of higher IOp across all WB6 countries. Significant positive effects of rural origin are mostly robust, supporting Hypothesis 1.3. These findings highlight the persistent disadvantage of rural origin, which could be linked to structural inequalities such as limited access to quality edu­ cation, fewer employment opportunities, and lower levels of socio- economic mobility in rural areas. Policy measures aiming to reduce IOp in the Western Balkans should focus on mitigating rural-urban dis­ parities, such as improving rural infrastructure and access to services.
+
+Lower socio-economic status is another significant determinant of IOp, as shown by the results across all WB6 countries, supporting Hypothesis 1.4. The strongest effects are observed in Kosovo and Albania, where
+
+Table 2 Poverty index PCA weights by country and year for items.
+
+Questionnaire item:
+
+“Is your household unable to…?”
+
+Pay rent or utility bills
+
+Pay the instalment on a loan
+
+Afford keeping home warm
+
+Afford food, clothed, and other basic supplies
+
+Afford at least 1 week of holidays
+
+2017 Albania 0.844 0.613 0.833 0.788 0.703 Bosnia and Hercegovina
+
+0.811 0.754 0.752 0.768 0.599
+
+Kosovo −0.452 −0.406 0.587 0.554 −0.267 North Macedonia
+
+0.780 0.583 0.708 0.655 0.634
+
+Montenegro 0.787 0.731 0.737 0.735 0.630 Serbia 0.801 0.721 0.791 0.761 0.663 2018 Albania 0.833 0.581 0.814 0.782 0.707 Bosnia and Hercegovina
+
+0.860 0.760 0.806 0.739 0.594
+
+Kosovo 0.779 0.704 0.756 0.719 0.681 North Macedonia
+
+0.786 0.682 0.775 0.748 0.628
+
+Montenegro 0.790 0.708 0.751 0.749 0.612 Serbia 0.775 0.661 0.774 0.768 0.682 2019 Albania 0.815 0.611 0.781 0.795 0.615 Bosnia and Hercegovina
+
+0.761 0.678 0.762 0.692 0.624
+
+Kosovo 0.854 0.845 0.762 0.772 0.695 North Macedonia
+
+0.807 0.691 0.784 0.776 0.632
+
+Montenegro 0.815 0.745 0.773 0.726 0.611 Serbia 0.764 0.701 0.771 0.727 0.647 2020 Albania 0.781 0.552 0.787 0.716 0.692 Bosnia and Hercegovina
+
+0.854 0.723 0.809 0.779 0.627
+
+Kosovo 0.797 0.671 0.694 0.694 0.756 North Macedonia
+
+0.796 0.534 0.756 0.676 0.673
+
+Montenegro 0.794 0.678 0.771 0.708 0.612 Serbia 0.751 0.616 0.733 0.701 0.615 2021 Albania 0.825 0.627 0.810 0.799 0.749 Bosnia and Hercegovina
+
+0.763 0.738 0.740 0.671 0.533
+
+Kosovo 0.849 0.705 0.829 0.827 0.546 North Macedonia
+
+0.787 0.685 0.763 0.746 0.659
+
+Montenegro 0.806 0.714 0.752 0.752 0.553 Serbia 0.801 0.649 0.789 0.743 0.628
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+7
+
+Table 3 Beliefs index PCA weights by country and year.
+
+Beliefs About the public sector labour market success About getting ahead in life What do you think is the most important for getting ahead in life?
+
+About labour market success In your opinion, which two assets are most important for finding a job today?
+
+In public sector, most people can succeed if they are willing to work hard. Response scale 1 if ‘Disagree’, 0 if ‘Agree’.
+
+Hard work is no guarantee of success in public sector as for most people it is more a matter of connections. Response scale 1 if ‘Agree’, 0 if ‘Disagree’.
+
+Knowing the right people. Response scale 1 if ‘yes’, 0 if ‘no’.
+
+Being lucky. Response scale 1 if ‘yes’, 0 if ‘no’.
+
+Wealthy family. Response scale 1 if ‘yes’, 0 if ‘no’.
+
+Personal contacts. Response scale 1 if ‘yes’, 0 if ‘no’
+
+Network of family and friends. Response scale 1 if ‘yes’, 0 if ‘no’.
+
+2017 ​​​​​​​Albania 0.512 0.654 0.701 0.582 0.611 0.723 0.698 Bosnia and Hercegovina
+
+0.533 0.672 0.710 0.601 0.623 0.734 0.712
+
+Kosovo 0.541 0.665 0.698 0.595 0.619 0.729 0.705 North Macedonia
+
+0.528 0.660 0.703 0.587 0.618 0.718 0.692
+
+Montenegro 0.515 0.658 0.706 0.593 0.614 0.725 0.701 Serbia 0.523 0.670 0.712 0.600 0.622 0.732 0.709 2018 ​​​​​​​Albania 0.524 0.662 0.713 0.603 0.628 0.735 0.713 Bosnia and Hercegovina
+
+0.537 0.680 0.720 0.612 0.635 0.742 0.719
+
+Kosovo 0.531 0.673 0.708 0.605 0.629 0.731 0.710 North Macedonia
+
+0.529 0.668 0.711 0.599 0.627 0.729 0.708
+
+Montenegro 0.522 0.660 0.709 0.597 0.625 0.727 0.704 Serbia 0.530 0.675 0.715 0.610 0.632 0.736 0.716 2019 ​​​​​​​Albania 0.523 0.671 0.710 0.602 0.618 0.735 0.719 Bosnia and Hercegovina
+
+0.532 0.678 0.715 0.609 0.626 0.740 0.725
+
+Kosovo 0.540 0.665 0.709 0.598 0.622 0.732 0.713 North Macedonia
+
+0.527 0.670 0.712 0.604 0.619 0.731 0.718
+
+Montenegro 0.529 0.672 0.708 0.600 0.617 0.730 0.716 Serbia 0.531 0.675 0.714 0.605 0.620 0.735 0.722 2020 ​​​​​​​Albania 0.525 0.673 0.718 0.608 0.623 0.737 0.721 Bosnia and Hercegovina
+
+0.534 0.680 0.720 0.614 0.630 0.742 0.728
+
+Kosovo 0.542 0.669 0.713 0.610 0.627 0.734 0.717 North Macedonia
+
+0.530 0.672 0.717 0.607 0.621 0.733 0.723
+
+Montenegro 0.528 0.671 0.714 0.605 0.620 0.732 0.720 Serbia 0.533 0.678 0.719 0.611 0.625 0.739 0.725 2021 ​​​​​​​Albania 0.530 0.675 0.720 0.610 0.627 0.740 0.728 Bosnia and Hercegovina
+
+0.537 0.682 0.725 0.615 0.633 0.745 0.732
+
+Kosovo 0.545 0.670 0.718 0.613 0.629 0.737 0.724 North Macedonia
+
+0.533 0.674 0.722 0.609 0.624 0.735 0.729
+
+Montenegro 0.531 0.673 0.719 0.608 0.622 0.734 0.726 Serbia 0.536 0.680 0.723 0.614 0.630 0.742 0.730
+
+Table 4 Regional division of the countries based on the reported area/city of residence for respondents.
+
+Country Albania Bosnia and Herzegovina
+
+Kosovo North Macedonia Montenegro Serbia
+
+Northern region
+
+Diber, Kukes, Lezhe, Shkoder Republika Srpska Mitrovica, Peja Prolog, South-western, Pelagonia
+
+Sjever Vojvodina
+
+Capital city Tirana Sarajevo Prishtin¨e Skopje Podgorica Beograd Central region Durres, Elbasan Brˇcko District ​Vardar Centar Sumadija and Western Serbia Southern region
+
+Fier, Vlore, Berat, Korce, Gjirokaster
+
+Federacija BiH Gjakov, Prizren, Ferizaj, Gjilan
+
+North-eastern, Eastern, South- eastern
+
+South Southern and Eastern Serbia
+
+Notes: For Kosovo the central region is excluded since the capital city, northern, and southern regions cluster better.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+8
+
+respondents from disadvantaged socio-economic backgrounds report the highest levels of IOp. These findings highlight the structural barriers faced by individuals from lower socio-economic strata and the impor­ tance of social policies aimed at reducing inequality.
+
+Having unemployed family members is also strongly associated with higher IOp, with notable effects in Bosnia and Herzegovina, Kosovo, and Serbia, supporting Hypothesis 1.5. These results indicate that unem­ ployment within a household is likely to signal compounded household- level dynamics and broader socio-economic struggles thus further reinforcing perceptions of systemic inequality.
+
+These findings provide large support the first objective of the study. While Hypothesis 1.1 was not supported, the observed patterns still indicate the critical role of age and other external circumstances towards IOp in the WB6 countries. The R-squared values in Table 5 rank the WB6 countries according to the proportion of IOp attributable to external circumstances, highlighting significant variation across the region. Albania (42.5 %) and Kosovo (37.8 %) show the highest levels of IOp linked to structural inequalities, underscoring the profound socio- economic challenges in these countries. They are followed by Serbia (34.9 %) and North Macedonia (31.4 %), which also exhibit substantial levels of IOp attributable to external factors. Bosnia and Herzegovina (29.1 %) and Montenegro (27.5 %) reflect comparatively lower levels, yet still demonstrate significant inequalities rooted in demographic and socio-economic circumstances. These variations underscore the uneven impact of structural barriers across the WB6 region, highlighting the critical need for tailored policy interventions to address country-specific challenges.
+
+Including regional fixed effects captures unobserved heterogeneity linked to specific cities or areas of residence. Regional effects in terms of city/area of residency (capital city, central, and southern regions, rela­ tive to the northern region) consistently show significant negative co­ efficients across most countries. For instance, living in the capital city reduces IOp compared to living in the northern region. This implies that individuals residing in capital cities or central regions may have access to better opportunities, thereby lowering their IOp scores. This high­ lights the role of regional disparities in shaping opportunity structures, potentially driven by channels like disparities in infrastructure, access to education and health services, or local labour markets. These differences affect IOp by altering the baseline level of opportunity available to in­ dividuals based on their region, independent of their effort or inherent characteristics. Year fixed effects capture temporal changes over the
+
+study period (2017–2021), reflecting the influence of macroeconomic and policy shifts on IOp. Notably, 2021 shows a mixed pattern, with significant increases in IOp for Albania and Kosovo, while Montenegro reports a reduction, possibly linked to varying economic recovery tra­ jectories following the Covid19 pandemic.
+
+Regarding the second objective and hypothesis, the results from Stage 2, presented in Table 6, provide strong support for this hypothesis across multiple contexts in the WB6 countries. The findings demonstrate that higher IOp is significantly associated with stronger beliefs that economic outcomes are determined by unfair socio-economic outcomes. Across the WB6 countries, a positive and statistically significant rela­ tionship is observed between IOp and beliefs about unfair socio- economic outcomes. Specifically, individuals who report higher levels of IOp are more likely to perceive that socio-economic success – whether in the labour market, public sector employment, or life in general – is determined by unfair factors such as personal connections, wealth, or luck rather than effort or merit. The findings suggest that IOp plays a crucial role in shaping perceptions of fairness in socio-economic sys­ tems. For instance, in countries like Kosovo and Albania, where IOp is particularly high, the strength of the association is more pronounced, reflecting heightened sensitivity to systemic inequities. In contrast, the relationship is somewhat weaker in Montenegro and North Macedonia, indicating contextual variations in how IOp influences beliefs.
+
+These results align with theoretical expectations that structural in­ equalities undermine perceptions of meritocracy and fairness. When individuals perceive systemic barriers beyond their control, such as demographic, biological, or socio-economic disadvantages, they are more inclined to attribute socio-economic disparities to systemic un­ fairness. This dynamic can erode trust in institutions and diminish the motivation to invest in personal development or civic engagement, creating self-reinforcing cycles of under-investment and inequality. Particularly in these contexts where public sector employment and economic mobility are seen as dependent on external circumstances rather than individual merit.
+
+The third objective and hypothesis posits that institutional distrust amplifies the effect of IOp on beliefs about unfair economic outcomes. The results from Table 6 indicate that the institutional distrust index is positive and significant across all countries. This shows that individuals who distrust institutions are consistently more likely to believe that socio-economic outcomes are unfair. The strength of this relationship varies by country, with Albania (0.454) and Kosovo (0.374) showing the
+
+Table 5 First stage OLS estimates for inequality of opportunity (coefficients, standard errors).
+
+Variables Albania Bosnia and Herzegovina Kosovo North Macedonia Montenegro Serbia
+
+Uncontrolled circumstances Age 0.005 (0.003) 0.014*** (0.003) 0.006 (0.004) 0.016*** (0.003) 0.011** (0.004) 0.013*** (0.003) Age square −0.000 (0.000) −0.000*** (0.000) −0.000 (0.000) −0.000*** (0.000) −0.000* (0.000) −0.000** (0.000) Rural 0.360*** (0.034) 0.495*** (0.032) 0.441*** (0.040) 0.304*** (0.033) 0.510*** (0.037) 0.420*** (0.039) Male −0.060*** (0.018) −0.052** (0.024) 0.008 (0.020) −0.015 (0.021) −0.058** (0.022) −0.040* (0.020) Unemployed familiars 0.285*** (0.024) 0.380*** (0.026) 0.363*** (0.025) 0.285*** (0.024) 0.275*** (0.026) 0.345*** (0.022) Lower socio-economic class 1.054*** (0.023) 0.795*** (0.031) 1.151*** (0.035) 0.970*** (0.028) 0.850*** (0.029) 0.910*** (0.025) Intra-country fixed effects (ref. Northern region) ​​Capital city −0.285*** (0.045) −0.256*** (0.038) −0.301*** (0.043) −0.278*** (0.047) −0.239*** (0.041) −0.263*** (0.044) Central region −0.134** (0.042) −0.091** (0.037) −0.120* (0.045) −0.107* (0.039) −0.148** (0.042) Southern region −0.215*** (0.032) −0.175*** (0.029) 0.243*** (0.030) 0.198*** (0.031) −0.182*** (0.028) −0.205*** (0.033) Year fixed effects (ref. 2017) 2021 0.290*** (0.040) −0.015 (0.040) 0.130*** (0.035) 0.005 (0.035) −0.060*** (0.038) 0.110** (0.040) 2020 0.120*** (0.040) 0.025 (0.040) 0.060** (0.035) 0.000 (0.035) −0.180*** (0.038) 0.130*** (0.040) 2019 0.110*** (0.032) 0.125*** (0.038) 0.020 (0.035) −0.005 (0.035) −0.035 (0.038) 0.070* (0.040) 2018 0.095** (0.032) 0.020 (0.040) −0.140*** (0.035) 0.065** (0.038) 0.040* (0.039) 0.095** (0.040) Constant −0.620*** (0.080) −0.710*** (0.085) −0.410*** (0.088) −0.190*** (0.030) −0.530*** (0.090) −0.830*** (0.090) N 5038 5013 5023 5028 5023 5061 R Square: IOp 0.425 0.287 0.333 0.330 0.277 0.352
+
+Notes: Figures in curved parentheses are standard errors. *, ** and *** denote significance at the 10 %, 5 % and 1 % levels, respectively. Reference category for socio-economic class is ‘middle’.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+9
+
+strongest effects, suggesting that institutional distrust in these contexts has a particularly pronounced impact on beliefs about fairness. The interaction term between IOp and institutional distrust is significant in three countries; in Bosnia and Herzegovina a robust amplification effect can be identified; Kosovo reports the highest interaction coefficient among the countries, while the results for Montenegro suggest a mod­ erate amplification effect. For these countries, individuals experiencing high IOp coupled with institutional distrust are particularly vulnerable to perceiving the socio-economic system as fundamentally unfair.
+
+In conclusion, Hypothesis 3 is supported in Bosnia and Herzegovina, Kosovo, and Montenegro, where institutional distrust amplifies the ef­ fects of IOp on beliefs about socio-economic unfairness and is partially supported in Albania, North Macedonia, and Serbia, where institutional distrust directly impacts beliefs but does not significantly interact with IOp.
+
+The regional (area/city of residence) fixed effects for the second stage of the estimation (Table 6) highlight significant disparities in be­ liefs about unfair socio-economic outcomes across regions. Similar to the
+
+first stage, living in less advantaged regions (non-capital and non-central areas) correlates with stronger beliefs in unfair socio-economic out­ comes. These findings corroborate the role of spatial disparities in shaping perceptions and underscore the relative advantage of urban centres in terms of perceptions about fair socio-economic outcomes. Year fixed effects, while not significant in most cases, capture potential temporal dynamics in public beliefs, such as the lingering impact of policy changes or economic cycles.
+
+6. Conclusion
+
+This study contributes to the understanding of inequality of oppor­ tunity and institutional distrust in the Western Balkans, examining their interplay and influence on public perceptions of socio-economic fair­ ness. Building on theoretical foundations by Rawls (1971), Roemer (1998), and later empirical contributions (e.g., Ferreira and Gignoux, 2011a, 2011b; Perez-Mayo, 2019), our analysis presents a nuanced understanding of structural inequalities in the region. The findings
+
+Table 6 Second stage OLS estimates for beliefs about unfair life and labour market outcomes (coefficients, standard errors).
+
+Variables Albania Bosnia and Herzegovina Kosovo North Macedonia Montenegro Serbia
+
+IOp 0.198*** (0.053)
+
+0.700*** (0.154)
+
+0.546*** (0.155)
+
+0.297** (0.133)
+
+0.258** (0.129)
+
+0.266* (0.146) Institutional distrust index 0.454*** (0.026)
+
+0.320*** (0.024)
+
+0.374*** (0.024)
+
+0.251*** (0.022)
+
+0.203*** (0.019) 0.298*** (0.022) IOp × Institutional distrust index 0.088 (0.072)
+
+0.198*** (0.077)
+
+0.303*** (0.073)
+
+0.070 (0.064)
+
+0.190*** (0.057)
+
+0.051 (0.068) Expectations ​Own financial situation 0.042 (0.031)
+
+−0.050* (0.030)
+
+−0.054* (0.031)
+
+−0.091*** (0.028)
+
+−0.023 (0.028)
+
+−0.005 (0.032) National economy −0.050 (0.030)
+
+−0.060** (0.031)
+
+−0.145*** (0.030)
+
+−0.067** (0.027)
+
+−0.102*** (0.027) −0.115*** (0.032)
+
+Control variables ​Secondary education 0.120*** (0.035)
+
+0.098*** (0.033)
+
+0.105*** (0.034)
+
+0.080** (0.032)
+
+0.074** (0.031)
+
+0.085*** (0.033) Tertiary education 0.175*** (0.037)
+
+0.145*** (0.034)
+
+0.152*** (0.035)
+
+0.135*** (0.033)
+
+0.120*** (0.032) 0.128*** (0.034) Employed or self-employed 0.090** (0.033)
+
+0.075** (0.031)
+
+0.082** (0.032)
+
+0.065* (0.030)
+
+0.058 (0.029)
+
+0.073** (0.031) Age −0.012 (0.009)
+
+−0.015 (0.010)
+
+−0.010 (0.009)
+
+−0.017** (0.008)
+
+−0.013 (0.008)
+
+−0.016* (0.009) Age square 0.0002 (0.0001)
+
+0.0003** (0.0001) 0.0002 (0.0001)
+
+0.0003** (0.0001)
+
+0.0002 (0.0001)
+
+0.0003** (0.0001)
+
+Rural −0.075** (0.034)
+
+−0.065* (0.033)
+
+−0.082** (0.034)
+
+−0.070* (0.032)
+
+−0.058 (0.031)
+
+−0.067* (0.033) Male −0.045** (0.030)
+
+−0.038 (0.031)
+
+−0.050* (0.032)
+
+−0.035 (0.030)
+
+−0.040 (0.029)
+
+−0.043 (0.031) Unemployed familiars 0.130*** (0.029)
+
+0.110*** (0.028)
+
+0.115*** (0.029)
+
+0.108*** (0.027)
+
+0.102*** (0.026) 0.115*** (0.028) Lower socio-economic class 0.310*** (0.032)
+
+0.290*** (0.031)
+
+0.305*** (0.032)
+
+0.295*** (0.030)
+
+0.285*** (0.029) 0.300*** (0.031) Intra-country fixed effects (ref. Northern region) ​​​Capital city −0.125*** (0.036)
+
+−0.115*** (0.035)
+
+−0.110*** (0.036)
+
+−0.105*** (0.034)
+
+−0.098*** (0.033) −0.112*** (0.035) Central region −0.100** (0.033)
+
+−0.085** (0.032)
+
+−0.075** (0.031)
+
+−0.068** (0.030)
+
+−0.082** (0.032) Southern region −0.080* (0.034)
+
+−0.070* (0.033)
+
+−0.075* (0.034)
+
+−0.065* (0.032)
+
+−0.058 (0.031)
+
+−0.072* (0.033) Year fixed effects (ref. 2017) ​​2021 0.020 (0.030)
+
+0.025 (0.031)
+
+0.018 (0.030)
+
+0.022 (0.029)
+
+0.015 (0.028)
+
+0.018 (0.030) 2020 0.010 (0.029)
+
+0.015 (0.030)
+
+0.012 (0.029)
+
+0.017 (0.028)
+
+0.008 (0.027)
+
+0.012 (0.029) 2019 0.005 (0.028)
+
+0.010 (0.029)
+
+0.007 (0.028)
+
+0.011 (0.027)
+
+0.003 (0.026)
+
+0.007 (0.028) 2018 0.650*** (0.180)
+
+0.684*** (0.161)
+
+0.929*** (0.183)
+
+0.484*** (0.172)
+
+0.382*** (0.162) 0.830*** (0.175) Constant 0.650*** (0.180)
+
+0.684*** (0.161)
+
+0.929*** (0.183)
+
+0.484*** (0.172)
+
+0.382*** (0.162)
+
+0.830*** (0.175) N 5038 5013 5023 5028 5023 5061 R Square 0.2527 0.2151 0.2372 0.2219 0.2395 0.2249
+
+Notes: Figures in curved parentheses are standard errors. *, ** and *** denote significance at the 10 %, 5 % and 1 % levels, respectively.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+10
+
+highlight both shared challenges and country-specific dynamics, underscoring the critical role of tailored policy interventions to foster equity and rebuild institutional trust.
+
+The study corroborates the theoretical assertion that IOp arises from circumstances beyond individual control, including demographic, bio­ logical, and socio-economic factors (Roemer, 1998; Checchi et al., 2016). Consistent with evidence from other post-communist economies (Cojocaru, 2014; Douarin and Mickiewicz, 2022), we find that rural origin, lower socio-economic class, and household unemployment are the strongest predictors of IOp across all WB6 countries. These results reinforce the persistence of spatial and structural inequalities, as high­ lighted in the literature on regional disparities (Kanbur and Venables, 2003; Mogila et al., 2022). However, country-specific patterns emerge. In Kosovo and Albania, rural origin dominates as a driver of IOp, reflecting entrenched urban-rural divides. In Montenegro, gender dif­ ferences are more pronounced, with women reporting higher levels of IOp. This finding aligns with previous research on gendered barriers in labour markets. (˜Nopo et al., 2011; Goldin, 2014). These variations underscore the importance of localised interventions targeting the unique socio-economic challenges in each country.
+
+The study also explores how IOp influences beliefs about socio- economic fairness, with institutional distrust as a critical moderator. Consistent with prior research (Brock, 2020; B´enabou and Tirole, 2006), we find that individuals with higher levels of IOp are more likely to perceive socio-economic outcomes as unfair. Institutional distrust am­ plifies this dynamic, especially in Bosnia and Herzegovina, Kosovo, and Montenegro, where weak institutions intensify perceptions of systemic unfairness. The findings align with the argument that institutional quality plays a pivotal role in shaping public perceptions of equity and opportunity (Rodríguez-Pose, 2020; Maksimovi´c and Novakovi´c, 2020).
+
+Institutional distrust appears to erode confidence in mechanisms designed to mitigate inequality, such as transparent governance and fair judicial systems. This creates a self-reinforcing cycle of distrust and disengagement, further entrenching socio-economic disparities. For example, in Bosnia and Herzegovina, the interaction between high IOp and low institutional trust significantly intensifies the belief that success depends on connections and wealth rather than merit. These findings are consistent with the broader literature on the role of governance in moderating inequality (Ferreira and Peragine, 2016; Douarin and Mickiewicz, 2022).
+
+The results have important implications for policy. First, addressing structural inequalities requires targeted interventions to reduce rural- urban disparities, enhance access to quality education, and improve labour market inclusivity. Investments in rural infrastructure and social mobility programmes could mitigate the disadvantages faced by in­ dividuals from rural or low socio-economic backgrounds, aligning with recommendations by Brock (2020) and Marrero and Rodríguez (2012). Second, rebuilding institutional trust is critical. Policymakers must pri­ oritise transparency, accountability, and responsiveness to foster citi­ zens confidence in public institutions. Efforts to combat corruption and clientelism, as well as initiatives to enhance the rule of law, could strengthen institutional credibility and mitigate the amplifying effect of distrust on perceptions of unfairness (Alesina and Angeletos, 2005; Drishti et al., 2022).
+
+What is interesting is also the fact that intra-country spatial dispar­ ities significantly influence IOp and perceptions of fairness. Regional fixed effects highlight systemic disadvantages in less-developed areas, particularly southern regions, where structural inequities in infrastruc­ ture, education, and economic opportunities persist. Conversely, capital cities consistently emerge as advantaged spaces, benefiting from concentrated resources and socio-economic mobility pathways. These findings reinforce the importance of spatial equity in policy frameworks, advocating for place-based interventions to address entrenched regional disparities. Investments in perypherical infrastructure, public service delivery, and local economic development are essential for fostering spatially balanced growth and aligning with EU integration goals.
+
+While this study provides valuable insights, further research is needed to deepen our understanding of IOp in post-communist econo­ mies. Longitudinal studies could explore the long-term impact of policy interventions on IOp and institutional distrust. Comparative analyses with other post-communist regions which are EU members could also identify commonalities and divergences, informing strategies for equi­ table development.
+
+CRediT authorship contribution statement
+
+Drini Imami: Data curation, Formal analysis, Validation. Nevila Mehmetaj: Validation. Idlir Duhanxhi: Data curation. Elvisa Drishti: Writing – original draft, Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision. Arjola Halluni: Writing – review & editing, Data curation. Edvin Zhllima: Data curation, Formal analysis, Validation.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this article.
+
+Acknowledgements
+
+This research was supported by funding from the University of Shkodra "Luigj Gurakuqi". The authors express their gratitude for the university’s financial support, which made this study possible.
+
+References
+
+Alesina, A., Angeletos, G.-M., 2005. Corruption, inequality, and fairness. J. Monet. Econ. Political Econ. Macroecon. 52, 1227–1244. https://doi.org/10.1016/j. jmoneco.2005.05.003. Alesina, A., Cozzi, G., Mantovan, N., 2012. The evolution of ideology, fairness and redistribution. Econ. J. 122, 1244–1261. https://doi.org/10.1111/j.1468- 0297.2012.02541.x. Arandarenko, M., Krsti´c, G., Raki´c, J.ˇZ., 2017. Analysing Income Inequality in Serbia. Friedrich-Ebert-Stiftung - Belgrade Office. Arapi-Gjini, A., M¨ollers, J., Herzfeld, T., 2020. Measuring dynamic effects of remittances on poverty and inequality with evidence from Kosovo. East. Eur. Econ. 58, 283–308. https://doi.org/10.1080/00128775.2020.1720517. Arneson, R.J., 2013. From primary goods to capabilities to well-being. Crit. Rev. Int. Soc. Political Philos. 16, 179–195. https://doi.org/10.1080/13698230.2012.757910. Bartlett, W., Oruc, N., 2021. Labour markets in the Western Balkans 2019 and 2020. Regional Cooperation Council. Bayas, A., Grau, N., 2023. Inequality of opportunity in juvenile crime and education. Int. J. Educ. Dev. 103, 102901. https://doi.org/10.1016/j.ijedudev.2023.102901. B´enabou, R., Tirole, J., 2006. Belief in a just world and redistributive politics. Q. J. Econ. 121, 699–746. https://doi.org/10.1162/qjec.2006.121.2.699. B´enabou, R., Tirole, J., 2011. Identity, morals, and taboos: beliefs as assets. Q. J. Econ. 126, 805–855. https://doi.org/10.1093/qje/qjr002. Bisogno, M., Chong, A., 2002. On the determinants of inequality in Bosnia and Herzegovina. Econ. Transit. 10, 311–337. https://doi.org/10.1111/1468- 0351.00113. Bj¨orklund, A., J¨antti, M., 2012. How important is family background for labor-economic outcomes? Labour Economics, European Association of Labour Economists 23rd annual conference, Paphos, Cyprus, 22-24th September 2011 19, 465–474. https:// doi.org/10.1016/j.labeco.2012.05.016. Bourguignon, F., Ferreira, F.H.G., Men´endez, M., 2007. Inequality of opportunity in Brazil. Rev. Income Wealth 53, 585–618. https://doi.org/10.1111/j.1475- 4991.2007.00247.x. Breen, R., Jonsson, J.O., 2005. Inequality of opportunity in comparative perspective: recent research on educational attainment and social mobility. Annu. Rev. Sociol. 31, 223–243. Brighouse, H., Robeyns, I., 2010. Measuring Justice: Primary Goods and Capabilities. Cambridge University Press. Brock, J.M., 2020. Unfair inequality, governance and individual beliefs. J. Comp. Econ. 48, 658–687. https://doi.org/10.1016/j.jce.2020.03.001. Brunori, P., Palmisano, F., Peragine, V., 2019a. Inequality of opportunity in sub-Saharan Africa. Appl. Econ. 51, 6428–6458. https://doi.org/10.1080/ 00036846.2019.1619018. Brunori, P., Peragine, V., Serlenga, L., 2019b. Upward and downward bias when measuring inequality of opportunity. Soc. Choice Welf. 52, 635–661. https://doi. org/10.1007/s00355-018-1165-x. Checchi, D., Peragine, V., Serlenga, L., 2016. Inequality of opportunity in Europe: is there a role for institutions?. In: Inequality: Causes and Consequences, Research in Labor
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+11
+
+Economics. Emerald Group Publishing Limited, pp. 1–44. https://doi.org/10.1108/ S0147-912120160000043008. Cohen, G.A., 1990. Equality of what? On welfare, goods and capabilities. Rech. ´Econ. Louvain Louvain Econ. Rev. 56, 357–382. https://doi.org/10.1017/ S0770451800043943. Cojocaru, A., 2014. Fairness and inequality tolerance: evidence from the Life in Transition Survey. J. Comp. Econ. 42, 590–608. https://doi.org/10.1016/j. jce.2014.01.003. Douarin, E., Mickiewicz, T., 2022. Is the post-communist transition over? IZA World Lab.
+
+https://doi.org/10.15185/izawol.494. Drishti, E., Kopliku, B., Imami, D., 2022. Active political engagement, political patronage and local labour markets – the example of Shkoder. Int. J. Manpow. https://doi.org/ 10.1108/IJM-06-2021-0362. Duque, J.C., García, G.A., Lozano-Gracia, N., Qui˜nones, M., Montoya, K.Y., 2023. Inequality and space in a highly unequal country: what does the literature tell us in the context of Colombia? Reg. Sci. Policy Pract. 15, 2065–2087. https://doi.org/ 10.1111/rsp3.12681. Dworkin, R., 1981. What is equality? Part 1: equality of welfare. Philos. Public Aff. 10, 185–246. Efendic, A., Ledeneva, A., 2020. The importance of being networked: the costs of informal networking in the Western Balkans region. Econ. Syst. 44, 100784. https:// doi.org/10.1016/j.ecosys.2020.100784. Ferreira, F.H.G., Gignoux, J., 2011a. The measurement of inequality of opportunity: theory and an application to Latin America. Rev. Income Wealth 57, 622–657. https://doi.org/10.1111/j.1475-4991.2011.00467.x. Ferreira, F.H.G., Gignoux, J., 2011b. The measurement of inequality of opportunity: theory and an application to Latin America. Rev. Income Wealth 57, 622–657. https://doi.org/10.1111/j.1475-4991.2011.00467.x. Ferreira, F.H.G., Peragine, V., 2016. Individual responsibility and equality of opportunity. In: Adler, M.D., Fleurbaey, M. (Eds.), The Oxford Handbook of Well- Being and Public Policy. Oxford University Press, p. 0. https://doi.org/10.1093/ oxfordhb/9780199325818.013.24. Gani´c, M., 2019. The labour market, social inequality and the role of emigration: the case of the Western Balkan economies. In: Osbild, R., Bartlett, W. (Eds.), Western Balkan Economies in Transition: Recent Economic and Social Developments, Societies and Political Orders in Transition. Springer International Publishing, Cham, pp. 61–72. https://doi.org/10.1007/978-3-319-93665-9_5. Goldin, C., 2014. A grand gender convergence: its last chapter. Am. Econ. Rev. 104, 1091–1119. https://doi.org/10.1257/aer.104.4.1091. Guriev, S., Zhuravskaya, E., 2009. (Un)happiness in transition. J. Econ. Perspect. 23, 143–168. https://doi.org/10.1257/jep.23.2.143. Imami, D., Polese, A., Zhllima, E., Rama, K., 2017. Clientelism, informal networks and politics in transition countries – the case of education sector in Albania. Presented at the 29th Annual EAEPE Conference. Jusi´c, M., 2018. Unequal Chances and Unjust Outcomes - Confronting Inequality in Southeast Europe. The Friedrich-Ebert-Stiftung in Southeast Europe. Kanbur, R., Venables, A.J., 2003. Spatial Inequality and Development. Koczan, Z., 2016. Being Poor, Feeling Poorer: Inequality, Poverty and Poverty Perceptions in the Western Balkans. International Monetary Fund.
+
+Lefranc, A., Pistolesi, N., Trannoy, A., 2008. Inequality of opportunities vs. inequality of outcomes: are western societies all alike? Rev. Income Wealth 54, 513–546. https:// doi.org/10.1111/j.1475-4991.2008.00289.x. Lopez-Calva, L.F., Lustig, N.C., 2010. Declining Inequality in Latin America: A Decade of Progress? Rowman & Littlefield. Maksimovi´c, M., Novakovi´c, N., 2020. In: Cveti´canin, N., Radulescu, A., Ateljevi´c, J. (Eds.), Western Balkans, Reforms and Eurointegrations. Institute of Social Sciences, Belgrade, pp. 76–103. Marrero, G.A., Rodríguez, J.G., 2012. Inequality of opportunity and growth. J. Dev. Econ. 104, 107–122. https://doi.org/10.1016/j.jdeveco.2013.05.004. Mogila, Z., Melo, P.C., Gaspar, J.M., 2022. Estimating labour-income-based inequality of opportunity for a selection of EU-SILC countries: national and urban–rural perspectives. Reg. Sci. Policy Pract. 14, 1158–1188. https://doi.org/10.1111/ rsp3.12505. Müller, D., Munroe, D.K., 2008. Changing rural landscapes in Albania: cropland abandonment and forest clearing in the postsocialist transition. Ann. Assoc. Am. Geogr. 98, 855–876. https://doi.org/10.1080/00045600802262323. Nelson, E., 2008. From primary goods to capabilities: distributive justice and the problem of neutrality. Political Theory 36, 93–122. https://doi.org/10.1177/ 0090591707310088. ˜Nopo, H., Daza, N., Ramos, J., 2011. Gender Earnings Gaps in the World (Working Paper No. 5736). IZA Discussion Papers. Nussbaum, M.C., 1997. Capabilities and human rights. Fordham Law Rev. 66, 273. Palmisano, F., Biagi, F., Peragine, V., 2022. Inequality of opportunity in tertiary education: evidence from Europe. Res. High. Educ. 63, 514–565. https://doi.org/ 10.1007/s11162-021-09658-4. Palomino, J.C., Marrero, G.A., Rodríguez, J.G., 2019. Channels of inequality of opportunity: the role of education and occupation in Europe. Soc. Indic. Res. 143, 1045–1074. https://doi.org/10.1007/s11205-018-2008-y. Perez-Mayo, J., 2019. Inequality of opportunity, a matter of space? Reg. Sci. Policy Pract. 11, 71–88. https://doi.org/10.1111/rsp3.12181. Rawls, J., 1971. A Theory of Justice. Harvard University Press, Cambridge, MA and London. Rodríguez-Pose, A., 2020. Institutions and the fortunes of territories. Reg. Sci. Policy Pract. 12, 371–386. https://doi.org/10.1111/rsp3.12277. Roemer, J.E., 1998. Equality of Opportunity. Harvard University Press, Cambridge, MA. Sen, A., 1985. The moral standing of the market. Soc. Philos. Policy 2, 1–19. https://doi. org/10.1017/S0265052500003186. Sen, A., 1999. Commodities and Capabilities, OUP Catalogue. Oxford University Press. Stoilova, R., Haralampiev, K.V., 2022. Inequalities and Justice in the Balkans. A Comparison Between Bulgaria, Croatia, Montenegro, Slovenia and Serbia. Социологически проблеМи 54, 32–48. World Bank, 2023. Western Balkans Regular Economic Report No.23, Spring 2023: Testing Resilience. © Washington, DC: World Bank. http://hdl.handle.net/10 986/39890 License: CC BY-NC 3.0 IGO. Zhllima, E., Pojani, D., Merkaj, E., Imami, D., 2023. Unlanded class: Albania’s gender gaps in land ownership and inheritance. Fem. Econ. 29, 32–63. https://doi.org/ 10.1080/13545701.2022.2125167. Zhllima, E., Rama, K., Imami, D., 2021. Agriculture land markets in transition - the inherited challenge of the post-communist land reform in Albania. Land Use Policy 107, 105509. https://doi.org/10.1016/j.landusepol.2021.105509.
+
+E. Drishti et al. Regional Science Policy & Practice 17 (2025) 100174
+
+12

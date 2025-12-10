@@ -1,0 +1,297 @@
+European Journal of Political Research 60: 1007–1017, 2021 1007
+
+doi: 10.1111/1475-6765.12425
+
+Political trust during the Covid-19 pandemic: Rally around the ﬂag or lockdown effects?
+
+DOMINIK SCHRAFF
+
+Center for Comparative and International Studies, ETH Zürich, Switzerland
+
+Abstract. How can we explain the rise in diffuse political support during the Covid-19 pandemic? Recent research has argued that the lockdown measures generated political support. In contrast, I argue that the intensity of the pandemic rallied people around political institutions. Collective angst in the face of exponentially rising Covid-19 cases depresses the usual cognitive evaluations of institutions and leads citizens to rally around existing intuitions as a lifebuoy. Using a representative Dutch household survey conducted over March 2020, I compare the lockdown effect to the dynamic of the pandemic. I ﬁnd that the lockdown effect is driven by pre-existing time trends. Accounting for non-linearities in time makes the lockdown effect disappear. In contrast, more ﬂexible modelling techniques reveal a robust effect of Covid-19 infections on political trust. In line with an anxiety effect, I ﬁnd that standard determinants of political trust – such as economic evaluations and social trust – lose explanatory power as the pandemic spreads. This speaks to an emotionally driven rally effect that pushes cognitive evaluations to the background.
+
+Keywords: COVID-19; political trust; rally effect
+
+Introduction
+
+The Covid-19 pandemic poses an exceptional challenge for democratic societies. As a common existential threat, it requires large-scale collective action to contain the pandemic. Successful collective action, however, requires a certain level of trust into the institutions that govern societies. The extensive governmental imposition of restrictions on individual rights and freedoms to contain the pandemic challenge citizens’ trust in political institutions. Here, political trust is understood as diffuse support for political institutions, referring to the perceived competence and legitimacy of public institutions (Easton 1975). Fortunately, across Europe, public support for government action has been exceptionally high. First research on the impact of the Covid-19 crisis in Europe suggests a sharp increase in citizens’ diffuse political support (Bol et al. 2020; Esaiasson et al. 2020). More speciﬁcally, Bol et al. (2020) argue that lockdown measures across Europe have found approval among voters, rewarding political institutions with increased trust. This argument proposes that citizens evaluate political institutions and policies in times of crisis and extend some degree of gratitude for swift relief (Bechtel & Hainmueller 2011).
+
+However, in this research note I argue that an anxiety effect, rather than a lockdown effect, drives the rise in diffuse political support. Accordingly, I suggest that as the pandemic enters the phase of exponential growth in Covid-19 cases, citizens start to rally around their political institutions as a lifebuoy. The high level of uncertainty in the intense phase of the ﬁrst Covid19 wave dampens the usual cognitive processes that voters use to evaluate the political system.
+
+[Correction added on 15 March 2021, after ﬁrst online publication: The graphs in Figures 2 and 3 have been swopped in this version.]
+
+© 2020 European Consortium for Political Research
+
+1008 DOMINIK SCHRAFF
+
+Therefore, political trust does not increase due to evaluations of speciﬁc lockdown measures, but a rally around the ﬂag dynamic that is driven by collective angst due to rising Covid-19 case numbers.
+
+A number of recent studies suggest that anxiety and a cognitive need for security shaped political evaluations as the Covid-19 pandemic hit. Evidence from Canada demonstrates a trend of decreasing political polarization among the public and the elite as Covid-19 incidences rose (Merkley et al. 2020). Moreover, a study from Germany suggests increased government voting as Covid-19 numbers increased (Leininger & Schaub 2020). This aligns with earlier work showing that crisis events with high levels of collective uncertainty and existential threats have the potential to activate a ‘rally around the ﬂag’ dynamic (Hetherington & Nelson 2003). Following these psychological arguments on public responses to crises, a recent panel data study from Sweden conﬁrms a strong rally around the ﬂag effect in institutional trust over the ﬁrst Covid-19 wave (Esaiasson et al. 2020).
+
+I suggest that these psychological reactions to such an existential threat fundamentally reshapes political trust during times of crisis. More speciﬁcally, I expect that an ‘anxiety effect’ boosts diffuse government support. This leads to a crisis dynamic that is largely independent from speciﬁc government measures, such as lockdown decisions, and is also likely to mute the standard evaluations of political institutions. It, therefore, seems reasonable to expect that rational evaluation of policies and measures lose importance and give way to emotional responses. Indeed, experimental evidence from psychological research suggests that existential threats activate collective angst across the political spectrum (Porat et al. 2019). In line with this, recent research conﬁrms anxious arousal in response to the existential threat of Covid-19 (Tabri et al. 2020).
+
+Coming from these psychological studies, it seems likely that emotional reactions to the spread of the pandemic increase institutional trust. In periods of intense crisis, collective angst is shared by most of voters equally, activating collective in-group heuristics (Porat et al. 2019). This emotional response to crisis has the potential to harmonize political evaluations within the public to a higher, more trusting level. This anxiety effect should be driven by the intensity of the crisis, which can be captured by the number of Covid-19 cases. I therefore expect the increase in political trust to be primarily driven by the intensity of the crisis, meaning the number of Covid-19 infections. In contrast, speciﬁc government policies, such as the lockdown decisions, should not account for the rise in political trust and are probably endogenous to the rising Covid-19 case numbers.
+
+Moreover, in line with the psychological argument, I predict that the usual cognitive processes of political trust evaluation weaken and give way to an increased societal consensus that boosts diffuse political support. A clearly observable consequence of this argument is that the explanatory power of established determinants of political trust should cease as the Covid-19 pandemic intensiﬁes. Existing works on political trust formation highlight two prominent determinants. First, it is widely established that economic performance evaluations shape political trust (Foster & Frieden 2017; Van Erkel & Van Der Meer 2016). However, in line with the rally effect argument, I expect that economic evaluations lose relevance over the course of the pandemic. Second, social (interpersonal) trust is a major determinant of political trust (Dellmuth & Tallberg 2020; Van Der Meer & Dekker 2011). Again, I expect that social trust becomes less relevant for political trust as Covid-19 cases accumulate. Comparing the role of social trust and economic evaluations in political trust formation, one should note the more dynamic character of economic evaluations. Social trust is frequently depicted as a very resilient, structural attitude (Dellmuth & Tallberg
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POLITICAL TRUST DURING THE COVID-19 PANDEMIC 1009
+
+2020). I therefore expect a larger degree of convergence in the effect of economic perceptions. Yet, any changes in the effect of social trust would underline the severity of the crisis.
+
+Overall, this short theoretical discussion outlines three theoretical expectations. First, I expect that individual policy decisions, speciﬁcally the lockdown measures, do not account for the rise in political trust. The cognitive policy evaluations lose relevance in the face of an existential threat. Second, I predict that the exponential growth of Covid-19 cases accounts for the rise in political trust. The sharp rise in Covid-19 cases activates emotional responses, leading to a rally around the ﬂag dynamic. Finally, I hypothesize that typical determinants of regime evaluations, such as economic performance perceptions and social trust, lose explanatory power as Covid-19 cases accumulate.
+
+Data and method
+
+This study draws on a representative Dutch survey that was conducted among 1,800 individuals in March 2020. The data was collected within the LISS Panel hosted by CenterData at Tilburg University. The greatest advantage of the data is that it tracks public opinion over the whole month of March, which is the month the Covid-19 pandemic spread in the Netherlands. Directly in the middle of the ﬁeldwork, on March 15, the Dutch government declared the lockdown. The ﬁeldwork, therefore, covers the ‘hot’ phase of the ﬁrst Dutch Covid-19 wave. As Figure A1 in the Appendix shows, the data also provide a critical number of survey responses for all the days in March 2020.1 I merge the survey data with daily Covid-19 statistics on the number of reported infections provided by CoronaWatchNL.2 I use the cumulative number of daily reported Covid-19 infections to capture the increasing intensity of the crisis.
+
+The survey includes a measure of political trust, which serves as the dependent variable. Speciﬁcally, the survey asks respondents to express their trust towards the national parliament, using a scale from 0 to 10. Social trust is also measured on a scale from 0 to 10, with the poles ranging from ‘cannot be too careful’ to ‘most people can be trusted’. The measure of satisfaction with the economy ranges from 0 – extremely dissatisﬁed to 10 – extremely satisﬁed. As control variables, I use standard demographics on gender, age and education. The measure of ‘higher education’ is a dummy that takes the value of 1 if people have a tertiary education. I also control for respondent’s income, measured as the net income per month. Finally, I include a dummy variable that distinguishes respondents from urban and not urban areas. The dummy ‘not urban’ takes the value of 1 if people reside in a neighbourhood with less than 1,000 inhabitants per square kilometre.3
+
+The ﬁrst part of the analysis takes a close look at the lockdown effect, using the quasiexperimental regression discontinuity design (RD). The regression discontinuity design assumes that respondents close to the lockdown date are as if randomly assigned into a control and treatment group. My daily data allow me to estimate local linear regressions before and after lockdown to identify the local average treatment effect (LATE) (Cattaneo et al. 2019). The RD design comes with a number of assumptions that need to hold for valid inference. The analysis will focus on the issue of pre-existing time trends, which constitute a violation of the exclusion restriction. This refers to the assumption that the timing of the survey should only affect the outcome of interest through exposure to the lockdown (Muñoz et al. 2020). I show that this assumption is violated and that the lockdown effect disappears under a more ﬂexible model of time.
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1010 DOMINIK SCHRAFF
+
+As such, the lockdown effect could be a result of misspeciﬁcation bias arising from nonlinearities and complex interactions of covariates with the time dimension. To address this concern, I use Kernel regularized least squares (KRLS) estimation (Hainmueller & Hazlett 2014). This estimation method accounts for non-linearities, interactions and heterogeneous effects. KRLS does not rest on any linearity assumption, as it uses an algorithmic approach. More speciﬁcally, KRLS does not model the dependent variable as a linear function of independent variables, but relies on information about the similarity between observations (Hainmueller & Hazlett 2014: 146). The KRLS model is still a cross-sectional model that can suffer from omitted variable bias. Yet, misspeciﬁcations due to non-linearities and potential interactions among observables can be ruled out. The method has recently been shown to be of particular advantage for the valid estimation of conditional and non-linear relationships (Beiser-McGrath & Beiser-McGrath 2020).
+
+Results
+
+I start the empirical section with some descriptive information on the time trends in political trust. The top graph in Figure 1 presents a substantial increase in political trust over the days of March 2020. The vertical line indicates the lockdown date on March 15. Smoothed trends are independently estimated for the days before and after lockdown. The visual inspection already suggests that there is no discontinuity. Political trust already starts to increase a couple of days before lockdown. The middle graph plots the accumulation of reported Covid-19 cases in the Netherlands. It uses a logarithmic scale to better visualize the increases in the early days. It shows that the number of Covid-19 cases correlates with the increase in political trust. This aligns with the theoretical expectation that the rise in trust was largely driven by the crisis as such and not the lockdown measures. Finally, the bottom graph plots a smoothed line of the daily standard deviations in political trust. This provides an indication of the homogeneity of daily political trust responses. The anxiety driven rally around the ﬂag argument presented above would expect more homogeneity in political trust as the pandemic intensiﬁes. Indeed, the daily standard deviation substantially decreases over time, suggesting more homogenous political trust towards the end of March.
+
+The non-effect of lockdown
+
+Even though my data does only provide information on one country, and not several, such as Bol et al.’s (2020), I am going to demonstrate that their ‘lockdown effect’ is probably not a consequence of the lockdown. I proceed in two steps. First, I replicate their ﬁndings with my data. This shows that my data come to the same conclusions as Bol et al.’s (2020) when using their modelling approach. Second, I will show that the lockdown effect is an artefact of time trends. Speciﬁcally, I demonstrate that the exclusion restriction for causal inference is violated (Muñoz et al. 2020). Given my ability to replicate Bol et al.’s (2020) approach, the time trends issue could apply to their comparative data as well.
+
+Table A1 in the Appendix presents an analysis of the lockdown effect estimated by Bol et al. (2020). They use linear regression to identify the effect of a lockdown dummy, which takes a value of 1 from the lockdown day onward. I ﬁnd a positive, statistically signiﬁcant, and similarly sized effect of the lockdown on political trust. Table A1 follows Bol et al.’s (2020) approach to include Covid-19 cases, a linear time trend, and socio-demographic controls. The effect appears to be very
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POLITICAL TRUST DURING THE COVID-19 PANDEMIC 1011
+
+Figure 1. Temporal trends in political trust and Covid-19 cases. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1012 DOMINIK SCHRAFF
+
+Table 1. The lockdown effect considering pre-existing time trends
+
+(1) (2) (3)
+
+Lockdown t −1 0.655***
+
+(0.099)
+
+Lockdown t −5 0.416***
+
+(0.102)
+
+Lockdown 0.204
+
+(0.294)
+
+Day spline 1 −0.661
+
+(0.458)
+
+Day spline 2 0.910
+
+(0.676)
+
+Day spline 3 0.406
+
+(0.325)
+
+Constant 5.341*** 5.411*** 5.434***
+
+(0.069) (0.078) (0.109)
+
+Observations 1,737 1,737 1,737
+
+R2 0.024 0.010 0.026
+
+Adjusted R2 0.024 0.009 0.024
+
+Note: *p-value < 0.1; **p-value < 0.05; ***p-value < 0.01.
+
+robust. However, a quasi-experimental identiﬁcation of such an unexpected event during survey ﬁeldwork requires that there are no pre-existing time trends. Otherwise, the local average treatment effect becomes an artifact of the time trend in the time variable t. As Muñoz et al. (2020: 190) put it, “[…] many arbitrary partitions of t will yield statistically signiﬁcant effects in the same direction as the pre-existing trend.” They recommend testing for effects of placebo treatments left of the cutoff.4
+
+I therefore recode the lockdown effect to have taken place 1 or 5 days earlier and present the result in Table 1. The two placebo treatments in Models 1 and 2 of Table 1 have the same positive and statistically signiﬁcant effect. The lockdown effect is therefore a result of a pre-existing time trend. Model 3 in Table 1 underlines this. Instead of a linear time trend, it uses a more ﬂexible cubic time trend (a beta spline), which makes the lockdown effect turn insigniﬁcant. Uncovering this violation of the exclusion restriction does invalidate any attempt to recover a causal effect of the lockdown. Even if I run an regression discontinuity design estimation – ignoring the violation of the exclusion restriction – I uncover a null ﬁnding.5 In fact, as the descriptive plots already indicated, we probably should not focus too much on the lockdown to explain the stark increases in political trust. The next section will present some evidence that speaks in favour of a rally effect due to the dynamic of the Covid-19 case numbers.
+
+The rally effect
+
+The previous section highlights the potential for misspeciﬁcation bias due to non-linearities. Instead of entering a fruitless discussion of the ‘correct’ speciﬁcation of potential non-linearities
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POLITICAL TRUST DURING THE COVID-19 PANDEMIC 1013
+
+Table 2. KRLS estimates of political trust and average marginal effects
+
+(1)
+
+Lockdown 0.24
+
+(0.165)
+
+Covid-19 cases 0.154**
+
+(0.07)
+
+Stf. Economy 0.756***
+
+(0.047)
+
+Social trust 0.602***
+
+(0.046)
+
+Day 0.009
+
+(0.072)
+
+Female 0.104
+
+(0.105)
+
+Age −0.06
+
+(0.035)
+
+Higher education 0.114
+
+(0.117)
+
+Income 0.224**
+
+(0.099)
+
+Not urban −0.053
+
+(0.103)
+
+Observations 1,585
+
+R2 0.49
+
+Note: *p-value < 0.1; **p-value < 0.05; ***p-value < 0.01.
+
+in the linear regression model, I am using KRLS estimation. Table 2 presents average marginal effects of the KRLS estimation. The lockdown effect is statistically insigniﬁcant. In contrast, the cumulative number of Covid-19 cases does have a positive and statistically signiﬁcant effect. This shows that the rise in political trust is due to the dynamic of the pandemic. This effect is present even though I account for two powerful determinants of political trust – social trust and economic evaluations.6 Hence, the ﬁrst central ﬁnding from the KRLS estimates is that the increase in political trust is driven by the intensity of the pandemic, rather than the lockdown measures imposed by the government.
+
+Following my argument on a rally effect due to collective angst, I now turn to the investigation of social trust and economic evaluations. I have argued that standard explanations of political trust should lose relevance as the severity of the crisis grows. They are trumped by an emotional affect that diverts trust to the political system as a lifebuoy. Figures 2 and 3 therefore use the estimates of Table 2 to plot the interaction between accumulating Covid-19 cases and social trust/economic evaluations. I calculate predicted values of political trust over different levels of Covid-19 incidence and social trust/economic evaluations. Uncertainty is estimated by bootstrapping and the shaded areas in Figures 2 and 3 denote bootstrapped conﬁdence intervals.7
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1014 DOMINIK SCHRAFF
+
+Figure 2. Predicted values of political trust over economic evaluations and Covid-19 case numbers, based on Table 2. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+The ﬁgures show that social trust and economic evaluations have strong effects on political trust when Covid-19 case numbers are low. This means that the standard model of political trust applies during normal, pre-pandemic times. However, as the number of Covid-19 infections accumulates, the effect of these variables on political trust shrinks substantially. This pattern is particularly pronounced for satisfaction with the economy, as depicted in Figure 2. As the Covid-19 numbers grow, economic evaluations become effectively irrelevant for political trust. Citizens with any kind of economic perception have converged to a rather high level of political support. Respondents with negative economic perceptions, who – despite their negative economic evaluations – extend substantively more trust towards the political system, drive this convergence. This effect is sizeable. An economically very dissatisﬁed person nearly doubles their political trust score over the course of March 2020.
+
+Figure 3 shows a similar pattern for social trust. As Covid-19 cases accumulate, respondents with low interpersonal trust become substantially more trusting of their political system. However, in contrast to economic evaluations, convergence is smaller, with social trust still having a sizeable marginal effect on political trust at the peak of the pandemic. Still, given the fact that social trust is a rather resilient attitude, the observed convergence underlines the severe consequences the pandemic has for political trust. The large uncertainty and collective angst activated by the pandemic push standard mechanisms of trust formation to the sidelines and lead people with very different perceptions to converge on a high level of diffuse political support.
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POLITICAL TRUST DURING THE COVID-19 PANDEMIC 1015
+
+Figure 3. Predicted values of political trust over social trust and Covid-19 case numbers, based on Table 2. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+Conclusion
+
+How can we interpret the substantial rise in diffuse political support during the ﬁrst wave of the Covid-19 pandemic? In contrast to recent research, I argue that we should focus on the dynamic of the pandemic, rather than the lockdown measures. Dutch survey data collected during March 2020 suggest that the lockdown was irrelevant for political trust formation. Accounting for nonlinearities and interactions in the statistical model of trust suggests that the accumulation of Covid19 infections increased political trust. In line with the idea of an emotionally driven anxiety effect, I ﬁnd that rising Covid-19 numbers lead to increased political trust, while standard determinants of political trust lose relevance in the face of the pandemic. This suggests that the exponential growth of Covid-19 cases made people converge to a high level of diffuse political support.
+
+In agreement with Bol et al. (2020), I ﬁnd a strong increase in diffuse political support over the intensifying pandemic. However, my analysis suggests that we should be cautious to interpret this as a lockdown effect. I propose that the exceptional collective threat created by the pandemic fundamentally changes political trust formation. The shift, however, is driven by the intensity of the crisis and not the speciﬁc government measures. This is underlined by my ﬁnding that economic evaluations and social trust substantially lose their explanatory power as Covid19 incidents accumulate. Future political science research should focus more strongly on this theoretical mechanism. We still need to learn how emotions matters for political trust formation.
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1016 DOMINIK SCHRAFF
+
+Here, recent advances in research on the role of emotions for populism can serve as a useful guidance (Marx 2019; Rico et al. 2017).
+
+Online Appendix
+
+Additional supporting information may be found in the Online Appendix section at the end of the article:
+
+Figure A1: Distribution of cases over day of March 2020. Table A1: Replication of Bol et al. (2020), OLS estimates. Table A2: KRLS estimates of political trust, average marginal effects. Table A3: Robust RD estimates of lockdown effect. Table A4: Descriptive statistics.
+
+Notes
+
+1. This is an advantage compared to the comparative survey data used by Bol et al. (2020). Bol et al. (2020) only
+
+have a couple of clustered responses before and after the lockdowns, which make a clear identiﬁcation of the lockdown effect and timing issues difﬁcult. 2. https://github.com/J535D165/CoronaWatchNL 3. A table with descriptive statistics on all variables used in the analysis can be found in Table A4 of the
+
+Appendix. 4. The permutation tests provided by Bol et al. (2020) randomly vary the lockdown date. This misses the point, as
+
+identiﬁcation rests on the absence of arbitrary treatments left of the cutoff. 5. See Table A3 in the Appendix. 6. Both of these variables could themselves be affected by the Covid-19 pandemic, introducing post-treatment bias.
+
+However, the effect of the Covid-19 case numbers and the non-effect of the lockdown are also present in a KRLS model without social trust and economic evaluations (see Table A2 in the Appendix). 7. Conﬁdence intervals are based on 100 bootstrap samples with a run time of about 7 hours.
+
+References
+
+Bechtel, M.M. & Hainmueller, J. (2011). How lasting is voter gratitude? An analysis of the short- and long-term
+
+electoral returns to beneﬁcial policy. American Journal of Political Science 55(4): 852–868. Beiser-McGrath, J. & Beiser-McGrath, L.F. (2020). Problems with products: Control strategies for models with
+
+interactive and quadratic effects. Political Science Research and Methods 8(4): 707–730. Bol, D., Blais, A., Giani, M. & Loewen, P.J. (2020). The effect of COVID-19 lockdowns on political support: Some good news for democracy? European Journal of Political Research 1–13. https://doi.org/10.1111/1475-6765.12401 Cattaneo, M.D., Idrobo, N. & Titiunik, R. (2019). A practical introduction to regression discontinuity designs.
+
+Cambridge elements: Quantitative and computational methods for social science. (Vol. II). Cambridge, UK: Cambridge University Press. Dellmuth, L.M. & Tallberg, J. (2020). Why national and international legitimacy beliefs are linked: Social trust as
+
+an antecedent factor. The Review of International Organizations 15(2): 311–337. Easton, D. (1975). A re-assessment of the concept of political support. British Journal of Political Science 5(4):
+
+435–457. Esaiasson, P., Sohlberg, J., Ghersetti, M. & Johansson, B. (2020). How the coronavirus crisis affects citizen trust in
+
+government institutions and in unknown others – Evidence from “the Swedish experiment. European Journal of Political Research. https://doi.org/10.1111/1475-6765.12419.
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+POLITICAL TRUST DURING THE COVID-19 PANDEMIC 1017
+
+Foster, C. & Frieden, J. (2017). Crisis of trust: Socio-economic determinants of Europeans’ conﬁdence in
+
+government. European Union Politics 18(4): 511–535. Hainmueller, J. & Hazlett, C. (2014). Kernel regularized least squares: Reducing misspeciﬁcation bias with a ﬂexible
+
+and interpretable machine learning approach. Political Analysis 22(2): 143–168. Hetherington, M.J. & Nelson, M. (2003). Anatomy of a rally effect: George W. Bush and the war on terrorism.
+
+Political Science and Politics 36(1): 37–44. Leininger, A. & Schaub, M. (2020). Voting at the dawn of a global pandemic. SocArXiv. Marx, P. (2019). Anti-elite politics and emotional reactions to socio-economic problems. experimental evidence on
+
+‘pocketbook anger’ from France, Germany, and the United States. British Journal of Sociology 00: 1–17. Merkley, E., Bridgman, A., Loewen, P.J., Owen, T., Ruths, D. & Zhilin, O. (2020). A rare moment of cross-partisan
+
+consensus: Elite and public response to the COVID-19 pandemic in Canada. Canadian Journal of Political Science 00: 1–8. Muñoz, J., Falcó-Gimeno, A. & Hernández, E. (2020). Unexpected event during survey design: Promise and pitfalls
+
+for causal inference. Political Analysis 28(2): 186–206. Porat, R., Tamir, M., Wohl, M.J.A., Gur, T. & Halperin, E. (2019). Motivated emotion and the rally around the
+
+ﬂag effect: Liberals are motivated to feel collective angst (like conservatives) when faced with existential threat. Cognition and Emotion 33(3): 480–491. Rico, G., Guinjoan, M. & Anduiza, E. (2017). The Emotional underpinnings of populism: How anger and fear affect
+
+populist attitudes. Swiss Political Science Review 23(4): 444–461. Tabri, N., Hollingshead, S.J. & Wohl, M.J.A. (2020). Framing COVID-19 as an Existential threat predicts anxious
+
+arousal and prejudice towards Chinese people. PsyArXiv. van der Meer, T. & Dekker, P. (2011). Trusting citizens? A multilevel study into objective and subjective
+
+determinants of political trust. In: S. Zmerli & M. Hooghe (eds.), Political trust. Why context matters. Colchester, UK: ECPR Press. Van Erkel, P.F.A. & Van Der Meer, T.W.G. (2016). Macroeconomic performance, political trust and the Great
+
+Recession: A multilevel analysis of the effects of within-country ﬂuctuations in macroeconomic performance on political trust in 15 EU countries, 1999–2011. European Journal of Political Research 55(1): 177–197.
+
+Address for correspondence: Dominik Schraff, Center for Comparative and International Studies, ETH Zürich, Haldeneggsteig 4, Zürich, 8092, Switzerland. Email: dominik.schraff@eup.gess.ethz.ch
+
+© 2020 European Consortium for Political Research
+
+14756765, 2021, 4, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12425 by Iscte, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

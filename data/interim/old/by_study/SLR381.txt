@@ -1,0 +1,547 @@
+Electoral Studies 80 (2022) 102527
+
+Available online 14 September 2022 0261-3794/© 2022 Elsevier Ltd. All rights reserved.
+
+Closing the gap? The populist radical right and opinion congruence between citizens and MPs
+
+Marie Kübler *, Armin Sch¨afer
+
+University of Mainz, Jakob-Welder-Weg 12, 55128, Mainz, Germany
+
+A B S T R A C T
+
+Some observers argue that right-wing populist parties improve representation because they speak for groups that are otherwise under-represented. In that sense, populist parties might prove beneficial for democracy. However, we lack empirical studies that support this claim. In this paper, we undertake a first step to fill this research gap. We analyse whether the electoral success of right-wing populist parties increases opinion congruence between citizens and members of parliament. Looking at the case of Germany, we will examine whether the rise of the Alternative für Deutschland (AfD), which first entered parliament in 2017, led to higher congruence between MPs and citizens. In our analyses, we use two waves of the GLES candidate study conducted in 2013 and 2017 and match those to representative surveys of the population. We use twelve items to measure opinion congruence before and after the AfD entered parliament. The analyses show that overall congruence has increased partly because AfD-parliamentarians’ views on migration compensate for the previous over-representation of more liberal positions of established parties. However, beyond immigration, congruence between the AfD parliamentarians and survey respondents is not particularly high.
+
+1. Introduction
+
+If established parties represented everyone equally well, right-wing populist parties (RWPP) would not be able to claim to speak for those who are represented poorly. In this case, their self-proclaimed aim to give voice to the ignored would not resonate. However, RWPP’s appeals increasingly seem to fall on fertile ground. In many rich democracies, these parties have made inroads into the party systems over the last two decades. Many observers note that populists exploit the perception that established parties do not adequately represent “the people.” For example, Weyland (2001, 14) argues that populists win support “by ‘representing’ people who feel excluded or marginalized from national political life and by promising to rescue them from crises, threats, and enemies.” Mudde and Kaltwasser (2017, 51) note that “… populist po­ litical parties use populism to challenge the establishment and to give voice to groups that feel unrepresented.” Similarly, M´eny and Surel (2002, 11) maintain that “… feelings of powerlessness, of not being able to voice dissatisfaction effectively, of not being able to make oneself heard, are all fertile ground for populist parties.” However, only few studies empirically test if RWPP truly improve representation and none of those, as far as we can tell, looks at the question if changes in the composition of parliament lead to changing levels of issue congruence. In this article, we seek to close this gap. While studies show that there is a substantial mismatch between citizens’ and parliamentarians’ views on many issues, they usually do not investigate whether the emergence
+
+of right-wing populist parties reduces this gap. If populist parties adopt programmatic appeals that are in line with under-represented groups’ preferences, they could improve representation in this regard. So far, however, we lack knowledge about the match or mismatch between citizens’ policy preferences and the positions of RWPP. There are several ways to tackle this question. In what follows, we focus on changes in “opinion congruence” between representatives and represented. To do so, we rely on elite and population surveys that ask parliamentarians and citizens identical questions. Comparing the an­ swers allows measuring “many to many congruence” for a number of issues and assessing how strongly MPs’ and citizens’ opinions overlap. To answer the question if RWPP increase congruence, we compare opinions of the German public to MPs in 2013 and 2017. This compar­ ison is particularly well suited to answer our research question. In 2013, the newly founded Alternative für Deutschland (AfD) failed to enter parliament but in 2017, it did. Therefore, we can compare opinion congruence before and after the entry of a RWPP, which makes it possible to trace its effect on the representation of policy preferences. Looking at specific issues rather than the left-right self-placement makes it possible not only to ask if RWPP increase congruence but also with regard to which topics. We find that between 2013 and 2017 opinion congruence indeed increased. There are at least three reasons. First, the right-wing populist AfD does increase congruence on certain issues, most prominently with regard to immigration. Second, MPs from other parties have shifted
+
+* Corresponding author. E-mail addresses: kuebler@politik.uni-mainz.de (M. Kübler), schaefer@politik.uni-mainz.de (A. Sch¨afer).
+
+Contents lists available at ScienceDirect
+
+Electoral Studies
+
+journal homepage: www.elsevier.com/locate/electstud
+
+https://doi.org/10.1016/j.electstud.2022.102527 Received 6 December 2021; Received in revised form 20 August 2022; Accepted 21 August 2022
+
+Electoral Studies 80 (2022) 102527
+
+2
+
+towards AfD positions on some issues. Finally, the match between par­ liamentarians and politicians has increased because the public, on average, has become somewhat more liberal—moving away from the populists—with regard to some cultural issues and, thus, moved closer towards MPs’ opinions. However, while we find these effects, it is equally worth noting that the overall programmatic appeal of the AfD does not fit particularly well to the preferences of citizens. For example, with regard to redistribution, environmental questions, or gender equality, AfD parliamentarians are much more conservative than the general public. Given these patterns, it seems safe to assume that right- wing populist parties receive more support when the public salience of immigration is higher (Dennison and Geddes, 2019; Dennison 2020)— whereas if income inequality or unemployment are most salient, their ability to give voice to the under-represented is much lower (Lefkofridi et al., 2014; Sipma and Berning, 2021). This article is structured as follows: The next section presents the current state of research regarding the connection between right-wing populism and (in)congruence in Western Europe. Against this back­ ground, the third section will introduce the case of the German right- wing populist party Alternative für Deutschland. We will develop three hypotheses on the effects that the entry of this party into parliament has on opinion congruence. Before we test these hypotheses empirically, the fourth section explains the advantages of the data and methodological approach we employ. In the fifth section, we will present the empirical results in detail. In the conclusion, we discuss implications of our find­ ings and approaches for further research.
+
+2. Closing the gap? Unequal congruence and radical right-wing populism
+
+Parties have to fulfil a dual task, as Peter Mair (2009) notes. They have to represent their voters and they have to govern. However, these two tasks are not identical and, according to Mair, increasingly in ten­ sion with each other. To govern responsibly means to accept and live up to many obligations that follow from commitments previous govern­ ments agreed to and that international treaties define. A new govern­ ment cannot start anew but will have to adhere to many decisions taken in the past. In contrast, representation means to respond the preferences of the people or, at least, one’s voters (see also Pitkin and Hanna, 1967: 208–209). Yet, the more (international) obligations exist, the more difficult it becomes to govern responsively. As a result, governments often justify their decisions not with references to a particular constit­ uency but rather as an inevitable step to solve a given problem or to meet pre-existing obligations. Inevitably, this will give rise to a more tech­ nocratic style of decision making and political communication. The shift towards a more technocratic and de-politicized decision- mode leaves ample room for parties who stress representation over re­ sponsibility. Populist parties call for a more radical and responsive form or representation that is freed from the iron cast of responsibility (Car­ amani 2017: 63). They exploit the fact that governing parties cannot easily square the dual demands of responsible and responsive govern­ ment. In particular, populists proclaim to improve representation and speak for those who are or at least feel poorly represented. In fact, in the debate about the consequences of populism for democracy, Mudde and Kaltwasser (2012: 168) stress that populist can give “voice to groups that do not feel represented by the elites, by putting forward topics relevant for a ‘silent majority’” and represent “excluded sections of society by implementing policies that they prefer.” However, it is an empirical question if populist parties indeed improve representation. In principle, populist parties could make parliaments more repre­ sentative in three ways (see also Werner and Giebler, 2019). First, they could increase symbolic representation because they address topics that other parties ignore or because they militate against norms of political correctness that some citizens find exaggerated. Second, populist parties could improve descriptive representation for some groups. For example, if populist parties had a higher share of working-class MPs than other
+
+parties, this would improve the descriptive representation of workers. Finally, by entering parliament, populist parties could substantively improve representation if their policy positions were more congruent with those of citizens than the positions of other parties and if they managed to pass them into laws. Yet, there are not many studies that analyse whether populist electoral success leads to improved represen­ tation. In this article, we focus on substantial representation and zoom in on the opinion congruence between citizens and MPs. Rather than focusing on government, we look at the entire parliament. If represen­ tation not just means making decisions but also giving voice to opinions that are important for the represented, even opposition parties can improve representation. Focusing exclusively on government decisions would not do full justice to the concept of representation. The populist assertion to speak for poorly-represented groups would not resonate if representation was working well (Runciman 2019: 72). However, recent studies show that parliamentarians do not represent everyone equally well and that their opinions differ from citizens’ preferences. For example, citizens tend to be less liberal than their representatives are on cultural issues such as immigration or European integration (Costello et al., 2012; Rosset and Stecker, 2019; Schakel and Hakhverdian, 2018). On economic issues, a similar, but smaller repre­ sentation gap exists as citizens position themselves to the left of MPs (Freire and Belchior, 2013; Dalton 2017; Thomassen 2012; Rossett, 2013; Carnes and Lupu, 2015).1 In particular citizens with fewer re­ sources find substantial gaps between their own preferences and those of political elites. Several studies document a better fit between the opin­ ions of better-off and higher-educated citizens and MPs (Schakel and Hakhverdian, 2018; Rosset and Stecker, 2019; Lefkofridi and Giger, 2020; Persson 2021). Recent studies also highlight another specific pattern of incongru­ ence: Citizens who combine economically left wing and culturally con­ servative positions might face a particularly large mismatch between their own opinions and those of parliamentarians. While left- authoritarian views are common among citizens, parties (and MPs) usually combine left-libertarian or right-authoritarian positions (Lefko­ fridi et al., 2014; Hillen and Steiner, 2020). Accordingly, Thomassen (2012) speaks of a “blind corner of representation.” Finally, a number of studies analyse how voters react to incongruence. In this context, it is relevant whether voters and politicians are able to correctly assess each other’s positions. Several studies show that this is not always the case and, for instance, voters tend to underestimate the level of incongruence with the party they voted for or the party they like (Steiner and Hillen, 2021; Nasr 2021) and electoral winners perceive greater ideological congruence with their party than electoral losers (Best and Seyis, 2020). What is more, low levels of congruence between citizens on the one side and parties or MPs on the other negatively affect political trust, satis­ faction with democracy, and influence voting behaviour (Hillen and Steiner, 2020; Steiner and Hillen, 2021; Bakker et al., 2018; Bakker et al., 2020; Stecker and Tausendpfund, 2016; Ferland 2021; van Egmond et al., 2020). In sum, studies about opinion congruence show that there is a considerable mismatch between (some groups of) citizens and MPs. However, it is less clear whether right-wing populist parties narrow this gap. For challenger parties more generally, previous research did not show a particularly high level of congruence with their electorate. Using Voting Advice Application (VAA) data from 2018, Masi (2021) finds that the match between Italian potential M5S voters and the party is rather average, “contrary to what we would expect from a populist party”
+
+1 Most studies discuss these opinion gaps as problematic: A high degree of congruence between citizens and delegates is considered desirable as it implies ‘better’ representation. While we share this position, it is important to note that this does neither mean to endorse a majoritarian understanding of democracy nor to equate higher congruence with better democracy since majority opinion might favour violating minority rights.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+3
+
+(Masi 2021: 78). Pedrazzani and Segatti (2021) find no higher voter-party congruence for anti-establishment parties in Italy and Spain after the Great Recession on either the left-right scale or specific policy issues. Similarly, Tsatsanis and Kakepaki (2021) conclude that chal­ lenger parties in Spain and Greece are “neither better nor worse repre­ sentatives than mainstream parties” as they do not differ in their level of voter-party issue congruence. However, these studies refer to new parties in general and not explicitly to right-wing populist parties. With regard to RWPP specifically, some argue that they reach out to voter groups holding left-authoritarian views. For example, Rovny and Polk, 2020 present some evidence that radical right parties adopt a left-leaning discourse but also stress that the economic positions of these parties have stayed blurry. According to their findings, support for RWPP remains driven by party-voter congruence on immigration. Backlund and Jungar (2019) analyse voter-party-congruence on four policy issues related to core ideological features of RWPP, namely immigration, European integration, gay rights and civil liberties. For ten West European countries, they find high congruence between PRR parties and their voters’ (negative) attitudes towards immigration and in their opposition to the European Union. With regard to the rights of homosexuals and civil liberties, though, these parties represent their voters less well. Analysing ideological congruence on the cabinet-level in a large-N setting, Huber and Ruth (2017) fail to find a positive ef­ fect of RWPP on left-right congruence. In addition, Plescia at al. (2019: 13) argue that right-wing populist parties are no more responsive to the public than their mainstream counterparts. In their study on Austria, Germany and Italy, the effect of public saliency on parties’ Twitter emphasis on the issue is just slightly stronger for populist parties on the issues they own. However, none of these studies examines how the emergence of a new RWPP affects opinion congruence between citizens and MPs. Though often assumed, it remains unclear to what extent the emergence of right-wing populist parties increases opinion congruence. We seek to answer this question in the next sections of this paper.
+
+3. Case selection and hypotheses
+
+To test whether the entry of a right-wing populist party into parlia­ ment increases opinion congruence, we analyse data from the German Longitudinal Election Study (GLES). The German case is particularly relevant because the AfD entered national parliament for the first time in 2017. Therefore, we can compare opinion congruence before and after a RWPP entered parliament and analyse congruence on both the overall parliamentary level and the voter-party level. For a long time, there had been no successful radical right-wing party in Germany. This has changed only recently with the emergence of the Alternative für Deutschland. However, when the AfD was founded in 2013, it was less than a full-blown populist party (Arzheimer 2015; Jankowski et al. 2017). Instead, it was a single-issue party that primarily channelled the Euroscepticism triggered by the Eurozone crisis. In 2015, the party’s founder and former chairman Bernd Lucke left the party along with several supporters, after losing a power struggle against Frauke Petry, who represented the national-conservative party wing. Subsequently, immigration became the party’s central issue. Since then, at the latest, the AfD has to be considered a right-wing populist party. Many observers have linked the AfD’s electoral success to its highly salient attitudes towards refugee admission and immigration as the crucial topics of the 2017 election (Mader and Schoen, 2019; Pappi et al., 2019; Franzmann et al., 2020; Muno and Stockemer, 2021). As the only party in parliament that is generally opposing immigration and the admission of refugees in particular, the AfD may have increased the overlap between politicians and voters’ positions by representing pre­ viously under-represented attitudes. In general, RWPPs can only improve opinion congruence if they offer a platform that differs from that of their competitors. Hence, we test the following hypothesis:
+
+H1. Populist radical right parties offer programmatic appeals that
+
+differ from those of established parties The entry of the AfD is, of course, not the only variable that could explain changes in congruence. We assume at least three other factors: For instance, the changes in parliamentary group size of established parties between 2013 and 2017 may have had an effect on the level of congruence. Additionally, voters’ positions and/or the established parties’ positions may also have changed over time. This latter factor, in particular, seems plausible: According to the current state of research, mainstream parties’ strategies influence the success of niche parties. According to Meguid (2008: 30), mainstream parties have to choose between a dismissive, an accommodative, or an adversarial strategy in reaction to challenger parties. The latter two will increase the issue salience and, in particular, an adversarial strategy might further the agenda of niche parties and reinforce their issue ownership. Given these choices, mainstream parties often move towards the policy position of challenger parties claiming issue ownership themselves (Adams et al., 2009). In line with this reasoning, several studies show that centre-right parties have stressed issues like law and order and have become more restrictive on multiculturalism and immigration in response to the rise of the populist right (Bale 2003; van Spanje and Joost, 2010; Han 2015; Akkerman 2015; Abou-Chadi and Tarik, 2016; Schumacher et al., 2016). There is already some evidence for this effect in the current German case. Jankowski et al. (2019) measure parliamentary candidates’ ideo­ logical shifts based on the GLES candidate campaign surveys 2013 and 2017. They find a move to the right on the cultural axis especially for centre-right parties. For left-wing parties, only modest changes are observable. If these position shifts positively influence the level of congruence, one could thus speak of an indirect effect of the AfD.2
+
+The literature suggests that right-wing populist parties might fill the previously unoccupied quadrant and close a supply gap for citizens with left-authoritarian views. However, since the AfD is classified as right wing on both the cultural and the economic axis (Thomeczek et al., 2019; Jankowski et al., 2019) and other parties already cover left po­ sitions on the economic axis, there is limited room for congruence changes. Hence, we do not expect the AfD to increase congruence on both dimensions. To shed light on this question, we test the following hypothesis:
+
+H2. The entry of RPP into parliaments improves issue congruence on cultural but not on economic issues. In addition to the general congruence, we will also examine the congruence between parties and their voters to find out how well the AfD represents its own voters. Is the party a “perfect match” for a specific voter group? According to Ezrow et al. (2011), anti-establishment parties primarily respond to their own voters, whereas established parties respond to the median voter. However, whether populist parties are generally more congruent with their voters than established parties is still disputed, as mentioned earlier. We know that support for radical right parties is mainly driven by congruence on cultural issues, regard­ less of (in)congruence on redistribution (Rovny and Polk, 2020). It is therefore likely that the positions of AfD MPs and AfD voters are pri­ marily congruent on the cultural dimension. But even on the cultural axis, RWPPs might not be equally congruent with their electorate on all issues. Backlund and Jungar find PRR parties to be highly congruent with their voters only on the issues they own, namely immigration and European integration (Backlund and Jungar, 2019). Still, we test the following more general hypothesis:
+
+H3. RPP have a high level of issue congruence with their own voters on cultural issues. Before we present the empirical analyses, we discuss the methods and data we use in the next section.
+
+2 However, we cannot rule out that these shifts also were influenced by other factors such as problem load, issue salience, or media reports. It is beyond the scope of this article to investigate these possibilities, though.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+4
+
+4. Data and methods
+
+4.1. Data and variables
+
+To test the hypotheses, we use data from two waves of the German Longitudinal Election Study (GLES) providing information on the policy preferences of citizens and politicians. The candidate survey series in­ cludes responses from 1137 candidates in 2013 and 803 candidates in 2017, of which 232 and 186, respectively, received a mandate. The response rate of the study was 41 per cent in 2013 and 32 per cent in 2017, excluding respondents who answered less than 75 per cent of the questionnaire. In addition to the candidates, between 2000 and 2200 citizens were interviewed in the run-up to the respective elections. Moreover, about 1900 to 2100 citizens were interviewed after each election. In our analysis, we will match candidate surveys to these general population surveys to calculate the level of opinion congruence between both groups. We focus primarily on elected candidates (=MPs), but we find almost identical patterns among all candidates that initially ran for office (see part 3 of the Appendix). CDU/CSU and AfD candidates and MPs are under-represented in both survey waves (see Table 2 in the Appendix). To deal with this non-response bias, we use post- stratification weights in our analyses.3 As for the voters, we will use the cumulated version of the voter surveys when referring to the overall level of congruence, and the post-election version when referring to congruence between parties and their voters. In a first step, we compare questionnaires from the candidate surveys conducted in 2013 and 2017 and the voter surveys of the same years, to identify questions about policy positions that both groups have been asked. Table 1 presents an overview of issues covered by both surveys. For our analyses, we identified twelve questions that both candidates and citizens answered. Three of these questions are answered on a scale of one to eleven, while the other nine are statements that the in­ terviewees can agree or disagree with on a five-point Likert scale. These questions cover a broad range of topics: Among the eleven questions are highly discussed ones, such as the call for an annual upper limit for refugee admission, but also less salient ones such as the question whether there should be a female quota in supervisory boards of large companies. Some questions are specific, whereas others are rather general. However, we think that the selected issues make it possible to measure congruence and changes in congruence in a meaningful way.4
+
+The comparison of 2013 and 2017 is particularly well suited to identify the effect of a right-wing populist party on congruence because the AfD was founded in 2013 and only entered parliament in 2017. As the AfD was a party with a very limited program in 2013, it is not very likely that it influenced the position of MPs from other parties on the issues we use in the subsequent analyses. We also calculate many-to- many congruence with and without AfD MPs for 2017 to trace the ef­ fect this party had.
+
+4.2. Measuring congruence
+
+Many studies investigate citizen-elite congruence. There are, how­ ever, different ways how to do so. Differences exist in the operational­ isation of voters’ preferences—most studies refer to the median voter or to the mean, some to the distribution or directions of preferences among the voters (Shim and Gherghina, 2020). While most studies focus on
+
+ideological congruence on the left-right axis, we analyse issue congru­ ence, also referred to as policy congruence or opinion congruence. One problem with ideological congruence is that this measure potentially overestimates the degree of political representation (Costello et al., 2012; Schakel and Hakhverdian, 2018; Rosset and Stecker, 2019; Pedrazzani and Segatti, 2021). Studies that measure congruence on a left-right scale, usually find a good match between voters and repre­ sentatives. However, studies that investigate congruence on specific policies come to less sanguine results. The concept of issue congruence reflects our assumption of a multidimensional political space consisting of at least one economic and one cultural axis. Parliamentarians could be to the left of citizens in one dimension, while at the same time more to the right in another. Besides referring to specific policy positions, we also take the distribution of views into account: Rather than using a
+
+Table 1 Issues covered by both the GLES candidate survey and the GLES voter survey.
+
+Issue Question/Statement Response options Year
+
+Welfare state Are you in favour of lower taxes, even if that means less welfare state services, or in favour of more welfare state services, even if that means higher taxes?
+
+1 (less taxes) to 11 (more welfare state services)
+
+2013, 2017
+
+Economic intervention Government should not intervene in the economy. Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+Inequality The government should initiate measures to reduce income inequality.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+EU redistribution Germany should financially support EU member states that are experiencing severe economic and financial difficulties.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+Immigration Should immigration opportunities for foreigners be facilitated or restricted?
+
+1 (strongly facilitated) to 11 (strongly restricted)
+
+2013, 2017
+
+Refugee limit There should be an annual upper limit on refugee admission.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2017
+
+Assimilation of immigrants Immigrants should be obligated to assimilate to German culture.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+Gender quota There should be a female quota in supervisory boards of large companies.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+Same-sex marriage Same-sex marriage should be forbidden by law (candidate survey)/Same- sex marriage should be allowed (voter survey).
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2017
+
+Nuclear power Energy supply should be secured with nuclear power.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+Climate Protection Should combating climate change be a priority in any case, even if it harms economic growth, or should economic growth be a priority in any case, even if it makes combating climate change more difficult?
+
+1 (combating climate change as priority) to 11 (economic growth as priority)
+
+2013, 2017
+
+Referendums Citizens should be able to initiate a binding referendum at the federal level.
+
+Totally agree, agree, in part, disagree, strongly disagree
+
+2013, 2017
+
+Rattinger et al., (2014); Rattinger et al., (2019); Roßteutscher et al., (2018); Roßteutscher et al., (2019).
+
+3 Additional information on the sample quality and post-stratification weighting can be found in part 1 of the Appendix. Further, we provide ana­ lyses of the candidate data to test the reliability of the MP sample.
+
+4 Note, however, that we do not imply that MPs should implement whichever policies a majority favors. If we follow Pitkin’s (1967: 233) concept of repre­ sentation, a mismatch between citizens and representatives’ views necessitates that the latter explain their own positions carefully and engage in a meaningful dialogue with the former.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+5
+
+measure of central tendency, we use the concept of “many-to-many“ congruence (Golder and Stramski, 2010).
+
+Golder and Stramski (2010) suggested measuring the overlap be­ tween the distribution of citizens’ preferences and the distribution of representatives’ preferences. For both groups, the proportion at each point of the distribution is compared and the respectively lower value is added up.5 Calculated in this way, congruence can vary between 0 and 100 per cent. As Golder and Stramski (2010: 96) put it: “Congruence is high when the distributions of citizen and representative preferences are similar; it is perfect when the two distributions are identical.” Following the same logic, Lupu et al. (2017) introduced the “Earth Mover’s Dis­ tance” as another form of many-to-many congruence. The EMD does not measure the overlap but uses an algorithm to compute the cost of equalizing both distributions. The lower the EMD value, the smaller the distance between two distributions, hence, the higher the congruence. Despite several advantages attributed to this new measure,6 we think that measuring the overlap is more suitable for our project. While binning data can be problematic for continuous variables, this limitation of overlap measures is not relevant for our study as we only use ordinal variables. No information is lost due to binning in our case since each bar represents exactly one value. A disadvantage of the EMD for our case is that its range depends on the scale of the examined variable. Measuring congruence levels in percent makes our results easier to compare and more intuitively interpretable. In the following section, we will there­ fore use the overlapping method to calculate many-to-many congruence for citizens and MPs in the 2013 and the 2017 elections. We will analyse citizen-elite congruence at the overall level, and congruence between voters and members of parliament at the party level. To make sure that our findings are not driven by the use of this particular way of measuring congruence, we additionally calculate the EMD congruence. Overall, both measures of congruence produce very similar results.7
+
+To give an example of how to calculate (changes in) many-to-many congruence, Fig. 1 plots one issue at two points in time. The figure shows the respective distributions of answers for MPs and citizens layered on top of each other. Many-to-many congruence measures the overlap between the light-grey coloured distribution of citizens’ posi­ tions and the dark-grey coloured distribution of MPs’ positions. We sum these five percentage shares, coloured medium grey in the plot, to calculate simple congruence.8 The better the distributions match, or in other words, the smaller the exclusively light or exclusively dark areas are, the higher the degree of congruence. For this particular question, MPs and citizens reached 63.1 per cent agreement in 2013, but 83.4 per cent in 2017. In the same manner, we can calculate opinion congruence for each item and year to evaluate possible changes. However, the estimates of the initial distributions rely on survey data. To make our results more reliable and to test whether differences in congruence scores are statistically significant, we follow Schakel and
+
+Hakhverdian (2018) in using a bootstrapping method. Bootstrapping is a resampling technique that uses “the data of a sample study at hand as a ‘surrogate population’, for the purpose of approximating the sampling distribution of a statistic; i.e. to resample (with replacement) from the sample data at hand and create a large number of ‘phantom samples’ known as bootstrap samples” (Singh and Xie, 2008: 2). In our case, we draw 1000 random samples (with replacement) from both the MP and the citizens’ sample. For each of these 1000 sample combinations, we calculate many-to-many congruence following the previously explained strategy. Based on these 1000 observations of many-to-many congru­ ence, we then calculate mean levels of congruence and estimate 95 per cent confidence intervals based on the standard deviation. However, we cannot infer from these values if differences between the means are statistically significant. Therefore, we repeat the bootstrapping and now calculate the mean difference with a 90 and 95 per cent confidence in­ terval. If the confidence interval of the difference does not include “0,” the difference is statistically significant.
+
+5. Results
+
+5.1. Programmatic diversity among parties
+
+In order to be able to close representation gaps, right-wing populist parties must differ from established parties in their policy positions, as the first hypothesis suggests. In line with Jankowski et al. (2019), Fig. 2 shows that AfD candidates in the 2017 election campaign indeed had a specific opinion profile that deviated from that of established parties: The AfD is the only party on the far right of the cultural axis. For example, AfD candidates came out strongly in favour of cultural assimilation of immigrants and against supporting financially weaker EU states. On the cultural dimension, the party clearly adopts a nationalist position, to the right of the centre-right parties FDP and CDU. This holds true for all examined issues, as Figs. 8 and 9 in the Appendix document. On the economic dimension, the position of the AfD candi­ dates is less clear-cut: For instance, candidates are mostly opposed to state intervention in the market, but disagree on whether measures against income inequality are needed. If the AfD closes a representation gap, congruence improvements can therefore be expected on cultural issues in particular.
+
+5.2. General patterns of (in-)congruence
+
+In a next step, we calculate how many-to-many congruence between citizens and MPs changed between 2013 and 2017. For each item, we estimate opinion congruence with a 95 per cent confidence interval based on resampling the data 1000 times. Additionally, we calculate the bootstrapped differences between congruence in 2013 and 2017 with confidence intervals (see above). In this way, we can assess whether the differences in congruence between the two parliaments are statistically significant. Fig. 3 shows the results. Overall, we observe an increase in opinion congruence between 2013 and 2017. For seven out of ten items, the overlap between the MPs and citizens’ preferences increases (left panel) and for four items the increase is statistically significant at the 95 per cent level. At the same time, congruence decreases for the question whether the government should intervene in the economy, gender quotas, and climate protection, though only for the latter to a significant extent. What explains the overall rise in voter-party congruence? We will answer this question by discussing issues with a particularly high in­ crease at the general and at the party level.9 Most obviously, congruence increases with regard to questions concerning immigration. Despite the fact that voters have become more liberal on immigration, a considerable
+
+5 Although Golder and Stramski (2010) originally recommended using cu­ mulative frequencies, we follow Andeweg (2011) and Schakel and Hakhverdian (2018) and use probability distribution functions.
+
+6 First, EMD does not require “binning” data into histograms and therefore ignoring within-bin variation. Second, while overlapping measures do not consider the amount and location of the not-overlapping data, the EMD in­ cludes this information. Finally, the EMD can easily operationalise congruence in a multidimensional way.
+
+7 A comparison of the EMD results and results of the overlap measure can be found in part 5 of the Appendix.
+
+8 We do not consider NAs. Including NAs would reduce the level of congru­ ence, since in all cases the proportion of citizens giving no response was higher than the corresponding share of politicians. Further, we use post-stratification weights to correct over-representation of certain parties among the elected candidates when calculating the overall congruence between representatives and citizens. Further information on the non-response bias and the calculation of weights can be found in the Appendix. When calculating congruence between parties and their own voters, we do not use weights.
+
+9 Distributions of MPs and citizens discussed here can be reproduced using the provided replication script.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+6
+
+gap between their opinions and that of MPs remains. For example, in 2013, 58.8 per cent of citizens were in favour of restricting the oppor­ tunities for foreigners to move to Germany, compared to 51.3 per cent in 2017. At the same time, the proportion of MPs who were sceptical about immigration increased: in 2017, 37.2 per cent of parliamentarians were in favour of limiting immigration opportunities; in 2013, only 12.6 per cent were. Regarding migrants’ “duty to assimilate,“ voters have become slightly more liberal, too, while politicians have become more conser­ vative over time, even if both groups still differ significantly. In 2017,
+
+63.8 per cent of citizens (strongly) agreed that immigrants have to assimilate, further 22.5 per cent partly agreed, and only 13.7 per cent disagreed or strongly disagreed. In 2013, as much as 70.3 per cent strongly supported this demand. In contrast, only a third (33.4 per cent) of parliamentarians clearly called for mandatory assimilation in 2013, while 41.6 per cent were clearly against it. But within four years, MPs’ positions shifted: At the 2017 elections, a relative majority of 47.5 per cent approved or strongly approved the claim. Despite these changes, the overall match remains far from perfect: In 2017, members of
+
+Fig. 1. Opinion differences of citizens and MPs: “Immigrants should be obliged to assimilate to German culture.“Data source: German Longitudinal Election Study (GLES) 2013 and 2017. Note: Light grey bars represent the citizens’ positions on the issue “assimilation of immigrants”; dark grey bars represent the MPs’ positions. The overlap be­ tween both distributions is coloured medium grey. Adding up the five medium grey percentage shares gives the degree of citizen-MP congruence.
+
+Fig. 2. Policy positions of 2017 election candidates per party. Data source: German Longitudinal Election Study (GLES) 2017.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+7
+
+parliament on average wanted to make immigration easier than citizens wanted to, they demanded less assimilation from migrants, and were more likely to oppose an upper limit for refugee admission. On these issues, the AfD narrowed the opinion gap between citizens and MPs without closing it entirely. However, higher levels of congruence were not limited to immigration-related topics. With increases of 22.3 and 17.7 points, respectively, congruence on redistribution within the EU and nuclear energy also improved strongly. In both cases, citizens and politicians moved closer together, but from different directions: Overall, more cit­ izens than MPs were in favour of nuclear energy. In 2017, however, a higher number of parliamentarians supported nuclear energy than in 2013, and at the same time fewer voters did than before. A similar trend can be seen with regard to EU redistribution: the group of supporters among parliamentarians has decreased over time, whereas the propor­ tion of supporters among the electorate has increased. For both ques­ tions, it is noticeable that politicians’ opinions were more polarised, while a larger proportion of citizens positioned themselves centrally. It should be mentioned that citizens are not always more conserva­ tive than MPs are. For example, a smaller proportion of citizens than MPs opposed a mandatory gender quota for supervisory boards of large companies. While in 2013 a majority among parliamentarians supported a gender quota in supervisory boards of large companies, in 2017 a majority opposed it. At the same time, the share of citizens supporting a quota increased, leading to an (albeit non-significant) decrease in congruence. The same is true for the issue “climate protection:” In 2017, more citizens (66.7 per cent) than MPs (49.7) prioritized climate pro­ tection over economic growth. Compared to 2013, the share of citizens
+
+prioritizing climate protection rose even further, whereas the share of MPs decreased, leading to lower congruence on this issue in 2017. On economic issues, citizens are not generally more left leaning than par­ liamentarians are: While they supported measures to combat income inequality to a much greater extent (77.5 per cent) than parliamentar­ ians (51.8 per cent), a smaller percentage of citizens supported the extension of welfare state services (financed by higher taxes). Again, citizens’ opinions were less polarised on this issue than those of MPs, who were often split into a left and a right camp. In general, it seems likely that citizens especially care about congruence regarding issues that are most important to them. It is therefore worth noting that 41.6 per cent of the citizens surveyed mentioned an issue linked to “immigration” as the most important problem in 2017 (see Fig. 20 in the Appendix). There was no such prominent problem in 2013. Back then, only 5 per cent of the citizens were most concerned about immigration while the most-frequently mentioned problems were economic issues, such as distributive jus­ tice, pensions, unemployment and the euro crisis (all mentioned by less than 15 per cent of citizens). When considering how congruence is perceived by citizens, we should therefore keep issue salience in mind (see also: Reher 2015; Giger and Lefkofridi, 2014; Costello et al., 20210; Kurella and Rosset, 2017; Steiner and Hillen, 2021).
+
+5.3. Congruence improvement due to the AfD
+
+While our measure of congruence documents an increase in congruence between 2013 and 2017, the causes are not quite clear yet. There are probably several mechanisms at play simultaneously: Citizens
+
+Fig. 3. Estimated issue congruence between citizens and members of the Bundestag. Data source: Own calculations based on the German Longitudinal Election Study (GLES) 2013 and 2017. Note: Medium grey points represent the level of citizen-MP congruence per issue in 2013, dark grey points represent the level of congruence in 2017. Congruence is calculated as overlap between the distributions of citizens’ and MPs’ opinions. For two questions, data was only available for one year. To test whether changes in congruence are significant, we use bootstrapping to calculate congruence differences in percentage points with 90/95 per cent confidence intervals. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+8
+
+change their positions over time and so do established parties, whose parliamentary group size also changes. Furthermore, not only the AfD entered the Bundestag in 2017 but also the liberal party FDP re-entered after a four-year break. Therefore, the increase in congruence could simply be due to the increase in the number of parties in parliament. To account for this possibility, we analyse how the values for many-to- many congruence differ if we include or exclude these parties. As Fig. 4 demonstrates, congruence between MPs and citizens would not change significantly on any issue if we excluded FDP representatives. However, if the AfD was not present in parliament, congruence would significantly decrease for five issues: Congruence would be lower on issues related to immigration but also on “same-sex marriage” and “referendums.” To test whether the entry of the AfD into parliament indeed lead to congruence shifts between 2013 and 2017, we have additionally ana­ lysed other potential mechanisms (see Figs. 13–19 in the Appendix). While the opinion changes of voters and/or of MPs of established parties alone would have increased congruence on some issues, they cannot fully explain the changes in congruence from 2013 to 2017. Had no new parties entered parliaments, for instance, congruence would have increased significantly less for the issues “immigration,” “assimilation” and “referendums.” At the same time, congruence between citizens and MPs on inequality would have increased, had the AfD not entered parliament. With the AfD, the increase is smaller and no longer signifi­ cant. Hence, the AfD entering parliament affected the pattern of congruence on these issues. To further investigate the match between citizens’ and AfD MPs’ opinions, we calculate congruence grouped by party. As Fig. 5 shows, the AfD delegates do not represent the opinions of the general public very well. The party with the best match with all citizens is the CDU/ CSU.10 The AfD is particularly incongruent with citizens on gender quotas and climate protection. AfD MPs are more strongly opposed to the introduction of a gender quota on supervisory boards of large companies than the electorate is. Also, AfD MPs prioritise economic growth over climate protection, while citizens tend to support climate protection more strongly. For these two issues, overall citizen-MP congruence would be slightly higher without the Alternative for Ger­ many. This is also the case for income inequality, since a sizeable share of AfD MPs opposes measures to reduce income inequality (37 percent), while only 10 percent of citizens do. Remarkably, however, the AfD is also not extremely congruent with the general public on those issues for which the general level of congruence would be significantly lower without the party. This effect is mainly explained by the fact that the AfD takes up positions that the other parties hardly fill at all. Fig. 6 illustrates this for the question whether same-sex marriages should be allowed: Almost all MPs from the Left, the SPD, the Greens or the FDP are strongly against a ban of same-sex marriages. The majority of citizens also at least partly agree to same-sex marriages (86 percent), but only 39 percent strongly agree. By over-representing the sceptics, the AfD compensates the over-representation of ardent supporters through the majority of the established parties. A similar pattern is evident for the assimilation issue: While just under forty percent of the population strongly agrees that immigrants are obliged to assimilate to German culture, not a single Left, SPD or Green MP holds this position and only 0.5 percent of the FDP delegates, but almost all AfD MPs. While 33 percent of the CDU/ CSU MPs are also strongly in favour of assimilation, this number was lower in the past. In 2013, only 15.8 percent of the CDU/CSU delegates held this position. This issue is therefore an example of how, in addition to the direct effect of the AfD, congruence improvements have taken place through positional adjustments of the established parties.
+
+5.4. Congruence between AfD MPs and their voters
+
+In the final step, we look at the level of congruence between parties and their own voters. Fig. 7 shows that the positions of the AfD MPs are far from a perfect match for their voters. For example, the AfD has the lowest congruence with its electorate on the gender quota issue, because the MPs unanimously reject the introduction of a quota, while AfD voters hold more balanced views. In terms of climate protection, the party also has the lowest voter-MP congruence. Furthermore, a majority of AfD voters, unlike the party’s politicians, agrees to the statement that the government should take measures to reduce income inequality. These results are only partly in line with our expectations: The entry of the AfD into the Bundestag has increased the overlap between citizens and politicians’ opinions on some specific issues—in particular, immi­ gration—but there is a considerable mismatch on other issues, from both the economic and the cultural dimension. In fact, even on the party’s core issues, the match is far from perfect: AfD politicians have more extreme opinions than their voters on several issues, even regarding immigration. For example, AfD voters are some­ what less concerned than AfD MPs about the duty of cultural assimila­ tion, with 13.6 per cent only partially agreeing with it and as many as 9.3 per cent even rejecting it. In contrast, AfD MPs unanimously speak out in favour of such an obligation. On the more general question of limiting or facilitating immigration opportunities, the pattern is similar: AfD politicians are even more conservative than their voters and are almost exclusively in favour of restricting immigration (on a scale from 1 to 11, 78.9 percent of AfD MPs fall in the category “eleven,” 15.8 percent in the category “ten,” and 5.3 percent in category “nine”). Among the AfD voters, however, 6.2 per cent even are in favour of facilitating immigration opportunities and a further 6.8 per cent do not want any changes and opt for a neutral “six.” Even those who vote for the Alter­ native for Germany do not hold socio-culturally conservative positions across the board. They are not generally opposed to gay rights, gender quotas, or environmental protection. Hence, our data do not support a general “cultural backlash” (Norris and Inglehart, 2019) but instead a more limited backlash against a liberal immigration policy.
+
+6. Conclusion
+
+Many observers argue that populist parties speak for under- represented groups and give voice to those who feel excluded and ignored. RWPP improve representation, some argue, if they broaden the debate to include positions that were ignored before and if they closed an opinion gap that existed between parliamentarians and citizens. In that sense, Mudde and Kaltwasser (2012) argue, populist parties may have positive effects for democracy. However, while these effects are often assumed, few studies systematically investigate whether the assumption holds true. In this paper, we sought to fill this gap. We tested if the entry of a right-wing populist party into parliament positively affected the congruence between citizens and MPs. In the empirical section of the paper, we have analysed issue congruence between citizens and representatives after the German federal elections of 2013 and 2017. This comparison is well suited to shed light on the research question because the AfD is a new party that entered parliament for the first time in 2017, which means, that we can compare issue congruence with and without RWPP MPs. We have used a dataset that allows us to compare citizens’ opinions to those of parlia­ mentarians and to assess the degree of “many-to-many”-congruence. Three findings are worth noting: First, AfD candidates differ signifi­ cantly from candidates of other parties in their policy positions. Second, between 2013 and 2017, opinion congruence increased. Third, at least in part, this can be attributed to the success of the Alternative für Deutschland. On issues such as immigration, the more conservative (or hostile) attitudes of AfD MPs compensate for the previous over- representation of more liberal positions of established parties. Howev­ er, this does not necessarily hold true for all cultural issues or for 10 In 2017, the CDU/CSU was the largest party in parliament.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+9
+
+economic policies. In fact, on a number of issues, AfD positions differ considerably from citizen preferences. As a result, the AfD does not close a supply gap across the board for a specific voter group. AfD delegates
+
+tend to be more extreme than even their own voters and they also tend to have a more cohesive political stance. In this paper, we also discussed several mechanisms that influence
+
+Fig. 4. Issue congruence between citizens and rep­ resentatives with and without AfD/FDP parliamen­ tarians. Data source: Own calculations based on the German Longitudinal Election Study (GLES) 2013 and 2017 Note: Congruence is calculated as overlap between the distributions of citizens’ and MPs’ opinions. To test whether changes in congruence are significant, we use bootstrapping to calculate congruence differ­ ences in percentage points with 90/95 per cent con­ fidence intervals. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+Fig. 5. Issue congruence between MPs (grouped by party) and all citizens 2017. Data source: German Longitudinal Election Study (GLES) 2017. Note: Congruence is calculated as overlap between the distributions of citizens’ and MPs’ opinions. Bootstrapping is used to calculate 95 per cent confidence in­ tervals. Calculations of significance using bootstrapped congruence differences can be found in the Appendix (Fig. 21).
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+10
+
+changes in congruence. The first one consists of the entry of the AfD into parliament. On average, the success of this party leads to an increase in congruence, which we might call the direct effect of RWPP success.
+
+However, there might also be an indirect effect, which results from the reaction of other parties to this new competitor. On immigration, the mean position of parliamentarians shifted to the right between 2013 and
+
+Fig. 6. Opinion differences of MPs 2017 (grouped by party) and all citizens: “Same-sex marriage”. Data source: German Longitudinal Election Study (GLES) 2017. Note: Light grey bars represent the citizens’ positions grouped by party; dark grey bars represent the MPs’ positions grouped by party. The overlap between the distributions is coloured medium grey. Adding up the medium grey percentage shares per party gives the level of party-voter congruence.
+
+Fig. 7. Issue congruence between MPs and voters grouped by party 2017. Data source: German Longitudinal Election Study (GLES) 2017. Note: Congruence is calculated as overlap between the distributions of citizens’ and MPs’ opinions. Bootstrapping is used to calculate 95 per cent confidence in­ tervals. Calculations of significance using bootstrapped congruence differences can be found in the Appendix (Fig. 23).
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+11
+
+2017. As a consequence, congruence increased on this issue. Whether this alignment was due to an “accommodative strategy” (Meguid 2008) of mainstream parties or the consequence of other factors, is a question for further research and beyond the scope of this article, though. Finally, there is a third mechanism that impacts the degree of congruence: Parties and voters have been moving towards each other, as the elec­ torate has also become slightly more liberal on some issues over time. This result shows that we should not rush to assume that citizen-elite opinion gap would only be corrected if politicians adapt to the voters, who are expected to be generally to the right of the representatives on the libertarian-authoritarian dimension. Voters, too, may change their positions and have an overall less cohesive political stance than often assumed. Building on the insights of this paper, future research could replicate the analyses for a larger number of countries and, if possible, issues. It also would be worthwhile to analyse if RWPP narrow the representation gap for social groups that have been shown to be poorly represented in other research and whether shifts in congruence also lead to different perceptions on the side of citizens. Specifically, it might be interesting to analyse how voters react to increases in congruence on the parliamen­ tary level. So far, we know that voters are affected by congruence on the party level: Party-voter incongruence is linked to political disaffection and lower satisfaction with democracy (Bakker et al., 2020; Ferland, 2021). There is some evidence that this effect may be independent of incumbency or size of the party (van Egmond et al., 2020). For the
+
+German case, we know that AfD voters experienced the strongest in­ crease in satisfaction with democracy after the 2017 election, even though the party did not become part of the government (Reinl and Sch¨afer, 2020). In this context, exploring the role of issue salience more closely could also be beneficial: Compared to policy preferences, salience is more fluctuant across time and affected by short-term shocks. Anti-immigration preferences, specifically, do not automatically corre­ late with high salience on this topic (Hatton, 2021). How voters perceive the quality of representation, however, may also be affected by the is­ sues they care about most.
+
+Funding
+
+The authors received no financial support for the research and authorship of this article.
+
+Declaration of competing interest
+
+There are no conflicts of interest to report.
+
+Data availability
+
+We used data from the German Longitudinal Election Study (GLES). We do not have the permission to make the data publicly available, but provide the replication code for our analysis via Mendeley Data.
+
+Appendix
+
+1) Sample quality of the GLES candidate surveys and information on weights
+
+The target population of the GLES candidate surveys are all district and list candidates of parties represented in parliament or likely to be rep­ resented in parliament. In 2013, this included the Left Party, SPD, Greens, FDP, CDU/CSU, AfD and the Pirate Party. In 2017, it included the Left Party, SPD, Greens, FDP, CDU/CSU and AfD. Since the Pirate Party’s candidates were not interviewed in the 2017 candidate survey and the party has never been represented in parliament, we excluded Pirate Party’s candidates from our analyses. The following table provides information on the expected and actual share of respondents per party. To account for the unequal response rates, we calculate post-stratification weights by dividing the population’s proportion by the actual proportion of respondents per party in the respective sample. Since we use a bootstrapping technique for our analysis, weights are calculated for each bootstrap sample individually.
+
+Table 2 Expected and actual proportions of respondents per party
+
+2017 candidates MPs
+
+expected (in %) actual (in %) expected (in %) actual (in %)
+
+Left Party 14.11 16.31 9.73 11.29 SPD 19.04 18.68 21.58 30.11 Greens 14.31 20.67 9.45 11.29 FDP 14.59 16.44 11.28 10.75 CDU/CSU 23.54 14.57 34.7 26.34 AfD 15.42 13.33 13.26 10.22
+
+2013 candidates MPs expected (in %) actual (in %) expected (in %) actual (in %)
+
+Left Party 14.34 15.92 10.14 11.64 SPD 17.85 18.99 30.59 39.22 Greens 15.30 16.93 9.98 7.33 FDP 15.18 14.6 CDU/CSU 22.25 17.45 49.28 41.81 AfD 15.09 13.1
+
+Own calculations based on Rattinger et al., (2014) and Roßteutscher et al., (2018).
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+12
+
+2) Positional differences between the AfD and established parties
+
+In section 5.1, we argue that the AfD candidates in the 2017 election campaign had a specific opinion profile that deviated from the established parties. We have exemplified this using two economic items (“inequality” and “market intervention”) and two cultural items (“assimilation of im­ migrants” and “EU redistribution”). In the following, we additionally analyse the remaining eight items, which all reinforce our interpretation. Fig. 8 presents the policy positions of the 2017 election candidates on the three items measured on a 11-point scale. Again, we see that the AfD has no clear- cut position on the economic dimension. While most of the AfD candidates support lowering taxes even if that means restricting welfare state services, a relative majority of candidates position themselves neutrally. In contrast, the deviating position of the AfD on cultural issues is more obvious. Clearly, the AfD provides a unique position on immigration as it is the only party in which an absolute majority of candidates call for the strongest possible restriction of immigration opportunities. The AfD is also unique in clearly favouring economic growth over climate protection.
+
+Fig. 8. Policy positions of 2017 election candidates per party (2). Data source: German Longitudinal Election Study (GLES) 2017.
+
+Fig. 9 also supports the thesis of a clearly divergent cultural position of the AfD compared to the other parties. AfD candidates are clearly in favour of a limit on refugee admission, using nuclear power and the option of national referendums. At the same time, they definitely oppose gender quotas and same-sex marriages. The AfD is thus the only German party that is positioned on the far-right of the cultural axis.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+13
+
+Fig. 9. Policy positions of 2017 election candidates per party (3). Data source: German Longitudinal Election Study (GLES) 2017.
+
+Results of simple regression analyses provide further support for our hypothesis: Using the AfD as the reference group, we find significant effects for all other parties on most issues. Compared to AfD candidates, candidates of the Left Party, SPD and the Greens are more likely to support tax increases to fund expand welfare state services, measures against income inequality and economic intervention. At the same time, FDP candidates are less likely than AfD candidates to support increasing taxes, economic intervention and measures against income inequality. CDU/CSU candidates are also less likely to support measures against income inequality, but more likely to support economic intervention than AfD candidates. Yet, there is no sig­ nificant difference between CDU/CSU and AfD candidates on the welfare state item. On all other issues, candidates of all parties are significantly more left-wing than AfD MPs: They are more likely to agree with supporting poorer EU member states, facilitating immigration opportunities, gender quotas in supervisory boards of large companies, same-sex marriage and climate protection. Besides, they are less likely to support a limit on refugee admission, cultural assimilation of immigrants, nuclear energy and national referendums. With regard to the last item, candidates of the Left Party are an exception: There is no significant difference between them and the AfD candidates.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+14
+
+Table 3a OLS Regression Results (1)
+
+Welfare state Pol. Economy Inequality EU Immigration Limit immig.
+
+(Intercept) 4.481*** (0.177) 2.551*** (0.085) 2.925*** (0.080) 4.152*** (0.083) 10.000*** (0.194) 1.693*** (0.106) Left 5.618*** (0.237) 1.937*** (0.115) −1.848*** (0.108) −2.387*** (0.112) −7.308*** (0.262) 2.902*** (0.141) SPD 4.103*** (0.231) 1.737*** (0.112) −1.381*** (0.105) −1.982*** (0.108) −5.980*** (0.255) 2.660*** (0.137) Greens 3.807*** (0.227) 1.455*** (0.110) −1.278*** (0.103) −1.988*** (0.106) −6.687*** (0.250) 2.908*** (0.134) FDP −1.057*** (0.237) −0.415*** (0.115) 0.659*** (0.108) −0.418*** (0.111) −4.362*** (0.262) 2.140*** (0.140) Union 0.203 (0.244) 0.449*** (0.118) 0.392*** (0.111) −0.704*** (0.114) −2.741*** (0.269) 1.068*** (0.144) Num.Obs. 798 800 798 792 793 794 R2 0.650 0.506 0.573 0.523 0.591 0.476 R2 Adj. 0.648 0.503 0.571 0.519 0.589 0.473 AIC 3226.5 2078.2 1970.6 1993.1 3362.7 2356.1 BIC 3259.3 2111.0 2003.4 2025.8 3395.5 2388.9 Log.Lik. −1606.251 −1032.115 −978.304 −989.525 −1674.374 −1171.069 F 294.083 162.707 212.755 172.030 227.778 143.423
+
++ p < 0.1, *p < 0.05, **p < 0.01, ***p < 0.001. German Longitudinal Election Study (GLES) 2017.
+
+Table 3b Regression Results (2)
+
+Assimilation Quota Same sex Nuclear energy Climate Referendums
+
+(Intercept) 1.217*** (0.087) 4.738*** (0.098) 3.519*** (0.086) 2.028*** (0.083) 8.390*** (0.189) 1.255*** (0.106) Left 2.729*** (0.117) −2.876*** (0.132) −2.466*** (0.115) 2.826*** (0.112) −5.902*** (0.254) 0.226 (0.143) SPD 1.958*** (0.114) −3.018*** (0.129) −2.486*** (0.112) 2.750*** (0.108) −4.827*** (0.247) 1.812*** (0.138) Greens 2.376*** (0.112) −2.953*** (0.126) −2.470*** (0.110) 2.935*** (0.106) −6.569*** (0.243) 1.190*** (0.136) FDP 1.351*** (0.117) −0.344** (0.132) −2.290*** (0.115) 1.148*** (0.111) −1.959*** (0.254) 2.135*** (0.142) Union 0.655*** (0.120) −1.208*** (0.136) −1.100*** (0.118) 1.196*** (0.115) −2.270*** (0.262) 2.660*** (0.146) Num.Obs. 796 800 795 797 795 797 R2 0.511 0.604 0.505 0.612 0.586 0.418 R2 Adj. 0.508 0.602 0.502 0.610 0.583 0.415 AIC 2095.2 2304.6 2049.9 2019.4 3319.2 2404.3 BIC 2127.9 2337.4 2082.6 2052.1 3352.0 2437.1 Log.Lik. −1040.583 −1145.313 −1017.937 −1002.688 −1652.603 −1195.150 F 165.305 242.695 161.290 249.599 223.296 113.793
+
++ p < 0.1, *p < 0.05, **p < 0.01, ***p < 0.001. German Longitudinal Election Study (GLES) 2017.
+
+3) Citizen-candidate congruence
+
+To test whether our congruence analysis is biased due to the small sample size, we additionally calculated congruence between citizens and all candidates rather than elected candidates (=MPs) only. Since the overall patterns of congruence are the same on both the overall and the party level, we are confident that our results are reliable. Compared to Fig. 5, confidence intervals are smaller due to the larger sample size and the level of congruence tends to be slightly higher (Fig. 10). Besides that, results largely remain the same: If we exclude AfD candidates, congruence would be significantly lower on all three issues related to immigration but also on “same-sex marriage” and “referendums.” In contrast, congruence on inequality and climate protection would increase without the AfD MPs or AfD candidates. While not being significant on the MP-level, the negative effect of the AfD and the FDP regarding congruence on inequality is significant if we use candidate data.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+15
+
+Fig. 10. Issue congruence between citizens and candidates with and without AfD/FDP candidates. Data source: Own calculations based on the German Longitudinal Election Study (GLES) 2013 and 2017. Note: Dark grey points represent the level of citizen-candidate congruence per issue in 2017. Medium grey points represent citizen-candidate congruence without AfD delegates; light grey points represent citizen-candidate congruence without FDP delegates. Congruence is calculated as overlap between the distributions of citizens’ and candidates’ opinions. To test whether changes in congruence are significant, we use bootstrapping to calculate congruence differences in percentage points with 90/95 per cent confidence intervals.
+
+On the party level, patterns of congruence also remain very similar if we use candidate instead of MP data (Fig. 11). Again, we see that the level of congruence tends to be higher when using candidate instead of MP data. Besides that, our main results do not change: the CDU/CSU still has the highest congruence with the general public on most issues, except for “inequality” and “referendums.”
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+16
+
+Fig. 11. Issue congruence between candidates/MPs (grouped by party) and all citizens 2017. Data source: German Longitudinal Election Study (GLES) 2017. Note: Congruence is calculated as overlap between the distributions of citizens’ and candidates’ opinions. Calculations of significance using bootstrapped congruence differences can be found in part 7 of the Appendix (Fig. 22).
+
+Despite some small changes regarding the level of congruence, patterns of congruence between parties and their own voters are also not affected if we use candidate data instead of MP data. Fig. 12 compares results from both analyses. When using candidate data, too, the AfD is not a perfect fit for their own voters across the board.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+17
+
+Fig. 12. Issue congruence between candidates and voters grouped by party 2017. Data source: German Longitudinal Election Study (GLES) 2017.
+
+4) Mechanisms of congruence change between 2013 and 2017
+
+Note: Congruence is calculated as overlap between the distributions of citizens’ and candidates’ opinions. Calculations of significance using bootstrapped congruence differences can be found in part 7 of the Appendix (Fig. 24).
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+18
+
+Fig. 13. Mechanisms of congruence change between 2013 and 2017 [please, print in colour]. Data source: Own calculations based on the German Longitudinal Election Study (GLES) 2013 and 2017. Note: Congruence is calculated as the overlap between the distributions of citizens’ and MPs’ opinions. Red points represent congruence between citizens and MPs in 2013, light blue points represent congruence between citizens and MPs in 2017. Yellow points refer to a hypothetical scenario, in which citizens positions are kept at their 2013 values, while we take MPs’ 2017 position (citizens constant, MPs change). Green points refer to the reverse scenario, in which only voters change their positions, while the values for MPs stay at their 2013 levels (citizens change, MPs constant). Dark blue points refer to a third hypothetical scenario in which both citizens and MPs change their positions, but no new parties had entered parliament. Pink points refer to a final hypothetical scenario, in which both citizens and MPs changed their positions and only the FDP had entered parliament.
+
+Even without the AfD, many-to-many congruence would have increased between 2013 and 2017. However, the entry of the right-wing populist party clearly had an additional effect and specifically on immigration, increases had been smaller without the AfD. Fig. 13 shows this by comparing the level of congruence in 2013 and 2017 with hypothetical scenarios, in which only the citizens, only the established parties or both shifted their po­ sitions. (We do not specifically discuss the effect of the FDP MPs here, since their entry to the Bundestag had no significant effect on the level of congruence, as Fig. 4 above shows.)
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+19
+
+Fig. 14. Mechanisms of congruence change between 2013 and 2017 – significance tests. Data source: Own calculations based on the German Longitudinal Election Study (GLES) 2013 and 2017. Note: Congruence is calculated as overlap between the distributions of citizens’ and MPs’ opinions. For two questions, data was only available for one year. Bootstrapping is used to calculate congruence differences with 90/95 per cent confidence intervals. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+Had only citizens’ positions changed between 2013 and 2017, congruence on “inequality,” “EU redistribution,” “immigration,” “assimilation,” “nuclear power” and “referendums” would have improved significantly compared to 2013. For “inequality,” “EU redistribution,” “immigration” and “assimilation,” this is true for the contrasting scenario in which only the MPs’ positions were assumed to change. If both citizens and established parties’ MPs changed their positions but no new parties entered parliament, congruence would have increased on “inequality,” “EU redistribution,” “immigration,” “assimilation” and “nuclear power.” However, these changes only partially account for the overall changes. For most of the issues, differences in congruence are even greater if we compare 2013 to the actual level of congruence in 2017, including the new parties. The items “inequality” and “referendums” deviate from this pattern and are worth discussing in more detail: In 2013 and 2017, citizens were clearly in favour of measures against income inequality, while MPs were more conservative. However, the proportion of citizens strongly supporting such measures slightly decreased, while the proportion of citizens disagreeing slightly increased. In a hypothetical scenario in which only voters changed their position, congruence would have increased. This is also true had only MPs shifted their position: Left parties MPs shifted even more to the left compared to 2013, and CDU/CSU MPs were at least less sceptical than before. Combined, there would have been a significant increase in congruence even if no new parties had entered parliament in 2017. However, as the FDP MPs are clearly against fighting income inequality and the AfD is divided on the issue, there is no significant increase if we consider all MPs. In 2013, voters were more open to the idea of national referendums than MPs. Then, voters and MPs alike became more sceptical of referendums. Thus, if only voters had changed their position, congruence would have increased. If only MPs had changed their position, congruence would have decreased. In combination, both effects lead to a slight decrease, if we do not consider AfD MPs. However, since AfD MPs are clearly in favour of referendums, overall congruence on referendums in 2017 is slightly higher than in 2013. All in all, there would have been increases in congruence, even if the AfD had not entered parliament. In section 5.3, we argue that positional shifts of the established parties between 2013 and 2017 positively affected congruence and thus partly explain the changes. To test this, we additionally calculated changes in congruence between the established parties’ MPs and all citizens. As previously explained, overall congruence significantly increased on four issues between 2013 and 2017: “EU redistribution,” “immigration,” “assimilation,” “nuclear power.” The significant increases on the overall level are reflected on the level of the established parties. In 2017, the opinions of established parties’ MPs match the opinions of citizens better than 2013 (Fig. 15).
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+20
+
+Fig. 15. Changes in congruence between established parties’ MPs and all citizens. Data source: German Longitudinal Election Study (GLES) 2013 and 2017. Note: Congruence is calculated as overlap between the distributions of citizens’ and MPs’ opinions. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+Figs. 16–19 give us more detailed information on how the positions of citizens and MPs of the established parties have changed over time. One can clearly see congruence improvements: On EU redistribution, congruence between citizens and three established parties increased mainly because citizens moved towards the MPs: In 2017, more citizens than before were in favour of helping poorer EU states. At the same time, the CDU/CSU MPs moved to the right, leading to a decrease in congruence. Regarding immigration, MPs of alle established parties were more conservative in 2017 than in 2013. At the same time, citizens became slightly more liberal, leading to an overall increased congruence. Similarly, in 2017, more Green MPs, SPD MPs and CDU/CSU MPs than in 2013 stated that immigrants need to assimilate to German culture. The four parties thereby again increased congruence with the general public. Congruence on the last issue mainly increased because citizens became more sceptical of nuclear power between 2013 and 2017 and thus moved closer to the position of MPs. However, the CDU/CSU is the only party that could not increase congruence on this issue, since their MPs were more in favour of nuclear power in 2017 than 2013. Thus, the CDU/CSU’s shift toward the right side of the cultural axis was only beneficial for congruence on immigration issues. All in all, positional shifts of the established parties do only partly explain the overall increase in congruence (specifially on immigration issues), but not to the full extent. The same is true for opinion shifts of voters.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+21
+
+Fig. 16. Opinion differences of established parties’ MPs and all citizens 2013 and 2017: “EU redistribution”. Data source: German Longitudinal Election Study (GLES) 2013 and 2017. Note: Light grey bars represent the citizens’ positions grouped by party; dark grey bars represent the MPs’ positions grouped by party. The overlap between the distributions is coloured medium grey. Adding up the medium grey percentage shares per party gives the level of congruence.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+22
+
+Fig. 17. Opinion differences of established parties’ MPs and all citizens 2013 and 2017: “immigration”. Data source: German Longitudinal Election Study (GLES) 2013 and 2017. Note: Light grey bars represent the citizens’ positions grouped by party; dark grey bars represent the MPs’ positions grouped by party. The overlap between the distributions is coloured medium grey. Adding up the medium grey percentage shares per party gives the level of congruence.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+23
+
+Fig. 18. Opinion differences of established parties’ MPs and all citizens 2013 and 2017: “Assimilation of immigrants”. Data source: German Longitudinal Election Study (GLES) 2013 and 2017. Note: Light grey bars represent the citizens’ positions grouped by party; dark grey bars represent the MPs’ positions grouped by party. The overlap between the distributions is coloured medium grey. Adding up the medium grey percentage shares per party gives the level of congruence.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+24
+
+Fig. 19. Opinion differences of established parties’ MPs and all citizens 2013 and 2017: “nuclear power”. Data source: German Longitudinal Election Study (GLES) 2013 and 2017.
+
+5) Earth Mover’s Distance
+
+Note: Light grey bars represent the citizens’ positions grouped by party; dark grey bars represent the MPs’ positions grouped by party. The overlap between the distributions is coloured medium grey. Adding up the medium grey percent­ age shares per party gives the level of congruence.
+
+To ensure that our results are not driven by the specific congruence measure we use, we also calculated EMD congruence. Like Golder and Stramski’s overlap measure, the Earth mover’s distance is also a form of “many-to-many” congruence, comparing two distributions. However, EMD does not measure the overlap but uses an algorithm to compute the cost of equalizing both distributions. The lower the EMD value, the smaller the distance between two distributions, hence, the higher the congruence. Comparing the results of both measures, we find very similar patterns. Just like overlap congruence, EMD congruence is higher in 2017 than in 2013, except for the issues “economic intervention,” “gender quota” and “climate protection.” Furthermore, regardless of the measure, congruence is lower if we exclude AfD MPs on all issues but “inequality,” “gender quota” and “climate protection.” For the FDP, there is no clear positive effect: Both overlap congruence and EMD congruence on “assimilation,” “limit refugees,” “inequality,” “climate protection,” “same-sex marriage” and “referendums” would be higher without the FDP. EMD congruence and the overlap measure only differ regarding “economic intervention:” If we exclude the FDP, EMD congruence would slightly decrease, while overlap congruence would slightly increase.
+
+Table 4 Citizen-MP congruence – Earth Mover’s Distance and overlap measure compared
+
+Issue Year EMD EMD without FDP EMD without AfD overlap overlap without FDP overlap without AfD
+
+welfare state 2017 1.13 1.55 1.38 77.2 77.1 74 2013 1.39 70.9 economic intervention 2017 0.22 0.28 0.29 83.3 84.3 80.6 inequality 2013 0.20 89.2 2017 0.42 0.27 0.35 74.3 78.7 75 2013 0.62 69.7 EU redistribution 2017 0.21 0.26 0.33 84.8 82.5 83.2 2013 0.98 63.4
+
+(continued on next page)
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+25
+
+Table 4 (continued)
+
+Issue Year EMD EMD without FDP EMD without AfD overlap overlap without FDP overlap without AfD
+
+immigration 2017 1.57 1.56 2.21 78.5 75.7 70.9 2013 3.33 50.1 limit refugees 2017 1.46 1.44 1.70 63.2 64.8 55.2 assimilation immigrants 2017 0.71 0.67 0.92 82 83.9 73 2013 1.26 62.7 gender quota 2017 0.44 0.48 0.44 73.5 72.2 76.9 2013 0.38 75.2 same-sex marriage 2017 0.44 0.38 0.66 84.8 87.3 76.2 nuclear power 2017 0.35 0.36 0.54 84.9 82.8 79.7 2013 0.93 67.1 climate protection 2017 0.57 0.55 0.34 80.3 80.2 84.9 2013 0.30 87.2 referendums 2017 0.52 0.48 0.72 76.2 76.5 69.4 2013 0.66 73.2
+
+Own calculations based on data from the German Longitudinal Election Study (GLES) 2013 and 2017.
+
+6) Issue salience/most important problem
+
+Fig. 20. Top ten issues listed as “most important problem” in 2013 and 2017. Data source: German Longitudinal Election Study (GLES) 2013 and 2017.
+
+7) Significance tests for party-level congruence
+
+Note: Survey participants are openly asked about the most important problem in Germany at the moment. We use the recoded version of the answers provided by the GLES datasets and further summarise the categories (see: recoding script).[]
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+26
+
+Fig. 21. Differences in citizen-party congruence between AfD and other parties (MP data 2017). Data source: German Longitudinal Election Study (GLES) 2017. Note: The figure presents the difference in congruence between all citizens and the AfD MPs and all citizens and other parties’ MPs. For instance, on the “welfare state” issue, congruence between the general public and the AfD MPs is higher than between the general public and the Left MPs. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+27
+
+Fig. 22. Differences in voter-party congruence between AfD and other parties (MP data). Data source: German Longitudinal Election Study (GLES) 2017. Note: The figure presents the difference in congruence between the AfD MPs and their voters and other parties’ MPs and their voters. For instance, voter-party congruence is lower for the Left party compared to the AfD on “welfare state”, “immigration”, “limit refugees” and “assimilation”. Voter-party congruence is higher for the Left party on “gender quota”, “nuclear power”, “climate protection” and “referendums”. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+28
+
+Fig. 23. Differences in citizen-party congruence between AfD and other parties (candidate data). Data source: German Longitudinal Election Study (GLES) 2017. Note: The figure presents the difference in congruence between all citizens and the AfD candidates and all citizens and other parties’ candidates. For instance, on the “welfare state” issue, congruence between the general public and the AfD candidates is higher than between the general public and Left party’s candidates. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+29
+
+Fig. 24. Differences in voter-party congruence between AfD and other parties (candidate data). Data source: German Longitudinal Election Study (GLES) 2017. Note: The figure presents the difference in congruence between the AfD candidates and their voters and other parties’ candidates and their voters. For instance, voter- party congruence is lower for the Left party compared to the AfD on “welfare state”, “EU redistribution”, “immigration”, “limit refugees”. Voter-party congruence is higher for the Left party on “gender quota” and “climate protection”. The thick dark bar shows the 90 per cent confidence interval and the thin light-grey bar the 95 per cent confidence interval.
+
+References
+
+Abou-Chadi, Tarik, 2016. Niche party success and mainstream party policy shifts. How green and radical right parties differ in their impact. Br. J. Polit. Sci. 46 (2), 417–436. Adams, James and Somer-Topcu, Zeynep, 2009. Policy adjustment by parties in response to rival parties’ policy shifts: spatial theory and the dynamics of party competition in twenty-five post-war democracies. Br. J. Polit. Sci. 39 (4), 825–846. Akkerman, Tjitske, 2015. Immigration policy and electoral competition in western europe. A fine-grained analysis of party positions over the past two decades. Party Polit. 21 (1), 54–67. Andeweg, R., 2011. Approaching perfect policy congruence: measurement, development, and relevance for political representation. In: Rosema, M., Denters, B., Aarts, K. (Eds.), How Democracy Works: Political Representation and Policy Congruence in Modern Societies. Amsterdam University Press, Amsterdam, pp. 39–52. Arzheimer, Kai, 2015. The AfD: finally a successful right-wing populist eurosceptic party for Germany? W. Eur. Polit. 38 (3), 535–556. Backlund, Anders, Jungar, Ann-Catherine, 2019. Populist radical right party-voter policy representation in western europe. Representation 47 (4), 1–21.
+
+Bakker, Ryan, Jolly, Seth, Polk, Jonathan, 2018. Multidimensional incongruence and vote switching in Europe. Publ. Choice 176 (1–2), 267–296. Bakker, Ryan, Jolly, Seth, Polk, Jonathan, 2020. Multidimensional incongruence, political disaffection, and support for anti-establishment parties. J. Eur. Publ. Pol. 27 (2), 292–309. Bale, Tim, 2003. Cinderella and her ugly sisters: the mainstream and extreme right in europe’s bipolarising party systems. W. Eur. Polit. 26 (3), 67–90. Best, Robin E., Seyis, Didem, 2020. How Do Voters Perceive Ideological Congruence? the Effects of Winning and Losing under Different Electoral Rules. Electoral Studies, 102201. Caramani, Daniele, 2017. Will vs. Reason: the populist and technocratic forms of political representation and their critique to party government. Am. Polit. Sci. Rev. 111 (1), 54–67. Carnes, Nicholas, Lupu, Noam, 2015. Rethinking the comparative perspective on class and representation. Evidence from Latin America. Am. J. Polit. Sci. 59 (1), 1–18. Costello, Rory, Thomassen, Jacques, Rosema, Martin, 2012. European parliament elections and political representation: policy congruence between voters and parties. W. Eur. Polit. 35 (6), 1226–1248. Costello, Rory, Toshkov, Dimiter, Bos, Barend, Krouwel, Andr´e, 2021. Congruence between voters and parties: the role of party-level issue salience. Eur. J. Polit. Res. 44 (3), 92–113.
+
+M. Kübler and A. Sch¨afer
+
+Electoral Studies 80 (2022) 102527
+
+30
+
+Dalton, Russell J., 2017. Party representation across multiple issue dimensions. Party Polit. 23 (6), 609–622. Dennison, James, Geddes, Andrew, 2019. A rising tide? The salience of immigration and the rise of anti-immigration political parties in western europe. Polit. Q. 90 (1), 107–116. Dennison, James, 2020. How issue salience explains the rise of the populist right in western europe. Int. J. Publ. Opin. Res. 32 (3), 397–420. Ezrow, Lawrence, Vries, Catherine de, Steenbergen, Marco, Edwards, Erica, 2011. Mean voter representation and partisan constituency representation: do parties respond to the mean voter position or to their supporters? Party Polit. 17 (3), 275–301. Ferland, Benjamin, 2021. Policy congruence and its impact on satisfaction with democracy. Elect. Stud. 69, 102204. Franzmann, Simon T., Giebler, Heiko, Poguntke, Thomas, 2020. It’s no longer the economy, stupid! Issue yield at the 2017 German federal election. W. Eur. Polit. 43 (3), 610–638. Freire, Andr´e, Belchior, Ana, 2013. Ideological representation in Portugal: MPs’-electors’ linkages in terms of left-right placement and substantive meaning. J. Legis. Stud. 19 (1), 1–21. Giger, Nathalie, Lefkofridi, Zoe, 2014. Salience-based congruence between parties & their voters: the Swiss case. Swiss Polit. Sci. Rev. 20 (2), 287–304. Golder, Matt, Stramski, Jacek, 2010. Ideological congruence and electoral institutions. Am. J. Polit. Sci. 54 (1), 90–106. Han, Kyung Joon, 2015. The impact of radical right-wing parties on the positions of mainstream parties regarding multiculturalism. W. Eur. Polit. 28 (3), 557–576. Hatton, Timothy J., 2021. Public opinion on immigration in Europe: preference and salience. Eur. J. Polit. Econ. 66, 101969. Hillen, Sven, Steiner, Nils D., 2020. The consequences of supply gaps in two-dimensional policy spaces for voter turnout and political support: the case of economically left- wing and culturally right-wing citizens in Western Europe. Eur. J. Polit. Res. 59 (2), 331–353. Huber, Robert A., Ruth, Saskia P., 2017. Mind the gap! Populism, participation and representation in europe. Swiss Polit. Sci. Rev. 23 (4), 462–484. Jankowski, Michael, Schneider, Sebastian, Tepe, Markus, 2017. Ideological Alternative? Analyzing Alternative für Deutschland Candidates’ Ideal Points via Black Box Scaling. Party Polit. 6 (23), 704–716. Jankowski, Michael, Schneider, Sebastian, Tepe, Markus, 2019. To adapt or to defend? Comparing position shifts among Bundestag candidates between 2013 and 2017. W. Eur. Polit. 42 (4), 895–913. Kurella, Anna-Sophie, Rosset, Jan, 2017. Blind spots in the party system: Spatial voting and issue salience if voters face scarce. Electoral Studies 49, 1–16. https://doi.org/ 10.1016/j.electstud.2017.07.001. Lefkofridi, Zoe, Giger, Nathalie, 2020. Democracy or oligarchy? Unequal representation of income groups in European institutions. Polit. Govern. 8 (1), 19–27. Lefkofridi, Zoe, Wagner, Markus, Willmann, Johanna E., 2014. Left-Authoritarians and policy representation in western europe: electoral choice across ideological dimensions. W. Eur. Polit. 37 (1), 65–90. Lupu, Noam, Selios, Lucía, Warner, Zach, 2017. A new measure of congruence: the Earth mover’s distance. Polit. Anal. 25 (1), 95–113. Mader, Matthias, Schoen, Harald, 2019. The European refugee crisis, party competition, and voters’ responses in Germany. W. Eur. Polit. 42 (1), 67–90. Mair, Peter, 2009. Representative versus Responsible Government. Max Planck Institute for the Study of Societies. Cologne (MPIfG Working Paper, 09/8). Masi, Beniamino, 2021. Looking through the mirror: representativeness of the Italian party system before the 2018 General Election. Quaderni dell’Osservatorio elettorale – Italian J. Elect. Stud. 84 (1), 69–83. M´eny, Yves, Surel, Yves, 2002. The constitutive ambiguity of populism. In: M´eny, Yves, Surel, Yves (Eds.), Democracies and the Populist Challenge. Palgrave Macmillan, London, pp. 1–21. Meguid, Bonnie M., 2008. Party Competition between Unequals. Strategies and Electoral Fortunes in Western Europe. Cambridge University Press, Cambridge. Mudde, Cas, Kaltwasser, Crist´obal Rovira, 2012. Populism and (liberal) democracy. In: Cas Mudde and Crist´obal Rovira Kaltwasser (Hg.): Populism In Europe and the Americas: Threat or Corrective for Democracy? Cambridge University Press, Cambridge, pp. 1–26. Mudde, Cas, Kaltwasser, Crist´obal Rovira, 2017. Populism: a Very Short Introduction, vol. 510. Oxford University Press, Oxford, New York. Muno, W., Stockemer, D., 2021. A model for right-wing populist electoral success? Populi 4 (1), 25–56. Nasr, Mohamed, 2021. The motivated electorate: voter uncertainty, motivated reasoning, and ideological congruence to parties. Elect. Stud. 72, 102344. Norris, Pippa, Inglehart, Ronald, 2019. Cultural Backlash. Trump, Brexit, and Authoritarian Populism. Cambridge University Press, Cambridge. Pappi, Franz Urban, Kurella, Anna-Sophie, Br¨auninger, Thomas, 2019. Die Etablierung neuer Parlamentsparteien. W¨ahlerpr¨aferenzen als Erfolgsfaktor für die Alternative für Deutschland 2017 und die Grünen 1986. Politische Vierteljahresschr. 60 (2), 273–298. Pedrazzani, Andrea, Segatti, Paolo, 2021. Ideological and policy congruence in Italy and Spain: palgrave macmillan. In: Coller, Xavier, S´anchez-Ferrer, Leonardo (Eds.),
+
+Politicians in Hard Times. Spanish and South European MPs Facing Citizens after the Great Recession. Palgrave Macmillan, Cham, pp. 291–312. Persson, Mikael, 2021. From opinions to policies: examining the links between citizens, representatives, and policy change. Elect. Stud. 74, 102413. Pitkin, Hanna, Fenichel, 1967. The Concept of Representation. University of California Press, Berkeley [u.a. Plescia, Carolina, Kritzinger, Sylvia, Sio, Lorenzo de, 2019. Filling the void? Political responsiveness of populist parties. Representation 44 (2), 1–21. Rattinger, Hans, Roßteutscher, Sigrid, Schmitt-Beck, Rüdiger, Weßels, Bernhard, Wolf, Christof, 2014. Kandidatenstudie 2013, Befragung, Wahlergebnisse und Strukturdaten (GLES). GESIS Datenarchiv, K¨oln. ZA5716 Datenfile Version 3.0.0. https://doi.org/10.4232/1.12043. Rattinger, Hans, Roßteutscher, Sigrid, Schmitt-Beck, Rüdiger, Weßels, Bernhard, Wolf, Christof, Wagner, Aiko, Giebler, Heiko, Bieber, Ina, Scherer, Philipp, 2019. Vor- und Nachwahl-Querschnitt (Kumulation) (GLES 2013). GESIS Datenarchiv. https://doi.org/10.4232/1.13233. K¨oln. ZA5702 Datenfile Version 4.0.1. Reher, Stefanie, 2015. Explaining cross-national variation in the relationship between priority congruence and satisfaction with democracy. Eur. J. Polit. Res. 54 (1), 160–181. Reinl, Ann-Kathrin, Sch¨afer, Constantin, 2020. How the 2017 federal election in Germany affected satisfaction with democracy among AfD voters. Ger. Polit. 30 (4), 1–22. Rossett, Jan, 2013. Are the policy preferences of relatively poor citizens under- represented in the Swiss parliament? J. Legis. Stud. 19 (4), 490–504. Rosset, Jan, Stecker, Christian, 2019. How well are citizens represented by their governments? Issue congruence and inequality in Europe. European Polit. Sci. Rev. 32, 1–16. Roßteutscher, Sigrid, Schoen, Harald, Schmitt-Beck, Rüdiger, Weßels, Bernhard, Wolf, Christof, Giebler, Heiko, Melcher, Reinhold, Wagner, Aiko, 2018. Kandidatenstudie (GLES 2017). GESIS Datenarchiv. https://doi.org/10.4232/ 1.13089. K¨oln: ZA6814 Datenfile, Version 3.0.0. Roßteutscher, Sigrid, Schoen, Harald, Schmitt-Beck, Rüdiger, Weßels, Bernhard, Wolf, Christof, Bieber, Ina, St¨ovsand, Lars-Christopher, Dietz, Melanie, Scherer, Philipp, Wagner, Aiko, 2019. Vor- und Nachwahl-Querschnitt (Kumulation) (GLES 2017). GESIS Datenarchiv. https://doi.org/10.4232/1.13236. K¨oln: ZA6802 Datenfile Version 3.0.1. Rovny, Jan, Polk, Jonathan, 2020. Still blurry? Economic salience, position and voting for radical right parties in Western Europe. Eur. J. Polit. Res. 59 (2), 248–268. Runciman, David, 2019. How Democracy Ends. Profile Books, London. Schakel, Wouter, Hakhverdian, Armen, 2018. Ideological congruence and socio- economic inequality. European Polit. Sci. Rev. 10 (3), 441–465. Schumacher, Gijs, van Kersbergen, Kees, 2016. Do mainstream parties adapt to the welfare chauvinism of populist parties? Party Polit. 22 (3), 300–312. Shim, Jaemin, Gherghina, Sergiu, 2020. Measuring the Mass-Elite Preference Congruence: Findings from a Meta-Analysis and Introduction to the Symposium. European Political Science. July 2020. Singh, Kesar, Xie, Ming, 2008. In: Peterson, P., Baker, E., McGaw, B. (Eds.), Bootstrap. A Statistical Method. Online available at:. http://www.stat.rutgers.edu/home/mxie/rcp apers/bootstrap.pdf. Sipma, Take, Berning, Carl C., 2021. Economic conditions and populist radical right voting: the role of issue salience. Elect. Stud. 74, 102416. Stecker, Christian, Tausendpfund, Markus, 2016. Multidimensional government-citizen congruence and satisfaction with democracy. Eur. J. Polit. Res. 55 (3), 492–511. Steiner, Nils D., Hillen, Sven, 2021. Vote choices of left-authoritarians: misperceived congruence and issue salience. Elect. Stud. 70, 102280. Tsatsanis, Emmanouil, Kakepaki, Manina, 2021. Are challengers better representatives? Greece and Spain. In: Coller, Xavier, S´anchez-Ferrer, Leonardo (Eds.), Politicians in Hard Times. Spanish and South European MPs Facing Citizens after the Great Recession. Palgrave Macmillan, Cham, pp. 335–356. Thomassen, Jacques, 2012. The blind corner of political representation. J. Represent. Democ. 48 (1), 13–27. Thomeczek, Philipp, Jan, Jankowski, Michael, Krouwel, Andr´e, 2019. Die politische Landschaft zur Bundestagswahl 2017. Befunde aus zwei Voting Advice Applications und dem Chapel Hill Expert Survey. In: Korte, Karl-Rudolf, Schoofs, Jan (Eds.), Die Bundestagswahl 2017. Analysen der Wahl-, Parteien-, Kommunikations- und Regierungsforschung, pp. 267–291. van Egmond, Marcel, Johns, Robert, Brandenburg, Heinz, 2020. When long-distance relationships don’t work out: representational distance and satisfaction with democracy in Europe. Elect. Stud. 66, 102182. van Spanje, Joost, 2010. Contagious parties. Anti-immigration parties and their impact on other parties’ immigration stances in contemporary western europe. Party Polit. 16 (5), 563–586. Weyland, Kurt, 2001. Clarifying a contested concept: populism in the study of Latin American politics. Comp. Polit. 34 (1), 1–22. Werner, Annika, Giebler, Heiko, 2019. Do populists represent? Theoretical considerations on how populist parties (might) enact their representative function. Representation 55 (4), 379–392.
+
+M. Kübler and A. Sch¨afer

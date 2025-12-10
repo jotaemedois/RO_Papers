@@ -1,0 +1,211 @@
+Received: 12 December 2022 Revised: 20 February 2023 Accepted: 25 February 2023
+
+DOI: 10.1111/ssqu.13254
+
+ORIGINAL ARTICLE
+
+Desires of technocracy in pandemic times: A multilevel study
+
+Lorenzo Cena Michele Roccato
+
+Department of Psychology, University of Torino, Torino, Italy
+
+Correspondence Michele Roccato, Department of Psychology, University of Torino, Via Verdi 10, 10126 Torino, Italy. Email: michele.roccato@unito.it
+
+Abstract Objectives: We aimed to predict the favor for a technocratic government in the context of the SARS-CoV-2 pandemic. Method: We tested a multilevel mediated moderated model on the ResPOnsE COVID-19 data set (rolling cross-section design, quota sample of the Italian adult population, N = 8210, data collected from March 17 to June 16, 2021). Results: Subjective vulnerability to COVID-19 showed a positive relationship with trust in science and scientists, which, in turn, had a positive relationship with favor for a technocratic government, particularly among participants who had low trust in the Italian Parliament. The prevalence of COVID-19 (measured at Level-2, with data nested by day of data collection) also showed a positive association with favor for a technocratic government. Conclusion: The COVID-19 pandemic may have jeopardized representative democracy: The objective and subjective threats it triggered favor trust in science and scientists that, when combined with a low level of trust toward political institutions, fosters the desire for a technocratic government.
+
+KEYWORDS technocracy, trust in science, vulnerability
+
+In December 2019, the SARS-CoV-2 coronavirus emerged in China. Because people’s immune systems were not equipped to deal with it, a dramatic pandemic spread very quickly across the world, aided by the strong interconnected nature of contemporary life. No drugs or vaccines were available, and health systems in many countries were unable to respond effectively to the outbreak. The number of sick people and of deaths began to rise exponentially, and countries’ economies were dramatically threatened. The situation promoted subjective threat and the need to cope with the actual threat and with the radical lifestyle changes that drastically limited personal freedom (Scardigno and Testa 2021). Beyond dramatic increases in anxiety, depression, loneliness, and insomnia (Benke et al. 2022), research showed some political implications of
+
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modiﬁcations or adaptations are made.
+
+© 2023 The Authors. Social Science Quarterly published by Wiley Periodicals LLC on behalf of Southwestern Social Science Association.
+
+Social Science Quarterly. 2023;104:195–201. wileyonlinelibrary.com/journal/ssqu 195
+
+196 CENA AND ROCCATO
+
+the pandemic (Muldoon, Liu, and McHugh 2021). In this study, we aimed to expand our understanding of the political consequences of COVID-19, by developing and testing a multilevel model of the effects of the outbreak’s impact on people’s desire for a technocratic government.
+
+Vulnerability and political consequences of COVID-19
+
+After its onset, the population felt dramatically vulnerable to the COVID-19 pandemic both in health and economic terms (Roccato et al. 2021a). When feeling vulnerable, people perceive a loss of control over their lives, which lowers their psychological well-being and serves as a motivational drive to restore perceived control (Landau, Kay, and Whitson 2015). Consistent with Kay et al.’s (2011) compensatory control mechanism (CCM), people who feel unable to exert such control directly may turn to secondary sources of control that provide order and predictability to the world, such as religion (Sibley and Bulbulia 2012), political (Oneal and Bryan 1995) and super partes (Cavazza et al. 2022) institutions, and even anti-democratic governments (Torres-Vega, Ruiz, and Moya 2021). This was also the case in the context of the COVID-19 pandemic, which beyond the expected rally effect consisting of an increase in trust in democratic institutions (Bol et al. 2021), triggered the approval of anti-democratic governments and policies (Amat et al. 2020; Roccato et al. 2020). Given that both democratic institutions and anti-democratic governments can act as secondary sources of control, these results are not as surprising as they might appear.
+
+Scientists, science, and technocracy in pandemic times
+
+As the SARS-CoV-2 coronavirus was previously unknown and there were no solid guidelines for dealing with it, political institutions resorted to a strategy of trial and error for long weeks and months after the pandemic broke out. In many countries, political institutions failed the tough stress test the virus represented (Barberia, Plümper, and Whitten 2021). For example, in the United States, face masks were not recommended indoors until December 2020 (Broudi et al. 2022). In India, the introduction of lockdowns and curfews led people who worked in major cities to return en masse to their homes and villages in the countryside. This accelerated the spread of the virus outside the cities (Khanna 2020). This complexity and unpredictability of ripple effects caused by institutional decisions reduced people’s perceived control over their lives and fostered their sense of vulnerability (Roccato et al. 2021a). At the same time, science and scientists were at the center of public debate and ﬂooded the media with messages (about the spread of the virus, the most effective preventive measures, the development of a vaccine against COVID-19, the importance of a large-scale vaccination campaign, etc.) based on scientiﬁc data and arguments. Trust in science emerged as the key factor in overcoming the public health crisis (Bicchieri et al. 2021). From a social-psychological perspective, trust in scientists’ messages may act as a cognitive shortcut for decision making, leading people to follow the recommended guidelines (Caceido-Montero et al. 2022). Moreover, trust in science and scientists could serve as a strategy for coping with the existential, health, and economic threats posed by the pandemic, by giving people who trust science and scientists a compensatory sense of control over their lives and social environments (Kay et al. 2011).
+
+We reasoned that this potential increase in trust in scientists in response to pandemic-related vulnerability would be consistent with a parallel increase in people’s favor for a technocratic government. Indeed, extensive research in recent decades shows a growing distrust of political institutions, a decline in the importance of traditional ideologies, and a growing desire for unmediated political processes that challenge party democracy (Inglehart and Norris 2017). Technocratic governments, deﬁnable as the exercise of political power by an elite of experts legitimized by their competence, efﬁciency, and neutrality, are potential alternatives to representative party government (Ganuza and Font 2020), taken into consideration due to the increased demand for technical skills and expertise needed to manage complex crises, such as the COVID-19 pandemic. These alternatives are gaining popularity, especially in countries with
+
+15406237, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13254 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+COVID-19 AND TECHNOCRACY 197
+
+strong political and institutional discontent and a history of widespread technocratic attitudes (Lavezzolo, Ramiro, and Fernández-Vázquez 2022).
+
+With the present study, we aimed to expand on this literature, developing a multilevel structural equations model to predict Italians’ favor for a technocratic government and testing it in the context of the second year of the COVID-19 pandemic. Based on the literature above, we reasoned that trust in science and scientists and positive attitudes toward a technocratic government could help people cope with the threat posed by the outbreak. Thus, we hypothesized that subjective health vulnerability (H1a) and subjective economic vulnerability (H1b) due to the pandemic would be positively related to trust in science and scientists. In addition, we hypothesized that trust in science and scientists would be positively related to positive attitudes toward technocracy (H2), especially among people with low trust in political institutions (H3). However, it is plausible that objective vulnerability could also lead people to view the idea of a technocratic government favorably. Therefore, we hypothesized that the daily prevalence of COVID-19 should have a positive association with favor for a technocratic government (H4).
+
+MATERIAL AND METHODS
+
+We conducted a secondary analysis of data from the third wave of the ResPOnsE COVID-19 data set, collected from March 17 to June 16, 2021, by the SPS TREND Lab at the University of Milan (for details about the design, data collection, ethics approval, and recruitment, see Vezzoni et al. 2020). The peculiarity of the study is its rolling cross-section (RCS) approach. In RCSs, one-shot cross-section surveys are distributed over time in a controlled manner, administering the same questionnaire to independent samples in the same setting in different days. Thus, interviews collected on different ﬁeld days differ only by date and the probability that a respondent will be interviewed on a speciﬁc day is a product of random selection. Since the basic characteristics of the daily samples do not vary systematically, RCSs allow for a nesting based on daily samples (Lutz, De Rocchi, and Pekari 2013). Thus, we resorted to multilevel analysis, using the numbers of the pandemic on a daily basis as a Level-2 variable measuring the daily COVID-19 prevalence.
+
+The interviews were conducted via email. The sample, stratiﬁed by the district of residence and then quoted by gender and age classes, included 8210 participants with approximately 89 respondents per day (4232 men, 3978 women; Mage = 50.63, SDage = 15.71).
+
+Level-1 measures
+
+We measured perceived economic vulnerability using the following European Social Survey (ESS) item: “Which of the following descriptions comes closest to how you feel about your household’s income nowadays? Living comfortably on present income ( = 1), coping on present income ( = 2), ﬁnding it difﬁcult on present income ( = 3), and ﬁnding it very difﬁcult on present income ( = 4).”
+
+Perceived health vulnerability was assessed using the following item: “How likely do you think it is that you will become infected with Coronavirus in the coming months? I am sure ( = 6), Very likely ( = 5), Quite likely ( = 4), Unlikely ( = 3), Very unlikely ( = 2) and I rule it out with certainty ( = 1).”
+
+We measured trust in science and scientists with the following 4 items: (a) “What level of trust do you personally place in scientists? (11 response categories, with 0 = complete lack of trust and 10 = complete trust)”; (b) “Scientiﬁc research is capable of solving the problem of coronavirus (11 response categories, with 0 = complete disagreement and 10 = complete agreement)”; (c) “Thanks to science and technology, there will be more opportunities for the next generation (11 response categories, with 0 = complete disagreement and 10 = complete agreement)”; and (d) “When it comes to vaccines, the recommendations of science can be trusted” (ﬁve response alternatives, from 1 = complete disagreement to 5 = complete agreement). After ranging these items to a 0–1 scale, the score for trust in science and scientists was mod 15406237, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13254 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+198 CENA AND ROCCATO
+
+eled as a latent factor using conﬁrmatory factor analysis, CFI = 1.00, TLI = 0.99, RMSEA = 0.04. Factor loadings ranged from 0.61 and 0.78, all ps < 0.001.
+
+Trust in political institutions was measured using the following ESS item: “Please, tell me on a score of 0–10 how much you personally trust the Italian Parliament. Zero means you do not trust the Parliament at all, and 10 means you have complete trust.”
+
+Favor for a technocratic government was measured using the following World Values Survey: “How good or bad would it be having experts that make decisions according to what they think is best for the country for governing Italy nowadays?” (1 = “It would be a very bad system,” 4 = “It would be a very good system”).
+
+We computed the interaction between trust in science and scientists and trust in the Italian Parliament as a latent variable, after centering the latter (it was not necessary to center the former since it was calculated as latent factor as a standardized variable).
+
+In the model, we partialed out gender (1 = woman), age, years of education, and geopolitical area of residence (we entered living in North-Western Italy, North-Eastern Italy, Central Italy, and Southern Italy in the model, using living in the main Italian islands as the reference category).
+
+Level-2 measures
+
+The daily COVID-19 prevalence was measured day by day by the following indicators: (a) number of people ill with COVID-19, (b) number of deaths due to COVID-19, and (c) number of patients in the intensive care unit due to COVID-19. The COVID-19 prevalence was modeled as a latent factor underlying these variables, using conﬁrmatory factor analysis, CFI = 1.00, TLI = 1.00, RMSEA = 0.00. Factor loadings ranged from 0.91 and 1.00, all ps < 0.001.
+
+We tested our hypotheses using a multilevel structural equation model with latent variables (when possible) and a latent interaction. The analyses were conducted using MPLUS. The model integrates a measurement and a dependency model and uses individuals as Level-1 units and days as Level-2 units.
+
+RESULTS
+
+A preliminary unconditional model showed that favor for technocracy varied across days (variance = 0.004, SE = 0.000, p < 0.001, ICC = 0.05). Figure 1 shows the results of our model. Consistent with H1a and H1b, subjective health vulnerability and subjective economic vulnerability showed positive associations with trust in science and scientists, which, in turn, consistent with H2, showed a positive association with a favorable attitude toward technocracy. Consistent with H3, trust in political institutions moderated the latter association, which was stronger for participants with low (−1 SD) levels of trust in the Italian Parliament (coeff. = 0.48, SE = 0.10, p < 0.001) than for participants with high (+1 SD) levels of trust in the Italian Parliament (coeff. = 0.37, SE = 0.07, p < 0.001). Finally, consistent with H4, there was a positive relationship between daily prevalence of COVID-19 and favor for technocracy.1
+
+CONCLUSION
+
+In this study, we modeled support for a technocratic government using both objective and subjective variables as predictors and focusing on the role of trust in science and institutions as a possible coping mechanism against the threat of the COVID-19 pandemic. Our analyses have shown that—consistent with theory and research on the CCM (Kay et al. 2011)—health and economic vulnerability are positively
+
+1 Parallel analyses (complete results available from the corresponding author) showed that the cross-level interaction between trust in science and scientists and COVID-19 daily incidence did not reach statistical signiﬁcance, coeff = −0.01, SE = 0.01, p = 0.56.
+
+15406237, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13254 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+COVID-19 AND TECHNOCRACY 199
+
+Perception of health
+
+threat
+
+Perception of economic threat
+
+Trust in the Italian
+
+parliament
+
+Trust in science and
+
+0.01**
+
+0.03**
+
+0.42**
+
+-0.06**
+
+0.03*
+
+Favor for a technocratic
+
+government
+
+COVID-19 daily prevalence
+
+(Level-2)
+
+FIGURE 1 Multilevel regression model. **p < 0.01; *p < 0.05.
+
+associated with trust in science and scientists and that this trust has a positive association with favoring a technocratic government, particularly among people with low trust in the traditional political institutions. Interestingly, the actual severity of the pandemic situation was also positively associated with support for a technocratic government.
+
+These ﬁndings contribute to our understanding of how public opinion responds to exogenous shocks such as the COVID-19 pandemic and open the space for new research in this area of study. The extant literature shows that the pandemic promoted trust in institutions (Bol et al. 2021) and support for antidemocratic forms of government (Amat et al. 2020), primarily as a means to increase people’s control over their lives and social environments. Our study extends these ﬁndings in two ways. First, it showed that even trust in science and scientists can be enhanced in threatening situations. Second, in addition to people’s subjective threats, the actual threat of the pandemic was found to be positively related to a favorable attitude toward technocracy.
+
+Almost one century ago, Lewin (1936) postulated that every social-psychological event depends on the state of the person and, at the same time, on the state of the environment in which s/he lives. Our results are explicitly consistent with this ancient intuition and make a strong case for the use of multilevel models in analyzing how the public opinion responds to threatening and problematic situations. Another interesting development of this research could extend this model to other threatening situations. Indeed, science and scientists are adequate epistemic authorities to draw upon when dealing with a pandemic. Based on the application of CCM to emergencies (Roccato et al. 2021b), we argue that more traditional exogenous shocks, such as wars or terrorist attacks, might promote people’s trust in epistemic authorities appropriate to such threats, such as the army or the police. An empirical test of this idea might be interesting.
+
+From a political perspective, technocracy responds to several demands that are increasingly felt in the electorate. It criticizes traditional democratic governance, considered inefﬁcient to face complex crises (Inglehart and Norris 2017). Nonetheless, technocratic governments pose a challenge to representative democracy, which addresses complexity, not through unaccountable experts but by attempting to involve at least all adults residing in a country in politics and governance. What will be the role of science and scientists in society and in politics when the pandemic crisis will be over or when it will be endemic? Since technocracy and democracy can coexist (e.g., with technocratic cabinets, as seen in various countries) and potentially have different levels of integration (Bertsou and Caramani 2022), what balance between technocratic and democratic governance should we expect? These issues will be of greatest interest in the coming months and years.
+
+15406237, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13254 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+200 CENA AND ROCCATO
+
+Our study has some limitations, mainly the cross-sectional nature of the Level-1 data, that affected our possibility to make causal statements. However, the RCS approach brought the Level-2 section close to causal inference because observations were distributed in time, even though they were closely spaced (Johnson and Brady 2002). Nonetheless, a longitudinal replication of the study might be helpful to understand how long the “crisis effect” we found will hold up.
+
+However, our study also had some strong points: (a) very high-quality sample, both in terms of size and method by which it was extracted from the general population; (b) the innovative use of a RCS design to examine the public opinion during a pandemic; (c) its multilevel approach, which allowed us to establish a direct relationship between the prevalence of COVID-19 and preference for a technocratic government. Thus, we believe that our research represents a signiﬁcant step forward in understanding changes in public opinion during times of crisis.
+
+ETHICS STATEMENT
+
+We used data from the ResPOnsE COVID-19 data set. Data, details, and ethical approval statements are available at the ResPOnsE COVID-19 website: https://www.spstrend.it/progetto-response-covid-19/
+
+CONFLICTS OF INTEREST STATEMENT The authors do not have conﬂicts of interest.
+
+ACKNOWLEDGEMENTS Open Access Funding provided by Universita degli Studi di Torino within the CRUI-CARE Agreement.
+
+ORCID MicheleRoccato https://orcid.org/0000-0001-5817-7341
+
+REFERENCES
+
+Amat, F., A. Arenas, A. Falcó-Gimeno, and J. Muñoz. 2020. Pandemics Meet Democracy: Experimental Evidence from the COVID-19 Crisis
+
+in Spain. https://osf.io/preprints/socarxiv/dkusw/. Barberia, L., T. Plümper, and G. D. Whitten. 2021. “The Political Science of COVID-19: An Introduction.” Social Science Quarterly
+
+102(5):2045–54. https://doi.org/10.1111/ssqu.13069. Benke, C., L. K. Autenrieth, E. Asselmann, and C. A. Pané-Farré. 2022. One year after the COVID-19 outbreak in Germany: Long term changes in depression, anxiety, loneliness, distress and life satisfaction. European Archives of Psychiatry and Clinical Neuroscience: in press. https://doi.org/10.1007/s00406-022-01400-0. Bertsou, E., and D. Caramani. 2022. “People Haven’t Had Enough of Experts: Technocratic Attitudes Among Citizens in Nine
+
+European Democracies.” American Journal of Political Science 66(1):5–23. https://doi.org/10.1111/ajps.12554. Bicchieri, C., E. Fatas, A. Aldama, A. Casas, I. Deshpande, M. Lauro, C. Parilli, M. Spohn, P. Pereira, and R. Wen. 2021. “In Science We
+
+(Should) Trust: Expectations and Compliance Across Nine Countries During the COVID-19 Pandemic.” PlosOne 16(6):e0252892. https://doi.org/10.1371/journal.pone.0252892. Bol, D., M. Giani, A. Blais, and P. J. Loewen. 2021. “The Effect of COVID-19 Lockdown on Political Support: Some Good News
+
+for Democracy?” European Journal of Political Research 60(2):497–505. https://doi.org/10.1111/1475-6765.12401. Broudi, F. B., S. Patel, K. Patel, N. Parikh, M. Boudi, S. Patel, and H. Patel. 2022. “COVID-19 Management Missteps.” Cureus
+
+14(3):e23059 https://doi.org/10.7759/cureus.23059. Cavazza, N., S. Russo, P. Colloca, and M. Roccato. 2022. “How and Why is the COVID-19 Crisis Impacting Trust in Institutions?
+
+A Two-Wave Longitudinal Study.” Psicologia Sociale: Social Psychology Theory and Research 17(3):341–58. https://doi.org/10.1482/ 105492. Caceido-Moreno, A., A. Correa-Chica, W. Lόpez- Lόpez, P. Castro-Abril, I. Barreto, and J. D. Rodriguez-Romero. 2022. “The Role
+
+of Psychology in Media During the COVID-19 Pandemic: A Cross-National Study.” Psychologica Belgica 62(1):136–51. https://doi. org/10.5334/pb.1054. Ganuza, E., and J. Font. 2020. “Experts in Government: What For? Ambiguities in Public Opinion Towards Technocracy.” Politics
+
+and Governance 8(4):520–32. https://doi.org/10.17645/pag.v8i4.3206. Inglehart, R., and P. Norris. 2017. “Trump and the Populist Authoritarian Parties: The Silent Revolution in Reverse.” Perspectives on
+
+Politics 15(2):443–54. https://doi.org/10.1017/S1537592717000111.
+
+15406237, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13254 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+COVID-19 AND TECHNOCRACY 201
+
+Johnson, R., and H. E. Brady. 2002. “The Rolling Cross-Section Design.” Electoral Studies 21(2):283–95. https://doi.org/10.1016/
+
+S0261-3794(01)00022-1. Kay, A. C., S. Shepherd, S. Blatz, N.C. W. Chua, and A. D. Galinsky. 2011. “For God (or) Country: The Hydraulic Relation Between
+
+Government Instability and Belief in Religious Sources of Control.” Journal of Personality and Social Psychology 99(5):725–39. https:// doi.org/10.1037/a0021140. Khanna, A. 2020. “Impact of Migration of Labour Force due to Global COVID-19 Pandemic with Reference to India.” Journal of
+
+Health Management 22(2):181–91. https://doi.org/10.1177/0972063420935542. Landau, M. J., A. C. Kay, and J. A. Whitson. 2015. “Compensatory Control and the Appeal of a Structured World.” Psychological Bulletin
+
+141(3):694–722. https://doi.org/10.1037/a0038703. Lavezzolo, S., L. Ramiro, and P. Fernández-Vázquez. 2022. “Technocratic Attitudes in COVID-19 Times: Change and Preference
+
+over Types of Experts.” European Journal of Political Research 61(4):1123–42. https://doi.org/10.1111/1475-6765.12491. Lewin, K. 1936. Principles of Topological Psychology. New York: McGraw-Hill. Lutz, G., T. De Rocchi, and N. Pekari. 2013. “The Swiss 2011 rolling cross-section study: Design, ﬁeld work and data quality.” FORS
+
+Working Papers, 4/2013. Muldoon, O. T., J. H. Liu, and C. McHugh. 2021. “The Political Psychology of COVID-19.” Political Psychology 42(5):715–28. https://
+
+doi.org/10.1111/pops.12775. Oneal, J. R., and A. L. Bryan. 1995. “The Rally ‘Round the Flag Effect In U.S Foreign Policy Crises, 1950–1985.” Political Behavior
+
+17(4):379–401. https://doi.org/10.1007/BF01498516. Roccato, M., N. Cavazza P. Colloca, and S. Russo. 2020. “A Democratic Emergency After a Health Emergency? Exposure to COVID 19, Perceived Economic Threat and Support for Anti-Democratic Political Systems.” Social Science Quarterly 101(6):2193–202. https://doi.org/10.1111/ssqu.12865 Roccato, M., P. Colloca, N. Cavazza, and S. Russo. 2021). “Coping with the COVID-19 Pandemic Through Institutional Trust: Rally
+
+Effects, Compensatory Control and Emotions.” Social Science Quarterly 102(5):2360–67. https://doi.org/10.1111/ssqu.13002. Roccato, M., S. Russo, P. Colloca, and N. Cavazza. 2021). “The Lasting Effects of the COVID-19 Pandemic on Support for Anti Democratic Political Systems: A 6-month Longitudinal Study.” Social Science Quarterly 102(5):2285–95. https://doi.org/10.1111/ ssqu.12958. Scardigno, R., and G. Testa. 2021. “Zoom è Stato una luce: La Religiosità Online ai Tempi del COVID-19 [Zoom was a Light: Online
+
+Religiosity in the COVID-19 Pandemic].” Psicologia Sociale 16(3):373–96. https://doi.org/10.1482/102122. Sibley, C. G., and J. Bulbulia. 2012. “Faith after an Earthquake: A Longitudinal Study of Religion and Perceived Health Before and
+
+After the 2001 Christchurch New Zealand Earthquake.” PlosOne 7(12):e49648. https://doi.org/10.1371/journal.pone.0049648. Torres-Vega, L. C., J. Ruiz, and M. Moya. 2021. “Dangerous Worldview and Perceived Sociopolitical Control: Two Mechanisms to
+
+Understand Trust in Authoritarian Political Leaders in Economically Threatening Contexts.” Frontiers in Psychology 12(25):603116. https://doi.org/10.3389/fpsyg.2021.603116. Vezzoni, C., R. Ladini, F. Molteni, G. M. Dotti Sani, F. Biolcati, A. Chiesi, M. Marafﬁ, S. Guglielmi, A. Pedrazzani, and P. Segatti.
+
+2020. “Investigating the Social, Economic and Political Consequences of COVID-19: A Rolling Cross-Section Approach.” Survey Research Methods 14(2):187–94. https://doi.org/10.18148/srm/2020.v14i2.7745.
+
+How to cite this article: Cena, Lorenzo, and Michele Roccato. 2023. “Desires of technocracy in pandemic times: A multilevel study.” Social Science Quarterly 104: 195–201. https://doi.org/10.1111/ssqu.13254
+
+15406237, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13254 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

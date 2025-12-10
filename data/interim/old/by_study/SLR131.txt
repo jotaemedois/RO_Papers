@@ -1,0 +1,619 @@
+640 European Journal of Political Research 56: 640–659, 2017
+
+doi: 10.1111/1475-6765.12195
+
+Explaining non-participation in deliberative mini-publics
+
+VINCENT JACQUET
+
+FRESH Fellow, Université Catholique de Louvain (UCL), Belgium
+
+Abstract. This article investigates citizens’ refusal to take part in participatory and deliberative mechanisms. An increasing number of scholars and political actors support the development of mini-publics – that is, deliberative forums with randomly selected lay citizens. It is often argued that such innovations are a key ingredient to curing the democratic malaise of contemporary political regimes because they provide an appropriate means to achieve inclusiveness and well considered judgment.Nevertheless,real-life experience shows that the majority of citizens refuse the invitation when they are recruited. This raises a challenging question for the development of a more inclusive democracy: Why do citizens decline to participate in minipublics? This article addresses this issue through a qualitative analysis of the perspectives of those who have declined to participate in three mini-publics: the G1000, the G100 and the Climate Citizens Parliament. Drawing on in-depth interviews, six explanatory logics of non-participation are distinguished: concentration on the private sphere; internal political inefficacy; public meeting avoidance; conflict of schedule; political alienation; and mini-public’s lack of impact on the political system. This shows that the reluctance to take part in mini-publics is rooted in the way individuals conceive their own roles, abilities and capacities in the public sphere, as well as in the perceived output of such democratic innovations.
+
+Keywords: mini-public; deliberative democracy; democratic innovations; political participation; random selection
+
+Introduction
+
+Over the last decades, confidence in representative institutions and actors has decreased and conventional forms of engagement have mobilised fewer citizens (Dalton & Welzel 2014). To cure this democratic malaise, participatory and deliberative procedures have been developed in order to foster the involvement of lay citizens in political matters (Papadopoulos & Warin 2007; Geissel & Newton 2012). Among them, mini-publics are often presented as ‘the most promising constructive efforts for civic engagement and public deliberation in contemporary politics’ (Fung 2007: 159). Mini-publics are participatory forums gathered for deliberation on a specific topic lasting one or more days. Various mechanisms exist, but the most standardised are citizens’ juries, deliberative polls and citizens’ assemblies (Grönlund et al. 2014).
+
+While these deliberative mechanisms may vary widely in terms of design, one of their main features is the use of lots to recruit participants. Advocates of mini-publics claim that random selection ensures inclusiveness because each person in the sampled population has an equal chance of being selected (Fishkin 2009). They aim to break the reproduction of political inequalities observed in other forms of participatory innovations open to all who wish to attend where already active citizens are over-represented (Fung 2007).The objective is to bring in a diversified panel of citizens for deliberating. Nevertheless, experience shows that many citizens decline the invitation when they are recruited even if the response
+
+C⃝2017 European Consortium for Political Research
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 641
+
+rate may vary between mini-publics (Goidel et al. 2008). As observed for other forms of demanding engagement like party activism or demonstrating (Verba et al. 1995), only a part of the population is engaged in such democratic innovations. This raises the question: Why do citizens decline to participate in deliberative mini-publics? Most empirical research scrutinises participants’ motivations (Curato & Niemeyer 2013), opinion changes (Barabas 2004) and civic transformations induced by deliberation (Grönlund et al.2010;Talpin 2011). This article focuses on the other side of the coin: the citizens who do not want to be involved in mini-publics when they are recruited. It is essential for understanding the reaction of the public towards these forms of democratic innovations.
+
+Previous studies have addressed this issue by looking at the profile of participants and observed the (limited) over-representation of better educated and politically active individuals (Goidel et al. 2008; Fournier et al. 2011). Nevertheless, these statistical biases do not explain why individuals decline to take part in deliberative mini-publics. Drawing on in-depth interviews, this article fills this gap by analysing the views of those who have refused to participate in three Belgian mini-publics: the G1000, the G100 and the Climate Citizens Parliament (CCP). They reflect diverse forms of mini-publics currently organised in representative democracies. Based on a data-driven thematic analysis (Braun & Clarke 2006), six explanatory logics of non-participation in mini-publics are identified: concentration on the private sphere; internal political inefficacy; public meeting avoidance; conflict of schedule; political alienation; and the mini-public’s lack of impact on the political system.They all pose specific challenges for the development of a more inclusive democracy.
+
+This article is structured as follows. First, it introduces the relevance of understanding non-participation in mini-publics. Then, it describes the similarities and differences between the three case studies as well as the methodology used to collect and analyse the indepth interviews with non-participants. Subsequently, the six logics of non-participation are presented. The article concludes by discussing the implications of these results for the development of a more inclusive democracy.
+
+Non-participation in mini-publics
+
+To ensure inclusiveness, organisers of mini-publics use random selection to recruit participants (Carson & Martin 1999). Three lines of theoretical arguments can be distinguished to justify the use of drawing lots. For a few advocates, it allows the creation of a representative ‘microcosm’ of the society (Fishkin 2009). For others, random selection brings a diversity of points of view into the mini-public (Buchstein 2010; Landemore 2013). According to Bohman (2007), increasing heterogeneity among participants enhances the epistemic quality of deliberation. The diversity induced by random selection is expected to produce better and smarter decisions. Finally, still others argue that drawing lots best embodies the idea that all citizens are equally capable of political judgment and equally responsible for the public good (Barber 1984).
+
+However, participation is never compulsory and the inclusive character of random selection is limited by the possibility to decline the invitation to deliberate. Some events attract only 1 per cent of the targeted population (e.g., the AmericaSpeaks and CaliforniaSpeaks initiatives) (Fishkin 2009), but others succeed in obtaining a higher raten (e.g., the Australian Citizens Parliament) (Curato & Niemeyer 2013). The three well-known
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+642 VINCENT JACQUET
+
+citizens assemblies on electoral reforms have showed the same pattern of returned invitation letters with 7.4 per cent in British Columbia, 6.2 per cent in the Netherlands and 5.7 per cent in Ontario (Fournier et al. 2011: 32). The average rate for British citizens juries is usually 20 per cent (Stewart et al. 1994), and a comparative study of 11 Spanish local citizens juries show an average of 29.7 per cent but with an important discrepancy (Font & Blanco 2007). The level of participation of deliberative polls generally hovers around 20 per cent (Luskin & Fishkin 1998: 4). These rates have to be interpreted with a great deal of caution because they are calculated in largely diverging ways,1 but they show that many citizens decline the invitation to participate in such democratic innovations. It may not surprise specialists of political engagement because it is well documented that only a small circle of the population is active in the political arena, especially in demanding forms of action like party activism or community groups (Barnes & Kaase 1979; Verba et al. 1995). Random selection, on the other hand, is used to open the door of deliberation to a larger public, beyond the circle of already active citizens (Fung 2007). Nevertheless, self-selection still appears. A brief literature review shows that despite differences between cases, the majority (70 per cent in best-case scenarios) of the recruited population refuse to participate. In these circumstances, it is relevant to scrutinise the reasons for this nonparticipation to understand the reaction of the wider public towards these deliberative mini-publics.
+
+The growing debate on process preferences has explored citizens’ attitudes towards the participatory turn of democracies. In their book Stealth Democracy, Hibbing and Theiss-Morse (2002) argue that people refuse because they do not believe that it is the role of citizens to be more involved in the political realm. Subsequently, several studies based on national surveys have challenged this thesis by observing much more support for deliberation and participation than expected (Neblo et al. 2010; Webb 2013; Coffé & Michels 2014; Font et al. 2015). These studies are important for grasping citizens’ folk philosophies about democracy and a hypothetical desire to participate in politics. However, they do not explain why individuals nowadays refuse to get involved in real-life deliberative experiments. As suggested by Webb (2013: 765), it is one thing to say that you would be willing to participate if given the chance,but another to actually participate when confronted with the possibility of doing so. To tackle this problem, it is important to pay attention to citizens’ reactions towards actual opportunities.
+
+Current studies on mini-publics’ inclusiveness focus on a comparison of minipublic participants with broad population sociodemographic profiles. They indicate that participation follows the social unequal distribution pattern of political engagement (Font & Blanco 2007; Goidel et al. 2008; French & Laver; 2009; Curato & Niemeyer 2013; Griffin et al. 2015). Participants are better educated, mostly men and older than the average population. But these over-representations are limited, and by no means do they reflect the wide differences between participants and non-participants in more traditional political activities (Smith 2009). Some scholars analyse the political attitudes of participants and find that participants are more politically interested and have a higher sense of efficacy (French & Laver 2009; Fournier et al. 2011). Goidel et al. (2008) also observe that the Louisiana Public Square Forum attracted more ideologically moderate participants who valued the role of discussion in democratic governance. Nevertheless, these statistical biases do not elucidate the reasons why citizens refuse to participate in such democratic innovations. In
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 643
+
+order to disentangle this issue, attention must be paid to the views and perspectives of nonparticipants.
+
+Some case studies report justifications provided by non-participants such as the lack of interest or personal reasons (e.g., work and family commitments or health problems) (Font & Blanco 2007: 564). In a more systematic American experiment (Neblo et al. 2010), respondents who answered that they are ‘Not too interested’ or ‘Not at all interested’ in participating in deliberative events were invited to select items to justify their lack of interest. The four most chosen justifications were: ‘Do not know enough to participate’, ‘Too busy’, ‘Dislike conflict’ and ‘Will not lead to binding decision’. But do these reasons correspond to the ones provided by citizens actually confronted by an invitation to join a mini-public? What is the explanatory mechanism behind these items? What do they mean in the eyes of actors? The purpose of this article is to address these questions.
+
+Given this empathic programme,an inductive and qualitative research design is the most appropriate approach (Bernard & Ryann 2010).By identifying the meaning this phenomena has for individuals,it is indeed possible to discover what lies behind,or underpins,a decision, an attitude and a behaviour (Ritchie 2003: 28). To this end, in-depth interviews have been collected and analysed. This technique of non-structured interviews aims to grasp the point of view of individuals on a specific subject instead of imposing pre-formulated categories (Johnson 2002). These interviews are particularly suited to understanding the meanings attributed to social phenomena and relations with respondents’ personal trajectories and opinions (Marvasti 2003).
+
+Interviews of non-participants in three mini-publics
+
+The analysis is based on in-depth interviews with non-participants in three mini-publics: the G1000,the G100 and the CCP.This section describes the mini-publics and the methods used to collect and analyse interviews.
+
+Diverse cases of mini-publics
+
+Individuals interviewed have refused to participate in three mini-publics, all located in Belgium. This country is a typical illustration of a representative regime where mini-publics are introduced to reinvigorate the democratic system (Van Damme et al. 2017). Following pioneer countries from Northern Europe, Belgium has experienced a growing number of participatory and deliberative experiments since the first decade of the twenty-first century. The diversity of mini-publics makes this area particularly interesting for analysing citizens’ reactions.
+
+As pointed out by Papadopoulos (2013: 142), participatory innovations can be distinguished according to their types of initiators.Some are organised by civic organisations. They seek to remedy political apathy and to improve the quality of citizens’ involvement in public affairs. They might influence public policies, but in an informal way. On the other side, public authorities also initiate participatory experiments to consult the population and collect information from the ground. This article will scrutinise non-participation in both kinds of mini-publics with the CCP organised by the public authorities and the G1000 and G100 being grassroots forums.2
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+644 VINCENT JACQUET
+
+Table 1. Three mini-publics
+
+Initiative
+
+Level of governance
+
+Duration of the deliberation Recruitment tool
+
+Positive response
+
+rate
+
+G1000 Civic
+
+organisation
+
+National 1 day Phone call by one
+
+private agency + recall to persuade them
+
+3.0
+
+G100 Civic
+
+organisation
+
+Local 1 weekend Phone call by
+
+volunteer of municipality
+
+2.6
+
+Climate Citizens
+
+Parliament (CCP)
+
+Public
+
+authorities
+
+Local 3 weekends Official letter from
+
+the provincial authorities
+
+3.0
+
+Moreover, the level of governance can differ. Participatory experiments are mostly organised at the local level, considering that citizens can mainly make useful contributions on issues in their immediate environment (Bacqué et al. 2001). Nowadays, however, such mechanisms are increasingly organised at the national level. Belgium offers the possibility to study citizens’ reactions towards both kinds of procedures with the organisation of the national large-scale G1000.
+
+Finally, cases can differ in their recruitment procedures (Fung 2007). CCP participants receive an official letter from provincial authorities inviting them to respond if they are interested.The two other mini-publics use phone calls to recruit citizens and may recall them several times if they express hesitation in order to convince them to participate.In each case, all costs are covered by the organisation (travel,food and hotel) and childcare is organized.A system is in place to pick them up by car people who cannot attend alone (e.g., handicapped or elderly persons). None of the three cases pay participants,3 which is common practice for deliberative polls and some citizens juries (Fishkin 2009). This is important to take into account when analysing the data because possible pecuniary incentives are absent.
+
+The three cases allow analysis of citizens’ reaction towards different types of mechanisms in terms of initiator, level of governance and type of recruitment (see Table 1). Interestingly, all have faced a similar raw positive response rate4 at only 3 per cent.It is therefore necessary to be cautious with possible generalisations because, as discussed in the previous section, other devices perform better in terms of response rates. However, the aim of this article is not to explain the differences in recruitment success across cases, but to discover why many randomly selected citizens fail to participate in mini-publics by paying attention to the way they perceive this type of mechanism.
+
+The G1000 took place in particular circumstances. After the 2011 elections, the federal level was left without an effective government for several months because parties were unable to reach agreement. During this crisis, a group of citizens5 decided to create a minipublic gathering 1,000 inhabitants in the context of the stalemate of partisan politics. The main goal was to show that citizens were able to express their voice between electoral campaigns (G1000 2012). On 11 November 2011, 704 participants deliberated about three
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 645
+
+issues: social security, immigration and redistribution of wealth. This case constitutes one of the largest face-to-face mini-publics in the world (Caluwaerts & Reuchamps 2015). At the end of the day, a report was given to the presidents of the seven parliaments of the country.
+
+The G1000 organisers asked an independent recruitment agency to contact participants through Random Digit Dialing.Every inhabitant who has a landline or a cell phone was thus likely to be invited to participate. Eventually, 3 per cent of the citizens who were contacted accepted coming to Brussels to deliberate.The random selection was cross-checked for three predefined population quotas: by gender, by age and by province (G1000 2012).
+
+The G100 was created in the aftermath of the G1000. Inhabitants of a municipality in the south of Brussels – Grez-Doiceau – were interested in the experience of the G1000 and decided to create their own mini-public. Like the G1000, the experience was entirely independent from public authorities. The small group of organisers was composed of active inhabitants of the municipality and two associations.6 The mini-public consisted of a twoday deliberation that took place on 11–12 October 2014. G100 participants were first asked to imagine their ideal municipality 30 years from now, following which they were asked to propose goals and join working groups.
+
+In terms of participant selection,organisers decided to adopt a mixed method combining a general call for participants, on the one hand, and a random selection by phone, on the other. For the latter, they used the comprehensive municipal list of telephone numbers provided by the post office.A group of volunteers called 115 randomly selected numbers.On the day of G100,only three participants were randomly selected individuals:two women and one man. The 44 other participants were volunteers invited by other means (friends, family, advertisement).
+
+The third case – the Climate Citizens Parliament – was organised by public authorities in the province of Luxembourg – a local level of governance in Belgium. Under the leadership of the local minister in charge of sustainable development, a deliberative mini-public was initiated in 2014. The timing was connected to the 2015 United Nations Climate Change Conference in Paris. From September to October 2015, 45 participants deliberated during three weekends. At the end of the process, participants wrote a report underlining different concerns and proposals for local public policies. This report was presented in a plenary session of the Provincial Council.7
+
+In order to recruit participants for the CCP, an invitation letter was sent to 2,500 randomly selected inhabitants8 of the province. Despite this different mode of recruitment, the response rate shows a very similar pattern with 75 volunteers. An independent recruitment company has re-contacted these respondents by phone to collect sociodemographic information and to create a diversified citizens’ panel. In practice, it has been possible to bring together a diversified group in terms of age and residency, but not in terms of gender, with 19 women and 26 men.
+
+Interviews collection and analysis
+
+A total of 34 original interviews were carried out by the author of this article from November 2014 to February 2016: ten with non-participants of the G1000, ten with non-participants of the G100 and 14 with non-participants of the CCP. The organisers of the three minipublics agreed to provide the complete list of non-participants’ phone numbers, including
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+646 VINCENT JACQUET
+
+Table 2. Profile of interviewees
+
+Number of interviewees
+
+Gender
+
+Men 18
+
+Women 16
+
+Age*
+
+18–35 7
+
+36–59 16
+
+60+ 11
+
+Education
+
+None or primary 3
+
+Secondary 13
+
+Undergraduate 14
+
+Graduate 4
+
+Occupation
+
+Employee public sector 6
+
+Employee private sector 11
+
+Self-employed 4
+
+Retired 9
+
+Unemployed 4
+
+Mini-public
+
+G1000 10
+
+G100 10
+
+Climate Citizens Parliament 14
+
+Note: *The age mentioned is the age of non-participants the day they received the invitation to take part in the mini-public.
+
+their first name and surname. People were thus contacted randomly by phone by the researcher to schedule an interview.9 As usual for qualitative research, the aim is not to reach a representative sample of the population, but rather to collect the diversity of views and experiences with regards to the analysed topic (Ritchie et al. 2003). To this end, two strategies have been adopted. As a first step, individuals who agreed to participate in the research were categorised according to their gender, age and occupation. The researcher subsequently made an appointment with a selection of the respondents at hand ensuring a certain balance across the different types of profiles. This resulted in a diversified group of interviewees as illustrated in Table 2. In a second phase, and according to the principle of data saturation, interviews were gradually planned until no additional information was provided by new interviews in each of the three cases.
+
+The in-depth interviews with non-participants lasted between 45 minutes and two hours. The place of meeting was, most of the time, in the respondent’s home and less frequently at their workplace or a bar. The whole conversation was audio-recorded with the agreement of the respondent. The researcher asked the questions in the interview guide presented in Appendix 1, but following the principles of in-depth interviewing, the structure was quite
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 647
+
+flexible in order to permit topics to be covered in the order most suited to the interviewee so as to allow responses to be fully probed and explored (Legard et al. 2003: 141).
+
+The 34 interviews were transcribed verbatim and the NVivo software (QSR International, UK) was used to manage this large amount of data. This software is particularly appropriate to inductively code and gradually constructs a general framework to interpret the data. An inductive thematic analysis was carried out in three steps (Braun & Clarke 2006). In the first phase, every interview was read and re-read with the aim of identifying meaningful segments – a sentence or a group of sentences – related to the research question. These segments were coded as initial codes (merely descriptive and close to the interviewee discourse;Boyatzis 1998).A segment containing different meanings could be coded two or more times. This iterative process is based on a constant comparison between generated themes (Braun & Clarke 2006). To ensure the reliability and validity of the analysis, the codes and the related quotes have been thoroughly discussed with other researchers (Miles & Huberman 1994). This multiple-check strategy serves to avoid any bias related to the researcher’s analytic preconceptions.The themes have progressively been reorganised and clarified on the basis of peer suggestions.
+
+Once the list was stabilised, the second phase consisted of combining the different codes into larger analytical themes (Braun & Clarke 2006). These overarching themes were constructed following the double criterion of internal homogeneity and external heterogeneity. Data within themes should indeed cohere together meaningfully, while there should be clear and identifiable distinctions between themes (Braun & Clarke 2006). Again, this iterative process of refining has been thoroughly discussed with other researchers to ensure validity. These themes eventually mirror the six logics of non-participation in minipublics established in this article. After the final definition of the coding scheme (presented in Appendix 2), every interview was coded one last time in order to ensure a coherent and uniform thematic analysis throughout all interviews.
+
+Data-driven thematic analysis is an interpretative process that requires the researcher to be creative. Nevertheless, transparency, systematic comparison and peer review are key elements to insure trustworthiness and possible replicability of findings (Miles & Huberman 1994).
+
+The six logics of non-participation
+
+Six logics of non-participation have been inductively identified. They are not mutually exclusive, which means that several logics can explain the refusal of an interviewee to take part in the mini-public. Nevertheless, each logic is sufficient to explain the non-participation of citizens. The final column of Table 3 indicates if a logic was present rather often (more than ten times) or less often (less than ten times) in interviews. They are presented in this section with quotes that best illustrate them.
+
+Concentration on the private sphere
+
+‘Too busy’ is identified by Neblo et al. (2010) as the main reason for non-participation in their experiment. Qualitative interviews enable a better understanding of this form of justification. To attract a maximum of citizens, the three mini-publics were organised
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+648 VINCENT JACQUET
+
+Table 3. The six explanatory logics of non-participation in mini-publics
+
+Logic Short description
+
+Presence in interview
+
+Concentration on the
+
+private sphere
+
+Preference for spending time in the private sphere,
+
+especially with family and at the workplace; withdrawal from the public arena
+
+Often
+
+Internal inefficacy Self-disqualification because of perceived lack of
+
+political competence and expertise regarding the discussed topics
+
+Less often
+
+Public meetings
+
+avoidance
+
+Avoidance of public meetings due to a dislike of
+
+group situations, the reluctance to speak up in public and the fear of others’ judgment
+
+Less often
+
+Conflict of schedule Other events or activities planned on the same day
+
+or weekend as the mini-public
+
+Often
+
+Political alienation Generalised rejection of political activities with a
+
+feeling of powerlessness; participation seen as an elite-driven manipulation
+
+Less often
+
+Mini-public’s lack of
+
+impact
+
+Negative evaluation of the mini-public because of
+
+the lack of potential outputs in the political system
+
+Often
+
+during weekends or on a public holiday. Nevertheless, some interviewees explained that they preferred to concentrate on their private sphere during this period. Two kind of reasoning are present among interviewees. On the one hand, some people explained that they preferred to stay with their family. These interviewees, mostly young parents, feel increasingly under pressure from their job during the week but also at the weekend. In particular, they complain about not having enough time to take care of their children or simply to rest. This leaves them no time for engaging in other activities. Accordingly, they decline the invitation to the mini-public, explaining it is just inconceivable to devote this time for something other than family.
+
+Having three children, I have got other things to take care of. I try to focus on the necessary and that is why I tend to leave aside many other things. … My husband works as a freelance and we barely see each other during the week. Therefore, during the weekend, I must admit that family time is the priority. (CCP, woman, 35 years old)
+
+Some non-participants also mentioned ‘job’ as the reason for declining. As illustrated by the quotes, it is less a matter of financial necessity or incompatible schedules than a matter of principle. They perceive their job as a form of moral duty, often related to a discourse based on the conviction that freelancers have to work under any circumstances. For them,deliberative mini-publics,and more broadly political action,are possible enjoyable distractions but do not take precedence over daily work which they perceive as being more essential to their life.
+
+- Do you regret having less time to do this kind of things [G1000]?
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 649
+
+- No, because actually, well, we all have our own concerns. I have to run my business so, yeah, of course. I have to dedicate time to that. If I have the choice, I prefer to spend time to run my business. (G1000, man, 25 years old)
+
+It is a complete no go for a boss to take a leave of absence for things that seem benign and unimportant, so you keep on working, there is no choice, you go to work and that’s it. This is not. This has always belonged to the way of thinking of self-employed people. (CCP, woman, 65 years old)
+
+This logic shows that even if formally contacted, some citizens prefer to stay outside the political realm. This echoes the division of political labour principle which supposes that citizens delegate power to representatives in order to concentrate on other kinds of activities in the private sphere (Manin 1997).
+
+Internal inefficacy
+
+Mini-publics are based on the principle of citizens’ equal capabilities to make useful contributions (Carson & Martin 1999). Nevertheless, and as observed for conventional modes of engagement (Niemi et al. 1991), some citizens do not recognise their own competence to participate in deliberative panels. Citizens with this internal inefficacy logic of non-participation have refused because this activity, according to them, is out of their field. They envision politics as a specialised field based on specific codes and rules. Citizen participation only makes sense if the citizen is specialized in this activity as a professional politician or spokesman of special interest.
+
+Then I believe that if you lack …, if you don’t have a real clue about politics, because politics is what it is,well … then you are lost.In that case,if you had to go to parliaments or so, I think that half of the – wait, how is it called … – the session, it would all seem impossible to understand because the words used would not be adapted to people like us, and you are just completely lost. (CCP, woman, 28 years old)
+
+Others insist on the topics at hand during the deliberations. For instance, a construction worker explained that he lacks the skills to deal with topics discussed in the G1000. He would accept giving his opinion on problems related to his professional expertise, such as the building of a new roundabout, but not on global issues, such as the organisation of a social security system.
+
+I am not going to deal with finances for example … uhm … everyone has his own specialty. (G1000, man, 44 years old)
+
+This shows that the proclaimed equality of citizens for democratic innovations clashes with some citizens’ inability to feel legitimate and competent enough to participate in politics.
+
+Public meeting avoidance
+
+Compared to other participatory tools, mini-publics are quite peculiar because they invite participants to deliberate with one another. Face-to-face exchanges place citizens in situations of meeting people that they do not know and forcing them to express their
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+650 VINCENT JACQUET
+
+opinions in public. Previous studies have already pointed out that reluctance to be exposed to conflicting opinions is an important factor for explaining unwillingness to take part in political discussion (Mutz 2006; Karjalainen & Rapeli 2015). The simple fact of having to spend time with a group of fellow citizens that are perfect strangers can be the main reason for refusal to attend mini-publics.
+
+This wasn’t my cup of tea. No really, all these associations and kind of things it’s really not what I enjoy doing. … I mean, I don’t like group activities. Maybe I’m a bit like a bear hiding in his cave you see, but I don’t like it, I don’t like groups because …it’s like this. I mean … there are people who like gathering, to meet up every weekend whilst I’d say that I’m better off far from the crowd. (G100, man, 63 years old)
+
+Citizens with this logic of non-participation explain that they do not like to speak out in public. Some interviewees go still further by admitting that their avoidance of public meetings is related to their fear to be judged by others in these citizens’ panels. They shared some unpleasant, personal memories with the researcher. For instance, a retired man explained how group discussions are always stressful because he has already experienced saying ‘something stupid’ and being mocked by the audience during a local meeting. His decline of the invitation to participate in the CCP can be explained by his fear of re-experiencing the same situation. Another woman suffered depression after the loss of someone close to her. She never wanted to go out because she could not bear people looking at her. She declined the mini-public because she was not ready to face judgmental looks. This avoidance is related to the deliberative feature of mini-publics, and not political engagement in general. This is illustrated by the fact that she often signs online petitions, precisely because it allows her to engage without being in contact with other people.
+
+The difference between the number of participants foreseen (1,000 for G1000, 100 for G100 and 45 for PCC) does not seem to affect non-participants’ discourses. This being said, this research does not cover mini-publics with very low number numbers like some citizens’ juries.
+
+Conflict of schedule
+
+This logic of non-participation refers to a clear conflict of schedules. On the day or the weekend of the mini-public, these non-participants had other events or activities planned. There were of various natures: a wedding, a birthday, weekend classes, relatives in the hospital and work. It is important, however, to make a clear distinction between this conflict of schedule logic and the concentration on the private sphere logic. Both logics pertain to the lack of time to participate in deliberative forums, but the overlapping agenda does not imply that citizens are not interested by the participation in other cases. Quite the contrary, some explain that they were very disappointed because they really found the project intriguing and exciting. On the contrary, some non-participants confessed that these overlapping activities were a chance for them because they had an easy excuse to decline the invitation. For them, this first motive of non-participation is then combined with one or more other logics.
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 651
+
+Political alienation
+
+This explanation connects non-participation in mini-publics with the political alienation of some citizens. Interviewees with this logic constantly explain that they dislike politics because politicians are unresponsive to people’s concerns. Political elites are depicted as living in ‘their own world’, distant from the population and involved in politics for their selfinterest. The system seems blocked and nobody can change it. This feeling of powerlessness prevents individuals from participating in any form of engagement (Hay 2007) and, in this case, mini-publics.
+
+- And what was your reaction when you received the invitation to the PPC?
+
+- Listen, I wondered what they are expecting. Politics … I’ve always said that these people [politicians] are always the same and that they meet and just have a good laugh together. (CCP, woman, 82 years old)
+
+Citizens with this logic are suspicious of the notion of citizen participation and view it as useless. They feel that politicians always distort the voice of the people to their own advantage. Therefore, organised forms of citizens’ participation and deliberation are the political elite’s stratagem for manipulation while claiming that decisions are congruent with the people’s will.
+
+The more politicians claim to consult citizens, the less they seem to take them into account. And it’s intentional, it’s a communication policy, … ‘Let’s poll people, let’s pretend to listen to the public or the people, or anyone you want.’ (G100, man, 64 years old)
+
+It is interesting to note that there are no differences between the two bottom-up minipublics and the top-down CCP for these alienated non-participants. The organisers of the G1000 and the G100 relied a lot on their grassroots style to generate an alternative and autonomous voice of the people. However, as illustrated by these quotes, non-participants with this logic did not perceive this particular feature. Because mini-publics are connected to politics, they are supposed to be organised by ‘the political system’ and are accordingly rejected.
+
+Mini-public’s lack of impact
+
+This logic of non-participation is related to a negative evaluation of the potential impact of the mini-public. During the interview, different narratives are provided by interviewees to justify this scepticism. Some quickly explain that the mini-public in itself does not look serious and well-organised enough to have any influence on the political system. Other non-participants criticise the lack of clear mechanisms and strategies to have an impact. In the following quote, a businessman explains that the G1000 appears to him as a group of discussion without any formal possibility of action on the actual world. He is part of an informal network gathering stakeholders of the regional industry, with clear action plans. He finds this kind of engagement more ‘efficient’ than a deliberative mini-public.
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+652 VINCENT JACQUET
+
+I had mixed feelings at first because I didn’t know anything about that, I tried to search on the Internet to understand what it is about and what these groups and associations bring about. So, I checked what this is all about, what their aim and what their potential levers are. If they want to organise a participatory group without having a powerful lever to influence anything or anyone,then,I don’t see the point.(G1000,man, 49 years old)
+
+Finally,the ‘ordinary’ character of mini-public participants can also be connected to their lack of impact. In the light of the following quote, a young educator indicated that power is in the hands of elected representatives who can initiate policies. She does not see how the CCP can have any impact on the broader society precisely because it is composed of lay citizens.
+
+I had a brief look but I couldn’t be bothered too much because I believe that on our level, we can’t have that great of an impact. People like us can’t make a big difference. (CCP, woman, 28 years old)
+
+This scepticism about the mini-public’s impact might be not surprising for the G1000 and the G100 mechanisms because they were organised by civil society without any relation to the formal decision-making process. Yet interviews show that citizens may also evaluate negatively the potential output of participatory procedures organised by public authorities.
+
+Interviews also allow for the nuancing of the ‘non-binding’ feature as a source of nonparticipation (Neblo et al. 2010). None of the participants with this discourse explain that they expect a direct influence on policies in order to accept the invitation. It is more the ability to deliver a message to the broader public sphere and the risk that it remains a purely isolated deliberation that is criticised.
+
+Discussion
+
+The six logics of non-participation explain why some citizens fail to participate in mini-publics. They are constructed inductively from interviews with non-participants in three Belgian mini-publics. They reveal the complexities of developing participatory and deliberative mechanisms in current representative democracies. First of all, nonparticipation in the three mini-publics is connected to citizens’ withdrawal from the public sphere.While different incentives and recruitment techniques may increase the participation rate (Fishkin 2009), the logics of political alienation, concentration on the private sphere, public meeting avoidance and internal inefficacy indicated that the refusal to take part in such democratic innovations is fundamentally rooted in the way citizens view their attributions, capacities and capabilities in the political system (Dalton 2008). Even if they are invited, some citizens do not want to be more involved in deliberations on public issues, which is in line with the thesis of Stealth Democracy (Hibbing & Theiss-Morse 2002). This nuances the deliberative and participatory turn of current democracies (Goodin 2008). The last decades have seen the development of mechanisms at different levels of governance that foster the participation of lay citizens, but this qualitative analysis shows that many citizens decline the invitation because it is not compatible with the way they conceive their role in current democracies.
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 653
+
+This focus on citizen’s self-perceptions does not imply that explanation is purely individualistic. Quite the contrary, and as Hay (2007) suggests, political disengagement can also be explained by supply-side factors like marketisation, neoliberalism and the displacement of policy-making autonomy, which diminish and denude the realm of formal public political deliberation. In the context of this research, several logics may be connected to more structural factors. The internal inefficacy finds its roots in the process of political socialisation through which citizens acquire attitudes towards politics from families, schools and mass-media. The avoidance of public meetings is related to the social capital transformation. The concentration on the private sphere is a consequence of the perceived work pressure in everyday life and labour organisation.Further research is needed to explain how these logics are influenced by broader structural factors – notably through macrocomparative studies – but this analysis shows that they influence citizens’ reactions towards democratic innovations.
+
+Citizens’ withdrawal from the public sphere can also inform the debate about the role of mini-publics in the deliberative system (Mansbridge et al. 2013: 26). Some theorists criticise the growing attention to small-scale venues because it neglects deliberation in the ‘mass pubic’ (Chambers 2009). Lafont (2015) argues that deliberative democracy should seek to include the wider public in deliberation and accordingly increase the political involvement of all citizens.Using mini-publics to shape public policies may create new deliberative elites – randomly selected but distinct from the wider population precisely because they have taken the time to deliberate – without promoting deliberation in the entire democratic system. She claims in this sense that the development of mini-publics can only be fruitful if it intends to foster mass deliberation and not to replace it. Niemeyer (2014) proposes, for instance,to use them to distil,constrain and synthesise arguments on complex topics in terms understood by the general public or as an example for other interactions in the deliberation system.
+
+The results of this research confirm that implementing micro-deliberative initiatives cannot be an alternative to the improvement of deliberation in the wider public sphere (Lafont 2015). Many citizens avoid public engagement and political discussion with people they do not know in general and,accordingly,fail to participate in mini-publics when they are recruited. Non-participation in such democratic innovations shares, in this sense, common sources with non-participation in other forms of public action (concentration on the private sphere, internal inefficacy, public meetings avoidance, political alienation). Developing an inclusive deliberative democracy requires attention to the global process of politicisation where citizens acquire, in various sites of the system, deliberative abilities and interest in engagement for the common good (Jennings 2007). If mini-publics intend to reinvigorate deliberation in mass publics (Niemeyer 2014: 179), strategies should be developed to include all citizens beyond those who accept taking part in such demanding forms of action.
+
+Interviews also show that the participatory forum and its presentation also count for explaining non-participation. The weak policy influence of participatory forums organised with lay citizens has already been pointed out by scientific observers (Papadopoulos 2013; Boussaguet 2016). This article suggests that recruited citizens are also sceptical and this is a source of non-engagement. With no guarantee of effectiveness, it is not worth spending time deliberating. Interestingly, there are no observable differences between the different types
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+654 VINCENT JACQUET
+
+of mini-publics considered in this research. One would expect that a public procedure does not face the same skepticism, but interviews show that the same rationales are present in both types of mini-publics.
+
+Finally, this empirical research was a first inquiry into the views of non-participants on mini-publics.This focus on a too often neglected category of actors is essential to understand the integration of democratic innovations in current representative regimes and needs to be continued.The three mini-publics analysed in this article have shown a relative low response rate if we compare it to the ‘best practices’ of some deliberative polls or citizens juries which can reach 20 per cent participation. Comparative research should be developed to explain these differences.More precisely,how are the six logics of non-participation affected by the features of such mini-publics? Participants in deliberative polls are usually paid for their engagement. Could money entirely or partially offset non-participation logics? Also, contrary to the three mini-publics discussed in this article, some local citizens juries and planning cells deal with controversial policies closely affecting participants (Font & Blanco 2007). Does this mitigate the observed mini-public perceived lack of impact, and for which categories of citizens? These questions warrant further investigation in diversified contexts.
+
+Conclusion: The challenges of inclusive democracy
+
+Previous reflections on mini-publics have mainly focused on their design,the quality of their deliberation and the educative impacts on the participants. Nevertheless, many individuals recruited to be part of such mechanisms fail to participate. In order to understand this reaction,in-depth interviews with people who have declined the invitation have been carried out and analysed.This qualitative approach has allowed distinguishing six explanatory logics of non-participation. Some prefer to concentrate on the private sphere and do not feel competent to express political judgments in these arenas. The deliberative feature of minipublics prevents participation because certain people dislike speaking out in public and are afraid of others’ judgments. Non-participants with the political alienation logic dislike politics and consider that every form of engagement will be manipulated by political elites. Finally, some selected citizens decline the invitation because there is no guarantee of actual external political output on the political system.
+
+What are the implications for the development of such participatory and deliberative procedures? It is possible to distinguish two kinds of challenges that are situated at two different levels. On the one hand, this article has shown that non-participation is deeply rooted in citizens’ attitude towards politics and civic engagement. From this perspective, the challenge is very global and concerns the whole process of politicisation (Hay 2007) which goes beyond the scope of any particular deliberative mini-public. On the other hand, and more practically manageable for organisers of democratic innovations, several features of the design can have an influence. Of course, all the incentives (e.g., money) and efforts made to facilitate participation (e.g., child care) can influence the rate of participation, but interviews with non-participants also show that the mini-publics’ output matters (Goodin & Dryzek 2006). Some citizens are concerned by the fate of the recommendations in the broader political system. They decline to participate when they perceive deliberation as hardly influential. To tackle this logic of non-participation, organisers could work and communicate from the outset on the mini-public’s potential impact on the broader political
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 655
+
+system.This shows that the challenges of an inclusive deliberative democracy are global,and cannot be limited to the internal designs of mini-publics.
+
+Acknowledgements
+
+A number of people have contributed to this research project in different ways. I would like to thank the organisers of the G1000, the G100 and the Citizen Climate Parliament for their support. I wish to express my warmest thanks to those non-participants who agreed to be interviewed and to student assistants for their transcription. I am grateful for invaluable feedback and suggestions on earlier drafts of this article by André Bächtiger, Rémi Barbier,
+
+˚Asa Bengtsson, Rikki Dean, Jérémy Dodeigne, Catherine Fallon, Monica Ferrin, Brigitte Geißel, Sergiu Gherghina, Petra Guasti, Pamela Heß, Julie Reginster, Min Reuchamps, Jonathan Rinne, Ben Seyd, Nathalie Schiffino-Leclercq, Julien Talpin, Laeticia Thyssen, Audrey Vandeleene, Virginie Van Ingelgom and various panel participants at conferences and workshops held in Frankfurt,Lille,Louvain-la-Neuve,Montreal and Warsaw.I also wish to express my sincere thanks to three anonymous referees and the editors of EJPR for their comments on this piece.Research for this article was funded by the Fonds pour la Recherche en Sciences Humaines (FRS-FNRS).
+
+Appendix 1. Interview guide
+
+r Short presentation of the research. r Could you briefly introduce yourself? r Could you tell me what went through your mind when you were contacted by the
+
+G1000/G100/PCC organisation? r Why did you not participate? r More broadly, what do you think about this kind of experience that invites people to deliberate
+
+about political issues? r In general, are you interested in politics? r Do you sometimes engage yourself in the public realm? Are you a member of any association or
+
+groups? r What do you think of the place of the ordinary citizens in the current political system? r To conclude the interview, I need more personal information. Could you tell me your age, your
+
+residence place, your occupation and your education?
+
+Appendix 2. Coding scheme
+
+r Concentration on the private sphere r Don’t want to be more involved in politics r Lack of time for political activities r Prefer to stay with their children r Weekend booked for family time r Weekend for relaxation r Work is the priority
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+656 VINCENT JACQUET
+
+Appendix 2. Continued
+
+r Internal inefficacy r Don’t feel competent r Lack of education r Lack of knowledge related to the
+
+discussed topic r Lack of political knowledge r Not enough engaged in politics (not
+
+activist) r Public meetings avoidance r Don’t like to be in groups r Fear of others’ judgments r Fear of being mocked r Fear of public speaking r Conflict of schedule r Birthday r Courses at the university r Relative in the hospital r Looking after children r Marriage of relatives r Newborn r Work r Political alienation r All politicians are the same r Hatred of politics r Impossible to influence elites r Nothing can change r Participation is manipulation r Participation is useless r Politicians are selfish r People are never heard by elites r Mini-public’s lack of impact r Lack of credibility of the organisation r Lack of potential impact r Lay nature of mini-public
+
+Notes
+
+1. They refer to different type of ratio between the population (people who participate in one pre-survey,
+
+number of letters sent, people with contact by phone) and participants (number of people who formally accepted, number of people who responded to a pre-questionnaire, number of people who effectively show up). Moreover, quotas can be used at different stage of the process. 2. As suggested by an anonymous referee, it is possible to add a third category: mini-publics organised by
+
+academics. Actually, political scientists were present in the organisational team of each three cases to provide a methodological support, but they were not the leading organisers. 3. Actually, the CCP participants were paid at the end of the second weekend, but this was not announced
+
+in the recruitment process and could not influence the participation rate. 4. Number of people who effectively show up on number of contacted people. This way of calculating may
+
+partly explain the relative low rate in comparison with other cases reported that use more ‘advantageous’ measures. 5. They are mainly artists, leaders of foundations, business men or women and academics.
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 657
+
+6. One is an environmental organisation focusing on sustainable towns and the other specialises in the
+
+facilitation of group dynamics. 7. This is the legislative branch of the provincial level of government. 8. The database for the random selection was telephone directory. 9. The rather high response rate (56.7 per cent) is due to the fact that people could choose the venue and
+
+time of the interview (including during weekends).Non-participants who were not available during a long period were again contacted three months later.It was also clearly mentioned that the researcher was not mandated by organisers to attract them in the deliberative panels and that interviews were carried out to a purely scientific purpose. All these efforts have enabled the interview of individuals with different sociodemographic backgrounds and different opinions on the mini-public.
+
+References
+
+Bacqué, M.-H., Rey, H. & Sintomer, Y. (eds) (2001). Gestion de proximité et démocratie participative. Paris:
+
+La Découverte. Barabas, J. (2004). How deliberation affects policy opinions. American Political Science Review 98(4):
+
+687–701. Barber, B.R. (1984). Strong democracy: Participatory politics for a new age. Berkeley, CA: University of
+
+California Press. Barnes, S. & Kaase, M. (eds) (1979). Political action: Mass participation in five Western democracies. London:
+
+Sage. Bernard, H.R. & Ryann, G.W. (2010). Analyzing qualitative data: Systematic approaches. Thousand Oaks,
+
+CA: Sage. Bohman, J. (2007). Political communication and the epistemic value of diversity: Deliberation and
+
+legitimation in media societies. Communication Theory 17(4): 348–355. Boussaguet, L. (2016). Participatory mechanisms as symbolic policy instruments? Comparative European
+
+Politics 14(1): 107–124. Boyatzis, R.E. (1998). Transforming qualitative data: Thematic analysis and code development. Thousand
+
+Oaks, CA: Sage. Braun, V. & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology
+
+3(2): 77–101. Buchstein, H. (2010). Reviving randomness for political rationality: Elements of a theory of aleatory
+
+democracy. Constellations 17(3): 435–454. Caluwaerts, D. & Reuchamps, M. (2015). Strengthening democracy through bottom-up deliberation: An
+
+assessment of the internal legitimacy of the G1000 project. Acta Politica 50(2): 151–170. Carson, L. & Martin, B. (1999). Random selection in politics. Westport, CT: Praeger. Chambers, S. (2009). Rhetoric and the public sphere: Has deliberative democracy abandoned mass
+
+democracy? Political Theory 37(3): 323–350. Coffé, H. & Michels, A. (2014). Education and support for representative, direct and stealth democracy.
+
+Electoral Studies 35: 1–11. Curato,N.& Niemeyer,S.(2013).Reaching out to overcome political apathy:Building participatory capacity
+
+through deliberative engagement. Politics and Policy 41(3): 355–383. Dalton, R.J. (2008). Citizenship norms and the expansion of political participation. Political Studies 56(1):
+
+76–98. Dalton, R.J. & Welzel, C. (eds) (2014). The civic culture transformed: From allegiant to assertive citizens. New
+
+York: Cambridge University Press. Fishkin, J.S. (2009). When the people speak: Deliberative democracy and public consultation. Oxford: Oxford
+
+University Press. Font, J. & Blanco, I. (2007). Procedural legitimacy and political trust: The case of citizen juries in Spain.
+
+European Journal of Political Research 46(4): 557–589. Font, J., Wojcieszak, M. & Navarro, C.J. (2015). Participation, representation and expertise: Citizen
+
+preferences for political decision-making processes. Political Studies 63: 153–172.
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+658 VINCENT JACQUET
+
+Fournier, P. et al. (2011). When citizens decide: Lessons from citizensʼ assemblies on electoral reform. Oxford:
+
+Oxford University Press. French, D. & Laver, M. (2009). Participation bias, durable opinion shifts and sabotage through withdrawal
+
+in citizensʼ juries. Political Studies 57(2): 422–450. Fung, A. (2007). Minipublics: Deliberative designs and their consequences. In S.W. Rosenberg (ed.),
+
+Deliberation, participation and democracy: Can the people govern? Basingstoke: Palgrave Macmillan. G1000 (2012). Final report: Democratic innovation in practice. Brussels: Fondations pour les générations
+
+futures. Geissel, B. & Newton, K. (eds) (2012). Evaluating democratic innovations: Curing the democratic malaise?
+
+New York: Routledge. Goidel, R.K. et al. (2008). Who participates in the ʻpublic squareʼ and does it matter? Public Opinion
+
+Quarterly 72(4): 792–803. Goodin, R. & Dryzek, J. (2006). Deliberative impacts: The macro-political uptake of mini-publics. Politics
+
+and Society 34(2): 219–244. Goodin, R.E. (2008). Innovating democracy: Democratic theory and practice after the deliberative turn.
+
+Oxford: Oxford University Press. Griffin, J. et al. (2015). Understanding participant representativeness in deliberative events: A case study
+
+comparing probability and non-probability recruitment strategies. Journal of Public Deliberation 11(4): 1–26. Grönlund, K., Bächtiger, A. & Setälä, M. (eds) (2014). Deliberative mini-publics: Involving citizens in the
+
+democratic process. Colchester: ECPR Press. Grönlund, K., Setälä, M. & Herne, K. (2010). Deliberation and civic virtue: Lessons from a citizen
+
+deliberation experiment. European Political Science Review 2(1): 95–117. Hay, C. (2007). Why we hate politics. Cambridge: Polity Press. Hibbing,J.R.& Theiss-Morse,E.(2002).Stealth democracy:Americansʼ beliefs about how government should
+
+work. Cambridge: Cambridge University Press. Jennings, K.M. (2007). Political socialization. In R.J. Dalton & H.-D. Klingemann (eds), The Oxford
+
+handbook of political behavior. Oxford: Oxford University Press. Johnson, J.M. (2002). In-depth interviewing. In J.F. Gubrium & J.A. Holstein (eds), Handbook of interview
+
+research. London: Sage. Karjalainen, M. & Rapeli, L. (2015). Who will not deliberate? Attrition in a multi-stage citizen deliberation
+
+experiment. Quality and Quantity 49(1): 407–422. Lafont, C. (2015). Deliberation, participation and democratic legitimacy: Should deliberative mini-publics
+
+shape public policy? Journal of Political Philosophy 23(1): 40–63. Landemore, H. (2013). Deliberation, cognitive diversity and democratic inclusiveness: An epistemic
+
+argument for the random selection of representatives. Synthese 190(7): 1209–1231. Legard, R., Keegan, J. & Ward, K. (2003). In-depth interviews. In J. Ritchie & J. Lewis (eds), Qualitative
+
+research practice: A guide for social science students and researchers. London: Sage. Luskin, R.C. & Fishkin, J.S. (1998). Deliberative Polling, Public Opinion and Democracy: The Case of the
+
+National Issues Convention. Paper presented at the Annual Meeting of the American Political Science Association, Boston, MA. Manin, B. (1997). The principles of representative government. Cambridge: Cambridge University Press. Mansbridge, J. et al. (2013). A systemic approach to deliberative democracy. In J. Parkinson & J. Mansbridge
+
+(eds), Delibertaive systems: Delibertaive democracy at the large scale. Cambridge: Cambridge University Press. Marvasti, A. (2003). Qualitative research in sociology. London: Sage. Miles, M. & Huberman, M. (1994). Qualitative data analysis: An expanded sourcebook. London: Sage. Mutz, D.C. (2006). Hearing the other side: Deliberative versus participatory democracy. Cambridge:
+
+Cambridge University Press. Neblo, M.A. et al. (2010). Who wants to deliberate – and why? American Political Science Review 104(3):
+
+566–583.
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+EXPLAINING NON-PARTICIPATION IN DELIBERATIVE MINI-PUBLICS 659
+
+Niemeyer, S. (2014). Scaling up deliberation to mass publics: Harnessing mini-publics in a deliberative
+
+system. In K. Grönlund, A. Bächtiger & M. Setälä (eds), Deliberative mini-publics. Colchester: ECPR Press. Niemi,R.G.,Craig,S.C.& Mattei,F.(1991).Measuring internal political efficacy in the 1988 National Election
+
+Study. American Political Science Review 85(4): 1407–1413. Papadopoulos, Y. (2013). Democracy in crisis? Politics, governance and policy. Basingstoke: Palgrave
+
+Macmillan. Papadopoulos, Y. & Warin, P. (2007). Are innovative, participatory and deliberative procedures in policy
+
+making democratic and effective? European Journal of Political Research 46(4): 445–472. Ritchie, J. (2003). The applications of qualitative methods to social research. In J. Ritchie & J. Lewis (eds),
+
+Qualitative research practice. London: Sage. Ritchie, J., Lewis, J. & Elam, G. (2003). Designing and selecting samples. In J. Ritchie & J. Lewis (eds),
+
+Qualitative research pratice. London: Sage. Smith, G. (2009). Democratic innovations: Designing institutions for citizen participation. Cambridge:
+
+Cambridge University Press. Stewart, J., Kendall, E. & Coote, A. (1994). Citizensʼ juries. London: IPPR. Talpin, J. (2011). Schools of democracy: How ordinanry citizens (sometimes) become competent in
+
+participatory budgeting institutions. Colchester: ECPR Press. Van Damme, J. et al. (2017). Public consultation and participation in Belgium: Directly engaging citizens
+
+beyond the ballot box? In M. Brans & D. Aubin (eds), Policy-analysis in Belgium. Bristol: Policy Press. Verba, S., Schlozman, K.L. & Brady, H.E. (1995). Voice and equality: Civic voluntarism in American politics.
+
+Cambridge, MA: Harvard University Press. Webb, P. (2013). Who is willing to participate? Dissatisfied democrats, stealth democrats and populists in the
+
+United Kingdom. European Journal of Political Research 52(6): 747–772.
+
+Address for correspondence: Vincent Jacquet, Université Catholique de Louvain, Place Montesquieu 1, bte L2.08.07, 1348 Louvain-la-Neuve, Belgium. E-mail: vincent.jacquet@uclouvain.be
+
+C⃝2017 European Consortium for Political Research
+
+14756765, 2017, 3, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12195 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

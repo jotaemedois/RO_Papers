@@ -1,0 +1,365 @@
+O R I G I N A L A R T I C L E
+
+Foreign aid projects and trust in political institutions
+
+Mitchell Watkins
+
+Anti-Corruption Evidence (ACE) Research Consortium, SOAS University of London, London, UK
+
+Correspondence Mitchell Watkins, Anti-Corruption Evidence (ACE) Research Consortium, SOAS University of London, London, UK. Email: jw76@soas.ac.uk
+
+Abstract
+
+Do foreign aid projects undermine citizens' trust in local and national political institutions? Drawing on
+
+institutional theories of political trust, I hypothesize
+
+that foreign aid projects reduce trust in political institutions by lowering citizens' perceptions of government
+
+performance and raising perceptions of corruption. To analyze the impact of aid projects on trust, this article
+
+utilizes geolocated survey data on citizens' trust in
+
+political institutions from Afrobarometer Rounds 2–5 (2003–2012) and data on the location of foreign aid pro jects from AidData's Aid Information Management Systems datasets for Nigeria, Senegal, and Uganda. Using
+
+a spatial difference-in-difference strategy, the empirical results find that active aid projects are on average asso ciated with decreased trust in the president, parlia ment, and local government council. An exploratory sectoral analysis suggests that the negative average
+
+treatment effect is driven by projects in the transportation, agriculture, education, and civil society sectors.
+
+1 | INTRODUCTION
+
+The ability of governments and the international community to reduce poverty, ensure security, and promote human rights depends on people's trust in their government (Cheema, 2010). Trust in political institutions is a central element of good governance and political stability—it enhances government legitimacy and encourages citizens to comply with rules and regulations (Levi et al., 2009). Institutional trust is formally defined as “the trust individuals have in their state-wide legal-political institutions and actors” (Berg & Hjerm, 2010, p. 391). According to institutional theories of trust, trust in political institutions primarily depends on citizens'
+
+Received: 11 June 2020 Revised: 23 April 2021 Accepted: 21 June 2021
+
+DOI: 10.1111/gove.12628
+
+Governance. 2022;35:909–927. wileyonlinelibrary.com/journal/gove © 2021 Wiley Periodicals LLC. 909
+
+assessments of the quality of government performance and administrative competence (Hetherington, 1998; Levi & Sacks, 2009; Mishler & Rose, 2001). In order to foster trust, governments must have the ability to mobilize economic resources and deliver basic public goods and services. Furthermore, governments must also have the ability to control corruption and enforce laws and regulations. Building trust is a difficult task in developing countries, where governments often lack the capacity to provide basic public goods and social services to all of their citizens. In many SubSaharan African and South Asian countries, donors and non-governmental organizations (NGOs) are the predominant providers of primary health care, basic education, sanitation, and infrastructure (Batley & Mcloughlin, 2010). Scholars and development practitioners have long theorized that the provision of public goods and services by non-state actors may have adverse effects on citizens' perceptions of their government (Batley & Mcloughlin, 2010; Bratton, 1989; Fowler, 1991). Following prominent research in the literature on comparative political behavior, I approach trust as a performance-based evaluation of political institutions and actors (Hakhverdian & Mayne, 2012; Hetherington, 1998; Mishler & Rose, 2001). Building on this framework, I hypothesize that foreign aid projects can harm citizens' trust in political actors and institutions by impacting citizens' assessments of government performance and corruption. Foreign aid projects reveal information to citizens about the capacity of their government. When citizens observe that public goods and social services are being provided by external actors, they may reevaluate their beliefs about their government's ability to address poverty and deliver public goods and social services (Dietrich & Winters, 2015; Sacks, 2012). Additionally, aid projects can undermine institutional trust by increasing citizens' experiences with and perceptions of corruption. Aid projects can provide rent-seeking opportunities, such as fraud and bribery, to government officials during the procurement process (Brazys et al., 2017; DavidBarrett et al., 2020). Furthermore, aid projects that bypass the government may indirectly signal to citizens that their government leaders engage in corrupt behavior (Baldwin & Winters, 2020). To analyze the effects of aid projects on institutional trust, I replicate the empirical approach featured in Briggs (2018) and geographically match spatial data on aid projects from Nigeria, Senegal, and Uganda with over 14,000 respondents from four Afrobarometer survey rounds over the 2002–2012 period. The empirical analysis employs a spatial difference-in-difference strategy, which examines variation in trust between citizens that live within 25 km of an active aid project and citizens that live within 25 km of a project that will start in the near future (Briggs, 2018; Isaksson & Kotsadam, 2018; Knutsen et al., 2017). The empirical results find that active aid projects are associated with decreased trust in the president, parliament, and local government council. The results also find support for the proposed government performance and corruption mechanisms. Compared to inactive projects, citizens living near active aid projects have lower performance evaluations of their president and Member of Parliament. Additionally, citizens living near active projects have increased perceptions of leader involvement in corruption and lower assessments of government performance fighting corruption. An exploratory sectoral analysis suggests that the negative average treatment effect is driven by projects in the transportation, agriculture, education, and civil society sectors. In contrast, the results find that active projects in the health and water and sanitation sectors have a positive effect on institutional trust. This article complements a distinct but closely related series of studies that examine the impact of aid on government legitimacy, conceptualized as the willingness to obey authorities including the tax department, police, and courts. Recent empirical studies in this literature find minimal evidence that aid undermines government legitimacy and confidence in leaders
+
+910 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+(Baldwin & Winters, 2020; Dietrich et al., 2018; Dietrich & Winters, 2015; Dolan, 2020; Guiteras & Mobarak, 2015; Sacks, 2012). The results of these studies suggest that the theorized negative effect of aid projects on institutional trust may be mitigated by uncertainty over the source of development projects, citizens' expectations about the relationship between their government and donors, donor control over resources, and the use of aid conditionality (Dietrich et al., 2018; Dolan, 2020; Milner et al., 2016). However, the extant research on aid and legitimacy has several limitations that this study aims to improve upon. The first shortcoming is that the use of tax-based measures of government legitimacy may not be suitable for low-income countries, which have limited tax capacity and low levels of direct taxation (Dolan, 2020). This study aims to address this issue by focusing on institutional trust, which is a central component of government legitimacy (Levi et al., 2009). The second shortcoming is that existing studies often have a narrow focus. Most studies in the literature utilize single-country cases, largely from South Asia, and focus on aid projects in a single sector from a single donor (Dietrich et al., 2018; Dietrich & Winters, 2015; Guiteras & Mobarak, 2015). In reality, citizens in lowincome countries often reside near aid projects across a range of sectors that are funded or implemented by a host of different donors and NGOs. It is also plausible that the impact of aid projects on citizens' perceptions of government varies across geographic and institutional settings. This article aims to expand on existing studies by examining the impact of aid from a variety of project sectors and donors on institutional trust in multiple Sub-Saharan African countries. This article contributes to the literature on institutional trust and the political effects of foreign aid. Given the billions of dollars in foreign assistance delivered to low-income countries each year, understanding how that assistance affects citizens' trust in government is of significant practical importance due to its impact on state development. This article finds that aid projects, on average, have an adverse effect on institutional trust with significant variation in the relationship by project sector. The article also contributes to the practical question of how to best deliver assistance to the world's poorest countries and has implications for the use of branding and cooperation between non-state actors and recipient governments. Lastly, the article contributes to the literature on aid and incumbent support (Briggs, 2015; Jablonski, 2014; Kono & Montinola, 2009; Morrison, 2009). The findings of this article support recent research by Briggs (2018) and De Kadt and Lieberman (2017) which find that development projects can, in some circumstances, have a negative effect on incumbent political support.
+
+2 | AID AND TRUST IN POLITICAL INSTITUTIONS
+
+2.1 | Theoretical framework
+
+Institutional theories of trust hypothesize that trust in institutions is rationally based on citizens' evaluations of the design and performance of government institutions and actors.1 As governments deliver economic growth, public services, and security, citizens are more likely to trust the institutions seen to be improving their welfare (Hetherington, 1998; Mishler & Rose, 2001). Existing empirical research finds that citizen satisfaction with the provision of public goods and evaluation of the national economy are central determinants of institutional trust in developing countries (Catterberg & Moreno, 2006; Godefroidt et al., 2017; Mishler & Rose, 2001). A sizable body of research also examines the effect of public corruption on political trust. Political corruption is defined as power by government officials for illegitimate private
+
+WATKINS 911
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+gain. When government officials engage in corruption, they are abusing their entrusted power or betraying the public's trust in their integrity or fairness (You, 2018). Corruption is expected to harm trust for citizens who experience, observe, or hear about corruption. Corruption can also affect institutional trust indirectly via its negative effects on economic growth (Mauro, 1995) and development outcomes (Kaufmann et al., 1999). Empirically, corruption is consistently found to have a corrosive effect on citizens' trust in government institutions and is often estimated to be the strongest macro-level determinant of trust (Della Porta, 2000; Hakhverdian & Mayne, 2012; Seligson, 2002). How might foreign aid projects impact citizens' trust in government? Building on institutional theories of trust, I theorize that aid projects undermine trust by lowering citizen evaluations of government performance and administrative competence. Foreign aid projects reveal information to citizens about the capacity of their government. Information about the foreign funding of development projects conveyed through aid branding may undermine citizens' evaluations of political leaders and their performance managing the economy, addressing poverty, and delivering public goods and social services. Additionally, aid projects can provide rentseeking opportunities to government officials and can increase citizens' experiences with and perceptions of corruption. Several factors have the ability to mitigate the theorized negative effect of aid projects on trust including uncertainty over the source of development projects, citizens' expectations about the relationship between their government and donors, donor control over resources, and aid conditionality (Dietrich et al., 2018; Dolan, 2020; Milner et al., 2016). Figure 1 presents a conceptual model of the hypothesized relationship between aid projects and political trust.
+
+2.2 | Government performance
+
+Government performance has long been considered a central determinant of political trust (Van der Meer, 2018). As governments in developing countries deliver economic growth, jobs, schools, health care, and other infrastructure, trust in political institutions is expected to grow. However, low-income countries often lack the capacity to provide basic public goods and services to all of their citizens. In these cases, donors and NGOs are important actors that fund
+
+FIGURE 1 Conceptual model of the relationship between aid projects and political trust
+
+912 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+and/or implement development projects across a range of sectors including health care, education, sanitation, transportation, energy, and agriculture. The non-state provision of goods and services has the potential to adversely affect citizens' perceptions of government performance. In order to conduct public diplomacy and spread information about their role in funding public goods and services, donors commonly brand their aid projects (Dietrich & Winters, 2015). Aid branding and the administration of development projects by NGOs allow citizens to separate what was done by external actors from what was done by their government. Information about the foreign funding of public goods allows citizens to attribute credit for the provision of public goods to non-state actors and take away credit from their governments. Additionally, information about foreign funding of public goods may signal a lack of state capacity or willingness to provide public goods and services. The experience of W. Gyude Moore, a former public works minister in Liberia and Senior Policy Fellow at the Center for Global Development, captures the potential negative effect of aid branding on citizens' evaluations of government performance-providing infrastructure. In a recent editorial that assesses the use of aid branding in fragile environments, W. Gyude Moore states:
+
+“Development partners brand aid so they can get credit for their good work, but local governments want and need credit to maintain their legitimacy with their people … As minister of public works in Liberia, I regularly encountered the negative impacts of aid branding when I appeared on radio talk shows to provide updates on development projects. Callers would consistently attempt to separate what was done by donor partners from what was done by the government. It was not uncommon for callers to refuse to give the government credit for securing the aid because the project was financed and branded by USAID, the World Bank, or the African Development Bank.” (Moore, 2018)
+
+The theorized negative effect of aid projects on citizens' evaluations of government performance is not a foregone conclusion. The impact of aid projects on citizens' perceptions of their government may be conditioned by the effectiveness of branding, citizens' expectations of their government, and the degree of government involvement in project implementation (Baldwin & Winters, 2020; Barma et al., 2020; Dietrich et al., 2018; Dolan, 2020). Attribution errors may occur if donors' branding efforts do not effectively reveal information about the source of funding. As a result, citizens may be unaware of the true source of the projects and credit development projects funded by donors to their local and/or national governments. Government leaders may take advantage of the information asymmetry about the source of aid projects and strategically “claim credit” for goods and services that they did not provide (Cruz & Schneider, 2017; Guiteras & Mobarak, 2015). Additionally, aid projects may not have a harmful effect on citizens' evaluations of performance if individuals do not expect their governments to be self-sufficient (Dolan, 2020). If citizens believe that government leaders played a central role in attracting external resources, aid projects will be associated with higher evaluations of government leaders and performance in the sector of the development intervention (Dietrich et al., 2018, p. 10). Relatedly, aid projects can have a positive effect on trust if foreign aid is provided to “facilitate” government programs and government agencies are directly involved in the implementation of projects (Barma et al., 2020).
+
+WATKINS 913
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2.3 | Corruption
+
+Foreign aid projects also have the ability to undermine trust in political institutions by increasing citizens' experiences with and perceptions of corruption. A large literature finds that foreign aid undermines political accountability and enables government actors to engage in rentseeking behavior (Asongu & Nwachukwu, 2016; Bräutigam & Knack, 2004; Busse & Gröning, 2009; Djankov et al., 2008; Morrison, 2009; Paler, 2013; Svensson, 2000).2 Aid projects can create opportunities for fraud and bribery during the project procurement process (Brazys et al., 2017; David-Barrett et al., 2020; De Kadt & Lieberman, 2017). Additionally, aid projects often create local private goods such as water, sanitation, electricity, schools, and hospitals. These aid-funded local private goods can increase the incidence of bribes in exchange for access to services (Brazys et al., 2017). Lastly, projects can transmit information about the government's management of development resources. For example, governance and civil society projects can adversely impact citizens' perceptions of corruption by transmitting information about their government's management of the development resources and specific instances of corruption. The potential adverse effect of aid on trust through the corruption mechanism can be mitigated by donor control over resources and the use of aid conditionality. Theories of donor control contend that the effect of foreign aid on corruption may be limited due to donor efforts to address fungibility (Bermeo, 2016; Dietrich, 2013; Milner et al., 2016). To limit rent-seeking behavior, donors can strategically decide how much aid to give directly to governments and how much to bypass NGOs based on the level of corruption and institutional capacity in recipient countries (Dietrich, 2013). Although projects that bypass the government may limit citizens' direct experience with corruption, bypass aid may still indirectly impact citizens' perceptions of corruption by signaling to citizens' that their government leaders cannot be trusted to manage aid resources (Baldwin & Winters, 2020). Aid conditionality, the attachment of policy conditions to the disbursement of aid, is an additional mechanism through which donors can limit corruption. Specifically, the use of sectoral- and project-level conditionality has the ability to constrain government officials' rent-seeking behavior and mitigate the theorized negative effect of aid projects on trust through a corruption mechanism.
+
+3 | DATA
+
+To examine the effect of foreign aid projects on trust, I combine individual survey data from Afrobarometer with data on the location of aid projects from AidData's geocoded Aid Information Management System (AIMS) datasets. Afrobarometer surveys citizens' views and attitudes on democracy and governance on a repeated cycle. This article utilizes Afrobarometer survey data from Nigeria, Senegal, and Uganda for Rounds 2–5 (2003–2012) that is geolocated at the enumeration area (EA) (BenYishay et al., 2017). These three countries are the only countries in the Afrobarometer sample with comprehensive geocoded AIMS datasets. The cases provide an excellent opportunity to analyze the impact of aid projects on trust in a diverse sample of SubSaharan African countries with notable geographic, historical, and cultural variation (Briggs, 2018, p. 4). Importantly, the cases also display variation in institutional trust and regime type. A detailed breakdown of trust by country and political institution is reported in Appendix S1.
+
+914 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The primary dependent variables are measures of trust in the president, parliament, and local government council from Afrobarometer.3 The measures of trust in political institutions are drawn from a set of survey questions that ask, “How much do you trust each of the following, or haven't you heard enough about them to say: President/Prime Minister, Parliament/ National Assembly, and Metropolitan, Municipal or District Assembly.” Response categories include “not at all,” “just a little,” “somewhat,” and “a lot.” Each survey response is coded as an ordinal variable between 0 and 3. I also create an additive trust index based on trust in the president, legislature, and local government councilors, which is coded as an ordinal variable from 0 to 9. The independent variables capture Afrobarometer respondents' proximity to active and inactive aid projects using geocoded data on project locations from AidData's AIMS datasets for each country (AidData, 2016a, 2016b, 2016c). Active projects are defined as projects that are ongoing during the Afrobarometer interview date. Inactive projects are defined as projects that will start within 2 years of the interview date. Closed projects are defined as projects that were completed prior to the interview date and for which the disbursement of funds has ended. Nigeria's Development Assistance Database (AIMS 1.3.1) covers over $6 billion in disbursements for 595 projects across 1843 locations between 1988 and 2014. Projects in Nigeria are concentrated in the agriculture, health, transportation, and energy sectors. In terms of the number of projects, the top donors captured in the Nigerian AIMS data set are the World Bank, European Union, and the United Kingdom. Senegal's Aid Information Platform (AIMS 1.5.1) tracks $3.3 billion in disbursements for 856 projects across 2314 locations between 1992 and 2012. The top donors for Senegal are Canada, Belgium, and Japan, and projects are concentrated in the transportation, health, civil society, and education sectors. Lastly, Uganda's Aid Information Platform (AIMS 1.4.1) covers more than $7.7 billion in disbursements for 565 geocoded projects across 2426 locations between 1978 and 2014. Projects in Uganda are concentrated in the civil society, health, education, and water and sanitation sectors. The top donors for Uganda are the United States, the United Kingdom, and the World Bank. A detailed breakdown of the number of project locations by country and sector is provided in Appendix S1. Despite being the most complete sources of geolocated data on foreign aid, the AIMS datasets have two main limitations. First, the datasets do not have complete coverage for all donors. Donors and development partner organizations voluntarily report detailed information on their projects (Briggs, 2018, p. 4). The AIMS datasets for Nigeria, Senegal, and Uganda cover 28, 79, and 56 donors, respectively. The datasets effectively cover major Development Assistance Committee (DAC) and multilateral donors but do not comprehensively capture projects from local NGOs and non-DAC donors. Second, some projects are crudely coded with a low level of precision (i.e., region or capital city). To address this concern, I only include projects with a precision level of 3 and below, which captures projects coded at the second-level administrative divisions (ADM2), locations within 25 km of the project, and exact locations (Briggs, 2018).4
+
+4 | EMPIRICAL STRATEGY
+
+To identify the effect of aid projects on institutional trust, I employ a spatial difference-indifference design, popularized by Knutsen et al. (2017), that utilizes spatial and temporal variation in the location of aid projects. The strategy identifies Afrobarometer respondents living in areas where a project was active at the time of the survey and compares them with respondents
+
+WATKINS 915
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+living in areas where a project is planned to start in the near future. The empirical strategy has previously been employed to study the effect of aid on incumbent support (Briggs, 2018) and the effect of Chinese aid on corruption (Isaksson & Kotsadam, 2018). I first examine whether each cluster of Afrobarometer respondents is located within a 25-km radius of an aid project.5 The 25-km cutoff distance seeks to capture exposure to aid projects across a range of project sectors that may have different geographic reaches. For example, aid projects in the health, education, and water and sanitation sectors might be expected to have geographic reaches between 10 and 25 km (Odokonyero et al., 2018).6 In contrast, transportation, energy, and agriculture projects have the potential to have larger geographic reaches up to 50 km.7 As a result, the selection of a 25-km cutoff point reflects a compromise between potential 10 and 50 km cutoff points. In the appendix, a range of different cutoff points is employed to test the sensitivity of the primary results. Using the 25-km distance cutoff, I create binary variables for three groups of respondents: (1) respondents located within 25 km of an active aid project (Active), (2) respondents located within 25 km of an inactive project that starts within 2 years of the survey date (Inactive), and (3) respondents more than 25 km from active or future projects starting within 2 years of the survey date (No Project).8 Areas with closed projects are excluded from the analysis. After coding respondents' proximity to aid projects, I then compare levels of trust in government among respondents who live near active projects to those who live near projects that were inactive at the time of the survey. This comparison removes any selection effect and aims to capture the causal effect of project implementation on citizens' trust in institutions. The central identifying assumption is that, conditional on covariates, citizens living near inactive projects starting in the near future serve as valid counterfactuals for citizens living near active projects. Said differently, the identifying assumption is that the aid allocation process is the same on either temporal side of each Afrobarometer survey round. The research design focuses on inactive projects that start within 2 years of the survey date in order to maximize the likelihood that the difference-in-difference estimator is not capturing selection effects.9 The identifying assumption that would likely be violated is if there was a change in the party in power in any of the sample countries. Importantly, none of the countries in the sample experienced a change of power. Throughout the study period, the People's Democratic Party was in power in Nigeria, the Senegalese Democratic Party was in power in Senegal, and the National Resistance Movement under Yoweri Museveni was in power in Uganda. Thus, the following model is estimated:
+
+Y ij ¼ β1Activeij þβ2Inactiveij þχ0wij þαj þϵij, ð1Þ
+
+where Yij is level of political trust in individual i in country-round j; Activeij and Inactiveij are binary variables capturing proximity to aid projects; wij is a vector of controls; αj is a country-round fixed effect; and ϵij is the error term. Control variables are included for age, education, and gender. I also include a binary control for urban EAs to control for lower levels of institutional trust in urban areas (Brinkerhoff et al., 2018). Equation (1) is estimated with ordinary least-squares (OLS) due to the use of country-round fixed effects. All estimations use standard cross-national Afrobarometer survey weights. Standard errors are clustered on EAs.
+
+916 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+5 | PRIMARY RESULTS
+
+The results of the empirical analysis indicate that, on average, aid projects are associated with lower levels of citizen trust in political institutions and actors. Table 1 presents the primary results. The dependent variable in Model 1 is the additive Trust Index. Models 2–4 focus on trust in the president/prime minister, parliament/national assembly, and local government council, respectively. The coefficient for Active captures the effect of living within 25 km of an active aid project on trust relative to not living near active or planned aid projects. Such a comparison likely underestimates the effect of aid projects on trust as it ignores the endogenous relationship between trust and the location of aid projects. The coefficient for Inactive captures the effect of living within 25 km of aid projects that will start in the near future on trust relative
+
+TABLE 1 Foreign aid projects and institutional trust
+
+Dependent variable: trust in political institutions
+
+(1) (2) (3) (4) Trust index President/PM Parliament Local council
+
+Active 0.279*** 0.123*** 0.115*** 0.057
+
+(0.100) (0.037) (0.039) (0.040)
+
+Inactive 0.108 0.026 0.044 0.023
+
+(0.116) (0.045) (0.041) (0.051)
+
+Age 0.002 0.000 0.001 0.001*
+
+(0.002) (0.001) (0.001) (0.001)
+
+Education 0.112*** 0.036*** 0.034*** 0.046***
+
+(0.013) (0.005) (0.005) (0.005)
+
+Female 0.054 0.010 0.043** 0.018
+
+(0.044) (0.019) (0.018) (0.018)
+
+Urban 0.487*** 0.112*** 0.161*** 0.216***
+
+(0.092) (0.034) (0.034) (0.037)
+
+Country-round FE Yes Yes Yes Yes
+
+Mean dependent variable 4.24 1.53 1.32 1.42
+
+Observations 13,596 14,581 14,100 14,133
+
+R-squared 0.335 0.262 0.227 0.251
+
+Difference: active  inactive 0.387 0.148 0.159 0.080
+
+F-test: active-inactive = 0 12.675 11.435 15.268 2.746
+
+p-value .000 .001 .000 .098
+
+Note: The excluded category in each regression is enumeration areas (EAs) with no active or inactive projects within 25 km. Areas with completed projects are excluded from the analysis. All models include Afrobarometer survey weights. Standard errors are clustered on EAs. Difference-in-differences tests are presented in bottom rows. The p-values of difference-indifference estimates are based on F-tests. Abbreviations: FE, fixed effects; PM, prime minister. *p < .1; **p < .05; ***p < .01.
+
+WATKINS 917
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+to not living near active or planned aid projects. The coefficient on Inactive captures the selection effect and indicates that aid is more likely to be allocated to areas with higher levels of trust in political actors. To correct for the selection bias, I compare the effects of projects that are active to those that are scheduled to start within 2 years of the survey date. Based on the difference-in-difference estimates, I find that active projects have a negative and statistically significant effect on the Trust Index. Living near an active aid project is associated with a 0.387, or 9%, decrease in the index relative to living near an inactive project. Similarly, I find that active projects have a negative effect on citizens' trust in the president, parliament, and local government council. Compared to living near an inactive project, living near an active aid project is associated with a 0.14 decrease in trust in the president, a 0.15 decrease in trust in the parliament, and a 0.08 decrease in the local government council. The difference between Active and Inactive is statistically significant across all specifications in Table 1. The difference-in-difference estimates for trust in the resident and parliament are significant at the 0.01 level, and the estimate for trust in the local government council is significant at the 0.1 level. Additionally, the estimated effect sizes are substantial. The Active versus Inactive difference-in-difference estimates for the effect of aid projects on trust in the president, parliament, and local government council correspond with a 9.5%, 11.5%, and 5% decrease from their respective mean trust values.
+
+5.1 | Sensitivity analysis
+
+A series of robustness checks are performed to confirm the validity of the primary results. All robustness checks are reported in Appendix S1. First, one may be concerned that the empirical strategy is capturing variation in trust between individuals that live in different parts of each country. To address this concern, I replicate the primary results using region-round fixed effects, which cover 22 regions and 4 rounds. The region-round results using the Trust Index as the dependent variable mirror the primary results. For the baseline 25 km cutoff distance, residing near an active project is associated with a 0.22, or 5%, decrease in the Trust Index relative to residing near an inactive project when controlling for region-round fixed effects. The results for trust in the president and parliament are also robust to the inclusion of region-round fixed effects. However, the difference-in-difference estimate for trust in the local council is no longer estimated to be statically significant when controlling for region-round fixed effects. Second, one may be concerned about the sensitivity of the results to the selection of the 25-km cutoff distance. To address this concern, I replicate the primary results using a 50-km cutoff distance, which is also widely employed in the literature (Briggs, 2018; Isaksson & Kotsadam, 2018; Knutsen et al., 2017). The results are substantively unchanged when using the 50-km cutoff distance. Additionally, following Briggs (2018), I also replicate the primary results for the Trust Index for a range of alternative cutoff distances between 10 and 50 km. Across all cutoff distances, the difference-in-difference estimates for specifications that include countryround fixed effects are estimated to be negative and statistically significant. For specifications that include region-round fixed effects, the difference-in-difference estimates are consistently estimated to be negative and are generally significant for cutoff distances of 25 km and above. Third, one may concern about potential bias from the coding of a portion of aid projects and Afrobarometer clusters at the centroids of second-level administrative divisions. The coding has the potential to introduce bias if it varies across active and inactive project groupings (Briggs, 2018, p. 7). To address this concern, I rerun the results of Table 1 excluding all EAs that
+
+918 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+are less than 0.5 km from an aid project (Briggs, 2018). In a related robustness check, I also restrict the sample to aid projects and EAs with a precision level less than or equal to 2.10 The primary results for trust in the president and parliament are robust to use of these alternative geocoded samples. However, the difference-in-difference estimates for trust in the local council are estimated to be negative but are not statistically significant. The geocoded sample sensitivity checks discussed above are also repeated using the Trust Index for a range of cutoff distances and graphically reported in the appendix. Fourth, to address concerns about variation in the relationship between aid projects and trust between countries, I subset the sample by country and replicate the primary analysis. The primary finding that active projects have a negative effect on trust is confirmed in the Nigeria and Senegal sample subsets. However, in Uganda, the difference between the estimated effects of active and inactive projects on trust is negative but not statistically significant. This finding is consistent with recent research by Baldwin and Winters (2020), which examines the impact of NGO-implemented development projects on government legitimacy in Uganda. Mechanism tests for the country case of Uganda suggest that active aid projects negatively impact citizens' evaluations of the performance of their Member of Parliament and local government council and the government's efforts to fight corruption but have no significant effect on citizens' perceptions of the president's performance. Fifth, one may be concerned that the occurrence of elections might violate the central identifying assumption that the aid allocation process is the same on both temporal sides of the Afrobarometer survey rounds. Although there were no changes in the presidential party in the sample countries over the study period, elections still have the potential to alter the subnational allocation of aid projects. To address this concern, I exclude country survey rounds that occurred in an election year. In a separate robustness check, I also exclude rounds that occurred the year before an election. The primary results are robust to both alternative samples. In summary, the primary results on trust in the president and parliament are robust to region-round fixed effects, alternative cutoff distances, alternative geocoded samples, and the exclusion of survey rounds in temporal proximity to elections. The results for trust in the local council are robust to alternative cutoff distances but are sensitive to the inclusion of regionround fixed effects and exclusion of observations geocoded at the ADM2 level. The relationship between aid and trust in local government is further examined in the following section which examines the relationship between aid and trust by project sector.
+
+5.2 | Heterogeneity by project sector
+
+The preceding analysis finds that aid projects have a negative effect on trust for the composition of aid projects in the sample. In contrast, previous research, which has largely focused on health and sanitation projects, has generally found that aid has a null or positive effect on perceptions of government legitimacy and performance. In an attempt to further compare and contrast the findings of this article with prior research, I modify the primary analysis to examine the effect of aid on trust by project sector. The following sectoral analysis focuses on seven project sectors: transport, agriculture, civil society and community development, energy, health, education, and water and sanitation.11 These sectors account for 96% of projects in the effective sample. Similar to the primary analysis, the sectoral analysis compares citizens' trust in political institutions who live near active projects in a given sector to citizens living near a project in that same sector
+
+WATKINS 919
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+that is going to start within 2 years of the survey date. Importantly, the analysis introduces an additional control category for citizens living near an active project in a different project sector. As in the primary analysis, areas with closed projects are excluded.
+
+TABLE 2 Foreign aid projects and trust by sector
+
+Dependent variable: trust
+
+Trust index President Parliament Local council (5) (6) (7) (8)
+
+Transport
+
+Difference: active  inactive 0.594 0.239 0.223 0.036
+
+F-test: active-inactive = 0 11.246 13.735 11.789 0.150
+
+p-value .001 .000 .001 .698
+
+Agriculture
+
+Difference: active  inactive 0.477 0.045 0.183 0.240
+
+F-test: active-inactive = 0 5.958 0.335 6.855 12.421
+
+p-value .015 .563 .009 .000
+
+Education
+
+Difference: active  inactive 0.461 0.191 0.050 0.161
+
+F-test: active-inactive = 0 6.197 7.960 0.522 4.503
+
+p-value .013 .005 .470 .034
+
+Civil society
+
+Difference: active  inactive 0.229 0.039 0.144 0.169
+
+F-test: active-inactive = 0 1.941 0.333 4.715 6.676
+
+p-value .164 .564 .030 .010
+
+Water and sanitation
+
+Difference: active  inactive 0.214 0.066 0.106 0.064
+
+F-test: active-inactive = 0 3.199 1.832 4.613 1.547
+
+p-value .074 .176 .032 .214
+
+Energy
+
+Difference: active  inactive 0.296 0.111 0.032 0.182
+
+F-test: active-inactive = 0 2.451 2.453 0.219 6.325
+
+p-value .118 .117 .640 .012
+
+Health
+
+Difference: active  inactive 0.333 0.057 0.086 0.171
+
+F-test: active-inactive = 0 6.466 1.187 3.038 9.954
+
+p-value .011 .276 .081 .002
+
+Note: The excluded category in each regression is enumeration areas (EAs) with no active or inactive projects within 25 km. Areas with completed projects are excluded from the analysis. All models include country-round FEs, baseline controls, and Afrobarometer survey weights. Standard errors are clustered on EAs. Difference-in-differences tests are presented in bottom rows. The p-values of difference-in-difference estimates are based on F-tests.
+
+920 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 2 reports the difference-in-difference estimates from the sectoral analysis. Figure 2 visually presents an overview of the results from Model 5 of Table 2, which utilizes the Trust Index as the dependent variable. The results find that the relationship between aid and trust in political institutions significantly varies by project sector. The difference-in-difference estimates comparing levels of the Trust Index are estimated to be negative and statistically significant effect for aid projects in the transportation, agriculture, and education sectors. The difference-in-difference estimates for civil society projects are estimated to be negative but are not statistically significant. In contrast, the difference-in-difference estimates for projects in the health and water and sanitation sectors are estimated to be positive and significant. Lastly, the estimate for projects in the energy sector is estimated to be positive but is not significant. Models 6–8 of Table 2 examine the effect of aid in different sectors on trust in the president, parliament, and local government individually. Starting with the results for trust in the president, the difference-in-difference estimates are negative and statistically significant for projects in the transportation and education sectors. For the parliament, projects in the transportation, agriculture, and civil society sectors are estimated to have a negative effect on trust. In contrast, projects in the health and water and sanitation sectors are estimated to improve trust in the parliament. Finally, the difference-in-difference estimates for trust in the local government council are estimated to be negative and significant for projects in the agriculture, education, and civil society sectors. In contrast, health and energy projects are estimated to improve trust in local government. In sum, the sectoral results suggest that the overall effect of aid projects on institutional trust depends on the composition of active projects in a given locality. Furthermore, the results provide evidence that projects in different sectors impact trust in local and national political institutions differently.
+
+FIGURE 2 Heterogeneous treatment effects by project sector. Marginal effects are based on the regressions presented in model 5 of Table 2. The bars represent 90% confidence intervals
+
+WATKINS 921
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 3 Government performance and corruption mechanism tests
+
+Dependent variable
+
+President MP Local council President MP Local council Handling Performance Performance Performance Corruption Corruption Corruption Corruption (9) (10) (11) (12) (13) (14) (15)
+
+Active 0.095*** 0.047 0.011 0.077** 0.091** 0.065 0.033
+
+(0.036) (0.038) (0.028) (0.033) (0.043) (0.041) (0.034)
+
+Inactive 0.010 0.029 0.028 0.019 0.007 0.038 0.131***
+
+(0.044) (0.042) (0.038) (0.048) (0.043) (0.043) (0.044)
+
+Country-round FE Yes Yes Yes Yes Yes Yes Yes
+
+Baseline controls Yes Yes Yes Yes Yes Yes Yes
+
+Mean dependent variable 2.59 2.33 2.51 1.47 1.53 1.55 2.08
+
+Observations 14,516 13,485 13,673 12,649 7897 8156 13,805
+
+R-squared 0.212 0.114 0.214 0.092 0.090 0.077 0.063
+
+Difference: active  inactive 0.085 0.077 0.039 0.095 0.098 0.103 0.165
+
+F-test: active-inactive = 0 4.578 3.754 1.252 4.836 6.291 6.289 16.658
+
+p-value .033 .053 .263 .028 .012 .012 .000
+
+Note: The excluded category in each regression is enumeration areas (EAs) with no active or inactive projects within 25 km. Areas with completed projects are excluded from the analysis. All models include Afrobarometer survey weights. Standard errors are clustered on EAs. Difference-in-differences tests are presented in bottom rows. The p-values of difference-in-difference estimates are based on F-tests. Abbreviations: FE, fixed effects; MP, Member of Parliament. **p < .05; ***p < .01.
+
+922 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+5.3 | Mechanism tests
+
+Lastly, I test two mechanisms through which aid projects reduce citizens' trust: evaluations of government performance and perceptions of corruption. To test the effect of foreign aid projects on the evaluations of government performance, I draw from a set of Afrobarometer survey questions that ask, “Do you approve or disapprove of the way the following people have performed their jobs over the past twelve months, or haven't you heard enough about them to say: President/Prime Minister, MP/National Assembly Representative, Local Government Councilor.” Answers are coded as ordinal variables where 1 = “strongly disapprove,” 2 = “disapprove,” 3 = “approve,” and 4 = “strongly approve.” To test the effect of aid projects on corruption, I utilize Afrobarometer survey questions on citizens' perceptions of corruption in various institutions and assessments of government performance handling corruption. The first set of questions on corruption asks, “How many of the following people do you think are involved in corruption, or haven't you heard enough about them to say: President/Prime Minister and Officials in his Office, Members of Parliament, and Local Government Councilors.” The answers include “none,” “some of them,” “most of them,” and “all of them” and are coded on as ordinal variables from 0 to 3. The second corruption question asks, “How well or badly would you say the current government is handling the following matters, or haven't you heard enough to say: handling corruption.” Like the government performance questions described above, this variable is measured from 1 to 4, with 1 corresponding with “very badly.” Table 3 presents the results testing the effect of aid projects on perceptions of government performance and corruption. Models 9–11 present the results for assessments of leader performance, and Models 12–15 present the results for perceptions of corruption. Proximity to active aid projects is generally associated with decreased performance assessments of government officials. The difference-in-difference estimates comparing the effect of active and inactive projects on trust in the president/prime minister and Member of Parliament are negative and statistically significant. However, the difference between the estimated effects of active and inactive projects on local council performance is negative but not statistically significant. The government performance mechanism tests are not robust to the inclusion of region-round fixed effects. The difference-in-difference estimates for all three measures of government performance are estimated to be negative but are no longer statistically significant when region-round fixed effects are introduced. Turning to the corruption mechanism, the results find that citizens living near active aid projects are more likely to believe that their government officials are involved in corruption relative to citizens living near inactive projects. For the executive corruption dependent variable in Model 12, living near an active aid project is associated with a 0.095 increase in citizens' perception of corruption relative to living near inactive projects. Similarly, in Models 13 and 14, the difference-in-difference estimates for perceptions of Members of Parliament and local government council corruption correspond with a 0.098 and 0.103 increase from the mean values of 1.55 and 2.08. The difference-in-difference estimates in Model 15 also suggest that being near an active aid project decreases citizens' assessments of their government's performance fighting corruption. The corruption mechanism tests are robust to the inclusion of region-round fixed effects. In sum, the mechanism tests generally find support for the hypotheses that aid projects can undermine trust by decreasing citizens' evaluations of government performance and increasing their perceptions of leader involvement in corruption.
+
+WATKINS 923
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6 | CONCLUSION
+
+This article examines the effect of foreign aid projects on trust in political institutions. I theorize that foreign aid projects harm institutional trust by lowering citizens' evaluations of government performance and increasing citizens' perceptions of corruption. Employing a spatial differencein-difference strategy, the empirical analysis finds that active aid projects are associated with decreased trust in the president, parliament, and local government council. When testing theoretical mechanisms, I find initial evidence that active aid projects are negatively associated with citizens' perceptions of government performance and positively associated with perceptions of corruption. The main contribution of the article is to provide evidence of the long-theorized harmful effect of active aid projects on citizens' perceptions of their government. The central finding of the article differs from previous studies that find limited evidence that aid projects negatively affect government legitimacy and performance (Baldwin & Winters, 2020; Dietrich et al., 2018; Dietrich & Winters, 2015; Sacks, 2012). An additional notable contribution of the article is to provide evidence that the effect of aid projects on trust can vary by both project sector and political institution. This article finds that the negative effect of aid projects on trust is driven by projects in the transportation, agriculture, education, and civil society sectors. In contrast, the article finds that active projects in the health and water and sanitation sectors have a positive effect on institutional trust. The findings suggest the overall effect of aid projects on institutional trust depends on the composition of aid projects in a given locality. Although the generalizability of the findings to greater Sub-Saharan Africa or other regions should be cautioned, the findings have potentially meaningful implications for state development and governance in recipient countries. The findings suggest that donors should reconsider the scale of branding in low-income countries with fragile democratic institutions, where widespread branding may have harmful effects on trust in political institutions, governance, and democratic consolidation (Moore, 2018). The findings also suggest that donors should enhance efforts to increase collaboration between NGOs and recipient governments (Batley & Mcloughlin, 2010; Brass, 2016) and limit rent-seeking in project sectors that undermine trust. Future research on aid and institutional trust might examine the effect of completed aid projects on trust. Accurately discerning the differential impacts of active and completed projects is central to understanding the long-term effect of aid on institutional trust. Future research might also further disentangle how different forms of sectoral aid impact citizens' trust in local and national political institutions.
+
+CONFLICT OF INTEREST The author has no financial or non-financial conflicts of interest to declare.
+
+DATA AVAILABILITY STATEMENT The data that support the findings of this study are available from Afrobarometer. Restrictions apply to the availability of these data, which were used under license for this study. Data are available at https://afrobarometer.org/data/geocoded-data with the permission of Afrobarometer. The AidData data that support the findings of this study are openly available at https://www. aiddata.org/datasets. The replication files that support the findings of this study are available on request from the corresponding author.
+
+924 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ENDNOTES
+
+1 In contrast, cultural theories of institutional trust assume that trust is exogenous to political institutions and rooted in cultural values, ethnicity, national identity, and interpersonal trust (Almond and Verba 1963; Inglehart, 1997). For a comprehensive review of theoretical frameworks, see Mishler and Rose (2001).
+
+2 Notable exceptions include Altincekic and Bearce (2014) and Jones and Tarp (2016)).
+
+3 Senegal's Afrobarometer Round 5 survey is excluded from the analysis because Senegal's AIMS project coverage ends in 2012.
+
+4 Aid project locations and a summary of second-level administrations are reported in the appendix.
+
+5 The standard cutoffs used in prior research are 25 and 50 km (Briggs, 2018; Cha, 2020; Isaksson & Kotsadam, 2018). The use of cutoff distances less than 25 km has generally been avoided because they quickly decrease the sample of respondents living near inactive projects and inflate any potential geocoding errors relative to the cutoff distance (Knutsen et al., 2017).
+
+6 Notable exceptions in the health sector include projects related to vaccination and maternal health campaigns.
+
+7 Typical projects in the transportation sector include the construction and maintenance of roads, bridges, and transportation networks. Projects in the energy sector often include electrification projects and the construction of power generation facilities and transmission lines, and projects in the agriculture sector include seed, fertilizer, soil health, and commercialization programs.
+
+8 Computations were done using geodetic distances in the “geonear” package in Stata 15.
+
+9 The primary results are robust to defining Inactive as respondents located within 25 km of a project that starts any time after the survey date and to the exclusion of completed projects.
+
+10 This robustness check limits the sample to aid projects and enumeration areas for which geocoding is at an exact location or within 25 km from an exact location.
+
+11 The AidData AIMS datasets had coverage of project sector for 2773 of 33,237 project locations with a precision code of 3 and below. Project sectors were manually coded for 78 projects covering 464 project locations based on AIMS project descriptions and project information from primary donor sources.
+
+REFERENCES
+
+AidData. (2016a). Nigeria AIMS geocoded research release level 1 v1.3.1 geocoded dataset. Technical report. AidData. AidData. (2016b). Senegal AIMS geocoded research release level 1 v1.5.1 geocoded dataset. Technical report. AidData. AidData. (2016c). Uganda AIMS geocoded research release level 1 v1.4.1 geocoded dataset. Technical report. AidData. Almond, G., & Verba, S. (1963). The Civic Culture: Political Attitudes and Democracy in Five Nations. Princeton: Princeton University Press. Altincekic, C., & Bearce, D. H. (2014). Why there should be no political foreign aid curse. World Development, 64, 18–32. Asongu, S. A., & Nwachukwu, J. C. (2016). Foreign aid and governance in Africa. International Review of Applied Economics, 30(1), 69–88. Baldwin, K., & Winters, M. S. (2020). How do different forms of foreign aid affect government legitimacy? Evidence from an informational experiment in Uganda. Studies in Comparative International Development, 55 (2), 160–183. Barma, N. H., Levy, N., & Piombo, J. (2020). The impact of aid dynamics on state effectiveness and legitimacy. Studies in Comparative International Development, 55(2), 184–203. Batley, R., & Mcloughlin, C. (2010). Engagement with non-state service providers in fragile states: Reconciling state-building and service delivery. Development Policy Review, 28(2), 131–154. BenYishay, A., Rotberg, R., Wells, J., Lv, Z., Goodman, S., Kovacevic, L., & Runfola, D. (2017). Geocoding Afrobarometer rounds 1–6: Methodology & data quality. AidData. http://docs.aiddata.org/ad4/pdfs/ geocodingafrobarometer.pdf
+
+WATKINS 925
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Berg, L., & Hjerm, M. (2010). National identity and political trust. Perspectives on European Politics and Society, 11(4), 390–407. Bermeo, S. B. (2016). Aid is not oil: Donor utility, heterogeneous aid, and the aid-democratization relationship. International Organization, 70(1), 1–32. Brass, J. N. (2016). Allies or adversaries: NGOs and the state in Africa. Cambridge University Press. Bratton, M. (1989). The politics of government-NGO relations in Africa. World Development, 17(4), 569–587. Bräutigam, D. A., & Knack, S. (2004). Foreign aid, institutions, and governance in sub-Saharan Africa. Economic Development and Cultural Change, 52(2), 255–285. Brazys, S., Elkink, J. A., & Kelly, G. (2017). Bad neighbors? How co-located Chinese and World Bank development projects impact local corruption in Tanzania. The Review of International Organizations, 12(2), 227–253. Briggs, R. C. (2015). The influence of aid changes on African election outcomes. International Interactions, 41(2), 201–225. Briggs, R. C. (2018). Receiving foreign aid can reduce support for incumbent presidents. Political Research Quarterly, 72(3), 610–622. Brinkerhoff, D. W., Wetterberg, A., & Wibbels, E. (2018). Distance, services, and citizen perceptions of the state in rural Africa. Governance, 31(1), 103–124. Busse, M., & Gröning, S. (2009). Does foreign aid improve governance? Economics Letters, 104(2), 76–78. Catterberg, G., & Moreno, A. (2006). The individual bases of political trust: Trends in new and established democracies. International Journal of Public Opinion Research, 18(1), 31–48. Cha, S. (2020). Does Foreign Aid Raise Awareness of Corruption? Evidence from Chinese Aid in 30 African States. AidData Working Paper #95. Williamsburg, VA: AidData at William & Mary. Cheema, G. S. (2010). Building trust in government: An introduction. In G. S. Cheema & V. Popovski (Eds.), Building trust in government: Innovations in governance reform in Asia. United Nations University Press. Cruz, C., & Schneider, C. J. (2017). Foreign aid and undeserved credit claiming. American Journal of Political Science, 61(2), 396–408. David-Barrett, E., Fazekas, M., Hellmann, O., Mark, L., & McCorley, C. (2020). Controlling corruption in development aid: New evidence from contract-level data. Studies in Comparative International Development, 55 (4), 481–515. De Kadt, D., & Lieberman, E. S. (2017). Nuanced accountability: Voter responses to service delivery in Southern Africa. British Journal of Political Science, 50, 1–31. Della Porta, D. (2000). Social capital, beliefs in government, and political corruption. In Disaffected democracies: What's troubling the trilateral countries (pp. 202–228). Princeton: Princeton University Press. Dietrich, S. (2013). Bypass or engage? Explaining donor delivery tactics in foreign aid allocation. International Studies Quarterly, 57(4), 698–712. Dietrich, S., Mahmud, M., & Winters, M. S. (2018). Foreign aid, foreign policy, and domestic government legitimacy: Experimental evidence from Bangladesh. Journal of Politics, 80(1), 133–148. Dietrich, S., & Winters, M. S. (2015). Foreign aid and government legitimacy. Journal of Experimental Political Science, 2(2), 164–171. Djankov, S., Montalvo, J. G., & Reynal-Querol, M. (2008). The curse of aid. Journal of Economic Growth, 13(3), 169–194. Dolan, L. R. (2020). Rethinking foreign aid and legitimacy: Views from aid recipients in Kenya. Studies in Comparative International Development, 55(2), 143–159. Fowler, A. (1991). The role of NGOs in changing state-society relations: Perspectives from Eastern and Southern Africa. Development Policy Review, 9(1), 53–84. Godefroidt, A., Langer, A., & Meuleman, B. (2017). Developing political trust in a developing country: The impact of institutional and cultural factors on political trust in Ghana. Democratization, 24(6), 906–928. Guiteras, R. P., & Mobarak, A. M.. (2015). Does development aid undermine political accountability? Leader and constituent responses to a large-scale intervention. Technical report. National Bureau of Economic Research. Hakhverdian, A., & Mayne, Q. (2012). Institutional trust, education, and corruption: A micro-macro interactive approach. Journal of Politics, 74(3), 739–750.
+
+926 WATKINS
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Hetherington, M. J. (1998). The political relevance of political trust. American Political Science Review, 92(4), 791–808. Inglehart, R. (1997). Modernization and postmodernization: Cultural, economic, and political change in 43 societies. Princeton University Press. Isaksson, A.-S., & Kotsadam, A. (2018). Chinese aid and local corruption. Journal of Public Economics, 159, 146–159. Jablonski, R. (2014). How aid target votes: The effect of electoral strategies on the distribution of foreign aid. World Politics, 66(2), 293–330. Jones, S., & Tarp, F. (2016). Does foreign aid harm political institutions? Journal of Development Economics, 118, 266–281. Kaufmann, D., Kraay, A., & Zoido-Lobaton, P. (1999). Aggregating governance indicators. World Bank Policy Research, Working Paper, 2196. Washington DC: World Bank Institute. Knutsen, C. H., Kotsadam, A., Olsen, E. H., & Wig, T. (2017). Mining and local corruption in Africa. American Journal of Political Science, 61(2), 320–334. Kono, D., & Montinola, G. (2009). Does foreign aid support autocrats, democrats, or both? Journal of Politics, 71 (2), 704–718. Levi, M., & Sacks, A. (2009). Legitimating beliefs: Sources and indicators. Regulation & Governance, 3(4), 311–333. Levi, M., Sacks, A., & Tyler, T. (2009). Conceptualizing legitimacy, measuring legitimating beliefs. American Behavioral Scientist, 53(3), 354–375. Mauro, P. (1995). Corruption and growth. The Quarterly Journal of Economics, 110(3), 681–712. Milner, H. V., Nielson, D. L., & Findley, M. G. (2016). Citizen preferences and public goods: Comparing preferences for foreign aid and government programs in Uganda. The Review of International Organizations, 11(2), 219–245. Mishler, W., & Rose, R. (2001). What are the origins of political trust? Comparative Political Studies, 34(1), 30–62. Moore, W. G. (2018). The case against branding development aid in fragile states. Technical report. Center for Global Development. Morrison, K. M. (2009). Oil, nontax revenue, and the redistributional foundations of regime stability. International Organization, 63(1), 107–138. Odokonyero, T., Marty, R., Muhumuza, T., Ijjo, A. T., & Moses, G. O. (2018). The impact of aid on health outcomes in Uganda. Health Economics, 27(4), 733–745. Paler, L. (2013). Keeping the public purse: An experiment in windfalls, taxes, and the incentives to restrain government. American Political Science Review, 107(4), 706–725. Sacks, A. (2012). Can donors and non-state actors undermine citizens' legitimating beliefs?. World Bank Policy Research Working Paper. Seligson, M. A. (2002). The impact of corruption on regime legitimacy: A comparative study of four Latin American countries. Journal of Politics, 64(2), 408–433. Svensson, J. (2000). Foreign aid and rent-seeking. Journal of International Economics, 51(2), 437–461. Van der Meer, T. W. G. (2018). Economic performance and political trust. In E. M. Uslaner (Ed.), The Oxford handbook of social and political trust (pp. 599–616). Oxford University Press. You, J.-S. (2018). Trust and corruption. In E. M. Uslaner (Ed.), The Oxford handbook of social and political trust (pp. 473–496). Oxford University Press.
+
+SUPPORTING INFORMATION Additional supporting information may be found online in the Supporting Information section at the end of this article.
+
+How to cite this article: Watkins, M. (2022). Foreign aid projects and trust in political institutions. Governance, 35(3), 909–927. https://doi.org/10.1111/gove.12628
+
+WATKINS 927
+
+14680491, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gove.12628 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

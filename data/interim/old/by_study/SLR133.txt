@@ -1,0 +1,593 @@
+172 European Journal of Political Research 63: 172–191, 2024
+
+doi: 10.1111/1475-6765.12611
+
+Explaining the ‘democratic malaise’ in unequal societies: Inequality, external efﬁcacy and political trust
+
+SIMON BIENSTMAN, SVENJA HENSE & MARKUS GANGL
+
+Institute for Sociology, Goethe-University Frankfurt, Germany
+
+Abstract. Previous scholarship suggests that rising inequality in democracies suppresses trust in institutions. However, the mechanism behind this has not clearly been identiﬁed. This paper investigates the proposition that income inequality leads to increased democratic distrust by depressing perceptions of external efﬁcacy. Based on time-series cross-sectional survey data from the European Social Survey, we ﬁnd that changes in income inequality have a negative effect on changes in political trust and external efﬁcacy. Causal mediation analysis conﬁrms that inequality affects trust through lower efﬁcacy. Further analyses show that this efﬁcacy-based mechanism does not depend on political orientation. As a direct effect remains among left-wing respondents, our empirical results indicate that inequality affects trust via both a mechanism of substantive output evaluation and a process-based evaluation that measures of external efﬁcacy can capture. These ﬁndings highlight the empirical and theoretical relevance of this so far neglected mechanism and provide a potential solution for the puzzle that inequality depresses trust also among those for whom inequality is not politically salient.
+
+Keywords: political trust; external efﬁcacy; income inequality; mediation analysis
+
+Introduction
+
+As most advanced democracies have witnessed signiﬁcant increases in inequality over the last decades (Atkinson, 2015; Piketty, 2017), the question of whether and how economic inequality affects trust in democratic institutions has become more salient. And indeed, several scholars have documented a negative relationship between economic inequality and political trust for a wide range of countries (e.g., Anderson & Singer, 2008; Lee et al., 2020; Zmerli & Castillo, 2015). If inequality and trust move together (albeit in opposite directions), an overall increase in inequality should entail a decline in trust. Nevertheless, research on inequality’s effects on attitudes towards democracy remains inconclusive. Some scholars either see no overall decrease in trust (or closely related concepts like satisfaction with democracy) or ﬁnd no clear relation with inequality (Kim et al., 2022; Magalhães, 2014; Martini & Quaranta, 2020; Norris, 1999; van Beek et al., 2019). To help advance the literature and possibly reconcile these contradictory ﬁndings, this article provides further empirical evidence and investigates the mechanisms underlying a potential relationship between inequality and citizens’ democratic orientations.
+
+In what follows, our focus will be on political trust, and thus on, in Easton’s (1975) famous words, citizens’ ‘reservoir of goodwill’ towards the actors and institutions of democratic governance, and on European democracies. Concerning the study of the political implications of inequality, we aim for a threefold contribution. First, we contribute new empirical estimates for the effect of inequality on political trust. We speciﬁcally aim to improve on the existing literature by isolating an over-time effect of rising inequality on changes in citizens’ trust. Most of the existing literature is based on cross-sectional designs and has therefore been unable to identify
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 173
+
+whether (recent) changes in economic inequality are contributing to what has been described as the ‘democratic malaise’ (e.g., Foa et al., 2020) of declining support for democracy in the Western world. Drawing on time-series cross-sectional survey data from the European Social Survey (ESS), we provide ﬁrm evidence that changes in inequality are indeed negatively correlated with changes in political trust. Given extensive controls for observables and country-speciﬁc unobservables as afforded within the context of a ﬁxed effects (FE) regression speciﬁcation and given an extensive set of further robustness checks, our estimates substantiate a causal role of inequality for political trust. Inevitably, however, any such causal claim carries a degree of uncertainty, and we will therefore discuss the relevant methodological issues and limitations of our research throughout the paper.
+
+In addition, we seek to expand on earlier research by testing the full causal chain between inequality and citizens’ trust in democratic institutions when taking external efﬁcacy as an important, but so far also largely overlooked mediator. When reﬂecting on why inequality (or other aspects of macroeconomic performance) should matter for political trust, the currently dominant theoretical perspective suggests to regard trust in institutions as the consequence of a conscious evaluation process on the citizens’ side. This ‘trust-as-evaluation’ approach (see van der Meer, 2018) sees income inequality as one output of democratic governance, which citizens then evaluate in view of their political preferences, and trust is extended when citizens conclude that the political system is meeting their demands.
+
+Yet we argue that this type of substantive and output-based evaluation is not necessarily the only mechanism through which inequality may affect citizens’ trust in democratic institutions, but that a second, more process-based type of evaluation needs to feature more prominently. In making this argument, we build on a tradition in political science which has long argued that inequality in economic resources translates into inequality in political resources and consequently into unequal political representation and responsiveness (Dahl, 1971, 2006; Goodin & Dryzek, 1980; Schattschneider, 1960; see also Polacko, 2022). Rising inequality may be presumed to affect how citizens perceive the distribution of political power and how they see their capabilities to inﬂuence the political process. With this type of mechanism in operation, inequality would erode political trust by depressing citizens’ evaluations of the fairness of democratic processes but not because of citizens’ concern about inequality as a political problem.
+
+Our study is the ﬁrst to conﬁrm the existence of this second transmission channel from empirical data. Our analysis shows that rising income inequality depresses citizens’ perceptions of external efﬁcacy and that lower degrees of efﬁcacy are a determinant of lower trust in institutions. Importantly, these ﬁndings are not meant to deny the relevance of output-based performance evaluations. Instead, our results suggest that output- and process-based mechanisms are complementary. We ﬁnd that efﬁcacy is an important mediator for the relationship between inequality and political trust. However, a direct effect of inequality remains that cannot be explained via efﬁcacy. In addition, and in line with earlier ﬁndings (e.g., Anderson & Singer, 2008), we see that the direct effect of inequality is moderated by respondents’ political ideology, as predicted from the assumption that left-leaning citizens react more sensitively to economic inequality because it is a politically salient issue for them. However, the same type of ideological moderation is not visible in the efﬁcacy channel, where left- and right-leaning citizens alike show a declining sense of external efﬁcacy when economic inequality is rising, and where similar declines in efﬁcacy perceptions generate similar responses for political trust.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+174 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+We believe that placing a perspective on citizens’ evaluation of political power and fair democratic processes alongside the standard perspective of output-based evaluations enriches the argument that democratic stability may be undermined when economic inequality is translated into political inequality. In addition, drawing attention to the largely non-partisan transmission channel of citizens’ efﬁcacy perceptions may resolve the empirical puzzle of why inequality also depresses political trust among right-leaning citizens, for whom (rising) inequality would presumably not be an important political problem in the ﬁrst place.
+
+Before coming back to the implications of our work, in what follows we ﬁrst provide further theoretical background to our study and then discuss our data, methodology and empirical ﬁndings.
+
+Theory and previous research
+
+Economic inequality has risen in many Western democracies over the last decades (see Atkinson, 2015; Piketty, 2017, and the online Supporting Information for descriptives for the countries in this study). At the same time, observers and political scientists alike are asserting a ‘democratic malaise’ (e.g., Foa et al., 2020), which is mirrored in gloomy titles such as ‘The People vs. Democracy’ (Mounk, 2018), ‘How Democracies Die’ (Ziblatt & Levitsky, 2018) or ‘How Democracy Ends’ (Runciman, 2018). This malaise is seen as consisting of a longstanding decline in citizens’ support for the processes and institutions of democratic governance (Dalton, 1998; Foa et al., 2020; Hetherington, 1998) and thus threatening the functioning of democracy itself (Lipset, 1963; Easton, 1975). As a central indicator of political support, citizens’ trust in the institutions of representative democracy has repeatedly been shown to be negatively related to inequality (Anderson & Singer, 2008; Goubin & Hooghe, 2020; Lee et al., 2020). Studies on satisfaction with democracy and on other related indicators of political support have likewise reported negative associations with income inequality (Andersen, 2012; Christmann, 2018; Donovan & Karp, 2017; Krieckhaus et al., 2014; Schäfer, 2013). Other scholars remain more sceptical as to whether democratic attitudes may be affected by income inequality in particular, or macroeconomic performance in general (e.g., McAllister, 1999; Kim et al., 2022; see van der Meer, 2018, for a recent review of the literature)
+
+As pointed out by van der Meer (2017, 2018), one likely reason for the inconclusive state of evidence is that most studies have been based on cross-sectional data. This evidently makes drawing inferences about how changes in inequality may lead to changes in trust questionable, not the least because of the problem of omitted variables and unobserved heterogeneity between countries. For example, countries may be more or less equal, but they also may exhibit a more or less longstanding cultural tradition of democratic governance. To approach the question on the democratic consequences of rising inequality, longitudinal designs are thus clearly preferable (van de Werfhorst & Salverda, 2012). However, few large surveys exist that include questions about political trust for a broad range of countries with diverging levels and trajectories of inequality over many years.
+
+Still, research that has been able to draw on longitudinal data corroborates the idea that inequality affects democratic orientations. In particular, rising inequality was found to lower political trust (Goubin & Hooghe, 2020) and satisfaction with democracy (Christmann, 2018). Closely related studies show that over-time changes in inequality are associated with populist party support (Engler & Weisstanner, 2021), and this has partly been attributed to decreasing levels of political trust (Stoetzer et al., 2021). Other research shows that political trust dipped during the
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 175
+
+ﬁnancial crisis in Europe – a time when unemployment and inequality increased in many European countries (Gangl & Giustozzi, 2021; Hooghe & Okolikj, 2020).
+
+Why would inequality affect trust in the ﬁrst place? A prominent argument in the sociological literature holds that inequality creates social dysfunctions because increased social distances come with increased status anxiety and declining social trust (Buttrick & Oishi, 2017; Delhey & Steckermeier, 2020; Wilkinson & Pickett, 2010). Although rarely invoked as an explanation for political effects of inequality, studies on populist voting have recently argued that rising inequality has spurred status fears and thereby the likelihood of voting for populist parties (Gidron & Hall, 2017; Engler & Weisstanner, 2021). Regarding social trust, it could furthermore be argued that if inequality decreases generalized trust, it should indirectly also depress trust in democratic institutions, given that social and political trust have often been argued to be strongly related (Newton et al., 2018; Zmerli & Newton, 2008).
+
+In political science, the currently most inﬂuential perspective is the ‘trust-as-evaluation’ approach (see van der Meer, 2018, for a review) that regards citizens’ trust in democratic institutions as the outcome of a substantive evaluation of democratic performance. Citizens extend trust if they perceive political outcomes and processes to meet their expectations, and inequality is regularly seen as one relevant dimension of macroeconomic performance that citizens consider in their evaluation (e.g., Martini & Quaranta, 2020). The study by Anderson and Singer (2008) provides support for this view, as it has shown that inequality depresses trust and satisfaction with democracy primarily among left-wing respondents. This ﬁts with an understanding that citizens with egalitarian preferences will expect inequality to be tackled politically and will, therefore, also evaluate the political system on the basis of their substantive policy preferences.
+
+Yet, substantive evaluation may not be the only mechanism to link economic inequality to institutional trust. Anderson and Singer (2008) did not only ﬁnd striking partisan differences in the democratic relevance of inequality, but they also observed that inequality nevertheless depresses trust among right-leaning respondents – even when economic inequality is not likely to constitute a politically salient outcome to these citizens. This observation clearly is a puzzle to the standard trust-as-evaluation perspective (see also Kumlin et al., 2018), but the puzzle may be resolved when we broaden our perspective and consider an additional mechanism that operates via citizens’ perceptions of efﬁcacy. More speciﬁcally, our key argument here is that citizens may evaluate the democratic process just as much as democratic output. If so, then inequality will be relevant, too, because rising economic inequality is likely to translate into political inequality, which in turn is likely to have consequences for how citizens perceive the responsiveness of the political system and their own capabilities to inﬂuence the political process. Against the strong democratic norms of political equality and equity, deteriorating perceptions of the fairness of democratic processes clearly have the potential to depress the level of trust that citizens are placing in the actors and institutions of democratic governance.
+
+The argument that we are making here is in fact far from being novel but is one with a long tradition in political science. According to Dahl (1971), democracy rests on the premise of intrinsic equality – the idea that every human being is fundamentally equal and that, therefore, the interests of members of a democracy are of equal importance. The democratic norm of political equality does not imply that everyone’s demands must be met all the time, but it does mean that in principle, everyone must be able to participate in the political process to make her or his interests heard. In the words of Pitkin, ‘in a representative government the governed must be capable of action and
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+176 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+judgment, capable of initiating government activity, so that the government may be conceived as responding to them’ (Pitkin, 1967, p. 232).
+
+The degree to which political systems operate in accord with this requirement is captured by the two interrelated concepts of responsiveness and efﬁcacy. Responsiveness captures how well political actors take citizen sentiment into account and adapt policy decisions accordingly, with responsiveness perceptions referring to the concomitant subjective beliefs (Esaiasson et al., 2015). Political efﬁcacy in turn is capturing citizens’ beliefs that (their) individual action can inﬂuence the political process (Campbell et al., 1954, p. 187). Whereas internal efﬁcacy refers to the belief in one’s own capacity to understand and participate in politics, external efﬁcacy is the belief in the potential of ordinary citizens to inﬂuence the political process, ‘with an emphasis more on the ultimate fairness of both procedures and outcomes’ (Craig et al., 1990, p. 299).
+
+Furthermore, efﬁcacy and responsiveness are intricately linked to inequality. Research on external efﬁcacy and responsiveness perceptions points to the fact that some groups are regularly underrepresented in political debates and outcomes (Goodin & Dryzek, 1980; Goubin, 2020; Norris, 2015). Indeed, the unequal responsiveness literature has shown for different contexts that the higher ranks of society ﬁnd their policy preferences more often mirrored by political decisions than their fellow citizens from modest backgrounds (Elsässer et al., 2021; Gilens, 2012; Schakel, 2021; Oser et al., 2023). One way to explain these ﬁndings is that those with more economic resources are able to promote policies in their interest and inhibit those policy proposals that would primarily beneﬁt the middle and lower classes (Hacker & Pierson, 2010). Another is that political participation requires resources and is therefore skewed towards the better-off (Brady et al., 1995; Schäfer & Schwander, 2019). Parties have therefore incentives to design policies that cater to the demands of those segments of society that turn out to vote (Schakel & Burgoon, 2022), and unequal responsiveness then is the result of inequality in economic resources translating into inequality in political power (Dahl 2006; Goodin & Dryzek, 1980).
+
+Against this background, it should come as no surprise that rising economic inequality has long been considered to exacerbate the problem of unequal responsiveness. Seminal in this regard was Schattschneider (1960), who ﬁrst proposed that growing inequality changes the agenda of political conﬂict and thereby increases the bias in electoral participation, which in turn affects whose interests are represented in political outcomes. Political participation is indeed lower and more skewed in more unequal countries (Schäfer & Schwander, 2019), and other studies have shown that this problem became more severe due to increasing income inequality (Lancee & van de Werfhorst, 2012; Solt, 2008). Also, when rising economic inequality increases the relative power of those with more resources, the repeated experience that certain groups in society get their way more often than others is likely to invoke the perception of a political elite that is disconnected from ordinary citizens, and of a system that is ‘rigged’. That inequality may lead to negative assessments of democratic responsiveness as well as to the diffusion of feelings of powerlessness and cynicism is reﬂected in empirical research that suggests that both objective economic inequality and subjective perceptions of inequality depress citizens’ perceptions of external efﬁcacy (Loveless 2013; Norris 2015).
+
+Considering these ﬁndings as well as the long-standing theoretical arguments, it seems plausible to assume that there is a negative effect of income inequality on external efﬁcacy and that declines in efﬁcacy then translate into lower levels of trust. Nevertheless, Goubin (2020) is, to the best of our knowledge, the only study that empirically examined the whole chain of inequality, efﬁcacy and trust, but her research question and design differ from ours. More speciﬁcally, Goubin
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 177
+
+(2020) shows that external efﬁcacy is positively related to trust in a cross section of countries, but she examines the role of economic inequality as a moderator for the relationship between efﬁcacy and trust and documents that the positive effect of perceived responsiveness on citizens’ trust is smaller in countries with higher levels of income inequality. The account we seek to advance here, instead, views economic inequality as a macrostructural cause of citizens’ trust in institutions and sees the relationship between inequality and trust to be partly mediated by citizens’ efﬁcacy perceptions. Our theoretical argument is summarized graphically in the path model of Figure 1 or, alternatively, in the following hypotheses:
+
+H1: When income inequality increases over time, political trust declines (total effect = direct
+
+effect c + indirect effect ab). H2: When income inequality increases over time, external efﬁcacy declines (path a). H3: External efﬁcacy has a positive effect on citizens’ political trust (path b). H4: By implication of H2 and H3, external efﬁcacy partly mediates the negative effect of
+
+income inequality on political trust (path ab, indirect effect).
+
+Figure 1. Multilevel path model of political trust.
+
+Notably, our emphasis on the relevance of an efﬁcacy-based mechanism does not contradict the trust-as-evaluation perspective. Citizens surely have views on desirable macroeconomic conditions on the one hand, but it is likewise plausible that their evaluations of democratic realities depend on the perceived fairness of the democratic process and on whether, or how strongly, the norm and expectation of political equality are being violated. Existing studies clearly relate political trust to perceptions of responsiveness and efﬁcacy (Goubin, 2020; Torcal, 2014), and several scholars have argued that process evaluations may be more important for political support than outcome evaluations in the longer run (Norris, 2011; van der Meer & Hakhverdian, 2017).
+
+The difference between output and process evaluation might be important for theorizing the role of political ideology. The standard trust-as-evaluation perspective implies the expectation
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+178 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+that political ideology will moderate the relationship between inequality and trust in democratic institutions. When political trust is a function of citizens’ evaluations of the outputs of the political system against their expectations (van der Meer, 2018), left-leaning citizens should be more negatively affected by high levels of inequality because they value equality as a political goal (cf. Alesina et al., 2004). In line with this reasoning, Anderson and Singer (2008) indeed ﬁnd that the effect is much more pronounced among left-wingers. However, the same partisan stratiﬁcation is not likely to be relevant when the standard of evaluation is one of democratic process rather than democratic output. When manifest inequality leads to unequal responsiveness and depresses citizens’ perceptions of external efﬁcacy, this may affect left- and right-leaning citizens alike, irrespective of whether they consider questions of income inequality as an important political goal. In line with this view, Norris (2015) ﬁnds that inequality is a strong depressor of external efﬁcacy in the general population, not just among left-leaning citizens. Accordingly, we expect a difference between process- and performance-based evaluations with respect to the moderating role of political ideology (also see Figure 1):
+
+H5: While political ideology moderates the direct effect between inequality and trust, the
+
+indirect effect via efﬁcacy perceptions is non-partisan and therefore holds uniformly in the citizenry.
+
+Data and methodology
+
+To test these hypotheses, we use individual-level survey data from rounds 7 to 9 of the ESS (2014, 2016, 2018) to which we merge macroeconomic data from different sources (see below). The ESS has been ﬁelded every other year with newly selected probability samples of the population in participating countries since 2002. By combining the three rounds of the ESS that contain questions on efﬁcacy, we obtain a repeated cross-sectional dataset for those 22 countries that participated in the ESS at least twice in the period from 2014 to 2018 (see Table A1 in the online Appendix). In conjunction with a model that incorporates the two-way FE estimator at the aggregate level of the data, this allows us to conduct a longitudinal analysis in a panel-of-countries design on the question of how changes in inequality have been affecting changes in political trust in European democracies during the second half of the 2010s.
+
+Operationalization
+
+Dependent variable. The ESS asks respondents to indicate how much trust they have in several of the institutions of democratic governance and measures each item on an 11-point scale (0 = no trust at all, 10 = complete trust). We construct a political trust index for each respondent based on the sum of their scores for trust in parliament, trust in politicians, and trust in parties, divided by the number of valid responses (Cronbach’s α = 0.91). We also perform robustness checks with each item separately.
+
+Independent variables. External efﬁcacy is measured by two questions that ask respondents ‘How much would you say the political system in [country] allows people like you to have a say in what the government does?’ and ‘And how much would you say that the political system in [country] allows people like you to have an inﬂuence on politics?’ These are very similar to the items Craig
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 179
+
+et al. (1990) have shown to be valid and distinct measures of external efﬁcacy. In 2014, answers were recorded on an 11-point scale. From 2016 onward, the response categories include 1 = ‘Not at all’, 2 = ‘Very little’, 3 = ‘Some’, 4 = ‘A lot’, 5 = ‘A great deal’. We harmonize these variables by normalizing them to range from 0 to 10. The respondents’ average score on the two questions provides us with a continuous measure of their level of perceived external efﬁcacy, also ranging from 0 to 10.
+
+As for income inequality, we use the S80/S20 income share ratio of household disposable income from Eurostat (2022a). The measure reﬂects the ratio between the share of total income that is accruing to the top 20 per cent of the income distribution and the income share of the bottom 20 per cent. As a robustness test, however, we also replicate our main analyses with the Gini coefﬁcient of household disposable income as obtained from the Standardized World Inequality Database (Solt, 2020).
+
+For the moderator variable of political ideology, we follow Anderson and Singer (2008) and dichotomize the 11-point left-right scale to distinguish left-leaning respondents (0–2) from centre/right-leaning respondents (3–10).1
+
+Control variables
+
+As individual-level covariates, we include educational level, household income, social class as well as gender and age. We use a ﬁve-category measure distinguishing between respondents who completed less than secondary education, lower secondary, upper secondary, post-secondary non-tertiary education, and tertiary education. We also include a relative measure of household income (country-speciﬁc income quintiles + ‘Missing’). Social class is measured with the ﬁveclass scheme by Oesch (2006), distinguishing unskilled workers, skilled workers, small business owners, lower service class and upper service class.
+
+We also account for the macro-economic development of the sampled countries by including the economic performance index (EPI; see Khramov & Lee, 2013). The EPI summarizes information on economic growth, inﬂation, unemployment (WDI, 2022) and the budget deﬁcit (IMF, 2022). Further information on the EPI, as well as a list of survey items used in the analysis can be obtained from the online Supporting Information. Descriptive statistics for all variables are included in Table A2 in the online Appendix.
+
+Analytical strategy
+
+The pooled ESS data consist of three hierarchical levels, with individual respondents, nested in country years and countries. We account for this setup by estimating a series of FE regression models that permit us to evaluate the micro- and macro-level correlates of citizens’ political trust while providing adequately clustered standard errors for hypothesis testing. Employing countryand survey-wave FE incorporates the feature of a static panel data model at the aggregate level of countries. Country FEs serve the twin purpose of properly isolating the longitudinal (within-unit) from the cross-sectional (between-unit) effects of any macro-level covariate while simultaneously controlling for any observed or unobserved confounders that are time constant at the country level (see Gangl, 2010; Greene, 2018; Woolridge, 2010). Country FEs afford this by removing all between-country variation from the analysis. As a result, the country FEs control for any
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+180 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+time-invariant and possibly idiosyncratic country characteristics that create whatever is temporally persistent in a country’s democratic culture throughout our study.
+
+In addition, adopting a FE speciﬁcation implies that longitudinal, within-unit variation over time is the sole informational basis for estimating a regression coefﬁcient to describe the association between a covariate and the outcome variable of interest. FE models effectively demean all the variables in the regression model, thus providing estimates of the correlation between (over time) within-unit changes in the dependent variable and (over-time) within-unit changes in the independent variable. An FE model, therefore, is the equivalent of adopting a longitudinal research design that allows us to estimate the effect of observable changes in inequality on changes in political trust in a before-and-after comparison within units, that is, at the aggregate level of countries in our case. In the context of a multilevel model for repeated cross-sectional data, where controls for individual-level covariates also amount to an implicit control for compositional changes in the citizenry, we in fact speciﬁcally estimate the contextual (or sociotropic) effect of income inequality on political trust, net of citizens’ SES or other demographic characteristics and any egocentric political motivations that may come with them.
+
+Within this broad approach, our analytical strategy then is twofold: We ﬁrst show a series of regression models to evaluate each hypothesized path of our theoretical model. In a second step, we test the mediation channel via efﬁcacy perceptions by applying a causal mediation analysis that uses the mediate package in R (Imai et al., 2010; Tingley et al., 2014). Speciﬁcally, we simulate the model parameters (the direct effect of inequality on trust and the indirect effect via efﬁcacy perceptions) from the regression models for the outcome and mediator based on their sampling distribution. In total, we obtain a sample of 1000 of these parameters. For each of these draws and each unit in the dataset, we simulate the potential mediator values and the potential outcomes (based on the simulated mediator values) and calculate the average causal mediation effect across the predictions for all respondents. This estimate is one of 1000 Monte Carlo draws so that we obtain a distribution of 1000 mediation effects from which we then calculate point estimates and conﬁdence intervals (the mean and percentiles of that distribution) of the mediation effect (see Imai et al., 2010, p. 328, for details on the algorithm).
+
+With this setup, our estimates become a practically useful and informative approximation of the likely range of the causal effect of income inequality on external efﬁcacy and trust. Our two-way FE design and further controls should help isolate our inferences against many obvious confounders, even as some inferential threats inevitably remain. The two most important assumptions we need to retain to give our estimates a causal interpretation are that there are no omitted time-varying confounders and that reverse causation is absent. Concerning the former, concomitant political events would seem the primary candidate factor. We thus provide a range of additional analyses to explore the robustness of our ﬁndings when considering other time-varying covariates or when conducting jackknife estimation to test against the presence of inﬂuential single-country cases. For reverse causality, we must acknowledge the principal possibility that changes in trust may (also) precede changes in inequality, for example, when high levels of trust enable democratic governments to implement far-reaching political interventions to combat inequality. While theoretically possible, reverse causation seems not likely to be a dominant factor in our study. The short (4-year) observation window of our data should render it much more likely that we see associations because citizens react to changes in inequality (which they can do without much delay) rather than the other way. That principle optimism notwithstanding, we do not wish to claim a similar level of conﬁdence about strictly causal conclusions from our mediation
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 181
+
+analysis. Among the necessary assumptions of causal mediation analysis, data limitations prevent us from employing a full set of candidate mediators (see Cunningham, 2021; Imai et al., 2010). Accordingly, we will more cautiously propose a traditional reading of ‘indirect effects’ (see Kline, 2015) for this part of our analysis. However, as with the other elements of our analyses, a range of robustness checks will be applied to help corroborate our main reading of the evidence.
+
+Results
+
+We begin with a series of models to obtain estimates of the individual path coefﬁcients in our hypothesized mediation (Table 1 shows the relevant coefﬁcients; full results are shown in Table A3). We do so ﬁrst with a standard random effects (i.e., multilevel, RE) speciﬁcation to provide a baseline, which we then compare to our preferred speciﬁcation of the more stringent FE regressions.
+
+The total effect of income inequality on trust, as obtained from the RE model (Model 1), is −0.326 (p < 0.001). Model 2 includes external efﬁcacy in the trust model, which yields an estimate of the direct effect of inequality on trust (β = −0.209, p = 0.006). The results also show that efﬁcacy has a strong positive effect on trust (β = 0.48, p < 0.001). The regression of external efﬁcacy on income inequality (Model 3) indicates a negative and signiﬁcant effect of income inequality (β = −0.287, p = 0.003). In sum, the multilevel models presented so far support the hypotheses that inequality negatively affects external efﬁcacy and trust and that efﬁcacy positively affects political trust. It is important to note that these estimates are net of the demographic and socioeconomic control variables included. That is, compositional differences are accounted for, and the effects of inequality can be considered genuine contextual (i.e., sociotropic) effects.
+
+Nonetheless, the estimates of the contextual effects obtained through this random-effects speciﬁcation are a mixture of within and between effects (Fairbrother, 2014). As such, it remains unclear whether the effect of inequality is due mainly to different levels of inequality between countries or to changes in inequality over time. The next step in our analysis requires properly isolating the longitudinal component of the effect of inequality by including country and wave FE. As described in more detail in the methodological section, we consequently estimate the average effect of a change in inequality within a country on political trust over time.
+
+As shown in Models 4–6 in Table 1, the FE models conﬁrm the results of the random effects speciﬁcation. As the estimates are now based on variation within countries over time only, the contextual effects are considerably smaller. It should be noted that variance decomposition through a random intercept-only model indicates that variation within countries over time accounts for only 1.6 per cent of the overall variance in political trust, whereas between country variance accounts for 17.7 per cent.
+
+The total effect of inequality on trust, for example, is reduced from −0.326 (p < 0.001) in Model 2 to −0.237 (p = 0.012 in Model 5). To illustrate the substantive meaning of this effect, the model predicts that an increase of 0.99 on the S80/S20 (as in Lithuania in the period covered by our data, i.e., 2014–2018) would decrease average trust by −0.23 points on the 10-point index, or about 2.3 percentage points. Conversely, for Estonia, where inequality declined from 6.48 to 5.07 between 2014 and 2018, the model predicts an increase in trust by about 3.3 percentage points.
+
+When responsiveness perceptions are included in Model 5, the direct effect of income inequality turns insigniﬁcant (β = −0.112, p = 0.205). In Model 6, we regress external efﬁcacy on income inequality and ﬁnd a negative and signiﬁcant effect (β = −0.261, p < 0.001).
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+182 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+Table 1. A mediation model for inequality, efﬁcacy and political trust in 22 European democracies.
+
+Random-effects multilevel speciﬁcation Fixed-effects speciﬁcation
+
+Main model Mediation model Main model Mediation model
+
+M1 M2 M3 M4 M5 M6
+
+Predictors Political trust
+
+index Political trust
+
+index Efﬁcacy Political trust
+
+index Political trust
+
+index Efﬁcacy
+
+Economic inequality
+
+(S80/S20 index) −0.33 ***(0.10) −0.21 **(0.07) −0.29 **(0.09) −0.24 *(0.09) −0.11
+
+(0.09) −0.26 ***(0.06)
+
+Efﬁcacy 0.48 ***(0.00) 0.48 ***(0.01)
+
+Political orientation
+
+(Ref.: centre or right)
+
+Left
+
+−0.31 ***(0.02) −0.27 ***(0.02) −0.08 ***(0.02) −0.31 ***(0.05) −0.27 ***(0.03) −0.08
+
+(0.05)
+
+Control variablesa Yes Yes Yes Yes Yes Yes
+
+Random effects
+
+σ2 3.95 3.07 3.82
+
+τ(country-years) 0.04 0.03 0.04
+
+τ(countries) 0.61 0.26 0.55
+
+ICC 0.14 0.08 0.13
+
+Fixed effects
+
+Countries Yes (22) Yes (22) Yes (22)
+
+Periods Yes (3) Yes (3) Yes (3)
+
+N countries 22 22 22
+
+N country-survey waves 63 63 63
+
+N respondents 93,926 93,926 93,926 93,926 93,926 93,926
+
+Marginal R2 / conditional R2 0.059 / 0.191 0.283 / 0.344 0.086 / 0.207 0.189 / 0.188 0.369 / 0.369 0.197 / 0.197
+
+aModels control for economic performance, gender, age, level of education, household income, social class. Full results in Table A3.
+
+∗p < 0.05; ∗∗p < 0.01; ∗∗∗p < 0.001.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 183
+
+Table 2. Inequality, efﬁcacy and political trust: A causal mediation analysis (based on N = 1000 simulations).
+
+Parameter Estimate 2.5 Percentile 97.5 Percentile p
+
+Total effect −0.245 −0.447 −0.044 0.030
+
+Direct effect
+
+(non-mediated)
+
+−0.119 −0.301 0.077 0.212
+
+Indirect effect via efﬁcacy
+
+perceptions
+
+−0.127 −0.195 −0.051 0.000
+
+% Mediated 0.505 0.194 1.733 0.030
+
+Considering that these estimates are based on a rigid model speciﬁcation and only within variation in a relatively short period of time (2014–2018), the results so far support our theoretical expectations: There is a negative effect of inequality on trust and external efﬁcacy, as well as a positive effect of efﬁcacy on trust (β = 0.48, p < 0.001). Moreover, the estimate for the direct effect of income inequality on trust is almost half that of the total effect, thus indicating that external efﬁcacy provides a channel through which some of the inequality effect is transmitted. In order to formally estimate and test this indirect effect, we now turn to the mediation analysis based on the FE models.
+
+Table 2 shows the results of the mediation analysis. The simulation-based results differ only minimally from the results in Table 1. The total effect is negative and remains signiﬁcant (β = −0.245, p < 0.001). The estimated mediation or indirect effect is β = −0.127 (p < 0.001), corresponding to about 51 per cent of the effect of inequality on political trust being attributable to external efﬁcacy. Accordingly, the estimated direct effect of inequality on trust is reduced to β = −0.119, turning it insigniﬁcant (p = 0.212). To investigate whether political ideology moderates the relationship between inequality, trust and efﬁcacy, we next ﬁt the same set of models separately for left-wing respondents and all others.
+
+Figure 2 summarizes the main results from the FE models through path coefﬁcients (complete results shown in Tables A4 and A5). Among respondents who identify as left (left panel), the total effect of income inequality is β = −0.436 (p < 0.001). Accounting for external efﬁcacy reduces this effect to β = −0.322 (p = 0.005). Again, we ﬁnd that efﬁcacy strongly affects political trust β = 0.505 (p < 0.001). The effect of inequality on efﬁcacy is negative but statistically insigniﬁcant (β = −0.226, p = 0.108). For the indirect effect, the causal mediation analysis yields an estimate of β = −0.111 (p = 0.236). Here, about 25 per cent of the total effect of inequality on trust are mediated through external efﬁcacy. To anticipate the results from further analyses and the discussion below, the mediation effect is signiﬁcant once Lithuania is excluded (β = −0.227,
+
+p < 0.001; see Section 4 in the online Supporting Information).
+
+Among non-left respondents, the total effect of income inequality on trust is much weaker (β = −0.213; p = 0.033) and its direct effect is insigniﬁcant (β = −0.086; p = 0.346). There is a clear negative effect of inequality on external efﬁcacy (β = −0.261, p < 0.001). The mediation or indirect effect among right-wing respondents is estimated to be −0.127 (p < 0.001), with 58 per cent of the effect of inequality on trust being mediated through external efﬁcacy. It is mainly due to the smaller total effect of inequality on trust that the proportion mediated by external efﬁcacy is
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+184 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+Income Inequality
+
+External Efficacy Political Trust
+
+βb= 0.505***
+
+βa= -0.226
+
+βc= -0.436*** βc´= -0.322**
+
+Mediation Effect: -.111 (25 %)
+
+Income Inequality
+
+External Efficacy Political Trust
+
+βb= 0.475***
+
+βa= -0.268***
+
+βc= -0.213* βc´= -0.086
+
+Mediation Effect: -.127*** (58%)
+
+Left Center/Right
+
+Moderation Effect: 0.016, p=.873
+
+Figure 2. Partisan differences in the relationships between inequality, efﬁcacy and political trust: path model representations.
+
+larger among centre and right-wing respondents. However, the coefﬁcients of the indirect effects are similar among the two groups.
+
+A formal z-test of the moderation effect of political orientation shows the difference in indirect effects to be statistically insigniﬁcant (β = 0.016, p = 0.873; see Fairchild & MacKinnon 2009). Based on both the small size of the moderation effect and the formal test, we thus conclude that the indirect effect of inequality on trust does not depend on political ideology.
+
+Robustness checks
+
+To summarize, our results suggest that rising income inequality reduces trust in democratic institutions and that this effect is, to a large part, explained by inequality’s indirect effect via external efﬁcacy. Importantly, this indirect effect is independent of ideology, whereas a direct effect is observable predominantly among left-wing respondents.
+
+These ﬁndings replicate across a range of model speciﬁcations (see Table A6 in the online Appendix): We repeated the analysis with the Gini coefﬁcient of disposable income and the p90p10 income ratio (Eurostat, 2022b) as alternative indicators for income inequality. We further conducted the analyses for the three trust items separately and tested different cutoff points for the left-right orientation. In addition, we ﬁtted models with different control variables: We substituted the EPI with the unemployment rate and GDP growth. To test whether our results were driven by changes in the quality of democratic institutions, we included the V-Dem’s (Coppedge et al., 2022) liberal democracy index as a time-varying control. A different way to account for this is to exclude countries that experienced a decline in their Freedom House status, which is commonly used to classify liberal democracies (Norris, 2011). We thus reﬁt our models while excluding Hungary, for which the status changed in 2018. As a further robustness test, we included the annual number of ﬁrst-time asylum applicants per 1 million inhabitants (standardized) as a time-varying
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 185
+
+control variable. The reason is that from 2015 onward, several European countries were subject to a sudden increase in immigration rates, potentially leading to increases in the Gini coefﬁcient and, particularly among non-left citizens, decreased political trust. Except for small changes in the parameter estimates, the above speciﬁcations all replicate our main analysis.
+
+To further test the sensitivity of our results to potentially inﬂuential cases, we reﬁtted the causal mediation analysis while excluding one country at a time (‘leave-one-out jackknife’). The results for each of the 22 models can be found in the online Supporting Information. The only notable change is that the coefﬁcient for the indirect effect among left-wing respondents doubles in size and becomes signiﬁcant once Lithuania is excluded. In conjunction with the small and insigniﬁcant moderation effect, this reinforces the conclusion that the efﬁcacy-based mechanism is indeed nonpartisan.
+
+To rule out alternative explanations, we tested whether the social-psychological mechanism could account for the effects of inequality on trust. As described in the theory section, the inﬂuential ‘spirit-level thesis’ states that inequality leads to ‘social dysfunction’ because it increases the distances between social groups, which increases status anxiety and reduces social trust (Wilkinson & Pickett, 2010; see also van de Werfhorst & Salverda, 2012). Models with the status-seeking index (cf. Paskov et al., 2017) and social trust index as mediators indicate, however, that this mechanism cannot explain the relationship between inequality and trust: The proportion mediated amounts to 0 per cent and 4 per cent, respectively.
+
+We further tested the alternative hypothesis that the mechanism via efﬁcacy is affected by economic performance more generally. We did this by using the unemployment rate and GDP growth as treatment variables in a mediation model. We do not ﬁnd signiﬁcant associations with political trust in either model, but efﬁcacy does signiﬁcantly reduce the effect of GDP growth (55 per cent mediated). This does not, in fact, question our results since we do not claim that inequality is a panacea that fully accounts for efﬁcacy or trust. Because our models show that economic inequality signiﬁcantly affects trust via efﬁcacy even after controlling for (different indicators of) economic performance, our conclusions remain the same.
+
+Lastly, we reiterate that our main argument states that economic inequality reduces trust because it affects individual perceptions of ordinary citizens’ potential inﬂuence on political decisions and thus perceptions of the fairness of the democratic process. As a ﬁnal test, we aimed to replicate the proposed causal chain at the aggregate level. The V-dem dataset contains expert evaluations of the degree to which political power in a country depends on socioeconomic position (v2pepwrses; for more information, see Coppedge et al., 2022). If our theoretical argument is correct, we should see that income inequality increases political inequality and that this, in turn, decreases political trust. Table A7 in the online Appendix shows the results from an aggregate mediation model for the period from 2004 to 2018. The model controls for GDP per capita and period effects. The results indicate that income inequality has a signiﬁcant total effect on political trust (β = −0.179, p < 0.05) and that it also strongly affects the indicator measuring political inequality (β = −0.121, p < 0.001). When political inequality is introduced in the model for political trust, the effect of inequality is reduced to β = −0.128 (p = 0.12). The indirect effect of inequality on political trust, via inequality in political power, is β = −0.05 (p < 0.01), or 27 per cent. While pointing out that this model uses a sparse set of controls and that aggregate analyses do not permit inferences about individual-level processes, we see these results as further support for our main argument.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+186 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+Discussion and conclusions
+
+It has long been theorized that democratic legitimacy and stability may be threatened if economic inequality translates into political inequality. By now, several empirical studies indicate a negative relationship between income inequality and indicators of political support. In this article, we reexamined this relationship by focusing on political trust and found a robust negative effect of changes in inequality on changes in political trust. We further contributed to the literature by bringing in efﬁcacy as a critical mediator in the causal chain from macroeconomic inequality to citizen trust. In doing so, we have advanced a theoretical argument to complement the currently dominant perspective that views trust in institutions as the result of a rational evaluation of output performance based on political preferences.
+
+We have argued that this type of substantial output-based evaluation is not the only mechanism through which inequality may affect citizens’ trust in democratic institutions. Instead, we emphasized the importance of considering efﬁcacy – understood as a more process-based evaluation – to advance our understanding of this relationship. In doing so, we have drawn on a strand of literature that regards economic inequality as potentially threatening democratic fundamentals by translating into unequal resources and consequently into unequal political inﬂuence and representation. From this perspective, economic inequality may affect citizens’ perceptions of the responsiveness of the political system and of their own potential to inﬂuence political processes. As captured by measures of external efﬁcacy, inequality would thus erode political trust by depressing citizens’ evaluations of the fairness of the democratic process.
+
+We drew on time-series cross-sectional data from the ESS to test these hypotheses. FE regression models conﬁrmed that inequality has a negative effect on both trust and efﬁcacy over time, while efﬁcacy has a positive effect on trust. A causal mediation analysis showed a signiﬁcant indirect effect of inequality on trust via efﬁcacy perceptions. Separate analyses for left-wing and centre/right-wing respondents revealed that inequality’s indirect effect via efﬁcacy does not depend on political orientation, while a direct effect remains only for those on the left.
+
+These ﬁndings contribute to contemporary debates in three important ways. First, our results corroborate previous ﬁndings that objective income inequality depresses trust in political institutions and expand on these by implementing a rigorous longitudinal design. Given the extensive controls for observables and country-speciﬁc unobservables as afforded within the context of a FE regression speciﬁcation, this substantiates a causal role of inequality for trust. We consider this causal interpretation to be credible insofar as our short observation window makes reverse causation (from trust to inequality) unlikely and given the extensive robustness tests against other potential time-varying confounders and the presence of inﬂuential cases.
+
+Second, these results are the ﬁrst to empirically conﬁrm the existence of an efﬁcacy-based transmission channel from inequality to trust. In doing so, we complement existing accounts of trust by showing that process and output evaluations co-occur.
+
+Third, we can show that the efﬁcacy-based mechanism is independent of political orientation. Drawing attention to the largely non-partisan transmission channel of citizens’ efﬁcacy perceptions may provide a resolution for the empirical puzzle why inequality also depresses political trust among right-leaning citizens, for whom (rising) inequality would presumably not be an important political problem in the ﬁrst place (see Kumlin et al., 2018). Even among those distant from egalitarian ideology, our results show that objective inequality undermines trust, albeit more indirectly. These ﬁndings align with recent criticism of the ‘emerging consensus’ on the superiority
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 187
+
+of subjective perceptions over objective inequality (Weisstanner & Armingeon, 2022). By contrast, our results show that neither a correct perception of the degree of economic inequality nor a political preference for economic equality are strictly necessary for objective inequality to affect democratic attitudes. As objective economic inequality affects external efﬁcacy, it indirectly affects political trust even among those for whom inequality is, for ideological reasons, not a major concern.
+
+While we believe these contributions to be important, our study faces certain limitations. First, unlike for the effect of inequality on trust, we cannot draw strictly causal conclusions from the mediation analysis as data limitations prevent us from employing a full set of candidate mediators. Relatedly, contrary to our assumptions, trust may precede efﬁcacy. For example, when a change in government happens and the party a respondent voted for takes the lead after having been in opposition before, citizens may adapt their feelings of external efﬁcacy to their increased trust in political institutions. We consider this causal direction less likely, yet we cannot rule it out entirely.
+
+Finally, our data consist of a limited number of European countries and a short period of time. Levels of income inequality in Europe are comparatively low and the more drastic changes in inequality occurred prior to the period under investigation. Yet, even in this setting, which can be considered a least-likely design, our ﬁndings are in line with our theoretical propositions and highly robust. Nevertheless, future studies should test whether the proposed mechanism holds in different contexts and periods.
+
+Despite these limitations, we believe that this paper makes an important contribution by providing new evidence showing that objective economic inequality has the potential to erode democratic support and that external efﬁcacy plays a key role therein. This is practically relevant, as the impact of rising income inequality may be cushioned through interventions that raise perceptions of efﬁcacy. Recognizing this efﬁcacy-based transmission channel can also contribute to political sociology more generally. Placing a perspective on citizens’ evaluation of political power and fair democratic processes alongside the perspective of output-based evaluations may enrich the argument that democratic stability may be undermined when economic inequality is getting translated into political power and inequality of representation.
+
+Acknowledgements
+
+Earlier versions of this research have been presented at the AS Conference ‘Cohesive Societies?’ in 2021 and the ‘Workshop on Perceptions and Policy Preferences’ at the University of Hamburg in 2021. We thank all participants, Carlotta Giustozzi, Claudia Traini, and the three anonymous reviewers for their helpful comments. We also thank Elisa Ebertz, Clara Eul and Emir Zecovic for valuable research assistance in the project.
+
+Open access funding enabled and organized by Projekt DEAL.
+
+Conﬂict of interest statement
+
+The authors declare no conﬂict of interest.
+
+Data availability statement
+
+The data and syntax are available on OSF (DOI 10.17605/OSF.IO/F4NUA).
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+188 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+Funding Information
+
+This study is part of the project POLAR: Polarization and its discontents: does rising economic inequality undermine the foundations of liberal societies? that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 Research and Innovation Programme (Grant agreement No. 833196).
+
+Ethics approval statement
+
+Ethical approval is not applicable to this article.
+
+Online Appendix
+
+Additional supporting information may be found in the Online Appendix section at the end of the article:
+
+Supplementary information
+
+Note
+
+1. In a robustness check, we conﬁrm that our substantive results are being replicated when varying the cut–off point
+
+to compare left-leaning and centre-left citizens (0–4) to center/right-leaning respondents (5–10).
+
+References
+
+Alesina, A., Di Tella, R., & MacCulloch, R. (2004). Inequality and happiness: Are Europeans and Americans
+
+different? Journal of Public Economics, 88, 2009–2042. Andersen, R. (2012). Support for democracy in cross-national perspective: The detrimental effect of economic
+
+inequality. Research in Social Stratiﬁcation and Mobility, 30(4), 389–402. Anderson, C. J., & Singer, M. M. (2008). The sensitive left and the impervious right. Multilevel models and the
+
+politics of inequality, ideology, and legitimacy in Europe. Comparative Political Studies, 41(4), 564–599. Atkinson, A. B. (2015). Inequality: What can be done? Harvard University Press. Brady, H. E., Verba, S., & Schlozman, K. L. (1995). Beyond SES: A resource model of political participation.
+
+American Political Science Review, 89(2), 271–294. Buttrick, N. R., & Oishi, S. (2017). The psychological consequences of income inequality. Social and Personality
+
+Psychology Compass, 11(3), e12304. Campbell, A., Gurin, G., & Miller, W. E. (1954). The voter decides. Row, Peterson, and Co. Christmann, P. (2018). Economic performance, quality of democracy and satisfaction with democracy. Electoral
+
+Studies, 53, 79–89. Coppedge, M., Gerring, J., Knutsen, C. H., Lindberg, S. I., Teorell, J., Altman, D., Bernhard, M., Cornell,
+
+A., Fish, M. S., Gastaldi, L., Gjerløw, H., Glynn, A., Grahn, S., Hicken, A., Kinzelbach, K., Marquardt, K. L., McMann, K., Mechkova, V., Neundorf, A., Paxton, P., Pemstein, D., Rydén, O., vonRömer, J., Seim, B., Sigman, R., Skaaning, S.–E., Staton, J., Sundström, A., Tzelgov, E., Uberti, L., Wang, Y., Wig, T., & Ziblatt, D. (2022). V-dem country-year dataset v12. Varieties of Democracy (V-Dem) Project. https://www.v-dem.net/data/the-v-dem-dataset/ Craig, S. C., Niemi, R. G., & Silver, G. E. (1990). Political efﬁcacy and trust: A report on the NES pilot study items.
+
+Political Behavior, 12(3), 289–314. Cunningham, S. (2021). Causal inference: The mixtape. Yale University Press. Dahl, R. A. (1971). Polyarchy. Participation and opposition. Yale University Press.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 189
+
+Dahl, R. A. (2006). On political equality. Yale University Press. Dalton, R. J. (1998). Political support in advanced industrial democracies. UC Irvine: Center for the Study of
+
+Democracy. Retrieved from https://escholarship.org/uc/item/8281d6wt Delhey, J., & Steckermeier, L. C. (2020). Social ills in rich countries: New evidence on levels, causes, and mediators.
+
+Social Indicators Research, 149(1), 87–125. Donovan, T., & Karp, J. (2017). Electoral rules, corruption, inequality and evaluations of democracy. European
+
+Journal of Political Research, 56(3), 469–486. Easton, D. (1975) A re-assessment of the concept of political support. British Journal of Political Science, 5(4),
+
+435–457. Elsässer, L., Hense, S., & Schäfer, A. (2021). Not just money: Unequal responsiveness in egalitarian democracies.
+
+Journal of European Public Policy, 28(12), 1890–1908. Engler, S., & Weisstanner, D. (2021). The threat of social decline: Income inequality and radical right support.
+
+Journal of European Public Policy, 28(2), 153–173. Esaiasson, P., Kölln, A.-K., & Turper, S. (2015). External efﬁcacy and perceived responsiveness-similar but distinct
+
+concepts. International Journal of Public Opinion Research, 27(3), 432–445. ESS Round 7: European Social Survey Round 7 Data (2014). Data ﬁle edition 2.2. Sikt - Norwegian Agency for
+
+Shared Services in Education and Research, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi: 10.21338/NSD-ESS7-2014. ESS Round 8: European Social Survey Round 8 Data (2016). Data ﬁle edition 2.2. Sikt - Norwegian Agency for
+
+Shared Services in Education and Research, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi: 10.21338/NSD-ESS8-2016. ESS Round 9: European Social Survey Round 9 Data (2018). Data ﬁle edition 3.1. Sikt - Norwegian Agency for
+
+Shared Services in Education and Research, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi: 10.21338/NSD-ESS9-2018. Eurostat (2022a). Inequality of income distribution S80/S20 income quintile share ratio - EU-SILC and ECHP
+
+surveys. https://ec.europa.eu/eurostat/web/products-datasets/-/ilc_pns4 Eurostat (2022b). Distribution of income by quantiles—EU-SILC and ECHP surveys [ilc_di01]. https://ec.europa.eu/eurostat/web/products-datasets/-/ilc_di01 Fairbrother, M. (2014). Two multilevel modeling techniques for analyzing comparative longitudinal survey datasets.
+
+Political Science Research and Methods, 2(1), 119–140. Fairchild, A. J., & MacKinnon, D. P. (2009). A general model for testing mediation and moderation effects.
+
+Prevention Science, 10, 87–99. Foa, R. S., Klassen, A., Slade, M., Rand, A., & Collins, R. (2020). The global satisfaction with democracy report
+
+2020. Centre for the Future of Democracy. Gangl, M. (2010). Causal inference in sociological research. Annual Review of Sociology, 36(1), 21–47. Gangl, M., & Giustozzi, C. (2021). Unemployment and political trust across 24 Western democracies: Evidence on
+
+a welfare state paradox. Acta Sociologica, 64(3), 255–273. Gidron, N., & Hall, P. A. (2017). The politics of social status: Economic and cultural roots of the populist right. The
+
+British Journal of Sociology, 68, S57-S84. Gilens, M. (2012). Afﬂuence and inﬂuence: Economic inequality and political power in America. Princeton
+
+University Press. Goodin, R., & Dryzek, J. (1980). Rational participation: The politics of relative power. British Journal of Political
+
+Science, 10, 273–292. Goubin, S. (2020). Economic inequality, perceived responsiveness and political trust. Acta Politica, 55, 267–304. Goubin, S., & Hooghe, M. (2020). The effect of inequality on the relation between socioeconomic stratiﬁcation and
+
+political trust in Europe. Social Justice Research, 33(2), 219–247. Greene, W. H. (2018). Econometric analysis (8th ed). Pearson. Hacker, J. S., & Pierson, P. (2010). Winner-take-all politics: Public policy, political organization, and the precipitous
+
+rise of top incomes in the United States. Politics and Society, 38(2), 152–204. Hetherington, M. J. (1998). The political relevance of political trust. The American Political Science Review, 92(4),
+
+791–808.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+190 SIMON BIENSTMAN, SVENJA HENSE, & MARKUS GANGL
+
+Hooghe, M., & Okolikj, M. (2020). The long–term effects of the economic crisis on political trust in Europe: Is there
+
+a negativity bias in the relation between economic performance and political support? Comparative European Politics, 18, 879–898. Imai, K., Keele, L., & Tingley, D. (2010). A general approach to causal mediation analysis. Psychological Methods,
+
+15(4), 309–334. IMF (2022). World economic outlook database. https://www.imf.org/en/Publications/WEO/weo-database/2022/April. Khramov, V., & Lee, J. R. (2013). The Economic Performance Index (EPI): An Intuitive Indicator for Assessing a
+
+Country’s Economic Performance Dynamics in an Historical Perspective (IMF Working Paper 13/214). IMF. Kim, Y., Sommet, N., Na, J., & Spini, D. (2022). Social class—not income inequality—predicts social and
+
+institutional trust. Social Psychological and Personality Science, 13(1), 186–198. Kline, R. B. (2015). The mediation myth. Basic and Applied Social Psychology, 37(44), 202–213. Krieckhaus, J., Son, B., Bellinger, N. M., & Wells, J. M. (2014). Economic inequality and democratic support. The
+
+Journal of Politics, 76(1), 139–151. Kumlin, S., Stadelmann-Steffen, I., & Haugsgjerd, A. (2018). Trust and the welfare state. In E. M. Uslaner (Ed.),
+
+The Oxford handbook of social and political trust (pp 385–408). Oxford University Press. Lancee, B., & Van de Werfhorst, H. G. (2012). Income inequality and participation: A comparison of 24 European
+
+countries. Social Science Research, 41(5), 1166–1178. Lee, D., Chang, C. Y., & Hur, H. (2020). Economic performance, income inequality and political trust: New evidence
+
+from a cross-national study of 14 Asian countries. Asia Paciﬁc Journal of Public Administration, 42(2), 66–88. Lipset, S. M. (1963). Political man. The social bases of politics. Doubleday. Loveless, M. (2013). The deterioration of democratic political culture: Consequences of the perception of inequality.
+
+Social Justice Research, 26(4), 471–491. Magalhães, P. C. (2014). Government effectiveness and support for democracy. European Journal of Political
+
+Research, 53(1), 77–97. Martini, S., & Quaranta, M. (2020). Citizens and democracy in Europe: Contexts, changes and political support.
+
+Springer International Publishing. McAllister, I. (1999). The economic performance of governments. In P. Norris (Ed.), Critical citizens: Global
+
+support for democratic governance (pp. 188–203). Oxford University Press. Mounk, Y. (2018). The people vs. democracy: Why our freedom is in danger and how to save it. Harvard University
+
+Press. Newton, K., Stolle, D., & Zmerli, S. (2018). Social and political trust. In E. M. Uslaner (Ed.), The Oxford handbook
+
+of social and political trust (pp. 38–56). Oxford University Press. Norris, M. (2015). The economic roots of external efﬁcacy: Assessing the relationship between external political
+
+efﬁcacy and income inequality. Canadian Journal of Political Science/Revue Canadienne de Science Politique, 48(4), 791–813. Norris, P. (1999). Introduction: The growth of critical citizens? In P. Norris (Ed.), Critical citizens: Global support
+
+for democratic government (pp. 1–27). Oxford University Press. Norris, P. (2011). Democratic deﬁcit: Critical citizens revisited. Cambridge University Press. OECD (2011). Divided we stand: Why inequality keeps rising. OECD Publishing. Oesch, D. (2006). Redrawing the class map. Stratiﬁcation and institutions in Britain, Germany, Sweden and
+
+Switzerland. Palgrave Macmillan. Oser, J., Feitosa, F., & Dassonneville, R. (2023). Who Feels They Can Understand and Have an Impact on Political
+
+Processes? Socio–demographic Correlates of Political Efﬁcacy in 46 Countries, 1996–2016. International Journal of Public Opinion Research, 35(2). Paskov, M., Gërxhani, K., & van de Werfhorst, H. G. (2017). Giving up on the Joneses? The relationship between
+
+income inequality and status-seeking. European Sociological Review, 33(1), 112–123. Piketty, T. (2017). Capital in the twenty-ﬁrst century. The Belknap Press of Harvard University Press. Pitkin, H. F. (1967). The concept of representation. University of California Press. Polacko, M. (2022). The Politics of Income Inequality: Redistribution, Turnout and Responsiveness. Statistics,
+
+Politics and Policy, 13(2), 201–218. Runciman, D. (2018). How democracy ends. Basic Books. Schäfer, A. (2013). Afﬂuence, inequality and satisfaction with democracy. In S. Keil & O. W. Gabriel (Ed.), Society
+
+and democracy in Europe (pp. 139–161). Routledge.
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+INEQUALITY, EFFICACY AND POLITICAL TRUST 191
+
+Schäfer, A., & Schwander, H. (2019). Don’t play if you can’t win’: Does economic inequality undermine political
+
+equality? European Political Science Review, 11(3), 395–413. Schakel, W. (2021). Unequal policy responsiveness in the Netherlands, Socioeconomic Review, 19(1), 37–57. Schakel, W., & Burgoon, B. (2022). The party road to representation: Unequal responsiveness in party platforms.
+
+European Journal of Political Research, 61(2), 304–325. Schattschneider, E. E. (1960). The semisovereign people. A realist’s view of democracy in America. Holt, Rinehart
+
+and Winston. Solt, F. (2008). Economic inequality and democratic political engagement. American Journal of Political Science,
+
+52(1), 48–60. Solt, F. (2020). Measuring income inequality across countries and over time: The standardized world income
+
+inequality database. Social Science Quarterly, 101(3), 1183–1199. Stoetzer, L. F., Giesecke, J., and Klüver, H. (2021). How does income inequality affect the support for populist
+
+parties? Journal of European Public Policy, 30(1), 1–20. Tingley, D., Yamamoto, T., Hirose, K., Keele, L., & Imai, K. (2014). mediation: R Package for Causal Mediation
+
+Analysis. Journal of Statistical Software, 59(5). Torcal, M. (2014). The decline of political trust in Spain and Portugal: economic performance or political
+
+responsiveness? American Behavioral Scientist, 58(12), 1542–1567. van Beek, U., Fuchs, D., & Klingemann, H.-D. (2019). The question of legitimacy in contemporary democracies. In
+
+U. van Beek (Ed.), Democracy under threat: A crisis of legitimacy? (pp. 321–335), Palgrave Macmillan. van der Meer, T. (2010). In what we trust? A multi-level study into trust in parliament as an evaluation of state
+
+characteristics. International Review of Administrative Sciences, 76(3), 517–536. van der Meer, T. (2017). Democratic input, macroeconomic output and political trust. In S. Zmerli & T. Van der
+
+Meer (Eds.), Handbook on political trust (pp. 271–284). Edward Elgar Publishing. van der Meer, T. (2018). Economic performance and political trust, In E. Uslaner (Ed.), The Oxford handbook of
+
+social and political trust (pp. 599–616). Oxford University Press. van der Meer, T., & Hakhverdian, A. (2017). Political trust as the evaluation of process and performance: A cross national study of forty-two European democracies. Political Studies, 65(1), 81–102. Van de Werfhorst, H. G., & Salverda, W. (2012). Consequences of economic inequality: Introduction to a special
+
+issue. Research in Social Stratiﬁcation and Mobility, 30(4), 377–387. Weisstanner, D., & Armingeon, K. (2022). Redistributive preferences: Why actual income is ultimately more
+
+important than perceived income. Journal of European Social Policy, 32(2), 135–147. Wilkinson, R. G., & Pickett, K. (2010). The spirit level: Why equality is better for everyone. Penguin Books. Woolridge, J. M. (2010). Econometric analysis of cross section and panel data (2nd ed.). MIT Press. WDI (2022). World development indicators. http://databank.worldbank.org/ Ziblatt, D., & Levitsky, S. (2018). How democracies die. Crown. Zmerli, S., & Castillo, J. C. (2015). Income inequality, distributive fairness and political trust in Latin America.
+
+Social Science Research, 52, 179–192. Zmerli, S., & Newton, K. (2008). Social trust and attitudes toward democracy. Public Opinion Quarterly, 72(4),
+
+706–724.
+
+Address for Correspondence: Institute for Sociology, Goethe-University Frankfurt, Theodor-W.-Adorno-Platz 6, 60323 Frankfurt am Main, Germany. Email: bienstman@soz.uni-frankfurt.de
+
+© 2023 The Authors. European Journal of Political Research published by John Wiley & Sons Ltd on behalf of European Consortium for Political Research.
+
+14756765, 2024, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12611 by Cochrane Portugal, Wiley Online Library on [27/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

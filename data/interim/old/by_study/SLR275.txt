@@ -1,0 +1,399 @@
+Public Preferences for Parliamentary Representation in the UK: An Overlooked Link?
+
+Christopher Jan Carman
+
+University of Glasgow
+
+Representation, both as a normative concept and a political process, has generated a rich literature across several national contexts.To develop our understanding of representational systems,scholars tend to assess the degree of policy congruence between parliamentarians and constituents as well as the role orientations adopted by elected parliamentarians and legislators. This paper contends that in order to have a complete understanding of representational systems, we must consider not only the representational roles adopted by parliamentarians, but also the publics’ preferences regarding parliamentary representation. Speciﬁcally, I posit that individuals have attitudes about the type and degree of relationship that they believe should exist between elected parliamentarians, parties and constituents. Using data from a 2003 survey of the British public, I test the related hypotheses that individuals have meaningful and predictable preferences for the representational relationship they share with their members of parliament (MPs) and that these representational preferences in turn inﬂuence how individuals evaluate MPs. Finding support for both hypotheses, I argue that developing an understanding of normative public preferences for political representation is an important and overlooked component in advancing models of public support of both elected ofﬁcials and governing institutions.
+
+Political theorists and empirical analysts alike have devoted innumerable volumes to the discernment of the basis, functioning and consequences of the representational relationships shared by constituents and their elected representatives.Theorists have sought to uncover the foundations of ‘the concept of representation’ (Pitkin, 1967) and how these foundations may translate into modern understandings of representative government. Other scholars have sought to use both intensive qualitative and intricate quantitative analytic techniques to pick apart the representational relationship, focusing on the linkages between constituents, elected ofﬁcials and mediating institutions, and how these linkages inﬂuence public policy. These studies may be juxtaposed with those that delve into the role(s) that members of parliament (MPs) or congress, depending on the national context, believe they should adopt in fulﬁlling their duties as a ‘representative’ of their respective constituencies.
+
+However, as noted by Malcolm Jewell in 1985, there remains a signiﬁcant lacuna in the representation literature. Despite the ongoing empirical research designed to untangle the sources and functioning of allocation, service and policy representation as viewed by electoral elites, there has been little effort expended on discerning how the general public views the representational relationship they share with their parliamentarians and legislators. In his 1985 review of the
+
+POLITICAL STUDIES: 2006 VOL 54, 103–122
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+104 CHRISTOPHER JAN CARMAN
+
+representation literature Jewell poses the questions, ‘What roles do constituents expect their legislators to perform? Do they have clearly deﬁned expectations? Relatively few efforts have been made to answer these questions ...’ (Jewell, 1985, p. 111). In the twenty years that passed since Jewell posed those questions, few studies addressed constituent expectations of the representational relationship.This project begins to ﬁll this signiﬁcant gap in the extant literature on parliamentary representation.
+
+This is not a purely esoteric, nor ‘academic,’ pursuit. It is well documented that developed countries share a common trend: public conﬁdence in governments and governing institutions is declining (Dalton, 1999). One possible explanation for this decline posits that there is a gap between what the public expects from their government in terms of representational relationships and what they receive (see Mendez-Lago and Martinez, 2002). In a sense, the public may perceive an increasing amount of agency loss between themselves (the principals) and their governmental agents. Understanding normative public expectations of the representational relationship may help to further our understanding of diminished public support for governing institutions. Similarly, if we switch from an aggregated to an individual level, understanding preferences for representation may help us further our understanding of constituent perceptions of their parliamentarians. Again, if a gap exists between the sort of representation individuals prefer and the sort that they perceive that they receive,this may assist us in understanding evaluations of MPs.
+
+Of course, addressing this entire argument is well beyond the scope of a single paper.The modest goal of this paper is to establish that ‘the public’ does indeed have preferences for the representational1 relationship they share with their MP2
+
+and that these preferences may inﬂuence their judgments of the political world. This general proposition is supported with data from a 2003 survey of the UK public.The paper proceeds in several stages. First, I discuss previous research on representational linkages, both in the UK and elsewhere. Next I turn to a discussion of the possible covariates with representational attitudes. The data and statistical models are discussed in the third section. Finally, I conclude with a discussion of the ﬁndings and where they might take the study of representation.
+
+Public Preferences for Representation?
+
+Jacques Thomassen (1994) has observed that while the study of ‘representation’ in the US is all but ubiquitous, in most countries with strong party systems, it is generally seen as a less interesting research topic.Americans, owing to the much greater variation in the inﬂuence of political parties in their legislative institutions, have invested a great deal of energy in evaluating the degree of dyadic and collective correspondence between the policy preferences of constituents and their elected representatives (for example, Hill and Hurley, 1999; Hurley, 1989; Weissberg, 1978; 1979). While British scholars have not been nearly as ﬁxated
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 105
+
+on the congruence of constituent and parliamentarian policy preferences, certainly, an established body of research wrestles with the relationships between the elected,their electorate and their party organizations (for reviews see Judge,1999; Norton and Wood, 1993).
+
+It is probably fair to say that sorting out representational relationships in the UK is more complicated than it may be in the US context. In the US, the most familiar studies to vet the relationship between constituents and their members of congress fall into the category of ‘congruence’ studies. In their seminal article published in 1963, Miller and Stokes found that the degree of correspondence, or congruence, between constituent policy preferences and the voting decisions of their members of congress (MCs) varied rather signiﬁcantly across issue domains.These ﬁndings sparked an extensive and ongoing debate both within the US and comparative literatures. Congruence studies focusing on other countries, while many (for an extensive review see Thomassen, 1994), tended toward a similar conclusion:
+
+certainly in the parliamentary democracies of Western Europe political parties, rather than individual members of parliament, are the principal actors in matters of general policy. Therefore, despite all possible objections, the political parties model still seems to be the most fruitful point of departure to study the process of political representation in these systems (Thomassen, 1994, p. 259).
+
+This, of course, leaves the study of political representation in the UK, as elsewhere with strong party systems, dominated by the parties’ perspective.
+
+Accordingly, policy representation in the UK, according to both Judge (1999, p. 69) and Norton and Wood (1993, p. 28), has a ‘triadic’ structure in which constituents, the party organization and MPs have demands, responsibilities and ‘power’. Norton and Wood (1993), particularly, discuss the inherent complications of this relationship at some length. Constituents think of their MP as a vehicle to inﬂuence governmental policy (Norton and Wood, 1993, p. 17; see also Norton 1991) and place great demands on their MPs. Further, the general professionalization of the Parliament has led to increased MP sensitivity to reselection and reelection and thus speciﬁc constituency demands.This sensitivity on the part of MPs, in turn, increases constituent expectations – as constituents see MPs doing more for the constituency, they come to expect more. Of course the party organization remains quite strong both within the constituency (though there has been a slight trend toward decreased partisanship within the electorate) as well as within the House of Commons (but see Cowley and Stuart’s 2004 treatment of backbench revolts). Yet despite their demands, constituents fully expect that the party organization will inﬂuence their MP’s voting behavior. Norton and Wood state that,‘constituents do not expect MPs to vote contrary to party policy, and, in cases when constituent’s preferences are ignored by the choices their MPs make, they will blame the party and not the MP ...’ (Norton and Wood,1993,p.146).Judge concurs:citing Norton and Wood (1993) he states,
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+106 CHRISTOPHER JAN CARMAN
+
+‘in Britain, as Norton and Wood (1993, p. 26) note: ‘ﬁdelity to party “instructions” complicates the relationship between MP and constituents.The expectation is that very rarely will an MP afford priority to constituency opinion ahead of party policy in deciding how to vote in parliament’ (Judge 1999, p. 151). In Westminster the party whip usually trumps constituency demands.3
+
+Yet knowing that this is the way the representational system works should not necessarily be assumed to equate to support for this system among constituents. Previous research has done much to shed light on how the representational system works in the UK, but our understanding of the normative preferences for political representation held by the public remain largely unknown.
+
+Conceptually, we can use the research addressing elite perceptions of their roles as representatives to inform our understanding of public perceptions of, and preferences for representation. In the US, Fenno (1978) ﬁnds that in order to gain their constituents’ trust and support, members of congress use a variety of styles to present themselves to their districts (but see Kingdon, 1989). Similarly, Norton and Wood emphasized the casework activities of MPs (see also Cain et al., 1979; Heitshusen et al., 2005; Rush, 2004; Searing, 1994). Citing Marsh (1985), Norton and Wood state that,‘A store of personal credit gained through constituency work will be very useful in any conﬂict with the local party’ (1993, p. 53). Clearly, elected representatives in both the US and the UK have developed a variety of means (for example, attention to casework or different styles of interaction) to connect and build relationships with their constituents that may prove useful when ﬁghting political battles. Hence, while we would expect the direct relationship between the party and MP to be quite strong (indeed, dominant), we also ﬁnd evidence that the direct relationship between the MP and constituents is important as well.
+
+The research on representational linkages in the UK and the US, despite necessary differences in the treatment of political parties, shares a common characteristic. In both countries, the emphasis is on the role perceptions of the elected legislators. While it is inarguable that these studies shed valuable light on our understanding of governance, they are, by deﬁnition, elite focused.
+
+This is not to say that the extant literature completely ignores constituent preferences for policy representation. It is, however, a topic that has received only sporadic attention outside the US (though see below). Even within the US this topic has evoked very little interest in the last 20 years or more – this necessarily forces us to look to somewhat ‘dated’ sources to build hypotheses. Perhaps the most widely cited study to take up constituent perceptions of representation was Patterson et al.’s (1975) study of residents of Iowa that found in terms of style Iowans preferred to have representatives act as trustees, while they also preferred a more parochial focus limited to the state or district. Carman (2003) has recently compared data from national US surveys conducted in 1977 and 1978. He found that political efﬁcacy, race, gender and education are signiﬁcant pre © 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 107
+
+dictors of representational preferences. Most interesting of Carman’s ﬁndings, however, is the fact that minority status is a conditional variable in predicting representational attitudes: while African-Americans represented by white MCs tend to prefer a ‘trustee’ relationship, when their MC is black, they express a preference for a direct, delegate relationship.4 Mendez-Lago and Martinez (2002), on the other hand, assessed public preferences for representation in Spain. In addition to ﬁnding that representational attitudes vary across party afﬁliation,they found that region of residence – particularly Catalan residence – was a signiﬁcant predictor of a preference for a direct tie between MPs and constituents.The few extant studies in this area predict that political minorities will express different attitudes for political representation than will political majorities. Similarly, from the Spanish study, we ﬁnd an indication that when regional interests are focused and distinct from the broader political unit, we may also ﬁnd differences in representational preferences.
+
+One clear limitation of these studies is the adoption of the formulation explored by Eulau and his colleagues (1959) of the ‘trustee’ and ‘delegate’ (as well as ‘politico’) role orientations to deﬁne representational ‘style’.To clarify, in the representation literature, representational style refers to the extent that a legislator acts on public demands alone (often referred to as the delegate, or mandate model) or bases their legislative decisions on their perception of what is best for their constituents (referred to as a trustee or independence model). Even a casual perusal of the representation literature ﬁnds critiques and criticisms of this approach.Thomassen, for example, states that,‘It is my feeling that the scientiﬁc interest in the mandate-independence controversy is inversely proportional to its relevance in modern representative democracy’ (1994, pp. 239–40). In the very least, Thomassen argues that the theory is ‘obsolete’ given the role of parties. Jewell also asserts that, ‘Generally, the more thoroughly representative roles are explored, the more complex the relationships become and the less useful it seems to simply classify legislators in terms of the traditional trustee-politico-delegate categories’ (1985, p. 106; see also Kuklinski and Segura, 1995).The complication for most of these scholars is that the delegate/trustee distinction does not allow for the role of the political party.
+
+So what do we know? First and foremost, the system of Westminster representation in the UK is, at best, a ‘complicated’ triad between MPs, political parties and constituents. In terms of policy, the strongest link tends to tie together political parties and MPs (as members of the parties).Yet, as Norton and Wood point out, constituents think of their MP as a vehicle to advance their (that is, constituent) policy goals. This last point would seem to indicate that constituents have expectations about the sort of representational relationship they should have with their MP. On the other hand, Norton and Wood also state that constituents know that MPs are more likely to vote with their party, even at the risk of upsetting constituents.This leaves us with an empirical puzzle: how do individuals in the UK envision their relationship with their MP? Is there any evidence that
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+108 CHRISTOPHER JAN CARMAN
+
+constituents have systematic, predictable attitudes about political representation? If so, what are the signiﬁcant predictors of representational attitudes? The next section of this paper posits some of the possible covariates of representational preferences.
+
+Predicting Public Preferences for Political Representation in the UK
+
+In short, we hypothesize that individuals have preferences over the representational relationship shared between themselves, their parliamentarians and the political parties.These preferences for representation are one of the fundamental lenses through which individuals view (and judge) the actions and messages of their MPs.To be sure, one would not want to argue that the average person sits down with a cup of tea and purposefully ponders whether or not parliamentarians should follow their party’s decisions, be driven by the desires of their constituents or abide by their own judgments about the best policy.Yet, neither should we assume that individuals’ preferences for representation are purely random – the whimsical responses of a disinterested public. Just as individuals are considered to have basic political attitudes that shape their thoughts and actions on such issues as which party to support, how the government should act on matters of social or economic policy or whether the government should take the country to war, individuals may also have political attitudes about the sort of relationship they expect to share with parliamentarians and parties.
+
+Working from this premise we can deduce several hypotheses about the antecedents of individual preferences for representation. First, political efﬁcacy may share a relationship with representational attitudes. Here the proposed hypothesis is that the greater the degree of political efﬁcacy one has, that is, the stronger the connection one perceives between oneself and one’s party, elected ofﬁcials and governing institutions, the more likely one is to render day-to-day policy decisions to MPs and/or parties. If an individual believes that they have some degree of ‘say’ in politics, they are more likely to be risk acceptant in granting policy leeway to their representatives. Stated another way, the highly efﬁcacious are more likely to feel that they can adjust the policy ‘thermostat’ (to use Wlezien’s [1995] terminology) if they believe that they need to reign in governmental policy or a particularly unresponsive MP. If, on the other hand, one believes that there is a fundamental disconnection between oneself and the political system (either its individual members or its institutions), one may be more likely to want to limit delegated discretion, or maximize what control citizens do have over governing institutions and policy. Under this hypothesis, individuals with low levels of efﬁcacy will prefer to tightly control their parties and MPs – this would necessarily be done through a direct, delegate relationship.
+
+Next, citizen activists are individuals who attempt to increase, or bolster, public engagement within the polity. Citizens, they believe, should adopt a direct, par © 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 109
+
+ticipatory role in the political sphere, seeking to have a hand in shaping public policies. Institutional impediments that are perceived to constrain the public ‘voice’ of citizen activists, such as political parties, tend to be seen in a negative light by these politically active individuals. In short, citizen activists support mechanisms that allow individuals to take their policy preferences directly to their elected MPs without the imposition of ‘ﬁltering’ institutions (that is, parties).Virtually by deﬁnition, then, advocates of public civic activism are likely to prefer that MPs be tied to their constituents in political decision-making – most likely at the expense of the parties.
+
+Party supporters, on the other hand, are individuals who ‘buy in’ to the party model of government.To these individuals, parties serve a vital role in a polity. Parties are a means of pooling preferences and contesting elections (see Downs, 1957).They provide clear and distinct party manifestos enabling citizens to vote in an informed manner. For some, parties can even serve as basic social institutions. Hence, partisans should be (obviously) more supportive of party inﬂuence on the voting decisions of MPs. However, we should not expect that all partisans share the same preferences. Political attitudes are not only shaped by one’s beliefs and values, but also by one’s contextual environment. Therefore, we hypothesize that supporters of the government, or majority, party are likely to be even more supportive of the party model than are supporters of the opposition party (or parties).
+
+The ﬁnal hypotheses of interest test the proposition that there is national variation in preferences for representation in Westminster. Certainly the Scots see themselves as a distinct and separate people with differing values and policy priorities (McCrone, 2001). Since the Act of Union there has existed a nontrivial degree of tension between the Scots and London.This tension,by many accounts, came to a head during the Thatcherite years when the Labour-voting Scots grew increasingly frustrated with the Conservative governments in Westminster (Brown et al., 1999; Lynch, 2001; McCrone, 2001; Webb, 2000). The push for devolution in Scotland, then, is partly the result of a difference in political culture – Scots, for example, hold to the ‘myth of egalitarianism’ that is not present in England (see McCrone, 2001, pp. 78–103). As McCrone states, ‘By the end of the 1990s people in Scotland saw themselves as more socialist, liberal and less British-national than people in England’ (2001, p. 27). But do the Scots think differently about representation than the English? Here we can hypothesize that they do, though the direction of this preference is not immediately clear. It is possible that owing to a more communitarian political culture, Scots are likely to express a preference for a direct and strong link between MPs and constituents. However, given the general animosity that existed for so long toward the Conservative Westminster governments, it is also likely that the Scots will express more intense support for the party model under a Labour government. In a sense, then, we can hypothesize that over the long term, Scots will hold representational attitudes that are conditional, just as representational preferences are
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+110 CHRISTOPHER JAN CARMAN
+
+conditional in the US for groups that see themselves as political minorities.5 The Welsh, on the other hand, are in a different situation. Owing to the longer, and stronger, union between Wales and England,6 we might not expect to ﬁnd the clear distinctions that we would expect between the Scots and English.That said, many of the Welsh do express support for a Welsh accent in Westminster. Further, though the referendum vote was not exactly overwhelming, the Welsh did vote to convene a national assembly. The question with the Welsh is whether their political interests are focused and distinct enough from the English for us to ﬁnd evidence of distinct differences in preferences for parliamentary representation. We can tentatively hypothesize that, owing to the historical union with England, we will not ﬁnd as many differences with the Welsh as we will with the Scots.
+
+Of course, we should expect other covariates with representational preferences. Foremost, an individual’s relative level of education may inﬂuence how they perceive the relationship between themselves and those they elect.The more highly educated one is, the better one may understand the inherent complexities in the parliamentary process and, therefore, endorse a trustee relationship with one’s MP. Less educated individuals, on the other hand, may not feel as secure with the abstract relationship necessary with an independence model. Preferring to control what they may not understand, they may endorse a mandate, or possibly party, model.
+
+Similarly, we can posit that there may be a class-based component to attitudes of political representation. Members of the higher classes, ceteris paribus, are likely to defer to their MP. Research in other national contexts indicates that individuals with higher status, controlling for other inﬂuences, may see themselves as having shared interests with elected legislators particularly because legislators tend to also come from the middle and higher classes.This conﬁdence in shared interest implies that individuals with higher social status may be more willing to ‘defer’ to their representatives, assuming their interests will be looked after.
+
+Finally, we should control for the discipline’s most basic covariates with political attitudes and afﬁliation. Age and sex, as they are often signiﬁcant predictors of political attitudes, are also included in the equations below.
+
+Note that for several of the hypotheses described above a reasonable (and sometimes strong) argument can be made for a counter hypothesis proposing the opposite relationship. The crux of the matter is that this is an area of research that has received little previous consideration and almost no study with contemporary data.We can use extant theory to propose relationships between variables a priori, but we should not be terribly surprised if the relationships are not supported empirically because few scholars have considered public preferences for representation using quantitative, multivariate models.The bottom line of this study is to ask if the results are reasonable given our expectations.
+
+A ﬁnal obvious point before we proceed: this paper does not pretend to exhaust the list of potential hypotheses that could – and in the long run should – be tested
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 111
+
+relating to individual preferences about representational style and focus. A few omitted hypotheses will be discussed in the concluding portion of this paper.
+
+Testing a Basic Model of Representational Attitudes in the UK
+
+While the hypotheses relating to individual preferences for Westminster parliamentary representation are numerous, the extant data are somewhat limited.That said, a 2003 survey7 of the British public did pose a few questions designed to examine the variation in public preferences for political representation. The survey, conducted by YouGov.com for The Independent Commission on Proportional Representation and The Constitutional Unit, was administered across three waves during the spring and summer of 2003.8 One limitation of this survey, however, is that it did not pose exactly the same representation questions across the two waves in which they were included (waves two and three).The second wave of the survey posed the question:‘When there is a conﬂict between what your MP feels is best and what he or she thinks the people in his/her constituency want, do you think he/she should follow his/her own conscience or follow what the people want?’
+
+This wave of the survey allowed ‘depends on the issue’ as a response category. Hence, the response categories broke down as follows:
+
+(1) Follow his/her conscience 11 percent (2) Follow his/her constituency 53 percent (3) Depends on issue 34 percent (4) Don’t know 2 percent
+
+The third wave of the survey posed a somewhat different series of questions. Respondents ﬁrst read a brief introduction then were asked two questions:9
+
+As you may know, MPs must weigh several considerations when deciding how to cast their votes in the parliament.The next questions will ask how you think MPs should decide how to cast their votes in the parliament.
+
+If there is a conﬂict between what an MP believes is the best policy and the policy preferences of their constituents, should an MP base their vote on their own personal judgment or their constituents’ preferences?
+
+Own judgment 18 percent Constituents’ preferences 76 percent Don’t know 7 percent
+
+If an MP perceives a conﬂict between the policies advocated by their party and the policy preferences of their constituents, which should be more inﬂuential on the MP’s vote in the parliament?
+
+Party position 10 percent Constituents’ preferences 83 percent Don’t know 8 percent
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+112 CHRISTOPHER JAN CARMAN
+
+Given the changes to the question wording and structure across the two waves of the survey, we, unfortunately, cannot say much about the stability of representational preferences. That said, it is interesting to note that the correlation between the two questions that pit the MP’s judgment against the constituency’s preferences is 0.59 (p < 0.001).10 While this correlation is not astounding, it is higher than expected given the nature of the changes in allowed question responses (no ‘depends’ category) and the fact that this is survey data to begin with. Excluding the stability of question wording/structure issues, we can note one distinct and consistent aspect to the responses: across the board respondents had a clear inclination toward favoring the policy preferences of the constituency in these paired questions. Note, too, that parties receive the least support (10 percent) compared to the judgment of the MP (18 percent).11
+
+While the dichotomous questions are interesting and illustrative, they have an obvious weakness – they do not ask respondents to simultaneously consider all three inﬂuences.To help overcome this weakness, respondents were also asked in the third wave,‘Of the three possible inﬂuences on the voting decisions of MPs, which should be the most inﬂuential on an MP’s parliamentary voting decisions: the MP’s party, the MP’s personal preferences, or the MP’s constituent preferences?’12 To avoid as much contamination as possible the paired choice questions were placed at the beginning of the survey instrument while the ‘most inﬂuence’ question was placed at the end of the survey instrument. A reasonable concern,however,is that both the dichotomous and trichotomous questions pose a false choice. Respondents may not see a clear, discrete choice between the response options provided (we know, for example, that 34 percent gave the ‘depends’ response in the second wave of the survey). However, if the response set is completely contrived we would expect respondents to answer these questions randomly – that is, if they cannot distinguish between the options provided, they will simply ‘guess’ when responding to the questions. This would increase the error in the dependent variable and would necessarily work against the hypotheses proposed in this paper. If respondents are answering the survey questions randomly, we should not be able to ﬁnd evidence of systematic predictors of the ‘representational attitudes’ questions.
+
+Given that the ‘greatest inﬂuence’ question has three discrete possible choices for respondents, multinomial logistic regression is used to test the hypotheses discussed above.We can think of multinomial logit as simultaneously testing a set of speciﬁed predictor variables on the probability that respondents will select one choice (in a set of possible choices), given the attributes of the other choices in the set (see Greene, 2000 for a more technical description). The use of multinomial logit, then, allows the components of the representational triad (that is, party, MP’s preferences and constituent preferences) to be simultaneously pitted against each other in the analysis that follows. Except for three, all of the predictor variables included in this model are dichotomous variables. The three nondichotomous variables are as follows: efﬁcacy is a scale (range 1–7, mean 3.55)
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 113
+
+that combines a measure of how much ‘say’ the respondent thinks they have in governmental affairs with a measure of how much they believe their vote ‘counts’; citizen activists is a scale (range 1–11, mean 5.57) combining questions that asked respondents if they ever have or would engage in such activities as writing to a newspaper, phoning a talkback radio show, participating in a protest march, boycotting a product, or occupying a building; and ﬁnally respondent’s age (range 18–74, mean 42.57).The dichotomous (0, 1) variables in the model are: nonpartisans (mean 0.4613); Labour party supporter (mean 0.23); Conservative party supporter (mean 0.22); university educated (mean 0.42); social class14 (mean 0.58); and female (mean 0.5).
+
+Interpreting the results of a multinomial logit takes some getting used to and the presentation of results can be quite a challenge.Table 1, therefore, presents a stylized version of the results indicating the outcomes predicted by the statistically signiﬁcant independent variables. Table 2, on the other hand, presents a more technical version of the results with both the raw coefﬁcients and the factor change in the odds for signiﬁcant predictors.15 The majority of the hypotheses do ﬁnd support in this analysis. It seems clear, for example, that the politically efﬁcacious are indeed willing to defer to the party or an MP’s better judgment.
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+Table 1: Statistically Signiﬁcant Predictors (Multinomial Logistic Regression) of
+
+Representational Attitudes on Predictor Variables
+
+Party Judgment Party vs. vs. vs. constituent opinion constituent opinion judgment
+
+Efﬁcacy Party** Judgment* Activists Constituent** Judgment** Nonpartisans Labour Party* Party* Conservative Party* Scotland Party** Party** Wales Judgment** University Judgment** Judgment** Social class Constituent* Age Constituent* Female Constituent*
+
+Notes: Data: 2003 YouGov/Independent Commission on PR survey, British public, N = 1,598.
+
+Cell entries represent the prediction from each independent variable in a multinomial regression. Only statistically signiﬁcant results are displayed.
+
+* = p < 0.05
+
+** = p < 0.01
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+114 CHRISTOPHER JAN CARMAN
+
+Table 2: Multinomial Logistic Regression of Representational Attitudes on
+
+Predictor Variables
+
+Party Judgment Party vs. vs. vs. constituent opinion constituent opinion judgment
+
+Efﬁcacy 0.35** 0.19* 0.16 ∆odds/1 unit +1.42 +1.21 Z 4.02 2.46 1.47 Activists −0.17** 0.01 −0.18** ∆odds/1 unit −0.85 −0.83 Z 3.23 0.32 2.82 Nonpartisans 0.08 0.27 0.35 ∆odds/1 unit Z 0.20 0.90 0.76 Labour 0.95* 0.21 1.17* ∆odds/1 unit +2.60 +3.21 Z 2.40 0.65 2.46 Conservative 0.34 0.51 0.85* ∆odds/1 unit +2.33 Z 0.82 1.53 1.97 Scotland 0.83** −0.21 1.04** ∆odds/1 unit +2.28 +2.83 Z 3.00 0.62 2.56 Wales 0.59 0.83** −0.23 ∆odds/1 unit 1.29 Z 1.56 2.66 0.52 University −0.06 0.69** −0.76** ∆odds/1 unit +2.00 −0.47 Z 0.29 3.76 2.89 Social-class 0.02 −0.37* 0.35 ∆odds/1 unit −0.69 Z 0.08 2.03 1.38 Age −0.01 −0.03* 0.02 ∆odds/1 unit −0.97 Z 1.38 3.24 1.56 Female −0.30 −0.44* 0.14 ∆odds/1 unit −0.64 Z 1.59 2.67 0.60
+
+Notes: N = 1,598, Wald X 2 = 124.27, Psuedo R 2 = 0.07.
+
+Data: 2003 YouGov/Independent Commission on PR survey, British public, N = 1,598.
+
+Dependent variable asks which of the following should have the most inﬂuence on the decisions of MPs: the MP’s party, the MP’s personal preferences or the MP’s constituent preferences.
+
+Cell entries are: multinomial logistic coefﬁcients; factor changes in the odds of events occurring (for statistically signiﬁcant predictors); 2 scores.
+
+* = p < 0.05
+
+** = p < 0.01
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 115
+
+A one unit increase in political efﬁcacy corresponds to a 1.42 increase in the odds of preferring the party over constituent opinion, or a 1.21 increase in the odds of selecting MP judgment over constituency opinions.That is,in both comparisons that involve the constituency, the result for those people who believe that they can inﬂuence the political system seems to be ‘anything but the constituents’ opinion’ as the major inﬂuence on MP’s voting decisions.
+
+The citizen activists seem to have a rather different opinion. For these politically active respondents, the results seem to indicate an ‘anything but parties’ sentiment. That is, controlling for other inﬂuences in the model, activists are 54 percent more likely to prefer an MP to use their judgment about the best policy over the party’s position and 58 percent are more likely to prefer that an MP listen to their constituents over the party when deciding how to vote in Westminster.This ﬁnding also makes intuitive sense. Citizen activists want to inﬂuence public policy and, perhaps more stringently, would like policy to be responsive to public demands. Parties, then, would be institutions that get in the way of the ‘public’ inﬂuencing MPs.
+
+For party supporters, the results are not surprising. Note, however that that the nonpartisan variable does not achieve signiﬁcance. That is, controlling for the other inﬂuences in the model, nonpartisans are not distinctly different from party supporters in their representational preferences.Labour supporters,however,have the clearest preferences for party domination of MPs’voting decisions.They were 62 percent and 69 percent more likely to say that the party should have the most inﬂuence in MP voting decisions over constituency opinion and personal judgment, respectively. Given that Labour was the party in government at the time of the survey (and that Tony Blair’s popularity was fairly solid though certainly not resounding) this result is as should be expected. Partisans’ support of the strong party model does seem to be contingent on their status in the political minority. While Conservative partisans are somewhat supportive of the party inﬂuence on MP voting decisions, this support seems to be more tepid.While the odds that a Conservative party supporter would select party over the MP’s judgment were 1.33 times greater, there was not a signiﬁcant result for the other comparisons. In general, then, British public support for the strong parties model does not seem to be monolithic, rather it seems to be linked to the party that one supports and that party’s role in the government.
+
+National variation is also present. Scots, even after controlling for partisanship, are rather supportive of the party model (56 percent and 65 percent more likely to select party over constituent opinion and personal judgment, respectively). In a sense,the ‘strong’party model seems to get an extra boost from Scottish respondents irrespective of their party afﬁliation. What is not clear is whether these results are indeed contextual and will therefore change if the Labour party loses control of Westminster (or if Labour were to lose Scottish support). Further, from these data we cannot tell if the establishment of the Scottish Parliament has inﬂuenced Scots’preferences for parliamentary representation in Westminster.Though
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+116 CHRISTOPHER JAN CARMAN
+
+the Scottish Parliament was established with the idea of a ‘new politics’that would reduce the dominance of parties in Scotland and increase the constituency links between members of the Scottish Parliament and constituents, we cannot, at this stage and from these data, determine if there has been any inﬂuence on how Scots view their representational links with MPs.
+
+The only signiﬁcant result for the Welsh was a preference for MPs to use their best judgment on how to vote in parliament over constituency opinion.Wales residency (versus the excluded category of English residency) is not a signiﬁcant predictor of party versus either constituency preferences or personal judgment. Of note, however, is that both the Scottish and Welsh variables in this model are simply indicators of residency, not identiﬁcation.While it would be interesting to have Moreno scales for Scottish and Welsh identiﬁcation, these, unfortunately were not included in the survey instrument.
+
+Finally, of interest is the fact that the highly educated do indeed seem to hold an elitist understanding of the representational relationship.To many, this would also not be surprising. Individuals with a university education are signiﬁcantly more likely to state that elected ofﬁcials should use their best judgment when casting a vote in parliament.
+
+Discussion
+
+What do these results tell us about individual-level preferences for parliamentary representation? First and foremost, representational attitudes contain systematic and predictable variation. Put another way, this means that representational attitudes in Britain are not unanimous across all members of society.Different people think differently about how they should be represented. Not everyone subscribes to the party model. Nor does everyone think that constituent policy preferences should dominate the decisions that MPs make. That said, the strength of this model is not overwhelming, telling us that there is signiﬁcant work yet to be done on this topic. Future research should delve deeper into individual-level attitudes about political representation, particularly in terms of measuring these attitudes. We might suspect, for example, that questions should be constructed to ask respondents their normative preferences about other aspects of MPs’ jobs beyond how they ‘vote’ in the parliament. Further questions could also be designed to tap public perceptions of the inﬂuence of constituency versus national interests in MPs’ representational behaviour (that is, representational focus).
+
+We also have yet to address the question of whether or not representational preferences actually matter. Finding that there is predictable variance is not the same as ﬁnding that this variance helps us improve our understanding of public conﬁdence in parliamentarians, or our understanding of political trust more generally.Table 3 displays the results of regressing individual evaluations of MPs on a similar set of variables described above. Here the dependent variable measures
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 117
+
+Table 3: Regression of Respondent Evaluations of Members of Parliament (MPs) on Representational Preferences and Predictor Variables, with Robust
+
+Standard Errors
+
+Column 1 Column 2
+
+Representation preference: b 0.18** constituent opinion (s.e.) (0.07) Representation preference: b −0.05 party position (s.e.) (0.09) Efﬁcacy b −0.16** −0.17** (s.e.) (0.02) (0.02) Activists b 0.02* 0.02 (s.e.) (0.01) (0.01) Labour (strength) b −0.08** −0.07** (s.e.) (0.003) (0.03) Conservative (strength) b 0.01 0.01 (s.e.) (0.03) (0.03) Scotland b −0.05 −0.06 (s.e.) (0.07) (0.07) Wales b −0.10 −0.03 (s.e.) (0.10) (0.10) University b −0.12** −0.12** (s.e.) (0.04) (0.04) Social class b −0.07 −0.07 (s.e.) (0.04) (0.04) Age b 0.00 0.00 (s.e.) (0.00) (0.00) Female b 0.00 0.01 (s.e.) (0.04) (0.04) Constant b 3.48** 3.34** (s.e.) (0.13) (0.15)
+
+Adj. R 2 0.16 0.20 N 1,058 905
+
+Notes: Data: 2003 YouGov/Independent Commission on PR survey, British public.
+
+Dependent variable asks respondents the extent they believe MPs are ‘out of touch’ with the country. High values indicate R believes MPs are ‘out of touch’.
+
+Cell entries are regression slope and standard error of the coefﬁcient is in parentheses.
+
+* = p < 0.05
+
+** = p < 0.01
+
+the extent to which respondents agreed with the statement,‘Most Members of Parliament are out of touch with the rest of the country.’16 To test both whether and how representational attitudes may ‘matter’ for predicting respondent evaluations of MP, the model is ﬁrst run with just the predictor variables as described
+
+118 CHRISTOPHER JAN CARMAN
+
+above (see Table 3, column 1). Next, in column 2, we include dichotomized (0, 1) measures of representational preferences taken from the ‘most important inﬂuence on MP’s voting decisions’ question used in the previous section.The variable constituency opinion indicates that the respondent thought that constituent opinion (coded 1) should have the most inﬂuence on MP voting decisions (as compared to the party position and the MP’s judgment, both coded 0). Likewise, the variable party position indicates the respondent thought that party policy should dominate MP decisions. The excluded, or comparison, category in this analysis is personal judgment.
+
+Looking at the regression results, we ﬁnd that party position does not provide any useful information (that is, there is not a signiﬁcant difference in MP evaluations between people who responded that the ‘party’ should have the most inﬂuence on MP voting decisions versus those who responded ‘judgment’). More interesting, however, are the signiﬁcant results for the constituency opinion variable. Here we ﬁnd that people who responded that constituent opinion should have the most inﬂuence in MP voting decisions were signiﬁcantly more likely to think that MPs are ‘out of touch with the rest of the country.’Also of note is that the inclusion of representational preferences signiﬁcantly (p < 0.01) improved the performance of the overall model. This provides some early and tentative evidence for the existence of a ‘representation gap’ – a gap between an individual’s normative representational preferences and their perceptions of the sort of ‘representation’ they actually receive.
+
+Conclusion
+
+One should take a broad view when assessing the results from this analysis.Recall that the purpose of this paper is to demonstrate that the analysis of public beliefs about, or preferences for, representation is a promising area of study that should receive further attention. In this sense, this paper serves as an initial response to Malcolm Jewell’s observation in 1985 that political science has yet to delve into individual beliefs about, and preferences for, legislative representation.
+
+This study ﬁnds evidence that individuals in the UK do have normatively based preferences for the sort of representational relationship they believe they should have with their MPs.These attitudes about representation vary across the population in predictable ways. Further, this study also found that these representational preferences do help predict individual evaluations of MPs.
+
+Yet as this paper is only an initial foray, much remains to be done. Recognizing Zaller and Feldman’s (1992, p. 420) point ‘that individuals possess multiple and often conﬂicting opinions toward important issues’ (see also Hochschild, 1981), we should not expect that individuals have monolithic beliefs about representation that determine their responses to questions on the topic. Instead, it is much
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 119
+
+more likely that most people have multiple, perhaps even conﬂicting, representational beliefs.Recall,for example,that in the second wave of the YouGov survey 34 percent of respondents said that whether an MP should follow his/her conscience or constituency ‘depends on the issue.’ Hence, we can easily develop scenarios that would predict that individual preferences relating to representation vary by issue domain (for example, an environmental or foreign policy domain) or clusters of issue domains (say, social versus economic). Indeed, it would be surprising to ﬁnd that individuals do not vary by issue (see,for example, Cooper, 1999).This may be one of the most interesting directions to take this research.
+
+We might also ﬁnd further evidence that contextual effects play an important role in how individuals think about representation. If one is in a political ‘out group’ is it possible that one may desire different types of representation? So far the answer seems to be yes. It might also be possible that one’s preferences for parliamentary representation depend on whether one has the same party afﬁliation as one’s MP.
+
+Perhaps more broadly we should expect that beliefs about representation will vary across groups in society. Certainly this point is indicated by the ﬁndings presented in this paper of effects for education or social class. Clearly there may be some national/regional variation in representational preferences as well. Of use would be a dynamic analysis that is able to use panel or longitudinal data to assess how these societal variations may change (or not) representational preferences over time.
+
+There remains quite a bit of work to do in assessing public preferences for representation. The indication thus far is that this is indeed a fruitful endeavor. Further research in this area will increase our understanding not only of what the public expects from its elected ofﬁcials, but also what happens when public perceptions of the representational system deviate from these expectations.
+
+(Accepted: 28 June 2005)
+
+About the Author
+
+Christopher Jan Carman, University of Glasgow, Department of Politics, Adam Smith Building, 40 Bute Gardens, Glasgow G12 8RT; email: c.carman@socsci.gla.ac.uk
+
+Notes
+
+The author would like to thank David Barker, B. Guy Peters, Mark Shephard and Christopher Wlezien for their insightful comments.The author would also like to thank Robert Hazell of the Constitution Unit for being so gracious in sharing their data. A previous version of this paper was presented at the Sixth Workshop of Parliamentary Scholars and Parliamentarians,Wroxton College, 31 July–1 August 2004.
+
+1 This paper focuses on policy, as opposed to allocation or service, representation.While these areas are certainly no less important, there simply is not enough space in a single paper to cover all three areas of representation.
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+120 CHRISTOPHER JAN CARMAN
+
+2 One caveat to make is that this paper is limited to focusing on representation at the Westminster level.While it is certainly the case that devolution has increased the levels at which citizens may seek ‘representation’ in the UK, data limitations force a focus on representation at Westminster.
+
+3 Though, to be sure, we should not think of party ‘pressure’ as a constant. Judge (1999) notes that there are different levels of pressure put to MPs by their party leadership – the three line whip, for example, is a clear statement by party leadership about the expected vote by members of the party.
+
+4 Carman’s underlying argument is that the best that African-Americans, as political minorities, could do in terms of political representation is to have a representative that works in their best interests (by deﬁnition, as members of a minority group, a direct, delegate relationship would indicate that the policy preferences of the majority would be enacted).Yet, when the MC was African-American, blacks tended to make up at least a plurality of the district’s population, hence the probability that ‘their’ policy preferences would be enacted under a delegate relationship increased dramatically.
+
+5 Unfortunately, given data limitations, the conditional nature of this hypothesis cannot be tested at this time.
+
+6 Paul Webb, for example, states,‘Having lost its independence as long ago as 1536,Wales has not retained the degree of institutional and legal distinctiveness from England that Scotland has enjoyed; almost paradoxically, however, a relatively high proportion of its people (approximately 20 percent) remain Welsh speakers and these are central to Welsh cultural identity and nationalism’ (2000, p. 26). Further note that Wales and England have long shared legal and educational systems as well as a high degree of population movement across their border (see Deacon et al., 2000, pp. 89–104).
+
+7 We owe a great debt of gratitude to Robert Hazell and Simon King, both of The Constitution Unit, for allowing the inclusion of several questions designed to tap public preferences for representation on this survey and for being so gracious in sharing the data.The survey data are available in the report ‘Changed Voting, Changed Politics: Lesson’s of Britain’s Experience of PR Since 1997’ available online at http://www.ucl.ac.uk/constitutionunit.
+
+8 The three waves of the survey were conducted on 8–11 April 2003 (N = 3,339); 16–21 May 2003 (N = 2,705); 15–21 July 2003 (N = 2,436).The explicit purpose of the survey was to examine public sentiments toward the current constitutional and voting arrangements in the UK and several proposed constitutional changes.
+
+9 Percentages do not add to 100 percent due to rounding.
+
+10 Note that the ‘depends’ responses were coded as missing when computing this coefﬁcient.
+
+11 It is possible that this ﬁnding may be related to the argument advanced by Norton and Wood (1993, p. 146) that constituents ‘blame the party’ when an MP votes against the (perceived) policy preferences of the constituents.
+
+12 Marginal response rates were as follows: party 9 percent; personal preferences 12 percent; constituent preferences 79 percent.
+
+13 The mean of a (0, 1) dichotomous variable, y, computed as Σ(yi)/N simply indicates the proportion of the respondents coded as ‘1’.
+
+14 Unfortunately, given the data limitations, this variable provides only a rather rough distinction between higher and lower social classes, with ‘higher class’ being deﬁned as social grades A, B, and C1. Lower class, then, is comprised of social grades C2, D and E.
+
+15 Change in the odds coefﬁcients computed using J. Scot Long’s S-Post commands for Stata available at http://www.indiana.edu/~jslsoc/index.htm.
+
+16 Range 1 (strongly disagree) – 4 (strongly agree), mean 2.97.
+
+References
+
+Brown, A, McCrone, D., Paterson, L. and Surridge, P. (1999) The Scottish Electorate. London: Macmillan.
+
+Carman, C. (2003) ‘Public Preferences for Political Representation’. Paper presented at the Annual Meeting of the Midwest Political Science Association, Chicago, IL.
+
+Cain, B. E., Ferejohn, J. A. and Fiorina, M. P. (1979) ‘The House is Not a Home: British MPs in Their Constituencies,’ Legislative Studies Quarterly, 4, 501–23.
+
+Cooper, J. (1999) ‘Performance and Expectations in American Politics:The Problem of Distrust in Congress’, in Joseph Cooper (ed.), Congress and the Decline of Public Trust. Boulder CO:Westview Press, pp. 131–68.
+
+Cowley, P. and Stuart, M. (2004) ‘When Sheep Bark:The Parliamentary Labour Party 2001–03’.Available online at http://www.revolts.co.uk/cat_articles.html
+
+Dalton, R. (1999) ‘Political Support in Advanced Industrial Democracies’, in P. Norris (ed.), Critical Citizens: Global Support for Democratic Government. Oxford: Oxford University Press, pp. 57–77.
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+PUBLIC PREFERENCES FOR PARLIAMENTARY REPRESENTATION 121
+
+Deacon, R, Grifﬁths, D. and Lynch, P. (2000) Devolved Great Britain:The New Governance of England, Scotland and Wales. Shefﬁeld: Shefﬁeld Hallam University.
+
+Downs, A. (1957) An Economic Theory of Democracy. New York: Harper and Row.
+
+Eulau, H., Wahlke, J. C., Buchanan, W. and Ferguson, L. C. (1959) ‘The Role of the Representative: Some Empirical Observations on the Theory of Edmund Burke’, American Political Science Review, 553, 742–56.
+
+Fenno, R. F. (1978) Homestyle: House Members in Their Districts. Boston: Little, Brown.
+
+Greene,W. H. (2000) Econometric Analysis. Fourth edition. Upper Saddle River NJ: Prentice Hall.
+
+Heitshusen, V., Young, G. and Wood, D. M. (2005) ‘Electoral Context and MP Constituency Focus in Australia, Canada, Ireland, New Zealand and the United Kingdom’, American Journal of Political Science, 49, 32–45.
+
+Hill, K. Q. and Hurley, P. A. (1999) ‘Dyadic Representation Reappraised’, American Journal of Political Science, 43, 109–37.
+
+Hochschild, J. L. (1981) What’s Fair:American Beliefs about Distributive Justice. Cambridge MA: Harvard University Press.
+
+Hurley, P.A. (1989) ‘Partisan Representation and the Failure of Realignment in the 1980s’, American Journal of Political Science, 33, 240–61.
+
+Jewell, M. E. (1985) ‘Legislators and Constituents in the Representative Process,’ in G. Loewenberg, S. C. Patterson and M. E. Jewell (eds), The Handbook of Legislative Research. Cambridge MA: Harvard University Press.
+
+Judge, D. (1999) Representation:Theory and Practice in Britain. London: Routledge.
+
+Kingdon, J. (1989) Congressmen’s Voting Decisions. Third edition. Ann Arbor MI: University of Michigan Press.
+
+Kuklinski, J. H. and Segura, G. M. (1995) ‘Engogeneity, Exogeneity,Time and Space in Political Representation: A Review Article’, Legislative Studies Quarterly, 20, 3–21.
+
+Lynch, P. (2001) Scottish Government and Politics:An Introduction. Edinburgh: Edinburgh University Press.
+
+McCrone, D. (2001) Understanding Scotland – The Sociology of a Nation. Second edition. London: Routledge.
+
+Marsh, J. (1985) ‘Representational Changes:The Constituency MP’, in P. Norton (ed.), Parliament in the 1980s. Oxford: Basil Blackwell.
+
+Mendez-Lago, M. and Martinez,A. (2002) ‘Political Representation in Spain:An Empirical Analysis of the Perception of Citizens and MPs’, Journal of Legislative Studies, 8, 63–90.
+
+Miller,W. E. and Stokes, D. E. (1963) ‘Constituency Inﬂuence in Congress’, American Political Science Review, 57, 45–56.
+
+Norton, P. (1991) ‘The Changing Face of Parliament: Lobbying and Its Consequences’ in P. Norton (ed.) New Directions in British Politics? Aldershot: Edward Elgar.
+
+Norton, P. and Wood, D. M. (1993) Back From Westminster. Lexington KY: University of Kentucky Press.
+
+Patterson, S. C., Hedlund, R. D. and Boynton, G. R. (1975) Representatives and the Represented: Bases of Support for the American Legislatures. New York:Wiley.
+
+Pitkin, H. F. (1967) The Concept of Representation. Berkeley CA: University of California Press.
+
+Rush, M. (2004) ‘Pushing Back the Constituency Role: Exploring the Representation of Constituents’ Interests by British MPs’. Paper presented at the Sixth Workshop of Parliamentary Scholars and Parliamentarians, 31 July–1 August,Wroxton College, UK.
+
+Searing, D. (1994) Westminster’s World: Understanding Political Roles. Cambridge MA: Harvard University Press.
+
+Thomassen, J. (1994) ‘Empirical Research into Political Representation: Failing Democracy or Failing Models?’ in M. K. Jennings and T. E. Mann (eds), Elections at Home and Abroad. Ann Arbor MI: University of Michigan Press.
+
+Webb, P. (2000) The Modern British Party System. London: Sage Publications.
+
+Weissberg, R. (1978) ‘Collective vs. Dyadic Representation’, American Political Science Review, 72, 535–47.
+
+Weissberg, R. (1979) ‘Assessing Legislator-Constituency Policy Agreement’, Legislative Studies Quarterly, 4, 605–22.
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association
+
+122 CHRISTOPHER JAN CARMAN
+
+Wlezien, Christopher. (1995) ‘The Public as Thermostat: Dynamics of Preferences for Spending’, American Journal of Political Science, 39, 981–1000.
+
+Zaller, J. and Feldman, S. (1992) ‘A Simple Theory of Survey Response: Answering Questions versus Revealing Preferences’, American Journal of Political Science, 36, 579–616.
+
+© 2006 The Author Journal compilation © 2006 Political Studies Association

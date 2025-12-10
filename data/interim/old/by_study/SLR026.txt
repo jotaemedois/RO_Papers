@@ -1,0 +1,277 @@
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+231 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+Volume 7 Nomor 2 Tahun 2025 e-ISSN : 2798-5539 (Online), p-ISSN : 2798-6101 (Print)
+
+http://jmiap.ppj.unp.ac.id
+
+ANALYSIS OF CITIZEN RELUCTANCE IN LEGISLATIVE SERVICE:
+
+EXPERIENCE FROM THE INDONESIAN PARLIAMENT
+
+Priyo Budi Santoso1(a)
+
+1Department of Public Administration, University of National (UNAS), Jakarta
+
+a)priyobudisantoso3@gmail.com
+
+INFORMASI
+
+ARTIKEL ABSTRAK
+
+Article History: Dikirim: 21-03-2025 Diterbitkan Online: 30-06-2025 Kata Kunci: SIDUMAS, Partisipasi Publik, Tata Kelola Digital
+
+Studi ini membahas penggunaan SIDUMAS, sebuah platform digital yang dikembangkan oleh DPR-RI untuk menampung aspirasi dan pengaduan masyarakat. Tujuannya ialah memperkuat komunikasi dan transparansi antara lembaga legislatif dan warga negara. Meskipun platform ini membawa sejumlah keunggulan, seperti proses yang lebih cepat dan akses yang lebih mudah, kenyataannya masih banyak masyarakat yang belum memanfaatkannya. Hal ini menunjukkan adanya jarak antara semangat pemerintah dalam membangun sistem digital dan kesiapan masyarakat untuk menggunakannya. Hasil penelitian mengungkapkan bahwa rendahnya literasi digital, kurangnya informasi tentang SIDUMAS, serta masih rendahnya kepercayaan terhadap institusi legislatif menjadi faktor utama yang menghambat partisipasi publik. Oleh karena itu, keberhasilan dari layanan ini sangat bergantung pada upaya dalam meningkatkan pemahaman digital, membangun kepercayaan, dan menyosialisasikan platform ini dengan komprehensif. Diakhir, studi ini memberikan kontribusi terkait bagaimana sebuah pengaplikasian teknologi seperti SIDUMAS dapat dimanfaatkan dalam pelayanan publik, di berbagai lembaga pemerintahan dengan lebih terarah dan mempertimbangkan preferensi masyarakat sebagai pengguna. Temuan ini juga menggarisbawahi bahwa inovasi digital tidak cukup hanya tersedia melainkan harus sesuai dengan kondisi sosial masyarakat dan mudah diakses oleh semua kalangan.
+
+Keywords: SIDUMAS, Public Participation, Digital Governance Corresponding Author: priyobudisantoso3@gmail.com
+
+ABSTRACT This study discusses SIDUMAS, a digital platform developed by the Indonesian House of Representatives (DPR-RI), to accommodate public aspirations and complaints. The goal is to strengthen communication and transparency between legislative institutions and citizens. Although this platform brings several advantages, such as faster processes and easier access, many people still have not utilized it. It shows a gap between the government’s enthusiasm in building a digital system and the public’s readiness to use it. The results revealed that low digital literacy, lack of information about SIDUMAS, and low trust in legislative institutions are the main factors that hinder public participation. Therefore, the success of this service is highly dependent on efforts to improve digital understanding, build trust, and socialize this platform comprehensively. Finally, this study contributes to how the application of technology, such as SIDUMAS, can be utilized in public services and various government institutions, more specifically, considering the community’s user preferences. This finding also underlines that digital innovation is not enough just to be available; it must be adapted to the community’s social conditions and be easily accessible to all groups. DOI: https://doi.org/10.24036/jmiap.v7i2.1207
+
+Lisensi: Lisensi Creative Commons Attribution 4.0 Internasional (CC BY)
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+232 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+INTRODUCTION
+
+In the digital era like today, various public services have shifted to technology-based systems to improve efficiency and accessibility (Panagiotopoulos et al., 2019; Sung & Park, 2021). One of the services developed is a public complaint system that aims to disseminate information and convey aspirations and complaints to state elements more quickly and transparently (Luna et al., 2024; Nikiforova, 2021).
+
+In this regard, institutions such as the Indonesian House of Representatives have a Public Aspiration and Complaint Service (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) system, which is expected to effectively bridge communication between the public and the legislature.
+
+It means that institutions such as the Indonesian House of Representatives are part of the state elements that play an active role in bridging citizen’s aspirations to the government so that what is concentrated on policy truly accommodates the aspirations of every element of society at large.
+
+Nevertheless, based on the report examined, the latest data shows that of the 4,183 complaints received, 95% were still submitted via written letters, while only 5% used the website as the service. Here is the result:
+
+Figure 1. Complaints Submission Source: Author Calculation Based on
+
+https://pengaduan.dpr.go.id/laporan This phenomenon shows that the majority of people still prefer conventional methods over digital systems. In theory, technology-based complaints can speed up the delivery process, increase transparency, and facilitate public access. For the moment, the low number of digital channel users raises questions: Are people reluctant to use technology, do they not
+
+get enough socialization, or do other obstacles make them trust traditional methods more?
+
+Moreover, to support the problem, several studies describe that digitalization of compliant services can upturn the efficiency or affordability of public services. Osborne (2022) stated that a technology-based complaint system allows the part of the institution to respond more quickly and transparently (Osborne et al., 2022). On the one hand, this opinion is still linear with Zulmasyhur (2024), who added that digital platforms could reduce convoluted bureaucracy and increase public trust (Zulmasyhur et al., 2024).
+
+Likewise, despite the many benefits of several existing studies, various obstacles still hinder the adoption of this technology. Larasati (2023) prove this, they argue that the digital divide or gap in access to technology is still a major challenge in technology-based services (Larasati et al., 2023).
+
+It was also stated by (Fatimah et al., 2023; Kartiasih et al., 2023), who outlined empirical evidence in Indonesia, highlighting that the main factors inhibiting the use of digital services are low digital literacy and limited internet access in some areas, while (Murdha Anggara et al., 2024) also noted that public service digitalization policies are often not accompanied by sufficient education and socialization so that people are still more comfortable using traditional methods.
+
+Thus, the initial justification regarding using the (DPR-RI, Dewan Perwakilan RakyatRepublik Indonesia), (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) complaint system shows that even though digital infrastructure is available, its use is still not optimal. If the digital system is faster, more transparent, and more efficient, why do complaints via mail still dominate?
+
+Hence, this study was conducted to classify restraining factors in the transition to a digital platform and to provide solutions to encourage increased public participation in the online complaint system. Thereupon, it is important to examine more deeply the public’s preferences for the complaint method used and find ways for the wider community to utilize digital channels more.
+
+Digital public service platforms, such as SIDUMAS (Sistem Pengaduan Masyarakat), developed by the DPR-RI, are crucial in promoting government transparency and public engagement.
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+233 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+However, despite the increasing availability of digital technology, the adoption rate of SIDUMAS (Sistem Pengaduan Masyarakat) remains low. It indicates a significant gap between the provision of digital tools and their actual utilization by the public, an issue that undermines the intended impact of digital governance initiatives.
+
+This study aims to address this problem by investigating the specific factors hindering public adoption of the SIDUMAS (Sistem Pengaduan Masyarakat) system and exploring strategies to improve its use in the context of public complaint services. The main research questions are: What are the special factors that prohibit the use of the digital complaint system in the DPR-RI, and what can be done to increase the adoption of digital systems in public complaint services?
+
+To answer these questions, the study analyzes various elements influencing user engagement with SIDUMAS (Sistem Pengaduan Masyarakat) and identifies systemic, technological, and social obstacles to its widespread implementation. The goal is to bridge the gap between digital availability and public usage by providing concrete, evidencebased policy recommendations.
+
+These recommendations, grounded in perspectives from public policy, information technology, and community participation, are expected to support the DPR-RI in enhancing SIDUMAS (Sistem Pengaduan Masyarakat) into a more inclusive, accessible, and effective tool for responsive and participatory governance.
+
+RESEARCH METHODS
+
+This study uses a descriptive qualitative method with a literature study approach, which is described in a descriptive format based on available data (Creswell & Poth, 2016). The data used is secondary data seized from sources such as document analysis, journals, or media, which are used as the basis for analysis to describe the topics discussed.
+
+Furthermore, the data analysis process in this study refers to Creswell’s view, including five strategies, namely problems, literature reviews, data collection, interpretation, and reports that are adopted and compared with existing data or reality. Thus, the expected results can reveal the phenomena being studied.
+
+First, the research problem was identified: the public’s low adoption of the SIDUMAS
+
+(Sistem Pengaduan Masyarakat) digital complaint platform, despite its availability, reveals a critical gap between technological provision and actual utilization. This issue raises concerns about the effectiveness of digital governance and citizen engagement in Indonesia.
+
+Second, a comprehensive literature review was conducted to gather insights from previous studies and relevant theoretical frameworks, particularly in digital public service adoption, citizen participation, and institutional trust. It helped contextualize the research and identify factors historically influencing digital adoption nationally.
+
+Third, the study used secondary data from academic journals, official government documents, policy reports, and credible media outlets. These sources were selected based on relevance, credibility, and recency, ensuring that the data accurately reflects the current discourse surrounding SIDUMAS (Sistem Pengaduan Masyarakat) and public digital engagement.
+
+Fourth, the data was analyzed using thematic coding and categorization to identify recurring themes such as technological access, user behavior, policy gaps, and institutional support.
+
+These themes were derived through carefully coding keywords and patterns, then organized into broader categories to understand the main barriers to adoption. Weighting of themes was applied by evaluating the frequency and significance of their appearance across sources, allowing the study to prioritize the most impactful issues. In addition, triangulation was used to ensure the validity of the conclusions by cross-referencing data from multiple sources, reinforcing the consistency of interpretations and the reliability of the results.
+
+RESULT AND DISCUSSION
+
+In this section, several topics will be described, namely public policy, information technology, and community participation, which are the basis for analysis to reveal what dominates pertinent to service complaints formulated through the system and what are the major elements that hinder the use of digital complaint systems in the (DPR-RI, Dewan Perwakilan Rakyat-Republik Indonesia), and what can be done to escalation the enactment of digital systems in public complaint services. Here is the interpretation:
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+234 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+Public Policy Perspective
+
+The transition from conventional methods of communication to digital platforms in public services is a critical step in improving efficiency and transparency. One of these digital systems in Indonesia is the Public Aspiration and Complaints Service (SIDUMAS, Sistem Informasi Pengaduan Masyarakat), which was adopted by the House of Representative. This system aims to facilitate communication between the people and the legislature, providing a more efficient, transparent, and accessible interpreter to submit complaints and express their concerns.
+
+However, recent data reveals a stark contrast between the expectations of such digital services and the reality of their adoption. Out of 4,183 complaints received, 95% were still submitted via traditional written letters, while only 5% utilised the website. In my analysis, this phenomenon presents a compelling case to analyse the gap between technological advancements in governance and citizens’ willingness or ability to adopt these technologies.
+
+At the heart of this issue lies the question of why so many people continue to prefer traditional methods when digital systems, to facilitate these in theory, offer significant advantages, including faster processing, better transparency, and greater accessibility. There are several potential reasons for this, all of which are crucial to consider from a public policy perspective.
+
+First, “Digital Literacy and Accessibility” One of the primary reasons why citizens may not embrace digital platforms is the “digital literacy” gap. For many Indonesians, especially those in local areas, digital technologies are still unfamiliar. If citizens are not confident in their ability to navigate online platforms, they will likely continue to use traditional methods such as written letters. A study by Larasati (2023) highlights that access to technology and the Internet remains a major challenge for digital governance in many developing countries, including Indonesia. Without a reliable infrastructure, people cannot fully utilise egovernance services.
+
+Second, “Lack of Socialization and Trust” Another reason for the limited use of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) may be the “insufficient socialisation and awareness” about the digital service. As noted by Fatimah et al. (2023),
+
+many government initiatives in Indonesia are launched without adequate campaigns to educate the public about their availability and benefits. Citizens may not even be aware of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat), or they may not trust it due to a lack of comprehension of how it works. If the public has not been adequately informed, or if previous experiences with government digital platforms were negative, they will continue to use more familiar, traditional channels.
+
+Third, “Perceived Reliability and Trust in Traditional Methods”. Finally, people’s “trust in traditional methods” might be a significant factor. In many communities, written letters may be seen as more reliable or tangible. People might feel that their complaints are more likely to be taken if they are physically handed over in writing.
+
+In addition, traditional methods might provide a sense of directness and personal connection, whereas digital channels may seem impersonal or too complex to navigate. To sum up this section, I conclude that the low adoption rate of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) highlights critical barriers that must be addressed to realise the potential of digital governance in Indonesia fully.
+
+These factors are not isolated but rather interdependent, as seen in the following synthesis. The gap between technological innovation and citizen participation is driven by inhibiting factors: digital illiteracy and infrastructure limitations reduce the willingness to engage with digital platforms, while insufficient socialization and public mistrust further hinder adoption. The perception that traditional methods are more reliable than digital alternatives reinforces these patterns.
+
+From a public policy perspective, it is evident that digital literacy, infrastructure, and effective socialisation are essential for encouraging broader use of digital platforms, without addressing these issues, the gap between technological advancements and citizen participation will continue to widen, limiting the effectiveness of digital governance services. Information Technology
+
+From an information technology perspective, the situation of the Public Complaints Information System (SIDUMAS, Sistem Informasi Pengaduan Masyarakat), the
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+235 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+DPR RI Public Aspiration and Complaints Service, highlights the gap between digital adoption and conventional methods in public services. Its reluctance to embrace digital systems raises important questions about the barriers that prevent the public from fully adopting technology-based services.
+
+In theory, digital platforms offer many benefits, including faster complaint processing, increased transparency in institutional actions, and more accessible interfaces for the public; adoption of digital systems should, in principle, reduce bureaucracy and simplify interactions between citizens and governance services.
+
+Despite these benefits, there are clear challenges in convincing the public to adopt these technologies. Studies have shown that technology-based complaint systems can improve the efficiency of public service delivery, with (Bodó & Janssen, 2022) arguing that such systems enable faster institutional responses and greater transparency. Similarly, (Kaiser, 2024) argues that digital platforms can simplify bureaucratic processes, thereby fostering greater public trust in the organization.
+
+Nonetheless, despite these promising benefits, obstacles such as digital illiteracy, distrust of technology, and lack of awareness of digital platforms hinder widespread adoption (Raihan et al., 2024). It is reflected in the data, which shows that the majority of the population still prefers traditional methods. Finally, the low adoption rate of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) shows the reality that while technology offers clear advantages, its successful implementation requires addressing a number of barriers.
+
+These issues are reflected in the present study’s findings, which reveal a persistent preference for traditional service delivery mechanisms among the population. The low utilization rate of SIDUMAS (Sistem Informasi Pengaduan Masyarakat), a public complaint management platform, highlights the gap between the availability of digital tools and their effective use by citizens. This disconnect points to the broader challenge of aligning technological innovations with institutional capacity and user readiness.
+
+To link this gap, public leaders must adopt a more strategic and inclusive approach, focusing on three key areas: enhancing digital literacy through targeted community education initiatives; increasing public trust by ensuring transparency, accountability, and data security;
+
+and conducting broad-based awareness campaigns to inform citizens of the platform’s benefits.
+
+These ways must be understood as interdependent components of a comprehensive digital governance strategy, where addressing inhibiting factors is essential to reducing adoption barriers and improving service outcomes.
+
+Ultimately, advancing citizen-centered digital services will require not only technical investment but also sustained institutional commitment to equity, inclusion, and participatory public service delivery Community Participation
+
+In analyzing the situation with the (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) system, the key message that emerges is the noticeable gap between the governance digital efforts and the public’s willingness to embrace technology for communication with legislative bodies fully.
+
+Empirical findings highlight that while technology-based complaint systems are theoretically supposed to make processes faster, more transparent, and more accessible, the low use of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) suggests the public has reservations. There is a clear preference for conventional methods, which implies that many individuals might not feel comfortable using or trusting digital platforms.
+
+Despite that, linking this to the theory of community participation, this phenomenon highlights the importance of inclusivity and accessibility in encouraging public involvement (Khatibi et al., 2021; Liang et al., 2022).
+
+The theory of community participation emphasizes that citizens must feel empowered and informed to engage with new systems actively. It’s not enough to provide a digital tool; the public must have the knowledge and skills to use it effectively. Participation must be accessible to all, regardless of digital literacy or technological access (Garcia et al., 2022; Niessen & Reuchamps, 2022).
+
+In the case of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat), the low adoption rate reflects that the system has not been inclusive or accessible enough to engage a broad portion of the population, thus hindering the level of community participation that the system aims to foster.
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+236 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+Nevertheless, that was linked with some critics highlighting that the low adoption rates of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat), particularly not fully actualized, suggest that technology alone cannot overcome the barriers of government activities to provide the services.
+
+So, the main point of this must be that inclusivity and accessibility are essential for achieving meaningful citizen engagement, as simply providing a digital platform is insufficient without ensuring that citizens have the skills, resources, and trust to effectively use it.
+
+In conclusion, while digital platforms like (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) can transform governance-citizen communication, the low level of digital adoption suggests significant barriers to overcome. Aligning the digital transformation with the theory of community participation will be crucial in fostering meaningful engagement and building public trust in digital systems (Soto Setzke et al., 2023). Strategic Recommendations
+
+Given the challenges outlined, several strategic recommendations can help overcome barriers to the adoption of digital platforms such as (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) and increase public participation as follows:
+
+a) Improving Digital Literacy and Access
+
+One of the most critical barriers preventing the adoption of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) is digital illiteracy, particularly in local areas. Without adequate digital literacy, many citizens are unable or unwilling to use digital platforms effectively. To address this, the institutions must properly invest in nationwide digital literacy initiatives for all people as their representatives. b) Comprehensive Awareness and Socialization Campaigns A major obstacle to using (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) is the lack of public awareness. Many citizens are either unaware of the service or do not understand how it works, which leads them to continue using traditional methods like written letters. To swamp this, the institutions should implement a
+
+robust public awareness campaign. This campaign should not only inform citizens about the existence of (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) but also highlight its benefits, such as faster response times, improved transparency, and the convenience of submitting complaints from the comfort of one’s home. c) Building Trust in Digital Platforms
+
+Trust is a fundamental component of the successful adoption of any digital platform. Many citizens perceive digital platforms as unreliable, insecure, or impersonal, which can prevent them from making the switch from traditional methods. To build trust, the institution must ensure that (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) is secure, reliable, and easy to use. d) Making the Platform More Inclusive and
+
+Accessible (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) must ensure inclusivity, allowing all citizens to participate regardless of technological proficiency. The platform should be available in multiple languages and feature an intuitive interface that is easy to navigate for people of all ages. Also, the integration of offline complaint submission methods, such as through mobile phone texts or local government offices, ensures that those without access to the internet or who are not digitally literate can still participate in the system. e) Continuous Feedback and Evaluation
+
+To certify that (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) continues to meet the needs of the public, ongoing monitoring and evaluation are essential. Regular surveys and feedback loops will help identify why some citizens are not adopting the platform and highlight any specific challenges they face in using it. Continuous feedback ensures that (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) evolves in response to citizens’ needs and remains a relevant and effective tool for public participation.
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+237 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+The strategic recommendations focus on addressing the key barriers to adopting (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) and ensuring that it becomes an effective tool for citizen engagement. Improving digital literacy, raising awareness, building trust, making the platform inclusive, and ensuring ongoing support and evaluation are essential to fostering greater participation in digital governance.
+
+Using these strategies, the Indonesian House of Representatives can bridge the gap between technological advancements and public participation, making (SIDUMAS, Sistem Informasi Pengaduan Masyarakat) a more accessible, trusted, and efficient platform for citizens to engage with their government. Only by addressing these challenges head-on can Indonesia fully realize the potential of digital governance and improve the relationship between citizens and the legislature.
+
+CONCLUSION
+
+The launch of SIDUMAS (Sistem Informasi Pengaduan Masyarakat) by the Indonesian House of Representatives was a promising step toward strengthening communication between citizens and their representatives. Intended to improve transparency, responsiveness, and efficiency in handling public concerns, SIDUMAS (Sistem Informasi Pengaduan Masyarakat) reflects the state’s commitment to modernizing public services and encouraging civic participation.
+
+Yet, in practice, the platform’s low adoption rate reveals a deeper issue: the public is not fully prepared or willing to shift to digital engagement methods. Despite the convenience and speed of digital systems, many people still prefer conventional approaches such as submitting handwritten letters. It suggests that digital governance cannot succeed when technology runs itself.
+
+In addition, this study contributes to the growing discourse on digital public services in two key ways. Theoretically, it assists existing research stressing the importance of accessibility and inclusion in digital governance. Simply making a digital tool available is not enough; people must feel capable, informed, and confident enough to use it.
+
+This finding echoes the principles of community participation theory, which emphasizes that meaningful involvement depends on citizens feeling empowered, not excluded. From a practical standpoint, the study identifies three main barriers to adoption: limited digital literacy, lack of awareness about the platform, and low trust in digital systems.
+
+These are not technical problems but social ones, and they require human-centered solutions like investing in digital education, building trust through better communication, and designing services that are easy to use for everyone, not just the tech-savvy.
+
+To conclude, addressing barriers such as digital illiteracy and trust is key to the success of digital governance in Indonesia. Ensuring that platforms such as SIDUMAS (Sistem Informasi Pengaduan Masyarakat) are inclusive and easily accessible will encourage greater citizen participation, improve public services, and build stronger trust in institutions at both the central and regional levels by involving citizens in supporting these initiatives proportionally.
+
+REFERENCES
+
+Bodó, B., & Janssen, H. (2022). Maintaining
+
+trust in a technologized public sector. Policy and Society, 41(3), 414–429. https://doi.org/10.1093/polsoc/puac019
+
+Creswell, J. W., & Poth, C. N. (2016).
+
+Qualitative inquiry and research design: Choosing among five approaches. Sage publications.
+
+Fatimah, Hj. S., Sriningsih, S., Pascayanti, Y.,
+
+& Yusuf, F. (2023). Digital Divide Solutions and Public Service Policy Implementation in Indonesia after the Covid-19 Pandemic. JOURNAL OF ECONOMICS, FINANCE AND MANAGEMENT STUDIES, 06(08). https://doi.org/10.47191/jefms/v6-i8-30
+
+Garcia, M. L., Mizrahi, T., & Korazim-Kőrösy,
+
+Y. (2022). The complexity of community participation: Professional perspectives on the definition and inclusion of community. Community Development, 53(4), 413– 428. https://doi.org/10.1080/15575330.2021.19 59361
+
+Priyo Budi Santoso| Analysis of Citizen Reluctance in Legislative Service: Experience from the Indonesian Parliament
+
+238 | Jurnal Manajemen dan Ilmu Administrasi Publik |Volume 7 | Nomor 2 | Tahun 2025 | (Hal. 231-238)
+
+Kaiser, Z. R. M. A. (2024). Smart governance
+
+for smart cities and nations. Journal of Economy and Technology, 2, 216–234. https://doi.org/10.1016/j.ject.2024.07.003
+
+Kartiasih, F., Djalal Nachrowi, N., Wisana, I. D.
+
+G. K., & Handayani, D. (2023). Inequalities of Indonesia’s regional digital development and its association with socioeconomic characteristics: a spatial and multivariate analysis. Information Technology for Development, 29(2–3), 299–328. https://doi.org/10.1080/02681102.2022.21 10556
+
+Khatibi, F. S., Dedekorkut-Howes, A., Howes,
+
+M., & Torabi, E. (2021). Can public awareness, knowledge and engagement improve climate change adaptation policies? Discover Sustainability, 2(1), 18. https://doi.org/10.1007/s43621-02100024-z
+
+Larasati, Z. W., Yuda, T. K., & Syafa’at, A. R.
+
+(2023). Digital welfare state and problem arising: an exploration and future research agenda. International Journal of Sociology and Social Policy, 43(5/6), 537–549. https://doi.org/10.1108/IJSSP-05-20220122
+
+Liang, D., De Jong, M., Schraven, D., & Wang,
+
+L. (2022). Mapping key features and dimensions of the inclusive city: A systematic bibliometric analysis and literature study. International Journal of Sustainable Development & World Ecology, 29(1), 60–79. https://doi.org/10.1080/13504509.2021.19 11873
+
+Luna, D. E., Picazo-Vela, S., Buyannemekh, B.,
+
+& Luna-Reyes, L. F. (2024). Creating public value through digital service delivery from a citizen’s perspective. Government Information Quarterly, 41(2), 101928. https://doi.org/10.1016/j.giq.2024.101928
+
+Murdha Anggara, S., Hariyanto, A., Suhardi,
+
+Akhmad Arman, A., & Budi Kurniawan, N. (2024). The Development of Digital Service Transformation Framework for the Public Sector. IEEE Access, 12, 146160–
+
+146189. https://doi.org/10.1109/ACCESS.2024.34 06571
+
+Nikiforova, A. (2021). Smarter Open Government Data for Society 5.0: Are Your Open Data Smart Enough? Sensors, 21(15), 5204. https://doi.org/10.3390/s21155204
+
+Osborne, S. P., Powell, M., Cui, T., &
+
+Strokosch, K. (2022). Value Creation in the Public Service Ecosystem: An Integrative Framework. Public Administration Review, 82(4), 634–645. https://doi.org/10.1111/puar.13474
+
+Panagiotopoulos, P., Klievink, B., & Cordella,
+
+A. (2019). Public value creation in digital government. Government Information Quarterly, 36(4), 101421. https://doi.org/10.1016/j.giq.2019.101421
+
+Raihan, M. M. H., Subroto, S., Chowdhury, N.,
+
+Koch, K., Ruttan, E., & Turin, T. C. (2024). Dimensions and barriers for digital (in)equity and digital divide: a systematic integrative review. Digital Transformation and Society. https://doi.org/10.1108/DTS04-2024-0054
+
+Sung, C. S., & Park, J. Y. (2021).
+
+Understanding of blockchain-based identity management system adoption in the public sector. Journal of Enterprise Information Management, 34(5), 1481– 1505. https://doi.org/10.1108/JEIM-122020-0532
+
+Zulmasyhur, Z., Setiawan, H. D., & L. W., N.
+
+P. (2024). Enhancing governance through digital transformation. Jurnal Governansi, 10(1), 127–136. https://doi.org/10.30997/jgs.v10i1.11544

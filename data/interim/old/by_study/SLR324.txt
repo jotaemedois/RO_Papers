@@ -1,0 +1,399 @@
+Vol.:(0123456789)
+
+Comparative European Politics https://doi.org/10.1057/s41295-020-00214-5
+
+ORIGINAL ARTICLE
+
+The long‑term effects of the economic crisis on political trust in Europe: Is there a negativity bias in the relation between economic performance and political support?
+
+Marc Hooghe1 · Martin Okolikj1
+
+© Springer Nature Limited 2020
+
+Abstract Studies have shown that the economic crisis that started in 2008 was followed by a sharp decline in political trust in some liberal democracies. These findings suggest that an economic downturn might contribute to a more structural crisis of democratic legitimacy. From 2011 on, however, unemployment levels in industrialized democracies started to decline again. In this paper, we investigate how public opinion reacted to this gradual economic recovery. Previous studies examining economic evaluations by the public suggest that there is a negativity bias, with public opinion reacting stronger to an economic downturn than to economic growth. We analyse the ESS data from 2002 to 2016 (eight waves) and find that public opinion reacted positively to economic recovery, with levels of political trust gradually rising to precrisis levels in most countries. In the discussion section, we reflect on the implications of our findings for the study of trends in political trust.
+
+Keywords  Political trust · Economic crisis · European Social Survey · Longitudinal research · Negativity bias
+
+Electronic supplementary material  The online version of this article (https​://doi.org/10.1057/s4129​ 5-020-00214​-5) contains supplementary material, which is available to authorized users.
+
+* Martin Okolikj martin.okolikj@kuleuven.be
+
+Marc Hooghe marc.hooghe@kuleuven.be
+
+1 Centre for Citizenship and Democracy, Centre for Political Research, KU Leuven, Parkstraat 45, Box 3602, 3000 Louvain, Belgium
+
+M. Hooghe, M. Okolikj
+
+Introduction
+
+The economic crisis that started in 2008 had a negative effect on levels of political trust in a number of European countries (Hernandez and Kriesi 2016). Especially, the countries of Southern Europe were not only the hardest hit by the economic downturn, but they were also subjected to an austerity regime imposed by the European Union, thus side-lining the national democratic procedures. Elections in these countries led to highly volatile results, even resulting in the breakdown of traditional party systems (LeDuc and Pammett 2013; Roberts 2017). Some authors have claimed that the economic crisis has further aggravated an already existing decline of political legitimacy in Europe, although this statement has also been challenged (Christmann and Torcal 2017; Armingeon and Guthmann 2014; Streeck 2015; Van Ham et al. 2017). Especially, groups of the population that saw their already vulnerable economic position further deteriorated, lost their trust in political institutions (Dotti Sani and Magistro 2016). From a theoretical point of view, however, it is important to note that since a couple of years, economic indicators have improved across Europe. The question, therefore, is whether this economic crisis really is related to a broader concern about democratic legitimacy, or whether these events should be seen as a specific historic event that does not necessarily entail consequences once the crisis has ended. In order to assess the overall impact of the economic crisis correctly, it is important to note that the crisis itself was clearly limited in time. While in 2010, 8.3% of the total labour force was unemployed in the OECD countries, this figure was as low as 5.2% in 2019. Even in countries that were severely impacted by the economic downturn, such as Spain, unemployment levels dropped gradually from 26.1% in 2013 to 15.3% in 2019 (OECD 2019). This gradual economic recovery means that the rather negative perception of the ‘great recession’ as having a destructive, negative and especially enduring impact on political trust is in need of an update. Theoretically, this economic recovery offers an interesting case study. It has been established that citizens tend to react negatively to an economic downturn, as, at least partially, they hold politicians responsible for the state of affairs in the country (Quaranta and Martini 2016; Hooghe and Oser 2018). This attribution is prone to be affected by a negativity bias, as it has been shown that voters are much likely to punish incumbents for a bad economic performance, than they are to reward them for a good performance (Dassonneville and Lewis-Beck 2014; Kappe 2018). In the field of political psychology, this negativity bias is known to be a broader phenomenon, whereby public opinion reacts much stronger to negative news than to positive developments (Lau 1985). A fundamental principle of prospect theory is indeed that actors will have a stronger tendency to react to a loss of what they had acquired, than to acquire new advantages (Tversky and Kahneman 1991). It has been argued that because of this negativity bias, public opinion will continue to react in a negative manner to a period of economic problems, even if the situation itself has already improved again (Bovens and Wille 2008). The hypothesis resulting from this line of research is that public opinion will continue to react to the 2008 economic downturn, despite the fact that
+
+The long‑term effects of the economic crisis on political trust…
+
+economic indicators have substantially improved by then. In this rather gloomy scenario, the economic discontent might even serve as the symbolic straw that breaks the camel’s back of democratic political legitimacy (Mair 2013; Streeck 2015; Crouch 2016). Investigating the way public opinion reacts to economic fluctuations is therefore very relevant for the broader study of democratic legitimacy: can democracies regain previous levels of political trust after a particularly troubling, and in some cases even traumatizing, experience? Our goal, however, is not to address this broader claim of a more structural legitimacy crisis, as this would require a totally different approach, but only to assess the specific effect of changing economic circumstances. The article is structured as follows: first, we review the literature on economic performance and political trust, before we provide information on data and methods. Subsequently, we present our empirical findings and we conclude with a reflection on the implications of these results.
+
+Literature
+
+Various studies have been conducted on the political consequences of what has been labelled the ‘great depression’, i.e. the economic downturn hitting most industrialized countries since 2008. Economic deprivation has been related to protest behaviour, extreme and populist voting, and lower levels of satisfaction with democracy and political trust (Kriesi and Pappas 2015). These negative effects are all the more salient as even before 2008, authors expressed concern about an alleged decline of political legitimacy (Newton 2006). According to this literature, contemporary democratic institutions are no longer able to fulfil their fundamental promise of protection and self-governance to their citizens, resulting in structural loss of legitimacy (Crouch 2016; Mair 2013). The prevailing outlook in this literature is that the economic crisis strengthened a loss of democratic legitimacy which was already occurring at that moment. This is especially the case in the countries that were the hardest hit by the economic crisis, and where the party system did not manage to formulate an answer to the concerns of the population (Roberts 2017). Increasingly, citizens have lost faith in the capacity of national political institutions to protect them from economic hardship and other threats to their established way of life (Streeck 2015). In addition, trends in political and economic globalization may have further strengthened feelings of political powerlessness and a perceived lack of government responsiveness at least among some groups of the population. The literature on this topic rests on a number of assumptions that are not always made explicit. The first assumption is that the state of the economy clearly matters for assessing the functioning of the political system. This implies that, in some way or another, elected politicians are being held responsible, either for the downturn itself, or for its social consequences (Lewis-Beck and Stegmaier 2000; Okolikj and Quinlan 2016). This relation is present, not just for an assessment of the functioning of democracy, but also for a broader and more comprehensive measurement of political trust (Van Erkel and Van der Meer 2016). This assumption has been investigated in a wide-ranging body of the literature on economic voting, offering
+
+M. Hooghe, M. Okolikj
+
+conclusive evidence that citizens indeed hold incumbents responsible for the state of the economy in their country (Lewis-Beck and Stegmaier 2000). It is to be expected, therefore, that economic fluctuations will also have a spillover effect on democratic trust (Hetherington 1998). The second assumption is that there is a positive relation between economic growth and political support. Historically, there are some specific examples where economic deprivation led the population to rally behind a national political leader. This effect was most outspoken when the economic downturn could be attributed to outside forces against which the political leader was portrayed as the protector. In the literature on the contemporary functioning of democracy, however, we no longer find any examples of this phenomenon (Finkel, Muller and Seligson 1989; Torcal 2014). The straightforward assumption, therefore, is that growth is associated with higher levels of political trust, while an economic downturn will be associated with lower levels of political trust (Van Erkel and Van der Meer 2016). A third assumption, however, is that the relation between economic performance and political support is asymmetrical. In principle, politicians could be punished for an economic downturn, but they could just as well be rewarded for a period of economic growth. Previous analyses, however, have demonstrated that the negative consequences of an economic downturn are stronger than the positive effects of economic growth (Newton 2006; Soroka 2014; Nannestad and Paldam 1994), although it also has to be noted that some research in fact shows the opposite phenomenon. For economic voting too, it has been shown that negative sanctions are more prevalent and forceful than rewarding incumbents for a good economic performance (Dassonneville and Lewis-Beck 2014). In this line of research too, a negativity bias has been documented where citizens react more strongly to negative information than they respond to positive developments. The psychological mechanism underlying this asymmetry is that actors tend to react more strongly to the risk of a loss of what has been acquired, than to the possibility of gaining new benefits, and this has been described as the prospect theory (Tversky and Kahneman 1991; Kappe 2018). Given these assumptions, we observe that while there are numerous studies on the effects of economic downturn and deprivation (Wroe 2016), there are currently less studies available on the political effects of economic growth or economic recovery. With regard to economic voting, the available research shows that voters react stronger to negative economic developments, than they do for positive economic developments. A similar asymmetric function can be expected with regard to the levels of trust. Citizens’ trust in institutions can be expected to be shaken more strongly in times of economic downturn, than it can be regenerated in economic prosperous times. For other policy areas, too, it has been demonstrated that negative experiences can lead to a sudden drop in the level of political trust, but the reverse pattern is much less obvious (Bovens and Wille 2008; Hooghe and Deneckere 2003). This implies that we can expect a strong enduring effect of the economic crisis, even when in real life there is ample evidence of economic recovery (Soroka 2014). The economic recovery which followed the most acute phase of the economic crisis provides us with a unique opportunity to assess to what extent the effects of economic evaluations are asymmetrical, in other words: does public opinion react more sharply to an economic downturn than to an economic recovery? Theoretically, this
+
+The long‑term effects of the economic crisis on political trust…
+
+allows us to assess a broader question. If the economic crisis reinforced an alleged decline of political support, economic conditions could indeed contribute to a general erosion of democratic linkage and support. However, if there is no evidence of asymmetry, this would complicate the ongoing debate about the legitimacy of democracy. What happened during the period 2008–2012 should then be interpreted as a temporary setback, which does not necessarily inform us about the likelihood of structural trends. It is important, therefore, to distinguish between the immediate and the medium-term effects of an economic downturn with regard to levels of political trust (Van Ham et al. 2017). In this article, we use political trust, i.e. trust in basic political institutions as a form of diffuse political support (Easton 1975). It can be assumed that political trust is more stable than a measurement of the satisfaction with democracy, which is more prone to be influenced by the attitude towards current office holders and their decisions (Warren 2018). More specifically, our dependent variable is the sum of trust in parliament, politicians and political parties, as these are three key actors or institutions within the democratic decision-making process (Bauer and Freitag 2018). Another advantage of using political trust as a dependent variable is that it allows us to make a contribution to the current state of knowledge on the broader political consequences of economic downturn. It has already been demonstrated that incumbent politicians have a hard time securing re-election in times of economic crisis (Dassonneville and Lewis-Beck 2014; Costa Lobo and Pannico 2020). If, however, discontent would remain limited to current office holders, democratic procedures and elections could replace them easily, so that new governments can be formed, which again could get credit for governing the country and administering the economy. Trust in basic political institutions, however, is a much more fundamental and stable indicator which expresses a strong attachment to the foundations of the political system (Marien and Hooghe 2011; Uslaner 2018). If even this rather fundamental democratic attitude deteriorated in a structural and enduring manner, we would be able to support the conclusion that the economic crisis endangers the fundamental legitimacy of liberal democracy itself, thus casting doubts on the future stability of that model of governance (Mair 2013; Streeck 2015). The literature on the political consequences of economic downturn therefore leads to the following hypotheses that will guide us during the empirical analysis of this paper:
+
+H1  There is a positive association between economic growth and trust in political institutions.
+
+H2  The relation between economic growth and political trust is asymmetrical, as a downturn is punished more severely than economic growth is being rewarded.
+
+Data and research strategy
+
+Our analysis is based on two main datasets: for the individual level, we use data from the European Social Survey (ESS), and for our aggregate country level analysis, we rely on the World Bank indicators about the economic performance of European
+
+M. Hooghe, M. Okolikj
+
+countries. The time frame of our data ranges from 2002, the first year when the ESS was implemented, until 2016.1 The fact that we have access to eight different time points is important, as this allows us to investigate trust levels before the economic crisis, during its most acute phase and also during the subsequent period of gradual economic recovery. The dataset includes 31 European countries with 351,798 respondents in total.2 ESS data are ideal for our analysis as they include the same survey questions over time and across different countries, providing us with high quality data to test our hypotheses in a cross-time and cross-cultural manner (Table 1). Our dependent variable is political trust that is based on three different items, capturing trust in parliament, politicians and political parties. We select these three institutions as they are measured in the same manner across the ESS waves, and because they reflect fundamental institutions of the political system (Armingeon and Guthmann 2014). They can be seen as crucial and enduring institutions that obviously transcend a more momentary satisfaction with democracy measurement. As such, the standard measurement of political trust that we use in this analysis is most closely related to the concept of diffuse political support that stands in contrast to
+
+Table 1   Descriptive statistics
+
+Data: Individual level data, ESS, 2002–2016; Marco-level Data, 2002–2016: World Bank
+
+Variables N Mean SD Median
+
+Parliament 363,915 4.368 2.603 5.000
+
+Politicians 366,533 3.492 2.404 3.000
+
+Political Parties 323,179 3.445 2.380 3.000
+
+Political Institutions 317,599 3.728 2.267 3.667
+
+Trust Fac. Scores Bartlett 317,599 0.000 1.030 − 0.004
+
+Trust Fac. Scores Regression 317,599 0.000 0.971 − 0.004
+
+Satisf. Economy 365,567 4.435 2.514 5.000
+
+Growth 195 1.971 2.644 1.677
+
+Unemployment 195 8.058 3.818 7.490
+
+Party Identity 365,000 0.491 0.500 0.000
+
+Ideology 321,042 5.135 2.223 5.000
+
+Gender 374,397 0.538 0.499 1.000
+
+Age 373,046 47.948 18.597 48.000
+
+Education 372,874 3.046 2.220 3.000
+
+Design weight 374,729 1.000 0.425 1.000
+
+1  ESS is conducted biennially, so our dataset consists of observations in 2002, 2004, 2006, 2008, 2010, 2012, 2014 and 2016. 2  The countries included in our analysis are: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Russian Federation, Slovak Republic, Slovenia, Spain, Switzerland, Turkey and the UK. Table of countries and years that are included in the analysis is provided in Appendix 5.
+
+The long‑term effects of the economic crisis on political trust…
+
+the notion of specific political support that is more directly linked to current office holders (Easton 1975). It has to be noted, however, that the theoretical relevance of this measurement remains limited to the assessment of these democratic institutions, and we certainly do not wish to portray this as a proxy variable for the broader concept of democratic legitimacy (Kriesi 2013). All three variables are measured on a continuous scale from 0 to 10, where 0 means the respondent does not trust the institution at all, and 10 means that s/he completely trusts it. Since the three trust items load well together (Cronbach’s alpha: 0.91), we create a composite score of trust, where our trust variable is the mean value of each respondent position of the three trust questions. Given the strong correlation between the three items, we also use
+
+Table 2   Multilevel regression models for relation between economic perception and political trust
+
+*p < 0.05; **p < 0.01.; ***p < 0.001. Standard errors in parenthesis
+
+Design weights applied. Random country intercepts and year fixed effects applied
+
+Dependent variable: trust in
+
+Parliament Politicians Polit. Parties Political Institutions
+
+(1) (2) (3) (4)
+
+Satisf. Economy 0.418*** 0.386*** 0.363*** 0.395***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Party Identity 0.468*** 0.450*** 0.596*** 0.505***
+
+(0.008) (0.008) (0.008) (0.007)
+
+Ideology 0.030*** 0.028*** 0.023*** 0.028***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Gender − 0.015* 0.137*** 0.116*** 0.088***
+
+(0.008) (0.007) (0.008) (0.007)
+
+Age − 0.003*** − 0.0003 − 0.004*** − 0.002***
+
+(0.0002) (0.0002) (0.0002) (0.0002)
+
+Education 0.083*** 0.038*** 0.011*** 0.040***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Constant 2.499*** 1.588*** 1.583*** 1.622***
+
+(0.119) (0.095) (0.100) (0.098)
+
+Random Effects
+
+Country (Constant) 0.44 (0.663) 0.278 (0.528) 0.306 (0.553) 0.2995 (0.547)
+
+Residual 4.556 (2.134) 3.966 (1.992) 3.886 (1.971) 3.21 (1.792)
+
+Observations 304,280/32 305,581/32 269,653/32 266,700/32
+
+Log Likelihood − 674,967.2 − 656,648.9 − 576,710.5 − 544,868.2
+
+AIC. 1,349,966 1,313,330 1,153,451 1,089,766
+
+BIC. 1,350,136 1,313,500 1,153,609 1,089,924
+
+M. Hooghe, M. Okolikj
+
+the factor scores on these three items as our dependent variable calculated by Bartlett’s approach and Regression factor scores predictions.3 We note that the results provided in Tables 2 and 3 using composite scores do not deviate substantially from those reported in Appendix 9, where we employ factor scores.4
+
+Our independent variables are divided into two groups: individual-level economic perceptions and aggregate-level economy indicators. For the individual level
+
+Table 3   Multilevel regression models for relation between economy and political trust
+
+*p < 0.05; **p < 0.01.; ***p < 0.001. Standard errors in parenthesis
+
+Design weights applied. Random country intercepts and year fixed effects applied
+
+Dependent variable: trust in
+
+Parliament Politicians Parties Political Institutions
+
+(1) (2) (3) (4)
+
+Growth 0.061*** 0.047*** 0.041*** 0.049***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Unemployment − 0.074*** − 0.060*** − 0.075*** − 0.083***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Party Identity 0.552*** 0.531*** 0.670*** 0.585***
+
+(0.009) (0.008) (0.008) (0.008)
+
+Ideology 0.079*** 0.073*** 0.067*** 0.076***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Gender − 0.097*** 0.061*** 0.043*** 0.010
+
+(0.008) (0.008) (0.008) (0.008)
+
+Age − 0.004*** − 0.002*** − 0.005*** − 0.004***
+
+(0.0002) (0.0002) (0.0002) (0.0002)
+
+Education 0.099*** 0.051*** 0.027*** 0.058***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Constant 4.478*** 3.376*** 3.465*** 3.663***
+
+(0.175) (0.150) (0.148) (0.155)
+
+Random effects
+
+Country (constant) 0.962 (0.981) 0.701 (0.837) 0.681 (0.825) 0.745 (0.863)
+
+Residual 5.331 (2.309) 4.636 (2.153) 4.459 (2.112) 3.886 (1.971)
+
+Observations 307,640/32 309,090/32 272,538/32 269,311/32
+
+Log Likelihood − 706,723.5 − 688,427.8 − 601,745.3 − 576,056.1
+
+AIC. 1,413,481 1,376,890 1,203,523 1,152,144
+
+BIC. 1,413,662 1,377,070 1,203,691 1,152,312
+
+3  See Appendix 1 for a full description of the questions. See Appendix 9 for full tables using Bartlett scores and Regressions scores as our dependent variable of the three trust items. 4  Since all three variables are on the same scale, we prefer composite score for calculating the latent concept of trust, compared to other more refined measures based on factor scores.
+
+The long‑term effects of the economic crisis on political trust…
+
+economic perceptions, we use the following question from the ESS questionnaire, where respondents are asked: ‘on the whole how satisfied are you with the present state of the economy in [country]’. This variable is measured on a continuous scale from 0 to 10, where 0 means extremely dissatisfied and 10 is extremely satisfied. On the aggregate level, we use two variables, unemployment level and economic growth, with both variables measured in the year when the ESS fieldwork was conducted. The unemployment level refers to the share of labour force that is without paid work but available for and seeking employment (see World Bank Indicators), while growth is the annual percentage growth rate of GDP (see also World Bank Indicators).5
+
+In addition to the main variables of interest, we use two sets of control variables, political and demographic. For the political variables, we use a dummy variable for party identification, where respondents are asked if they are close to political party or not.6 Although party identification might seem an unorthodox covariate in the trust literature, this is an important covariate once economic perceptions are taken into account. This is due to a possible endogeneity between economic perceptions and political affiliation, where those who are closer to a governing party might interpret economic performance differently than those who are closer to the opposition or non-voters (Lewis-Beck and Stegmaier 2000). Our second political variable is ideology, which is a continuous variable, with 0 indicating that the respondent has left-wing ideological standings and 10 meaning she or he leans towards right-wing ideological values. Previous research suggests that party supporters, and those that hold more right-wing views, in general, have higher levels of political trust. We also add several demographic control variables to control for omitted variable bias, such as gender, age and education level.7 Finally, the ESS design weight was included in all analyses to correct for unequal probabilities for selection due to the sampling design (see ESS codebook). The hierarchical nature of the ESS data requires a multilevel approach. When observations within a sample are clustered, the data violate the assumption of independence of observations. Failure to take this into account could result in the incorrect estimation of standard errors, which can increase the probability of Type-I errors (Gelman and Hill 2007). Multilevel modelling allows us to take in consideration the nested structure of our data where we identify: the micro-level with around 330,000 respondents nested in 31 countries and 8 survey waves (macro-level). With our modelling technique, we allow our multilevel models to vary across country
+
+5  Aggregates are based on constant 2010 US Dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidized not included in the value of the products (World Bank Indicators). 6  Where 1 indicates that the respondent is close to a political party and 0 is not close to a political party. We also controlled whether this is closeness to an incumbent political party, of more specifically the party of the incumbent Prime Minister. These results are reported in Appendix  12, and they do not change any of the results of the main models. 7  We also use several other control variables such as experience with unemployment, job status, income (Appendix 11), as well as political interest, socialization, political party and trade union membership— see Appendix 12. Overall, these additional controls do not change our results.
+
+M. Hooghe, M. Okolikj
+
+using random intercepts. Second, survey wave dummy variables control for similarities due to time effects cross-nationally. Such model allows us to study fluctuations within a country overtime. Furthermore, the fixed effect dummy variable for each survey wave allows us to investigate the overall trust levels before, during and after the crisis.8
+
+Results
+
+Descriptive analysis
+
+Before proceeding with the analyses, we start by looking at descriptive trends over time. First, we focus on the economy. Second, we look at the reported economic perceptions and the reported levels of trust in our sample. In Fig. 1, we trace three indicators across the period 2002–2016. In the left plot, where economic growth is portrayed, it can be observed that since 2014 average economic growth rates are back to a positive value of about two per cent per year. In the middle plot, it can be observed that while unemployment levels in European countries rose sharply between 2008 and 2010, they have gradually and consistently declined from that year on. The period we are covering in our analysis therefore includes both a sharp economic shock, and a gradual recovery period, and is therefore ideal to test our hypotheses. In the right plot, we show individual level data, showing that throughout the period 2008–2012, respondents had a rather bleak outlook on the state of the economy in their country. In the 2014 and 2016 waves, however, this perception is much more positive, and in the latest ESS wave, respondents
+
+Fig. 1   Trend of economy and its perceptions between 2002 and 2016. Scores show average levels of growth, unemployment and economic perceptions. Source: World Bank Indicators for Growth and Unemployment, European Social Survey for Economic Perceptions
+
+8  Where our baseline year is 2002 or 2004 based on data availability. The question regarding trust in political parties was not asked in the ESS wave conducted in 2002. We also conducted a robustness test, using country and time-fixed effects models for Tables 2 and 3, and these are reported in Appendix 14. Using these models does not lead to different results.
+
+The long‑term effects of the economic crisis on political trust…
+
+are as optimistic as before the 2008 economic crisis. As can be observed, there is a strong convergence between the three plots and this suggests that citizens, on average, have a rather realistic view of the state of the economy in their country that, at least at the aggregate level, closely mirrors official statistics. In Fig. 2, we turn to the dependent variable in our analysis, by focusing on trends in the level of political trust. Here, we notice a similar pattern to the one presented in Fig. 1. It appears that political trust drops between 2008 and 2012. Since the crisis, however, the trend shows an upward tendency and in 2014 and 2016, the level of political trust is almost as high as in 2002 and 2004, years before the crisis. Contrary to our initial expectations, therefore, the most recent data show that political trust is back at the same level as it was before the economic crisis.
+
+Analysis
+
+In our models, we distinguish between two different approaches. First, we look at the individual-level association between economic perceptions of the respondent and the level of political trust. Subsequently, we employ aggregate-level analysis using country-level economic variables. Individual-level economic perceptions are shown in models 1–4, in Table 2, and countries’ aggregate economy performance indicators are included in models 1 through 4 of Table 3. The findings in Table 2 confirm our expectations. We find consistent evidence that perceptions about the economy have a positive impact on trust (see model 1). All effects are statistically significant at the .001 level and lead to rather large coefficients (of around .4). The effects are consistent when we measure trust in parliament, politicians and political parties individually, in addition to when a composite measure is used. This means that respondent’s satisfaction with the economy is positively associated with the level of trust in political institutions; thus, supporting our
+
+Fig. 2   Trends in levels of political trust between 2002 and 2016. Scores show average levels of trust in parliament, in politicians and in political parties, 0–10 scale. Source: European Social Survey, wave 1–8
+
+M. Hooghe, M. Okolikj
+
+first hypothesis that the economy, or at least the perceptions about the economy, is an important factor for explaining trust in institutions.9 We find evidence that perceptions with the economy have similar effect on different types of trust in institutions; however, trust in parliament, compared to trust in politicians and political parties, is slightly more affected by how people see economy in their country. Yet, the basic idea in the economic voting literature that there is an association between the state of the economy and citizens’ attitudes towards the political system, is thus supported. People’s perception about the state of the economy has positive impact on their trust in institutions, when economy is doing well, and the trust declines as the perception about the economy deteriorates. However, individual perceptions do not necessarily reflect the real state of the national economy accurately, and therefore, in our second part of the analysis, we turn to aggregate economy performance indicators (Table  3) and political trust. The effect of both unemployment levels and growth rates is in the expected direction, with unemployment being negatively and growth being positively associated with political trust. This means that an increasing unemployment will negatively reflect on the level of political trust. Or the opposite, reducing the unemployment rate by 1% will on average increase trust in institutions by 0.8 units on the 11 point scale. Similar effects are found with trust in parliament (0.7), trust in politicians (around 0.6) and trust in political parties (around 0.75) for each per cent reduction in unemployment. On the other hand, a growing economy is positively associated with levels of trust in institutions. Increasing growth means higher levels of trust among citizens, with effects fairly large (on average about 0.5 units for each per cent growth). This means that increasing growth rate by its mean value (of about 2%) would increase the levels of trust by one unit on average. In times of economic prosperity, people trust their political institutions, especially when parliament is considered. However, in economic crisis, the trust in political institutions declines accordingly. Our findings for both aggregate economy variables are statistically significant at the .001 level, and this leads to the conclusion that economic cycles play an important role in predicting levels of political trust.10 This is in line with previous studies, showing that the economic crisis clearly had an impact on levels of political trust.11
+
+9  As a robustness test, we also run exactly the same models used fixed effects on the country level (Appendix 14). We are glad to report these fixed effects models lead to the same conclusions as the models reported in Tables 2 and 3. 10  As a robustness test, we dropped Russia and Turkey as countries with autocratic rather than democratic characteristics (Appendix 10), yet the results do not differ substantially from those reported in Tables 2 and 3. 11  We also use additional control variables, such as respondents’ unemployment for at least 3 months, feelings towards income of the household and job situation. We report that the results remain robust as those reported in Tables 2 and 3. Second, we control for political interest, socialization and membership of political parties and trade unions, and all results did not lead to different outcomes, either. All these tables can be found in Appendices 11 and 12.
+
+The long‑term effects of the economic crisis on political trust…
+
+Time variance
+
+To investigate our second hypothesis about the occurrence of a negativity bias, we first look at the time component and its effect on trust in institutions before and after the economic crisis. For this purpose, we focus only on aggregate-level economic indicators. We start by running multilevel models with random intercepts by country, where our independent variable is year and our dependent variable is political trust. This simple bivariate association allows us to ascertain the occurrence of trends in levels of trust compared to our initial reference year.12 This very simple approach allows us to visualize the main trends. The coefficients compared to the reference year are plotted in Fig. 3 for visual purposes.13
+
+We observe in Fig. 3 that, compared to the reference year (2002 and 2004), the political trust level drops, reaching its lowest point in 2010 and 2012, after which we see an upward direction where trust levels increase to their starting reference years points in 2002. The U-shape of the plot suggests that there was indeed a drop in trust
+
+Fig. 3   Trends in political trust, 2002–2016. The effects of the coefficients size compared to the reference year are plotted by year. The reference year for Trust in Parliament and Trust in Politicians is 2002, while for Trust in Political Parties and Political Institutions Composite Score is 2004. Source: European Social Survey, cumulative file
+
+12  2004 was the first year when the question about trust in political parties was asked in ESS. 13  Full table provided in Appendix 3.
+
+M. Hooghe, M. Okolikj
+
+in institutions over the crisis period between 2008 and 2012. The U-shape corresponds to the economic indicators that are plotted in Fig. 1. Following these descriptions of the observed trends, it is important to show controlled effects, i.e. effects that remain robust after inclusion of a whole set of control variables. Therefore, we plot the regression coefficients, obtained in Table 3, in Fig. 4. This approach allows us to investigate the trust patterns across the years, while keeping the effect of the economy and the crisis constant as these are included as independent variables in the analysis. The coefficients express the effect of the survey year, after controlling for all the economic and other indicators. The coefficients for the year variable thus can be seen as a net trend, keeping economic conditions at a constant level. Figure 4 leads us to notice a slightly different pattern from the one reported in Fig. 3. We see an extended positive trend in trust in institutions among the respondents, and we can observe an especially positive trajectory in 2016, the last year for which we have data available. Such a pattern leads us to believe that trust in institutions can be restored to a previous level.14 Our findings
+
+Fig. 4   Trends in Trust in Political Institutions when keeping Economy Constant, 2002–2016. The effects of the coefficients size compared to the reference year are plotted by year. The reference year for Trust in Parliament and Trust in Politicians is 2002, while for Trust in Political Parties and Political Institutions Composite Score is 2004. Source: European Social Survey, cumulative file
+
+14  It has to be noted that that some countries did not participate in the 2014 and/or 2016 waves of the ESS. The selective attrition of countries could be one of the elements explaining this recent upward trend. To control for this effect, we conducted the same analysis on a more restricted sample of countries that participated in at least, or indeed, all eight waves of ESS. This analysis is shown in Appendices 6 and 7.
+
+The long‑term effects of the economic crisis on political trust…
+
+therefore suggest that the effects of the economic crisis do not have a permanent negative effect on trust in institutions and can be considered as a rather temporary setback—depending on future economic developments.15
+
+We still need to be cautious, however, as—especially in some of the worst hit countries—conducting the ESS survey has become almost impossible because of economic and budgetary constraints. The fact that these countries are no longer present in the most recent waves of ESS might lead to the false impression that average trust levels are increasing, simply because some of the worst performers are no longer included in the time series. To investigate this possibility, we conducted an additional robustness test where we repeated the same analysis, but now restricted to those countries that participated in all eight ESS waves, and where we thus can rely on a perfect comparability of time (Appendix 6). As this group of panel countries is rather limited, we also opted for a further confirmation of this robustness test by repeating the analysis for a larger group of countries that participated in at least seven of the eight ESS waves (see Appendix 7). As we know that the countries in Southern Europe were worst hit by the economic crisis, and some of them no longer participate in the ESS, we also used Eurobarometer data to check general trends in levels of political trust. We also plot the average trust levels for Greece, Italy, Portugal and Spain with regard to trust in political parties and trust in parliament using Eurobarometer data (2002–2016), and we find a very similar pattern between in Spain and Portugal (countries that participated in all ESS surveys) and Greece and Italy (countries with limited appearance in ESS surveys) (Appendix 15). These Eurobarometer data, therefore, clearly suggest that even in the worst hit countries of Southern Europe, there is a gradual recovery in levels of political trust. All these analyses clearly lead to the similar result, so we can be quite confident that our findings are not driven by the fact that some countries are dropped out of the ESS effort. The combination of ESS and Eurobarometer data allow us to confirm that across European countries, there is a clear rise in levels of political trust in the years following the economic crisis.
+
+Test of asymmetry
+
+The available evidence thus far suggests that levels of political trust were restored almost as rapidly, and back to the original level, as they eroded as a result of the economic crisis. This U-shaped curve at first sight does not suggest any asymmetry. It is important, however, to develop a more formal test of our second hypothesis. As was noted, we have access to a total of 185 country–year observations, with every time a score for GDP growth as the most comprehensive economic indicator. We split these observations into four equal groups. The observations that are in the first quartile have the worst economic performance indicators, and we code them
+
+15  In a separate robustness check, we repeated the analysis, but this time excluding the countries that were worst hit by the economic crisis, and potentially could be considered as outliers (Greece, Italy, Spain and Portugal). The results of this analysis do not differ significantly from our main analysis presented in Table 2. Full results of this robustness check are reported in Appendix 4.
+
+M. Hooghe, M. Okolikj
+
+as group 1. We take the second and the third quartile of the observations together as group 2, and these are the observations that are just slightly below or above the median score. Finally, the observations in the fourth quartile are taken as group 3, and these are the observations with the best possible economic scores. The asymmetry hypothesis (H2) would predict that the effect of the economy is significantly stronger in the group-1 observations than it is in the group-3 observations, as public opinion reacts more strongly to negative developments than to positive ones. For the large middle category of average performers in group 2, we do not expect anything specific to happen, given the limited variance in economic performance within this middle group. To test whether the effect is non-symmetrical, we repeat the multilevel regression analysis and we include an interaction between GDP growth and our three groups’ variables to investigate whether the economy has stronger effects in countries that are underperforming compared to those that are outperforming economically. Our assumption is that if we find that the economic effects are significantly stronger among the worst group (group 1) than among the outperformers, this offers conclusive evidence for the occurrence of the asymmetry effect. Performing this test, the interaction effect for belonging to the group with the best economic performances is not statistically different from the group with the worst economic performances (with the exception of trust in politicians). Or to express it differently, we find no evidence that the effect of growth on political trust differs between the sample of the best economic performance countries and the worst economic performance countries, as in both cases, growth is similarly positively associated with trust in institutions (parliament and political parties). The only place where we notice differences in the slope is in Model 2, Table 4, where the slope for the best economic performance countries is less steeper compared to the group 1 (worst economic performances). However, even in this model economic growth is an important predictor of trust in politicians, also among the group of best economic performers countries. Given these results, we conclude that contrary to our hypothesis there is no occurrence of substantial asymmetrical effects.16 The dynamics of the association between economic indicators and levels of political trust seem to be quite the same in the entire range of countries.
+
+Conclusion
+
+At first sight, our results confirm previous findings, showing that the economic crisis starting in 2008 indeed had an erosive effect on the levels of political trust. It is important here to stress that this has clearly been a general effect, across European societies. While previous studies tended to focus on the countries in Southern Europe that were worst hit by the economic crisis (Roberts 2017), the findings of this study clearly show that this phenomenon was widespread and included also the
+
+16  As an additional robustness test, we also ran the analysis for each of the three groups (worst, middle and best performers) separately. In the three groups, the results are similar (Appendix 8), thus providing support for the findings reported in Table 3.
+
+The long‑term effects of the economic crisis on political trust…
+
+countries which did not experience the full devastating impact of the economic crisis. If we exclude the worst hit countries from the analysis as a robustness test, the results remain similar. This is an important conclusion as it shows that the political
+
+Table 4   Interaction between growth and level of economic performance
+
+*p < 0.05;**p < 0.01;***p < 0.001. Standard Error in Parenthesis
+
+Design weights applied. Random country intercepts and year fixed effects applied
+
+Dependent variable
+
+Parliament Politicians Political Parties Political Institutions
+
+(1) (2) (3) (4)
+
+Growth 0.136*** 0.111*** 0.094*** 0.110***
+
+(0.005) (0.005) (0.005) (0.005)
+
+Middle category 0.007 0.009 − 0.0002 − 0.001
+
+(0.017) (0.015) (0.017) (0.016)
+
+Upper category − 0.556*** − 0.410*** − 0.486*** − 0.597***
+
+(0.029) (0.027) (0.028) (0.026)
+
+Unemployment − 0.073*** − 0.059*** − 0.078*** − 0.086***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Party ID 0.551*** 0.530*** 0.668*** 0.583***
+
+(0.009) (0.008) (0.008) (0.008)
+
+Ideology 0.079*** 0.073*** 0.067*** 0.076***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Gender − 0.096*** 0.062*** 0.044*** 0.011
+
+(0.008) (0.008) (0.008) (0.008)
+
+Age − 0.004*** − 0.002*** − 0.005*** − 0.004***
+
+(0.0002) (0.0002) (0.0002) (0.0002)
+
+Education 0.100*** 0.052*** 0.028*** 0.058***
+
+(0.002) (0.002) (0.002) (0.002)
+
+Growth * Middle Cat. − 0.105*** − 0.077*** − 0.047*** − 0.061***
+
+(0.007) (0.006) (0.006) (0.006)
+
+Growth * Upper Cat. − 0.009 − 0.019*** 0.003 0.010
+
+(0.006) (0.006) (0.006) (0.005)
+
+Constant 4.598*** 3.468*** 3.489*** 3.702***
+
+(0.170) (0.147) (0.144) (0.149)
+
+Random effects
+
+Country (constant) 0.897 (0.947) 0.671 (0.819) 0.639 (0.799) 0.689 (0.830)
+
+Residual 5.320 (2.307) 4.629 (2.152) 4.451 (2.11) 3.875 (1.969)
+
+Observations 307,640/32 309,090/32 272,538/32 269,311/32
+
+Log likelihood − 706,417.3 − 688,216.1 − 601,519.2 − 575,684.8
+
+AIC. 1,412,877 1,376,474 1,203,078 1,151,410
+
+BIC. 1,413,100 1,376,698 1,203,289 1,151,620
+
+M. Hooghe, M. Okolikj
+
+consequences of an economic crisis do not remain limited to particularly severe cases, but can also be observed in countries where the downturn was more moderate. We started this analysis expecting a strong asymmetry, assuming that trust levels will continue to be affected by the economic crisis, even if economic conditions improve in the meantime. However, we did not find much evidence for this hypothesis. Indeed, the economic crisis in 2008 had a sharp and immediate effect on the levels of political trust, especially in the countries that already had low levels of political trust, but the gradual recovery since 2012 led to an equally gradual recovery of political trust levels. The available evidence therefore seems to suggest that public opinion does react also to periods of economic recovery, so that we should not expect an economic crisis to have a lasting and irreparable effect on levels of political trust. In fact, in the group of best performing countries, the effect of economic indicators is not significantly different from the effect we found among the worst cases. Self-evidently, the direction of the effect in real-life terms will be different, as the worst performers will be ‘punished’ with a loss of trust, while the outperformers are rewarded with an increase in trust levels. Statistically, however, the slope of the relation between the economy and trust levels is roughly the same in both groups. Although it has to be noted that our empirical study remains limited to investigating levels of political trust, we can observe some implications for the broader ongoing academic debate on the state of democratic legitimacy in European countries. The current analysis does not allow us to make any claims about the broader impact of globalization or the occurrence of new cultural and economic cleavages, as this was beyond the scope of this study. Neither can we make broad claims about a structural crisis of democratic legitimacy (Crouch 2016), as this falls outside the scope of the current analysis. Some studies suggest that the economic crisis and the accompanying austerity politics contributed in a structural manner to the alleged decline of democratic legitimacy and the current results allow us to qualify this concern to some extent. It has to be noted, self-evidently, that our analysis is based on just a limited number of key indicators. We used official unemployment rates, but these figures do not inform us about other important element of working conditions that have changed and might have strong repercussions on the legitimacy of democratic systems in Europe. Even when unemployment figures are going down, it can be assumed that there is still a substantial part of the European population that feels more vulnerable on the labour market, and obviously this structural fear is not reflected in the official unemployment figures. The economic crisis starting in 2008 has indeed had a devastating and immediate effect on the levels of political trust. This is especially the case for the countries of Southern Europe that were worst hit by the crisis and were the long-term consequences of this brutal experience still need to be further investigated (Roberts 2017). What we can note, however, based on the results of our analysis, is that the subsequent phase of economic recovery, too, has had an effect on the levels of political trust, as demonstrated by the ESS wave in 2016, where we observe quite high levels of political trust, reaching the same level as before the economic crisis. It is important, however, to note that political trust is just a limited measurement of diffuse support (Easton 1975), and therefore, the results of this analysis do not allow us to make broad statement about the larger question of democratic legitimacy that falls outside the scope of
+
+The long‑term effects of the economic crisis on political trust…
+
+the current article. In order to gain a better understanding of democratic political legitimacy, therefore, it is important to make a distinction between structural trends and cyclical fluctuations, and as always, apparently it is important not to pronounce obituaries prematurely.
+
+References
+
+Armingeon, K., and K. Guthmann. 2014. Democracy in crisis? The declining support for national democracy in European countries, 2007–2011. European Journal of Political Research 53 (3): 423–442. Bauer, P., and M. Freitag. 2018. Measuring Trust. In The Oxford handbook of social and political trust, ed. E. Uslaner, 15–36. Oxford: Oxford University Press. Bovens, M., and A. Wille. 2008. Deciphering the Dutch drop: ten explanations for decreasing political trust in The Netherlands. International Review of Administrative Sciences 74 (2): 283–305. Christmann, P., and M. Torcal. 2017. The political and economic causes of satisfaction with democracy in Spain—A twofold panel study. West European Politics 40 (6): 1241–1266. Costa Lobo, M., and R. Pannico. 2020. Increased economic salience or blurring of responsibility? Economic voting during the Great Recession. Electoral Studies 65: 102141. Crouch, C. 2016. The March towards post-democracy, ten years on. Political Quarterly 87 (1): 71–75. Dassonneville, R., and M. Lewis-Beck. 2014. Macroeconomics, economic crisis and electoral outcomes: A national European pool. Acta Politica 49 (4): 372–394. Dotti Sani, G., and B. Magistro. 2016. Increasingly unequal? The economic crisis, social inequalities and trust in the European Parliament in 20 European countries. European Journal of Political Research 55 (2): 246–264. Easton, D. 1975. A re-assessment of the concept of political support. British Journal of Political Science 5 (4): 435–457. European Social Survey Cumulative File, ESS 1-7. 2016. Data file edition 1.0. NSD—Norwegian Centre for Research Data, Norway—Data Archive and distributor of ESS data for ESS ERIC. European Social Survey Round 8 Data. 2016. Data file edition 1.0. NSD—Norwegian Centre for Research Data, Norway—Data Archive and distributor of ESS data for ESS ERIC. Finkel, S., E. Muller, and M. Seligson. 1989. Economic crisis, incumbent performance and regime support: A comparison of longitudinal data from West Germany and Costa Rica. British Journal of Political Science 19 (3): 329–351. Gelman, A., and J. Hill. 2007. Data analysis using regression and multilevel hierarchical models, vol. 1. New York: Cambridge University Press. Hernandez, E., and H. Kriesi. 2016. The electoral consequences of the financial and economic crisis in Europe. European Journal of Political Research 55 (2): 203–224. Hetherington, M. 1998. The political relevance of political trust. American Political Science Review 92 (4): 791–808. Hooghe, M., and G. Deneckere. 2003. La Marche blanche de Belgique (Octobre 1996): Un mouvement de masse spectaculaire mais éphémère. Le Mouvement Social 202: 153–164. Hooghe, M., and J. Oser. 2018. Social and political citizenship in European public opinion: An empirical analysis of T.H. Marshall’s concept of social rights. Government and Opposition 53 (4): 595–620. Kappe, R. 2018. Asymmetric evaluations: Government popularity and economic performance in the United Kingdom. Electoral Studies 58: 133–138. Kriesi, H. 2013. Democratic legitimacy: Is there a legitimacy crisis in contemporary politics? Politische Vierteljahresschrift 54 (4): 609–638. Kriesi, H., and T. Pappas (eds.). 2015. European populism in the shadow of the great recession. Colchester: ECPR Press. Lau, R. 1985. Two explanations for negativity effects in political behavior. American Journal of Political Science 29 (1): 119–138. LeDuc, L., and J.H. Pammett. 2013. The fate of governing parties in times of economic crisis. Electoral Studies 32: 494–499. Lewis-Beck, M., and M. Stegmaier. 2000. Economic determinants of electoral outcomes. Annual Review of Political Science 3: 183–219.
+
+M. Hooghe, M. Okolikj
+
+Mair, P. 2013. Ruling the void. The hollowing of western democracy. London: Verso. Marien, S., and M. Hooghe. 2011. Does political trust matter? An empirical investigation into the relation between political trust and support for law compliance. European Journal of Political Research 50 (2): 267–291. Nannestad, P., and M. Paldam. 1994. The VP-function: A survey of the literature on vote and popularity functions after 25 years. Public Choice 79 (3): 213–245. Newton, K. 2006. Political support: Social capital, civil society and political and economic performance. Political Studies 54 (4): 846–864. OECD. 2019. Economic outlook. Paris: OECD. Okolikj, M., and S. Quinlan. 2016. Context matters: Economic voting in the 2009 and 2014 European Parliament Elections. Politics and Governance 4 (1): 145–166. Quaranta, M., and S. Martini. 2016. Does the economy really matter for satisfaction with democracy? Longitudinal and cross-country evidence from the European Union. Electoral Studies 42: 164–174. Roberts, K. 2017. Party politics in hard times: Comparative perspectives on the European and Latin American economic crises. European Journal of Political Research 56 (2): 218–233. Soroka, S. 2014. Negativity in democratic politics. Causes and consequences. Cambridge: Cambridge University Press. Streeck, W. 2015. Gekaufte Zeit: Die vertagte Krise des demokratischen Kapitalismus. Frankfurt: Suhrkamp. Torcal, M. 2014. The decline of political trust in Spain and Portugal: Economic performance or political responsiveness? American Behavioral Scientist 58 (12): 1542–1567. Uslaner, E. (ed.). 2018. The Oxford handbook of social and political trust. Oxford: Oxford University Press. Tversky, A., and D. Kahneman. 1991. Loss aversion in riskless choice: A reference-dependent model. Quarterly Journal of Economics 106 (4): 1039–1061. Van Erkel, P., and T. Van der Meer. 2016. Macroeconomic performance, political trust and the Great Recession: A multilevel analysis of the effects of within-country fluctuations in macroeconomic performance on political trust in 15 EU countries, 1999–2011. European Journal of Political Research 55 (1): 177–197. Van Ham, C., J. Thomassen, R. Andeweg, and K. Aarts (eds.). 2017. Myth and reality of the legitimacy crisis: Explaining trends and cross-national differences in established democracies. Oxford: Oxford University Press. Warren, M. 2018. Trust and democracy. In The Oxford handbook of social and political trust, ed. E. Uslaner, 75–94. Oxford: Oxford University Press. Wroe, A. 2016. Economic insecurity and political trust in the United States. American Politics Research 44 (1): 131–163.
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Marc Hooghe  is professor of Political Science at the University of Leuven (Belgium). He has published mainly on political participation, political trust and comparative politics.
+
+Martin Okolikj  is a Postdoctoral Researcher at the Centre for Political Research at KU Leuven (Belgium), working on the 2019 Belgian Election Study. His research interests are comparative electoral behaviour, political trust and political methodology.

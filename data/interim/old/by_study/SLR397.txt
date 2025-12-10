@@ -1,0 +1,131 @@
+Why There is Basically Only One Form of Political Trustbjpi_447 269..275
+
+Marc Hooghe
+
+Fisher et al. have argued in this journal that various forms of political trust should be distinguished. In this note I critically review this assertion. A replication study of the British Election Study demonstrates clearly that political trust is a one-dimensional attitude, as citizens apparently do not distinguish between the functioning of various political institutions. An explanation for this pattern could be that political trust judgements reﬂect the prevailing political culture within a political system. It can rightly be assumed that political culture is a system characteristic that will guide the behaviour of most political actors and institutions.
+
+Keywords: political trust; scale construction; British Election Study; political culture
+
+Political trust remains one of the most elusive topics in political science research. On the one hand, we expect that critical citizens display some form of distrust towards those who hold power within a political system. Some authors have even claimed that expressing trust in politicians is logically inconsistent. While it makes sense to expect that most people will express trust towards their relatives, partners and friends, there is much less to be said about expressing trust towards, for example, the prime minister. Given the fact that most citizens do not know the prime minister personally, in general they will not have access to sufﬁcient information about the personal trustworthiness of the prime minister to arrive at a qualiﬁed judgement (Hardin 1993). On the other hand, most political scientists will, explicitly or implicitly, agree with the fact that the measurement of political trust can function as a thermometer to assess the health and vitality of a political system. Low or declining levels of political trust usually only spell trouble for democratic stability. The fact that trust in the US president, for example, has been caught in a downward spiral since the early 1970s limits the capacity of the American political system to provide more public goods to the population (Hetherington 2004).
+
+Apparently, political trust still functions as an important resource for the legitimacy of political systems, as Gabriel Almond and Sidney Verba argued almost half a century ago in their classic work on The Civic Culture (Almond and Verba 1963). Given the salience and the continuing elusiveness of political trust for the current academic debate, it is clear that the article by Justin Fisher, Jennifer van Heerde and Andrew Tucker (2010) in this journal is of paramount importance. Fisher et al. criticise the standard measurement of political trust as a simple one-dimensional construct. Based on an extensive review of the literature, they argue that at least three forms of political trust should be distinguished, both for theoretical and for empirical reasons. Strategic trust results from a judgement about the trustworthi doi: 10.1111/j.1467-856X.2010.00447.x BJPIR: 2011 VOL 13, 269–275
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association
+
+ness of the other actor, and an assessment of the odds that one’s own legitimate interests will be harmed or not by this actor. Moral trust, on the other hand, focuses on the moral commitment to be trustworthy, and the expectation that this imperative will apply equally to other members of society. Deliberative trust, ﬁnally, focuses on deliberative and representative procedures that will help to ensure proper conduct by political decision-makers. The authors subsequently use recent data sources to demonstrate that these various forms of trust are related to trust in political parties and trust in institutions. The conclusion is that ‘forms of trust may vary by institution’ (Fisher et al. 2010, 182).
+
+Fisher and his colleagues have made an extremely important and well-argued contribution to the debate. Within the literature, political trust has been a topic that does not receive sufﬁcient theoretical consideration. Most scholars simply use the standard survey items on ‘trust in government’, without questioning their validity or even wondering what political trust actually refers to, or what place the concept could have in democratic society. The contribution of Fisher et al. therefore needs to be applauded. Nevertheless, my claim is that their distinction between three forms of political trust is not well grounded, either conceptually or empirically, and this distinction could mislead the future academic debate. I want to address these concerns before drawing some conclusions on what this implies for our understanding of the way citizens make judgements about the trustworthiness of politicians and the political system. I agree that, in an ideal world, the basic tenet of Fisher et al. would be correct: citizens should arrive at a different trust decision for each and every political institution. In practice, however, we can observe that all these different evaluations are being summarised into one comprehensive and one-dimensional expression of political trust. A likely explanation for this pattern is that political trust can be conceptualised as a comprehensive evaluation of the political culture that is prevailing within a political system and not as an evaluation of each and every actor individually.
+
+A ﬁrst and crucial element is that Fisher et al. do not fully spell out what kind of ontological status they ascribe to their three forms of trust. Throughout the article they mention this to be ‘forms of trust’, implying that these three forms of trust exist independently of one another and can be seen as concepts in their own right. Later on, however, they note that ‘the judgement to trust another political actor has three components’ (Fisher et al. 2010, 163). If that is the case the three forms of political trust are not distinct entities, but they are simply three different characteristics of one and the same phenomenon. The literature allows us to assume that this second interpretation is more likely. Trust is a relational characteristic: A trusts B to do C. This implies that at least three elements are necessary: the person who trusts, the one who is trusted and the relation between both actors. All three elements can determine the level of trust. Ebenezer Scrooge would probably even distrust a perennial innocent-looking Dorian Gray. And even a very gullible Gulliver would be turned to distrust if his travels brought him to Somalia, a country that according to Transparency International has the most corrupt regime in the world.
+
+While authors departing from a rational choice perspective tend to stress the role of the perceived characteristics of the trustee (Hardin 1993), others focus more strongly on the personal characteristics of the person expressing trust (Uslaner
+
+270 MARC HOOGHE
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association BJPIR, 2011, 13(2)
+
+2002). These, however, are theoretical constructs, not empirical entities. One cannot use factor analysis to demonstrate that rational action approaches are correct or not. If the paradigm that trust is the result of a strategic calculation proves to be correct, there is no longer a need for any moral form of trust. Paradigms are to a large extent incommensurable, and one cannot use factor analysis to demonstrate that they all might be a ‘bit right’. So, conceptually I would argue that there are not three different forms of trust, but rather three different theoretical approaches to the study of trust, each one focusing on one speciﬁc characteristic of the dyad that constitutes a trust relation.
+
+Turning to empirical matters, Fisher et al. use the British Election Study (panel of March 2009) and a commercial Internet survey to argue that these three forms of political trust should be distinguished, and to demonstrate that they have a different relation to trust expressed in politicians and in political parties. Unfortunately, they have chosen two very unlikely candidates to convince readers that there are various dimensions in political trust. What we know from survey research using a full battery of political trust items, rather, is exactly that trust in politicians and in political parties are extremely closely related. In fact they refer to the same reality: political parties are composed of politicians, after all. If we apply a factor analysis to the seven-item political trust scale, as it is routinely being used in the European Social Survey, trust in politicians (factor load .86) and trust in political parties (.85) show up as the two strongest and most characteristic items of that scale. If the purpose was to show that political trust is not one-dimensional, it would have made more sense to focus on items that are less central to the scale, like trust in the police (factor loading .72) or trust in the United Nations (loading .71). If there is any two-dimensionality in a political trust scale, it would be between on the one hand trust in representative institutions (parliament, government ...), and on the other hand trust in the order institutions of a society (police, the courts ...). There is some empirical evidence that this distinction can lead to a two-factor solution (Rothstein and Stolle 2008). But politicians and parties are so closely related that it is highly unlikely that the two can be distinguished empirically.
+
+My main problem with the analysis reported in the article, however, is that Fisher et al. do not offer any proof for their main argument, that is, that the three forms of trust can be distinguished. On page 176 Fisher et al. report that the three scales they have developed are internally consistent, as they report Cronbach’s alphas. This, however, is misleading since internal coherence was not the question. Their claim is that the three forms can be distinguished. This question should have been solved with a factor analysis (or related techniques), demonstrating that three different factors can be distinguished. A more fundamental problem furthermore is that the ‘independent’ variables being used are in fact already constitutive elements of the dependent variable. The statement ‘politicians deliver on their promises’ is by itself an expression of trust in the future behaviour of politicians, and therefore it cannot be used to predict trust in politicians, as this would be purely tautological.
+
+There is a simple empirical test to investigate my two claims that (a) the three dimensions of trust cannot be distinguished, and (b) that the relation between the independent and the dependent variables is tautological, and that is by conducting
+
+ONE FORM OF POLITICAL TRUST 271
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association BJPIR, 2011, 13(2)
+
+a factor analysis on the full range of items that is used in the article. I replicate the analysis by the authors on the March 2009 panel of the British Election Study (n = 1,080) (Table 1).
+
+First, in Model I, I bring together the 12 items that Fisher et al. use to construct their three forms of political trust. The results unequivocally demonstrate that there are no three distinct factors. Basically, 11 of the 12 items load on the ﬁrst strong factor (eigenvalue 5.11), providing strong evidence for the one-dimensional character of political trust. Only the item claiming that the most important thing about elections is that they must be democratic loads quite strongly on a second (but much less powerful: eigenvalue of 1.25) factor. This is the kind of analysis that Fisher et al.
+
+Table 1: Factor Analysis of Political Trust Items in British Election Study 2009
+
+Model I Model II Factor 1 Factor 2 Factor 1 Factor 2
+
+I can ﬁnd a political party that reﬂects my views 0.549 0.210 0.542 0.179
+
+The winning party usually reﬂects some of my views 0.517 0.274 0.478 0.378
+
+When parties win power, they usually do what they say they would 0.709 -0.344 0.728 -0.221
+
+The issues politicians consider reﬂect my concerns 0.638 0.278 0.604 0.348
+
+Politicians discuss the issues that are most important for Britain 0.717 0.010 0.690 0.164
+
+Party activists are just like me 0.619 -0.244 0.620 -0.106 Parties bring together different kinds of people to achieve common goals 0.667 -0.034 0.641 0.140
+
+We need politicians that are able to debate complex issues 0.638 0.295 0.605 0.354
+
+Politicians consider my concerns 0.757 -0.271 0.765 -0.137 It is more important that elections are democratic than which party gains power 0.256 0.672 0.195 0.619
+
+Parties represent their supporters, not just those who fund them 0.701 -0.195 0.697 -0.040
+
+Politicians discussing the issue is more important to me than the outcome 0.443 0.380 0.407 0.357
+
+Politicians deliver on their promises 0.742 -0.284 0.768 -0.200 Trust in political parties 0.725 -0.448 Trust in politicians 0.733 -0.454 Eigenvalue 5.11 1.25 5.98 1.51 Explained variance 39.27 9.62 39.86 10.04
+
+Note: Entries are the result of a Principal Component Analysis, on the March 2009 panel of the British Election Study (n = 1,018)
+
+272 MARC HOOGHE
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association BJPIR, 2011, 13(2)
+
+should have done to support their claim that there are three distinct forms, but the result is clearly that political trust basically is one-dimensional.
+
+In Model II I go a step further, by also including the two dependent variables they use in the same factor analysis. Again the results are easy to interpret: the two ‘dependent’ variables are just an element of the same latent concept. Trust in political parties loads unequivocally on this scale, as does the belief that political parties will deliver on their promises. As such, the relation between these variables is tautological.
+
+We can demonstrate this also in a different way. I follow the logic of the authors, and I use a regression model to explain trust in political parties, by using the belief that parties will do what they say as an independent variable. I include this as the only independent variable in my model. The result is an incredibly strong model with a standardised regression coefﬁcient of .49, a t-value of 17.4 and 24 per cent explained variance. Let us say that everyone who is familiar with survey research would be highly cautious if one single item took care of 24 per cent explained variance, as this usually means that the relation one investigates is tautological, not causal.
+
+One of the major weaknesses of the analytical approach adopted by Fisher et al. is that they ﬁrst argue that several items belong to one scale, but that subsequently they go on to use only the individual items to explain political trust—instead of using the three scales they just developed. The result of this strategy is an unclear pattern, but this high level of background noise is simply the result of mistakes in the construction of their model. If they used regular scales, a very clear picture would emerge. I therefore repeated their analysis, using this time the scale they themselves suggested but did not construct (Table 2). Scale construction is obviously necessary here: individual items are prone to measurement error and therefore lead to rather diffuse patterns, while, as we will see, results are quite clear if the items are summarised into reliable scales. Strategic and moral trust have an overwhelming impact on political trust, while deliberative trust obviously does not play a role at all.
+
+Table 2: Trust in Political Parties and Politicians
+
+Trust in political parties Trust in politicians
+
+B Beta B Beta
+
+Strategic trust scale 0.833 (0.083) 0.37*** 0.809 (0.088) 0.35*** Moral trust scale 0.585 (0.081) 0.26*** 0.688 (0.079) 0.30*** Deliberative trust scale 0.014 (0.079) 0.01 0.053 (0.084) 0.02 Cte. 3.578 (0.067) 5.507 (0.285) Adj. r2 0.30 0.35
+
+Notes: Entries are the result of an OLS regression, with trust in parties or politicians as dependent variables. Scales were institution-speciﬁc and constructed according to Fisher et al. (2010, 174). Sign. *** P < 0.001
+
+ONE FORM OF POLITICAL TRUST 273
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association BJPIR, 2011, 13(2)
+
+The empirical results of this replication of the BES data conﬁrm the notion that, contrary to theoretical expectations, there is really only a single dimension of political trust, applying both to parties and politicians. This brings us to the more important question of how this can be explained, because basically I agree with the logic adopted by Fisher et al. that well-informed citizens in principle should distinguish between whether they trust Members of Parliament, the governing party, the opposition party or the head of state. The results however clearly indicate that they do no such thing. Further analysis on the European Social Survey conﬁrms that this is a general pattern, and not some artefact of the British Election Study.
+
+There are two likely explanations for the apparent one-dimensionality of political trust. The ﬁrst one results from a deﬁciency model: it is assumed that citizens are simply too ‘lazy’ or not sufﬁciently knowledgeable to form a distinct judgement on all the institutions listed in the standard battery. Since they are cognitive misers, they just focus on the person or institution that is most often featured in the news (the prime minister, or the president) and subsequently generalise this attitude towards all kinds of political institutions without bothering further trying to assess whether this generalisation is well-founded. After all, it would take way too much effort to investigate the trustworthiness of each and every institution on its own merits. If this assumption is correct, the one-dimensionality of the scale really is a kind of error, resulting from a lack of sufﬁcient information among citizens.
+
+A second possible explanation, however, could be that citizens can sincerely believe that the trustworthiness of all political institutions will overlap to some extent. This heuristic device is not unlikely, given the fact that political systems basically have one joint political culture, and this culture determines whether politicians are trustworthy or not. I might disagree with the ideas of a speciﬁc political party, but it is highly unlikely that all MPs of this party would be corrupt, while all the MPs of other parties are not. All of them share the norms of the same political culture, and therefore they will behave in the same corrupt or trustworthy manner. Selfevidently, politicians from a major ruling party are more likely to be targeted by bribery efforts or corruption than politicians from a fringe opposition party, but basically we can expect that these opposition politicians would do exactly the same, given the opportunity to do so. Therefore, as a heuristic short cut, it makes sense to arrive at a comprehensive judgement on political trust, since we know the behaviour of politicians and institutions will be determined mainly by the political culture, which is a system characteristic, not a characteristic of the speciﬁc institution.
+
+At ﬁrst sight, we have no reason to prefer one of the two explanations for the one-dimensionality of political trust scales. If the ﬁrst line of reasoning is more convincing, however, we should be able to observe that the one-dimensionality of the political trust battery is weakened by political and cognitive sophistication. Knowledgeable citizens would judge every institution on its own merits; less knowledgeable citizens would simply lump them all together. Following this line of reasoning, we would expect a negative relation between the education level of respondents and the one-dimensionality of their answers on this scale. This however, proves not to be the case, and even to the contrary. If we again refer to the European Social Survey (3rd wave), we can observe that the one 274 MARC HOOGHE
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association BJPIR, 2011, 13(2)
+
+dimensionality of the scale even slightly increases with education level. While among the lowest educated the scale has an eigenvalue of 4.32 (with 61.8 per cent explained variance), these ﬁgures are even a bit higher among those who pursued higher education. It can be safely assumed, therefore, that the one-dimensionality of the scale is not caused by a lack of political knowledge, political interest or political sophistication. The one-dimensionality of the scale is clearly not the result of some sort of cognitive deﬁciency.
+
+This renders the second explanation more plausible: political trust can be considered as a comprehensive assessment of the political culture that is prevalent within a political system, and that is expected to guide the future behaviour of all political actors. This expectation is not without any empirical grounds. Looking at studies on corruption, there are no examples of countries where Members of Parliament are corrupt but the government is clean. The degree of trustworthiness is therefore not an individual characteristic of a person, or even of a political party or an institution, but of the political system as a whole. As such it makes sense that my opinion on various actors loads on a single latent variable. Given the fact that political culture is a system characteristic, and unless one can produce evidence of a country where ministers are very corrupt, and Members of Parliament are very honest, there is no reason to differentiate my trust judgement for those two political institutions. Citizens most likely will not have read the work by Almond and Verba on the importance of political culture, but it is clear that in their assessment of political institutions they apply the same logic on the importance of norms guiding the behaviour of political decision-makers.
+
+About the Author
+
+Marc Hooghe, Political Science, Leuven University, Park Street 45, Floor 3602, Leuven B-3000, Belgium, email: marc.hooghe@soc.kuleuven.be
+
+Bibliography
+
+Almond, G. and Verba, S. (1963) The Civic Culture (Princeton, NJ: Princeton University Press).
+
+Fisher, J., van Heerde, J. and Tucker, A. (2010) ‘Does one trust judgement ﬁt all? Linking theory and empirics’, British Journal of Politics and International Relations, 12:2, 161–188.
+
+Hardin, R. (1993) ‘The street-level epistemology of trust’, Politics and Society, 21:4, 505–529.
+
+Hetherington, M. (2004) Why Trust Matters: Declining Political Trust and the Demise of American Liberalism (Princeton, NJ: Princeton University Press).
+
+Rothstein, B. and Stolle, D. (2008) ‘The state and social capital: An institutional theory of generalized trust’, Comparative Politics, 40:4, 441–459.
+
+Uslaner, E. (2002) The Moral Foundation of Trust (Cambridge: Cambridge University Press).
+
+ONE FORM OF POLITICAL TRUST 275
+
+© 2011 The Author. British Journal of Politics and International Relations © 2011 Political Studies Association BJPIR, 2011, 13(2)

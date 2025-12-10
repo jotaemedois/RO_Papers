@@ -1,0 +1,607 @@
+Does political trust matter? An empirical investigation into the relation between political trust and support for law complianceejpr_1930 267..292
+
+SOFIE MARIEN & MARC HOOGHE
+
+Centre for Political Research, University of Leuven, Belgium
+
+Abstract. Scholars have repeatedly expressed concern about the consequences low levels of political trust might have for the stability of democratic political systems. Empirical support and the identiﬁcation of causal mechanisms for this concern, however, are often lacking. In this article, the relation between political trust and law-abiding attitudes is investigated. It is expected that citizens with low levels of trust in the institutions of the political system will ﬁnd it more acceptable to break the law. As a result, low levels of political trust might undermine the effectiveness and legitimacy of government action and its ability to implement legislation. Based on survey data from 33 European countries using the 1999–2001 European Values Study (N = 41,125), the relation between political trust and legal permissiveness is examined using a multilevel ordered logistic regression analysis.The results show that respondents with low levels of political trust are signiﬁcantly more likely to accept illegal behaviour such as tax fraud than respondents with high levels of political trust. Since it is known from earlier research that actors who are permissive towards law-breaking behaviour are more likely to commit these acts themselves, the hypothesis that low levels of political trust will be associated with less law compliance within a society is supported.
+
+Political trust is routinely considered to be an essential component of the civic culture that according to Almond and Verba (1963) is necessary to ensure the stability of democratic political systems. Political trust can be seen as a form of diffuse support a political system receives from its environment (Easton 1965). In recent years, the topic has attracted renewed attention in the scholarly literature as a reaction to various studies documenting a structural decline in levels of political trust – most notably in the United States. A number of authors have argued that the loss of trust is not limited to a more critical attitude towards politicians, but also extends towards a loss of trust in basic democratic institutions and procedures (Pharr & Putnam 2000; Putnam 2002; Dalton 2004; Stolle & Hooghe 2005). The dominant view in the current scholarly debate is that low levels of political trust should be a major reason for concern. Some authors, however, have claimed that low levels of political trust might offer an opportunity for the further development of democratic political systems as the rise of a new generation of ‘critical citizens’ might force political systems and political decision makers to react in a more responsive manner
+
+European Journal of Political Research 50: 267–291, 2011 267 doi: 10.1111/j.1475-6765.2010.01930.x
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research Published by Blackwell Publishing Ltd., 9600 Garsington Road, Oxford, OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA
+
+to demands from the population (Norris 1999a; Inglehart 2008; Rosanvallon 2008). It is striking to observe that most of this debate is being conducted in the absence of reliable knowledge about the possible social and political consequences of lower levels of political trust. Given the currently available evidence, we do not know whether the stability of democratic political systems is indeed threatened by low levels of political trust. Therefore, in this article we will explore the consequences of (the absence of) political trust. In particular, we will investigate whether different levels of political trust explain differences in legal permissiveness among European citizens. We can assume that citizens are more likely to abide by the decisions of political institutions if they perceive these institutions to be legitimate (Tyler & Huo 2002). When citizens strongly distrust government, it can undermine the legitimacy of government actions and the willingness to obey legislation (Dalton 2004: 165–169; Norris 1999c: 263–264; Lindström 2008). If citizens with a low level of political trust are in fact less likely to follow governmental regulations, it can be argued that low levels of political trust among citizens can create a social environment in which it is more difﬁcult for political leaders to govern and implement legislation. Establishing the precise relation between political trust and law compliance is theoretically relevant.A number of authors have argued that the emergence of a new generation of ‘critical citizens’ does not constitute a reason for concern (Norris 1999a). It is claimed that political institutions will simply have to learn to live under a more intensive form of public scrutiny. If, however, lower levels of political trust are associated with lower levels of law compliance, this could imply that low levels of political trust indeed can have negative consequences for the governability of society. First, we provide an overview of the theoretical debate about the consequences of the presence or absence of political trust. We then turn to comparative survey data to analyse the relation between political trust and support for law compliance. We close with some observations on what these ﬁndings might mean for the stability of contemporary liberal democracies.
+
+Theorising the consequences of low levels of political trust
+
+There is an ongoing debate in the academic literature about the level of political trust a political system requires in order to function in a satisfactory manner. Traditionally the dominant view was that democracies need high levels of political trust as a form of diffuse support from the citizenry. In this context, Easton (1965: 124) stated that:‘[W]hen support threatens to fall below
+
+268 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+a minimal level, the [political] system must either provide mechanisms to revive the ﬂagging support or its days will be numbered.’ According to Easton (1965: 96), a political system distinguishes itself from all other social systems through its ‘capacity to make decisions for the society and the probability of their frequent acceptance by most members as authoritative’. This ‘frequent acceptance’ of authoritative decisions depends on political trust. Trusting citizens are more likely to perceive political decisions as being legitimate than distrusting citizens, even if these decisions are unfavourable to their own particular interests (Rudolph & Evans 2005). Distrusting citizens, on the other hand, are more likely to calculate the costs and beneﬁts of compliance and this might lead to free-riding practices (Tyler 2006).Within this framework, diffuse political trust can be considered an essential resource to governing a society effectively. As Gamson (1968: 127) states: ‘[I]f legitimacy is high, then there is a high potential for activating commitments and other, more costly forms of control may be avoided . . . a wide variety of unpleasant commitments may be accepted with good grace when there is a surplus of political trust.’ The basic assumption in this stream of the literature, therefore, is that low levels of political trust and legitimacy will make it more difﬁcult for political systems to implement authoritative rules for the regulation of society. In recent years, however, several scholars have argued that a critical outlook on the political process could actually invigorate a democratic society (Norris 1999a; Rosanvallon 2008; Geißel 2008). By critically examining government policy and governance, citizens hold government ofﬁcials accountable on a permanent basis, and this should increase the quality of democratic decision making.As Rosanvallon (2008) sees it, citizens are not just voters, but they also increasingly function as quality controllers for the political system. In line with this argument, Cook and Gronke (2005: 801) conclude that the alleged decline of trust in institutions and authorities in some countries ‘would not necessarily be bad news. It would represent the rise of a public that is – and perhaps as they should be – sceptical of many forms of power.’ Several constitutional systems have in fact been established ‘to get in the way of government, not to enable government’ (Hardin 2006: 117). Authors who follow this line of argument often perceive distrust to be ‘an excellent working hypothesis in politics’ (Hardin 2006: 159–160). In a related argument, Norris (1999b: 27) states that ‘too much blind trust by citizens and misplaced conﬁdence in leaders, for good or ill, can be as problematic for democracy as too little. The consequences of declining support for government institutions therefore remain open to debate.’ Other authors, too, have stated that the traditional ‘checks and balances’ system that is prevalent in most modern constitutions amounts to an organised form of distrust. As Hardin (2006: 160) reminds us: ‘[I]n the past century, it seems likely that no polity trusted its government more
+
+does political trust matter? 269
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+than Soviet citizens did for the decades of Stalin’s rule and that no large industrial polity has been more abused by its government.’ Moreover, it is argued that critical attitudes towards the political system can stimulate reforms and thereby enhance the quality of the current political system (Norris 1999a; Barber 1984). To some extent, empirical evidence supports this proposition, as distrust is found to fuel demands for reform towards a more democratic and effective political system (Dalton 2004: 177–187). If we want to bring more empirical insight into the current debate, it is important to introduce a distinction between the possible objects of feelings of (dis)trust. While it is generally accepted that citizens could and should be rather critical towards speciﬁc political leaders, in line with the classic distinction made by Easton (1965), most authors assume that citizens should be able to put trust in democratic procedures and institutions as such – that is, at the system level. In other words, the object of support matters. Politicians can easily be replaced through elections, but strong distrust in the fundamental structures of a democracy is less easily restored (Dalton 2004: 157–159; Klingemann & Fuchs 1995: 2–5; Anderson et al. 2005; Hetherington & Rudolph 2008). Building on this distinction, Inglehart (1999: 236–256) claims that while trust in politicians and elected ofﬁcials declines, public support for basic democratic institutions and values is actually on the rise in Western societies. Echoing this argument, Norris (1999a) states that the pessimistic literature concerning decreasing political trust is based on an erroneous interpretation of data, given the high levels of trust in the principles of democracy among contemporary citizens. It is argued that citizens are still – and even more – supportive towards democracy as a system, but that they have become more critical of the way democracy currently works. In the current debate on the consequences of political trust, there is little consideration for the relation between political trust and the functioning of the political system. Following Easton (1965), one could suppose that a political system needs diffuse support from citizens in order to implement outputs such as laws, allocation decisions or public services.The classic study of Almond and Verba (1963) points in this direction by demonstrating that the performance and stability of a political system is dependent upon the orientations citizens have towards the political system and their own role within the system. Chanley et al. (2000) offer compelling evidence to support these assumptions: citizens with high levels of political trust are more willing to allocate public resources to policy goals and they are more likely to support government action to reach these goals. Similarly, empirical evidence shows that citizens are more likely to follow the decisions of authorities if they perceive these authorities to be trustworthy and legitimate (Tyler 2006; Levi & Stoker 2000: 491–493; Ayres & Braithwaite 1992; Grimes 2008). The research by Tom Tyler
+
+270 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+and Yuen Huo convincingly demonstrated that trust in legal authorities has a signiﬁcant and substantial effect on the likelihood of accepting the decisions of these authorities (Tyler & Huo 2002). Moreover, this effect was stronger than the effect of the perceived fairness of the outcome or the question of whether the decision was favourable to one’s own individual interests. Dalton (2004) broadens the focus of the debate by stating that when citizens believe government is acting for the common good, decisions will be perceived as legitimate and citizens will accept these decisions, and they will be more willing to comply with them on a voluntary basis. Citizens will pay taxes and obey laws because they are members of a community and they consider this as the ‘proper’ thing to do within a political community (Dalton 2004: 165). Conversely, when citizens distrust government, their willingness to obey government decisions is limited and, in particular, citizens are less willing to pay taxes and will be more likely to develop ways to avoid this. Given the importance of taxes for the functioning of any government, a general lack of trust is therefore likely to have grave consequences for the stability of the system. With regard to tax compliance, Scholz and Lubell (1998) report that tax evasion decreases when people trust government. The effect of political trust on tax compliance is substantial: when trust in government is at its minimum the probability of full compliance is 0.29, whereas compliance is almost universal (0.99) when trust in government reaches its maximum level. In this study, the effect of political trust on tax compliance proves to be even more important than the perceived risk of getting caught for ﬁscal fraud.The authors conclude:‘[I]f trust in government falls, as National Election Studies and other public opinion polls indicate has occurred in the United States over the last two decades, the decline in compliance with tax and other citizenship obligations impose an alternative constraint on the activities of government institutions’ (Scholz & Lubell 1998: 412). Another related research effort explores the effect of political trust on illegally purchasing alcohol in Sweden.The sale of alcohol is a state monopoly in Sweden (the Systembolaget), and there are indications that there is a growing black market for illegal alcohol.A recent study has demonstrated that low levels of political trust have a substantial positive impact on the likelihood of buying illegal alcohol (Lindström 2008). The author concludes that additional restrictions on the sale of alcohol may be desirable, but might not be easy to enforce in a situation of low levels of political trust. For the United States, too, Dalton (2004: 168–169) cites evidence that low levels of political trust affect law-abiding behaviour among the population. In the United States, it is legally obligatory to return the census form. It has been shown that the return rate of census forms is signiﬁcantly higher in states
+
+does political trust matter? 271
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+where political trust levels are higher than in states where political trust is at a lower level, even controlling for various socio-economic characteristics of the state. The optimistic view about the benign effects of low levels of political trust is thus counterbalanced by a widespread concern that low levels of political trust might be associated with lukewarm support for various forms of law enforcement. If this relation were to be found strong and consistent, this would imply that lower levels of political trust could have negative consequences for political stability after all.
+
+Legal permissiveness
+
+One of the main problems in this line of research is that it is extremely difﬁcult to obtain valid measures of the occurrence of illegal acts. Especially in survey research, respondents are not likely to divulge any illegal acts they might have committed.A standard solution is not to ask about the law-breaking behaviour of the respondents themselves but rather about their acceptance of lawbreaking behaviour by others. The basic assumption is that if an actor is permissive towards forms of socially unaccepted behaviour, this actor is also more likely to perform those kinds of behaviour. Some empirical research strongly supports the notion that the importance one attaches to upholding a social or legal norm is a strong predictor of actual behaviour with regard to that norm (Bardi & Schwartz 2003; Kirchler et al. 2008: 217–218). Therefore, we can safely assume that those who have a permissive attitude towards law-breaking behaviour in reality also will resort to these kinds of acts more easily than those who have a strict moral view concerning this behaviour. It has become standard practice in surveys, therefore, to include a battery questioning the acceptability of various forms of behaviour. The implicit reason for this battery is that, indirectly, it could also inform us about the likelihood that this behaviour will actually occur. In the World Values Survey (WVS 1995), for example, permissive attitudes towards law-breaking behaviour were questioned by providing respondents with a list of law-breaking acts such as dodging public transport fares or tax evasion. For every activity, respondents could indicate whether they thought that it could always be justiﬁed, never be justiﬁed, or something in between. These items correspond to one latent factor, and therefore they can be used to create an index that measures the permissive attitude of the respondents towards law-breaking behaviour. Dalton (2004: 165–168) correlates this index with different measures of political trust. Institutional support is found to correlate negatively with permissiveness towards law-breaking behaviour, indicating that citizens
+
+272 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+with lower levels of political trust have a more lenient attitude towards breaking the law. Democratic values and community support also correlate negatively with a permissive attitude on breaking the law. Trust in politicians, however, does not correlate with this attitude. As could be expected from the Easton framework, institutional trust seems more important than trust in politicians. The International Social Survey Programme (ISSP 1998) included a similar battery, asking respondents whether it was wrong to misreport income in order to pay less tax and whether it was wrong to claim government beneﬁts if one is not entitled to receive them. Dalton (2004: 165–169) correlates these two variables with trust in parliament and with trust in the courts, and both trust measurements prove to be strongly related to upholding norms with regard to taxes and social beneﬁts. The theoretical relevance of this ﬁnding is that permissiveness towards these kinds of illegal acts is not just related to trust in the courts. If that were the case, it could be argued that respondents refrain from these kinds of acts because they believe that the courts are well-functioning and effective, and that therefore they will be punished if they commit these acts. Parliaments, on the contrary, cannot sanction individual transgressions of the law.The fact that trust in parliament is equally important thus points in the direction of a more general relation between the legitimacy of the political system and the willingness, in this case, to pay taxes. While most studies demonstrate some correlation between political trust and a willingness to adhere to the law, Norris (1999c: 264) is more sceptical about the strength of this relation. She argues that the relation between both attitudes is rather limited and that other variables such as democratisation play a more signiﬁcant role. What this overview of the available research makes clear is that we can assume there will be some relation between political trust and support for upholding the law. A systematic analysis of this relation, however, is not available in the current research literature. Therefore, we analyse the relation between trust in institutions and willingness to obey to the law in greater depth. Doing so, we build on earlier research by Norris (1999c) and Dalton (2004), but now include more sophisticated measures and a full multivariate analysis. Our hypothesis is that citizens with lower levels of trust in political institutions are less willing to obey the law.1 Given that it is difﬁcult to measure illegal behaviour directly in a survey, we expect citizens with low levels of trust to have a more condoning attitude towards illegal behaviour. The underlying assumption is that if citizens do not expect people to comply with the existing law, in practice it will be easier for them to resort to law-breaking behaviour themselves. In order to avoid any normative discussion, we will focus on laws that are supported by a strong consensus within society (e.g., laws against ﬁscal
+
+does political trust matter? 273
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+or social fraud). It can be argued that the basic functions of a society or a political system are dependent on citizens’ (willingness to) pay taxes, obey the law and so on. We do not include any norms that are subject to a strong normative debate within society.
+
+Data and methods
+
+As mentioned earlier, it is almost inevitable in this line of research to work with a scale of the acceptance of illegal acts. Law-breaking behaviour is notoriously difﬁcult to measure in a direct manner due to the social pressure to give desirable answers. Even when they are assured anonymity, respondents will not easily report law-breaking behaviour in a survey. The 2004 European Social Survey, for example, asked respondents whether they had ever falsely claimed a government beneﬁts (NSD 2005; Jowell et al. 2005): less than 2 per cent of the respondents indicated that they had ever done so, while it is safe to assume that in reality this percentage is much higher in most countries. This example illustrates that questioning repondents’ deviant behaviour in such a direct manner does not produce valid results. Therefore, our main dependent variable in this analysis is not whether the respondent has actually done something illegal, but rather whether the respondent condones these kinds of action (legal permissiveness). As far as we know, the only wide-ranging comparative survey that includes a full battery on acceptance of illegal behaviour is the European Values Survey (EVS), and therefore we decided to use this dataset for our further analyses. In the third wave (EVS 1999–2001), a full battery on legal permissiveness was included. Therefore, this dataset allows us to investigate the relationship between legal permissiveness and political trust. (The data from the EVS are available for research on the website of the University of Tilburg: www.europeanvalues.nl/.) In 33 European countries, representative national samples of the adult population (aged 18 and older) were surveyed in a face-to-face manner (N = 41,125).2 The mean response rate was 64.6 per cent (Halman 2001; see Appendix).3
+
+For the analyses, our main dependent variable ‘Legal permissiveness’ was assessed by asking respondents the following question:‘Please tell me for each of the following statements whether you think it can always be justiﬁed, never be justiﬁed, or something in between, using this card.’ For the present study, three statements are relevant: cheating on taxes if you have a chance; claiming government beneﬁts to which you are not entitled; and paying cash in order to avoid paying sales tax. We selected these three items because in each of these cases it is clear that the citizen accepts or takes government money without
+
+274 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+being entitled, thus making it more difﬁcult for government agencies to implement ﬁscal or social security legislation. Respondents could indicate for every statement how acceptable they thought such acts were on a scale from 1 to 10 with ‘1’ indicating that it is never justiﬁed and ‘10’ indicating that these acts are always justiﬁed.The three items (for the exact wording, see Appendix) load on one factor and therefore they can be combined in a single measure.4 This scale proves to be quite reliable (Cronbach’s a = 0.67). Our main interest in this article is the relation between political trust and legal permissiveness. ‘Political trust’ is thus the main independent variable.5
+
+The EVS questionnaire included a battery of items to tap respondents’ trust in the different institutions of a political system: trust in parliament, the justice system, the armed forces and the police.6 We created a scale of ‘Political trust’ by including the four items of this battery, with low scores indicating low levels of trust and high scores indicating high levels of trust (Cronbach’s a = 0.69).7
+
+We also included various control variables. Previous research has indicated that age, gender, level of education and religion have a strong impact, both on political trust and on law-abiding attitudes (Hetherington 2005; Halman 2007). We therefore included age, gender, level of education and religious practice as background variables. Gender is coded with ‘0’ indicating women and ‘1’ indicating men. Religious practice was measured with an 8-item scale, ranging from no practice at all to attending church more than once a week (see Appendix for a description of all variables). It is a general expectation that individuals with high levels of social capital will also have higher levels of generalised trust and that they will be more willing to adhere to the law (Putnam 1993; Hooghe 2008; Zmerli & Newton 2008). We do not wish to enter the current debate about what a correct deﬁnition of ‘social capital’ should be exactly, but we think it is safe to include two elements commonly included in the social capital literature as control variables: generalised trust and participation in voluntary associations (Castiglione et al. 2008). In the EVS questionnaire, generalised trust was included with the standard question: ‘Do you think most people can be trusted, or that you cannot be too careful in dealing with strangers?’ This item is a simple dichotomy (0 = Cannot be too careful; 1 = Most people can be trusted). For membership of voluntary organisations, the EVS questionnaire included 15 different kinds of organisations (trade unions, sport organisations, etc.). The range of this scale is therefore ‘0’ (no memberships at all) to a maximum of 15 reported memberships.8
+
+Finally, we included a more stringent test. If a signiﬁcant relationship between political trust and legal permissiveness were to be found, one could still argue that this results from both measurements tapping a more general conservative and norm-driven moral orientation.The counter argument would
+
+does political trust matter? 275
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+be that any observed relationship between political trust and legal permissiveness merely exists because both of these attitudes are dimensions of a latent value complex of moral conservatism and deference to authority (Schwartz & Huismans 1995; Schwartz & Boehnke 2004). In order to verify whether there is still an independent effect on legal permissiveness, we include another control variable with regard to this general rules-oriented moral orientation. If, even after including a control for conservative moral orientation, we still ﬁnd a signiﬁcant effect of political trust, we can be more certain that there is a real direct effect. In order to include a stringent control, we focused on sexual and biomedical ethics, since these items represent a strong core of moral conservatism (McCutcheon 1987; Hooghe et al. 2010). A general conservative moral orientation was measured by items on the acceptability of divorce, homosexuality, suicide, euthanasia and abortion (for exact wording, see Appendix). For these items, too, respondents could indicate whether they considered them as justiﬁed or not on a scale from 1 to 10. These items form a solid scale with a Cronbach’s a of 0.79.This high intra-scale correlation indicates that sexual and ethical moral conservatism can be considered as a strong and easily identiﬁable value orientation that is well suited to function as a control variable. Low values indicate a strict conservative moral orientation, while high values indicate a liberal moral orientation towards these issues.While moral conservatism and legal permissiveness correlate (r = 0.33), this correlation is not sufﬁciently strong to lead to a danger of multicollinearity.
+
+Presentation of the data
+
+Before we start with the analysis, we present the main variables in our analysis on a country-by-country basis (Table 1). As can be seen, the variation in political trust is quite strong in European societies, ranging from the lowest score of 1.09 (on a 0–3 scale) in the Czech Republic and Lithuania, to 1.85 in Finland. The pattern is quite common in research on political culture: the highest values are documented in Northern Europe, while the countries in Eastern Europe tend to have lower levels of political trust. For legal permissiveness, the pattern is less clear.The highest levels of legal permissiveness are recorded in countries as diverse as Belarus, Greece and Belgium. A demographic breakdown demonstrates that political trust is higher among older respondents; women and lower educated respondents are slightly more trusting. Religious practice is positively associated with political trust (Table 2).The extent of legal permissiveness also differs among various groups of the population. Older respondents are far less condoning of illegal
+
+276 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 1. Presentation of the data
+
+Country Political trust Legal permissiveness
+
+Finland 1.85 (0.49) 2.75 (1.73) Denmark 1.81 (0.45) 2.57 (1.39) Iceland 1.76 (0.47) 2.23 (1.45)
+
+Great Britain 1.66 (0.54) 2.65 (1.77)
+
+Ireland 1.66 (0.58) 2.37 (1.58)
+
+Turkey 1.66 (0.77) 1.26 (0.72)
+
+Luxembourg 1.64 (0.58) 3.40 (1.95)
+
+Sweden 1.61 (0.48) 2.74 (1.48)
+
+Austria 1.61 (0.52) 2.53 (1.70)
+
+Germany (West) 1.60 (0.50) 2.38 (1.58)
+
+Malta 1.60 (0.64) 1.67 (1.19)
+
+Portugal 1.54 (0.56) 2.22 (1.61)
+
+Netherlands 1.51 (0.46) 2.84 (1.42)
+
+Poland 1.50 (0.63) 2.45 (1.50)
+
+Northern Ireland 1.48 (0.72) 2.52 (1.88)
+
+France 1.46 (0.62) 3.52 (2.03)
+
+Germany (East) 1.45 (0.51) 2.36 (2.06)
+
+Belarus 1.44 (0.66) 3.87 (2.21)
+
+Slovakia 1.42 (0.55) 2.91 (1.70)
+
+Italy 1.42 (0.56) 2.25 (1.56)
+
+Romania 1.42 (0.62) 2.48 (1.64)
+
+Spain 1.42 (0.63) 2.78 (1.76)
+
+Croatia 1.40 (0.56) 2.27 (1.85)
+
+Slovenia 1.34 (0.59) 2.81 (1.84)
+
+Hungary 1.31 (0.62) 2.15 (1.63)
+
+Greece 1.29 (0.59) 3.75 (1.94)
+
+Latvia 1.28 (0.63) 2.51 (1.70)
+
+Bulgaria 1.28 (0.64) 1.85 (0.36)
+
+Belgium 1.27 (0.56) 3.50 (1.92)
+
+Ukraine 1.24 (0.65) 3.30 (2.28)
+
+Estonia 1.21 (0.56) 3.19 (2.00)
+
+Russian Federation 1.18 (0.65) 2.91 (1.90)
+
+Lithuania 1.09 (0.46) 3.58 (2.25)
+
+Czech Republic 1.09 (0.50) 2.12 (1.36)
+
+Mean 1.44 (0.61) 2.67 (1.81)
+
+Notes: Entries are means with standard deviations between brackets. The political trust scale ranges from 0 (no trust) to 3 (high trust). Legal permissiveness ranges from 1 (not permissive) to 10 (highly permissive). EVS data weights are applied. N = 41,125. Source: EVS (1999–2001).
+
+does political trust matter? 277
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+behaviour than younger respondents. Women have stricter attitudes with regard to ﬁscal and social fraud than male respondents. Respondents with low levels of education have a stricter law-abiding outlook than those with high education levels. Finally, those who practice their religion in an active manner are far less permissive of breaking the law. The main question we try to answer in the analysis is whether there is a signiﬁcant difference in legal permissiveness depending on the level of political trust. To this end, we ﬁrst calculated the correlation of these variables. This correlation demonstrates that there is indeed a signiﬁcant zero-order correlation of -0.139 (p < 0.01) between political trust and legal permissiveness. Citizens with low levels of political trust ﬁnd it more acceptable to break the law.
+
+Table 2. Demographic differences in the attitudinal variables (means)
+
+Social background variables Political trust Legal permissiveness
+
+All respondents 1.44 (0.61) 2.67 (1.81)
+
+Age *** ***
+
+<30 1.39 (0.60) 3.16 (1.96)
+
+31–40 1.40 (0.60) 2.89 (1.89)
+
+41–50 1.41 (0.60) 2.59 (1.76)
+
+51–65 1.49 (0.61) 2.34 (1.61)
+
+65+ 1.59 (0.63) 2.07 (1.45)
+
+Gender *** ***
+
+Women 1.46 (0.60) 2.53 (1.72)
+
+Men 1.42 (0.62) 2.83 (1.90)
+
+Education level *** ***
+
+Limited education 1.58 (0.67) 2.22 (1.68)
+
+Compulsory education 1.51 (0.62) 2.45 (1.73)
+
+Secondary education 1.39 (0.60) 2.81 (1.86)
+
+Higher education 1.40 (0.58) 2.87 (1.82)
+
+Religious practice *** ***
+
+Never 1.32 (0.62) 2.89 (1.93)
+
+Rarely (about once a year) 1.45 (0.60) 2.86 (1.85)
+
+On special holidays 1.44 (0.60) 2.77 (1.84)
+
+Once a month 1.50 (0.58) 2.56 (1.69)
+
+Once a week or more 1.59 (0.61) 2.16 (1.52)
+
+Notes: Entries are the means on the political trust scale (0–3) and legal permissiveness scale (1–10); the ﬁgures in brackets are the standard deviations. Signiﬁcance of the Chi2 tests: *** p < 0.001. EVS data weights are applied. N = 41,125. Source: EVS (1999–2001).
+
+278 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+This is in line with Dalton’s (2004: 165–169) earlier research ﬁndings, which were also based on simple zero-order correlations. However, we need a more stringent analysis in order to determine the relationship between political trust and legal permissiveness. Therefore, we constructed a regression model to test whether citizens with lower levels of trust in political institutions ﬁnd violations of the law more acceptable than citizens with higher levels of trust in political institutions. Given that our dependent variable is skewed toward non-permissiveness, respondents were divided into three groups of more or less equal size.9 This allowed us to perform an ordered logistic regression in which we estimate the chances of belonging to the most permissive group. The observations in the EVS dataset are not independent as respondents were sampled in 33 countries. It is a reasonable expectation that the scores of respondents sampled in the same country will tend to resemble one another, and this nested structure of the data can bias the standard errors, which results in spurious signiﬁcant results. Therefore, multilevel analysis was used as it controls for this intra-class correlation, yielding correct standard errors.10 The multilevel ordered regression model looks as follows:
+
+resp Ordered Multinomial cons ijk jk ijk
+
+jk jk jk jk
+
+∼ , ; π γ π γ π ( ) = = 1 1 2 1 + = ( ) = <= ( ) + π γ γ β
+
+2 3
+
+1 0 1
+
+jk jk
+
+jk ijk jk
+
+V h ; . logit cons Permissiveness
+
+logit cons Permissiveness Politi γ β β
+
+2 1
+
+4
+
+2 jk ijk jk
+
+jk
+
+h h ( ) = <= ( ) + = . cal trust Gender_ Age Education . . . . 12 1 12 12 12 5 6 7 ijk jk ijk + + + β β β ijk
+
+jk ijk + + + β β β 8 9 10 1 12 12 Generalised trust_ Membership Moral . . orientation cons N
+
+. . , : cov
+
+12 12 0
+
+3
+
+3 3 2
+
+jk
+
+k
+
+k v v v
+
+sjk
+
+v v y
+
++ [ ] ( ) = [ ] ∼ Ω Ω σ , yrjk sjk rjk jk ( ) = − ( ) <= γ γ 1 cons s r (1)
+
+Results
+
+The multilevel analysis proceeds in a number of steps (Table 3). We start with a null-model, showing a considerable amount of variance at the country level. This implies that the use of multilevel techniques is essential, even in the absence of speciﬁc country-level theoretical assumptions. This model predicts the likelihood that respondents will belong to the ﬁrst or second category on the legal permissiveness scale – that is, that they will have the most permissive attitudes.11 More substantively, Model I shows that political trust levels have a negative effect on the likelihood of having permissive attitudes. The analysis
+
+does political trust matter? 279
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3. Political trust and legal permissiveness: Multilevel analysis
+
+Legal permissiveness
+
+Model 0 Model I Model II Model III
+
+Individual-level variables
+
+Political trust -0.421** (0.018) -0.332** (0.019) -0.252** (0.020)
+
+Gender (Male = 1) 0.239** (0.021) 0.295** (0.022)
+
+Age -0.025** (0.001) -0.020** (0.001)
+
+Education 0.005ns (0.006) -0.029** (0.006)
+
+Religious practice -0.035** (0.005) –
+
+Generalised trust 0.019ns (0.024) -0.031ns (0.026)
+
+Membership voluntary organisations -0.011ns (0.008) -0.019* (0.009)
+
+Moral orientation 0.213** (0.006)
+
+Category 1 (Most permissive) -0.881 (0.124) -0.277* (0.126) 0.630** (0.136) -0.576** (0.130)
+
+Category 2 0.907 (0.124) 1.533** (0.126) 2.518** (0.136) 1.384** (0.130)
+
+Variance at country-level 0.518 (0.126) 0.509 (0.124) 0.528 (0.129) 0.436 (0.107)
+
+Number of cases 33,078 33,078 33,078 29,941
+
+IGLS deviance 70,725.8 69,780.7 (p < 0.001) 66,145.3 (p < 0.001) 56,459.7 (p < 0.001)
+
+Notes: Entries are parameter estimates and standard errors (between brackets) of a multilevel ordered logistic regression using MLwin. Dependent variable: Legal permissiveness. Scores represent the likelihood that respondent obtains a score of ‘1’ or ‘1 or 2’ on this ordinal variable (1 = Most permissive; 2 = Middle category; 3 = Least permissive). ** p < 0.001; * p < 0.05. Source: EVS (1999–2001).
+
+280 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+allows us to calculate that the probability of having permissive attitudes is 43 per cent among highly distrusting citizens, while this probability is only 18 per cent among highly trusting citizens. The results of this ﬁrst analysis conﬁrm our hypothesis: respondents with higher levels of political trust are less likely to have permissive attitudes than respondents with lower levels of political trust. This relation holds even after controlling for various variables in Model II. Older people and those who are religiously involved are less likely to have permissive attitudes than younger people. On the other hand, men are more likely to have permissive attitudes towards illegal behaviour. In Model II, level of education and social capital indicators have no signiﬁcant impact on legal permissiveness. In Model III, we add an additional control variable, the conservative moral orientation scale. Here, one can observe a very strong relation with legal permissiveness.12 However, what is most important in this analysis is that the relation with political trust remains ﬁrmly in place. Those who do not express trust in political institutions have a more permissive attitude toward lawbreaking behaviour than those with higher trust levels. Political trust indeed seems to have a substantial independent effect on legal permissiveness. In Figure 1,the likelihood of having permissive attitudes is visualised by the level of political trust for each country in the analysis.The graph shows that in most countries citizens with higher political trust are less likely to have permissive attitudes. In 32 countries of the total sample this negative relation between trust and permissiveness was present, and only in two countries do we observe the opposite relation. These outliers are Bulgaria and East Germany,
+
+Figure 1. Regression slopes per country. Notes: Relationship between the probability to have permissive attitudes and political trust (in antilogits). Each regression line depicts one country in the EVS (1999–2001).
+
+does political trust matter? 281
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+both newer democracies, which could explain their deviation from the pattern as these countries were still struggling to establish a well-functioning administrative and political system. The experience of authoritarian rule could have had an effect on (the meaning of) political trust in these two societies. However, in general, the relation between political trust and law-abiding attitudes exists in a broad variety of European countries with just two exceptions in the total sample.
+
+Discussion
+
+While there is a fairly large body of research related to the causes for the occurrence of political trust, relatively little empirical research has been published on the consequences of political trust. Some authors have claimed that there is no reason for concern about an alleged decline in political trust since a form of institutionalised distrust is one of the hallmarks of modern democracy. On a more empirical level, Geißel (2008) has shown that there is a positive relation between the prevalence of ‘critical citizens’ and the presence of well-functioning democratic systems. This relation does not inform us, however, about any form of causality. While theoretically there are good reasons to assume that low levels of political trust will undermine the effective governing of a society, empirical evidence in support of this view is usually lacking. Most authors take it for granted that citizens should be trusting of the political system and therefore it is expected that low levels of political trust will entail considerable negative consequences for the democratic functioning of a society. To date, empirical evidence underpinning this argument remains limited to a small number of observations. In this article, we have provided empirical results on the possible effects of political trust on the effectiveness of government. The study suggests that low levels of political trust are associated with less support for law compliance within a society. Low trust in political institutions results in less public willingness to defer to decisions taken by those institutions. In the absence of voluntary compliance, governments have to resort to coercive measures to enforce regulations with the result that governing is rendered more difﬁcult and more costly. Therefore, low levels of political trust can undermine the effective governing of a society and carry with them a potential threat for the functioning of democratic processes. This empirical ﬁnding sheds new light on the discussion about the consequences of low trust levels among European populations. Authors such as Inglehart and Norris have stated that citizens with low levels of political trust should be labelled ‘critical citizens’: they are more sceptical about the promises
+
+282 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+of politicians, and political systems just need to ﬁnd a way to deal with the increased scrutiny of cognitively engaged citizens. Based on our ﬁndings, we cannot make any statements on the consequences of low political trust levels for a normative concept of democracy since we did not investigate these broader consequences. The strong positive relation we ﬁnd between political distrust and legal permissiveness, however, demonstrates that these ‘critical citizens’ are also quite tolerant with regard to ﬁscal fraud or false social security claims. These attitudes can be seen as detrimental to the smooth functioning of contemporary welfare states. They mean that the state apparatus and the social security system will need more resources to ensure the collection of taxes and correct social security payments. Earlier research has shown that political trust can have an important effect on the economic growth potential of a region or a political system (Cherchye & Moesen 2004). Our analysis suggests that we can also take the argument a step further: political trust also has a direct effect on the capability of government systems to fulﬁl their basic tasks towards the population. This would imply that low levels of political trust can pose a challenge for the governability of contemporary liberal societies. While the Inglehart argument holds that governments will simply have to learn to live with more critical citizens could be accepted, it is more difﬁcult to explain how governments will be able to deal with citizens who are more permissive towards ﬁscal and social fraud. In the worst case scenario, this could even lead to the development of a vicious cycle for governments and political trust. Earlier research has suggested that trust levels are threatened mainly because expectations with regard to government action have risen (Hetherington & Rudolph 2008). In addition, the current analysis suggests that distrust actually makes it more difﬁcult for government institutions to function in an effective manner.The current state of research does not allow us to suggest an easy way out of this negative spiral, but our analysis suggests that authors claiming that political distrust is not a problem for the stability of political systems should also pay attention to the ability of political institutions to implement government policy.
+
+Acknowledgements
+
+Research for this article was funded by the Belgian Federal Science Agency as part of the InterUniversity Attraction Pole Programme ‘Participation and Representation’ (www.partirep.eu).
+
+does political trust matter? 283
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Appendix
+
+Appendix Table 1. Response rates for countries (European Values Surveys 1999–2001)
+
+Country Contacted respondents N Response rate
+
+Romania 1,200 1,146 95.50
+
+Slovakia 1,400 1,331 95.07
+
+Greece 1,400 1,142 81.57
+
+Bulgaria 1,237 1,000 80.84
+
+Austria 1,891 1,522 80.49
+
+Great Britain n.a. 1,000 80.00
+
+Lithuania 1,279 1,018 79.59
+
+Malta 1,266 1,002 79.15
+
+Poland 1,426 1,095 76.79
+
+Italy 2,640 2,000 75.76
+
+Russia 3,368 2500 74.23
+
+Hungary 1,446 1,000 69.16
+
+Latvia 1,469 1,013 68.96
+
+Northern Ireland 1,463 1,000 68.35
+
+Belarus 1,486 1,000 67.29
+
+Ukraine 1,787 1,195 66.87
+
+Iceland 1,470 968 65.85
+
+Czech Republic 2,920 1,908 65.34
+
+Ireland 1,628 1,012 62.16
+
+Luxembourg 1,965 1,211 61.63
+
+Finland 1,694 1,038 61.28
+
+Germany 3,581 2,036 56.86
+
+Denmark 1,803 1,023 56.74
+
+Croatia 1,845 1,003 54.36
+
+Sweden 1,875 1,015 54.13
+
+Estonia 1,875 1,005 53.60
+
+Slovenia 1,890 1,006 53.23
+
+Portugal 2,501 1,000 39.98
+
+France n.a. 1,615 42.00
+
+Belgium 5,226 1,912 36.59
+
+Netherlands 2,749 1,003 36.49
+
+Spain 4,243 1,200 28.28
+
+Turkey n.a. 1,206 n.a.
+
+Mean response rate (percentage) 41,125 64.63
+
+Notes: Addresses that could not be traced or that did not contain private dwellings were not taken into account. Response rates do not take into account potential respondents that were physically unable to participate in the study. Source: Halman (2001).
+
+284 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Appendix Table 2. Variables used in the analyses (European Values Surveys 1999–2001)
+
+Variable N Mean Standard deviation Minimum Maximum
+
+Legal permissiveness (1–10 scale) 38,094 2.66 1.81 1 10
+
+Legal permissiveness (transformed to categorical) 38,094 1.99 0.79 1 3
+
+Political trust 36,819 1.44 0.61 0 3
+
+Gender 41,114 0.46 0.498 0 1
+
+Age 40,963 45.07 17.14 15 101
+
+Education level 40,808 4.51 2.13 1 8
+
+Religiousness 40,762 2.87 2.46 0 7
+
+Generalised trust 39,505 0.30 0.46 0 1
+
+Voluntary membership 41,125 0.97 1.47 0 15
+
+Moral orientation 35,239 4.34 2.30 1 10
+
+Valid N (listwise) 29,941
+
+Questions used from EVS (1999–2001)
+
+Legal permissiveness
+
+Please tell me for each of the following statements whether you think it can always be justiﬁed, never be justiﬁed, or something in between, using this card.
+
+1 2 3 4 5 6 7 8 9 10
+
+Never Always
+
+– Claiming state beneﬁts which you are not entitled to – Cheating on tax if you have the chance – Paying cash for services to avoid taxes
+
+Political trust
+
+Please look at this card and tell me, for each item listed, how much conﬁdence you have in them, is it a great deal, quite a lot, not very much or none at all?
+
+– Parliament – The justice system – The police – The armed forces
+
+does political trust matter? 285
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Level of education
+
+What is the highest level you have reached in your education? [To be measured as detailed as possible on national level and to be transformed into this variable]
+
+– Inadequately completed elementary education – Completed (compulsory) elementary education – (Compulsory) elementary education and basic vocational qualiﬁcation – Secondary, intermediate vocational qualiﬁcation – Secondary, intermediate general qualiﬁcation – Full secondary, maternity-level certiﬁcate – Higher education, lower-level tertiary certiﬁcate – Higher education, upper-level tertiary certiﬁcate
+
+Gender
+
+0 = Female; 1 = Male
+
+Age
+
+Can you tell me your year of birth, please? Age = (1999 – year of birth)
+
+Religious practice
+
+Apart from weddings, funerals and christenings, about how often do you attend religious services these days?
+
+– More than once a week – Once a week – Once a month – Christmas/Easter day – Other speciﬁc holy days – Once a year – Less often – Never, practically never
+
+Generalised trust
+
+Generally speaking, would you say that most people can be trusted or that you can’t be too careful in dealing with people?
+
+286 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+– Cannot be too careful (0) – Most people can be trusted (1)
+
+Membership of voluntary organisations
+
+Please look carefully at the following list of voluntary organisations and activities and say which, if any, do you belong to?
+
+– Social welfare services for elderly, handicapped or deprived people – Religious or church organisations – Education, arts, music or cultural activities – Trade unions – Political parties or groups – Local community action on issues like poverty, employment, housing, racial equality – Third World development or human rights – Conservation, the environment, ecology, animal rights – Professional associations – Youth work (e.g., Scouts, Guides, youth clubs) – Sports or recreation – Women’s groups – Peace movement – Voluntary organisations concerned with health – Other groups – None
+
+Conservative moral orientation
+
+Please tell me for each of the following statements whether you think it can always be justiﬁed, never be justiﬁed, or something in between, using this card.
+
+1 2 3 4 5 6 7 8 9 10
+
+Never Always
+
+– Homosexuality – Abortion – Divorce – Euthanasia (terminating the life of the incurably sick) – Suicide
+
+does political trust matter? 287
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Notes
+
+1. Given that the data we used are cross-sectional, it is clear that we cannot make any statements about the effects of an alleged decline in political trust.We can only arrive at conclusions about the possible consequences of low levels of political trust. 2. There was an upper age limit in Belarus (81), Iceland (80), Sweden (75), Latvia (75) and the Czech Republic (75). Sampling procedures differ slightly between countries. Detailed information on sampling procedures can be found online at: http:// spitswww.uvt.nl/web/fsw/evs/documents/Publications/Sourcebook/ EVS_SourceBook.pdf. Given that strong differences between the former Eastern and Western Germany are still observed with regard to political trust (Zmerli & Newton 2008), these two parts of Germany were considered as two distinct societies. 3. Some countries had a rather low response rate, which might have a negative impact on the validity of the data (Groves & Heeringa 2006).Therefore, as a matter of precaution, we performed the analyses once with all countries included, and once with a selection of countries with a response rate of more than 50 per cent. Given that Romania and Slovakia have exceptionally high response rates (95 per cent) and no information is available on Turkey, these countries were also left out of this test. Since both analyses produced the same results, in the remainder of this article we present the analyses that were conducted on the full sample of 33 European countries. 4. A factor analysis demonstrated that the items in this scale load on a single factor, with 60.61 per cent explained variance and an Eigenvalue of 1.82. 5. In the literature, the terms ‘political trust’ or ‘institutional trust’ or ‘trust in political institutions’ are used almost interchangeably.Although we realise that most of the items in the current scale refer to political institutions, for reasons of clarity and uniformity we will refer to the scale as ‘Political trust’. 6. A factor analysis demonstrated that the items in this scale load on a single factor, with 52.7 per cent explained variance and an Eigenvalue of 2.11. 7. For reasons of clarity, this scale was recoded to range between 0 and 3.This scale proved to be one-dimensional in all countries separately, as well as in the whole sample. Originally, this scale also tapped trust in the European Union and the United Nations, but these institutions were left out of the analysis because they do not belong to the national political system. A similar analysis, including the EU and the United Nations, however, led to similar results. 8. As this might lead to effects of simply mentioning numerous different organisations, this variable was also included as a dummy variable (0 = No associations; 1 = One or more associations). This, however, did not change the results. 9. The ‘Legal permissiveness’ variable was recoded into three categories of more or less equal size. Respondents who indicated that all three acts were never acceptable (value 1 on the ‘Legal permissiveness’ scale) obtained ‘score 3’. Respondents with a value of 2 or 3 on the ‘Legal permissiveness’ scale obtained ‘score 2’. The most permissive part of the sample obtained ‘score 1’, and the chances of belonging to this most permissive group of the sample are estimated in the regression analysis. 10. It has to be noted that the multilevel analysis reported here is intended mainly to deal with the nested structure of the data in a methodologically correct manner since in the literature we encountered no theoretical claims of country-level variables inﬂuencing the relation between political trust and legal permissiveness. A more basic test, using country-level dummies in a single-level variable, yielded the same results.
+
+288 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+11. As can be noticed,29.3 per cent of all respondents belong to category 1,and 71.2 per cent to categories 1 or 2.These percentages can be calculated by taking the antilogit of -0.881 and 0.907 and multiplying this by 100. Subsequently, 28.8 per cent of respondents obtained a score of ‘3’ (i.e., ‘Least permissive’). 12. Given the strong relation with religious practice, this variable is left out of this model.
+
+References
+
+Almond, G. & Verba, S. (1963). The civic culture. Princeton, NJ: Princeton University Press. Anderson, C. et al. (eds) (2005). Losers’ consent: Elections and democratic legitimacy. Oxford: Oxford University Press. Ayres, I. & Braithwaite, J. (1992). Responsive regulation: Transcending the deregulation debate. Oxford: Oxford University Press. Barber, B. (1984). Strong democracy. Berkeley, CA: University of California Press. Bardi, A. & Schwartz, S.H. (2003). Values and behavior: Strength and structure of relations. Personality and Social Psychology Bulletin 29(10): 1207–1220. Castiglione, D., Van Deth, J. & Wolleb, G. (eds) (2008). Handbook of social capital. Oxford: Oxford University Press. Chanley, V., Rudolph, T. & Rahn, W. (2000). The origins and consequences of public trust in government: A time series analysis. Public Opinion Quarterly 64(3): 239–256. Cherchye, L. & Moesen, W. (2004). Trust in the public sector and macroeconomic outcomes. Empirical Economics Letters 3(4): 169–179. Cook, T. & Gronke, P. (2005). The sceptical American: Revisiting the meanings of trust in government and conﬁdence in institutions. Journal of Politics 67(3): 784–803. Dalton, R. (2004). Democratic challenges, democratic choices:The erosion of political support in advanced industrial democracies. Oxford: Oxford University Press. Easton, D. (1965). A framework for political analysis. Englewood Cliffs, NJ: Prentice Hall. European Values Study (EVS). (various years). EVS – European Values Study, 1999/2000 (release 2, May 2006). Integrierter Datensatz (data ﬁle). Cologne: GESIS. Gamson, W.A. (1968). Power and discontent. Homewood, IL: Dorsey Press. Geißel, B. (2008). Do critical citizens foster better governance? A comparative study. West European Politics 31(5): 855–873. Grimes, M. (2008). Consent, political trust and compliance: Rejoinder to Kaina’s remarks on ‘Organizing consent’. European Journal of Political Research 47(4): 522–535. Groves, R.M. & Heeringa, S.G. (2006). Responsive design for household surveys: Tools for actively controlling survey errors and costs.Journal of the Royal Statistical Society 169(3): 439–457. Halman, L. (2001). The European Values Survey:A third wave. Tilburg: University of Tilburg. Halman, L. (2007). Political values. In R. Dalton & H.-D. Klingemann (eds), The Oxford handbook of political behaviour. Oxford: Oxford University Press. Hardin, R. (2006). Trust. Cambridge: Polity Press. Hetherington, M. (2005). Why trust matters: Declining political trust and the demise of American liberalism. Princeton, NJ: Princeton University Press. Hetherington, M. & Rudolph, T.J. (2008). Priming, performance and the dynamics of political trust. Journal of Politics 70(2): 498–512. Hooghe, M. (2008). Voluntary associations and socialization. In D. Castiglione et al. (eds), The handbook of social capital. Oxford: Oxford University Press.
+
+does political trust matter? 289
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Hooghe, M. et al. (2010). Anti-gay sentiment among adolescents in Belgium and Canada:A comparative investigation into the role of gender and religion. Journal of Homosexuality 57(3): 384–400. Inglehart, R. (1999). Postmodernization erodes respect for authority, but increases support for democracy. In P. Norris (ed.), Critical citizens: Global support for democratic government. Oxford: Oxford University Press. Inglehart, R. (2008). Changing values among Western publics from 1970 to 2006. West European Politics 31(1–2): 130–146. International Social Survey Programme (ISSP). (1998). International Social Survey Programme, 1998: Religion II (ISSP 1998) (data ﬁle) Cologne: GESIS. Jowell, R. et al. (2005). European Social Survey, 2004/2005:Technical report. London: Centre for Comparative Social Surveys, City University. Kirchler, E., Hoelzl, E. & Wahl, I. (2008). Enforced versus voluntary tax compliance: The ‘slippery slope’ framework. Journal of Economic Psychology 29(2): 210–225. Klingemann, H.-D. & Fuchs, D. (eds) (1995). Citizens and the state. Oxford: Oxford University Press. Levi, M. & Stoker, L. (2000). Political trust and trustworthiness. Annual Review of Political Science 3: 475–507. Lindström, M. (2008). Social capital, political trust and purchase of illegal liquor: A population-based study in southern Sweden. Health Policy 86(2–3): 266–275. McCutcheon, A. (1987). Sexual morality, pro-life values and attitudes toward abortion: A simultaneous latent structure analysis for 1978–1983. Sociological Methods and Research 16(2): 256–275. Norris, P. (ed.) (1999a). Critical citizens: Global support for democratic government. Oxford: Oxford University Press. Norris, P. (1999b). The growth of critical citizens. In Critical citizens: Global support for democratic government. Oxford: Oxford University Press. Norris, P. (1999c). The growth of critical citizens and its consequences. In Critical citizens: Global support for democratic government. Oxford: Oxford University Press. Norwegian Social Science Data Services (NSD). (2005). European Social Survey data. Bergen: Norwegian Social Science Data Services. Available online at: http:// ess.nsd.uib.no/. Pharr, S.J. & Putnam, R. (eds) (2000). Disaffected democracies:What’s troubling the trilateral countries? Princeton, NJ: Princeton University Press. Putnam, R. (1993). Making democracy work: Civic traditions in modern Italy. Princeton, NJ: Princeton University Press. Putnam, R. (2002). Conclusion. In Democracies in ﬂux: The evolution of social capital in contemporary society. Oxford: Oxford University Press. Rosanvallon, P. (2008). Counter-democracy: Politics in an age of distrust. Cambridge: Cambridge University Press. Rudolph, T.J. & Evans, J. (2005). Political trust, ideology and public support for government spending. American Journal of Political Science 49(3): 660–671. Scholz, J.T. & Lubell, M. (1998). Trust and taxpaying: Testing the heuristic approach to collective action. American Journal of Political Science 42(2): 398–417. Schwartz, S.H. & Boehnke, K. (2004). Evaluating the structure of human values with conﬁrmatory factor analysis. Journal of Research in Personality 38(3): 230–255. Schwartz, S.H. & Huismans, S. (1995). Value priorities and religiosity in four Western religions. Social Psychology Quarterly 58(2): 88–107.
+
+290 sofie marien & marc hooghe
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Stolle, D. & Hooghe, M. (2005). Inaccurate, exceptional, one-sided or irrelevant? The debate about the alleged decline of social capital and civic engagement in Western societies. British Journal of Political Science 35(1): 149–167. Tyler, T. (2006). Why people obey the law (2nd edn). Princeton, NJ: Princeton University Press. Tyler, T. & Huo, Y.J. (2002). Trust in the law. New York: Russell Sage Foundation. World Values Survey (WVS). (1995). Ofﬁcial data ﬁle. Aggregate File Producer: ASEP/JDS, Madrid. Available online at: www.worldvaluessurvey.org Zmerli, S. & Newton, K. (2008). Social trust and attitudes toward democracy. Public Opinion Quarterly 72(4): 706–724.
+
+Address for correspondence: Soﬁe Marien, Centre for Political Research, Katholieke Universiteit Leuven, Parkstreet 45, Box 3602, B-3000 Leuven, Belgium. E-mail: Soﬁe.Marien@ soc.kuleuven.be
+
+does political trust matter? 291
+
+© 2010 The Author(s) European Journal of Political Research © 2010 European Consortium for Political Research
+
+14756765, 2011, 2, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2010.01930.x by Iscte, Wiley Online Library on [17/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

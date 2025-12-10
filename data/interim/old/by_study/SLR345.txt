@@ -1,0 +1,417 @@
+S I L E S I A N U N I V E R S I T Y O F T E C H N O L O G Y P U B L I S H I N G H O U S E SCIENTIFIC PAPERS OF SILESIAN UNIVERSITY OF TECHNOLOGY 2024 ORGANIZATION AND MANAGEMENT SERIES NO. 199
+
+http://dx.doi.org/10.29119/1641-3466.2024.199.39 http://managementpapers.polsl.pl/
+
+TRUST IN INSTITUTIONS AND ECONOMIC INEQUALITY:
+
+THE CASE OF UKRAINE IN 2020
+
+Yevhen REVTIUK
+
+Poznan University of Technology, Institute of Management and Computing Systems;
+
+yevhen.revtiuk@put.poznan.pl, ORCID: 0000-0002-9229-5015
+
+Purpose: In theory, economic inequality should have a negative impact on trust in institutions. However, empirical studies report mixed findings. This article investigates the proposition that the effect of economic inequality on trust in public institutions is non-linear. Design/methodology/approach: The study employs several OLS models to test hypotheses regarding the influence of economic inequality, the level of income at the individual level, and general trust on trust in public institutions in Ukraine before the full-scale military invasion. The data for Ukraine from the World Values Survey, Wave 7, was used to obtain individuallevel variables. Trust in public institutions was measured as the average level of confidence the respondent had in police, justice system/courts, civil servants, government and parliament. The indicator of regional economic inequality was calculated on the basis of government statistics for territories not occupied by Russia in 2014. Findings: The research points to the “inverted U” relationship between economic inequality and trust in public institutions. Hypotheses about the existence of (1) a positive and significant relationship between an individual income level and trust in public institutions, and (2) a positive and significant relationship between the level of trust in individuals and trust in institutions were also confirmed. In addition, the findings suggest that the level of individual income positively and significantly affects the influence of economic inequality on trust in public institutions. Research limitations/implications: The study used data from one country at one point in time, which requires further research using a wider dataset. Originality/value: The identified “inverted U” relationship can be used to explain the ambiguous results of research on the relationship between economic inequality and trust in public institutions. Keywords: economic inequality, trust in institutions, economic growth, democracy, Ukraine. Category of the paper: research paper.
+
+518 Y. Revtiuk
+
+1. Introduction
+
+A higher level of trust in public institutions is associated with greater compliance with governmental policies (Győrffy, 2013; Hetherington, 1998), willingness to cooperate during their implementation (Tyler, 2013) and acceptance of potential losses (Fairbrother, 2019). In recent decades, however, democratic countries have faced a decline in trust in public institutions (Algan et al., 2017; Citrin, Stoker, 2018). This trend creates potential obstacles to the effective implementation of government policies, leads to the growing influence of populist political parties (Algan et al., 2017), threatens democratic processes (Meer, 2017) and carries potential risks to economic security (Perry, 2021). Trust in public institutions is rooted both in the individual perceptions acquired during a lifetime through interaction with others (Mishler, Rose, 2001) and in the ability of institutions to provide for citizens’ needs (Coleman, 1990; Hetherington, 1998).
+
+The level of trust in public institutions depends on economic inequality (Andersen, 2012; Belabed, Hake, 2018; Uslaner, 2008; Zmerli, Castillo, 2015) and individual income (MedveBálint, Boda, 2014; Zmerli, Newton, 2013). Both these factors are the outcomes of government macroeconomic policies and directly affect the quality of life of citizens. Theoretically, the growth of economic inequality and the fall of incomes are perceived by citizens as the
+
+inability of the government to provide for their needs and leads to a drop in the level of trust in public institutions. Researchers have repeatedly confirmed the positive impact of income on trust in institutions (Vallier, 2020). In the case of the effect of economic inequality on trust, however, the empirical evidence is mixed. Studies report both negative (Gould, Hijzen, 2016; Zhou, Jin, 2018; Zmerli, Castillo, 2015) and positive (Lee et al., 2020) relationship, or lack of such (Goubin, 2020; van der Meer, Hakhverdian, 2017).
+
+The present article contributes to the ongoing debates by investigating the relationship between trust in public institutions, local economic inequality and individual income level. We relied on individual-level data from the World Values Survey (WWS) and regional-level indicators from the State Statistics Service of Ukraine in 2020. Ukraine is an excellent case to study the relationship between trust in institutions and economic inequality. Since independence in 1991, the country has undergone a series of economic reforms, causing an increase in economic inequality that peaked in the late 1990s. Ukrainian society, for centuries under the oppression of the Russian Empire and then the USSR, demonstrates traditionally low levels of trust in public institutions. The country’s vast regions differ in the structure of the economy and, as a result, the level of income and inequality.
+
+We used OLS models to investigate the influence of the local Gini coefficient and individual income on trust in public institutions (a factor of trust in government, parliament, police,
+
+judicial system and civil service). We found evidence for an “inverted U” relationship between economic inequality and trust in institutions. Additionally, we report a positive impact of
+
+Trust in Institutions and Economic Inequality… 519
+
+individual income and generalized trust on trust in public institutions. Based on these findings, we suggest that the “inverted U” effect of the level of economic inequality on economic growth can be decisive in forming citizens' trust in public institutions.
+
+2. Theoretical premises
+
+The literature distinguishes between trust in individuals (interpersonal or generalized trust)
+
+and trust in institutions. The first concerns other individuals in society, while the second relates to different institutions, for example, the government, police or courts (Moramarco, Palmisano, 2023). Trust is inherently relational and situational (Meer, Zmerli, 2017) because "A trusts B to do X" (Hardin, 1999, p. 26). Trust is not unconditional. It is granted to certain individuals, groups or institutions under certain conditions and at a certain time. For example, an individual can trust a political party to represent their interests but not trust the government that was formed with the participation of this political party.
+
+Two main traditions explain the origins of trust in institutions. The cultural theory sees institutional trust as an extension of trust in individuals, learned during life and projected onto public institutions (Mishler, Rose, 2001). Empirical evidence of a connection between the level
+
+of generalized trust and institutional trust is one of the arguments that supports this theory. Studies have found an influence of individual characteristics, such as gender, education, professional status, or religious preferences, on the level of trust in institutions (Alesina, La Ferrara, 2002; Belabed, Hake, 2018; Gustavsson, Jordahl, 2008).
+
+The institutional theory originates trust in institutions in the ability of the latter to meet citizens' needs (Coleman, 1990; Hetherington, 1998; Vallier, 2020). Proponents of this approach see the change in the outcomes of institutions as the reason for the change in the level of institutional trust. In the case of public institutions, such outcomes are primarily macroeconomic indicators (Anderson, 2009; Lee et al., 2020; van Erkel, van der Meer, 2016), especially during crises (Kroknes et al., 2015), which directly affect the quality of life of citizens.
+
+In a democratic society, not only economic outcomes as such are important. A fair distribution of these outcomes among citizens also matters and can be measured using indicators of economic inequality. Economic inequality refers to the unequal distribution of economic resources among the members of society. It is a normative standard and a substantive policy outcome by which citizens evaluate government performance (Bergbauer et al., 2022). According to the institutional theory of trust, a high level of economic inequality is correlated with a low level of trust in public institutions and support for democracy in general (Andersen,
+
+2012).
+
+520 Y. Revtiuk
+
+A “trust-as-evaluation” approach (Lee et al., 2020) suggests that a high economic inequality decreases trust in public institutions because inequality is a result of an ineffective government policy of redistribution of resources, including at the expense of such tools as regulating markets, tax policy, providing social protection, equal opportunities for employment or educational and health services. Here an individual perceives not the level of economic development of society as such but the influence of the government on individual well-being. The level of economic inequality, or rather the outcomes of the implementation of governmental policies aimed at minimizing the negative impact of inequality, is taken into account by citizens while deciding whether their political institutions are legitimate (Zmerli, Castillo, 2015), especially by those who belong to the economically vulnerable groups (Goubin, Hooghe, 2020).
+
+Despite the existing consensus in the literature on the theoretical mechanism of the influence of economic inequality on trust in public institutions, empirical studies from different regions report the ambiguous relationship between these two indicators. A negative relationship between economic inequality and trust in institutions was obtained for 18 Latin American countries (Zmerli, Castillo, 2015) or the USA (Gould, Hijzen, 2016). A negative impact of local economic inequality on trust in local government was found in China (Zhou, Jin, 2018), but the authors report no connection between the level of local economic inequality and trust in the central government. Considering the high level of income inequality between the rural and
+
+urban populations, which is a result of the Chinese government policy, Hutchison and Xu (2017) reported a negative relationship between the local level of urban-rural inequality and trust in the central government.
+
+At the same time, a study of 14 Asian countries indicates a positive relationship between economic inequality and trust in public institutions (Lee et al., 2020). Using the data from 42 European countries, van der Meer and Hakhverdian (2017) found no significant relationship between trust in institutions and economic inequality but reported a significant relationship between economic inequality and satisfaction with democracy. Similarly, a study of 37 OECD and European countries did not find a significant relationship between economic inequality and trust in institutions. The author suggested that economic inequality moderates the impact of perceived political responsiveness to individual preferences on trust in public institutions (Goubin, 2020). A positive relationship between local economic inequality and institutional trust was found in Indonesia; however, the dynamic growth of economic inequality over time negatively affected the level of trust in institutions (Hutagalung et al., 2019).
+
+A possible explanation for such an ambiguous relationship between economic inequality and trust in public institutions lies in individual perception of macro-level outcomes (Anderson, Singer, 2008) or evaluations of governmental performance (Mishler, Rose, 2001). For example, under low economic inequality, trust in institutions in the former post-communist countries of Central Europe remained low (Medve-Bálint, Boda, 2014), given lower macro-level outcomes
+
+compared to more successful neighboring EU countries.
+
+Trust in Institutions and Economic Inequality… 521
+
+3. Hypotheses
+
+Unfair distribution of resources and lack of equal access to public goods, characteristic of societies with a high level of economic inequality, are perceived by citizens as the result of unsatisfactory government performance (Lee et al., 2020). Theoretically, there should be a negative effect of economic inequality on trust in public institutions, which allowed us to formulate the following hypothesis:
+
+H1.1: The level of economic inequality negatively affects trust in public institutions. On the other hand, empirical studies indicate ambiguous relationships between economic inequality and trust in public institutions. A level of economic inequality may be a significant determinant of the rate of economic growth of the country. The outcomes of economic activity, in particular individual well-being, affect the level of trust in public institutions. In turn, empirical studies of economic growth and the level of economic inequality demonstrate the presence of a positive relationship (for example Forbes, 2000; Majeed, 2016; Muinelo-Gallo, Roca-Sagalés, 2013; Patel et al., 2021) and a negative relationship (for example Breunig, Majeed, 2020; Rhee, 2018; Santiago et al., 2019; Szeles, 2013). The “inverted U” hypothesis by Kuznets (1955) explained the contradictions between positive and negative relationship and was partially confirmed by the empirical results (for example Brida et al., 2020; Tabassum,
+
+Majeed, 2008). Researchers note, however, that economic inequality has a positive effect on the economic growth of developing countries but a negative effect in developed countries. Considering the existence of a positive connection between individual well-being and trust in public institutions and the Kuznets’ “inverted U” proposition, we formulated the following hypothesis:
+
+H1.2: The influence of economic inequality on trust in public institutions has an “inverted U” character.
+
+From the point of view of the “trust-as-evaluation” approach, the outcomes of economic activity, in particular individual well-being, affect the level of trust in public institutions (Vallier, 2020). In this case, an individual evaluates government performance in ensuring own high standard of living. We suggest that one of the key objective indicators that may be used to measure individual well-being is the level of individual income. Therefore,
+
+H2: The level of individual income positively affects the level of trust in public institutions. When analyzing the impact of economic inequality on trust in public institutions, one should consider the social consequences of inequality. Growing economic inequality leads to increased differences between population groups, exacerbating intergroup disputes and decreasing interpersonal trust (Belabed, Hake, 2018). Trust in individuals affects people’s tendency to perceive public institutions as legitimate through cooperative expectations (Brehm, Rahn,
+
+1997). Empirical studies have noted a positive relationship between generalized trust and trust
+
+522 Y. Revtiuk
+
+in institutions (for example Bargsted et al., 2022; Dellmuth and Tallberg, 2020). Thus, we expect that:
+
+H3: The level of interpersonal trust positively affects the level of trust in public institutions.
+
+4. Background
+
+Ukraine is one of the largest countries in Europe. Its vast regions differ significantly in terms
+
+of the structure of the local economy, demographic characteristics, individual income and economic inequality (OECD, 2018). After gaining independence in 1991, Ukrainian society underwent painful transformations of political and economic institutions aimed at forming a market economy. Economic reforms were accompanied by a fall in GDP, which amounted to -22.9% in 1994 and lasted until 2000. The trend of GDP growth in the subsequent period was interrupted in 2009 in response to the financial crisis when the drop was -15.1%. In 2014-2015 the fall was -6.6% and -9.8%, respectively, and was caused by the military aggression of the Russian Federation and the occupation of part of Ukrainian territory (OECD, 2018). In 2020 the drop was -3.8%, caused by the COVID epidemic (International Monetary Fund, 2023).
+
+Along with the restructuring of the welfare state, economic inequality in Ukraine increased sharply from 1991 to 1998, as shown in Figure 1. The gradual decrease in economic inequality between 1998 and 2014 resulted from moderate economic growth. On the other hand, the loss of territory in 2014 led to increased economic inequality (OECD, 2018).
+
+As of 2020, Ukraine remained one of the poorest countries in Europe. GDP per capita was USD 3,780.1, while the average in Europe was USD 28,314, and the average in the world was USD 11,048.3 (International Monetary Fund, 2023). The high level of corruption (Athanasouli, 2016; Kudelia, 2016) and the incompleteness of economic reforms created obstacles to sustainable economic growth (Smits et al., 2019).
+
+The level of trust in public institutions in Ukraine remained low. According to public opinion monitoring, the level of confidence in the government, the police, and the judicial system was negative from 1996 to 2020. Trust in parliament remained negative for the entire period of observation except for the first month after the parliamentary elections after the Orange Revolution (Balakireva, Dmytruk, 2020).
+
+Trust in Institutions and Economic Inequality… 523
+
+Figure 1. Economic Inequality in Ukraine (Gini Coefficient, 1980-2020).
+
+Sources: (Solt, 2023; World Bank).
+
+5. Data and methods
+
+We use the data for Ukraine from the World Values Survey (WWS), Wave 7 (Haerpfer et al., 2022), to obtain individual-level variables. The survey field period was in 2020 and covered n = 1289 respondents who lived in territories not occupied by Russia in 2014. According to WWS methodology, (1) sample covers at least 95% of the country’s population, (2) sample covers adult population in the age 18+, and (3) the latest official statistical data was used to produce the sample calculations (Haerpfer et al., 2022). The variables characterizing local economic inequality were calculated based on the published data of the State Statistical Service of Ukraine (SSSU).
+
+To measure trust in public institutions, we calculated the average inverse value of the valid responses to the questions of how much confidence the respondent had in police, justice
+
+system/courts, civil servants, government and parliament. A respondent had to choose one of the following answers: 1 = a great deal of confidence, 2 = quite a lot of confidence, 3 = not very much confidence or 4 = none at all.
+
+Our approach to constructing the dependent variable is based on the proposition that citizens usually form a single comprehensive attitude toward institutions (Hooghe, 2011; Marien, 2011). Considering the criticism of this approach (Fisher et al., 2010), we used principal component analysis (PCA) to test the assumption that trust in public institutions is one-dimensional in the case of Ukraine. The results of PCA indicated that the level of confidence in police, justice system/courts, civil servants, government and parliament loaded on a single dimension, explaining 59.92% of the total variance with an Eigenvalue of 2.99.
+
+524 Y. Revtiuk
+
+We test the impact of several individual-level variables and a regional-level variable on economic inequality on trust in public institutions. Economic inequality is measured by household income and consumption expenditure (Jenkins, Van Kerm, 2011). The Gini coefficient is the most common indicator which allows one to assess household income inequality. It characterizes the deviation of the Lorentz curve. This curve shows what share of the country's total income was received by a particular share of this country's households from the ideal curve when the household income would be evenly distributed (Sen, 1997). We calculated the local Gini coefficient for all regions of Ukraine in 2020, except Crimea and the city of Sevastopol, occupied by Russia since 2014, using the SSSU data on the decile distribution of household incomes. We also calculated Gini2 for the quadratic model (see below).
+
+We constructed two individual-level explanatory variables. We used a subjective assessment of the respondent's household income level to assess their well-being. WWS asked the respondents to estimate to which decile group their household belongs, ranging from 1=group with the lowest income to 10 = group with the highest income. The level of trust in individuals was assessed based on the answers to the question, "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?" where 1 = most people can be trusted, 0 = need to be very careful. We controlled for
+
+respondents’ gender (1 = male, 2 = female), age and education (ISCED2011 scale, where 0 = lowest level through 8 = highest level). In addition, we constructed an interaction term Gini*Income. Characteristics of dependent and independent variables are in Table 1.
+
+Table 1. Summary statistics
+
+Mean Standard deviation Minimum Maximum Dependent variable Trust in public institutions 1.96 0.63 1.00 4.00 Independent variables Local Gini 0.23 0.04 0.13 0.31 Local Gini2 0.06 0.02 0.02 0.09 Individual income 4.48 1.93 1.00 10.00 Trust in individuals 0.31 0.46 0.00 1.00 Gender 1.59 0.49 1.00 2.00 Age 47.57 16.51 18.00 86.00 Education 4.90 1.71 0.00 8.00 Gini*Income 1.05 0.50 0.15 3.05 Source: Own calculation.
+
+We used the following models to identify the relationship between the level of trust in public institutions, the economic inequality in the region, and individual characteristics.
+
+Model 1 is the basic model that allowed us to test hypotheses H1.1, H2 and H3
+
+𝑡𝑟𝑢𝑠𝑡𝑖= 𝛽0 + 𝛽1 ∙𝐺𝑖𝑛𝑖𝑖+ 𝛽2 ∙𝑖𝑛𝑐𝑜𝑚𝑒𝑖+ 𝛽3 ∙𝑔𝑡𝑟𝑢𝑠𝑡𝑖+
+
++𝛽4 ∙𝑔𝑒𝑛𝑑𝑒𝑟𝑖+𝛽5 ∙𝑎𝑔𝑒𝑖+𝛽6 ∙𝑒𝑑𝑢𝑐𝑖+ 𝜀𝑖
+
+(1)
+
+Trust in Institutions and Economic Inequality… 525
+
+where:
+
+𝛽0 – intercept,
+
+𝛽1 −𝛽7 – slope or regression coefficient,
+
+𝜀𝑖 – random error term,
+
+𝑖 – respondent.
+
+To test hypothesis H1.2 about the non-linear effect of economic inequality on trust in public institutions, we used the quadratic Model 2 below.
+
+𝑡𝑟𝑢𝑠𝑡𝑖= 𝛽0 + 𝛽1 ∙𝐺𝑖𝑛𝑖𝑖+ 𝛽7 ∙𝐺𝑖𝑛𝑖𝑖
+
+2 + 𝛽2 ∙𝑖𝑛𝑐𝑜𝑚𝑒𝑖+ 𝛽3 ∙𝑔𝑡𝑟𝑢𝑠𝑡𝑖+
+
++𝛽4 ∙𝑔𝑒𝑛𝑑𝑒𝑟𝑖+𝛽5 ∙𝑎𝑔𝑒𝑖+𝛽6 ∙𝑒𝑑𝑢𝑐𝑖+ 𝜀𝑖
+
+(2)
+
+To understand whether there is a joint effect of an individual income level and economic inequality, we tested Model 3, which includes the interaction between local Gini and individual income:
+
+𝑡𝑟𝑢𝑠𝑡𝑖= 𝛽0 + 𝛽1 ∙𝐺𝑖𝑛𝑖𝑖+ 𝛽7 ∙𝐺𝑖𝑛𝑖𝑖
+
+2 + 𝛽8 ∙𝐺𝑖𝑛𝑖𝑖∙𝑖𝑛𝑐𝑜𝑚𝑒𝑖+ 𝛽3 ∙𝑔𝑡𝑟𝑢𝑠𝑡𝑖+
+
++𝛽4 ∙𝑔𝑒𝑛𝑑𝑒𝑟𝑖+𝛽5 ∙𝑎𝑔𝑒𝑖+𝛽6 ∙𝑒𝑑𝑢𝑐𝑖+ 𝜀𝑖
+
+(3)
+
+where 𝛽8 – slope or regression coefficient of the interaction between local Gini and individual income.
+
+6. Results
+
+As Table 2 demonstrates, ceteris paribus, the local Gini indicator of economic inequality, has a positive and significant effect on the level of trust in public institutions in all models. We found no evidence to confirm our hypothesis H1.1 about the negative relationship between economic inequality and trust in institutions. This contradicts the theoretical mechanism of the
+
+impact of inequality on trust and refutes the results of some empirical studies.
+
+Instead, Models 2 and 3 demonstrate a negative and significant effect of Gini2 on the level of trust in public institutions, all things equal. This confirms our hypothesis H1.2 about an “inverted U” relationship between economic inequality and trust in public institutions. The revealed “inverted U” dependence explains the positive influence of economic inequality on trust in public institutions in the case of Ukraine in Model 1. Therefore, it is reasonable to suggest the existence of a certain threshold value of the level of local economic inequality, exceeding which would lead to a drop in the level of trust in public institutions, including due to the possible positive impact of a high level of economic inequality on the economic growth, which is characteristic of poor and developing countries (Fawaz et al., 2014; Tabassum, Majeed, 2008).
+
+526 Y. Revtiuk
+
+Table 1. Trust in public institutions and economic inequality in Ukraine in 2020, OLS
+
+Model 1 Model 2 Model 3 Local Gini 1.38** (0.49)
+
+9.50* (3.91)
+
+8.41* (3.90) Local Gini2
+
+-17.53* (8.38)
+
+-17.58* (8.37) Individual income 0.05*** (0.01)
+
+0.05*** (0.01)
+
+Gini*Income
+
+0.23*** (0.04) Trust in individuals 0.15*** (0.04)
+
+0.15*** (0.04)
+
+0.15*** (0.04) Education -0.02 (0.01)
+
+-0.02 (0.01)
+
+-0.02 (0.01) Gender 0.05 (0.04)
+
+0.05 (0.04)
+
+0.05 (0.04) Age 0.00 (0.00)
+
+0.00 (0.00)
+
+0.00 (0.00) Constant 1.33*** (0.16)
+
+0.39 (0.48)
+
+0.65 (0.47) AIC 2271.24 2268.85 2267.36 BIC 2306.82 2309.50 2308.01 N 1190.00 1190.00 1190.00 Note: Standard errors in parentheses; * p < 0.05, ** p < 0.01, *** p < 0.001.
+
+Source: own calculations.
+
+The results of Model 3 partially support the latter suggestion. A variable characterizing the interaction between Gini and income was added to the model to check the mutual influence of the level of individual income and economic inequality. There is a positive and significant influence of Gini*Income interaction on the level of trust in public institutions, ceteris paribus. Arguably, the level of trust in public institutions of the richer strata of the population will be higher under the conditions of an increase in economic inequality.
+
+The results of Model 1 and Model 2 also indicate that, all things equal, the level of individual income positively affects the level of trust in public institutions, which confirms our hypothesis H2. The level of trust in individuals, ceteris paribus, has a positive and significant
+
+influence on the level of trust in public institutions in all models, confirming hypothesis H3. None of the control variables (age, gender and education of the respondent) came out as significant predictors of trust in public institutions, all things equal.
+
+7. Conclusions and Discussion
+
+This article studied the relationship between trust in public institutions and economic inequality. Our analysis suggests a positive impact of local economic inequality on individual trust in public institutions - a finding that appears controversial at first glance. The identified
+
+Trust in Institutions and Economic Inequality… 527
+
+relationship contradicts the theoretical mechanism that rationalizes the behavior of an individual by linking trust in institutions with outcomes of these institutions for an individual or a society. Therefore, an additional discussion is needed.
+
+From the point of view of the “trust-as-evaluation” approach, an individual acts rationally by trusting or not trusting public institutions depending on the government’s economic policy resulting in a level of individual income. This individual is directly aware of own level of wellbeing. On the other hand, in the case of economic inequality, an individual perceives not an indicator as such but the indirect consequences of the level of economic inequality on their well-being and the well-being of society. The “inverted U” relationship between economic inequality and trust in public institutions can help rethink the existing theoretical approaches to explaining the mechanisms of the influence of economic inequality on trust in institutions.
+
+The “inverted U” relationship between economic inequality and economic growth rate can partially help us understand the cause-and-effect relationship of the phenomenon we discovered. Empirical studies demonstrate that higher levels of economic inequality stimulate economic growth in poorer countries and negatively affect economic growth in richer countries (Brida et al., 2020; Tabassum, Majeed, 2008). Researchers explain this trend by the need to accumulate capital to create the prerequisites for long-term economic prosperity in poorer countries, which is possible only under conditions of growing economic inequality. Gradually,
+
+the excessive accumulation of capital in the hands of certain social strata leads to the distortion of market mechanisms, which makes the economy less efficient.
+
+In our opinion, economic inequality similarly affects trust in public institutions. Regions with higher economic inequality have prerequisites for faster economic development. Their residents would trust the public institutions more, valuing the increase in individual wellbeing and the well-being of others. Conversely, regions with lower economic inequality experience lower economic growth. Therefore, their residents would have less trust in public institutions. The achievement of the threshold level of economic inequality, which for Ukraine’s regions in 2020, ceteris paribus, varies from Gini = 27.1% (Model 2) to Gini = 24.0% (Model 3), causes a decrease in trust in public institutions. This can be explained by individual awareness of inefficiency and/or unfairness of the distribution of resources, an increase in corruption, or a decrease in the efficiency of the local economy.
+
+The results we presented in Model 3 confirm that the respondent acts rationally when answering the question about the level of trust in public institutions, as the Gini*income interaction term has a positive and significant effect on trust in institutions. An individual who earns a higher income and lives in a region with a higher level of inequality, and therefore occupies a more privileged position in relation to others, will trust the institutions more than those whose income is low in a region with a lower level of economic inequality.
+
+Analyzing the factors influencing trust in public institutions, one should remember that trust
+
+is relational and situational. Trust in institutions largely depends on the government's ability to offer citizens economic well-being. We found a positive and significant relationship between
+
+528 Y. Revtiuk
+
+an individual income level and trust in public institutions. On the other hand, there is a positive and significant relationship between the level of trust in individuals and trust in institutions. In a society with a higher level of generalized trust, public institutions enjoy greater trust of citizens.
+
+The main limitation of our study is the use of data from one country in one time period. The empirical evidence of the “inverted U” relationship between economic inequality and trust in public institutions in the case of Ukraine requires further verification using a wider dataset.
+
+References
+
+1. Alesina, A., La Ferrara, E. (2002). Who trusts others? Journal of Public Economics, 85(2),
+
+pp. 207-234. Retrieved from: http://doi.org/10.1016/S0047-2727(01)00084-6 2. Algan, Y., Guriev, S., Papaioannou, E., Passari, E. (2017). The European Trust Crisis and
+
+the Rise of Populism. Brookings Papers on Economic Activity, pp. 309-382. 3. Andersen, R. (2012). Support for democracy in cross-national perspective: The detrimental
+
+effect of economic inequality. Research in Social Stratification and Mobility, 30(4), pp. 389-402. Retrieved from: http://doi.org/10.1016/j.rssm.2012.04.002
+
+4. Anderson, C.D. (2009). Anderson, C. D. (2009). Institutional Change, Economic
+
+Conditions and Confidence in Government: Evidence from Belgium. Acta Politica, 44(1), pp. 28-49. Retrieved from: http://doi.org/doi:10.1057/ap.2008.21 5. Anderson, C.J., Singer, M.M. (2008). The Sensitive Left and the Impervious Right:
+
+Multilevel Models and the Politics of Inequality, Ideology, and Legitimacy in Europe. Comparative Political Studies, 41(4-5), pp. 564-599. Retrieved from: http://doi.org/10.1177/0010414007313113 6. Athanasouli, D. (2016). Corruption in Ukraine in Comparative Perspective. In: H.E. Hale,
+
+R.W. Orttung (Eds.), Beyond the Euromaidan: Comparative Perspectives on Advancing Reform in Ukraine (pp. 80-102). Stanford University Press. Retrieved from: http://doi.org/10.11126/stanford/9780804798457.003.0005 7. Balakireva, O.M., Dmytruk, D.A. (2020). Trends in civic engagement and the trust level in
+
+Ukraine. Ukrainian Society, 1(72), pp. 162-185. 8. Bargsted, M., Ortiz, C., Cáceres, I., Somma, N.M. (2022). Social and Political Trust in
+
+a Low Trust Society. Political Behavior. Retrieved from: http://doi.org/10.1007/s11109021-09762-2 9. Belabed, C.A., Hake, M. (2018). Income inequality and trust in national governments in
+
+Central, Eastern and Southeastern Europe. Working Papers, 222, p. 47. Oesterreichische
+
+Nationalbank. Retrieved from: http://ideas.repec.org//p/onb/oenbwp/222.html
+
+Trust in Institutions and Economic Inequality… 529
+
+10. Bergbauer, S., Giovannini, A., Hernborg, N. (2022). Economic inequality and public trust
+
+in the European Central Bank. Retrieved from: http://www.ecb.europa.eu/pub/economicbulletin/articles/2022/html/ecb.ebart202203_02~f9d2d059f0.en.html 11. Brehm, J., Rahn, W. (1997). Individual-Level Evidence for the Causes and Consequences
+
+of Social Capital. American Journal of Political Science, 41(3), pp. 999-1023. Retrieved from: http://doi.org/10.2307/2111684 12. Breunig, R., Majeed, O. (2020). Inequality, poverty and economic growth. International
+
+Economics, 161, pp. 83-99. Retrieved from: http://doi.org/10.1016/j.inteco.2019.11.005 13. Brida, J.G., Carrera, E.J.S., Segarra, V. (2020). Clustering and regime dynamics for
+
+economic growth and income inequality. Structural Change and Economic Dynamics, 52, pp. 99-108. Retrieved from: http://doi.org/10.1016/j.strueco.2019.09.010 14. Citrin, J., Stoker, L. (2018). Political Trust in a Cynical Age. Annual Review of Political
+
+Science, 21(1), pp. 49-70. Retrieved from: http://doi.org/10.1146/annurev-polisci-050316092550 15. Coleman, J.S. (1990). Foundations of Social Theory. Belknap Press of Harvard University
+
+Press. 16. Dellmuth, L.M., Tallberg, J. (2020). Why national and international legitimacy beliefs are
+
+linked: Social trust as an antecedent factor. The Review of International Organizations,
+
+15(2), pp. 311-337. Retrieved from: http://doi.org/10.1007/s11558-018-9339-y 17. Fairbrother, M. (2019). When Will People Pay to Pollute? Environmental Taxes, Political
+
+Trust and Experimental Evidence from Britain. British Journal of Political Science, 49(2), pp. 661-682. Retrieved from: http://doi.org/10.1017/S0007123416000727 18. Fawaz, F., Rahnama, M., Valcarcel, V.J. (2014). A refinement of the relationship between
+
+economic growth and income inequality. Applied Economics, 46(27), pp. 3351-3361. Retrieved from: http://doi.org/10.1080/00036846.2014.929624 19. Fisher, J., Van Heerde, J., Tucker, A. (2010). Does One Trust Judgement Fit All? Linking
+
+Theory and Empirics. The British Journal of Politics, International Relations, 12(2), pp. 161-188. Retrieved from: http://doi.org/10.1111/j.1467-856X.2009.00401.x 20. Forbes, K.J. (2000). A Reassessment of the Relationship between Inequality and Growth.
+
+American Economic Review, 90(4), pp. 869-887. Retrieved from: http://doi.org/10.1257/aer.90.4.869 21. Goubin, S. (2020). Economic inequality, perceived responsiveness and political trust.
+
+ActaPolitica, 55(2), pp. 267-304. Retrieved from: http://doi.org/10.1057/s41269-018-0115-z 22. Goubin, S., Hooghe, M. (2020). The Effect of Inequality on the Relation Between
+
+Socioeconomic Stratification and Political Trust in Europe. Social Justice Research, 33(2), pp. 219-247. Retrieved from: http://doi.org/10.1007/s11211-020-00350-z 23. Gould, E., Hijzen, A. (2016). Growing Apart, Losing Trust? The Impact of Inequality on
+
+Social Capital. IMF Working Paper, 176. International Monetary Fund, p. 46.
+
+530 Y. Revtiuk
+
+24. Gustavsson, M., Jordahl, H. (2008). Inequality and trust in Sweden: Some inequalities are
+
+more harmful than others. Journal of Public Economics, 92(1), pp. 348-365. Retrieved from: http://doi.org/10.1016/j.jpubeco.2007.06.010 25. Győrffy, D. (2013). Institutional Trust and Economic Policy: Lessons from the History of
+
+the Euro. Central European University Press. Retrieved from: http://doi.org/ 10.1515/9786155225345 26. Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano, J., Lagos,
+
+P., Norris, P., Ponarin, E., Puranen, B. (2022). World Values Survey: Round Seven— Country-Pooled Datafile Version 5.0. Madrid, Spain; Vienna, Austria: JD Systems Institute, WVSA Secretariat [dataset]. Retrieved from: http://doi.org/doi:10.14281/18241.20 27. Hardin, R. (1999). Do we want trust in government? In: M.E. Warren (Ed.),
+
+Democracy and Trust (pp. 22-41). Cambridge University Press. Retrieved from: http://doi.org/10.1017/CBO9780511659959.002 28. Hetherington, M.J. (1998). The Political Relevance of Political Trust. American Political
+
+Science Review, 92(4), pp. 791-808. Retrieved from: http://doi.org/10.2307/2586304 29. Hooghe, M. (2011). Why There is Basically Only One Form of Political Trust. The British
+
+Journal of Politics and International Relations, 13(2), pp. 269-275. Retrieved from: http://doi.org/10.1111/j.1467-856X.2010.00447.x
+
+30. Hutagalung, E.N., Akita, T., Fahmi, M. (2019). Inequality and Political Trust in Indonesia.
+
+Working Papers in Economics and Development Studies (WoPEDS), Article 201904. 31. International Monetary Fund (2023). World Economic Outlook. A Rocky Recovery. IMF,
+
+p. 206. Retrieved from: http://www.imf.org/external/datamapper/NGDPDPC@WEO 32. Jenkins, S.P., Van Kerm, P. (2011). The measurement of economic inequality. In: Oxford
+
+Handbook on Economic Inequality (pp. 40-67). Oxford University Press. Retrieved from: http://orbilu.uni.lu/handle/10993/35087 33. Kroknes, V.F., Jakobsen, T.G., Grønning, L.-M. (2015). Economic Performance and
+
+Political Trust: The impact of the financial crisis on European citizens. European Societies, 17(5), pp. 700-723. Retrieved from: http://doi.org/10.1080/14616696.2015.1124902 34. Kudelia, S. (2016). Corruption in Ukraine: Perpetuum Mobile or the Endplay of Post-Soviet
+
+Elites? In: H.E. Hale, R.W. Orttung (Eds.), Beyond the Euromaidan (pp. 61-79). Stanford University Press. Retrieved from: http://doi.org/10.1515/9781503600102-006 35. Lee, D., Chang, C.Y., Hur, H. (2020). Economic performance, income inequality and
+
+political trust: New evidence from a cross-national study of 14 Asian countries. Asia Pacific Journal of Public Administration, 42(2), pp. 66-88. Retrieved from: http://doi.org/10.1080/23276665.2020.1755873 36. Majeed, M.T. (2016). Economic growth, inequality and trade in developing countries.
+
+International Journal of Development Issues, 15(3), pp. 240-253. Retrieved from:
+
+http://doi.org/10.1108/IJDI-02-2016-0011
+
+Trust in Institutions and Economic Inequality… 531
+
+37. Marien, S. (2011). The effect of electoral outcomes on political trust: A multi–level analysis
+
+of 23 countries. Electoral Studies, 30(4), pp. 712-726. Retrieved from: http://doi.org/10.1016/j.electstud.2011.06.015 38. Medve-Bálint, G., Boda, Z. (2014). The Poorer You Are, the More You Trust? The Effect
+
+of Inequality and Income on Institutional Trust in East-Central Europe. Sociologický Časopis [Czech Sociological Review], 50(3), pp. 419-453. 39. Meer, T.W.G. van der, Zmerli, S. (2017). The deeply rooted concern with political trust.
+
+In: Handbook on Political Trust (pp. 1-16). Edward Elgar Publishing. Retrieved from: http://www.elgaronline.com/display/edcoll/9781782545101/9781782545101.00010.xml 40. Meer, T.W.G. van der (2017). Political Trust and the “Crisis of Democracy”.
+
+In: Oxford Research Encyclopedia of Politics. Retrieved from: http://doi.org/10.1093/acrefore/9780190228637.013.77 41. Mishler, W., Rose, R. (2001). What Are the Origins of Political Trust?: Testing Institutional
+
+and Cultural Theories in Post-communist Societies. Comparative Political Studies, 34(1), pp. 30-62. Retrieved from: http://doi.org/10.1177/0010414001034001002 42. Moramarco, D., Palmisano, F. (2023). Trust in institutions and the profile of inequality:
+
+A worldwide perspective (WIDER Working Paper Series wp-2023-12). World Institute for Development Economic Research (UNU-WIDER). Retrieved from:
+
+http://econpapers.repec.org/paper/unuwpaper/wp-2023-12.htm 43. Muinelo-Gallo, L., Roca-Sagalés, O. (2013). Joint determinants of fiscal policy, income
+
+inequality and economic growth. Economic Modelling, 30, pp. 814-824. Retrieved from: http://doi.org/10.1016/j.econmod.2012.11.009 44. OECD (2018). Maintaining the Momentum of Decentralisation in Ukraine. Organisation
+
+for Economic Co-operation and Development. Retrieved from: http://www.oecdilibrary.org/urban-rural-and-regional-development/maintaining-the-momentum-ofdecentralisation-in-ukraine_9789264301436-en?itemId=/content/publication/ 9789264301436-en&_csp_=7cca6bfcb086220d9f60b5d0c9cf2acd&itemIGO= oecd&itemContentType=book 45. Patel, P.C., Doh, J.P., Bagchi, S. (2021). Can Entrepreneurial Initiative Blunt the Economic
+
+Inequality–Growth Curse? Evidence From 92 Countries. Business, Society, 60(2), pp. 496541. Retrieved from: http://doi.org/10.1177/0007650318797103 46. Perry, J. (2021). Trust in Public Institutions: Trends and Implications for Economic
+
+Security. Policy Brief, 108. United Nations Department of Economic and Social Affairs, p. 4. 47. Rhee, H.-J. (2018). Effect of inequality on economic growth in middle income economies:
+
+Evidence from OECD countries with panel co-integration. Asia Life Sciences, 15(3), pp. 1875-1889.
+
+48. Santiago, R., Fuinhas, J.A., Marques, A.C. (2019). Income inequality, globalization, and
+
+economic growth: A panel vector autoregressive approach for Latin American countries.
+
+532 Y. Revtiuk
+
+In: J.A. Fuinhas, A.C. Marques (Eds.), The Extended Energy-Growth Nexus (pp. 57-96). Academic Press. Retrieved from: http://doi.org/10.1016/B978-0-12-815719-0.00003-6 49. Sen, A. (1997). On Economic Inequality. In: On Economic Inequality. Oxford University
+
+Press. Retrieved from: http://oxford.universitypressscholarship.com/view/10.1093/ 0198281935.001.0001/acprof-9780198281931 50. Smits, K., Favaro, E.M., Golovach, A., Khan, F.A., Larson, D., Schroeder, K., Schmidt, G.,
+
+Nivievskyi, O., Osmochescu, E., Ponomarenko, H., Cuaresma, J., Oberhofer, H., Hrebeniuk, Y., Ek, C. (2019). Ukraine Growth Study Final Document: Faster, Lasting and Kinder (Country Economic Memorandum 135763). World Bank. Retrieved from: http://www.semanticscholar.org/paper/Ukraine-Growth-Study-Final-Document-%3AFaster%2C-and-Smits-Favaro/4f247c6ac5ea601b36930c5667246cdb4b2cafe0 51. Solt, F. (2023). The Standardized World Income Inequality Database, Versions 8-9
+
+[dataset]. Harvard Dataverse. Retrieved from: http://doi.org/10.7910/DVN/LM4OWF 52. Szeles, M.R. (2013). Re-examining the relationship between economic growth and
+
+inequality in the New Member States. Quality and Quantity, 47(5), pp. 2799-2813. Retrieved from: http://doi.org/10.1007/s11135-012-9689-0 53. Tabassum, A., Majeed, M.T. (2008). Economic Growth and Income Inequality
+
+Relationship: Role of Credit Market Imperfection. The Pakistan Development Review,
+
+47(4 Part II), Article 4II. Retrieved from: http://doi.org/10.30541/v47i4IIpp.727-743 54. Tyler, T.R. (2013). Why People Cooperate: The Role of Social Motivations.
+
+Princeton University Press. Retrieved from: http://press.princeton.edu/books/paperback/ 9780691158006/why-people-cooperate 55. Uslaner, E.M. (2008). Corruption, Inequality, and the Rule of Law: The Bulging Pocket
+
+Makes the Easy Life. Cambridge University Press. Retrieved from: http://doi.org/10.1017/CBO9780511510410 56. Vallier, K. (2020). Trust in a Polarized Age. Oxford University Press. 57. van der Meer, T., Hakhverdian, A. (2017). Political Trust as the Evaluation of Process and
+
+Performance: A Cross-National Study of 42 European Countries. Political Studies, 65(1), 81-102. Retrieved from: http://doi.org/10.1177/0032321715607514 58. van Erkel, P.F.A., van der Meer, T.W.G. (2016). Macro-economic performance, political
+
+trust, and the Great Recession: A multilevel analysis of the effects of within-country fluctuations in macroeconomic performance on political trust in 15 EU countries, 19992011. European Journal of Political Research, 55. Retrieved from: http://doi.org/10.1111/1475-6765.12115 59. Zhou, Y.J., Jin, S. (2018). Inequality and Political Trust in China: The Social Volcano
+
+Thesis Re-examined. The China Quarterly, 236, pp. 1033-1062. Retrieved from: http://doi.org/10.1017/S0305741018001297
+
+Trust in Institutions and Economic Inequality… 533
+
+60. Zmerli, S., Castillo, J.C. (2015). Income inequality, distributive fairness and political trust
+
+in Latin America. Social Science Research, 52, pp. 179-192. Retrieved from: http://doi.org/10.1016/j.ssresearch.2015.02.003 61. Zmerli, S., Newton, K. (2013). Political Trust. Why Context Matters. In: Political Trust:
+
+Why Context Matters (pp. 67-94). ECPR Press.

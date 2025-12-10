@@ -1,0 +1,833 @@
+Chapter 10 Has the Financial Crisis Shattered Citizens’ Trust in National and European Governmental Institutions? Evidence from the EU Member States, 1999–2010
+
+Felix Roth, Felicitas Nowak-Lehmann D., and Thomas Otter
+
+Abstract The ﬁnancial crisis has affected trust in national and European governmental institutions in different ways. This contribution analyses the determinants of trust in the national and European institutions over the last decade and comes to the conclusion that inﬂation reduces citizens’ trust only when the economy runs smoothly. In times of crisis, citizens do not worry about inﬂation but rather about jobs and the effects of a recession. Declining trust in national governments is related to an increase in unemployment in the EU-15 in all time periods, whereas trust in the European Commission and the European Parliament seems to be strongly associated with the situation in the real economy (unemployment and growth of GDP per capita) only in times of crisis. Yet in the EU-27, falling levels of trust in the national and European governmental institutions during times of crisis seem to be primarily related to an increase in government debt. In an EU-15 country sample, this negative relationship appears to be driven by countries that owe a larger share of their increase in government debt to aiding/bailing out their ﬁnancial sectors and the implementation of signiﬁcant austerity measures.
+
+Originally published in: Felix Roth, Felicitas Nowak-Lehmann D. and Thomas Otter. Has the ﬁnancial crisis shattered citizens’ trust in national and European governmental institutions? Evidence from the EU member states, 1999–2010. Centre for European Policy Studies, Commissioned by Bertelsmann Stiftung, CEPS Working Document No. 343, 2011.
+
+We would like to thank the participants of the conference ‘Mitigating Socioeconomic Heterogeneity in the EU: How to Achieve the Lisbon Treaty Objective of a ‘Highly Competitive Social Market Economy’ for their valuable comments. Felix Roth would like to thank the Austrian Ministry of Finance for ﬁnancing the study ‘Who can be trusted after this ﬁnancial crisis’, within which a large part of the dataset and the research design were developed. Furthermore, he wants to thank the Bertelsmann Stiftung for ﬁnancial support.
+
+Felix Roth (*) Department of Economics, University of Hamburg, Hamburg, Germany e-mail: felix.roth@uni-hamburg.de
+
+F. Nowak-Lehmann D. · T. Otter Department of Economics, University of Göttingen, Göttingen, Germany
+
+© The Author(s) 2022 F. Roth, Public Support for the Euro, Contributions to Economics,
+
+187
+
+https://doi.org/10.1007/978-3-030-86024-0_10
+
+Keywords Financial crisis · Trust · Debt · European governmental institutions
+
+JEL Classiﬁcation G01 · H12 · H63 · O52 · Z13
+
+188 Roth, Nowak-Lehmann D. and Otter
+
+1 Introduction
+
+The ﬁnancial crisis has severely affected citizens’ trust in the European institutions in the direct aftermath of Lehman Brothers’ declaration of bankruptcy on 16 September 2008. Citizens’ net trust in the European Central Bank (ECB)1 has signiﬁcantly declined, despite partly recovering from June 2009 onwards. Citizen’s trust in the European Parliament and European Commission has declined less severely than trust in the ECB, but still signiﬁcantly (Roth, 2009). In contrast to citizens’ net trust in European institutions, citizens’ net trust in national governments and parliaments initially increased in most EU countries in the direct aftermath of the ﬁnancial crisis (Roth, 2009). This paper analyses the determinants of trends in citizens’ net trust in the national and European political institutions. More precisely, it analyses the determinants of citizens’ net trust in the national governments and parliaments, as well the European Commission and European Parliament, for the last decade and particularly before and after the ﬁnancial crisis.
+
+2 Theoretical Links
+
+Since late 2008, governments and supranational institutions have had to face severe challenges arising from critical economic (ﬁnancial and economic crises) and social events (the social impacts of the economic crisis). As a consequence of these events, trust and conﬁdence in national (national government and parliament) and European governmental institutions (European Commission and Parliament) have declined (Roth, 2009, 2011). These trends bring to the fore questions regarding the determinants of trust and its performance during periods that are determined more by crisis than by normality. Given the global ﬁnancial and political challenges, European citizens’ distrust towards national and European governmental institutions has been increasing (Roth, 2009, 2011). But what is the driving force behind this distrust?
+
+Extensive literature shows that people have conﬁdence in their leaders (people or institutions) when the government is working well. Uslaner (2002) argues that their perceptions and opinions about government performance reﬂect their evaluations of speciﬁc personalities, institutions and policies. Thus, when the government does not produce the outcomes envisaged, trust is expected to be lower. Easton (1965) and Norris (1999) ﬁnd that economic crises or political shifts are temporary events,
+
+1See Roth (2009); Gros and Roth (2010).
+
+which affect trust in political incumbents deeper than conﬁdence in the political system (seen as a general determinant for government). However, Newton (2008) highlights that although it might be the case that distrust in a political incumbent might not threaten democratic structures, a ‘deep-seated lack of conﬁdence in the institutions and systems of government. . .’ might menace ‘. . . the very foundations of the system of government’ (243). Furthermore, in line with this argument, a more general argumentation claims that in the absence of citizens’ trust in (policymaking) institutions, the legitimacy of those institutions is endangered (Kosfeld et al., 2005, p. 673; Kaltenthaler et al., 2010, p. 1261) and the probability that citizens begin to undermine the authority of those institutions becomes more likely.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 189
+
+2.1 Trust in National Governmental Institutions
+
+Since the late 1960s and early 1970s, public trust in government and political institutions has been falling in all advanced industrialised democracies (Blind, 2006, citing Dalton & Wattenberg, 2000). Additionally, Dalton and Wattenberg (2000) show that in industrialised democracies, trust in political parties is eroding. And related to this, public conﬁdence in parliaments has similarly decreased in the last decade (Blind, 2006, citing Dalton, 2004, Chap. 2). The general decline in trust covers several areas – government, parliament and political parties (Blind, 2006). In a later work, Dalton shows that even if the pattern and the pace of the fall in trust are dissimilar across countries, the downward trend is generalised (Blind, 2006, citing Dalton, 2005). Van de Walle et al. (2008), however, reject the hypothesis of a universal decline of trust in the public sector. They argue that there is little evidence of an overall long-term decline in trust in government but that there are ﬂuctuations rather than a stable trend.
+
+In his literature review, which he prepared for the United Nations, Blind (2006) cites the ‘declining voter turnout (Gray & Caul, 2000, Eagles, 1999), youth disinterested in politics (Adsett, 2003) and decreasing levels of civic involvement (Saul, 1995, Putnam, 2000)’ as symptoms of declining trust in advanced industrialised democracies. Blind argues that of course symptoms do not explain the causes of the declining trust, and many different factors may be behind the decline. Periods of low economic growth and public fear that governments have been incapable of dealing with previous or current ﬁscal and ﬁnancial challenges have been cited by several authors (Blind, 2006; Mansbridge, 1997; Newton & Norris, 2000) as some of these causes.
+
+People invest more trust in governments that have shown the capacity to generate economic growth, create jobs, provide access to social services and perform in a transparent manner (Fiorina, 1978; Mackuen et al., 1992). Nye Jr. (1997) argues that citizens’ doubts regarding their national economy and governments’ ability to
+
+respond to these challenges could create even more distrust in the age of globalisation.
+
+190 Roth, Nowak-Lehmann D. and Otter
+
+2.2 Trust in European Governmental Institutions
+
+Muñoz et al. (2011) argue that when attempting to explain changing levels of political conﬁdence in the European Parliament, we must keep in mind the supranational character of this institution. They also state that in recent years, public opinion regarding the work of the EU has received more and more attention. The authors put forward two arguments to explain the impact of national trust levels on the trust levels regarding the European institutions. The ﬁrst argument, the congruence model, suggests that because of limited information on politics at the European level, citizens use their opinions based on domestic information as a proxy for trust at the European level. The second argument, the compensation model, states that citizens with positive evaluations regarding their national institutions compare the European institutions to a higher standard so higher trust in national institutions will decrease the trust in European institutions.
+
+The same authors mention that a different approach conceives support for European integration as a result of a cost-beneﬁt analysis perceived by citizens. Scholars in this tradition have developed several models mainly using pure or subjective economic variables to represent the beneﬁts as determinants for citizens’ support for European integration (Gabel, 1998a, 1998b; Hooghe & Marks, 2005). Gabel’s argument, which supports the importance of economic beneﬁts as an outcome of EU integration, centers on the low affective identiﬁcation citizens have with EU institutions.
+
+3 Previous Findings
+
+3.1 Trust and Support for National Governmental Institutions
+
+The ‘popularity functions’ approach is frequently used in research on trust and support for governments. It aims at explaining the determinants of support to governments, whereby a positive attitude towards support supposes the existence of a required level of trust. Nannestad and Paldam (1994) review 25 years of research and literature on voters and popularity (VP) functions, which explain the support for the government at elections and public opinion polls using economic and political variables. Most studies apply time series methodologies, using macroeconomic
+
+variables. Nannestad and Paldam (1994) argue that the VP theory starts from the hypothesis that voters hold the government responsible for economic conditions. The authors ﬁnd that such a system works only in countries with a two-party/bloc system. They also ﬁnd that voting is retrospective and that voter’s expectations are static (Nannestad & Paldam, 1994, p. 213).
+
+Has the Financial Crisis Shattered Citizens’ Trust? 191
+
+In their review, Nannestad and Paldam ﬁnd that ‘nearly all studies made have found highly signiﬁcant VP functions, and a clear pattern appears in the results. Only a few studies, such as Dinkel (1982) and Norpoth and Yantek (1983a, 1983b), have denied the very existence of the VP function’ (Nannestad & Paldam, 1994, p. 214). For our paper, the most relevant ﬁndings in the literature as reported by Nannestad and Paldam are 1) ‘voters hold the government responsible for the development in the economy’ and 2) ‘a good economic development increases the popularity of the government, while a bad development decreases the popularity’ (both ﬁndings in Nannestad & Paldam, 1994, p. 215). Their third important ﬁnding for our study is that most econometric models on VP functions that have been reviewed usually ﬁnd a very limited number of macroeconomic variables in the real sense of the responsibility hypothesis. For industrialised countries, the two most critical variables are unemployment and inﬂation (Nannestad & Paldam, 1994, p. 216). For the case study of Portugal, Veiga and Veiga (2004) ﬁnd an especially strong effect of unemployment levels on a government’s popularity and in an even more striking way when the ruling government holds a parliamentary majority as well. For the case study of the United Kingdom, Sanders (2000) ﬁnds that voters decide on the basis of government results regarding unemployment and inﬂation and on the basis of expectations about the economic future. Using data from the last government change in Germany in the year 2005, the working paper by Kirchgässner (2009) ﬁnds some evidence that even if the impact of unemployment and inﬂation on the electoral success (or failure) of German governments from the 1950s to the 1990s can be taken for certain, more recent electoral results seem to show a changing trend. Unemployment no longer seems to have the same strong impact as before.
+
+Considering these results, Kirchgässner raises the question of the extent to which voters really hold the government responsible for economic developments. To better analyse future VP functions, he proposes to distinguish three different situations: ‘(i) governments are really responsible, (ii) governments claim to be responsible, and (iii) governments are held responsible by the electorate for economic development’ (Kirchgässner, 2009, p. 14). An overview of the papers by Sanders (2000), Veiga and Veiga (2004) and the working paper by Kirchgässner (2009) is given in Table 10.1.
+
+Roth (2009) ﬁnds that net trust in the national government and parliament actually increased in the direct aftermath of the ﬁnancial crisis. This ﬁnding that citizens’ trust increases in times of crisis had already been elaborated upon by Chanley (2002) and is called the ‘rally around the ﬂag’ effect (Hetherington & Nelson, 2003). Roth (2011) ﬁnds that the ﬁnancial and eurozone crisis is associated with a signiﬁcant loss of citizens’ trust in the national parliament and government in the four periphery countries Greece, Spain, Ireland and Portugal. Roth shows initial evidence that an increase of debt over GDP is associated with the loss of trust.
+
+192 Roth, Nowak-Lehmann D. and Otter
+
+Table 10.1 Selected results in the popularity function literature
+
+Authors Sanders (2000) Veiga and Veiga (2004) Kirchgässner (2009) Period studied
+
+1974–1997 1986–1999 1999–2005
+
+Data source
+
+Gallup Expresso (newspaper); OECD; IMF
+
+German Central Bank and Institute for public opinion Allensbach Typical countries
+
+UK Portugal Germany
+
+Estimation technique
+
+OLS regressions OLS; SUR estimation; dummy variables
+
+OLS
+
+Dependent variables
+
+Government support at time t
+
+Popularity index for PM, government, parliament and president
+
+Share of intended votes per party or coalition
+
+Independent variables
+
+Monthly change in unemployment, inﬂation; aggregate perceptions of monthly change in unemployment, inﬂation; interaction term
+
+Unemployment; inﬂation; dummies for personal effects and successive terms in ofﬁce; a variable capturing the honeymoon effect
+
+Unemployment and inﬂation
+
+Regression results
+
+(1) No evidence to indicate objective macroeconomic measures exerted any direct effect on government support; (2) Voters’ subjective economic perceptions are strongly related to government support
+
+High rates of unemployment decrease the popularity of political entities; existence of a honeymoon effect
+
+Neither unemployment nor inﬂation is signiﬁcant for this period
+
+Observations Up to 279 monthly observations
+
+Monthly observations from 1986 to 1999
+
+72 monthly observations
+
+Empirical ﬁndings, conclusions
+
+Voters decide on the basis of a government’s results regarding unemployment and inﬂation and on the basis of expectations about the economic future
+
+(1) Voters hold the political entities under investigation responsible for economic outcomes, especially unemployment; (2) On the unemployment rate, popularity is inﬂuenced by whether the party in power has a majority of seats in the assembly of the republic
+
+Missing the impact of unemployment could be a consequence of a short observation period and the low variance of the explanatory variables; regarding inﬂation, citizens may hold the ECB responsible instead of the national government
+
+Source: Authors’ own compilation.
+
+Finally, Listhaug and Ringdal (2008) refer to the traditionally higher levels of trust in Scandinavian countries in the national governments and argue that these may be explained by structural variables, such as indicators of a country’s performance and political distance, and macro characteristics of development (e.g., as expressed by the Human Development Index). At the same time, trust levels in Scandinavian countries in European institutions are generally lower compared with trust levels in national governments.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 193
+
+3.2 Trust and Support for the EU Trust and Support for European Governmental Institutions
+
+As there are not a lot of empirical studies on the determinants on trust in the European Commission and European Parliament, we discuss studies concerning trust in the EU, as there might be complementarities between trust in the EU and trust in the European Commission and European Parliament (see here also Kaltenthaler et al., 2010).
+
+Biernat (2007), who used data from the European Values Survey and the Eurobarometer 62 for 14 EU countries, ﬁnds that there is no homogeneous level of trust towards EU institutions in the different member states. Even if it is difﬁcult to ﬁnd clear, unique patterns of factors related to political support, there seem to exist spatial structures that mark some differences in levels of trust and its features in relation to the EU. In Western and Southern Europe, the EU seems to be perceived more like an institution with characteristics similar to the national political system. In contrast, in Britain and Eastern Europe, a much clearer perception of a non-national European sphere can be observed. The author identiﬁes three main factors that determine general trust in the EU: ‘trust in national parliament, satisfaction with EU democracy, and trust in the social security system’ (Biernat, 2007, p. 7). Additionally, the author ﬁnds that trust in national governments and satisfaction with national systemic performance reinforce trust in the EU.
+
+The results by Hooghe and Marks (2005) conﬁrm the importance of economic factors in determining citizens’ trust in the EU. They use Eurobarometer data to measure the relative impact of economic aspects and of community identity on European public opinion. They ﬁnd that both factors are important. Nevertheless, identity has a more profound impact on trust levels in the EU than economic selfinterest.
+
+Roth (2009) ﬁnds that trust in the European Parliament and European Commission has quite signiﬁcantly decreased because of the ﬁnancial crisis, but the overall level of trust in the European Parliament and European Commission is signiﬁcantly higher than in national parliaments and national governments.
+
+At the individual level, Muñoz et al. (2011) ﬁnd a positive relationship between political support for domestic and European institutions, while they show a negative correlation between trust in the national parliaments and trust in the European Parliament at the country level. The lower the performance of national institutions, the higher is the trust in a European institution (country level).
+
+Torcal et al. (2011) show that European citizens’ trust in EU institutions is formed by three attitudinal variables: affective support for the EU, subjective sociotropic evaluations of the integration process and trust in the national parliament.
+
+The ﬁndings of the studies by Dalton (2005), Van de Walle et al. (2008), Listhaug and Ringdal (2008) and Muñoz et al. (2011) are presented in more detail in Table 10.2.
+
+(continued)
+
+194 Roth, Nowak-Lehmann D. and Otter
+
+Table 10.2 Selected results from the literature on trust in national governments and trust in European institutions
+
+Authors Dalton (2005)
+
+Van de Walle et al. (2008)
+
+Listhaug and Ringdal (2008)
+
+Muñoz et al. (2011) Period studied
+
+1958–2000 1958–2006 2004 2004–2008
+
+Data source
+
+National election study series
+
+Eurobarometer, world value survey, European value survey, national election studies
+
+European Social Survey, 2004
+
+European Social Survey, 2004, 2006 and 2008
+
+Typical countries
+
+US only for multivariate model; other models, US, Aus, UK, CA, FI, DE, JA, NO, SE, SW
+
+US, JA, NZ, EU-6
+
+Nordic countries and European countries (AT, BE, FR, DE, LU, NL, SW, DK, FI, ICE, NO, SE, UK, IE, ES, GR, PT, CZ, EE, HU, PL, SK, SI, UKRA)
+
+AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HU, IE, LU, NL, PL, PT, SE, SI, SK, UK
+
+Dependent variables
+
+Trust in government
+
+None (descriptive study)
+
+Political trust in legal system, European parliament and electoral system
+
+Trust in the European Parliament
+
+Independent variables
+
+Year of the survey; educational level; age; interaction term between education and year of survey and between age and year of survey
+
+None (descriptive study)
+
+Political distance; indicators of performance evaluations; questions on political issues; country size; standard of living
+
+Trust in the national government, support for EU uniﬁcation, years of full-time education, social trust, selfplacement on a political L-R scale, age and gender, satisfaction with welfare services, political interest
+
+Authors Dalton (2005)
+
+Has the Financial Crisis Shattered Citizens’ Trust? 195
+
+Table 10.2 (continued)
+
+Van de Walle et al. (2008)
+
+Listhaug and Ringdal (2008)
+
+Muñoz et al. (2011) (Regression) results
+
+Older generations are more trustful than the young; demographic change in education and generational groups lead to a decline in political support
+
+Citizens’ trust in the public sector is found to ﬂuctuate; data generally do not show consistently declining levels of trust
+
+High trust levels in the Nordic countries in national governments may be explained by structural variables (indicators of a country’s performance and political distance) and macro characteristics (HDI); trust levels in European institutions are lower in the Nordic countries
+
+Individual trust in national parliament inﬂuences trust in European parliament positively while trust in the national parliament at a country level has a negative effect on trust in the European parliament
+
+Source: Authors’ own compilation.
+
+4 Data and Measurement
+
+4.1 Operationalisation
+
+Trust in the national governments, national parliaments, the European Commission and the European Parliament has been measured by Eurobarometer surveys by asking citizens the following question: ‘For each of the following European bodies, please tell me if you tend to trust it or not to trust it’. The respondent is then presented a range of European institutions.2 Next to the answers ‘Tend to Trust it’ and ‘Tend not to Trust it’, a third category, ‘Don’t Know (DK)’, can also be selected by the respondents.3 The best measure of trust seems to be ‘net trust’, which is obtained by subtracting the percentage of those who trust from those who do not trust the institution.4
+
+2In addition to the European Commission and the European Parliament, a range of other European institutions such as the ECB are included in the Eurobarometer’s trust item battery. 3DK answers can easily reach values of 20% points and more. Furthermore, the DK answers ﬂuctuate over time. 4This approach is used in public opinion research in particular and is able to control for the ﬂuctuations in the DK answers. The same approach of using net trust was also chosen by Gros and Roth (2010) and by Roth (2009, 2011).
+
+196 Roth, Nowak-Lehmann D. and Otter
+
+4.2 Model Speciﬁcations
+
+Our model speciﬁcation includes the classical macroeconomic variables as speciﬁed in the popularity function literature (Nannestad & Paldam, 1994)5 plus the additional variable debt per GDP in order to address the dramatic increases of debt in the aftermath of the ﬁnancial crisis. In the baseline model with an unbalanced panel, net trust in the national government/parliament and net trust in the European Commission/Parliament are estimated as a function of inﬂation, growth of GDP per capita, unemployment, debt per GDP and important control variables. The baseline model for the ﬁxed-effects estimation which holds in the long term when all adjustments have come to an end reads as follows:
+
+Trust in national and European governmental institutionsi,t = αi + βInflationi,t + χGrowthi,t + δ Unemploymenti,t + ε Debt per GDPi,t + ϕZi,t + wi,t (10:1)
+
+where i represents each country and t represents each time period; Trusti,t is the net trust amount for country i during period t; Inﬂationi,t, Growthi,t, Unemploymenti,t, Debt per GDPi,t, and Zi,t are respectively, inﬂation, growth of GDP per capita, unemployment, debt per GDP and important control variables; αi represents a country-speciﬁc constant term and wi,t is the error term. For analytical reasons, we allow the error term to be composed of an error due to omitted variables vi,t and an i.i.d. error wi,t = vi,t + ui,t. This point becomes relevant when we present our estimation technique.
+
+4.3 Measurement of Data
+
+Data on trust in the national government, the national parliament, the European Commission and the European Parliament were based upon the biannual Eurobarometer surveys.6 The ﬁrst observation for information from spring 1999
+
+5In addition, the popularity function literature normally includes political variables (Nannestad & Paldam, 1994, p. 218). As our analysis focuses speciﬁcally on the ﬁnancial and economic crisis in September 2008, we did not see the relevance of including political variables. We did, however, incorporate an election dummy to control for the ﬂuctuation in trust due to elections. The incorporation of the election dummy, however, did not alter our empirical results. 6The raw data are available on CD-ROM from Gesis ZA Data Service for Standard Eurobarometers 51–62 (Gesis, 2005a, 2005b) and were received on request from Gesis ZA Data Service for Standard Eurobarometers 63–69 (https://www.gesis.org/home). Data for the Standard Eurobarometer 70 were taken from Eurobarometer (2010a). Data for the Special Eurobarometer 71.1 were taken from Eurobarometer (2009a). Data from Eurobarometer 71 were taken from Eurobarometer (2009b). Data from Eurobarometer 72 were taken from Eurobarometer (2009c). Data from Eurobarometer 73 were taken from Eurobarometer (2010b). Data from Eurobarometer 74 were taken from Eurobarometer (2011).
+
+was found in the Standard Eurobarometer 51.7 From there onwards, Standard Eurobarometer data until autumn 2010 (Standard Eurobarometer 74) were taken. Furthermore, to precisely measure the effect of the ﬁnancial crisis on net trust in the ECB, the observation from the Special Eurobarometer 71.1 in January–February 2009 was taken into consideration.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 197
+
+• Data on GDP were taken from Eurostat’s quarterly data. The data were chainlinked with 2000 as the reference year.8 The Eurobarometer ﬁeldwork normally takes place around April–May and October–November.9 We constructed semester GDP growth using GDP data on the four quarters preceding the Eurobarometers. More precisely, the two quarters directly preceding the Eurobarometer were compared with the third and fourth quarter before the Eurobarometer, for example, GDP growth for the May 1999 Eurobarometer was calculated by comparing the GDP for October 1998–March 1999 (fourth quarter 1998 plus ﬁrst quarter 1999) with the GDP for April–September 1998 (second plus third quarters 1998). As in 2009, we had three observations for net trust; the Standard Eurobarometer 71, conducted in June 2009, was exceptionally matched with the ﬁrst and second quarters of GDP in 2009. Data on GDP were missing for Bulgaria, Malta and Romania for the ﬁrst three semesters. A graphical overview of the data construction is given in Fig. 10.A1. • Data on inﬂation rates were based on Eurostat’s monthly HICP indicator. Semester data were constructed by averaging monthly data from April to September and from October to the end of March. The April to September data were then matched with Standard Eurobarometers from autumn and the October to end of March data were then matched with Standard Eurobarometers from spring. As discussed above, the Standard Eurobarometer 71, conducted in June 2009, was exceptionally matched with the ﬁrst and second quarters of inﬂation in 2009. • Data on population, unemployment and government debt were retrieved from Eurostat. Semester data were constructed in a similar manner as for GDP and inﬂation. Data were missing on government debt for the ﬁrst two semesters except for Belgium, France, and Romania. Furthermore, the values for
+
+7It would have been possible to further follow the time trend backwards but as our analysis primarily wanted to focus on the impact of the ﬁnancial crisis on citizens’ trust, we concluded that the period 1999–2008 extended over a long enough time range to cover the pre-crisis sample. 8Chain-linking is a methodology to calculate GDP values at constant prices. In particular, the previous year is used as a base year instead of a single-ﬁxed year, which is moved every ﬁve years. 2000 is used as a reference year, for which the deﬂators are expressed as equal to 100. 9Although this ﬂuctuates slightly, we assumed that the Standard Eurobarometer in spring was polled in April–May and the one in autumn was polled in October–November. That this assumption is valid is underlined when analysing the exact dates of the ﬁeldwork in which the single EB’s took place. The polling for the Standard Eurobarometers took place in the following months: 03–04/ 1999, 10–11/1999, 4–5/2000, 11–12/2000, 4–5/2001, 10–11/2001, 04–05/2002, 10–11/2002, 04–05/2003, 10–11/2003, 02–03/2004, 10–11/2004, 05–06/2005, 10–11/2005, 04–05/2006, 09–10/2006, 04–05/2007, 09–10/2007, 03–05/2008, 10–11/2008, 01–02/2009, 06–07/2009, 10–11/2009, 05/2010, 11/2010.
+
+198 Roth, Nowak-Lehmann D. and Otter
+
+unemployment were missing for the ﬁrst two semesters for Bulgaria, Cyprus, Estonia, and Malta. The quarterly population data were inter- and extrapolated to replace missing values. A graphical exemplary overview of the data construction on debt over GDP is given in Fig. 10.A2. • Data on the existence of an election were taken from the electoral database on parliamentary elections from the Consortium for Elections and Political Process Strengthening (CEPPS, 2011).10
+
+• Data on state aids for the ﬁnancial industry (Sector J) were provided by DG Competition (European Commission, 2009). • Data on the size of austerity measures were taken from Theodoropoulou and Watt (2011).
+
+5 Descriptive Statistics
+
+Figure 10.1 shows the time trend of net trust in the European Commission and national government for the 27 European member states as measured by the biannual Eurobarometer surveys since the beginning of the ﬁnancial crisis. Although one detects a decline in trust in the European Commission from spring 2008 onwards until January/February 2009, followed by an increase in net trust until autumn 2009, citizens’ trust in the national government shows a diametric trend in the aftermath of the Lehman bankruptcy in autumn 2008. Citizen’s trust in the national government actually increases until January/February 2009. This diametric trend vanishes with the beginning of the eurozone crisis from autumn 2009 onwards, after which both trust trends decrease. Thus, it seems that the eurozone crisis has had a negative effect on trust in both institutions: the national government and the European Commission. The ﬁnding that trust in the national government increased in the direct aftermath of the ﬁnancial crisis has already been shown by Roth (2009) and can generally be identiﬁed as the rally-around-the-ﬂag phenomenon (Hetherington & Nelson, 2003), which means that in times of crisis, citizens’ trust in the national institutions actually rose on a short-term basis (see also Chanley, 2002). The same pattern can be detected when comparing the trust trends in the national parliament and the European Parliament in Fig. 10.2, which shows the time trend in net levels of trust in the European Parliament and national parliament for the 27 European member states measured by the biannual Eurobarometer surveys.
+
+As Figs. 10.1 and 10.2 merely reﬂect the overall trend of the EU-27 and taking the ongoing eurozone crisis into consideration, it seems necessary to evaluate the periphery countries in comparison with the core countries. Figure 10.3 shows the trust trends in the national parliament for the four European periphery economies of Greece, Ireland, Portugal, and Spain. The ﬁgure clariﬁes once more (see also Roth, 2011) the immense loss of citizens’ trust in the national parliament since the start of
+
+10Data can be downloaded at http://www.electionguide.org/.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 199
+
+Fig. 10.1 Trust trends in the national government and European Commission in the aftermath of the ﬁnancial crisis in the EU-27 Sources: Standard Eurobarometers 69–74 and Special Eurobarometer 71.1.
+
+Fig. 10.2 Trust trends in the national parliament and European Parliament in the aftermath of the ﬁnancial crisis in the EU-27 Sources: Standard Eurobarometers 69–74 and Special Eurobarometer 71.1.
+
+Fig. 10.3 Trust in the national parliament in the four periphery countries Greece, Ireland, Spain and Portugal Sources: Standard Eurobarometers 69–74 and Special Eurobarometer 71.1.
+
+–
+
+Fig. 10.4 Trust in the national parliament in the two core countries Germany and France Sources: Standard Eurobarometers 69–74 and Special Eurobarometer 71.1.
+
+the ﬁnancial crisis in the periphery countries. Spanish citizens’ net trust decreased by 67% (from 19.5% in spring 2008 to –47% in autumn 2010)11 and that of Irish citizens declined by 65.7% (from –3.3% in spring 2008 to –69% in autumn 2010).12 In Greece, citizens’ trust fell by 49% (from 0% in spring 2008 to –49% in autumn 2010)13 and in Portugal, it dropped by 25.2% (from –14.8% in spring 2008 to –41% in autumn 2010). Ireland’s net trust value of –69 (as can be inferred from the summary statistics in Tables 10.A1 and 10.A2 in the Annex) is the lowest value in the EU-15 country sample in the observed timeframe of 1999–2010.
+
+200 Roth, Nowak-Lehmann D. and Otter
+
+Whereas the four periphery countries have faced dramatic losses of their citizens’ trust in the national parliament and government, the picture looks signiﬁcantly different in the case of Germany and France, as depicted in Fig. 10.4. After a fall of citizens’ trust in France in autumn 2010, the overall loss of net trust since the start of the ﬁnancial crisis in spring 2008 has only been –15.6%. In contrast to France, however, in Germany, trust has stabilised with a value of –12%, which is an even higher level than before the ﬁnancial crisis ( 15% in spring 2008).
+
+Figure 10.5 shows the above-mentioned rally-around-the-ﬂag effect in the aftermath of the ﬁnancial crisis for an EU-15 country sample. The picture clariﬁes that in the direct aftermath of the crisis, a decline in the growth of GDP is associated with an increase of net trust in the national government, whereas an increase in growth of GDP per capita (in the period of economic recovery) is associated with declining trust in the national government. This ﬁnding already indicates that it is not just a politically motivated crisis – such as the attacks on the twin towers on 9/11 (Chanley,
+
+11Net trust in the national government fell 73% from 20% to –53%, with a tiny recovery in autumn 2010. 12Citizens’ trust in the national government has been facing similar losses, with a record low of –75% of net trust in Ireland in autumn 2010. This is the lowest net trust value in the period from 1999 to 2010 in the EU-15 country sample. Soon afterwards in January 2011, the Irish government resigned. 13The immediate increase in autumn 2009 is due to the election of a new government.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 201
+
+Fig. 10.5 Scatterplot between growth and trust in the national government in the aftermath of the ﬁnancial crisis in the EU-15 (controlling for country-ﬁxed effects) Sources: Standard Eurobarometers 69–71 and Special Eurobarometer 71.1 and Eurostat data.
+
+2002) – that triggers a rally-around-the-ﬂag effect, but that an economically motivated crisis does so as well.
+
+Figures 10.6 and 10.7 show partial regression plots when controlling for countryﬁxed effects (thus depicting the within variation) between government debt and trust in the national parliament in the crisis period from spring 2008 to autumn 2010 for the EU-27 country sample. Whereas Fig. 10.6 shows a partial regression plot without the exclusion of Ireland, Fig. 10.7 clariﬁes that even without the two Irish cases (which seem to drive the negative relationship in Fig. 10.6) overall, there is a clear and signiﬁcant negative association between debt over GDP and net trust in the national parliament. An increase of government debt is associated with a decrease of net trust in the national parliament.
+
+6 Econometric Analysis
+
+To analyse the determinants of net trust in the national government/parliament and European Commission/Parliament over a longer time horizon, the ﬁxed-effects Dynamic Ordinary Least Squares (DOLS) or a Feasible Generalised Least Squares (FGLS) estimation method is used (see Table 10.3). There are basically three
+
+202 Roth, Nowak-Lehmann D. and Otter
+
+Fig. 10.6 Scatterplot between debt and trust in the national parliament during the ﬁnancial crisis (controlling for country-ﬁxed effects) Sources: Standard Eurobarometers 69–74 and Special Eurobarometer 71.1 and Eurostat data.
+
+Fig. 10.7 Scatterplot between debt and trust in the national parliament during the ﬁnancial crisis (controlling for country-ﬁxed effects), excluding Ireland Sources: Standard Eurobarometers 69–74, Special Eurobarometer 71.1 and Eurostat data.
+
++
+
+econometric issues that deserve prior discussion. One is whether and how to control for omitted variables and whether inclusion of time ﬁxed effects is an adequate approach; the second issue is about structural breaks or whether inﬂation, growth and unemployment inﬂuence trust in the national and European institutions in the same way under normal economic conditions and in times of crisis. The third issue concerns the endogeneity of the explanatory variables.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 203
+
+6.1 The Issue of Dealing with Unexpected Events and Omitted Variables
+
+In econometric modelling, we often have to deal with unquantiﬁable or unobservable events (or both). In the panel data literature, it has become very common to work with ﬁxed time dummies in order to proxy events that are identical for all countries in the sample but which change over time. In contrast to traditional panel data studies, we do not favour the use of time dummies. We have reason to believe that countries (our cross-sections) are usually affected differently by the same ‘general’ event. With respect to the 27/15 EU economies under investigation, for example, the EU’s enlargement strongly affects the neighbouring countries in Central Europe but less so the countries farther away. Moreover, the state of the world economy affects especially those countries having commercial and investment banks with considerable international exposure and/or a strong dependency on exports, and tight ﬁnancial markets do more harm to countries with a housing bubble, such as Spain, Ireland and United Kingdom. By plugging in time dummies, one would mimic the same exposure to an unspeciﬁed risk in all 27 EU countries under investigation. We thus ﬁnd it more appealing to control for unknown omitted variables that are countryspeciﬁc and that change over time (vit) through FE-FGLS. FGLS works with transformed variables (denoted by an asterisk *). It is realistic to assume that today’s disturbances are somehow related to past values of the disturbance term wit, that is, to variables that are omitted over the entire sample period.
+
+The new estimation equation describes the long-run co-movement of the series when all adjustments have been made. Therefore, it does not contain lagged values of the explanatory variables. Still, estimation requires the series to be non-stationary and to be in a long-run equilibrium (cointegrated). See Tables 10.A3, 10.A4, 10.A5 and 10.A6 in the Appendix for the panel unit root tests and cointegration tests performed. The series turned out to be I(1) and cointegrated.
+
+The Equation reads as follows:
+
+Trust* it = αi + β1Inflation* it + χ1Growth* it + δ1Unemployment* it + ε1DebtperGDP* it+
+
+ϕ1Z* it + β2ΔInflation* it + χ2ΔGrowth* it + δ2ΔUnemployment* it + ε2ΔDebtperGDP* it ϕ2ΔZ* it + uit (10:2)
+
+with Δ indicating that the variables are in rst differences; and with * indicating that
+
+204 Roth, Nowak-Lehmann D. and Otter
+
+ﬁ the variables have been transformed (purged from autoregressive processes) and that the error term uit fulﬁlls the requirements of the classical linear regression model (it is free from autocorrelation).
+
+Trust=Nat=Europ* it = Trust=Nat=Europit – ρ1Trust=Nat=Europit–1 – ρ2Trust=Nat=Europit–2, Inflation* it = Inflationit – ρ1Inflationit–1 – ρ2Inflationit–2 Growth* it = Growthit – ρ1Growthit – ρ2Growthit Unemployment* it = Unemploymentit – ρ1Unemploymentit–1 – ρ2Unemploymentit–2 DebtperGDP* it = DebtperGDPit – ρ1DebtperGDPit–1 – ρ2DebtperGDPit–2 Z* it = Zit – ρ1Zit–1 – ρ2Zit–2 and uit = wit – ρ1wit–1 – ρ2wit–2 = w* it (10:3)
+
+The transformations of the variables in ﬁrst differences are generated in exactly the same way. Note that the new error term uit is free of autocorrelation and that the omitted variable problem is reduced – if not eliminated – by transforming the variables. Since the coefﬁcient ρ1 is usually unknown (as in our case), it has been estimated by means of, for example, the Cochrane–Orcutt method (an FGLS procedure).14 In addition, we use country-speciﬁc ﬁxed effects in our analysis.
+
+6.2 The Issue of Structural Break
+
+Given that we would expect a structural break caused by the economic crisis, a test for parameter stability is indicated. The Chow test showed a structural break between the pre-crisis period (spring 1999–autumn 2007) and the crisis period (spring 2008– autumn 2010). Although we also present results for the full sample period (spring 1999–autumn 2010) in Tables 10.A7 and 10.A8 of the Appendix, the emphasis should be on the separate regressions for the pre-crisis period (column (1)) and the crisis period (column (2)). It also becomes evident that a regression over the full sample period can produce misleading results. For example, the price level seems to be of importance in the spring 1999–autumn 2010 period, but it is never signiﬁcant in the subperiods (pre-crisis and crisis) (columns (1) and (2)).
+
+6.3 The Issue of Endogeneity
+
+When running regressions, one must be aware of the possibility that the left-hand side variables and the right-hand side variables inﬂuence each other. More
+
+14If only ﬁrst-order autocorrelation is present, ρ2 are zero and the second term drops out.
+
+speciﬁcally, the right-hand side variables (inﬂation, growth, unemployment and debt) might be endogenous (affected by a common event) or stand in a bidirectional relationship with trust (a low level of trust might lead to a self-fulﬁlling prophecy and might thus speed up and worsen an existing downturn). Therefore, we estimated the model for the pre-crisis and the crisis periods by means of DOLS, a method that controls for the endogeneity of the regressors. DOLS is also known as the ‘leads and lags’ approach proposed by Stock and Watson (1993) and described by Wooldridge (2009). It can be shown that by inserting the leads and lags of the right-hand side variables in ﬁrst differences, the explanatory variables become (super-) exogenous and the regression results thus become unbiased. The coefﬁcient estimator of the explanatory variables in levels follows a t-distribution and hence enables us to draw statistical inferences. Due to a multicollinearity problem, we included only the ﬁrst differences of the explanatory variables. As we also eliminate autocorrelation (whenever necessary), the DOLS estimation turns into a DFGLS estimation. One should note that the DOLS/DFGLS estimation technique requires the series to be integrated of e.g. order 1 (I(1)) and cointegrated, i.e. to stand in a long-run relationship.15
+
+Has the Financial Crisis Shattered Citizens’ Trust? 205
+
+6.4 Regression Results
+
+All the tables contain results for the full sample (Tables 10.A7 and 10.A8 in the Appendix) and the pre-crisis and the crisis periods. Table 10.3 shows the results for the EU-15 country sample concerning citizens’ trust in the national government and parliament. Inﬂation has the expected, negative impact on trust in the national government and parliament in the pre-crisis period. As inﬂation does not play a role in the crisis period, the full sample result in which inﬂation matters (Table 10.A7) is driven by the pre-crisis period. Growth is an important determinant of trust only in the pre-crisis period,16 whereas unemployment has a signiﬁcant, negative impact on trust in all sample periods (pre-crisis, crisis and full sample period). Government debt inﬂuences trust only in national parliament in the pre-crisis and full sample periods. Overall, we can conclude that the increasing/decreasing rate of unemployment is very strongly associated with citizens’ trust in the national government and parliament.
+
+Yet once incorporating an interaction term between debt and those EU-15 countries that have strongly supported their ﬁnancial industry in the crisis period, the interaction term turns out to be negative and highly signiﬁcant. Citizens’ loss of
+
+15See Tables 10.A3, 10.A4, 10.A5 and 10.A6 in the Appendix. 16In the direct aftermath of the ﬁnancial crisis (Standard Eurobarometers 69–71 and Special Eurobarometers 71.1 or spring 2008 to January–February 2009), growth is signiﬁcantly negatively related to trust in the national government and parliament. This supports the descriptive results of Figs. 10.1, 10.2 and 10.5, which show a rally-around-the-ﬂag effect in the direct aftermath of the ﬁnancial crisis.
+
+206 Roth, Nowak-Lehmann D. and Otter
+
+Table 10.3 Trust in the national government and parliament, EU-15 country sample, controlling for endogeneity (FE-DFGLS or FE-DOLS estimation)
+
+(1) Government trust
+
+(2) Government trust
+
+(1) Parliament trust
+
+(2) Parliament trust Spring 1999Autumn 2007
+
+Spring 2008Autumn 2010
+
+Spring 1999Autumn 2007
+
+Spring 2008Autumn 2010 Inﬂation –1.02*** 1.44 –0.52** 0.84 (–3.22) (0.74) (–2.12) (1.06) Growth 5.58*** –2.15 5.32*** –0.91 (2.66) (–1.45) (2.92) (–1.05) Unemployment –7.27*** –6.10*** –3.88*** –5.43*** (–4.83) (–3.46) (–3.07) (–5.30) Government debt 0.00 0.10 –0.51** –0.27 (0.01) (0.20) (–1.97) (–1.15) Durbin-Watson statistic
+
+1.72 1.88 2.22 2.05
+
+R-squared 0.81 0.91 0.83 0.93 Adjusted R2 0.78 0.87 0.80 0.91 Country ﬁxed effects Yes Yes Yes Yes Control for endogeneity via a simple DOLS
+
+Yes Yes Yes Yes
+
+Elimination of ﬁrst order auto correlation
+
+Yes DFGLS
+
+Yes DFGLS
+
+Yes DFGLS
+
+No DOLS Observations 165 105 177 105 Number of countries 15 15 15 15
+
+Note: t-values in parentheses. ***p < 0.01, **p < 0.05, *p < 0.10. Source: Authors’ own calculations.
+
+trust in the national parliament and European Commission is negatively associated within those countries in which the increase of government debt was due to aid for the ﬁnancial industry.17 To determine the magnitude of a country bailing out its ﬁnancial industry, data from DG Competition were used (European Commission, 2009). The data present the amount of state aid given by each of the 27 EU member states to ﬁnancial services (sector j) in year 2009. As the state aid data for the ﬁnancial industry for 2010 have not been published yet, we have assumed that the same list of countries should be applicable for 2010. When incorporating an interaction term between debt and those EU-15 countries that have faced signiﬁcant austerity measures in the crisis period, the interaction term turns out to be negative
+
+17In the EU-15 countries, these include Austria, Germany, Greece, Ireland, Luxembourg, the Netherlands, Sweden, and UK. After applying a very rough estimation strategy, we ﬁnd that over 30% of new debt in these countries can be attributed to aiding/bailing out their banks.
+
+and highly signiﬁcant for trust in the European Commission and the European Parliament. The data are provided by Theodoropoulou and Watt (2011).18
+
+Has the Financial Crisis Shattered Citizens’ Trust? 207
+
+Table 10.4 shows the results for the EU-15 country sample concerning citizens’ trust in the European Commission and Parliament. The two variables inﬂation and government debt (and, to a somewhat lesser extent, growth) are strongly associated with trust in the European Commission and European Parliament in the full and precrisis samples, but not in the crisis period. The positive association between growth and trust in the European Commission and European Parliament is driven by the strong association in the aftermath of the ﬁnancial crisis, where a dramatic economic downfall was accompanied by a severe drop in citizens’ trust in the two European
+
+Table 10.4 Trust in the European Commission and European Parliament, EU-15 country sample, controlling for endogeneity (FE-DFGLS or FE-DOLS estimation)
+
+(1) European Commission trust
+
+(2) European Commission trust
+
+(1) European Parliament trust
+
+(2) European Parliament trust Spring 1999Autumn 2007
+
+Spring 2008Autumn 2010
+
+Spring 1999Autumn 2007
+
+Spring 2008Autumn 2010 Inﬂation –0.64*** –0.38 –0.79*** –0.58 (–3.65) (–0.67) (–4.20) (–1.05) Growth 3.00*** 1.32** 1.62 1.04* (3.02) (2.13) (1.52) (1.73) Unemployment –0.15 –2.33*** –0.43 –2.47*** (–0.16) (–3.17) (–0.45) (–3.49) Government debt –0.61*** –0.23 –0.49*** –0.19 (–3.43) (–1.39) (–2.55) (–1.16) Durbin-Watson statistic
+
+2.23 1.79 2.18 1.86
+
+R-squared 0.87 0.89 0.85 0.90 Adjusted R2 0.85 0.86 0.83 0.87 Country ﬁxed effects Yes Yes Yes Yes Control for endogeneity via a simple DOLS
+
+Yes Yes Yes Yes
+
+Elimination of ﬁrst order auto correlation
+
+Yes DFGLS
+
+No DOLS
+
+Yes DFGLS
+
+No DOLS Observations 212 105 212 105 Number of countries 15 15 15 15
+
+Notes: t-values in parentheses. ***p < 0.01, **p < 0.05, *p < 0.10. Source: Authors’ own calculations.
+
+18The paper indicates that in the given sample of 12 out of EU-15 countries, signiﬁcant austerity measures have been implemented in Ireland from 2008 to 2010, and in Greece and Portugal in both periods of 2010. All three countries have had a ﬁscal adjustment larger than 1% in 2010. Data are not provided for the Netherlands, Finland and Belgium.
+
+institutions. The increase in unemployment during and after the crisis has led to a decrease in trust in both the European Commission and the European Parliament.
+
+208 Roth, Nowak-Lehmann D. and Otter
+
+Up to now, we have only considered an EU-15 country sample for the reason that with this sample, it is possible to extend the timeframe back to 1999. We now shift our analysis to an EU-27 sample. As the EU-25 has been in place since 2004, our timeframe when estimating our EU-27 country sample focuses on the period from 2004 to 2010.19 Thus, Table 10.5 shows the results for the EU-27 country sample concerning citizens’ trust in the national governments and parliaments.
+
+It is interesting to note in the EU-27 sample that inﬂation only plays a role in trust in the national government or the national parliament when we look at the pre-crisis period. Growth is not of importance for trust in the national government in the
+
+Table 10.5 Trust in the national government and parliament, EU-27 country sample, controlling for endogeneity (FE-DFGLS or FE-DOLS estimation)
+
+(1) Government trust
+
+(2) Government trust
+
+(1) Parliament trust
+
+(2) Parliament trust Autumn 2004– Autumn 2007
+
+Spring 2008– Autumn 2010
+
+Autumn 2004– Autumn 2007
+
+Spring 2008– Autumn 2010 Inﬂation –1.00** 1.01 –1.09*** 1.05 (–2.08) (1.11) (–3.57) (1.41) Growth 2.08 –0.22 2.28** 0.21 (1.52) (–0.25) (2.17) (0.27) Unemployment –3.08** 0.52 –1.93** 0.09 (–2.08) (0.40) (–2.07) (0.08) Government debt –0.52 –1.05*** –0.66** –1.01*** (–1.08) (–3.02) (–2.12) (–3.42) Durbin-Watson statistic
+
+2.08 1.87 2.23 2.02
+
+R-squared 0.86 0.86 0.92 0.91 Adjusted R2 0.82 0.82 0.90 0.89 Country ﬁxed effects Yes Yes Yes Yes Control for endogeneity via a simple DOLS
+
+Yes Yes Yes Yes
+
+Elimination of ﬁrst order auto correlation
+
+Yes DFGLS
+
+No DFGLS
+
+No DOLS
+
+No DFGLS Observations 177 189 189 189 Number of countries 27 27 27 27
+
+Notes: t-values in parentheses. ***p < 0.01, **p < 0.05, *p < 0.10. Source: Authors’ own calculations.
+
+19The authors acknowledge that Romania and Bulgaria joined the EU in 2007. To estimate our equation with full coverage of the 27 countries, the timeframe of 2004–2010 is also applied to Romania and Bulgaria. Estimates do not differ signiﬁcantly in an EU-25 country sample without Bulgaria and Romania or when estimating Bulgaria and Romania from 2007 onwards.
+
+EU-27, whereas growth positively impacts on trust in the national parliament in the pre-crisis period. The negative impact of unemployment on trust shows up only in the pre-crisis period. The increase in debt leads to a decrease in trust in the national parliament and national government in the crisis period. This econometric result conﬁrms the ﬁrst empirical evidence given by Roth (2011).
+
+Has the Financial Crisis Shattered Citizens’ Trust? 209
+
+Table 10.6 shows the results for the EU-27 country sample concerning citizens’ trust in the European Commission and European Parliament. Regression 1 shows the results when employing the pre-crisis sample of 2004–2010. If inﬂation increases during good times, European institutions lose trust. A decline in growth diminishes trust during an economic crisis. Government debt must be considered harmful for trust in European institutions in both the pre-crisis and crisis periods. Unemployment reduces trust in the European Commission at all times and trust in the European Parliament in the pre-crisis period.
+
+Table 10.6 Trust in the European Commission and European Parliament, EU-27 country sample, controlling for endogeneity (FE-DFGLS or FE-DOLS estimation)
+
+(1) European Commission trust
+
+(2) European Commission trust
+
+(1) European Parliament trust
+
+(2) European Parliament trust Autumn 2004– Autumn 2007
+
+Spring 2008– Autumn 2010
+
+Autumn 2004– Autumn 2007
+
+Spring 2008– Autumn 2010 Inﬂation –0.63*** 0.41 –0.62*** 0.20 (–3.26) (1.20) (–3.03) (0.58) Growth 0.57 1.78*** 0.09 1.60*** (0.86) (4.05) (0.13) (3.64) Unemployment –1.64*** –0.88* –1.78*** –0.78 (–2.76) (–1.63) (–2.87) (–1.42) Government debt –0.45** –0.45*** –0.38* –0.42*** (–2.26) (–3.07) (–1.86) (–2.84) Durbin-Watson statistic
+
+1.90 2.06 1.91 2.09
+
+R-squared 0.85 0.87 0.85 0.88 Adjusted R2 0.82 0.84 0.82 0.85 Country ﬁxed effects Yes Yes Yes Yes Control for endogeneity via a simple DOLS
+
+Yes Yes Yes Yes
+
+Elimination of ﬁrst order auto correlation
+
+No DOLS
+
+Yes DFGLS
+
+No DOLS
+
+Yes DFGLS Observations 189 189 189 189 Number of countries 27 27 27 27
+
+Notes: t-values in parentheses. ***p < 0.01, **p < 0.05, *p < 0.10. Source: Authors’ own calculations.
+
+210 Roth, Nowak-Lehmann D. and Otter
+
+7 Conclusions
+
+We have estimated the relationship between inﬂation, growth, unemployment, government debt and trust in the national as well as the European government and Parliament. We have done so for both the EU-15 and the EU-27 countries and for the pre-crisis and the crisis periods. We have found that it is crucial to look at the two periods separately and to run separate regressions, as using only the full sample period would deliver misleading results. That is, the results do not change so much with the countries sampled, but rather with analysing the pre-crisis or crisis periods. Four results seem to be particularly noteworthy.
+
+First, we ﬁnd that inﬂation reduces trust in all national and European governmental organisations in the EU-15 and the EU-27, but only under good economic conditions. If the economy is performing poorly, inﬂation is never an issue.
+
+Second, we detect that unemployment leads to a fall in trust in national and European institutions, especially during times of crisis and especially in the EU-15 countries. Unemployment is not a systematic determinant of trust in the EU-27 countries. For the EU-15 country sample, the negative impact of unemployment regarding trust is stronger for national governments than for EU institutions.
+
+Third, we detect that an increase of debt over GDP reduces trust in the EU-27 sample. This association is given during all time periods in the EU-27 with respect to trust in European governmental institutions and trust in the national parliament. Furthermore, it is given with respect to trust in the national parliament and European Commission in the EU-15, taking into account whether an increase in debt was partly due to aiding the ﬁnancial industry. Moreover, it is given with respect to trust in the European Commission and European Parliament in the EU-15, taking the signiﬁcant austerity measures within a given country into account.
+
+Fourth, when analysing the direct aftermath of the ﬁnancial crisis, our econometric results conﬁrm that the immense decline in the real economy (decline in growth of GDP per capita) was associated with a temporary increase in citizens’ trust in the national institutions, thus pointing to a rally-around-the-ﬂag effect. When analysing the entire crisis period, this association is levelled out. This rally-around-the-ﬂag effect can only be detected for the national institutions, however, and not for the EU institutions.
+
+Trust levels in the national governments and national parliaments have fallen to historically low points in many European countries, notably in the periphery countries, having been most exposed to the ﬁnancial crisis and the ongoing eurozone crisis. In addition, Ireland, Spain, Greece and Portugal show strong increases in unemployment (especially Ireland and Spain) and sharp rises in the levels of debt over GDP (particularly Ireland and Greece). Thus, several policy steps seem crucial for European policymakers.
+
+As unemployment and debt over GDP appear to be central explanatory variables for the declining trust in national governments and parliaments during the crisis period, European policymakers should ﬁrst solve the eurozone crisis and help the periphery countries lower their debt levels and increase their employment rates. Doing so would most likely stabilise citizens’ trust in their national governments and
+
+parliaments. This might imply discarding the strategy of the three ‘no’s’: no bail-out, no sovereign default and no exit (Roth, 2011). In particular, the falling trust levels in the national parliaments are worrisome, as this process points to long-lasting political costs of the ﬁnancial (and eurozone) crisis. Moreover, citizens’ increasing alienation towards their political representatives will likely result in the election of more populist governments (on this point, see also Lachman, 2010), who will support purely national rather than EU interests. While the core countries Germany and France have successfully managed to avoid an unemployment crisis, the unemployment rates in Ireland and Spain, at 15% and 20% (40% youth unemployment) respectively, are unsustainable for social and political cohesion.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 211
+
+Appendix
+
+EB 51
+
+March—April 99
+
+EB 52
+
+October—November 99
+
+Sum of GDP per capita of the two
+
+quarters (October 98—March 99)
+
+Sum of GDP per capita of the two
+
+quarters (April—September 99)
+
+GDP per capita growth is matched with EB 52
+
+Fig. 10.A1 Research design for the construction of growth of GDP per capita
+
+EB 51
+
+March—April 99
+
+EB 52
+
+October—November 99
+
+Sum of debt over GDP of the two
+
+quarters (October 98—March 99)
+
+Sum of debt over GDP of the two
+
+quarters (April—September 99)
+
+Fig. 10.A2 Research design for the construction debt over GDP
+
+212 Roth, Nowak-Lehmann D. and Otter
+
+Table 10.A1 Summary statistics, EU-27 country sample from autumn 2004 to autumn 2010
+
+Variable Obs Mean Std. dev. Min Max Net trust in the national government 378 –17.8 31.2 –84 61 Net trust in the national parliament 378 –16.5 36.2 –90 70.7 Net trust in the European Commission 378 25.1 17.0 –35 55.6 Net trust in the European Parliament 378 28.6 17.6 –38 62.9 GDP per capita growth 378 0.7 2.5 –10.6 6.2 Unemployment rate 378 7.8 3.3 3.05 20.3 HICP 378 107.5 8.8 91.4 141.6 Government debt in % of GDP 378 49.2 28.5 3.4 137.9
+
+Source: Authors’ own calculations.
+
+Table 10.A2 Summary statistics, EU-15 country sample from spring 1999 to autumn 2010
+
+Variable Obs Mean Std. dev. Min Max Net trust in the national government 316 –7.4 27.1 –75 61 Net trust in the national parliament 329 2.1 27.1 –69 70.7 Net trust in the European Commission 375 20.9 19.0 –40.2 57.4 Net trust in the European Parliament 375 26.7 18.8 –38 61.7 GDP per capita growth 371 0.7 1.6 –6.8 5.3 Unemployment rate 375 7.1 2.8 1.9 20.3 HICP 375 99.0 8.0 78.9 118.3 Government debt in % of GDP 349 60.6 28.3 5.6 137.9
+
+Source: Authors’ own calculations.
+
+Table 10.A3 EU-15 country sample, ADF-panel unit root tests
+
+Variable
+
+Total (balanced) observations
+
+ADF-Fisher Chi-square Probability Net trust in the national government
+
+180 13.27 0.99
+
+Net trust in the national parliament
+
+180 14.12 0.99
+
+Net trust in the European Commission
+
+300 28.10 0.56
+
+Net trust in the European Parliament
+
+300 22.03 0.85
+
+GDP per capita growth 296 35.22 0.23 Unemployment rate 300 30.32 0.45 Inﬂation rate 300 15.94 0.98 Government consumption in % of GDP
+
+297 39.03 0.13
+
+Government debt in % of GDP 300 37.88 0.15
+
+Notes: H0: Series has a unit root (individual unit root process). Source: Authors’ own calculations.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 213
+
+Table 10.A4 EU-27 country sample, Kao residual cointegration test
+
+Cointegration between the following set of variables
+
+Included observations
+
+ADF-tstatistic Probability Net trust in the national government and explanatory variables
+
+675 –2.19 0.01
+
+Net trust in the national parliament and explanatory variables
+
+675 –1.93 0.03
+
+Net trust in the European Commission and explanatory variables
+
+675 –2.91 0.00
+
+Net trust in the European Parliament and explanatory variables
+
+675 –3.32 0.00
+
+Notes: H0: no cointegration. Source: Authors’ own calculations.
+
+Table 10.A5 EU-27 country sample, ADF-panel unit root tests
+
+Variable
+
+Total (balanced) observations
+
+ADF-Fisher Chi-square Probability Net trust in the national government
+
+288 35.55 0.98
+
+Net trust in the national parliament
+
+288 29.17 0.98
+
+Net trust in the European Commission
+
+408 40.94 0.90
+
+Net trust in the European Parliament
+
+408 39.80 0.93
+
+GDP per capita growth 528 63.71 0.17 Unemployment rate 532 46.93 0.74 Inﬂation rate 625 50.95 0.59 Government consumption in % of GDP
+
+531 55.86 0.41
+
+Government debt in % of GDP 573 41.48 0.89
+
+Notes: H0: series has a unit root (individual unit root process). Source: Authors’ own calculations.
+
+Table 10.A6 EU-15 country sample, Kao residual cointegration test
+
+Cointegration between the following set of variables
+
+Included observations
+
+ADF-tstatistic Probability Net trust in the national government and explanatory variables
+
+375 2.26 0.01
+
+Net trust in the national parliament and explanatory variables
+
+375 2.67 0.00
+
+Net trust in the European Commission and explanatory variables
+
+375 –1.43 0.08
+
+Net trust in the European Parliament and explanatory variables
+
+375 –1.94 0.03
+
+Notes: H0: no cointegration. Source: Authors’ own calculations.
+
+214 Roth, Nowak-Lehmann D. and Otter
+
+Table 10.A7 Trust in the institutions, EU-15 country sample, controlling for endogeneity (FE-DFGLS or FE-DOLS estimation), full sample period
+
+(1) Government trust
+
+(2) Parliament trust
+
+(3) European Commission trust
+
+(4) European Parliament trust Spring 1999Autumn 2010
+
+Spring 1999Autumn 2010
+
+Spring 1999Autumn 2010
+
+Spring 1999Autumn 2010 Inﬂation –0.66*** –0.42** –0.56*** –0.78*** (–2.93) (–2.25) (–4.51) (–6.21) Growth –1.00 0.53 1.51*** 0.99* (–1.04) (0.62) (2.79) (1.79) Unemployment –4.04*** –3.06*** –0.16 –0.12 (–4.44) (–3.88) (–0.29) (–0.22) Government debt –0.36* –0.61*** –0.59*** –0.55*** (–1.89) (–3.85) (–5.66) (–5.22) Durbin-Watson statistic
+
+1.78 2.15 2.16 2.17
+
+R-squared 0.82 0.85 0.85 0.85 Adjusted R2 0.80 0.84 0.84 0.84 Country ﬁxed effects Yes Yes Yes Yes Control for endogeneity via a simple DOLS
+
+Yes Yes Yes Yes
+
+Elimination of ﬁrst order auto correlation
+
+Yes DFGLS
+
+Yes DFGLS
+
+Yes DFGLS
+
+Yes DFGLS Observations 270 282 317 317 Number of countries 15 15 15 15
+
+Source: Authors’ own calculations.
+
+Table 10.A8 Trust in the institutions, EU-27 country sample, controlling for endogeneity (FE-DFGLS or FE-DOLS estimation), full sample period
+
+(1) Government trust
+
+(2) Parliament trust
+
+(3) European Commission trust
+
+(4) European Parliament trust Autumn 2004– Autumn 2010
+
+Autumn 2004– Autumn 2010
+
+Autumn 2004– Autumn 2010
+
+Autumn 2004– Autumn 2010 Inﬂation –0.03 –0.11 –0.01 0.07 (–0.13) (–0.58) (–0.04) (0.58) Growth 0.69 1.03* 1.09*** 0.94*** (1.13) (1.91) (3.20) (2.84) Unemployment –1.04 –0.90* 0.12 0.07 (–1.52) (–1.65) (0.35) (0.20) Government debt –0.52
+
+(continued)
+
+–0.81*** –0.61*** –0.60*** (–1.08) (–3.20) (–5.37) (–5.41)
+
+trust trust
+
+Has the Financial Crisis Shattered Citizens’ Trust? 215
+
+Table 10.A8 (continued)
+
+(1) Government (2) Parliament
+
+(3) European Commission trust
+
+(4) European Parliament trust Autumn 2004– Autumn 2010
+
+Autumn 2004– Autumn 2010
+
+Autumn 2004– Autumn 2010
+
+Autumn 2004– Autumn 2010 Durbin-Watson statistic
+
+2.08 2.06 2.05 1.93
+
+R-squared 0.86 0.90 0.82 0.84 Adjusted R2 0.82 0.89 0.81 0.82 Country ﬁxed effects Yes Yes Yes Yes Control for endogeneity via a simple DOLS
+
+Yes Yes Yes Yes
+
+Elimination of ﬁrst order auto correlation
+
+Yes DFGLS
+
+Yes DFGLS
+
+Yes DFGLS
+
+Yes DFGLS Observations 366 366 366 351 Number of countries 27 27 27 27
+
+Source: Authors’ own calculations.
+
+References
+
+Biernat, J. (2007). Das Vertrauen in die Europäische Union – Determinanten und Dimensionen im Vergleich alter und neuer Mitgliedsstaaten. Diplomarbeit an der Europa-Universität Viadrina Frankfurt (Oder). Blind, P. V. (2006). Building trust in government in the twenty-ﬁrst century: Review of literature and emerging issues. Paper prepared for the seventh global forum on reinventing government building Trust in government 26–29 June 2007 in Vienna. UN Department of Economic and Social Affairs. Chanley, V. (2002). Trust in the Aftermath of 9/11: determinants and consequences. Political Psychology, 23(3), 469–483. CEPPS (2011). Data on parliamentary elections, resource document, CEPPS. http://www.
+
+electionguide.org/. Accessed 15 April 2011. Dalton, R. J. (2005). The social transformation of trust in government. International Review of Sociology, 15(1), 133–154. Dalton, R. J., & Wattenberg, M. (2000). Party change and the democratic process. In R. J. Dalton & M. Wattenberg (Eds.), Parties without partisans. Political change in advanced industrial democracies. Oxford University Press. Dinkel, H. (1982). Ein politisch-ökonomisches Modell der Bundesrepublik? Jahrbuch für Neue Politische Ökonomien (Vol. I). J.C.B. Mohr. Easton, D. (1965). A systems analysis of political life. Wiley. Eurobarometer (2009a). The Europeans in 2009 – Special Eurobarometer 308/Wave 71.1. Resource document. European Commission, DG Communication. Eurobarometer (2009b). Standard Eurobarometer 71, spring 2009. Resource document. European Commission, DG Communication. https://europa.eu/eurobarometer/surveys/browse/all/series/ 4961 . Accessed on 3 March 2011.
+
+216 Roth, Nowak-Lehmann D. and Otter
+
+Eurobarometer (2009c) Standard Eurobarometer 72, resource document. European Commission, DG Communication. https://europa.eu/eurobarometer/surveys/browse/all/series/4961 . Accessed 3 March 2011. Eurobarometer (2010a). Standard Eurobarometer 70. Resource document. European Commission, DG Communication. https://europa.eu/eurobarometer/surveys/browse/all/series/4961 . Accessed 3 March 2011. Eurobarometer (2010b). Standard Eurobarometer 73, resource document. European Commission, DG Communication. https://europa.eu/eurobarometer/surveys/browse/all/series/4961 . Accessed 3 March 2011. Eurobarometer (2011). Standard Eurobarometer 74, resource document. European Commission, DG Communication. https://europa.eu/eurobarometer/surveys/browse/all/series/4961 . Accessed 3 March 2011. European Commission (2009). “Sectoral distribution of aid by member state as a percentage of total aid”, Resource document. European Commission, DG Communication. http://ec.europa.eu/ competition/state_aid/studies_reports/expenditure.html . Accessed 30 March 2011. Fiorina, M. P. (1978). Economic retrospective voting in American national elections: A microanalysis. American Journal of Political Science, 22(2), 426–443. Gabel, M. (1998a). Public support for European integration: An empirical test of ﬁve theories. Journal of Politics, 60(2), 333–354. Gabel, M. (1998b). Interests and integration: Market liberalization, public opinion and European Union. University of Michigan Press. Gesis, Z. A. (2005a). Data service. Eurobarometer 1970–2004. CD-Rom 2, EB 42 – EB 51. Gesis, Z. A. (2005b). Data service. Eurobarometer 1970–2004. CD-Rom 3, EB 52 – EB 62. Gros, D., & Roth, F. (2010). Die EZB verliert das Vertrauen der Bevölkerung. FAZ, 5 December. Hetherington, M., & Nelson, M. (2003). Anatomy of a rally effect: George W. Bush and the War on terrorism. Political Science and Politics, 36(1), 37–42. Hooghe, L., & Marks, G. (2005). Calculation, community and cues: Public opinion on European integration. European Union Politics, 6(4), 419–443. Kaltenthaler, K., Anderson, C. J., & Miller, W. J. (2010). Accountability and independent central banks: Europeans and distrust of the European Central Bank. Journal of Common Market Studies, 48(5), 1261–1281. Kirchgässner, G. (2009). The lost popularity function: Are unemployment and inﬂation no longer relevant for the behaviour of German voters?. CESIFO working paper no. 2882. CESIFO. Kosfeld, M., Heinrichs, M., Zak, P. J., Fischbacher, U., & Fehr, E. (2005). Oxytocin increases trust in humans. Nature, 435, 673–676. Lachman, D. (2010). Europe ﬁddles while its periphery burns. Intereconomics, 45(6), 353–356. Listhaug, O., & Ringdal, K. (2008). Trust in political institutions: The Nordic countries compared with Europe. In H. Ervasti, M. Hierm, T. Fridberg, & K. Ringdal (Eds.), Nordic social attitudes in a European perspective (pp. 131–151). Edward Elgar Publishing. Mackuen, M. B., Erikson, R. S., & Stimson, J. A. (1992). Peasants or bankers? The American electorate and the US economy. American Political Science Review, 86(3), 597–611. Mansbridge, J. (1997). Social and cultural causes of dissatisfaction with US government. In J. Nye, S. Joseph, P. D. Zelikow, & D. C. King (Eds.), Why people don’t trust government? (pp. 133–153). Harvard University Press. Muñoz, J., Torcal, M., & Bonet, E. (2011). Institutional trust and multilevel government in the EU: congruence or compensation?. European Union Politics (forthcoming). Nannestad, P., & Paldam, M. (1994). The VP-function: A survey of the literature on vote and popularity functions after 25 years. Public Choice, 79(3–4), 213–245. Newton, K. (2008). Trust and politics. In D. Castiglione, J. Van Deth, & G. Wolleb (Eds.), The handbook of social capital (pp. 241–272). Oxford University Press. Newton, K., & Norris, P. (2000). Conﬁdence in public institutions: Faith, culture, or performance? In S. Pharr & R. Putnam (Eds.), Disaffected democracies: What’s troubling the trilateral countries? (pp. 52–73). Princeton University Press.
+
+Has the Financial Crisis Shattered Citizens’ Trust? 217
+
+Norris, P. (1999). The growth of critical citizens? In P. Norris (Ed.), Critical citizens: Global support for democratic government (pp. 1–27). Oxford University Press. Norpoth, H., & Yantek, T. (1983a). Macroeconomic conditions and ﬂuctuations of presidential popularity: The question of lagged effects. American Journal of Political Science, 27(4), 785–807. Norpoth, H., & Yantek, T. (1983b). Von Adenauer bis Schmidt: Wirtschaftslage und Kanzlerpopularität. In M. Kaase & H.-D. Klingemann (Eds.), Wahlen und Politisches system: Analysen aus Anlass der Bundestagswahl 1980 (pp. 198–221). Westdeutscher Verlag. Nye, J. S., Jr. (1997). In government we don’t trust. Foreign Policy, 108, 99–111. Roth, F. (2009). The effects of the ﬁnancial crisis on systemic trust. Intereconomics, 44(4), 203–208. Roth, F. (2011). The Eurozone crisis and its effects on citizens’ trust in the national parliament. FMA Bulletin, 34, 29–30. Sanders, D. (2000). The real economy and the perceived economy in popularity functions: how much do voters need to know?: A study of British data, 1974–97. Electoral Studies, 19(2), 275–294. Stock, J. H., & Watson, M. W. (1993). A simple estimator of cointegrating vectors in higher order integrated systems. Econometrica, 61(4), 783–820. Theodoropoulou, S., & Watt, A. (2011). Withdrawal symptoms: an assessment of the austerity measures in Europe, ETUI Working Paper 2011.02. ETUI. Torcal, M., Munoz, J., & Bonnet, E. (2011). Trust in the European Parliament: from affective heuristics to rational cueing. In P. Magalhaes, G. Toka, & D. Sanders (Eds.), Citizens and the European polity: Mass attitudes towards the European and national polities (citizenship, identity and European integration). Oxford University Press (forthcoming). Uslaner, E. M. (2002). The moral foundations of trust. Cambridge University Press. Van de Walle, S., Van Roosbroek, S., & Bouckaert, G. (2008). Trust in the public sector: Is there any evidence for a long-term decline? International Review of Administrative Sciences, 74(1), 45–62. Veiga, F., & Veiga, L. (2004). Popularity functions, partisan effects, and support in Parliament. Economics & Politics, 16(1), 101–115. Wooldridge, J. M. (2009). Introductory econometrics: A modern approach. South-Western Cengage Learning.
+
+Open Access This chapter is licensed under the terms of the Creative Commons AttributionNonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/bync-nd/4.0/), which permits any noncommercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if you modiﬁed the licensed material. You do not have permission under this license to share adapted material derived from this chapter or parts of it.
+
+The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.

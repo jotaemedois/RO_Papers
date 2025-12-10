@@ -1,0 +1,1227 @@
+Received: 6 December 2022 Revised: 1 March 2023 Accepted: 12 March 2023
+
+DOI: 10.1111/ssqu.13260
+
+ORIGINAL ARTICLE
+
+The nonlinear relationship between political trust and nonelectoral political participation in democratic and nondemocratic regimes
+
+Yasin Kutuk Adil Usturali
+
+Department of Economics, SEASS, Altinbas University, Esentepe, Sisli, Istanbul, Turkey
+
+Correspondence
+
+Adil Usturali, Department of Economics, SEASS, Altinbas University, Esentepe, Sisli, Istanbul, Turkey. Email: adil.usturali@altinbas.edu.tr
+
+Abstract Objective: Citizens use nonelectoral means of political participation along with electoral ones. However, we expect that engaging in nonelectoral political participation (NEPP) is quite dependent on the legitimacy of the state and its institutions, as well as the regime type. This article explores the relationship between NEPP and political trust (PT), which can indicate the legitimacy of such institutions. Method: We utilize the seventh wave of World Values Survey to test such relationships in countries classiﬁed as democratic and nondemocratic following the Freedom in the World Index. We hypothesize that in democratic countries there is an inverted Ushaped curvilinear relationship between PT and NEPP. We also hypothesize that there would be a negative relationship between PT and NEPP in nondemocratic countries. Result: The analysis of the data conﬁrms the ﬁrst hypothesis, which is our main contribution. We also found that the negative relationship in the second hypothesis exists and is linear. Conclusions: The ﬁndings indicate that respondents in each set of countries interpret trust and participation differently. In democracies, citizens engage in NEPP when they have a medium level of trust in political institutions, and in other regimes, citizens take that risk only when their mistrust of the institutions of the regime falls below a certain level.
+
+KEYWORDS logistic regression, nonelectoral political participation, nonlinearity, Poisson regression, political trust
+
+Methods of political participation are not limited to merely voting in elections. In fact, nonelectoral methods of political participation can often become the preferred method for citizens to make their voices heard. The decision to participate in such methods can be determined by several factors, and trust in political institutions could play a signiﬁcant role in this decision. Moreover, citizens of democratic and nondemocratic countries go through this decision-making process very differently from each other.
+
+478 © 2023 by the Southwestern Social Science Association. wileyonlinelibrary.com/journal/ssqu Social Science Quarterly. 2023;104:478–504.
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 479
+
+Political participation is an essential feature of democracy, yet in nondemocratic countries some citizens also decide to participate in certain conditions.
+
+The aims of this article are to compare the relationship between political trust (PT) and nonelectoral political participation (NEPP) in democratic as opposed to nondemocratic countries and examine the nature of each set of relationships. Based on the data from the seventh wave of World Values Survey (WVS), we deﬁne PT as a value that combines the conﬁdence of respondents in the parliament, the national government, political parties, the legal system, the military, and the police. NEPP is measured based on whether the respondents have taken part or are likely to take part in forms of political participation such as writing a petition, boycotting, or peaceful demonstrations. Besides measuring the overall relationship between these two variables, we categorize the subject countries as democratic and nondemocratic based on the Freedom in the World Index. The countries that have been categorized as “free” by the index in the year that the seventh wave of WVS was conducted in that country are categorized as “democratic” and those that have been categorized as “partly free” and “not free” are categorized as “nondemocratic.” Partly free and not free countries are evaluated together because it is assumed that the variables we examine work similarly in both categories as opposed to the democratic countries. Our assumption is that in nondemocratic countries, the questions regarding trust in institutions are interpreted as overall support for the regime. For instance, in some single-party regimes in which there are no legal political parties other than the ruling party, the question regarding ‘political parties might be interpreted as trust in the ruling party (Chen 2017).
+
+Our hypothesis for the ﬁrst question regarding the relationship between PT and NEPP in democratic countries is that there is an inverted U-shaped curvilinear relationship between these two variables. It is likely that in cases of very low PT, there would be reluctance toward participation in nonelectoral political activities due to apathy. Also, very high PT might suggest that there is little incentive to participate in political change or to protest due to the belief that the political institutions are already working as they should. Therefore, we expect to ﬁnd that there is a healthy amount of PT that is high enough to accept political institutions as legitimate, but not too high that it would lead to complete submission of civic duties. In authoritarian or semiauthoritarian countries, on the other hand, we expect to see a different mechanism in place.
+
+In authoritarian or semiauthoritarian countries, some elements of NEPP may be illegal, or even if they are ofﬁcially legal, they may be widely discouraged. It follows from this that absolute values for NEPP in authoritarian or semiauthoritarian countries would be dramatically lower than democratic ones.1 Those who engage in one or more forms of NEPP in such countries would do so only when their trust in political institutions is so low that they take the risks involved in order to have their voices heard (Loveman 1998; Schock 1999). The relationship between PT and NEPP in authoritarian or semiauthoritarian countries, therefore, is expected to be a negative one.
+
+Our study thus contributes to the existing literature by introducing two different perspectives. First, we provide additional evidence for the argument that political concepts such as PT and political participation have different meanings and interpretations in democratic and nondemocratic contexts. Therefore, it is imperative to treat democratic and nondemocratic regimes as separate categories in the analysis. Second, we use a methodology that shows the existence (or the lack of) a curvilinear relationship between the relevant variables, as opposed to a linear one. This is a contribution that is often overlooked in the existing literature that deals with PT and political participation and provides nuance to the understanding of the relevant concepts.
+
+POLITICAL TRUST
+
+PT has been accepted as a signiﬁcant variable since Gamson (1968), who uses the Eastonian framework (Easton 1965), deﬁned PT as diffuse support in the sense that it is a long-term resource that is mobilized
+
+1 Although there may be pro-government rallies in some nondemocratic regimes, such events are more likely to occur in exceptional occasions and are unlikely to affect our hypothesis (Hellmeier and Weidmann 2020).
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+480 KUTUK AND USTURALI
+
+for legitimacy, but also a dependent variable of activity or inactivity. (Gamson 1968, 46). Similarly, Gamson notes that low PT can also translate into political participation and does not necessarily result in apathy. When it comes to NEPP, more speciﬁcally protest, Gamson argues that such political behavior is expected from citizens with low PT.
+
+While in the older literature (Almond and Verba 1963; Easton 1965; Habermas 1975), it is usually accepted that PT is a source of legitimacy and a contributor to traditional forms of political participation, a negative relationship between PT and nonelectoral (nontraditional, unorthodox, etc.) political participation was generally accepted in the discipline until recently. More recent literature (Marien and Hooghe 2011) indicates that lower PT indicates that there are more citizens who are critical of their government, and thus it can be beneﬁcial for democratic governance. Similarly, Dalton (2004, 172), who provides a comprehensive study on PT within the Eastonian framework, assumes that more political support yields more political participation. However, he (Dalton 2004, 172−73) wisely distinguishes between different types of political actions and draws attention to the nuance that unconventional forms of political participation may result from dissatisfaction from the government rather than support for it (Dalton 2004, 173−77).
+
+Most of the difﬁculty in studying trust lies in the difﬁculty of deﬁning and measuring it (Bauer and Freitag 2017). Although the word trust is used to describe both interpersonal and social trust as well as PT, the latter simply represents a measure of legitimacy of political institutions rather than a set of complex feelings that individuals might have toward each other. Therefore, for our purposes it is found to be sufﬁcient to rely on the PT questions formulated by the WVS. As explained further below, we base our PT variable on the responses of the survey participants to the questions regarding their conﬁdence in institutions such as the parliament, government, political parties, justice system, armed forces, and police.
+
+POLITICAL PARTICIPATION: ELECTORAL AND NONELECTORAL
+
+According to the simplest and most widely accepted deﬁnition by Verba and Nie, “political participation refers to those activities by private citizens that are more or less directly aimed at inﬂuencing the selection of governmental personnel and/or the actions they take” (1972, 2). Although this is a very broad deﬁnition, Verba and Nie (1972, 10) state that they distinguish political participation from support for the government and further, they limit the modes of participation with only those activities that are accepted as conventional, such as voting and campaign participation (1972, 58). While activities such as peaceful demonstrations and boycotts are left out of the scope of political participation by Verba and Nie, only relatively nonelectoral modes of participation they investigate are cooperative activities and contacting local or national ofﬁcials.
+
+In later literature, what once was termed as either nonconventional or unorthodox (Marsh 1974) forms of political participation have become a regular part of democratic politics (Barnes and Kaase 1979). According to Inglehart (1977, 299−307), this move is accompanied by the emergence of a new mode of political participation that is conducted through ad hoc organizations with relatively nonhierarchical structures, as opposed to older organizations of political participation such as political parties and labor unions and this emergence and acceptance of new forms of political participation is the main reason why a decline in PT does not translate into a decline in political participation, at least in Western societies. Norris (1999, 76) also emphasizes the increasing role of NEPP in both fostering direct democracy and constituting alternatives to voting, especially in recent decades. As also emphasized by Dalton (2022) with reference to the term “contentious politics,” which he borrows from Tilly and Tarrow (2015), the distinction between electoral and nonelectoral forms of participation is now more widely accepted and that they represent different forms of relationship between citizens and their governments.
+
+We have decided to focus speciﬁcally on NEPP and leave electoral participation out to demonstrate the contrast between democratic and nondemocratic countries more clearly. In most nondemocracies, elections either do not exist, or they are neither free nor fair. Therefore, it is not a useful variable for our purposes. NEPP, on the other hand, can be perceived by the citizens as meaningful in certain contexts
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 481
+
+even under nondemocratic governments. The NEPP variable that we use in this article represents the likelihood of respondents to participate in one or more of the nonelectoral methods of political action as indicated by the WVS data. These methods are signing petitions, joining boycotts, taking part in peaceful demonstrations, and taking part in strikes. As it can be seen from the abovementioned literature, these actions are regarded as belonging to a group of political participation methods that are distinct from electoral participation and that need to be assessed on their own. Operationalization of the NEPP variable is detailed further below.
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NONELECTORAL POLITICAL PARTICIPATION
+
+In more recent studies, both PT and NEPP have been used as variables, although not necessarily in relation to one another, and usually on regionally or nationally limited samples (Benson and Rochon 2004; Braun and Hutter 2016; Kaase 1999; Marien 2011; Marien and Hooghe 2011). Among such studies, those that investigate the exact pair of variables as this study are limited to Kaase (1999) who ﬁnds that as PT decreases it is more likely for citizens to engage in noninstitutionalized participation, and Braun and Hutter (2016) who also analyze the relationship between PT and extra-representational participation in a study that is limited to European democracies. Yet, they bring the concept of “openness” of political systems into the picture and test whether the said relationship changes as the openness varies between various European democracies. The empirical ﬁndings by Braun and Hutter (2016, 8−10) agree with that of Kaase: Distrust in political institutions increases the likelihood of taking part in nonelectoral forms of participation.
+
+A recent study that investigates the relationship between PT and political participation using WVS data also compares this relationship in democratic and nondemocratic countries (Cichocka et al. 2018). Cichocka et al., unlike the studies mentioned above, investigate and ﬁnd that there is a curvilinear relationship between system conﬁdence and collective action, yet this relationship is similar in both democratic and nondemocratic countries, the only difference being that it is more obvious in democracies. Here, we challenge this outcome by arguing that the relationship between PT and NEPP works in dramatically different ways in democratic and nondemocratic countries, which would lead to qualitatively different outcomes for each category. We argue that citizens in democratic and nondemocratic countries interpret key political concepts and attitudes related to democracy in general very differently from each other. This qualitative difference of interpretation occurs due to the differences in the level exposure to democratic procedures, institutions, and experiences (Shin 2017; Zagrebina 2020). This work aims to demonstrate this difference speciﬁcally in the selected variables.
+
+DATA AND VARIABLES
+
+We collected the main data using the WVS data for the seventh wave.2 Then, the cross-sectional data are restricted according to Freedom House’s Freedom in the World Report3 (FitW), which is the second data source that we used in order to classify the countries as democratic (free) and nondemocratic (partly free and not free).4 The countries that are not included in both FitW and WVS are dropped. Although in
+
+2 See http://www.worldvaluessurvey.org (accessed on June 7, 2021).
+
+3 See https://freedomhouse.org.
+
+4 Since the WVS seventh wave has been conducted between 2017 and 2020, the countries that were included in both seventh wave and the FitW report were selected for the study, and the FitW category was checked for each country for the year in which the WVS was conducted in that country. Two groups of countries were obtained by separating between the “free” countries and the others. The countries that were counted as “Not Free” in FitW consisted of 13 percent of all observations, which was another reason leading to an unbalanced distribution to include them into the “Nondemocratic” group.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+482 KUTUK AND USTURALI
+
+TABLE 1 Selected countries and survey year in WVS seventh wave
+
+Democratic Nondemocratic
+
+Free Partly free Not free
+
+Country Year Country Year Country Year
+
+Andorra 2018 Armenia 2021 China 2018
+
+Argentina 2017 Bangladesh 2019 Egypt 2018
+
+Australia 2018 Bolivia 2017 Ethiopia 2020
+
+Brazil 2018 Colombia 2018 Iran 2020
+
+Canada 2020 Ecuador 2018 Iraq 2018
+
+Cyprus 2019 Guatemala 2019 Kazakhstan 2018
+
+Chile 2018 Hong Kong SAR 2018 Myanmar 2020
+
+Germany 2017 Indonesia 2018 Nicaragua 2020
+
+Greece 2017 Jordan 2018 Russia 2017
+
+Japan 2019 Kenya 2021 Tajikistan 2020
+
+Mongolia 2020 Kyrgyzstan 2019 Thailand 2018
+
+New Zealand 2019 Lebanon 2018 Turkey 2018
+
+Peru 2018 Malaysia 2018 Vietnam 2020
+
+Romania 2017 Mexico 2018 Zimbabwe 2020
+
+Serbia 2017 Nigeria 2018
+
+South Korea 2018 Pakistan 2018
+
+Taiwan ROC 2019 Philippines 2019
+
+Tunisia 2019 Singapore 2020
+
+USA 2017 Ukraine 2020
+
+some countries there are missing variables that we are interested in, the total number of countries is 47. The list of countries broken down into democratic and nondemocratic categories can be seen in Table 1. Additionally, the total number of surveys included in this study is given in Table A1, which indicates that the proportion of surveys collected from democratic countries is 23.92 percent while the remaining 76.08 percent comes from nondemocratic countries. In total, we processed 28,461 surveys throughout this study (see Table A1).
+
+NEPP covers four variables: signing a petition,5 joining in boycotts,6 attending a peaceful demonstration,7 and joining strikes8 according to the WVS’s codebook,9 which we regard as actions. As it can be seen in the tabulations, actions are rated as 3 (have done), 2 (might do), and 1 (would never do), respectively, in the original data. However, we treat these options as actions that need to be encoded as dichotomous, therefore, the ﬁrst option, “have done,” is taken into account only and recoded as 1 while others are revalued with 0.
+
+Independent variables indicating PT are mined from six questions from WVS for the seventh wave. These are the questions asking about individual perception in terms of trust in institutions such as
+
+5 E025 Political action: signing a petition.
+
+6 E026 Political action: joining in boycotts.
+
+7 E027 Political action: attending lawful/peaceful demonstrations.
+
+8 E028 Political action: joining unofﬁcial strikes.
+
+9 WVS EVS Integrated Dictionary Codebook v 2014 09 22 (Excel), downloaded from http://www.worldvaluessurvey.org/WVSDocumentationWVL. jsp.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 483
+
+parliament,10 government,11 political parties,12 justice system,13 armed forces,14 and police.15 Although the choices16 are given as a scale of 4 in WVS, these are reordered again in accordance with Likert’s 4-point scale, which are between “4: A great deal” and “1: None at all.” Since this study also looks at the relationship between PT and NEPP in general, we ﬁrst calculate each normalized trust variable within a country between (0,1), then we get the sum of normalized trust variables to calculate total trust for each country.
+
+METHODOLOGY
+
+First, we utilize the Poisson regression to estimate the number of actions that respondent declared as “have done” for the statement of NEPP. The actions regarded as NEPP of individuals in this study are “signing a petition,” “joining in boycotts,” “attending lawful/peaceful demonstrations,” and “Joining strikes,” which account four in total as a maximum for an individual. If the respondent declared as “might do” or “would never do,” it accounted for zero participation. Since the number of actions that are observed count of respondent follows the Poisson distribution, which also assumes large counts are relatively less than low counts (Greene 2000), our dependent variable can be estimated with Poisson regression (see Appendix B for detailed methodology). So, we can explicitly construct two equations estimating the nonlinear effect of both trust overall (Equation B3) and trust by regime type (Equation B4).
+
+Second, we do not consider the dependent variable as observed counts. Instead, it is also possible to catch political activity from these four types of NEPP by putting the “OR” statement in between them. That is, if an individual attended at least one NEPP, it is encoded as 1, otherwise 0. Here, the probability of being politically active can be directly estimated with logistic regression (Gujarati 2004), which is explained in Appendix B. Then, we also estimate the probabilities of being politically active to see the effect of both the trust in overall (Equation B6) and trust by regime types (Equation B7).
+
+Later, we also had the opportunity to test the curvilinear relationship econometrically for both U shaped and an inverted U shaped (hump shaped). We follow Sasabuchi (1980) providing a test for curvilinear relationship using joint signiﬁcance of both variable in original and its squared form. In practice, we applied Lind and Mehlum (2010) approach to test whether the curvilinear relationship exists in between PT and NEPP (see Appendix B).
+
+RESULTS AND DISCUSSIONS
+
+We present descriptive statistics of all variables used in this study in Table A2 for the whole sample in accordance with regime classiﬁcation.17 Normalized trust in nondemocratic regimes seems higher than democratic countries. When the components of PT are examined, it is observed that the mean of all components is higher in nondemocratic countries than in democratic countries. However, when we look at the number of actions on average, democratic countries outweigh nondemocratic countries (see Figure A5).
+
+We also examined the relationship between the number of actions and trust components in crosstabulations, which are presented in Tables A3–A8 for the whole sample. These cross-tabulations were drawn not only to see the clusters that are the intersection of intensiﬁed frequencies of trust and action
+
+10 E069 07 Conﬁdence: parliament.
+
+11 E069 11 Conﬁdence: the government.
+
+12 E069 12 Conﬁdence: the political parties.
+
+13 E069 17 Conﬁdence: justice system/courts.
+
+14 E069 06 Conﬁdence: the police.
+
+15 E069 02 Conﬁdence: armed forces.
+
+16 1: A great deal; 2: quite a lot; 3: not very much; 4: none at all.
+
+17 Figure A3 for normalized trust in sum and Figure A4 for country averages were also drawn to see the linear relationship between PT and NEPP in general.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+484 KUTUK AND USTURALI
+
+but also to question whether there is an association between the categories. These associations were tested with Pearson’s chi-square analyses and we found that all of them were statistically signiﬁcant at 1 percent level.
+
+We also wanted to look at the relationship between the variables using correlation analysis. However, since our dependent variable is a count variable, we chose Spearman’s correlation coefﬁcient. In Table A9, we got a positive relationship between the number of actions and trust/components of trust except trust in armed forces for democratic countries. All positive correlation coefﬁcients were statistically signiﬁcant at 1 percent level in Table A9. Trust in armed forces that have negative correlation with the number of actions were found to be signiﬁcant at 5 percent level. However, the relationships between trust/components of trust with the number of actions for nondemocratic countries were found negative, which were statistically signiﬁcant at 1 percent level according to Table A10. From these results, we got a small clue about the relationship between PT and NEPP for both categories.
+
+We estimate the equations enumerated as Equations (B3) and (B6) ﬁrst to see the relationship between PT/its components and NEPP for the whole sample. These results are always given in column (1), which is Poisson regression results and column (2), which is logistic regression results. In addition to these, we mainly tested Equations (B4) and (B7) in parallel with our main hypotheses for the curvilinear relationship between trust/its components and the number of actions to see the difference between categories.
+
+We found that normalized trust increased the number of political actions in column (1) while its squared decreased in Table 2, which were statistically signiﬁcant. The inverted U-shaped relationship was also proved by Sasabuchi’s nonlinearity test. However, when we split countries according to their regimes in column (3), the inverted U relation was valid for democratic countries only, besides, the presence of Ushaped relation where normalized trust decreased the number of political actions and its squared increased the number of political actions was observed for nondemocratic countries. However, Sasabuchi’s nonlinearity test did not conﬁrm this U-shaped relation. These results were also conﬁrmed in the probability of being politically active for both overall in column (2) and regime types in column (4). However, the signiﬁcance of the U-shaped relationship between normalized trust with its square and the probability of being politically active was achieved in column (4) with failure of rejection of what Sasabuchi’s nonlinearity test offered in the null hypothesis for nondemocratic countries (see Figure A1). Besides, Sasabuchi’s nonlinearity test also conﬁrmed the presence of inverted U shape for democratic regimes in column (4). In addition, pseudo-R-squared increased signiﬁcantly when we split the sample to regime types, which was observed throughout all results.
+
+The ﬁndings shown in Table 2 indicate that the overall relationship between PT and NEPP manifests itself very differently in democratic and nondemocratic countries. The inverted U-shaped relationship in democratic countries seems to conﬁrm the hypothesis that NEPP peaks when PT is neither too high nor too low. Since the signiﬁcance of the nonlinear relationship is lower than the linear one for nondemocratic countries, it is more likely that there is a negative relationship between the variables for this group, which is also in line with our second hypothesis.
+
+We need to see these inverted U-shaped and U-shaped relationships in trust components to check whether the results change from institution to institution. So, we ﬁrst examined the effect of trust in parliament and its square to the number of political actions in column (1) and the probability of being politically active in column (2) for the whole sample in Table 3. The results were controversial. In column (1) in Table 3, although a positive sign in trust in parliament and negative sign its squared indicated an inverted U shape for the number of political actions, Sasabuchi’s nonlinearity tests showed the presence of a U-shaped relation (Figure A2). However, in the estimation of probability of being politically active in column (2) in Table 3, Sasabuchi’s nonlinearity tests conﬁrmed the inverted U relationship for the whole sample. Due to insigniﬁcant coefﬁcients in both columns (3) and (4) at 5 percent signiﬁcance level, Sasabuchi’s nonlinearity tests were not concluded statistically. However, trust in parliament affected positively and linearly for both the number of political actions and the probability of being politically active in democratic regimes, while the opposite effect was observed in nondemocratic regimes. Although trust in parliament does not seem to contribute to the nonlinearity of the relationships, this ﬁnding contributes to the overall argument that trust affects oppositely in both regimes.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 485
+
+TABLE 2 Regression results of NEPP and PT
+
+(1) (2) (3) (4)
+
+Political actions
+
+(PRME)
+
+Prob.[action]
+
+(LRME)
+
+Political actions
+
+(PRME)
+
+Prob.[action]
+
+(LRME)
+
+Expected 0.44224159 0.04567292 0.36562622 0.0303720′
+
+Sasabuchi’s t-value 3.68*** 2.63***
+
+Dem. 3.54*** 2.37***
+
+NonD. Undetermined 0.12
+
+Nl. Trust (Sum) 0.051*** 0.008**
+
+(3.69) (2.65)
+
+Nl. Trust Sq. (Sum) −0.021*** −0.003***
+
+(−8.74) (−5.58)
+
+Nl. Trust (Sum) Dem. 0.132*** 0.015***
+
+(10.87) (7.16)
+
+Nl. Trust Sq. (Sum) Dem. −0.016*** −0.002***
+
+(−6.74) (−4.49)
+
+Nl. Trust (Sum) NonD. −0.115*** −0.018***
+
+(−9.24) (−7.41)
+
+Nl. Trust (Sum) Sq.
+
+NonD.
+
+0.007** 0.002**
+
+(2.89) (3.22)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 313.6 105.9 3040 1182
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0143 0.0121 0.1044 0.1248
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; Nl. Trust Sq., normalized trust sum squared; Nl. Trust (Sum), normalized trust sum; NonD., nondemocratic.
+
+When we tested trust in government, the results in Table 4 did not conﬁrm what was proved by Table 2. Although the requirements for U-shaped relationship between trust in government and its square were achieved in column (3) for the number of political actions and in column (4) for the probability of being politically active in nondemocratic regimes, Sasabuchi’s nonlinearity tests did not prove whether this kind of U shape is statistically signiﬁcant due to undetermined results in Table 4 (Figure A2). The effect of trust in government on the likelihood of participating in nonelectoral forms of action in democratic countries is close to 0. This can be interpreted as a possible indication of the fact that the negative and positive effects of trust in government offset each other and a meaningful relationship either way cannot be found. However, this is not a completely unexpected result considering our hypothesis, because the inverted Ushaped relationship would mean that at some level the positive and negative effects of the independent variable would be close to equal. The reason for this is, as the data show, that the marginal effect of trust on participation would be positive for some respondents and negative for others, and at a certain level the effects of these opposite forces would converge.
+
+The number of political actions was found to be driven by trust in political parties in column (1), and this result was also achieved for the probability of being politically active in the whole sample. Trust in political parties was positive and statistically signiﬁcant at 5 percent while its square was negative and statistically signiﬁcant at 5 percent. These results maintained inverted U-shaped relationship between trust in political parties and NEPP in Table 5. Sasabuchi’s nonlinearity tests also endorsed the presence of
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+486 KUTUK AND USTURALI
+
+TABLE 3 Regression results of NEPP and trust in parliament
+
+(1) (2) (3) (4)
+
+Political actions (PRME)
+
+Prob.[action] (LRME)
+
+Political actions (PRME)
+
+Prob.[action] (LRME)
+
+Expected 0.44782816 0.04691767 0.36578879 0.0302839′
+
+Sasabuchi’s t-value 0.43 1.99**
+
+Dem. Undet. Undet.
+
+NonD. Undet. Undet.
+
+Trust in Par. 0.084** 0.021**
+
+(2.66) (3.07)
+
+Trust in Par. Sq. −0.038*** −0.006***
+
+(−5.53) (−4.39)
+
+Trust in Par. Dem. 0.113*** 0.015***
+
+(4.46) (3.31)
+
+Trust in Par. Sq. Dem. −0.008 −0.001
+
+(−1.33) (−0.88)
+
+Trust in Par. NonD. −0.183*** −0.022***
+
+(−6.99) (−4.32)
+
+Trust in Par. Sq. NonD. 0.019** 0.003*
+
+(3.14) (2.07)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 217.9 55.3 3191 1309
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0098 0.0061 0.1069 0.1326
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; NonD., nondemocratic; Trust in Par., trust in parliament; Trust in Par. Sq., trust in parliament and its square.
+
+inverted U shape (Figure A2). In accordance with Table 2, the relationship between PT and NEPP was ﬁrst found to be driven by trust in political parties in Table 5, in which this result supported our decision to examine the components of PT separately. In addition to this, we also showed that inverted U-shaped relationship for trust in political parties were valid for democratic regimes since squared trust in political parties was missing in nondemocratic regimes. Therefore, this result also indicated that trust in political parties in nondemocratic regimes led to linear decrease in NEPP. So, as proved by the ﬁrst two columns, the inverted U relationship between trust in political parties and NEPP was only due to democratic regimes. The negative linear relationship between trust in political parties and NEPP in nondemocratic regimes can be explained with the fact that in such regimes there is usually only one legitimate political party that is the ruling party, and in the cases where there are also opposition parties, they are either too weak or symbolic and in collusion with the ruling party. In such cases, trust in political parties would mean support for the regime in general.
+
+We found only the inverted U relationship in column (2) indicating the probability of being politically active for the whole sample in Table 6, which was also conﬁrmed by Sasabuchi’s nonlinearity tests. In column (3), a U-shaped relationship between trust in justice system and the number of political actions was achieved for nondemocratic regimes, which was also conﬁrmed by Sasabuchi’s nonlinearity test (Figure A2). In Table 2, we provided such a U-shaped relationship between PT in sum and NEPP for nondemocratic regimes, however, Table 6 in column (3) showed that this U-shaped relationship was driven
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 487
+
+TABLE 4 Regression results of NEPP and trust in government
+
+(1) (2) (3) (4)
+
+Political action (PRME)
+
+Prob.[action] (LRME)
+
+Political action (PRME)
+
+Prob.[action] (LRME)
+
+Expected 0.43945666 0.04450476 0.36469019 0.0292398′
+
+Sasabuchi’s t-value Undet. Undet.
+
+Dem. Undet. Undet.
+
+NonD. Undet. Undet.
+
+Trust in Govt. 0.010 0.007
+
+(0.34) (1.19)
+
+Trust in Govt. Sq. −0.028*** −0.005***
+
+(−4.46) (−3.90)
+
+Trust in Govt. Dem. 0.064* 0.007
+
+(2.55) (1.68)
+
+Trust in Govt. Sq. Dem. −0.007 −0.001
+
+(−1.26) (−0.88)
+
+Trust in Govt. NonD. −0.236*** −0.029***
+
+(−9.50) (−6.00)
+
+Trust in Govt. Sq. NonD. 0.027*** 0.003**
+
+(5.03) (2.80)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 438.5 182.1 3035 1174
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0179 0.0190 0.1054 0.1301
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; NonD., nondemocratic; Trust in Govt., trust in government; Trust in Govt. Sq., trust in government and its square.
+
+by trust in justice system in nondemocratic regimes. One of the big impacts came from trust in the justice system, which has a coefﬁcient of −0.22 leading to a signiﬁcant decrease in the number of political actions for individuals who live in nondemocratic regimes. Despite the presence of the coefﬁcients showing an inverted U-shaped relationship was found in column (4) for democratic regimes, however, the presence of this inverted U-shaped relationship was not proved statistically by Sasabuchi’s nonlinearity results, which yielded not to interpret this result for democratic regimes.
+
+The regression results of the relationship between trust in justice system and NEPP are very similar to the ones regarding the trust in government. Therefore, we argue that similar relationships are at play regarding the justice system. In democratic regimes, the lack of a strong relationship either way can be interpreted as positive and negative effects offsetting each other, while in nondemocratic regimes the strong negative relationship is likely to conﬁrm the overall relationship. One could assume that speciﬁcally trust in the justice system would increase the likelihood of participation in protests or other nonelectoral actions because individuals would not be afraid of being tried and convicted unfairly by the justice system due to their political actions. However, this reasoning might not apply to nondemocratic regimes in which trust in the justice system is an indicator of the support for the regime in general, and nonelectoral political actions are usually assumed to be illegitimate by the regime and its supporters.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+488 KUTUK AND USTURALI
+
+TABLE 5 Regression results of NEPP and trust in political parties
+
+(1) (2) (3) (4)
+
+Political action (PRME)
+
+Prob.[action] (LRME)
+
+Political action (PRME)
+
+Prob.[action] (LRME)
+
+Expected 0.44371556 0.04633908 0.36857947 0.0314880′
+
+Sasabuchi’s t-value 2.57*** 4.41***
+
+Dem. 3.31*** 2.47***
+
+NonD. Undet. Undet.
+
+Trust in P.Par. 0.174*** 0.040***
+
+(5.16) (5.57)
+
+Trust in P.Par. Sq. −0.063*** −0.011***
+
+(−8.15) (−6.71)
+
+Trust in P.Par. Dem. 0.229*** 0.035***
+
+(8.23) (6.74)
+
+Trust in P.Par. Sq. Dem. −0.041*** −0.006***
+
+(−5.88) (−4.77)
+
+Trust in P.Par. NonD. −0.140*** −0.015**
+
+(−5.08) (−2.76)
+
+Trust in P.Par. Sq. NonD. 0.011 0.002
+
+(1.77) (1.44)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 247.5 63.43 3004 1277
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0125 0.0084 0.1035 0.1256
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; NonD., nondemocratic; Trust in Govt. Sq., trust in government and its square; Trust in P.Par., trust in political parties; Trust in P.Par. Sq., trust in political parties and its square.
+
+We examined trust in armed forces as a part of PT for the whole sample and regime types. We, then, found an inverted U-shaped relationship with the probability of being politically active and trust in armed forces in column (2) of Table 7. When we split the whole sample into regime types, we found interesting results in columns (3) and (4). First, we achieved that NEPP was affected positively by trust in armed forces in democratic regimes (Figure A2). Second, we observed that an inverted U-shaped relationship between NEPP and trust in armed forces was statistically signiﬁcant according to Sasabuchi’s nonlinearity test for democratic regimes. For nondemocratic regimes, when trust in armed forces increased, we found that the biggest negative impact on NEPP was observed for those regimes in terms of both the number of political actions and the probability of being politically active. Despite the presence of coefﬁcients satisfying U-shaped relationship between NEPP and trust in armed forces for nondemocratic regimes, Sasabuchi’s nonlinearity test indicated the presence of inverted U-shaped relationship statistically, which yielded a conﬂiction in the results for nondemocratic regimes. So, we could support only the results in Table 2 for democratic countries in the presence of inverted U-shaped relationship between NEPP and PT with trust in armed forces in democratic countries. Therefore, we clariﬁed that the second component in addition to trust in political parties was trust in armed forces for democratic regimes in Table 7.
+
+We analyzed trust in police, the last component, in Table 8. Although we faced several contradictory results in columns (1) and (2), it was observed that in nondemocratic regimes trust in police decreased
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 489
+
+TABLE 6 Regression results of NEPP and trust in justice system
+
+(1) (2) (3) (4)
+
+Political actions (PRME)
+
+Prob.[action] (LRME)
+
+Political actions (PRME)
+
+Prob.[action] (LRME)
+
+Expected 0.45456665 0.04724828 0.36891618 0.0301878′
+
+Sasabuchi’s t-value Undet. 2.04**
+
+Dem. Undet. 0.80
+
+NonD. 0.03 Undet.
+
+Trust in Just. 0.022 0.020**
+
+(0.68) (2.89)
+
+Trust in Just. Sq. −0.017** −0.006***
+
+(−2.65) (−4.10)
+
+Trust in Just. Dem. 0.074** 0.017***
+
+(2.95) (3.70)
+
+Trust in Just. Sq. Dem. −0.006 −0.002**
+
+(−1.24) (−2.59)
+
+Trust in Just. NonD. −0.222*** −0.019***
+
+(−8.33) (−3.60)
+
+Trust in Just. Sq. NonD. 0.028*** 0.001
+
+(4.92) (1.25)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 105.5 48.93 3019 1209
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0041 0.0047 0.1027 0.1277
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; NonD., nondemocratic; Trust in Just., trust in justice; Trust in Just. Sq., Trust in Just., trust in justice and its square.
+
+the number of political actions in column (3). Despite the existence of the coefﬁcients with 5 percent signiﬁcance levels, U-shaped relationship from these coefﬁcients was not proven by Sasabuchi’s nonlinearity test in column (3) in Table 8. When we looked at the last column, it maintained supportive arguments for us. While an inverted U-shaped relationship between NEPP and trust in police for democratic regimes was conﬁrmed by Sasabuchi’s nonlinearity test, a U-shaped relationship for the same variables was also supported by Sasabuchi’s nonlinearity test for nondemocratic regimes (Figure A2). Therefore, the results of trust in police for both democratic and nondemocratic regimes support the arguments provided in Table 2.
+
+CONCLUSIONS
+
+The ﬁndings conﬁrm our ﬁrst hypothesis that there is an inverted U-shaped curvilinear relationship between PT and NEPP in democratic countries. PT, taken either as a normalized sum of all responses regarding all six institutions or as the separate components of trust in these institutions, has a positive effect on NEPP up to a certain point at which it peaks, and after which the effect becomes increasingly negative. Based on these results, we claim that while a certain level of trust in political and governmental
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+490 KUTUK AND USTURALI
+
+TABLE 7 Regression results of NEPP and trust in armed forces
+
+(1) (2) (3) (4)
+
+Political actions (PRME)
+
+Prob.[action] (LRME)
+
+Political actions (PRME)
+
+Prob.[action] (LRME)
+
+Expected 0.45491105 0.04691884 0.37496342 0.0316808′
+
+Sasabuchi’s t-value 0.66 2.50***
+
+Dem. 4.78*** 4.75***
+
+NonD. 4.31*** 2.90***
+
+Trust in Arm. 0.058 0.024***
+
+(1.72) (3.38)
+
+Trust in Arm. squared −0.022*** −0.006***
+
+(−3.47) (−4.77)
+
+Trust in Arm. Dem. 0.128*** 0.024***
+
+(4.78) (4.67)
+
+Trust in Arm. squared
+
+Dem.
+
+−0.027*** −0.005***
+
+(−5.11) (−5.32)
+
+Trust in Arm. NonD. −0.273*** −0.033***
+
+(−9.40) (−5.82)
+
+Trust in Arm. squared
+
+NonD.
+
+0.044*** 0.005***
+
+(7.66) (4.79)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 97.29 68.35 2843 1219
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0038 0.0067 0.0972 0.1218
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; NonD., nondemocratic; Trust in Arm., trust in armed forces; Trust in Just. Sq., Trust in Just., trust in justice and its square.
+
+institutions is required for NEPP, very high support is likely to discourage citizens from this type of participation, who might be satisﬁed with merely electoral participation.
+
+The ﬁndings also conﬁrm our second hypothesis, which predicted a negative relationship between PT and NEPP in nondemocratic countries. We did not hypothesize on the linearity of this negative relationship, yet the ﬁndings indicate that the relationship is mostly conﬁrmed in favor of linearity. The striking outcome of this relationship in nondemocratic regimes is that it is almost the opposite of the one in democratic ones.
+
+We argue that this contrast between the democratic and nondemocratic regimes indicates that the meanings assigned to the concepts such as trust, peaceful protest, political action, and other nonelectoral means of participation by the citizens of the countries in each of these categories are dramatically different. In all democracies, nonelectoral means of political participation are by deﬁnition legitimate and expected. Citizens of democratic countries do not generally need to worry about facing political or legal repercussions when they are engaging in such acts of participation. In nondemocracies, which range from partly free or hybrid regimes to fully authoritarian ones, political participation in ways other than those sanctioned by the government bears great risks for the individuals.
+
+For similar reasons, in democratic countries, the concept of PT is probably interpreted as the efﬁciency of the concerned institution, or how likely the individual expects the given institution to function the way
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 491
+
+TABLE 8 Regression results of NEPP and trust in police
+
+(1) (2) (3) (4)
+
+Political action (PRME)
+
+Prob.[action] (LRME)
+
+Political action (PRME)
+
+Prob.[action] (LRME)
+
+Expected 0.45638268 0.04738743 0.36986302 0.0309407′
+
+Sasabuchi’s t-value 1.04 1.31*
+
+Dem. 0.17 3.71***
+
+NonD. 1.31* 0.48
+
+Trust in Pol. −0.041 0.012
+
+(−1.28) (1.84)
+
+Trust in Pol. Sq. −0.002 −0.004**
+
+(−0.27) (−3.04)
+
+Trust in Pol. Dem. 0.057* 0.018***
+
+(2.30) (3.78)
+
+Trust in Pol. Sq. Dem. −0.007 −0.004***
+
+(−1.49) (−3.90)
+
+Trust in Pol. NonD. −0.264*** −0.029***
+
+(−9.65) (−5.43)
+
+Trust in Pol. Sq. NonD. 0.036*** 0.004***
+
+(6.30) (3.33)
+
+Obs. 28,461 28,461 28,461 28,461
+
+χ2 65.44 42.35 2915 1182
+
+Prob. χ2 0.0000 0.0000 0.0000 0.0000
+
+Pseduo-R2 0.0024 0.0041 0.1010 0.1232
+
+Note: PRME stands for Poisson regression marginal effects while LRME is logit regression marginal effects. z statistics are in parentheses. *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are Eicker–Huber–White’s heteroskedasticity-robust standard errors. Abbreviations: Dem., democratic countries; NonD., nondemocratic; Trust in Pol., trust in police; Trust in Pol. Sq., trust in police and its square.
+
+it is supposed to. Therefore, citizens on either end of the trust spectrum, those who have complete lack of trust in the institutions and those who think that the system works perfectly are less likely to participate in order to encourage change. In nondemocratic countries, trust is less about the efﬁciency of the institutions but more about the loyalty of the citizens to the regime. In these countries, we observe that the citizens who tend to participate in the high-cost political actions are much more likely to be the ones who are also not afraid to say in a survey that they do not trust the institutions of the regimes at all.
+
+Limitations and further studies
+
+At the time of writing this article, the seventh wave of WVS is still not complete. Therefore, some countries whose data we do not have access to had to be omitted from this study. We chose to restrict our study with the most recent data and the most recent regime categorization we could have. Yet, in further studies, the trends of both of our main variables and the relationship between them can be analyzed using multiple waves of WVS data. Moreover, since we focused only on the NEPP because we wanted to observe how different this concept is interpreted in different regimes, we excluded electoral or other traditional forms of political participation from this study. In a further study, a possible difference between electoral and nonelectoral forms of political participation can be examined. Finally, difﬁculties of conducting studies in nondemocratic regimes as well as limited literature on political participation in such regimes as opposed to
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+492 KUTUK AND USTURALI
+
+the vast literature which applies to democratic states restrict our understanding of the former. Therefore, we are looking forward to seeing an increase in data and the literature that would expand our understanding of PT and participation in nondemocracies.
+
+ACKNOWLEDGMENTS The authors thank the editors, two anonymous referees, and Dr. Tolga Demiryol for careful review of the manuscript and valuable suggestions to improve the quality of the article.
+
+ORCID Yasin Kutuk https://orcid.org/0000-0003-2304-8309 AdilUsturali https://orcid.org/0000-0001-9115-2162
+
+REFERENCES
+
+Almond, Gabriel A., and Sidney Verba. 1963. The Civic Culture: Political Attitudes and Democracy in Five Nations. Princeton, NJ: Princeton
+
+University Press. Barnes, Samuel H., and Max Kaase. 1979. Political Action: Mass Participation in Five Western Democracies. Beverly Hills, CA: Sage. Bauer, Paul C., and Markus Freitag. 2017. “Measuring Trust.” In Measuring Trust, edited by Eric M. Uslaner. Vol. 1. Oxford: Oxford
+
+University Press. Benson, Michelle, and Thomas R. Rochon. 2004. “Interpersonal Trust and the Magnitude of Protest: A Micro and Macro Level
+
+Approach.” Comparative Political Studies 37(4):435–57. Braun, Daniela, and Swen Hutter. 2016. “Political Trust, Extra-Representational Participation and the Openness of Political Systems.”
+
+International Political Science Review 37(2):151–65. Chen, Dan. 2017. “Local Distrust and Regime Support: Sources and Effects of Political Trust in China.” Political Research Quarterly
+
+70(2):314–26. Cichocka, Aleksandra, Paulina Górska, John T. Jost, Robbie M. Sutton, and Michał Bilewicz. 2018. “What Inverted U Can Do
+
+for Your Country: A Curvilinear Relationship between Conﬁdence in the Social System and Political Engagement.” Journal of Personality and Social Psychology 115(5):883–902. Dalton, Russell J. 2004. Democratic Challenges, Democratic Choices: The Erosion of Political Support in Advanced Industrial Democracies.
+
+Comparative Politics. Oxford: Oxford University Press. Dalton, Russell J. 2022. “Political Action, Protest, and the Functioning of Democratic Governance.” American Behavioral Scientist
+
+66(4):533–50. Easton, David. 1965. A Systems Analysis of Political Life. New York: Wiley. Gamson, William A. 1968. Power and Discontent. The Dorsey Series in Anthropology and Sociology. Homewood, IL: Dorsey Press. Greene, William H. 2000. Econometric Analysis. 4th ed. Upper Saddle River, NJ: Prentice Hall. Gujarati, Damodar N. 2004. Basic Econometrics. 4th ed. New Delhi: Tata McGraw-Hill. Habermas, Jürgen. 1975. Legitimation Crisis. Boston, MA: Beacon Press. Hellmeier, Sebastian, and Nils B. Weidmann. 2020. “Pulling the Strings? The Strategic Use of Pro-Government Mobilization in
+
+Authoritarian Regimes.” Comparative Political Studies 53(1):71–108. Inglehart, Ronald. 1977. The Silent Revolution: Changing Values and Political Styles among Western Publics. Princeton, NJ: Princeton University
+
+Press. Kaase, Max. 1999. “Interpersonal Trust, Political Trust and Non-institutionalised Political Participation in Western Europe.” West
+
+European Politics 22(3):1–21. Lind, Jo Thori, and Halvor Mehlum. 2010. “With or Without U? The Appropriate Test for a U-Shaped Relationship*: Practitioners’
+
+Corner.” Oxford Bulletin of Economics and Statistics 72(1):109–18. Loveman, Mara. 1998. “High-Risk Collective Action: Defending Human Rights in Chile, Uruguay, and Argentina.” American Journal
+
+of Sociology 104(2):477–525. Marien, Soﬁe. 2011. “Measuring Political Trust across Time and Space.” SSRN Scholarly Paper ID 2539667. Rochester, NY: Social
+
+Science Research Network. https://papers.ssrn.com/abstract=2539667. Marien, Soﬁe, and Marc Hooghe. 2011. “Does Political Trust Matter? An Empirical Investigation into the Relation between Political
+
+Trust and Support for Law Compliance.” European Journal of Political Research 50(2):267–91. Marsh, Alan. 1974. “Explorations in Unorthodox Political Behaviour: A Scale to Measure ‘Protest Potential’*.” European Journal of
+
+Political Research 2(2):107–29. Norris, Pippa. 1999. Critical Citizens: Global Support for Democratic Government. Oxford: Oxford University Press. Sasabuchi, S. 1980. “A Test of a Multivariate Normal Mean with Composite Hypotheses Determined by Linear Inequalities.”
+
+Biometrika 67(2):429–39. Schock, Kurt. 1999. “People Power and Political Opportunities: Social Movement Mobilization and Outcomes in the Philippines and
+
+Burma.” Social Problems 46(3):355–75. Shin, Doh Chull. 2017. “Popular Understanding of Democracy.” Oxford Research Encyclopedia of Politics. https://doi.org/10.1093/
+
+acrefore/9780190228637.013.80.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 493
+
+Tilly, Charles, and Sidney G. Tarrow. 2015. Contentious Politics. 2nd revised ed. New York, NY: Oxford University Press. Verba, Sidney, and Norman H. Nie. 1972. Participation in America: Political Democracy and Social equality. New York: Harper & Row. Zagrebina, Anna. 2020. “Concepts of Democracy in Democratic and Nondemocratic Countries.” International Political Science Review
+
+41(2):174–91.
+
+How to cite this article: Kutuk, Yasin, and Adil Usturali. 2023. “The nonlinear relationship between political trust and nonelectoral political participation in democratic and nondemocratic regimes.” Social Science Quarterly 104:478–504. https://doi.org/10.1111/ssqu.13260
+
+APPENDIX A
+
+TABLE A1 Tabulations of respondents by regime type
+
+Tabulation of regime categories
+
+Regime Frequency Percentage Cumulative
+
+Nondemocratic 21,652 76.08 76.08
+
+Democratic 6809 23.92 100.00
+
+Total 28,461 100.00
+
+TABLE A2 Descriptive statistics by regime type
+
+Nondemocratic
+
+N Min Mean Median Max SD
+
+nl_trust 21,652 0 3.241 3.333 6 1.544
+
+action 21,652 0 0.275 0 4 0.766
+
+parliament 21,652 1 2.427 2 4 1.007
+
+govt 21,652 1 2.663 3 4 1.027
+
+polpart 21,652 1 2.258 2 4 0.982
+
+justice 21,652 1 2.674 3 4 0.986
+
+armed 21,652 1 2.998 3 4 0.963
+
+police 21,652 1 2.701 3 4 0.98
+
+Democratic
+
+nl_trust 6809 0 2.535 2.667 6 1.3
+
+action 6809 0 1.045 0 4 1.45
+
+parliament 6809 1 1.903 2 4 0.839
+
+govt 6809 1 2.058 2 4 0.903
+
+polpart 6809 1 1.776 2 4 0.762
+
+justice 6809 1 2.428 2 4 0.915
+
+armed 6809 1 2.809 3 4 0.907
+
+police 6809 1 2.629 3 4 0.921
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+494 KUTUK AND USTURALI
+
+TABLE A3 Tabulations of actions and trust to parliament
+
+No. of actions
+
+Trust to parliament
+
+None at all Not very much Quite a lot A great deal Total
+
+0 5513 6355 7126 3080 22,074
+
+24.98 28.79 32.28 13.95 100.00
+
+1 893 1159 800 328 3180
+
+28.08 36.45 25.16 10.31 100.00
+
+2 353 397 271 89 1110
+
+31.80 35.77 24.41 8.02 100.00
+
+3 271 245 160 51 727
+
+37.28 33.70 22.01 7.02 100.00
+
+4 396 513 357 104 1370
+
+28.91 37.45 26.06 7.59 100.00
+
+Total 7426 8669 8714 3652 28,461
+
+26.09 30.46 30.62 12.83 100.00
+
+Note: Pearson χ2 = 358.28; Prob. = 0.0000. The ﬁrst row has frequencies and the second row has row percentages.
+
+TABLE A4 Tabulations of actions and trust to government
+
+No. of actions
+
+Trust to government
+
+None at all Not very much Quite a lot A great deal Total
+
+0 4235 5511 7538 4790 22,074
+
+19.19 24.97 34.15 21.70 100.00
+
+1 735 1008 911 526 3180
+
+23.11 31.70 28.65 16.54 100.00
+
+2 294 343 329 144 1110
+
+26.49 30.90 29.64 12.97 100.00
+
+3 231 227 184 85 727
+
+31.77 31.22 25.31 11.69 100.00
+
+4 422 453 375 120 1370
+
+30.80 33.07 27.37 8.76 100.00
+
+Total 5917 7542 9337 5665 28,461
+
+20.79 26.50 32.81 19.90 100.00
+
+Note: Pearson χ2 = 497.54; Prob. = 0.0000. The ﬁrst row has frequencies and the second row has row percentages.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 495
+
+TABLE A5 Tabulations of actions and trust to political parties
+
+No. of actions
+
+Trust to political parties
+
+None at all Not very much Quite a lot A great deal Total
+
+0 6386 7278 6102 2308 22,074
+
+28.93 32.97 27.64 10.46 100.00
+
+1 1065 1252 640 223 3180
+
+33.49 39.37 20.13 7.01 100.00
+
+2 430 440 187 53 1110
+
+38.74 39.64 16.85 4.77 100.00
+
+3 296 290 111 30 727
+
+40.72 39.89 15.27 4.13 100.00
+
+4 420 614 273 63 1370
+
+30.66 44.82 19.93 4.60 100.00
+
+Total 8597 9874 7313 2677 28,461
+
+30.21 34.69 25.69 9.41 100.00
+
+Note: Pearson χ2 = 448.64; Prob. = 0.0000. The ﬁrst row has frequencies and the second row has row percentages.
+
+TABLE A6 Tabulations of actions and trust to justice system
+
+No. of actions
+
+Trust to justice system
+
+None at all Not very much Quite a lot A great deal Total
+
+0 3308 5850 8313 4603 22,074
+
+14.99 26.50 37.66 20.85 100.00
+
+1 528 922 1109 621 3180
+
+16.60 28.99 34.87 19.53 100.00
+
+2 218 323 384 185 1110
+
+19.64 29.10 34.59 16.67 100.00
+
+3 162 205 250 110 727
+
+22.28 28.20 34.39 15.13 100.00
+
+4 245 421 528 176 1370
+
+17.88 30.73 38.54 12.85 100.00
+
+Total 4461 7721 10,584 5695 28,461
+
+15.67 27.13 37.19 20.01 100.00
+
+Note: Pearson χ2 = 128.10; Prob. = 0.0000. The ﬁrst row has frequencies and the second row has row percentages.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+496 KUTUK AND USTURALI
+
+TABLE A7 Tabulations of actions and trust to armed forces
+
+No. of actions
+
+Trust to armed forces
+
+None at all Not very much Quite a lot A great deal Total
+
+0 2043 4098 8329 7604 22,074
+
+9.26 18.56 37.73 34.45 100.00
+
+1 317 639 1119 1105 3180
+
+9.97 20.09 35.19 34.75 100.00
+
+2 104 250 395 361 1110
+
+9.37 22.52 35.59 32.52 100.00
+
+3 96 185 252 194 727
+
+13.20 25.45 34.66 26.69 100.00
+
+4 147 347 548 328 1370
+
+10.73 25.33 40.00 23.94 100.00
+
+Total 2707 5519 10,643 9592 28,461
+
+9.51 19.39 37.40 33.70 100.00
+
+Note: Pearson χ2 = 131.86; Prob. = 0.0000. The ﬁrst row has frequencies and the second row has row percentages.
+
+TABLE A8 Tabulations of actions and trust to police
+
+No. of actions
+
+Trust to police
+
+None at all Not very much Quite a lot A great deal Total
+
+0 2982 5510 8717 4865 22,074
+
+13.51 24.96 39.49 22.04 100.00
+
+1 490 738 1180 772 3180
+
+15.41 23.21 37.11 24.28 100.00
+
+2 201 280 423 206 1110
+
+18.11 25.23 38.11 18.56 100.00
+
+3 134 203 253 137 727
+
+18.43 27.92 34.80 18.84 100.00
+
+4 229 392 541 208 1370
+
+16.72 28.61 39.49 15.18 100.00
+
+Total 4036 7123 11,114 6188 28,461
+
+14.18 25.03 39.05 21.74 100.00
+
+Note: Pearson χ2 = 104.92; Prob. = 0.0000. The ﬁrst row has frequencies and the second row has row percentages.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 497
+
+TABLE A9 Spearman correlation coefﬁcients for democratic countries
+
+Variables (action) (nl_trust) (parliament) (govt) (polpart) (justice) (armed) (police)
+
+action 1.000
+
+nl_trust 0.085*** 1.000
+
+parliament 0.142*** 0.793*** 1.000
+
+govt 0.060*** 0.789*** 0.698*** 1.000
+
+polpart 0.096*** 0.751*** 0.751*** 0.643*** 1.000
+
+justice 0.081*** 0.780*** 0.497*** 0.495*** 0.444*** 1.000
+
+armed −0.024** 0.593*** 0.243*** 0.270*** 0.216*** 0.388*** 1.000
+
+police 0.034*** 0.757*** 0.407*** 0.434*** 0.384*** 0.624*** 0.476*** 1.000
+
+***p < 0.01; **p < 0.05; *p < 0.1.
+
+TABLE A10 Spearman correlation coefﬁcients for nondemocratic countries
+
+Variables (action) (nl_trust) (parliament) (govt) (polpart) (justice) (armed) (police)
+
+action 1.000
+
+nl_trust −0.107*** 1.000
+
+parliament −0.097*** 0.830*** 1.000
+
+govt −0.110*** 0.842*** 0.716*** 1.000
+
+polpart −0.085*** 0.785*** 0.745*** 0.645*** 1.000
+
+justice −0.087*** 0.819*** 0.578*** 0.635*** 0.515*** 1.000
+
+armed −0.036*** 0.612*** 0.332*** 0.368*** 0.293*** 0.420*** 1.000
+
+police −0.083*** 0.779*** 0.490*** 0.551*** 0.460*** 0.680*** 0.465*** 1.000
+
+***p < 0.01; **p < 0.05; *p < 0.1.
+
+FIGURE A1 Number of actions (NEPP) and normalized political trust.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+498 KUTUK AND USTURALI
+
+FIGURE A2 Number of actions (NEPP) and political trusts.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 499
+
+FIGURE A3 Average actions of NEPP and average normalized political trust for countries.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+500 KUTUK AND USTURALI
+
+FIGURE A4 Average actions of NEPP and average political trusts for countries.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 501
+
+FIGURE A5 Average NEPP response to trust by regime types.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+502 KUTUK AND USTURALI
+
+APPENDIX B DETAILED METHODOLOGY Poisson regression Poisson regression is required to estimate the number of actions. Since the number of actions that are observed count of respondent follows the Poisson distribution, which also assumes large counts are relatively less than low counts (Greene 2000), our dependent variable can be estimated with Poisson regression as follows:
+
+f (xi) =
+
+𝜆yi
+
+i e𝜆i
+
+yi! , yi = {0, 1, 2, 3, 4} , (B1)
+
+where y is the dependent variable constituted with observed counts, λ is the rate parameter, e is Euler’s mathematical constant, and x is the set of independent variables gathered from each i individual in Equation (B1). The expected value of observed counts for the dependent variable of Y that is a conditional of independent variables X can be calculated with
+
+E(Yi| Xi) = 𝜆i = exp
+
+(
+
+X ′
+
+i 𝛽
+
+)
+
+… i = {1, 2, … , n} . (B2)
+
+Equation (B2) is known as exponential mean function, which includes Xi set of independent variables with (1 × k) vector of nonstochastic covariates that get their own coefﬁcients of β in Equation (B2). However, since these coefﬁcients are not interpretable, this study attempts to calculate marginal effects of each variable, which can be calculated with the partial derivative, δλ/δX, of each variable at mean. Therefore, the marginal contribution of each variable to the number of observed counts may turn out to be interpretable if the coefﬁcient is statistically signiﬁcant.
+
+To make above equations more concrete, we can explicitly construct our main equation that can be only estimated with the Poisson regression as follows:
+
+Yi (No. of actions) = 𝜆i = exp
+
+(
+
+𝛽0 + 𝛽1Trusti + 𝛽2Trust2
+
+i
+
+)
+
+, i = {1, 2, … , n} , (B3)
+
+where Trust is a substitutable variable selected from the set of “normalized trust sum,” “trust in parliament/government/political parties/justice system/armed forces/police” for a generalization of the whole sample in Equation (B3). However, we also seek for the difference between democratic and nondemocratic countries18, so each of variable from the substitutable set are interacted with a dummy variable as below:
+
+Yi (No. of actions) = 𝜆i = exp
+
+(
+
+𝛽0 + 𝛽1Trusti Democratic + 𝛽2Trust2
+
+i Democratic
+
++𝛽3Trusti NonDemocratic + 𝛽4Trust2
+
+i NonDemocratic
+
+)
+
+, i = {1, 2, … , n} , (B4)
+
+where Democratic takes 1 if the regime of respective country is democratic, otherwise 0; NonDemocratic gets 1 if the regime of the respective country is nondemocratic, otherwise 0. In Equation (B4), β1 and β3 will show the main difference of regime effect. The joint effect of β1 and β2 provides the curvilinear effect of trust in democratic countries while the joint effect of β3 and β3 maintains the curvilinear effect of trust in nondemocratic countries at mean.
+
+Logistic regression We do not consider the dependent variable as observed counts. Instead, it is also possible to catch political activity from these four types of NEPP by putting the “OR” statement in between them. That is, if an
+
+18 Since we aimed to see the distinct behaviors of curvilinearity between PT and NEPP in democratic and nondemocratic regimes, we did not put a single dummy variable into the equation.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RELATIONSHIP BETWEEN POLITICAL TRUST AND NEPP 503
+
+individual attended at least one NEPP, it is encoded as 1, otherwise 0. Here, the probability of being politically active can be directly estimated from this dichotomous variable, which requires logistic regression (Gujarati 2004).
+
+A sigmoid function to estimate the probability of being politically active is as follows:
+
+f (xi) = 1
+
+1 + e−X ′
+
+i 𝛽, yi = {0, 1} , (B5)
+
+where y is the dependent variable taking values of {0,1}, e is again Euler’s mathematical constant, and X is the set of independent variables with the coefﬁcients vector of β in Equation (B5).
+
+To estimate the probability of being politically active, Equation (B5) can be restated explicitly as follows:
+
+P ( Yi = 1) = 𝜋i =
+
+exp
+
+(
+
+𝛽0 + 𝛽1Trust + 𝛽2Trust2+
+
+)
+
+1 + exp (𝛽0 + 𝛽1Trust + 𝛽2Trust2) , i = {1, 2, … , n} . (B6)
+
+Trust in Equation (B6) is again one of the variables measuring political trust such as “normalized trust sum,” “trust in parliament/government/political parties/justice system/armed forces/police.” Again, to look at the difference between democratic and nondemocratic countries, Equation (B6) is expanded into the following equation:
+
+P ( Yi = 1) = 𝜋i =
+
+exp
+
+(
+
+𝛽0 + 𝛽1Trust Dem. + 𝛽2Trust2 Dem. + 𝛽3Trusti NonD. + 𝛽4Trust2
+
+i NonD.
+
+)
+
+1 + exp
+
+(
+
+𝛽0 + 𝛽1Trust Dem. + 𝛽2Trust2 Dem. + 𝛽3Trusti NonD. + 𝛽4Trust2
+
+i NonD.
+
+) , i = {1, 2, … , n} ,
+
+(B7) where Democratic (Dem.) will be 1 if the regime of respective country is democratic, otherwise 0; NonDemocratic (NonD.) will be 1 if the regime of the respective country is nondemocratic, otherwise 0 in Equation (B7). However, Equation (B7) does not provide marginal effects, therefore, δP(Yi)/δX, the partial derivatives will be calculated to see them.
+
+Nonlinearity tests In this study, we also had the opportunity to test the curvilinear relationship econometrically for both U shaped and an inverted U shaped (hump shaped). In econometrics literature, Sasabuchi (1980) provides a test for curvilinear relationship using joint signiﬁcance of both variable in original and its squared forms.
+
+Lind and Mehlum (2010) tested the presence of U-shaped relationship of the explanatory variable of main interest and its squared using the following equations:
+
+y = 𝛽0 + 𝛽1x + 𝛽2x2 + 𝜀. (B8)
+
+In Equation (B8), the presence of a U-shaped relationship could be tested with the ﬁrst derivative of this equation with respect to the explanatory variable of main interest. This operation yields both β1 + 2β2x2 < 0 and β1 + 2β2x2 > 0 (Lind and Mehlum 2010). Practical implementation of this test utilized by Lind and Mehlum (2010) in accordance with (Sasabuchi 1980) is done by testing the following hypotheses:
+
+H0 ∶The presence of U shape.
+
+H1 ∶Monotonic relationship or the presence of inverted U shape
+
+(
+
+hump shaped
+
+)
+
+.
+
+Overall test of the presence of U shape is checked with a t-test, which can be done by comparing the upper or the lower bound of curvilinearity. If not, the test will be undetermined. A failure of rejection of the null hypothesis provides a strong clue about the presence of U shape, however, this does not guarantee
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+504 KUTUK AND USTURALI
+
+the presence of inverted U-shaped or hump-shaped relationship. Therefore, there is little evidence for a monotonic relationship.
+
+AUTHOR BIOGRAPHIES
+
+Yasin Kutuk is an assistant professor in the Department of Economics at Altinbas University (Turkey). His research activities include projects on econometrics, natural language processing, and statistics.
+
+Adil Usturali is an assistant professor in the Department of Political Science and Public Administration at Altinbas University (Turkey). His research areas are political theory, comparative politics, and democratic theory.
+
+15406237, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13260 by Iscte, Wiley Online Library on [26/06/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

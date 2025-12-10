@@ -1,0 +1,457 @@
+Title Page
+
+Does Public Opinion Affect the Preferences of Foreign Policy Leaders? Experimental Evidence from the UK Parliament Jonathan A. Chu, Lee Kuan Yew School of Public Policy, National University of Singapore (Orcid ID: 0000-0003-1353-109X) Stefano Recchia, Southern Methodist University (Orcid ID: 0000-0002-5470-6311).
+
+Abstract
+
+Scholars continue to debate whether public opinion in democracies influences the foreign policy preferences of their leaders. We intervene into this literature through a survey experiment in which we asked 101 British members of Parliament (MPs) for their views about the United Kingdom’s military presence in the South China Sea. Based on random assignment, some of the MPs received information from a public opinion poll about this issue. MPs who received the polling information, compared with those who did not, voiced opinions closer to those of the public. This finding advances the state of knowledge because we use causally identified evidence and employ a realistic research design (we surveyed policy makers of a global power using real public opinion data about an active policy issue). Our study suggests that leaders respond to public opinion, which has implications for theories about democratic responsiveness and the impact of domestic audiences on foreign policy. Key words: public support, military operations, elite survey, British foreign policy, South China Sea conflict
+
+Jonathan A. Chu (jonchu@nus.edu.sg) is an assistant professor of international affairs at the Lee Kuan Yew School of Public Policy, National University of Singapore. Stefano Recchia (srecchia@smu.edu) holds the John G. Tower Chair in International Politics as an associate professor at Southern Methodist University. Replication files are available in the JOP Data Archive on Dataverse (http://thedata.harvard.edu/dvn/dv/jop). The empirical analysis has been successfully replicated by the JOP replication analyst. Supplementary material for this article is available in the appendix in the online edition.
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+1
+
+In a democratic society, one might expect elected policy makers to seek out and incorporate the
+
+opinions of their citizens. Consistent with this view, scholars demonstrate a reasonable degree of
+
+congruence between public and elite opinion across a variety of policy issues – including in foreign
+
+policy (Holsti 2004; Page and Shapiro 1992). Yet, critics argue that such an alignment is likely to
+
+be a result of citizens incorporating the views of elites rather than elites incorporating the views of
+
+citizens (Berinsky 2009; Howell and Pevehouse 2007).1 Thus, the impact of mass opinion might
+
+not be causal but instead epiphenomenal to elite decision-making. Of course, the arrow can
+
+logically go both ways: public opinion might affect policy making, and the reverse might also be
+
+true. But from an empirical standpoint, it remains difficult to dismiss the strong critique that public
+
+opinion is primarily endogenous to or driven by elites.
+
+Our research makes an empirical intervention into this debate by providing much-needed
+
+evidence about the causal effect of public opinion on policy maker opinion. We hypothesize that
+
+information about public opinion will shift policy maker opinion in the direction of what the public
+
+favors. In testing this hypothesis, we focus on national security policy, an area in which leaders
+
+typically enjoy considerable latitude and might be especially likely to discount public opinion.
+
+Observational studies argue that foreign policy informs voter choice, and popular foreign policies
+
+are more likely to succeed; hence leaders care about mass support for foreign policy.2 However,
+
+causal evidence remains elusive.
+
+1 See Guisinger and Saunders (2017) for a sophisticated take on elite foreign policy cues.
+
+2 On foreign policy voting, see Aldrich, Sullivan, and Borgida (1989); and Gartner, Segura, and
+
+Barratt 2004. Flores-Macias and Kreps (2013) show how domestic support affects war financing,
+
+which, in turn, affects policy success. See also, more generally, Gelpi and Grieco (2015).
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+2
+
+To assess whether public opinion influences policy maker opinion in this domain, we
+
+conducted a survey experiment in the United Kingdom in partnership with the polling company
+
+YouGov-UK. We asked YouGov to embed an experiment into a survey of current members of
+
+Parliament (MPs) in the UK House of Commons. In all, 101 MPs read and responded to a question
+
+about the United Kingdom’s naval military presence in the South China Sea. Based on random
+
+assignment, some of the MPs were also given information about a public opinion poll that we
+
+conducted on the same issue, while other MPs did not receive the polling data.3 Because we
+
+collected the public opinion data prior to administering the MP survey, and randomly assigned
+
+those data to only a subsample of the MPs, we can isolate the effect of public opinion from other
+
+confounding factors. We increased the realism of the research by administering the survey in a
+
+relevant global power, using real public opinion data on a salient foreign policy scenario.
+
+To preview our findings, the data show that MPs who received the polling information,
+
+compared with those who did not, expressed viewpoints that more closely matched public opinion.
+
+The UK public prefers continuing Britain’s military presence in the South China Sea, and MPs
+
+who learn about this are more likely to support continuing that presence. This result suggests that,
+
+at least in a democracy, leaders pay heed to the opinions of their citizens. Elites might still shape
+
+public opinion, but our evidence rebuts the viewpoint that the causal arrow only goes one way.
+
+This finding has implications for theories about democratic responsiveness and the domestic
+
+sources of foreign policy, as we discuss in the conclusion.
+
+Research Context and Design
+
+3 Polls are an important source of public opinion information that is both sought out by leaders
+
+and brought to leaders’ attention by advocacy groups (Dutwin 2019; Hager and Hilbig 2020).
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+3
+
+As noted, we contracted YouGov-UK to field an online survey of 101 current MPs in the
+
+UK House of Commons (out of a total of 650 elected MPs). The survey was conducted in
+
+September 2019. MPs were presented with a vignette about the United Kingdom’s military
+
+presence in the South China Sea and then were asked whether they believe the United Kingdom
+
+should “cease” or “continue” with military operations in those waters. Based on random
+
+assignment, some of the MPs were also shown the results of a recent public opinion poll on the
+
+same issue, the results of which had not yet been published.4
+
+To obtain the public opinion data, we asked YouGov to poll the British public in August
+
+2019, prior to the MP survey. By a large margin, the public favored continuing military operations
+
+in the South China Sea: 48 percent of the public believed that the United Kingdom should continue,
+
+while only 20 percent said the United Kingdom should cease. The remaining 32 percent answered
+
+“other” or “don’t know.” These results were presented to MPs in the treatment group.5
+
+Four main features of our research design heighten the realism and significance of our
+
+study. First, we surveyed sitting MPs in the UK Parliament instead of elites who are only loosely
+
+tied to decision-making, such as members of think tanks or segments of the public that approximate
+
+“elites.”6 Indeed, British MPs participate in high-level policy deliberations, and many of the
+
+country’s cabinet ministers—its top policy makers—are also elected MPs.7
+
+4 In terms of sampling, we used a block randomization design (on political party and gender) to
+
+help reduce residual variance and increase statistical power.
+
+5 The full survey text can be found in the Appendix.
+
+6 Yarhi-Milo, Renshon, and Kertzer (2018), however, do find similarities in public opinion and
+
+elite opinion in some foreign policy domains.
+
+7 YouGov relies on a thorough quality-control process to certify that the MPs themselves, rather
+
+than their staff, complete the survey (see Appendix).
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+4
+
+Second, we surveyed policy leaders of a major power. The United Kingdom is the world’s
+
+sixth-largest economy, has a sizeable nuclear arsenal, and is an important member of NATO as
+
+well as a veto-wielding permanent member of the United Nations Security Council. The foreign
+
+policy preferences of British MPs are thus likely to substantially impact global politics.
+
+Third, rather than an imaginary situation, we used a real scenario relating to current events.
+
+By doing so, we aimed to ensure that any potential effect of public opinion would not result from
+
+the lack of real-world implications, or from the fact that the MPs simply had no other information
+
+on which to base their opinions other than the polling data we provided them. To elaborate, since
+
+2018, the United Kingdom has joined the United States in conducting freedom of navigation
+
+exercises in contested waters of the South China Sea. During the months leading up to our survey,
+
+this was a central issue in UK-China relations, and an important topic in public debates about UK
+
+defense policy (Maidment 2019). In terms of publicly available surveys, at the time of our study,
+
+polling had been conducted about British views toward China in general but not the issue of the
+
+South China Sea specifically (see, e.g., Rogers de Waal and Huppert 2019). Thus, we considered
+
+this issue salient enough to be politically relevant but not so salient that there would be an
+
+abundance of polling on the issue at the time.
+
+Lastly, we informed our elite respondents with real public opinion data instead of
+
+hypothetical data. In part, this design choice followed YouGov’s ethical guidance on surveying its
+
+policy maker panel. Using real polls, however, further enhances the study’s external validity.
+
+In comparing our research design with existing scholarship, we can identify only one
+
+published study—Tomz, Weeks, and Yarhi-Milo (2020)—that experimentally tests the effect of
+
+public opinion on the opinions of elected elites in the domain of foreign policy.8 The authors
+
+8 Other studies examine this question in domestic policy (e.g., Butler and Nickerson 2011).
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+5
+
+presented members of the Israeli Knesset with hypothetical public opinion data about an imaginary
+
+scenario, randomizing as follows: 75 percent of voters either support/oppose and have started
+
+demonstrating for/against a particular Israeli foreign policy. The authors estimated the difference
+
+in elite support across these scenarios to be 16 percentage points. Because we survey leaders of a
+
+global power using a non-hypothetical scenario and real public opinion data, we complement
+
+Tomz, Weeks, and Yarhi-Milo while also making a novel contribution beyond their study.9
+
+Results and Discussion
+
+Our survey data clearly demonstrate that public opinion influences policy maker opinion.
+
+To begin, Figure 1 plots the descriptive results between treatment and control group. Among the
+
+MPs who did not receive information on the public opinion poll, about 19 percent believed the
+
+United Kingdom should cease military activity in the South China Sea; 43 percent preferred
+
+continuing such activities; and the remaining 38 percent said they did not know or had an “other”
+
+opinion. In contrast, when informed about public opinion, about 19 percent still believed the
+
+United Kingdom should cease activity, but the percentage of those who advocated continuing the
+
+military exercises jumped to 63 percent, while the percentage of those stating “don’t know/other”
+
+dropped to about 19 percent.
+
+The data reveal a movement in elite opinion in the direction of the public’s attitudes. The
+
+public favored continuing military maneuvers by a 28-point margin, and when leaders were given
+
+this information, a sizeable proportion of them shifted their attitudes. The effects are substantively
+
+meaningful and statistically significant at the 0.10 level.
+
+9 We further discuss this comparison in the Appendix. Using a design like Tomz, Weeks, and
+
+Yarhi-Milo (2020), Lin-Greenberg (2021) tests the effect of public opinion on military leaders.
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+6
+
+Figure 1. These histograms show the distribution of MP opinions on the United Kingdom’s
+
+military presence in the South China Sea, depending on whether the MPs were given information
+
+about their citizens’ opinions. The public favored continuing the military activities by a 28-point
+
+margin.
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+7
+
+The answer to whether public opinion has a causal effect on policy elites is thus clearly yes.
+
+But why does such an effect exist? While our research design is not tailored to answer this question,
+
+our results offer some initial insight. The fact that the overall change in MP opinions resulted from
+
+a drop in those responding “don’t know/other,” together with the fact that the percentage of those
+
+opposing military exercises stayed about the same, implies several possible (not mutually
+
+exclusive) interpretations. First, mass opinion primarily affects elites who do not already hold
+
+strong views on the matter. From this perspective, those stating “don’t know/other” are malleable
+
+elites. Second, some politicians hold preexisting views but are unwilling to express them without
+
+knowing that the public is on their side. This implies that elites responding “don’t know/other” are
+
+not malleable in their views, but are unwilling to admit their policy position without the legitimacy
+
+that comes from siding with the public. Either way, both interpretations imply that public opinion
+
+will not sway leaders who are staunch in their existing views; instead, public opinion might
+
+persuade leaders without a strong opinion or might “legitimate” a particular side of the policy
+
+debate, enabling those holding a concurring viewpoint to publicly say so.
+
+One might also wonder whether our findings reflect demand or acquiescence effects—that
+
+is, the MPs may have felt they must take into account public opinion in responding to the survey.
+
+Theoretically, however, the bias could go in the opposite direction, as leaders may have an
+
+incentive to signal they are not easily movable by the whims of public opinion (see Foyle 1999).
+
+Empirically, scholars have also found that demand bias is difficult to generate in the survey setting
+
+(Mummulo and Peterson 2019). To address this concern head-on, we used a realistic scenario
+
+rather than a hypothetical one, and we offered all respondents a full paragraph of background
+
+information. This should have allowed respondents to draw from their own experience and the
+
+provided information to form their opinion, instead of just relying on the experimental treatment.
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+8
+
+Implication
+
+We find that information about public opinion influences policy maker opinion. When
+
+shown the results of a public opinion poll, British MPs are more likely to express views congruent
+
+with those of the public. The British public, on balance, favors continuing the United Kingdom’s
+
+military operations in the South China Sea, and when this is revealed, British MPs voice greater
+
+support for such operations as well.
+
+Our study broadly supports models of democracy that view leaders as directly responsive
+
+to citizen opinion. Concerning foreign policy specifically, our findings bolster a range of domestic
+
+theories of international relations, which explore the impact of domestic audiences on international
+
+security affairs and the global economy (e.g., Tomz and Weeks 2013; Milner and Tingley 2016).
+
+Observational studies suggest that, at a minimum, public opinion in democracies works as a
+
+constraint on foreign policy elites, setting the parameters within which policy makers may operate,
+
+including for military intervention (see, e.g., Sobel 2001; Baum and Potter 2015). These studies
+
+typically connect domestic opinion to state behavior, whereas our study provides direct evidence
+
+of a critical link in the causal chain. Ultimately, therefore, this article advances our understanding
+
+of democratic constraint and responsiveness.
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+9
+
+Acknowledgements The authors are grateful to workshop participants at the Department of Political Science, University of Pennsylvania for helpful comments on previous versions of this paper. The authors would also like to thank Dr. Joel Rogers de Waal, research director at YouGov UK, for generously supporting this project. References
+
+Aldrich, John H., John L. Sullivan, and Eugene Borgida. 1989. “Foreign Affairs and Issue Voting.”
+
+American Political Science Review 83 (1): 123–41.
+
+Baum, Matthew, and Phil Potter. 2015. War and Democratic Constraint. Princeton, NJ: Princeton
+
+University Press.
+
+Berinsky, Adam J. 2009. In Time of War: Understanding American Public Opinion from World
+
+War II to Iraq. Chicago: University of Chicago Press.
+
+Butler, Daniel M., and David W. Nickerson. 2011. “Can Learning Constituency Opinion Affect
+
+How Legislators Vote?” Quarterly Journal of Political Science 6 (1): 55–83.
+
+Dutwin, David. 2019. “Presidential Address: The Need for Public Opinion Research Advocacy”
+
+Public Opinion Quarterly 83 (3): 650–58.
+
+Flores-Macias, Gustavo, and Sarah E. Kreps. 2013. “Political Parties at War: A Study of American
+
+War Finance, 1789–2010.” American Political Science Review 107 (4): 833–48.
+
+Foyle, Douglas. 1999. Counting the Public In. New York: Columbia University Press.
+
+Gartner, Scott Sigmund, Gary M. Segura, and Bethany Barratt. 2004. “War Casualties, Policy
+
+Positions, and the Fate of Legislators.” Political Research Quarterly 57 (3): 467–77.
+
+Gelpi, Christopher, and Joseph M. Grieco. 2015. “Competency Costs in Foreign Affairs.”
+
+American Journal of Political Science 59 (2): 440–56.
+
+Guisinger, Alexandra, and Elizabeth Saunders. 2017. “Mapping the Boundaries of Elite Cues.”
+
+International Studies Quarterly 61 (2): 425–41.
+
+Hager, Anselm, and Hanno Hilbig. 2020. “Does Public Opinion Affect Political Speech?”
+
+American Journal of Political Science 64 (4): 921-37.
+
+Holsti, Ole R. 2004. Public Opinion and American Foreign Policy. Ann Arbor: U. Michigan Press.
+
+Howell, William G., and Jon C. Pevehouse. 2007. While Dangers Gather: Congressional Checks
+
+on Presidential War Powers. Princeton, NJ: Princeton University Press.
+
+Kertzer, Joshua D., and Thomas Zeitzoff. 2017. “A Bottom-Up Theory of Public Opinion about
+
+Foreign Policy.” American Journal of Political Science 61 (3): 543–58.
+
+Electronic copy available at: https://ssrn.com/abstract=4016051
+
+10
+
+Lin-Greenberg, Erik. 2021. “Soldiers, Pollsters, and International Crises: Public Opinion and the
+
+Military’s Advice on the Use of Force.” Foreign Policy Analysis 17 (3): orab009.
+
+Maidment, Jack. 2019. “Hammond Fires Broadside at Williamson in Carrier Row.” Daily
+
+Telegraph (London), February 22.
+
+Milner, Helen V., and Dustin Tingley. 2016. Sailing the Water’s Edge: The Domestic Politics of
+
+American Foreign Policy. Princeton, NJ: Princeton University Press.
+
+Mummolo, Jonathan, and Erik Peterson. 2019. “Demand Effects in Survey Experiment: An
+
+Empirical Assessment.” American Political Science Review 113 (2): 517–29.
+
+Page, Benjamin, and Robert Shapiro. 1992. The Rational Public. Chicago: Univ. of Chicago Press.
+
+Rogers de Waal, Joel, and Julian Huppert. 2019. “China Struggles for Western Hearts and Minds.”
+
+YouGov-Cambridge Center.
+
+Sobel, Richard. 2001. The Impact of Public Opinion on U.S. Foreign Policy since Vietnam.
+
+Oxford: Oxford University Press.
+
+Tomz, Michael, and Jessica Weeks. 2013. “Public Opinion and the Democratic Peace.” American
+
+Political Science Review 107 (3): 849–65.
+
+Tomz, Michael, Jessica Weeks, and Keren Yarhi-Milo. 2020. “Public Opinion and Decisions
+
+About Military Force in Democracies.” International Organization 74 (1): 119–43.
+
+Yarhi-Milo, Keren, Jonathan Renshon, and Joshua Kertzer. 2018. “Tying Hands, Sinking Costs,
+
+and Leader Attributes.” Journal of Conflict Resolution 62 (10): 2150–79.
+
+Biographical Statements Jonathan A. Chu (PhD, Stanford University) is an Assistant Professor of International Affairs at the Lee Kuan Yew School of Public Policy at the National University of Singapore. He researches public and elite opinion on foreign policy issues, especially in areas of international security, humanitarianism, and laws, norms, and identity. Stefano Recchia (PhD, Columbia University) holds the John G. Tower distinguished chair in international politics as an associate professor at Southern Methodist University in Dallas, TX. His research focuses on the politics and ethics of military intervention. Recchia is the author of Reassuring the Reluctant Warriors: U.S. Civil-Military Relations and Multilateral Intervention (Cornell UP, 2015).
+
+Electronic copy available at: https://ssrn.com/abstract=4016051

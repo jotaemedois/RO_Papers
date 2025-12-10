@@ -1,0 +1,369 @@
+167
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+RESUMO
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA: EVOLUÇÃO RECENTE E DETERMINANTES INDIVIDUAIS
+
+Rev. Sociol. Polít., Curitiba, v. 19, n. 39, p. 167-182, jun. 2011 Recebido em 23 de novembro de 2009. Aprovado em 11 de dezembro de 2009.
+
+Ednaldo Aparecido Ribeiro
+
+Recentes pesquisas sobre o tema da confiança política têm apontado um quadro de significativo descrédito dos cidadãos em relação às principais instituições das democracias ocidentais. Entre as diferentes explicações levantadas para esse grave fenômeno, tem recebido destaque a tese que o associa a um processo de mudança cultural que estaria conduzindo ao estabelecimento de uma cidadania crítica e, conseqüentemente, a um novo padrão nas relações entre os indivíduos e o sistema político. Ainda que satisfatoriamente testada em democracias de longa tradição e relativamente consolidadas, alguns críticos têm apontado a fragilidade explicativa dessa hipótese para o caso das jovens democracias, nas quais o fenômeno seria explicado pela desilusão dos cidadãos com o funcionamento concreto das instituições que compõem o sistema político. Nesse trabalho tratamos dessa polêmica ao testar essas hipóteses no contexto latinoamericano, investigando os determinantes individuais da desconfiança política. Utilizando dados produzidos pelo projeto World Values Survey em suas três ondas conduzidas na região, inicialmente analisamos a evolução recente de alguns indicadores e, na seqüência, propomos um modelo que confronta simultaneamente diferentes explicações para o fenômeno em questão.
+
+PALAVRAS-CHAVE: desconfiança política; democracia; desilusão; América Latina.
+
+I. INTRODUÇÃO
+
+Pesquisas recentes sobre o tema da confiança política apontam para uma verdadeira síndrome de desconfiança de dimensões globais (NYE, 1997; LEVI, 1998; KLINGEMANN, 1999; WARREN, 1999; DALTON, 1999; 2004, CATTERBERG & MORENO, 2006). A inegável expansão da democracia como forma de governo dominante em nível global, no que Huntington (1991) denominou de “terceira onda”, tem convivido desde as décadas finais do século passado com manifestações de descrédito crescente dos cidadãos em relação às principais instituições dessa forma de governo. Tal crise não parece poupar nem mesmo os regimes com longa tradição e níveis consideráveis de consolidação, nos quais se verifica a ocorrência de um cinismo endêmico e enraizado, motivado por escândalos (pontuais ou recorrentes) relacionados à corrupção e também pela manifesta incapacidade institucional no atendimento dos anseios da população (DALTON, 1999; KLINGEMANN, 1999; NEWTON & NORRIS, 2000).
+
+Se há um relativo consenso acerca desse quadro geral de descrédito institucional, o mesmo não ocorre no campo das explicações, sobretudo quan do se trata de entender as razões para as diferentes intensidades do fenômeno em distintos países: fundamentando-se em argumentos sócio-psicológicos alguns estudiosos interpretam a questão da confiança com base nos tipos de personalidades individuais (ROSENBERG, 1957; GABRIEL, 1995); no campo culturalista, outros explicam a sua variação a partir do complexo de valores culturais de cada uma das sociedades (BELLAH, 1985; COLEMAN, 1990; FUKUYAMA, 1995); outros ainda, apoiados em teorias racionalistas, defendem que a confiança é uma função direta da avaliação dos cidadãos em relação ao desempenho econômico de governos e elites políticas (KORNBERG & CLARKE, 1992; ANDERSON, 1995).
+
+Dentre as propostas mais recentes, tem merecido bastante destaque aquela formulada por pesquisadores como Ronald Inglehart, envolvidos com a análise dos processos de mudança cultural em perspectiva comparada. Para os defensores dessa abordagem uma postura crítica diante das estruturas tradicionais de representação política das democracias ocidentais estaria desenvolvendo-se como parte de um fenômeno maior de mudanças nas prioridades valorativas individuais em direção à valorização da auto-expressão e do bem 168
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+estar subjetivo (INGLEHART, 1999; INGLEHART & CATTERBERG, 2002; INGLEHART & WELZEL, 2005). Tais prioridades, por sua vez, gerariam nos cidadãos o desejo por participação e maior autonomia que não estaria sendo satisfeito de maneira adequada pelas instituições tradicionais estruturadas hierarquicamente, como os partidos e sindicatos. Diante disso, as pessoas estariam cada vez mais engajando-se em modalidades de ação nãoconvencionais e contestatórias, bem como manifestando níveis cada vez menores de confiança nas instituições políticas (INGLEHART, 1999).
+
+Sendo assim, a desconfiança é interpretada por esses autores como manifestação de uma postura crítica em relação às instituições tradicionais, fundamentada em sólida opção pela participação e liberdade de expressão. Ao invés de problemática, a baixa confiança institucional seria potencialmente positiva ao processo de aprofundamento democrático (MISHLER & ROSE, 2001; INGLEHART, 1999).
+
+Ainda que essa hipótese seja consistente e tenha sobrevivido a testes importantes no contexto dos países de industrialização avançada, a sua transposição imediata para as chamadas jovens democracias, como as latino-americanas, é no mínimo problemática. As condições sociais e econômicas normalmente associadas ao processo de mudança cultural pós-materialista de que tratam Inglehart e seus colaboradores não se verificam na imensa maioria das sociedades envolvidas nesse grupo, de modo que outros fatores deveriam ser considerados nas análises sobre o fenômeno em questão nesses contextos específicos. Desta forma, alguns pesquisadores têm defendido que as causas e conseqüências da redução dos níveis de confiança política nas democracias solidamente estabelecidas seriam distintas daquelas que poderiam explicar o mesmo processo nos novos regimes. Se nas primeiras a tese da emergência da cidadania crítica faz sentido, no caso das sociedades que recentemente fizeram suas transições essa argumentação careceria de consistência. Nessas últimas, a desilusão e a insatisfação com o real funcionamento da democracia é que determinaria os níveis de confiança manifestos pelos cidadãos em relação às instituições (CATTERBERG & MORENO, 2006).
+
+A partir dessa perspectiva crítica, deveríamos entender a baixa confiança institucional verificada entre os públicos latino-americanos como conseqüência de seguidas avaliações negativas sobre o
+
+desenvolvimento concreto da democracia, o funcionamento de suas instituições e a atuação das elites políticas. Como as condições sócio-econômicas necessárias à sofisticação política dos indivíduos e ao desenvolvimento de uma cidadania crítica ainda não se verificam de maneira consistente por aqui, a desilusão ou insatisfação com a efetividade dessa forma de governo apareceria como resposta mais adequada.
+
+Pretendemos com esse artigo contribuir para esse interessante debate sobre as causas da confiança política através da apresentação de resultados de testes empíricos que confrontam diferentes hipóteses em um único modelo que busca identificar os determinantes individuais ou micro-fundamentos dessas disposições e atitudes entre os cidadãos de quatro países: Argentina, Brasil, Chile e Peru. Por meio da construção de um modelo de análise multivariada que opõe as principais hipóteses teóricas contemporâneas sobre a questão, pretendemos investigar os impactos produzidos por diferentes dimensões de valores e atitudes sobre o grau de confiança depositado pelos públicos dessas nações nas principais instituições políticas. Adicionalmente, nos interessa também identificar possíveis tendências de evolução nesses indicadores a partir de uma curta série histórica de dados.
+
+II. BREVE DISCUSSÃO SOBRE A CAUSALIDADE
+
+A hipótese básica defendida pelos autores que partem da noção de cidadania crítica associa os baixos níveis de confiança política ao desenvolvimento de uma perspectiva contestadora em relação às instituições tradicionais (INGLEHART, 1999). As bases desse argumento, todavia, são mais gerais e se iniciam na tese de que o desenvolvimento sócio-econômico, verificado principalmente pelas nações industrialmente avançadas na segunda metade do século XX, teria produzido uma crescente sofisticação cognitiva nos indivíduos e conduzido à emergência dos chamados valores pós-materialistas (NORRIS, 1999). Um dos efeitos desse fenômeno cultural abrangente seria a combinação entre uma adesão crescente a princípios, valores e atitudes democráticas e a manifestação de elevados níveis de desconfiança. A hipótese da cidadania crítica remonta, portanto, às polêmicas formulações que compõem a teoria do desenvolvimento humano, formulada e defendida por Ronald Inglehart e seus vários colaboradores (INGLEHART & WELZEL, 2005).
+
+169
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+As primeiras tentativas de sistematização dessa teoria foram conduzidas na década de 1970, quando Inglehart publicou The Silent Revolution, obra recorrentemente apontada como marco inaugural de um programa de pesquisas que tem defendido a tese da ocorrência de uma lenta e contínua alteração nas prioridades valorativas individuais em nível mundial. Desde esse impulso inicial quase três décadas de investigações empíricas e teóricas passaram-se e, repetidamente, a tese da mudança de um amplo conjunto de valores humanos em direção a uma postura pós-materialista tem sido testada a partir de evidências empíricas coletadas em dezenas de países nos diferentes continentes e regiões do globo.
+
+Dentre os vários efeitos gerados por essa reorientação valorativa, no campo político se destaca a incorporação ou adoção de valores e atitudes congruentes com o estabelecimento, consolidação e aprofundamento de democracias (idem). Em paralelo a esse aspecto incontestavelmente positivo, entretanto, também estaria se desenvolvendo uma postura crítica em relação ao funcionamento concreto das instituições políticas dessa forma de governo e, sobretudo, pelo questionamento dos mecanismos tradicionais de representação (INGLEHART, 1990; 2001; INGLEHART & WELZEL, 2005).
+
+Uma das conseqüências diretas dessas disposições críticas seria a redução significativa nas taxas de mobilização política verificada nas últimas décadas nas sociedades avançadas industrialmente. Esse quadro, todavia, não deveria ser interpretado como sinal de apatia por parte dos públicos dessas nações, pois em paralelo a essa redução na participação tradicional estaria ocorrendo processo inverso nas chamadas elite-directed political action, ou seja, nas atividades de contestação às instituições e elites estabelecidas (NORRIS, 2002; INGLEHART & WELZEL, 2005).
+
+Pesquisas conduzidas em países desenvolvidos economicamente têm testado essa hipótese com sucesso, entretanto, isso não pode autorizar a sua transposição para realidades sociais, econômicas e políticas distintas, como a das nações latino-americanas que apenas recentemente passaram por processos de democratização e lutam para consolidar suas instituições. Além disso, como já mencionamos anteriormente, as condições de segurança física e material imprescindíveis à ocorrência da sofisticação e da reorientação valorativa
+
+de que trata a teoria do desenvolvimento humano não podem ser aqui encontradas de maneira generalizada. A suposta síndrome de valores pósmaterialistas atinge nesses países um percentual reduzido da população e a sofisticação política é ainda limitada.
+
+Em uma abordagem que acreditamos ser mais pertinente ao cenário da América Latina, Catterberg e Moreno (2006) defendem que a dinâmica de flutuação dos níveis de confiança política nesses contextos parece seguir um padrão semelhante ao verificado nas taxas de aprovação presidencial nos períodos pós-eleitorais, partindo de patamares elevados para gradualmente caírem contínua e sensivelmente. Os processos de transição democrática nessas nações conduziram à formulação de altas expectativas que se manifestaram em altos níveis de aprovação e confiança no momento imediatamente posterior à mudança, configurando uma espécie de lua-de-mel com a democracia (INGLEHART & CATTERBERG, 2002). A ineficiência da maioria dos regimes implementados no atendimento dessas expectativas, sobretudo nas áreas econômicas e sociais, levaram gradualmente ao desencanto e ceticismo em relação ao sistema político, o que aparece claramente nas atuais taxas de confiança depositadas em suas instituições fundamentais. Assim, a desconfiança nesse amplo conjunto de nações não poderia ser considerada resultado de uma mudança cultural produzida pela emergência de gerações de indivíduos socializados em contextos sócio-econômicos mais favoráveis, mas sim efeito da desilusão em relação ao sistema político concretamente existente e, principalmente, ao desempenho de suas instituições.
+
+De fato, essa parece ser a situação dos países da região, nos quais o estabelecimento das liberdades civis e dos direitos políticos foi acompanhado por crescente desencanto e desconfiança em relação às instituições em decorrência das enormes dificuldades dos sucessivos governos em resolver os graves problemas sociais e econômicos que atingem as nações como um todo e as classes menos favorecidas em especial (CARVALHO, 2001; MOISÉS, 2005).
+
+Apesar de salientar que não existem ainda indícios consistentes de que essa manifesta desconfiança esteja acompanhada da preferência por regimes autoritários no caso brasileiro, Moisés (2005) chama a atenção para os possíveis efeitos de longo prazo caso esse quadro não se reverta.
+
+170
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+Defendendo uma posição que consideramos próxima da adotada por Catterberg e Moreno (2006), esse pesquisador nacional vê a confiança política como uma função da coerência das instituições em relação as suas justificativas normativas. Esse nível normativo geraria nos indivíduos determinadas expectativas acerca do funcionamento concreto das mesmas e do confronto entre o esperado e o verificado surgiria a satisfação ou a insatisfação, a confiança ou a desconfiança.
+
+A confiança seria, portanto, um fenômeno multidimensional nos termos eastonianos, pois dependeria tanto da internalização de valores normativos, quanto das experiências políticas dos indivíduos em suas vidas adultas (EASTON, 1965). O cidadão ao longo do seu processo de socialização primária seria apresentado a um conjunto de orientações que o conduziria a formulação de expectativas em relação à existência e ao desempenho das instituições. Tais orientações podem ser positivas ou negativas, refletindo os diferentes contextos em que se deu o período formativo das personalidades, sendo também mutáveis e sensíveis às experiências que se desenvolvem na fase adulta dos indivíduos. Assim, níveis elevados de confiança política construídos nos períodos iniciais de formação podem ser reduzidos pela constatação concreta de que as instituições não têm desempenhado a contento as funções para as quais foram criadas (LOPES & NASCIMENTO, 2004; MENEGUELLO, 2006).
+
+Nessa seção foi nosso propósito apresentar os argumentos básicos de apenas duas perspectivas concorrentes sobre as causas do fenômeno em questão para os contextos das chamadas jovens democracias. Como citamos na introdução, essas não são as únicas disponíveis, mas a sua relevância para a discussão das particularidades desse grupo de nações nos levou a sintetizar toda uma vasta produção teórica sobre o tema nas duas abordagens. Apesar de defendermos essa opção, gostaríamos de alertar para a diversidade de visões disponíveis expondo rapidamente os argumentos de um conjunto de explicações alternativas que podem ser agrupadas sob o rótulo de teorias do capital social.
+
+De uma forma geral o ponto de partida dessa abordagem são as formulações clássicas de Almond e Verba (1989), buscando explicar os níveis de confiança em termos do complexo de valores culturais de cada país. A matriz cultural de cada povo, transmitida a cada um dos seus membros por meio
+
+das agências de socialização infantil e adulta, no campo político se manifestaria nos valores e atitudes dos cidadãos em relação às instituições e aos seus operadores, ou seja, em uma cultura política específica. Nos grupos primários, como a família, e nas instituições responsáveis pela formação dos indivíduos como a escola, o ambiente de trabalho, os grupos de amigos, ocorreria um processo contínuo de aprendizagem para a vida cívica que seria mais ou menos intensa em razão do maior ou menor incentivo à competência política dos cidadãos.
+
+Os trabalhos de Fukuyama (1995) e Putnam (1996), dentre outros, reeditaram esses argumentos valorizando e incentivando a participação voluntária dos indivíduos como estratégia de capacitação dos mesmos para a vida pública e também para a criação de um ambiente favorável ao estabelecimento de estoques de confiança interpessoal e política que poderiam minimizar os dilemas envolvidos nas ações coletivas, conduzindo à maior desenvolvimento econômico e a governos administrativamente mais eficientes. Ainda que nossa intenção não seja testar especificamente essa teoria para os países por nós pesquisados, tratamos de incluir algumas variáveis a ela relacionadas para identificar sua capacidade explicativa como hipótese alternativa.
+
+Também foram introduzidas nas análises propostas algumas medidas que não dizem respeito diretamente à noção de capital social, mas que nos remetem a essa dimensão dos valores, tais como a adesão a democracia como valor e a aceitação em relação à corrupção. Como essas variáveis não nos remetem a teorias ou formulações independentes acreditamos que não seja necessário discutir seus fundamentos nessa seção teórica. Desta forma, iremos nos referir a elas apenas quando estivermos apresentando os modelos multivariados construídos para explorar os determinantes individuais da confiança política.
+
+III. HIPÓTESE
+
+Posicionando-nos mais claramente nesse debate, acreditamos que as variações nos níveis de confiança institucional entre os públicos das nações latino-americanas podem ser mais satisfatoriamente explicadas pela quebra de expectativas geradas pelos processos de transição para a democracia, sobretudo no que diz respeito a questões econômicas e sociais. Não pretendemos, é claro, questionar de forma geral a tese da cidadania crítica derivada das pesquisas sobre os valo 171
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+res pós-materialistas, mas tomamos como hipótese de trabalho a afirmação de que as condições para a sua ocorrência não podem ser verificadas entre os países envolvidos em nossa pesquisa. Nesse sentido, os altos níveis de desconfiança não seriam resultados de um processo de crescente sofisticação dos cidadãos dessa região, mas sim indícios de significativo desencanto em relação às instituições centrais dos governos aqui estabelecidos no contexto da terceira onda de democratização.
+
+IV. DADOS E METODOLOGIA
+
+Para testar essa hipótese, utilizamos nessa investigação dados produzidos pelo projeto World Values Surveys (WVS) sobre quatro países latino-americanos: Argentina, Brasil, Chile e Peru. O WVS é uma grande investigação sobre mudanças sócio-culturais e políticas, executada por uma rede global de cientistas sociais a partir de surveys aplicados a amostras nacionais representativas de mais de 80 nações espalhadas por todos os continentes do planeta. As coletas de dados têm se repetido desde o início da década de 1980 em sucessivas ondas (1980-1984, 1990-1993, 19951997, 1999-2002 e 2005) e na sua última edição concluída produziu dados representativos para mais de 80% da população mundial1.
+
+No que diz respeito à metodologia empregada, em um primeiro momento nos valemos tão somente de técnicas de análise descritiva, cujos resultados são apresentados na forma de gráficos de linha que descrevem trajetórias de elevação, estagnação ou redução de alguns indicadores de confiança nas principais instituições políticas democráticas para cada um dos países.
+
+Na etapa analítica a técnica multivariada de regressão linear múltipla é empregada para composição de um modelo preditivo que incorpora diferentes variáveis relacionadas a hipóteses ou teorias explicativas sobre a confiança política.
+
+Nosso objetivo com esse procedimento é comparar os efeitos produzidos por cada uma dessas medidas sobre um indicador condensado de confiança medida no nível individual e, com isso, testar empiricamente a pertinência das abordagens a elas relacionadas para a explicação do fenômeno.
+
+V. EVOLUÇÃO DA CONFIANÇA NAS INSTITUIÇÕES
+
+Para a análise do quadro atual e também da evolução recente da confiança política na América Latina, selecionamos as medidas acerca de instituições que consideramos mais relevantes no contexto dessas jovens democracias: parlamento (Câmara Federal e Senado), partidos políticos, poder Judiciário, serviços públicos e sindicatos2.
+
+Sobre os parlamentos, verificamos abaixo (Gráfico 1)3 uma tendência de queda em três dos países. O caso argentino é o mais radical, pois entre 1984 e 1999 o percentual de entrevistados que afirmaram confiar em parte ou confiar totalmente sofreu queda de mais 60 pontos. Apenas entre as pesquisas de 1999 e 2006 constata-se uma interrupção dessa queda, porém sem recuperação significativa. Trajetória semelhante é descrita pelo Chile que em 1990 apresentava 63,4% de confiança e em 2006 atingiu 26,2%, sem qualquer indicação de reversão desse movimento de redução. No caso peruano temos dados apenas de pouco mais de uma década, mas ainda assim a queda é evidente, pois em 1996 o percentual atingiu 15 pontos e em 2006 apenas 7,6. O Brasil é o único que percorre um movimento distinto, apresentando elevação de mais de 10 pontos entre as pesquisas de 1991 e 1997 e caindo em 2006 para 25,1%. Ao nos concentrarmos sobre o cenário a partir da década de 1990, o quadro geral da confiança nos parlamentos na região é negativo, pois em nenhum momento os percentuais ultrapassam a casa dos 40 pontos.
+
+1 Dados das quatro primeiras sondagens estão presentes na base integrada v20060423, que reúne todas as pesquisas realizadas pelo WVS e também pelo European Values Surveys desde 1980. Essa base integrada está disponível no seguinte endereço: http://www.worldvaluessurvey.org/ , sob o código xwvsevs_1981_2000_v20060423. Os dados da última onda estão na base wvs2005a_v20081015, também disponível no endereço mencionado. Informações sobre composição das amostras, questionário e codificações também podem ser obtidas nesse endereço ou solicitadas ao autor deste artigo via correio eletrônico.
+
+2 Essas variáveis são obtidas com a seguinte questão: “Vou citar o nome de algumas organizações. Para cada uma, o(a) Sr(a) poderia me dizer em que medida confia: confia totalmente, em parte, pouco ou não confia nessas organizações?”. Na codificação original a opção “confia muito” equivale a 1 e a “não confia” a 4.
+
+3 Para a construção dos gráficos recodificamos todas as medidas agrupando as opções “confia muito” e “confia em parte” no valor 1 e as “confia pouco” e “não confia” no valor 0. Os gráficos representam apenas os percentuais de entrevistados que “confiam muito” ou “confiam em parte”.
+
+172
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+Situação igualmente negativa é verificada no caso dos partidos políticos (Gráfico 2). A maior queda desta vez ocorre no Chile, que descreve entre a pesquisa de 1990 e 2005 redução de mais de 30 pontos no percentual de confiantes, apesar de também experimentar uma ligeira elevação em 2000. O Brasil, para o qual possuíamos dados
+
+FONTE: European and World Values Surveys four-wave Integrated data file, 1981-2004, v.20060423, 2006 e World Values Survey, 2005-2008, wvs2005a_v20081015.
+
+GRÁFICO 1 – EVOLUÇÃO DA CONFIANÇA NO PARLAMENTO EM ALGUNS PAÍSES LATINO-AMERICANOS (1984-2008)
+
+apenas de 1997 e 2006, registra a segunda maior queda, totalizando 11,2 pontos. Argentina e Peru são os que apresentam menores reduções e até certa estabilidade nesse indicador, mas isso não se revela algo positivo, pois em ambos os casos o contingente de confiantes não atinge nem a marca dos dez pontos percentuais.
+
+GRÁFICO 2 – EVOLUÇÃO DA CONFIANÇA NOS PARTIDOS POLÍTICOS EM ALGUNS PAÍSES LATINOAMERICANOS (1984-2008)
+
+FONTE: European and World Values Surveys four-wave Integrated data file, 1981-2004, v.20060423, 2006 e World Values Survey, 2005-2008, wvs2005a_v20081015.
+
+173
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+No caso do sistema judiciário a situação é menos homogênea entre o grupo de países (Gráfico 3). No Brasil encontramos a melhor situação, inclusive com uma tendência de evolução, uma vez que em 1991 44,1% afirmaram confiar, 54,9% em 1997 e 49,6% em 2006. Mesmo com redução na última pesquisa os valores continuam maiores do que os registrados quinze anos atrás. Na comparação com as demais instituições o judiciário está, portanto, em situação mais confortável no
+
+cenário brasileiro, conseguindo despertar a confiança em quase metade dos entrevistados. Nos demais países a mesma tendência de queda encontrada para os parlamentos e partidos políticos pode ser identificada. Na Argentina, por exemplo, o percentual em 1984 era de 59,1% e em 2006 19,5. Nesses três países a posição final do judiciário é semelhante a das demais instituições, com o contingente de confiantes não ultrapassando os 30 pontos.
+
+GRÁFICO 3 – EVOLUÇÃO DA CONFIANÇA NO JUDICIÁRIO EM ALGUNS PAÍSES LATINO-AMERICANOS (1984-2008)
+
+FONTE: European and World Values Surveys four-wave Integrated data file, 1981-2004, v.20060423, 2006 e World Values Survey, 2005-2008, wvs2005a_v20081015.
+
+A situação brasileira em relação aos serviços públicos também é relativamente distinta, pois os confiantes chegam a ser a maioria em 2006 (Gráfico 4). Ainda que em comparação com quase 60% registrados em 1997, esse último dado representa algo relevante. Argentina e Peru também apresentaram nas primeiras pesquisas níveis elevados de
+
+confiança, mas nas seguintes descreveram trajetória descendente. O caso argentino é dramático nesse sentido, com redução de mais de 40 pontos. No Chile também podemos identificar tendência de redução, porém de maneira bem menos acentuada.
+
+174
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+GRÁFICO 4 – EVOLUÇÃO DA CONFIANÇA NOS SERVIÇOS PÚBLICOS EM ALGUNS PAÍSES LATINOAMERICANOS (1984-2008)
+
+FONTE: European and World Values Surveys four-wave Integrated data file, 1981-2004, v.20060423, 2006 e World Values Survey, 2005-2008, wvs2005a_v20081015.
+
+O conjunto desses dados favorece a interpretação de que a confiança política entre esses países latino-americanos é baixa e parece seguir uma tendência de redução ao longo do tempo. Excetuando-se o caso do judiciário, os percentuais de confiantes não ultrapassam a casa dos 40%, lembrando que nessa categoria estão os que confiam totalmente, mas também os que confiam em parte.
+
+Esse quadro é semelhante ao identificado por Moisés e Carneiro (2008), com a utilização das informações produzidas pelo Latinobarômetro entre os anos de 1995 e 2002. Agrupando a confiança nas forças armadas, judiciário, congresso e partidos em uma única medida integrada, esse autor constatou que os percentuais médias para a América Latina não ultrapassaram em nenhum momento a marca dos 40 pontos. Tratando especificamente do caso brasileiro esses autores não encontram evidências de associação entre essa desconfiança e a adesão a formas alternativas de governo, mas identificam que os desconfiados são os mesmos que enxergam com bons olhos uma espécie peculiar de democracia em que partidos e parlamentos tem pouco importância. Diante do quadro que apresentamos nessa seção esse tipo de conclusão deve ao menos chamar nossa atenção para os possíveis efeitos de médio e longo prazo do crescente descrédito de nossas instituições perante a população.
+
+VI. DETERMINANTES INDIVIDUAIS
+
+Na elaboração do modelo utilizado para testar nossa hipótese de trabalho e para explorar os determinantes individuais da confiança política entre os cidadãos dos quatro países selecionados a pesquisa de Catterberg e Moreno (2006) foi fonte direta de inspiração. Esse trabalho merece atenção, pois incorpora um amplo conjunto de variáveis que representam e opõem em uma única equação as principais hipóteses atualmente disponíveis para a explicação das variações nos níveis de confiança. Avaliando esse procedimento como bastante profícuo, partimos da estrutura básica proposta por esses autores e acrescentamos variáveis e dimensões que dão conta de algumas particularidades da realidade latino-americana.
+
+Como não poderia deixar de ser, nosso ponto de partida foi a construção de uma variável dependente que expressasse da forma mais adequada possível a confiança política. Os autores acima mencionados, devido a problemas inerentes à natureza comparativa de seu trabalho, se viram obrigados a adotar uma medida simplificada baseada no somatório dos níveis de confiança nos serviços públicos e no parlamento. A pesquisa que ora apresentamos se debruça sobre um número bem mais reduzido de países, o que possibilitou o emprego de medida mais complexa que envolve
+
+175
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+outras instituições fundamentais à democracia contemporânea. Assim, além de mantermos a confiança no parlamento como componente da variável dependente, também incluímos medidas relativas aos partidos políticos, ao judiciário e aos serviços públicos. Sendo assim, nossa variável resposta é na realidade um índice obtido pelo somatório dos valores encontrados nas quatro medidas de confiança mencionadas, resultando em uma escala de 12 pontos.
+
+É importante mencionar que esse procedimento foi adotado apenas depois da realização do teste alpha de Cronbach, que retornou os seguintes valores: 0,830 para Argentina, 0,753 para Brasil, 0,813 para Chile e 0,821 para Peru. Como o valor mínimo usual é de 0,7 (MORGAN, et al, 2004), consideramos justificado o procedimento de redução. Abaixo apresentamos um sumário das principais informações sobre esse índice para os quatro países (Tabela 1). Como a análise anterior da situação de cada instituição em separada já indicava, a média brasileira é a mais elevada.
+
+TABELA 1 – ÍNDICE DE CONFIANÇA POLÍTICA EM ALGUNS PAÍSES LATINO-AMERICANOS (2006)
+
+FONTE: World Values Survey, 2005-2008, wvs2005a_v20081015.
+
+Para a seleção das medidas independentes, que poderiam teoricamente explicar a variação do índice acima descrito, nos orientamos basicamente pelo desejo de representar em nosso modelo as principais hipóteses levantadas pela literatura recente sobre a questão da confiança cujos elementos centrais procuramos apresentar sumariamente na breve discussão teórica da primeira seção deste artigo.
+
+As primeiras duas medidas selecionadas nos remetem a tese de que a confiança política, mas também a interpessoal, está associada à prosperidade e a segurança econômica (FUKUYAMA, 1995; CATTERBERG & MORENO, 2006). O argumento de sustentação dessa proposição é relativamente simples: indivíduos que superaram uma situação de escassez de recursos vitais teriam maior propensão à confiança do que aqueles que teriam suas vidas ameaçadas constantemente. Nesses termos, essas variáveis iniciais devem ser entendidas como instrumentos para a operacionalização de hipóteses teóricas que associam a confiança à satisfação efetiva com os resultados concretos da atuação das instituições políticas, sobretudo daquelas que influenciam mais diretamente as condições materiais de existência dos cidadãos.
+
+É interessante destacar que tal insegurança não se refere diretamente ao nível de renda dos indivíduos, mas à sensação de segurança por eles experimentada. Inglehart (1990; 2001) ao discutir a substituição dos valores de sobrevivência pelos de auto-expressão salienta que mais importante do que o nível de renda atual dos indivíduos, são as condições sócio-econômicas vigentes em seus períodos de socialização. Pessoas socializadas em contextos de escassez e insegurança tendem a continuarem sentindo-se inseguras e a valorizarem prioridades relacionadas à sobrevivência física e econômica mesmo quanto concretamente essas ameaças já não existem em suas vidas adultas. Atentos a isso, no modelo que propomos essa hipótese será representada pela variável satisfação com a situação financeira familiar (1) satisfação com a vida em geral (2).Isso não quer dizer que negligenciamos a variável renda, pois essa também é introduzida em nossa análise no bloco de medidas sócio-econômicas.
+
+O segundo conjunto de variáveis incorporado diz respeito mais diretamente à nossa hipótese de trabalho ao relacionar os baixos níveis de confiança política nas jovens democracias à insatisfação e desilusão dos cidadãos em relação ao desempenho concreto das instituições que estariam
+
+N.
+
+176
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+se afastando das expectativas geradas por suas justificativas normativas. Assim, a terceira variável selecionada é a avaliação do sistema político (3), entendida aqui como medida da satisfação dos entrevistados em relação ao sistema concretamente existente. Assim como no bloco anterior de variáveis, nossa hipótese inicial é de que essas medidas de satisfação e avaliação estariam positivamente associadas à confiança política manifesta pelos entrevistados, ou seja, quanto maior for a percepção de que o sistema político e suas instituições cumprem bem suas funções, maior será a confiança depositada.
+
+Até esse momento o modelo comporta apenas variáveis relacionadas ao que podemos chamar de avaliações e percepções acerca de diferentes dimensões do desempenho do sistema político e de suas instituições. Essas medidas iniciais são congruentes com a hipótese que acreditamos ser mais plausível na explicação das flutuações de nossa variável dependente. Apesar de inicialmente aceitarmos a tese de que nos países em desenvolvimento, onde se deu a terceira onda de democratização, a mudança cultural não poderia explicar satisfatoriamente o fenômeno em questão, optamos por introduzir algumas importantes variáveis relacionadas a diferentes conjuntos de valores, crenças e atitudes dos entrevistados. Com esse procedimento nossa intenção é tornar possível, por meio da comparação dos efeitos de cada medida, a identificação do rendimento de diferentes hipóteses concorrentes no plano empírico.
+
+A primeira variável que compõe esse grupo foi obtida pela combinação das respostas fornecidas pelos entrevistados a quatro questões que visam identificar como os mesmos percebem situações políticas particulares. Na primeira delas as pessoas respondem se consideram ótimo, bom, ruim ou péssimo a existência de um líder forte que não precisa se preocupar com o congresso. Na segunda são levados a posicionarem-se em relação à ocorrência de um governo de técnicos e especialistas. Na terceira acerca de um regime militar. Por fim, na quarta devem informar o que pensam sobre um governo democrático. A partir dessas variáveis originais do WVS construímos um índice somatório de atitudes democráticas (4), utilizado neste trabalho para verificar em que medida a adesão normativa à democracia impacta os níveis de confiança política dos brasileiros.
+
+Como discutimos na seção anterior, uma das explicações para o fenômeno da desconfiança em nível mundial o associa à emergência dos valores pós-materialistas. Naquele momento também apontamos que nos países em desenvolvimento, como é o caso do Brasil, apenas parcela reduzida da população manifesta tais prioridades valorativas, o que nos leva à conclusão de que os altos níveis de desconfiança política verificados entre os brasileiros não podem ser atribuídos a essa mudança cultural. Ainda assim, introduzimos em nosso modelo o índice de materialismo/pósmaterialismo(5), desenvolvido por Inglehart para analisar, no nível individual, a ocorrência de impacto dessa mudança de objetivos e prioridades sobre nossa variável resposta.
+
+Preocupados com as possíveis relações existentes entre corrupção e confiança política optamos por incorporar em nossa análise uma medida de aceitação da corrupção (6), entendida aqui como disposição para justificar práticas sociais corruptas. Moreno (2002) apresentou interessantes evidências que associam negativamente tal aceitação a atitudes democráticas e também à confiança.
+
+Como mencionamos anteriormente, nos marcos das teorias do capital social a confiança pode ser uma característica relacionada à participação e ao associativismo de uma dada sociedade (FUKUYAMA, 1995). Níveis elevados de associativismo e de participação voluntária em organizações estariam associados a taxas elevadas de confiança, tanto política como interpessoal. A operacionalização dessa hipótese em nossa análise dá-se inicialmente pela introdução de uma medida de participação política (7), obtida por meio da combinação das respostas fornecidas pelos entrevistados a uma série de perguntas sobre sua participação em diferentes organizações, instituições e atividades voluntárias. Complementarmente, também introduzimos uma variável sobre modalidades de participação denominadas pela literatura recente de não-convencionais ou contestatórias (8)(INGLEHART & WELZEL, 2005).
+
+Quanto à confiança interpessoal, evidências empíricas analisadas por Rennó (2001) em pesquisa comparativa envolvendo diferentes países da América Latina atestam que essa dimensão está associada positivamente à confiança depositada pelos indivíduos na maioria das instituições e atores políticos. Sendo assim, optamos por também utilizar essa variável (9).
+
+177
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+Apesar de termos antecipado nossa posição acerca da inadequação da tese da cidadania crítica, como um teste empírico sobre a questão ainda não foi realizado no contexto regional, incluímos a variável interesse por política (10) importância atribuída à política (11)que estariam associadas à sofisticação cognitiva dos cidadãos. Segundo essa tese, o interesse por política estaria negativamente associado à confiança política, pois seria uma das características da postura crítica que estaria se desenvolvendo durante as últimas décadas, principalmente nas nações industrialmente desenvolvidas.
+
+Também adicionamos uma medida do autoposicionamento ideológico (12)dos entrevistados, que apesar de não estar diretamente presente em nenhuma teoria explicativa sobre o tema da desconfiança pode fornecer informações interessantes sobre possíveis diferenciais entre esquerda e direita.
+
+Por fim, introduzimos como medidas de controle as seguintes variáveis sócio-demográficas: sexo (13), idade (14), educação (15), renda (16) os estados civis casado (17) solteiro (18).
+
+VII. RESULTADOS
+
+Abaixo (Tabela 2) apresentamos os resultados obtidos com esse modelo de análise. Para cada país
+
+são apresentados os coeficientes padronizados e não-padronizados apenas das variáveis que se mostraram preditores relevantes (significância < 0,50).
+
+A primeira informação relevante a ser mencionada diz respeito às diferentes capacidades explicativas do modelo em cada um dos quatro países. Ainda que nossa intenção não tenha sido produzir modelos robustos para a explicação da confiança política, merece destaque o fato de que entre os brasileiros uma equação com cinco preditores mostrou-se capaz de explicar mais de 40% da variação da confiança política. A relevância desse dado é ainda maior quando o comparamos com os modelos dos demais países, cuja capacidade explicativa varia de nove a 16 pontos percentuais. É interessante notar que os quatro modelos são relativamente semelhantes, com conjuntos parecidos de variáveis, mas o efeito produzido pelas mesmas tende a ser maior entre os brasileiros.
+
+Voltando nossa atenção para as variáveis independentes, é importante lembrar que nossa intenção é testar a pertinência de diferentes fatores na explicação do fenômeno da desconfiança, o que torna relevante a discussão sobre as medidas que não parecem afetar essa ordem de disposições dos cidadãos.
+
+TABELA 2 – PREDITORES DA CONFIANÇA POLÍTICA EM ALGUNS PAÍSES LATINO-AMERICANOS (2006)
+
+178
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+FONTE: World Values Survey, 2005-2008, wvs2005a_v20081015.
+
+NOTAS: 1. No caso da Argentina não havia informação sobre renda. Para o caso peruano não havia informações necessárias para compor o Índice de Aceitação da Corrupção.
+
+Como é possível verificar, a medida de satisfação dos indivíduos com a vida não alcançou significância estatística mínima, indicando que no contexto dos países em questão não impacta a confiança política dos entrevistados. Catterberg e Moreno (2005) ao analisarem comparativamente diferentes grupos de países (democracias consolidadas, repúblicas que faziam parte da União Soviética, novas democracias do leste europeu e também quatro nações latino-americanas) encontraram resultados semelhantes, o que favorece a conclusão de que essa variável de satisfação geral não é um bom preditor da confiança.
+
+Gostaríamos de destacar, entretanto, que Moisés e Carneiro (2008) chegaram a resultados diferentes ao utilizarem dados do Instituto Latinobarometro coletados entre 1997 e 2001. Nesse estudo os autores encontram evidências de que os mais desconfiados são também os menos satisfeitos com a vida. É importante mencionar que existem diferenças metodológicas significativas entre nossa pesquisa e a dos autores supracitados, entre as quais enfatizamos: 1) enquanto valem-se de dados agregados de 17 países, nós analisamos dados de cada uma das nações de forma independente; 2) na composição do índice de desconfiança incluíram a polícia como instituição, enquanto nós incluímos os serviços públicos ao lado do judiciário, congresso e partidos. Dessa forma, a busca de explicações para essa relevante discrepância é bastante difícil e apenas a continuidade das pesquisas poderá indicar se de fato ocorreu uma mudança entre 2001 e 2006 ou se a divergência se deve efetivamente a fatores amostrais ou metodológicos.
+
+Também não alcançou esse nível de exigência o índice de materialismo/pós-materialismo, rela cionado à dimensão dos valores sócio-políticos dos pesquisados, o que merece uma discussão mais demorada. Apesar de Inglehart e seus colaboradores repetidamente afirmarem a ocorrência no nível mundial de uma síndrome de valores pós-materialistas que estaria associada, dentre outras coisas, à emergência da cidadania crítica (INGLEHART, 2001; INGLEHART & WELZEL, 2005), as evidências que apresentam são válidas somente para as chamadas sociedades de industrialização avançada que experimentaram períodos relativamente longos de prosperidade econômica no pós-guerra. Esse não é o caso das nações em desenvolvimento, como os pesquisados nesse trabalho, onde a mudança nas prioridades valorativas atinge uma parcela muito pequena da população, não podendo explicar os generalizados baixos níveis de confiança. Demonstrando que essa situação não diz respeito apenas à região latino-americana, podemos encontrar resultados semelhantes no grupo de oito jovens democracias do Leste Europeu investigado por Catterberg e Moreno (2006).
+
+O mesmo ocorreu com a variável participação política (convencional e não-convencional) e confiança interpessoal, relacionadas às teorias sobre capital social. Sobretudo no caso das modalidades de participação causou certa surpresa a ausência de efeito, pois nos parecia plausível a suposição de que os mais envolvidos em atividades contestatórias (não-convencionais) manifestassem níveis mais elevados de desconfiança. Todavia, não parece haver diferenciais em termos de confiança institucional entre aqueles que participam menos ou mais, independentemente da forma de participação.
+
+No que diz respeito à confiança interpessoal nossos resultados divergem dos encontrados por Rennó (2001) ao analisar dados do
+
+179
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+Latinobarômetro de 1996. Nesse artigo o autor encontrou associações importantes entre esse tipo de confiança e as disposições dos entrevistados em relação a algumas importantes instituições democráticas. Não temos elementos suficientemente fortes para associar inequivocamente essa divergência à ampliação nos níveis de desconfiança identificados por nós ao longo da última década, mas acreditamos que a hipótese do gradual descolamento entre essas duas medidas de confiança seja plausível. As evidências por nós recolhidas indicam que o crescente desencanto com as instituições políticas não pode ser explicado e nem mesmo está associado à confiança interpessoal.
+
+Dentre as medidas sócio-econômicas, sexo, renda e o estado civil solteiro e casado também demonstraram não produzir efeito significativo sobre a variável dependente. Aqui também desponta uma importante incongruência em relação ao estudo de Moisés e Carneiro (2008), pois os mesmos identificaram uma maior propensão dos homens à desconfiança. Em pesquisa anterior (RIBEIRO, 2009) envolvendo apenas o Brasil e utilizando dados de 1997 do WVS, encontramos resultados semelhantes a esses, revelando uma maior inclinação à confiança entre as mulheres. Como nesse caso a metodologia e a fonte dos dados é a mesma, somos inclinados à conclusão de que de fato a elevação nos níveis de desconfiança tenha contribuído para diminuição do impacto da variável sexo, fazendo com que homens e mulheres deixassem de se distinguir.
+
+A tabela revela que a única variável que ocupa a posição de preditor para todos os quatro países é a que se relaciona à avaliação do sistema político, apresentando coeficientes padronizados que vão de 0,14 (Chile) a 0,24 (Argentina). Ou seja, nesse contexto regional indivíduos que avaliam positivamente o sistema político vigente tendem a depositarem maior confiança nas instituições políticas. Tal resultado corrobora a tese defendida por Catterberg e Moreno (2006) de que nos países latino-americanos, que fizeram suas transições políticas no contexto da terceira onda de democratização, a confiança está mais ligada à forma como concretamente o regime político funciona. A distância entre a justificação normativa dessas instituições e a sua efetividade na vida concreta parece estar gerando uma frustração das expectativas formuladas pelos cidadãos latino-americanos, o que se manifesta na falta de confiança que as pesquisas têm revelado.
+
+Seguindo essa lógica da maior presença entre os países, localizamos em três deles a medida sobre atitudes democráticas. Entretanto, encontramos uma distinção importante entre os modelos, pois enquanto entre os brasileiros essa variável produz efeito positivo sobre a confiança nas instituições (inclusive como o maior coeficiente padronizado de todos os modelos), entre chilenos e peruanos o impacto é negativo. Esse dado pode sugerir que o reservatório de legitimidade democrática no Brasil ainda tem colaborado para a manutenção de uma postura confiante em relação às instituições do regime. No caso chileno e peruano esse resultado pode ser entendido como sinal de uma postura crítica em relação às instituições de representação tradicional amparada em consistente adesão à democracia.
+
+Em ambos os contextos, entretanto, é preciso considerar as possíveis conseqüências da manutenção dos altos níveis de desconfiança sobre os valores e atitudes democráticas dos cidadãos, pois o reservatório de legitimidade não é infinito e pode ser erodido pela constante desilusão com as instituições do regime. Mesmo uma postura democrática crítica pode ser minada, sobretudo porque entre os públicos das nações latino-americanas as demais condições para a emergência de uma cidadania crítica não se fazem presentes. Como já mencionamos, Moisés e Carneiro (2008) recolheram indícios que são no mínimo preocupantes em termos desses efeitos potencialmente perigosos para o médio e longo prazo.
+
+Também aparecendo em três modelos está a importância atribuída à política pelos entrevistados. Como já destacamos, a literatura contemporânea apresenta evidências que apontam a existência de associação negativa entre medidas como essa e a confiança política nos países de industrialização avançada. Assim, quanto maior a relevância atribuída a essa dimensão da vida social, menor seria a tendência dos indivíduos à desconfiança política. Não é o que verificamos na tabela acima, pois a variável demonstrou produzir efeito significativo e positivo entre argentinos, peruanos e chilenos, chegando nesse último a ocupar a posição de preditor de maior impacto. Apesar de ter alcançado significância estatística apenas para o Peru, o interesse por política caminha nessa mesma direção, ou seja, produz efeito positivo.
+
+Esses achados contrariam frontalmente as conclusões a que chegaram os defensores da tese
+
+180
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+da cidadania crítica. Inglehart (1999) e seus colaboradores ao estudarem nações com democracias estabelecidas têm identificado que o maior interesse por política está relacionado a atitudes contestatórias e, sobretudo, à falta de confiança nas instituições políticas tradicionais. Provando mais uma vez que essas conclusões não podem ser estendidas para o contexto das novas democracias, entre os brasileiros o interesse pelos assuntos políticos está associado a níveis mais elevados de confiança.
+
+A satisfação com situação financeira familiar aparece no modelo argentino e brasileiro. Assim como a avaliação do sistema político, acreditamos que essa variável se relacione a uma avaliação do desempenho do regime concretamente existe, porém nesse caso mais especificamente à dimensão econômica. Moisés e Carneiro (2008) chegam a uma conclusão semelhante ao encontrarem uma maior propensão à desconfiança entre aqueles que tendem a ver a situação geral do país como ruim e a renda como insuficiente.
+
+Também presente em dois modelos, no Brasil e no Chile, está a medida sobre a aceitação da corrupção pelos entrevistados. Os coeficientes positivos indicam que uma disposição mais tolerante em relação a práticas consideradas corruptas conduz a maior confiança nas instituições. Esse achado revela, portanto, que além da já confirmada associação entre essa medida de aceitação e a confiança interpessoal (MORENO, 2002), uma postura mais tolerante a práticas dessa natureza também impacta positivamente à confiança política entre os países latino-americanos.
+
+O auto-posicionamento ideológico dos entrevistados, por sua vez, só se mostrou relevante entre argentinos e peruanos, em ambos os casos com efeito positivo, o que indica que quando mais a direita do espectro mais propenso a confiar são os indivíduos.
+
+Por fim, entre as medidas de natureza sócioeconômicas introduzidas no modelo, apenas idade e educação produziram impacto significativo. O efeito da idade se fez notar entre chilenos (com sinal positivo) e peruanos (negativo). Menos ambíguos são os resultados envolvendo educação, pois entre argentinos, brasileiros e peruanos o incremento na escolaridade conduz à maior desconfiança institucional. Esse último dado poderia ser
+
+facilmente antecipado, uma vez que a sofisticação política que conduz a uma postura mais fiscalizadora e crítica tem na educação sua mais elementar base.
+
+VIII. CONCLUSÕES
+
+O conjunto dos dados apresentados ao longo desse texto indica inicialmente que o fenômeno da desconfiança em relação às instituições políticas das jovens democracias latino-americanas é algo consistente no curto período de tempo coberto pelos dados. Além disso, indícios de uma tendência de redução já podem ser encontrados na comparação dos percentuais encontradas nas diferentes ondas de pesquisa. Ainda que autores vinculados à tese da cidadania crítica interpretem essa situação como sinal de um desejo dos indivíduos pelo aprofundamento da democracia expresso no questionamento das instituições tradicionais de representação, no contexto dos países aqui analisados o fenômeno possui outros contornos. Como alertam Moisés e Carneiro (2008), nos países em que um número considerável de pessoas apóia democracias sem partidos e parlamentos a constante desconfiança nas instituições principais do regime pode no longo prazo levar até mesmo a redução do apoio ou adesão aos valores e princípios dessa forma de governo.
+
+Os resultados também subsidiam algumas reflexões importantes sobre as principais hipóteses disponíveis atualmente para explicar o fenômeno da confiança política e, especialmente, possibilitam avaliar a pertinência da tese de que em jovens democracias, como a brasileira, a crescente desconfiança tenha suas raízes na frustração e quebra de expectativas em relação ao desempenho concreto das instituições que compõem o regime. Ainda que variáveis relativas à dimensão das atitudes e valores tenham também se mostrado relevantes, a única medida presente em todos os quatro países e com efeito consistente na mesma direção foi a satisfação com o sistema político, seguida pela satisfação com a situação financeira familiar. Esses resultados, portanto, corroboram a tese de que o desencanto e a frustração das expectativas formuladas no contexto do processo de transição dessas jovens democracias é elemento muito importante para a compreensão dos atuais níveis de confiança política manifestos pelas suas respectivas populações.
+
+181
+
+REVISTA DE SOCIOLOGIA E POLÍTICA V. 19, Nº 39: 167-182 JUN. 2011
+
+Ednaldo Aparecido Ribeiro (ednaldorip@uol.com.br) é Doutor em Sociologia pela Universidade Federal do Paraná (UFPR) e professor no Departamento de Ciências Sociais da Universidade Estadual de Maringá (UEM).
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+ALMOND, G. & VERBA, S. 1989. The Civic Culture: Political Attitudes and Democracy in Five Nations. New York: Sage.
+
+ANDERSON, C. 1995. Blaming the Government: Citizens and the Economy in five European Countries. New York: M. E. Sharpe.
+
+BELLAH, R. N.; MADSEN, R.; SULLIVAN, W. M.; SWIDLER, A. & TIPTON, S. M. 1985. Habits of the Heart: Individualism and Commitment in American Life. Berkeley: University of California.
+
+CARVALHO, J. M. 2001. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira.
+
+CATTERBERG, G. & MORENO, A. 2006. The Individual Bases of Political Trust: Trends in New and Established Democracies. International Journal of Public Opinion Research, Oxford, v. 18, n. 1, p. 31-48, Spring.
+
+COLEMAN, J. S. 1990. Foundations of Social Theory. Cambridge: Belknap.
+
+DALTON, R. J. 1999. Political Support in Advanced Industrial Democracies. In: NORRIS, P. (ed.). Critical Citizens. Oxford: Oxford University.
+
+_____. 2004. Democratic Challenges, Democratic Choices. Oxford: Oxford University.
+
+EASTON, D. 1965. A Systems Analysis of Political Life. New York: Wiley.
+
+FUKUYAMA, F. 1995. Trust: the Social Virtues and the Creation of Prosperity. New York: Free.
+
+GABRIEL, O.W. 1995. Political Efficacy and Trust. In: VAN DETH, J. W. & SCARBROUGH, E. The Impact of Values. Oxford: Oxford University.
+
+HUNTINGTON, S. 1991. The Third Wave: Democratization in the Late Twentieth Century. Norman: University of Oklahoma.
+
+INGLEHART, R. 1990. Culture Shift in Advanced Industrial Society. Princeton: Princeton University.
+
+_____. 1999. Postmodernization Erodes Respect for Authority, but Increases Support for Democracy. In: NORRIS, P. (ed.). Critical Citizens: Global Support for Democratic Government. Oxford: Oxford University.
+
+_____. 2001. Modernización y posmodernización: el cambio cultural, económico y político en 43 sociedades. Madrid: Siglo XXI.
+
+INGLEHART, R. & CATTERBERG, G. 2002. Trends in Political Action: the Developmental Trend and the Post-Honeymoon Decline. International Journal of Comparative Sociology, Newbury Park, v. 43, n, 3, p. 300316, Oct.
+
+INGLEHART, R. & WELZEL, C. 2005. Modernization, Cultural Change, and Democracy. New York: Cambridge University.
+
+KLINGEMANN, H. 1999. Mapping Political Support in the 1990s: a Global Analysis. In: NORRIS, P. (ed.). Critical Citizens. Oxford: Oxford University.
+
+KORNBERG, A. & CLARKE, H. D. 1992. Citizens and Community: Political Support in a Representative Democracy. New York: Cambridge University.
+
+LEVI, M. 1998. A State of Trust. In: BRAITHWAITE, V. & LEVI, M. (eds.). Trust and Governance. New York: Russell Sage Foundation.
+
+LOPES, D. & NASCIMENTO, M. N. 2004. Para pensar a confiança e a cultura política na América Latina. Opinião Pública, Campinas, v. 10, n.1, p. 162-187, maio. Disponível em: http:// www.scielo.br/scielo.php?script=sci_ arttext&pid=S0104-62762004000100007. Acesso em: 15.jun.2011.
+
+MENEGUELLO, R. 2006. Aspects of Democratic Performance: Democratic Adherence and Regime Evaluation in Brazil, 2002. International Review of Sociology, v. 16. n. 3, London, p. 617-635, Nov.
+
+182
+
+CONFIANÇA POLÍTICA NA AMÉRICA LATINA
+
+MISHLER, W. & ROSE, R. 2001. Political Support for Incomplete Democracies: Realist vs. Idealist Theories and Measures. International Political Science Review, Newbury Park, v. 22, n. 4, p. 303-320, Oct.
+
+MOISÉS, J. A. 2005. A desconfiança nas instituições democráticas. Opinião Pública, Campinas, v. 11, n. 1, p. 33-63, mar. Disponível em: http://www.scielo.br/scielo.php?script=sci_ arttext&pid=S0104-62762005000100002 &lng=en&nrm=iso&tlng=pt. Acesso em: 15.jun.2011.
+
+MOISÉS, J. A. & CARNEIRO, G. P. 2008. Democracia, desconfiança política e insatisfação com o regime – o caso do Brasil. Opinião Pública, Campinas, v. 14, n. 1, p. 1-42, jun. Disponível em: http://www.scielo.br/scielo.php? s c r i p t = s c i _ a r t t e x t & p i d = S 0 1 0 4 62762008000100001&lng=en&nrm=iso&tlng=pt. Acesso em: 15.jun.2011.
+
+MORENO, A. 2002. Corruption and Democracy: a Cultural Assessment. Comparative Sociology, Leiden, v. 1, n. 3-4, p. 495-507. Disponível em: http://www.worldvaluessurvey.org/wvs/ articles/folder_published/publication_526/files/ 5_Moreno.pdf. Acesso em: 15.jun.2011.
+
+MORGAN, G. A.; LEECH, N. L.; GLOECKNER, G. W. & BARRETT, K. C. 2004. SPSS for Introductory Statistics. 2nd ed. New Jersey: L. Erlbaum.
+
+NEWTON, K. & NORRIS, P. 2000. Confidence in Public Institutions: Faith, Culture or Performence? In: PHARR, S. & PUTNAM,
+
+R. (eds.). Disaffected Democracies: What’s Troubling the Trilateral Countries. Princeton: Princeton University.
+
+NORRIS, P. 2002. Democratic Phoenix: Political Activism Worldwide. Cambridge: Cambridge University.
+
+NYE, J. S. 1997. Why People Don’t Trust Government. Cambridge: Harvard University.
+
+PUTNAM, R. 1996. Comunidade e democracia: a experiência da Itália moderna. Rio de Janeiro: Fundação Getúlio Vargas.
+
+RENNÓ, L. R. 2001. Confiança interpessoal e comportamento político: microfundamentos da teoria do capital social na América Latina. Opinião Pública, Campinas, v. 7, n. 1, p. 33-59. Disponível em: http://www.scielo.br/ scielo.php?script=sci_arttext&pid=S010462762001000100003. Acesso em: 15.jun.2011.
+
+RIBEIRO, E. A. 2009. Investigando os determinantes individuais da confiança política entre os brasileiros. Política & Sociedade, Florianópolis, v. 8, n. 15, p. 271-297, out. Disponível em: http://www.periodicos.ufsc.br/ index.php/politica/article/download/11803/ 11046. Acesso em: 15.jun.2011.
+
+ROSENBERG, M. 1957. Misanthropy and Attitudes Toward International Affairs. Journal of Conflict Resolution, Newbury Park, v. 1, n. 4, p. 340-345, Dec.
+
+WARREN, M. E. 1999. Democracy and Trust. New York: Cambridge University.
+
+WVS. 2006. European and World Values Surveys Four-Wave Integrated Data File, 1981-2004, v. 20060423. Stockholm: World Values Survey Association.
+
+OUTRAS FONTES
+
+_____. 2009. World Values Survey 2005 Official Data File v. 20090901. Stockholm: World Values Survey Association.

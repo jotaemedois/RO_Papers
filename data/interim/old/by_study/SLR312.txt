@@ -1,0 +1,461 @@
+British Journal of Political Science
+
+http://journals.cambridge.org/JPS
+
+Additional services for British Journal of Political Science:
+
+Email alerts: Click here Subscriptions: Click here Commercial reprints: Click here Terms of use : Click here
+
+The Development of Public Support for Parliament in Germany, 1951–59
+
+G. R. Boynton and Gerhard Loewenberg
+
+British Journal of Political Science / Volume 3 / Issue 02 / April 1973, pp 169 - 189 DOI: 10.1017/S0007123400007778, Published online: 27 January 2009
+
+Link to this article: http://journals.cambridge.org/abstract_S0007123400007778
+
+How to cite this article: G. R. Boynton and Gerhard Loewenberg (1973). The Development of Public Support for Parliament in Germany, 1951–59. British Journal of Political Science, 3, pp 169-189 doi:10.1017/S0007123400007778
+
+Request Permissions : Click here
+
+Downloaded from http://journals.cambridge.org/JPS, IP address: 147.188.128.74 on 15 Jun 2015
+
+B.J.Pol.S. 3 169-189 Printed in Great Britain
+
+The Development of Public Support for Parliament in Germany, 1951-59
+
+G. R. BOYNTON AND GERHARD LOEWENBERG*
+
+Systems theorists introduced the concept of 'support' to permit explanations of political stability and instability. Yet most attempts to verify the existence of a relationship between support and stability empirically have dealt with wellestablished political systems, and have relied on data collected at one point in time. This paper reports an initial effort to examine the growth of support for a new political regime using a series of sample surveys providing data on changes in the level of support over time. Postwar Germany is an intriguing site for the study of the growth in support for a new regime. Sharp changes of regime have occurred five times within the last century: in 1871, 1918, 1933, 1945, and 1949. There is strong evidence that substantial sections of the German public supported each of these regimes while they existed. Furthermore, we know that residues of support for previous regimes lasted into the time after the establishment of the present regime. This history of instability formed the context within which the Federal Republic came into being, and makes Germany a very interesting case for examining changes in support and stability. The political institutions of the Federal Republic of Germany were established by a constituent assembly meeting under the auspices of the Allied Military Government in the western zones during the winter of 1948-49. A public preoccupied with the material conditions of life paid scant attention to the founding fathers, and the Basic Law they wrote was adopted by the state legislatures without a popular referendum. In the autumn of 1949, therefore, the citizens of western Germany found themselves with a set of unfamiliar political institutions. This circumstance contributed to the subsequent interpretation, documented by Almond and Verba, that 'though the formal political institutions of democracy exist in Germany and though there is a well-developed political infrastructure - a system of political parties and pressure groups - the underlying set of political attitudes that would regulate the operation of these institutions
+
+* Department of Political Science, University of Iowa. The research for this article was made possible by a grant from the National Science Foundation. We would like to acknowledge the assistance of Norman Elliot, Marc Anderberg, Michael Lowther and Steven Hirst, who prepared the data for analysis, and Chia-Hsing Lu, who wrote three computer programs specifically for this project. We are grateful also to Elisabeth Noelle-Neumann, Director of the Institut fiir Demoskopie (Allensbach), for making data available to us and for generally facilitating our research.
+
+170 BOYNTON AND LOEWENBERG
+
+in a democratic direction is missing.'1 The principal question raised by this suggested incongruence between the political regime and public attitudes was 'the extent to which the current pattern of German democratic government has a potentiality for survival.'2
+
+We now know that the regime established in Germany has exhibited considerable stability and has survived longer than the only previous democratic regime in German history. We also have some general impressions that basic political attitudes changed rapidly in Germany after 1949. In this paper we propose to describe the direction of this change in attitude toward one of the central institutions of the new regime, the Parliament, and to explain the changes we observe. In this way we expect to specify with somewhat greater precision than has previously been possible the relationship between regime change and public attitude, presuming in this case not that mass attitudes produced regime change but rather that regime change brought changes of public attitudes in its wake.
+
+DATA
+
+The data collected by German polling organizations indicate that substantial changes in attitudes toward previous German regimes occurred rapidly during the first two decades after the establishment of the Federal Republic. We will report on these data in detail elsewhere, but the aggregate findings have long been known. For example, nearly one-third of the German population favored a restoration of monarchy in 1951, but just over one-tenth maintained this position in 1965. In 1955 nearly 50 per cent of Germans still believed Hitler would have been one of Germany's greatest statesmen had it not been for the war, but by 1964 less than one-third persisted in this view. Between 1951 and 1961, the proportion of the population preferring a single-party system to competitive parties was halved. Furthermore, the aggregate data reveal a growth in public understanding of the new democratic regime during these years, and a rise in positive evaluations of it.3
+
+The most widely accepted explanation of this growth in public support for the political institutions of the Federal Republic related it to the output of the new regime: its capacity to produce economic prosperity and political stability. Verba, in an influential essay, wrote that 'Germans are concerned with the output and performance of the government. There is little hostility to the government and little radicalism, but no strong sense of attachment either.'* But the evidence on which Verba relied, based on cross-sectional observations at the individual level,
+
+1 Gabriel A. Almond and Sidney Verba, The Civic Culture (Princeton: Princeton University Press, 1963), p. 496. 2 Sidney Verba, 'Germany: The Remaking of Political Culture', in Lucian Pye and Sidney Verba, eds., Political Culture and Political Development (Princeton: Princeton University Press, 1965), P- 1343 Elisabeth Noelle and Erich Peter Neumann, The Germans; Public Opinion Polls, 1947-1966 (Allensbach: Verlag fur Demoskopie, 1967), pp. 196, 203, 395. 4 Verba, 'Germany: The Remaking of Political Culture', pp. 146-7.
+
+Public Support for Parliament in Germany, 1951-59 171
+
+did not permit the conclusion that prosperity as a property of the system was related to aggregate support levels at any particular point in time, nor did it permit the inference that increases in prosperity had brought increases in support at the individual or the system level over time. Time-series data aggregated to the system level would be required to substantiate such relationships. This is the type of data on which we base the following analysis. Did change occur at different rates in different parts of the German population ? Did some sets of attitudes change together? Are aggregate changes the result of changes in the composition of the population or of individual changes in attitudes? In short, does the pattern of change reveal the influences which brought about a rising level of aggregate support for the new regime? These are the questions we want to answer. The data on which we rely were gathered by the Institut fur Demoskopie, a market research organization which has surveyed German public opinion for over twenty-five years. The Institute conducts monthly omnibus surveys which generally include a substantial number of political items, and it has retained the wording of these items over long periods of time. The secondary analysis which we have undertaken is largely based on these monthly surveys, with the addition of a number of special surveys. The Institute uses a system of quota sampling with 2,000 respondents over 18 years of age residing in the Federal Republic and West Berlin. Sampling communities are chosen at random within quotas for each German state and for community size; quotas are also set by age, sex, and occupation. Interviewers average seven respondents each, and their work is subject to supervision. By the test of forecasting elections, the Institute has been remarkably accurate.5
+
+THE DEPENDENT VARIABLE: SUPPORT FOR PARLIAMENT
+
+One of the perils of secondary analysis is the need to work with items which have not been specifically designed for the purposes of the analysis in view. Over the years, the Institute used two questions designed to tap support for Parliament. The first read: 'Looking at it from a practical point of view, do we really need a Parliament and all the deputies in Bonn, or could we do without them?'6 This question, although it carried a slight presumption of a negative reply, was direct. For that reason, it was not calculated to distinguish between responses expressing routine agreement with civics textbook norms, and responses tapping a deeper commitment. Yet in a society which was making explicit efforts at political reeducation, the need to distinguish between 'lip service to what is assumed to be a proper norm' and 'a commitment with significant behavioral implications', as Verba put it, would be particularly important.7
+
+5 In the election forecasts of 1957,1961, 1965, and 1969, the average difference between the Institute's data and the official results was one per cent; the highest difference was 1-9 per cent. 6 'Wenn man das einmal ganz von der niitzlichen Seite betrachtet: Brauchen wir in Bonn eigentlich ein Parlament und lauter Abgeordnete, oder ginge es auch ohne?' 7 Verba, 'Germany: The Remaking of Political Culture', p. 137.
+
+172 BOYNTON AND LOEWENBERG
+
+The second question on support for Parliament had the virtue of indirectness. It was preceded by a filter question which asked: 'In your estimation, how many deputies are there in the Bundestag in Bonn?' Respondents who had difficulty in replying were urged to give a general impression. If respondents estimated that there were more than fifty deputies, they were then asked: 'In your opinion, could one also get along with fifty deputies?'8 In interpreting this question, we kept two considerations in mind. For over a century, during both democratic and non-democratic regimes, German national parliaments varied in size between approximately 400 and 600 members. The conception of parliament therefore carried with it the notion of an assembly having a sizable membership. In fact, surveys taken annually between 1951 and 1959 consistently revealed that twothirds of the adult German population knew that Parliament had over 200 members. Cynicism about the value of Parliament, on the other hand, frequently focused on the burden which deputies' salaries placed on the taxpayers. For these reasons, we assumed that among that two-thirds of the population which knew that Parliament in fact had over 200 members, the expression of a preference for a parliament of fifty members was a measure of lack of support for the institution. To test the validity of this item as a measure of support for the institution of parliament, we examined the relationship between responses to this question and responses to the direct question asking whether a parliament was needed from a practical point of view. The association between answers to these two questions was extremely strong in the four surveys containing both items. With responses dichotomized, gamma ranged from -78 to -85. The theory of support distinguishes between specific support, which results from satisfaction with outputs, and diffuse support, which is 'independent of the effects of daily outputs', 'an attachment to a political object for its own sake'.9
+
+This is the type of support we are interested in measuring since it is this positive orientation to the regime which systems theory relates to stability. Measures of diffuse support should therefore be uncorrelated with measures of output satisfaction. We compared responses to the question asking whether one could get along with fifty deputies and responses to questions asking respondents whether their economic position had improved or deteriorated during the previous year. Gammas were around -15. We found similarly low correlations between attitudes toward the policy of the Government of the day and attitudes toward a parliament of only fifty MPs, except for the early years, where we found a stronger association between these two variables (see Table 1). This suggests that a distinction between attitudes toward the Government in office and new political institutions developed only gradually, a possibility which we will investigate further below.
+
+8 'Wieviel Abgeordnete gibt es Ihrer Schatzung nach im Bundestag in Bonn?' (FALLS nicht bekannt: 'Nur ungefahr geschatzt, was Sie sich vorstellen?') 'Konnte man Ihrer Ansicht nach auch mit funfzig Abgeordneten auskommen ?' 9 David Easton, A Systems Analysis of Political Life (New York: John Wiley, 1965), pp. 273, 274.
+
+Public Support for Parliament in Germany, 1951-59 173
+
+While measures of diffuse support should be unrelated to output satisfaction, research has established a relationship between the level of political information and the sense of being represented, on the one hand, and support on the other.10
+
+We found these relationships confirmed with respect to the item on fifty deputies. Gammas were generally above -30 between responses to this question and questions asking whether respondents had heard about the activity of their MP, and had confidence that Members of Parliament would read their letters and deal with their problems. On the basis of research elsewhere, we also expected high correlations between support for parliament and level of education; it too tended to be above -30. Finally, we tested the validity of our support item by comparing it to responses measuring support for previous regimes. Gammas ranged from -30 to -50 between our measure of support for parliament and opposition to a single-party system.
+
+TABLE 1 Relationship between Attitude toward a Parliament of Fifty MPs and Selected Indicators
+
+Inter-item correlations (Gamma)
+
+Subjective economic situation Attitude toward Government's policy Heard about MP's activities Belief MP would read letter Belief MP would attend to constituent's problem Level of education Support for one-party system
+
+1951
+
+•15 •32 •34 •28 •30 •26 •47
+
+1955
+
+•
+
+•18 •36 * • •31 •44
+
+1959
+
+•14 •18 •46 •31 •33 •32 •34
+
+* Item not included in this survey.
+
+The question eliciting attitudes toward a parliament of only fifty members was asked annually in identical form between 1951 and 1959. We particularly regretted the failure to include the question in surveys in the early 1960s, since the 1959 survey indicated some decline in support compared to the previous year. In the absence of later data, we assume that this decline in support was a regression effect following the 1957 election similar to that which took place after the 1953 election. Having discovered that responses to the question at any single point in time were related to other variables in a manner consistent with the theory of diffuse support, we concluded that this item was a valid measure of the concept, and that the time-series available for this item enabled us to use it as a measure of changes in support for the institution of parliament during the first decade of the Federal Republic's existence.
+
+10 G. R. Boynton, S. C. Patterson, and John C. Wahlke, 'Dimensions of Support in Legislative Systems,' in Allan Kornberg, ed., Legislatures in Comparative Perspective (New York: McKay, 1973), Chap. 12.
+
+174 BOYNTON AND LOEWENBERG
+
+CHANGE IN SUPPORT: THE AGGREGATE TREND AND ITS COMPONENTS
+
+How did overall support for the German Parliament change during the 1950s, by the measure we have adopted? In April 1951, the earliest survey we had available, over half of the German population believed that one could get along with a parliament of fifty members, and only two-fifths of the population did not think so. Eight years later, in 1959, in the last survey including this question, the alignment had been completely reversed. Only one-third of the population went along with having fifty MPs and nearly one-half rejected this prospect. The change came rapidly during the first three years and then slowed considerably, with peaks of support coming close to the times of national elections (see Fig. 1).
+
+High
+
+1951 1952 1953 1954 1955 1956 1957 1958 1959 Years Fig. 1. Support for the German Parliament, 1951-1959
+
+The trend indicates a secular rise in support for Parliament in the population as a whole between 1951 and 1959. We will investigate two sets of explanations for this rise. First, we will determine whether there were different patterns of attitude change in different groups within the population. For example, if support rose rapidly in one section of the population and remained unchanged in another, this would contribute to change in the aggregate support level. Second, we will determine whether the size of different groups changed in the population. If consistently supportive groups grew more rapidly than consistently non-sup Public Support for Parliament in Germany, 1951-59 175
+
+portive groups, this change in the composition of the population would explain a rise in overall support. We anticipated that both different patterns of attitude change between groups and compositional changes in the population would contribute to the aggregate trend, and we proceeded to disaggregate our population sample in order to investigate its components.
+
+HYPOTHESES
+
+What are the relevant population groupings for purposes of decomposing aggregate changes in basic political attitudes ? On the strength of findings of research on political socialization, we assumed that basic attitudes toward the regime were formed relatively early in a person's life, and were preserved throughout the life-cycle. Young persons would therefore be changeable, while older persons would stably reflect attitudes set at previous times. Accordingly, attitudes toward the regime and changes in attitude might be expected to differ by age groups. Keeping the literature on political participation in mind, we assumed that there might be differential rates of development of support among politically attentive and politically inattentive citizens, and we therefore divided the sample by three criteria of political parochialism and cosmopolitanism. We assumed further that attitudes toward Parliament would be dependent on an individual's sense of being represented in that body. Consequently we decided to compare support between those citizens having a sense of representation and those believing they were unrepresented. Pursuing the hypothesis that support for new political institutions in Germany resulted from growing satisfaction with the results of the new political system, we decided to compare the development of supportive attitudes between groups agreeing with the policies of the Chancellor and those disagreeing with those policies, and between those believing that their economic situation had improved and those believing it had deteriorated.
+
+ANALYTICAL METHODS
+
+Our objective was to examine the effect of two types of changes in subsets of the population on the net change in support in Germany. First, we wanted to examine the effect of different patterns of attitudinal change between groups of the population. We hypothesized that the level of support in some groups would rise more rapidly than in other groups, thus providing one explanation of change in the aggregate level of support. Second, we wanted to examine the effect of changes in the size of these subsets of the population, holding constant differential patterns of change in attitude. We hypothesized that changes in the size of attitude groups would provide a second explanation of change in the aggregate level of support. Accordingly, two separate techniques were utilized in our analysis. Although neither was ideal for our purposes, we believed that if we obtained similar results from each this would substantiate our explanation of the patterns of change.
+
+176 BOYNTON AND LOEWENBERG
+
+The first technique we employed was two-way analysis of variance, which permitted us to partition the total variance over the nine annual surveys into four components: (1) variance accounted for by one independent variable - time; (2) variance accounted for by the second independent variable - sub-groups of the population; (3) variance accounted for by the interaction of the two independent variables, and (4) within-group or error variance. Since in this study we are interested in examining change, another way to look at the components of variance is to distinguish between variance unrelated to time, and variance attributable to time. Variance unrelated to time is of two kinds: (1) variance within sub-groups of the population in any one annual survey, and (2) variance between sub-groups of the population in any one survey. Likewise, variance due to change over time is of two kinds: (1) variance between the attitude of the total population from one annual survey to another, and (2) variance in subgroups of the population from one survey to another. Of these two kinds of variance due to change over time, the first cannot be explained by our analysis. We have not sought to explain changes in the attitude of the total population, except in terms of population sub-groups. The second kind of variance, however, is critical for us, since it is a direct measure of differences in the patterns of attitude change between sub-groups of the population. It is technically due to interaction between the two factors selected for the analysis of variance, population sub-groups and time. The proportion of this interaction variance to the total variance attributable to change over time constitutes the proportion of attitude change explainable in terms of differences in attitudinal development between sub-groups of the population. For example, we divided the population into one sub-group favoring the Government of the day and one sub-group opposing it. The analysis of variance revealed how much variance in support for parliament was accounted for by differences in attitude toward the Government of the day (independent of the year of the survey), how much was accounted for by the year of the survey (independent of the attitude toward the Government of the day), and how much was accounted for by the different pattern, over time, of support for Parliament between the proponents and opponents of the Government. The first component of variance, being unrelated to time, was not of interest to us; we could not explain the second component, because while due to change over time it was unrelated to differences between sub-groups of the population; but the third component was precisely that part of variance in support for Parliament over time which could be explained by different patterns of attitude change toward parliament between proponents and opponents of the Government. In percentage terms, we found that this proportion of explained variance to total variance due to change over time ranged from 3 per cent for the comparison of the population by sex, to 25 per cent for the comparison of the population by attitude toward the Government of the day (see Table 2). It is not very helpful, however, to know that attitude change in the population can be explained by differences in attitudinal development in different groups, unless a clear pattern of differences can be established. Therefore, once we
+
+Public Support for Parliament in Germany, 1951-59 177
+
+TABLE 2 Changes in Support for Parliament among Groups
+
+Groups
+
+Mean support score, 1951-59 (Scale: -I,O,+I)
+
+Standard deviation of means, 1951-59
+
+% of change due to different patterns of change between groups
+
+Total population Political socialization Under 30 Over 60
+
+Representation MP responsive MP not responsive
+
+Government and Opposition Agree with government policies Disagree with government policies
+
+Prosperity Better off No difference Worse off
+
+Parochialism/Cosmopolitanism
+
+Men Women
+
+Education-low Education-high Political information-low Political information-high
+
++O-II
+
++0.10 +0-13
+
++0-36 -o-io
+
++0-27 +0-01
+
++0-30 +0-11 -0-05
+
++o-i 8 +0-02 +0-05 +0-30
+
+-0-04 +0-24
+
+•09
+
+•10
+
+•15
+
+•12
+
+•17
+
+14
+
+23
+
+25
+
+18
+
+3
+
+9
+
+9
+
+identified those sub-groups of the population which exhibited substantial departures from the mean in attitude development, we plotted the responses for these groups over the nine-year period. For this purpose we constructed an indicator of support for Parliament, based on the question concerning the adequacy of a parliament of fifty members. We scored responses agreeing with a parliament of this size as —1, non-committal responses as 0, and disagreement with the proposition that one could get along with only fifty MPs as+1. The means of these responses for each population sub-group in each of nine years were transformed into standard scores, to permit comparison across sets of groups, and these standard scores were graphed (see Figs. 1-5). We used a second analytic procedure to specify the relative contribution of changes in attitudes of subgroups and changes in the relative sizes of the subgroups to the overall change in support for Parliament. For this purpose we employed a differential equation, which permitted us to apportion overall change between any two time periods among two components of change: (1) that due to change in the attitudes of particular subgroups, and (2) that due to 12
+
+I78 BOYNTON AND LOEWENBERG
+
+change in the size of these subgroups.11 The equation, on which Table 3 is based, is as follows:
+
+D, = (JC, . dPf) + {{Pf - Po) .dx) + ((i-x). dP0) D, = total change in support for Parliament between time t - 1 and time t x, = percentage of sample in first subgroup at time t dPj = change in support for Parliament in first subgroup between time t — 1 and time t dP0 = change in support for Parliament in second subgroup between time t — 1 and time t I — x = percentage of sample in second subgroup at time t Pf = percentage supporting Parliament in first subgroup at time t Po = percentage supporting Parliament in second subgroup at time t dx = change in size of first subgroup between time t — 1 and time t
+
+In effect this formula stipulates that total change in the overall level of support between two time periods is the sum of the per cent of the population in the first subgroup at time t multiplied by the change in the level of support for Parliament in that subgroup, plus the per cent supporting Parliament in the first subgroup at time t minus the per cent supporting Parliament in the second subgroup at time t multiplied by the change in the size of the first subgroup, plus the per cent of the total population in the second subgroup at time / multiplied by the change in support for Parliament in that subgroup. While this formula is written for a population divided into two subgroups, it can easily be adapted for use with any number of subgroups. Any two points in time can be compared, and the total change due to each of the factors can be aggregated over the entire nine-year period or appropriate subsets of this period.
+
+FINDINGS
+
+Political Socialization
+
+Germany has experienced great changes in the basic structure of the regime during the twentieth century. Those respondents who were under 30 and those over 60 in the 1950s had had their first experience with politics under very different regimes. The respondents over 60 were socialized during the period of the Empire and the Weimar Republic and those under 30 first encountered politics during the Third Reich. As a consequence of this very different initial political socialization, we expected that the two groups would react very differently to the institutions of the Federal Republic. We hypothesized that the older group, to whom a parliament was familiar from an early age, would initially be more supportive of the Bundestag than the younger group, whose first view of politics did not include a parliament. But we also presumed that the level of support of those under 30 would increase rapidly and that by 1959 there would be little
+
+II We would like to thank William H. Klink of the Department of Physics of the University of Iowa for his assistance in working out this formula.
+
+Public Support for Parliament in Germany, 1951-59 179
+
+difference between the two groups. Thus, the greater change of the youngest group would contribute to the overall change in the level of support, while the older group, by remaining relatively stable, would contribute little. As one can see from Fig. 2, this is basically what happened. Initially those over 60 were much more supportive than the respondents under 30. Support rose in both groups over the first two years of the decade and by 1953 respondents over 60 were still substantially more supportive than those under 30. After 1953 little change occurred in the attitudes of those over 60, while respondents under 30 continued to become more supportive. By 1956 the support levels of the two groups intersected, and after 1956 the group under 30 became more supportive than the older group.
+
+Hi
+
+i
+
+i n > 1 o
+
+ddn
+
+CO
+
+ized
+
+• a
+
+c
+
+CO
+
+Low
+
+• A .
+
+•
+
+# ^ Over 60
+
+/ r 1 i I i j i / Under 30 ///
+
+* y
+
+t i l l i i
+
+•
+
+1951 1952 1953 1954 1955 1956 1957 1958 1959 Years
+
+Fig. 2. Support for the German Parliament by age groups, 1951-1959
+
+The two groups might have contributed to the overall change in attitudes unequally if one group had increased in size more than the other. However, no significant demographic changes occurred in the age composition of the population during the 1950s. The group under 30 comprised 22 per cent of the population in 1951 and 23 per cent of the population in 1959; the group over 60 was 19 per cent of the population in both 1951 and 1959. The two analytical techniques that we have utilized permit us to specify our findings more precisely. The analysis of variance indicates that over the entire
+
+i8o BOYNTON AND LOEWENBERG
+
+period 14 per cent of the variance related to change was due to the different pattern of change between the youngest and oldest age groups. When we apportion aggregate change between attitude change in each age group and changes in the size of age groups, we discover that over the entire period five-eighths of the total change was attributable to change in the youngest group, and three-eighths was due to change in the oldest group; only one per cent of all change was attributable to change in the size of age groups. Furthermore, in the second part of this period, between 1953 and 1959, nearly 70 per cent of year-to-year change was due to attitude change in the group under 30 years of age. Clearly its contribution to rising support levels was particularly marked in the latter part of the decade (see Table 3).
+
+TABLE 3 Components of Change
+
+Groups
+
+Political Socialization Attitude change Under 30 Over 60 Change in group size
+
+Representation Attitude change MP responsive MP not responsive Change in group size
+
+Government and Opposition Attitude change Agree with government policies Disagree with government policies Change in group size
+
+Prosperity Attitude change Better off No difference Worse off Change in group size
+
+Political information Attitude change Low information High information Change in group size
+
+Total period 1951-1959
+
+63 36
+
+I
+
+28 50
+
+22
+
+52 24
+
+24
+
+24 40
+
+14
+
+21
+
+39 47
+
+14
+
+Time periods
+
+Early period I95I-I953
+
+58 41
+
+I
+
+19 57
+
+24
+
+46
+
+13
+
+41
+
+24 37 14
+
+25
+
+41 53 6
+
+Later period 1953-1959
+
+69 30
+
+I
+
+37 43
+
+20
+
+57 34
+
+10
+
+25 41 15 18
+
+38 43
+
+19
+
+Public Support for Parliament in Germany, 1951-59 181
+
+Representation
+
+Research on representation in the United States suggests that one of the sources of support for a democratic regime is the sense of its citizens that they are represented in the processes of government. From the perspective of the citizen the representativeness of the system means that the government is responsive to the citizen's needs and desires. Those individuals who believe that their government is open to their 'petition' and responsive to their requests are more likely to be supportive than are those who do not believe that the government is representative. Representation has been very closely associated with the role of the legislature in western democracies. We hypothesized that the citizens' sense of representation would be related to their support for the Bundestag. Two questions were asked in the surveys we had available which measured beliefs about the representativeness of Parliament. Respondents were asked what would happen if they sent a letter to a Member of Parliament. Would he read it or not, would it reach him and if so, would he ignore it? Respondents were also asked whether a Member of Parliament would pay attention to a problem that they took to him. Unfortunately, these questions were not asked in each of the nine surveys we examined. The question about a letter was asked in seven of the surveys, excluding 1955 and 1956; the question about an MP's responsiveness to a constituent's problem was limited to the same surveys. Thus, we do not have as complete data for these variables as we have for the others. There is a very substantial difference in support between those who believed that the system was representative and those who did not. The overall mean (the mean of the seven annual means) of the support scores of those who believed that an MP would be responsive to their problems is +0-36, while the mean for those who had no such confidence is --io. Over the entire period, the two groups are nearly two standard deviations apart in their mean support (see Fig. 3). The difference between those who believe that a Member of Parliament would and would not read their letter is very similar. Beliefs about the responsiveness of members of the Bundestag had a substantial impact on the overall change in support for Parliament, but the explanation is different from that which we discovered with respect to political socialization. Although 23 per cent of the variance attributed to change results from differential patterns of change in attitudes between those having a sense of representation and those lacking it, there are no consistent trends (see Table 2). At the end of the decade, the two groups remained nearly as far apart in attitude as they had been at the beginning. However, the size of these groups changed very substantially over the nine years, and contributed in this way to the overall change in public support. Between 1951 and 1953 those believing an MP would pay attention to their problems grew from one-third to about one-half of the population. The size of this group then continued to grow, though more slowly, until it constituted nearly three-fifths of the population in 1959. Since the group which increased in size was the one which was most supportive of the Bundestag and the group which decreased was far less supportive, the net change in the
+
+182 BOYNTON AND LOEWENBERG
+
+High
+
+I
+
+Q. 3 1/3 T3
+
+•2I ID 4-* w
+
+V Low
+
+/ **• Not responsive
+
+...(Missing data for these years
+
+1951 1952 1953 1954 1955 1956 1957 1958 1959 Years
+
+Fig. 3. Support for the German Parliament by belief that MP would be responsive to constituents' problems
+
+size of groups had a substantial impact on the overall change in the level of support for the Bundestag. Over the nine-year period, the change in the size of these groups accounted for 22 per cent of their change in support for Parliament. As we noted earlier, the change in the size of age groups accounted for only one per cent of the aggregate change in support (see Table 3). Research elsewhere reveals that far fewer people write letters to their representatives than think this is a viable and worthy form of political participation. However, the confidence in the representative relationship may be important in itself, as a source of support for the institution. It is plausible that the growth in size of the group having this confidence in Germany during the 1950s was a result of the prodigious efforts at political education which the government undertook. If so, this formal civics training, so widely disparaged, may have had broader consequences by producing a network of attitude changes.
+
+Government and Opposition In 1951 the Federal Republic had only been in existence for two years, a very short time for the development of public support for this new regime. Citizens had had little chance to disentangle their attitude toward the basic institutions
+
+Public Support for Parliament in Germany, 1951-59 183
+
+from their attitude toward the administration in power. We hypothesized that those favoring the administration would initially be more favorable to the institution of parliament than those opposed to the Government of the day, but that over time the difference between the two groups would decrease. Thus, we supposed that support would increasingly become independent of attitudes toward the Government in office. Konrad Adenauer was Chancellor of Germany throughout the 1950s. Each of the surveys we examined contained an identical question asking whether respondents favored Adenauer's policies. Initially support for Parliament among those who agreed with the Chancellor rose far more rapidly than among those who disagreed with him. After 1953 however, the year in which Adenauer won his most startling election victory, the level of support for the institution of Parliament among those agreeing with the Chancellor remained relatively stable. On the other hand, support for Parliament among those opposed to Adenauer's policies continued to rise gradually but steadily until 1958 (see Fig. 4). Altogether 25 per cent of the over-time variance in attitudes toward Parliament in these two groups is due to differential patterns of change between them (see Table 2). In addition, the proportion of the population favoring the Chancellor's policies grew rapidly during the 1950s. In 1951 only three-eighths of the population
+
+High
+
+oo CO
+
+Q. W •o
+
+•a I
+
+Low 1951 1952 1953 1954 1955 1956 1957 1958 1959 Years Fig. 4. Support for the German Parliament by attitude toward the Government in office
+
+I84 BOYNTON AND LOEWENBBRG
+
+agreed with Adenauer; in 1959 five-eighths did so. Since this group was consistently more supportive of Parliament, such a substantial increase in its size contributed significantly to aggregate support for the institution. Over the nineyear period, 24 per cent of the change in attitude toward the Bundestag among these parts of the population is attributable to the change in the size of the groups favoring and opposing the Government in office. Furthermore, this change in group sizes had a particularly strong impact in the first three years, when it accounted for over 40 per cent of the rise in net support; in the years after 1953 only 10 per cent of total change was due to changes in group size (see Table 3). Similarly, we can distinguish between the earlier and the later period with respect to attitudinal changes within the groups favoring and opposing the Government. Between 1951 and 1953, only 13 per cent of the increase in support for Parliament was due to increasing support among those opposing the Government; between 1953 and 1959, however, over one-third of all change regardless of direction and over one-half of all increase in support was due to rising support for Parliament among opponents of Government policy. This confirms our hypothesis that with the passage of time support for Parliament became increasingly independent of the attitude toward the Government in office. The attitude toward the Government of the day therefore had a fascinating dual effect on the development of support for Parliament. Support rose earliest among those favoring the Government in office. As the group of supporters of that Government rapidly expanded, so did support for the institution of Parliament. This was the chief explanation for rising support levels during the first three years. More gradually, support for Parliament also increased among opponents of the Government's policies, and in the second part of the decade, those disagreeing with the Chancellor's policies made the major contribution to the growth in support for the Bundestag.
+
+Prosperity
+
+If attitude toward the Government of the day is one measure of 'output satisfaction', the citizens' sense of economic well-being is an even more direct indicator. In seven of the nine surveys we examined, respondents were asked whether they were better off economically than they had been the previous year. We compared the attitudes toward Parliament among those who felt materially better off, those who saw no difference, and those who felt their economic situation had deteriorated, searching for evidence to substantiate the widely accepted notion that prosperity had produced political stability in postwar Germany. Over the decade, those who felt that their economic situation was improving were somewhat m'ore supportive of Parliament than those who saw no difference, and those who sensed their economic situation was worsening were least supportive of all. Since the economic recovery of the country during the 1950s translated into a sense of economic satisfaction for a rapidly growing section of the population, this association between economic satisfaction and attitudes
+
+Public Support for Parliament in Germany, 1951-59 185
+
+toward Parliament was indeed a source of rising levels of support for the institution. Between 1951 and 1959 respondents perceiving that their economic situation had deteriorated during the previous year fell from over 60 per cent to under 20 per cent of the population, while those who expressed economic satisfaction rose from 10 to nearly 25 per cent of the population in the same period. Just over one-fifth of the total change of attitude to Parliament among these economic groupings is attributable to changes in their size (see Table 3). However, no consistent pattern of attitude change among these subjective economic groupings is apparent in the data (see Fig. 5). Support for Parliament rose in each of the three groups during the initial three or four years; during the remainder of the period there was relatively little change in the group means. Although 18 per cent of the over-time variance in attitude toward Parliament among these groups is due to differential rates of change between them, the pattern of change does not contribute to the secular increase of support in the population as a whole.
+
+High
+
+oaa. 3 CO "8 1
+
+CO
+
+Low
+
+* No difference
+
+..<Missing data for these years
+
+1951 1952 1953 1954 1955 1956 Years 1957 1958 1959
+
+Fig. 5. Support for the German Parliament by sense of economic well-being
+
+The data show that growing prosperity contributed to rising support for the political institutions of postwar Germany. But they also indicate that differences in support levels between the economically satisfied and the dissatisfied did not narrow during the 1950s, suggesting that support for Parliament continued to be
+
+186 BOYNTON AND LOEWENBERG
+
+as dependent on prosperity at the end of the decade as it had been at the beginning.
+
+Parochialism! Cosmopolitanism Although women have had the vote in Germany since 1920, their entry into normal political participation was slower in that country than in the United States. The traditional view that the woman's place was in the home, sustained among Catholics by the authority of the Church and reinforced by that version of male chauvinism which characterized the Nazi regime, left a discernible gap in levels of political information and political concern between men and women in the 1950s. By our measure of support for Parliament, men were more supportive than women throughout the decade. Although we had anticipated that the difference between the sexes would narrow, there is no evidence that it did. The amount of variance due to change over time which can be attributed to difference in the pattern of change between men and women is only 3 per cent (see Table 2). It is even more surprising to find that levels of education had a similarly negligible impact on changing attitudes toward Parliament. While those with more than a grade school education were consistently more supportive of Parliament than those with only elementary schooling, only 9 per cent of the change in attitudes over time can be attributed to different patterns of change among the educational groups. Thus at the end of the decade the support gap between the more and the less educated sections of the population remained substantially the same. Since the educational system was not yet expanding significantly, education contributed little to the aggregate trend of support for Parliament. As a third indicator of political awareness, we used a question asking whether the respondent believed that a Member of Parliament represented his particular constituency. Given the complexity of the mixed system of party list and constituency representation in Germany, this seemed like a valid measure of political knowledge. Those who knew that there was an MP representing their constituency were more supportive over the entire period than those who did not know. The level of support among the less knowledgeable rose at a slightly greater rate than among the more knowledgeable, but only 9 per cent of the variance associated with change was due to this difference in the pattern of change between the two groups. There was also an increase in the percentage of the politically knowledgeable population, from 46 per cent in 1951 to 55 per cent in 1959. Most of this increase came in the second part of the decade, when it constituted 19 per cent of total change (see Table 3). Thus, political knowledge contributed to the increase in overall support both through different patterns of change between those with more and less knowledge, and through an increase in the size of the more supportive group. However, the contribution was weak in both cases. Each of the measures of political concern and political awareness which we used is related to support at individual points in time. However, none contributes substantially to explaining change in the aggregate level of support for Parliament
+
+Public Support for Parliament in Germany, 1951-59 187
+
+over time. The trend for each of these components of the population runs parallel to the trend for the population as a whole. Thus, it becomes clear that an association between two variables at one point in time does not necessarily explain, in the sense of predicting, patterns of change over time. This conclusion illustrates the fallacy of simply inferring longitudinal conclusions from crosssectional observations.
+
+CONCLUSIONS
+
+We have distinguished two aspects of the secular growth of support for Parliament in Germany during the 1950s: different patterns of attitude change in different groups of the population, and differences in the composition of the population over the decade. The pattern of change in attitude toward Parliament differed among proponents and opponents of the Government in power, and among different age groups. The earliest increases in support came disproportionately from those citizens satisfied with the policies of the Adenauer Government. In the second half of the decade, support for Parliament among those dissatisfied with the Government in office began to 'catch up', suggesting that while 'output satisfaction' was an initial source of rising support for the regime, regime support subsequently developed independently of attitudes toward day-to-day policy. Over the entire decade, the youngest age group contributed disproportionately to the rising level of support. While this group was less supportive of Parliament at the beginning of the period, the age gap in support had been closed by the end of the decade. Although these were the only groups which exhibited clearly different patterns of attitude change during the 1950s, consistent differences in attitudes toward Parliament existed among other groups. Those having confidence in the responsiveness of Members of Parliament, those well informed about politics, and those believing that their economic situation was improving were each consistently more supportive of Parliament than their counterparts. Since each of these groups constituted an ever growing proportion of the population during the decade, their positive outlook toward Parliament contributed to the growing level of support in the total population. In that way increased confidence in the representiveness of the political system, increased information about politics, and increases in the sense of economic well-being help to account for a growth in support for Parliament. But at the end of the decade, those doubting the responsiveness of MPs, those uninformed, and those feeling economically deprived were as far below the average support level as they had been in the beginning. In that sense support continued to depend on these variables, while it had become relatively independent of age and satisfaction with the Government of the day. Table 4 summarizes the contribution of each population group to the overall support trend. It indicates that attitudes toward the Government of the day, alone among all the variables we considered, played a dual role in affecting
+
+188 BOYNTON AND LOEWENBERG
+
+TABLE 4 Sources of Change in Aggregate Support for Parliament
+
+Political socialization Representation MP responsiveness to constituents' problems Government and Opposition Prosperity Parochialism/Cosmopolitanism Sex Education Political information
+
++ source of change.
+
+Change due to different patterns ofchange between groups
+
++
+
+0
+
++
+
+0
+
+0 0
+
+0
+
+Change due to changes in size of groups
+
+0
+
++
+
++ +
+
+0 0 +
+
+o not a source of change.
+
+change. First, those favoring and those opposing the government developed support for Parliament in different patterns: those favoring the Government became rapidly more supportive during the early years, those opposing the Government became gradually more supportive throughout the decade. Second, the proportion of the population favoring the Government grew dramatically during the first three years and the supportive attitudes toward Parliament characteristic of this group therefore made the chief contribution to the net growth in support of Parliament during the early years. Adenauer's electoral triumph of 1953 therefore assumes a special importance in the early solidification of the new regime. The increasingly supportive attitude toward Parliament among Adenauer's political opponents later in the decade marks the second, and perhaps more conclusive phase of the establishment of the regime in the public mind. What is the general applicability of this study of changes in support levels in postwar Germany to the study of the establishment of new regimes ? Germany differs from new nations of Asia and Africa since it is an old country with a long, if discontinuous, political history. The rapid rise in support for the new regime in the first few years after its creation may have been the result of its long-established nationhood. The prompt expansion of confidence in the representativeness of the system may have been the consequence of prior acquaintance with representative government. We have shown that the growth in the level of political information was connected to the development of support. This quick expansion of knowledge might have been impossible in a nation having a less developed system of education and communication. Finally, the dramatic recovery of the German economy was clearly important in swelling the size of what we found to be the more supportive groups of the population. We do not know whether these unique aspects of the German situation explain the pattern by which Germans developed
+
+Public Support for Parliament in Germany, 1951-59 189
+
+support for a new regime in the first decade of its existence. However, we have tried to conceptualize attitudinal change in Germany broadly enough to permit comparative analysis by which the relative influence of cross-national and systemspecific factors can be tested. The study of political change confronts political science with unaccustomed and difficult methodological challenges. In this first analysis alone we found ourselves dealing with very large data-base, consisting of nine surveys of 2,000 respondents each, each containing thirty to forty relevant items. We discovered that the conceptualization of change requires new departures in a discipline accustomed to the study of static relationships, and the use of mathematical models and statistical techniques unfamiliar to political scientists. In effect, it requires the capacity to make a double shift in the level of analysis, from the individual level at which observations are made to the aggregate level at which systems must be measured, and from cross-sectional observations to longitudinal conclusions about change over time. This paper represents an initial attempt to deal with some of these methodological problems, as well as a first set of findings about the relationship between regime stability and public support.

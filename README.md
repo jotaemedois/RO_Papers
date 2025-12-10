@@ -21,7 +21,7 @@ Este projeto implementa um pipeline em Python para codificar 199 artigos (PDF) c
 Arquivo `src/config.py` define caminhos e modelo do LLM:
 - `raw_dir`, `interim_dir`, `processed_dir`, `outputs_dir`, `prompts_dir`.
 - `codebook_txt`, `rigor_rules_txt`, `studies_jsonl`, `llm_outputs_jsonl`, `xlxs_output`.
-- `model` (padrão: `llama-3.1-sonar-large-128k-online`).
+- `model` (padrão: `sonar-reasoning-pro`; ajuste conforme modelos permitidos no Perplexity, e.g., `sonar-reasoning`, `sonar-pro`, `sonar`).
 - `perplexity_base_url` (padrão: `https://api.perplexity.ai`).
 
 Ajustes comuns:

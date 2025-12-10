@@ -1,0 +1,449 @@
+European Journal of Political Research 55: 43–60, 2016 43
+
+doi: 10.1111/1475-6765.12123
+
+Coupling citizens and elites in deliberative systems: The role of institutional design
+
+CAROLYN M. HENDRIKS
+
+Crawford School of Public Policy, Australian National University
+
+Abstract. A significant shortcoming in contemporary deliberative systems is that citizens are disconnected from various elite sites of public deliberation. This article explores the concept of ‘coupling’ as a means to better link citizens and elites in deliberative systems. The notion of ‘designed coupling’ is developed to describe institutional mechanisms for linking otherwise disconnected deliberative sites.To consider whether it is possible and indeed desirable to use institutional design to couple different sites in a deliberative system, the article draws on insights from a case study in which a mini-public was formally integrated into a legislative committee. The empirical study finds that it is not only feasible to couple mini-publics to legislative committees, but when combined, the democratic and deliberative capacity of both institutions can be strengthened. To be effective, ‘designed coupling’ requires more than establishing institutional connections; it also requires that actors to step outside their comfort zone to build new relationships and engage in new communicative spaces with different sets of ideas, actors and rules. This can be facilitated by institutional design, but it also requires leaders and champions who are well-placed to encourage actors to think differently.
+
+Keywords: Citizen engagement; deliberative democracy; democratic innovation; legislative committees; mini-public
+
+Introduction
+
+The research focus in deliberative democracy has shifted from small-scale forums to complex ‘deliberative systems’. The ‘system’ concept recognises that contemporary public deliberation takes place in various formal and informal spaces, some empowered to make collective decisions, others provide a loci for public opinion formation and contestation (Mansbridge et al. 2012). So rather than all reason together, the ‘labour’ of public deliberation is divided among different sites and actors (Parkinson 2012).While normatively appealing, the deliberative systems approach remains a work in progress, and the concept is by no means settled (Owen & Smith 2015; Elstub & McLaverty 2014).
+
+One serious critique of the systemic turn in deliberative democracy is that deliberative systems are elitist in how they are conceptualised, and in how they are likely to operate in practice. In a recent review, Owen and Smith (2015) argue that dominant accounts of the deliberative systems conceptualise little in the way of actual deliberation taking place between citizens. The most extreme example of this is Goodin’s (2005) sequenced model in which deliberative virtues are distributed and staged across various elite institutions, such as the caucus room, parliamentary debate, election campaigns, and post-election arguing and bargaining. In his account, citizens do little more than vote. Even in more publicly centred accounts of the deliberative system (e.g., Habermas 1996; Dryzek 2009), there is
+
+C⃝2015 European Consortium for Political Research
+
+44 CAROLYN M. HENDRIKS
+
+little detail on how the perspectives of citizens reach distant empowered (decision-making) sites (Owen & Smith 2015).A related,but slightly different elitist charge of the systemic turn is the observation that considerable deliberation in contemporary politics occurs in elite and weakly representative spaces that are remote from citizen input and public accountability (Papadopoulos 2012).
+
+The elitist critique of deliberative systems is a rich irony for a theory of democracy that places public reasoning at its core (Owen & Smith 2015: 6; Parkinson 2012: 150–151). It signals the need to think more seriously about how citizens might actively participate in a deliberative system, and how their deliberative efforts might be better connected to various elite sites, such as parliaments, regulatory bodies, committees and political parties. In this article, I take a step in this direction by examining the concept and practice of ‘coupling’ in deliberative systems. More specifically, I consider the possibilities and risks of ‘designed coupling’ where different deliberative sites are connected through institutional mechanisms.
+
+Coupling has emerged as an important idea in recent debates on deliberative systems to describe connections between different institutions and practices (Mansbridge et al. 2012). In the ideal, coupling involves ‘processes of convergence, mutual influence and mutual adjustment’ such that ‘each part would consider reasons and proposals generated in other parts’ (Mansbridge et al. 2012: 23). As a metaphor, coupling draws our attention to the nature and strength of relationships between different parts in a deliberative system, and to the spaces that might develop in-between. Theorists suggest that a healthy deliberative system requires loose coupling; when linkages are too tight individual sites risk co-option, and conversely when sites are decoupled they can too easily ignore each other (Mansbridge et al. 2012).
+
+Exactly how coupling ought to work in practice is unclear. Should it develop organically from within the deliberative system, or is there are a role for external intervention using institutional designs to link otherwise disconnected sites? There are some good reasons why ‘designed coupling’ might benefit deliberative systems. At minimum it would provide procedural guarantees to link the more informal (public) parts of the system with the more formal empowered sites. Institutional interventions may be important when interdependencies between sites do not exist, as is often the case between citizens’ deliberations and more elite-based sites (Papadopoulos 2012). More pragmatically, ‘designed coupling’ makes uses of one of the few levers available to improve the quality and inclusivity of deliberative systems: innovative forms of institutional design (Smith 2009).
+
+However, design invariably means some level of planning and control. Who ultimately steers and implements the institutional designs linking different deliberative sites holds power. From this perspective is conceivable that ‘designed coupling’ becomes another avenue for social and political control, where public discourse is vulnerable to capture by elites, administrators or even the market (Dryzek 1990). Coupling may also be too effective and produce unintended consequences that constrain public deliberation. Along with other attempts to ‘engineer democracy’, coupling could potentially undermine the emancipatory capacity of the public sphere by affecting its capacity to self-correct and counter dominant discourses (Blaug 2002).
+
+What then are the possibilities and risks of using ‘designed coupling’ to foster linkages between sites within a deliberative system? To explore this question, I turn to practice and qualitatively study a case in which a mini-public was formally integrated into a legislative
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 45
+
+committee of the New South Wales (NSW) Parliament in Australia.1 In terms of deliberative innovation, this represents a ‘revelatory case study’ (Yin 1984: 43–44); it presents a rare opportunity (possibly a world first) where a group of everyday citizens were empowered to provide deliberative input into a legislative committee. The author was also given unusual access to the elected representatives on the committee to investigate their views, behaviour and policy responses. The analysis is interpretive. The single case study is not intended to produce grand generalisations (Stake 1994); instead it offers contextual knowledge on the complexities of ‘designed coupling’ in practice. The ‘contextual learnings’ (see Flyvbjerg 2006) from such interpretive studies can enrich debates in deliberative democracy, particularly emerging ideas on deliberative systems (Ercan et al. 2015).
+
+Deliberative systems and coupling
+
+In a deliberative system, public deliberation is conceptualised as a communicative activity that takes place (with varying degrees of quality) in multiple sites, such as parliaments, committees, board meetings, public gatherings, on the Internet and in the media. A core challenge for the systems approach is to better understand the relationship between these different sites and practices, and how they are linked and to what effect (Boswell et al. forthcoming). On one level, a focus on how specific parts of a deliberative system are linked together would seem at odds with the systems approach which encourages us to look at the system in its entirety, rather than the sum of its parts (Parkinson 2012). Yet on another level there is some expectation in normative accounts of the deliberative system that different sites are in part interdependent, interrelated and connected (Mansbridge et al. 2012: 2). Moreover, the hope is that the system encourages a cross-fertilisation of ideas between different venues with multiple actors, rather than enclaves of the like-minded (Hendriks 2006).
+
+In early accounts of deliberative systems, interconnections between different sites is conceptualised in terms of the transmission of opinions and discourses from informal (public) spaces to decision-making institutions. So, for example, in Habermas’ (1996) twotrack model (which predates but certainly influenced the systemic turn) public opinion is formed in the public sphere (first track) which is then transmitted through the media, elections and social movements to empowered sites, such as parliament (second track). While interconnectivity is not a central feature of Mansbridge’s (1999: 220) deliberative system (as I have argued elsewhere; see Hendriks (2006)), she calls on activists to step outside their enclaves and transmit their ideas out into the wider society.Transmission is also a significant feature in Dryzek’s (2009) more sophisticated account of a deliberative system; he identifies a number of ‘means by which public space can influence empowered space’, including political campaigns, arguments, social movements and even personal linkages.
+
+Coupling, rather than transmission, appears to be the preferred metaphor to describe linkages in more recent accounts of deliberative systems. For example, Mansbridge et al. (2012: 22) define a deliberative system as ‘a loosely coupled group of institutions and practices that together perform three functions … seeking truth,establishing mutual respect and generating inclusive, egalitarian decision making’. To a certain extent, the idea of coupling overlaps with early ideas on transmissions: both metaphors describe connections
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+46 CAROLYN M. HENDRIKS
+
+between different parts of a deliberative system. However, there are some important differences worth highlighting.First,coupling focuses our analytic attention on the relational patterns between different components of a deliberative system, particularly where there may be both interdependence, as well as independence. Whereas transmission focuses on the flows and blockages in communication, the coupling metaphor evokes images about relationships – for example, linkage, interaction, interdependence and networking. This is consistent with how the ‘coupling’ is used in organisational theory where it describes the relationship between elements or variables, which can vary in strength from loose to tight (Weick 1982). Second, coupling brings into focus the deliberations, institutions and spaces that develop between parts of the system. Third, coupling encourages us to look at multidirectional linkages between sites, rather than focusing on flows predominately from public to empowered sites. Finally, and of particular relevance to this article, the coupling metaphor opens up opportunities to consider the role of institutional design in linking sites.
+
+Normative discussions on ‘coupling’ in deliberative systems have focused largely on the strength of connections. In particular, scholars warn against the dangers of two problematic types of deliberative coupling. On the one hand, ‘tight coupling’ should be avoided where individual communicative sites in the system lose their self-corrective capacity and risk co-option (Mansbridge et al. 2012: 23). On the other hand, ‘decoupling’ represents a defect in the deliberative systems because it means that ‘good reasons arising from one part fails to penetrate into others’ (Mansbridge et al. 2012: 23). Between these extremes, lies the normative ideal where different parts of the system are loosely coupled such that they can accept ideas and reasons emanating from other parts in deliberative system through ‘processes of convergence, mutual influence and mutual adjustment’ (Mansbridge et al. 2012: 23).
+
+From the perspective of deliberative practice, the concept of ‘coupling’ raises many questions. Is coupling an inherent characteristic of a given deliberative system, or is it something that might be activated and steered? To date, coupling in deliberative systems is largely conceptualised as a given feature of parts or actors within a deliberative system.2
+
+This passive understanding of coupling seems to suggest that connections between parts of a system emerge organically from within the system. This kind of self-generated coupling has some democratic merit in that it potentially enables different parts and actors within the system to form connections and find synergistic links that work for them on their own terms. Yet there are some good deliberative reasons why we might not want to place too much hope in a self-generated approach to coupling. Most notable is that it could reinforce various pathologies inherent in contemporary deliberative systems, such as the dominance of elites (Papadopoulos 2012), inequalities in deliberative capacities (Christiano 1996) and the dangers of enclave deliberation (Sunstein 2009).
+
+A more active interpretation of coupling would involve thinking about ways to encourage the movement and uptake of reasons and ideas between different parts of a system. Is it possible (and indeed desirable) to steer deliberative systems so that they avoid the dangers of tight coupling and decoupling, for example, such that the arguments and perspectives of citizens are not resisted by elites, and their broader communicative activities are not vulnerable to co-option? A more active approach to coupling involves finding ways to link different parts of the deliberative system so that ‘persuasion that raises relevant
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 47
+
+considerations replaces suppression, oppression and thoughtless neglect’ (Mansbridge et al. 2012: 5).
+
+In this article I contend that from time to time deliberative systems will need some aid to link different sites. In organisational theories, these are referred to as ‘coupling mechanisms’ and they are identified as important processes for enabling different elements of a system to function together (Beekun & Glick 2001: 232). There are many possible mechanisms for forging relationships between different parts of a deliberative system, such as using social media to connect the broader public with face-to-face deliberative sites, bringing protest movements to board rooms and parliaments using petitions and sit-ins, or establishing networks involving diverse actors to encourage their participation in different communicative spaces. Coupling mechanisms can also come in more institutional varieties where disconnected sites are formally linked. This kind of ‘designed coupling’ has been identified as especially important for fostering connections between citizens in participatory forums and elites in formal decision-making sites (Papadopoulos 2012: 147; Bächtiger et al. 2014; Setälä 2011).
+
+I turn now to consider how ‘designed coupling’ might work in practice by examining a case study in which a mini-public was integrated into a legislative committee. Before detailing the case, it is useful to reflect briefly on the nature of the two sites involved, and the possible effects of their ‘coupling’.
+
+Coupling mini-publics and legislative committees
+
+Mini-publics, such as citizens’ juries and deliberative polls, are participatory processes designed to elicit informed and considered public input from people who would not normally engage in conventional consultation or advocacy. Mini-publics have fascinated deliberative democrats; they represent a practical example of how to operationalise deliberative norms (Smith 2009), particularly their capacity to generate considered public opinion (Fishkin 2009), represent ‘social perspectives’ (Brown 2006), and improve the inclusivity and representativeness of democratic institutions (Urbinati & Warren 2008). Since the systemic turn, scholars have identified other roles that mini-publics could play, such as building trust and improving official accountability and transparency (Mackenzie & Warren 2012) or regulating and scrutinising arguments in the public sphere (Niemeyer 2014).
+
+One under-examined role for mini-publics in the deliberative system is their capacity to serve as a ‘mediating institution’ linking public and empowered sites (Parkinson 2012: 162). Theoretically,mini-publics are well-placed to play this role (Boswell et al.forthcoming);they represent ‘mixed discursive spheres’that connect everyday citizens with the ideas of relevant experts, advocacy groups and decision makers (Hendriks 2006). However, in practice, most mini-publics struggle to be noticed and taken seriously by relevant decision makers and institutions (e.g., Goodin & Dryzek 2006; McLaverty 2009; Davidson & Stark 2011; Michels 2011; Parkinson 2006). This has led to calls to find ways to couple mini-publics to the elite and empowered sites in our political systems (Setälä 2011; Goodin 2012; Papadopoulos 2012).
+
+Legislative committees offer an obvious, yet surprisingly neglected, venue where minipublics could connect with empowered elites.3 As an institution of public deliberation,
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+48 CAROLYN M. HENDRIKS
+
+legislative committees represent an important site of policy work (Bessette 1994; Steiner et al. 2004). As smaller groups than the parent assembly legislative committees get to undertake much of the ‘creative, cooperative work’ of legislatures (Goodin 2005: 188): they draft and redraft proposals; undertake inquires; debate emerging issues; review legislation; and scrutinise the executive.
+
+In practice, not all committees live up to their democratic expectations. Emerging empirical research suggests that high quality deliberation is ‘fairly limited’ in legislative settings, and that deliberative quality varies not only with publicity of the deliberations, but also the issue under discussion as well as the broader institutional and partisan characteristics of the legislature (Bächtiger 2014). In relation to committees, deliberative qualities are likely to be higher in those instances where the party discipline is lifted, where the issue under consideration is less polarised and salient, and when the deliberations are non-public (Bächtiger 2014). It appears that in jurisdictions with strong party discipline (e.g., in Germany), the deliberative quality of debates is limited because members have less capacity to step aside from, or even reconsider party positions (Bächtiger 2014). In such circumstances, committees become just another arena of partisan competition, where the opposition questions government representatives in order to collect information on potential flaws of governmental policies.
+
+Legislative committees also face challenges when it comes to representing affected publics. Committees, like their larger assemblies, operate on an electoral model of democratic representation where elected representatives (agents) act on behalf of the interests and opinions of their constituents (principals) in their geographically defined electorates (Urbinati & Warren 2008). In practice, enacting effective principal-agent relationships is difficult due to numerous complexities, such as the nature of the electoral systems, information deficits, as well as the fact that the preferences of elected representatives are also shaped by political parties, interest groups, the media, capital and legislative debate (Urbinati & Warren 2008). But legislative committees complicate this model even further because it is not clear what constituents elected officials represent when they are in committees. Do they deliberate on behalf of their own electoral constituents (territorially defined), or do they seek to deliberate on behalf of the interests of nonelectoral constituencies (e.g., party affiliates, rural or urban populations, the aged, women or a minority group)? Empirical research in the United States suggests that many elected representatives in legislative committees privilege their own specific interests (e.g., career advancement) or the specific interests of their electorate (territorial constituencies) over concerns for the broader polity (Davidson 1974; Hall 1996).
+
+One way legislative committees can inject broader public perspectives into their deliberations is to consult with relevant experts and affected groups. For example, they might invite written and oral evidence from particular groups or experts to give testimonies. In practice, these formal opportunities for public engagement tend to be dominated or overshadowed by the activities of well-resourced interest groups (e.g.,Hall & Wayman 1990; Heitshusen 2000). This is often at the expense of other more dispersed publics who have yet to form, crystallise or articulate their interests. Even in the most participatory committee systems, such as in the Scottish Parliament where there has been an explicit attempt to directly engage the public in its committees, consultation tends to be dominated by special interest groups (Bonney 2003; Davidson & Stark 2011; Halpin et al. 2012).
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 49
+
+Table 1. Key characteristics and challenges of mini-publics and legislative committees
+
+Characteristic Mini-public Legislative committee
+
+Participants Randomly selected
+
+citizens
+
+Elected
+
+representatives Type of representation Descriptive
+
+representation (making representations of social perspectives) (see Brown 2006)
+
+Principal-agent
+
+representation (geographical constituency)
+
+Type of deliberative
+
+site
+
+Mix of public and
+
+non-public deliberations
+
+Non-public
+
+deliberations in many legislatures Role in the
+
+deliberative system
+
+Structured space for
+
+everyday citizens to develop considered views on complex issue
+
+Structured space for
+
+elected officials to develop considered views on complex issues Mediating institution
+
+(Parkinson 2012) Democratic challenges Limited connection to,
+
+and impact on, empowered sites
+
+Vulnerable to party
+
+pressures and interest lobbying Limited connectivity
+
+to elites and mass media
+
+Difficulties accessing
+
+and representing relevant publics
+
+As outlined in Table 1, both mini-publics and legislative committees bring particular strengths and weaknesses to a deliberative system.From a design perspective there are some good reasons why ‘coupling’ both institutions could produce a complementary relationship. A mini-public could enrich a committee’s deliberation by broadening the diversity and quality of public perspectives on a given issue.At the same time,legislative committees have the potential to enhance the political awareness and authority of mini-publics by injecting citizens’ perspectives into elite deliberations. I turn now to consider how well this kind of ‘designed coupling’ works in political practice.
+
+Designed coupling in practice: A case study
+
+The case study centres on an energy inquiry conducted by the Public Accounts Committee (PAC) of the NSW Parliament.4 The PAC is a permanent statutory committee of the lower house and it is primarily concerned with issues of public accountability. From time to time, the PAC is also asked by the parliament or by a minister to examine a particular policy issue, which is what occurred in this case study. In late 2011, the NSW Minister for Resources and Energy requested an inquiry into the comparable economics of energy generation in the state (hereafter ‘the Inquiry’).As part of the Inquiry the PAC commissioned an independent
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+50 CAROLYN M. HENDRIKS
+
+research foundation – newDemocracy – to design and convene a mini-public process. The mini-public was designed to supplement the standard inquiry procedure in which the PAC: (1) calls for public input and invites submissions from individuals and organisations; (2) reviews this ‘evidence’; and (3) prepares a report that is tabled in parliament. The government then considers the report, and is required to formally respond (typically within three months).
+
+The mini-public comprised two concurrent citizens’ juries: one run in a metropolitan area (Sydney); and the other in a regional centre (Tamworth). The citizens’ remit, which was determined by the PAC in consultation with newDemocracy, was to consider the financial and public perception aspects of alternative forms of electricity generation – one of several themes under consideration in the broader Inquiry. In return, the PAC formally stated ‘that the Jury’s recommendations will be provided to the NSW government as part of the Committee’s final report’ (PAC 2012: 193).
+
+The juries met four–five times over a ten-week period between June and August 2012. In total, 54 citizens participated across both juries. The citizens were drawn from responses to invitations sent to 8,000 randomly selected citizens in the Sydney and Tamworth regions. To assist their deliberations, the citizens received a background document summarising the submissions received by the Inquiry (39 in total). The citizens also heard from experts and stakeholders of their own choosing.5 The agenda of the deliberations was largely set by the facilitating organisation, newDemocracy. The juries also had their own secure online forum where they engaged in discussions and could download relevant information, such as submissions and hearings. After several months of deliberation, the juries each produced a report,both of which were considered by the PAC in the preparation of its own report which was tabled in parliament in late 2012 (for details, see PAC 2012).
+
+There are two noteworthy aspects of this designed coupling. First, it was unidirectional: the citizens were brought into the PAC’s inquiry process, rather than the PAC responding to a citizen-driven agenda. In other words, the elites were able to mutually adjust their preferences in light of the citizens’ recommendations, but the reverse was not possible since the citizens’ deliberated in isolation from, and prior to, the PAC’s deliberations. In this sense, the opportunities for mutual adjustment were limited from the beginning. Second, the coupling in this case was intentionally loose: the PAC was keen to keep the Inquiry at arm’s length from the mini-public in order to protect the independence and integrity of the citizens’ deliberations. At the same time, they did not want to give the impression of decoupling; the citizens needed reassurance that the PAC would take their recommendations seriously. Here newDemocracy served as a useful mediating institution that was able to create some distance between the PAC elites and the citizens in the minipublic.
+
+What effect did this ‘designed coupling’ have on the relationship between the minipublic and the PAC? Given the unidirectional nature of the coupling, I explore this question by focusing predominantly on the way the mini-public linked to, and influenced the PAC. To be clear, the analysis is not assessing the impact of coupling on the broader deliberative system.My analysis is informed by semi-structured interviews conducted before and after the mini-public with all six PAC members and the organisers of the mini-public (14 interviews in total). Data is also drawn from observations made of PAC members during
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 51
+
+their visits to the regional mini-public as well as relevant documents, including the citizens’ reports to parliament, the PAC’s reports, relevant policy documents, media articles and the parliamentary Hansard.
+
+The impact of coupling on inclusion and representation
+
+The mini-public provided the PAC with an opportunity to hear from a sector of the community that it struggles to reach, and thus represent. More specifically, it heard the considered views of a cross-section of citizens from metropolitan and regional NSW on energy issues. This input enhanced the PAC’s electoral and descriptive representation.
+
+In terms of representation, the PAC displays relatively weak principal-agent bonds. At the time of the Inquiry (sitting year 2012), the PAC was composed of three Liberal Party members (in government), one National Party member, one member of the Australian Labor Party (‘the opposition’) and one independent member. Interviews revealed that the elected representatives in the PAC have limited or sporadic links to their own constituents. While members described connecting to their electorate as ‘core business’, all commented (without prompting) on the challenge of trying to hear from, and connect with, the ‘silent majority’.
+
+In relation to descriptive representation, the PAC’s membership at the time of the Inquiry poorly reflected the demographic diversity of the NSW population,particularly with respect to gender, age and geography. All six members were male, older than 45 years and from predominantly metropolitan electorates. In this sense, the mini-public exposed the legislative committee to a broader cross-section of the community. Of the 54 participants in the mini-public, almost half were women, half were from a regional area and at least 15 were under the age of 45.PAC members found the input from such a diverse group of citizens refreshing. As one MP summarised (MP4, interviewed 15 November 2012):
+
+The general feeling from the Committee was that it was a very useful process and that it was one which opens up the Committee’s deliberations to considering a perspective, that is, a sort of random public perspective, which would otherwise not be expressed for consideration as part of the Committee’s deliberations.
+
+This affirming view of the mini-public was shared by all but one PAC member (who was not distinctive in terms of party affiliation). That said, the members largely viewed the minipublic as a means to gather information or conduct research on community views rather than to engage citizens in democratic decision making. This is consistent with the kind of ‘evidence-taking’view of public engagement common in Westminster legislative committees (Davidson & Stark 2011).
+
+Like all descriptive representatives, the citizens in the mini-public did not have any formal ties to those whose demographic characteristics they mirror. Indeed, the fact that the citizens held no formal representative bonds with a particular constituency or interest group was especially valued by the PAC. As one elected representative explained (MP2, interviewed 15 November 2012):
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+52 CAROLYN M. HENDRIKS
+
+Why the citizens’ feedback received such a weighting is because they’re not the usual suspects. They’re delivering, without any vested interest, their circumstances, their opinions, their impacts, based on the way they see it.
+
+The designed coupling appears to have encouraged the elites to deliberate with a broader public constituency in mind, and engage in arguments beyond the concerns of their colleagues and electorate.
+
+The impact of coupling on the flow of reasons
+
+A central empirical question for ‘designed coupling’ is whether it encourages reasons emerging in one site to be taken up in another. Since the PAC’s deliberations were nonpublic, my assessment of this aspect of the case draws on interview data (self-reports) and a content analysis comparing the citizens’ recommendations with the PAC’s report to parliament.
+
+According to PAC members, all of the citizens’ recommendations were fully considered and discussed at length.A number of members commented that they particularly valued the quality of the citizens’ inputs. As one MP explained (MP2, interviewed 15 November 2012):
+
+What community members tend to write to you about is price impacts or the immediate concern they have of affordability or capacity to pay. But when you deal with these forums [juries], they’re actually considering the whole issue and the broader context. … So there’s a much more considered position and they have the time and they’re bouncing off others and listening to experts.
+
+Most of the members stated that the citizens’ juries added specific value to their final report – one that could not be captured in existing submissions. According to one member, the citizens’ recommendations had received more attention than any other individual submissions (MP4, interviewed 15 November 2012). A number of members remarked how the content of the final report would have been different without the input from the minipublic.
+
+These positive self-reports hold some truth when one compares the citizens’ recommendations with the PAC’s final report.For example,the report includes a description of the mini-public process as well as a summary of the citizens’ recommendations (their entire reports were also included as appendices). Some of the recommendations explicitly express a desire from the citizens for deeper forms of public engagement. Consider, for example, Recommendation 8 (of 24), which calls on the NSW government to convene more deliberative democracy processes.There was also some uptake of some of the citizens’policy suggestions. The most significant substantive contribution of the mini-public was described by the PAC chair as follows (PAC 2012: vii.):
+
+Demand Management was a major theme of feedback received from the innovative Citizens’ Policy Jury, which informed the Committee’s deliberations. Demand Management became a key focus of this Inquiry, with ten of the reports 24 recommendations addressing this issue.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 53
+
+The PAC also took on board a number of non-controversial recommendations from the citizen.For example,Recommendation 12 (of 24) refers to a specific suggestion of the Sydney citizens’ jury for more funding from the Commonwealth government for clean energy (PAC 2012). The PAC also supported other ideas such as giving environmental considerations a higher priority and boosting consumer education and protection for disadvantaged consumers.
+
+However, the content analysis reveals that the PAC misinterpreted or watered down some of the more controversial suggestions or issues of concern to the citizens. For example, the citizens’ concerns about coal seam gas production (due to their lack of confidence in the technology) were addressed in the report in terms of providing the public with more accurate information. In other words, ‘public concern’ was interpreted as ‘public ignorance’. Some of politically sensitive proposals were noted, but not endorsed – for example, the citizens’ in the regional jury recommended that the state government retain ownership of electricity networks (poles and wires). The PAC responded by deflecting the topic, stating ‘selling NSW transmission and distribution businesses has been canvassed extensively in other forums, and [the PAC] makes no recommendation in relation to this issue’ (PAC 2012: 67). Privatisation is a difficult issue for a bipartisan committee to reach agreement on in the state of NSW due to significant party differences.Not surprisingly,given the composition of the PAC, most of its recommendations were consistent with government policies, with dissenting opinions from the Labor opposition being noted (PAC 2012: 260–261).
+
+Clearly the mini-public did not serve to overcome the influence of party discipline that arises in some legislative committees. In this respect, the coupling process between the two institutions could have been much tighter such that the citizens could have directly questioned PAC members about party positions, and explore why some of the mini-public’s recommendations were not taken up.
+
+The impact of coupling on networks, relationships and publicity
+
+The coupling in this case was relatively loose by design. There were no formal interactions between the citizens and the elites in their respective deliberative spaces. Instead, the outputs from one site – the mini-public – were fed into the deliberations of the legislative committee. The coupling process did, however, facilitate some mixing between different kinds of actors and the creation of new spaces for interaction. Much of this relationshipbuilding was due to the strong commitment of the PAC’s chair to the mini-pubic and his capacity to champion the process through the PAC and parliament. For example, he encouraged PAC members to attend the mini-public and observe the citizens’ deliberations. In the end, most of the PAC members directly observed a mini-public in action, and had the opportunity to talk face-to-face with the citizens.On one level,their presence at the citizens’ juries was good publicity for those members who attended (a theme I return to below), but observations by the author at one these visits revealed how impressed the members were by the dedication and technical competency of the citizens. A number of members commented on how the citizens appeared to know much more about electricity reform then they did.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+54 CAROLYN M. HENDRIKS
+
+The chair also created informal opportunities for PAC members to connect with the citizens – for example, he arranged a luncheon in the parliament building after the citizens had delivered their recommendations (but before the PAC released their report). All but one member attended the luncheon, together with approximately 15 of the citizens who had participated in the juries, as well as secretariat staff and representatives from newDemocracy. The chair thanked the citizens for their reports, and stressed the value of their recommendations to the PAC deliberations. In response, the citizens stated that they would participate again and expressed a strong desire for more opportunities to engage in political debate.
+
+An alternative interpretation of these activities is that the coupling enabled the elites to use the mini-public to ‘grandstand’ and perform public relations within parliament and in the public realm. Certainly for the PAC chair the mini-public provided an opportunity to promote his capacity to be an innovative leader. For example, he took many opportunities to publicise the process both within parliament and in the media. When visiting the citizens at their regional deliberations, most of the chair’s time was consumed with public relations activities (including several pre-recorded radio interviews and several press meetings with print and television teams) rather than interacting with the citizens. This public relations effort could be viewed as a distraction from the democratic intention of the mini-public. Indeed this kind of instrumental use of deliberative innovations by elected officials is not uncommon (Faggoto & Fung 2009). Yet the chair’s efforts to widely publicise the mini-public and its findings can also be viewed as effective deliberative leadership and entrepreneurship (Kuyper 2012). Legislative committees are well known as places where potential leaders demonstrate their capacities, and in doing so, seek career advancement (Fenno 1970; Davidson 1974). In this case, the chair made the coupling work; without his persistent championing of the process, the mini-public would not have been taken seriously by the other PAC members or the parliament.
+
+The ‘designed coupling’ described here not only brought the elites closer to the minipublic, but in doing so the PAC members felt a sense of ‘informal’ accountability towards the citizens.As one member explained,he was keen for the PAC’s report to reflect a message of gratitude to the citizens (MP3, interviewed 15 November 2015):
+
+I wanted to basically say to these people, yeah, we heard what you said and we thank you for the time you gave, you didn’t have to do it, you didn’t have to give up your weekends but you were part of this process and we acknowledge it by making sure you know we heard you. … I wouldn’t normally have that attitude to public submissions.
+
+The public elements of the committee process also facilitated some of the moralising effects that publicity can create for deliberation, such as encouraging public rather than private reasons (Chambers 2004). For example, when the PAC tabled their final report, five of the six members (including those most sceptical of the juries) stood up in parliament and congratulated the citizens for their contributions to the report. In other words, in the public arena, all of the PAC members were keen to be seen to be supporting the use of the minipublic in this instance.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 55
+
+Designed coupling in deliberative systems
+
+The systemic turn in deliberative democracy challenges us to think about how different sites in a broader system of public deliberation might be connected. This is particularly so in relation to those sites and activities engaging citizens because they are at risk of being overshadowed by more numerous and powerful elite sites. The elitist critique of deliberative systems is not just a theoretical conundrum; it is a sober reminder of the practical challenges involved in connecting citizens to the various elite sites that dominate contemporary deliberative systems (Papadopoulos 2012).
+
+In this article I have further developed the idea of ‘coupling’ in deliberative systems. Coupling stretches us to think more seriously about relationships between different parts and actors within a deliberative system, as well as the spaces of interaction in-between. To date, normative discussions on coupling have focused on finding the optimal strength of linkages between different parts of a deliberative system,with the ideal being a form of loose connectivity where institutions and actors mutually influence and adjust. In deliberative practice,coupling can take many forms,ranging from self-generated linkages between actors or institutions through to more institutional or ‘designed’ approaches where different parts of the system are formally linked.
+
+‘Designed coupling’ has been my primary interest in this article because it takes seriously the many inequalities that exist in contemporary deliberative systems, particularly the dominance of elites (Papadopoulos 2012). To understand the possibilities and risks of ‘designed coupling’, I turned to deliberative practice to study an institutional experiment in which a mini-public was linked to a legislative committee. Overall, the case study finds that ‘designed coupling’ is not only feasible, but it can generate a number of complementary effects for the sites involved. In this instance, the mini-public expanded the legislative committee’s understanding of the public, and the public consequences of policy decisions. At the same time, the case demonstrates when a mini-public is coupled to a legislative committee it can attract the attention relevant elites and decision makers. The case study shows that when elites are actively engaged in the mini-public process, they begin to appreciate the value of the citizens’ input for their own deliberations. Some even champion the process. The PAC chair played this role in the case study; he encouraged his fellow PAC members to learn about mini-public, to observe them, and he created new informal spaces where citizens and elites could meet and mix. In the end, the citizens’ deliberations were amplified rather than coopted; a number of their concerns and recommendations were taken up in the final report.
+
+The PAC’s uptake of the citizens’ reasons was, however, partial. In this respect, the coupling did not produce the kind of mutual influence and adjustment envisaged by deliberative theorists (Mansbridge et al. 2012). On one level, this was the product of the coupling design itself: it was intentionally unidirectional in that the mini-public was brought into an inquiry process undertaken by the legislative committee. As a result, the minipublic had to adapt to the realpolitik of committees where the pressures of party politics, internal party dynamics, media scrutiny and electoral backlash all abound. A number of these dynamics played out in the case study, where some of the more controversial citizens’ recommendations were misinterpreted, watered down or rejected. We also saw
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+56 CAROLYN M. HENDRIKS
+
+in the case study how some of the elected officials used the mini-publics for instrumental ends – for example, for public relations or career advancement. While the PAC formally responded to the citizens’ recommendations in their report to parliament (PAC 2012), a stronger two-directional coupling design would have required it to interact with the citizens’ juries both during and after the Inquiry; citizens would then be given the opportunity to question members and hold them to account. An even more ambitious design would foster multidirectional coupling, where different parts of the deliberative system might be linked in multiple ways to a diversity of relevant actors and institutions. For example, in the Inquiry this could have involved connecting both the mini-public and the PAC deliberations to relevant public forums, government initiatives and media, as well as to more contentious activities in the community.
+
+Of course the capacity of a given legislative committee to connect and ultimately empower a mini-public depends on multiple factors. Any mini-public has to compete with other political inputs to committees – for example, pressure and advice from parties, other elected members, experts, interest groups and their electorates. The amount of political attention a given mini-public can receive from a committee also depends on the issue under deliberation and its perceived public relevance. In the case study, PAC members had a strong interest in hearing the considered preferences of everyday citizens because their views are rarely heard in the technical and complex business of energy reform (Hendriks 2009).
+
+The success of coupling mini-publics with legislative committees also depends on the nature and type of committee. Some committees can be very weak institutions and advisory at best, and the fate of their advice can be in the hands of the legislature, and in some cases executive agencies. Non-standing (or issue-based) committees are likely to be the most receptive to mini-publics because they typically deliberate on highly salient issues where there is strong public demand for input. More specifically, committees undertaking special investigations or inquiries, or those examining or evaluating policy options are also likely to be more receptive to mini-publics. It is also conceivable that mini-publics could play an important role in legislative committees that provide executive oversight – for example, as a means to demonstrate public accountability.
+
+Sceptics might wonder about the viability of this coupling proposal in other political contexts with different legislative committees and opportunities for democratic input. Insights from legislative studies suggest that to successfully connect mini-publics to legislative committees different approaches to coupling may be required in different representative systems. For example, in those legislatures where committees are weak and parties strong, such as in Westminster systems, coupling between legislative committees and mini-publics may need to be loose enough to ensure that the mini-public is not co-opted by the party machinery. In political systems where committees wield considerable power, such as in the United States (Shaw 1998),‘designed coupling’between mini-publics and legislative committees may need to be tight enough to ensure that citizens’ input is taken into account by elected officials as they negotiate competing interests.Future comparative research could usefully examine what kinds of legislative committees are most (and least) receptive to mini-publics, and what types of coupling mechanisms work best in particular democratic systems.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 57
+
+Concluding remarks
+
+The empirical findings presented in this article speak to broader debates on coupling in deliberative systems. First, this research encourages theoretical discussions on deliberative systems to conceptualise coupling in more active terms. More specifically, the empirical case demonstrates that steps can be taken to foster linkages between different parts of a deliberative system. I have shown that ‘designed coupling’ can offer some minimum procedural guarantees to formally link relevant parts and actors in a deliberative system. Like organised dating, ‘designed coupling’ acknowledges that intervention is sometimes required to instigate relationships that may not otherwise form. This seems particularly crucial for forging links between the public spaces in deliberative system and the more empowered (decision-making) spaces. The empirical research demonstrates that there is much more to successful coupling in practice than simply linking one deliberative site to another. To be effective, ‘designed coupling’ requires actors to step outside their comfort zone to build new relationships and engage in new spaces with different sets of ideas, actors and rules. This can be facilitated by institutional design, but it also requires leaders and champions who are well-placed to encourage actors to think differently.
+
+Second, this research calls for a reconsideration of the optimal strength of coupling in a deliberative system. Theorists have suggested that loose coupling ought to be the goal because it avoids co-option and enables the system to self-correct (Mansbridge et al. 2012: 23). However, in practice, the desirable strength of coupling between sites and activities depends on what is being connected, and where. For example, decoupling may be desirable for emergent social movements or marginalised groups that need to discover their own voice before they feel ready to influence other parts of the deliberative system (Setälä 2014). Alternatively, if the context is one of distrust and domination, then looser coupling would be desirable to ensure that the self-corrective capacity of the system is preserved. And there might be times when tighter coupling may be desirable in some parts of the deliberative system to ensure that there are procedural mechanisms in place to hold decision makers to account. As seen in the case study, when coupling is not tight enough it is too easy for elites to evade public scrutiny.
+
+Third, this research demonstrates how design mechanisms can affect the direction of linkages in a deliberative system, and how and when they occur. The empirical case reveals the limitations of unidirectional coupling, and it suggests that mutual influence and adjustment between different parts of a deliberative system is more likely when institutional design facilitates two-directional or even multidirectional coupling.
+
+Finally, coupling within a deliberative system does not appear to be an easy norm to realise in practice. While convergence and mutual adjustment might be unreachable in most circumstances, small steps can be taken to connect citizens and elites in deliberative systems. The case study presented in this article is one such step. It shows, albeit imperfectly, that coupling can encourage elites to listen to citizens and explore new ways to understand the needs and concerns of affected publics. Only through experiences such as these can we learn about the possibilities and limits of institutional design in deliberative democracy.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+58 CAROLYN M. HENDRIKS
+
+Acknowledgements
+
+I am grateful for feedback and suggestions from John Boswell, Selen Ercan, John Dryzek and three anonymous reviewers. I would also like to thank members of the Public Accounts Committee of the New South Wales Parliament, Australia. This research was supported by funding from the newDemocracy foundation.
+
+Notes
+
+1. In this article the term ‘mini-public’ refer to processes that select participants using stratified random
+
+sampling, such as citizens’ juries, consensus conferences, deliberative polls and citizens’ assemblies. For a useful discussion on nomenclature of ‘minipublics’, see Ryan and Smith (2014). 2. This is evident in the practical examples of coupling pathologies offered by Mansbridge et al. (2012: 23),
+
+who suggest that in tightly coupled systems there might be institutions that are closed to critical perspectives, whereas in decoupled systems there might be particular kinds of actors, such as elites who resist the arguments and perspectives of citizens. 3. The best-documented example of mini-public closely connected to a legislature is the Danish consensus
+
+conferences that were used to inform parliamentarians on public views on controversial or emerging technologies (Joss 1998). 4. The NSW Parliament is a bicameral assembly composed of 135 members elected through regular
+
+general elections. It has the power to make laws in a broad range of policy areas including public health, education, crime and law enforcement, planning, water, electricity and gas, waste, transport, environmental protection and numerous other matters (NSW Parliament 2015). Consistent with the Westminster tradition,party discipline is a strong feature of the NSW Parliament,with members typically supporting their parties on all but deeply divisive or moral issues. 5. According to newDemocracy (Iain Walker,personal communication,2 June 2015):‘The expert presenters
+
+were selected as a result of discussions among the two juries who were asked “what do we need to know and who do we trust to inform us?”.’ Both juries agreed to hear from the same presenters.
+
+References
+
+Bächtiger, A. (2014). Debate and deliberation in legislatures. In S. Marin, T. Saalfeld & K.W. Strøm (eds),
+
+The Oxford handbook of legislative studies. Oxford: Oxford University Press. Bächtiger, A., Setälä, M. & Grönlund, K. (2014). Towards a new era of deliberative mini-publics. In K.
+
+Grönlund, A. Bächtiger & M. Setälä (eds), Deliberative mini-publics: Involving citizens in the democratic process. Colchester: ECPR Press. Beekun, R. & Glick, W.H. (2001). Organization structure from a loose coupling perspective: A
+
+multidimensional approach. Decision Sciences 32(2): 227–250. Bessette, J.M. (1994). The mild voice of reason: Deliberative democracy and American national government.
+
+Chicago, IL: University of Chicago Press. Blaug, R. (2002). Engineering democracy. Political Studies 50(1): 102–116. Bonney, N. (2003). The Scottish Parliament and participatory democracy. Political Quarterly 74(4): 459–467. Boswell, J., Ercan, S.A. & Hendriks, C.M. (forthcoming). Message received? Examining transmission in
+
+deliberative systems. Critical Policy Studies. Brown, M.B. (2006). Citizen panels and the concept of representation. Journal of Political Philosophy 14(2):
+
+203–225. Chambers, S. (2004). Behind closed doors: Publicity, secrecy and the quality of deliberation. Journal of
+
+Political Philosophy 12(4): 349–410. Christiano, T. (1996). Deliberative equality and democratic order. In I. Shapiro & R. Hardin (eds), Political
+
+order. New York: New York University Press.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+THE ROLE OF INSTITUTIONAL DESIGN 59
+
+Davidson, R.H. (1974). Representation and congressional committees. Annals of the American Academy of
+
+Political and Social Science 411: 48–62. Davidson, S. & Stark, A. (2011). Institutionalising public deliberation: Insights from Scottish Parliament.
+
+British Politics 6(2): 155–186. Dryzek, J.S. (1990). Discursive democracy: Politics, policy and political science. Cambridge: Cambridge
+
+University Press. Dryzek, J.S. (2009). Democratization as deliberative capacity building. Comparative Political Studies 42:
+
+1379–1402. Elstub, S. & McLaverty, P. (2014). Conclusion: The future of deliberative democracy. In Deliberative
+
+democracy: Issues and cases. Edinburgh: Edinburgh University Press. Ercan, S.A., Hendriks, C.M. & Boswell, J. (2015). Studying public deliberation after the systemic turn: The
+
+crucial role for interpretive research. Policy and Politics: 1–36. Faggoto, E. & Fung, A. (2009). Sustaining public engagement: Embedded deliberation in local communities.
+
+East Hartford, CT: Everyday Democracy/Kettering Foundation. Fenno, R.F. (1970). Congressmen in committeees. Boston, MA: Little, Brown. Fishkin, J. (2009). When the people speak: Deliberative democracy and public consultation. Oxford: Oxford
+
+University Press. Flyvbjerg, B. (2006). Five misunderstandings about case-study research. Qualitative Inquiry 12(2): 219–
+
+245. Goodin, R.E. (2005). Sequencing deliberative moments. Acta Politica 40: 182–196. Goodin, R.E. (2012). How can deliberative democracy get a grip? Political Quartely 83(4): 806–811. Goodin, R.E. & Dryzek, J. (2006). Deliberative impacts: The macro-political uptake of mini-publics. Politics
+
+and Society 34(2): 219–244. Habermas, J. (1996). Between facts and norms. Trans. W. Rehg. Cambridge: Polity Press. Hall, R.L. (1996). Participation in Congress. New Haven, CT: Yale University Press. Hall, R.L. & Wayman, F.W. (1990). Buying time: Moneyed interests and the mobilization of bias in
+
+congressional committees. American Political Science Review 84(3): 797–820. Halpin, D., MacLeod, I. & McLaverty, P. (2012). Committee hearings of the Scottish Parliament: Evidence
+
+giving and policy learning. Journal of Legislative Studies 18(1): 1–20. Heitshusen, V. (2000). Interest group lobbying and US House decentralization: Linking informational focus
+
+to committee hearing appearances. Political Research Quarterly 53(1): 151–176. Hendriks, C.M. (2006). Integrated deliberation: Reconciling civil society’s dual role in deliberative
+
+democracy. Political Studies 54(3): 486–508. Hendriks C.M. (2009). Policy design without democracy? Making democratic sense of transition
+
+management. Policy Sciences 42(4): 341–368. Joss, S. (1998). Danish consensus conferences as a model of participatory technology assessment: An impact
+
+study of consensus conferences on Danish parliament and Danish public debate. Science and Public Policy 25(1): 2–22. Kuyper, J. (2012). Deliberative democracy and the neglected dimension of leadership. Journal of Public
+
+Deliberation 8(1): 1–32. Mackenzie, M.K. & Warren, M.E. (2012). Two trust-based uses of minipublics in democratic systems. In
+
+J. Parkinson & J. Mansbridge (eds), Deliberative systems: Deliberative democracy at the large scale. Cambridge: Cambridge University Press. Mansbridge, J. (1999). Everyday talk in the deliberative system. In S. Macedo (ed.), Deliberative politics:
+
+Essays on democracy and disagreement. Oxford: Oxford University Press. Mansbridge, J. et al. (2012). A systemic approach to deliberative democracy. In J. Parkinson & J. Mansbridge
+
+(eds), Deliberative systems: Deliberative democracy at the large scale. Cambridge: Cambridge University Press. McLaverty, P. (2009). Is deliberative democracy the answer to representative democracy’s problems?
+
+A consideration of the UK government’s programme of citizens’ juries. Representation 45: 379– 389. Michels, A. (2011). Innovations in democratic governance: How does citizen participation contribute to a
+
+better democracy? International Review of Administrative Sciences 77(2): 275–293.
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+60 CAROLYN M. HENDRIKS
+
+Niemeyer, S. (2014). Scaling up deliberation to mass publics: Harnessing mini-publics in a deliberative
+
+system. In K. Grönlund, A. Bächtiger & M. Setälä (eds), Deliberative mini-publics: Involving citizens in the democratic process. Colchester: ECPR Press. New South Wales (NSW) Parliament (2015). About Parliament. Available online at: www.parliament.nsw.
+
+gov.au/prod/web/common.nsf/key/AboutParliament Owen,D.& Smith,G.(2015).Survey article:Deliberation,democracy and the system turn.Journal of Political
+
+Philosophy 23(2): 213–234. Papadopoulos, Y. (2012). On the embeddedness of deliberative systems: Why elistist innovations matter
+
+more. In J. Parkinson & J. Mansbridge (eds), Deliberative systems: Deliberative democracy at the large scale. Cambridge: Cambridge University Press. Parkinson, J. (2006). Deliberating in the real world: Problems of legitimacy in deliberative democracy. Oxford
+
+Oxford University Press. Parkinson, J. (2012). Democratizing deliberative systems. In J. Parkinson & J. Mansbridge (eds), Deliberative
+
+systems: Deliberative democracy at the large scale. Cambridge: Cambridge University Press. Public Accounts Committee (PAC) (2012). Report on the economics of energy generation. Sydney:
+
+Legislative Assembly of the NSW Parliament. Available online at: www.parliament.nsw.gov.au/Prod/ Parlment/committee.nsf/0/6e0c25bf50c6aa0dca257abd00196735/$FILE/Report%206%2055%20%20Economics%20of%20Energy%20Generation%20v4.pdf Ryan, M. & Smith, G. (2014). Defining mini-publics. In K. Grönlund, A. Bächtiger & M. Setälä (eds),
+
+Deliberative mini-publics: Involving citizens in the democratic process. Colchester: ECPR Press. Setälä, M. (2011). The role of deliberative mini-publics in representative democracy: Lessons from the
+
+experience of referendums. Representation 47(2): 201–213. Setälä,M.(2014).The public sphere as a site of deliberation:An analysis of problems of inclusion.In S.Elstub
+
+& P. McLaverty (eds), Deliberative democracy: Issues and cases. Edinburgh: Edinburgh University Press. Shaw, M. (1998). Parliamentary committees: A global perspective. Journal of Legislative Studies 4(1): 225–
+
+251. Smith, G. (2009). Democratic innovations: Designing institutions for citizen participation. Cambridge:
+
+Cambridge University Press. Stake, R.E. (1994). Case studies. In N.K. Denzin & Y.S. Lincoln (eds), Handbook of qualitative research.
+
+Thousand Oaks, CA: Sage. Steiner, J. et al. (2004). Deliberative politics in action: A cross-national study of parliamentary debates.
+
+Cambridge: Cambridge University Press. Sunstein, C.R. (2009). Going to extremes: How like minds unite and divide. Oxford: Oxford University Press. Urbinati, N. & Warren, M.E. (2008). The concept of representation in contemporary democratic theory.
+
+Annual Review of Political Science 11: 387–412. Weick, K.E. (1982). Management of organizational change among loosely coupled systems. In P. Goodman
+
+et al. (eds), Change in organizations: New persepcetives on theory, research and practice. San Francisco, CA: Jossey-Bass. Yin, R.K. (1984). Case study research: Design and methods. Beverly Hills, CA: Sage.
+
+Address for correspondence: Carolyn M. Hendriks, Crawford School of Public Policy, ANU College of Asia and the Pacific, JG Crawford Building 132, Australian National University, Canberra, ACT 2601, Australia. E-mail: carolyn.hendriks@anu.edu.au
+
+C⃝2015 European Consortium for Political Research
+
+14756765, 2016, 1, Downloaded from https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12123 by Iscte, Wiley Online Library on [06/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,987 @@
+Journal of Comparative Economics 52 (2024) 400–433
+
+Available online 27 January 2024 0147-5967/© 2024 The Authors. Published by Elsevier Inc. on behalf of Association for Comparative Economic Studies. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Contents lists available at ScienceDirect
+
+Journal of Comparative Economics
+
+journal homepage: www.elsevier.com/locate/jce
+
+Misinformation technology: Internet use and political misperceptions in Africa
+
+Joël Cariolle a,b, Yasmine Elkhateeb c,d,∗, Mathilde Maurel a,c,e
+
+a Fondation pour les études et recherches sur le développement international (FERDI), Clermont-Ferrand, France b University Clermont Auvergne, CNRS, IRD, CERDI, Clermont-Ferrand, France c Centre d’Économie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne, Paris, France d Department of Economics, Faculty of Economics and Political Science, Cairo University, Giza, Egypt e CNRS, Paris, France
+
+A R T I C L E I N F O
+
+JEL classification: D72 D83 L86 O55 P16
+
+Keywords: Internet news Democracy Misinformation Africa
+
+A B S T R A C T
+
+The use of the Internet to access news has an impact on African citizens’ perceptions of democracy. Using repeated cross-sectional data from the Afrobarometer survey across 35 African countries over the period 2011–2018, along with an instrumental variable approach, allows addressing potential endogeneity bias between Internet use and citizens’ perceptions. The results indicate that using the Internet to obtain information has a significant negative effect on both the preference for and the perception of the extent of democracy. This negative effect is due to several factors. First, Internet use erodes trust in government institutions, mainly in the parliament and the ruling party. It increases the perception that parliament members are involved in corruption. In addition, the erosion of trust is correlated with more political mobilization, in the form of greater participation in demonstrations and voting. These results echo the existing literature and, in particular, hint at the risks of reversal of nascent democratization processes. Finally, the Internet seems to act as a misinformation channel. On the one hand, Internet users’ perception of the extent of democracy and perception of the corruption of legislators diverge from experts’ assessments. On the other hand, Internet use increases the likelihood of inconsistency in respondents’ stances on their preference for democracy. The Internet is not a neutral information channel: it tends to undermine citizens’ preference for democracy while also altering perceptions about political institutions.
+
+1. Introduction
+
+The Internet has significantly expanded worldwide, changing our relationship with the world and the way we communicate, educate, and inform ourselves. Africa, despite having a very low number of fixed-broadband subscriptions per 100 inhabitants, has not escaped the Internet phenomenon, as the number of individuals with Internet access has risen from 2 in 2002 to 39.7 (per 100 inhabitants) in 2022. Similarly, the number of individuals with mobile-cellular telephone subscriptions has jumped from 12.4 in 2002 to 86.3 (per 100 inhabitants) in 2022 (ITU, 2022). This phenomenon has considerable repercussions, which are widely studied by the social sciences. Our research aims to contribute to the ongoing scholarly discourse on the impact of the Internet on African democracies by examining how the Internet’s role in
+
+∗Corresponding author at: Centre d’Économie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne, Paris, France. E-mail addresses: joel.cariolle@ferdi.fr (J. Cariolle), yasmine.elkhateeb@univ-paris1.fr (Y. Elkhateeb), mathilde.maurel@univ-paris1.fr (M. Maurel).
+
+https://doi.org/10.1016/j.jce.2024.01.002 Received 9 August 2022; Received in revised form 15 January 2024; Accepted 15 January 2024
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+401
+
+J. Cariolle et al.
+
+information processing is reshaping African citizens’ relationship with democracy. This is a key issue since the alleged superiority of democracy depends on individuals’ ability to access and process information accurately (Flynn et al., 2017). Our study adds to the debate on the status of the Internet as a technology of liberation, misinformation, or disinformation, which was particularly relevant in the wake of the Arab Spring: while some consider the Internet a ‘‘liberation technology’’ that serves as an alternative to traditional media by providing a more open and freer source of information including blogs and social network sites, especially in countries with limited freedom of speech (Diamond, 2010), others believe that it is a ‘‘misinformation technology’’ used by non-democratic regimes, but also anti-establishment political actors, for fake news dissemination, surveillance, and propaganda (Qin et al., 2017).
+
+The importance of the Internet debate explains why, in the last two decades, democracy scholars have tried to disentangle how access to information technology shapes the democratization process. Information technology has the potential to play a role in either consolidating or undermining democracy (Evans, 2019; Jha and Kodila-Tedika, 2020) by modeling perceptions and shaping preferences and opinions toward it. Our paper contributes to this literature by conducting an empirical analysis of how accessing news through the Internet affects African citizens’ preference for, perception of, and satisfaction with democratic governance. We use three rounds of the Afrobarometer survey from 2011 to 2018, consisting of 99,938 individuals living in 1,845 districts across 35 African countries that have recently experienced a surge in democratic movements. Our main empirical concern is the possible endogeneity bias that stems from the bidirectional relationship between Internet news consumption and citizens’ preference for and perception of democracy, as well as omitted variable bias.
+
+To mitigate this concern, we rely on an empirical strategy combining an external and exogenous source with an internal source of digital vulnerability as an instrumental variable (IV) for Internet use. Specifically, we use the number of submarine cables (SMCs) as an exogenous and aggregate source of variation in citizens’ access to the Internet, as in Cariolle and Le Goff (2023). We then weigh this aggregate connectivity shock by a fixed exposure factor that reflects citizens’ access to mobile Internet, namely their district’s 3G network coverage at the time of the first Afrobarometer survey wave used in our analysis. To minimize the risk of omitted variable bias, we include year and district fixed effects, as well as respondent and district-level control variables. Our identification strategy, therefore, follows the interacted IV approach emphasized by Borusyak and Hull (2023), and accordingly, proceeds to identifying assumption tests preconized by the latter.
+
+Africa has been digitally isolated from the rest of the world until 2010 when intercontinental submarine infrastructure has widely expanded (Cariolle, 2021). Since then, there has been an increase in the share of Internet users in the African continent over the last decade with the highest share in North Africa where more than half of the population uses the Internet (World Bank, 2018). This rise in connectivity has coincided with the emergence of protest movements in several autocratic regimes in the region, with demands for greater democracy. The Arab Spring in North Africa was the most prominent example, but other significant movements emerged in countries like Burkina Faso, South Africa, Senegal, Nigeria, and Zimbabwe. Thus, Africa offers an interesting case study to examine the impact of Internet use on citizens’ preference for and perception of democracy.
+
+We find that Internet use induces a bias toward the belief that ‘‘in some circumstances, a non-democratic government can be preferable’’, away from the belief that ‘‘democracy is preferable to any other kind of government’’. We notice that the preference for democracy may not be consistent, as a significant proportion of respondents express a preference for democracy while approving institutional settings that may not be fully compatible with democratic principles. We also find that Internet users tend to have a more negative perception of the level of democracy in their countries. This may be attributed to a decreased trust in political institutions, notably the parliament and the ruling party, as well as an increased perception of corruption among parliament members. A possible side effect is that Internet users increase their political participation through street demonstrations and voting. Interestingly, this Internet-induced worsening perception of the level of democracy is echoing a widening of the gap between Internet users’ perceptions and experts’ ratings of the level of democracy. Furthermore, we document a discrepancy between Internet users’ perceptions and experts’ ratings of the level of corruption among legislators, thereby indicating that the Internet may serve as a source of misinformation and may alter their opinion about democracy’s well-functioning.
+
+We make a threefold contribution to the existing literature. First, we provide a micro-level analysis of the relationship between Internet use and citizens’ preference for democracy, as well as their perceptions of the level of democracy, in a set of African countries, where Internet penetration has steadily increased over the past decade. Second, we unravel the mechanisms underlying our main findings. We investigate several channels including the variation in trust in government and its institutions induced by Internet exposure, the perceived corruption of different political actors, the political engagement through protests and voting, the extent of Internet-induced misperception, represented by the discrepancy between Internet users’ perceptions and experts’ assessment, and the consistency in the way individuals understand the concept of democracy. Finally, we propose an original identification strategy that allows us to establish a causality between the use of the Internet to gather information and a negative bias in preferences and opinions toward democracy.
+
+The remainder of the paper is organized as follows. Section 2 provides a brief review of the related literature. Section 3 presents the main data source and some descriptive statistics. In Section 4, the empirical strategy is explained, and the main results are presented in Section 5. Section 6 explores the potential mechanisms, followed by robustness checks in Section 7. Finally, Section 8 concludes.
+
+2. Literature review
+
+The literature has largely focused on the effect of the Internet on political outcomes, and two broad categories of articles can be distinguished: those studying mature democracies and those studying recent democracies or autocracies.1 In the former case,
+
+1 The contrast in the effect of the Internet in mature and recent democracies was recently established in the systematic study by Lorenz-Spreen et al. (2023).
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+402
+
+J. Cariolle et al.
+
+the Internet seems to shift voters from traditional processes of political participation and foster populism. In the latter case, the focus is on the Internet’s ability to mobilize people against authoritarian and corrupt regimes, by providing a means of independent information in environments where information is controlled, by facilitating protests and coordination, and by raising awareness of the corruption of governments in power.
+
+The distinction is based on the censorship and government control of traditional media. While reporting that Facebook is negatively correlated with corruption in a cross-section of more than 150 countries, Jones et al. (2017) argue that social media constitutes an important source of information dissemination when traditional sources are subject to censorship. Enikolopov et al. (2018) find the same negative relationship between social media and corruption in Russia. They provide evidence that blog posts exposing corruption in Russian state-controlled companies reduce their market returns, increase management turnover, and lower shareholder conflicts. Tertytchnaya and Lankina (2020) find that the effect of anti-regime protests on attitudes is hampered by state control of national media. In a similar vein, Guriev et al. (2021) exploit increased Internet penetration through 3G expansion to assess the impact of the Internet on government approval. They find that 3G network access reduces confidence in the government only when the Internet is not censored and that the effect is stronger in countries where traditional media is under government control and when there is at least some corruption.
+
+Research on mature democracies has documented the impact of the Internet on voting behavior, reporting overall that the Internet has a significant impact on voting turnout. For instance, Falck et al. (2014) exploit Germany’s broadband Internet expansion in 2004–2008 and find that the Internet reduces turnout. Similarly, Gavazza et al. (2019) rely on extreme weather shocks that cause Internet access disruption as their identification strategy and reach the same conclusion in the UK during 2006–2010. They argue that this is due to the substitution of political news with entertainment content online. However, Campante et al. (2018) find that the negative impact of access to broadband Internet on voters’ turnout in Italy was only present until 2008, once it reversed with the introduction of social media. Other authors link the rise of populism in Italy, Germany, and Europe in general to the expansion of the Internet (Schaub and Morisi, 2020; Guriev et al., 2021). A recent study by Tabellini et al. (2023) also shows that the expansion of mobile Internet coverage resulted in a higher vote share for right-wing communitarian parties across twenty European countries from 2007 to 2017, regardless of whether those parties were populist or not.
+
+However, in immature democracies and autocratic regimes, the emphasis was placed on the Internet as a powerful tool to spur political change, which is not necessarily contradictory to the results found in mature democracies. The Internet increases access to political information that is not available through other means due to censorship. Miner (2015), for instance, finds that broadband Internet led to a substantial decline in political support for the ruling coalition in Malaysia during the 2004 and 2008 elections. Similarly, Donati (2023) finds that the spread of 3G mobile Internet technology led to a decline in the vote share of the ruling party in local elections in South Africa between 2006 and 2016. This negative impact was more pronounced in corrupt localities. Moreover, a recent study by Hatte et al. (2023) finds that greater Facebook access is associated with increased election of female candidates in Sub-Saharan Africa (SSA) due to exposure to content generated in more progressive countries and a greater visibility of female candidates in online campaigns.
+
+Along with the impact of the Internet on voting behavior, another strand of literature has reported the crucial role played by the Internet and social media platforms in mobilizing citizens by spreading critical information about the government and facilitating coordination. Fergusson and Molina (2019) show that Facebook is associated with a higher number of protests worldwide. They find that new releases of Facebook with new languages increase protests in countries where these languages are spoken. This effect is stronger in countries with wider Internet access and more economic and political grievances, such as China and Russia. Similarly, Qin et al. (2021) find that China’s social media, Sina Weibo, expansion is positively associated with increased protests. Enikolopov et al. (2020) find that the penetration of VK, Russia’s dominant social media platform, increased the probability of having a protest during 2011. In addition, Manacorda and Tesei (2020) find that the adoption of 2G mobile network technology increased political protests in Africa between 1998 and 2012. More recently, exploiting the gradual arrival of submarine cables on the Sub-Saharan African coast, Guiffard (2022) documents a positive impact of high-speed Internet on participation in protests for 10 countries, highlighting the role of enhanced coordination.
+
+However, the existing empirical literature on the impact of Internet use on attitudes toward democracy has mostly focused on macro-level relationships, giving little insight into their underlying mechanisms (Evans, 2019; Jha and Kodila-Tedika, 2020). Studies evaluating individuals’ Internet use and citizens’ attitudes toward democracy remain scarce and are largely conceptual works documenting a simple correlation between the Internet and democratic attitudes. For example, using Eurobarometer data, Ceron and Memoli (2016) find that while the Internet per se has no effect on satisfaction with democracy among European citizens, social media news consumption is negatively associated with citizens’ satisfaction. Chang (2018) also finds that media use in general, and the Internet in particular, have a negative effect on the satisfaction with democracy in 34 countries. However, Bailard (2012) argues that Internet use is correlated with increased satisfaction in advanced democracies and dissatisfaction in weak democracies. Acemoglu et al. (2021) emphasize the crucial need to explore the role of media in shaping support for democracy, especially in light of the spread of misinformation from various media outlets and social media platforms, and how this may affect the relationship between successful democratic performance and public support for democracy. This paper aims to contribute to this research agenda by proposing an in-depth analysis of the causality running from Internet use as an information provider to attitudes toward democracy, anchored in individual-level responses, drawing on several waves of the Afrobarometer, and using an original identification strategy.
+
+3. Data
+
+In this section, we introduce the data and some descriptive statistics. The data source is presented in Section 3.1. We describe our main outcome variables in Section 3.2. Descriptive statistics on Internet and traditional media use and on submarine cables are presented in Sections 3.3 and 3.4, respectively.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+403
+
+J. Cariolle et al.
+
+3.1. Data source
+
+We rely on three recent rounds of the Afrobarometer, a public attitude survey on democracy, governance, corruption, and related issues in African countries.2 A randomly selected sample of 1,200 or 2,400 individuals is collected through face-to-face interviews in each country. We selected this dataset because it includes a wide variety of questions on citizens’ opinions and attitudes, as well as questions on media consumption. Our final sample comprises 99,939 respondents from 1,845 districts across 35 African countries surveyed between 2011 and 2018.3,4 We report the number of observations by country and by year in Tables A.1 and A.2, respectively, in Appendix A.
+
+3.2. Main dependent variables
+
+We analyze the impact of the Internet as a means of accessing news on (i) citizens’ preference for democracy, (ii) their perception of whether they are getting democracy, and (iii) their satisfaction with how democracy is functioning.
+
+To measure citizens’ preference for democracy, we use respondents’ answers to the following question: ‘‘Which of these three statements is closest to your own opinion? (A) Democracy is preferable to any other form of government; (B) In certain situations, a non-democratic government can be preferable; (C) To people like me, it doesn’t matter what form of government we have’’. First, we create a binary variable equal to 1 if citizens respond ‘‘(A) Democracy is preferable to any other form of government’’ and 0 otherwise. Second, we consider an additional dependent variable that ensures choosing option ‘‘A’’ corresponds to a true preference for democracy, meaning the rejection of real-world alternative regimes with whom African respondents are familiar and to which they can have experience-based responses, namely one-party rule, military government, and presidential dictatorships. Thus, our second outcome of interest reflects a strict preference for democracy taking the value of 1 if citizens prefer democracy to any other form of government and reject all three previously mentioned alternative regimes.
+
+To measure citizens’ perception of the actual extent of democracy, we use their response to the following question: ‘‘In your opinion, how much of a democracy is your country today? Is it a full democracy, a democracy with minor problems, a democracy with major problems, or not a democracy?’’. Satisfaction with democracy is measured using the following question: ‘‘Overall, how satisfied are you with the way democracy works in your country today? Are you very satisfied, fairly satisfied, not very satisfied, or not at all satisfied?’’. We recode the categorical responses to these questions into binary values. Specifically, the extent of democracy variable takes the value of 1 if respondents declare their country to be a ‘‘full democracy’’ or a ‘‘democracy with minor problems’’ and 0 otherwise. The satisfaction with democracy variable takes the value of 1 if respondents declare they are ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works and 0 otherwise.
+
+The correlation between all our dependent variables is reported in Table A.3 in Appendix A. Three interesting facts can be pointed out. First, the correlation between satisfaction with how democracy works and the perceived extent of democracy suggests that individuals who are satisfied with democracy also tend to see an extensive democracy. Second, the correlation coefficient between the preference for democracy and the extent and satisfaction with democracy is relatively low, lying around 10%. Lastly, the simple preference and the strict preference for democracy remain moderately correlated, at about 57%, reflecting that a considerable number of individuals have a distorted understanding of democracy as being compatible with one-party rule, military government, or presidential dictatorships, in certain circumstances.
+
+3.3. Internet and traditional media use
+
+Africa’s media landscape has been changing rapidly during the last decade, with a growing reliance on the Internet as a source of both verified and unverified news. This trend is exemplified by the role of social networks in spurring events like the Arab Spring or the spread of social discontent in Sub-Saharan African countries (Fergusson and Molina, 2019; Bosch et al., 2020). The survey captures this specific information-gathering channel, by asking individuals ‘‘How often do you get news from the following sources: radio, television, newspapers, and Internet?’’. The responses range from ‘‘every day’’ to ‘‘never’’, and we rely on the Internet use ordered categorical variable as our regressor of interest in the analysis. However, for the clarity of the below descriptive analysis, we create a dichotomous variable that identifies regular Internet users as individuals who use the Internet ‘‘every day’’ or ‘‘a few times a week’’ to get news. Throughout the text, we use the terms ‘‘Internet use’’ and ‘‘Internet use to get news’’ in the same equivalent way.
+
+The potential sources of news on the Internet are numerous and include online news websites, social media platforms, blogs, and search engines, among others. Unfortunately, the data at hand does not allow for differentiation between these sources. However, starting from round 6, the survey added social media as an additional source of news in the previous question. Since it is not available for the entire period, we choose to rely on individuals’ responses to using the Internet to get news. We note a positive and
+
+2 Afrobarometer Data, rounds 5, 6, and 7, available at http://www.afrobarometer.org. 3 The countries included in our study are: Algeria, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Côte d’Ivoire, Egypt, Gabon, Ghana, Guinea, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Senegal, Sierra Leone, South Africa, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe, and Gambia. 4 We exclude São Tomé and Príncipe from our sample as it is a two-islands country with only one connected to a SMC, and Swaziland as it is missing one of the variables needed to construct one of our dependent variables.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+404
+
+J. Cariolle et al.
+
+Fig. 1. News media consumption across three rounds of the Afrobarometer survey. Note: This figure shows the percentage of survey respondents who reported using the Internet, radio, TV, or newspapers to get news ‘‘every day’’ or ‘‘a few times a week’’ in rounds 5, 6, and 7 of the Afrobarometer survey. Source: Authors’ calculation on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+1% significant correlation coefficient of 0.88 between Internet and social media news consumption. This suggests that individuals who report using the Internet to get news are highly likely to be referring to using social media platforms. Based on our baseline sample, the share of individuals who reported using the Internet at least ‘‘a few times a week’’ to get news has nearly doubled. As shown in Fig. 1, in the surveyed countries, the share of regular Internet users increased from 13.76% to 29.18% between round 5 and round 7. Conversely, traditional news sources, such as radio, television, and newspapers have been losing ground in the continent. However, radio remains the dominant source of news for most Africans, likely due to its affordability and accessibility. In contrast, newspaper readership in Africa is the lowest, reflecting a limited reading culture and a higher illiteracy rate in the continent. Furthermore, Fig. 2 indicates that there has been a decline in the percentage of people who never use the Internet to get news over time. In round 5, 80% of individuals stated that they ‘‘never’’ use the Internet for news, while in round 7, this percentage decreased to 64%. It is worth noting that this decrease was accompanied by a corresponding increase in the percentage of individuals who report using the Internet ‘‘every day’’ to get news, from 7% in round 5 to 20% in round 7, while the percentage of individuals who use the Internet less frequently remained relatively stable across rounds. This suggests that although the Internet may have not entirely replaced traditional news sources, it is becoming an important complement. Although the Internet is becoming more widespread in Africa, its diffusion across the continent as a means of accessing news is spatially uneven. Fig. 3 displays the distribution of regular Internet users at the district-year level in our baseline sample. We can indeed see the heterogeneous distribution across districts with an over-representation of districts where the share of regular Internet users is between 0% and 20%. Last, to get a preliminary insight into the Internet use-democracy nexus, we have created binned scatterplots in Fig. 4 that depict the simple correlation between district-level incidences of regular Internet use and democracy variables. The plots show a strong and negative relationship between regular Internet use and the share of individuals who (strictly) prefer democracy, perceive their country as a ‘‘full democracy’’ or a ‘‘democracy with minor problems’’, and are ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in their country. Overall, this preliminary graphical evidence shows that preference for democracy and satisfaction with the functioning of democracy are lower in districts where Internet use is more widespread. These trends in media consumption may have political implications, as digital and traditional news sources contrast sharply in the way they shape the political landscape as argued in Zhuravskaya et al. (2020).
+
+3.4. Submarine cables
+
+As of late 2021, there are approximately 436 operational fiber-optic submarine cables (SMCs) laid down over 1.3 million kilometers and connecting countries around the world (Telegeography, 2021). Their deployment is the first step toward accessing the global Internet. Carrying out more than 95% of world Internet traffic, their deployment improves telecommunications network size, capacity, and redundancy (Weller and Woodcock, 2013; Schumann and Kende, 2013; D’Andrea and Limodio, 2023). The greater the number of SMCs, the faster the Internet speed and the larger the Internet bandwidth. In the absence of SMCs, a country has two options to communicate with the rest of the world: buying Internet bandwidth from a neighboring country already connected to SMCs or relying on satellite communication systems. These two solutions are associated with higher costs and lower Internet speed. SMCs are, therefore, the backbone infrastructure of the worldwide telecommunications network.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+405
+
+J. Cariolle et al.
+
+Fig. 2. Frequency of Internet use to get news across three rounds of the Afrobarometer survey. Note: This figure shows the percentage of survey respondents who reported using the Internet to get news, categorized by frequency of use as ‘‘never’’, ‘‘less than once a month’’, ‘‘a few times a month’’, ‘‘a few times a week’’, or ‘‘every day’’ in rounds 5, 6, and 7 of the Afrobarometer survey. Source: Authors’ calculation on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Fig. 3. Distribution of regular Internet users at the district-year level. Note: This figure shows the (cumulative) distribution of the share of survey respondents who reported using the Internet to get news ‘‘every day’’ or ‘‘a few times a week’’ at the district-year level. Source: Authors’ calculation on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Today, nearly all coastal African countries are connected to at least one SMC, meaning that anyone who is connected to the Internet, regardless of their device, uses this infrastructure to access the Internet. This reliance on SMCs for Internet access is particularly true in Sub-Saharan Africa (SSA), where the local anchoring of Internet traffic is poor, including traffic between
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+406
+
+J. Cariolle et al.
+
+Fig. 4. Correlation between regular Internet use and perception of democracy at the district-year level. Notes: These figures show scatterplots that group the 𝑥-axis variable into equal-sized bins, calculate the mean value of the 𝑥-axis and 𝑦-axis variables within each bin, and plot these data points. The 𝑥-axis represents the share of survey respondents at the district-year level who reported using the Internet to get news ‘‘every day’’ or ‘‘a few times a week’’. The 𝑦-axis represents the share of respondents at the district-year level who ‘‘prefer democracy to any other type of government’’ in (a), the share who ‘‘prefer democracy to any other type of government’’ and ‘‘reject all types of authoritarian rules’’ in (b), the share who perceive their country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ in (c), and the share who are ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in their country in (d). Source: Authors’ calculation on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+geographically close countries, which is often routed toward data centers located outside the continent before being brought back to
+
+the destination country (Fanou et al., 2017). This is also true for landlocked countries, which have been lately connected to the World
+
+Wide Web through their connected coastal neighbors’ terrestrial fiber-optic network by the beginning of the 2010s. While these
+
+countries do not have to pay anymore for the transit of telecommunications through their neighbors’ SMC network (Houngbonon
+
+et al., 2022), their direct access to the SMC network relies on a few cables, which limits their available bandwidth and rerouting
+
+capabilities.5
+
+Fig. 5 illustrates the distribution of the number of SMCs in our baseline sample, revealing that a significant proportion of the
+
+observations (nearly 38%) have access to only one SMC. The percentage of observations drops as the number of SMCs increases, with
+
+approximately 14% of the observations having two, three, or four cables. Merely 9% of observations enjoy access to five SMCs, and
+
+less than 2% have access to six cables or more. Notably, less than 10% of our sample observations are not connected to any SMC.
+
+This distribution pattern points to the unevenness in SMC access across the sample and reflects disparities in Internet connectivity
+
+quality across different countries.
+
+Our empirical analysis leverages the staggered deployment of SMCs along African coasts as a plausibly random connectivity
+
+shock, with an expected dramatic impact on Internet access for populations covered by the mobile Internet network.
+
+5 According to measurements made by Chavula et al. (2015), on average 75% of the intra-African traffic destined for Africa’s National Research and Education Networks was carried through intercontinental links in Europe.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+407
+
+J. Cariolle et al.
+
+Fig. 5. Distribution of the number of submarine cables (SMCs). Note: This figure shows the (cumulative) distribution of the number of SMCs in our baseline sample. Source: Authors’ calculation on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+4. Empirical strategy
+
+Our empirical strategy builds on the literature using Bartik-type instruments, which are constructed by interacting aggregate shocks with exposure weights. We adopt a design à-la (Borusyak and Hull, 2023), where the validity of the instrument stems from exogenous variation in the shocks while allowing for endogenous variation in the exposure factor.6
+
+4.1. Main specification
+
+To estimate the effect of Internet use on citizens’ perception of democracy, we estimate the following model:
+
+𝑌𝑖= 𝛼0 + 𝛽0𝐼𝑛𝑡𝑒𝑟𝑛𝑒𝑡𝑖+ 𝜸𝟎𝐗𝐢+ 𝜹𝟎𝐖𝐝,𝐭+ 𝝈𝟎𝐙𝐜,𝐭+ 𝜌𝑑+ 𝜌𝑡+ 𝜀𝑖 (1)
+
+where 𝑌𝑖is four different dependent binary variables representing individual i’s (simple or strict) preference for democracy, perception of the extent of democracy, and satisfaction with democracy. Our variable of interest, 𝐼𝑛𝑡𝑒𝑟𝑛𝑒𝑡𝑖, is an ordered categorical variable measuring the frequency of Internet usage to get news, ranging from 0 (never use the Internet to get news) to 4 (use it every day). 𝐗𝐢is a set of individual characteristics including age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. We also add time-varying district-level (𝐖𝐝,𝐭) and country-level (𝐙𝐜,𝐭) controls. First, we use nighttime light as a proxy to control for district’s economic development. Second, we control for local spillovers possibly induced by the diffusion of the Internet around respondents, by including the district-level share of respondents who declare using the Internet on a weekly or daily basis. Third, we include the 2G and 3G network coverage, expressed as a share of the district’s surface area, using data from Collins Bartholomew’s Mobile Coverage Explorer. We control for both networks since the 2G network was instrumental to Internet access in the first half of the 2010s, while Internet access mostly relied on the 3G network from the second half.7 Finally, we control for the logarithm of the distance from the district’s centroid to the closest backbone infrastructure node, i.e., SMC landing stations and Internet eXchange Points (IXPs).8,9 Finally, our country-level controls include the logarithm of GDP per capita, the overall level of democracy as rated
+
+6 Our approach does not strictly follow the standard shift-share instrumental variable framework (Borusyak et al., 2022; Goldsmith-Pinkham et al., 2020) since the sum of factors used to weigh the connectivity shock induced by SMC arrival, i.e., the district coverage (in %) by the 3G network, are not equal to unity. 7 26% of total mobile connections in Sub-Saharan Africa (SSA) were made through 2G network as of 2021 (GSMA, 2022). 8 IXPs are national or regional Internet hubs that allow Internet Service Providers (ISPs) to exchange their traffic locally. They constitute a core element of the Internet infrastructure that increases Internet performance and reduces cost by keeping local traffic locally. 9 Data on SMC landing stations and IXPs status, year of activation, and GPS coordinates are obtained from Telegeography website and completed by the Packet Clearing House and Peering DB databases. If a country does not host any SMC or IXP, the distance is calculated considering the closest infrastructure
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+408
+
+J. Cariolle et al.
+
+Table 1 Summary statistics of main variables.
+
+Mean Std. Dev. Min. Max.
+
+Democracy variables Preference for democracy 0.77 0.42 0 1 Strict preference for democracy 0.53 0.50 0 1 Extent of democracy 0.56 0.50 0 1 Satisfaction with democracy 0.49 0.50 0 1
+
+Media use Internet use 0.93 1.53 0 4 TV use 0.53 0.50 0 1 Radio use 0.71 0.45 0 1 Newspaper use 0.23 0.42 0 1
+
+Individual controls Age 36.86 14.32 18 106 Male 0.52 0.50 0 1 Urban 0.45 0.50 0 1 No formal education 0.20 0.40 0 1 Primary education 0.26 0.44 0 1 Secondary education 0.37 0.48 0 1 Post-secondary education 0.17 0.37 0 1 Unemployed (not looking for job) 0.39 0.49 0 1 Unemployed (looking for job) 0.26 0.44 0 1 Part-time employee 0.11 0.32 0 1 Full-time employee 0.24 0.42 0 1 (Very) good living conditions 0.34 0.47 0 1 (Very) good country economic condition 0.30 0.46 0 1 Never discuss politics 0.30 0.46 0 1 Occasionally discuss politics 0.49 0.50 0 1 Frequently discuss politics 0.21 0.41 0 1
+
+District controls Nighttime light 11.40 15.96 0 63 Internet incidence 0.98 0.84 0 4 2G coverage 0.68 0.37 0 1 3G coverage 0.17 0.33 0 1 Log distance (in km) 4.71 1.71 −1 7
+
+Country controls Log GDP per capita 8.17 0.82 7 10 Polity2 index 4.59 4.11 −4 10 Unemployment rate 8.09 6.95 1 27 Number of SMCs 2.15 1.75 0 12
+
+Note: This table reports the mean, standard deviation, minimum, and maximum of the main variables used in the analysis. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+by the Polity2 index, the unemployment rate, and the raw number of SMCs. Table 1 reports summary statistics of the variables used in our regression analysis.
+
+We add district (𝜌𝑑) and year (𝜌𝑡) fixed effects to account for location time-invariant unobserved heterogeneity and yearly common shocks, respectively. 𝜀𝑖is the error term. In all our specifications, error terms are corrected for heteroscedasticity and clustered at the district-year level. Multi-country sampling weights are applied in all estimations, and observations located in districts with less than 10 non-missing observations are dropped from the baseline sample.
+
+Our main concern is the possible endogeneity bias that stems from omitted variable bias and the bidirectional relationship between Internet news consumption and democracy variables. While Internet use may influence citizens’ preference for, perception of, and satisfaction with democracy, the causality can work the other way around. For instance, citizens who are dissatisfied with their country’s level of democracy may opt to use the Internet as a more accessible and open source of information to express their opinions. To address this endogeneity issue, our empirical strategy is related to the instrumental variable setting emphasized by Borusyak and Hull (2023), and to the econometric literature on shift-share instruments (Borusyak et al., 2022; Goldsmith-Pinkham et al., 2020), in which instruments are constructed as aggregate shocks weighted by lower-level exposure factors.
+
+in neighboring countries. Studies have shown that there is a spatial hierarchy in Internet connectivity favoring Internet access in economic and demographic centers when the telecommunications network capacity is altered (Grubesic et al., 2003; Gorman et al., 2004; Grubesic and Murray, 2006; Malecki, 2009). Populations remote from connectivity infrastructures such as SMC landing stations or IXPs, are indeed more exposed to telecommunication network failures, while populations close to them enjoy better and more stable connectivity. Remote populations are also the last to recover after Internet shutdowns. We assume that individuals closer to telecommunication infrastructures are less exposed to Internet slowdowns or shutdowns than remote ones.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+409
+
+J. Cariolle et al.
+
+Fig. 6. 3G signal: sample distribution and correlation with regular Internet use. Note: Figure (a) shows the (cumulative) distribution of the share of the district covered with 3G signal, while figure (b) shows a scatterplot that groups the share of the district covered with 3G signal into equal-sized bins, calculates its mean value, and plots its correlation with the average share of respondents at the district-year level who reported using the Internet to get news ‘‘every day’’ or ‘‘a few times a week’’ within each bin. Source: Authors’ calculation on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+4.2. Identification strategy
+
+SMCs are the backbone of the worldwide telecommunications network. Their number increases Internet speed, capacity, stability, and affordability. The staggered arrival of SMCs in African countries is considered a quasi-experiment providing us with an exogenous source of time and cross-country variation in Internet connectivity, mostly driven by the continent’s geography rather than countryspecific policy-related factors (Cariolle, 2021; D’Andrea and Limodio, 2023; Eichengreen et al., 2023; Imbruno et al., 2022). In fact, the SAT-3/WASC-WACS-ACE cables on the west coast, the SeaMeWe cables along the Mediterranean and Red Seas and the Aden Gulf, and the EASSy-SEACOM cables on the East and Southern coasts are the principal Internet routes in the region which have all been deployed to serve as many countries as possible along their path and to connect each side of the continent to Europe, Latin America, and Asia (D’Andrea and Limodio, 2023). Once a SMC has landed on a given country’s coast, access to the Internet then relies on the last-mile infrastructure coverage. In Africa, where fixed last-mile infrastructure is lacking, the Internet is mainly accessed through mobile engines. As a result, the arrival of SMCs will be instrumental to populations inasmuch as they are covered by the 3G mobile network. Our identification strategy hence combines an aggregate and exogenous source of Internet connectivity, the number of SMCs, with an internal one, the district’s 3G network coverage (in %). Our IV framework, therefore, is close to the interacted IV design emphasized by Borusyak and Hull (2023), where exogeneity proceeds from the random assignment of aggregate shocks, weighted by possibly non-random exposure factors. Fig. 6(a) shows the distribution of the 3G signal coverage across districts in our baseline estimation sample. Fig. 6(b) plots a binned scatterplot showing a positive correlation between the sample districts’ coverage with 3G signal and the share of regular Internet users at the district-year level. To ensure that identification results from a change in aggregate connectivity rather than (endogenous) weighting factors, we interact the SMC number variable with the value of the district’s 3G coverage fixed at the time of the first Afrobarometer survey wave used in our analysis.10 Therefore, the main instrument is the interaction between an aggregate connectivity shock equal to the number of SMCs laid in the country 𝑐at time 𝑡and the fixed share of the individual’s district 𝑑of residence covered by the 3G network:
+
+𝐼𝑉𝑑,𝑐,𝑡= 𝑆𝑀𝐶𝑛𝑢𝑚𝑏𝑒𝑟𝑐,𝑡× 𝑓𝑖𝑥𝑒𝑑3𝐺𝑠ℎ𝑎𝑟𝑒𝑑,𝑐 (2)
+
+This leads us to add the following first stage equation to our estimation framework:
+
+𝐼𝑛𝑡𝑒𝑟𝑛𝑒𝑡𝑖= 𝛼1 + 𝛽1𝐼𝑉𝑑,𝑐,𝑡+ 𝜸𝟏𝐗𝐢+ 𝜹𝟏𝐖𝐝,𝐭+ 𝝈𝟏𝐙𝐜,𝐭+ 𝜌𝑑+ 𝜌𝑡+ 𝜖𝑖 (3)
+
+Where 𝐼𝑉𝑑,𝑐,𝑡is our main instrument. The equation is estimated using the LIML estimator.
+
+10 District’s non-random exposure to connectivity shocks, which is a second threat to identification, is tested in the robustness checks in Section 7.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+410
+
+J. Cariolle et al.
+
+Table 2 OLS estimates of the effect of Internet use on perception of democracy.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+Internet use −0.002 0.007∗∗∗ −0.008∗∗∗ −0.009∗∗∗
+
+(0.002) (0.002) (0.002) (0.002) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 99,938 99,938 99,938 99,938 Adjusted 𝑅2 0.080 0.129 0.173 0.183 Mean dependent variable 0.773 0.525 0.566 0.503 Mean Internet use 0.895 0.895 0.895 0.895
+
+Notes: This table reports the OLS results of the effect of Internet use to get news on individuals’ perception of democracy. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses; *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+5. Main results
+
+In this section, we present our baseline results obtained from estimating Eqs. (1) and (3). The OLS estimates are presented in Section 5.1, while the IV estimates are presented in Section 5.2.
+
+5.1. OLS results
+
+The OLS results are presented in Table 2. First, we find no significant correlation between Internet use to get news and the preference for democratic governments. However, the coefficient on the strict preference is positive and significant. A one-unit increase in the Internet use ordinal variable (i.e., moving up one level of Internet usage frequency) corresponds to a 0.7 percentage points increase in the probability of strictly preferring democracy. Second, we find a negative and significant correlation between Internet use and the perception of the extent of, and satisfaction with, democracy. A one-unit increase in the frequency of using the Internet to get news decreases the probability of perceiving the country as a democracy and being ‘‘very’’ or ‘‘fairly’’ satisfied with the way democracy works in one’s own country by 0.8 and 0.9 percentage points, respectively.
+
+5.2. IV results
+
+Table 3 reports the IV estimates. The first stage estimates indicate that, as expected, the number of SMCs weighted by the fixed 3G network share has a positive impact on the frequency of Internet use. This implies that in countries with at least one SMC, individuals with 3G network coverage are more likely to use the Internet regularly than those without 3G coverage. The F-statistic exceeds the recommended threshold of 10, indicating that our instrument is strong and effective in addressing the issue of endogeneity.11,12
+
+The second stage estimates show a significant negative effect of Internet use on the preference for democratic governance and perception of the extent of democracy. A one-unit increase in Internet use frequency as a source of news lowers the probability of (strictly) preferring democracy by 31.7 (26) percentage points and decreases the probability of perceiving the country as a ‘‘full
+
+11 Additionally, we present the reduced form estimations of the direct effect of our IV on democracy variables in Table B.1 in Appendix B, and our instrument exhibits similar behavior as in the first stage estimation. 12 We also adopt a two instruments setting (see Section 7), using the number of SMCs weighted by the 2G network coverage as an additional instrument, and report the effective F-statistic which is known to be robust to weak instrument bias in multiple instruments setting (Andrews et al., 2019) in Table C.2 in Appendix C.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+411
+
+J. Cariolle et al.
+
+Table 3 IV estimates of the effect of Internet use on perception of democracy.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.594∗∗∗ 0.594∗∗∗ 0.594∗∗∗ 0.594∗∗∗
+
+(0.083) (0.083) (0.083) (0.083)
+
+Second stage regression: Internet use −0.317∗∗∗ −0.260∗∗∗ −0.233∗∗ 0.258∗∗
+
+(0.107) (0.081) (0.114) (0.104) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 99,938 99,938 99,938 99,938 Mean dependent variable 0.773 0.525 0.566 0.503 Mean Internet use 0.895 0.895 0.895 0.895 KP Wald F-stat 51.050 51.050 51.050 51.050 KP LM P-val 0.000 0.000 0.000 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of democracy. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+democracy’’ or a ‘‘democracy with minor problems’’ by 23.3 percentage points. However, we find that a one-unit increase in Internet use frequency is associated with higher satisfaction with democracy functioning.13 While these results may seem puzzling, we argue that satisfaction with how democracy works in one’s own country is a more complex, blurry, and fluctuating construct to analyze, resulting from idiosyncrasies such as people’s frustration after an undesirable electoral outcome or unfavorable government policy that are difficult to observe and control for,14 compared to the preference for democracy and perception of its level which are relatively more straightforward measures and precise concepts.
+
+When comparing OLS and IV estimates, we observe that they differ in their magnitude and sign. The IV estimates exhibit a significant negative magnitude, which surpasses the OLS estimates, suggesting that the OLS estimates may be influenced by an upward bias. This discrepancy can potentially be explained by considering that our estimates reflect a local average treatment effect (LATE), as underlined by Guriev et al. (2021).15 The increase in the number of SMCs is likely to predominantly impact Internet usage among individuals residing in regions initially characterized by digital isolation and lower mobile Internet coverage. These regions tend to be less developed and have limited access to information resources, making them more susceptible to the influence of online information. If Internet usage exerts a more substantial influence on ‘‘compliers’’ (individuals whose Internet use is affected by the arrival of SMCs) than on ‘‘non-compliers’’ (those who are well-connected and relatively unaffected by SMC arrival), we can reasonably anticipate that IV estimates will exhibit a larger effect size.
+
+13 We report the (Anderson and Rubin, 1949) weak instrument robust test 𝑝-value and confidence set, as recommended by Keane and Neal (2023) in Table B.2 in Appendix B. Results indicate that we can reject the null hypothesis 𝐻0 ∶𝛽0 = 0. 14 All individuals, including those living in well-established democracies and favorable to this political regime, can be in some way and at some point of time dissatisfied with democracy. Moreover, the Hansen J test conducted in the IV estimation with two instruments reported in Table C.1 in Appendix C rejects the over-identification restriction for this particular dependent variable, indicating a potential risk of omitted variable bias. 15 In their analysis of the impact of 3G Internet on trust in government, Guriev et al. (2021) find that the magnitude of IV estimates is about 2.5 larger than the OLS ones, and argue that this difference is due to the LATE.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+412
+
+J. Cariolle et al.
+
+Table 4 Internet use and trust in political institutions.
+
+(1) (2) (3) (4) (5) (6) (7) (8) (9) President Parliament Electoral commission Local gov. Ruling party Opposition Police Army Courts
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.613∗∗∗ 0.515∗∗∗ 0.621∗∗∗ 0.559∗∗∗ 0.556∗∗∗ 0.590∗∗∗ 0.583∗∗∗ 0.541∗∗∗ 0.587∗∗∗
+
+(0.090) (0.084) (0.123) (0.078) (0.084) (0.083) (0.082) (0.083) (0.085)
+
+Second stage regression: Internet use −0.056 −0.198∗∗ −0.104 −0.008 −0.281∗∗∗ −0.039 −0.025 −0.145 −0.012 (0.146) (0.086) (0.224) (0.089) (0.086) (0.074) (0.096) (0.105) (0.125) Individual controls ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+
+Observations 98,222 97,139 94,264 95,122 96,548 96,024 99,033 97,749 97,597 Mean dependent variable 0.578 0.508 0.516 0.481 0.482 0.382 0.507 0.675 0.580 Mean Internet use 0.896 0.902 0.893 0.909 0.903 0.907 0.897 0.896 0.903 KP Wald F-stat 46.206 37.323 25.530 51.611 43.668 50.682 50.820 42.741 47.243 KP LM P-val 0.000 0.000 0.002 0.000 0.000 0.000 0.000 0.000 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ trust in political institutions. The dependent variables are dummy variables equal to 1 if the individual trusts the political institution in question ‘‘a lot’’ or ‘‘somewhat’’ and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on individuals in 35 countries between 2011 and 2018.
+
+6. Mechanisms
+
+In this section, we present potential channels through which Internet use may influence attitudes toward democracy. First, we explore the effect of the Internet on trust and perceived corruption in political institutions in Section 6.1, followed by an investigation into its impact on mass mobilization and political participation in Section 6.2. Finally, we examine the (mis)information channel by analyzing the discrepancy between Internet users’ perceptions and experts’ evaluations of a country’s level of democracy and the level of corruption among legislators, as well as the likelihood of inconsistent responses regarding individuals’ preference for democracy in Section 6.3.
+
+6.1. Trust and perceived corruption in political institutions
+
+The Internet has proven to be a powerful tool in exposing instances of government misconduct and corruption. This, in turn, can lead to decreased confidence in governance and increased political accountability (Guriev et al., 2021). However, the Internet can also allow for the dissemination of false news that criticizes governments on social media platforms, which can influence the public’s trust in their regimes. Consequently, the negative impact of Internet use on individuals’ preference for and perception of the extent of democracy can be channeled through a decreased confidence in their governments.
+
+To test this assumption, we conduct IV regressions on several dummy variables reflecting individuals’ trust in different political institutions, including the president, parliament, electoral commission, local government, ruling party, opposition party, police, army, and courts of law. Each dummy variable is equal to 1 if the individual trusts the entity ‘‘a lot’’ or ‘‘somewhat’’ and 0 otherwise. The importance citizens assign to different political institutions may vary depending on the context of the country, including its form of government and recent political events. To account for this variation, we include a series of individual-, district-, and country-level controls, as well as district- and year-level fixed effects.
+
+Although we find a negative coefficient on trust in all the political institutions presented in Table 4, estimated effects are only significant on trust in the parliament and the ruling party. A higher frequency of using the Internet as a source of information is associated with a lower probability of trust in the parliament and the ruling party, by 19.8 and 28.1 percentage points, respectively. Overall, this table is quite consistent with the evidence provided by Guriev et al. (2021) and their analysis of 3G network expansion and trust in government institutions.
+
+In Table 5, we complement these results by displaying the impact of the Internet on the perceived corruption of political actors. In this case, the dependent variables are equal to 1 if the individual believes that ‘‘all’’ or ‘‘most’’ of the political actors in question are involved in corruption and 0 otherwise. The significant increase in the perceived corruption of parliament members coincides with the decrease in trust toward the parliament and the ruling party reported above.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+413
+
+J. Cariolle et al.
+
+Table 5 Internet use and perception of corruption of political actors.
+
+(1) (2) (3) (4) (5) (6) Presidency office Parliament members Local gov. councilors Gov. officials Police Judges & Magistrates
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.627∗∗∗ 0.523∗∗∗ 0.557∗∗∗ 0.581∗∗∗ 0.534∗∗∗ 0.553∗∗∗
+
+(0.095) (0.089) (0.086) (0.087) (0.083) (0.079)
+
+Second stage regression: Internet use 0.130 0.266∗∗∗ 0.117 −0.139 −0.020 0.162∗
+
+(0.099) (0.095) (0.090) (0.113) (0.130) (0.086) Individual controls ✓ ✓ ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓ ✓ ✓
+
+Observations 89,058 90,885 88,585 93,068 94,982 91,206 Mean dependent variable 0.350 0.377 0.376 0.424 0.515 0.363 Mean Internet use 0.907 0.914 0.930 0.914 0.909 0.910 KP Wald F-stat 43.125 34.575 41.622 44.304 41.609 49.107 KP LM P-val 0.000 0.001 0.000 0.000 0.000 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of corruption of political actors. The dependent variables are dummy variables equal to 1 if the individual believes that all or most of the actors in question are involved in corruption and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on individuals in 35 countries between 2011 and 2018.
+
+6.2. Demonstrations and political participation
+
+To further support the evidence that trust in institutions and preference for democracy is altered by the Internet, we examine the nexus between the Internet and the likelihood of attending demonstrations and voting. Trust in government and protests are closely related, as shown by Sangnier and Zylberberg (2017), who find that trust in political leaders and institutions sharply decreases after protests in Africa. Similarly, Ketchley and El-Rayyes (2021) reveal a direct link between protest and popular perceptions of democracy during Egypt’s post-Mubarak transition. Moreover, several studies have documented the enhanced information and coordination role played by the Internet in organizing collective actions (Fergusson and Molina, 2019; Manacorda and Tesei, 2020; Guiffard, 2022).
+
+We begin by examining citizens’ responses to a question about their participation in protests or demonstrations over the past year. We note that the phrasing of the question suggests a loss of trust and dissatisfaction: ‘‘Here is a list of actions that people sometimes take as citizens when they are dissatisfied with government performance. For each of these, please tell me whether you, personally, have done any of these things during the past year. If not, would you do this if you had the chance: Participated in a demonstration or protest march’’. We then create a dummy variable that takes a value of 1 if the respondent reports participating at least once and 0 otherwise. Next, we turn to a more objective measure of protests using the Armed Conflict Location and Event Data Project (ACLED), which is a publicly available dataset that records political violence and protest events across the world, including the location, date, actors involved, and type of event. We assess the relationship between the average frequency of Internet use and the number of protests at the district level. Our results are presented in Table 6. We find a positive and significant impact of the frequency of Internet use on the probability of attending demonstrations, as well as on the number of protests at the district level.16,17
+
+Finally, we measure citizens’ voting behavior by relying on the following survey question: ‘‘Understanding that some people were unable to vote in the most recent national election in [20xx], which of the following statements is true for you?’’. First, we consider a dummy variable that takes the value of 1 if the respondent reports voting in the election and 0 otherwise.18 Then, we
+
+16 The low mean of the number of protests in our sample, relative to the large estimates obtained from regressing the number of protests on the average frequency of Internet use at the district-year level in column (2) of Table 6 can be attributed to the fact that 72% of the districts within our sample have recorded zero protests, thereby pulling the mean downward. 17 The district-level share of respondents who declare using the Internet on a weekly or daily basis included in our specification allows us to control for the coordination channel, highlighted by Guiffard (2022). 18 We exclude from the sample those who reported being too young to vote at the time of the most recent national election.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+414
+
+J. Cariolle et al.
+
+Table 6 Internet use and participation in demonstrations.
+
+Demonstrations
+
+(1) (2) Self-reported ACLED
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.591∗∗∗ 0.757∗∗∗
+
+(0.085) (0.105)
+
+Second stage regression: Internet use 0.249∗∗∗ 43.604∗∗∗
+
+(0.050) (16.708) Individual controls ✓ ✓ District controls ✓ ✓ Country controls ✓ ✓ District FE ✓ Year FE ✓
+
+Observations unit Individuals Districts Observations 98,878 3443 Mean dependent variable 0.104 1.922 Mean Internet use 0.895 0.717 KP Wald F-stat 47.870 52.387 KP LM P-val 0.000 0.000 Cluster District-Year Region-Year
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on attending demonstrations and on the number of protests. The dependent variable in column (1) is a dummy variable equal to 1 if the individual “has ever attended demonstrations” and 0 otherwise. The dependent variable in column (2) is the number of protests at the district-year level according to ACLED data. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year (region-year) level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer and ACLED datasets based on individuals in 35 countries between 2011 and 2018.
+
+consider a second dummy variable that takes the value of 1 if the respondent reports voting in the election or having the intention to vote but could not due to certain reasons,19 and 0 if the respondent reports deciding not to vote or not voting for some other unspecified reason. One caveat to using the aforementioned survey question to measure the impact of Internet use on voting behavior is the potential time gap between the survey date and the last election. To address this, we gathered information on each country’s national election dates from the International Foundation for Electoral Systems (IFES) ElectionGuide website and calculated the time elapsed between the survey date and the previous national election. We then introduced an interaction term between Internet use and whether the election took place in the past year, two years ago, or even further in the past, spanning multiple years.20
+
+Results reported in Table 7 show a positive association between Internet use frequency and voting in the most recent national election, though this association is only significant when considering the interaction with the number of years from the election. This positive effect diminishes as the time elapsed since the last election increases. However, when considering the intention to vote dummy variable, the effect of the Internet becomes significant at the 10% level and exhibits similar patterns when accounting for the number of years from the last election.
+
+Overall, our findings reveal a complex and rich relationship between Internet use, demonstrations, voting, and preference for democracy. While Internet use positively affects participation in demonstrations, maybe as a response to poorly-performing political actors, its impact on voting is less pronounced but still significant when considering individuals’ intention to vote and accounting for the time gap between the election and survey dates. This indicates that the Internet can serve as a platform that motivates both spontaneous forms of political engagement, such as demonstrations, and institutional forms like voting. On the one hand, it plays a role in mobilizing individuals, potentially facilitating collective actions, and providing a platform to express dissatisfaction with
+
+19 This includes the following responses: ‘‘You were not registered to vote’’, ‘‘You could not find the polling station’’, ‘‘You were prevented from voting’’, ‘‘You did not have time to vote’’, or ‘‘You did not vote because you could not find your name in the voters’ register’’. 20 We instrument the interaction term using our main IV interacted with the number of years elapsed between the survey date and the last election.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+415
+
+J. Cariolle et al.
+
+Table 7 Internet use and voting in national elections.
+
+Voting Intention to vote
+
+(1) (2) (3) (4)
+
+First stage regressions
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.573∗∗∗ 0.567∗∗∗ 0.573∗∗∗ 0.567∗∗∗
+
+(0.085) (0.126) (0.085) (0.126)
+
+SMC number × fixed 3G share × years from election −0.000 −0.000 (0.012) (0.012)
+
+First stage regression: Internet use × years from election
+
+SMC number × fixed 3G share 0.397 0.397 (0.509) (0.509)
+
+SMC number × fixed 3G share × years from election 0.344∗∗∗ 0.344∗∗∗
+
+(0.037) (0.037)
+
+Second stage regressions Internet use 0.023 0.206∗∗ 0.128∗ 0.235∗∗∗
+
+(0.076) (0.089) (0.073) (0.073) Years from election 0.027∗∗∗ 0.019∗∗
+
+(0.009) (0.008) Internet use × years from election −0.041∗∗∗ −0.023∗∗∗
+
+(0.010) (0.008) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 92,410 92,410 92,410 92,410 Mean dependent variable 0.762 0.762 0.883 0.883 Mean Internet use 0.862 0.862 0.862 0.862 KP Wald F-stat 45.271 14.128 45.271 14.128 KP LM P-val 0.000 0.000 0.000 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news and its interaction with the number of years from last election on voting in the last national election. The dependent variable in columns (1) and (2) is a dummy variable equal to 1 if the individual “has voted in the last national election” and 0 otherwise. The dependent variable in columns (3) and (4) is a dummy variable equal to 1 if the individual “has voted in the last national election” or “could not find the polling station” or “did not have time to vote” or “did not vote because his or her name was not in the registry” or “was not registered to vote” or “was prevented from voting” and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Years from election is the number of years between the survey date and the last national election. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on individuals in 35 countries between 2011 and 2018.
+
+the political system. On the other hand, it also has the potential to act as a conduit of political information, expanding individuals’ knowledge about candidates and elections, thereby fostering increased participation among voters (Tolbert and McNeal, 2003).
+
+One might think that this greater participation through both protests and voting reflects a greater attachment to the intrinsic values of democracy, but our results show the opposite. Internet users are protesting and voting more, but turning away from democracy: how can this apparent puzzle be explained? To address it, we propose a few ideas, based on the interplay of two strands of literature.
+
+The first looks at how protest shapes political attitudes (political preference and voting), and shows that the circumstances surrounding protests are not neutral with regard to their consequences: their size, intensity, form, and the degree of censorship, all shape the efficacy of protests. In the context of the 2006 Latino immigrant rallies in the USA, Wallace et al. (2014) explore how the proximity of small versus large-scale protests has a differential effect on people’s perceptions of political efficacy (limited voice in government, politics is complicated). Analyzing the same episode, Branton et al. (2015) use a quasi-experiment setting to demonstrate that the effect of protest on political preferences hinges on the local intensity of street-level activism. Andrews et al. (2016) find that white Southerners have more positive attitudes toward anti-segregation protests in areas that experienced a sit-in during the civil rights movement. Likewise, Mazumder (2018) argues that counties became more politically liberal after having hosted a civil rights demonstration.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+416
+
+J. Cariolle et al.
+
+The second is a characterization of the Internet generation of protests, based in particular on Tufekci (2017)’s much-cited work: a powerful tool for almost instantaneous coordination and mobilization, the Internet mobilizes large crowds devoid of leadership, with a horizontal structure, and very often proves powerless to structure a reasoned political offer in a context of democratic transition. The structuring of opinions by Facebook through algorithms that prioritize radical ideas, and polarizing debates, is a feature that appears to be transversal to many contexts. Internet-generated protests may have neither the rootedness over time nor the effectiveness that movements like the U.S. civil rights movement were able to achieve, be they in mature democracies (Boyer et al., 2020) or in countries undergoing democratic transition. Tufekci (2017) speaks of tactical freezing, i.e. the inability of these Internet-induced movements to press for tangible political change, as digital technologies enhance their ability to form without too much prior planning, dealing with issues only as they arise, and by the people who emerge (‘‘adhocracy’’).
+
+Our results therefore find an echo in the literature showing that Internet users’ opinions tend to become simplified and radicalized, while the Internet provides them with the means to mobilize through communities that nurture and amplify discontent and expose them to increasingly radicalized content: as Internet-induced protests and content proliferate, distrust toward institutions increases and preference for democracy diminishes. In addition to all this, the vote can increase in favor of conservative parties that advocate for order and stability, rather than the rights attached to democracy and liberalism, from which individuals exposed to street disorder turn away.21
+
+6.3. Internet as a misinformation technology?
+
+The Internet is often regarded as a ‘‘liberation technology’’ as it provides access to alternative and freer sources of information. However, it is also seen as a ‘‘misinformation technology’’ due to its ability to propagate censored or false information. The liberation versus misinformation technology debate can be apprehended through the lens of two features of the Internet: its low entry barriers cost and its reliance on user-generated rather than expert-generated content. The latter feature gives a voice to marginalized and extremist groups, all the more easily as the absence of safeguarding procedures coupled with the low fact-checking standards lead to a spread of misinformation and fake news, ultimately increasing political misperceptions.22
+
+This phenomenon of misinformation can be observed in democracies where the absence of regulation and the principle of press freedom allows false information to spread more easily. Misinformation can also prevail in non-democratic regimes where it is used as a means of propaganda and surveillance (Qin et al., 2017). However, in environments where censorship reigns, the Internet can act as a window to a more open and diverse array of news, from beyond the borders of the country, leading to higher expectations of governments and creating citizens who are prompt to criticize. These benefits of the Internet would make it a ‘‘liberation technology’’. All this is a matter of empirical validation.
+
+To provide evidence of the role played by the Internet as a (mis)information channel, we compare individuals’ perception of the level of democracy to experts’ ratings using two commonly used indices: the Polity2 index from the Polity5 project and the Regimes of the World index (RoW) from the V-Dem dataset. The Polity2 index ranges from −10 (hereditary monarchy) to +10 (consolidated democracy).23 The RoW index categorizes political regimes into four types: ‘‘Closed autocracy’’, ‘‘Electoral autocracy’’, ‘‘Electoral democracy’’, and ‘‘Liberal democracy’’. The distribution of the Polity2 index and the RoW categories in our baseline sample displayed in Fig. 7 provides insight into the political landscape. The majority of our observations are in countries scoring 4 or higher on the Polity2 index and classified as either electoral autocracies or democracies according to the RoW index.
+
+We create convergence dummies that reflect the convergence between individuals’ perceptions and experts’ ratings of the level of democracy using each of the two democracy indices. We proceed to a dichotomous split of our convergence dummies as described in Fig. 8. They are set equal to 1 if the Polity2 index is greater than or equal to 6, or if the RoW index category is electoral or liberal democracy (Polity2 index is less than or equal to 5, or the RoW index category is closed or electoral autocracy) and the respondent perceives his or her country as a full democracy or a democracy with minor problems (a democracy with major problems or not a democracy).
+
+In addition to comparing the citizens’ perceptions and experts’ ratings of the level of democracy, we also compare the citizens’ perceptions and experts’ ratings of the level of corruption among legislators. In Section 6.1, our findings indicate that Internet use is associated with a decrease in trust in the parliament and the ruling party, as well as an increase in the perceived corruption of parliament members. We create a convergence dummy variable that measures the alignment between citizens’ perceptions of corruption among parliament members on the one hand, and experts’ ratings on the other. To this end, we rely on the following question from the V-Dem database, which gauges legislators’ involvement in corrupt practices: ‘‘Do members of the legislature abuse their position for financial gain? This includes any of the following: (a) accepting bribes, (b) helping to obtain government contracts for firms that the legislator (or his/her family/friends/political supporters) own, (c) doing favors for firms in exchange
+
+21 While our results focus on the preferences and behaviors of Internet users, the influence of Internet-generated protests extends far beyond the circle of the latter and has effects on society as a whole. The Egyptian example is particularly instructive in this respect. In Ketchley and El-Rayyes (2021), the exposure to prolonged and disruptive street protests is shown to have led many Egyptians to equate democracy with the negative externalities of mobilization. By the same logic, greater experience of protests was associated with an increased recognition of the need for order and stability, and a greater readiness to sacrifice human rights in exchange for security (El-Mallakh, 2020). This resulted in a higher share of conservative votes in the regions most affected. 22 There is a growing literature documenting that political fake news and false information spread online (see, for instance, Mocanu et al. (2015), Allcott and Gentzkow (2017) and Grinberg et al. (2019)), and that they spread more rapidly and reach a larger audience than true news (Vosoughi et al., 2018). 23 Countries scoring between (−10 and −6) are considered ‘‘autocracies’’, those scoring between (−5 and 5) are considered ‘‘anocracies’’, and those scoring 6 or higher (6 to 10) are considered ‘‘democracies’’.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+417
+
+J. Cariolle et al.
+
+Fig. 7. Distribution of Polity2 and Regimes of the World (RoW) indices. Note: These figures show the (cumulative) distribution of the Polity2 and Regimes of the World (RoW) indices. Source: Authors’ calculation on Afrobarometer, Polity5, and V-Dem datasets based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Fig. 8. Convergence dummies construction based on Polity2 and Regimes of the World (RoW) indices. Notes: This figure illustrates the construction of convergence dummies based on the Polity2 and RoW indices. The dummy variables are equal to 1 if the Polity2 index is greater than or equal to 6, or if the RoW index category is electoral or liberal democracy (Polity2 index is less than or equal to 5, or the RoW index category is closed or electoral autocracy) and the respondent perceives his or her country as a full democracy or a democracy with minor problems (a democracy with major problems or not a democracy). Source: Authors’ elaboration on Afrobarometer, Polity5, and V-Dem datasets.
+
+for the opportunity of employment after leaving the legislature, (d) stealing money from the state or from campaign donations for personal use’’.24 This variable takes the value of 1 if the individual believes that ‘‘all’’ or ‘‘most’’ (‘‘some’’ or ‘‘none’’) members of parliament are involved in corruption and if experts’ assessments indicate that ‘‘most’’ or ‘‘many’’ (‘‘some’’, ‘‘a few’’, or ‘‘none’’) legislators probably engage in the aforementioned corrupt activities. To further test the hypothesis that the Internet is a (mis)information technology, we aim to investigate whether using the Internet to get informed increases or decreases comprehension of the core principles of democracy, such as the separation of executive, legislative, and judiciary power, freedom of speech, free and fair election, the rule of law, and other characteristics that are often absent in non-democratic regimes.
+
+24 Information is missing for Egypt (2013, 2015), Guinea (2013), and Mali (2012).
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+418
+
+J. Cariolle et al.
+
+Table 8 Preference for democracy and rejection of authoritarian alternatives.
+
+Authoritarian alternatives Sometimes non-democratic preferable Democracy preferable Total
+
+Reject none 7.88 3.61 4.17 Reject one 14.66 7.27 8.24 Reject two 31.66 21.07 22.46 Reject all 45.79 68.04 65.13 Total 100 100 100
+
+Notes: This table reports the percentage of respondents rejecting none, one, two, or all three authoritarian alternative rules (oneman rule, one-party rule, and military rule) among those who say that ‘‘democracy is preferable to any other kind of government’’ and those who say that ‘‘in some circumstances, a non-democratic government can be preferable’’. A coherent response is when an individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ or when he or she says ‘‘in some circumstances, a non-democratic government can be preferable’’ and ‘‘does not reject all three authoritarian alternatives’’. Coherent responses are displayed in bold. Source: Authors’ elaboration on Afrobarometer data based on 89,050 individuals in 35 countries between 2011 and 2018.
+
+Our variable for strict preference for democracy reflects a true preference for democracy, meaning that citizens who respond ‘‘democracy is preferable to any other kind of governance’’ reject all three authoritarian alternatives (one-man rule, one-party rule, and military rule). However, we find some incoherent answers when jointly looking at the preference for democracy and the rejection of authoritarian rule variables. Although some citizens say they prefer democracy, they are willing to tolerate certain types of authoritarian rule. Similarly, among citizens who say that non-democratic governance can be preferable at times, some tend to reject all alternative authoritarian rules.
+
+In Table 8, we report the percentage of those who reject none, one, two, or all authoritarian alternatives among those who state ‘‘in some circumstances, a non-democratic government can be preferable’’ and those who claim ‘‘democracy is preferable to any other kind of government’’. We find that 32% of those who prefer democracy do not reject all authoritarian alternatives and around 46% of those who sometimes prefer non-democratic rule reject all of them. These results suggest an inconsistency in respondents’ answers.
+
+To analyze the impact of Internet use on the probability of providing coherent responses to both questions, we consider a dummy variable that takes a value of 1 if citizens either ‘‘prefer democracy to any kind of government’’ and ‘‘reject all three authoritarian alternatives’’, or if they believe that ‘‘in some circumstances, a non-democratic government can be preferable’’ and ‘‘reject at most two of the three authoritarian alternatives’’.25 We present the IV results of the impact of using the Internet to get news on convergence and coherence dummies in Table 9.
+
+We find that regardless of the index used to construct the convergence dummy, the effect of the Internet is consistently negative and statistically significant, reflecting a divergence from experts’ ratings, be it on the issue of democracy or corruption.26 These results support the hypothesis that the Internet may act as a potential source of misinformation.27 Additionally, we find that Internet use decreases the probability of providing coherent answers, thereby suggesting a lack of consistent understanding of the questions related to the preference for democracy. This finding supplements our previous results on the Internet’s role as a misinformation technology. Nonetheless, the inconsistency in responses could be perceived as an indication of a varying comprehension of the term ‘‘democracy’’ among different countries and institutional contexts.
+
+7. Robustness checks
+
+We run several robustness checks on our IV baseline estimates reported in Table 3. We provide results tables in Appendix C. Alternative instrumentation. First, we test the robustness of our results to alternative instrumentation. As access to 2G mobile network provides basic Internet connectivity, which may allow the dissemination of political information, especially at the beginning of the estimation period or in remote areas, we construct a complementary instrument that weighs the number of SMCs by the fixed district’s 2G coverage (𝑆𝑀𝐶𝑐,𝑡× 𝑓𝑖𝑥𝑒𝑑2𝐺𝑠ℎ𝑎𝑟𝑒𝑑,𝑐). Even though accessing the Internet via the 2G network is not as easy as through the 3G or 4G networks, 2G technology was prevalent to access the Internet in Africa at the beginning of the 2010s. This additional instrument may therefore explain further variation in Internet use. We use both instruments in our IV regressions presented in Table C.1, and find a first stage with the expected signs and a high (effective) F-statistic (see Table C.2 for the effective F-statistic). The second stage results remain robust, except for satisfaction with democracy, which is no longer significant. We rely on the Hansen
+
+25 We exclude from the sample those who respond ‘‘to people like me, it does not matter what form of government we have’’ to the preference for democracy question as it does not provide a clear answer to compute the coherent answer dummy variable. 26 Given the continuous nature of the Polity2 index, we provide alternative approaches in the Online Appendix to construct the convergence dummy. These approaches entail varying the threshold used to define our dichotomous variable. 27 In a similar vein, a recent paper by Amaral-Garcia et al. (2022) on health procedures showed that mothers with better Internet access had higher rates of elective C-sections, which are chosen by the less informed mothers, rather than emergency C-sections, which are typically recommended by medical experts. This also suggests that the availability of online information may lead to deviations from expert recommendations and sub-optimal decision-making by individuals, depending on the quality of online information and the potential spread of misinformation.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+419
+
+J. Cariolle et al.
+
+Table 9 Internet use, convergence toward experts’ ratings, and coherent responses to preference for democracy.
+
+Convergence Coherence
+
+(1) (2) (3) (4) Polity2 RoW Corruption Coherence
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.594∗∗∗ 0.594∗∗∗ 0.514∗∗∗ 0.640∗∗∗
+
+(0.083) (0.083) (0.089) (0.079)
+
+Second stage regression: Internet use −0.283∗∗ −0.278∗∗ −0.346∗∗∗ −0.187∗∗∗
+
+(0.128) (0.123) (0.111) (0.071) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 99,938 99,938 88,283 89,050 Mean dependent variable 0.586 0.578 0.580 0.662 Mean Internet use 0.895 0.895 0.928 0.902 KP Wald F-stat 51.050 51.050 33.422 66.075 KP LM P-val 0.000 0.000 0.001 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ convergence toward experts’ ratings and coherent responses to the strict preference for democracy variable. The dependent variables in columns (1), (2), and (3) are dummy variables equal to 1 if the individual convergences toward experts’ ratings and 0 otherwise. In column (1), we rely on the Polity2 index from the Polity5 project dataset to compute the convergence dummy. In column (2), we rely on the RoW index from the V-Dem dataset. In column (3), we rely on the legislature corrupt activities index from the V-Dem dataset. The dependent variable in column (4) is a dummy variable equal to 1 if the individual responds coherently to strict preference variable set of questions responding that ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejecting all three authoritarian alternatives’’ or responding that ‘‘in some circumstances, a non-democratic government can be preferable’’ and ‘‘does not reject all three authoritarian alternatives’’ and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer, Polity5, and V-Dem datasets based on individuals in 35 countries between 2011 and 2018.
+
+J statistic 𝑝-value to test the over-identification restriction and find that it is less than 5%, suggesting a potential risk of endogeneity regarding this particular outcome.28
+
+Controlling for satisfaction with democracy. Second, we assess citizens’ satisfaction with democracy as a potential confounding factor.29 For instance, citizens (dis)satisfied with an electoral outcome or a government policy might be more prone to interpreting information acquired online in a way that magnifies their (negative) positive perceptions of democracy. Additional estimations are presented in Table C.4 and remain robust to controlling for this potentially omitted factor. We even observe an increase in the magnitude of the coefficient of interest, suggesting satisfaction with democracy dampens the true effect of Internet use on individuals’ perceptions of democratic institutions.
+
+Excluding countries one by one. To ensure that our results are not driven by any particular country, we assess their robustness by dropping one country at a time from our estimations. The second stage coefficients on Internet use are presented in Fig. C.1. Results in panel (c) indicate that the negative effect of Internet use on the perception of the extent of democracy is sensitive to the removal of South Africa from the sample, but this sensitivity disappears when the mediating effect of satisfaction with democracy is controlled for as shown in Fig. C.2. Otherwise, our main conclusions remain unchanged.
+
+Excluding districts with less than 30 observations. We then re-estimate the model by excluding districts with less than 30 observations to ensure that our findings are not driven by the small sample size in certain districts. The results, as shown in Table C.5,
+
+28 We also report the conditional likelihood ratio (CLR) test in Table C.3. 29 Previous analysis has shown that this outcome is a fluctuating construct more difficult to analyze, as highlighted in the previous robustness check, and as discussed in Section 5.2.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+420
+
+J. Cariolle et al.
+
+indicate that our estimates for the Internet variable remain negative and significant, but their magnitude increases considerably. Nevertheless, we observe a loss of statistical significance for satisfaction with democracy.
+
+Excluding districts with no Internet users. We perform additional estimations by excluding districts where no individuals reported using the Internet to ensure the robustness of our findings. The results remain consistent and robust, as shown in Table C.6.
+
+Excluding control variables. We further test the robustness of our findings by removing potential confounding variables, such as satisfaction with economic conditions, interest in politics, traditional media use, and country-specific controls, from our estimations. Fig. C.3 illustrates that our results remain robust to the exclusion of these variables.
+
+Falsification test. Finally, we conduct a falsification test following a recent study by Borusyak and Hull (2023). The authors note that omitted variable bias can arise from non-random exposure to an exogenous shock when studying its effects on an outcome variable. In our study, the number of SMCs is as good as randomly assigned, but a district’s exposure to their deployment may be non-random. In fact, the observation unit’s non-random exposure to shocks may lead to bias that could arise if some units are systematically associated with a higher probability of using the Internet than others, as a consequence of their non-random exposure to connectivity shocks. For instance, even when the deployment of SMCs is as-good-as-randomly assigned across countries, individuals located in economic and geographic centers may, for a given 3G coverage, be more likely to use the Internet than those located in peripheral districts as the former could benefit from a faster or more stable Internet connection. To address this potential bias, we follow the authors’ proposed solution. We generate counterfactual shocks by first generating and averaging random normal, Poisson, and uniform draws for the number of SMCs. Next, we regress our initial IV on these randomly generated shocks weighted by the fixed 3G network share (including district and year fixed effects) and we retrieve the resulting residuals to obtain what Borusyak and Hull (2023) refer to as the recentered instrument that purges bias from non-random exposure. We present the impact of the Internet on our dependent variables using the recentered IV in Table C.7. First stage results remain robust, with the recentered IV having a positive and significant impact on Internet use, and our F-statistic remains sufficiently high. Second stage results are also robust to this falsification test and consistent with our baseline estimates.
+
+8. Conclusions
+
+The widespread use of the Internet as a means of information and communication has fueled ongoing debates on whether it serves as a tool for promoting open and freer access to information or, conversely, as a facilitator of misinformation. All these debates are about the implications and significance of the technology of the Internet for democracy, as argued by Flynn et al. (2017). If the use of the Internet produces biases in perceptions, beliefs, and judgments, which do not cancel each other out, this can lead to misperceptions at the macro level and to the formulation of erroneous social and economic policies (on immigration, security, public health, public finance), with injurious consequences. Despite the prevalence of such discussions, there is still a need for careful micro-level analysis on the impact of Internet use on perceptions of democracy, particularly in a developing context (Acemoglu et al., 2021). This paper aims to fill this gap by investigating the role of the Internet as a (mis)information technology through an analysis of the impact of regular Internet news consumption on citizens’ perception of democracy in 35 African countries using three rounds of the Afrobarometer survey spanning from 2011 to 2018.
+
+We use citizens’ preference for democracy, perception of the level of democracy, and satisfaction with democracy as our main outcome variables. To analyze the impact of Internet use on these variables, we adopt an IV approach, which combines an external and internal source of digital vulnerability as an instrument. Specifically, we consider the number of SMCs as an exogenous connectivity shock and weigh it by districts’ 3G signal coverage as an exposure factor to instrument Internet use.
+
+This paper’s main finding is that the Internet as an alternative source of news has a negative and significant effect on citizens’ preference for and perception of the extent of democracy. A one-unit increase in Internet use frequency decreases the probability of (strictly) preferring democracy by 31.7 (26) and perceiving the country as a democracy by 23.3 percentage points. This suggests that citizens are more likely to prefer non-democratic governance in some circumstances and develop more negative views of the country’s level of democracy. However, there was a positive, although not robust, effect on satisfaction with democracy. We believe that satisfaction with the functioning of democracy in one’s country is a complex and multifaceted construct that can be challenging to analyze. It may be influenced by various factors, such as frustration after an undesired or unanticipated electoral election outcome or government policies, which are difficult to observe and control for in our analysis. In comparison, measures of preference for democracy and perception of its level are relatively more straightforward and precise concepts that can provide a clearer picture of citizens’ attitudes toward democracy.
+
+When investigating the potential channels through which Internet news negatively affects citizens’ perception of democracy, we find that frequent use of the Internet for news leads to a decrease in trust in the parliament and the ruling party, as well as an increased perception of corruption among parliament members. This aligns with the study by Guriev et al. (2021) on 3G expansion and government approval. We also find that Internet users are more likely to engage in street protests, which is consistent with deteriorated trust in African political leaders and institutions resulting in street protests (Sangnier and Zylberberg, 2017). The Internet-induced increase in voting may correspond to a desire for greater order and stability, values promoted by the conservative parties, and which in fact coincide with the distrust of democracy that we are highlighting. Additionally, our study suggests that negative attitudes toward democracy and its institutions may stem from a misperception of how it functions. We document that Internet users’ perception of the level of democracy and corruption diverges from experts’ ratings. Furthermore, we find that Internet users are more likely to give inconsistent answers regarding preference for democracy questions, which may result from an altered understanding of democracy across different countries and institutional settings.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+421
+
+J. Cariolle et al.
+
+The findings of this article contribute to the wider literature on the role of information technology in consolidating democracy in Africa. They have important policy implications, particularly in the context of developing countries where democratic institutions may be more fragile and the journey toward democratization may experience reversals. By spreading false information, blurring the visibility of government action, reducing accountability and trust in democratic institutions, and leading people to doubt them, the Internet can encourage people to distrust democracy and prefer other regimes. What is more, citizens influenced by the Internet tend to express their discontent and distrust by engaging in street protests, sometimes violent, which people do not like and whose negative externalities they associate with democracy.
+
+Governments need to take steps to ensure that citizens have access to accurate and reliable information while also addressing issues of corruption and political accountability. In addition, efforts should be made to promote civic engagement, as a means of strengthening democracy. Finally, media literacy programs and fact-checking can play an important role in helping citizens critically evaluate the information they find online and form informed opinions about their country’s governance and policies, thus limiting the spread of online fake news (Barrera et al., 2020; Henry et al., 2022). Hence, as the Internet continues to play a vital role in shaping public opinion, policymakers and media outlets need to combat misinformation and promote critical thinking among citizens.
+
+Acknowledgments
+
+We would like to thank Olivia Bertelli, Simone Bertoli, Lisa Chauvet, Axel Dreher, Emiliano Grossman, Malka Guillot, Peter Hull, Irène Hu, Xavier Jaravel, Florian Léon, Oyebola Okunogbe, Patricia Schafer, Arthur Silve, Jérôme Valette, numerous participants at the 3rd International Conference on Globalization and Development (GLAD, Göttingen), the Doctoriales Development Workshop (Paris), the 2022 European Public Choice Society Meeting (EPCS, Braga), the 21st Journées Louis-André Gérard-Varet (LAGV, Marseille), the 2022 International Conference on Development Economics (ICDE, Clermont-Ferrand), the 5th Workshop on Economics & Politics (EP@L, Lille), the CSAE Conference 2023 (CSAE, Oxford), and the CERDI Research Seminar (CERDI, ClermontFerrand), as well as the Editor and three anonymous referees for their valuable comments and suggestions. We are also grateful to Olivier Santoni for his contribution in calculating network coverage using data provided by GSMA-Collins Bartholomew’s Mobile Coverage Explorer, and Alban Cornier for calculating the number of protests using the Armed Conflict Location & Event Data Project (ACLED). This work was supported by the Agence Nationale de la Recherche of the French government through the programme ‘Investissements d’avenir’ (ANR-10-LABX-14-01), through the IDGM + initiative led by Ferdi (Fondation pour les études et recherches sur le développement international).
+
+Appendix A. Additional descriptive statistics
+
+See Tables A.1–A.3.
+
+Appendix B. Additional tests
+
+See Tables B.1 and B.2.
+
+Appendix C. Robustness checks
+
+See Tables C.1–C.7 and Figs. C.1–C.3.
+
+Appendix D. Supplementary data
+
+Supplementary material related to this article can be found online at https://doi.org/10.1016/j.jce.2024.01.002.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+422
+
+J. Cariolle et al.
+
+Table A.1 Sample statistics, by country.
+
+Country Freq. Percent
+
+Algeria 526 0.53 Benin 2969 2.97 Botswana 3131 3.13 Burkina Faso 2808 2.81 Burundi 1102 1.10 Cameroon 2562 2.56 Cape Verde 2940 2.94 Côte d’Ivoire 2423 2.42 Egypt 820 0.82 Gabon 2094 2.10 Ghana 4216 4.22 Guinea 3238 3.24 Kenya 4830 4.83 Lesotho 1912 1.91 Liberia 2420 2.42 Madagascar 1497 1.50 Malawi 4945 4.95 Mali 3266 3.27 Mauritius 3246 3.25 Morocco 2081 2.08 Mozambique 3094 3.10 Namibia 2084 2.09 Niger 2944 2.95 Nigeria 3572 3.57 Senegal 2955 2.96 Sierra Leone 2739 2.74 South Africa 5783 5.79 Sudan 2494 2.50 Tanzania 5105 5.11 Togo 2841 2.84 Tunisia 719 0.72 Uganda 4345 4.35 Zambia 2762 2.76 Zimbabwe 4507 4.51 Gambia 968 0.97
+
+Total 99,938 100.00
+
+Note: This table reports the number of observations by country. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Table A.2 Sample statistics, by year.
+
+Year Freq. Percent
+
+2011 8214 8.22 2012 19,986 20.00 2013 7596 7.60 2014 19,828 19.84 2015 12,813 12.82 2016 4940 4.94 2017 16,695 16.71 2018 9866 9.87
+
+Total 99,938 100.00
+
+Note: This table reports the number of observations by year. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Table A.3 Correlation matrix of the dependent variables.
+
+Preference Strict preference Extent Satisfaction
+
+Preference 1.000 Strict preference 0.570*** 1.000 Extent 0.096*** 0.057*** 1.000 Satisfaction 0.105*** 0.059*** 0.526*** 1.000
+
+Note: This table reports the correlation coefficients between preference for democracy, strict preference for democracy, extent of democracy, and satisfaction with democracy; *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+423
+
+J. Cariolle et al.
+
+Table B.1 Reduced form regressions.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+SMC number × fixed 3G share −0.189∗∗∗ −0.155∗∗∗ −0.138∗∗ 0.153∗∗∗
+
+(0.050) (0.048) (0.061) (0.058) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 99,938 99,938 99,938 99,938 Adjusted 𝑅2 0.080 0.129 0.173 0.183 Mean dependent variable 0.773 0.525 0.566 0.503 Wald test P-val 0.000 0.001 0.023 0.008
+
+Notes: This table reports the reduced form results. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses; *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Table B.2 Anderson-Rubin (AR) test.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+AR P-val 0.009 0.022 0.075 0.021 AR Confidence set [−0.574,−0.103] [−0.415,−0.061] [−0.470, 0.022] [0.050, 0.506]
+
+Note: This table reports the Anderson-Rubin (AR) weak-instrument-robust test 𝑝-value and confidence intervals of the coefficient on the endogenous variable (Internet use) in the IV estimations. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+424
+
+J. Cariolle et al.
+
+Table C.1 Two instruments.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+First stage regression: Internet use
+
+SMC number × fixed 2G share 0.237∗∗∗ 0.237∗∗∗ 0.237∗∗∗ 0.237∗∗∗
+
+(0.047) (0.047) (0.047) (0.047)
+
+SMC number × fixed 3G share 0.511∗∗∗ 0.511∗∗∗ 0.511∗∗∗ 0.511∗∗∗
+
+(0.084) (0.084) (0.084) (0.084) Second stage regression: Internet use −0.315∗∗∗ −0.250∗∗∗ −0.176∗∗ 0.076 (0.079) (0.075) (0.087) (0.133) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 99,938 99,938 99,938 99,938 Mean dependent variable 0.773 0.525 0.566 0.503 Mean Internet use 0.895 0.895 0.895 0.895 KP Wald F-stat 42.488 42.488 42.488 42.488 KP LM P-val 0.000 0.000 0.000 0.000 Hansen J P-val 0.967 0.860 0.360 0.001
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of democracy using two IVs. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. SMC number × fixed 2G (3G) share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 2G (3G) network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Table C.2 Two instruments: effective F-stat.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+Effective F-stat 30.089 30.089 30.089 30.089
+
+Confidence level alpha: 5%
+
+tau = 5% 23.494 23.110 23.936 24.266 tau = 10% 14.655 14.442 14.900 15.083 tau = 15% 9.701 9.580 9.840 9.944 tau = 20% 7.848 7.760 7.949 8.025
+
+Notes: This table reports the weak instrument test of Olea and Pflueger (2013). It tests the null hypothesis of weak instruments. The test rejects the null hypothesis when the effective F-statistic exceeds a critical value, which depends on the estimator, the significance level, and the desired weak instrument threshold tau. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+425
+
+J. Cariolle et al.
+
+Table C.3 Two instruments: conditional likelihood ratio (CLR) test.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+CLR P-val 0.000 0.005 0.106 0.983 CLR Confidence set [−0.484,−0.169] [−0.393,−0.094] [−0.342, 0.030] [−0.346, 0.289] J P-val 0.545 0.383 0.292 0.001
+
+Note: This table reports the conditional likelihood ratio (CLR) weak-instrument-robust test 𝑝-value, confidence intervals of the coefficient on the endogenous variable (Internet use) in the IV estimations, and the J overidentification test 𝑝-value. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Table C.4 Controlling for satisfaction with democracy.
+
+(1) (2) (3) Preference Strict Preference Extent
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.603∗∗∗ 0.603∗∗∗ 0.603∗∗∗
+
+(0.083) (0.083) (0.083)
+
+Second stage regression: Internet use −0.332∗∗∗ −0.265∗∗∗ −0.343∗∗∗
+
+(0.106) (0.079) (0.098) Individual controls ✓ ✓ ✓ District controls ✓ ✓ ✓ Country controls ✓ ✓ ✓ District FE ✓ ✓ ✓ Year FE ✓ ✓ ✓
+
+Observations 99,938 99,938 99,938 Mean dependent variable 0.773 0.525 0.566 Mean Internet use 0.895 0.895 0.895 KP Wald F-stat 52.406 52.406 52.406 KP LM P-val 0.000 0.000 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of democracy. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says “democracy is preferable to any other kind of government” and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says “democracy is preferable to any other kind of government” and “rejects all three authoritarian alternatives” and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as “a full democracy” or “a democracy with minor problems” and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, regular newspaper use dummy, and satisfaction with how democracy works in the country. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+426
+
+J. Cariolle et al.
+
+Fig. C.1. Coefficients plots: dropping countries one by one. Notes: These figures illustrate the Internet use coefficients obtained from the second stage IV regressions of the effect of Internet use on preference for democracy in (a), strict preference for democracy in (b), the extent of democracy in (c), and satisfaction with democracy in (d), dropping countries one by one. The country dropped is indicated on the 𝑥-axis. Source: Authors’ elaboration on Afrobarometer data.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+427
+
+J. Cariolle et al.
+
+Fig. C.2. Coefficients plots: dropping countries one by one and controlling for satisfaction with democracy. Notes: These figures illustrate the Internet use coefficients obtained from the second stage IV regressions of the effect of Internet use on preference for democracy in (a), strict preference for democracy in (b), and the extent of democracy in (c), dropping countries one by one. The country dropped is indicated on the 𝑥-axis. Source: Authors’ elaboration on Afrobarometer data.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+428
+
+J. Cariolle et al.
+
+Table C.5 Excluding districts with less than 30 observations.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.344∗∗∗ 0.344∗∗∗ 0.344∗∗∗ 0.344∗∗∗
+
+(0.126) (0.126) (0.126) (0.126)
+
+Second stage regression: Internet use −0.977∗∗ −0.557∗∗ −1.072∗∗ −0.097 (0.414) (0.261) (0.444) (0.252) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 55,932 55,932 55,932 55,932 Mean dependent variable 0.782 0.550 0.561 0.496 Mean Internet use 1.073 1.073 1.073 1.073 KP Wald F-stat 7.449 7.449 7.449 7.449 KP LM P-val 0.041 0.041 0.041 0.041
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of democracy excluding districts with less than 30 observations. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on 55,932 individuals in 32 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+429
+
+J. Cariolle et al.
+
+Table C.6 Excluding districts with no Internet users.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+First stage regression: Internet use
+
+SMC number × fixed 3G share 0.576∗∗∗ 0.576∗∗∗ 0.576∗∗∗ 0.576∗∗∗
+
+(0.087) (0.087) (0.087) (0.087)
+
+Second stage regression: Internet use −0.326∗∗∗ −0.248∗∗∗ −0.256∗∗ 0.263∗∗
+
+(0.113) (0.085) (0.119) (0.107) Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓
+
+Observations 90,173 90,173 90,173 90,173 Mean dependent variable 0.773 0.529 0.559 0.498 Mean Internet use 0.992 0.992 0.992 0.992 KP Wald F-stat 43.779 43.779 43.779 43.779 KP LM P-val 0.000 0.000 0.000 0.000
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of democracy excluding districts with no Internet users. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. SMC number × fixed 3G share is the interaction between the number of SMCs and the share of the individual’s district of residence covered with 3G network in the first Afrobarometer survey wave used in our analysis. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on 90,173 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+430
+
+J. Cariolle et al.
+
+Fig. C.3. Coefficients plots: dropping control variables. Notes: These figures illustrate the Internet use coefficients obtained from the second stage IV regressions of the effect of Internet use on preference for democracy in (a), strict preference for democracy in (b), the extent of democracy in (c), and satisfaction with democracy in (d), dropping potential bad controls. Dropped controls are indicated on the 𝑦-axis. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+431
+
+J. Cariolle et al.
+
+Table C.7 Falsification test.
+
+(1) (2) (3) (4) Preference Strict Preference Extent Satisfaction
+
+Panel A: Normal distribution First stage regression: Internet use
+
+Recentered IV 0.594∗∗∗ 0.594∗∗∗ 0.594∗∗∗ 0.594∗∗∗
+
+(0.083) (0.083) (0.083) (0.083) KP Wald F-stat 51.047 51.047 51.047 51.047 KP LM P-val 0.000 0.000 0.000 0.000
+
+Second stage regression: Internet use −0.317∗∗∗ −0.260∗∗∗ −0.233∗∗ 0.258∗∗
+
+(0.107) (0.081) (0.114) (0.104)
+
+Panel B: Poisson distribution First stage regression: Internet use
+
+Recentered IV 0.595∗∗∗ 0.595∗∗∗ 0.595∗∗∗ 0.595∗∗∗
+
+(0.083) (0.083) (0.083) (0.083) KP Wald F-stat 51.183 51.183 51.183 51.183 KP LM P-val 0.000 0.000 0.000 0.000
+
+Second stage regression: Internet use −0.316∗∗∗ −0.260∗∗∗ −0.232∗∗ 0.257∗∗
+
+(0.107) (0.081) (0.114) (0.104)
+
+Panel C: Uniform distribution First stage regression: Internet use
+
+Recentered IV 0.594∗∗∗ 0.594∗∗∗ 0.594∗∗∗ 0.594∗∗∗
+
+(0.083) (0.083) (0.083) (0.083) KP Wald F-stat 50.991 50.991 50.991 50.991 KP LM P-val 0.000 0.000 0.000 0.000
+
+Second stage regression: Internet use −0.318∗∗∗ −0.261∗∗∗ −0.233∗∗ 0.258∗∗
+
+(0.108) (0.081) (0.114) (0.104)
+
+Individual controls ✓ ✓ ✓ ✓ District controls ✓ ✓ ✓ ✓ Country controls ✓ ✓ ✓ ✓ District FE ✓ ✓ ✓ ✓ Year FE ✓ ✓ ✓ ✓ Observations 99,938 99,938 99,938 99,938 Mean dependent variable 0.773 0.525 0.566 0.503 Mean Internet use 0.895 0.895 0.895 0.895
+
+Notes: This table reports the first and second stages of IV results of the effect of Internet use to get news on individuals’ perception of democracy using recentered IV as instrument. The dependent variable in column (1) is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and 0 otherwise. In column (2), it is a dummy variable equal to 1 if the individual says ‘‘democracy is preferable to any other kind of government’’ and ‘‘rejects all three authoritarian alternatives’’ and 0 otherwise. In column (3), it is a dummy variable equal to 1 if the individual perceives his or her country as ‘‘a full democracy’’ or ‘‘a democracy with minor problems’’ and 0 otherwise. In column (4), it is a dummy variable equal to 1 if the individual is ‘‘very’’ or ‘‘fairly’’ satisfied with how democracy works in his or her country and 0 otherwise. Recentered IV is obtained by retrieving the residuals of the regression of our initial IV on the average of randomly generated normal (Panel A), Poisson (Panel B), and uniform (Panel C) variates of the number of SMCs weighted by the fixed 3G network share for each observation. Internet use is an ordered categorical variable equal to 0 if the individual never uses the Internet, 1 if he or she uses it less than once a month, 2 if he or she uses it a few times a month, 3 if he or she uses it a few times a week, and 4 if he or she uses it every day. Individual controls include age, age squared, gender, urban dummy, education, employment status, perception of own living conditions, perception of the country’s economic condition, interest in politics, regular TV use dummy, regular radio use dummy, and regular newspaper use dummy. District controls include nighttime light, local Internet incidence, 2G network coverage, 3G network coverage, and the log of the distance from district’s centroid to the closest Internet infrastructure. Country controls include log GDP per capita, Polity2 index, unemployment rate, and the number of SMCs. Standard errors clustered at the district-year level are reported in parentheses: *** p < 0.01, ** p < 0.05, * p < 0.1. Source: Authors’ elaboration on Afrobarometer data based on the baseline sample of 99,938 individuals in 35 countries between 2011 and 2018.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+432
+
+J. Cariolle et al.
+
+References
+
+Acemoglu, D., Ajzenman, N., Aksoy, C.G., Fiszbein, M., Molina, C.A., 2021. (Successful) Democracies Breed Their Own Support. Working Paper 29167, National
+
+Bureau of Economic Research, http://dx.doi.org/10.3386/w29167. Allcott, H., Gentzkow, M., 2017. Social media and fake news in the 2016 election. J. Econ. Perspect. 31 (2), 211–236. http://dx.doi.org/10.1257/jep.31.2.211. Amaral-Garcia, S., Nardotto, M., Propper, C., Valletti, T., 2022. Mums go online: Is the Internet changing the demand for health care? Rev. Econ. Stat. 104 (6),
+
+1157–1173. http://dx.doi.org/10.1162/rest_a_01033. Anderson, T.W., Rubin, H., 1949. Estimation of the parameters of a single equation in a complete system of stochastic equations. Ann. Math. Stat. 20 (1), 46–63.
+
+http://dx.doi.org/10.1214/aoms/1177730090. Andrews, K.T., Beyerlein, K., Tucker Farnum, T., 2016. The legitimacy of protest: explaining White Southerners’ attitudes toward the civil rights movement. Soc.
+
+Forces 94 (3), 1021–1044. http://dx.doi.org/10.1093/sf/sov097. Andrews, I., Stock, J.H., Sun, L., 2019. Weak instruments in instrumental variables regression: Theory and practice. Annu. Rev. Econ. 11, 727–753. http:
+
+//dx.doi.org/10.1146/annurev-economics-080218-025643. Bailard, C.S., 2012. Testing the internet’s effect on democratic satisfaction: A multi-methodological, cross-national approach. J. Inf. Technol. Polit. 9 (2), 185–204.
+
+http://dx.doi.org/10.1080/19331681.2011.641495. Barrera, O., Guriev, S., Henry, E., Zhuravskaya, E., 2020. Facts, alternative facts, and fact checking in times of post-truth politics. J. Public Econ. 182, 104123.
+
+http://dx.doi.org/10.1016/j.jpubeco.2019.104123. Borusyak, K., Hull, P., 2023. Nonrandom exposure to exogenous shocks. Econometrica 91 (6), 2155–2185. http://dx.doi.org/10.3982/ECTA19367. Borusyak, K., Hull, P., Jaravel, X., 2022. Quasi-Experimental shift-share research designs. Rev. Econom. Stud. 89 (1), 181–213. http://dx.doi.org/10.1093/restud/
+
+rdab030. Bosch, T.E., Admire, M., Ncube, M., 2020. Facebook and politics in Africa: Zimbabwe and Kenya. Media Cult. Soc. 42 (3), 349–364. http://dx.doi.org/10.1177/
+
+0163443719895194. Boyer, P.C., Delemotte, T., Gauthier, G., Rollet, V., Schmutz, B., 2020. Social Media and the Dynamics of Protests. CESifo Working Paper Series 8326,
+
+http://dx.doi.org/10.2139/ssrn.3618851. Branton, R., Martinez-Ebers, V., Carey, Jr., T.E., Matsubayashi, T., 2015. Social protest and policy attitudes: The case of the 2006 immigrant rallies. Am. J. Polit.
+
+Sci. 59 (2), 390–402. http://dx.doi.org/10.1111/ajps.12159. Campante, F., Durante, R., Sobbrio, F., 2018. Politics 2.0: The multifaceted effect of broadband internet on political participation. J. Eur. Econom. Assoc. 16 (4),
+
+1094–1136. http://dx.doi.org/10.1093/jeea/jvx044. Cariolle, J., 2021. International connectivity and the digital divide in Sub-Saharan Africa. Inf. Econ. Policy 55, 100901. http://dx.doi.org/10.1016/j.infoecopol.
+
+2020.100901. Cariolle, J., Le Goff, M., 2023. Spatial internet spillovers in manufacturing. J. Dev. Stud. 59, 1163—-1186. http://dx.doi.org/10.1080/00220388.2023.2204177. Ceron, A., Memoli, V., 2016. Flames and debates: Do social media affect satisfaction with democracy? Soc. Indic. Res. 126 (1), 225–240. http://dx.doi.org/10.
+
+1007/s11205-015-0893-x. Chang, W.-C., 2018. Media use and satisfaction with democracy: Testing the role of political interest. Soc. Indic. Res. 140 (3), 999–1016. http://dx.doi.org/10.
+
+1007/s11205-017-1806-y. Chavula, J., Feamster, N., Bagula, A., Suleman, H., 2015. Quantifying the effects of circuitous routes on the latency of intra-africa internet traffic: A study
+
+of research and education networks. In: Nungu, A., Pehrson, B., Sansa-Otim, J. (Eds.), E-Infrastructure and E-Services for Developing Countries. Springer International Publishing, Cham, pp. 64–73. http://dx.doi.org/10.1007/978-3-319-16886-9_7. D’Andrea, A., Limodio, N., 2023. High-speed Internet, financial technology, and banking. Manage. Sci. http://dx.doi.org/10.1287/mnsc.2023.4703. Diamond, L., 2010. Liberation technology. J. Democr. 21 (3), 69–83. http://dx.doi.org/10.1353/jod.0.0190. Donati, D., 2023. Mobile internet access and political outcomes: Evidence from South Africa. J. Dev. Econ. 162, 103073. http://dx.doi.org/10.1016/j.jdeveco.
+
+2023.103073. Eichengreen, B., Lafarguette, R., Mehl, A., Minesso, M.F., 2023. Technology and the geography of the foreign exchange market. J. Int. Money Finance 131,
+
+102802. http://dx.doi.org/10.1016/j.jimonfin.2023.102802. El-Mallakh, N., 2020. How do protests affect electoral choices? Evidence from Egypt. J. Econ. Behav. Organ. 179, 299–322. http://dx.doi.org/10.1016/j.jebo.
+
+2020.09.005. Enikolopov, R., Makarin, A., Petrova, M., 2020. Social media and protest participation: Evidence from Russia. Econometrica 88 (4), 1479–1514. http:
+
+//dx.doi.org/10.3982/ECTA14281. Enikolopov, R., Petrova, M., Sonin, K., 2018. Social media and corruption. Am. Econ. J.: Appl. Econ. 10 (1), 150–174. http://dx.doi.org/10.1257/app.20160089. Evans, O., 2019. Digital politics: Internet and democracy in Africa. J. Econ. Stud. 46 (1), 169–191. http://dx.doi.org/10.1108/JES-08-2017-0234. Falck, O., Gold, R., Heblich, S., 2014. E-lections: Voting behavior and the Internet. Amer. Econ. Rev. 104 (7), 2238–2265. http://dx.doi.org/10.1257/aer.104.7.
+
+2238. Fanou, R., Valera, F., Dhamdhere, A., 2017. Investigating the causes of congestion on the African IXP substrate. In: Proceedings of the 2017 Internet Measurement
+
+Conference. IMC ’17, Association for Computing Machinery, New York, pp. 57–63. http://dx.doi.org/10.1145/3131365.3131394. Fergusson, L., Molina, C., 2019. Facebook causes protests. Documento CEDE No.41, http://dx.doi.org/10.2139/ssrn.3553514. Flynn, D.J., Nyhan, B., Reifler, J., 2017. The nature and origins of misperceptions: Understanding false and unsupported beliefs about politics. Polit. Psychol.
+
+38, 127–150. http://dx.doi.org/10.1111/pops.12394. Gavazza, A., Nardotto, M., Valletti, T., 2019. Internet and politics: Evidence from U.K. Local elections and local government policies. Rev. Econom. Stud. 86 (5),
+
+2092–2135. http://dx.doi.org/10.1093/restud/rdy028. Goldsmith-Pinkham, P., Sorkin, I., Swift, H., 2020. Bartik instruments: What, when, why, and how. Amer. Econ. Rev. 110 (8), 2586–2624. http://dx.doi.org/10.
+
+1257/aer.20181047. Gorman, S.P., Schintler, L., Kulkarni, R., Stough, R., 2004. The revenge of distance: Vulnerability analysis of critical information infrastructure. J. Contingencies
+
+Crisis Manage. 12 (2), 48–63. http://dx.doi.org/10.1111/j.0966-0879.2004.00435.x. Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B., Lazer, D., 2019. Fake news on Twitter during the 2016 U.S. presidential election. Science 363 (6425),
+
+374–378. http://dx.doi.org/10.1126/science.aau2706. Grubesic, T.H., Murray, A.T., 2006. Vital nodes, interconnected infrastructures, and the geographies of network survivability. Ann. Assoc. Amer. Geogr. 96 (1),
+
+64–83. http://dx.doi.org/10.1111/j.1467-8306.2006.00499.x. Grubesic, T.H., O’Kelly, M.E., Murray, A.T., 2003. A geographic perspective on commercial Internet survivability. Telemat. Inform. 20 (1), 51–69. http:
+
+//dx.doi.org/10.1016/S0736-5853(02)00003-5. GSMA, 2022. The Mobile Economy 2022. Technical Report, GSMA Association, URL https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/
+
+280222-The-Mobile-Economy-2022.pdf. Guiffard, J.-B., 2022. The Impact of Broadband Internet on Political Mobilization in Sub-Saharan Africa. Working paper, http://dx.doi.org/10.2139/ssrn.4247083. Guriev, S., Melnikov, N., Zhuravskaya, E., 2021. 3G internet and confidence in government. Q. J. Econ. 136 (4), 2533–2613. http://dx.doi.org/10.1093/qje/
+
+qjaa040.
+
+Journal of Comparative Economics 52 (2024) 400–433
+
+433
+
+J. Cariolle et al.
+
+Hatte, S., Loper, J., Taylor, T., 2023. Connecting the Unconnected: Facebook Access and Female Political Representation in Sub-Saharan Africa. Post-Print, HAL,
+
+https://EconPapers.repec.org/RePEc:hal:journl:hal-04310234. Henry, E., Zhuravskaya, E., Guriev, S., 2022. Checking and sharing alt-facts. Am. Econ. J.: Econ. Policy 14 (3), 55–86. http://dx.doi.org/10.1257/pol.20210037. Houngbonon, G.V., Mensah, J.T., Traore, N., 2022. The Impact of Internet Access on Innovation and Entrepreneurship in Africa. World Bank Policy Research
+
+Paper, doi: hdl.handle.net/10986/37059. Imbruno, M., Cariolle, J., De Melo, J., 2022. Digital connectivity and firm participation in foreign markets: An exporter-based bilateral analysis. CEPR Press
+
+Discussion Paper No. 17318, http://dx.doi.org/10.2139/ssrn.4169512. ITU, 2022. World telecommunication/ICT indicators database 2022. URL https://www.itu.int/en/ITU-D/Statistics/Pages/publications/wtid.aspx. Jha, C.K., Kodila-Tedika, O., 2020. Does social media promote democracy? Some empirical evidence. J. Policy Model. 42 (2), 271–290. http://dx.doi.org/10.
+
+1016/j.jpolmod.2019.05.010. Jones, J.J., Bond, R.M., Bakshy, E., Eckles, D., Fowler, J.H., 2017. Social influence and political mobilization: Further evidence from a randomized experiment
+
+in the 2012 U.S. Presidential election. PLoS One 12 (4), e0173851. http://dx.doi.org/10.1371/journal.pone.0173851. Keane, M., Neal, T., 2023. Instrument strength in IV estimation and inference: A guide to theory and practice. J. Econometrics 235, 1625–1653. http:
+
+//dx.doi.org/10.1016/j.jeconom.2022.12.009. Ketchley, N., El-Rayyes, T., 2021. Unpopular protest: Mass mobilization and attitudes to democracy in post-Mubarak Egypt. J. Polit. 83 (1), 291–305.
+
+http://dx.doi.org/10.1086/709298. Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., Hertwig, R., 2023. A systematic review of worldwide causal and correlational evidence on digital media and
+
+democracy. Nat. Hum. Behav. 7 (1), 74–101. http://dx.doi.org/10.1038/s41562-022-01460-1. Malecki, E.J., 2009. The economic geography of the Internet’s infrastructure. Econ. Geogr. 78 (4), 399–424. http://dx.doi.org/10.1111/j.1944-8287.2002.tb00193.
+
+x. Manacorda, M., Tesei, A., 2020. Liberation technology: Mobile Phones and political mobilization in Africa. Econometrica 88 (2), 533–567. http://dx.doi.org/10.
+
+3982/ECTA14392. Mazumder, S., 2018. The persistent effect of U.S. civil rights protests on political attitudes. Am. J. Polit. Sci. 62 (4), 922–935. http://dx.doi.org/10.1111/ajps.
+
+12384. Miner, L., 2015. The unintended consequences of internet diffusion: Evidence from Malaysia. J. Public Econ. 132, 66–78. http://dx.doi.org/10.1016/j.jpubeco.
+
+2015.10.002. Mocanu, D., Rossi, L., Zhang, Q., Karsai, M., Quattrociocchi, W., 2015. Collective attention in the age of (mis) information. Comput. Hum. Behav. 51, 1198–1204.
+
+http://dx.doi.org/10.1016/j.chb.2015.01.024. Olea, J.L.M., Pflueger, C., 2013. A robust test for weak instruments. J. Bus. Econom. Statist. 31 (3), 358–369. http://dx.doi.org/10.1080/00401706.2013.806694. Qin, B., Strömberg, D., Wu, Y., 2017. Why does China allow freer social media? Protests versus surveillance and propaganda. J. Econ. Perspect. 31 (1), 117–140.
+
+http://dx.doi.org/10.1257/jep.31.1.117. Qin, B., Strömberg, D., Wu, Y., 2021. Social Media and Collective Action in China. CEPR Working Paper, DP16731, http://dx.doi.org/10.2139/ssrn.3976832. Sangnier, M., Zylberberg, Y., 2017. Protests and trust in the state: Evidence from African countries. J. Public Econ. 152, 55–67. http://dx.doi.org/10.1016/j.
+
+jpubeco.2017.05.005. Schaub, M., Morisi, D., 2020. Voter mobilisation in the echo chamber: Broadband internet and the rise of populism in Europe. Eur. J. Polit. Res. 59 (4), 752–773.
+
+http://dx.doi.org/10.1111/1475-6765.12373. Schumann, R., Kende, M., 2013. Lifting Barriers to Internet Development in Africa: Suggestions for Improving Connectivity, vol. 9, Analysys Mason Lim ited, London, pp. 30–35, https://www.internetsociety.org/resources/doc/2013/lifting-barriers-to-internet-development-in-africa-suggestions-for-improvingconnectivity/. Tabellini, G., Manacorda, M., Tesei, A., 2023. Mobile Internet and the Rise of Communitarian Politics. CEPR Discussion Paper No. 18063, https://cepr.org/
+
+publications/dp18063. Telegeography, 2021. Submarine cable frequently asked questions, submarine cable 101. URL https://www2.telegeography.com/submarine-cable-faqs-frequently asked-questions. Tertytchnaya, K., Lankina, T., 2020. Electoral protests and political attitudes under electoral authoritarianism. J. Polit. 82 (1), 285–299. http://dx.doi.org/10.
+
+1086/705815. Tolbert, C.J., McNeal, R.S., 2003. Unraveling the effects of the internet on political participation? Polit. Res. Q. 56 (2), 175–185. http://dx.doi.org/10.2307/
+
+3219896. Tufekci, Z., 2017. Twitter and Tear Gas: The Power and Fragility of Networked Protest. Yale University Press, http://dx.doi.org/10.25969/mediarep/14848. Vosoughi, S., Roy, D., Aral, S., 2018. The spread of true and false news online. Science 359 (6380), 1146–1151. http://dx.doi.org/10.1126/science.aap9559. Wallace, S.J., Zepeda-Millán, C., Jones-Correa, M., 2014. Spatial and temporal proximity: Examining the effects of protests on political attitudes. Am. J. Polit.
+
+Sci. 58 (2), 433–448. http://dx.doi.org/10.1111/ajps.12060. Weller, D., Woodcock, B., 2013. Internet Traffic Exchange: Market Developments and Policy Challenges. OECD Digital Economy Papers, No. 207, http:
+
+//dx.doi.org/10.1787/5k918gpt130q-en. World Bank, 2018. World development indicators, individuals using the internet (% of population). URL https://data.worldbank.org/indicator/IT.NET.USER.ZS?
+
+name_desc=false. Zhuravskaya, E., Petrova, M., Enikolopov, R., 2020. Political effects of the internet and social media. Annu. Rev. Econ. 12 (1), 415–438. http://dx.doi.org/10.
+
+1146/annurev-economics-081919-050239.
