@@ -1,0 +1,262 @@
+ 
+1
+BRIDGE (FCT 2023.12063.PEX): 
+ SCOPING LITERATURE REVIEW CODEBOOK 
+ 
+Databases: SCOPUS, Google Scholar & APSA Preprints 
+Timeframe: since 1950-2025(June)  
+Questions the SLR aims to answer: How has the citizen–parliament relationship been 
+conceptualized and measured in existing literature, and what dimensions beyond trust and 
+satisfaction have been explored? 
+Variable Name 
+Values and Labels / Description 
+Study_ID 
+Unique alphanumeric identifier assigned to 
+each study (e.g., SLR001). 
+Coder_Initials 
+Initials of the coder responsible for data 
+extraction:  
+ 
+AM= Ana Matias  
+RO= Rui Oliveira 
+Author_LastNames 
+Last names of the authors as listed in the 
+publication. 
+Full_Citation 
+Complete bibliographic citation 
+Year_Publication 
+Year when the publication was published 
+(numeric). 
+Type_Publication 
+Type of publication:  
+ 
+(Single selection) 
+  
+1 = Article  
+2 = Report  
+3 = Thesis  
+4 = Book Chapter  
+5 = Other 
+Language 
+Language in which the publication is 
+written:  
+ 
+(Single selection)  
+ 
+1 = English  
+2 = Portuguese  
+3 = Spanish 
+Type_Publication/Study 
+(Single selection)  
+ 
+1 = Empirical  
+2 = Theoretical  
+ 
+Note: Clarification: Empirical articles are 
+those with clearly established data 
+collection and data analysis procedures 
+that aim at describing phenomena or/and 
+testing hypotheses/explanations/ 
+
+ 
+2
+arguments. Empirical articles are those 
+with clearly established data collection and 
+data analysis procedures that aim to 
+describe phenomena and/or test 
+hypotheses, explanations, or arguments. 
+This category also includes evidence 
+syntheses such as meta-analyses and 
+scoping reviews. (If in doubt, classify as 
+empirical when the study systematically 
+extracts or analyses data, even if 
+secondary). Theoretical articles focus on 
+concept definition and formation, and 
+theory building and normally do not 
+include empirical research. 
+Type_Parliament 
+Type of parliaments covered in the study  
+ 
+(Single selection)  
+ 
+1 = National  
+2 = Sub-national  
+3 = Both  
+98 = Unclear 
+Attitudes_MainFocus 
+Does the study focus primarily on 
+attitudes/perceptions/opinions towards 
+parliament?  
+ 
+(Single selection)  
+ 
+1 = Yes  
+2 = Partially  
+3 = No  
+98 = Unclear. 
+Research_Questions1  
+Research_Questions2… 
+As stated by the authors.  
+ 
+Note: Use 99='Not reported' if not present 
+or 98= 'Unclear' if ambiguous or 97= Not 
+applicable. 
+Behavioral_Engagement1 
+Behavioral_Engagement2… 
+Forms of citizen behavior toward 
+parliaments examined in the study? 
+ 
+(Multiple selection)  
+ 
+0 = None  
+1 = Petitioning (signing/submitting 
+petitions to parliament)  
+2 = Contacting MPs (letters, emails, 
+constituency visits)  
+3 = Voting in parliamentary elections 
+(when explicitly linked to parliamentary 
+representation)  
+
+ 
+3
+4 = Participation in formal 
+consultations/hearings (inquiries, public 
+submissions)  
+5 = Parliamentary visits/events (open days, 
+tours, educational activities)  
+6 = Social media engagement with 
+parliament (following, liking, commenting, 
+sharing)  
+7 = Consumption of parliamentary 
+information (watching debates, reading 
+official sites/reports)  
+8 = Protest/demonstration directed toward 
+parliament  
+9 = Other 
+Attitudinal_Engagement1 
+Attitudinal_Engagement2… 
+Attitudes and evaluations of citizens 
+toward parliaments examined in the study?  
+(Multiple selection) 
+0 = None 
+1 = Trust/confidence in parliament  
+2 = Satisfaction with parliament  
+3 = Perceived legitimacy of parliament  
+4 = Perceptions of responsiveness 
+(parliament listening/acting on citizens’ 
+concerns)  
+5 = Perceptions of accessibility/usability 
+(ease of understanding or interacting with 
+parliament)  
+6 = Identification/attachment to 
+parliament (sense of belonging, 
+representativeness)  
+7 = Perceived transparency/openness of 
+parliament  
+8 = Other  
+ 
+Note: Always code based on the 
+operational measure (the variable 
+measured), not the label the authors assign. 
+If it says confidence in parliament, treat 
+this as Trust, since “trust” and “confidence” 
+are conceptually interchangeable in the 
+literature (Norris, 2011). 
+Conceptual_Definition1 
+Conceptual_Definition2… 
+If possible, extract definitions to explore 
+how the main concepts are framed (in their 
+own words).  
+
+ 
+4
+(all that apply are selected)  
+Note: If authors are not clear about the 
+definitions they use, code as 98. This may 
+occur when authors present several 
+conceptualizations in a state-of-the-art 
+section without explicitly stating their own 
+definition. 
+Research_Design1 
+Research_Design2… 
+Applicable only for empirical studies (from 
+this point onward).  
+ 
+(Multiple choice, all that apply are selected) 
+  
+1 = Case-study (single case)  
+2 = Comparative (two or more cases)  
+3 = Experimental or quasi-experimental  
+4 = Evidence synthesis (meta-analysis, 
+scoping reviews) 
+Time_Frame 
+Time period analyzed. E.g., 2015–2020 or 
+99='Not reported'.  
+ 
+Note: It might be a point in time (e.g. 
+“2008”), or a period (e.g. 2009-2020). 
+  
+When the time periods differ between 
+descriptive and multivariate analyses, for 
+instance, record the longest time frame. 
+Country 
+Country. If multiple countries, separate 
+with semicolons. 
+Data_Collection_Techniques1 
+Data_Collection_Techniques2… 
+Research techniques used to collect data:  
+ 
+(Multiple choice, all that apply are selected)  
+ 
+1 = Surveys  
+2 = Interviews  
+3 = Focus groups  
+4 = Ethnography  
+5 = Content analysis  
+6 = Experimental surveys  
+7= Secondary data extraction (meta-
+analysis, scoping reviews)  
+8 = Other 
+Data_Source 
+ 
+Data Sources  
+ 
+(Single choice)  
+ 
+1 = Primary  
+2 = Secondary  
+3 = Mixed  
+
+ 
+5
+99 = Not Reported. 
+Data_Analysis1 
+Data_Analysis2 
+Data Analysis  
+ 
+(Multiple choice, all that apply are selected) 
+  
+1= Quantitative (descriptive, bivariate, 
+statistical aggregation) 
+2= Quantitative (statistical modelling, 
+regression analysis, computer assisted text 
+analysis)  
+3= Qualitative (content analysis, discourse 
+analysis, ethnographic methods, 
+interviews, qualitative synthesis)  
+4= Quantitative and qualitative 
+Key_Findings 
+Brief summary of main findings relevant to 
+citizens' attitudes or views of parliaments 
+(Check the conclusion and what authors 
+highlight as the main findings). 
+Notes_Comments 
+Any additional comments, coding 
+difficulties, or points of clarification. 
+ 
+Standard values/labels to use across all variables: 
+To ensure inter-coder consistency, always use the following terms when applicable: 
+99 = Not Reported – If the information is missing or not discussed. 
+98 = Unclear – If the information is presented ambiguously. 
+97= Not Applicable – If the variable does not apply to the specific study. 
+ 

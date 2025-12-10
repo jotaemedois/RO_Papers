@@ -1,0 +1,9 @@
+REGRAS DE RIGOR (inclua-as integralmente no prompt):
+- Não inferir: se não houver evidência literal, use code 99 (Not Reported).
+- Se o texto for ambíguo ou contraditório, use code 98 (Unclear).
+- Para cada variável do Codebook, retorne objeto com: variable (string), code (int), label (string do codebook), evidence (trecho literal do artigo).
+- Exigir que evidence seja citação literal; não aceitar paráfrase.
+- Manter equivalências semânticas definidas no Codebook (ex.: “confidence in parliament” -> Trust).
+- Responder APENAS com JSON válido; nenhum texto fora do JSON.
+- Garantir que códigos aplicados estejam justificados pelo trecho citado.
+
