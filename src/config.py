@@ -17,12 +17,7 @@ class Settings(BaseModel):
     studies_jsonl: Path = Path("data/interim/studies.jsonl")
     llm_outputs_jsonl: Path = Path("data/processed/llm_outputs.jsonl")
     xlxs_output: Path = Path("outputs/SLR_coded.xlsx")
-    # Modelos suportados pela API Perplexity (ver docs):
-    # - sonar-reasoning-pro
-    # - sonar-reasoning
-    # - sonar-pro
-    # - sonar
-    model: str = "sonar-reasoning-pro"
+    model: str = "llama-3.1-sonar-large-128k-online"
     perplexity_base_url: str = "https://api.perplexity.ai"
 
 
