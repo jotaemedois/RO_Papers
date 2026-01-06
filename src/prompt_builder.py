@@ -11,10 +11,15 @@ from models import StudyRecord
 
 
 def build_prompt(study: StudyRecord, codebook_text: str, rigor_rules: str) -> str:
-    # Usa apenas full_text, não as sections parseadas
-    # Envia o texto completo sem limitação
-    full_text = study.full_text
-    
+    sections = study.sections
+    body = "\n\n".join(
+        [
+            f"ABSTRACT:\n{sections.abstract}",
+            f"METHODS:\n{sections.methods}",
+            f"RESULTS:\n{sections.results}",
+            f"CONCLUSION:\n{sections.conclusion}",
+        ]
+    )
     return f"""
 You are an academic coding assistant. Follow the Codebook and Rigor Script exactly.
 - Do NOT infer; quote literal evidence for every code.
@@ -30,7 +35,7 @@ RIGOR RULES:
 {rigor_rules}
 
 ARTICLE TEXT:
-{full_text}
+{body}
 """.strip()
 
 

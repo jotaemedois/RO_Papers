@@ -23,10 +23,10 @@ class StudyRecord(BaseModel):
 
 class VariableCode(BaseModel):
     variable: str
-    code: int
-    label: str
-    evidence: str = Field(
-        ...,
+    code: int | str | None = None  # Aceita int, str ou None para flexibilidade
+    label: str | None = None  # Aceita None caso o LLM não retorne label
+    evidence: str | None = Field(
+        default=None,
         description="Trecho literal do artigo que justifica o código aplicado.",
     )
 
